@@ -1,0 +1,1632 @@
+{
+    "Actor": [
+        {
+            "first_label": "Fredric March",
+            "second_label": "The Best Years of Our Lives",
+            "category": "Actor",
+            "year": 1947,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Laurence Olivier",
+            "second_label": "Henry V",
+            "category": "Actor",
+            "year": 1947,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Larry Parks",
+            "second_label": "The Jolson Story",
+            "category": "Actor",
+            "year": 1947,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gregory Peck",
+            "second_label": "The Yearling",
+            "category": "Actor",
+            "year": 1947,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "James Stewart",
+            "second_label": "It's a Wonderful Life",
+            "category": "Actor",
+            "year": 1947,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Harold Russell",
+            "second_label": "The Best Years of Our Lives",
+            "category": "Actor in a Supporting Role",
+            "year": 1947,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Charles Coburn",
+            "second_label": "The Green Years",
+            "category": "Actor in a Supporting Role",
+            "year": 1947,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "William Demarest",
+            "second_label": "The Jolson Story",
+            "category": "Actor in a Supporting Role",
+            "year": 1947,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Claude Rains",
+            "second_label": "Notorious",
+            "category": "Actor in a Supporting Role",
+            "year": 1947,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Clifton Webb",
+            "second_label": "The Razor's Edge",
+            "category": "Actor in a Supporting Role",
+            "year": 1947,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress": [
+        {
+            "first_label": "Olivia de Havilland",
+            "second_label": "To Each His Own",
+            "category": "Actress",
+            "year": 1947,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Celia Johnson",
+            "second_label": "Brief Encounter",
+            "category": "Actress",
+            "year": 1947,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jennifer Jones",
+            "second_label": "Duel in the Sun",
+            "category": "Actress",
+            "year": 1947,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rosalind Russell",
+            "second_label": "Sister Kenny",
+            "category": "Actress",
+            "year": 1947,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jane Wyman",
+            "second_label": "The Yearling",
+            "category": "Actress",
+            "year": 1947,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Anne Baxter",
+            "second_label": "The Razor's Edge",
+            "category": "Actress in a Supporting Role",
+            "year": 1947,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Ethel Barrymore",
+            "second_label": "The Spiral Staircase",
+            "category": "Actress in a Supporting Role",
+            "year": 1947,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lillian Gish",
+            "second_label": "Duel in the Sun",
+            "category": "Actress in a Supporting Role",
+            "year": 1947,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Flora Robson",
+            "second_label": "Saratoga Trunk",
+            "category": "Actress in a Supporting Role",
+            "year": 1947,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gale Sondergaard",
+            "second_label": "Anna and the King of Siam",
+            "category": "Actress in a Supporting Role",
+            "year": 1947,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction (Black-and-White)": [
+        {
+            "first_label": "Anna and the King of Siam",
+            "second_label": "Art Direction: Lyle Wheeler, William Darling; Interior Decoration: Thomas Little, Frank E. Hughes",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1947,
+            "tmdb": {
+                "id": 43471,
+                "original_title": "Anna and the King of Siam",
+                "title": "Anna e o Rei do Si\u00e3o",
+                "release_date": "1946-08-11",
+                "backdrop_path": "/wcuLN4VaPWb59Q0l9edUjmqQuW4.jpg",
+                "poster_path": "/6OdzIxV0nF0W7GNv5wMQWDyzye5.jpg",
+                "overview": "Em 1862, uma jovem inglesa torna-se Tutora Real no Si\u00e3o e faz amizade com o Rei. Refilmado em 'O Rei e Eu (1956)'. (e 10 - Estimado 10 Anos)",
+                "vote_average": 6.0,
+                "vote_count": 34
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Kitty",
+            "second_label": "Art Direction: Hans Dreier, Walter Tyler; Interior Decoration: Sam Comer, Ray Moyer",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1947,
+            "tmdb": {
+                "id": 121159,
+                "original_title": "Kitty Kornered",
+                "title": "Kitty Kornered",
+                "release_date": "1946-06-08",
+                "backdrop_path": "/4NQ1D9iNH3y0Lis7gmjYMh87nif.jpg",
+                "poster_path": "/hiiPNdaA9VEfLEPBz64rY37VBfm.jpg",
+                "overview": "Porky puts his cats out in the snow, but then they put him out and have a party. Expelling them again, Porky goes to bed, only to be terrorized by the felines' mock Martian invasion.",
+                "vote_average": 6.9,
+                "vote_count": 32
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Razor's Edge",
+            "second_label": "Art Direction: Richard Day, Nathan Juran; Interior Decoration: Thomas Little, Paul S. Fox",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1947,
+            "tmdb": {
+                "id": 56135,
+                "original_title": "The Razor's Edge",
+                "title": "O Fio da Navalha",
+                "release_date": "1946-11-19",
+                "backdrop_path": "/7P319Zq0RwYsAHmSjLndcOSW9kl.jpg",
+                "poster_path": "/a6UTn8J0dftf4YBID6qAf1UeZEx.jpg",
+                "overview": "Um jovem Bem-de-Vida de Chicago, Larry Darrell, rompe seu noivado com Isabel e viaja pelo mundo em busca da ilumina\u00e7\u00e3o. Acaba encontrando o seu guru na \u00cdndia. Isabel se casa com Gray, e na sequ\u00eancia da crise de 1929, \u00e9 convidada a viver em Paris com seu rico tio Elliot, um alpinista social. Durante uma temporada em Paris, Larry, tendo alcan\u00e7ado seu objetivo, est\u00e1 junto com Isabel. Quando numa noite resolvem passear por um bairro barra pesada. Larry, Isabel e acompanhantes ficam chocados ao descobrir Sophie, uma amiga de Chicago. Depois de ter perdido o marido e filho em um tr\u00e1gico acidente, Sophie est\u00e1 vivendo uma vida de submundo, com a ajuda de drogas e de um homem bruto e abusivo. Larry tenta reabilita-la, mas seus esfor\u00e7os s\u00e3o sabotados por Isabel, que tenta em v\u00e3o reacender o interesse de Larry por ela.",
+                "vote_average": 6.8,
+                "vote_count": 77
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction (Color)": [
+        {
+            "first_label": "The Yearling",
+            "second_label": "Art Direction: Cedric Gibbons, Paul Groesse; Interior Decoration: Edwin B. Willis",
+            "category": "Art Direction (Color)",
+            "year": 1947,
+            "tmdb": {
+                "id": 19049,
+                "original_title": "The Yearling",
+                "title": "Virtude Selvagem",
+                "release_date": "1946-12-18",
+                "backdrop_path": "/tj6Un3zhB9KWcPYjMqGSaOnH0YQ.jpg",
+                "poster_path": "/r9zz60nlfi9ALEaLepW2BJh5GEh.jpg",
+                "overview": "Ap\u00f3s a Guerra Civil Americana, um soldado rebelde e sua esposa se \u200b\u200btornam agricultores pioneiros na Fl\u00f3rida. Seu filho Jody est\u00e1 com 11 anos de idade e se d\u00e1 bem com seu caloroso e afetuoso pai, mas sua m\u00e3e \u00e9 assombrado pela morte de seus outros filhos, ent\u00e3o ela \u00e9 sombria, fria mesmo. O menino quer um animal de estima\u00e7\u00e3o e o pai \u00e9 simp\u00e1tico mas a m\u00e3e \u00e9 contra. Quando uma cascavel morde o pai, ele mata uma cor\u00e7a para usar seus \u00f3rg\u00e3os para extrair o veneno. Jody implora para manter o filhote da cor\u00e7a como animal de estima\u00e7\u00e3o. Os pais concordam, e o menino e o veado logo ficam insepar\u00e1veis. O filhote cresce rapidamente, e com um ano de idade j\u00e1 atropela brotos de tabaco e come o milho rec\u00e9m-germinado. Isso \u00e9 demais para m\u00e3e, e Jody tem de enfrentar a realidade de adultos agressivos.",
+                "vote_average": 6.5,
+                "vote_count": 86
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Caesar and Cleopatra",
+            "second_label": "John Bryan",
+            "category": "Art Direction (Color)",
+            "year": 1947,
+            "tmdb": {
+                "id": 31561,
+                "original_title": "Caesar and Cleopatra",
+                "title": "C\u00e9sar e Cle\u00f3patra",
+                "release_date": "1945-12-11",
+                "backdrop_path": "/ifbCrCs1GjyOu46CVGVVVlyA8yi.jpg",
+                "poster_path": "/sZHFk8miCUDzSloPn919ODqlWEA.jpg",
+                "overview": "The aging Caesar finds himself intrigued by the young Egyptian queen. Adapted by George Bernard Shaw from his own play.",
+                "vote_average": 6.2,
+                "vote_count": 51
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Henry V",
+            "second_label": "Art Direction: Paul Sheriff, Carmen Dillon",
+            "category": "Art Direction (Color)",
+            "year": 1947,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography (Black-and-White)": [
+        {
+            "first_label": "Anna and the King of Siam",
+            "second_label": "Arthur Miller",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1947,
+            "tmdb": {
+                "id": 43471,
+                "original_title": "Anna and the King of Siam",
+                "title": "Anna e o Rei do Si\u00e3o",
+                "release_date": "1946-08-11",
+                "backdrop_path": "/wcuLN4VaPWb59Q0l9edUjmqQuW4.jpg",
+                "poster_path": "/6OdzIxV0nF0W7GNv5wMQWDyzye5.jpg",
+                "overview": "Em 1862, uma jovem inglesa torna-se Tutora Real no Si\u00e3o e faz amizade com o Rei. Refilmado em 'O Rei e Eu (1956)'. (e 10 - Estimado 10 Anos)",
+                "vote_average": 6.0,
+                "vote_count": 34
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Green Years",
+            "second_label": "George Folsey",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1947,
+            "tmdb": {
+                "id": 99351,
+                "original_title": "The Green Years",
+                "title": "Anos de Ternura",
+                "release_date": "1946-07-04",
+                "backdrop_path": "/9OmLo1a5kQ6EfJkAb5Z7Rw3ExjQ.jpg",
+                "poster_path": "/sD8tUj5O9zrOHbgovQoKFM9VdRw.jpg",
+                "overview": "An orphaned young boy is guided by his great-grandfather and strives to go to university to become a doctor. However, the boy's harsh grandfather stands in his way.",
+                "vote_average": 6.2,
+                "vote_count": 12
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography (Color)": [
+        {
+            "first_label": "The Yearling",
+            "second_label": "Charles Rosher, Leonard Smith, Arthur Arling",
+            "category": "Cinematography (Color)",
+            "year": 1947,
+            "tmdb": {
+                "id": 19049,
+                "original_title": "The Yearling",
+                "title": "Virtude Selvagem",
+                "release_date": "1946-12-18",
+                "backdrop_path": "/tj6Un3zhB9KWcPYjMqGSaOnH0YQ.jpg",
+                "poster_path": "/r9zz60nlfi9ALEaLepW2BJh5GEh.jpg",
+                "overview": "Ap\u00f3s a Guerra Civil Americana, um soldado rebelde e sua esposa se \u200b\u200btornam agricultores pioneiros na Fl\u00f3rida. Seu filho Jody est\u00e1 com 11 anos de idade e se d\u00e1 bem com seu caloroso e afetuoso pai, mas sua m\u00e3e \u00e9 assombrado pela morte de seus outros filhos, ent\u00e3o ela \u00e9 sombria, fria mesmo. O menino quer um animal de estima\u00e7\u00e3o e o pai \u00e9 simp\u00e1tico mas a m\u00e3e \u00e9 contra. Quando uma cascavel morde o pai, ele mata uma cor\u00e7a para usar seus \u00f3rg\u00e3os para extrair o veneno. Jody implora para manter o filhote da cor\u00e7a como animal de estima\u00e7\u00e3o. Os pais concordam, e o menino e o veado logo ficam insepar\u00e1veis. O filhote cresce rapidamente, e com um ano de idade j\u00e1 atropela brotos de tabaco e come o milho rec\u00e9m-germinado. Isso \u00e9 demais para m\u00e3e, e Jody tem de enfrentar a realidade de adultos agressivos.",
+                "vote_average": 6.5,
+                "vote_count": 86
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Jolson Story",
+            "second_label": "Joseph Walker",
+            "category": "Cinematography (Color)",
+            "year": 1947,
+            "tmdb": {
+                "id": 31206,
+                "original_title": "The Jolson Story",
+                "title": "Sonhos Dourados",
+                "release_date": "1946-10-10",
+                "backdrop_path": "/bRn2ATb4gzCs5a4bLvLQhl0UUz6.jpg",
+                "poster_path": "/TA8OqACOphikMD16HLeohJqPk.jpg",
+                "overview": "Washington, in\u00edcio do s\u00e9culo XX. Garoto judeu prefere cantar a seguir os estudos religiosos, conforme desejo de seu pai. Torna-se artista do vaudeville, encanta-se com o jazz, junta-se a uma companhia de blackface, casa-se com uma n\u00e3o judia, atinge o estrelato, deixa crescer o ego, estraga a vida... mas n\u00e3o abandona o show biz.",
+                "vote_average": 6.7,
+                "vote_count": 16
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "The Best Years of Our Lives",
+            "second_label": "William Wyler",
+            "category": "Directing",
+            "year": 1947,
+            "tmdb": {
+                "id": 887,
+                "original_title": "The Best Years of Our Lives",
+                "title": "Os Melhores Anos de Nossas Vidas",
+                "release_date": "1946-12-25",
+                "backdrop_path": "/nCl5KzxUs4rVVlAdixDf4r5AbbZ.jpg",
+                "poster_path": "/lgVHQE0fUHTd8Tgo2uIDQ2Lk0S3.jpg",
+                "overview": "Ap\u00f3s a Segunda Guerra, 3 militares retornam aos seus lares e tentam se readaptar \u00e0 sociedade. O maior cl\u00e1ssico de guerra dos anos 40, este comovente e ainda atual\u00edssimo filme, com roteiro de Robert Sherwood e a dire\u00e7\u00e3o de Willian Wyller foi grande sucesso de bilheteria sendo vencedor de 7 Oscars.",
+                "vote_average": 7.787,
+                "vote_count": 605
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Brief Encounter",
+            "second_label": "David Lean",
+            "category": "Directing",
+            "year": 1947,
+            "tmdb": {
+                "id": 851,
+                "original_title": "Brief Encounter",
+                "title": "Desencanto",
+                "release_date": "1945-11-24",
+                "backdrop_path": "/vKvoOlhhaZCsiGQDvaZQqyGq1oA.jpg",
+                "poster_path": "/z02oc9sMEMePtjT0URPDi0GvJIP.jpg",
+                "overview": "Laura (Celia Johnson) e Alec (Trevor Howard) se conhecem por acaso em uma esta\u00e7\u00e3o de trem, quando ele remove um cisco do olho dela. Ele \u00e9 um m\u00e9dico, ela \u00e9 uma dona de casa. Ambos s\u00e3o de classe m\u00e9dia, t\u00eam meia-idade e s\u00e3o razoavelmente felizes em seus casamentos. Em pouco tempo passam a se encontrar todas as quintas-feiras, mas apenas como bons amigos. Gradativamente surge uma paix\u00e3o m\u00fatua e eles continuam a se encontrar regularmente, apesar de saberem que este amor \u00e9 imposs\u00edvel.",
+                "vote_average": 7.679,
+                "vote_count": 574
+            },
+            "winner": false
+        },
+        {
+            "first_label": "It's a Wonderful Life",
+            "second_label": "Frank Capra",
+            "category": "Directing",
+            "year": 1947,
+            "tmdb": {
+                "id": 1585,
+                "original_title": "It's a Wonderful Life",
+                "title": "A Felicidade N\u00e3o Se Compra",
+                "release_date": "1946-12-20",
+                "backdrop_path": "/ch3lDc4xQ9MpsNEpnRhvR8PIxxK.jpg",
+                "poster_path": "/qG9zRteY6d0VyZKvoXoSHetEF9C.jpg",
+                "overview": "Em Bedford Falls, no Natal, George Bailey, que sempre ajudou a todos, pensa em se suicidar saltando de uma ponte, em raz\u00e3o das maquina\u00e7\u00f5es de Henry Potter, o homem mais rico da regi\u00e3o. Mas tantas pessoas oram por ele que Clarence, um anjo que espera h\u00e1 220 anos para ganhar asas, \u00e9 mandado \u00e0 Terra para tentar fazer George mudar de ideia, mostrando sua import\u00e2ncia para todos atrav\u00e9s de flashbacks.",
+                "vote_average": 8.27,
+                "vote_count": 4085
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Killers",
+            "second_label": "Robert Siodmak",
+            "category": "Directing",
+            "year": 1947,
+            "tmdb": {
+                "id": 14638,
+                "original_title": "The Killers",
+                "title": "Os Assassinos",
+                "release_date": "1946-08-30",
+                "backdrop_path": "/eHntkxgTcLHxYCTusHNJndwDkpV.jpg",
+                "poster_path": "/uXnuc6pW01s1MDwb6QwBWg2JQeX.jpg",
+                "overview": "Pistoleiros matam uma v\u00edtima que n\u00e3o resiste, e o investigador Reardon descobre seu envolvimento passado com a bela e mortal Kitty Collins.  Dois assassinos profissionais invadem uma pequena cidade e matam um atendente de posto de gasolina, \"o sueco\", que os espera sem opor nenhuma resist\u00eancia. O investigador de seguros Reardon investiga o caso contra as ordens de seu chefe, que considera o caso trivial. Juntando os fios da vida do sueco, Reardon descobre uma complexa hist\u00f3ria de trai\u00e7\u00e3o e crime, tudo ligando com a deslumbrante e misteriosa Kitty Collins.",
+                "vote_average": 7.3,
+                "vote_count": 360
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Yearling",
+            "second_label": "Clarence Brown",
+            "category": "Directing",
+            "year": 1947,
+            "tmdb": {
+                "id": 19049,
+                "original_title": "The Yearling",
+                "title": "Virtude Selvagem",
+                "release_date": "1946-12-18",
+                "backdrop_path": "/tj6Un3zhB9KWcPYjMqGSaOnH0YQ.jpg",
+                "poster_path": "/r9zz60nlfi9ALEaLepW2BJh5GEh.jpg",
+                "overview": "Ap\u00f3s a Guerra Civil Americana, um soldado rebelde e sua esposa se \u200b\u200btornam agricultores pioneiros na Fl\u00f3rida. Seu filho Jody est\u00e1 com 11 anos de idade e se d\u00e1 bem com seu caloroso e afetuoso pai, mas sua m\u00e3e \u00e9 assombrado pela morte de seus outros filhos, ent\u00e3o ela \u00e9 sombria, fria mesmo. O menino quer um animal de estima\u00e7\u00e3o e o pai \u00e9 simp\u00e1tico mas a m\u00e3e \u00e9 contra. Quando uma cascavel morde o pai, ele mata uma cor\u00e7a para usar seus \u00f3rg\u00e3os para extrair o veneno. Jody implora para manter o filhote da cor\u00e7a como animal de estima\u00e7\u00e3o. Os pais concordam, e o menino e o veado logo ficam insepar\u00e1veis. O filhote cresce rapidamente, e com um ano de idade j\u00e1 atropela brotos de tabaco e come o milho rec\u00e9m-germinado. Isso \u00e9 demais para m\u00e3e, e Jody tem de enfrentar a realidade de adultos agressivos.",
+                "vote_average": 6.5,
+                "vote_count": 86
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "Seeds of Destiny",
+            "second_label": "United States Department of War",
+            "category": "Documentary (Short Subject)",
+            "year": 1947,
+            "tmdb": {
+                "id": 240417,
+                "original_title": "Seeds of Destiny",
+                "title": "Seeds of Destiny",
+                "release_date": "1946-01-01",
+                "backdrop_path": "/ezRe8WdVQt9l4ZxaSHowtMzlENi.jpg",
+                "poster_path": "/44GbzIQaJLiGaBHGxIHfjRF2Rsz.jpg",
+                "overview": "Oscar winning postwar propaganda film in support of the United Nations Relief and Rehabilitation Administration. Strident but poignant, focusing on children. The film surveys the Nazi/Japanese atrocities, post-war devastation and the early relief efforts. This film was responsible for raising over $200,000,000, making it a top moneymaking film.",
+                "vote_average": 6.0,
+                "vote_count": 6
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Atomic Power",
+            "second_label": "The March of Time",
+            "category": "Documentary (Short Subject)",
+            "year": 1947,
+            "tmdb": {
+                "id": 240418,
+                "original_title": "Atomic Power!",
+                "title": "Atomic Power!",
+                "release_date": "1946-08-09",
+                "backdrop_path": null,
+                "poster_path": "/fvtaQFPDnQmwkjmDq75itMp6EjK.jpg",
+                "overview": "Atomic Power! is an American short documentary film produced by The March of Time and released to theaters August 9, 1946, one year after the end of World War II. It is a recreation of the making of the atomic bomb leading up to the Trinity test. It was nominated for an Academy Award for Best Documentary Short.",
+                "vote_average": 6.0,
+                "vote_count": 1
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Life at the Zoo",
+            "second_label": "Artkino",
+            "category": "Documentary (Short Subject)",
+            "year": 1947,
+            "tmdb": {
+                "id": 240419,
+                "original_title": "\u0416\u0438\u0437\u043d\u044c \u0432 \u0437\u043e\u043e\u043f\u0430\u0440\u043a\u0435",
+                "title": "Life at the Zoo",
+                "release_date": "1946-01-01",
+                "backdrop_path": null,
+                "poster_path": "/vGDe2y0HscgAHadH5OW1YSdWqf8.jpg",
+                "overview": "Oscar nominated 1946 short documentary",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Paramount News Issue #37 (Twentieth Anniversary Issue!  1927.....1947)",
+            "second_label": "Paramount",
+            "category": "Documentary (Short Subject)",
+            "year": 1947,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Traffic with the Devil",
+            "second_label": "Herbert Morgan, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1947,
+            "tmdb": {
+                "id": 240422,
+                "original_title": "Traffic with the Devil",
+                "title": "Traffic with the Devil",
+                "release_date": "1946-08-31",
+                "backdrop_path": null,
+                "poster_path": "/gVSmz3nAEn7J0FkN2GRXhShlbNf.jpg",
+                "overview": "This \"Theater of Life\" series short looks at traffic problems in Los Angeles, California, as described and experienced by Sgt. Charles Reineke, a traffic enforcement officer with the Los Angeles Police Department.",
+                "vote_average": 6.3,
+                "vote_count": 7
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "The Best Years of Our Lives",
+            "second_label": "Daniel Mandell",
+            "category": "Film Editing",
+            "year": 1947,
+            "tmdb": {
+                "id": 887,
+                "original_title": "The Best Years of Our Lives",
+                "title": "Os Melhores Anos de Nossas Vidas",
+                "release_date": "1946-12-25",
+                "backdrop_path": "/nCl5KzxUs4rVVlAdixDf4r5AbbZ.jpg",
+                "poster_path": "/lgVHQE0fUHTd8Tgo2uIDQ2Lk0S3.jpg",
+                "overview": "Ap\u00f3s a Segunda Guerra, 3 militares retornam aos seus lares e tentam se readaptar \u00e0 sociedade. O maior cl\u00e1ssico de guerra dos anos 40, este comovente e ainda atual\u00edssimo filme, com roteiro de Robert Sherwood e a dire\u00e7\u00e3o de Willian Wyller foi grande sucesso de bilheteria sendo vencedor de 7 Oscars.",
+                "vote_average": 7.787,
+                "vote_count": 605
+            },
+            "winner": true
+        },
+        {
+            "first_label": "It's a Wonderful Life",
+            "second_label": "William Hornbeck",
+            "category": "Film Editing",
+            "year": 1947,
+            "tmdb": {
+                "id": 1585,
+                "original_title": "It's a Wonderful Life",
+                "title": "A Felicidade N\u00e3o Se Compra",
+                "release_date": "1946-12-20",
+                "backdrop_path": "/ch3lDc4xQ9MpsNEpnRhvR8PIxxK.jpg",
+                "poster_path": "/qG9zRteY6d0VyZKvoXoSHetEF9C.jpg",
+                "overview": "Em Bedford Falls, no Natal, George Bailey, que sempre ajudou a todos, pensa em se suicidar saltando de uma ponte, em raz\u00e3o das maquina\u00e7\u00f5es de Henry Potter, o homem mais rico da regi\u00e3o. Mas tantas pessoas oram por ele que Clarence, um anjo que espera h\u00e1 220 anos para ganhar asas, \u00e9 mandado \u00e0 Terra para tentar fazer George mudar de ideia, mostrando sua import\u00e2ncia para todos atrav\u00e9s de flashbacks.",
+                "vote_average": 8.27,
+                "vote_count": 4085
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Jolson Story",
+            "second_label": "William Lyon",
+            "category": "Film Editing",
+            "year": 1947,
+            "tmdb": {
+                "id": 31206,
+                "original_title": "The Jolson Story",
+                "title": "Sonhos Dourados",
+                "release_date": "1946-10-10",
+                "backdrop_path": "/bRn2ATb4gzCs5a4bLvLQhl0UUz6.jpg",
+                "poster_path": "/TA8OqACOphikMD16HLeohJqPk.jpg",
+                "overview": "Washington, in\u00edcio do s\u00e9culo XX. Garoto judeu prefere cantar a seguir os estudos religiosos, conforme desejo de seu pai. Torna-se artista do vaudeville, encanta-se com o jazz, junta-se a uma companhia de blackface, casa-se com uma n\u00e3o judia, atinge o estrelato, deixa crescer o ego, estraga a vida... mas n\u00e3o abandona o show biz.",
+                "vote_average": 6.7,
+                "vote_count": 16
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Killers",
+            "second_label": "Arthur Hilton",
+            "category": "Film Editing",
+            "year": 1947,
+            "tmdb": {
+                "id": 14638,
+                "original_title": "The Killers",
+                "title": "Os Assassinos",
+                "release_date": "1946-08-30",
+                "backdrop_path": "/eHntkxgTcLHxYCTusHNJndwDkpV.jpg",
+                "poster_path": "/uXnuc6pW01s1MDwb6QwBWg2JQeX.jpg",
+                "overview": "Pistoleiros matam uma v\u00edtima que n\u00e3o resiste, e o investigador Reardon descobre seu envolvimento passado com a bela e mortal Kitty Collins.  Dois assassinos profissionais invadem uma pequena cidade e matam um atendente de posto de gasolina, \"o sueco\", que os espera sem opor nenhuma resist\u00eancia. O investigador de seguros Reardon investiga o caso contra as ordens de seu chefe, que considera o caso trivial. Juntando os fios da vida do sueco, Reardon descobre uma complexa hist\u00f3ria de trai\u00e7\u00e3o e crime, tudo ligando com a deslumbrante e misteriosa Kitty Collins.",
+                "vote_average": 7.3,
+                "vote_count": 360
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Yearling",
+            "second_label": "Harold Kress",
+            "category": "Film Editing",
+            "year": 1947,
+            "tmdb": {
+                "id": 19049,
+                "original_title": "The Yearling",
+                "title": "Virtude Selvagem",
+                "release_date": "1946-12-18",
+                "backdrop_path": "/tj6Un3zhB9KWcPYjMqGSaOnH0YQ.jpg",
+                "poster_path": "/r9zz60nlfi9ALEaLepW2BJh5GEh.jpg",
+                "overview": "Ap\u00f3s a Guerra Civil Americana, um soldado rebelde e sua esposa se \u200b\u200btornam agricultores pioneiros na Fl\u00f3rida. Seu filho Jody est\u00e1 com 11 anos de idade e se d\u00e1 bem com seu caloroso e afetuoso pai, mas sua m\u00e3e \u00e9 assombrado pela morte de seus outros filhos, ent\u00e3o ela \u00e9 sombria, fria mesmo. O menino quer um animal de estima\u00e7\u00e3o e o pai \u00e9 simp\u00e1tico mas a m\u00e3e \u00e9 contra. Quando uma cascavel morde o pai, ele mata uma cor\u00e7a para usar seus \u00f3rg\u00e3os para extrair o veneno. Jody implora para manter o filhote da cor\u00e7a como animal de estima\u00e7\u00e3o. Os pais concordam, e o menino e o veado logo ficam insepar\u00e1veis. O filhote cresce rapidamente, e com um ano de idade j\u00e1 atropela brotos de tabaco e come o milho rec\u00e9m-germinado. Isso \u00e9 demais para m\u00e3e, e Jody tem de enfrentar a realidade de adultos agressivos.",
+                "vote_average": 6.5,
+                "vote_count": 86
+            },
+            "winner": false
+        }
+    ],
+    "Irving G. Thalberg Memorial Award": [
+        {
+            "first_label": "",
+            "second_label": "Samuel Goldwyn",
+            "category": "Irving G. Thalberg Memorial Award",
+            "year": 1947,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        }
+    ],
+    "Music (Music Score of a Dramatic or Comedy Picture)": [
+        {
+            "first_label": "The Best Years of Our Lives",
+            "second_label": "Hugo Friedhofer",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1947,
+            "tmdb": {
+                "id": 887,
+                "original_title": "The Best Years of Our Lives",
+                "title": "Os Melhores Anos de Nossas Vidas",
+                "release_date": "1946-12-25",
+                "backdrop_path": "/nCl5KzxUs4rVVlAdixDf4r5AbbZ.jpg",
+                "poster_path": "/lgVHQE0fUHTd8Tgo2uIDQ2Lk0S3.jpg",
+                "overview": "Ap\u00f3s a Segunda Guerra, 3 militares retornam aos seus lares e tentam se readaptar \u00e0 sociedade. O maior cl\u00e1ssico de guerra dos anos 40, este comovente e ainda atual\u00edssimo filme, com roteiro de Robert Sherwood e a dire\u00e7\u00e3o de Willian Wyller foi grande sucesso de bilheteria sendo vencedor de 7 Oscars.",
+                "vote_average": 7.787,
+                "vote_count": 605
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Anna and the King of Siam",
+            "second_label": "Bernard Herrmann",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1947,
+            "tmdb": {
+                "id": 43471,
+                "original_title": "Anna and the King of Siam",
+                "title": "Anna e o Rei do Si\u00e3o",
+                "release_date": "1946-08-11",
+                "backdrop_path": "/wcuLN4VaPWb59Q0l9edUjmqQuW4.jpg",
+                "poster_path": "/6OdzIxV0nF0W7GNv5wMQWDyzye5.jpg",
+                "overview": "Em 1862, uma jovem inglesa torna-se Tutora Real no Si\u00e3o e faz amizade com o Rei. Refilmado em 'O Rei e Eu (1956)'. (e 10 - Estimado 10 Anos)",
+                "vote_average": 6.0,
+                "vote_count": 34
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Henry V",
+            "second_label": "William Walton",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1947,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Humoresque",
+            "second_label": "Franz Waxman",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1947,
+            "tmdb": {
+                "id": 26701,
+                "original_title": "Humoresque",
+                "title": "Acordes do Cora\u00e7\u00e3o",
+                "release_date": "1947-01-25",
+                "backdrop_path": "/7QF0dKP4Wa25867qjqmy8HMgAzD.jpg",
+                "poster_path": "/tJCIfxap0C7maxpjKtzNrj29dHW.jpg",
+                "overview": "A classical musician from a working class background is sidetracked by his love for a wealthy, neurotic socialite.",
+                "vote_average": 7.1,
+                "vote_count": 55
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Killers",
+            "second_label": "Miklos Rozsa",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1947,
+            "tmdb": {
+                "id": 14638,
+                "original_title": "The Killers",
+                "title": "Os Assassinos",
+                "release_date": "1946-08-30",
+                "backdrop_path": "/eHntkxgTcLHxYCTusHNJndwDkpV.jpg",
+                "poster_path": "/uXnuc6pW01s1MDwb6QwBWg2JQeX.jpg",
+                "overview": "Pistoleiros matam uma v\u00edtima que n\u00e3o resiste, e o investigador Reardon descobre seu envolvimento passado com a bela e mortal Kitty Collins.  Dois assassinos profissionais invadem uma pequena cidade e matam um atendente de posto de gasolina, \"o sueco\", que os espera sem opor nenhuma resist\u00eancia. O investigador de seguros Reardon investiga o caso contra as ordens de seu chefe, que considera o caso trivial. Juntando os fios da vida do sueco, Reardon descobre uma complexa hist\u00f3ria de trai\u00e7\u00e3o e crime, tudo ligando com a deslumbrante e misteriosa Kitty Collins.",
+                "vote_average": 7.3,
+                "vote_count": 360
+            },
+            "winner": false
+        }
+    ],
+    "Music (Scoring of a Musical Picture)": [
+        {
+            "first_label": "The Jolson Story",
+            "second_label": "Morris Stoloff",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1947,
+            "tmdb": {
+                "id": 31206,
+                "original_title": "The Jolson Story",
+                "title": "Sonhos Dourados",
+                "release_date": "1946-10-10",
+                "backdrop_path": "/bRn2ATb4gzCs5a4bLvLQhl0UUz6.jpg",
+                "poster_path": "/TA8OqACOphikMD16HLeohJqPk.jpg",
+                "overview": "Washington, in\u00edcio do s\u00e9culo XX. Garoto judeu prefere cantar a seguir os estudos religiosos, conforme desejo de seu pai. Torna-se artista do vaudeville, encanta-se com o jazz, junta-se a uma companhia de blackface, casa-se com uma n\u00e3o judia, atinge o estrelato, deixa crescer o ego, estraga a vida... mas n\u00e3o abandona o show biz.",
+                "vote_average": 6.7,
+                "vote_count": 16
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Blue Skies",
+            "second_label": "Robert Emmett Dolan",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1947,
+            "tmdb": {
+                "id": 53446,
+                "original_title": "Blue Skies",
+                "title": "Romance Inacabado",
+                "release_date": "1946-10-15",
+                "backdrop_path": "/wXlJlcjcuCf3pTJS656qRA0xH3k.jpg",
+                "poster_path": "/uPNmCJliNheRdHkemlq82QfqPex.jpg",
+                "overview": "Jed Potter looks back on a love triangle conducted over the course of years and between musical numbers. Dancer Jed loves showgirl Mary, who loves compulsive nightclub-opener Johnny, who can't stay committed to anything in life for very long.",
+                "vote_average": 6.0,
+                "vote_count": 25
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Centennial Summer",
+            "second_label": "Alfred Newman",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1947,
+            "tmdb": {
+                "id": 118908,
+                "original_title": "Centennial Summer",
+                "title": "Centennial Summer",
+                "release_date": "1946-07-10",
+                "backdrop_path": "/xhrIY16rl83Hb8k8nmqdn6ttKfO.jpg",
+                "poster_path": "/aNVL84a8PPzwMdez4gwDXRoKKw4.jpg",
+                "overview": "In 1876 Philadelphia, two sisters vie for the affections of a Frenchman who's come to town to prepare the French pavilion for the Centennial exposition.",
+                "vote_average": 6.0,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Harvey Girls",
+            "second_label": "Lennie Hayton",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1947,
+            "tmdb": {
+                "id": 28907,
+                "original_title": "The Harvey Girls",
+                "title": "As Gar\u00e7onetes de Harvey",
+                "release_date": "1946-01-18",
+                "backdrop_path": "/kC4AOQAvk9g6oybMpniplAiKkbw.jpg",
+                "poster_path": "/jk38rtmtxoLkHDLjLP7u7QhfkRH.jpg",
+                "overview": "Ao desembarcar no Novo M\u00e9xico, Susan Bradley descobre que seu futuro marido \u00e9 o b\u00eabado da cidade. Ao inv\u00e9s de sentar e chorar, ela arranja um emprego no restaurante Harvey House, um estabelecimento empenhado em levar um pouco de civilidade e classe \u00e0quele fim de mundo. As atividades de Harvey encontram a oposi\u00e7\u00e3o de Ned Trent, dono do saloon, de Sam Purvis, um juiz corrupto, e de Em, dan\u00e7arina apaixonada por Ned. Com o aux\u00edlio do inexperiente Chris Maule, Susan e demais colegas de trabalho lutam para frustrar os planos dos escroques.",
+                "vote_average": 6.6,
+                "vote_count": 45
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Night and Day",
+            "second_label": "Ray Heindorf, Max Steiner",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1947,
+            "tmdb": {
+                "id": 43485,
+                "original_title": "Night and Day",
+                "title": "Can\u00e7\u00e3o Inesquec\u00edvel",
+                "release_date": "1946-07-02",
+                "backdrop_path": "/35kwCFM9tNu9Y5AlvSDSYGSkXXg.jpg",
+                "poster_path": "/mrlKsBUxPwxGr8M8xupI96qrA8j.jpg",
+                "overview": "Porter, um rico e sofisticado herdeiro, decide servir na Primeira Guerra Mundial como enfermeiro de ambul\u00e2ncias. L\u00e1 ele encontra Linda Lee, que se tornar\u00e1 sua esposa, servindo como enfermeira. Depois da guerra, sua atividade na Broadway permite mostrar uma sequ\u00eancia de belas can\u00e7\u00f5es, como Just One of Those Things, You're the Top e a m\u00fasica t\u00edtulo.",
+                "vote_average": 5.7,
+                "vote_count": 29
+            },
+            "winner": false
+        }
+    ],
+    "Music (Song)": [
+        {
+            "first_label": "The Harvey Girls",
+            "second_label": "On The Atchison, Topeka And The Santa Fe in \"The Harvey Girls\" Music by Harry Warren; Lyrics by Johnny Mercer",
+            "category": "Music (Song)",
+            "year": 1947,
+            "tmdb": {
+                "id": 28907,
+                "original_title": "The Harvey Girls",
+                "title": "As Gar\u00e7onetes de Harvey",
+                "release_date": "1946-01-18",
+                "backdrop_path": "/kC4AOQAvk9g6oybMpniplAiKkbw.jpg",
+                "poster_path": "/jk38rtmtxoLkHDLjLP7u7QhfkRH.jpg",
+                "overview": "Ao desembarcar no Novo M\u00e9xico, Susan Bradley descobre que seu futuro marido \u00e9 o b\u00eabado da cidade. Ao inv\u00e9s de sentar e chorar, ela arranja um emprego no restaurante Harvey House, um estabelecimento empenhado em levar um pouco de civilidade e classe \u00e0quele fim de mundo. As atividades de Harvey encontram a oposi\u00e7\u00e3o de Ned Trent, dono do saloon, de Sam Purvis, um juiz corrupto, e de Em, dan\u00e7arina apaixonada por Ned. Com o aux\u00edlio do inexperiente Chris Maule, Susan e demais colegas de trabalho lutam para frustrar os planos dos escroques.",
+                "vote_average": 6.6,
+                "vote_count": 45
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Centennial Summer",
+            "second_label": "All Through The Day in \"Centennial Summer\" Music by Jerome Kern; Lyrics by Oscar Hammerstein II",
+            "category": "Music (Song)",
+            "year": 1947,
+            "tmdb": {
+                "id": 118908,
+                "original_title": "Centennial Summer",
+                "title": "Centennial Summer",
+                "release_date": "1946-07-10",
+                "backdrop_path": "/xhrIY16rl83Hb8k8nmqdn6ttKfO.jpg",
+                "poster_path": "/aNVL84a8PPzwMdez4gwDXRoKKw4.jpg",
+                "overview": "In 1876 Philadelphia, two sisters vie for the affections of a Frenchman who's come to town to prepare the French pavilion for the Centennial exposition.",
+                "vote_average": 6.0,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Dolly Sisters",
+            "second_label": "I Can't Begin To Tell You in \"The Dolly Sisters\" Music by James Monaco; Lyrics by Mack Gordon",
+            "category": "Music (Song)",
+            "year": 1947,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Canyon Passage",
+            "second_label": "Ole Buttermilk Sky in \"Canyon Passage\" Music by Hoagy Carmichael; Lyrics by Jack Brooks",
+            "category": "Music (Song)",
+            "year": 1947,
+            "tmdb": {
+                "id": 37309,
+                "original_title": "Canyon Passage",
+                "title": "Paix\u00e3o Selvagem",
+                "release_date": "1946-07-17",
+                "backdrop_path": "/vBvnDzuMdiPZcvUWSqaBGWYOoda.jpg",
+                "poster_path": "/iy925DFFwjDAk4Lz4r5FrnCWYTZ.jpg",
+                "overview": "O homem de neg\u00f3cios, Logan Stuart (Dana Andrews), est\u00e1 escoltando a noiva de seu amigo, Lucy Overmire (Susan Hayward), de volta para sua casa na distante cidade de Jacksonville, no Oregon. No trajeto de sua dura jornada Lucy se sente atra\u00edda por Logan cujo cora\u00e7\u00e3o parece pertencer a outra pessoa.",
+                "vote_average": 6.6,
+                "vote_count": 56
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Blue Skies",
+            "second_label": "You Keep Coming Back Like A Song in \"Blue Skies\" Music and Lyrics by Irving Berlin",
+            "category": "Music (Song)",
+            "year": 1947,
+            "tmdb": {
+                "id": 53446,
+                "original_title": "Blue Skies",
+                "title": "Romance Inacabado",
+                "release_date": "1946-10-15",
+                "backdrop_path": "/wXlJlcjcuCf3pTJS656qRA0xH3k.jpg",
+                "poster_path": "/uPNmCJliNheRdHkemlq82QfqPex.jpg",
+                "overview": "Jed Potter looks back on a love triangle conducted over the course of years and between musical numbers. Dancer Jed loves showgirl Mary, who loves compulsive nightclub-opener Johnny, who can't stay committed to anything in life for very long.",
+                "vote_average": 6.0,
+                "vote_count": 25
+            },
+            "winner": false
+        }
+    ],
+    "Best Motion Picture": [
+        {
+            "first_label": "The Best Years of Our Lives",
+            "second_label": "Samuel Goldwyn Productions",
+            "category": "Best Motion Picture",
+            "year": 1947,
+            "tmdb": {
+                "id": 887,
+                "original_title": "The Best Years of Our Lives",
+                "title": "Os Melhores Anos de Nossas Vidas",
+                "release_date": "1946-12-25",
+                "backdrop_path": "/nCl5KzxUs4rVVlAdixDf4r5AbbZ.jpg",
+                "poster_path": "/lgVHQE0fUHTd8Tgo2uIDQ2Lk0S3.jpg",
+                "overview": "Ap\u00f3s a Segunda Guerra, 3 militares retornam aos seus lares e tentam se readaptar \u00e0 sociedade. O maior cl\u00e1ssico de guerra dos anos 40, este comovente e ainda atual\u00edssimo filme, com roteiro de Robert Sherwood e a dire\u00e7\u00e3o de Willian Wyller foi grande sucesso de bilheteria sendo vencedor de 7 Oscars.",
+                "vote_average": 7.787,
+                "vote_count": 605
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Henry V",
+            "second_label": "J. Arthur Rank-Two Cities Films",
+            "category": "Best Motion Picture",
+            "year": 1947,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "It's a Wonderful Life",
+            "second_label": "Liberty Films",
+            "category": "Best Motion Picture",
+            "year": 1947,
+            "tmdb": {
+                "id": 1585,
+                "original_title": "It's a Wonderful Life",
+                "title": "A Felicidade N\u00e3o Se Compra",
+                "release_date": "1946-12-20",
+                "backdrop_path": "/ch3lDc4xQ9MpsNEpnRhvR8PIxxK.jpg",
+                "poster_path": "/qG9zRteY6d0VyZKvoXoSHetEF9C.jpg",
+                "overview": "Em Bedford Falls, no Natal, George Bailey, que sempre ajudou a todos, pensa em se suicidar saltando de uma ponte, em raz\u00e3o das maquina\u00e7\u00f5es de Henry Potter, o homem mais rico da regi\u00e3o. Mas tantas pessoas oram por ele que Clarence, um anjo que espera h\u00e1 220 anos para ganhar asas, \u00e9 mandado \u00e0 Terra para tentar fazer George mudar de ideia, mostrando sua import\u00e2ncia para todos atrav\u00e9s de flashbacks.",
+                "vote_average": 8.27,
+                "vote_count": 4085
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Razor's Edge",
+            "second_label": "20th Century-Fox",
+            "category": "Best Motion Picture",
+            "year": 1947,
+            "tmdb": {
+                "id": 56135,
+                "original_title": "The Razor's Edge",
+                "title": "O Fio da Navalha",
+                "release_date": "1946-11-19",
+                "backdrop_path": "/7P319Zq0RwYsAHmSjLndcOSW9kl.jpg",
+                "poster_path": "/a6UTn8J0dftf4YBID6qAf1UeZEx.jpg",
+                "overview": "Um jovem Bem-de-Vida de Chicago, Larry Darrell, rompe seu noivado com Isabel e viaja pelo mundo em busca da ilumina\u00e7\u00e3o. Acaba encontrando o seu guru na \u00cdndia. Isabel se casa com Gray, e na sequ\u00eancia da crise de 1929, \u00e9 convidada a viver em Paris com seu rico tio Elliot, um alpinista social. Durante uma temporada em Paris, Larry, tendo alcan\u00e7ado seu objetivo, est\u00e1 junto com Isabel. Quando numa noite resolvem passear por um bairro barra pesada. Larry, Isabel e acompanhantes ficam chocados ao descobrir Sophie, uma amiga de Chicago. Depois de ter perdido o marido e filho em um tr\u00e1gico acidente, Sophie est\u00e1 vivendo uma vida de submundo, com a ajuda de drogas e de um homem bruto e abusivo. Larry tenta reabilita-la, mas seus esfor\u00e7os s\u00e3o sabotados por Isabel, que tenta em v\u00e3o reacender o interesse de Larry por ela.",
+                "vote_average": 6.8,
+                "vote_count": 77
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Yearling",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Best Motion Picture",
+            "year": 1947,
+            "tmdb": {
+                "id": 19049,
+                "original_title": "The Yearling",
+                "title": "Virtude Selvagem",
+                "release_date": "1946-12-18",
+                "backdrop_path": "/tj6Un3zhB9KWcPYjMqGSaOnH0YQ.jpg",
+                "poster_path": "/r9zz60nlfi9ALEaLepW2BJh5GEh.jpg",
+                "overview": "Ap\u00f3s a Guerra Civil Americana, um soldado rebelde e sua esposa se \u200b\u200btornam agricultores pioneiros na Fl\u00f3rida. Seu filho Jody est\u00e1 com 11 anos de idade e se d\u00e1 bem com seu caloroso e afetuoso pai, mas sua m\u00e3e \u00e9 assombrado pela morte de seus outros filhos, ent\u00e3o ela \u00e9 sombria, fria mesmo. O menino quer um animal de estima\u00e7\u00e3o e o pai \u00e9 simp\u00e1tico mas a m\u00e3e \u00e9 contra. Quando uma cascavel morde o pai, ele mata uma cor\u00e7a para usar seus \u00f3rg\u00e3os para extrair o veneno. Jody implora para manter o filhote da cor\u00e7a como animal de estima\u00e7\u00e3o. Os pais concordam, e o menino e o veado logo ficam insepar\u00e1veis. O filhote cresce rapidamente, e com um ano de idade j\u00e1 atropela brotos de tabaco e come o milho rec\u00e9m-germinado. Isso \u00e9 demais para m\u00e3e, e Jody tem de enfrentar a realidade de adultos agressivos.",
+                "vote_average": 6.5,
+                "vote_count": 86
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Cartoon)": [
+        {
+            "first_label": "The Cat Concerto",
+            "second_label": "Frederick Quimby, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1947,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Chopin's Musical Moments",
+            "second_label": "Walter Lantz, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1947,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "John Henry and the Inky Poo",
+            "second_label": "George Pal, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1947,
+            "tmdb": {
+                "id": 237065,
+                "original_title": "John Henry and the Inky-Poo",
+                "title": "John Henry and the Inky-Poo",
+                "release_date": "1946-09-06",
+                "backdrop_path": null,
+                "poster_path": "/qAGZlHcV2eTluxJ5R9gUve63Qbh.jpg",
+                "overview": "In this Puppetoon animated short film (an Academy Award Best Short Subject, Cartoons nominee), legendary American folklore figure John Henry (voice of Rex Ingram) goes to work for the C&O Railroad, which shortly thereafter buys an automatic steel-driving engine, The Inky-Poo. John Henry matches his strength against the engine, saying that any man can beat a machine because a man has a mind. Can he prevail? In 2015 this film, deemed \"culturally, historically, or aesthetically significant\", was selected for preservation in the United States National Film Registry.  Preserved by the Academy Film Archive in partnership with UCLA Film & Television Archive in 2009.",
+                "vote_average": 6.0,
+                "vote_count": 16
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Squatter's Rights",
+            "second_label": "Walt Disney, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1947,
+            "tmdb": {
+                "id": 68512,
+                "original_title": "Squatter's Rights",
+                "title": "Squatter's Rights",
+                "release_date": "1946-06-07",
+                "backdrop_path": "/3syZETcvUujdM4MiEMWOcQz3gws.jpg",
+                "poster_path": "/gndvemCE0VlZCgwR3q6ugIkeJGz.jpg",
+                "overview": "Two chipmunks have made a cozy little home for themselves in the wood-burning stove of an empty cabin. They sleep in a matchbox, wash up in an empty acorn shell filled with water and look at their reflections on the back of a spoon, which serves as their bathroom mirror. They even have a staircase made with a pocket comb. Invading their space are Mickey Mouse and his dog Pluto, who are all set for a swell vacation. They don't reckon on the two squatters. Pluto immediately discovers the presence of these two pests, but Mickey never finds out. All he knows is that when he tries to light the stove, the matches go out; he doesn't know the chipmunks are blowing them out. Soon, Mickey is outside chopping wood, while Pluto is alone with the chipmunks. Pluto wants blood, but he'll end up with a bottle of ketchup.",
+                "vote_average": 7.2,
+                "vote_count": 16
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Walky Talky Hawky",
+            "second_label": "Edward Selzer, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1947,
+            "tmdb": {
+                "id": 100388,
+                "original_title": "Walky Talky Hawky",
+                "title": "Walky Talky Hawky",
+                "release_date": "1946-08-31",
+                "backdrop_path": "/k2N1QX0LIgIZ7Qq7WYGWCLoYZxz.jpg",
+                "poster_path": "/mAQ29TvmJGkEFSxnIEtXvUYgZW0.jpg",
+                "overview": "Young Henery Hawk's father regretfully admits their family's shame: they hunt and eat chickens. Henery set off to find one, and comes across Foghorn Leghorn, where the loudmouth rooster is engaged in his favorite pastime, playing tricks on grumpy Barnyard Dog.",
+                "vote_average": 7.0,
+                "vote_count": 29
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (One-reel)": [
+        {
+            "first_label": "Facing Your Danger",
+            "second_label": "Gordon Hollingshead, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1947,
+            "tmdb": {
+                "id": 240410,
+                "original_title": "Facing Your Danger",
+                "title": "Facing Your Danger",
+                "release_date": "1946-05-11",
+                "backdrop_path": "/vGI66VU5EZntZ3UvjzlorTRw8kt.jpg",
+                "poster_path": "/bJFl77KVCAt7PS7FMWtPsdqsKoK.jpg",
+                "overview": "This Warner Bros. The Sports Parade series short chronicles the attempt by a group of men to navigate the Colorado River through the Grand Canyon to Lake Mead. Led by Norman D. Nevills, nine men undertake a nineteen days trip in three specially built rowboats through the more than 200 rapids, some which run at 30 mph. Along the way, they see the remnants of previous expeditions. They also visit abandoned Pueblo Indian cave dwellings.",
+                "vote_average": 5.9,
+                "vote_count": 7
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Dive-Hi Champs",
+            "second_label": "Jack Eaton, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1947,
+            "tmdb": {
+                "id": 240411,
+                "original_title": "Dive-Hi Champs",
+                "title": "Dive-Hi Champs",
+                "release_date": "1946-11-01",
+                "backdrop_path": null,
+                "poster_path": "/xsThgaKL4mwvooNNjy5GBoeaCU7.jpg",
+                "overview": "Dive-Hi Champs is a 1946 short documentary film, a Grantland Rice Sportlight segment from Paramount Studios and Jack Eaton featuring a cavalcade of diving highlights, from youngsters at the local swimming hole to athletes jumping from giant earth-moving equipment in the Panama Canal. It was  nominated for an Oscar for Best Live Action Short Film, One-Reel.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Golden Horses",
+            "second_label": "Edmund Reek, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1947,
+            "tmdb": {
+                "id": 240414,
+                "original_title": "Golden Horses",
+                "title": "Golden Horses",
+                "release_date": "1946-01-01",
+                "backdrop_path": null,
+                "poster_path": "/ean46mx5M1ugvgKFIoBcypjtxhS.jpg",
+                "overview": "Golden Horses is a 1946 English language short film directed by Tom Cummiskey, starring Ed Thorgersen. It has been nominated for an Oscar for Best Live-Action Short, One-Reel.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Smart as a Fox",
+            "second_label": "Gordon Hollingshead, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1947,
+            "tmdb": {
+                "id": 240415,
+                "original_title": "Smart as a Fox",
+                "title": "Smart as a Fox",
+                "release_date": "1946-04-27",
+                "backdrop_path": null,
+                "poster_path": "/2RM4usvCpopX9duyrygTKw5X3Zz.jpg",
+                "overview": "Smart as a Fox is a 1946 short documentary film supervised by Gordon Hollingshead. In this short film, a fox cub experiences life in the forest. It was nominated for an Oscar for Best Live Action Short, One-Reel.",
+                "vote_average": 5.0,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sure Cures",
+            "second_label": "Pete Smith, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1947,
+            "tmdb": {
+                "id": 240416,
+                "original_title": "Sure Cures",
+                "title": "Sure Cures",
+                "release_date": "1946-11-02",
+                "backdrop_path": "/xFAly2sW5HiSB7mRdyFsR9V6tN4.jpg",
+                "poster_path": "/liCfvC2Ictvt0K890SSxXVoNw7g.jpg",
+                "overview": "This comedic Pete Smith Specialty short examines the folly of using \"home remedies\" for various ills.",
+                "vote_average": 5.0,
+                "vote_count": 4
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Two-reel)": [
+        {
+            "first_label": "A Boy and His Dog",
+            "second_label": "Gordon Hollingshead, Producer",
+            "category": "Short Subject (Two-reel)",
+            "year": 1947,
+            "tmdb": {
+                "id": 240406,
+                "original_title": "A Boy and His Dog",
+                "title": "A Boy and His Dog",
+                "release_date": "1946-12-26",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "11 year old Davy discovers that a chained gentle dog, Buck, is badly wounded around the neck because of the thick, tight collar he is made to constantly wear by his unfeeling owner. When Buck comes through the fence and becomes stuck, Davy removes the collar. Even though the boy tells him to stay in his owner's yard, the dog follows him home.",
+                "vote_average": 5.3,
+                "vote_count": 11
+            },
+            "winner": true
+        },
+        {
+            "first_label": "College Queen",
+            "second_label": "George B. Templeton, Producer",
+            "category": "Short Subject (Two-reel)",
+            "year": 1947,
+            "tmdb": {
+                "id": 240408,
+                "original_title": "College Queen",
+                "title": "College Queen",
+                "release_date": "1946-05-17",
+                "backdrop_path": null,
+                "poster_path": "/oZXkfDmPW7DVRC9dHiHvZhgS5Yh.jpg",
+                "overview": "Tom Cannon, a tap-dancer senior at State University sets out to find a College Queen for the upcoming competition. He selects Cindy Harris, a girl who is working her way through college as a waitress and can sing and dance. They win and she is named College Queen. Songs include \"I'm Learning a Lot in College\" and \"Down the Old Ox Road.\"",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hiss and Yell",
+            "second_label": "Jules White, Producer",
+            "category": "Short Subject (Two-reel)",
+            "year": 1947,
+            "tmdb": {
+                "id": 240409,
+                "original_title": "Hiss and Yell",
+                "title": "Hiss and Yell",
+                "release_date": "1946-02-14",
+                "backdrop_path": "/zIV12C9F26F2hUAd47cXi0SwnVE.jpg",
+                "poster_path": "/eryFV5JnuSAYuRIoJ5i6dN9rioe.jpg",
+                "overview": "Vera thinks she's witnessed a man decapitating his wife. Actually, she's only seen magician Bluebeard the Great rehearsing his act. Still convinced that the magician is a killer, Vera goes through all sorts of comic agony when she is forced to share the same train compartment with Bluebeard (who doesn't help matters when he offers her a sandwich consisting of \"scrambled brains and tongue\").",
+                "vote_average": 3.0,
+                "vote_count": 2
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Luckiest Guy in the World",
+            "second_label": "Jerry Bresler, Producer",
+            "category": "Short Subject (Two-reel)",
+            "year": 1947,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Sound Recording": [
+        {
+            "first_label": "The Jolson Story",
+            "second_label": "Columbia Studio Sound Department, John Livadary, Sound Director",
+            "category": "Sound Recording",
+            "year": 1947,
+            "tmdb": {
+                "id": 31206,
+                "original_title": "The Jolson Story",
+                "title": "Sonhos Dourados",
+                "release_date": "1946-10-10",
+                "backdrop_path": "/bRn2ATb4gzCs5a4bLvLQhl0UUz6.jpg",
+                "poster_path": "/TA8OqACOphikMD16HLeohJqPk.jpg",
+                "overview": "Washington, in\u00edcio do s\u00e9culo XX. Garoto judeu prefere cantar a seguir os estudos religiosos, conforme desejo de seu pai. Torna-se artista do vaudeville, encanta-se com o jazz, junta-se a uma companhia de blackface, casa-se com uma n\u00e3o judia, atinge o estrelato, deixa crescer o ego, estraga a vida... mas n\u00e3o abandona o show biz.",
+                "vote_average": 6.7,
+                "vote_count": 16
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Best Years of Our Lives",
+            "second_label": "Samuel Goldwyn Studio Sound Department, Gordon Sawyer, Sound Director",
+            "category": "Sound Recording",
+            "year": 1947,
+            "tmdb": {
+                "id": 887,
+                "original_title": "The Best Years of Our Lives",
+                "title": "Os Melhores Anos de Nossas Vidas",
+                "release_date": "1946-12-25",
+                "backdrop_path": "/nCl5KzxUs4rVVlAdixDf4r5AbbZ.jpg",
+                "poster_path": "/lgVHQE0fUHTd8Tgo2uIDQ2Lk0S3.jpg",
+                "overview": "Ap\u00f3s a Segunda Guerra, 3 militares retornam aos seus lares e tentam se readaptar \u00e0 sociedade. O maior cl\u00e1ssico de guerra dos anos 40, este comovente e ainda atual\u00edssimo filme, com roteiro de Robert Sherwood e a dire\u00e7\u00e3o de Willian Wyller foi grande sucesso de bilheteria sendo vencedor de 7 Oscars.",
+                "vote_average": 7.787,
+                "vote_count": 605
+            },
+            "winner": false
+        },
+        {
+            "first_label": "It's a Wonderful Life",
+            "second_label": "RKO Radio Studio Sound Department, John Aalberg, Sound Director",
+            "category": "Sound Recording",
+            "year": 1947,
+            "tmdb": {
+                "id": 1585,
+                "original_title": "It's a Wonderful Life",
+                "title": "A Felicidade N\u00e3o Se Compra",
+                "release_date": "1946-12-20",
+                "backdrop_path": "/ch3lDc4xQ9MpsNEpnRhvR8PIxxK.jpg",
+                "poster_path": "/qG9zRteY6d0VyZKvoXoSHetEF9C.jpg",
+                "overview": "Em Bedford Falls, no Natal, George Bailey, que sempre ajudou a todos, pensa em se suicidar saltando de uma ponte, em raz\u00e3o das maquina\u00e7\u00f5es de Henry Potter, o homem mais rico da regi\u00e3o. Mas tantas pessoas oram por ele que Clarence, um anjo que espera h\u00e1 220 anos para ganhar asas, \u00e9 mandado \u00e0 Terra para tentar fazer George mudar de ideia, mostrando sua import\u00e2ncia para todos atrav\u00e9s de flashbacks.",
+                "vote_average": 8.27,
+                "vote_count": 4085
+            },
+            "winner": false
+        }
+    ],
+    "Special Award": [
+        {
+            "first_label": "The Best Years of Our Lives",
+            "second_label": "Special Award",
+            "category": "Special Award",
+            "year": 1947,
+            "tmdb": {
+                "id": 887,
+                "original_title": "The Best Years of Our Lives",
+                "title": "Os Melhores Anos de Nossas Vidas",
+                "release_date": "1946-12-25",
+                "backdrop_path": "/nCl5KzxUs4rVVlAdixDf4r5AbbZ.jpg",
+                "poster_path": "/lgVHQE0fUHTd8Tgo2uIDQ2Lk0S3.jpg",
+                "overview": "Ap\u00f3s a Segunda Guerra, 3 militares retornam aos seus lares e tentam se readaptar \u00e0 sociedade. O maior cl\u00e1ssico de guerra dos anos 40, este comovente e ainda atual\u00edssimo filme, com roteiro de Robert Sherwood e a dire\u00e7\u00e3o de Willian Wyller foi grande sucesso de bilheteria sendo vencedor de 7 Oscars.",
+                "vote_average": 7.787,
+                "vote_count": 605
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Henry V",
+            "second_label": "Special Award",
+            "category": "Special Award",
+            "year": 1947,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Special Effects": [
+        {
+            "first_label": "Blithe Spirit",
+            "second_label": "Special Visual Effects by Thomas Howard",
+            "category": "Special Effects",
+            "year": 1947,
+            "tmdb": {
+                "id": 19072,
+                "original_title": "Blithe Spirit",
+                "title": "Uma Mulher do Outro Mundo",
+                "release_date": "1945-04-05",
+                "backdrop_path": "/mp5q3F8rq5mGR3TtKgEJ8fTpqUc.jpg",
+                "poster_path": "/mBKB90yS8Gti4QhcYGuUeJmeOoC.jpg",
+                "overview": "Adaptado de uma pe\u00e7a de Noel Coward, Charles e sua segunda esposa Ruth, s\u00e3o assombrados pelo fantasma de sua primeira esposa, Elvira. A Medium Madame Arcati tenta ajudar as coisas entrando em contato com o fantasma.  Para obter ideias para um novo livro, o escritor Charles e sua ing\u00eanua segunda esposa Ruth, marcam com a m\u00edstica Madame Arcati, uma sess\u00e3o esp\u00edrita. O resultado infeliz \u00e9 que a primeira esposa de Charles, Elvira, retorna do al\u00e9m-t\u00famulo para fazer de sua vida uma mis\u00e9ria. Ruth tamb\u00e9m fica cada vez mais irritado com sua rival sobrenatural, mas Madame Arcati \u00e9 quem no final, com sua sagacidade, consegue resolver as coisas.",
+                "vote_average": 7.0,
+                "vote_count": 128
+            },
+            "winner": true
+        },
+        {
+            "first_label": "A Stolen Life",
+            "second_label": "Special Visual Effects by William McGann; Special Audible Effects by Nathan Levinson",
+            "category": "Special Effects",
+            "year": 1947,
+            "tmdb": {
+                "id": 43470,
+                "original_title": "A Stolen Life",
+                "title": "Uma Vida Roubada",
+                "release_date": "1946-05-01",
+                "backdrop_path": "/fJRSfSobrZL2mVVNhGPgS36IWid.jpg",
+                "poster_path": "/zwa3EVAc4dvq1G3WTAL9FBFGNCD.jpg",
+                "overview": "A twin takes her deceased sister's place as wife of the man they both love.",
+                "vote_average": 6.6,
+                "vote_count": 42
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Original Motion Picture Story)": [
+        {
+            "first_label": "Vacation from Marriage",
+            "second_label": "Clemence Dane",
+            "category": "Writing (Original Motion Picture Story)",
+            "year": 1947,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Dark Mirror",
+            "second_label": "Vladimir Pozner",
+            "category": "Writing (Original Motion Picture Story)",
+            "year": 1947,
+            "tmdb": {
+                "id": 44041,
+                "original_title": "The Dark Mirror",
+                "title": "Espelho d'Alma",
+                "release_date": "1946-10-17",
+                "backdrop_path": "/n6HcY2ZV8WYXGPKOBKE9cwhXhgR.jpg",
+                "poster_path": "/alPmSztgFvIBcslKnPVtp14tlkF.jpg",
+                "overview": "A sister and her disturbed twin are implicated in a murder and a police detective must figure out which one's the killer.",
+                "vote_average": 6.9,
+                "vote_count": 99
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Strange Love of Martha Ivers",
+            "second_label": "Jack Patrick",
+            "category": "Writing (Original Motion Picture Story)",
+            "year": 1947,
+            "tmdb": {
+                "id": 27033,
+                "original_title": "The Strange Love of Martha Ivers",
+                "title": "O Tempo N\u00e3o Apaga",
+                "release_date": "1946-08-19",
+                "backdrop_path": "/wyHgr0RZnSPRdcR08cP5nIshLAV.jpg",
+                "poster_path": "/iUAq0UYHglCsnHVbBLcJvZ6KQN9.jpg",
+                "overview": "Um homem se reencontra com sua amiga de inf\u00e2ncia e seu marido, que acreditam conhecer a verdade sobre a morte de sua rica tia anos antes.  Em 1928, a jovem herdeira Martha Ivers,  envolvida em eventos fatais, n\u00e3o fugiu com seu amigo Sam Masterson. Anos mais tarde, Sam retorna para reencontrar Martha, o verdadeiro poder por tr\u00e1s da cidade de Iverstown, e ela se casou com o 'bom menino' Walter O'Neil, agora procurador do distrito. No in\u00edcio, Sam est\u00e1 mais interessado na deslocada loira Toni Marachek do que em seus amigos de inf\u00e2ncia, mas eles o atraem para uma teia complicada de tramas e objetivos cruzados.",
+                "vote_average": 7.1,
+                "vote_count": 155
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Stranger",
+            "second_label": "Victor Trivas",
+            "category": "Writing (Original Motion Picture Story)",
+            "year": 1947,
+            "tmdb": {
+                "id": 20246,
+                "original_title": "The Stranger",
+                "title": "O Estranho",
+                "release_date": "1946-07-02",
+                "backdrop_path": "/osCupz9uxvUoca6aqSSkns1UnlQ.jpg",
+                "poster_path": "/pdgS6f1OFLDZmBuLqiVDabyyKOF.jpg",
+                "overview": "Charles Rankin (Orson Welles), um ex-chefe de campo de concentra\u00e7\u00e3o nazista, vive sob a identidade de um correto professor universit\u00e1rio em uma pequena cidade. Ele deve tomar cuidado, pois toda a verdade est\u00e1 para vir \u00e0 tona. Dirigido por Orson Welles e indicado ao Oscar de Melhor Roteiro Original.",
+                "vote_average": 7.253,
+                "vote_count": 544
+            },
+            "winner": false
+        },
+        {
+            "first_label": "To Each His Own",
+            "second_label": "Charles Brackett",
+            "category": "Writing (Original Motion Picture Story)",
+            "year": 1947,
+            "tmdb": {
+                "id": 54568,
+                "original_title": "To Each His Own",
+                "title": "S\u00f3 Resta Uma L\u00e1grima",
+                "release_date": "1946-03-12",
+                "backdrop_path": "/jBNPZmostvsmuwN8cht90vSDe86.jpg",
+                "poster_path": "/x50o3cqalcUvTcsQM8N8REzLSpS.jpg",
+                "overview": "Durante a Primeira Guerra Mundial a menina de uma pequena cidade, Josephine Norris, tem um filho ileg\u00edtimo com um piloto itinerante. Ap\u00f3s um esquema para adot\u00e1-lo acaba entregando-o a outra fam\u00edlia, ela se dedica a am\u00e1-lo de longe.",
+                "vote_average": 6.8,
+                "vote_count": 24
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Original Screenplay)": [
+        {
+            "first_label": "The Seventh Veil",
+            "second_label": "Muriel Box, Sydney Box",
+            "category": "Writing (Original Screenplay)",
+            "year": 1947,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Blue Dahlia",
+            "second_label": "Raymond Chandler",
+            "category": "Writing (Original Screenplay)",
+            "year": 1947,
+            "tmdb": {
+                "id": 16090,
+                "original_title": "The Blue Dahlia",
+                "title": "A D\u00e1lia Azul",
+                "release_date": "1946-04-16",
+                "backdrop_path": "/lMpSxEci1FyaMGtBDWtY9Jd2TAp.jpg",
+                "poster_path": "/ub3sARpEHbSHgmTbcjnUbkLMeum.jpg",
+                "overview": "O capit\u00e3o da avia\u00e7\u00e3o naval Johnny retorna da guerra juntamente com seus dois camaradas, Buzz e George. Separando-se deles para voltar para a sua esposa Helen, Johnny a encontra alco\u00f3lica e com um caso extraconjugal. Mesmo assim tenta continuar com ela, mas resolve abandon\u00e1-la quando a ouve dizer que mentiu sobre a morte do filho pequeno de ambos. Tentando sair da cidade sob uma forte chuva, ele encontra Joyce, que n\u00e3o sabe quem ele \u00e9. Johnny tamb\u00e9m n\u00e3o sabe que ela \u00e9 a ex-esposa de Eddie, um dos donos da boate \"D\u00e1lia Azul\" e o homem que tem um caso com Helen.\r Johnny e Joyce come\u00e7am um romance, que \u00e9 interrompido quando Johnny ouve no r\u00e1dio sobre a morte de Helen. Imediatamente ele vai atr\u00e1s do ex-marido de Joyce a quem julga ser o assassino, mas sua busca \u00e9 dificultada por ter os g\u00e2ngsters c\u00famplices de Eddie e toda a pol\u00edcia de Los Angeles atr\u00e1s dele.",
+                "vote_average": 6.6,
+                "vote_count": 141
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Children of Paradise",
+            "second_label": "Jacques Prevert",
+            "category": "Writing (Original Screenplay)",
+            "year": 1947,
+            "tmdb": {
+                "id": 2457,
+                "original_title": "Les Enfants du Paradis",
+                "title": "O Boulevard do Crime",
+                "release_date": "1945-03-15",
+                "backdrop_path": "/59kBgtfbhh1dalgjGvFhDL98jN.jpg",
+                "poster_path": "/yiy9stl1jjVhW44ypkWMFDT8Ix3.jpg",
+                "overview": "Ambientado no in\u00edcio do s\u00e9culo 19, o filme mostra o mal fadado romance do m\u00edmico Baptiste com a bela atriz Garance, no Boulevard de Templiers, em Paris, por onde circulam ladr\u00f5es, golpistas e assassinos.",
+                "vote_average": 8.1,
+                "vote_count": 380
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Notorious",
+            "second_label": "Ben Hecht",
+            "category": "Writing (Original Screenplay)",
+            "year": 1947,
+            "tmdb": {
+                "id": 303,
+                "original_title": "Notorious",
+                "title": "Interl\u00fadio",
+                "release_date": "1946-08-21",
+                "backdrop_path": "/9K8MWPiEVNV1FkxiVTV0HuZvNfa.jpg",
+                "poster_path": "/aGlxyjWBNWN2PnMnQdPpFn8qEij.jpg",
+                "overview": "Localizado no Rio de Janeiro, conta a hist\u00f3ria de Alicia e Devlin, dois polos completamente opostos que acabam se apaixonando devido ao tempo em que trabalharam juntos. Ela \u00e9 filha de um espi\u00e3o alem\u00e3o preso pelo governo dos EUA e, para evitar a morte do pai, \u00e9 obrigada a ajudar o governo americano a prender inimigos mais importantes. Ele \u00e9 um agente do governo que vai comandar a opera\u00e7\u00e3o, monitorando para que tudo saia nas mais perfeitas condi\u00e7\u00f5es planejadas.",
+                "vote_average": 7.759,
+                "vote_count": 1489
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Road to Utopia",
+            "second_label": "Norman Panama, Melvin Frank",
+            "category": "Writing (Original Screenplay)",
+            "year": 1947,
+            "tmdb": {
+                "id": 29021,
+                "original_title": "Road to Utopia",
+                "title": "Dois Malandros e uma Garota",
+                "release_date": "1946-02-27",
+                "backdrop_path": "/rpnilQ69Pua9q8gAKKlrgHE5qfx.jpg",
+                "poster_path": "/nASL3unRBUDjAcJmE8HPjbL665M.jpg",
+                "overview": "Na virada do s\u00e9culo, Duke e Chester, dois artistas de vaudeville, v\u00e3o ao Alasca para fazer fortuna. No navio para Skagway, eles encontram um mapa para uma mina de ouro secreta, roubada por McGurk e Sperry, um casal de bandidos. Eles se disfar\u00e7am de McGurk e Sperry para sair do navio. Enquanto isso, Sal Van Hoyden est\u00e1 no Alasca para tentar recuperar o mapa; tinha sido roubado do pai dela. Ela se apaixona por Ace Larson, que quer roubar a mina de ouro para si. Duke e Chester, McGurk e Sperry, Ace e seus capangas, e Sal, se perseguem por todo o campo, tentando obter o mapa. (e Livre - Estimado Livre)",
+                "vote_average": 6.6,
+                "vote_count": 39
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay)": [
+        {
+            "first_label": "The Best Years of Our Lives",
+            "second_label": "Robert E. Sherwood",
+            "category": "Writing (Screenplay)",
+            "year": 1947,
+            "tmdb": {
+                "id": 887,
+                "original_title": "The Best Years of Our Lives",
+                "title": "Os Melhores Anos de Nossas Vidas",
+                "release_date": "1946-12-25",
+                "backdrop_path": "/nCl5KzxUs4rVVlAdixDf4r5AbbZ.jpg",
+                "poster_path": "/lgVHQE0fUHTd8Tgo2uIDQ2Lk0S3.jpg",
+                "overview": "Ap\u00f3s a Segunda Guerra, 3 militares retornam aos seus lares e tentam se readaptar \u00e0 sociedade. O maior cl\u00e1ssico de guerra dos anos 40, este comovente e ainda atual\u00edssimo filme, com roteiro de Robert Sherwood e a dire\u00e7\u00e3o de Willian Wyller foi grande sucesso de bilheteria sendo vencedor de 7 Oscars.",
+                "vote_average": 7.787,
+                "vote_count": 605
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Anna and the King of Siam",
+            "second_label": "Talbot Jennings, Sally Benson",
+            "category": "Writing (Screenplay)",
+            "year": 1947,
+            "tmdb": {
+                "id": 43471,
+                "original_title": "Anna and the King of Siam",
+                "title": "Anna e o Rei do Si\u00e3o",
+                "release_date": "1946-08-11",
+                "backdrop_path": "/wcuLN4VaPWb59Q0l9edUjmqQuW4.jpg",
+                "poster_path": "/6OdzIxV0nF0W7GNv5wMQWDyzye5.jpg",
+                "overview": "Em 1862, uma jovem inglesa torna-se Tutora Real no Si\u00e3o e faz amizade com o Rei. Refilmado em 'O Rei e Eu (1956)'. (e 10 - Estimado 10 Anos)",
+                "vote_average": 6.0,
+                "vote_count": 34
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Brief Encounter",
+            "second_label": "David Lean, Anthony Havelock-Allan, Ronald Neame",
+            "category": "Writing (Screenplay)",
+            "year": 1947,
+            "tmdb": {
+                "id": 851,
+                "original_title": "Brief Encounter",
+                "title": "Desencanto",
+                "release_date": "1945-11-24",
+                "backdrop_path": "/vKvoOlhhaZCsiGQDvaZQqyGq1oA.jpg",
+                "poster_path": "/z02oc9sMEMePtjT0URPDi0GvJIP.jpg",
+                "overview": "Laura (Celia Johnson) e Alec (Trevor Howard) se conhecem por acaso em uma esta\u00e7\u00e3o de trem, quando ele remove um cisco do olho dela. Ele \u00e9 um m\u00e9dico, ela \u00e9 uma dona de casa. Ambos s\u00e3o de classe m\u00e9dia, t\u00eam meia-idade e s\u00e3o razoavelmente felizes em seus casamentos. Em pouco tempo passam a se encontrar todas as quintas-feiras, mas apenas como bons amigos. Gradativamente surge uma paix\u00e3o m\u00fatua e eles continuam a se encontrar regularmente, apesar de saberem que este amor \u00e9 imposs\u00edvel.",
+                "vote_average": 7.679,
+                "vote_count": 574
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Killers",
+            "second_label": "Anthony Veiller",
+            "category": "Writing (Screenplay)",
+            "year": 1947,
+            "tmdb": {
+                "id": 14638,
+                "original_title": "The Killers",
+                "title": "Os Assassinos",
+                "release_date": "1946-08-30",
+                "backdrop_path": "/eHntkxgTcLHxYCTusHNJndwDkpV.jpg",
+                "poster_path": "/uXnuc6pW01s1MDwb6QwBWg2JQeX.jpg",
+                "overview": "Pistoleiros matam uma v\u00edtima que n\u00e3o resiste, e o investigador Reardon descobre seu envolvimento passado com a bela e mortal Kitty Collins.  Dois assassinos profissionais invadem uma pequena cidade e matam um atendente de posto de gasolina, \"o sueco\", que os espera sem opor nenhuma resist\u00eancia. O investigador de seguros Reardon investiga o caso contra as ordens de seu chefe, que considera o caso trivial. Juntando os fios da vida do sueco, Reardon descobre uma complexa hist\u00f3ria de trai\u00e7\u00e3o e crime, tudo ligando com a deslumbrante e misteriosa Kitty Collins.",
+                "vote_average": 7.3,
+                "vote_count": 360
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Open City",
+            "second_label": "Sergio Amidei, F. Fellini",
+            "category": "Writing (Screenplay)",
+            "year": 1947,
+            "tmdb": {
+                "id": 307,
+                "original_title": "Roma citt\u00e0 aperta",
+                "title": "Roma, Cidade Aberta",
+                "release_date": "1945-10-08",
+                "backdrop_path": "/cztYhbawTjK9m8lFBd97Yl5Zd8r.jpg",
+                "poster_path": "/4F6swrmExL01J7KuZgl841aqiQ.jpg",
+                "overview": "A localiza\u00e7\u00e3o: Roma ocupada pelos nazistas. Como Roma \u00e9 classificada como uma cidade aberta, a maioria dos romanos pode passear pelas ruas sem medo de a cidade ser bombardeado ou eles serem mortos no processo. Mas a vida para os romanos ainda \u00e9 dif\u00edcil com a ocupa\u00e7\u00e3o nazista. H\u00e1 um toque de recolher, alimentos b\u00e1sicos s\u00e3o racionados, e os nazistas ainda est\u00e3o procurando aqueles que trabalham para a resist\u00eancia e fazem qualquer coisa para reprimir os que est\u00e3o na resist\u00eancia e ningu\u00e9m  d\u00e1 nenhuma ajuda aos partisans.",
+                "vote_average": 8.003,
+                "vote_count": 834
+            },
+            "winner": false
+        }
+    ]
+}

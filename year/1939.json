@@ -1,0 +1,2266 @@
+{
+    "Actor": [
+        {
+            "first_label": "Spencer Tracy",
+            "second_label": "Boys Town",
+            "category": "Actor",
+            "year": 1939,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Charles Boyer",
+            "second_label": "Algiers",
+            "category": "Actor",
+            "year": 1939,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "James Cagney",
+            "second_label": "Angels with Dirty Faces",
+            "category": "Actor",
+            "year": 1939,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Robert Donat",
+            "second_label": "The Citadel",
+            "category": "Actor",
+            "year": 1939,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Leslie Howard",
+            "second_label": "Pygmalion",
+            "category": "Actor",
+            "year": 1939,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Walter Brennan",
+            "second_label": "Kentucky",
+            "category": "Actor in a Supporting Role",
+            "year": 1939,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "John Garfield",
+            "second_label": "Four Daughters",
+            "category": "Actor in a Supporting Role",
+            "year": 1939,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gene Lockhart",
+            "second_label": "Algiers",
+            "category": "Actor in a Supporting Role",
+            "year": 1939,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Robert Morley",
+            "second_label": "Marie Antoinette",
+            "category": "Actor in a Supporting Role",
+            "year": 1939,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Basil Rathbone",
+            "second_label": "If I Were King",
+            "category": "Actor in a Supporting Role",
+            "year": 1939,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress": [
+        {
+            "first_label": "Bette Davis",
+            "second_label": "Jezebel",
+            "category": "Actress",
+            "year": 1939,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Fay Bainter",
+            "second_label": "White Banners",
+            "category": "Actress",
+            "year": 1939,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Wendy Hiller",
+            "second_label": "Pygmalion",
+            "category": "Actress",
+            "year": 1939,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Norma Shearer",
+            "second_label": "Marie Antoinette",
+            "category": "Actress",
+            "year": 1939,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Margaret Sullavan",
+            "second_label": "Three Comrades",
+            "category": "Actress",
+            "year": 1939,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Fay Bainter",
+            "second_label": "Jezebel",
+            "category": "Actress in a Supporting Role",
+            "year": 1939,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Beulah Bondi",
+            "second_label": "Of Human Hearts",
+            "category": "Actress in a Supporting Role",
+            "year": 1939,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Billie Burke",
+            "second_label": "Merrily We Live",
+            "category": "Actress in a Supporting Role",
+            "year": 1939,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Spring Byington",
+            "second_label": "You Can't Take It with You",
+            "category": "Actress in a Supporting Role",
+            "year": 1939,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Miliza Korjus",
+            "second_label": "The Great Waltz",
+            "category": "Actress in a Supporting Role",
+            "year": 1939,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction": [
+        {
+            "first_label": "The Adventures of Robin Hood",
+            "second_label": "Carl J. Weyl",
+            "category": "Art Direction",
+            "year": 1939,
+            "tmdb": {
+                "id": 10907,
+                "original_title": "The Adventures of Robin Hood",
+                "title": "As Aventuras de Robin Hood",
+                "release_date": "1938-05-13",
+                "backdrop_path": "/ifxyUSC5QDnjWaCmSgEJ7DhLt5Y.jpg",
+                "poster_path": "/aWXud8CnjWXYWPDmVwrfusSoDm0.jpg",
+                "overview": "Quando o Rei Richard \u00e9 capturado, seu irm\u00e3o, o Pr\u00edncipe John planeja em alcan\u00e7ar o trono, para a revolta do senhor Robin de Locksley, o rei bandido da floresta de Sherwood. Com o seu bando de homens e ganhando o suporte de Maid Marian, Robin acusa o Pr\u00edncipe John de trai\u00e7\u00e3o. Quando o fugitivo Richard volta para a Inglaterra, ele junta for\u00e7as com o rei para impedir que o Pr\u00edncipe John tome a coroa.",
+                "vote_average": 7.5,
+                "vote_count": 698
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Adventures of Tom Sawyer",
+            "second_label": "Lyle Wheeler",
+            "category": "Art Direction",
+            "year": 1939,
+            "tmdb": {
+                "id": 30977,
+                "original_title": "The Adventures of Tom Sawyer",
+                "title": "As Aventuras de Tom Sawyer",
+                "release_date": "1938-02-11",
+                "backdrop_path": "/hVW6dLEqhvoN43gJ4bDjHVseMMI.jpg",
+                "poster_path": "/wE4V8Rav9puZ3gEuKTrfaAN84mv.jpg",
+                "overview": "O pequeno Tom Sawyer (Tommy Kelly) vive com sua tia Polly (May Ribson) numa pequena cidade do Mississipi. Ele e seu insepar\u00e1vel amigo Huckleberry Finn (Jackie Moran) adoram pescar, sonham com piratas e grandes tesouros e vivem pensando em Becky Thatcher (Ann Gillis), uma linda garota do col\u00e9gio. Os dois vivem se metendo em aventuras e confus\u00f5es at\u00e9 que um dia presenciam um assassinato, e juntos conseguem provar a inoc\u00eancia do homem injustamente acusado, esse fato faz com que Injun Joe (Victor Jory), o verdadeiro assassino, passe a ca\u00e7\u00e1-los. Ao tentarem escapar de Joe, os dois vivem uma fant\u00e1stica aventura nas \u00e1guas do Rio Mississipi que os leva at\u00e9 cavernas misteriosas e ao esconderijo em que Injun Joe havia enterrado uma fortuna.",
+                "vote_average": 6.5,
+                "vote_count": 40
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Alexander's Ragtime Band",
+            "second_label": "Bernard Herzbrun, Boris Leven",
+            "category": "Art Direction",
+            "year": 1939,
+            "tmdb": {
+                "id": 43839,
+                "original_title": "Alexander's Ragtime Band",
+                "title": "A Epop\u00e9ia do Jazz",
+                "release_date": "1938-05-24",
+                "backdrop_path": "/zEHZBRf97910p4bL8HL398ZUs5p.jpg",
+                "poster_path": "/tbmvwfs9C1eTIyCcuhdbnFeuQSA.jpg",
+                "overview": "Alexander (Tyrone Power) escandaliza a sociedade ao montar uma orquestra de Ragtime, estilo musical popular demais para se levar a s\u00e9rio. Vencedor do Oscar de Melhor Trilha Sonora.",
+                "vote_average": 6.6,
+                "vote_count": 24
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Algiers",
+            "second_label": "Alexander Toluboff",
+            "category": "Art Direction",
+            "year": 1939,
+            "tmdb": {
+                "id": 22657,
+                "original_title": "Algiers",
+                "title": "Arg\u00e9lia",
+                "release_date": "1938-01-16",
+                "backdrop_path": "/wmfTTdJCxJfyQYsSn9PiuPhJiCR.jpg",
+                "poster_path": "/cvNQjlXJxRQrmB5VCcyssjKIwW8.jpg",
+                "overview": "Pepe Le Moko is a notorious thief, who escaped from France. Since his escape, Moko has become a resident and leader of the immense Casbah of Algiers. French officials arrive insisting on Pepe's capture are met with unfazed local detectives, led by Inspector Slimane, who are biding their time. Meanwhile, Pepe meets the beautiful Gaby, which arouses the jealousy of Ines.",
+                "vote_average": 6.4,
+                "vote_count": 31
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Carefree",
+            "second_label": "Van Nest Polglase",
+            "category": "Art Direction",
+            "year": 1939,
+            "tmdb": {
+                "id": 29872,
+                "original_title": "Carefree",
+                "title": "Dance Comigo",
+                "release_date": "1938-09-02",
+                "backdrop_path": "/ovbtkxEC7ihITdlc1y9Ir9aQU4w.jpg",
+                "poster_path": "/8li7nEWRPtRdF5N4PArwVVfcvqz.jpg",
+                "overview": "O psicanalista Tony Flagg aceita analisar a jovem Amanda Cooper, para ver se descobre porque ela rompeu o noivado com Stephen Arden tr\u00eas vezes. Amanda acaba por se apaixonar por ele, for\u00e7ando-o a hipnotiz\u00e1-la para incutir em seu subconsciente a ideia de que ela o odeia e ama Stephen. Por\u00e9m, quando descobre que tamb\u00e9m foi fisgado por ela, Tony ter\u00e1 de desfazer tudo...",
+                "vote_average": 6.7,
+                "vote_count": 56
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Goldwyn Follies",
+            "second_label": "Richard Day",
+            "category": "Art Direction",
+            "year": 1939,
+            "tmdb": {
+                "id": 43854,
+                "original_title": "The Goldwyn Follies",
+                "title": "The Goldwyn Follies",
+                "release_date": "1938-02-04",
+                "backdrop_path": "/pNgR1gw9zQnn5Ad8DyG4fVJb2vI.jpg",
+                "poster_path": "/c3WMRi7IWpVTDnHx351TqBo1OdE.jpg",
+                "overview": "Movie producer chooses a simple girl to be \"Miss Humanity\" and to critically evalute his movies from the point of view of the ordinary person.",
+                "vote_average": 4.6,
+                "vote_count": 10
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Holiday",
+            "second_label": "Stephen Goosson, Lionel Banks",
+            "category": "Art Direction",
+            "year": 1939,
+            "tmdb": {
+                "id": 104215,
+                "original_title": "The Devil's Holiday",
+                "title": "The Devil's Holiday",
+                "release_date": "1930-05-09",
+                "backdrop_path": "/2kzcvsfDJnkb0JwOjAzNNrKmd5W.jpg",
+                "poster_path": "/bWTTulF8nwzY87MY7vNGwJAZ5ya.jpg",
+                "overview": "Beautiful manicurist Hallie Hobart sets her sights on handsome David Stone, the son of wealthy wheat farmer Ezra Stone. Professing to hate men, Hallie is only interested in luring David in for a lucrative business deal. David easily falls in love, but older brother Mark brands Hallie a gold-digger. To get even with the straight-laced Stone family, Hallie accepts David's marriage proposal.",
+                "vote_average": 6.3,
+                "vote_count": 6
+            },
+            "winner": false
+        },
+        {
+            "first_label": "If I Were King",
+            "second_label": "Hans Dreier, John Goodman",
+            "category": "Art Direction",
+            "year": 1939,
+            "tmdb": {
+                "id": 126777,
+                "original_title": "If I Were King",
+                "title": "If I Were King",
+                "release_date": "1938-09-28",
+                "backdrop_path": "/2xDJv2SDcf7CKlFf6H2ACjMmdhS.jpg",
+                "poster_path": "/zqyhx8mpoRDqf6sdf2HlssNcP8G.jpg",
+                "overview": "King Louis XI masquerades as a commoner in Paris, seeking out the treachery he is sure lurks in his kingdom. At a local tavern, he overhears the brash poet Fran\u00e7ois Villon extolling why he would be a better king. Annoyed yet intrigued, the King bestows on Villon the title of Grand Constable. Soon Villon begins work and falls for a lovely lady-in-waiting, but then must flee execution when the King turns on him.",
+                "vote_average": 6.8,
+                "vote_count": 9
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mad about Music",
+            "second_label": "Jack Otterson",
+            "category": "Art Direction",
+            "year": 1939,
+            "tmdb": {
+                "id": 61646,
+                "original_title": "Mad About Music",
+                "title": "Mad About Music",
+                "release_date": "1938-02-27",
+                "backdrop_path": "/i3BXBwbig629GMAOuItwodTdGSF.jpg",
+                "poster_path": "/1zuVmfuqQq8WEd6ZEf17LvmbXU6.jpg",
+                "overview": "A young woman at a girl's school in Switzerland makes up stories about and writes herself letters from an imaginary explorer-adventurer father; and is eventually put in a position where she has to produce him. Interesting things happen as she talks a visiting Englishman into helping her out.",
+                "vote_average": 7.2,
+                "vote_count": 7
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Marie Antoinette",
+            "second_label": "Cedric Gibbons",
+            "category": "Art Direction",
+            "year": 1939,
+            "tmdb": {
+                "id": 43847,
+                "original_title": "Marie Antoinette",
+                "title": "Maria Antonieta",
+                "release_date": "1938-08-26",
+                "backdrop_path": "/u3IsKWC05Cuz8gh4dWR7RGVXxtG.jpg",
+                "poster_path": "/nmsqzJUN6B0guVHfXINhofe4Myt.jpg",
+                "overview": "Maria Antonieta (Norma Shearer) \u00e9 uma linda princesa austr\u00edaca com casamento marcado com o herdeiro do trono franc\u00eas Lu\u00eds Augusto (Robert Morley), casamento este arranjado por motivos pol\u00edticos. J\u00e1 no pal\u00e1cio franc\u00eas, Maria encontra-se ca\u00edda entre as intrigas da fam\u00edlia real, principalmente entre o Rei Lu\u00eds XV e seu mal\u00e9fico primo, o Conde de Orleans (Joseph Schidkraut). Para al\u00edvio de Maria, Lu\u00eds s\u00f3 poderia casar-se com ela caso ele se tornasse Rei. Certo dia, em um cassino, Maria conhece o Conde Axel de Fersen (Tyrone Power), e ambos se sentem atra\u00eddos imediatamente um pelo outro. Sentindo-se realizada com seu amante, Maria recebe uma not\u00edcia que n\u00e3o esperava t\u00e3o logo, o Rei Lu\u00eds XV havia morrido. Sabendo ent\u00e3o que o Conde poderia manter um caso com a noiva do pr\u00edncipe, mas n\u00e3o com a Rainha da Fran\u00e7a, Maria teria ent\u00e3o que decidir entre seu cora\u00e7\u00e3o e a realeza.",
+                "vote_average": 6.2,
+                "vote_count": 24
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Merrily We Live",
+            "second_label": "Charles D. Hall",
+            "category": "Art Direction",
+            "year": 1939,
+            "tmdb": {
+                "id": 111315,
+                "original_title": "Merrily We Live",
+                "title": "Sua Excel\u00eancia, O Chofer",
+                "release_date": "1938-03-04",
+                "backdrop_path": "/zk8dHHRlBvN5yxBIP97fcCDP3dM.jpg",
+                "poster_path": "/k1bav32MQdTG9SjOiOL31MiB55l.jpg",
+                "overview": "A maluca matrona da sociedade Emily Kilbourne tem o h\u00e1bito de contratar ex-presidi\u00e1rios e vagabundos como criados. Sua \u00faltima descoberta \u00e9 um belo 'vagabundo' que aparece na sua porta e logo acaba em um uniforme de motorista. Ele tamb\u00e9m chama a aten\u00e7\u00e3o da linda Geraldine. (e 12 - Estimado 12 Anos)",
+                "vote_average": 7.2,
+                "vote_count": 30
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "The Great Waltz",
+            "second_label": "Joseph Ruttenberg",
+            "category": "Cinematography",
+            "year": 1939,
+            "tmdb": {
+                "id": 62567,
+                "original_title": "The Great Waltz",
+                "title": "A Grande Valsa",
+                "release_date": "1938-11-04",
+                "backdrop_path": "/2Q7zgPAavMUu2yaG5Z1ydeOMyEc.jpg",
+                "poster_path": "/n1jm062DHhr6JoYLXHSSOaYpqcJ.jpg",
+                "overview": "Composer Johann Strauss risks his marriage over his infatuation with a beautiful singer.",
+                "vote_average": 5.4,
+                "vote_count": 12
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Algiers",
+            "second_label": "James Wong Howe",
+            "category": "Cinematography",
+            "year": 1939,
+            "tmdb": {
+                "id": 22657,
+                "original_title": "Algiers",
+                "title": "Arg\u00e9lia",
+                "release_date": "1938-01-16",
+                "backdrop_path": "/wmfTTdJCxJfyQYsSn9PiuPhJiCR.jpg",
+                "poster_path": "/cvNQjlXJxRQrmB5VCcyssjKIwW8.jpg",
+                "overview": "Pepe Le Moko is a notorious thief, who escaped from France. Since his escape, Moko has become a resident and leader of the immense Casbah of Algiers. French officials arrive insisting on Pepe's capture are met with unfazed local detectives, led by Inspector Slimane, who are biding their time. Meanwhile, Pepe meets the beautiful Gaby, which arouses the jealousy of Ines.",
+                "vote_average": 6.4,
+                "vote_count": 31
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Army Girl",
+            "second_label": "Ernest Miller, Harry Wild",
+            "category": "Cinematography",
+            "year": 1939,
+            "tmdb": {
+                "id": 197578,
+                "original_title": "Army Girl",
+                "title": "A Pequena do Ex\u00e9rcito",
+                "release_date": "1938-08-11",
+                "backdrop_path": "/9rC0ObrBYsldzg0bjgTZkCca2QV.jpg",
+                "poster_path": "/7XHwiB4uNVCrzZJx8USMWdZ99rx.jpg",
+                "overview": "Uma luta para impedir que cavalos de cavalaria sejam substitu\u00eddos por tanques culmina em uma grande corrida entre m\u00e1quina e fera.",
+                "vote_average": 6.0,
+                "vote_count": 1
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Buccaneer",
+            "second_label": "Victor Milner",
+            "category": "Cinematography",
+            "year": 1939,
+            "tmdb": {
+                "id": 115425,
+                "original_title": "The Buccaneer",
+                "title": "Lafitte, O Cors\u00e1rio",
+                "release_date": "1938-02-04",
+                "backdrop_path": "/aFSi56mazIWDA5H6k4WOSjpRZyB.jpg",
+                "poster_path": "/1AkDvp2eSrpfiqOPn7aCyg4Wt5X.jpg",
+                "overview": "French pirate Jean Lafitte rescues a girl and joins the War of 1812.",
+                "vote_average": 6.5,
+                "vote_count": 8
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jezebel",
+            "second_label": "Ernest Haller",
+            "category": "Cinematography",
+            "year": 1939,
+            "tmdb": {
+                "id": 1976,
+                "original_title": "Jezebel",
+                "title": "Jezebel",
+                "release_date": "1938-03-26",
+                "backdrop_path": "/bgfcTn3q8r16DByTJepeJwGT8Bz.jpg",
+                "poster_path": "/xewvSLrr0Ru6qVMwVqVheFLaGm4.jpg",
+                "overview": "Em 1852, em Nova Orleans, uma jovem egoc\u00eantrica da aristocracia local provoca o rompimento do seu noivado ao usar um vestido vermelho, quando as mo\u00e7as deviam usar branco. Apesar de seu antigo noivo se casar com outra mulher, ela continua amando-o. Ela tem a grande chance de lhe provar que realmente deixou de ser uma jovem mimada quando uma peste se abate sobre a cidade. (e 10 - Estimado 10 Anos)",
+                "vote_average": 7.1,
+                "vote_count": 178
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mad about Music",
+            "second_label": "Joseph Valentine",
+            "category": "Cinematography",
+            "year": 1939,
+            "tmdb": {
+                "id": 61646,
+                "original_title": "Mad About Music",
+                "title": "Mad About Music",
+                "release_date": "1938-02-27",
+                "backdrop_path": "/i3BXBwbig629GMAOuItwodTdGSF.jpg",
+                "poster_path": "/1zuVmfuqQq8WEd6ZEf17LvmbXU6.jpg",
+                "overview": "A young woman at a girl's school in Switzerland makes up stories about and writes herself letters from an imaginary explorer-adventurer father; and is eventually put in a position where she has to produce him. Interesting things happen as she talks a visiting Englishman into helping her out.",
+                "vote_average": 7.2,
+                "vote_count": 7
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Merrily We Live",
+            "second_label": "Norbert Brodine",
+            "category": "Cinematography",
+            "year": 1939,
+            "tmdb": {
+                "id": 111315,
+                "original_title": "Merrily We Live",
+                "title": "Sua Excel\u00eancia, O Chofer",
+                "release_date": "1938-03-04",
+                "backdrop_path": "/zk8dHHRlBvN5yxBIP97fcCDP3dM.jpg",
+                "poster_path": "/k1bav32MQdTG9SjOiOL31MiB55l.jpg",
+                "overview": "A maluca matrona da sociedade Emily Kilbourne tem o h\u00e1bito de contratar ex-presidi\u00e1rios e vagabundos como criados. Sua \u00faltima descoberta \u00e9 um belo 'vagabundo' que aparece na sua porta e logo acaba em um uniforme de motorista. Ele tamb\u00e9m chama a aten\u00e7\u00e3o da linda Geraldine. (e 12 - Estimado 12 Anos)",
+                "vote_average": 7.2,
+                "vote_count": 30
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Suez",
+            "second_label": "Peverell Marley",
+            "category": "Cinematography",
+            "year": 1939,
+            "tmdb": {
+                "id": 148675,
+                "original_title": "Suez",
+                "title": "Suez",
+                "release_date": "1938-10-28",
+                "backdrop_path": "/kQSyHdO0XxO7wqRAwnDv0qyqYaC.jpg",
+                "poster_path": "/cBMgf5cIBIYuHvCuOVQN7TXDECS.jpg",
+                "overview": "Ferdinand de Lesseps, disappointed in love, is sent as a junior diplomat to the Isthmus of Suez, and realizes it's just the place for a canal.",
+                "vote_average": 5.4,
+                "vote_count": 13
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Vivacious Lady",
+            "second_label": "Robert de Grasse",
+            "category": "Cinematography",
+            "year": 1939,
+            "tmdb": {
+                "id": 33630,
+                "original_title": "Vivacious Lady",
+                "title": "Vivacious Lady",
+                "release_date": "1938-05-13",
+                "backdrop_path": "/nh30qnpWoKvF5NgZ8N0SjN0xLBM.jpg",
+                "poster_path": "/lhkDEnO3gZLDAdLihgMpcRn38G.jpg",
+                "overview": "College town life gets turned upside down after a button-down botany professor secretly weds a sizzling night-club singer.",
+                "vote_average": 6.9,
+                "vote_count": 51
+            },
+            "winner": false
+        },
+        {
+            "first_label": "You Can't Take It with You",
+            "second_label": "Joseph Walker",
+            "category": "Cinematography",
+            "year": 1939,
+            "tmdb": {
+                "id": 34106,
+                "original_title": "You Can't Take It with You",
+                "title": "Do Mundo Nada Se Leva",
+                "release_date": "1938-09-01",
+                "backdrop_path": "/evKZkXjWbg9Nv623DXz9MZXFxr7.jpg",
+                "poster_path": "/j7J2zAFDLYPdLCeRmW0JAkKygfZ.jpg",
+                "overview": "Alice Sycamore (Jean Arthur) deseja apresentar Tony Kirby (James Stewart), seu noivo, \u00e0 sua fam\u00edlia, mas como ele prov\u00eam de uma fam\u00edlia rica e influente e a sua \u00e9 composta de pessoas extrovertidas e um tanto lun\u00e1ticas, h\u00e1 um choque de comportamentos. Para completar, Anthony P. Kirby (Edward Arnold), o pai do seu noivo, j\u00e1 comprou todos os im\u00f3veis da regi\u00e3o onde a fam\u00edlia de Alice vive para um importante empreendimento, com exce\u00e7\u00e3o da casa de Alice. Sem este im\u00f3vel o projeto n\u00e3o pode ir adiante e, como h\u00e1 uma recusa em vender, este posicionamento gera um clima desfavor\u00e1vel entre as duas fam\u00edlias.",
+                "vote_average": 7.5,
+                "vote_count": 366
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Young in Heart",
+            "second_label": "Leon Shamroy",
+            "category": "Cinematography",
+            "year": 1939,
+            "tmdb": {
+                "id": 38023,
+                "original_title": "The Young in Heart",
+                "title": "Jovem no Cora\u00e7\u00e3o",
+                "release_date": "1938-07-06",
+                "backdrop_path": "/zf6rG4GfJZmlVnCohjq2hzExxOC.jpg",
+                "poster_path": "/ecimQFwdSBQTNwdznb1d2EMuYLh.jpg",
+                "overview": "A family of confidence tricksters sets their sights on a very rich, very lonely old lady named Miss Fortune.",
+                "vote_average": 6.5,
+                "vote_count": 22
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "You Can't Take It with You",
+            "second_label": "Frank Capra",
+            "category": "Directing",
+            "year": 1939,
+            "tmdb": {
+                "id": 34106,
+                "original_title": "You Can't Take It with You",
+                "title": "Do Mundo Nada Se Leva",
+                "release_date": "1938-09-01",
+                "backdrop_path": "/evKZkXjWbg9Nv623DXz9MZXFxr7.jpg",
+                "poster_path": "/j7J2zAFDLYPdLCeRmW0JAkKygfZ.jpg",
+                "overview": "Alice Sycamore (Jean Arthur) deseja apresentar Tony Kirby (James Stewart), seu noivo, \u00e0 sua fam\u00edlia, mas como ele prov\u00eam de uma fam\u00edlia rica e influente e a sua \u00e9 composta de pessoas extrovertidas e um tanto lun\u00e1ticas, h\u00e1 um choque de comportamentos. Para completar, Anthony P. Kirby (Edward Arnold), o pai do seu noivo, j\u00e1 comprou todos os im\u00f3veis da regi\u00e3o onde a fam\u00edlia de Alice vive para um importante empreendimento, com exce\u00e7\u00e3o da casa de Alice. Sem este im\u00f3vel o projeto n\u00e3o pode ir adiante e, como h\u00e1 uma recusa em vender, este posicionamento gera um clima desfavor\u00e1vel entre as duas fam\u00edlias.",
+                "vote_average": 7.5,
+                "vote_count": 366
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Angels with Dirty Faces",
+            "second_label": "Michael Curtiz",
+            "category": "Directing",
+            "year": 1939,
+            "tmdb": {
+                "id": 13696,
+                "original_title": "Angels with Dirty Faces",
+                "title": "Anjos de Cara Suja",
+                "release_date": "1938-11-26",
+                "backdrop_path": "/bb36aEZwEvK2L01mgWQuC506CZg.jpg",
+                "poster_path": "/dpN5V2JVsMPZCdXmGUmVDrdRT7C.jpg",
+                "overview": "Rocky (James Cagney) e Jerry (Pat O'Brien) s\u00e3o dois amigos de inf\u00e2ncia que viviam em um bairro barra-pesada de Nova York. Depois de crescidos, eles tomam rumos bem diferentes: Rocky se torna um famoso g\u00e2ngster e Jerry um padre engajado. As crian\u00e7as da vizinhan\u00e7a idolatram o criminoso, mas perdem um pouco de respeito depois que ele cede aos pedidos de Jerry para n\u00e3o fazer uma execu\u00e7\u00e3o. O caminho dos dois vai se cruzar, assim como seus interesses diversos.",
+                "vote_average": 7.6,
+                "vote_count": 294
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Boys Town",
+            "second_label": "Norman Taurog",
+            "category": "Directing",
+            "year": 1939,
+            "tmdb": {
+                "id": 42390,
+                "original_title": "Boys Town",
+                "title": "Com os Bra\u00e7os Abertos",
+                "release_date": "1938-09-08",
+                "backdrop_path": "/pvvUqgvDXu8aLd5VqgrfOccnrnP.jpg",
+                "poster_path": "/jGwKOZvPItNSocHFAg1USbhKR6c.jpg",
+                "overview": "Devout but iron-willed Father Flanagan leads a community called Boys Town, a different sort of juvenile detention facility where, instead of being treated as underage criminals, the boys are shepherded into making themselves better people. But hard-nosed petty thief and pool shark Whitey Marsh, the impulsive and violent younger brother of an imprisoned murderer, might be too much for the good father's tough-love system.",
+                "vote_average": 6.7,
+                "vote_count": 80
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Citadel",
+            "second_label": "King Vidor",
+            "category": "Directing",
+            "year": 1939,
+            "tmdb": {
+                "id": 84090,
+                "original_title": "The Citadel",
+                "title": "The Citadel",
+                "release_date": "1938-10-29",
+                "backdrop_path": "/2X9pCHvlTtUKbYTaO1onWvPB7Jg.jpg",
+                "poster_path": "/eyGS36ZBJmp9RY9zFfX1arralxc.jpg",
+                "overview": "Andrew Manson, a young, idealistic, newly qualified Scottish doctor arrives in Wales takes his first job in a mining town, and begins to wonder at the persistent cough many of the miners have. When his attempts to prove its cause are thwarted, he moves to London. His new practice does badly. But when a friend shows him how to make a lucrative practice from rich hypochondriacs, it will take a great shock to show him what the truth of being a doctor really is.",
+                "vote_average": 6.3,
+                "vote_count": 26
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Four Daughters",
+            "second_label": "Michael Curtiz",
+            "category": "Directing",
+            "year": 1939,
+            "tmdb": {
+                "id": 67880,
+                "original_title": "Four Daughters",
+                "title": "Quatro Filhas",
+                "release_date": "1938-08-09",
+                "backdrop_path": "/sqEtYFNkuqJQi9ue23qwtuWBJCa.jpg",
+                "poster_path": "/qziPNg2Xr2kZeUUjE2X5GBeQRZe.jpg",
+                "overview": "Musician Adam Lemp and his four equally musical daughters, Emma, Ann, Kay, and Thea, live happily together. Each daughter has an upstanding young man for whom she cares. However, the arrival of a cynical, slovenly young composer named Mickey Borden turns the household upside-down, and romantic and tragic complications ensue.",
+                "vote_average": 6.5,
+                "vote_count": 22
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "The Adventures of Robin Hood",
+            "second_label": "Ralph Dawson",
+            "category": "Film Editing",
+            "year": 1939,
+            "tmdb": {
+                "id": 10907,
+                "original_title": "The Adventures of Robin Hood",
+                "title": "As Aventuras de Robin Hood",
+                "release_date": "1938-05-13",
+                "backdrop_path": "/ifxyUSC5QDnjWaCmSgEJ7DhLt5Y.jpg",
+                "poster_path": "/aWXud8CnjWXYWPDmVwrfusSoDm0.jpg",
+                "overview": "Quando o Rei Richard \u00e9 capturado, seu irm\u00e3o, o Pr\u00edncipe John planeja em alcan\u00e7ar o trono, para a revolta do senhor Robin de Locksley, o rei bandido da floresta de Sherwood. Com o seu bando de homens e ganhando o suporte de Maid Marian, Robin acusa o Pr\u00edncipe John de trai\u00e7\u00e3o. Quando o fugitivo Richard volta para a Inglaterra, ele junta for\u00e7as com o rei para impedir que o Pr\u00edncipe John tome a coroa.",
+                "vote_average": 7.5,
+                "vote_count": 698
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Alexander's Ragtime Band",
+            "second_label": "Barbara McLean",
+            "category": "Film Editing",
+            "year": 1939,
+            "tmdb": {
+                "id": 43839,
+                "original_title": "Alexander's Ragtime Band",
+                "title": "A Epop\u00e9ia do Jazz",
+                "release_date": "1938-05-24",
+                "backdrop_path": "/zEHZBRf97910p4bL8HL398ZUs5p.jpg",
+                "poster_path": "/tbmvwfs9C1eTIyCcuhdbnFeuQSA.jpg",
+                "overview": "Alexander (Tyrone Power) escandaliza a sociedade ao montar uma orquestra de Ragtime, estilo musical popular demais para se levar a s\u00e9rio. Vencedor do Oscar de Melhor Trilha Sonora.",
+                "vote_average": 6.6,
+                "vote_count": 24
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Great Waltz",
+            "second_label": "Tom Held",
+            "category": "Film Editing",
+            "year": 1939,
+            "tmdb": {
+                "id": 62567,
+                "original_title": "The Great Waltz",
+                "title": "A Grande Valsa",
+                "release_date": "1938-11-04",
+                "backdrop_path": "/2Q7zgPAavMUu2yaG5Z1ydeOMyEc.jpg",
+                "poster_path": "/n1jm062DHhr6JoYLXHSSOaYpqcJ.jpg",
+                "overview": "Composer Johann Strauss risks his marriage over his infatuation with a beautiful singer.",
+                "vote_average": 5.4,
+                "vote_count": 12
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Test Pilot",
+            "second_label": "Tom Held",
+            "category": "Film Editing",
+            "year": 1939,
+            "tmdb": {
+                "id": 43155,
+                "original_title": "Test Pilot",
+                "title": "Piloto de Provas",
+                "release_date": "1938-04-16",
+                "backdrop_path": "/kH7H0GLLQDN1qTndYFScfIFtIjQ.jpg",
+                "poster_path": "/vdZ5rv7Cg6HTM6UaMvjezKO0juk.jpg",
+                "overview": "Jim is a test pilot. His wife Ann and best friend Gunner try their best to keep him sober. But the life of a test pilot is anything but safe.",
+                "vote_average": 6.6,
+                "vote_count": 64
+            },
+            "winner": false
+        },
+        {
+            "first_label": "You Can't Take It with You",
+            "second_label": "Gene Havlick",
+            "category": "Film Editing",
+            "year": 1939,
+            "tmdb": {
+                "id": 34106,
+                "original_title": "You Can't Take It with You",
+                "title": "Do Mundo Nada Se Leva",
+                "release_date": "1938-09-01",
+                "backdrop_path": "/evKZkXjWbg9Nv623DXz9MZXFxr7.jpg",
+                "poster_path": "/j7J2zAFDLYPdLCeRmW0JAkKygfZ.jpg",
+                "overview": "Alice Sycamore (Jean Arthur) deseja apresentar Tony Kirby (James Stewart), seu noivo, \u00e0 sua fam\u00edlia, mas como ele prov\u00eam de uma fam\u00edlia rica e influente e a sua \u00e9 composta de pessoas extrovertidas e um tanto lun\u00e1ticas, h\u00e1 um choque de comportamentos. Para completar, Anthony P. Kirby (Edward Arnold), o pai do seu noivo, j\u00e1 comprou todos os im\u00f3veis da regi\u00e3o onde a fam\u00edlia de Alice vive para um importante empreendimento, com exce\u00e7\u00e3o da casa de Alice. Sem este im\u00f3vel o projeto n\u00e3o pode ir adiante e, como h\u00e1 uma recusa em vender, este posicionamento gera um clima desfavor\u00e1vel entre as duas fam\u00edlias.",
+                "vote_average": 7.5,
+                "vote_count": 366
+            },
+            "winner": false
+        }
+    ],
+    "Irving G. Thalberg Memorial Award": [
+        {
+            "first_label": "",
+            "second_label": "Hal B. Wallis",
+            "category": "Irving G. Thalberg Memorial Award",
+            "year": 1939,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "",
+            "second_label": "Samuel Goldwyn",
+            "category": "Irving G. Thalberg Memorial Award",
+            "year": 1939,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "",
+            "second_label": "Joe Pasternak",
+            "category": "Irving G. Thalberg Memorial Award",
+            "year": 1939,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "",
+            "second_label": "David O. Selznick",
+            "category": "Irving G. Thalberg Memorial Award",
+            "year": 1939,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "",
+            "second_label": "Hunt Stromberg",
+            "category": "Irving G. Thalberg Memorial Award",
+            "year": 1939,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "",
+            "second_label": "Walter Wanger",
+            "category": "Irving G. Thalberg Memorial Award",
+            "year": 1939,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "",
+            "second_label": "Darryl F. Zanuck",
+            "category": "Irving G. Thalberg Memorial Award",
+            "year": 1939,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Score)": [
+        {
+            "first_label": "The Adventures of Robin Hood",
+            "second_label": "Erich Wolfgang Korngold",
+            "category": "Music (Original Score)",
+            "year": 1939,
+            "tmdb": {
+                "id": 10907,
+                "original_title": "The Adventures of Robin Hood",
+                "title": "As Aventuras de Robin Hood",
+                "release_date": "1938-05-13",
+                "backdrop_path": "/ifxyUSC5QDnjWaCmSgEJ7DhLt5Y.jpg",
+                "poster_path": "/aWXud8CnjWXYWPDmVwrfusSoDm0.jpg",
+                "overview": "Quando o Rei Richard \u00e9 capturado, seu irm\u00e3o, o Pr\u00edncipe John planeja em alcan\u00e7ar o trono, para a revolta do senhor Robin de Locksley, o rei bandido da floresta de Sherwood. Com o seu bando de homens e ganhando o suporte de Maid Marian, Robin acusa o Pr\u00edncipe John de trai\u00e7\u00e3o. Quando o fugitivo Richard volta para a Inglaterra, ele junta for\u00e7as com o rei para impedir que o Pr\u00edncipe John tome a coroa.",
+                "vote_average": 7.5,
+                "vote_count": 698
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Army Girl",
+            "second_label": "Victor Young",
+            "category": "Music (Original Score)",
+            "year": 1939,
+            "tmdb": {
+                "id": 197578,
+                "original_title": "Army Girl",
+                "title": "A Pequena do Ex\u00e9rcito",
+                "release_date": "1938-08-11",
+                "backdrop_path": "/9rC0ObrBYsldzg0bjgTZkCca2QV.jpg",
+                "poster_path": "/7XHwiB4uNVCrzZJx8USMWdZ99rx.jpg",
+                "overview": "Uma luta para impedir que cavalos de cavalaria sejam substitu\u00eddos por tanques culmina em uma grande corrida entre m\u00e1quina e fera.",
+                "vote_average": 6.0,
+                "vote_count": 1
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Block-Heads",
+            "second_label": "Marvin Hatley",
+            "category": "Music (Original Score)",
+            "year": 1939,
+            "tmdb": {
+                "id": 43841,
+                "original_title": "Block-Heads",
+                "title": "A Ceia dos Veteranos",
+                "release_date": "1938-08-19",
+                "backdrop_path": "/ooLP48cPeoNhdai9bID2UdI31I7.jpg",
+                "poster_path": "/23rkwonNcEqTiXmqsEUPaeT4iII.jpg",
+                "overview": "Estamos em 1938, mas Stan n\u00e3o sabe que a guerra acabou. Ele ainda est\u00e1 patrulhando as trincheiras na Fran\u00e7a, e derruba um aviador franc\u00eas. Oliver v\u00ea a foto de seu velho amigo no jornal e vai visitar Stan, que agora foi devolvido aos Estados Unidos e o convida de volta para sua casa.",
+                "vote_average": 7.0,
+                "vote_count": 110
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Blockade",
+            "second_label": "Werner Janssen",
+            "category": "Music (Original Score)",
+            "year": 1939,
+            "tmdb": {
+                "id": 151911,
+                "original_title": "Blockade",
+                "title": "Blockade",
+                "release_date": "1938-06-17",
+                "backdrop_path": "/qGW7uWGJndTCdcuID7W9PAKDsH2.jpg",
+                "poster_path": "/zvE961Nkem8niL1Q5dxkarei7jx.jpg",
+                "overview": "A simple peasant is forced to take up arms to defend his farm during the Spanish Civil War. Along the way he falls in love with a Russian girl whose father is involved in espionage.",
+                "vote_average": 5.6,
+                "vote_count": 9
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Breaking the Ice",
+            "second_label": "Victor Young",
+            "category": "Music (Original Score)",
+            "year": 1939,
+            "tmdb": {
+                "id": 91818,
+                "original_title": "Breaking the Ice",
+                "title": "Breaking the Ice",
+                "release_date": "1938-09-22",
+                "backdrop_path": "/svMmE70nWKDdK1JhPz2kApLATc7.jpg",
+                "poster_path": "/iyiPotyY1wYekg7xWHYYQ1eZCsx.jpg",
+                "overview": "The story begins while Tommy Martin and his mother, Martha Martin say goodbye to Henry and Reuben Johnson.  After having stopped by the Mennonite farm, where Tommy and Martha stay with the William and Annie Decker, the Johnsons are headed back to their hometown of Goshen. The balance of the film is concerned with both trying to get the necessary train fare and with Tommy clearing his name over a misunderstanding.",
+                "vote_average": 3.8,
+                "vote_count": 2
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Cowboy and the Lady",
+            "second_label": "Alfred Newman",
+            "category": "Music (Original Score)",
+            "year": 1939,
+            "tmdb": {
+                "id": 112674,
+                "original_title": "The Cowboy and the Lady",
+                "title": "O Cowboy e a Granfina",
+                "release_date": "1938-11-17",
+                "backdrop_path": "/aYl4HcaxZlqRkz1ViUMOrZ1JETG.jpg",
+                "poster_path": "/7IFK76jpZPHlxRBquQSViQERzP2.jpg",
+                "overview": "Mary Smith decides after a lifetime of being a shut-in to do something wild while her father is out campaigning for the presidency, so she takes off for the family's home in West Palm Beach and inadvertently becomes romantically entangled with earnest cowboy Stretch Willoughby. Neither the dalliance nor the cowboy fit with the upper class image projected by her esteemed father, forcing her to choose.",
+                "vote_average": 6.0,
+                "vote_count": 21
+            },
+            "winner": false
+        },
+        {
+            "first_label": "If I Were King",
+            "second_label": "Richard Hageman",
+            "category": "Music (Original Score)",
+            "year": 1939,
+            "tmdb": {
+                "id": 126777,
+                "original_title": "If I Were King",
+                "title": "If I Were King",
+                "release_date": "1938-09-28",
+                "backdrop_path": "/2xDJv2SDcf7CKlFf6H2ACjMmdhS.jpg",
+                "poster_path": "/zqyhx8mpoRDqf6sdf2HlssNcP8G.jpg",
+                "overview": "King Louis XI masquerades as a commoner in Paris, seeking out the treachery he is sure lurks in his kingdom. At a local tavern, he overhears the brash poet Fran\u00e7ois Villon extolling why he would be a better king. Annoyed yet intrigued, the King bestows on Villon the title of Grand Constable. Soon Villon begins work and falls for a lovely lady-in-waiting, but then must flee execution when the King turns on him.",
+                "vote_average": 6.8,
+                "vote_count": 9
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Marie Antoinette",
+            "second_label": "Herbert Stothart",
+            "category": "Music (Original Score)",
+            "year": 1939,
+            "tmdb": {
+                "id": 43847,
+                "original_title": "Marie Antoinette",
+                "title": "Maria Antonieta",
+                "release_date": "1938-08-26",
+                "backdrop_path": "/u3IsKWC05Cuz8gh4dWR7RGVXxtG.jpg",
+                "poster_path": "/nmsqzJUN6B0guVHfXINhofe4Myt.jpg",
+                "overview": "Maria Antonieta (Norma Shearer) \u00e9 uma linda princesa austr\u00edaca com casamento marcado com o herdeiro do trono franc\u00eas Lu\u00eds Augusto (Robert Morley), casamento este arranjado por motivos pol\u00edticos. J\u00e1 no pal\u00e1cio franc\u00eas, Maria encontra-se ca\u00edda entre as intrigas da fam\u00edlia real, principalmente entre o Rei Lu\u00eds XV e seu mal\u00e9fico primo, o Conde de Orleans (Joseph Schidkraut). Para al\u00edvio de Maria, Lu\u00eds s\u00f3 poderia casar-se com ela caso ele se tornasse Rei. Certo dia, em um cassino, Maria conhece o Conde Axel de Fersen (Tyrone Power), e ambos se sentem atra\u00eddos imediatamente um pelo outro. Sentindo-se realizada com seu amante, Maria recebe uma not\u00edcia que n\u00e3o esperava t\u00e3o logo, o Rei Lu\u00eds XV havia morrido. Sabendo ent\u00e3o que o Conde poderia manter um caso com a noiva do pr\u00edncipe, mas n\u00e3o com a Rainha da Fran\u00e7a, Maria teria ent\u00e3o que decidir entre seu cora\u00e7\u00e3o e a realeza.",
+                "vote_average": 6.2,
+                "vote_count": 24
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Pacific Liner",
+            "second_label": "Russell Bennett",
+            "category": "Music (Original Score)",
+            "year": 1939,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Suez",
+            "second_label": "Louis Silvers",
+            "category": "Music (Original Score)",
+            "year": 1939,
+            "tmdb": {
+                "id": 148675,
+                "original_title": "Suez",
+                "title": "Suez",
+                "release_date": "1938-10-28",
+                "backdrop_path": "/kQSyHdO0XxO7wqRAwnDv0qyqYaC.jpg",
+                "poster_path": "/cBMgf5cIBIYuHvCuOVQN7TXDECS.jpg",
+                "overview": "Ferdinand de Lesseps, disappointed in love, is sent as a junior diplomat to the Isthmus of Suez, and realizes it's just the place for a canal.",
+                "vote_average": 5.4,
+                "vote_count": 13
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Young in Heart",
+            "second_label": "Franz Waxman",
+            "category": "Music (Original Score)",
+            "year": 1939,
+            "tmdb": {
+                "id": 38023,
+                "original_title": "The Young in Heart",
+                "title": "Jovem no Cora\u00e7\u00e3o",
+                "release_date": "1938-07-06",
+                "backdrop_path": "/zf6rG4GfJZmlVnCohjq2hzExxOC.jpg",
+                "poster_path": "/ecimQFwdSBQTNwdznb1d2EMuYLh.jpg",
+                "overview": "A family of confidence tricksters sets their sights on a very rich, very lonely old lady named Miss Fortune.",
+                "vote_average": 6.5,
+                "vote_count": 22
+            },
+            "winner": false
+        }
+    ],
+    "Music (Scoring)": [
+        {
+            "first_label": "Alexander's Ragtime Band",
+            "second_label": "Alfred Newman",
+            "category": "Music (Scoring)",
+            "year": 1939,
+            "tmdb": {
+                "id": 43839,
+                "original_title": "Alexander's Ragtime Band",
+                "title": "A Epop\u00e9ia do Jazz",
+                "release_date": "1938-05-24",
+                "backdrop_path": "/zEHZBRf97910p4bL8HL398ZUs5p.jpg",
+                "poster_path": "/tbmvwfs9C1eTIyCcuhdbnFeuQSA.jpg",
+                "overview": "Alexander (Tyrone Power) escandaliza a sociedade ao montar uma orquestra de Ragtime, estilo musical popular demais para se levar a s\u00e9rio. Vencedor do Oscar de Melhor Trilha Sonora.",
+                "vote_average": 6.6,
+                "vote_count": 24
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Carefree",
+            "second_label": "Victor Baravalle",
+            "category": "Music (Scoring)",
+            "year": 1939,
+            "tmdb": {
+                "id": 29872,
+                "original_title": "Carefree",
+                "title": "Dance Comigo",
+                "release_date": "1938-09-02",
+                "backdrop_path": "/ovbtkxEC7ihITdlc1y9Ir9aQU4w.jpg",
+                "poster_path": "/8li7nEWRPtRdF5N4PArwVVfcvqz.jpg",
+                "overview": "O psicanalista Tony Flagg aceita analisar a jovem Amanda Cooper, para ver se descobre porque ela rompeu o noivado com Stephen Arden tr\u00eas vezes. Amanda acaba por se apaixonar por ele, for\u00e7ando-o a hipnotiz\u00e1-la para incutir em seu subconsciente a ideia de que ela o odeia e ama Stephen. Por\u00e9m, quando descobre que tamb\u00e9m foi fisgado por ela, Tony ter\u00e1 de desfazer tudo...",
+                "vote_average": 6.7,
+                "vote_count": 56
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Girls' School",
+            "second_label": "Morris Stoloff, Gregory Stone",
+            "category": "Music (Scoring)",
+            "year": 1939,
+            "tmdb": {
+                "id": 235645,
+                "original_title": "Girls' School",
+                "title": "Girls' School",
+                "release_date": "1938-09-30",
+                "backdrop_path": "/jCiLQEwh19q6rhVls9hyzs2W43s.jpg",
+                "poster_path": "/9YgIdPXO3Yw54k9ZNXvpeTMAk8.jpg",
+                "overview": "Wealthy high school girls are sent to a boarding school to learn proper etiquette. Linda Simpson stays out all night. She tells her roommate, Betty Fleet, that it was because she's planning to elope. Linda gets in trouble when the faculty finds out from a monitor's report submitted by reluctant Natalie Freeman, a poor girl attending on scholarship.",
+                "vote_average": 6.0,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Goldwyn Follies",
+            "second_label": "Alfred Newman",
+            "category": "Music (Scoring)",
+            "year": 1939,
+            "tmdb": {
+                "id": 43854,
+                "original_title": "The Goldwyn Follies",
+                "title": "The Goldwyn Follies",
+                "release_date": "1938-02-04",
+                "backdrop_path": "/pNgR1gw9zQnn5Ad8DyG4fVJb2vI.jpg",
+                "poster_path": "/c3WMRi7IWpVTDnHx351TqBo1OdE.jpg",
+                "overview": "Movie producer chooses a simple girl to be \"Miss Humanity\" and to critically evalute his movies from the point of view of the ordinary person.",
+                "vote_average": 4.6,
+                "vote_count": 10
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jezebel",
+            "second_label": "Max Steiner",
+            "category": "Music (Scoring)",
+            "year": 1939,
+            "tmdb": {
+                "id": 1976,
+                "original_title": "Jezebel",
+                "title": "Jezebel",
+                "release_date": "1938-03-26",
+                "backdrop_path": "/bgfcTn3q8r16DByTJepeJwGT8Bz.jpg",
+                "poster_path": "/xewvSLrr0Ru6qVMwVqVheFLaGm4.jpg",
+                "overview": "Em 1852, em Nova Orleans, uma jovem egoc\u00eantrica da aristocracia local provoca o rompimento do seu noivado ao usar um vestido vermelho, quando as mo\u00e7as deviam usar branco. Apesar de seu antigo noivo se casar com outra mulher, ela continua amando-o. Ela tem a grande chance de lhe provar que realmente deixou de ser uma jovem mimada quando uma peste se abate sobre a cidade. (e 10 - Estimado 10 Anos)",
+                "vote_average": 7.1,
+                "vote_count": 178
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mad about Music",
+            "second_label": "Charles Previn, Frank Skinner",
+            "category": "Music (Scoring)",
+            "year": 1939,
+            "tmdb": {
+                "id": 61646,
+                "original_title": "Mad About Music",
+                "title": "Mad About Music",
+                "release_date": "1938-02-27",
+                "backdrop_path": "/i3BXBwbig629GMAOuItwodTdGSF.jpg",
+                "poster_path": "/1zuVmfuqQq8WEd6ZEf17LvmbXU6.jpg",
+                "overview": "A young woman at a girl's school in Switzerland makes up stories about and writes herself letters from an imaginary explorer-adventurer father; and is eventually put in a position where she has to produce him. Interesting things happen as she talks a visiting Englishman into helping her out.",
+                "vote_average": 7.2,
+                "vote_count": 7
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Storm over Bengal",
+            "second_label": "Cy Feuer",
+            "category": "Music (Scoring)",
+            "year": 1939,
+            "tmdb": {
+                "id": 218330,
+                "original_title": "Storm Over Bengal",
+                "title": "Storm Over Bengal",
+                "release_date": "1938-11-14",
+                "backdrop_path": "/x5pkYFL1rYKklkA3JEKAyMMsmXI.jpg",
+                "poster_path": "/VMDeJcFUqIGVjIOycsvUK5IkQs.jpg",
+                "overview": "This being a Republic picture, it should come as no surprise that Storm Over Bengal was filmed in its entirety in the San Fernando Valley. Within its concise 65 minutes, the film manages to accommodate a Bengal Lancers main plot, a romantic subplot, the obligatory coward who makes good, intrigue aplenty from a villainous Indian potentate, and an outsized climactic battle between the rebels and the British forces. Patric Knowles, previously one of the leads in the British-India epic Charge of the Light Brigade, heads the cast. Worth noting is the presence in the cast of Richard Cromwell as secondary romantic lead Neil Allison and Douglass Dumbrille as the despicable Khan. Three years earlier, Cromwell had been tortured by Dumbrille's minions in Lives of a Bengal Lancer, and he undergoes much the same treatment here-\"just to make him feel at home\" observed film historian Roger Dooley.",
+                "vote_average": 5.0,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sweethearts",
+            "second_label": "Herbert Stothart",
+            "category": "Music (Scoring)",
+            "year": 1939,
+            "tmdb": {
+                "id": 43849,
+                "original_title": "Sweethearts",
+                "title": "Sweethearts",
+                "release_date": "1938-12-30",
+                "backdrop_path": "/nWwzoR4NYbn1IGlA5VQjna4nO0g.jpg",
+                "poster_path": "/oBj60AHDKS9Bf4UxezVf2N8xqze.jpg",
+                "overview": "Bickering husband-and-wife stage stars are manipulated into a break-up for publicity purposes.",
+                "vote_average": 5.3,
+                "vote_count": 9
+            },
+            "winner": false
+        },
+        {
+            "first_label": "There Goes My Heart",
+            "second_label": "Marvin Hatley",
+            "category": "Music (Scoring)",
+            "year": 1939,
+            "tmdb": {
+                "id": 80771,
+                "original_title": "There Goes My Heart",
+                "title": "A\u00ed Vai Meu Cora\u00e7\u00e3o",
+                "release_date": "1938-10-14",
+                "backdrop_path": "/g2twW9TPWyYEWH6xc9o3s4eHr5B.jpg",
+                "poster_path": "/cKWrAEES5NkT5Uc5j4bhMoIukKF.jpg",
+                "overview": "An heiress takes a job as a department store clerk.",
+                "vote_average": 7.2,
+                "vote_count": 12
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tropic Holiday",
+            "second_label": "Boris Morros",
+            "category": "Music (Scoring)",
+            "year": 1939,
+            "tmdb": {
+                "id": 218331,
+                "original_title": "Tropic Holiday",
+                "title": "Tropic Holiday",
+                "release_date": "1938-06-29",
+                "backdrop_path": "/fP1VMRW5PHx7lbeGNGcItOyvCz7.jpg",
+                "poster_path": "/3MCXFtJc0yOtS4hx4UzzFGBgynR.jpg",
+                "overview": "A screenwriter falls in love with a Mexican woman while searching for a story line south of the border.",
+                "vote_average": 5.0,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Young in Heart",
+            "second_label": "Franz Waxman",
+            "category": "Music (Scoring)",
+            "year": 1939,
+            "tmdb": {
+                "id": 38023,
+                "original_title": "The Young in Heart",
+                "title": "Jovem no Cora\u00e7\u00e3o",
+                "release_date": "1938-07-06",
+                "backdrop_path": "/zf6rG4GfJZmlVnCohjq2hzExxOC.jpg",
+                "poster_path": "/ecimQFwdSBQTNwdznb1d2EMuYLh.jpg",
+                "overview": "A family of confidence tricksters sets their sights on a very rich, very lonely old lady named Miss Fortune.",
+                "vote_average": 6.5,
+                "vote_count": 22
+            },
+            "winner": false
+        }
+    ],
+    "Music (Song)": [
+        {
+            "first_label": "The Big Broadcast of 1938",
+            "second_label": "Thanks For The Memory in \"The Big Broadcast of 1938\" Music by Ralph Rainger; Lyrics by Leo Robin",
+            "category": "Music (Song)",
+            "year": 1939,
+            "tmdb": {
+                "id": 60562,
+                "original_title": "The Big Broadcast of 1938",
+                "title": "The Big Broadcast of 1938",
+                "release_date": "1938-02-11",
+                "backdrop_path": "/8O8Vv0tnmWo7MaMIggYGR6qZQ4G.jpg",
+                "poster_path": "/ndi8FeEc0Tz8hKoTV89woEQYzWP.jpg",
+                "overview": "The Bellows family causes comic confusion on an ocean liner, with time out for radio-style musical acts.",
+                "vote_average": 5.9,
+                "vote_count": 17
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Mannequin",
+            "second_label": "Always And Always in \"Mannequin\" Music by Edward Ward; Lyrics by Chet Forrest and Bob Wright",
+            "category": "Music (Song)",
+            "year": 1939,
+            "tmdb": {
+                "id": 33025,
+                "original_title": "Mannequin",
+                "title": "Manequim",
+                "release_date": "1938-01-21",
+                "backdrop_path": "/cNWWdsybfMDSeD9sK4IZdXaVjQl.jpg",
+                "poster_path": "/drXTm0jhPUGBNCt1x13XYnQ1lW.jpg",
+                "overview": "Jessie, a young working class woman, seeks to improve her life by marrying her boyfriend, only to find out that he is no better than what she left behind.",
+                "vote_average": 6.1,
+                "vote_count": 19
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Carefree",
+            "second_label": "Change Partners in \"Carefree\" Music and Lyrics by Irving Berlin",
+            "category": "Music (Song)",
+            "year": 1939,
+            "tmdb": {
+                "id": 29872,
+                "original_title": "Carefree",
+                "title": "Dance Comigo",
+                "release_date": "1938-09-02",
+                "backdrop_path": "/ovbtkxEC7ihITdlc1y9Ir9aQU4w.jpg",
+                "poster_path": "/8li7nEWRPtRdF5N4PArwVVfcvqz.jpg",
+                "overview": "O psicanalista Tony Flagg aceita analisar a jovem Amanda Cooper, para ver se descobre porque ela rompeu o noivado com Stephen Arden tr\u00eas vezes. Amanda acaba por se apaixonar por ele, for\u00e7ando-o a hipnotiz\u00e1-la para incutir em seu subconsciente a ideia de que ela o odeia e ama Stephen. Por\u00e9m, quando descobre que tamb\u00e9m foi fisgado por ela, Tony ter\u00e1 de desfazer tudo...",
+                "vote_average": 6.7,
+                "vote_count": 56
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Cowboy and the Lady",
+            "second_label": "The Cowboy And The Lady in \"The Cowboy and the Lady\" Music by Lionel Newman; Lyrics by Arthur Quenzer",
+            "category": "Music (Song)",
+            "year": 1939,
+            "tmdb": {
+                "id": 112674,
+                "original_title": "The Cowboy and the Lady",
+                "title": "O Cowboy e a Granfina",
+                "release_date": "1938-11-17",
+                "backdrop_path": "/aYl4HcaxZlqRkz1ViUMOrZ1JETG.jpg",
+                "poster_path": "/7IFK76jpZPHlxRBquQSViQERzP2.jpg",
+                "overview": "Mary Smith decides after a lifetime of being a shut-in to do something wild while her father is out campaigning for the presidency, so she takes off for the family's home in West Palm Beach and inadvertently becomes romantically entangled with earnest cowboy Stretch Willoughby. Neither the dalliance nor the cowboy fit with the upper class image projected by her esteemed father, forcing her to choose.",
+                "vote_average": 6.0,
+                "vote_count": 21
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Under Western Stars",
+            "second_label": "Dust in \"Under Western Stars\" Music and Lyrics by Johnny Marvin",
+            "category": "Music (Song)",
+            "year": 1939,
+            "tmdb": {
+                "id": 85678,
+                "original_title": "Under Western Stars",
+                "title": "Under Western Stars",
+                "release_date": "1938-04-20",
+                "backdrop_path": "/7O3Orw3DJu8vXpy36rqV0VYBRya.jpg",
+                "poster_path": "/dD1JQAQXhSP6vVZmAbKZ9LuJzOg.jpg",
+                "overview": "In his starring debut, Roy gets elected to Congress in order to bring water to the ranchers in his district. In Washington, he learns he needs the backing of a key congressman and gets that man to go west for an inspection trip. When the congressman is initially unimpressed, Roy gets the inspection party stranded without water to show the true conditions.",
+                "vote_average": 5.8,
+                "vote_count": 12
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Going Places",
+            "second_label": "Jeepers Creepers in \"Going Places\" Music by Harry Warren; Lyrics by Johnny Mercer",
+            "category": "Music (Song)",
+            "year": 1939,
+            "tmdb": {
+                "id": 45240,
+                "original_title": "Going Places",
+                "title": "Going Places",
+                "release_date": "1938-12-31",
+                "backdrop_path": "/f2kC6bNjNmrc7dE2hZrzQ5GrnmE.jpg",
+                "poster_path": "/Abn0bnh1Zgk44MkKGeClDrsMQX7.jpg",
+                "overview": "A sports store clerk poses as a famous jockey as an advertising stunt, but gets more than he bargained for.",
+                "vote_average": 6.0,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Merrily We Live",
+            "second_label": "Merrily We Live in \"Merrily We Live\" Music by Phil Charig; Lyrics by Arthur Quenzer",
+            "category": "Music (Song)",
+            "year": 1939,
+            "tmdb": {
+                "id": 111315,
+                "original_title": "Merrily We Live",
+                "title": "Sua Excel\u00eancia, O Chofer",
+                "release_date": "1938-03-04",
+                "backdrop_path": "/zk8dHHRlBvN5yxBIP97fcCDP3dM.jpg",
+                "poster_path": "/k1bav32MQdTG9SjOiOL31MiB55l.jpg",
+                "overview": "A maluca matrona da sociedade Emily Kilbourne tem o h\u00e1bito de contratar ex-presidi\u00e1rios e vagabundos como criados. Sua \u00faltima descoberta \u00e9 um belo 'vagabundo' que aparece na sua porta e logo acaba em um uniforme de motorista. Ele tamb\u00e9m chama a aten\u00e7\u00e3o da linda Geraldine. (e 12 - Estimado 12 Anos)",
+                "vote_average": 7.2,
+                "vote_count": 30
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Lady Objects",
+            "second_label": "A Mist Over The Moon in \"The Lady Objects\" Music by Ben Oakland; Lyrics by Oscar Hammerstein II",
+            "category": "Music (Song)",
+            "year": 1939,
+            "tmdb": {
+                "id": 235422,
+                "original_title": "The Lady Objects",
+                "title": "The Lady Objects",
+                "release_date": "1938-10-12",
+                "backdrop_path": "/sNFHDCjvgIWft26HtN4PgIvnJEd.jpg",
+                "poster_path": "/y33Ncwm43QFl55Z8CjZF5M8kEdM.jpg",
+                "overview": "A former college football hero and his college sweetheart get married. Marital turmoil ensues as her criminal law practice soars while he cannot get his career as an architect off the ground. They separate, and the man begins making extra money by singing in a nightclub. When he is unjustly accused of murder, it is up to his estranged wife to defend him in court.",
+                "vote_average": 5.2,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "That Certain Age",
+            "second_label": "My Own in \"That Certain Age\" Music by Jimmy McHugh; Lyrics by Harold Adamson",
+            "category": "Music (Song)",
+            "year": 1939,
+            "tmdb": {
+                "id": 61649,
+                "original_title": "That Certain Age",
+                "title": "That Certain Age",
+                "release_date": "1938-10-06",
+                "backdrop_path": "/AihvfNHfqs6KFTZe5DlxKaGz228.jpg",
+                "poster_path": "/uVIvRmiSV2ZmPJmGSpEjASUySfv.jpg",
+                "overview": "Dashing reporter Vincent Bullit has just returned from covering the Spanish Civil War. His boss, newspaper magnate Fullerton, has more plans to send him off to China. However, first Fullerton invites Bullit to the peace and quiet of his own home to write a series of European affair articles. When Fullerton's adolescent daughter Alice develops a crush on Bullit, her suitor, boyscout Ken Warren, doesn't seem to stand a chance. Mr. and Mrs. Fullerton, Ken Warren, and even Vincent Bullit himself do their best to sway young Alice's feelings away from the older man. It's a difficult task though, as she is at 'that certain age.'",
+                "vote_average": 4.8,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Alexander's Ragtime Band",
+            "second_label": "Now It Can Be Told in \"Alexander's Ragtime Band\" Music and Lyrics by Irving Berlin",
+            "category": "Music (Song)",
+            "year": 1939,
+            "tmdb": {
+                "id": 43839,
+                "original_title": "Alexander's Ragtime Band",
+                "title": "A Epop\u00e9ia do Jazz",
+                "release_date": "1938-05-24",
+                "backdrop_path": "/zEHZBRf97910p4bL8HL398ZUs5p.jpg",
+                "poster_path": "/tbmvwfs9C1eTIyCcuhdbnFeuQSA.jpg",
+                "overview": "Alexander (Tyrone Power) escandaliza a sociedade ao montar uma orquestra de Ragtime, estilo musical popular demais para se levar a s\u00e9rio. Vencedor do Oscar de Melhor Trilha Sonora.",
+                "vote_average": 6.6,
+                "vote_count": 24
+            },
+            "winner": false
+        }
+    ],
+    "Outstanding Production": [
+        {
+            "first_label": "You Can't Take It with You",
+            "second_label": "Columbia",
+            "category": "Outstanding Production",
+            "year": 1939,
+            "tmdb": {
+                "id": 34106,
+                "original_title": "You Can't Take It with You",
+                "title": "Do Mundo Nada Se Leva",
+                "release_date": "1938-09-01",
+                "backdrop_path": "/evKZkXjWbg9Nv623DXz9MZXFxr7.jpg",
+                "poster_path": "/j7J2zAFDLYPdLCeRmW0JAkKygfZ.jpg",
+                "overview": "Alice Sycamore (Jean Arthur) deseja apresentar Tony Kirby (James Stewart), seu noivo, \u00e0 sua fam\u00edlia, mas como ele prov\u00eam de uma fam\u00edlia rica e influente e a sua \u00e9 composta de pessoas extrovertidas e um tanto lun\u00e1ticas, h\u00e1 um choque de comportamentos. Para completar, Anthony P. Kirby (Edward Arnold), o pai do seu noivo, j\u00e1 comprou todos os im\u00f3veis da regi\u00e3o onde a fam\u00edlia de Alice vive para um importante empreendimento, com exce\u00e7\u00e3o da casa de Alice. Sem este im\u00f3vel o projeto n\u00e3o pode ir adiante e, como h\u00e1 uma recusa em vender, este posicionamento gera um clima desfavor\u00e1vel entre as duas fam\u00edlias.",
+                "vote_average": 7.5,
+                "vote_count": 366
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Adventures of Robin Hood",
+            "second_label": "Warner Bros.-First National",
+            "category": "Outstanding Production",
+            "year": 1939,
+            "tmdb": {
+                "id": 10907,
+                "original_title": "The Adventures of Robin Hood",
+                "title": "As Aventuras de Robin Hood",
+                "release_date": "1938-05-13",
+                "backdrop_path": "/ifxyUSC5QDnjWaCmSgEJ7DhLt5Y.jpg",
+                "poster_path": "/aWXud8CnjWXYWPDmVwrfusSoDm0.jpg",
+                "overview": "Quando o Rei Richard \u00e9 capturado, seu irm\u00e3o, o Pr\u00edncipe John planeja em alcan\u00e7ar o trono, para a revolta do senhor Robin de Locksley, o rei bandido da floresta de Sherwood. Com o seu bando de homens e ganhando o suporte de Maid Marian, Robin acusa o Pr\u00edncipe John de trai\u00e7\u00e3o. Quando o fugitivo Richard volta para a Inglaterra, ele junta for\u00e7as com o rei para impedir que o Pr\u00edncipe John tome a coroa.",
+                "vote_average": 7.5,
+                "vote_count": 698
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Alexander's Ragtime Band",
+            "second_label": "20th Century-Fox",
+            "category": "Outstanding Production",
+            "year": 1939,
+            "tmdb": {
+                "id": 43839,
+                "original_title": "Alexander's Ragtime Band",
+                "title": "A Epop\u00e9ia do Jazz",
+                "release_date": "1938-05-24",
+                "backdrop_path": "/zEHZBRf97910p4bL8HL398ZUs5p.jpg",
+                "poster_path": "/tbmvwfs9C1eTIyCcuhdbnFeuQSA.jpg",
+                "overview": "Alexander (Tyrone Power) escandaliza a sociedade ao montar uma orquestra de Ragtime, estilo musical popular demais para se levar a s\u00e9rio. Vencedor do Oscar de Melhor Trilha Sonora.",
+                "vote_average": 6.6,
+                "vote_count": 24
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Boys Town",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Outstanding Production",
+            "year": 1939,
+            "tmdb": {
+                "id": 42390,
+                "original_title": "Boys Town",
+                "title": "Com os Bra\u00e7os Abertos",
+                "release_date": "1938-09-08",
+                "backdrop_path": "/pvvUqgvDXu8aLd5VqgrfOccnrnP.jpg",
+                "poster_path": "/jGwKOZvPItNSocHFAg1USbhKR6c.jpg",
+                "overview": "Devout but iron-willed Father Flanagan leads a community called Boys Town, a different sort of juvenile detention facility where, instead of being treated as underage criminals, the boys are shepherded into making themselves better people. But hard-nosed petty thief and pool shark Whitey Marsh, the impulsive and violent younger brother of an imprisoned murderer, might be too much for the good father's tough-love system.",
+                "vote_average": 6.7,
+                "vote_count": 80
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Citadel",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Outstanding Production",
+            "year": 1939,
+            "tmdb": {
+                "id": 84090,
+                "original_title": "The Citadel",
+                "title": "The Citadel",
+                "release_date": "1938-10-29",
+                "backdrop_path": "/2X9pCHvlTtUKbYTaO1onWvPB7Jg.jpg",
+                "poster_path": "/eyGS36ZBJmp9RY9zFfX1arralxc.jpg",
+                "overview": "Andrew Manson, a young, idealistic, newly qualified Scottish doctor arrives in Wales takes his first job in a mining town, and begins to wonder at the persistent cough many of the miners have. When his attempts to prove its cause are thwarted, he moves to London. His new practice does badly. But when a friend shows him how to make a lucrative practice from rich hypochondriacs, it will take a great shock to show him what the truth of being a doctor really is.",
+                "vote_average": 6.3,
+                "vote_count": 26
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Four Daughters",
+            "second_label": "Warner Bros.-First National",
+            "category": "Outstanding Production",
+            "year": 1939,
+            "tmdb": {
+                "id": 67880,
+                "original_title": "Four Daughters",
+                "title": "Quatro Filhas",
+                "release_date": "1938-08-09",
+                "backdrop_path": "/sqEtYFNkuqJQi9ue23qwtuWBJCa.jpg",
+                "poster_path": "/qziPNg2Xr2kZeUUjE2X5GBeQRZe.jpg",
+                "overview": "Musician Adam Lemp and his four equally musical daughters, Emma, Ann, Kay, and Thea, live happily together. Each daughter has an upstanding young man for whom she cares. However, the arrival of a cynical, slovenly young composer named Mickey Borden turns the household upside-down, and romantic and tragic complications ensue.",
+                "vote_average": 6.5,
+                "vote_count": 22
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Grand Illusion",
+            "second_label": "Realization D'Art Cinematographique",
+            "category": "Outstanding Production",
+            "year": 1939,
+            "tmdb": {
+                "id": 777,
+                "original_title": "La Grande Illusion",
+                "title": "A Grande Ilus\u00e3o",
+                "release_date": "1937-06-04",
+                "backdrop_path": "/yNraM35Vsga5x54whRh7BvQ9afm.jpg",
+                "poster_path": "/lWg41zE0FVixkNsFgxnlRyvDYv9.jpg",
+                "overview": "A Primeira Guerra Mundial em uma \u00e9poca que ela n\u00e3o era conhecida como tal - o filme conta a hist\u00f3ria de um grupo de soldados franceses presos em um campo de prisioneiros na Alemanha em 1916, de suas an\u00e1lises sobre a guerra e do comportamento humano no meio dela.",
+                "vote_average": 7.858,
+                "vote_count": 645
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jezebel",
+            "second_label": "Warner Bros.",
+            "category": "Outstanding Production",
+            "year": 1939,
+            "tmdb": {
+                "id": 1976,
+                "original_title": "Jezebel",
+                "title": "Jezebel",
+                "release_date": "1938-03-26",
+                "backdrop_path": "/bgfcTn3q8r16DByTJepeJwGT8Bz.jpg",
+                "poster_path": "/xewvSLrr0Ru6qVMwVqVheFLaGm4.jpg",
+                "overview": "Em 1852, em Nova Orleans, uma jovem egoc\u00eantrica da aristocracia local provoca o rompimento do seu noivado ao usar um vestido vermelho, quando as mo\u00e7as deviam usar branco. Apesar de seu antigo noivo se casar com outra mulher, ela continua amando-o. Ela tem a grande chance de lhe provar que realmente deixou de ser uma jovem mimada quando uma peste se abate sobre a cidade. (e 10 - Estimado 10 Anos)",
+                "vote_average": 7.1,
+                "vote_count": 178
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Pygmalion",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Outstanding Production",
+            "year": 1939,
+            "tmdb": {
+                "id": 25016,
+                "original_title": "Pygmalion",
+                "title": "Pygmalion",
+                "release_date": "1939-03-03",
+                "backdrop_path": "/9R4Zmk9vDP2Lk0JNOaAw09LG3lU.jpg",
+                "poster_path": "/aoaSwi4nCKoRWpSv607IVe33x6m.jpg",
+                "overview": "When linguistics professor Henry Higgins boasts that he can pass off Cockney flower girl Eliza Doolittle as a princess with only six months' training, Colonel George Pickering takes him up on the bet. Eliza moves into Higgins's home and begins her rigorous training after the professor comes to a financial agreement with her dustman father, Alfred. But the plucky young woman is not the only one undergoing a transformation.",
+                "vote_average": 7.0,
+                "vote_count": 127
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Test Pilot",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Outstanding Production",
+            "year": 1939,
+            "tmdb": {
+                "id": 43155,
+                "original_title": "Test Pilot",
+                "title": "Piloto de Provas",
+                "release_date": "1938-04-16",
+                "backdrop_path": "/kH7H0GLLQDN1qTndYFScfIFtIjQ.jpg",
+                "poster_path": "/vdZ5rv7Cg6HTM6UaMvjezKO0juk.jpg",
+                "overview": "Jim is a test pilot. His wife Ann and best friend Gunner try their best to keep him sober. But the life of a test pilot is anything but safe.",
+                "vote_average": 6.6,
+                "vote_count": 64
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Cartoon)": [
+        {
+            "first_label": "Ferdinand the Bull",
+            "second_label": "Walt Disney, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1939,
+            "tmdb": {
+                "id": 47166,
+                "original_title": "Ferdinand the Bull",
+                "title": "Ferdinando: O Touro",
+                "release_date": "1938-11-23",
+                "backdrop_path": "/znaH5tNazEMv4DTc07vC5rFi7m7.jpg",
+                "poster_path": "/pf6v66CQUFf0JzJcj9crXcKx4DW.jpg",
+                "overview": "Hist\u00f3ria de um forte touro que, ao contr\u00e1rio do outros jovens touros, odiava lutar, preferia ficar quietinho cheirando as flores.",
+                "vote_average": 6.5,
+                "vote_count": 161
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Brave Little Tailor",
+            "second_label": "Walt Disney, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1939,
+            "tmdb": {
+                "id": 57472,
+                "original_title": "Brave Little Tailor",
+                "title": "O Alfaiatezinho Valente",
+                "release_date": "1938-09-23",
+                "backdrop_path": "/oSIPum1CLiWk77LUIbRTwgOs31m.jpg",
+                "poster_path": "/nQbMajQikvP8veETGHbPpzpMOR2.jpg",
+                "overview": "Mickey e sua banda est\u00e3o determinados a executar suas m\u00fasicas, apesar da interfer\u00eancia do Pato Donald e uma forte tempestade.",
+                "vote_average": 6.9,
+                "vote_count": 111
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Good Scouts",
+            "second_label": "Walt Disney, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1939,
+            "tmdb": {
+                "id": 69099,
+                "original_title": "Good Scouts",
+                "title": "Good Scouts",
+                "release_date": "1938-07-08",
+                "backdrop_path": "/hVUW2wCNVXlvygNiguYYKMH8m8y.jpg",
+                "poster_path": "/aXU4dxY97FwGkUOSWk0zEHvIUZF.jpg",
+                "overview": "Donald is leading a scout troop consisting of his nephews on a hike in the woods. Donald isn't nearly the expert on the woods that he thinks he is, much to the amusement of the boys. In a bid for sympathy, he douses himself in catsup and fakes injury; the boys bandage him so thoroughly he can't see, and he stumbles into a pot of honey, and is soon getting all too much attention from a bear.",
+                "vote_average": 5.9,
+                "vote_count": 38
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hunky and Spunky",
+            "second_label": "Paramount",
+            "category": "Short Subject (Cartoon)",
+            "year": 1939,
+            "tmdb": {
+                "id": 235653,
+                "original_title": "Hunky and Spunky",
+                "title": "Hunky and Spunky",
+                "release_date": "1938-06-24",
+                "backdrop_path": "/qtlPyIKPg1kVDyrDDlAztDbYgKE.jpg",
+                "poster_path": "/qNrLgwd5oYghpOHGkDRO6EqQyON.jpg",
+                "overview": "A short film about a mother and her son, she teaches him life skills later on the son gets niked by a man so the young donkey can be his work slave and his mother saves him.  Preserved by the Academy Film Archive in partnership with the UCLA Film and Television Archive in 2013.",
+                "vote_average": 5.4,
+                "vote_count": 8
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mother Goose Goes Hollywood",
+            "second_label": "Walt Disney, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1939,
+            "tmdb": {
+                "id": 67128,
+                "original_title": "Mother Goose Goes Hollywood",
+                "title": "Mother Goose Goes Hollywood",
+                "release_date": "1938-12-23",
+                "backdrop_path": "/fCEyJSoZBBdBiSbbQGZeeAgc1Qy.jpg",
+                "poster_path": "/9PZaeU6pWSL9a6P0MHoXSQn7wbZ.jpg",
+                "overview": "Various Mother Goose rhymes are portrayed by Hollywood stars for example, Old King Cole's fiddlers three are the Marx Brothers, and Humpty Dumpty is W.C. Fields, who falls while tormenting Charlie McCarthy; Simple Simon and the Pieman are Laurel and Hardy.",
+                "vote_average": 5.4,
+                "vote_count": 25
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (One-reel)": [
+        {
+            "first_label": "That Mothers Might Live",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Short Subject (One-reel)",
+            "year": 1939,
+            "tmdb": {
+                "id": 235647,
+                "original_title": "That Mothers Might Live",
+                "title": "That Mothers Might Live",
+                "release_date": "1938-04-30",
+                "backdrop_path": null,
+                "poster_path": "/ihiMJSmcrgYsHlv4k5VkdLPkNqP.jpg",
+                "overview": "That Mothers Might Live is a 1938 American short drama film directed by Fred Zinnemann. The short is a brief account of Hungarian physician Ignaz Semmelweis and his discovery of the need for cleanliness in 19th-century maternity wards, thereby significantly decreasing maternal mortality, and of his struggle to gain acceptance of his idea. Although Semmelweis ultimately failed in his lifetime, later scientific luminaries advanced his work in spirit like microbiologist Louis Pasteur, who provided a scientific theoretical explanation of Semmelweis' observations by helping develop the germ theory of disease and the British surgeon, Dr. Joseph Lister who revolutionized medicine putting Pasteur's research to practical use. In 1939, at the 11th Academy Awards, the film won an Oscar for Best Short Subject (One-Reel).",
+                "vote_average": 5.5,
+                "vote_count": 6
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Great Heart",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Short Subject (One-reel)",
+            "year": 1939,
+            "tmdb": {
+                "id": 235651,
+                "original_title": "The Great Heart",
+                "title": "The Great Heart",
+                "release_date": "1938-12-31",
+                "backdrop_path": null,
+                "poster_path": "/5o9Nnt1B3870JOQuG1YxqVp9smD.jpg",
+                "overview": "This short film tells the true story of the heroic sacrifice of Father Damien, the Belgian priest who suffered a living death in order to bring hope and God's comfort to the lepers confined on the Hawaiian island of Molokai.",
+                "vote_average": 5.6,
+                "vote_count": 7
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Timber Toppers",
+            "second_label": "20th Century-Fox",
+            "category": "Short Subject (One-reel)",
+            "year": 1939,
+            "tmdb": {
+                "id": 235652,
+                "original_title": "Timber Toppers",
+                "title": "Timber Toppers",
+                "release_date": "1938-12-31",
+                "backdrop_path": null,
+                "poster_path": "/u8KjCFTgMoRvhxdiFcNFWvnruDD.jpg",
+                "overview": "Timber Toppers is a 1938 American short film by 20th Century Fox. In 1939, it was nominated for an Academy Award for Best Live Action Short Film, One-Reel at the 11th Academy Awards.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Two-reel)": [
+        {
+            "first_label": "Declaration of Independence",
+            "second_label": "Warner Bros.",
+            "category": "Short Subject (Two-reel)",
+            "year": 1939,
+            "tmdb": {
+                "id": 235646,
+                "original_title": "The Declaration of Independence",
+                "title": "The Declaration of Independence",
+                "release_date": "1938-11-26",
+                "backdrop_path": null,
+                "poster_path": "/1WqfNahCpKm0l2TBssR4oS6DalM.jpg",
+                "overview": "This historical featurette focuses on Caesar Rodney of Delaware who in the summer of 1776 cast the deciding vote, at the meeting of the Continental Congress in Philadelphia, so that the Declaration of Independence was adopted.",
+                "vote_average": 5.7,
+                "vote_count": 6
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Swingtime in the Movies",
+            "second_label": "Warner Bros.",
+            "category": "Short Subject (Two-reel)",
+            "year": 1939,
+            "tmdb": {
+                "id": 157382,
+                "original_title": "Swingtime in the Movies",
+                "title": "Swingtime in the Movies",
+                "release_date": "1938-12-24",
+                "backdrop_path": "/zfN3XS0qIh1eznmddFU09CyFp58.jpg",
+                "poster_path": "/yo2cx7lJnuvZ9pIkSW26oNGKfQ8.jpg",
+                "overview": "In this musical short, a waitress at the Warner Bros. commissary gets her big break.",
+                "vote_average": 5.7,
+                "vote_count": 9
+            },
+            "winner": false
+        },
+        {
+            "first_label": "They're Always Caught",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Short Subject (Two-reel)",
+            "year": 1939,
+            "tmdb": {
+                "id": 130847,
+                "original_title": "They're Always Caught",
+                "title": "They're Always Caught",
+                "release_date": "1938-07-03",
+                "backdrop_path": "/vbzq9o9HtcXJDhIHajqJkBiW70K.jpg",
+                "poster_path": "/b3hPoRjeFzzZp2ssBIFQPxamhnu.jpg",
+                "overview": "This MGM Crime Does Not Pay series short shows the role the crime laboratory plays in the solving of cases, and how even the smallest detail can become a major clue.",
+                "vote_average": 5.5,
+                "vote_count": 4
+            },
+            "winner": false
+        }
+    ],
+    "Sound Recording": [
+        {
+            "first_label": "The Cowboy and the Lady",
+            "second_label": "United Artists Studio Sound Department, Thomas T. Moulton, Sound Director",
+            "category": "Sound Recording",
+            "year": 1939,
+            "tmdb": {
+                "id": 112674,
+                "original_title": "The Cowboy and the Lady",
+                "title": "O Cowboy e a Granfina",
+                "release_date": "1938-11-17",
+                "backdrop_path": "/aYl4HcaxZlqRkz1ViUMOrZ1JETG.jpg",
+                "poster_path": "/7IFK76jpZPHlxRBquQSViQERzP2.jpg",
+                "overview": "Mary Smith decides after a lifetime of being a shut-in to do something wild while her father is out campaigning for the presidency, so she takes off for the family's home in West Palm Beach and inadvertently becomes romantically entangled with earnest cowboy Stretch Willoughby. Neither the dalliance nor the cowboy fit with the upper class image projected by her esteemed father, forcing her to choose.",
+                "vote_average": 6.0,
+                "vote_count": 21
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Army Girl",
+            "second_label": "Republic Studio Sound Department, Charles L. Lootens, Sound Director",
+            "category": "Sound Recording",
+            "year": 1939,
+            "tmdb": {
+                "id": 197578,
+                "original_title": "Army Girl",
+                "title": "A Pequena do Ex\u00e9rcito",
+                "release_date": "1938-08-11",
+                "backdrop_path": "/9rC0ObrBYsldzg0bjgTZkCca2QV.jpg",
+                "poster_path": "/7XHwiB4uNVCrzZJx8USMWdZ99rx.jpg",
+                "overview": "Uma luta para impedir que cavalos de cavalaria sejam substitu\u00eddos por tanques culmina em uma grande corrida entre m\u00e1quina e fera.",
+                "vote_average": 6.0,
+                "vote_count": 1
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Four Daughters",
+            "second_label": "Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",
+            "category": "Sound Recording",
+            "year": 1939,
+            "tmdb": {
+                "id": 67880,
+                "original_title": "Four Daughters",
+                "title": "Quatro Filhas",
+                "release_date": "1938-08-09",
+                "backdrop_path": "/sqEtYFNkuqJQi9ue23qwtuWBJCa.jpg",
+                "poster_path": "/qziPNg2Xr2kZeUUjE2X5GBeQRZe.jpg",
+                "overview": "Musician Adam Lemp and his four equally musical daughters, Emma, Ann, Kay, and Thea, live happily together. Each daughter has an upstanding young man for whom she cares. However, the arrival of a cynical, slovenly young composer named Mickey Borden turns the household upside-down, and romantic and tragic complications ensue.",
+                "vote_average": 6.5,
+                "vote_count": 22
+            },
+            "winner": false
+        },
+        {
+            "first_label": "If I Were King",
+            "second_label": "Paramount Studio Sound Department, Loren L. Ryder, Sound Director",
+            "category": "Sound Recording",
+            "year": 1939,
+            "tmdb": {
+                "id": 126777,
+                "original_title": "If I Were King",
+                "title": "If I Were King",
+                "release_date": "1938-09-28",
+                "backdrop_path": "/2xDJv2SDcf7CKlFf6H2ACjMmdhS.jpg",
+                "poster_path": "/zqyhx8mpoRDqf6sdf2HlssNcP8G.jpg",
+                "overview": "King Louis XI masquerades as a commoner in Paris, seeking out the treachery he is sure lurks in his kingdom. At a local tavern, he overhears the brash poet Fran\u00e7ois Villon extolling why he would be a better king. Annoyed yet intrigued, the King bestows on Villon the title of Grand Constable. Soon Villon begins work and falls for a lovely lady-in-waiting, but then must flee execution when the King turns on him.",
+                "vote_average": 6.8,
+                "vote_count": 9
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Merrily We Live",
+            "second_label": "Hal Roach Studio Sound Department, Elmer A. Raguse, Sound Director",
+            "category": "Sound Recording",
+            "year": 1939,
+            "tmdb": {
+                "id": 111315,
+                "original_title": "Merrily We Live",
+                "title": "Sua Excel\u00eancia, O Chofer",
+                "release_date": "1938-03-04",
+                "backdrop_path": "/zk8dHHRlBvN5yxBIP97fcCDP3dM.jpg",
+                "poster_path": "/k1bav32MQdTG9SjOiOL31MiB55l.jpg",
+                "overview": "A maluca matrona da sociedade Emily Kilbourne tem o h\u00e1bito de contratar ex-presidi\u00e1rios e vagabundos como criados. Sua \u00faltima descoberta \u00e9 um belo 'vagabundo' que aparece na sua porta e logo acaba em um uniforme de motorista. Ele tamb\u00e9m chama a aten\u00e7\u00e3o da linda Geraldine. (e 12 - Estimado 12 Anos)",
+                "vote_average": 7.2,
+                "vote_count": 30
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Suez",
+            "second_label": "20th Century-Fox Studio Sound Department, Edmund H. Hansen, Sound Director",
+            "category": "Sound Recording",
+            "year": 1939,
+            "tmdb": {
+                "id": 148675,
+                "original_title": "Suez",
+                "title": "Suez",
+                "release_date": "1938-10-28",
+                "backdrop_path": "/kQSyHdO0XxO7wqRAwnDv0qyqYaC.jpg",
+                "poster_path": "/cBMgf5cIBIYuHvCuOVQN7TXDECS.jpg",
+                "overview": "Ferdinand de Lesseps, disappointed in love, is sent as a junior diplomat to the Isthmus of Suez, and realizes it's just the place for a canal.",
+                "vote_average": 5.4,
+                "vote_count": 13
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sweethearts",
+            "second_label": "Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",
+            "category": "Sound Recording",
+            "year": 1939,
+            "tmdb": {
+                "id": 43849,
+                "original_title": "Sweethearts",
+                "title": "Sweethearts",
+                "release_date": "1938-12-30",
+                "backdrop_path": "/nWwzoR4NYbn1IGlA5VQjna4nO0g.jpg",
+                "poster_path": "/oBj60AHDKS9Bf4UxezVf2N8xqze.jpg",
+                "overview": "Bickering husband-and-wife stage stars are manipulated into a break-up for publicity purposes.",
+                "vote_average": 5.3,
+                "vote_count": 9
+            },
+            "winner": false
+        },
+        {
+            "first_label": "That Certain Age",
+            "second_label": "Universal Studio Sound Department, Bernard B. Brown, Sound Director",
+            "category": "Sound Recording",
+            "year": 1939,
+            "tmdb": {
+                "id": 61649,
+                "original_title": "That Certain Age",
+                "title": "That Certain Age",
+                "release_date": "1938-10-06",
+                "backdrop_path": "/AihvfNHfqs6KFTZe5DlxKaGz228.jpg",
+                "poster_path": "/uVIvRmiSV2ZmPJmGSpEjASUySfv.jpg",
+                "overview": "Dashing reporter Vincent Bullit has just returned from covering the Spanish Civil War. His boss, newspaper magnate Fullerton, has more plans to send him off to China. However, first Fullerton invites Bullit to the peace and quiet of his own home to write a series of European affair articles. When Fullerton's adolescent daughter Alice develops a crush on Bullit, her suitor, boyscout Ken Warren, doesn't seem to stand a chance. Mr. and Mrs. Fullerton, Ken Warren, and even Vincent Bullit himself do their best to sway young Alice's feelings away from the older man. It's a difficult task though, as she is at 'that certain age.'",
+                "vote_average": 4.8,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Vivacious Lady",
+            "second_label": "RKO Radio Studio Sound Department, John Aalberg, Sound Director",
+            "category": "Sound Recording",
+            "year": 1939,
+            "tmdb": {
+                "id": 33630,
+                "original_title": "Vivacious Lady",
+                "title": "Vivacious Lady",
+                "release_date": "1938-05-13",
+                "backdrop_path": "/nh30qnpWoKvF5NgZ8N0SjN0xLBM.jpg",
+                "poster_path": "/lhkDEnO3gZLDAdLihgMpcRn38G.jpg",
+                "overview": "College town life gets turned upside down after a button-down botany professor secretly weds a sizzling night-club singer.",
+                "vote_average": 6.9,
+                "vote_count": 51
+            },
+            "winner": false
+        },
+        {
+            "first_label": "You Can't Take It with You",
+            "second_label": "Columbia Studio Sound Department, John Livadary, Sound Director",
+            "category": "Sound Recording",
+            "year": 1939,
+            "tmdb": {
+                "id": 34106,
+                "original_title": "You Can't Take It with You",
+                "title": "Do Mundo Nada Se Leva",
+                "release_date": "1938-09-01",
+                "backdrop_path": "/evKZkXjWbg9Nv623DXz9MZXFxr7.jpg",
+                "poster_path": "/j7J2zAFDLYPdLCeRmW0JAkKygfZ.jpg",
+                "overview": "Alice Sycamore (Jean Arthur) deseja apresentar Tony Kirby (James Stewart), seu noivo, \u00e0 sua fam\u00edlia, mas como ele prov\u00eam de uma fam\u00edlia rica e influente e a sua \u00e9 composta de pessoas extrovertidas e um tanto lun\u00e1ticas, h\u00e1 um choque de comportamentos. Para completar, Anthony P. Kirby (Edward Arnold), o pai do seu noivo, j\u00e1 comprou todos os im\u00f3veis da regi\u00e3o onde a fam\u00edlia de Alice vive para um importante empreendimento, com exce\u00e7\u00e3o da casa de Alice. Sem este im\u00f3vel o projeto n\u00e3o pode ir adiante e, como h\u00e1 uma recusa em vender, este posicionamento gera um clima desfavor\u00e1vel entre as duas fam\u00edlias.",
+                "vote_average": 7.5,
+                "vote_count": 366
+            },
+            "winner": false
+        }
+    ],
+    "Special Award": [
+        {
+            "first_label": "Snow White and the Seven Dwarfs",
+            "second_label": "Special Award",
+            "category": "Special Award",
+            "year": 1939,
+            "tmdb": {
+                "id": 408,
+                "original_title": "Snow White and the Seven Dwarfs",
+                "title": "Branca de Neve e os Sete An\u00f5es",
+                "release_date": "1937-12-21",
+                "backdrop_path": "/n3pJwYuPnkw7JX7tOMbH0GRfBPn.jpg",
+                "poster_path": "/3QrD3ljHe6j5GxAFgntlGWTwypm.jpg",
+                "overview": "A rainha malvada morre de ci\u00fames da beleza de Branca de Neve e manda mata-la. Logo, descobre que a jovem n\u00e3o morreu e est\u00e1 morando na floresta com sete amiguinhos. A princesa ent\u00e3o \u00e9 envenenada pela rainha e s\u00f3 o beijo de um pr\u00edncipe pode salv\u00e1-la.",
+                "vote_average": 7.122,
+                "vote_count": 7071
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Spawn of the North",
+            "second_label": "Special Award",
+            "category": "Special Award",
+            "year": 1939,
+            "tmdb": {
+                "id": 78092,
+                "original_title": "Spawn of the North",
+                "title": "Lobos do Norte",
+                "release_date": "1938-08-26",
+                "backdrop_path": "/9MP44gCgyGaiDujyoQiIijJfeWz.jpg",
+                "poster_path": "/rRAo2WbAbRze1z2PpgTewQsE8rW.jpg",
+                "overview": "Two Alaskan salmon fisherman find their friendship at risk when one aligns with Russian fish pirates and the other aligns with local vigilantes.",
+                "vote_average": 5.7,
+                "vote_count": 8
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sweethearts",
+            "second_label": "Special Award",
+            "category": "Special Award",
+            "year": 1939,
+            "tmdb": {
+                "id": 43849,
+                "original_title": "Sweethearts",
+                "title": "Sweethearts",
+                "release_date": "1938-12-30",
+                "backdrop_path": "/nWwzoR4NYbn1IGlA5VQjna4nO0g.jpg",
+                "poster_path": "/oBj60AHDKS9Bf4UxezVf2N8xqze.jpg",
+                "overview": "Bickering husband-and-wife stage stars are manipulated into a break-up for publicity purposes.",
+                "vote_average": 5.3,
+                "vote_count": 9
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Original Story)": [
+        {
+            "first_label": "Boys Town",
+            "second_label": "Dore Schary, Eleanore Griffin",
+            "category": "Writing (Original Story)",
+            "year": 1939,
+            "tmdb": {
+                "id": 42390,
+                "original_title": "Boys Town",
+                "title": "Com os Bra\u00e7os Abertos",
+                "release_date": "1938-09-08",
+                "backdrop_path": "/pvvUqgvDXu8aLd5VqgrfOccnrnP.jpg",
+                "poster_path": "/jGwKOZvPItNSocHFAg1USbhKR6c.jpg",
+                "overview": "Devout but iron-willed Father Flanagan leads a community called Boys Town, a different sort of juvenile detention facility where, instead of being treated as underage criminals, the boys are shepherded into making themselves better people. But hard-nosed petty thief and pool shark Whitey Marsh, the impulsive and violent younger brother of an imprisoned murderer, might be too much for the good father's tough-love system.",
+                "vote_average": 6.7,
+                "vote_count": 80
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Alexander's Ragtime Band",
+            "second_label": "Irving Berlin",
+            "category": "Writing (Original Story)",
+            "year": 1939,
+            "tmdb": {
+                "id": 43839,
+                "original_title": "Alexander's Ragtime Band",
+                "title": "A Epop\u00e9ia do Jazz",
+                "release_date": "1938-05-24",
+                "backdrop_path": "/zEHZBRf97910p4bL8HL398ZUs5p.jpg",
+                "poster_path": "/tbmvwfs9C1eTIyCcuhdbnFeuQSA.jpg",
+                "overview": "Alexander (Tyrone Power) escandaliza a sociedade ao montar uma orquestra de Ragtime, estilo musical popular demais para se levar a s\u00e9rio. Vencedor do Oscar de Melhor Trilha Sonora.",
+                "vote_average": 6.6,
+                "vote_count": 24
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Angels with Dirty Faces",
+            "second_label": "Rowland Brown",
+            "category": "Writing (Original Story)",
+            "year": 1939,
+            "tmdb": {
+                "id": 13696,
+                "original_title": "Angels with Dirty Faces",
+                "title": "Anjos de Cara Suja",
+                "release_date": "1938-11-26",
+                "backdrop_path": "/bb36aEZwEvK2L01mgWQuC506CZg.jpg",
+                "poster_path": "/dpN5V2JVsMPZCdXmGUmVDrdRT7C.jpg",
+                "overview": "Rocky (James Cagney) e Jerry (Pat O'Brien) s\u00e3o dois amigos de inf\u00e2ncia que viviam em um bairro barra-pesada de Nova York. Depois de crescidos, eles tomam rumos bem diferentes: Rocky se torna um famoso g\u00e2ngster e Jerry um padre engajado. As crian\u00e7as da vizinhan\u00e7a idolatram o criminoso, mas perdem um pouco de respeito depois que ele cede aos pedidos de Jerry para n\u00e3o fazer uma execu\u00e7\u00e3o. O caminho dos dois vai se cruzar, assim como seus interesses diversos.",
+                "vote_average": 7.6,
+                "vote_count": 294
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Blockade",
+            "second_label": "John Howard Lawson",
+            "category": "Writing (Original Story)",
+            "year": 1939,
+            "tmdb": {
+                "id": 151911,
+                "original_title": "Blockade",
+                "title": "Blockade",
+                "release_date": "1938-06-17",
+                "backdrop_path": "/qGW7uWGJndTCdcuID7W9PAKDsH2.jpg",
+                "poster_path": "/zvE961Nkem8niL1Q5dxkarei7jx.jpg",
+                "overview": "A simple peasant is forced to take up arms to defend his farm during the Spanish Civil War. Along the way he falls in love with a Russian girl whose father is involved in espionage.",
+                "vote_average": 5.6,
+                "vote_count": 9
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mad about Music",
+            "second_label": "Marcella Burke, Frederick Kohner",
+            "category": "Writing (Original Story)",
+            "year": 1939,
+            "tmdb": {
+                "id": 61646,
+                "original_title": "Mad About Music",
+                "title": "Mad About Music",
+                "release_date": "1938-02-27",
+                "backdrop_path": "/i3BXBwbig629GMAOuItwodTdGSF.jpg",
+                "poster_path": "/1zuVmfuqQq8WEd6ZEf17LvmbXU6.jpg",
+                "overview": "A young woman at a girl's school in Switzerland makes up stories about and writes herself letters from an imaginary explorer-adventurer father; and is eventually put in a position where she has to produce him. Interesting things happen as she talks a visiting Englishman into helping her out.",
+                "vote_average": 7.2,
+                "vote_count": 7
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Test Pilot",
+            "second_label": "Frank Wead",
+            "category": "Writing (Original Story)",
+            "year": 1939,
+            "tmdb": {
+                "id": 43155,
+                "original_title": "Test Pilot",
+                "title": "Piloto de Provas",
+                "release_date": "1938-04-16",
+                "backdrop_path": "/kH7H0GLLQDN1qTndYFScfIFtIjQ.jpg",
+                "poster_path": "/vdZ5rv7Cg6HTM6UaMvjezKO0juk.jpg",
+                "overview": "Jim is a test pilot. His wife Ann and best friend Gunner try their best to keep him sober. But the life of a test pilot is anything but safe.",
+                "vote_average": 6.6,
+                "vote_count": 64
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay)": [
+        {
+            "first_label": "Pygmalion",
+            "second_label": "Screenplay and Dialogue by George Bernard Shaw; Adaptation by W. P. Lipscomb, Cecil Lewis, Ian Dalrymple",
+            "category": "Writing (Screenplay)",
+            "year": 1939,
+            "tmdb": {
+                "id": 25016,
+                "original_title": "Pygmalion",
+                "title": "Pygmalion",
+                "release_date": "1939-03-03",
+                "backdrop_path": "/9R4Zmk9vDP2Lk0JNOaAw09LG3lU.jpg",
+                "poster_path": "/aoaSwi4nCKoRWpSv607IVe33x6m.jpg",
+                "overview": "When linguistics professor Henry Higgins boasts that he can pass off Cockney flower girl Eliza Doolittle as a princess with only six months' training, Colonel George Pickering takes him up on the bet. Eliza moves into Higgins's home and begins her rigorous training after the professor comes to a financial agreement with her dustman father, Alfred. But the plucky young woman is not the only one undergoing a transformation.",
+                "vote_average": 7.0,
+                "vote_count": 127
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Boys Town",
+            "second_label": "John Meehan, Dore Schary",
+            "category": "Writing (Screenplay)",
+            "year": 1939,
+            "tmdb": {
+                "id": 42390,
+                "original_title": "Boys Town",
+                "title": "Com os Bra\u00e7os Abertos",
+                "release_date": "1938-09-08",
+                "backdrop_path": "/pvvUqgvDXu8aLd5VqgrfOccnrnP.jpg",
+                "poster_path": "/jGwKOZvPItNSocHFAg1USbhKR6c.jpg",
+                "overview": "Devout but iron-willed Father Flanagan leads a community called Boys Town, a different sort of juvenile detention facility where, instead of being treated as underage criminals, the boys are shepherded into making themselves better people. But hard-nosed petty thief and pool shark Whitey Marsh, the impulsive and violent younger brother of an imprisoned murderer, might be too much for the good father's tough-love system.",
+                "vote_average": 6.7,
+                "vote_count": 80
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Citadel",
+            "second_label": "Ian Dalrymple, Frank Wead, Elizabeth Hill",
+            "category": "Writing (Screenplay)",
+            "year": 1939,
+            "tmdb": {
+                "id": 84090,
+                "original_title": "The Citadel",
+                "title": "The Citadel",
+                "release_date": "1938-10-29",
+                "backdrop_path": "/2X9pCHvlTtUKbYTaO1onWvPB7Jg.jpg",
+                "poster_path": "/eyGS36ZBJmp9RY9zFfX1arralxc.jpg",
+                "overview": "Andrew Manson, a young, idealistic, newly qualified Scottish doctor arrives in Wales takes his first job in a mining town, and begins to wonder at the persistent cough many of the miners have. When his attempts to prove its cause are thwarted, he moves to London. His new practice does badly. But when a friend shows him how to make a lucrative practice from rich hypochondriacs, it will take a great shock to show him what the truth of being a doctor really is.",
+                "vote_average": 6.3,
+                "vote_count": 26
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Four Daughters",
+            "second_label": "Julius J. Epstein, Lenore Coffee",
+            "category": "Writing (Screenplay)",
+            "year": 1939,
+            "tmdb": {
+                "id": 67880,
+                "original_title": "Four Daughters",
+                "title": "Quatro Filhas",
+                "release_date": "1938-08-09",
+                "backdrop_path": "/sqEtYFNkuqJQi9ue23qwtuWBJCa.jpg",
+                "poster_path": "/qziPNg2Xr2kZeUUjE2X5GBeQRZe.jpg",
+                "overview": "Musician Adam Lemp and his four equally musical daughters, Emma, Ann, Kay, and Thea, live happily together. Each daughter has an upstanding young man for whom she cares. However, the arrival of a cynical, slovenly young composer named Mickey Borden turns the household upside-down, and romantic and tragic complications ensue.",
+                "vote_average": 6.5,
+                "vote_count": 22
+            },
+            "winner": false
+        },
+        {
+            "first_label": "You Can't Take It with You",
+            "second_label": "Robert Riskin",
+            "category": "Writing (Screenplay)",
+            "year": 1939,
+            "tmdb": {
+                "id": 34106,
+                "original_title": "You Can't Take It with You",
+                "title": "Do Mundo Nada Se Leva",
+                "release_date": "1938-09-01",
+                "backdrop_path": "/evKZkXjWbg9Nv623DXz9MZXFxr7.jpg",
+                "poster_path": "/j7J2zAFDLYPdLCeRmW0JAkKygfZ.jpg",
+                "overview": "Alice Sycamore (Jean Arthur) deseja apresentar Tony Kirby (James Stewart), seu noivo, \u00e0 sua fam\u00edlia, mas como ele prov\u00eam de uma fam\u00edlia rica e influente e a sua \u00e9 composta de pessoas extrovertidas e um tanto lun\u00e1ticas, h\u00e1 um choque de comportamentos. Para completar, Anthony P. Kirby (Edward Arnold), o pai do seu noivo, j\u00e1 comprou todos os im\u00f3veis da regi\u00e3o onde a fam\u00edlia de Alice vive para um importante empreendimento, com exce\u00e7\u00e3o da casa de Alice. Sem este im\u00f3vel o projeto n\u00e3o pode ir adiante e, como h\u00e1 uma recusa em vender, este posicionamento gera um clima desfavor\u00e1vel entre as duas fam\u00edlias.",
+                "vote_average": 7.5,
+                "vote_count": 366
+            },
+            "winner": false
+        }
+    ]
+}

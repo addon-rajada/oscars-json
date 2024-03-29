@@ -1,0 +1,608 @@
+{
+    "Actor": [
+        {
+            "first_label": "Wallace Beery",
+            "second_label": "The Champ",
+            "category": "Actor",
+            "year": 1933,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Fredric March",
+            "second_label": "Dr. Jekyll and Mr. Hyde",
+            "category": "Actor",
+            "year": 1933,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Alfred Lunt",
+            "second_label": "The Guardsman",
+            "category": "Actor",
+            "year": 1933,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress": [
+        {
+            "first_label": "Helen Hayes",
+            "second_label": "The Sin of Madelon Claudet",
+            "category": "Actress",
+            "year": 1933,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Marie Dressler",
+            "second_label": "Emma",
+            "category": "Actress",
+            "year": 1933,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lynn Fontanne",
+            "second_label": "The Guardsman",
+            "category": "Actress",
+            "year": 1933,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction": [
+        {
+            "first_label": "Transatlantic",
+            "second_label": "Gordon Wiles",
+            "category": "Art Direction",
+            "year": 1933,
+            "tmdb": {
+                "id": 301883,
+                "original_title": "The Trans-Atlantic Mystery",
+                "title": "The Trans-Atlantic Mystery",
+                "release_date": "1932-08-31",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "A couple of murderous crooks try to smuggle the famous Stanhope diamonds into New York but they're double-crossed and killed before reaching New York.",
+                "vote_average": 3.5,
+                "vote_count": 2
+            },
+            "winner": true
+        },
+        {
+            "first_label": "",
+            "second_label": "Lazare Meerson",
+            "category": "Art Direction",
+            "year": 1933,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Arrowsmith",
+            "second_label": "Richard Day",
+            "category": "Art Direction",
+            "year": 1933,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "Shanghai Express",
+            "second_label": "Lee Garmes",
+            "category": "Cinematography",
+            "year": 1933,
+            "tmdb": {
+                "id": 875,
+                "original_title": "Shanghai Express",
+                "title": "O Expresso de Shanghai",
+                "release_date": "1932-02-12",
+                "backdrop_path": "/yW9OHnJKeHzo7OP1t8E1hvyInmt.jpg",
+                "poster_path": "/z0ea6xM3HhIZi7zApDVsxewv9R8.jpg",
+                "overview": "Estrangeiros cruzam a China de trem quando come\u00e7a a guerra civil. A sensual Shanghai Lily e uma antiga paix\u00e3o sua, o capit\u00e3o Donald Harvey, est\u00e3o entre os passageiros. Ela usa seu poder de sedu\u00e7\u00e3o para salv\u00e1-lo das maldades de um militar chin\u00eas. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.9,
+                "vote_count": 179
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Arrowsmith",
+            "second_label": "Ray June",
+            "category": "Cinematography",
+            "year": 1933,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dr. Jekyll and Mr. Hyde",
+            "second_label": "Karl Struss",
+            "category": "Cinematography",
+            "year": 1933,
+            "tmdb": {
+                "id": 3019,
+                "original_title": "Dr. Jekyll and Mr. Hyde",
+                "title": "O M\u00e9dico e o Monstro",
+                "release_date": "1931-12-24",
+                "backdrop_path": "/i2Wb6QsKg14tl4p9HgJENfUCqhh.jpg",
+                "poster_path": "/fRKR4HlpPtNBBWbCwJo6rMxKSyy.jpg",
+                "overview": "O Dr. Henry Jekyll acredita que h\u00e1 dois lados distintos para os homens: Um lado bom e um mal. Ele acredita que, ao separar os dois, o homem pode se libertar. Ele tem \u00eaxito em seus experimentos com produtos qu\u00edmicos, se transforma em Hyde e comete crimes horr\u00edveis. Quando ele interrompe o uso da droga, j\u00e1 \u00e9 tarde demais ...",
+                "vote_average": 7.2,
+                "vote_count": 255
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "Bad Girl",
+            "second_label": "Frank Borzage",
+            "category": "Directing",
+            "year": 1933,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Champ",
+            "second_label": "King Vidor",
+            "category": "Directing",
+            "year": 1933,
+            "tmdb": {
+                "id": 904415,
+                "original_title": "Hic-Cups The Champ",
+                "title": "Hic-Cups The Champ",
+                "release_date": "1932-05-28",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "Bed-ridden Krazy is sick with the hiccoughs. When his doctor tries to scare the hiccoughs out of the feline, he gives him a powerful medicine that send Krazy into dreamland. Krazy then dreams that he's the reigning hiccough champion of the world.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Shanghai Express",
+            "second_label": "Josef Von Sternberg",
+            "category": "Directing",
+            "year": 1933,
+            "tmdb": {
+                "id": 875,
+                "original_title": "Shanghai Express",
+                "title": "O Expresso de Shanghai",
+                "release_date": "1932-02-12",
+                "backdrop_path": "/yW9OHnJKeHzo7OP1t8E1hvyInmt.jpg",
+                "poster_path": "/z0ea6xM3HhIZi7zApDVsxewv9R8.jpg",
+                "overview": "Estrangeiros cruzam a China de trem quando come\u00e7a a guerra civil. A sensual Shanghai Lily e uma antiga paix\u00e3o sua, o capit\u00e3o Donald Harvey, est\u00e3o entre os passageiros. Ela usa seu poder de sedu\u00e7\u00e3o para salv\u00e1-lo das maldades de um militar chin\u00eas. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.9,
+                "vote_count": 179
+            },
+            "winner": false
+        }
+    ],
+    "Outstanding Production": [
+        {
+            "first_label": "Grand Hotel",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Outstanding Production",
+            "year": 1933,
+            "tmdb": {
+                "id": 33680,
+                "original_title": "Grand Hotel",
+                "title": "Grande Hotel",
+                "release_date": "1932-05-25",
+                "backdrop_path": "/mTRmleBtvqlwMCLoRt9iwptDRRC.jpg",
+                "poster_path": "/iAyFPvjOEHTpeTcW5z40Y5s5aPm.jpg",
+                "overview": "A dan\u00e7arina Grusinskaya n\u00e3o cr\u00ea no amor e n\u00e3o tem um rumo em sua vida, mas muda seu pensamento completamente ao conhecer o falido bar\u00e3o Felix von Geigern. Este, por sua vez, se torna amigo de Otto Kringelein, um homem que descobriu que est\u00e1 \u00e0 beira da morte e decide passar seus \u00faltimos dias no luxuoso hotel em que est\u00e1 seu patr\u00e3o, um rico empres\u00e1rio que pretende fechar um grande neg\u00f3cio e que conta com os servi\u00e7os da taqu\u00edgrafa Flaemmchen.",
+                "vote_average": 7.0,
+                "vote_count": 289
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Arrowsmith",
+            "second_label": "Samuel Goldwyn Productions",
+            "category": "Outstanding Production",
+            "year": 1933,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Bad Girl",
+            "second_label": "Fox",
+            "category": "Outstanding Production",
+            "year": 1933,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Champ",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Outstanding Production",
+            "year": 1933,
+            "tmdb": {
+                "id": 904415,
+                "original_title": "Hic-Cups The Champ",
+                "title": "Hic-Cups The Champ",
+                "release_date": "1932-05-28",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "Bed-ridden Krazy is sick with the hiccoughs. When his doctor tries to scare the hiccoughs out of the feline, he gives him a powerful medicine that send Krazy into dreamland. Krazy then dreams that he's the reigning hiccough champion of the world.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Five Star Final",
+            "second_label": "First National",
+            "category": "Outstanding Production",
+            "year": 1933,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "One Hour with You",
+            "second_label": "Paramount Publix",
+            "category": "Outstanding Production",
+            "year": 1933,
+            "tmdb": {
+                "id": 43145,
+                "original_title": "One Hour with You",
+                "title": "Uma Hora Contigo",
+                "release_date": "1932-03-23",
+                "backdrop_path": "/f8CAg1WyM3uWUyGhEzrXn3AcGaY.jpg",
+                "poster_path": "/oVDJZXwHKD0NgHaHZrkHuqHsJyF.jpg",
+                "overview": "Os formosos Andre e Colette Bertier s\u00e3o um casal extremamente feliz. Quando Colette apresenta seu marido para a sua melhor amiga Mitzi, que flerta com todos os homens que v\u00ea pela frente, Andre tenta ao m\u00e1ximo resistir \u00e0s investidas da amiga. Mas ela \u00e9 bastante insistente, al\u00e9m de ser muito bonita, que faz com que ele invariavelmente traia sua mulher. O marido de Mitzi quer se divorciar, e a est\u00e1 mantendo sob vigil\u00e2ncia constante. Andre acaba sendo descoberto, e tem de se confessar para Colette. Mal sabe ele, que sua bel\u00edssima mulher tamb\u00e9m tem mantido alguns segredos para si...",
+                "vote_average": 6.525,
+                "vote_count": 60
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Shanghai Express",
+            "second_label": "Paramount Publix",
+            "category": "Outstanding Production",
+            "year": 1933,
+            "tmdb": {
+                "id": 875,
+                "original_title": "Shanghai Express",
+                "title": "O Expresso de Shanghai",
+                "release_date": "1932-02-12",
+                "backdrop_path": "/yW9OHnJKeHzo7OP1t8E1hvyInmt.jpg",
+                "poster_path": "/z0ea6xM3HhIZi7zApDVsxewv9R8.jpg",
+                "overview": "Estrangeiros cruzam a China de trem quando come\u00e7a a guerra civil. A sensual Shanghai Lily e uma antiga paix\u00e3o sua, o capit\u00e3o Donald Harvey, est\u00e3o entre os passageiros. Ela usa seu poder de sedu\u00e7\u00e3o para salv\u00e1-lo das maldades de um militar chin\u00eas. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.9,
+                "vote_count": 179
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Smiling Lieutenant",
+            "second_label": "Paramount Publix",
+            "category": "Outstanding Production",
+            "year": 1933,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Cartoon)": [
+        {
+            "first_label": "Flowers and Trees",
+            "second_label": "Walt Disney, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1933,
+            "tmdb": {
+                "id": 106112,
+                "original_title": "Flowers and Trees",
+                "title": "Flores e \u00c1rvores",
+                "release_date": "1932-07-23",
+                "backdrop_path": "/us9PkWCGIkKJCyxtTZAFsmqYVE0.jpg",
+                "poster_path": "/2glCjS6gUCal6p8sCg1PDNczhec.jpg",
+                "overview": "Flores e \u00c1rvores foi o primeiro desenho animado em cores da hist\u00f3ria, criado por Walt Disney, de 1932. Foi o 1\u00b0 a ganhar Oscar de melhor curta de anima\u00e7\u00e3o.",
+                "vote_average": 6.7,
+                "vote_count": 162
+            },
+            "winner": true
+        },
+        {
+            "first_label": "It's Got Me Again",
+            "second_label": "Leon Schlesinger, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1933,
+            "tmdb": {
+                "id": 100315,
+                "original_title": "It's Got Me Again!",
+                "title": "It's Got Me Again!",
+                "release_date": "1932-05-14",
+                "backdrop_path": "/rwG6Bjr7yi67u7qDuAfw7hN8Ig0.jpg",
+                "poster_path": "/3tt90MN2pZxnTzoboLciEWOswuV.jpg",
+                "overview": "Late at night, the mice come out and sing and play to the title tune, among others. That is, until the cat arrives, but he's quickly sent packing.",
+                "vote_average": 5.5,
+                "vote_count": 19
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mickey's Orphans",
+            "second_label": "Walt Disney, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1933,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Comedy)": [
+        {
+            "first_label": "The Music Box",
+            "second_label": "Hal Roach, Producer",
+            "category": "Short Subject (Comedy)",
+            "year": 1933,
+            "tmdb": {
+                "id": 44892,
+                "original_title": "The Music Box",
+                "title": "Entrega a Domic\u00edlio",
+                "release_date": "1932-04-16",
+                "backdrop_path": "/gCnsVcSVDJ6F6twa7LIaVKrsHWs.jpg",
+                "poster_path": "/zwU0Y7VS3d326v1pYY7kif1y7xQ.jpg",
+                "overview": "Um cl\u00e1ssico: O Gordo e o Magro tentam desastradamente, levar um pesado piano at\u00e9 uma casa localizada numa ladeira. \u00danico filme da dupla a receber um Oscar. Inclui tamb\u00e9m 'Um Amigo Trapalh\u00e3o'.",
+                "vote_average": 7.6,
+                "vote_count": 190
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Loud Mouth",
+            "second_label": "Mack Sennett, Producer",
+            "category": "Short Subject (Comedy)",
+            "year": 1933,
+            "tmdb": {
+                "id": 173864,
+                "original_title": "The Loud Mouth",
+                "title": "The Loud Mouth",
+                "release_date": "1932-06-16",
+                "backdrop_path": null,
+                "poster_path": "/moiRUc5Iw4UzCSlUyNByR5qmiNo.jpg",
+                "overview": "Del Lord, famous director of the Three Stooges shorts, directed this story of one man in various comical vignettes playing the \"loud mouth\" - a guy who can't keep a secret and is always getting himself in trouble with everyone he comes in contact with by shouting out his opinions and criticizing strangers to their face.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Scratch-As-Catch-Can",
+            "second_label": "RKO Radio",
+            "category": "Short Subject (Comedy)",
+            "year": 1933,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Novelty)": [
+        {
+            "first_label": "Wrestling Swordfish",
+            "second_label": "Mack Sennett, Producer",
+            "category": "Short Subject (Novelty)",
+            "year": 1933,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Screen Souvenirs",
+            "second_label": "Paramount Publix",
+            "category": "Short Subject (Novelty)",
+            "year": 1933,
+            "tmdb": {
+                "id": 173751,
+                "original_title": "Screen Souvenirs",
+                "title": "Screen Souvenirs",
+                "release_date": "1932-12-31",
+                "backdrop_path": null,
+                "poster_path": "/5JGzqGGPWJiRd3wnnjUXtiIaPZI.jpg",
+                "overview": "Screen Souvenirs is a 1932 American short film. At the 5th Academy Awards, held in 1932, it was nominated for an Academy Award for Best Short Subject (Novelty).",
+                "vote_average": 6.0,
+                "vote_count": 1
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Swing High",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Short Subject (Novelty)",
+            "year": 1933,
+            "tmdb": {
+                "id": 173753,
+                "original_title": "Swing High",
+                "title": "Swing High",
+                "release_date": "1932-11-12",
+                "backdrop_path": null,
+                "poster_path": "/jlbJbWT4sNyZ3raX5TgsdOzi4hp.jpg",
+                "overview": "Swing High is a 1932 American Pre-Code short documentary film directed by Jack Cummings. In 1932, it was nominated for an Academy Award at the 5th Academy Awards for Best Short Subject (Novelty). The film documents The Flying Codonas, a family of flying trapeze artists.",
+                "vote_average": 6.0,
+                "vote_count": 7
+            },
+            "winner": false
+        }
+    ],
+    "Sound Recording": [
+        {
+            "first_label": "",
+            "second_label": "Paramount Publix Studio Sound Department",
+            "category": "Sound Recording",
+            "year": 1933,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "",
+            "second_label": "Metro-Goldwyn-Mayer Studio Sound Department",
+            "category": "Sound Recording",
+            "year": 1933,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "",
+            "second_label": "RKO Radio Studio Sound Department",
+            "category": "Sound Recording",
+            "year": 1933,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "",
+            "second_label": "Warner Bros.-First National Studio Sound Department",
+            "category": "Sound Recording",
+            "year": 1933,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Adaptation)": [
+        {
+            "first_label": "Bad Girl",
+            "second_label": "Edwin Burke",
+            "category": "Writing (Adaptation)",
+            "year": 1933,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Arrowsmith",
+            "second_label": "Sidney Howard",
+            "category": "Writing (Adaptation)",
+            "year": 1933,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dr. Jekyll and Mr. Hyde",
+            "second_label": "Percy Heath, Samuel Hoffenstein",
+            "category": "Writing (Adaptation)",
+            "year": 1933,
+            "tmdb": {
+                "id": 3019,
+                "original_title": "Dr. Jekyll and Mr. Hyde",
+                "title": "O M\u00e9dico e o Monstro",
+                "release_date": "1931-12-24",
+                "backdrop_path": "/i2Wb6QsKg14tl4p9HgJENfUCqhh.jpg",
+                "poster_path": "/fRKR4HlpPtNBBWbCwJo6rMxKSyy.jpg",
+                "overview": "O Dr. Henry Jekyll acredita que h\u00e1 dois lados distintos para os homens: Um lado bom e um mal. Ele acredita que, ao separar os dois, o homem pode se libertar. Ele tem \u00eaxito em seus experimentos com produtos qu\u00edmicos, se transforma em Hyde e comete crimes horr\u00edveis. Quando ele interrompe o uso da droga, j\u00e1 \u00e9 tarde demais ...",
+                "vote_average": 7.2,
+                "vote_count": 255
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Original Story)": [
+        {
+            "first_label": "The Champ",
+            "second_label": "Frances Marion",
+            "category": "Writing (Original Story)",
+            "year": 1933,
+            "tmdb": {
+                "id": 904415,
+                "original_title": "Hic-Cups The Champ",
+                "title": "Hic-Cups The Champ",
+                "release_date": "1932-05-28",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "Bed-ridden Krazy is sick with the hiccoughs. When his doctor tries to scare the hiccoughs out of the feline, he gives him a powerful medicine that send Krazy into dreamland. Krazy then dreams that he's the reigning hiccough champion of the world.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Lady and Gent",
+            "second_label": "Grover Jones, William Slavens McNutt",
+            "category": "Writing (Original Story)",
+            "year": 1933,
+            "tmdb": {
+                "id": 173749,
+                "original_title": "Lady and Gent",
+                "title": "Homem de Peso",
+                "release_date": "1932-07-10",
+                "backdrop_path": "/eMPK6m0ZNSvxy3J38crn14Oxz1B.jpg",
+                "poster_path": "/ruKTh2Jg7ZpHfRKD5PzRTLwkeSF.jpg",
+                "overview": "Stag Bailey, a slow-witted prizefighter, and his girlfriend, speakeasy hostess Puff Rogers, take over the upbringing of Ted Streaver after his father, Stag's manager, is killed.",
+                "vote_average": 5.8,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Star Witness",
+            "second_label": "Lucien Hubbard",
+            "category": "Writing (Original Story)",
+            "year": 1933,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "What Price Hollywood?",
+            "second_label": "Adela Rogers St. Johns, Jane Murfin",
+            "category": "Writing (Original Story)",
+            "year": 1933,
+            "tmdb": {
+                "id": 56724,
+                "original_title": "What Price Hollywood?",
+                "title": "What Price Hollywood?",
+                "release_date": "1932-06-24",
+                "backdrop_path": "/hgMkM8mpMOfCfLPKJB7NDXA9mRq.jpg",
+                "poster_path": "/9QvBGIOA39lZ1Ood9Q7ZZq33Bdd.jpg",
+                "overview": "A carreira de um gar\u00e7onete decola quando ela conhece um am\u00e1vel b\u00eabado produtor de Hollywood.",
+                "vote_average": 6.7,
+                "vote_count": 28
+            },
+            "winner": false
+        }
+    ]
+}

@@ -1,0 +1,936 @@
+{
+    "Actor": [
+        {
+            "first_label": "Charles Laughton",
+            "second_label": "The Private Life of Henry VIII",
+            "category": "Actor",
+            "year": 1934,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Leslie Howard",
+            "second_label": "Berkeley Square",
+            "category": "Actor",
+            "year": 1934,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Paul Muni",
+            "second_label": "I Am a Fugitive from a Chain Gang",
+            "category": "Actor",
+            "year": 1934,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress": [
+        {
+            "first_label": "Katharine Hepburn",
+            "second_label": "Morning Glory",
+            "category": "Actress",
+            "year": 1934,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "May Robson",
+            "second_label": "Lady for a Day",
+            "category": "Actress",
+            "year": 1934,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Diana Wynyard",
+            "second_label": "Cavalcade",
+            "category": "Actress",
+            "year": 1934,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction": [
+        {
+            "first_label": "Cavalcade",
+            "second_label": "William S. Darling",
+            "category": "Art Direction",
+            "year": 1934,
+            "tmdb": {
+                "id": 56164,
+                "original_title": "Cavalcade",
+                "title": "Cavalgada",
+                "release_date": "1933-02-08",
+                "backdrop_path": "/9LQdJ807aXpZtE4JsBF62ZXpL4F.jpg",
+                "poster_path": "/a6yld4HmB49b9CP9wmv3wcwk65K.jpg",
+                "overview": "A hist\u00f3ria de uma fam\u00edlia inglesa da virada do s\u00e9culo 19, desde a V\u00e9spera de Ano Novo em 1899 at\u00e9 1933, passando pela Guerra dos B\u00f4eres, a morte da rainha Victoria, o naufr\u00e1gio do Titanic e a carnificina da Primeira Grande Guerra. Baseado na pe\u00e7a de Noel Coward.",
+                "vote_average": 5.5,
+                "vote_count": 100
+            },
+            "winner": true
+        },
+        {
+            "first_label": "A Farewell to Arms",
+            "second_label": "Hans Dreier, Roland Anderson",
+            "category": "Art Direction",
+            "year": 1934,
+            "tmdb": {
+                "id": 22649,
+                "original_title": "A Farewell to Arms",
+                "title": "Adeus \u00e0s Armas",
+                "release_date": "1932-12-08",
+                "backdrop_path": "/ek1883HwUWzFliDaE6FAmJ8XoXi.jpg",
+                "poster_path": "/eNmPByGZJqlp60nCZRhsAlVAb3F.jpg",
+                "overview": "Henry \u00e9 um oficial americano que, durante as batalhas da Primeira Guerra, \u00e9 ferido em a\u00e7\u00e3o. Ele, ent\u00e3o, recebe cuidados de uma enfermeira brit\u00e2nica e acaba apaixonando-se por ela. Para viver este amor, eles fogem dos horrores da guerra.",
+                "vote_average": 6.2,
+                "vote_count": 127
+            },
+            "winner": false
+        },
+        {
+            "first_label": "When Ladies Meet",
+            "second_label": "Cedric Gibbons",
+            "category": "Art Direction",
+            "year": 1934,
+            "tmdb": {
+                "id": 175035,
+                "original_title": "When Ladies Meet",
+                "title": "When Ladies Meet",
+                "release_date": "1933-06-23",
+                "backdrop_path": "/qUkyy4Eprqrohd9Wi4M5OY9S4Jj.jpg",
+                "poster_path": "/6GGK7UGIT1mG8wbGiDouhG9joaO.jpg",
+                "overview": "Mary, a writer working on a novel about a love triangle, is attracted to her publisher. Her suitor Jimmy is determined to break them up; he introduces Mary to the publisher's wife without telling Mary who she is.",
+                "vote_average": 5.3,
+                "vote_count": 11
+            },
+            "winner": false
+        }
+    ],
+    "Assistant Director": [
+        {
+            "first_label": "",
+            "second_label": "William Tummel (Fox)",
+            "category": "Assistant Director",
+            "year": 1934,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "",
+            "second_label": "Charles Dorian (Metro-Goldwyn-Mayer)",
+            "category": "Assistant Director",
+            "year": 1934,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "",
+            "second_label": "Charles Barton (Paramount)",
+            "category": "Assistant Director",
+            "year": 1934,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "",
+            "second_label": "Dewey Starkey (RKO Radio)",
+            "category": "Assistant Director",
+            "year": 1934,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "",
+            "second_label": "Fred Fox (United Artists)",
+            "category": "Assistant Director",
+            "year": 1934,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "",
+            "second_label": "Scott Beal (Universal)",
+            "category": "Assistant Director",
+            "year": 1934,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "",
+            "second_label": "Gordon Hollingshead (Warner Bros.)",
+            "category": "Assistant Director",
+            "year": 1934,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "",
+            "second_label": "Percy Ikerd (Fox)",
+            "category": "Assistant Director",
+            "year": 1934,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "",
+            "second_label": "Bunny Dull (Metro-Goldwyn-Mayer)",
+            "category": "Assistant Director",
+            "year": 1934,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "",
+            "second_label": "John S. Waters (Metro-Goldwyn-Mayer)",
+            "category": "Assistant Director",
+            "year": 1934,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "",
+            "second_label": "Sidney S. Brod (Paramount)",
+            "category": "Assistant Director",
+            "year": 1934,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "",
+            "second_label": "Arthur Jacobson (Paramount)",
+            "category": "Assistant Director",
+            "year": 1934,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "",
+            "second_label": "Eddie Killey (RKO Radio)",
+            "category": "Assistant Director",
+            "year": 1934,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "",
+            "second_label": "Benjamin Silvey (United Artists)",
+            "category": "Assistant Director",
+            "year": 1934,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "",
+            "second_label": "Joe McDonough (Universal)",
+            "category": "Assistant Director",
+            "year": 1934,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "",
+            "second_label": "W. J. Reiter (Universal)",
+            "category": "Assistant Director",
+            "year": 1934,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "",
+            "second_label": "Al Alborn (Warner Bros.)",
+            "category": "Assistant Director",
+            "year": 1934,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "",
+            "second_label": "Frank X. Shaw (Warner Bros.)",
+            "category": "Assistant Director",
+            "year": 1934,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "A Farewell to Arms",
+            "second_label": "Charles Bryant Lang, Jr.",
+            "category": "Cinematography",
+            "year": 1934,
+            "tmdb": {
+                "id": 22649,
+                "original_title": "A Farewell to Arms",
+                "title": "Adeus \u00e0s Armas",
+                "release_date": "1932-12-08",
+                "backdrop_path": "/ek1883HwUWzFliDaE6FAmJ8XoXi.jpg",
+                "poster_path": "/eNmPByGZJqlp60nCZRhsAlVAb3F.jpg",
+                "overview": "Henry \u00e9 um oficial americano que, durante as batalhas da Primeira Guerra, \u00e9 ferido em a\u00e7\u00e3o. Ele, ent\u00e3o, recebe cuidados de uma enfermeira brit\u00e2nica e acaba apaixonando-se por ela. Para viver este amor, eles fogem dos horrores da guerra.",
+                "vote_average": 6.2,
+                "vote_count": 127
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Reunion in Vienna",
+            "second_label": "George J. Folsey",
+            "category": "Cinematography",
+            "year": 1934,
+            "tmdb": {
+                "id": 174116,
+                "original_title": "Reunion in Vienna",
+                "title": "Reunion in Vienna",
+                "release_date": "1933-06-16",
+                "backdrop_path": "/mPcMvPY1ZN8Bk44pnDUEd2Ro8ju.jpg",
+                "poster_path": "/bfihsItMrpy9HG7zOUFCWdGXgvN.jpg",
+                "overview": "An exiled archduke (John Barrymore) tries to renew romance with a former lover (Diana Wynyard) now wed to a psychiatrist (Frank Morgan).",
+                "vote_average": 7.0,
+                "vote_count": 2
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Sign of the Cross",
+            "second_label": "Karl Struss",
+            "category": "Cinematography",
+            "year": 1934,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "Cavalcade",
+            "second_label": "Frank Lloyd",
+            "category": "Directing",
+            "year": 1934,
+            "tmdb": {
+                "id": 56164,
+                "original_title": "Cavalcade",
+                "title": "Cavalgada",
+                "release_date": "1933-02-08",
+                "backdrop_path": "/9LQdJ807aXpZtE4JsBF62ZXpL4F.jpg",
+                "poster_path": "/a6yld4HmB49b9CP9wmv3wcwk65K.jpg",
+                "overview": "A hist\u00f3ria de uma fam\u00edlia inglesa da virada do s\u00e9culo 19, desde a V\u00e9spera de Ano Novo em 1899 at\u00e9 1933, passando pela Guerra dos B\u00f4eres, a morte da rainha Victoria, o naufr\u00e1gio do Titanic e a carnificina da Primeira Grande Guerra. Baseado na pe\u00e7a de Noel Coward.",
+                "vote_average": 5.5,
+                "vote_count": 100
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Lady for a Day",
+            "second_label": "Frank Capra",
+            "category": "Directing",
+            "year": 1934,
+            "tmdb": {
+                "id": 43130,
+                "original_title": "Lady for a Day",
+                "title": "Dama por um Dia",
+                "release_date": "1933-09-13",
+                "backdrop_path": "/fiP5YEGacZNT3GLbFrxbVRBs9Xv.jpg",
+                "poster_path": "/3qOtbnBKhcM66wtYgUViasKdj6s.jpg",
+                "overview": "O gangster transforma a Annie das Ma\u00e7\u00e3s, mendiga da Times Square, em  Dama por um Dia.  A Annie das Ma\u00e7\u00e3s \u00e9 uma indigente que sempre escreve cartas para sua filha na Espanha e diz nas cartas que \u00e9 da alta sociedade de Nova York. Com sua filha repentinamente vindo para a Am\u00e9rica com seu novo noivo e o pai do noivo, um membro da aristocracia espanhola, Annie precisa manter sua encena\u00e7\u00e3o de riqueza ou o conde n\u00e3o dar\u00e1 sua b\u00ean\u00e7\u00e3o ao casamento. Ela recebe ajuda inesperada de Dave the Dude, uma figura bem conhecida no submundo de Nova York, que considera Annie o seu amuleto de boa sorte. Ele lhe oferece um apartamento de luxo para entreter os visitantes - mas esse ato de bondade incomum de um homem com uma reputa\u00e7\u00e3o vergonhosa desperta suspeitas, levando a complica\u00e7\u00f5es que fazem com que as coisas n\u00e3o saiam exatamente como foram planejadas.\r Refilmado pelo mesmo diretor em Dama por Um Dia (1961).",
+                "vote_average": 7.1,
+                "vote_count": 71
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Little Women",
+            "second_label": "George Cukor",
+            "category": "Directing",
+            "year": 1934,
+            "tmdb": {
+                "id": 39938,
+                "original_title": "Little Women",
+                "title": "Little Women",
+                "release_date": "1933-11-24",
+                "backdrop_path": "/jyZVGw4jgsJVCI7JRu4ve8YyMGJ.jpg",
+                "poster_path": "/mgsbEsHT26CrLivAFqqQwrphThm.jpg",
+                "overview": "Little Women is a coming-of-age drama tracing the lives of four sisters: Meg, Jo, Beth and Amy. During the American Civil War, the girls father is away serving as a minister to the troops. The family, headed by their beloved Marmee, must struggle to make ends meet, with the help of their kind and wealthy neighbor, Mr. Laurence, and his high spirited grandson Laurie.",
+                "vote_average": 6.7,
+                "vote_count": 122
+            },
+            "winner": false
+        }
+    ],
+    "Outstanding Production": [
+        {
+            "first_label": "Cavalcade",
+            "second_label": "Fox",
+            "category": "Outstanding Production",
+            "year": 1934,
+            "tmdb": {
+                "id": 56164,
+                "original_title": "Cavalcade",
+                "title": "Cavalgada",
+                "release_date": "1933-02-08",
+                "backdrop_path": "/9LQdJ807aXpZtE4JsBF62ZXpL4F.jpg",
+                "poster_path": "/a6yld4HmB49b9CP9wmv3wcwk65K.jpg",
+                "overview": "A hist\u00f3ria de uma fam\u00edlia inglesa da virada do s\u00e9culo 19, desde a V\u00e9spera de Ano Novo em 1899 at\u00e9 1933, passando pela Guerra dos B\u00f4eres, a morte da rainha Victoria, o naufr\u00e1gio do Titanic e a carnificina da Primeira Grande Guerra. Baseado na pe\u00e7a de Noel Coward.",
+                "vote_average": 5.5,
+                "vote_count": 100
+            },
+            "winner": true
+        },
+        {
+            "first_label": "A Farewell to Arms",
+            "second_label": "Paramount",
+            "category": "Outstanding Production",
+            "year": 1934,
+            "tmdb": {
+                "id": 22649,
+                "original_title": "A Farewell to Arms",
+                "title": "Adeus \u00e0s Armas",
+                "release_date": "1932-12-08",
+                "backdrop_path": "/ek1883HwUWzFliDaE6FAmJ8XoXi.jpg",
+                "poster_path": "/eNmPByGZJqlp60nCZRhsAlVAb3F.jpg",
+                "overview": "Henry \u00e9 um oficial americano que, durante as batalhas da Primeira Guerra, \u00e9 ferido em a\u00e7\u00e3o. Ele, ent\u00e3o, recebe cuidados de uma enfermeira brit\u00e2nica e acaba apaixonando-se por ela. Para viver este amor, eles fogem dos horrores da guerra.",
+                "vote_average": 6.2,
+                "vote_count": 127
+            },
+            "winner": false
+        },
+        {
+            "first_label": "42nd Street",
+            "second_label": "Warner Bros.",
+            "category": "Outstanding Production",
+            "year": 1934,
+            "tmdb": {
+                "id": 3062,
+                "original_title": "42nd Street",
+                "title": "Rua 42",
+                "release_date": "1933-03-11",
+                "backdrop_path": "/wMaZBRgnfOrwlCtxQNFSLgE5uK3.jpg",
+                "poster_path": "/q4UEd8BL74zVsOOaJkKVMLMmdTg.jpg",
+                "overview": "Peggy Sawyer \u00e9 uma jovem dan\u00e7arina iniciante que acaba de chegar a Nova York e consegue uma participa\u00e7\u00e3o no coro de um espet\u00e1culo musical chamado Pretty Baby. Ela seria apenas mais uma, s\u00f3 que a estrela principal, a temperamental Dorothy Brock machuca o tornozelo pouco antes da estreia do musical. O acidente faz com que Peggy tenha que assumir o lugar da outra dan\u00e7arina, e tamb\u00e9m coloca todo o destino da companhia nas suas costas.",
+                "vote_average": 6.9,
+                "vote_count": 167
+            },
+            "winner": false
+        },
+        {
+            "first_label": "I Am a Fugitive from a Chain Gang",
+            "second_label": "Warner Bros.",
+            "category": "Outstanding Production",
+            "year": 1934,
+            "tmdb": {
+                "id": 29740,
+                "original_title": "I Am a Fugitive from a Chain Gang",
+                "title": "O Fugitivo",
+                "release_date": "1932-11-09",
+                "backdrop_path": "/nWLMIG4xY4MO2ESGoVfoVemu2a5.jpg",
+                "poster_path": "/jer6lim61i8V6a5HOZq2i07UQQf.jpg",
+                "overview": "Desempregado ap\u00f3s o t\u00e9rmino da Primeira Guerra, Allen torna-se um vagabundo sem dinheiro. Quando assiste a outro homem cometendo um furto, \u00e9 condenado injustamente a dez anos de cadeia, numa pris\u00e3o na Ge\u00f3rgia. L\u00e1, \u00e9 perseguido por gangues e castigado cruelmente por guardas s\u00e1dicos. Com a ajuda de outro prisioneiro, escapa e parte determinado em busca do sonho que tem de se tornar um engenheiro.",
+                "vote_average": 7.8,
+                "vote_count": 190
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lady for a Day",
+            "second_label": "Columbia",
+            "category": "Outstanding Production",
+            "year": 1934,
+            "tmdb": {
+                "id": 43130,
+                "original_title": "Lady for a Day",
+                "title": "Dama por um Dia",
+                "release_date": "1933-09-13",
+                "backdrop_path": "/fiP5YEGacZNT3GLbFrxbVRBs9Xv.jpg",
+                "poster_path": "/3qOtbnBKhcM66wtYgUViasKdj6s.jpg",
+                "overview": "O gangster transforma a Annie das Ma\u00e7\u00e3s, mendiga da Times Square, em  Dama por um Dia.  A Annie das Ma\u00e7\u00e3s \u00e9 uma indigente que sempre escreve cartas para sua filha na Espanha e diz nas cartas que \u00e9 da alta sociedade de Nova York. Com sua filha repentinamente vindo para a Am\u00e9rica com seu novo noivo e o pai do noivo, um membro da aristocracia espanhola, Annie precisa manter sua encena\u00e7\u00e3o de riqueza ou o conde n\u00e3o dar\u00e1 sua b\u00ean\u00e7\u00e3o ao casamento. Ela recebe ajuda inesperada de Dave the Dude, uma figura bem conhecida no submundo de Nova York, que considera Annie o seu amuleto de boa sorte. Ele lhe oferece um apartamento de luxo para entreter os visitantes - mas esse ato de bondade incomum de um homem com uma reputa\u00e7\u00e3o vergonhosa desperta suspeitas, levando a complica\u00e7\u00f5es que fazem com que as coisas n\u00e3o saiam exatamente como foram planejadas.\r Refilmado pelo mesmo diretor em Dama por Um Dia (1961).",
+                "vote_average": 7.1,
+                "vote_count": 71
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Little Women",
+            "second_label": "RKO Radio",
+            "category": "Outstanding Production",
+            "year": 1934,
+            "tmdb": {
+                "id": 39938,
+                "original_title": "Little Women",
+                "title": "Little Women",
+                "release_date": "1933-11-24",
+                "backdrop_path": "/jyZVGw4jgsJVCI7JRu4ve8YyMGJ.jpg",
+                "poster_path": "/mgsbEsHT26CrLivAFqqQwrphThm.jpg",
+                "overview": "Little Women is a coming-of-age drama tracing the lives of four sisters: Meg, Jo, Beth and Amy. During the American Civil War, the girls father is away serving as a minister to the troops. The family, headed by their beloved Marmee, must struggle to make ends meet, with the help of their kind and wealthy neighbor, Mr. Laurence, and his high spirited grandson Laurie.",
+                "vote_average": 6.7,
+                "vote_count": 122
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Private Life of Henry VIII",
+            "second_label": "London Films",
+            "category": "Outstanding Production",
+            "year": 1934,
+            "tmdb": {
+                "id": 43122,
+                "original_title": "The Private Life of Henry VIII",
+                "title": "Os Amores de Henrique VIII",
+                "release_date": "1933-08-17",
+                "backdrop_path": "/lc7li4hwGpKcQ6bSE64BzCIsuVn.jpg",
+                "poster_path": "/ckxlHI3BWSPgyloNWozoVScuC1v.jpg",
+                "overview": "Renowned for his excess, King Henry VIII goes through a series of wives during his rule. With Anne Boleyn, his second wife, executed on charges of treason, King Henry weds maid Jane Seymour, but that marriage also ends in tragedy. Not one to be single for long, the king picks German-born Anne of Cleves as his bride, but their union lasts only months before an annulment is granted, and King Henry continues his string of spouses.",
+                "vote_average": 6.3,
+                "vote_count": 68
+            },
+            "winner": false
+        },
+        {
+            "first_label": "She Done Him Wrong",
+            "second_label": "Paramount",
+            "category": "Outstanding Production",
+            "year": 1934,
+            "tmdb": {
+                "id": 43595,
+                "original_title": "She Done Him Wrong",
+                "title": "Uma Loura Para Tr\u00eas",
+                "release_date": "1933-02-09",
+                "backdrop_path": "/mzSpJ0ne8YiGLYd3UIssneTV9mJ.jpg",
+                "poster_path": "/kwxAUj8tf9kO2ESAriD8foYN28q.jpg",
+                "overview": "Nova Iorque, anos 1890. Lady Lou trabalha como cantora no clube noturno de Gus Jordan, que a cobre de diamantes para que ela permane\u00e7a a seu lado. O que Lou n\u00e3o sabe \u00e9 que Gus est\u00e1 envolvido com prostitui\u00e7\u00e3o e dinheiro falso, no que \u00e9 ajudado por Rita Russa e seu namorado Serge. Gus at\u00e9 fornece mulheres para uma rede de batedoras de carteiras. Dan Flynn, desafeto de Gus, vive tentando inutilmente abrir os olhos de Lou.  Perto dali fica fica o escrit\u00f3rio central de uma esp\u00e9cie de Ex\u00e9rcito da Salva\u00e7\u00e3o. Quem trabalha l\u00e1 \u00e9 o Capit\u00e3o Cummings, na verdade um agente federal disfar\u00e7ado \u00e0 procura de provas contra as atividades ilegais de Gus. Cummings quer reformar Lou, que se apaixona por ele.  Enquanto isso, foge da pris\u00e3o Chick Clark, ex-amante de Lou, denunciado por Dan Flynn por roubo de joias. Chick ainda ama Lou e vai procur\u00e1-la no clube. Acontece um tiroteio, com mortes. O Capit\u00e3o Cummings interv\u00e9m, revela sua verdadeira identidade e coloca as coisas nos devidos lugares.",
+                "vote_average": 5.8,
+                "vote_count": 101
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Smilin' Through",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Outstanding Production",
+            "year": 1934,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "State Fair",
+            "second_label": "Fox",
+            "category": "Outstanding Production",
+            "year": 1934,
+            "tmdb": {
+                "id": 52517,
+                "original_title": "State Fair",
+                "title": "State Fair",
+                "release_date": "1933-02-10",
+                "backdrop_path": "/ritIv2bm1QUNVhiPWhYga06JFTp.jpg",
+                "poster_path": "/tx3h4QTmPlrdgvFBBDtKzqm4gif.jpg",
+                "overview": "The children of Iowa farmers find love, with mixed results, at the state fair.",
+                "vote_average": 6.2,
+                "vote_count": 18
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Cartoon)": [
+        {
+            "first_label": "The Three Little Pigs",
+            "second_label": "Walt Disney, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1934,
+            "tmdb": {
+                "id": 34463,
+                "original_title": "Three Little Pigs",
+                "title": "Os Tr\u00eas Porquinhos",
+                "release_date": "1933-05-27",
+                "backdrop_path": "/fC6GAWovX4XJl5lBhKG27qsnIeE.jpg",
+                "poster_path": "/ypWqCDkFaTnlloGIWLdBjJTvxpW.jpg",
+                "overview": "Os dois porquinhos construindo casas de feno e varas zombam de seu irm\u00e3o, construindo a casa de tijolos. Mas quando o lobo chega e derruba suas casas (depois de truques como se vestir como uma ovelha enjeitada), eles correm para a casa de seu irm\u00e3o. E por toda parte, eles cantam a m\u00fasica cl\u00e1ssica, \"Quem tem medo do lobo mau?\".",
+                "vote_average": 6.9,
+                "vote_count": 371
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Building a Building",
+            "second_label": "Walt Disney, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1934,
+            "tmdb": {
+                "id": 161836,
+                "original_title": "Building a Building",
+                "title": "Arranhando o C\u00e9u",
+                "release_date": "1933-01-07",
+                "backdrop_path": "/uQJ8BcAOuaEczZuWEVdI6wLhoea.jpg",
+                "poster_path": "/7HECEFP1SSQap4nVhVTGiWUQ3Nb.jpg",
+                "overview": "Mickey opera uma escavadeira em um canteiro de obras movimentado onde Minnie vende marmitas e Bafo \u00e9 o mestre de obras. Quando Bafo passa dos limites, Mickey tenta socorrer Minnie, levando a uma persegui\u00e7\u00e3o pela estrutura da constru\u00e7\u00e3o e a uma conclus\u00e3o emocionante.",
+                "vote_average": 6.6,
+                "vote_count": 53
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Merry Old Soul",
+            "second_label": "Walter Lantz, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1934,
+            "tmdb": {
+                "id": 87951,
+                "original_title": "The Merry Old Soul",
+                "title": "The Merry Old Soul",
+                "release_date": "1933-11-26",
+                "backdrop_path": "/bdnWoPiX43Q8hEkdWbgCbhXCx69.jpg",
+                "poster_path": "/dyDM1qTm1RKPYACAoXS3T7jYSPK.jpg",
+                "overview": "Oswald the Rabbit gathers some of the greatest entertainers of the age to cure Old King Cole of the blues.",
+                "vote_average": 5.6,
+                "vote_count": 15
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Comedy)": [
+        {
+            "first_label": "So This Is Harris",
+            "second_label": "Louis Brock, Producer",
+            "category": "Short Subject (Comedy)",
+            "year": 1934,
+            "tmdb": {
+                "id": 233638,
+                "original_title": "So This Is Harris!",
+                "title": "So This Is Harris!",
+                "release_date": "1933-08-13",
+                "backdrop_path": null,
+                "poster_path": "/twrmZkTn0RWf4ALmKNwnoXGVguI.jpg",
+                "overview": "The film is a series of comical musical numbers and skits following Phil Harris around, starting with him performing at the Cocoanut Grove nightclub, which is listened to by Dorothy on the radio whose home-brewing husband Walter hates Harris. The action then moves to the country club where Walter unknowingly encounters Harris while being aggravated by his music. Walter then pretends to be Phil to meet a woman while Harris \"entertains\" her friend, Dorothy.",
+                "vote_average": 4.6,
+                "vote_count": 7
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Mister Mugg",
+            "second_label": "Warren Doane, Producer",
+            "category": "Short Subject (Comedy)",
+            "year": 1934,
+            "tmdb": {
+                "id": 233641,
+                "original_title": "Mister Mugg",
+                "title": "Mister Mugg",
+                "release_date": "1933-05-10",
+                "backdrop_path": null,
+                "poster_path": "/cSmA2zi9LuTWhHSByW8CZsIyGMf.jpg",
+                "overview": "Mister Mugg is a 1933 short American pre-Code comedy film directed by James W. Horne. It was nominated for an Academy Award at the 6th Academy Awards in 1933 for Best Short Subject (Comedy).",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Preferred List",
+            "second_label": "Louis Brock, Producer",
+            "category": "Short Subject (Comedy)",
+            "year": 1934,
+            "tmdb": {
+                "id": 233642,
+                "original_title": "A Preferred List",
+                "title": "A Preferred List",
+                "release_date": "1933-10-06",
+                "backdrop_path": null,
+                "poster_path": "/j2oJVCNPxqzdYdlAW9uM5bUREbv.jpg",
+                "overview": "A Preferred List is a 1933 American Pre-Code short comedy film produced by Lou Brock. At the 6th Academy Awards, held in 1933, it was nominated for an Academy Award for Best Short Subject (Comedy).",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Novelty)": [
+        {
+            "first_label": "Krakatoa",
+            "second_label": "Joe Rock, Producer",
+            "category": "Short Subject (Novelty)",
+            "year": 1934,
+            "tmdb": {
+                "id": 233644,
+                "original_title": "Krakatoa",
+                "title": "Krakatoa",
+                "release_date": "1933-04-23",
+                "backdrop_path": null,
+                "poster_path": "/221uZTh0zEXIzHR3bxsa4CsaT96.jpg",
+                "overview": "Krakatoa is a 1933 American Pre-Code short documentary film produced by Joe Rock. The story describes how the 1883 eruption of Krakatoa on the island blew half of the large island into the air that produced a tsunami, and an air wave that was felt seven times around the globe. The eruption also emitted tons of dust that dimmed the sun all over the world for many months. It won the Academy Award in 1934 for Best Short Subject (Novelty).",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Menu",
+            "second_label": "Pete Smith, Producer",
+            "category": "Short Subject (Novelty)",
+            "year": 1934,
+            "tmdb": {
+                "id": 165509,
+                "original_title": "Menu",
+                "title": "Menu",
+                "release_date": "1933-09-23",
+                "backdrop_path": null,
+                "poster_path": "/953jcP5Wa5ps5Bne2lyc7ilWemQ.jpg",
+                "overview": "A chef helps a housewife cook a duck dinner that will not give her husband indigestion.",
+                "vote_average": 5.4,
+                "vote_count": 8
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Sea",
+            "second_label": "Educational",
+            "category": "Short Subject (Novelty)",
+            "year": 1934,
+            "tmdb": {
+                "id": 585573,
+                "original_title": "The Nesting of the Sea Turtle",
+                "title": "The Nesting of the Sea Turtle",
+                "release_date": "1933-01-01",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "The Green Turtle (Chelonia Midas) is found in tropical and subtropical seas.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        }
+    ],
+    "Sound Recording": [
+        {
+            "first_label": "A Farewell to Arms",
+            "second_label": "Paramount Studio Sound Department, Franklin B. Hansen, Sound Director",
+            "category": "Sound Recording",
+            "year": 1934,
+            "tmdb": {
+                "id": 22649,
+                "original_title": "A Farewell to Arms",
+                "title": "Adeus \u00e0s Armas",
+                "release_date": "1932-12-08",
+                "backdrop_path": "/ek1883HwUWzFliDaE6FAmJ8XoXi.jpg",
+                "poster_path": "/eNmPByGZJqlp60nCZRhsAlVAb3F.jpg",
+                "overview": "Henry \u00e9 um oficial americano que, durante as batalhas da Primeira Guerra, \u00e9 ferido em a\u00e7\u00e3o. Ele, ent\u00e3o, recebe cuidados de uma enfermeira brit\u00e2nica e acaba apaixonando-se por ela. Para viver este amor, eles fogem dos horrores da guerra.",
+                "vote_average": 6.2,
+                "vote_count": 127
+            },
+            "winner": true
+        },
+        {
+            "first_label": "42nd Street",
+            "second_label": "Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",
+            "category": "Sound Recording",
+            "year": 1934,
+            "tmdb": {
+                "id": 3062,
+                "original_title": "42nd Street",
+                "title": "Rua 42",
+                "release_date": "1933-03-11",
+                "backdrop_path": "/wMaZBRgnfOrwlCtxQNFSLgE5uK3.jpg",
+                "poster_path": "/q4UEd8BL74zVsOOaJkKVMLMmdTg.jpg",
+                "overview": "Peggy Sawyer \u00e9 uma jovem dan\u00e7arina iniciante que acaba de chegar a Nova York e consegue uma participa\u00e7\u00e3o no coro de um espet\u00e1culo musical chamado Pretty Baby. Ela seria apenas mais uma, s\u00f3 que a estrela principal, a temperamental Dorothy Brock machuca o tornozelo pouco antes da estreia do musical. O acidente faz com que Peggy tenha que assumir o lugar da outra dan\u00e7arina, e tamb\u00e9m coloca todo o destino da companhia nas suas costas.",
+                "vote_average": 6.9,
+                "vote_count": 167
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gold Diggers of 1933",
+            "second_label": "Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",
+            "category": "Sound Recording",
+            "year": 1934,
+            "tmdb": {
+                "id": 31511,
+                "original_title": "Gold Diggers of 1933",
+                "title": "Ca\u00e7adoras de Ouro",
+                "release_date": "1933-05-27",
+                "backdrop_path": "/3zBzWcQMEOvm2vFsC8ehNvyY25Q.jpg",
+                "poster_path": "/sXsUJsW9fcVT15hfBu9LyU22qmG.jpg",
+                "overview": "Durante a Depress\u00e3o americana, tr\u00eas atrizes (Polly, Carol, e Trixie) se v\u00eam sem trabalho quando o show do qual participariam \u00e9 cancelado devido a d\u00edvidas de impostos. Quando convidam Barney Hopkins, o produtor da pe\u00e7a, para seu apartamento para discutir novas possibilidades, Barney ouve o vizinho e amigo de Polly, Brad, tocando piano e cantando. Brad \u00e9 um talentoso compositor que se oferece para bancar a pe\u00e7a, mas se recusa a atuar na mesma, apesar da bela voz. As tr\u00eas amigas come\u00e7am a desconfiar que Brad pode estar escondendo algo muito ruim...",
+                "vote_average": 7.2,
+                "vote_count": 133
+            },
+            "winner": false
+        },
+        {
+            "first_label": "I Am a Fugitive from a Chain Gang",
+            "second_label": "Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",
+            "category": "Sound Recording",
+            "year": 1934,
+            "tmdb": {
+                "id": 29740,
+                "original_title": "I Am a Fugitive from a Chain Gang",
+                "title": "O Fugitivo",
+                "release_date": "1932-11-09",
+                "backdrop_path": "/nWLMIG4xY4MO2ESGoVfoVemu2a5.jpg",
+                "poster_path": "/jer6lim61i8V6a5HOZq2i07UQQf.jpg",
+                "overview": "Desempregado ap\u00f3s o t\u00e9rmino da Primeira Guerra, Allen torna-se um vagabundo sem dinheiro. Quando assiste a outro homem cometendo um furto, \u00e9 condenado injustamente a dez anos de cadeia, numa pris\u00e3o na Ge\u00f3rgia. L\u00e1, \u00e9 perseguido por gangues e castigado cruelmente por guardas s\u00e1dicos. Com a ajuda de outro prisioneiro, escapa e parte determinado em busca do sonho que tem de se tornar um engenheiro.",
+                "vote_average": 7.8,
+                "vote_count": 190
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Adaptation)": [
+        {
+            "first_label": "Little Women",
+            "second_label": "Victor Heerman, Sarah Y. Mason",
+            "category": "Writing (Adaptation)",
+            "year": 1934,
+            "tmdb": {
+                "id": 39938,
+                "original_title": "Little Women",
+                "title": "Little Women",
+                "release_date": "1933-11-24",
+                "backdrop_path": "/jyZVGw4jgsJVCI7JRu4ve8YyMGJ.jpg",
+                "poster_path": "/mgsbEsHT26CrLivAFqqQwrphThm.jpg",
+                "overview": "Little Women is a coming-of-age drama tracing the lives of four sisters: Meg, Jo, Beth and Amy. During the American Civil War, the girls father is away serving as a minister to the troops. The family, headed by their beloved Marmee, must struggle to make ends meet, with the help of their kind and wealthy neighbor, Mr. Laurence, and his high spirited grandson Laurie.",
+                "vote_average": 6.7,
+                "vote_count": 122
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Lady for a Day",
+            "second_label": "Robert Riskin",
+            "category": "Writing (Adaptation)",
+            "year": 1934,
+            "tmdb": {
+                "id": 43130,
+                "original_title": "Lady for a Day",
+                "title": "Dama por um Dia",
+                "release_date": "1933-09-13",
+                "backdrop_path": "/fiP5YEGacZNT3GLbFrxbVRBs9Xv.jpg",
+                "poster_path": "/3qOtbnBKhcM66wtYgUViasKdj6s.jpg",
+                "overview": "O gangster transforma a Annie das Ma\u00e7\u00e3s, mendiga da Times Square, em  Dama por um Dia.  A Annie das Ma\u00e7\u00e3s \u00e9 uma indigente que sempre escreve cartas para sua filha na Espanha e diz nas cartas que \u00e9 da alta sociedade de Nova York. Com sua filha repentinamente vindo para a Am\u00e9rica com seu novo noivo e o pai do noivo, um membro da aristocracia espanhola, Annie precisa manter sua encena\u00e7\u00e3o de riqueza ou o conde n\u00e3o dar\u00e1 sua b\u00ean\u00e7\u00e3o ao casamento. Ela recebe ajuda inesperada de Dave the Dude, uma figura bem conhecida no submundo de Nova York, que considera Annie o seu amuleto de boa sorte. Ele lhe oferece um apartamento de luxo para entreter os visitantes - mas esse ato de bondade incomum de um homem com uma reputa\u00e7\u00e3o vergonhosa desperta suspeitas, levando a complica\u00e7\u00f5es que fazem com que as coisas n\u00e3o saiam exatamente como foram planejadas.\r Refilmado pelo mesmo diretor em Dama por Um Dia (1961).",
+                "vote_average": 7.1,
+                "vote_count": 71
+            },
+            "winner": false
+        },
+        {
+            "first_label": "State Fair",
+            "second_label": "Paul Green, Sonya Levien",
+            "category": "Writing (Adaptation)",
+            "year": 1934,
+            "tmdb": {
+                "id": 52517,
+                "original_title": "State Fair",
+                "title": "State Fair",
+                "release_date": "1933-02-10",
+                "backdrop_path": "/ritIv2bm1QUNVhiPWhYga06JFTp.jpg",
+                "poster_path": "/tx3h4QTmPlrdgvFBBDtKzqm4gif.jpg",
+                "overview": "The children of Iowa farmers find love, with mixed results, at the state fair.",
+                "vote_average": 6.2,
+                "vote_count": 18
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Original Story)": [
+        {
+            "first_label": "One Way Passage",
+            "second_label": "Robert Lord",
+            "category": "Writing (Original Story)",
+            "year": 1934,
+            "tmdb": {
+                "id": 13634,
+                "original_title": "One Way Passage",
+                "title": "A \u00danica Solu\u00e7\u00e3o",
+                "release_date": "1932-10-04",
+                "backdrop_path": "/5V3ZGdT4Z7aYXdpP8eCCGqq8N7M.jpg",
+                "poster_path": "/c3FRmz3VTtvlmmNBJ7l8ILO0zzD.jpg",
+                "overview": "A terminally ill woman and a debonair murderer facing execution meet and fall in love on a trans-Pacific crossing, each without knowing the other's secret.",
+                "vote_average": 7.3,
+                "vote_count": 47
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Prizefighter and the Lady",
+            "second_label": "Frances Marion",
+            "category": "Writing (Original Story)",
+            "year": 1934,
+            "tmdb": {
+                "id": 95854,
+                "original_title": "The Prizefighter and the Lady",
+                "title": "The Prizefighter and the Lady",
+                "release_date": "1933-11-10",
+                "backdrop_path": "/f1AH1hSZ3F9Xpg0yEjxLQp8GbpM.jpg",
+                "poster_path": "/4ufG95mvWzB8O5R6mQ4KeEW0PfT.jpg",
+                "overview": "An ex-sailor turned boxer finds romance and gets a shot at the heavyweight title.",
+                "vote_average": 5.5,
+                "vote_count": 10
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rasputin and the Empress",
+            "second_label": "Charles MacArthur",
+            "category": "Writing (Original Story)",
+            "year": 1934,
+            "tmdb": {
+                "id": 43132,
+                "original_title": "Rasputin and the Empress",
+                "title": "Rasputin e a Imperatriz",
+                "release_date": "1932-12-23",
+                "backdrop_path": "/5Ik710g5n9AIe0kVHcaLnBganp3.jpg",
+                "poster_path": "/txLqNjctfiVbCyxIKa261W5tz70.jpg",
+                "overview": "The story of corrupt, power-hungry, manipulative Grigori Rasputin's influence on members of the Russian Imperial family and others, and what resulted.",
+                "vote_average": 5.1,
+                "vote_count": 8
+            },
+            "winner": false
+        }
+    ]
+}

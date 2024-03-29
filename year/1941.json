@@ -1,0 +1,2722 @@
+{
+    "Actor": [
+        {
+            "first_label": "James Stewart",
+            "second_label": "The Philadelphia Story",
+            "category": "Actor",
+            "year": 1941,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Charles Chaplin",
+            "second_label": "The Great Dictator",
+            "category": "Actor",
+            "year": 1941,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Henry Fonda",
+            "second_label": "The Grapes of Wrath",
+            "category": "Actor",
+            "year": 1941,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Raymond Massey",
+            "second_label": "Abe Lincoln in Illinois",
+            "category": "Actor",
+            "year": 1941,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Laurence Olivier",
+            "second_label": "Rebecca",
+            "category": "Actor",
+            "year": 1941,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Walter Brennan",
+            "second_label": "The Westerner",
+            "category": "Actor in a Supporting Role",
+            "year": 1941,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Albert Basserman",
+            "second_label": "Foreign Correspondent",
+            "category": "Actor in a Supporting Role",
+            "year": 1941,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "William Gargan",
+            "second_label": "They Knew What They Wanted",
+            "category": "Actor in a Supporting Role",
+            "year": 1941,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jack Oakie",
+            "second_label": "The Great Dictator",
+            "category": "Actor in a Supporting Role",
+            "year": 1941,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "James Stephenson",
+            "second_label": "The Letter",
+            "category": "Actor in a Supporting Role",
+            "year": 1941,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress": [
+        {
+            "first_label": "Ginger Rogers",
+            "second_label": "Kitty Foyle",
+            "category": "Actress",
+            "year": 1941,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Bette Davis",
+            "second_label": "The Letter",
+            "category": "Actress",
+            "year": 1941,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Joan Fontaine",
+            "second_label": "Rebecca",
+            "category": "Actress",
+            "year": 1941,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Katharine Hepburn",
+            "second_label": "The Philadelphia Story",
+            "category": "Actress",
+            "year": 1941,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Martha Scott",
+            "second_label": "Our Town",
+            "category": "Actress",
+            "year": 1941,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Jane Darwell",
+            "second_label": "The Grapes of Wrath",
+            "category": "Actress in a Supporting Role",
+            "year": 1941,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Judith Anderson",
+            "second_label": "Rebecca",
+            "category": "Actress in a Supporting Role",
+            "year": 1941,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ruth Hussey",
+            "second_label": "The Philadelphia Story",
+            "category": "Actress in a Supporting Role",
+            "year": 1941,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Barbara O'Neil",
+            "second_label": "All This, and Heaven Too",
+            "category": "Actress in a Supporting Role",
+            "year": 1941,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Marjorie Rambeau",
+            "second_label": "Primrose Path",
+            "category": "Actress in a Supporting Role",
+            "year": 1941,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction (Black-and-White)": [
+        {
+            "first_label": "Pride and Prejudice",
+            "second_label": "Cedric Gibbons, Paul Groesse",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1941,
+            "tmdb": {
+                "id": 43818,
+                "original_title": "Pride and Prejudice",
+                "title": "Orgulho e Preconceito",
+                "release_date": "1940-07-26",
+                "backdrop_path": "/dLAgQQfiqDxPZZOoHYoA0RHXVNf.jpg",
+                "poster_path": "/50SMVJNtOF7MdmtCrIA08xeqytN.jpg",
+                "overview": "M\u00e3e de cinco filhas, a Sra. Bennet  (Mary Boland) procura ansiosamente por maridos em boa condi\u00e7\u00e3o financeira para as duas mais velhas, Jane (Maureen O'Sullivan) e Elizabeth (Greer Garson).  Um belo dia, elas est\u00e3o comprando novos vestidos, quando avistam os cavalheiros Sr. Bingley (Bruce Lester) e Sr. Darcy (Laurence Olivier) e uma dama em uma carruagem.",
+                "vote_average": 6.9,
+                "vote_count": 135
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Arise, My Love",
+            "second_label": "Hans Dreier, Robert Usher",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1941,
+            "tmdb": {
+                "id": 131770,
+                "original_title": "Arise, My Love",
+                "title": "Levanta-te, Meu Amor",
+                "release_date": "1940-11-08",
+                "backdrop_path": "/46UOHN63geafyAduo270zn0yUsV.jpg",
+                "poster_path": "/depZFXpKyOw7aeIGWa42A30H64L.jpg",
+                "overview": "Claudette Colbert faz o papel de uma jornalista americana baseada em Paris que envia para seu jornal not\u00edcias sobre a Guerra Civil Espanhola e se envolve com um aviador aventureiro que luta do lado dos republicanos (o papel de Ray Milland).",
+                "vote_average": 6.1,
+                "vote_count": 16
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Arizona",
+            "second_label": "Lionel Banks, Robert Peterson",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1941,
+            "tmdb": {
+                "id": 35561,
+                "original_title": "Arizona",
+                "title": "A Amazona de Tucson",
+                "release_date": "1940-12-25",
+                "backdrop_path": "/tIOls8W1J9vkYBHn7Brn8UTZe23.jpg",
+                "poster_path": "/rAYOAq6jWXBjKZUg80vY2lFkBjA.jpg",
+                "overview": "Durante a d\u00e9cada de 1860, Tucson, uma mulher pioneira luta para ter sucesso nos neg\u00f3cios de frete e gado enquanto corre o risco nas m\u00e3os de empres\u00e1rios locais corruptos e violentos e indignados indianos.",
+                "vote_average": 6.1,
+                "vote_count": 25
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Boys from Syracuse",
+            "second_label": "John Otterson",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1941,
+            "tmdb": {
+                "id": 188123,
+                "original_title": "The Boys from Syracuse",
+                "title": "The Boys from Syracuse",
+                "release_date": "1940-07-30",
+                "backdrop_path": "/6BAVH1JJXP5e06UwtBuhMRxHS6l.jpg",
+                "poster_path": "/82s6hMz2UvXJ2t14fEGvPoFQIuh.jpg",
+                "overview": "The action takes place in Ephesus in ancient Asia Minor, and the concerns The efforts of two boys from Syracuse, Anthipholus and his servant Dromio, to find their long-lost twins who, for reason of plot confusion, are also named Anthipholus and Dromio. Complications arise when the wife of the Ephesians, Adriana and her servant Luce, mistake the two strangers for their husband, though the couples eventually get sorted out after Adriana's sister Luciana and the Syracuse Antipholus admit their love",
+                "vote_average": 6.5,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Dark Command",
+            "second_label": "John Victor Mackay",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1941,
+            "tmdb": {
+                "id": 40639,
+                "original_title": "Dark Command",
+                "title": "Comando Negro",
+                "release_date": "1940-04-15",
+                "backdrop_path": "/ilf5nRx24mAacQYA23g9W6mKJ7s.jpg",
+                "poster_path": "/kpnO4PU7Pc9ZUAfs0BM9QizA0bm.jpg",
+                "overview": "No Kansas, durante a Guerra Civil, os partid\u00e1rios pr\u00f3-Uni\u00e3o e pr\u00f3-Confederados se op\u00f5em e a visita do texano Bob Seton detona o conflito com os Vigilantes de William Cantrell.",
+                "vote_average": 6.3,
+                "vote_count": 41
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Foreign Correspondent",
+            "second_label": "Alexander Golitzen",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1941,
+            "tmdb": {
+                "id": 25670,
+                "original_title": "Foreign Correspondent",
+                "title": "Correspondente Estrangeiro",
+                "release_date": "1940-08-16",
+                "backdrop_path": "/fe1j0IFaAGNyxbsIgEwFlZICKPk.jpg",
+                "poster_path": "/q9fN7i3hL3OIgGEPbTZqjYtOFUb.jpg",
+                "overview": "Johnny Jones (Joel McCrea) \u00e9 o correspondente de um jornal de Nova York que viaja para a Europa usando o pseud\u00f4nimo de Huntley Haverstock, quando a 2\u00aa Guerra Mundial era uma realidade cada vez mais iminente. Inicialmente ele vai para Londres mas logo est\u00e1 em Amsterd\u00e3, onde juntamente com v\u00e1rias pessoas testemunha o assassinato de Van Meer (Albert Bassermann), um diplomata holand\u00eas. Entretanto, logo ele toma consci\u00eancia que quem morreu foi um s\u00f3sia e que Van Meer na verdade foi sequestrado por agentes do inimigo, que querem arrancar do diplomata importantes segredos. Assim sua situa\u00e7\u00e3o fica desesperadora, pois sua hist\u00f3ria \u00e9 em princ\u00edpio absurda e, al\u00e9m disto, est\u00e3o querendo mat\u00e1-lo.",
+                "vote_average": 7.0,
+                "vote_count": 358
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lillian Russell",
+            "second_label": "Richard Day, Joseph C. Wright",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1941,
+            "tmdb": {
+                "id": 204604,
+                "original_title": "Lillian Russell",
+                "title": "Lillian Russell",
+                "release_date": "1940-05-24",
+                "backdrop_path": "/q258s5xQalGC3QQoGMx92P5qUHf.jpg",
+                "poster_path": "/3zHQRm8vig16p6KjKPQRAQGG7t0.jpg",
+                "overview": "Alice Faye plays the title role in this 1940 film biography of the early-20th-century stage star.",
+                "vote_average": 5.9,
+                "vote_count": 8
+            },
+            "winner": false
+        },
+        {
+            "first_label": "My Favorite Wife",
+            "second_label": "Van Nest Polglase, Mark-Lee Kirk",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1941,
+            "tmdb": {
+                "id": 41463,
+                "original_title": "My Favorite Wife",
+                "title": "Minha Esposa Favorita",
+                "release_date": "1940-05-17",
+                "backdrop_path": "/gmtpAmVmHZ8a5E0ZERx4fxzSecS.jpg",
+                "poster_path": "/eRyGZiEWGn9bADSI5CXWMStBhMD.jpg",
+                "overview": "Sete anos depois de um naufr\u00e1gio no qual ela foi supostamente morta, Ellen Arden chega em casa e descobre que seu marido Nick acabou de se casar novamente. O radiante Nick esfor\u00e7a-se por dar a not\u00edcia \u00e0 sua nova noiva. Mas ele fica chocado quando ouve a hist\u00f3ria toda: Ellen passou esses sete anos em uma ilha deserta sozinha com outro homem.",
+                "vote_average": 7.0,
+                "vote_count": 148
+            },
+            "winner": false
+        },
+        {
+            "first_label": "My Son, My Son!",
+            "second_label": "John DuCasse Schulze",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1941,
+            "tmdb": {
+                "id": 218317,
+                "original_title": "My Son, My Son!",
+                "title": "My Son, My Son!",
+                "release_date": "1940-03-21",
+                "backdrop_path": "/1dBqETKIFCR145t1urF7Tj5MMoX.jpg",
+                "poster_path": "/lODlaffftQ2XFLBOYdPsG7QEeUD.jpg",
+                "overview": "A self-made success is determined to give his son the lavish upbringing he himself was denied. Not surprisingly, the son grows up to be spoiled rotten, causing grief and pain to everyone who loves him.",
+                "vote_average": 4.3,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Our Town",
+            "second_label": "Lewis J. Rachmil",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1941,
+            "tmdb": {
+                "id": 23283,
+                "original_title": "Our Town",
+                "title": "Our Town",
+                "release_date": "1940-05-24",
+                "backdrop_path": "/a8J5yD3jXLAfMyF1OuxpXmDG1YT.jpg",
+                "poster_path": "/nRuwYjCm1aPUY9SDp5P6URFqvvd.jpg",
+                "overview": "Change comes slowly to a small New Hampshire town in the early 20th century. We see birth, life and death in this small community.",
+                "vote_average": 5.8,
+                "vote_count": 27
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rebecca",
+            "second_label": "Lyle Wheeler",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1941,
+            "tmdb": {
+                "id": 223,
+                "original_title": "Rebecca",
+                "title": "Rebecca, A Mulher Inesquec\u00edvel",
+                "release_date": "1940-03-23",
+                "backdrop_path": "/jKgLVAhoq4fXBs1C9Gjvap93fxd.jpg",
+                "poster_path": "/yJX12zYQr5DBl0hZUd3Oi0hBWvs.jpg",
+                "overview": "Uma jovem de origem humilde (Joan Fontaine) se casa com um riqu\u00edssimo nobre ingl\u00eas (Laurence Olivier), que ainda vive atormentado por lembran\u00e7as de sua falecida esposa. Ap\u00f3s o casamento e j\u00e1 morando na mans\u00e3o do marido, ela vai gradativamente descobrindo surpreendentes segredos sobre o passado dele.",
+                "vote_average": 7.9,
+                "vote_count": 1658
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Sea Hawk",
+            "second_label": "Anton Grot",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1941,
+            "tmdb": {
+                "id": 26201,
+                "original_title": "The Sea Hawk",
+                "title": "O Gavi\u00e3o do Mar",
+                "release_date": "1940-08-10",
+                "backdrop_path": "/ishvkb7T721yRDFEwkP5znQgbT5.jpg",
+                "poster_path": "/s4dtnMJ0posl0uZkeKj4fz1AcA9.jpg",
+                "overview": "Enquanto a Espanha prepara um ex\u00e9rcito para invadir a Inglaterra, o pirata brit\u00e2nico Geoffrey Thorpe embarca em uma miss\u00e3o para saquear barcos espanh\u00f3is. Quando ele captura o barco que transportava o embaixador Don Jose Alvarez de Cordoba, o vistoso capit\u00e3o apaixona-se por sua sobrinha, a bela Dona Maria, que se instala confortavelmente na Inglaterra. Dedicado a proteger os interesses ingleses, Thorpe vai para o mar em uma perigosa expedi\u00e7\u00e3o que pode determinar o destino do pa\u00eds.",
+                "vote_average": 7.1,
+                "vote_count": 114
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Westerner",
+            "second_label": "James Basevi",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1941,
+            "tmdb": {
+                "id": 14710,
+                "original_title": "The Westerner",
+                "title": "The Westerner",
+                "release_date": "1940-09-18",
+                "backdrop_path": "/cp1QQPnRsPxzUbdAWURD1U0b0mv.jpg",
+                "poster_path": "/5DpDg1GYiqAKoCozbunCqPYvRPD.jpg",
+                "overview": "Drifter Cole Harden is accused of stealing a horse and faces hanging by self-appointed Judge Roy Bean, but Harden manages to talk his way out of it by claiming to be a friend of stage star Lillie Langtry, with whom the judge is obsessed, even though he has never met her. Tensions rise when Harden comes to the defense of a group of struggling homesteaders who Judge Bean is trying to drive away.",
+                "vote_average": 7.0,
+                "vote_count": 95
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction (Color)": [
+        {
+            "first_label": "The Thief of Bagdad",
+            "second_label": "Vincent Korda",
+            "category": "Art Direction (Color)",
+            "year": 1941,
+            "tmdb": {
+                "id": 12232,
+                "original_title": "The Thief of Bagdad",
+                "title": "O Ladr\u00e3o de Bagd\u00e1",
+                "release_date": "1940-12-25",
+                "backdrop_path": "/oaSBgbi0czdGjtXllTTIMj1H3th.jpg",
+                "poster_path": "/ankRLnVQ7Le139cM41psJ4pYtrh.jpg",
+                "overview": "Menino ladr\u00e3o das ruas de Bagd\u00e1 ajuda jovem sult\u00e3o deposto do trono por feiticeiro a recuperar o poder. Para isso conta com a ajuda de um g\u00eanio m\u00e1gico que lhe concede tr\u00eas desejos.",
+                "vote_average": 7.1,
+                "vote_count": 244
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Bitter Sweet",
+            "second_label": "Cedric Gibbons, John S. Detlie",
+            "category": "Art Direction (Color)",
+            "year": 1941,
+            "tmdb": {
+                "id": 121695,
+                "original_title": "Bitter Sweet",
+                "title": "Bitter Sweet",
+                "release_date": "1940-11-08",
+                "backdrop_path": "/57nIGs2iDxlSfTkEOphTFT4NmfQ.jpg",
+                "poster_path": "/uFqpEchsVLLZXHoxbjBZ7TD1Kez.jpg",
+                "overview": "In order to avoid an arranged marriage with a man she doesn't love, Sarah Millick runs off to Vienna with her music teacher, Carl Linden, whom she does love. They are married. In Vienna, they struggle to make a living by making music. Carl writes an operetta and tries to get it produced. They are helped along by Viennese Baron, but his intentions are not honorable. He kills Carl in a sword fight. A big producer does put on the operetta, with Sari in the lead -- but without her husband, it is a bittersweet victory.",
+                "vote_average": 5.8,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Down Argentine Way",
+            "second_label": "Richard Day, Joseph C. Wright",
+            "category": "Art Direction (Color)",
+            "year": 1941,
+            "tmdb": {
+                "id": 43810,
+                "original_title": "Down Argentine Way",
+                "title": "Serenata Tropical",
+                "release_date": "1940-10-11",
+                "backdrop_path": "/5kyuveLcxz9aS5ufKXWTPeILJ0S.jpg",
+                "poster_path": "/gg3DgplgKq8ZBFnMwMfgGuhSZCs.jpg",
+                "overview": "Uma garota americana em f\u00e9rias na Argentina se apaixona por um rico propriet\u00e1rio de cavalos de corrida.",
+                "vote_average": 6.0,
+                "vote_count": 23
+            },
+            "winner": false
+        },
+        {
+            "first_label": "North West Mounted Police",
+            "second_label": "Hans Dreier, Roland Anderson",
+            "category": "Art Direction (Color)",
+            "year": 1941,
+            "tmdb": {
+                "id": 83360,
+                "original_title": "North West Mounted Police",
+                "title": "Legi\u00e3o de Her\u00f3is",
+                "release_date": "1940-10-22",
+                "backdrop_path": "/8kB3hOnvjfK0FS1epGinNUB0DTm.jpg",
+                "poster_path": "/qM5Ld0eL4sRHEt84nf8VV1QGGth.jpg",
+                "overview": "Texas Ranger Dusty Rivers (\"Isn't that a contradiction in terms?\", another character asks him) travels to Canada in the 1880s in search of Jacques Corbeau, who is wanted for murder. He wanders into the midst of the Riel Rebellion, in which M\u00e9tis (people of French and Native heritage) and Natives want a separate nation. Dusty falls for nurse April Logan, who is also loved by Mountie Jim Brett. April's brother is involved with Courbeau's daughter Louvette, which leads to trouble during the battles between the rebels and the Mounties. Through it all Dusty is determined to bring Corbeau back to Texas (and April, too, if he can manage it.)",
+                "vote_average": 6.3,
+                "vote_count": 34
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography (Black-and-White)": [
+        {
+            "first_label": "Rebecca",
+            "second_label": "George Barnes",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1941,
+            "tmdb": {
+                "id": 223,
+                "original_title": "Rebecca",
+                "title": "Rebecca, A Mulher Inesquec\u00edvel",
+                "release_date": "1940-03-23",
+                "backdrop_path": "/jKgLVAhoq4fXBs1C9Gjvap93fxd.jpg",
+                "poster_path": "/yJX12zYQr5DBl0hZUd3Oi0hBWvs.jpg",
+                "overview": "Uma jovem de origem humilde (Joan Fontaine) se casa com um riqu\u00edssimo nobre ingl\u00eas (Laurence Olivier), que ainda vive atormentado por lembran\u00e7as de sua falecida esposa. Ap\u00f3s o casamento e j\u00e1 morando na mans\u00e3o do marido, ela vai gradativamente descobrindo surpreendentes segredos sobre o passado dele.",
+                "vote_average": 7.9,
+                "vote_count": 1658
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Abe Lincoln in Illinois",
+            "second_label": "James Wong Howe",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1941,
+            "tmdb": {
+                "id": 43806,
+                "original_title": "Abe Lincoln in Illinois",
+                "title": "O Libertador",
+                "release_date": "1940-02-22",
+                "backdrop_path": "/mh1v8vYCo3kkPc2bg8ugdOa3G6E.jpg",
+                "poster_path": "/xKI8TOiOL5Emt2GAOIOckmlisF1.jpg",
+                "overview": "Filme biogr\u00e1fico sobre a vida de Abraham Lincoln, um dos mais marcantes presidentes dos Estados Unidos. A narrativa mostra desde a juventude de Lincoln, quanto era um advogado, at\u00e9 sua elei\u00e7\u00e3o para a Casa Branca.",
+                "vote_average": 6.8,
+                "vote_count": 20
+            },
+            "winner": false
+        },
+        {
+            "first_label": "All This, and Heaven Too",
+            "second_label": "Ernest Haller",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1941,
+            "tmdb": {
+                "id": 43807,
+                "original_title": "All This, and Heaven Too",
+                "title": "Tudo Isto, e o C\u00e9u Tamb\u00e9m",
+                "release_date": "1940-07-05",
+                "backdrop_path": "/1ANzUVLtf2iAgemBPz61xnA3M1I.jpg",
+                "poster_path": "/8dsA0x2AFvJpkRDvyfscRMZrKm3.jpg",
+                "overview": "Adapta\u00e7\u00e3o do best-seller de Rachel Field. Bette Davis \u00e9 a professora Henriette, que relembra sua hist\u00f3ria em flashbacks, trazendo \u00e0 tona o tempo em que trabalhava como governanta do Duque de Praslin. Dominada por um ci\u00fame doentio, a duquesa acusou Henriette de manter um caso com o duque. A governanta achou melhor deixar o emprego ao inv\u00e9s de criar confus\u00e3o, mesmo com a promessa n\u00e3o cumprida da duquesa em escrever uma carta de refer\u00eancias. Logo depois, por\u00e9m, a duquesa foi encontrada morta.",
+                "vote_average": 7.3,
+                "vote_count": 45
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Arise, My Love",
+            "second_label": "Charles B. Lang, Jr.",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1941,
+            "tmdb": {
+                "id": 131770,
+                "original_title": "Arise, My Love",
+                "title": "Levanta-te, Meu Amor",
+                "release_date": "1940-11-08",
+                "backdrop_path": "/46UOHN63geafyAduo270zn0yUsV.jpg",
+                "poster_path": "/depZFXpKyOw7aeIGWa42A30H64L.jpg",
+                "overview": "Claudette Colbert faz o papel de uma jornalista americana baseada em Paris que envia para seu jornal not\u00edcias sobre a Guerra Civil Espanhola e se envolve com um aviador aventureiro que luta do lado dos republicanos (o papel de Ray Milland).",
+                "vote_average": 6.1,
+                "vote_count": 16
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Boom Town",
+            "second_label": "Harold Rosson",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1941,
+            "tmdb": {
+                "id": 55604,
+                "original_title": "Boom Town",
+                "title": "Fruto Proibido",
+                "release_date": "1940-08-30",
+                "backdrop_path": "/bPeWQCyLtAWGyjtJ9mdfPcvhRTe.jpg",
+                "poster_path": "/upPOcyAhnL0tDPL8MsTRrOJquiJ.jpg",
+                "overview": "Dois amigos petroleiros meio malandros, que ao longo de 20 anos se tornam magnatas do petr\u00f3leo, amam a mesma mulher.  Os amigos Big John McMasters e Square John Sand, ambos aventureiros do petr\u00f3leo, s\u00e3o do tipo falantes, divertidos, que conseguem malandramente equipamentos e capital suficiente para desenvolver os seus pr\u00f3prios campos de petr\u00f3leo. Mas sua amizade \u00e9 posta \u00e0 prova quando Big John fica inadvertidamente apaixonado por Elizabeth, a namorada de longa data de Square John Sand. Eventualmente, sua amizade e parceria chega ao fim num Cara ou Coroa. Anos mais tarde, quando o interesse de Big John pela bela Karen Vanmeer amea\u00e7a seu casamento tamb\u00e9m, Square John interv\u00e9m em um esfor\u00e7o para salvar o casamento de seu ex-amigo - mesmo que isso signifique arruin\u00e1-lo financeiramente.",
+                "vote_average": 6.9,
+                "vote_count": 49
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Foreign Correspondent",
+            "second_label": "Foreign Correspondent",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1941,
+            "tmdb": {
+                "id": 25670,
+                "original_title": "Foreign Correspondent",
+                "title": "Correspondente Estrangeiro",
+                "release_date": "1940-08-16",
+                "backdrop_path": "/fe1j0IFaAGNyxbsIgEwFlZICKPk.jpg",
+                "poster_path": "/q9fN7i3hL3OIgGEPbTZqjYtOFUb.jpg",
+                "overview": "Johnny Jones (Joel McCrea) \u00e9 o correspondente de um jornal de Nova York que viaja para a Europa usando o pseud\u00f4nimo de Huntley Haverstock, quando a 2\u00aa Guerra Mundial era uma realidade cada vez mais iminente. Inicialmente ele vai para Londres mas logo est\u00e1 em Amsterd\u00e3, onde juntamente com v\u00e1rias pessoas testemunha o assassinato de Van Meer (Albert Bassermann), um diplomata holand\u00eas. Entretanto, logo ele toma consci\u00eancia que quem morreu foi um s\u00f3sia e que Van Meer na verdade foi sequestrado por agentes do inimigo, que querem arrancar do diplomata importantes segredos. Assim sua situa\u00e7\u00e3o fica desesperadora, pois sua hist\u00f3ria \u00e9 em princ\u00edpio absurda e, al\u00e9m disto, est\u00e3o querendo mat\u00e1-lo.",
+                "vote_average": 7.0,
+                "vote_count": 358
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Letter",
+            "second_label": "Gaetano (Tony) Gaudio",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1941,
+            "tmdb": {
+                "id": 17801,
+                "original_title": "The Letter",
+                "title": "A Carta",
+                "release_date": "1940-11-21",
+                "backdrop_path": "/o03816KjEc3SzqP93xamC44xrOL.jpg",
+                "poster_path": "/fe43qXp2sRAZbPDKX1puKGEwOon.jpg",
+                "overview": "Leslie Crosbie (Bette Davis), a esposa do comerciante Robert Crosbie (Herbert Marshall), mata um homem e alega leg\u00edtima defesa, mas omite que eles eram amantes. Ent\u00e3o a vi\u00fava procura o advogado da assassina, chantageando-a com uma carta.",
+                "vote_average": 7.3,
+                "vote_count": 202
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Long Voyage Home",
+            "second_label": "Gregg Toland",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1941,
+            "tmdb": {
+                "id": 52859,
+                "original_title": "The Long Voyage Home",
+                "title": "A Longa Viagem de Volta",
+                "release_date": "1940-11-16",
+                "backdrop_path": "/o2bN1lMPgWnlylcaQHMnit1BxYR.jpg",
+                "poster_path": "/fFdorPTbPiyuULT966aDTA6p4qV.jpg",
+                "overview": "A bordo do cargueiro Glencairn, a vida da tripula\u00e7\u00e3o \u00e9 vivida com medo, solid\u00e3o, suspeita e camaradagem. Os homens contrabandeiam bebida e mulheres para bordo, lutam uns com os outros, espionam uns aos outros, confortar uns aos outros quando a morte se aproxima, e ajudam o outro quando em perigo. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.5,
+                "vote_count": 72
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Spring Parade",
+            "second_label": "Joseph Valentine",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1941,
+            "tmdb": {
+                "id": 218312,
+                "original_title": "Spring Parade",
+                "title": "Spring Parade",
+                "release_date": "1940-09-27",
+                "backdrop_path": "/db9BZY5ZJLxm5nTjjF95yTTFEug.jpg",
+                "poster_path": "/yLeEGQyFz9l8ZhjCxxxYFrcrgVf.jpg",
+                "overview": "In this light and lovely romantic musical, a Hungarian woman attends a Viennese fair and buys a card from a gypsy fortune teller. It says that she will meet someone important and is destined for a happy marriage. Afterward she gets a job as a baker's assistant. She then meets a handsome army drummer who secretly dreams of becoming a famous composer and conductor. Unfortunately the military forbids the young corporal to create his own music. But then Ilonka secretly sends one of the drummer's waltzes to the Austrian Emperor with his weekly order of pastries. Her act paves the way toward the tuneful and joyous fulfillment of the gypsy's prediction.",
+                "vote_average": 6.8,
+                "vote_count": 9
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Waterloo Bridge",
+            "second_label": "Joseph Ruttenberg",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1941,
+            "tmdb": {
+                "id": 43824,
+                "original_title": "Waterloo Bridge",
+                "title": "A Ponte de Waterloo",
+                "release_date": "1940-05-17",
+                "backdrop_path": "/7hVg5V8SVIRNyAkivKkOC5LbKIG.jpg",
+                "poster_path": "/2XgYKd5tr5b9W5Yfq80yTZqf3hy.jpg",
+                "overview": "Em Londres, durante os bombardeios da Primeira Guerra, o oficial Roy e a bailarina Myra se conhecem na ponte de Waterloo e logo se apaixonam. Por\u00e9m, Roy precisa partir para o front de batalha. Myra promete esper\u00e1-lo. Meses depois, ela recebe a not\u00edcia da morte de Roy. Desiludida e sem recursos, Myra toma uma decis\u00e3o dr\u00e1stica. Mas ser\u00e1 que o seu grande amor realmente morreu?",
+                "vote_average": 7.5,
+                "vote_count": 136
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography (Color)": [
+        {
+            "first_label": "The Thief of Bagdad",
+            "second_label": "The Thief of Bagdad",
+            "category": "Cinematography (Color)",
+            "year": 1941,
+            "tmdb": {
+                "id": 12232,
+                "original_title": "The Thief of Bagdad",
+                "title": "O Ladr\u00e3o de Bagd\u00e1",
+                "release_date": "1940-12-25",
+                "backdrop_path": "/oaSBgbi0czdGjtXllTTIMj1H3th.jpg",
+                "poster_path": "/ankRLnVQ7Le139cM41psJ4pYtrh.jpg",
+                "overview": "Menino ladr\u00e3o das ruas de Bagd\u00e1 ajuda jovem sult\u00e3o deposto do trono por feiticeiro a recuperar o poder. Para isso conta com a ajuda de um g\u00eanio m\u00e1gico que lhe concede tr\u00eas desejos.",
+                "vote_average": 7.1,
+                "vote_count": 244
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Bitter Sweet",
+            "second_label": "Oliver T. Marsh, Allen Davey",
+            "category": "Cinematography (Color)",
+            "year": 1941,
+            "tmdb": {
+                "id": 121695,
+                "original_title": "Bitter Sweet",
+                "title": "Bitter Sweet",
+                "release_date": "1940-11-08",
+                "backdrop_path": "/57nIGs2iDxlSfTkEOphTFT4NmfQ.jpg",
+                "poster_path": "/uFqpEchsVLLZXHoxbjBZ7TD1Kez.jpg",
+                "overview": "In order to avoid an arranged marriage with a man she doesn't love, Sarah Millick runs off to Vienna with her music teacher, Carl Linden, whom she does love. They are married. In Vienna, they struggle to make a living by making music. Carl writes an operetta and tries to get it produced. They are helped along by Viennese Baron, but his intentions are not honorable. He kills Carl in a sword fight. A big producer does put on the operetta, with Sari in the lead -- but without her husband, it is a bittersweet victory.",
+                "vote_average": 5.8,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Blue Bird",
+            "second_label": "Arthur Miller, Ray Rennahan",
+            "category": "Cinematography (Color)",
+            "year": 1941,
+            "tmdb": {
+                "id": 60400,
+                "original_title": "The Blue Bird",
+                "title": "O P\u00e1ssaro Azul",
+                "release_date": "1940-01-15",
+                "backdrop_path": "/4BQpKhhJ8rXpvkfLFCEmhxxMX5b.jpg",
+                "poster_path": "/4MLru2banKCbCC5iGOmqon3h569.jpg",
+                "overview": "Mytyl e Tyltyl s\u00e3o irm\u00e3os que acabam sendo levados em uma encantadora viagem pelo passado, presente e futuro. Eles conhecem os poderes da natureza em busca do p\u00e1ssaro azul da felicidade.",
+                "vote_average": 5.7,
+                "vote_count": 36
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Down Argentine Way",
+            "second_label": "Leon Shamroy, Ray Rennahan",
+            "category": "Cinematography (Color)",
+            "year": 1941,
+            "tmdb": {
+                "id": 43810,
+                "original_title": "Down Argentine Way",
+                "title": "Serenata Tropical",
+                "release_date": "1940-10-11",
+                "backdrop_path": "/5kyuveLcxz9aS5ufKXWTPeILJ0S.jpg",
+                "poster_path": "/gg3DgplgKq8ZBFnMwMfgGuhSZCs.jpg",
+                "overview": "Uma garota americana em f\u00e9rias na Argentina se apaixona por um rico propriet\u00e1rio de cavalos de corrida.",
+                "vote_average": 6.0,
+                "vote_count": 23
+            },
+            "winner": false
+        },
+        {
+            "first_label": "North West Mounted Police",
+            "second_label": "Victor Milner, W. Howard Greene",
+            "category": "Cinematography (Color)",
+            "year": 1941,
+            "tmdb": {
+                "id": 83360,
+                "original_title": "North West Mounted Police",
+                "title": "Legi\u00e3o de Her\u00f3is",
+                "release_date": "1940-10-22",
+                "backdrop_path": "/8kB3hOnvjfK0FS1epGinNUB0DTm.jpg",
+                "poster_path": "/qM5Ld0eL4sRHEt84nf8VV1QGGth.jpg",
+                "overview": "Texas Ranger Dusty Rivers (\"Isn't that a contradiction in terms?\", another character asks him) travels to Canada in the 1880s in search of Jacques Corbeau, who is wanted for murder. He wanders into the midst of the Riel Rebellion, in which M\u00e9tis (people of French and Native heritage) and Natives want a separate nation. Dusty falls for nurse April Logan, who is also loved by Mountie Jim Brett. April's brother is involved with Courbeau's daughter Louvette, which leads to trouble during the battles between the rebels and the Mounties. Through it all Dusty is determined to bring Corbeau back to Texas (and April, too, if he can manage it.)",
+                "vote_average": 6.3,
+                "vote_count": 34
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Northwest Passage",
+            "second_label": "Sidney Wagner, William V. Skall",
+            "category": "Cinematography (Color)",
+            "year": 1941,
+            "tmdb": {
+                "id": 43805,
+                "original_title": "Northwest Passage",
+                "title": "Northwest Passage",
+                "release_date": "1940-02-23",
+                "backdrop_path": "/3X7dEi4izSFpktnjO9GkrUcEVVd.jpg",
+                "poster_path": "/d1J3K23jhEEt2uezEvYY0YtatWi.jpg",
+                "overview": "Based on the Kenneth Roberts novel of the same name, this film tells the story of two friends who join Rogers' Rangers, as the legendary elite force engages the enemy during the French and Indian War. The film focuses on their famous raid at Fort St. Francis and their marches before and after the battle.",
+                "vote_average": 6.3,
+                "vote_count": 45
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "The Grapes of Wrath",
+            "second_label": "John Ford",
+            "category": "Directing",
+            "year": 1941,
+            "tmdb": {
+                "id": 596,
+                "original_title": "The Grapes of Wrath",
+                "title": "As Vinhas da Ira",
+                "release_date": "1940-03-15",
+                "backdrop_path": "/7UTQCis1B8oWNjIMzQq57LPqma2.jpg",
+                "poster_path": "/xg2lYQ05OJ0t7pI6ESV8d3zrydU.jpg",
+                "overview": "Tom, filho mais velho de uma pobre fam\u00edlia de trabalhadores rurais, retorna para casa ap\u00f3s cumprir pena por homic\u00eddio involunt\u00e1rio. Ele planeja levar os parentes at\u00e9 a Calif\u00f3rnia, onde dizem que trabalho n\u00e3o falta. Durante a viagem eles passam por diversos tipos de prova\u00e7\u00f5es e quando finalmente chegam na \"Terra Prometida\" descobrem que \u00e9 um lugar bem pior do que aquele que deixaram.",
+                "vote_average": 7.8,
+                "vote_count": 910
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Kitty Foyle",
+            "second_label": "Sam Wood",
+            "category": "Directing",
+            "year": 1941,
+            "tmdb": {
+                "id": 77744,
+                "original_title": "Kitty Foyle",
+                "title": "Kitty Foyle",
+                "release_date": "1940-12-27",
+                "backdrop_path": "/wikIuBblq4ppWBgsbZcl9C3ru9m.jpg",
+                "poster_path": "/3c5yyi6ULsz5V0Ayv0o90BbmgJj.jpg",
+                "overview": "Kitty Foyle, a hard-working white-collar girl from a Philadelphia, Pennsylvania low, middle-class family, meets and falls in love with young socialite Wyn Strafford but his family is against her.",
+                "vote_average": 6.6,
+                "vote_count": 38
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Letter",
+            "second_label": "William Wyler",
+            "category": "Directing",
+            "year": 1941,
+            "tmdb": {
+                "id": 17801,
+                "original_title": "The Letter",
+                "title": "A Carta",
+                "release_date": "1940-11-21",
+                "backdrop_path": "/o03816KjEc3SzqP93xamC44xrOL.jpg",
+                "poster_path": "/fe43qXp2sRAZbPDKX1puKGEwOon.jpg",
+                "overview": "Leslie Crosbie (Bette Davis), a esposa do comerciante Robert Crosbie (Herbert Marshall), mata um homem e alega leg\u00edtima defesa, mas omite que eles eram amantes. Ent\u00e3o a vi\u00fava procura o advogado da assassina, chantageando-a com uma carta.",
+                "vote_average": 7.3,
+                "vote_count": 202
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Philadelphia Story",
+            "second_label": "George Cukor",
+            "category": "Directing",
+            "year": 1941,
+            "tmdb": {
+                "id": 981,
+                "original_title": "The Philadelphia Story",
+                "title": "N\u00fapcias de Esc\u00e2ndalo",
+                "release_date": "1940-12-05",
+                "backdrop_path": "/obXJDyy5gORwabqBkadEU0cxlqd.jpg",
+                "poster_path": "/5SoB505pGyonSuwhKW2B99cGMo.jpg",
+                "overview": "Uma herdeira entediada, destinada a se casar com um executivo chato, v\u00ea seus planos de casamento frustrados com a chegada de seu ex-marido playboy. E fam\u00edlia ent\u00e3o gradualmente come\u00e7a a perceber a import\u00e2ncia da integridade e dos verdadeiros valores.",
+                "vote_average": 7.6,
+                "vote_count": 804
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rebecca",
+            "second_label": "Alfred Hitchcock",
+            "category": "Directing",
+            "year": 1941,
+            "tmdb": {
+                "id": 223,
+                "original_title": "Rebecca",
+                "title": "Rebecca, A Mulher Inesquec\u00edvel",
+                "release_date": "1940-03-23",
+                "backdrop_path": "/jKgLVAhoq4fXBs1C9Gjvap93fxd.jpg",
+                "poster_path": "/yJX12zYQr5DBl0hZUd3Oi0hBWvs.jpg",
+                "overview": "Uma jovem de origem humilde (Joan Fontaine) se casa com um riqu\u00edssimo nobre ingl\u00eas (Laurence Olivier), que ainda vive atormentado por lembran\u00e7as de sua falecida esposa. Ap\u00f3s o casamento e j\u00e1 morando na mans\u00e3o do marido, ela vai gradativamente descobrindo surpreendentes segredos sobre o passado dele.",
+                "vote_average": 7.9,
+                "vote_count": 1658
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "North West Mounted Police",
+            "second_label": "Anne Bauchens",
+            "category": "Film Editing",
+            "year": 1941,
+            "tmdb": {
+                "id": 83360,
+                "original_title": "North West Mounted Police",
+                "title": "Legi\u00e3o de Her\u00f3is",
+                "release_date": "1940-10-22",
+                "backdrop_path": "/8kB3hOnvjfK0FS1epGinNUB0DTm.jpg",
+                "poster_path": "/qM5Ld0eL4sRHEt84nf8VV1QGGth.jpg",
+                "overview": "Texas Ranger Dusty Rivers (\"Isn't that a contradiction in terms?\", another character asks him) travels to Canada in the 1880s in search of Jacques Corbeau, who is wanted for murder. He wanders into the midst of the Riel Rebellion, in which M\u00e9tis (people of French and Native heritage) and Natives want a separate nation. Dusty falls for nurse April Logan, who is also loved by Mountie Jim Brett. April's brother is involved with Courbeau's daughter Louvette, which leads to trouble during the battles between the rebels and the Mounties. Through it all Dusty is determined to bring Corbeau back to Texas (and April, too, if he can manage it.)",
+                "vote_average": 6.3,
+                "vote_count": 34
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Grapes of Wrath",
+            "second_label": "Robert Simpson",
+            "category": "Film Editing",
+            "year": 1941,
+            "tmdb": {
+                "id": 596,
+                "original_title": "The Grapes of Wrath",
+                "title": "As Vinhas da Ira",
+                "release_date": "1940-03-15",
+                "backdrop_path": "/7UTQCis1B8oWNjIMzQq57LPqma2.jpg",
+                "poster_path": "/xg2lYQ05OJ0t7pI6ESV8d3zrydU.jpg",
+                "overview": "Tom, filho mais velho de uma pobre fam\u00edlia de trabalhadores rurais, retorna para casa ap\u00f3s cumprir pena por homic\u00eddio involunt\u00e1rio. Ele planeja levar os parentes at\u00e9 a Calif\u00f3rnia, onde dizem que trabalho n\u00e3o falta. Durante a viagem eles passam por diversos tipos de prova\u00e7\u00f5es e quando finalmente chegam na \"Terra Prometida\" descobrem que \u00e9 um lugar bem pior do que aquele que deixaram.",
+                "vote_average": 7.8,
+                "vote_count": 910
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Letter",
+            "second_label": "Warren Low",
+            "category": "Film Editing",
+            "year": 1941,
+            "tmdb": {
+                "id": 17801,
+                "original_title": "The Letter",
+                "title": "A Carta",
+                "release_date": "1940-11-21",
+                "backdrop_path": "/o03816KjEc3SzqP93xamC44xrOL.jpg",
+                "poster_path": "/fe43qXp2sRAZbPDKX1puKGEwOon.jpg",
+                "overview": "Leslie Crosbie (Bette Davis), a esposa do comerciante Robert Crosbie (Herbert Marshall), mata um homem e alega leg\u00edtima defesa, mas omite que eles eram amantes. Ent\u00e3o a vi\u00fava procura o advogado da assassina, chantageando-a com uma carta.",
+                "vote_average": 7.3,
+                "vote_count": 202
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Long Voyage Home",
+            "second_label": "Sherman Todd",
+            "category": "Film Editing",
+            "year": 1941,
+            "tmdb": {
+                "id": 52859,
+                "original_title": "The Long Voyage Home",
+                "title": "A Longa Viagem de Volta",
+                "release_date": "1940-11-16",
+                "backdrop_path": "/o2bN1lMPgWnlylcaQHMnit1BxYR.jpg",
+                "poster_path": "/fFdorPTbPiyuULT966aDTA6p4qV.jpg",
+                "overview": "A bordo do cargueiro Glencairn, a vida da tripula\u00e7\u00e3o \u00e9 vivida com medo, solid\u00e3o, suspeita e camaradagem. Os homens contrabandeiam bebida e mulheres para bordo, lutam uns com os outros, espionam uns aos outros, confortar uns aos outros quando a morte se aproxima, e ajudam o outro quando em perigo. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.5,
+                "vote_count": 72
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rebecca",
+            "second_label": "Hal C. Kern",
+            "category": "Film Editing",
+            "year": 1941,
+            "tmdb": {
+                "id": 223,
+                "original_title": "Rebecca",
+                "title": "Rebecca, A Mulher Inesquec\u00edvel",
+                "release_date": "1940-03-23",
+                "backdrop_path": "/jKgLVAhoq4fXBs1C9Gjvap93fxd.jpg",
+                "poster_path": "/yJX12zYQr5DBl0hZUd3Oi0hBWvs.jpg",
+                "overview": "Uma jovem de origem humilde (Joan Fontaine) se casa com um riqu\u00edssimo nobre ingl\u00eas (Laurence Olivier), que ainda vive atormentado por lembran\u00e7as de sua falecida esposa. Ap\u00f3s o casamento e j\u00e1 morando na mans\u00e3o do marido, ela vai gradativamente descobrindo surpreendentes segredos sobre o passado dele.",
+                "vote_average": 7.9,
+                "vote_count": 1658
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Score)": [
+        {
+            "first_label": "Pinocchio",
+            "second_label": "Leigh Harline, Paul J. Smith, Ned Washington",
+            "category": "Music (Original Score)",
+            "year": 1941,
+            "tmdb": {
+                "id": 10895,
+                "original_title": "Pinocchio",
+                "title": "Pin\u00f3quio",
+                "release_date": "1940-02-23",
+                "backdrop_path": "/iFPpb2KIWKwBfyqSJivE4JegFPP.jpg",
+                "poster_path": "/rJTpz9LJFmDflvibkY2Y7IFOGua.jpg",
+                "overview": "Gepeto \u00e9 um carpinteiro solit\u00e1rio que, um dia, resolve fazer um boneco de madeira para lhe fazer companhia. Durante a noite, a Fada Azul d\u00e1 vida ao boneco, que passa a se chamar Pin\u00f3quio. Ansioso para se tornar um menino de verdade, Pin\u00f3quio se mete em v\u00e1rias confus\u00f5es, apesar dos constantes avisos de seu amigo Grilo Falante. O boneco tem uma particularidade: sempre que mente seu nariz cresce. At\u00e9 o dia em que precisa resgatar seu criador, quando ele fica preso na barriga de uma baleia.",
+                "vote_average": 7.106,
+                "vote_count": 5619
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Arizona",
+            "second_label": "Victor Young",
+            "category": "Music (Original Score)",
+            "year": 1941,
+            "tmdb": {
+                "id": 35561,
+                "original_title": "Arizona",
+                "title": "A Amazona de Tucson",
+                "release_date": "1940-12-25",
+                "backdrop_path": "/tIOls8W1J9vkYBHn7Brn8UTZe23.jpg",
+                "poster_path": "/rAYOAq6jWXBjKZUg80vY2lFkBjA.jpg",
+                "overview": "Durante a d\u00e9cada de 1860, Tucson, uma mulher pioneira luta para ter sucesso nos neg\u00f3cios de frete e gado enquanto corre o risco nas m\u00e3os de empres\u00e1rios locais corruptos e violentos e indignados indianos.",
+                "vote_average": 6.1,
+                "vote_count": 25
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Dark Command",
+            "second_label": "Victor Young",
+            "category": "Music (Original Score)",
+            "year": 1941,
+            "tmdb": {
+                "id": 40639,
+                "original_title": "Dark Command",
+                "title": "Comando Negro",
+                "release_date": "1940-04-15",
+                "backdrop_path": "/ilf5nRx24mAacQYA23g9W6mKJ7s.jpg",
+                "poster_path": "/kpnO4PU7Pc9ZUAfs0BM9QizA0bm.jpg",
+                "overview": "No Kansas, durante a Guerra Civil, os partid\u00e1rios pr\u00f3-Uni\u00e3o e pr\u00f3-Confederados se op\u00f5em e a visita do texano Bob Seton detona o conflito com os Vigilantes de William Cantrell.",
+                "vote_average": 6.3,
+                "vote_count": 41
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Fight for Life",
+            "second_label": "Louis Gruenberg",
+            "category": "Music (Original Score)",
+            "year": 1941,
+            "tmdb": {
+                "id": 218315,
+                "original_title": "The Fight for Life",
+                "title": "The Fight for Life",
+                "release_date": "1940-03-07",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "The Fight for Life was documentary filmmaker Pare Lorentz' first \"dramatic\" film, utilizing the talents of several top New York stage actors. A tribute to the Chicago Maternity Center and its efforts to provide the best possible care for destitute mothers, the film is based on the book of the same name by Paul de Kruif. Myron McCormick plays the largest role as a dedicated intern, while others in the cast include such theatrical heavywrights as Will Geer, Dudley Digges and Dorothy Adams. The film's many vignettes range from the tragic (a mother dying in childbirth in the opening scene) to the exultant (another mother rescued from the brink of death in a disease-ridden tenement). Filmed in Chicago, Detroit and Cleveland, Fight for Life is a worthwhile effort, though Lorentz seems more comfortable with the \"actuality\" scenes than with the dramatized passages.",
+                "vote_average": 5.0,
+                "vote_count": 2
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Great Dictator",
+            "second_label": "Meredith Willson",
+            "category": "Music (Original Score)",
+            "year": 1941,
+            "tmdb": {
+                "id": 914,
+                "original_title": "The Great Dictator",
+                "title": "O Grande Ditador",
+                "release_date": "1940-10-15",
+                "backdrop_path": "/c8Pi8F1FzpNebtgXcSjC9nWCdSW.jpg",
+                "poster_path": "/t7BTnBuWcxp6iCKxxn4wM4EaLAY.jpg",
+                "overview": "Um barbeiro judeu passa anos em um hospital do ex\u00e9rcito se recuperando de suas feridas ap\u00f3s ter servido na guerra, sem saber do crescimento de poder do ditador fascista Aden\u00f3ide Hynkel e suas pol\u00edticas antissemitas. Quando o barbeiro retorna ao seu bairro tranquilo, ele fica atordoado com as mudan\u00e7as brutais e, de forma imprudente, se une a uma menina bonita e seus vizinhos para se rebelar.",
+                "vote_average": 8.3,
+                "vote_count": 3184
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The House of the Seven Gables",
+            "second_label": "Frank Skinner",
+            "category": "Music (Original Score)",
+            "year": 1941,
+            "tmdb": {
+                "id": 28373,
+                "original_title": "The House of the Seven Gables",
+                "title": "A Casa das Sete Torres",
+                "release_date": "1940-04-12",
+                "backdrop_path": "/vw5sTOWEkMfLP7qXX1Tm4VHcdgP.jpg",
+                "poster_path": "/tvruNVi91OtVwFyWkWnC7VYhMdg.jpg",
+                "overview": "A decad\u00eancia da fam\u00edlia Pyncheon \u00e9 simbolizada no aspecto sombrio de sua mans\u00e3o, em cujas funda\u00e7\u00f5es est\u00e3o a gan\u00e2ncia, a trai\u00e7\u00e3o e a arrog\u00e2ncia. Persistir\u00e1 o mal, como terr\u00edvel maldi\u00e7\u00e3o, enquanto sobreviverem os \u00faltimos Pyncheons.",
+                "vote_average": 7.0,
+                "vote_count": 28
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Howards of Virginia",
+            "second_label": "Richard Hageman",
+            "category": "Music (Original Score)",
+            "year": 1941,
+            "tmdb": {
+                "id": 52360,
+                "original_title": "The Howards of Virginia",
+                "title": "A Flama da Liberdade",
+                "release_date": "1940-09-19",
+                "backdrop_path": "/bcOZB2QQkJseteknFPOfL09A2To.jpg",
+                "poster_path": "/dw2rJb61SndQdAwLcZ7msaqh9iU.jpg",
+                "overview": "Beautiful young Virginian Jane steps down from her proper aristocratic upbringing when she marries down-to-earth surveyor Matt Howard. Matt joins the Colonial forces in their fight for freedom against England. Matt will meet Jane's father in the battlefield.",
+                "vote_average": 6.1,
+                "vote_count": 8
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Letter",
+            "second_label": "Max Steiner",
+            "category": "Music (Original Score)",
+            "year": 1941,
+            "tmdb": {
+                "id": 17801,
+                "original_title": "The Letter",
+                "title": "A Carta",
+                "release_date": "1940-11-21",
+                "backdrop_path": "/o03816KjEc3SzqP93xamC44xrOL.jpg",
+                "poster_path": "/fe43qXp2sRAZbPDKX1puKGEwOon.jpg",
+                "overview": "Leslie Crosbie (Bette Davis), a esposa do comerciante Robert Crosbie (Herbert Marshall), mata um homem e alega leg\u00edtima defesa, mas omite que eles eram amantes. Ent\u00e3o a vi\u00fava procura o advogado da assassina, chantageando-a com uma carta.",
+                "vote_average": 7.3,
+                "vote_count": 202
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Long Voyage Home",
+            "second_label": "Richard Hageman",
+            "category": "Music (Original Score)",
+            "year": 1941,
+            "tmdb": {
+                "id": 52859,
+                "original_title": "The Long Voyage Home",
+                "title": "A Longa Viagem de Volta",
+                "release_date": "1940-11-16",
+                "backdrop_path": "/o2bN1lMPgWnlylcaQHMnit1BxYR.jpg",
+                "poster_path": "/fFdorPTbPiyuULT966aDTA6p4qV.jpg",
+                "overview": "A bordo do cargueiro Glencairn, a vida da tripula\u00e7\u00e3o \u00e9 vivida com medo, solid\u00e3o, suspeita e camaradagem. Os homens contrabandeiam bebida e mulheres para bordo, lutam uns com os outros, espionam uns aos outros, confortar uns aos outros quando a morte se aproxima, e ajudam o outro quando em perigo. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.5,
+                "vote_count": 72
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Mark of Zorro",
+            "second_label": "Alfred Newman",
+            "category": "Music (Original Score)",
+            "year": 1941,
+            "tmdb": {
+                "id": 32093,
+                "original_title": "The Mark of Zorro",
+                "title": "A Marca do Zorro",
+                "release_date": "1940-11-08",
+                "backdrop_path": "/suJoy0DOeWIEW4EgnFwEfFDqSJb.jpg",
+                "poster_path": "/bJDonmAPnDV8jDv9jLlsejAdAoL.jpg",
+                "overview": "O aristocrata Don Diego Vega regressa da Espanha e encontra sua p\u00e1tria aterrorizada por um governador tirano. Ele deixa de lado sua nobreza, coloca uma m\u00e1scara e luta por justi\u00e7a e pelo povo",
+                "vote_average": 7.0,
+                "vote_count": 188
+            },
+            "winner": false
+        },
+        {
+            "first_label": "My Favorite Wife",
+            "second_label": "Roy Webb",
+            "category": "Music (Original Score)",
+            "year": 1941,
+            "tmdb": {
+                "id": 41463,
+                "original_title": "My Favorite Wife",
+                "title": "Minha Esposa Favorita",
+                "release_date": "1940-05-17",
+                "backdrop_path": "/gmtpAmVmHZ8a5E0ZERx4fxzSecS.jpg",
+                "poster_path": "/eRyGZiEWGn9bADSI5CXWMStBhMD.jpg",
+                "overview": "Sete anos depois de um naufr\u00e1gio no qual ela foi supostamente morta, Ellen Arden chega em casa e descobre que seu marido Nick acabou de se casar novamente. O radiante Nick esfor\u00e7a-se por dar a not\u00edcia \u00e0 sua nova noiva. Mas ele fica chocado quando ouve a hist\u00f3ria toda: Ellen passou esses sete anos em uma ilha deserta sozinha com outro homem.",
+                "vote_average": 7.0,
+                "vote_count": 148
+            },
+            "winner": false
+        },
+        {
+            "first_label": "North West Mounted Police",
+            "second_label": "Victor Young",
+            "category": "Music (Original Score)",
+            "year": 1941,
+            "tmdb": {
+                "id": 83360,
+                "original_title": "North West Mounted Police",
+                "title": "Legi\u00e3o de Her\u00f3is",
+                "release_date": "1940-10-22",
+                "backdrop_path": "/8kB3hOnvjfK0FS1epGinNUB0DTm.jpg",
+                "poster_path": "/qM5Ld0eL4sRHEt84nf8VV1QGGth.jpg",
+                "overview": "Texas Ranger Dusty Rivers (\"Isn't that a contradiction in terms?\", another character asks him) travels to Canada in the 1880s in search of Jacques Corbeau, who is wanted for murder. He wanders into the midst of the Riel Rebellion, in which M\u00e9tis (people of French and Native heritage) and Natives want a separate nation. Dusty falls for nurse April Logan, who is also loved by Mountie Jim Brett. April's brother is involved with Courbeau's daughter Louvette, which leads to trouble during the battles between the rebels and the Mounties. Through it all Dusty is determined to bring Corbeau back to Texas (and April, too, if he can manage it.)",
+                "vote_average": 6.3,
+                "vote_count": 34
+            },
+            "winner": false
+        },
+        {
+            "first_label": "One Million B.C.",
+            "second_label": "Werner Heymann",
+            "category": "Music (Original Score)",
+            "year": 1941,
+            "tmdb": {
+                "id": 3592,
+                "original_title": "One Million B.C.",
+                "title": "O Despertar do Mundo",
+                "release_date": "1940-04-05",
+                "backdrop_path": "/c6zOIyr2ZdUr7aB5JF53OAIIxCl.jpg",
+                "poster_path": "/quyzMg8yF0zhTW3oLkfY5cV3hPI.jpg",
+                "overview": "One Million B.C. is a 1940 American fantasy film produced by Hal Roach Studios and released by United Artists. It is also known by the titles Cave Man, Man and His Mate, and Tumak. The film stars Victor Mature as protagonist Tumak, a young cave man who strives to unite the uncivilized Rock Tribe and the peaceful Shell Tribe, Carole Landis as Loana, daughter of the Shell Tribe chief and Tumak's love interest, and Lon Chaney, Jr. as Tumak's stern father and leader of the Rock Tribe.",
+                "vote_average": 5.9,
+                "vote_count": 24
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Our Town",
+            "second_label": "Aaron Copland",
+            "category": "Music (Original Score)",
+            "year": 1941,
+            "tmdb": {
+                "id": 23283,
+                "original_title": "Our Town",
+                "title": "Our Town",
+                "release_date": "1940-05-24",
+                "backdrop_path": "/a8J5yD3jXLAfMyF1OuxpXmDG1YT.jpg",
+                "poster_path": "/nRuwYjCm1aPUY9SDp5P6URFqvvd.jpg",
+                "overview": "Change comes slowly to a small New Hampshire town in the early 20th century. We see birth, life and death in this small community.",
+                "vote_average": 5.8,
+                "vote_count": 27
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rebecca",
+            "second_label": "Franz Waxman",
+            "category": "Music (Original Score)",
+            "year": 1941,
+            "tmdb": {
+                "id": 223,
+                "original_title": "Rebecca",
+                "title": "Rebecca, A Mulher Inesquec\u00edvel",
+                "release_date": "1940-03-23",
+                "backdrop_path": "/jKgLVAhoq4fXBs1C9Gjvap93fxd.jpg",
+                "poster_path": "/yJX12zYQr5DBl0hZUd3Oi0hBWvs.jpg",
+                "overview": "Uma jovem de origem humilde (Joan Fontaine) se casa com um riqu\u00edssimo nobre ingl\u00eas (Laurence Olivier), que ainda vive atormentado por lembran\u00e7as de sua falecida esposa. Ap\u00f3s o casamento e j\u00e1 morando na mans\u00e3o do marido, ela vai gradativamente descobrindo surpreendentes segredos sobre o passado dele.",
+                "vote_average": 7.9,
+                "vote_count": 1658
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Thief of Bagdad",
+            "second_label": "Miklos Rozsa",
+            "category": "Music (Original Score)",
+            "year": 1941,
+            "tmdb": {
+                "id": 12232,
+                "original_title": "The Thief of Bagdad",
+                "title": "O Ladr\u00e3o de Bagd\u00e1",
+                "release_date": "1940-12-25",
+                "backdrop_path": "/oaSBgbi0czdGjtXllTTIMj1H3th.jpg",
+                "poster_path": "/ankRLnVQ7Le139cM41psJ4pYtrh.jpg",
+                "overview": "Menino ladr\u00e3o das ruas de Bagd\u00e1 ajuda jovem sult\u00e3o deposto do trono por feiticeiro a recuperar o poder. Para isso conta com a ajuda de um g\u00eanio m\u00e1gico que lhe concede tr\u00eas desejos.",
+                "vote_average": 7.1,
+                "vote_count": 244
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Waterloo Bridge",
+            "second_label": "Herbert Stothart",
+            "category": "Music (Original Score)",
+            "year": 1941,
+            "tmdb": {
+                "id": 43824,
+                "original_title": "Waterloo Bridge",
+                "title": "A Ponte de Waterloo",
+                "release_date": "1940-05-17",
+                "backdrop_path": "/7hVg5V8SVIRNyAkivKkOC5LbKIG.jpg",
+                "poster_path": "/2XgYKd5tr5b9W5Yfq80yTZqf3hy.jpg",
+                "overview": "Em Londres, durante os bombardeios da Primeira Guerra, o oficial Roy e a bailarina Myra se conhecem na ponte de Waterloo e logo se apaixonam. Por\u00e9m, Roy precisa partir para o front de batalha. Myra promete esper\u00e1-lo. Meses depois, ela recebe a not\u00edcia da morte de Roy. Desiludida e sem recursos, Myra toma uma decis\u00e3o dr\u00e1stica. Mas ser\u00e1 que o seu grande amor realmente morreu?",
+                "vote_average": 7.5,
+                "vote_count": 136
+            },
+            "winner": false
+        }
+    ],
+    "Music (Scoring)": [
+        {
+            "first_label": "Tin Pan Alley",
+            "second_label": "Alfred Newman",
+            "category": "Music (Scoring)",
+            "year": 1941,
+            "tmdb": {
+                "id": 108222,
+                "original_title": "Tin Pan Alley",
+                "title": "Tin Pan Alley",
+                "release_date": "1940-11-29",
+                "backdrop_path": "/nX41E4mWlJ7FBCpimuceVoijxIC.jpg",
+                "poster_path": "/A98sbrtuO5X7HpG3CcH8qJHsLzg.jpg",
+                "overview": "Songwriters Calhoun and Harrigan get Katie and Lily Blane to introduce a new one. Lily goes to England, and Katy joins her after the boys give a new song to Nora Bayes. All are reunited when the boys, now in the army, show up in England.",
+                "vote_average": 5.0,
+                "vote_count": 7
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Arise, My Love",
+            "second_label": "Victor Young",
+            "category": "Music (Scoring)",
+            "year": 1941,
+            "tmdb": {
+                "id": 131770,
+                "original_title": "Arise, My Love",
+                "title": "Levanta-te, Meu Amor",
+                "release_date": "1940-11-08",
+                "backdrop_path": "/46UOHN63geafyAduo270zn0yUsV.jpg",
+                "poster_path": "/depZFXpKyOw7aeIGWa42A30H64L.jpg",
+                "overview": "Claudette Colbert faz o papel de uma jornalista americana baseada em Paris que envia para seu jornal not\u00edcias sobre a Guerra Civil Espanhola e se envolve com um aviador aventureiro que luta do lado dos republicanos (o papel de Ray Milland).",
+                "vote_average": 6.1,
+                "vote_count": 16
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hit Parade of 1941",
+            "second_label": "Cy Feuer",
+            "category": "Music (Scoring)",
+            "year": 1941,
+            "tmdb": {
+                "id": 218313,
+                "original_title": "Hit Parade of 1941",
+                "title": "Hit Parade of 1941",
+                "release_date": "1940-10-14",
+                "backdrop_path": "/9GgKeCRmVYjeQSYfpK8tyjU7kE.jpg",
+                "poster_path": "/uCtpwrt0H784yuNbHve4n1wFrOw.jpg",
+                "overview": "In this musical, the second entry in a five-film series, a thrift shop owner sells his business and buys a small time radio station. He begins looking for sponsors. He finds one with a department store owner who will only lend him the money if he will allow his daughter, an aspiring tap-dancer and singer, to perform on the air. This is unfortunate as she is tone-deaf. To compensate, the owner hires a real singer to dub the daughter's voice. The singer and the owner's nephew fall in love and mayhem ensues. Songs include: the Oscar nominated \"Who Am I?,\" \"Swing Low Sweet Rhythm,\" \"In The Cool of the Evening,\" \"Make Yourself at Home,\" \"The Swap Shop Song,\" \"The Trading Post,\" \"Sally,\" \"Ramona,\" \"Sweet Sue,\" \"Dinah,\" \"Margie,\" and \"Mary Lou.\"",
+                "vote_average": 5.3,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Irene",
+            "second_label": "Anthony Collins",
+            "category": "Music (Scoring)",
+            "year": 1941,
+            "tmdb": {
+                "id": 109481,
+                "original_title": "Irene",
+                "title": "Irene",
+                "release_date": "1940-04-23",
+                "backdrop_path": "/yrSeylkS62b8e3yVt1oAQIBehJr.jpg",
+                "poster_path": "/WAyL4ZHgZvkdytf4mIHvOS5oGv.jpg",
+                "overview": "Upholsterer's assistant Irene O'Dare meets wealthy Don Marshall while she is measuring chairs for Mrs. Herman Vincent at her Long Island estate. Charmed by her, Don anonymously purchases Madame Lucy's, an exclusive Manhattan boutique, and instructs newly hired manager Mr. Smith to offer Irene a job as a model. She soon catches the eye of socialite Bob Vincent, whose mother is hosting a ball at the family mansion. To promote Madame Lucy's dress line, Mr. Smith arranges for his models to be invited to the ball.",
+                "vote_average": 6.0,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Our Town",
+            "second_label": "Aaron Copland",
+            "category": "Music (Scoring)",
+            "year": 1941,
+            "tmdb": {
+                "id": 23283,
+                "original_title": "Our Town",
+                "title": "Our Town",
+                "release_date": "1940-05-24",
+                "backdrop_path": "/a8J5yD3jXLAfMyF1OuxpXmDG1YT.jpg",
+                "poster_path": "/nRuwYjCm1aPUY9SDp5P6URFqvvd.jpg",
+                "overview": "Change comes slowly to a small New Hampshire town in the early 20th century. We see birth, life and death in this small community.",
+                "vote_average": 5.8,
+                "vote_count": 27
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Sea Hawk",
+            "second_label": "Erich Wolfgang Korngold",
+            "category": "Music (Scoring)",
+            "year": 1941,
+            "tmdb": {
+                "id": 26201,
+                "original_title": "The Sea Hawk",
+                "title": "O Gavi\u00e3o do Mar",
+                "release_date": "1940-08-10",
+                "backdrop_path": "/ishvkb7T721yRDFEwkP5znQgbT5.jpg",
+                "poster_path": "/s4dtnMJ0posl0uZkeKj4fz1AcA9.jpg",
+                "overview": "Enquanto a Espanha prepara um ex\u00e9rcito para invadir a Inglaterra, o pirata brit\u00e2nico Geoffrey Thorpe embarca em uma miss\u00e3o para saquear barcos espanh\u00f3is. Quando ele captura o barco que transportava o embaixador Don Jose Alvarez de Cordoba, o vistoso capit\u00e3o apaixona-se por sua sobrinha, a bela Dona Maria, que se instala confortavelmente na Inglaterra. Dedicado a proteger os interesses ingleses, Thorpe vai para o mar em uma perigosa expedi\u00e7\u00e3o que pode determinar o destino do pa\u00eds.",
+                "vote_average": 7.1,
+                "vote_count": 114
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Second Chorus",
+            "second_label": "Artie Shaw",
+            "category": "Music (Scoring)",
+            "year": 1941,
+            "tmdb": {
+                "id": 23627,
+                "original_title": "Second Chorus",
+                "title": "Amor da Minha Vida",
+                "release_date": "1941-01-03",
+                "backdrop_path": "/poclipATnZa9m0FdLhVn6b7ystP.jpg",
+                "poster_path": "/37fL5PwJ02Vm6HfSj1VUBzzVtBy.jpg",
+                "overview": "Quando os \"eternos\" estudantes universit\u00e1rios Danny O'Neill e Hank Taylor s\u00e3o for\u00e7ados a viver por conta pr\u00f3pria, a competitiva dupla consegue emprego tempor\u00e1rio com a banda de Artie Shaw. Danny e Hank s\u00e3o surpreendidos quando Artie Shaw contrata a competente gerente Ellen Miller que era l\u00e1 da sua banda de faculdade. O dois trompetistas tentam esquemas para se enquadrar na banda de Shaw, cada um tentando sabotar a jogada do outro.",
+                "vote_average": 5.9,
+                "vote_count": 30
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Spring Parade",
+            "second_label": "Charles Previn",
+            "category": "Music (Scoring)",
+            "year": 1941,
+            "tmdb": {
+                "id": 218312,
+                "original_title": "Spring Parade",
+                "title": "Spring Parade",
+                "release_date": "1940-09-27",
+                "backdrop_path": "/db9BZY5ZJLxm5nTjjF95yTTFEug.jpg",
+                "poster_path": "/yLeEGQyFz9l8ZhjCxxxYFrcrgVf.jpg",
+                "overview": "In this light and lovely romantic musical, a Hungarian woman attends a Viennese fair and buys a card from a gypsy fortune teller. It says that she will meet someone important and is destined for a happy marriage. Afterward she gets a job as a baker's assistant. She then meets a handsome army drummer who secretly dreams of becoming a famous composer and conductor. Unfortunately the military forbids the young corporal to create his own music. But then Ilonka secretly sends one of the drummer's waltzes to the Austrian Emperor with his weekly order of pastries. Her act paves the way toward the tuneful and joyous fulfillment of the gypsy's prediction.",
+                "vote_average": 6.8,
+                "vote_count": 9
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Strike Up the Band",
+            "second_label": "Roger Edens, Georgie Stoll",
+            "category": "Music (Scoring)",
+            "year": 1941,
+            "tmdb": {
+                "id": 43819,
+                "original_title": "Strike Up the Band",
+                "title": "O Rei da Alegria",
+                "release_date": "1940-09-27",
+                "backdrop_path": "/9cQHyV7c8JzE1pfxpXE6WhSi8Z1.jpg",
+                "poster_path": "/nWhhuOxZ4OlnHmISeZIiOA1XtI.jpg",
+                "overview": "Jimmy and Mary get a group of kids together to play in a school orchestra. A huge contest between schools is coming up and they have a hard time raising money to go to Chicago for the contest.",
+                "vote_average": 6.2,
+                "vote_count": 23
+            },
+            "winner": false
+        }
+    ],
+    "Music (Song)": [
+        {
+            "first_label": "Pinocchio",
+            "second_label": "When You Wish Upon A Star in \"Pinocchio\" Music by Leigh Harline; Lyrics by Ned Washington",
+            "category": "Music (Song)",
+            "year": 1941,
+            "tmdb": {
+                "id": 10895,
+                "original_title": "Pinocchio",
+                "title": "Pin\u00f3quio",
+                "release_date": "1940-02-23",
+                "backdrop_path": "/iFPpb2KIWKwBfyqSJivE4JegFPP.jpg",
+                "poster_path": "/rJTpz9LJFmDflvibkY2Y7IFOGua.jpg",
+                "overview": "Gepeto \u00e9 um carpinteiro solit\u00e1rio que, um dia, resolve fazer um boneco de madeira para lhe fazer companhia. Durante a noite, a Fada Azul d\u00e1 vida ao boneco, que passa a se chamar Pin\u00f3quio. Ansioso para se tornar um menino de verdade, Pin\u00f3quio se mete em v\u00e1rias confus\u00f5es, apesar dos constantes avisos de seu amigo Grilo Falante. O boneco tem uma particularidade: sempre que mente seu nariz cresce. At\u00e9 o dia em que precisa resgatar seu criador, quando ele fica preso na barriga de uma baleia.",
+                "vote_average": 7.106,
+                "vote_count": 5619
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Down Argentine Way",
+            "second_label": "Down Argentina Way in \"Down Argentine Way\" Music by Harry Warren; Lyrics by Mack Gordon",
+            "category": "Music (Song)",
+            "year": 1941,
+            "tmdb": {
+                "id": 43810,
+                "original_title": "Down Argentine Way",
+                "title": "Serenata Tropical",
+                "release_date": "1940-10-11",
+                "backdrop_path": "/5kyuveLcxz9aS5ufKXWTPeILJ0S.jpg",
+                "poster_path": "/gg3DgplgKq8ZBFnMwMfgGuhSZCs.jpg",
+                "overview": "Uma garota americana em f\u00e9rias na Argentina se apaixona por um rico propriet\u00e1rio de cavalos de corrida.",
+                "vote_average": 6.0,
+                "vote_count": 23
+            },
+            "winner": false
+        },
+        {
+            "first_label": "You'll Find Out",
+            "second_label": "I'd Know You Anywhere in \"You'll Find Out\" Music by Jimmy McHugh; Lyrics by Johnny Mercer",
+            "category": "Music (Song)",
+            "year": 1941,
+            "tmdb": {
+                "id": 80720,
+                "original_title": "You'll Find Out",
+                "title": "You'll Find Out",
+                "release_date": "1940-11-22",
+                "backdrop_path": "/rb4qc5hxc102bZKR6w0onKlYaqP.jpg",
+                "poster_path": "/mo1iZWEMtGR1iH4Yo6yNOnpM1b7.jpg",
+                "overview": "The manager of Kay Kyser\u2019s band books them for a birthday party bash for an heiress at a spooky mansion, where sinister forces try to kill her.",
+                "vote_average": 5.4,
+                "vote_count": 23
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Music in My Heart",
+            "second_label": "It's A Blue World in \"Music in My Heart\" Music and Lyrics by Chet Forrest and Bob Wright",
+            "category": "Music (Song)",
+            "year": 1941,
+            "tmdb": {
+                "id": 130365,
+                "original_title": "Music in My Heart",
+                "title": "Melodias do Meu Cora\u00e7\u00e3o",
+                "release_date": "1940-01-04",
+                "backdrop_path": "/sPj9L9DapuKLJ6lf6owoVFmdwrI.jpg",
+                "poster_path": "/wTMJIy4RgrN10xipKlPZB5CWa6B.jpg",
+                "overview": "Uma jovem (Rita Hayworth) noiva de um milion\u00e1rio (Alan Mowbray) se apaixona pelo professor (Tony Martin) em um musical da Broadway. (e Livre - Estimado Livre)",
+                "vote_average": 6.1,
+                "vote_count": 8
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Second Chorus",
+            "second_label": "Love Of My Life in \"Second Chorus\" Music by Artie Shaw; Lyrics by Johnny Mercer",
+            "category": "Music (Song)",
+            "year": 1941,
+            "tmdb": {
+                "id": 23627,
+                "original_title": "Second Chorus",
+                "title": "Amor da Minha Vida",
+                "release_date": "1941-01-03",
+                "backdrop_path": "/poclipATnZa9m0FdLhVn6b7ystP.jpg",
+                "poster_path": "/37fL5PwJ02Vm6HfSj1VUBzzVtBy.jpg",
+                "overview": "Quando os \"eternos\" estudantes universit\u00e1rios Danny O'Neill e Hank Taylor s\u00e3o for\u00e7ados a viver por conta pr\u00f3pria, a competitiva dupla consegue emprego tempor\u00e1rio com a banda de Artie Shaw. Danny e Hank s\u00e3o surpreendidos quando Artie Shaw contrata a competente gerente Ellen Miller que era l\u00e1 da sua banda de faculdade. O dois trompetistas tentam esquemas para se enquadrar na banda de Shaw, cada um tentando sabotar a jogada do outro.",
+                "vote_average": 5.9,
+                "vote_count": 30
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rhythm on the River",
+            "second_label": "Only Forever in \"Rhythm on the River\" Music by James Monaco; Lyrics by John Burke",
+            "category": "Music (Song)",
+            "year": 1941,
+            "tmdb": {
+                "id": 128669,
+                "original_title": "Rhythm on the River",
+                "title": "Rhythm on the River",
+                "release_date": "1940-08-28",
+                "backdrop_path": "/4D2UpYaUBaEna1396gwIeY7HrI.jpg",
+                "poster_path": "/8xVYcU83fQZYgoj1VAttmymudjf.jpg",
+                "overview": "Popular songwriter Oliver Courtney has been getting by for years using one ghost writer for his music and another for his lyrics. When both writers meet at an inn, they fall in love and then try to sell their songs under their own name. The problem is every song publisher thinks they're copying Courtney's style.",
+                "vote_average": 7.0,
+                "vote_count": 2
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Strike Up the Band",
+            "second_label": "Our Love Affair in \"Strike Up the Band\" Music and Lyrics by Roger Edens and Arthur Freed",
+            "category": "Music (Song)",
+            "year": 1941,
+            "tmdb": {
+                "id": 43819,
+                "original_title": "Strike Up the Band",
+                "title": "O Rei da Alegria",
+                "release_date": "1940-09-27",
+                "backdrop_path": "/9cQHyV7c8JzE1pfxpXE6WhSi8Z1.jpg",
+                "poster_path": "/nWhhuOxZ4OlnHmISeZIiOA1XtI.jpg",
+                "overview": "Jimmy and Mary get a group of kids together to play in a school orchestra. A huge contest between schools is coming up and they have a hard time raising money to go to Chicago for the contest.",
+                "vote_average": 6.2,
+                "vote_count": 23
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Spring Parade",
+            "second_label": "Waltzing In The Clouds in \"Spring Parade\" Music by Robert Stolz; Lyrics by Gus Kahn",
+            "category": "Music (Song)",
+            "year": 1941,
+            "tmdb": {
+                "id": 218312,
+                "original_title": "Spring Parade",
+                "title": "Spring Parade",
+                "release_date": "1940-09-27",
+                "backdrop_path": "/db9BZY5ZJLxm5nTjjF95yTTFEug.jpg",
+                "poster_path": "/yLeEGQyFz9l8ZhjCxxxYFrcrgVf.jpg",
+                "overview": "In this light and lovely romantic musical, a Hungarian woman attends a Viennese fair and buys a card from a gypsy fortune teller. It says that she will meet someone important and is destined for a happy marriage. Afterward she gets a job as a baker's assistant. She then meets a handsome army drummer who secretly dreams of becoming a famous composer and conductor. Unfortunately the military forbids the young corporal to create his own music. But then Ilonka secretly sends one of the drummer's waltzes to the Austrian Emperor with his weekly order of pastries. Her act paves the way toward the tuneful and joyous fulfillment of the gypsy's prediction.",
+                "vote_average": 6.8,
+                "vote_count": 9
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hit Parade of 1941",
+            "second_label": "Who Am I? in \"Hit Parade of 1941\" Music by Jule Styne; Lyrics by Walter Bullock",
+            "category": "Music (Song)",
+            "year": 1941,
+            "tmdb": {
+                "id": 218313,
+                "original_title": "Hit Parade of 1941",
+                "title": "Hit Parade of 1941",
+                "release_date": "1940-10-14",
+                "backdrop_path": "/9GgKeCRmVYjeQSYfpK8tyjU7kE.jpg",
+                "poster_path": "/uCtpwrt0H784yuNbHve4n1wFrOw.jpg",
+                "overview": "In this musical, the second entry in a five-film series, a thrift shop owner sells his business and buys a small time radio station. He begins looking for sponsors. He finds one with a department store owner who will only lend him the money if he will allow his daughter, an aspiring tap-dancer and singer, to perform on the air. This is unfortunate as she is tone-deaf. To compensate, the owner hires a real singer to dub the daughter's voice. The singer and the owner's nephew fall in love and mayhem ensues. Songs include: the Oscar nominated \"Who Am I?,\" \"Swing Low Sweet Rhythm,\" \"In The Cool of the Evening,\" \"Make Yourself at Home,\" \"The Swap Shop Song,\" \"The Trading Post,\" \"Sally,\" \"Ramona,\" \"Sweet Sue,\" \"Dinah,\" \"Margie,\" and \"Mary Lou.\"",
+                "vote_average": 5.3,
+                "vote_count": 3
+            },
+            "winner": false
+        }
+    ],
+    "Outstanding Production": [
+        {
+            "first_label": "Rebecca",
+            "second_label": "Selznick International Pictures",
+            "category": "Outstanding Production",
+            "year": 1941,
+            "tmdb": {
+                "id": 223,
+                "original_title": "Rebecca",
+                "title": "Rebecca, A Mulher Inesquec\u00edvel",
+                "release_date": "1940-03-23",
+                "backdrop_path": "/jKgLVAhoq4fXBs1C9Gjvap93fxd.jpg",
+                "poster_path": "/yJX12zYQr5DBl0hZUd3Oi0hBWvs.jpg",
+                "overview": "Uma jovem de origem humilde (Joan Fontaine) se casa com um riqu\u00edssimo nobre ingl\u00eas (Laurence Olivier), que ainda vive atormentado por lembran\u00e7as de sua falecida esposa. Ap\u00f3s o casamento e j\u00e1 morando na mans\u00e3o do marido, ela vai gradativamente descobrindo surpreendentes segredos sobre o passado dele.",
+                "vote_average": 7.9,
+                "vote_count": 1658
+            },
+            "winner": true
+        },
+        {
+            "first_label": "All This, and Heaven Too",
+            "second_label": "Warner Bros.",
+            "category": "Outstanding Production",
+            "year": 1941,
+            "tmdb": {
+                "id": 43807,
+                "original_title": "All This, and Heaven Too",
+                "title": "Tudo Isto, e o C\u00e9u Tamb\u00e9m",
+                "release_date": "1940-07-05",
+                "backdrop_path": "/1ANzUVLtf2iAgemBPz61xnA3M1I.jpg",
+                "poster_path": "/8dsA0x2AFvJpkRDvyfscRMZrKm3.jpg",
+                "overview": "Adapta\u00e7\u00e3o do best-seller de Rachel Field. Bette Davis \u00e9 a professora Henriette, que relembra sua hist\u00f3ria em flashbacks, trazendo \u00e0 tona o tempo em que trabalhava como governanta do Duque de Praslin. Dominada por um ci\u00fame doentio, a duquesa acusou Henriette de manter um caso com o duque. A governanta achou melhor deixar o emprego ao inv\u00e9s de criar confus\u00e3o, mesmo com a promessa n\u00e3o cumprida da duquesa em escrever uma carta de refer\u00eancias. Logo depois, por\u00e9m, a duquesa foi encontrada morta.",
+                "vote_average": 7.3,
+                "vote_count": 45
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Foreign Correspondent",
+            "second_label": "Walter Wanger (production company)",
+            "category": "Outstanding Production",
+            "year": 1941,
+            "tmdb": {
+                "id": 25670,
+                "original_title": "Foreign Correspondent",
+                "title": "Correspondente Estrangeiro",
+                "release_date": "1940-08-16",
+                "backdrop_path": "/fe1j0IFaAGNyxbsIgEwFlZICKPk.jpg",
+                "poster_path": "/q9fN7i3hL3OIgGEPbTZqjYtOFUb.jpg",
+                "overview": "Johnny Jones (Joel McCrea) \u00e9 o correspondente de um jornal de Nova York que viaja para a Europa usando o pseud\u00f4nimo de Huntley Haverstock, quando a 2\u00aa Guerra Mundial era uma realidade cada vez mais iminente. Inicialmente ele vai para Londres mas logo est\u00e1 em Amsterd\u00e3, onde juntamente com v\u00e1rias pessoas testemunha o assassinato de Van Meer (Albert Bassermann), um diplomata holand\u00eas. Entretanto, logo ele toma consci\u00eancia que quem morreu foi um s\u00f3sia e que Van Meer na verdade foi sequestrado por agentes do inimigo, que querem arrancar do diplomata importantes segredos. Assim sua situa\u00e7\u00e3o fica desesperadora, pois sua hist\u00f3ria \u00e9 em princ\u00edpio absurda e, al\u00e9m disto, est\u00e3o querendo mat\u00e1-lo.",
+                "vote_average": 7.0,
+                "vote_count": 358
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Grapes of Wrath",
+            "second_label": "20th Century-Fox",
+            "category": "Outstanding Production",
+            "year": 1941,
+            "tmdb": {
+                "id": 596,
+                "original_title": "The Grapes of Wrath",
+                "title": "As Vinhas da Ira",
+                "release_date": "1940-03-15",
+                "backdrop_path": "/7UTQCis1B8oWNjIMzQq57LPqma2.jpg",
+                "poster_path": "/xg2lYQ05OJ0t7pI6ESV8d3zrydU.jpg",
+                "overview": "Tom, filho mais velho de uma pobre fam\u00edlia de trabalhadores rurais, retorna para casa ap\u00f3s cumprir pena por homic\u00eddio involunt\u00e1rio. Ele planeja levar os parentes at\u00e9 a Calif\u00f3rnia, onde dizem que trabalho n\u00e3o falta. Durante a viagem eles passam por diversos tipos de prova\u00e7\u00f5es e quando finalmente chegam na \"Terra Prometida\" descobrem que \u00e9 um lugar bem pior do que aquele que deixaram.",
+                "vote_average": 7.8,
+                "vote_count": 910
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Great Dictator",
+            "second_label": "Charles Chaplin Productions",
+            "category": "Outstanding Production",
+            "year": 1941,
+            "tmdb": {
+                "id": 914,
+                "original_title": "The Great Dictator",
+                "title": "O Grande Ditador",
+                "release_date": "1940-10-15",
+                "backdrop_path": "/c8Pi8F1FzpNebtgXcSjC9nWCdSW.jpg",
+                "poster_path": "/t7BTnBuWcxp6iCKxxn4wM4EaLAY.jpg",
+                "overview": "Um barbeiro judeu passa anos em um hospital do ex\u00e9rcito se recuperando de suas feridas ap\u00f3s ter servido na guerra, sem saber do crescimento de poder do ditador fascista Aden\u00f3ide Hynkel e suas pol\u00edticas antissemitas. Quando o barbeiro retorna ao seu bairro tranquilo, ele fica atordoado com as mudan\u00e7as brutais e, de forma imprudente, se une a uma menina bonita e seus vizinhos para se rebelar.",
+                "vote_average": 8.3,
+                "vote_count": 3184
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Kitty Foyle",
+            "second_label": "RKO Radio",
+            "category": "Outstanding Production",
+            "year": 1941,
+            "tmdb": {
+                "id": 77744,
+                "original_title": "Kitty Foyle",
+                "title": "Kitty Foyle",
+                "release_date": "1940-12-27",
+                "backdrop_path": "/wikIuBblq4ppWBgsbZcl9C3ru9m.jpg",
+                "poster_path": "/3c5yyi6ULsz5V0Ayv0o90BbmgJj.jpg",
+                "overview": "Kitty Foyle, a hard-working white-collar girl from a Philadelphia, Pennsylvania low, middle-class family, meets and falls in love with young socialite Wyn Strafford but his family is against her.",
+                "vote_average": 6.6,
+                "vote_count": 38
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Letter",
+            "second_label": "Warner Bros.",
+            "category": "Outstanding Production",
+            "year": 1941,
+            "tmdb": {
+                "id": 17801,
+                "original_title": "The Letter",
+                "title": "A Carta",
+                "release_date": "1940-11-21",
+                "backdrop_path": "/o03816KjEc3SzqP93xamC44xrOL.jpg",
+                "poster_path": "/fe43qXp2sRAZbPDKX1puKGEwOon.jpg",
+                "overview": "Leslie Crosbie (Bette Davis), a esposa do comerciante Robert Crosbie (Herbert Marshall), mata um homem e alega leg\u00edtima defesa, mas omite que eles eram amantes. Ent\u00e3o a vi\u00fava procura o advogado da assassina, chantageando-a com uma carta.",
+                "vote_average": 7.3,
+                "vote_count": 202
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Long Voyage Home",
+            "second_label": "Argosy-Wanger",
+            "category": "Outstanding Production",
+            "year": 1941,
+            "tmdb": {
+                "id": 52859,
+                "original_title": "The Long Voyage Home",
+                "title": "A Longa Viagem de Volta",
+                "release_date": "1940-11-16",
+                "backdrop_path": "/o2bN1lMPgWnlylcaQHMnit1BxYR.jpg",
+                "poster_path": "/fFdorPTbPiyuULT966aDTA6p4qV.jpg",
+                "overview": "A bordo do cargueiro Glencairn, a vida da tripula\u00e7\u00e3o \u00e9 vivida com medo, solid\u00e3o, suspeita e camaradagem. Os homens contrabandeiam bebida e mulheres para bordo, lutam uns com os outros, espionam uns aos outros, confortar uns aos outros quando a morte se aproxima, e ajudam o outro quando em perigo. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.5,
+                "vote_count": 72
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Our Town",
+            "second_label": "Sol Lesser (production company)",
+            "category": "Outstanding Production",
+            "year": 1941,
+            "tmdb": {
+                "id": 23283,
+                "original_title": "Our Town",
+                "title": "Our Town",
+                "release_date": "1940-05-24",
+                "backdrop_path": "/a8J5yD3jXLAfMyF1OuxpXmDG1YT.jpg",
+                "poster_path": "/nRuwYjCm1aPUY9SDp5P6URFqvvd.jpg",
+                "overview": "Change comes slowly to a small New Hampshire town in the early 20th century. We see birth, life and death in this small community.",
+                "vote_average": 5.8,
+                "vote_count": 27
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Philadelphia Story",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Outstanding Production",
+            "year": 1941,
+            "tmdb": {
+                "id": 981,
+                "original_title": "The Philadelphia Story",
+                "title": "N\u00fapcias de Esc\u00e2ndalo",
+                "release_date": "1940-12-05",
+                "backdrop_path": "/obXJDyy5gORwabqBkadEU0cxlqd.jpg",
+                "poster_path": "/5SoB505pGyonSuwhKW2B99cGMo.jpg",
+                "overview": "Uma herdeira entediada, destinada a se casar com um executivo chato, v\u00ea seus planos de casamento frustrados com a chegada de seu ex-marido playboy. E fam\u00edlia ent\u00e3o gradualmente come\u00e7a a perceber a import\u00e2ncia da integridade e dos verdadeiros valores.",
+                "vote_average": 7.6,
+                "vote_count": 804
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Cartoon)": [
+        {
+            "first_label": "The Milky Way",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1941,
+            "tmdb": {
+                "id": 163882,
+                "original_title": "The Milky Way",
+                "title": "A Via L\u00e1ctea",
+                "release_date": "1940-06-22",
+                "backdrop_path": "/q4qVG0YJCMBeo61GYPUmm9COgHV.jpg",
+                "poster_path": "/ucKGGYLXTwz2WD1SLX64Kj6eB2W.jpg",
+                "overview": "Os Tr\u00eas Gatinhos amarram bal\u00f5es de h\u00e9lio a uma cesta e viajam at\u00e9 a Via L\u00e1ctea, que est\u00e1 cheia de todo o leite que eles podem beber.",
+                "vote_average": 6.6,
+                "vote_count": 21
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Puss Gets the Boot",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1941,
+            "tmdb": {
+                "id": 40372,
+                "original_title": "Puss Gets the Boot",
+                "title": "Um Bichano em Maus Len\u00e7\u00f3is",
+                "release_date": "1940-02-10",
+                "backdrop_path": "/a0I5qZxdxhrjc5zE2fSbHBBM0rD.jpg",
+                "poster_path": "/j98JN1gtb2S9eTYzR4nwMJkmPJm.jpg",
+                "overview": "O gato Jasper ser\u00e1 jogado fora se quebrar mais alguma coisa na casa, e o ratinho Jerry tentar\u00e1 de tudo para dar um \"empurr\u00e3o\". Primeiro curta-metragem com os personagens Tom e Jerry.",
+                "vote_average": 6.9,
+                "vote_count": 73
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Wild Hare",
+            "second_label": "Leon Schlesinger, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1941,
+            "tmdb": {
+                "id": 144904,
+                "original_title": "A Wild Hare",
+                "title": "A Wild Hare",
+                "release_date": "1940-07-27",
+                "backdrop_path": "/ydnM7bIbGXrseztafaT9tfF15TW.jpg",
+                "poster_path": "/fOVOQ8uMUc5K6WG1WA5cXxVVOxT.jpg",
+                "overview": "Elmer \u00e9 um ca\u00e7ador est\u00fapido que \"procura coelhos\". Os insetos continuam a confundir, enganar e humilhar o pobre simp.",
+                "vote_average": 6.9,
+                "vote_count": 46
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (One-reel)": [
+        {
+            "first_label": "Quicker 'N a Wink",
+            "second_label": "Pete Smith, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1941,
+            "tmdb": {
+                "id": 236799,
+                "original_title": "Quicker'n a Wink",
+                "title": "Quicker'n a Wink",
+                "release_date": "1940-10-12",
+                "backdrop_path": "/x9lUpwUB3R51PGk7ttfA8aFwLx6.jpg",
+                "poster_path": "/vlvJLADNU7bZ5ruZs4xC3lDfwXj.jpg",
+                "overview": "In this Pete Smith Specialty short, Dr. Harold E. Edgerton demonstrates stroboscopic photography, which he helped develop. This process allows us to see in slow motion what happens during events that occur too fast to be seen by the naked eye. Examples shown here include a bullet in flight as it shatters a light bulb, the moment of impact when a kicker kicks a football, and the motion of a hummingbird's wings as it hovers.",
+                "vote_average": 6.3,
+                "vote_count": 10
+            },
+            "winner": true
+        },
+        {
+            "first_label": "London Can Take It",
+            "second_label": "Warner Bros.",
+            "category": "Short Subject (One-reel)",
+            "year": 1941,
+            "tmdb": {
+                "id": 145011,
+                "original_title": "London Can Take It!",
+                "title": "London Can Take It!",
+                "release_date": "1940-10-01",
+                "backdrop_path": "/aXrBOjQVX7oMmP1epvSXQR7F9Rm.jpg",
+                "poster_path": "/zgarbivm4WIflUdLHzE5Rt5keQM.jpg",
+                "overview": "A tribute to the courage and resiliency of Britons during the darkest days of the London Blitz.",
+                "vote_average": 6.6,
+                "vote_count": 17
+            },
+            "winner": false
+        },
+        {
+            "first_label": "More about Nostradamus",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Short Subject (One-reel)",
+            "year": 1941,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Siege",
+            "second_label": "RKO Radio",
+            "category": "Short Subject (One-reel)",
+            "year": 1941,
+            "tmdb": {
+                "id": 147364,
+                "original_title": "Siege",
+                "title": "Siege",
+                "release_date": "1940-12-31",
+                "backdrop_path": null,
+                "poster_path": "/9tmkMS9vx5bdrZVlFMJHZsefQh1.jpg",
+                "overview": "Siege is a 1940 documentary short about the Siege of Warsaw by the Wehrmacht at the start of World War II. It was shot by Julien Bryan, a Pennsylvanian photographer and cameraman who later established the International Film Foundation. Siege was nominated for an Oscar for Best One-reel Short at the 13th Academy Awards in 1941, and in 2006, it was named to the National Film Registry by the Librarian of Congress as \"a unique, horrifying record of the dreadful brutality of war.\"",
+                "vote_average": 5.5,
+                "vote_count": 11
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Two-reel)": [
+        {
+            "first_label": "Teddy, the Rough Rider",
+            "second_label": "Warner Bros.",
+            "category": "Short Subject (Two-reel)",
+            "year": 1941,
+            "tmdb": {
+                "id": 236795,
+                "original_title": "Teddy the Rough Rider",
+                "title": "Teddy the Rough Rider",
+                "release_date": "1940-02-21",
+                "backdrop_path": null,
+                "poster_path": "/y2m7Ip6YziLfHQTY9A05QH5m6aH.jpg",
+                "overview": "This short follows the political career of Theodore Roosevelt, beginning in 1895, when he was appointed police commissioner of New York City. In 1897 he was appointed Assistant Secretary of the Navy. His charge up San Juan Hill during the Spanish-American War in 1898 is re-created. He becomes vice president in March 1901 and assumes the presidency when William McKinley is assassinated six months later. According to the narrator, Roosevelt refused to be beholden to political bosses, doing what he believed to be right for the American people.",
+                "vote_average": 5.9,
+                "vote_count": 7
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Eyes of the Navy",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Short Subject (Two-reel)",
+            "year": 1941,
+            "tmdb": {
+                "id": 130363,
+                "original_title": "Eyes of the Navy",
+                "title": "Eyes of the Navy",
+                "release_date": "1940-10-26",
+                "backdrop_path": null,
+                "poster_path": "/bSKDil5JhGv4Atyxgt1r8gwZMpg.jpg",
+                "overview": "Produced by MGM in cooperation with the U.S. Navy, this short film follows U.S. naval aviators through their basic training in Florida and advanced training in California.",
+                "vote_average": 7.2,
+                "vote_count": 6
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Service with the Colors",
+            "second_label": "Warner Bros.",
+            "category": "Short Subject (Two-reel)",
+            "year": 1941,
+            "tmdb": {
+                "id": 236796,
+                "original_title": "Service with the Colors",
+                "title": "Service with the Colors",
+                "release_date": "1940-08-31",
+                "backdrop_path": null,
+                "poster_path": "/nfOo9BRQk1I2kiXOWzUbjpIVRnf.jpg",
+                "overview": "Service with the Colors is a 1940 American short drama film directed by B. Reeves Eason. This drama is \"dedicated to the soldiers of the United States Army.\" Men with diverse backgrounds enlist in the army and are all assigned to the same post. Some adapt easily to army life, while others have trouble making the adjustment. It was nominated for an Academy Award at the 13th Academy Awards for Best Short Subject (Two-Reel).",
+                "vote_average": 4.4,
+                "vote_count": 5
+            },
+            "winner": false
+        }
+    ],
+    "Sound Recording": [
+        {
+            "first_label": "Strike Up the Band",
+            "second_label": "Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",
+            "category": "Sound Recording",
+            "year": 1941,
+            "tmdb": {
+                "id": 43819,
+                "original_title": "Strike Up the Band",
+                "title": "O Rei da Alegria",
+                "release_date": "1940-09-27",
+                "backdrop_path": "/9cQHyV7c8JzE1pfxpXE6WhSi8Z1.jpg",
+                "poster_path": "/nWhhuOxZ4OlnHmISeZIiOA1XtI.jpg",
+                "overview": "Jimmy and Mary get a group of kids together to play in a school orchestra. A huge contest between schools is coming up and they have a hard time raising money to go to Chicago for the contest.",
+                "vote_average": 6.2,
+                "vote_count": 23
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Behind the News",
+            "second_label": "Republic Studio Sound Department, Charles L. Lootens, Sound Director",
+            "category": "Sound Recording",
+            "year": 1941,
+            "tmdb": {
+                "id": 218310,
+                "original_title": "Behind the News",
+                "title": "Behind the News",
+                "release_date": "1940-12-20",
+                "backdrop_path": "/sFwS44259UdUx7OWzpccaOQZnrm.jpg",
+                "poster_path": "/oVx5gKXN8Fs6FC7y72Rju34874N.jpg",
+                "overview": "As suggested by its title, Behind the News was a \"stop the presses!\" yarn set in a big-city newsroom. Lloyd Nolan is top-billed as a cynical reporter with a penchant for sticking his neck out too far. Frank Albertson costars as a cub reporter fresh out of journalism school, whose presence is resented by Nolan and his fellow workers. But it is Albertson who, after running afoul of the law, is instrumental in breaking up a ring of racketeers. Behind the News was remade by Republic as Headline Hunters (55).",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Captain Caution",
+            "second_label": "Hal Roach Studio Sound Department, Elmer A. Raguse, Sound Director",
+            "category": "Sound Recording",
+            "year": 1941,
+            "tmdb": {
+                "id": 151970,
+                "original_title": "Captain Caution",
+                "title": "Captain Caution",
+                "release_date": "1940-08-09",
+                "backdrop_path": "/pHQwVOUala0sw6ttVI12IHMVjnG.jpg",
+                "poster_path": "/cvsrvuhKtZ3I1ABjfBVIiGHxRCa.jpg",
+                "overview": "When her father dies, a young girl helps a young man take command of the ship to fight the British during the war of 1812.",
+                "vote_average": 5.3,
+                "vote_count": 7
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Grapes of Wrath",
+            "second_label": "20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director",
+            "category": "Sound Recording",
+            "year": 1941,
+            "tmdb": {
+                "id": 596,
+                "original_title": "The Grapes of Wrath",
+                "title": "As Vinhas da Ira",
+                "release_date": "1940-03-15",
+                "backdrop_path": "/7UTQCis1B8oWNjIMzQq57LPqma2.jpg",
+                "poster_path": "/xg2lYQ05OJ0t7pI6ESV8d3zrydU.jpg",
+                "overview": "Tom, filho mais velho de uma pobre fam\u00edlia de trabalhadores rurais, retorna para casa ap\u00f3s cumprir pena por homic\u00eddio involunt\u00e1rio. Ele planeja levar os parentes at\u00e9 a Calif\u00f3rnia, onde dizem que trabalho n\u00e3o falta. Durante a viagem eles passam por diversos tipos de prova\u00e7\u00f5es e quando finalmente chegam na \"Terra Prometida\" descobrem que \u00e9 um lugar bem pior do que aquele que deixaram.",
+                "vote_average": 7.8,
+                "vote_count": 910
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Howards of Virginia",
+            "second_label": "General Service Sound Department, Jack Whitney, Sound Director",
+            "category": "Sound Recording",
+            "year": 1941,
+            "tmdb": {
+                "id": 52360,
+                "original_title": "The Howards of Virginia",
+                "title": "A Flama da Liberdade",
+                "release_date": "1940-09-19",
+                "backdrop_path": "/bcOZB2QQkJseteknFPOfL09A2To.jpg",
+                "poster_path": "/dw2rJb61SndQdAwLcZ7msaqh9iU.jpg",
+                "overview": "Beautiful young Virginian Jane steps down from her proper aristocratic upbringing when she marries down-to-earth surveyor Matt Howard. Matt joins the Colonial forces in their fight for freedom against England. Matt will meet Jane's father in the battlefield.",
+                "vote_average": 6.1,
+                "vote_count": 8
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Kitty Foyle",
+            "second_label": "RKO Radio Studio Sound Department, John Aalberg, Sound Director",
+            "category": "Sound Recording",
+            "year": 1941,
+            "tmdb": {
+                "id": 77744,
+                "original_title": "Kitty Foyle",
+                "title": "Kitty Foyle",
+                "release_date": "1940-12-27",
+                "backdrop_path": "/wikIuBblq4ppWBgsbZcl9C3ru9m.jpg",
+                "poster_path": "/3c5yyi6ULsz5V0Ayv0o90BbmgJj.jpg",
+                "overview": "Kitty Foyle, a hard-working white-collar girl from a Philadelphia, Pennsylvania low, middle-class family, meets and falls in love with young socialite Wyn Strafford but his family is against her.",
+                "vote_average": 6.6,
+                "vote_count": 38
+            },
+            "winner": false
+        },
+        {
+            "first_label": "North West Mounted Police",
+            "second_label": "Paramount Studio Sound Department, Loren L. Ryder, Sound Director",
+            "category": "Sound Recording",
+            "year": 1941,
+            "tmdb": {
+                "id": 83360,
+                "original_title": "North West Mounted Police",
+                "title": "Legi\u00e3o de Her\u00f3is",
+                "release_date": "1940-10-22",
+                "backdrop_path": "/8kB3hOnvjfK0FS1epGinNUB0DTm.jpg",
+                "poster_path": "/qM5Ld0eL4sRHEt84nf8VV1QGGth.jpg",
+                "overview": "Texas Ranger Dusty Rivers (\"Isn't that a contradiction in terms?\", another character asks him) travels to Canada in the 1880s in search of Jacques Corbeau, who is wanted for murder. He wanders into the midst of the Riel Rebellion, in which M\u00e9tis (people of French and Native heritage) and Natives want a separate nation. Dusty falls for nurse April Logan, who is also loved by Mountie Jim Brett. April's brother is involved with Courbeau's daughter Louvette, which leads to trouble during the battles between the rebels and the Mounties. Through it all Dusty is determined to bring Corbeau back to Texas (and April, too, if he can manage it.)",
+                "vote_average": 6.3,
+                "vote_count": 34
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Our Town",
+            "second_label": "Samuel Goldwyn Studio Sound Department, Thomas T. Moulton, Sound Director",
+            "category": "Sound Recording",
+            "year": 1941,
+            "tmdb": {
+                "id": 23283,
+                "original_title": "Our Town",
+                "title": "Our Town",
+                "release_date": "1940-05-24",
+                "backdrop_path": "/a8J5yD3jXLAfMyF1OuxpXmDG1YT.jpg",
+                "poster_path": "/nRuwYjCm1aPUY9SDp5P6URFqvvd.jpg",
+                "overview": "Change comes slowly to a small New Hampshire town in the early 20th century. We see birth, life and death in this small community.",
+                "vote_average": 5.8,
+                "vote_count": 27
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Sea Hawk",
+            "second_label": "Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",
+            "category": "Sound Recording",
+            "year": 1941,
+            "tmdb": {
+                "id": 26201,
+                "original_title": "The Sea Hawk",
+                "title": "O Gavi\u00e3o do Mar",
+                "release_date": "1940-08-10",
+                "backdrop_path": "/ishvkb7T721yRDFEwkP5znQgbT5.jpg",
+                "poster_path": "/s4dtnMJ0posl0uZkeKj4fz1AcA9.jpg",
+                "overview": "Enquanto a Espanha prepara um ex\u00e9rcito para invadir a Inglaterra, o pirata brit\u00e2nico Geoffrey Thorpe embarca em uma miss\u00e3o para saquear barcos espanh\u00f3is. Quando ele captura o barco que transportava o embaixador Don Jose Alvarez de Cordoba, o vistoso capit\u00e3o apaixona-se por sua sobrinha, a bela Dona Maria, que se instala confortavelmente na Inglaterra. Dedicado a proteger os interesses ingleses, Thorpe vai para o mar em uma perigosa expedi\u00e7\u00e3o que pode determinar o destino do pa\u00eds.",
+                "vote_average": 7.1,
+                "vote_count": 114
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Spring Parade",
+            "second_label": "Universal Studio Sound Department, Bernard B. Brown, Sound Director",
+            "category": "Sound Recording",
+            "year": 1941,
+            "tmdb": {
+                "id": 218312,
+                "original_title": "Spring Parade",
+                "title": "Spring Parade",
+                "release_date": "1940-09-27",
+                "backdrop_path": "/db9BZY5ZJLxm5nTjjF95yTTFEug.jpg",
+                "poster_path": "/yLeEGQyFz9l8ZhjCxxxYFrcrgVf.jpg",
+                "overview": "In this light and lovely romantic musical, a Hungarian woman attends a Viennese fair and buys a card from a gypsy fortune teller. It says that she will meet someone important and is destined for a happy marriage. Afterward she gets a job as a baker's assistant. She then meets a handsome army drummer who secretly dreams of becoming a famous composer and conductor. Unfortunately the military forbids the young corporal to create his own music. But then Ilonka secretly sends one of the drummer's waltzes to the Austrian Emperor with his weekly order of pastries. Her act paves the way toward the tuneful and joyous fulfillment of the gypsy's prediction.",
+                "vote_average": 6.8,
+                "vote_count": 9
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Too Many Husbands",
+            "second_label": "Columbia Studio Sound Department, John Livadary, Sound Director",
+            "category": "Sound Recording",
+            "year": 1941,
+            "tmdb": {
+                "id": 120109,
+                "original_title": "Too Many Husbands",
+                "title": "Too Many Husbands",
+                "release_date": "1940-04-03",
+                "backdrop_path": "/uSVq3u8iJlom7PFqQXoXIxN6ykH.jpg",
+                "poster_path": "/2MEvtMMJZJNXzjbNV27qQkMnegx.jpg",
+                "overview": "Long-missing Bill Cardew returns to find his wife Vicky remarried...and in no hurry to settle for just one husband.",
+                "vote_average": 6.3,
+                "vote_count": 17
+            },
+            "winner": false
+        }
+    ],
+    "Special Effects": [
+        {
+            "first_label": "The Thief of Bagdad",
+            "second_label": "Photographic Effects by Lawrence Butler; Sound Effects by Jack Whitney",
+            "category": "Special Effects",
+            "year": 1941,
+            "tmdb": {
+                "id": 12232,
+                "original_title": "The Thief of Bagdad",
+                "title": "O Ladr\u00e3o de Bagd\u00e1",
+                "release_date": "1940-12-25",
+                "backdrop_path": "/oaSBgbi0czdGjtXllTTIMj1H3th.jpg",
+                "poster_path": "/ankRLnVQ7Le139cM41psJ4pYtrh.jpg",
+                "overview": "Menino ladr\u00e3o das ruas de Bagd\u00e1 ajuda jovem sult\u00e3o deposto do trono por feiticeiro a recuperar o poder. Para isso conta com a ajuda de um g\u00eanio m\u00e1gico que lhe concede tr\u00eas desejos.",
+                "vote_average": 7.1,
+                "vote_count": 244
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Blue Bird",
+            "second_label": "Photographic Effects by Fred Sersen; Sound Effects by E. H. Hansen",
+            "category": "Special Effects",
+            "year": 1941,
+            "tmdb": {
+                "id": 60400,
+                "original_title": "The Blue Bird",
+                "title": "O P\u00e1ssaro Azul",
+                "release_date": "1940-01-15",
+                "backdrop_path": "/4BQpKhhJ8rXpvkfLFCEmhxxMX5b.jpg",
+                "poster_path": "/4MLru2banKCbCC5iGOmqon3h569.jpg",
+                "overview": "Mytyl e Tyltyl s\u00e3o irm\u00e3os que acabam sendo levados em uma encantadora viagem pelo passado, presente e futuro. Eles conhecem os poderes da natureza em busca do p\u00e1ssaro azul da felicidade.",
+                "vote_average": 5.7,
+                "vote_count": 36
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Boom Town",
+            "second_label": "Photographic Effects by A. Arnold Gillespie; Sound Effects by Douglas Shearer",
+            "category": "Special Effects",
+            "year": 1941,
+            "tmdb": {
+                "id": 55604,
+                "original_title": "Boom Town",
+                "title": "Fruto Proibido",
+                "release_date": "1940-08-30",
+                "backdrop_path": "/bPeWQCyLtAWGyjtJ9mdfPcvhRTe.jpg",
+                "poster_path": "/upPOcyAhnL0tDPL8MsTRrOJquiJ.jpg",
+                "overview": "Dois amigos petroleiros meio malandros, que ao longo de 20 anos se tornam magnatas do petr\u00f3leo, amam a mesma mulher.  Os amigos Big John McMasters e Square John Sand, ambos aventureiros do petr\u00f3leo, s\u00e3o do tipo falantes, divertidos, que conseguem malandramente equipamentos e capital suficiente para desenvolver os seus pr\u00f3prios campos de petr\u00f3leo. Mas sua amizade \u00e9 posta \u00e0 prova quando Big John fica inadvertidamente apaixonado por Elizabeth, a namorada de longa data de Square John Sand. Eventualmente, sua amizade e parceria chega ao fim num Cara ou Coroa. Anos mais tarde, quando o interesse de Big John pela bela Karen Vanmeer amea\u00e7a seu casamento tamb\u00e9m, Square John interv\u00e9m em um esfor\u00e7o para salvar o casamento de seu ex-amigo - mesmo que isso signifique arruin\u00e1-lo financeiramente.",
+                "vote_average": 6.9,
+                "vote_count": 49
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Boys from Syracuse",
+            "second_label": "Photographic Effects by John P. Fulton; Sound Effects by Bernard B. Brown, Joseph Lapis",
+            "category": "Special Effects",
+            "year": 1941,
+            "tmdb": {
+                "id": 188123,
+                "original_title": "The Boys from Syracuse",
+                "title": "The Boys from Syracuse",
+                "release_date": "1940-07-30",
+                "backdrop_path": "/6BAVH1JJXP5e06UwtBuhMRxHS6l.jpg",
+                "poster_path": "/82s6hMz2UvXJ2t14fEGvPoFQIuh.jpg",
+                "overview": "The action takes place in Ephesus in ancient Asia Minor, and the concerns The efforts of two boys from Syracuse, Anthipholus and his servant Dromio, to find their long-lost twins who, for reason of plot confusion, are also named Anthipholus and Dromio. Complications arise when the wife of the Ephesians, Adriana and her servant Luce, mistake the two strangers for their husband, though the couples eventually get sorted out after Adriana's sister Luciana and the Syracuse Antipholus admit their love",
+                "vote_average": 6.5,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dr. Cyclops",
+            "second_label": "Photographic Effects by Gordon Jennings, Farciot Edouart",
+            "category": "Special Effects",
+            "year": 1941,
+            "tmdb": {
+                "id": 3593,
+                "original_title": "Dr. Cyclops",
+                "title": "O Del\u00edrio de um S\u00e1bio",
+                "release_date": "1940-04-09",
+                "backdrop_path": "/nHbIdtHO6oENW1FNOJRX11CdIY1.jpg",
+                "poster_path": "/33x6Y8r3mp4jw8SdlHdwDp2CA49.jpg",
+                "overview": "Four explorers are summoned to Peru by the brilliant physicist Dr Thorkel. They discover a rich source of radium and a half-mad Thorkel who shrinks them down to one-fifth their normal size when they threaten to stop his unorthodox experimentation.",
+                "vote_average": 6.1,
+                "vote_count": 59
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Foreign Correspondent",
+            "second_label": "Photographic Effects by Paul Eagler; Sound Effects by Thomas T. Moulton",
+            "category": "Special Effects",
+            "year": 1941,
+            "tmdb": {
+                "id": 25670,
+                "original_title": "Foreign Correspondent",
+                "title": "Correspondente Estrangeiro",
+                "release_date": "1940-08-16",
+                "backdrop_path": "/fe1j0IFaAGNyxbsIgEwFlZICKPk.jpg",
+                "poster_path": "/q9fN7i3hL3OIgGEPbTZqjYtOFUb.jpg",
+                "overview": "Johnny Jones (Joel McCrea) \u00e9 o correspondente de um jornal de Nova York que viaja para a Europa usando o pseud\u00f4nimo de Huntley Haverstock, quando a 2\u00aa Guerra Mundial era uma realidade cada vez mais iminente. Inicialmente ele vai para Londres mas logo est\u00e1 em Amsterd\u00e3, onde juntamente com v\u00e1rias pessoas testemunha o assassinato de Van Meer (Albert Bassermann), um diplomata holand\u00eas. Entretanto, logo ele toma consci\u00eancia que quem morreu foi um s\u00f3sia e que Van Meer na verdade foi sequestrado por agentes do inimigo, que querem arrancar do diplomata importantes segredos. Assim sua situa\u00e7\u00e3o fica desesperadora, pois sua hist\u00f3ria \u00e9 em princ\u00edpio absurda e, al\u00e9m disto, est\u00e3o querendo mat\u00e1-lo.",
+                "vote_average": 7.0,
+                "vote_count": 358
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Invisible Man Returns",
+            "second_label": "Photographic Effects by John P. Fulton; Sound Effects by Bernard B. Brown, William Hedgecock",
+            "category": "Special Effects",
+            "year": 1941,
+            "tmdb": {
+                "id": 28421,
+                "original_title": "The Invisible Man Returns",
+                "title": "A Volta do Homem Invis\u00edvel",
+                "release_date": "1940-01-12",
+                "backdrop_path": "/s9fkuABRgvo4ovWft8O4ywdtlRB.jpg",
+                "poster_path": "/hJmmgKnY0NaJKVP7Glb4ciAzXWr.jpg",
+                "overview": "Preso sob a acusa\u00e7\u00e3o de ter matado seu irm\u00e3o, Geoffrey Radcliffe aguarda sua senten\u00e7\u00e3o - morrer na forca. Mas, logo depois de receber a visita de seu amigo Dr. Frank Griffin, Geoffrey simplesmente desaparece. O inspetor policial Sampson come\u00e7a a investigar e acredita que Griffin \u00e9 na verdade o irm\u00e3o do Homem Invis\u00edvel original (do primeiro filme) e deu a Geoffrey a f\u00f3rmula da invisibilidade. Continua\u00e7\u00e3o do cl\u00e1ssico de 1933.",
+                "vote_average": 6.2,
+                "vote_count": 109
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Long Voyage Home",
+            "second_label": "Photographic Effects by R. T. Layton, R. O. Binger; Sound Effects by Thomas T. Moulton",
+            "category": "Special Effects",
+            "year": 1941,
+            "tmdb": {
+                "id": 52859,
+                "original_title": "The Long Voyage Home",
+                "title": "A Longa Viagem de Volta",
+                "release_date": "1940-11-16",
+                "backdrop_path": "/o2bN1lMPgWnlylcaQHMnit1BxYR.jpg",
+                "poster_path": "/fFdorPTbPiyuULT966aDTA6p4qV.jpg",
+                "overview": "A bordo do cargueiro Glencairn, a vida da tripula\u00e7\u00e3o \u00e9 vivida com medo, solid\u00e3o, suspeita e camaradagem. Os homens contrabandeiam bebida e mulheres para bordo, lutam uns com os outros, espionam uns aos outros, confortar uns aos outros quando a morte se aproxima, e ajudam o outro quando em perigo. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.5,
+                "vote_count": 72
+            },
+            "winner": false
+        },
+        {
+            "first_label": "One Million B.C.",
+            "second_label": "Photographic Effects by Roy Seawright; Sound Effects by Elmer Raguse",
+            "category": "Special Effects",
+            "year": 1941,
+            "tmdb": {
+                "id": 3592,
+                "original_title": "One Million B.C.",
+                "title": "O Despertar do Mundo",
+                "release_date": "1940-04-05",
+                "backdrop_path": "/c6zOIyr2ZdUr7aB5JF53OAIIxCl.jpg",
+                "poster_path": "/quyzMg8yF0zhTW3oLkfY5cV3hPI.jpg",
+                "overview": "One Million B.C. is a 1940 American fantasy film produced by Hal Roach Studios and released by United Artists. It is also known by the titles Cave Man, Man and His Mate, and Tumak. The film stars Victor Mature as protagonist Tumak, a young cave man who strives to unite the uncivilized Rock Tribe and the peaceful Shell Tribe, Carole Landis as Loana, daughter of the Shell Tribe chief and Tumak's love interest, and Lon Chaney, Jr. as Tumak's stern father and leader of the Rock Tribe.",
+                "vote_average": 5.9,
+                "vote_count": 24
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rebecca",
+            "second_label": "Photographic Effects by Jack Cosgrove; Sound Effects by Arthur Johns",
+            "category": "Special Effects",
+            "year": 1941,
+            "tmdb": {
+                "id": 223,
+                "original_title": "Rebecca",
+                "title": "Rebecca, A Mulher Inesquec\u00edvel",
+                "release_date": "1940-03-23",
+                "backdrop_path": "/jKgLVAhoq4fXBs1C9Gjvap93fxd.jpg",
+                "poster_path": "/yJX12zYQr5DBl0hZUd3Oi0hBWvs.jpg",
+                "overview": "Uma jovem de origem humilde (Joan Fontaine) se casa com um riqu\u00edssimo nobre ingl\u00eas (Laurence Olivier), que ainda vive atormentado por lembran\u00e7as de sua falecida esposa. Ap\u00f3s o casamento e j\u00e1 morando na mans\u00e3o do marido, ela vai gradativamente descobrindo surpreendentes segredos sobre o passado dele.",
+                "vote_average": 7.9,
+                "vote_count": 1658
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Sea Hawk",
+            "second_label": "Photographic Effects by Byron Haskin; Sound Effects by Nathan Levinson",
+            "category": "Special Effects",
+            "year": 1941,
+            "tmdb": {
+                "id": 26201,
+                "original_title": "The Sea Hawk",
+                "title": "O Gavi\u00e3o do Mar",
+                "release_date": "1940-08-10",
+                "backdrop_path": "/ishvkb7T721yRDFEwkP5znQgbT5.jpg",
+                "poster_path": "/s4dtnMJ0posl0uZkeKj4fz1AcA9.jpg",
+                "overview": "Enquanto a Espanha prepara um ex\u00e9rcito para invadir a Inglaterra, o pirata brit\u00e2nico Geoffrey Thorpe embarca em uma miss\u00e3o para saquear barcos espanh\u00f3is. Quando ele captura o barco que transportava o embaixador Don Jose Alvarez de Cordoba, o vistoso capit\u00e3o apaixona-se por sua sobrinha, a bela Dona Maria, que se instala confortavelmente na Inglaterra. Dedicado a proteger os interesses ingleses, Thorpe vai para o mar em uma perigosa expedi\u00e7\u00e3o que pode determinar o destino do pa\u00eds.",
+                "vote_average": 7.1,
+                "vote_count": 114
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Swiss Family Robinson",
+            "second_label": "Photographic Effects by Vernon L. Walker; Sound Effects by John O. Aalberg",
+            "category": "Special Effects",
+            "year": 1941,
+            "tmdb": {
+                "id": 188125,
+                "original_title": "Swiss Family Robinson",
+                "title": "A Cidadela dos Robinsons",
+                "release_date": "1940-02-08",
+                "backdrop_path": "/86nDfkq2b0MkUlUrTKDCsF7OsQ6.jpg",
+                "poster_path": "/hKsYM5VWpYCD3RxGmwkQgt8dkvy.jpg",
+                "overview": "Perseguida durante as Guerras Napole\u00f4nicas, a fam\u00edlia Robinson p\u00f5e-se ao mar, em busca de vida nova na Austr\u00e1lia. Contudo, o barco afunda durante uma tempestade e todos v\u00e3o parar em uma ilha deserta. Eles, ent\u00e3o, t\u00eam de lutar para sobreviver em um ambiente hostil, onde os valores que trazem consigo s\u00e3o postos \u00e0 prova a cada momento. Baseado no romance hom\u00f4nimo de Johann David Wyss, de 1812.",
+                "vote_average": 5.3,
+                "vote_count": 21
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Typhoon",
+            "second_label": "Photographic Effects by Farciot Edouart, Gordon Jennings; Sound Effects by Loren Ryder",
+            "category": "Special Effects",
+            "year": 1941,
+            "tmdb": {
+                "id": 188127,
+                "original_title": "Typhoon",
+                "title": "Typhoon",
+                "release_date": "1940-05-16",
+                "backdrop_path": "/m3WySwQ2LftoQPdAYlDhzQLGOA3.jpg",
+                "poster_path": "/lg884X1BLuR5ueAFZNiRWyIEzwc.jpg",
+                "overview": "Two men searching for black pearls are marooned on an island when their crew mutinies. There they run into a beautiful girl who had been washed up on the island in her childhood. They must fight angry natives and a typhoon in order to survive.",
+                "vote_average": 5.0,
+                "vote_count": 1
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Women in War",
+            "second_label": "Photographic Effects by Howard J. Lydecker, William Bradford, Ellis J. Thackery; Sound Effects by Herbert Norsch",
+            "category": "Special Effects",
+            "year": 1941,
+            "tmdb": {
+                "id": 188132,
+                "original_title": "Women in War",
+                "title": "Women in War",
+                "release_date": "1940-06-05",
+                "backdrop_path": "/AungdZPkh621LbWfP4ACQgVU1JV.jpg",
+                "poster_path": "/hQ5cloAZyDdu6FLS8Ro6wxEQR0h.jpg",
+                "overview": "A \"good-time girl\", raised by her somewhat lax divorced father, finds herself involved in an accidental death, and the only way she's able to get out of it is to volunteer--albeit reluctantly--to be a nurse in the war effort. She travels to England and is assigned to a hospital under a very strict matron. What the girl doesn't know is that the matron is the mother she has never seen.",
+                "vote_average": 3.0,
+                "vote_count": 2
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Original Screenplay)": [
+        {
+            "first_label": "The Great McGinty",
+            "second_label": "Preston Sturges",
+            "category": "Writing (Original Screenplay)",
+            "year": 1941,
+            "tmdb": {
+                "id": 36495,
+                "original_title": "The Great McGinty",
+                "title": "O Homem Que Se Vendeu",
+                "release_date": "1940-08-01",
+                "backdrop_path": "/8lWbcydL0imbHJAO0IcnuXtvOKg.jpg",
+                "poster_path": "/2Lrt9YthfN9Iay4QyiLz4pdp2k0.jpg",
+                "overview": "Told in flashback, Depression-era bum Dan McGinty is recruited by the city's political machine to help with vote fraud. His great aptitude for this brings rapid promotion from \"the boss,\" who finally decides he'd be ideal as a new, nominally \"reform\" mayor; but this candidacy requires marriage. His in-name-only marriage to honest Catherine proves the beginning of the end for dishonest Dan...",
+                "vote_average": 7.0,
+                "vote_count": 62
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Angels over Broadway",
+            "second_label": "Ben Hecht",
+            "category": "Writing (Original Screenplay)",
+            "year": 1941,
+            "tmdb": {
+                "id": 42756,
+                "original_title": "Angels Over Broadway",
+                "title": "Anjos da Broadway",
+                "release_date": "1940-10-02",
+                "backdrop_path": "/hpQ7dLKEdIsztIIFUMzrgVZMkls.jpg",
+                "poster_path": "/nee1LVYfgKE6fWrXNzi94fl2PAR.jpg",
+                "overview": "Douglas Fairbanks Jr. \u00e9 Bill O\u00b4Brien, um futuro g\u00e2ngster que se associa a Nina Barona (Rita Hayworth), uma dan\u00e7arina azarada, num esquema de fraude que os leva a ganhar mais do que planejaram.",
+                "vote_average": 5.8,
+                "vote_count": 26
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dr. Ehrlich's Magic Bullet",
+            "second_label": "John Huston, Heinz Herald, Norman Burnside",
+            "category": "Writing (Original Screenplay)",
+            "year": 1941,
+            "tmdb": {
+                "id": 88192,
+                "original_title": "Dr. Ehrlich's Magic Bullet",
+                "title": "A Vida do Dr. Ehrlich",
+                "release_date": "1940-02-23",
+                "backdrop_path": "/1KhMREOLVTemliXbhbyR6IPAJwi.jpg",
+                "poster_path": "/nLQGolem6LY02jmRu9dpkInKrW3.jpg",
+                "overview": "True story of the doctor who considered it was not immoral to search for a drug that would cure syphillis.",
+                "vote_average": 6.4,
+                "vote_count": 28
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Foreign Correspondent",
+            "second_label": "Charles Bennett, Joan Harrison",
+            "category": "Writing (Original Screenplay)",
+            "year": 1941,
+            "tmdb": {
+                "id": 25670,
+                "original_title": "Foreign Correspondent",
+                "title": "Correspondente Estrangeiro",
+                "release_date": "1940-08-16",
+                "backdrop_path": "/fe1j0IFaAGNyxbsIgEwFlZICKPk.jpg",
+                "poster_path": "/q9fN7i3hL3OIgGEPbTZqjYtOFUb.jpg",
+                "overview": "Johnny Jones (Joel McCrea) \u00e9 o correspondente de um jornal de Nova York que viaja para a Europa usando o pseud\u00f4nimo de Huntley Haverstock, quando a 2\u00aa Guerra Mundial era uma realidade cada vez mais iminente. Inicialmente ele vai para Londres mas logo est\u00e1 em Amsterd\u00e3, onde juntamente com v\u00e1rias pessoas testemunha o assassinato de Van Meer (Albert Bassermann), um diplomata holand\u00eas. Entretanto, logo ele toma consci\u00eancia que quem morreu foi um s\u00f3sia e que Van Meer na verdade foi sequestrado por agentes do inimigo, que querem arrancar do diplomata importantes segredos. Assim sua situa\u00e7\u00e3o fica desesperadora, pois sua hist\u00f3ria \u00e9 em princ\u00edpio absurda e, al\u00e9m disto, est\u00e3o querendo mat\u00e1-lo.",
+                "vote_average": 7.0,
+                "vote_count": 358
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Great Dictator",
+            "second_label": "Charles Chaplin",
+            "category": "Writing (Original Screenplay)",
+            "year": 1941,
+            "tmdb": {
+                "id": 914,
+                "original_title": "The Great Dictator",
+                "title": "O Grande Ditador",
+                "release_date": "1940-10-15",
+                "backdrop_path": "/c8Pi8F1FzpNebtgXcSjC9nWCdSW.jpg",
+                "poster_path": "/t7BTnBuWcxp6iCKxxn4wM4EaLAY.jpg",
+                "overview": "Um barbeiro judeu passa anos em um hospital do ex\u00e9rcito se recuperando de suas feridas ap\u00f3s ter servido na guerra, sem saber do crescimento de poder do ditador fascista Aden\u00f3ide Hynkel e suas pol\u00edticas antissemitas. Quando o barbeiro retorna ao seu bairro tranquilo, ele fica atordoado com as mudan\u00e7as brutais e, de forma imprudente, se une a uma menina bonita e seus vizinhos para se rebelar.",
+                "vote_average": 8.3,
+                "vote_count": 3184
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Original Story)": [
+        {
+            "first_label": "Arise, My Love",
+            "second_label": "Benjamin Glazer, John S. Toldy",
+            "category": "Writing (Original Story)",
+            "year": 1941,
+            "tmdb": {
+                "id": 131770,
+                "original_title": "Arise, My Love",
+                "title": "Levanta-te, Meu Amor",
+                "release_date": "1940-11-08",
+                "backdrop_path": "/46UOHN63geafyAduo270zn0yUsV.jpg",
+                "poster_path": "/depZFXpKyOw7aeIGWa42A30H64L.jpg",
+                "overview": "Claudette Colbert faz o papel de uma jornalista americana baseada em Paris que envia para seu jornal not\u00edcias sobre a Guerra Civil Espanhola e se envolve com um aviador aventureiro que luta do lado dos republicanos (o papel de Ray Milland).",
+                "vote_average": 6.1,
+                "vote_count": 16
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Comrade X",
+            "second_label": "Walter Reisch",
+            "category": "Writing (Original Story)",
+            "year": 1941,
+            "tmdb": {
+                "id": 32194,
+                "original_title": "Comrade X",
+                "title": "O Inimigo X",
+                "release_date": "1940-12-13",
+                "backdrop_path": "/qcDW9sABLy71v1dKaymdybAotLX.jpg",
+                "poster_path": "/j6eJWdHfydZhLM0IyaejwuORR5W.jpg",
+                "overview": "An American reporter smuggling news out of Soviet Moscow is blackmailed into helping a beautiful Communist leave the country.",
+                "vote_average": 5.8,
+                "vote_count": 22
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Edison, the Man",
+            "second_label": "Dore Schary, Hugo Butler",
+            "category": "Writing (Original Story)",
+            "year": 1941,
+            "tmdb": {
+                "id": 43811,
+                "original_title": "Edison, the Man",
+                "title": "Edison, O Mago da Luz",
+                "release_date": "1940-05-10",
+                "backdrop_path": "/xHkb33IVsJBlW8bJmHNsMzJKc6g.jpg",
+                "poster_path": "/ll2ZTJ8tsKRKbOrNUP9JHBRakPl.jpg",
+                "overview": "In flashback, fifty years after inventing the light bulb, an 82-year-old Edison tells his story starting at age twenty-two with his arrival in New York. He's on his way with the invention of an early form of the stock market ticker.",
+                "vote_average": 6.7,
+                "vote_count": 20
+            },
+            "winner": false
+        },
+        {
+            "first_label": "My Favorite Wife",
+            "second_label": "Bella Spewack, Samuel Spewack, Leo McCarey",
+            "category": "Writing (Original Story)",
+            "year": 1941,
+            "tmdb": {
+                "id": 41463,
+                "original_title": "My Favorite Wife",
+                "title": "Minha Esposa Favorita",
+                "release_date": "1940-05-17",
+                "backdrop_path": "/gmtpAmVmHZ8a5E0ZERx4fxzSecS.jpg",
+                "poster_path": "/eRyGZiEWGn9bADSI5CXWMStBhMD.jpg",
+                "overview": "Sete anos depois de um naufr\u00e1gio no qual ela foi supostamente morta, Ellen Arden chega em casa e descobre que seu marido Nick acabou de se casar novamente. O radiante Nick esfor\u00e7a-se por dar a not\u00edcia \u00e0 sua nova noiva. Mas ele fica chocado quando ouve a hist\u00f3ria toda: Ellen passou esses sete anos em uma ilha deserta sozinha com outro homem.",
+                "vote_average": 7.0,
+                "vote_count": 148
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Westerner",
+            "second_label": "Stuart N. Lake",
+            "category": "Writing (Original Story)",
+            "year": 1941,
+            "tmdb": {
+                "id": 14710,
+                "original_title": "The Westerner",
+                "title": "The Westerner",
+                "release_date": "1940-09-18",
+                "backdrop_path": "/cp1QQPnRsPxzUbdAWURD1U0b0mv.jpg",
+                "poster_path": "/5DpDg1GYiqAKoCozbunCqPYvRPD.jpg",
+                "overview": "Drifter Cole Harden is accused of stealing a horse and faces hanging by self-appointed Judge Roy Bean, but Harden manages to talk his way out of it by claiming to be a friend of stage star Lillie Langtry, with whom the judge is obsessed, even though he has never met her. Tensions rise when Harden comes to the defense of a group of struggling homesteaders who Judge Bean is trying to drive away.",
+                "vote_average": 7.0,
+                "vote_count": 95
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay)": [
+        {
+            "first_label": "The Philadelphia Story",
+            "second_label": "Donald Ogden Stewart",
+            "category": "Writing (Screenplay)",
+            "year": 1941,
+            "tmdb": {
+                "id": 981,
+                "original_title": "The Philadelphia Story",
+                "title": "N\u00fapcias de Esc\u00e2ndalo",
+                "release_date": "1940-12-05",
+                "backdrop_path": "/obXJDyy5gORwabqBkadEU0cxlqd.jpg",
+                "poster_path": "/5SoB505pGyonSuwhKW2B99cGMo.jpg",
+                "overview": "Uma herdeira entediada, destinada a se casar com um executivo chato, v\u00ea seus planos de casamento frustrados com a chegada de seu ex-marido playboy. E fam\u00edlia ent\u00e3o gradualmente come\u00e7a a perceber a import\u00e2ncia da integridade e dos verdadeiros valores.",
+                "vote_average": 7.6,
+                "vote_count": 804
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Grapes of Wrath",
+            "second_label": "Nunnally Johnson",
+            "category": "Writing (Screenplay)",
+            "year": 1941,
+            "tmdb": {
+                "id": 596,
+                "original_title": "The Grapes of Wrath",
+                "title": "As Vinhas da Ira",
+                "release_date": "1940-03-15",
+                "backdrop_path": "/7UTQCis1B8oWNjIMzQq57LPqma2.jpg",
+                "poster_path": "/xg2lYQ05OJ0t7pI6ESV8d3zrydU.jpg",
+                "overview": "Tom, filho mais velho de uma pobre fam\u00edlia de trabalhadores rurais, retorna para casa ap\u00f3s cumprir pena por homic\u00eddio involunt\u00e1rio. Ele planeja levar os parentes at\u00e9 a Calif\u00f3rnia, onde dizem que trabalho n\u00e3o falta. Durante a viagem eles passam por diversos tipos de prova\u00e7\u00f5es e quando finalmente chegam na \"Terra Prometida\" descobrem que \u00e9 um lugar bem pior do que aquele que deixaram.",
+                "vote_average": 7.8,
+                "vote_count": 910
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Kitty Foyle",
+            "second_label": "Dalton Trumbo",
+            "category": "Writing (Screenplay)",
+            "year": 1941,
+            "tmdb": {
+                "id": 77744,
+                "original_title": "Kitty Foyle",
+                "title": "Kitty Foyle",
+                "release_date": "1940-12-27",
+                "backdrop_path": "/wikIuBblq4ppWBgsbZcl9C3ru9m.jpg",
+                "poster_path": "/3c5yyi6ULsz5V0Ayv0o90BbmgJj.jpg",
+                "overview": "Kitty Foyle, a hard-working white-collar girl from a Philadelphia, Pennsylvania low, middle-class family, meets and falls in love with young socialite Wyn Strafford but his family is against her.",
+                "vote_average": 6.6,
+                "vote_count": 38
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Long Voyage Home",
+            "second_label": "Dudley Nichols",
+            "category": "Writing (Screenplay)",
+            "year": 1941,
+            "tmdb": {
+                "id": 52859,
+                "original_title": "The Long Voyage Home",
+                "title": "A Longa Viagem de Volta",
+                "release_date": "1940-11-16",
+                "backdrop_path": "/o2bN1lMPgWnlylcaQHMnit1BxYR.jpg",
+                "poster_path": "/fFdorPTbPiyuULT966aDTA6p4qV.jpg",
+                "overview": "A bordo do cargueiro Glencairn, a vida da tripula\u00e7\u00e3o \u00e9 vivida com medo, solid\u00e3o, suspeita e camaradagem. Os homens contrabandeiam bebida e mulheres para bordo, lutam uns com os outros, espionam uns aos outros, confortar uns aos outros quando a morte se aproxima, e ajudam o outro quando em perigo. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.5,
+                "vote_count": 72
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rebecca",
+            "second_label": "Robert E. Sherwood, Joan Harrison",
+            "category": "Writing (Screenplay)",
+            "year": 1941,
+            "tmdb": {
+                "id": 223,
+                "original_title": "Rebecca",
+                "title": "Rebecca, A Mulher Inesquec\u00edvel",
+                "release_date": "1940-03-23",
+                "backdrop_path": "/jKgLVAhoq4fXBs1C9Gjvap93fxd.jpg",
+                "poster_path": "/yJX12zYQr5DBl0hZUd3Oi0hBWvs.jpg",
+                "overview": "Uma jovem de origem humilde (Joan Fontaine) se casa com um riqu\u00edssimo nobre ingl\u00eas (Laurence Olivier), que ainda vive atormentado por lembran\u00e7as de sua falecida esposa. Ap\u00f3s o casamento e j\u00e1 morando na mans\u00e3o do marido, ela vai gradativamente descobrindo surpreendentes segredos sobre o passado dele.",
+                "vote_average": 7.9,
+                "vote_count": 1658
+            },
+            "winner": false
+        }
+    ]
+}

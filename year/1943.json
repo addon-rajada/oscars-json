@@ -1,0 +1,3124 @@
+{
+    "Actor": [
+        {
+            "first_label": "James Cagney",
+            "second_label": "Yankee Doodle Dandy",
+            "category": "Actor",
+            "year": 1943,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Ronald Colman",
+            "second_label": "Random Harvest",
+            "category": "Actor",
+            "year": 1943,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gary Cooper",
+            "second_label": "The Pride of the Yankees",
+            "category": "Actor",
+            "year": 1943,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Walter Pidgeon",
+            "second_label": "Mrs. Miniver",
+            "category": "Actor",
+            "year": 1943,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Monty Woolley",
+            "second_label": "The Pied Piper",
+            "category": "Actor",
+            "year": 1943,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Van Heflin",
+            "second_label": "Johnny Eager",
+            "category": "Actor in a Supporting Role",
+            "year": 1943,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "William Bendix",
+            "second_label": "Wake Island",
+            "category": "Actor in a Supporting Role",
+            "year": 1943,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Walter Huston",
+            "second_label": "Yankee Doodle Dandy",
+            "category": "Actor in a Supporting Role",
+            "year": 1943,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Frank Morgan",
+            "second_label": "Tortilla Flat",
+            "category": "Actor in a Supporting Role",
+            "year": 1943,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Henry Travers",
+            "second_label": "Mrs. Miniver",
+            "category": "Actor in a Supporting Role",
+            "year": 1943,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress": [
+        {
+            "first_label": "Greer Garson",
+            "second_label": "Mrs. Miniver",
+            "category": "Actress",
+            "year": 1943,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Bette Davis",
+            "second_label": "Now, Voyager",
+            "category": "Actress",
+            "year": 1943,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Katharine Hepburn",
+            "second_label": "Woman of the Year",
+            "category": "Actress",
+            "year": 1943,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rosalind Russell",
+            "second_label": "My Sister Eileen",
+            "category": "Actress",
+            "year": 1943,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Teresa Wright",
+            "second_label": "The Pride of the Yankees",
+            "category": "Actress",
+            "year": 1943,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Teresa Wright",
+            "second_label": "Mrs. Miniver",
+            "category": "Actress in a Supporting Role",
+            "year": 1943,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Gladys Cooper",
+            "second_label": "Now, Voyager",
+            "category": "Actress in a Supporting Role",
+            "year": 1943,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Agnes Moorehead",
+            "second_label": "The Magnificent Ambersons",
+            "category": "Actress in a Supporting Role",
+            "year": 1943,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Susan Peters",
+            "second_label": "Random Harvest",
+            "category": "Actress in a Supporting Role",
+            "year": 1943,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dame May Whitty",
+            "second_label": "Mrs. Miniver",
+            "category": "Actress in a Supporting Role",
+            "year": 1943,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction (Black-and-White)": [
+        {
+            "first_label": "This above All",
+            "second_label": "Art Direction: Richard Day, Joseph Wright; Interior Decoration: Thomas Little",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1943,
+            "tmdb": {
+                "id": 110628,
+                "original_title": "This Above All",
+                "title": "This Above All",
+                "release_date": "1942-05-12",
+                "backdrop_path": "/2iGtBG5UG3FiTVuKxh6Zlx3FyVY.jpg",
+                "poster_path": "/8AkgCCS7yZyoK58v6j5LnqGWyr.jpg",
+                "overview": "In 1940 England, aristocratic Prudence Cathaway alarms her snobbish parents by joining the WAF service branch. She soon meets and falls in love with the brooding Clive Briggs, despite his prejudice against the upper classes, and agrees to spend a week with him at a Dover hotel. When Clive's soldier friend, Monty, arrives to retrieve him, Prudence learns that Clive went AWOL after Dunkirk, and urges him to recall why England must fight the war.",
+                "vote_average": 6.6,
+                "vote_count": 15
+            },
+            "winner": true
+        },
+        {
+            "first_label": "George Washington Slept Here",
+            "second_label": "Art Direction: Max Parker, Mark-Lee Kirk; Interior Decoration: Casey Roberts",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1943,
+            "tmdb": {
+                "id": 35262,
+                "original_title": "George Washington Slept Here",
+                "title": "George Washington Slept Here",
+                "release_date": "1942-10-30",
+                "backdrop_path": "/7fJDpwbG7SboimFqkkAvRW6ChHs.jpg",
+                "poster_path": "/qJGPPLaarCSFziixOUwFB4MZwmG.jpg",
+                "overview": "New Yorkers Bill and Connie Fuller have to move from their apartment. Without Bill's knowledge, Connie purchases a delapidated old farmhouse in Pennsylvania, where George Washington was supposed to have actually slept during the American Revolution.",
+                "vote_average": 6.2,
+                "vote_count": 12
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Magnificent Ambersons",
+            "second_label": "Art Direction: Albert S. D'Agostino; Interior Decoration: Darrell Silvera, Al Fields",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1943,
+            "tmdb": {
+                "id": 965,
+                "original_title": "The Magnificent Ambersons",
+                "title": "Soberba",
+                "release_date": "1942-07-10",
+                "backdrop_path": "/rn7M9za8zr1gm5HqJKW8Qk6azeM.jpg",
+                "poster_path": "/ki1lnSzJhIjx42K8iRlSwEpGS7R.jpg",
+                "overview": "Rica fam\u00edlia de uma cidadezinha do sul dos Estados Unidos v\u00ea sua supremacia social pouco a pouco comprometida pela industrializa\u00e7\u00e3o. Seu jovem e mimado herdeiro se coloca entre a m\u00e3e vi\u00fava e o homem que ela sempre amou.",
+                "vote_average": 7.316,
+                "vote_count": 394
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Pride of the Yankees",
+            "second_label": "Art Direction: Perry Ferguson; Interior Decoration: Howard Bristol",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1943,
+            "tmdb": {
+                "id": 19140,
+                "original_title": "The Pride of the Yankees",
+                "title": "The Pride of the Yankees",
+                "release_date": "1942-07-14",
+                "backdrop_path": "/bd57iZNhXjX4Olm22XqXHondbBL.jpg",
+                "poster_path": "/tbSMm0IAa5WgTcyoeUn7AKAViVY.jpg",
+                "overview": "The story of the life and career of the baseball hall of famer, Lou Gehrig.",
+                "vote_average": 7.3,
+                "vote_count": 108
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Random Harvest",
+            "second_label": "Art Direction: Cedric Gibbons, Randall Duell; Interior Decoration: Edwin B. Willis, Jack Moore",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1943,
+            "tmdb": {
+                "id": 22387,
+                "original_title": "Random Harvest",
+                "title": "Na Noite do Passado",
+                "release_date": "1942-12-17",
+                "backdrop_path": "/7p5XTeAZAIXykWZhWHgkjBOjlPo.jpg",
+                "poster_path": "/x5W3FOGmifwK3e8IhLDQYvURIw2.jpg",
+                "overview": "An amnesiac World War I vet falls in love with a music hall star, only to suffer an accident which restores his original memories but erases his post-War life.",
+                "vote_average": 7.2,
+                "vote_count": 92
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Shanghai Gesture",
+            "second_label": "Art Direction: Boris Leven; Interior Decoration: Boris Leven",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1943,
+            "tmdb": {
+                "id": 42678,
+                "original_title": "The Shanghai Gesture",
+                "title": "The Shanghai Gesture",
+                "release_date": "1941-12-25",
+                "backdrop_path": "/hYYXrII2LJvv40GlhSGVZiqXDjL.jpg",
+                "poster_path": "/aHDmFi7Q9M6mpMxRm7VpiXwmTYC.jpg",
+                "overview": "A gambling queen uses blackmail to stop a British financier from closing her Chinese clip joint.",
+                "vote_average": 6.2,
+                "vote_count": 61
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Silver Queen",
+            "second_label": "Art Direction: Ralph Berger; Interior Decoration: Emile Kuri",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1943,
+            "tmdb": {
+                "id": 110306,
+                "original_title": "Silver Queen",
+                "title": "Silver Queen",
+                "release_date": "1942-11-14",
+                "backdrop_path": "/hsAai0YZvo0VY91S4u6DZ3W6Ll0.jpg",
+                "poster_path": "/8XDGox4mYXpI1MLxr2WGRaDXQDG.jpg",
+                "overview": "A beautiful heiress is an excellent poker player. Her comfortable life changes when her father and his fortune die during market crash of the 1800's.",
+                "vote_average": 5.5,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Spoilers",
+            "second_label": "Art Direction: Jack Otterson, John B. Goodman; Interior Decoration: Russell A. Gausman, Edward R. Robinson",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1943,
+            "tmdb": {
+                "id": 43785,
+                "original_title": "The Spoilers",
+                "title": "A Indom\u00e1vel",
+                "release_date": "1942-06-11",
+                "backdrop_path": "/y7bNvayEr7cFSCyEwNCeTTIihuB.jpg",
+                "poster_path": "/tNrsmTHpjxtnag30UtFCcuvf49S.jpg",
+                "overview": "When honest ship captain Roy Glennister gets swindled out of his mine claim, he turns to saloon singer Cherry Malotte for assistance in his battle with no-good town kingpin Alexander McNamara.",
+                "vote_average": 6.3,
+                "vote_count": 51
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Take a Letter, Darling",
+            "second_label": "Art Direction: Hans Dreier, Roland Anderson; Interior Decoration: Sam Comer",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1943,
+            "tmdb": {
+                "id": 121010,
+                "original_title": "Take a Letter, Darling",
+                "title": "Ela e o Secret\u00e1rio",
+                "release_date": "1942-05-06",
+                "backdrop_path": "/7Py1UrKqnVLIOKneFNbyvKOXSmy.jpg",
+                "poster_path": "/fmKtjkehEygNB1GqktSRwEfoxbT.jpg",
+                "overview": "A struggling painter takes a job as a secretary to a female advertising executive. While working to obtain an account from a tobacco company, they end up falling in love.",
+                "vote_average": 6.5,
+                "vote_count": 11
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Talk of the Town",
+            "second_label": "Art Direction: Lionel Banks, Rudolph Sternad; Interior Decoration: Fay Babcock",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1943,
+            "tmdb": {
+                "id": 23159,
+                "original_title": "The Talk of the Town",
+                "title": "E a Vida Continua",
+                "release_date": "1942-08-20",
+                "backdrop_path": "/5DYlPcpI5XQq1IrYt3AZGzqbgWZ.jpg",
+                "poster_path": "/eok5KEipiq3y6KhAryUkIqQpxWM.jpg",
+                "overview": "When the Holmes Woolen Mill burns down, political activist Leopold Dilg is jailed for arson and accidental murder. Escaping, Leopold hides out in the home of his childhood sweetheart Nora Shelley... which she has just rented to unsuspecting law professor Michael Lightcap.",
+                "vote_average": 7.2,
+                "vote_count": 91
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction (Color)": [
+        {
+            "first_label": "My Gal Sal",
+            "second_label": "Art Direction: Richard Day, Joseph Wright; Interior Decoration: Thomas Little",
+            "category": "Art Direction (Color)",
+            "year": 1943,
+            "tmdb": {
+                "id": 109933,
+                "original_title": "My Gal Sal",
+                "title": "Minha Namorada Favorita",
+                "release_date": "1942-04-30",
+                "backdrop_path": "/hLAETht8ievo2zMIRSRHWGECSPG.jpg",
+                "poster_path": "/5STz94X5VX8ia9h4e95QEUVkKsq.jpg",
+                "overview": "Conta o in\u00edcio da vida do compositor da d\u00e9cada de 1890, Paul Dresser, quando ele supera seu trabalho como artista de carnaval e se muda para a sociedade de Nova York, escrevendo uma m\u00fasica de sucesso ap\u00f3s a outra. Apesar de seu comportamento ego\u00edsta, ele consegue conquistar Sally Elliott, uma das cantoras mais populares da \u00e9poca. (e 10 - Estimado 10 Anos)",
+                "vote_average": 5.8,
+                "vote_count": 12
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Arabian Nights",
+            "second_label": "Art Direction: Jack Otterson, Alexander Golitzen; Interior Decoration: Russell A. Gausman, Ira S. Webb",
+            "category": "Art Direction (Color)",
+            "year": 1943,
+            "tmdb": {
+                "id": 60488,
+                "original_title": "Arabian Nights",
+                "title": "As Mil e Uma Noites",
+                "release_date": "1942-12-25",
+                "backdrop_path": "/cNeglgSiXLyGAV7n3WapAxwH2zR.jpg",
+                "poster_path": "/vy0QeFMP56zyAmhcEN0z423cKJn.jpg",
+                "overview": "Neste incr\u00edvel \u00e9pico das Ar\u00e1bias, os personagens das hist\u00f3rias que encantaram leitores no mundo todo ganham vida com toda a sua paix\u00e3o e gl\u00f3ria atrav\u00e9s da hist\u00f3ria de irm\u00e3os que lutam entre si pelo poder pol\u00edtico e pelo amor de Sherazade (interpretada pela encantadora e carism\u00e1tica Maria Montez). Contando com um elenco memor\u00e1vel, cen\u00e1rios suntuosos e figurinos ex\u00f3ticos, \u201cAs Mil e Uma Noites\u201d \u00e9 um cl\u00e1ssico imperd\u00edvel que j\u00e1 encantou plat\u00e9ias de todas as idades no mundo todo!",
+                "vote_average": 5.9,
+                "vote_count": 43
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Captains of the Clouds",
+            "second_label": "Art Direction: Ted Smith; Interior Decoration: Casey Roberts",
+            "category": "Art Direction (Color)",
+            "year": 1943,
+            "tmdb": {
+                "id": 32921,
+                "original_title": "Captains of the Clouds",
+                "title": "Cors\u00e1rios das Nuvens",
+                "release_date": "1942-02-12",
+                "backdrop_path": "/x7fyJc3SdN2lCl7jgKnh6Ym9ZLj.jpg",
+                "poster_path": "/cCFsU3PbbQU530aB6SCzi0PDRna.jpg",
+                "overview": "Inspired by Churchill's Dunkirk speech, brash, undisciplined Canadian bush pilot Brian MacLean and three friends enlist in the RCAF.",
+                "vote_average": 6.5,
+                "vote_count": 25
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jungle Book",
+            "second_label": "Art Direction: Vincent Korda; Interior Decoration: Julia Heron",
+            "category": "Art Direction (Color)",
+            "year": 1943,
+            "tmdb": {
+                "id": 23033,
+                "original_title": "Jungle Book",
+                "title": "Mogli: O Menino Lobo",
+                "release_date": "1942-04-03",
+                "backdrop_path": "/7m7APJ99k0A6ojExFTKI3lU3ijV.jpg",
+                "poster_path": "/zYkffyYCFO1Li1f20MyaAYUaYC4.jpg",
+                "overview": "Adapta\u00e7\u00e3o da eterna aventura na floresta escreita por Rudyard Kipling. Estrelando Sabu, o jovem indiano que ganhou fama internacional como Mogli, um \u00f3rf\u00e3o criado por lobos e amigo de todos os animais selvagens. Quando Mogli volta para sua terra natal, j\u00e1 crescido, ele descobre os estranhos modos dos homens. L\u00e1 ele encontra Mahala, uma alde\u00e3 encantadora, que fica impressionada com seus amigos animais. Juntos, eles fazem uma viagem atrav\u00e9s da floresta, at\u00e9 encontrarem ru\u00ednas cheias de tesouros de uma civiliza\u00e7\u00e3o perdida.",
+                "vote_average": 6.2,
+                "vote_count": 97
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Reap the Wild Wind",
+            "second_label": "Art Direction: Hans Dreier, Roland Anderson; Interior Decoration: George Sawley",
+            "category": "Art Direction (Color)",
+            "year": 1943,
+            "tmdb": {
+                "id": 63617,
+                "original_title": "Reap the Wild Wind",
+                "title": "Vendaval de Paix\u00f5es",
+                "release_date": "1942-03-26",
+                "backdrop_path": "/eCa0lE8q6r9zf18jRkraDdOvWOr.jpg",
+                "poster_path": "/xlHqEEFochNN1Jy9aTPGcrhQcLR.jpg",
+                "overview": "Loxi \u00e9 a jovem empres\u00e1ria que cuida de uma empresa de manuten\u00e7\u00e3o de barcos. O neg\u00f3cio \u00e9 muito lucrativo, uma vez que a costa da Fl\u00f3rida em 1840 possui \u00e1guas rasas e coberta de corais. Quando resgata um navio bastante danificado, Loxi conhece o capit\u00e3o Jack Stuart, por quem se apaixona. A ponto de lutar ao lado do amado para convencer os propriet\u00e1rios do barco que Stuart n\u00e3o teve nenhuma culpa nos estragos. O romance entre eles estar\u00e1 em risco quando o advogado contratado por ela, Stephen Tolliver, tamb\u00e9m se apaixona pela mo\u00e7a.",
+                "vote_average": 6.5,
+                "vote_count": 47
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography (Black-and-White)": [
+        {
+            "first_label": "Mrs. Miniver",
+            "second_label": "Joseph Ruttenberg",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1943,
+            "tmdb": {
+                "id": 27367,
+                "original_title": "Mrs. Miniver",
+                "title": "Rosa de Esperan\u00e7a",
+                "release_date": "1942-07-03",
+                "backdrop_path": "/kKD59GDPeapxwKp5FNSOLd7CQWe.jpg",
+                "poster_path": "/8EaKyKp3lW5YCDHDnF4wZ5lqIqo.jpg",
+                "overview": "Com o in\u00edcio da segunda guerra mundial, Vin, o filho mais velho, regressa da universidade e se apaixona por Carol Beldon, neta de Lady Beldon, uma aristocrata de Beldon Hall, uma mans\u00e3o vizinha. Apesar de discord\u00e2ncias iniciais, se casam. Com a iminente amea\u00e7a de ataques a\u00e9reos \u00e0 Inglaterra, Vin decide fazer sua parte e se junta \u00e0 For\u00e7a A\u00e9rea Real como piloto. \u00c9 enviado para uma base localizada perto da casa dos pais. Clem ajuda na Opera\u00e7\u00e3o Dynamo com o barco a motor da fam\u00edlia. Sozinha em casa, a Sra. Miniver encontra um piloto alem\u00e3o ferido em seu jardim. Ela o alimenta, o desarma calmamente e avisa \u00e0s autoridades locais.",
+                "vote_average": 7.021,
+                "vote_count": 238
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Kings Row",
+            "second_label": "James Wong Howe",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1943,
+            "tmdb": {
+                "id": 53779,
+                "original_title": "Kings Row",
+                "title": "Em Cada Cora\u00e7\u00e3o um Pecado",
+                "release_date": "1942-02-02",
+                "backdrop_path": "/2l4BX8926AVZBZmogHBM12ZoACl.jpg",
+                "poster_path": "/yHJad38YAYGrrYtsc8oHZR9mzVk.jpg",
+                "overview": "Os amigos Parris e Drake crescem em uma pequena cidade americana chamada Kings Row, aparentemente tranq\u00fcila e pacata. J\u00e1 adultos, eles come\u00e7am a descobrir a verdade por tr\u00e1s da falsa perfei\u00e7\u00e3o da cidade, atrav\u00e9s das atitudes e segredos que cada morador esconde.",
+                "vote_average": 7.2,
+                "vote_count": 35
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Magnificent Ambersons",
+            "second_label": "Stanley Cortez",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1943,
+            "tmdb": {
+                "id": 965,
+                "original_title": "The Magnificent Ambersons",
+                "title": "Soberba",
+                "release_date": "1942-07-10",
+                "backdrop_path": "/rn7M9za8zr1gm5HqJKW8Qk6azeM.jpg",
+                "poster_path": "/ki1lnSzJhIjx42K8iRlSwEpGS7R.jpg",
+                "overview": "Rica fam\u00edlia de uma cidadezinha do sul dos Estados Unidos v\u00ea sua supremacia social pouco a pouco comprometida pela industrializa\u00e7\u00e3o. Seu jovem e mimado herdeiro se coloca entre a m\u00e3e vi\u00fava e o homem que ela sempre amou.",
+                "vote_average": 7.316,
+                "vote_count": 394
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Moontide",
+            "second_label": "Charles Clarke",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1943,
+            "tmdb": {
+                "id": 42062,
+                "original_title": "Moontide",
+                "title": "Moontide",
+                "release_date": "1942-05-29",
+                "backdrop_path": "/8y2okDXjjRJEiJzZ63tr9Ai3wHo.jpg",
+                "poster_path": "/iEKolHUnfTBXCBDKxETHd1bAlhe.jpg",
+                "overview": "After a drunken night out, a longshoreman thinks he may have killed a man.",
+                "vote_average": 6.4,
+                "vote_count": 31
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Pied Piper",
+            "second_label": "Edward Cronjager",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1943,
+            "tmdb": {
+                "id": 84085,
+                "original_title": "The Pied Piper",
+                "title": "Abandonados",
+                "release_date": "1942-08-21",
+                "backdrop_path": "/1vSaNw265Kvw44cudV9qf59KgWj.jpg",
+                "poster_path": "/sqotZHwwBq9LJrTzXJow6Uos6Up.jpg",
+                "overview": "Ao viajar na Fran\u00e7a durante a invas\u00e3o nazista de 1940, um ingl\u00eas acaba tendo que cuidar de um grupo de crian\u00e7as refugiadas.",
+                "vote_average": 6.8,
+                "vote_count": 10
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Pride of the Yankees",
+            "second_label": "\"The Pride of the Yankees\" Rudolph Mat",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1943,
+            "tmdb": {
+                "id": 19140,
+                "original_title": "The Pride of the Yankees",
+                "title": "The Pride of the Yankees",
+                "release_date": "1942-07-14",
+                "backdrop_path": "/bd57iZNhXjX4Olm22XqXHondbBL.jpg",
+                "poster_path": "/tbSMm0IAa5WgTcyoeUn7AKAViVY.jpg",
+                "overview": "The story of the life and career of the baseball hall of famer, Lou Gehrig.",
+                "vote_average": 7.3,
+                "vote_count": 108
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Take a Letter, Darling",
+            "second_label": "John Mescall",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1943,
+            "tmdb": {
+                "id": 121010,
+                "original_title": "Take a Letter, Darling",
+                "title": "Ela e o Secret\u00e1rio",
+                "release_date": "1942-05-06",
+                "backdrop_path": "/7Py1UrKqnVLIOKneFNbyvKOXSmy.jpg",
+                "poster_path": "/fmKtjkehEygNB1GqktSRwEfoxbT.jpg",
+                "overview": "A struggling painter takes a job as a secretary to a female advertising executive. While working to obtain an account from a tobacco company, they end up falling in love.",
+                "vote_average": 6.5,
+                "vote_count": 11
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Talk of the Town",
+            "second_label": "Ted Tetzlaff",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1943,
+            "tmdb": {
+                "id": 23159,
+                "original_title": "The Talk of the Town",
+                "title": "E a Vida Continua",
+                "release_date": "1942-08-20",
+                "backdrop_path": "/5DYlPcpI5XQq1IrYt3AZGzqbgWZ.jpg",
+                "poster_path": "/eok5KEipiq3y6KhAryUkIqQpxWM.jpg",
+                "overview": "When the Holmes Woolen Mill burns down, political activist Leopold Dilg is jailed for arson and accidental murder. Escaping, Leopold hides out in the home of his childhood sweetheart Nora Shelley... which she has just rented to unsuspecting law professor Michael Lightcap.",
+                "vote_average": 7.2,
+                "vote_count": 91
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ten Gentlemen from West Point",
+            "second_label": "Leon Shamroy",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1943,
+            "tmdb": {
+                "id": 218302,
+                "original_title": "Ten Gentlemen from West Point",
+                "title": "Ten Gentlemen from West Point",
+                "release_date": "1942-06-26",
+                "backdrop_path": "/guSynnwVPYE2SHkyCNmrszSyoeo.jpg",
+                "poster_path": "/cxjYonGmQ4SuneUfm4sMNgJkSvn.jpg",
+                "overview": "This historical drama tells the story of the first class to graduate from the U.S. Military Academy at West Point. In the early 19th Century, Congress appropriated the money to build the school, but opponents who believed it to be an illegitimate expansion of the powers of the federal government decided to sabotage the school. They put the hard-as-nails Major Sam Carter in charge of the academy, and he ruthlessly put the recruits through grueling training -- until only ten prospective soldiers remained. They include Dawson, a patriotic farm boy and Howard Shelton, a selfish playboy who has come to West Point only because of its prestige. The two vie for Carolyn Bainbridge, while they, along with the other eight, try convince Carter that the school is worth keeping.",
+                "vote_average": 5.8,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "This above All",
+            "second_label": "Arthur Miller",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1943,
+            "tmdb": {
+                "id": 110628,
+                "original_title": "This Above All",
+                "title": "This Above All",
+                "release_date": "1942-05-12",
+                "backdrop_path": "/2iGtBG5UG3FiTVuKxh6Zlx3FyVY.jpg",
+                "poster_path": "/8AkgCCS7yZyoK58v6j5LnqGWyr.jpg",
+                "overview": "In 1940 England, aristocratic Prudence Cathaway alarms her snobbish parents by joining the WAF service branch. She soon meets and falls in love with the brooding Clive Briggs, despite his prejudice against the upper classes, and agrees to spend a week with him at a Dover hotel. When Clive's soldier friend, Monty, arrives to retrieve him, Prudence learns that Clive went AWOL after Dunkirk, and urges him to recall why England must fight the war.",
+                "vote_average": 6.6,
+                "vote_count": 15
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography (Color)": [
+        {
+            "first_label": "The Black Swan",
+            "second_label": "Leon Shamroy",
+            "category": "Cinematography (Color)",
+            "year": 1943,
+            "tmdb": {
+                "id": 29882,
+                "original_title": "The Black Swan",
+                "title": "O Cisne Negro",
+                "release_date": "1942-12-04",
+                "backdrop_path": "/vK6SQRCjeaJUKKcpcv9urqSE5pt.jpg",
+                "poster_path": "/xGeoslDZmLq0k5bIN71sswdzm7Y.jpg",
+                "overview": "Quando o not\u00f3rio pirata Henry Morgan \u00e9 nomeado governador da Jamaica, ele pede a ajuda de alguns de seus ex-parceiros para livrar o Caribe dos Bucaneiros. Quando um deles aparentemente seq\u00fcestra a linda filha do governador anterior e se junta aos rebeldes, as coisas est\u00e3o prontas para uma briga. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.3,
+                "vote_count": 76
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Arabian Nights",
+            "second_label": "Milton Krasner, William V. Skall, W. Howard Greene",
+            "category": "Cinematography (Color)",
+            "year": 1943,
+            "tmdb": {
+                "id": 60488,
+                "original_title": "Arabian Nights",
+                "title": "As Mil e Uma Noites",
+                "release_date": "1942-12-25",
+                "backdrop_path": "/cNeglgSiXLyGAV7n3WapAxwH2zR.jpg",
+                "poster_path": "/vy0QeFMP56zyAmhcEN0z423cKJn.jpg",
+                "overview": "Neste incr\u00edvel \u00e9pico das Ar\u00e1bias, os personagens das hist\u00f3rias que encantaram leitores no mundo todo ganham vida com toda a sua paix\u00e3o e gl\u00f3ria atrav\u00e9s da hist\u00f3ria de irm\u00e3os que lutam entre si pelo poder pol\u00edtico e pelo amor de Sherazade (interpretada pela encantadora e carism\u00e1tica Maria Montez). Contando com um elenco memor\u00e1vel, cen\u00e1rios suntuosos e figurinos ex\u00f3ticos, \u201cAs Mil e Uma Noites\u201d \u00e9 um cl\u00e1ssico imperd\u00edvel que j\u00e1 encantou plat\u00e9ias de todas as idades no mundo todo!",
+                "vote_average": 5.9,
+                "vote_count": 43
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Captains of the Clouds",
+            "second_label": "Sol Polito",
+            "category": "Cinematography (Color)",
+            "year": 1943,
+            "tmdb": {
+                "id": 32921,
+                "original_title": "Captains of the Clouds",
+                "title": "Cors\u00e1rios das Nuvens",
+                "release_date": "1942-02-12",
+                "backdrop_path": "/x7fyJc3SdN2lCl7jgKnh6Ym9ZLj.jpg",
+                "poster_path": "/cCFsU3PbbQU530aB6SCzi0PDRna.jpg",
+                "overview": "Inspired by Churchill's Dunkirk speech, brash, undisciplined Canadian bush pilot Brian MacLean and three friends enlist in the RCAF.",
+                "vote_average": 6.5,
+                "vote_count": 25
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jungle Book",
+            "second_label": "W. Howard Greene",
+            "category": "Cinematography (Color)",
+            "year": 1943,
+            "tmdb": {
+                "id": 23033,
+                "original_title": "Jungle Book",
+                "title": "Mogli: O Menino Lobo",
+                "release_date": "1942-04-03",
+                "backdrop_path": "/7m7APJ99k0A6ojExFTKI3lU3ijV.jpg",
+                "poster_path": "/zYkffyYCFO1Li1f20MyaAYUaYC4.jpg",
+                "overview": "Adapta\u00e7\u00e3o da eterna aventura na floresta escreita por Rudyard Kipling. Estrelando Sabu, o jovem indiano que ganhou fama internacional como Mogli, um \u00f3rf\u00e3o criado por lobos e amigo de todos os animais selvagens. Quando Mogli volta para sua terra natal, j\u00e1 crescido, ele descobre os estranhos modos dos homens. L\u00e1 ele encontra Mahala, uma alde\u00e3 encantadora, que fica impressionada com seus amigos animais. Juntos, eles fazem uma viagem atrav\u00e9s da floresta, at\u00e9 encontrarem ru\u00ednas cheias de tesouros de uma civiliza\u00e7\u00e3o perdida.",
+                "vote_average": 6.2,
+                "vote_count": 97
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Reap the Wild Wind",
+            "second_label": "Victor Milner, William V. Skall",
+            "category": "Cinematography (Color)",
+            "year": 1943,
+            "tmdb": {
+                "id": 63617,
+                "original_title": "Reap the Wild Wind",
+                "title": "Vendaval de Paix\u00f5es",
+                "release_date": "1942-03-26",
+                "backdrop_path": "/eCa0lE8q6r9zf18jRkraDdOvWOr.jpg",
+                "poster_path": "/xlHqEEFochNN1Jy9aTPGcrhQcLR.jpg",
+                "overview": "Loxi \u00e9 a jovem empres\u00e1ria que cuida de uma empresa de manuten\u00e7\u00e3o de barcos. O neg\u00f3cio \u00e9 muito lucrativo, uma vez que a costa da Fl\u00f3rida em 1840 possui \u00e1guas rasas e coberta de corais. Quando resgata um navio bastante danificado, Loxi conhece o capit\u00e3o Jack Stuart, por quem se apaixona. A ponto de lutar ao lado do amado para convencer os propriet\u00e1rios do barco que Stuart n\u00e3o teve nenhuma culpa nos estragos. O romance entre eles estar\u00e1 em risco quando o advogado contratado por ela, Stephen Tolliver, tamb\u00e9m se apaixona pela mo\u00e7a.",
+                "vote_average": 6.5,
+                "vote_count": 47
+            },
+            "winner": false
+        },
+        {
+            "first_label": "To the Shores of Tripoli",
+            "second_label": "Edward Cronjager, William V. Skall",
+            "category": "Cinematography (Color)",
+            "year": 1943,
+            "tmdb": {
+                "id": 58035,
+                "original_title": "To the Shores of Tripoli",
+                "title": "To the Shores of Tripoli",
+                "release_date": "1942-11-09",
+                "backdrop_path": "/9hroLgCOlJXxR4vIjqWnSqnuMgE.jpg",
+                "poster_path": "/g7bECfkaJCN9M6ttpHwI5MLmEC7.jpg",
+                "overview": "Chronicle of a spoiled rich boy who joins the Marines with an off-handed attitude and finally becomes a battle-wise soldier.",
+                "vote_average": 5.1,
+                "vote_count": 14
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "Mrs. Miniver",
+            "second_label": "William Wyler",
+            "category": "Directing",
+            "year": 1943,
+            "tmdb": {
+                "id": 27367,
+                "original_title": "Mrs. Miniver",
+                "title": "Rosa de Esperan\u00e7a",
+                "release_date": "1942-07-03",
+                "backdrop_path": "/kKD59GDPeapxwKp5FNSOLd7CQWe.jpg",
+                "poster_path": "/8EaKyKp3lW5YCDHDnF4wZ5lqIqo.jpg",
+                "overview": "Com o in\u00edcio da segunda guerra mundial, Vin, o filho mais velho, regressa da universidade e se apaixona por Carol Beldon, neta de Lady Beldon, uma aristocrata de Beldon Hall, uma mans\u00e3o vizinha. Apesar de discord\u00e2ncias iniciais, se casam. Com a iminente amea\u00e7a de ataques a\u00e9reos \u00e0 Inglaterra, Vin decide fazer sua parte e se junta \u00e0 For\u00e7a A\u00e9rea Real como piloto. \u00c9 enviado para uma base localizada perto da casa dos pais. Clem ajuda na Opera\u00e7\u00e3o Dynamo com o barco a motor da fam\u00edlia. Sozinha em casa, a Sra. Miniver encontra um piloto alem\u00e3o ferido em seu jardim. Ela o alimenta, o desarma calmamente e avisa \u00e0s autoridades locais.",
+                "vote_average": 7.021,
+                "vote_count": 238
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Kings Row",
+            "second_label": "Sam Wood",
+            "category": "Directing",
+            "year": 1943,
+            "tmdb": {
+                "id": 53779,
+                "original_title": "Kings Row",
+                "title": "Em Cada Cora\u00e7\u00e3o um Pecado",
+                "release_date": "1942-02-02",
+                "backdrop_path": "/2l4BX8926AVZBZmogHBM12ZoACl.jpg",
+                "poster_path": "/yHJad38YAYGrrYtsc8oHZR9mzVk.jpg",
+                "overview": "Os amigos Parris e Drake crescem em uma pequena cidade americana chamada Kings Row, aparentemente tranq\u00fcila e pacata. J\u00e1 adultos, eles come\u00e7am a descobrir a verdade por tr\u00e1s da falsa perfei\u00e7\u00e3o da cidade, atrav\u00e9s das atitudes e segredos que cada morador esconde.",
+                "vote_average": 7.2,
+                "vote_count": 35
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Random Harvest",
+            "second_label": "Mervyn LeRoy",
+            "category": "Directing",
+            "year": 1943,
+            "tmdb": {
+                "id": 22387,
+                "original_title": "Random Harvest",
+                "title": "Na Noite do Passado",
+                "release_date": "1942-12-17",
+                "backdrop_path": "/7p5XTeAZAIXykWZhWHgkjBOjlPo.jpg",
+                "poster_path": "/x5W3FOGmifwK3e8IhLDQYvURIw2.jpg",
+                "overview": "An amnesiac World War I vet falls in love with a music hall star, only to suffer an accident which restores his original memories but erases his post-War life.",
+                "vote_average": 7.2,
+                "vote_count": 92
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Wake Island",
+            "second_label": "John Farrow",
+            "category": "Directing",
+            "year": 1943,
+            "tmdb": {
+                "id": 43786,
+                "original_title": "Wake Island",
+                "title": "Nossos Mortos Ser\u00e3o Vingados",
+                "release_date": "1942-08-11",
+                "backdrop_path": "/g9kAFh9Xp05fQsbv12MbeQGBpxS.jpg",
+                "poster_path": "/8ytAmQG8E03niY1lqSCHd0w1ghI.jpg",
+                "overview": "In late 1941, with no hope of relief or re-supply, a small band of United States Marines tries to keep the Japanese Navy from capturing their island base.",
+                "vote_average": 5.5,
+                "vote_count": 23
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Yankee Doodle Dandy",
+            "second_label": "Michael Curtiz",
+            "category": "Directing",
+            "year": 1943,
+            "tmdb": {
+                "id": 3087,
+                "original_title": "Yankee Doodle Dandy",
+                "title": "A Can\u00e7\u00e3o da Vit\u00f3ria",
+                "release_date": "1942-05-29",
+                "backdrop_path": "/mVhtWsCu6z58fmpIP7SHcwdCGDz.jpg",
+                "poster_path": "/cYCnnBVjZ8G9Nv0J4bfz56n8kfQ.jpg",
+                "overview": "George M. Cohan (James Cagney) conta sua vida em flashback, em um tom modesto, a Franklin Roosevelt (Jack Young). Ele foi um lend\u00e1rio artista da Broadway que viveu a \u00e9poca de ouro do teatro musical nos Estados Unidos, hist\u00f3ria que \u00e9 contada atrav\u00e9s de n\u00fameros de dan\u00e7a e can\u00e7\u00f5es. Cohan passou mais de 55 anos nos palcos, estrelou mais de 30 pe\u00e7as e podia dizer por a\u00ed que j\u00e1 havia cantado e dan\u00e7ado mais de 500 can\u00e7\u00f5es. Por isso tudo, sua hist\u00f3ria pessoal se confunde com a hist\u00f3ria americana.",
+                "vote_average": 7.0,
+                "vote_count": 196
+            },
+            "winner": false
+        }
+    ],
+    "Documentary": [
+        {
+            "first_label": "The Battle of Midway",
+            "second_label": "United States Navy",
+            "category": "Documentary",
+            "year": 1943,
+            "tmdb": {
+                "id": 56143,
+                "original_title": "The Battle of Midway",
+                "title": "A Batalha de Midway",
+                "release_date": "1942-09-14",
+                "backdrop_path": "/k2dlZPa0YbAWUdpAkphVV73iAOL.jpg",
+                "poster_path": "/5Hisq6sR3sOveUPeBqidzF7JsQ6.jpg",
+                "overview": "O ataque japon\u00eas a ilha de Midway no oceano pacifico em junho de 1942, filmado no momento em que aconteceu.",
+                "vote_average": 5.8,
+                "vote_count": 70
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Kokoda Front Line!",
+            "second_label": "Australian News & Information Bureau",
+            "category": "Documentary",
+            "year": 1943,
+            "tmdb": {
+                "id": 93331,
+                "original_title": "Kokoda Front Line!",
+                "title": "Kokoda Front Line!",
+                "release_date": "1942-09-18",
+                "backdrop_path": "/opaFvxNuknRFiwG1Lq5NTe2UKVk.jpg",
+                "poster_path": "/ggejanvxbBPxSDPI8cHX14dbEYf.jpg",
+                "overview": "This iconic and Academy Award-winning newsreel shot by Damien Parer contains some of the most recognised images of Australian troops in the Second World War.",
+                "vote_average": 5.2,
+                "vote_count": 17
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Moscow Strikes Back",
+            "second_label": "Artkino",
+            "category": "Documentary",
+            "year": 1943,
+            "tmdb": {
+                "id": 93333,
+                "original_title": "\u0420\u0430\u0437\u0433\u0440\u043e\u043c \u043d\u0435\u043c\u0435\u0446\u043a\u0438\u0445 \u0432\u043e\u0439\u0441\u043a \u043f\u043e\u0434 \u041c\u043e\u0441\u043a\u0432\u043e\u0439",
+                "title": "Moscow Strikes Back",
+                "release_date": "1942-02-23",
+                "backdrop_path": "/500oqswdUtfBOtd3WAVSBFpRcFe.jpg",
+                "poster_path": "/vbA0HK1TwPPZWo9EeucaCVwtlLp.jpg",
+                "overview": "Soviet documentary about the defeat of the Nazis near Moscow. Warning - graphic images. Edward G. Robinson narrates the English language version.",
+                "vote_average": 4.7,
+                "vote_count": 11
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Prelude to War",
+            "second_label": "United States Army Special Services",
+            "category": "Documentary",
+            "year": 1943,
+            "tmdb": {
+                "id": 23336,
+                "original_title": "Prelude to War",
+                "title": "Prel\u00fadio de uma Guerra",
+                "release_date": "1942-05-27",
+                "backdrop_path": "/bipcEMQU2P79CdHr1ZStfWDK8Pt.jpg",
+                "poster_path": "/n0zJu9L8OjSLtmjL1LalHm5jXxT.jpg",
+                "overview": "\"Prel\u00fadio de uma Guerra\" foi o primeiro da s\u00e9rie de filmes-propaganda \"Porque lutamos\", de Frank Capra. Ela foi feita para convencer os americanos da necessidade de combater as for\u00e7as do Eixo durante a Segunda Guerra Mundial.",
+                "vote_average": 6.4,
+                "vote_count": 65
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Africa, Prelude to Victory",
+            "second_label": "The March of Time",
+            "category": "Documentary",
+            "year": 1943,
+            "tmdb": {
+                "id": 236844,
+                "original_title": "Africa, Prelude to Victory",
+                "title": "Africa, Prelude to Victory",
+                "release_date": "1942-12-04",
+                "backdrop_path": null,
+                "poster_path": "/4xSfC9FPS4FsVFDuYKH7AtS5J51.jpg",
+                "overview": "Covers the planning and execution of the great Allied Military Maneuver in North Africa",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Combat Report",
+            "second_label": "United States Army Signal Corps",
+            "category": "Documentary",
+            "year": 1943,
+            "tmdb": {
+                "id": 236846,
+                "original_title": "Combat Report",
+                "title": "Combat Report",
+                "release_date": "1942-01-01",
+                "backdrop_path": null,
+                "poster_path": "/uIC6xfcgPC9ZtBnYNTgneW0yJMz.jpg",
+                "overview": "1942 Oscar nominated documentary",
+                "vote_average": 5.5,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Conquer by the Clock",
+            "second_label": "Frederic Ullman, Jr., Producer",
+            "category": "Documentary",
+            "year": 1943,
+            "tmdb": {
+                "id": 236847,
+                "original_title": "Conquer by the Clock",
+                "title": "Conquer by the Clock",
+                "release_date": "1942-10-27",
+                "backdrop_path": null,
+                "poster_path": "/5wXp94p193vhKLRAjl0PM2DHxg0.jpg",
+                "overview": "Conquer by the Clock was a short dramatic propaganda film produced by the RKO Path\u00e9 in 1942 to encourage wartime industrial production. It was nominated for an Academy Award for Best Documentary Feature in 1943.",
+                "vote_average": 5.0,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Grain That Built a Hemisphere",
+            "second_label": "Walt Disney, Producer",
+            "category": "Documentary",
+            "year": 1943,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Henry Browne, Farmer",
+            "second_label": "United States Department of Agriculture",
+            "category": "Documentary",
+            "year": 1943,
+            "tmdb": {
+                "id": 236848,
+                "original_title": "Henry Browne, Farmer",
+                "title": "Henry Browne, Farmer",
+                "release_date": "1942-11-15",
+                "backdrop_path": null,
+                "poster_path": "/8Ch8DdldzrQ1kqJul7wGuLhIgqF.jpg",
+                "overview": "Henry Browne, an African American farmer, and his family are profiled in this film. The important job of a farmer during times of war is highlighted, specifically his efforts growing peanuts and cotton. This role is made even more poingnant when they visit the eldest son who is a cadet in the 99th Pursuit Squadron.",
+                "vote_average": 4.8,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "High over the Borders",
+            "second_label": "National Film Board of Canada",
+            "category": "Documentary",
+            "year": 1943,
+            "tmdb": {
+                "id": 236849,
+                "original_title": "High Over the Borders",
+                "title": "High Over the Borders",
+                "release_date": "1942-01-01",
+                "backdrop_path": null,
+                "poster_path": "/ldSpwIAaahxFgFOZ43x7BOMaVnU.jpg",
+                "overview": "Take flight with thousands of wild birds who defy distance and international boundaries in this short documentary about their twice-yearly migration.",
+                "vote_average": 5.8,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "High Stakes in the East",
+            "second_label": "The Netherlands Information Bureau",
+            "category": "Documentary",
+            "year": 1943,
+            "tmdb": {
+                "id": 236850,
+                "original_title": "High Stakes in the East",
+                "title": "High Stakes in the East",
+                "release_date": "1942-01-01",
+                "backdrop_path": null,
+                "poster_path": "/89U7sQHz9dphISirLT8bX3rNlBS.jpg",
+                "overview": "In the aftermath of the Allied defeat in the battle for Java, after which the island fell into Japanese hands, this propaganda film made for American audiences shows what has been lost.",
+                "vote_average": 5.5,
+                "vote_count": 1
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Inside Fighting China",
+            "second_label": "National Film Board of Canada",
+            "category": "Documentary",
+            "year": 1943,
+            "tmdb": {
+                "id": 236851,
+                "original_title": "Inside Fighting China",
+                "title": "Inside Fighting China",
+                "release_date": "1942-01-01",
+                "backdrop_path": null,
+                "poster_path": "/eEcKubPtqSfwll6QZNtF8SU2niE.jpg",
+                "overview": "This wartime newsreel from 1942 documents the efforts of China to deal with Japanese aggression.",
+                "vote_average": 4.3,
+                "vote_count": 6
+            },
+            "winner": false
+        },
+        {
+            "first_label": "It's Everybody's War",
+            "second_label": "United States Office of War Information",
+            "category": "Documentary",
+            "year": 1943,
+            "tmdb": {
+                "id": 236852,
+                "original_title": "It's Everybody's War",
+                "title": "It's Everybody's War",
+                "release_date": "1942-09-06",
+                "backdrop_path": null,
+                "poster_path": "/w7Dwh8cykXm7EbhVqSHMC1cd4d4.jpg",
+                "overview": "Wartime documentary propagandizing for greater participation in the U.S. war effort during the Second World War.",
+                "vote_average": 5.0,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Listen to Britain",
+            "second_label": "British Ministry of Information",
+            "category": "Documentary",
+            "year": 1943,
+            "tmdb": {
+                "id": 88609,
+                "original_title": "Listen to Britain",
+                "title": "O Homem Que Ouvia a Gr\u00e3-Bretanha",
+                "release_date": "1942-04-01",
+                "backdrop_path": "/lHKMzZ61pKarFWSrfpJ46z3hXDO.jpg",
+                "poster_path": "/bOkCsPLAi5wVEMJngDflGXCuCUw.jpg",
+                "overview": "Um retrato da vida na Inglaterra durante a Segunda Guerra Mundial. O diretor Humphrey Jennings exp\u00f5e diversos aspectos da vida civil, al\u00e9m do tumulto e priva\u00e7\u00f5es causados pela guerra, tudo sem narra\u00e7\u00e3o.",
+                "vote_average": 6.1,
+                "vote_count": 54
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Little Belgium",
+            "second_label": "Belgian Ministry of Information",
+            "category": "Documentary",
+            "year": 1943,
+            "tmdb": {
+                "id": 236853,
+                "original_title": "Little Belgium",
+                "title": "Little Belgium",
+                "release_date": "1942-01-01",
+                "backdrop_path": null,
+                "poster_path": "/umFOX6TApibV3IKt1y75Y3d2nkb.jpg",
+                "overview": "A profile of the more than 2,000 Belgian refugees in the fishing port of Brixham.",
+                "vote_average": 5.5,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Little Isles of Freedom",
+            "second_label": "Victor Stoloff and Edgar Loew, Producers",
+            "category": "Documentary",
+            "year": 1943,
+            "tmdb": {
+                "id": 236854,
+                "original_title": "Little Isles of Freedom",
+                "title": "Little Isles of Freedom",
+                "release_date": "1942-01-01",
+                "backdrop_path": null,
+                "poster_path": "/zaxnDGHQp2s5hml2wOXfI80OUKv.jpg",
+                "overview": "1942 Oscar nominated documentary",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mr. Blabbermouth!",
+            "second_label": "United States Office of War Information",
+            "category": "Documentary",
+            "year": 1943,
+            "tmdb": {
+                "id": 100255,
+                "original_title": "Mr. Blabbermouth!",
+                "title": "Mr. Blabbermouth!",
+                "release_date": "1942-08-08",
+                "backdrop_path": null,
+                "poster_path": "/zUfcNS8UHGGRslteCeDenL7QfqC.jpg",
+                "overview": "Following Japan's attack on Pearl Harbor, America was rife with rumors about the size of Japan's armed forces and how well-equipped they were to wage war against the U.S. Using animation, the first part of this film dispels these rumors by showing that the U.S. had more raw materials and more fighting ships. The narrator also cautions moviegoers against spreading rumors (which are often initiated by enemy infiltrators to create fear and dissention) and believing everything they read in the newspapers. Just because \"they say\" something, that doesn't make it true.",
+                "vote_average": 4.4,
+                "vote_count": 7
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mr. Gardenia Jones",
+            "second_label": "United States Office of War Information",
+            "category": "Documentary",
+            "year": 1943,
+            "tmdb": {
+                "id": 236855,
+                "original_title": "Mr. Gardenia Jones",
+                "title": "Mr. Gardenia Jones",
+                "release_date": "1942-05-29",
+                "backdrop_path": null,
+                "poster_path": "/loA23LVHX4C1boiFh26d2cNxMnr.jpg",
+                "overview": "Documentary short film depicting the work of the United Service Organizations (USO) in providing recreational and morale-boosting services for American troops.",
+                "vote_average": 4.2,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The New Spirit",
+            "second_label": "Walt Disney, Producer",
+            "category": "Documentary",
+            "year": 1943,
+            "tmdb": {
+                "id": 64701,
+                "original_title": "The New Spirit",
+                "title": "The New Spirit",
+                "release_date": "1942-01-22",
+                "backdrop_path": "/1m7qvvQpYZC6Pyai2DNyFCqeTSB.jpg",
+                "poster_path": "/sG5gPi4VNKVbhXsJYvSgEgrx7C7.jpg",
+                "overview": "Animated documentary promoting timely filing and payment of Federal income taxes, demonstrated by Donald Duck's difficulties with his tax return.",
+                "vote_average": 5.5,
+                "vote_count": 22
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Price of Victory",
+            "second_label": "William H. Pine, Producer",
+            "category": "Documentary",
+            "year": 1943,
+            "tmdb": {
+                "id": 236856,
+                "original_title": "The Price of Victory",
+                "title": "The Price of Victory",
+                "release_date": "1942-12-03",
+                "backdrop_path": null,
+                "poster_path": "/lMsxtlWlIH5ZASXBMh1Y5XW8DEy.jpg",
+                "overview": "U.S. Vice-President Henry Wallace narrates a patriotic, propaganda short designed to boost morale in the the early days of World War II.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Ship Is Born",
+            "second_label": "United States Merchant Marine",
+            "category": "Documentary",
+            "year": 1943,
+            "tmdb": {
+                "id": 236857,
+                "original_title": "A Ship Is Born",
+                "title": "A Ship Is Born",
+                "release_date": "1942-01-01",
+                "backdrop_path": null,
+                "poster_path": "/7cHwR4TqRc0PI4m0umaYBDL6jKd.jpg",
+                "overview": "This Vitaphone 'Technicolor Special' (production number 8001) portrays the behind-the-scenes story of the building and manning, during World War Two, of the USA supply line to Victory against the Axis powers, the United States Merchant Marine service.",
+                "vote_average": 4.3,
+                "vote_count": 6
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Twenty-One Miles",
+            "second_label": "British Ministry of Information",
+            "category": "Documentary",
+            "year": 1943,
+            "tmdb": {
+                "id": 236858,
+                "original_title": "Twenty-One Miles",
+                "title": "Twenty-One Miles",
+                "release_date": "1942-01-01",
+                "backdrop_path": null,
+                "poster_path": "/9fIaoYgvbj9o0KCKp6v8JFUSUJA.jpg",
+                "overview": "1942 Oscar nominated documentary.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "We Refuse to Die",
+            "second_label": "William C. Thomas, Producer",
+            "category": "Documentary",
+            "year": 1943,
+            "tmdb": {
+                "id": 236859,
+                "original_title": "We Refuse to Die",
+                "title": "We Refuse to Die",
+                "release_date": "1942-10-22",
+                "backdrop_path": null,
+                "poster_path": "/53ABxyPnrNU8uYn6HYrYmwMUJEa.jpg",
+                "overview": "1942 Oscar nominated documentary",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "White Eagle",
+            "second_label": "Concanen Films",
+            "category": "Documentary",
+            "year": 1943,
+            "tmdb": {
+                "id": 236861,
+                "original_title": "The White Eagle",
+                "title": "The White Eagle",
+                "release_date": "1942-01-03",
+                "backdrop_path": null,
+                "poster_path": "/KGXPPaPlAlClLHDujd1T3U5eRX.jpg",
+                "overview": "An Oscar-nominated British documentary about the Polish people who escaped Poland and were living in England during World War II, both civilians and soldiers.",
+                "vote_average": 5.0,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Winning Your Wings",
+            "second_label": "United States Army Air Force",
+            "category": "Documentary",
+            "year": 1943,
+            "tmdb": {
+                "id": 152237,
+                "original_title": "Winning Your Wings",
+                "title": "Winning Your Wings",
+                "release_date": "1942-05-28",
+                "backdrop_path": null,
+                "poster_path": "/pUgWvZXOWOvdoo9iwUxa9g19keC.jpg",
+                "overview": "Winning Your Wings is a 1942 short  American World War II  recruitment film produced by Warner Bros. Studios for the US Army Air Forces, starring Jimmy Stewart. It was aimed at young men who were thinking about joining the Air Force.",
+                "vote_average": 5.7,
+                "vote_count": 8
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "The Pride of the Yankees",
+            "second_label": "Daniel Mandell",
+            "category": "Film Editing",
+            "year": 1943,
+            "tmdb": {
+                "id": 19140,
+                "original_title": "The Pride of the Yankees",
+                "title": "The Pride of the Yankees",
+                "release_date": "1942-07-14",
+                "backdrop_path": "/bd57iZNhXjX4Olm22XqXHondbBL.jpg",
+                "poster_path": "/tbSMm0IAa5WgTcyoeUn7AKAViVY.jpg",
+                "overview": "The story of the life and career of the baseball hall of famer, Lou Gehrig.",
+                "vote_average": 7.3,
+                "vote_count": 108
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Mrs. Miniver",
+            "second_label": "Harold F. Kress",
+            "category": "Film Editing",
+            "year": 1943,
+            "tmdb": {
+                "id": 27367,
+                "original_title": "Mrs. Miniver",
+                "title": "Rosa de Esperan\u00e7a",
+                "release_date": "1942-07-03",
+                "backdrop_path": "/kKD59GDPeapxwKp5FNSOLd7CQWe.jpg",
+                "poster_path": "/8EaKyKp3lW5YCDHDnF4wZ5lqIqo.jpg",
+                "overview": "Com o in\u00edcio da segunda guerra mundial, Vin, o filho mais velho, regressa da universidade e se apaixona por Carol Beldon, neta de Lady Beldon, uma aristocrata de Beldon Hall, uma mans\u00e3o vizinha. Apesar de discord\u00e2ncias iniciais, se casam. Com a iminente amea\u00e7a de ataques a\u00e9reos \u00e0 Inglaterra, Vin decide fazer sua parte e se junta \u00e0 For\u00e7a A\u00e9rea Real como piloto. \u00c9 enviado para uma base localizada perto da casa dos pais. Clem ajuda na Opera\u00e7\u00e3o Dynamo com o barco a motor da fam\u00edlia. Sozinha em casa, a Sra. Miniver encontra um piloto alem\u00e3o ferido em seu jardim. Ela o alimenta, o desarma calmamente e avisa \u00e0s autoridades locais.",
+                "vote_average": 7.021,
+                "vote_count": 238
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Talk of the Town",
+            "second_label": "Otto Meyer",
+            "category": "Film Editing",
+            "year": 1943,
+            "tmdb": {
+                "id": 23159,
+                "original_title": "The Talk of the Town",
+                "title": "E a Vida Continua",
+                "release_date": "1942-08-20",
+                "backdrop_path": "/5DYlPcpI5XQq1IrYt3AZGzqbgWZ.jpg",
+                "poster_path": "/eok5KEipiq3y6KhAryUkIqQpxWM.jpg",
+                "overview": "When the Holmes Woolen Mill burns down, political activist Leopold Dilg is jailed for arson and accidental murder. Escaping, Leopold hides out in the home of his childhood sweetheart Nora Shelley... which she has just rented to unsuspecting law professor Michael Lightcap.",
+                "vote_average": 7.2,
+                "vote_count": 91
+            },
+            "winner": false
+        },
+        {
+            "first_label": "This above All",
+            "second_label": "Walter Thompson",
+            "category": "Film Editing",
+            "year": 1943,
+            "tmdb": {
+                "id": 110628,
+                "original_title": "This Above All",
+                "title": "This Above All",
+                "release_date": "1942-05-12",
+                "backdrop_path": "/2iGtBG5UG3FiTVuKxh6Zlx3FyVY.jpg",
+                "poster_path": "/8AkgCCS7yZyoK58v6j5LnqGWyr.jpg",
+                "overview": "In 1940 England, aristocratic Prudence Cathaway alarms her snobbish parents by joining the WAF service branch. She soon meets and falls in love with the brooding Clive Briggs, despite his prejudice against the upper classes, and agrees to spend a week with him at a Dover hotel. When Clive's soldier friend, Monty, arrives to retrieve him, Prudence learns that Clive went AWOL after Dunkirk, and urges him to recall why England must fight the war.",
+                "vote_average": 6.6,
+                "vote_count": 15
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Yankee Doodle Dandy",
+            "second_label": "George Amy",
+            "category": "Film Editing",
+            "year": 1943,
+            "tmdb": {
+                "id": 3087,
+                "original_title": "Yankee Doodle Dandy",
+                "title": "A Can\u00e7\u00e3o da Vit\u00f3ria",
+                "release_date": "1942-05-29",
+                "backdrop_path": "/mVhtWsCu6z58fmpIP7SHcwdCGDz.jpg",
+                "poster_path": "/cYCnnBVjZ8G9Nv0J4bfz56n8kfQ.jpg",
+                "overview": "George M. Cohan (James Cagney) conta sua vida em flashback, em um tom modesto, a Franklin Roosevelt (Jack Young). Ele foi um lend\u00e1rio artista da Broadway que viveu a \u00e9poca de ouro do teatro musical nos Estados Unidos, hist\u00f3ria que \u00e9 contada atrav\u00e9s de n\u00fameros de dan\u00e7a e can\u00e7\u00f5es. Cohan passou mais de 55 anos nos palcos, estrelou mais de 30 pe\u00e7as e podia dizer por a\u00ed que j\u00e1 havia cantado e dan\u00e7ado mais de 500 can\u00e7\u00f5es. Por isso tudo, sua hist\u00f3ria pessoal se confunde com a hist\u00f3ria americana.",
+                "vote_average": 7.0,
+                "vote_count": 196
+            },
+            "winner": false
+        }
+    ],
+    "Irving G. Thalberg Memorial Award": [
+        {
+            "first_label": "",
+            "second_label": "Sidney Franklin",
+            "category": "Irving G. Thalberg Memorial Award",
+            "year": 1943,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        }
+    ],
+    "Music (Music Score of a Dramatic or Comedy Picture)": [
+        {
+            "first_label": "Now, Voyager",
+            "second_label": "Max Steiner",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1943,
+            "tmdb": {
+                "id": 32847,
+                "original_title": "Now, Voyager",
+                "title": "A Estranha Passageira",
+                "release_date": "1942-10-22",
+                "backdrop_path": "/nEgvixrQaGEnxSalaQibinOgSVj.jpg",
+                "poster_path": "/kWtJ1C98fQB1fUDSfqb1NGBPPK8.jpg",
+                "overview": "Uma filha \u00e9 controlada pela m\u00e3e, que lhe determina tudo que deve fazer. Um dia um famoso psiquiatra vai na sua casa e a v\u00ea prestes a ter um ataque de nervos. O psiquiatra lhe recomenda algumas semanas em uma casa de repouso, que ele administra. Quando ela sai da cl\u00ednica faz uma viagem de navio at\u00e9 o Rio de Janeiro e, na viagem, sente-se altamente atra\u00edda por um homem casado, que tem sentimentos rec\u00edprocos. Ao voltar para casa ela \u00e9 uma mulher muito diferente, que agora age e pensa por conta pr\u00f3pria, n\u00e3o aceitando mais as imposi\u00e7\u00f5es da m\u00e3e.",
+                "vote_average": 7.3,
+                "vote_count": 184
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Arabian Nights",
+            "second_label": "Frank Skinner",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1943,
+            "tmdb": {
+                "id": 60488,
+                "original_title": "Arabian Nights",
+                "title": "As Mil e Uma Noites",
+                "release_date": "1942-12-25",
+                "backdrop_path": "/cNeglgSiXLyGAV7n3WapAxwH2zR.jpg",
+                "poster_path": "/vy0QeFMP56zyAmhcEN0z423cKJn.jpg",
+                "overview": "Neste incr\u00edvel \u00e9pico das Ar\u00e1bias, os personagens das hist\u00f3rias que encantaram leitores no mundo todo ganham vida com toda a sua paix\u00e3o e gl\u00f3ria atrav\u00e9s da hist\u00f3ria de irm\u00e3os que lutam entre si pelo poder pol\u00edtico e pelo amor de Sherazade (interpretada pela encantadora e carism\u00e1tica Maria Montez). Contando com um elenco memor\u00e1vel, cen\u00e1rios suntuosos e figurinos ex\u00f3ticos, \u201cAs Mil e Uma Noites\u201d \u00e9 um cl\u00e1ssico imperd\u00edvel que j\u00e1 encantou plat\u00e9ias de todas as idades no mundo todo!",
+                "vote_average": 5.9,
+                "vote_count": 43
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Bambi",
+            "second_label": "Frank Churchill, Edward Plumb",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1943,
+            "tmdb": {
+                "id": 3170,
+                "original_title": "Bambi",
+                "title": "Bambi",
+                "release_date": "1942-08-14",
+                "backdrop_path": "/1ZKHzSGJm0kvlCp4echAOtKnDTm.jpg",
+                "poster_path": "/dpgRyhfvS2ieJbS50z7vDrHrTXb.jpg",
+                "overview": "A hist\u00f3ria animada de Bambi, um jovem cervo saudado como o \"Pr\u00edncipe da Floresta\" no seu nascimento. Como Bambi cresce, ele faz amizade com os outros animais da floresta, aprende as habilidades necess\u00e1rias para sobreviver e at\u00e9 encontra o amor. Um dia, por\u00e9m, os ca\u00e7adores vem, e Bambi deve aprender a ser t\u00e3o corajoso como seu pai, e levar os outros cervos para a seguran\u00e7a.",
+                "vote_average": 7.013,
+                "vote_count": 5413
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Black Swan",
+            "second_label": "Alfred Newman",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1943,
+            "tmdb": {
+                "id": 29882,
+                "original_title": "The Black Swan",
+                "title": "O Cisne Negro",
+                "release_date": "1942-12-04",
+                "backdrop_path": "/vK6SQRCjeaJUKKcpcv9urqSE5pt.jpg",
+                "poster_path": "/xGeoslDZmLq0k5bIN71sswdzm7Y.jpg",
+                "overview": "Quando o not\u00f3rio pirata Henry Morgan \u00e9 nomeado governador da Jamaica, ele pede a ajuda de alguns de seus ex-parceiros para livrar o Caribe dos Bucaneiros. Quando um deles aparentemente seq\u00fcestra a linda filha do governador anterior e se junta aos rebeldes, as coisas est\u00e3o prontas para uma briga. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.3,
+                "vote_count": 76
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Corsican Brothers",
+            "second_label": "Dimitri Tiomkin",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1943,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Flying Tigers",
+            "second_label": "Victor Young",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1943,
+            "tmdb": {
+                "id": 29372,
+                "original_title": "Flying Tigers",
+                "title": "Tigres Voadores",
+                "release_date": "1942-10-08",
+                "backdrop_path": "/vKtDoxuJ5A63GOW2QlgT17CdHwG.jpg",
+                "poster_path": "/1Aee8HBwkq1yjKYMnL9YMPhXJZ.jpg",
+                "overview": "Eram o terror dos c\u00e9us, um pequeno grupo de mercen\u00e1rios ousados, que guerrearam contra os japoneses em defesa da liberdade na China. Eles eram os ases, os aventureiros e os her\u00f3is. Os pilotos mais respeitados de toda Am\u00e9rica, os Tigres Voadores! Com habilidade e coragem incompar\u00e1veis, Jim Gordon (John Wayne), o comandante dos Tigres, era uma arma poderosa no c\u00e9u da China. Mas os Tigres Voadores v\u00e3o enfrentar muitas batalhas no solo.",
+                "vote_average": 6.2,
+                "vote_count": 45
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Gold Rush",
+            "second_label": "Max Terr",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1943,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "I Married a Witch",
+            "second_label": "Roy Webb",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1943,
+            "tmdb": {
+                "id": 25970,
+                "original_title": "I Married a Witch",
+                "title": "Casei-Me com uma Feiticeira",
+                "release_date": "1942-10-30",
+                "backdrop_path": "/wk1yVgTOXGMGFt4QOYSz6ebR6az.jpg",
+                "poster_path": "/je47It0cpuFzM7wUReWlUQX0vXY.jpg",
+                "overview": "Rocksford, New England, 1672. Puritan witch hunter Jonathan Wooley is cursed after burning a witch at the stake: his descendants will never find happiness in their marriages. At present, politician Wallace Wooley, who is running for state governor, is about to marry his sponsor's daughter.",
+                "vote_average": 6.8,
+                "vote_count": 181
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Joan of Paris",
+            "second_label": "Roy Webb",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1943,
+            "tmdb": {
+                "id": 45801,
+                "original_title": "Joan of Paris",
+                "title": "E as Luzes Brilhar\u00e3o Outra Vez",
+                "release_date": "1942-01-20",
+                "backdrop_path": "/jGCZC7iXH6XPFAZPupg7PpHbQ4k.jpg",
+                "poster_path": "/cnC8HdfF0mDdgpUKQ1lUrdmj7bG.jpg",
+                "overview": "Um esquadr\u00e3o da RAF \u00e9 derrubado sobre a Fran\u00e7a ocupada. Os panfletos chegam a Paris apesar do fato de que o mais novo, Baby, est\u00e1 ferido. Ele deve estar escondido e suas feridas cuidadas. A Gestapo j\u00e1 emitiu ordens para sua pris\u00e3o.",
+                "vote_average": 6.5,
+                "vote_count": 10
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jungle Book",
+            "second_label": "Miklos Rozsa",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1943,
+            "tmdb": {
+                "id": 23033,
+                "original_title": "Jungle Book",
+                "title": "Mogli: O Menino Lobo",
+                "release_date": "1942-04-03",
+                "backdrop_path": "/7m7APJ99k0A6ojExFTKI3lU3ijV.jpg",
+                "poster_path": "/zYkffyYCFO1Li1f20MyaAYUaYC4.jpg",
+                "overview": "Adapta\u00e7\u00e3o da eterna aventura na floresta escreita por Rudyard Kipling. Estrelando Sabu, o jovem indiano que ganhou fama internacional como Mogli, um \u00f3rf\u00e3o criado por lobos e amigo de todos os animais selvagens. Quando Mogli volta para sua terra natal, j\u00e1 crescido, ele descobre os estranhos modos dos homens. L\u00e1 ele encontra Mahala, uma alde\u00e3 encantadora, que fica impressionada com seus amigos animais. Juntos, eles fazem uma viagem atrav\u00e9s da floresta, at\u00e9 encontrarem ru\u00ednas cheias de tesouros de uma civiliza\u00e7\u00e3o perdida.",
+                "vote_average": 6.2,
+                "vote_count": 97
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Klondike Fury",
+            "second_label": "Edward Kay",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1943,
+            "tmdb": {
+                "id": 218289,
+                "original_title": "Klondike Fury",
+                "title": "Klondike Fury",
+                "release_date": "1942-03-20",
+                "backdrop_path": null,
+                "poster_path": "/zqSCYupUhkkrhviNDcvx100g9M7.jpg",
+                "overview": "In this Alaskan adventure, a surgeon becomes a pilot after he messes up an operation. Unfortunately, he crashes during a storm and finds himself cared for by a lovely woman. He gets a chance to reclaim his self-esteem when her son suddenly needs the same operation the surgeon botched.",
+                "vote_average": 3.9,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Pride of the Yankees",
+            "second_label": "Leigh Harline",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1943,
+            "tmdb": {
+                "id": 19140,
+                "original_title": "The Pride of the Yankees",
+                "title": "The Pride of the Yankees",
+                "release_date": "1942-07-14",
+                "backdrop_path": "/bd57iZNhXjX4Olm22XqXHondbBL.jpg",
+                "poster_path": "/tbSMm0IAa5WgTcyoeUn7AKAViVY.jpg",
+                "overview": "The story of the life and career of the baseball hall of famer, Lou Gehrig.",
+                "vote_average": 7.3,
+                "vote_count": 108
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Random Harvest",
+            "second_label": "Herbert Stothart",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1943,
+            "tmdb": {
+                "id": 22387,
+                "original_title": "Random Harvest",
+                "title": "Na Noite do Passado",
+                "release_date": "1942-12-17",
+                "backdrop_path": "/7p5XTeAZAIXykWZhWHgkjBOjlPo.jpg",
+                "poster_path": "/x5W3FOGmifwK3e8IhLDQYvURIw2.jpg",
+                "overview": "An amnesiac World War I vet falls in love with a music hall star, only to suffer an accident which restores his original memories but erases his post-War life.",
+                "vote_average": 7.2,
+                "vote_count": 92
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Shanghai Gesture",
+            "second_label": "Richard Hageman",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1943,
+            "tmdb": {
+                "id": 42678,
+                "original_title": "The Shanghai Gesture",
+                "title": "The Shanghai Gesture",
+                "release_date": "1941-12-25",
+                "backdrop_path": "/hYYXrII2LJvv40GlhSGVZiqXDjL.jpg",
+                "poster_path": "/aHDmFi7Q9M6mpMxRm7VpiXwmTYC.jpg",
+                "overview": "A gambling queen uses blackmail to stop a British financier from closing her Chinese clip joint.",
+                "vote_average": 6.2,
+                "vote_count": 61
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Silver Queen",
+            "second_label": "Victor Young",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1943,
+            "tmdb": {
+                "id": 110306,
+                "original_title": "Silver Queen",
+                "title": "Silver Queen",
+                "release_date": "1942-11-14",
+                "backdrop_path": "/hsAai0YZvo0VY91S4u6DZ3W6Ll0.jpg",
+                "poster_path": "/8XDGox4mYXpI1MLxr2WGRaDXQDG.jpg",
+                "overview": "A beautiful heiress is an excellent poker player. Her comfortable life changes when her father and his fortune die during market crash of the 1800's.",
+                "vote_average": 5.5,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Take a Letter, Darling",
+            "second_label": "Victor Young",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1943,
+            "tmdb": {
+                "id": 121010,
+                "original_title": "Take a Letter, Darling",
+                "title": "Ela e o Secret\u00e1rio",
+                "release_date": "1942-05-06",
+                "backdrop_path": "/7Py1UrKqnVLIOKneFNbyvKOXSmy.jpg",
+                "poster_path": "/fmKtjkehEygNB1GqktSRwEfoxbT.jpg",
+                "overview": "A struggling painter takes a job as a secretary to a female advertising executive. While working to obtain an account from a tobacco company, they end up falling in love.",
+                "vote_average": 6.5,
+                "vote_count": 11
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Talk of the Town",
+            "second_label": "Frederick Hollander, Morris Stoloff",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1943,
+            "tmdb": {
+                "id": 23159,
+                "original_title": "The Talk of the Town",
+                "title": "E a Vida Continua",
+                "release_date": "1942-08-20",
+                "backdrop_path": "/5DYlPcpI5XQq1IrYt3AZGzqbgWZ.jpg",
+                "poster_path": "/eok5KEipiq3y6KhAryUkIqQpxWM.jpg",
+                "overview": "When the Holmes Woolen Mill burns down, political activist Leopold Dilg is jailed for arson and accidental murder. Escaping, Leopold hides out in the home of his childhood sweetheart Nora Shelley... which she has just rented to unsuspecting law professor Michael Lightcap.",
+                "vote_average": 7.2,
+                "vote_count": 91
+            },
+            "winner": false
+        },
+        {
+            "first_label": "To Be or Not to Be",
+            "second_label": "Werner Heymann",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1943,
+            "tmdb": {
+                "id": 198,
+                "original_title": "To Be or Not to Be",
+                "title": "Ser ou N\u00e3o Ser",
+                "release_date": "1942-03-05",
+                "backdrop_path": "/p69ybBV94wSmyCGE2y2pH9U86l0.jpg",
+                "poster_path": "/6m2LJUdjVaFL080X8WE1OJXtiEk.jpg",
+                "overview": "Durante a Segunda Guerra Mundial, na Pol\u00f4nia ocupada pelos nazistas, um grupo de atores de teatro deve ajudar a evitar que um espi\u00e3o, que possui informa\u00e7\u00e3o sobre a resist\u00eancia polonesa, entregue-a aos alem\u00e3es.",
+                "vote_average": 7.8,
+                "vote_count": 663
+            },
+            "winner": false
+        }
+    ],
+    "Music (Scoring of a Musical Picture)": [
+        {
+            "first_label": "Yankee Doodle Dandy",
+            "second_label": "Ray Heindorf, Heinz Roemheld",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1943,
+            "tmdb": {
+                "id": 3087,
+                "original_title": "Yankee Doodle Dandy",
+                "title": "A Can\u00e7\u00e3o da Vit\u00f3ria",
+                "release_date": "1942-05-29",
+                "backdrop_path": "/mVhtWsCu6z58fmpIP7SHcwdCGDz.jpg",
+                "poster_path": "/cYCnnBVjZ8G9Nv0J4bfz56n8kfQ.jpg",
+                "overview": "George M. Cohan (James Cagney) conta sua vida em flashback, em um tom modesto, a Franklin Roosevelt (Jack Young). Ele foi um lend\u00e1rio artista da Broadway que viveu a \u00e9poca de ouro do teatro musical nos Estados Unidos, hist\u00f3ria que \u00e9 contada atrav\u00e9s de n\u00fameros de dan\u00e7a e can\u00e7\u00f5es. Cohan passou mais de 55 anos nos palcos, estrelou mais de 30 pe\u00e7as e podia dizer por a\u00ed que j\u00e1 havia cantado e dan\u00e7ado mais de 500 can\u00e7\u00f5es. Por isso tudo, sua hist\u00f3ria pessoal se confunde com a hist\u00f3ria americana.",
+                "vote_average": 7.0,
+                "vote_count": 196
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Flying with Music",
+            "second_label": "Edward Ward",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1943,
+            "tmdb": {
+                "id": 110189,
+                "original_title": "Flying with Music",
+                "title": "Flying with Music",
+                "release_date": "1942-05-22",
+                "backdrop_path": "/4pAOsb7U836YuotiYbj10mslp3s.jpg",
+                "poster_path": "/8QqYqVWQZc3dBCxNn5jM1p9NfWn.jpg",
+                "overview": "The \"Flyer\" in question is William Marshall, a young man falsely accused of a crime. Escaping the clutches of the law, he becomes involved with several pretty young ladies. Marjorie Woodworth plays the girl who helps Marshall in his escape, pausing occasionally to participate in a some lively but forgettable musical numbers.",
+                "vote_average": 2.8,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "For Me and My Gal",
+            "second_label": "Roger Edens, Georgie Stoll",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1943,
+            "tmdb": {
+                "id": 27017,
+                "original_title": "For Me and My Gal",
+                "title": "Id\u00edlio em D\u00f3-R\u00e9-Mi",
+                "release_date": "1942-10-21",
+                "backdrop_path": "/qA7WdA6FWOVeS6xSZEcXwsNNyje.jpg",
+                "poster_path": "/gJrm2rg2sCnO9oKxdcBVH9a6wkj.jpg",
+                "overview": "Two vaudeville performers fall in love, but find their relationship tested by the arrival of WWI.",
+                "vote_average": 6.4,
+                "vote_count": 44
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Holiday Inn",
+            "second_label": "Robert Emmett Dolan",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1943,
+            "tmdb": {
+                "id": 13485,
+                "original_title": "Holiday Inn",
+                "title": "Duas Semanas de Prazer",
+                "release_date": "1942-07-10",
+                "backdrop_path": "/4xM4PBZ7hCeMZAQn1pC1Baxmzaq.jpg",
+                "poster_path": "/7eZzwqLM1w1Mljg60rzB1zr27lu.jpg",
+                "overview": "Numa pousada que funciona apenas nas ferias, um cantor e um dan\u00e7arino disputam o amor de uma bela artista em ascens\u00e3o. A bela Linda Mason faz do crooner Jim Hardy um bobo perdidamente apaixonado. Mas passo a passo, suavemente, Ted Hanover a convence a ser sua nova parceira de dan\u00e7a, depois da femme fatale Lila Dixon lhe dar o cano. A ceia de natal do Jim, no Holiday Inn, \u00e9 o cen\u00e1rio para a disputa entre Hanover e o gerente Danny Reed. A m\u00fasica \u00e9 o tema. (e 10 - Estimado 10 Anos)",
+                "vote_average": 7.0,
+                "vote_count": 184
+            },
+            "winner": false
+        },
+        {
+            "first_label": "It Started with Eve",
+            "second_label": "Hans Salter, Charles Previn",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1943,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Johnny Doughboy",
+            "second_label": "Walter Scharf",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1943,
+            "tmdb": {
+                "id": 218294,
+                "original_title": "Johnny Doughboy",
+                "title": "Johnny Doughboy",
+                "release_date": "1942-12-31",
+                "backdrop_path": "/qiT34BrxnEYCodf6c7xWP0WGNLH.jpg",
+                "poster_path": "/tSyNHJfT9LaifOJ7dYHSoqAQmVW.jpg",
+                "overview": "As sixteen year old Ann Winters begins a relationship with an older actor to further her career, lookalike fan Penelope Ryan is recruited by a group of former child stars to perform in a USO show.",
+                "vote_average": 5.5,
+                "vote_count": 6
+            },
+            "winner": false
+        },
+        {
+            "first_label": "My Gal Sal",
+            "second_label": "Alfred Newman",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1943,
+            "tmdb": {
+                "id": 109933,
+                "original_title": "My Gal Sal",
+                "title": "Minha Namorada Favorita",
+                "release_date": "1942-04-30",
+                "backdrop_path": "/hLAETht8ievo2zMIRSRHWGECSPG.jpg",
+                "poster_path": "/5STz94X5VX8ia9h4e95QEUVkKsq.jpg",
+                "overview": "Conta o in\u00edcio da vida do compositor da d\u00e9cada de 1890, Paul Dresser, quando ele supera seu trabalho como artista de carnaval e se muda para a sociedade de Nova York, escrevendo uma m\u00fasica de sucesso ap\u00f3s a outra. Apesar de seu comportamento ego\u00edsta, ele consegue conquistar Sally Elliott, uma das cantoras mais populares da \u00e9poca. (e 10 - Estimado 10 Anos)",
+                "vote_average": 5.8,
+                "vote_count": 12
+            },
+            "winner": false
+        },
+        {
+            "first_label": "You Were Never Lovelier",
+            "second_label": "Leigh Harline",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1943,
+            "tmdb": {
+                "id": 43787,
+                "original_title": "You Were Never Lovelier",
+                "title": "Bonita Como Nunca",
+                "release_date": "1942-11-19",
+                "backdrop_path": "/e8j21r0gVtJhUPwmP5VMaTTdKPw.jpg",
+                "poster_path": "/25sxEClJ3pvBygj0HA7tvjjkw61.jpg",
+                "overview": "O Acunas, uma rica fam\u00edlia argentina, seguem a tradi\u00e7\u00e3o de que as filhas t\u00eam de se casar em ordem, primeiro as mais velhas. Quando a irm\u00e3 # 1 se casa, as irm\u00e3s # 3 e # 4, que j\u00e1 escolheram seus futuros maridos, fazem press\u00e3o sobre Maria a irm\u00e3 # 2. Mas Maria ainda n\u00e3o conheceu um homem que goste. O pai Eduardo Acuna, acreditando que os homens n\u00e3o s\u00e3o rom\u00e2nticos suficiente nos dias de hoje, envia para sua filha flores e cartas de amor an\u00f4nimas, criando um \"homem misterioso\" para ela se apaixonar. Ele pretende escolher um rapaz apropriado para ela mais tarde, para ocupar o papel. Mas Robert Davis, um dan\u00e7arino americano \u00e0 procura de trabalho, surge em cena. Maria se apaixona por ele, mas o pai n\u00e3o aprova.",
+                "vote_average": 7.2,
+                "vote_count": 46
+            },
+            "winner": false
+        }
+    ],
+    "Music (Song)": [
+        {
+            "first_label": "Holiday Inn",
+            "second_label": "White Christmas in \"Holiday Inn\" Music and Lyrics by Irving Berlin",
+            "category": "Music (Song)",
+            "year": 1943,
+            "tmdb": {
+                "id": 13485,
+                "original_title": "Holiday Inn",
+                "title": "Duas Semanas de Prazer",
+                "release_date": "1942-07-10",
+                "backdrop_path": "/4xM4PBZ7hCeMZAQn1pC1Baxmzaq.jpg",
+                "poster_path": "/7eZzwqLM1w1Mljg60rzB1zr27lu.jpg",
+                "overview": "Numa pousada que funciona apenas nas ferias, um cantor e um dan\u00e7arino disputam o amor de uma bela artista em ascens\u00e3o. A bela Linda Mason faz do crooner Jim Hardy um bobo perdidamente apaixonado. Mas passo a passo, suavemente, Ted Hanover a convence a ser sua nova parceira de dan\u00e7a, depois da femme fatale Lila Dixon lhe dar o cano. A ceia de natal do Jim, no Holiday Inn, \u00e9 o cen\u00e1rio para a disputa entre Hanover e o gerente Danny Reed. A m\u00fasica \u00e9 o tema. (e 10 - Estimado 10 Anos)",
+                "vote_average": 7.0,
+                "vote_count": 184
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Always in My Heart",
+            "second_label": "Always In My Heart in \"Always in My Heart\" Music by Ernesto Lecuona; Lyrics by Kim Gannon",
+            "category": "Music (Song)",
+            "year": 1943,
+            "tmdb": {
+                "id": 97767,
+                "original_title": "Always in My Heart",
+                "title": "Sempre no Meu Cora\u00e7\u00e3o",
+                "release_date": "1942-03-14",
+                "backdrop_path": "/8ClqJZcr2BdGKEabCFVEaJwb9yd.jpg",
+                "poster_path": "/pEyhTzjcAjPi7WDhx4SJnJDtn0x.jpg",
+                "overview": "Depois de passar muitos anos na pris\u00e3o, Mackenzie Scott (Walter Huston) finalmente consegue sua liberdade e se muda para a Calif\u00f3rnia, \u00e0 procura de sua fam\u00edlia, que h\u00e1 muito havia deixado. Ao retornar, descobre que sua mulher Marjorie (Kay Francis) est\u00e1 envolvida com Philip (Sidney Blackmer).\r Marjorie n\u00e3o sabe que Mackenzie est\u00e1 livre e, ele se reaproxima de sua filha Victoria (Gloria Warren) sem que a jovem o reconhe\u00e7a. Os dois tornam-se grandes amigos, e o pai, que antes trabalhava como condutor de harm\u00f4nicas e que est\u00e1, aos poucos, reconstruindo sua vida, percebe na filha um grande talento e a incentiva a cantar. Marjorie descobre que Mackenzie est\u00e1 na cidade e vai \u00e0 sua procura. Este reencontro, depois de tantos anos, ocasionar\u00e1 muitas mudan\u00e7as na vida de todos, principalmente quando Victoria descobre a verdade sobre seu pai... O filme \u00e9 uma bela hist\u00f3ria de amor e compreens\u00e3o, que mostra o poder da m\u00fasica ao unir novamente uma fam\u00edlia.",
+                "vote_average": 6.0,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "You Were Never Lovelier",
+            "second_label": "Dearly Beloved in \"You Were Never Lovelier\" Music by Jerome Kern; Lyrics by Johnny Mercer",
+            "category": "Music (Song)",
+            "year": 1943,
+            "tmdb": {
+                "id": 43787,
+                "original_title": "You Were Never Lovelier",
+                "title": "Bonita Como Nunca",
+                "release_date": "1942-11-19",
+                "backdrop_path": "/e8j21r0gVtJhUPwmP5VMaTTdKPw.jpg",
+                "poster_path": "/25sxEClJ3pvBygj0HA7tvjjkw61.jpg",
+                "overview": "O Acunas, uma rica fam\u00edlia argentina, seguem a tradi\u00e7\u00e3o de que as filhas t\u00eam de se casar em ordem, primeiro as mais velhas. Quando a irm\u00e3 # 1 se casa, as irm\u00e3s # 3 e # 4, que j\u00e1 escolheram seus futuros maridos, fazem press\u00e3o sobre Maria a irm\u00e3 # 2. Mas Maria ainda n\u00e3o conheceu um homem que goste. O pai Eduardo Acuna, acreditando que os homens n\u00e3o s\u00e3o rom\u00e2nticos suficiente nos dias de hoje, envia para sua filha flores e cartas de amor an\u00f4nimas, criando um \"homem misterioso\" para ela se apaixonar. Ele pretende escolher um rapaz apropriado para ela mais tarde, para ocupar o papel. Mas Robert Davis, um dan\u00e7arino americano \u00e0 procura de trabalho, surge em cena. Maria se apaixona por ele, mas o pai n\u00e3o aprova.",
+                "vote_average": 7.2,
+                "vote_count": 46
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Babes on Broadway",
+            "second_label": "How About You? in \"Babes on Broadway\" Music by Burton Lane; Lyrics by Ralph Freed",
+            "category": "Music (Song)",
+            "year": 1943,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Youth on Parade",
+            "second_label": "It Seems I Heard That Song Before in \"Youth on Parade\" Music by Jule Styne; Lyrics by Sammy Cahn",
+            "category": "Music (Song)",
+            "year": 1943,
+            "tmdb": {
+                "id": 218298,
+                "original_title": "Youth on Parade",
+                "title": "Youth on Parade",
+                "release_date": "1942-10-24",
+                "backdrop_path": null,
+                "poster_path": "/bOvpOqsD7QOa1GeowSpD17Mupk4.jpg",
+                "overview": "In this musical, a gang of college students decide to play a little trick by creating the perfect student. The fictional gal has everything a university would ever want. The trouble begins when the campus psych professor becomes determined to meet this girl. If the gang cannot bring her forward, they will be expelled. They hire a New York actress to portray the imaginary girl and all is well at the end. Songs include: \"It Seems I've Heard That Song Before,\" \"You're So Good to Me\" \"If It's Love,\" \"Man,\" \"Gotcha Too Ta Mee,\" \"You Got to Study, Buddy.\" All the songs were penned by Sammy Cahn and Jule Styne who went on to become one of Hollywood's top song-writing teams.",
+                "vote_average": 1.0,
+                "vote_count": 1
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Orchestra Wives",
+            "second_label": "I've Got A Gal In Kalamazoo in \"Orchestra Wives\" Music by Harry Warren; Lyrics by Mack Gordon",
+            "category": "Music (Song)",
+            "year": 1943,
+            "tmdb": {
+                "id": 43781,
+                "original_title": "Orchestra Wives",
+                "title": "Serenata Azul",
+                "release_date": "1942-09-04",
+                "backdrop_path": "/kzs40iO7FoyiieKhpc0FYZDKdnE.jpg",
+                "poster_path": "/bpsFY09nAQvyFF1HIOaCkfaNX4r.jpg",
+                "overview": "Connie Ward est\u00e1 no s\u00e9timo c\u00e9u quando a banda de Gene Morrison chega \u00e0 cidade. Ela \u00e9 arrebatada pelo trompetista Bill Abbot. Depois de se casar com ele, ela se junta \u00e0 turn\u00ea da banda e aprende sobre a vida como uma esposa de orquestra, resistindo aos ataques maliciosos das outras esposas da banda.",
+                "vote_average": 5.8,
+                "vote_count": 10
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Bambi",
+            "second_label": "Love Is A Song in \"Bambi\" Music by Frank Churchill; Lyrics by Larry Morey",
+            "category": "Music (Song)",
+            "year": 1943,
+            "tmdb": {
+                "id": 3170,
+                "original_title": "Bambi",
+                "title": "Bambi",
+                "release_date": "1942-08-14",
+                "backdrop_path": "/1ZKHzSGJm0kvlCp4echAOtKnDTm.jpg",
+                "poster_path": "/dpgRyhfvS2ieJbS50z7vDrHrTXb.jpg",
+                "overview": "A hist\u00f3ria animada de Bambi, um jovem cervo saudado como o \"Pr\u00edncipe da Floresta\" no seu nascimento. Como Bambi cresce, ele faz amizade com os outros animais da floresta, aprende as habilidades necess\u00e1rias para sobreviver e at\u00e9 encontra o amor. Um dia, por\u00e9m, os ca\u00e7adores vem, e Bambi deve aprender a ser t\u00e3o corajoso como seu pai, e levar os outros cervos para a seguran\u00e7a.",
+                "vote_average": 7.013,
+                "vote_count": 5413
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Flying with Music",
+            "second_label": "Pennies For Peppino in \"Flying with Music\" Music by Edward Ward; Lyrics by Chet Forrest and Bob Wright",
+            "category": "Music (Song)",
+            "year": 1943,
+            "tmdb": {
+                "id": 110189,
+                "original_title": "Flying with Music",
+                "title": "Flying with Music",
+                "release_date": "1942-05-22",
+                "backdrop_path": "/4pAOsb7U836YuotiYbj10mslp3s.jpg",
+                "poster_path": "/8QqYqVWQZc3dBCxNn5jM1p9NfWn.jpg",
+                "overview": "The \"Flyer\" in question is William Marshall, a young man falsely accused of a crime. Escaping the clutches of the law, he becomes involved with several pretty young ladies. Marjorie Woodworth plays the girl who helps Marshall in his escape, pausing occasionally to participate in a some lively but forgettable musical numbers.",
+                "vote_average": 2.8,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hellzapoppin'",
+            "second_label": "Pig Foot Pete in \"Hellzapoppin'\" Music by Gene de Paul; Lyrics by Don Raye",
+            "category": "Music (Song)",
+            "year": 1943,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Mayor of 44th Street",
+            "second_label": "There's A Breeze On Lake Louise in \"The Mayor of 44th Street\" Music by Harry Revel; Lyrics by Mort Greene",
+            "category": "Music (Song)",
+            "year": 1943,
+            "tmdb": {
+                "id": 218299,
+                "original_title": "The Mayor of 44th Street",
+                "title": "The Mayor of 44th Street",
+                "release_date": "1942-10-15",
+                "backdrop_path": "/lfDmtUAkkvYj5Ou0LetnZiMAdsb.jpg",
+                "poster_path": "/2QFawdMoAwIPaslSEMhfTqkH2zK.jpg",
+                "overview": "In this drama, an ex-vaudevillian dancer opens up a dance band agency and help street kids at the same time by hiring them to help out. Unfortunately, the local gang of hood's leader resists his attempts. More trouble ensues when the dancer helps a convict gain parole by hiring him. It later turns out that the ex-con is only interested in trying to use the agency as a front for extortion. Songs include the Oscar nominated \"When There's a Breeze on Lake Louise,\" \"Your Face Looks Familiar,\" \"Heavenly, Isn't He?\" \"Let's Forget It,\" \"You're Bad For Me,\" and \"A Million Miles From Manhattan.\"",
+                "vote_average": 4.0,
+                "vote_count": 2
+            },
+            "winner": false
+        }
+    ],
+    "Outstanding Motion Picture": [
+        {
+            "first_label": "Mrs. Miniver",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Outstanding Motion Picture",
+            "year": 1943,
+            "tmdb": {
+                "id": 27367,
+                "original_title": "Mrs. Miniver",
+                "title": "Rosa de Esperan\u00e7a",
+                "release_date": "1942-07-03",
+                "backdrop_path": "/kKD59GDPeapxwKp5FNSOLd7CQWe.jpg",
+                "poster_path": "/8EaKyKp3lW5YCDHDnF4wZ5lqIqo.jpg",
+                "overview": "Com o in\u00edcio da segunda guerra mundial, Vin, o filho mais velho, regressa da universidade e se apaixona por Carol Beldon, neta de Lady Beldon, uma aristocrata de Beldon Hall, uma mans\u00e3o vizinha. Apesar de discord\u00e2ncias iniciais, se casam. Com a iminente amea\u00e7a de ataques a\u00e9reos \u00e0 Inglaterra, Vin decide fazer sua parte e se junta \u00e0 For\u00e7a A\u00e9rea Real como piloto. \u00c9 enviado para uma base localizada perto da casa dos pais. Clem ajuda na Opera\u00e7\u00e3o Dynamo com o barco a motor da fam\u00edlia. Sozinha em casa, a Sra. Miniver encontra um piloto alem\u00e3o ferido em seu jardim. Ela o alimenta, o desarma calmamente e avisa \u00e0s autoridades locais.",
+                "vote_average": 7.021,
+                "vote_count": 238
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Invaders",
+            "second_label": "Ortus",
+            "category": "Outstanding Motion Picture",
+            "year": 1943,
+            "tmdb": {
+                "id": 21735,
+                "original_title": "49th Parallel",
+                "title": "Invas\u00e3o de B\u00e1rbaros",
+                "release_date": "1941-11-24",
+                "backdrop_path": "/nvuaUT8kDUyjsRUcNemwuJjTVWD.jpg",
+                "poster_path": "/m4YTQv9fHYB2nZ7M2Al6wzOmrYe.jpg",
+                "overview": "Uma tripula\u00e7\u00e3o de U-boat da Segunda Guerra Mundial est\u00e1 encalhada no norte do Canad\u00e1. Para evitar o aprisionamento, eles devem ir at\u00e9 a fronteira e entrar nos EUA que ainda est\u00e3o neutros.",
+                "vote_average": 6.9,
+                "vote_count": 97
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Kings Row",
+            "second_label": "Warner Bros.",
+            "category": "Outstanding Motion Picture",
+            "year": 1943,
+            "tmdb": {
+                "id": 53779,
+                "original_title": "Kings Row",
+                "title": "Em Cada Cora\u00e7\u00e3o um Pecado",
+                "release_date": "1942-02-02",
+                "backdrop_path": "/2l4BX8926AVZBZmogHBM12ZoACl.jpg",
+                "poster_path": "/yHJad38YAYGrrYtsc8oHZR9mzVk.jpg",
+                "overview": "Os amigos Parris e Drake crescem em uma pequena cidade americana chamada Kings Row, aparentemente tranq\u00fcila e pacata. J\u00e1 adultos, eles come\u00e7am a descobrir a verdade por tr\u00e1s da falsa perfei\u00e7\u00e3o da cidade, atrav\u00e9s das atitudes e segredos que cada morador esconde.",
+                "vote_average": 7.2,
+                "vote_count": 35
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Magnificent Ambersons",
+            "second_label": "Mercury",
+            "category": "Outstanding Motion Picture",
+            "year": 1943,
+            "tmdb": {
+                "id": 965,
+                "original_title": "The Magnificent Ambersons",
+                "title": "Soberba",
+                "release_date": "1942-07-10",
+                "backdrop_path": "/rn7M9za8zr1gm5HqJKW8Qk6azeM.jpg",
+                "poster_path": "/ki1lnSzJhIjx42K8iRlSwEpGS7R.jpg",
+                "overview": "Rica fam\u00edlia de uma cidadezinha do sul dos Estados Unidos v\u00ea sua supremacia social pouco a pouco comprometida pela industrializa\u00e7\u00e3o. Seu jovem e mimado herdeiro se coloca entre a m\u00e3e vi\u00fava e o homem que ela sempre amou.",
+                "vote_average": 7.316,
+                "vote_count": 394
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Pied Piper",
+            "second_label": "20th Century-Fox",
+            "category": "Outstanding Motion Picture",
+            "year": 1943,
+            "tmdb": {
+                "id": 84085,
+                "original_title": "The Pied Piper",
+                "title": "Abandonados",
+                "release_date": "1942-08-21",
+                "backdrop_path": "/1vSaNw265Kvw44cudV9qf59KgWj.jpg",
+                "poster_path": "/sqotZHwwBq9LJrTzXJow6Uos6Up.jpg",
+                "overview": "Ao viajar na Fran\u00e7a durante a invas\u00e3o nazista de 1940, um ingl\u00eas acaba tendo que cuidar de um grupo de crian\u00e7as refugiadas.",
+                "vote_average": 6.8,
+                "vote_count": 10
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Pride of the Yankees",
+            "second_label": "Samuel Goldwyn Productions",
+            "category": "Outstanding Motion Picture",
+            "year": 1943,
+            "tmdb": {
+                "id": 19140,
+                "original_title": "The Pride of the Yankees",
+                "title": "The Pride of the Yankees",
+                "release_date": "1942-07-14",
+                "backdrop_path": "/bd57iZNhXjX4Olm22XqXHondbBL.jpg",
+                "poster_path": "/tbSMm0IAa5WgTcyoeUn7AKAViVY.jpg",
+                "overview": "The story of the life and career of the baseball hall of famer, Lou Gehrig.",
+                "vote_average": 7.3,
+                "vote_count": 108
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Random Harvest",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Outstanding Motion Picture",
+            "year": 1943,
+            "tmdb": {
+                "id": 22387,
+                "original_title": "Random Harvest",
+                "title": "Na Noite do Passado",
+                "release_date": "1942-12-17",
+                "backdrop_path": "/7p5XTeAZAIXykWZhWHgkjBOjlPo.jpg",
+                "poster_path": "/x5W3FOGmifwK3e8IhLDQYvURIw2.jpg",
+                "overview": "An amnesiac World War I vet falls in love with a music hall star, only to suffer an accident which restores his original memories but erases his post-War life.",
+                "vote_average": 7.2,
+                "vote_count": 92
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Talk of the Town",
+            "second_label": "Columbia",
+            "category": "Outstanding Motion Picture",
+            "year": 1943,
+            "tmdb": {
+                "id": 23159,
+                "original_title": "The Talk of the Town",
+                "title": "E a Vida Continua",
+                "release_date": "1942-08-20",
+                "backdrop_path": "/5DYlPcpI5XQq1IrYt3AZGzqbgWZ.jpg",
+                "poster_path": "/eok5KEipiq3y6KhAryUkIqQpxWM.jpg",
+                "overview": "When the Holmes Woolen Mill burns down, political activist Leopold Dilg is jailed for arson and accidental murder. Escaping, Leopold hides out in the home of his childhood sweetheart Nora Shelley... which she has just rented to unsuspecting law professor Michael Lightcap.",
+                "vote_average": 7.2,
+                "vote_count": 91
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Wake Island",
+            "second_label": "Paramount",
+            "category": "Outstanding Motion Picture",
+            "year": 1943,
+            "tmdb": {
+                "id": 43786,
+                "original_title": "Wake Island",
+                "title": "Nossos Mortos Ser\u00e3o Vingados",
+                "release_date": "1942-08-11",
+                "backdrop_path": "/g9kAFh9Xp05fQsbv12MbeQGBpxS.jpg",
+                "poster_path": "/8ytAmQG8E03niY1lqSCHd0w1ghI.jpg",
+                "overview": "In late 1941, with no hope of relief or re-supply, a small band of United States Marines tries to keep the Japanese Navy from capturing their island base.",
+                "vote_average": 5.5,
+                "vote_count": 23
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Yankee Doodle Dandy",
+            "second_label": "Warner Bros.",
+            "category": "Outstanding Motion Picture",
+            "year": 1943,
+            "tmdb": {
+                "id": 3087,
+                "original_title": "Yankee Doodle Dandy",
+                "title": "A Can\u00e7\u00e3o da Vit\u00f3ria",
+                "release_date": "1942-05-29",
+                "backdrop_path": "/mVhtWsCu6z58fmpIP7SHcwdCGDz.jpg",
+                "poster_path": "/cYCnnBVjZ8G9Nv0J4bfz56n8kfQ.jpg",
+                "overview": "George M. Cohan (James Cagney) conta sua vida em flashback, em um tom modesto, a Franklin Roosevelt (Jack Young). Ele foi um lend\u00e1rio artista da Broadway que viveu a \u00e9poca de ouro do teatro musical nos Estados Unidos, hist\u00f3ria que \u00e9 contada atrav\u00e9s de n\u00fameros de dan\u00e7a e can\u00e7\u00f5es. Cohan passou mais de 55 anos nos palcos, estrelou mais de 30 pe\u00e7as e podia dizer por a\u00ed que j\u00e1 havia cantado e dan\u00e7ado mais de 500 can\u00e7\u00f5es. Por isso tudo, sua hist\u00f3ria pessoal se confunde com a hist\u00f3ria americana.",
+                "vote_average": 7.0,
+                "vote_count": 196
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Cartoon)": [
+        {
+            "first_label": "Der Fuehrer's Face",
+            "second_label": "Walt Disney, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1943,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "All Out for \"V\"",
+            "second_label": "20th Century-Fox",
+            "category": "Short Subject (Cartoon)",
+            "year": 1943,
+            "tmdb": {
+                "id": 236843,
+                "original_title": "All Out for 'V'",
+                "title": "All Out for 'V'",
+                "release_date": "1942-01-01",
+                "backdrop_path": null,
+                "poster_path": "/ymrlwV0aR4AnwnegoAzhGrLFkkS.jpg",
+                "overview": "When war is announced, all the forest animals, birds and bugs go into manufacturing of armaments, helmets and the like, with an annoying jingle about the country's instruction to step up production musically repeated.",
+                "vote_average": 5.0,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Blitz Wolf",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1943,
+            "tmdb": {
+                "id": 84669,
+                "original_title": "Blitz Wolf",
+                "title": "Blitz Wolf",
+                "release_date": "1942-08-22",
+                "backdrop_path": "/zpX00EjKsqepr8i9eXtZRdH2rWc.jpg",
+                "poster_path": "/2sJE7Ew0ACcJn6AFApdqJXb5WVO.jpg",
+                "overview": "Yet another variation on the Three Little Pigs theme, this time told as WW2 anti-German propaganda (the US had just entered the war), with the wolf as a thinly-disguised Hitler.",
+                "vote_average": 6.8,
+                "vote_count": 50
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Juke Box Jamboree",
+            "second_label": "Walter Lantz, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1943,
+            "tmdb": {
+                "id": 236612,
+                "original_title": "Juke Box Jamboree",
+                "title": "A Vitrola Maluca",
+                "release_date": "1942-07-26",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "Um ratinho \u00e9 despertado do sono, no meio da noite, por uma vitrola maluca. \u00c9 a\u00ed que encontra uma mesa farta e come\u00e7a a aprontar uma confus\u00e3o.",
+                "vote_average": 6.7,
+                "vote_count": 6
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Pigs in a Polka",
+            "second_label": "Leon Schlesinger, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1943,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tulips Shall Grow",
+            "second_label": "George Pal, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1943,
+            "tmdb": {
+                "id": 146928,
+                "original_title": "Tulips Shall Grow",
+                "title": "Tulips Shall Grow",
+                "release_date": "1942-01-26",
+                "backdrop_path": null,
+                "poster_path": "/3JvFXR1LHRGZqX5ZpDTcXx2CgLf.jpg",
+                "overview": "In this Puppetoon animated short film (an Academy Award Best Short Subject, Cartoons nominee), a young Dutch couple find their idyllic countryside being overrun by unfeeling, unthinking mechanical men and machines that lay waste to everything in their path. In 1997 this film, deemed \"culturally, historically, or aesthetically significant,\" was selected for preservation in the United States National Film Registry.",
+                "vote_average": 6.8,
+                "vote_count": 26
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (One-reel)": [
+        {
+            "first_label": "Speaking of Animals and Their Families",
+            "second_label": "Paramount",
+            "category": "Short Subject (One-reel)",
+            "year": 1943,
+            "tmdb": {
+                "id": 236838,
+                "original_title": "Speaking of Animals and Their Families",
+                "title": "Speaking of Animals and Their Families",
+                "release_date": "1942-06-04",
+                "backdrop_path": null,
+                "poster_path": "/bVhMPJqXswSDx2mGfTCQUCe7aWq.jpg",
+                "overview": "Speaking of Animals and Their Families is a 1942 American short comedy film directed by Robert Carlisle and Jerry Fairbanks. In 1943, at the 15th Academy Awards, it won an Oscar for Best Short Subject. It is part of a series of Speaking of Animals short films featuring animals given voice via special effects.",
+                "vote_average": 6.0,
+                "vote_count": 1
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Desert Wonderland",
+            "second_label": "20th Century-Fox",
+            "category": "Short Subject (One-reel)",
+            "year": 1943,
+            "tmdb": {
+                "id": 236839,
+                "original_title": "Desert Wonderland",
+                "title": "Desert Wonderland",
+                "release_date": "1942-01-01",
+                "backdrop_path": null,
+                "poster_path": "/qbooLuD0jD4B312MBCkx5bVQtfs.jpg",
+                "overview": "Desert Wonderland is a 1942 American short documentary film directed by Russ Shields and Jack Kuhne exploring the Grand Canyon. It was nominated for an Oscar  in the category of Best Short Subject, One Reel.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Marines in the Making",
+            "second_label": "Pete Smith, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1943,
+            "tmdb": {
+                "id": 236840,
+                "original_title": "Marines in the Making",
+                "title": "Marines in the Making",
+                "release_date": "1942-12-26",
+                "backdrop_path": null,
+                "poster_path": "/j83imZ82RaU8mOws4VWgyIHFmB.jpg",
+                "overview": "This short film shows U.S. Marines in training at a number of unidentified bases, with a focus on hand-to-hand combat.",
+                "vote_average": 5.0,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "United States Marine Band",
+            "second_label": "Warner Bros.",
+            "category": "Short Subject (One-reel)",
+            "year": 1943,
+            "tmdb": {
+                "id": 236842,
+                "original_title": "The United States Marine Band",
+                "title": "The United States Marine Band",
+                "release_date": "1942-11-14",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "The US Marine Corps Band and chorus perform several songs associated with the Marines and the Navy. As the songs are played, we see monuments in Washington, DC, various battle scenes, planes in flight, and other scenes designed to instill patriotism in the audience.",
+                "vote_average": 4.5,
+                "vote_count": 4
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Two-reel)": [
+        {
+            "first_label": "Beyond the Line of Duty",
+            "second_label": "Warner Bros.",
+            "category": "Short Subject (Two-reel)",
+            "year": 1943,
+            "tmdb": {
+                "id": 236836,
+                "original_title": "Beyond the Line of Duty",
+                "title": "Beyond the Line of Duty",
+                "release_date": "1942-11-07",
+                "backdrop_path": null,
+                "poster_path": "/8M9tyJCJK5veh323gd6UEjqSPhz.jpg",
+                "overview": "This short film in support of the war effort focuses on the training and missions of Army Air Corps Captain Hewitt T. Wheless just after the U.S. entry into World War II.",
+                "vote_average": 4.7,
+                "vote_count": 7
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Don't Talk",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Short Subject (Two-reel)",
+            "year": 1943,
+            "tmdb": {
+                "id": 131801,
+                "original_title": "Don't Talk",
+                "title": "Don't Talk",
+                "release_date": "1942-02-28",
+                "backdrop_path": null,
+                "poster_path": "/97UrbvAx0IatcRxpuELuBYu15Xr.jpg",
+                "overview": "This Crime Does Not Pay series entry dramatizes the idea that during wartime, people should not discuss anything related to their work when in public. A casual remark can be overheard by an enemy agent and used to sabotage the war effort. In this short, the story involves shipments of parts to a defense plant.",
+                "vote_average": 5.6,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Private Smith of the U.S.A.",
+            "second_label": "RKO Radio",
+            "category": "Short Subject (Two-reel)",
+            "year": 1943,
+            "tmdb": {
+                "id": 236837,
+                "original_title": "Private Smith of the U.S.A.",
+                "title": "Private Smith of the U.S.A.",
+                "release_date": "1942-10-02",
+                "backdrop_path": null,
+                "poster_path": "/gRPNEZStfvyT9Wp5aacbcJ4j4BI.jpg",
+                "overview": "Private Smith of the U.S.A. is a 1942 American short documentary film directed by Slavko Vorkapi\u0107. Produced by RKO Radio Pictures, it was nominated for an Academy Award at the 15th Academy Awards for Best Short Subject, Two Reel. This is part of This Is America Series.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        }
+    ],
+    "Sound Recording": [
+        {
+            "first_label": "Yankee Doodle Dandy",
+            "second_label": "Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",
+            "category": "Sound Recording",
+            "year": 1943,
+            "tmdb": {
+                "id": 3087,
+                "original_title": "Yankee Doodle Dandy",
+                "title": "A Can\u00e7\u00e3o da Vit\u00f3ria",
+                "release_date": "1942-05-29",
+                "backdrop_path": "/mVhtWsCu6z58fmpIP7SHcwdCGDz.jpg",
+                "poster_path": "/cYCnnBVjZ8G9Nv0J4bfz56n8kfQ.jpg",
+                "overview": "George M. Cohan (James Cagney) conta sua vida em flashback, em um tom modesto, a Franklin Roosevelt (Jack Young). Ele foi um lend\u00e1rio artista da Broadway que viveu a \u00e9poca de ouro do teatro musical nos Estados Unidos, hist\u00f3ria que \u00e9 contada atrav\u00e9s de n\u00fameros de dan\u00e7a e can\u00e7\u00f5es. Cohan passou mais de 55 anos nos palcos, estrelou mais de 30 pe\u00e7as e podia dizer por a\u00ed que j\u00e1 havia cantado e dan\u00e7ado mais de 500 can\u00e7\u00f5es. Por isso tudo, sua hist\u00f3ria pessoal se confunde com a hist\u00f3ria americana.",
+                "vote_average": 7.0,
+                "vote_count": 196
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Arabian Nights",
+            "second_label": "Universal Studio Sound Department, Bernard B. Brown, Sound Director",
+            "category": "Sound Recording",
+            "year": 1943,
+            "tmdb": {
+                "id": 60488,
+                "original_title": "Arabian Nights",
+                "title": "As Mil e Uma Noites",
+                "release_date": "1942-12-25",
+                "backdrop_path": "/cNeglgSiXLyGAV7n3WapAxwH2zR.jpg",
+                "poster_path": "/vy0QeFMP56zyAmhcEN0z423cKJn.jpg",
+                "overview": "Neste incr\u00edvel \u00e9pico das Ar\u00e1bias, os personagens das hist\u00f3rias que encantaram leitores no mundo todo ganham vida com toda a sua paix\u00e3o e gl\u00f3ria atrav\u00e9s da hist\u00f3ria de irm\u00e3os que lutam entre si pelo poder pol\u00edtico e pelo amor de Sherazade (interpretada pela encantadora e carism\u00e1tica Maria Montez). Contando com um elenco memor\u00e1vel, cen\u00e1rios suntuosos e figurinos ex\u00f3ticos, \u201cAs Mil e Uma Noites\u201d \u00e9 um cl\u00e1ssico imperd\u00edvel que j\u00e1 encantou plat\u00e9ias de todas as idades no mundo todo!",
+                "vote_average": 5.9,
+                "vote_count": 43
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Bambi",
+            "second_label": "Walt Disney Studio Sound Department, Sam Slyfield, Sound Director",
+            "category": "Sound Recording",
+            "year": 1943,
+            "tmdb": {
+                "id": 3170,
+                "original_title": "Bambi",
+                "title": "Bambi",
+                "release_date": "1942-08-14",
+                "backdrop_path": "/1ZKHzSGJm0kvlCp4echAOtKnDTm.jpg",
+                "poster_path": "/dpgRyhfvS2ieJbS50z7vDrHrTXb.jpg",
+                "overview": "A hist\u00f3ria animada de Bambi, um jovem cervo saudado como o \"Pr\u00edncipe da Floresta\" no seu nascimento. Como Bambi cresce, ele faz amizade com os outros animais da floresta, aprende as habilidades necess\u00e1rias para sobreviver e at\u00e9 encontra o amor. Um dia, por\u00e9m, os ca\u00e7adores vem, e Bambi deve aprender a ser t\u00e3o corajoso como seu pai, e levar os outros cervos para a seguran\u00e7a.",
+                "vote_average": 7.013,
+                "vote_count": 5413
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Flying Tigers",
+            "second_label": "Republic Studio Sound Department, Daniel Bloomberg, Sound Director",
+            "category": "Sound Recording",
+            "year": 1943,
+            "tmdb": {
+                "id": 29372,
+                "original_title": "Flying Tigers",
+                "title": "Tigres Voadores",
+                "release_date": "1942-10-08",
+                "backdrop_path": "/vKtDoxuJ5A63GOW2QlgT17CdHwG.jpg",
+                "poster_path": "/1Aee8HBwkq1yjKYMnL9YMPhXJZ.jpg",
+                "overview": "Eram o terror dos c\u00e9us, um pequeno grupo de mercen\u00e1rios ousados, que guerrearam contra os japoneses em defesa da liberdade na China. Eles eram os ases, os aventureiros e os her\u00f3is. Os pilotos mais respeitados de toda Am\u00e9rica, os Tigres Voadores! Com habilidade e coragem incompar\u00e1veis, Jim Gordon (John Wayne), o comandante dos Tigres, era uma arma poderosa no c\u00e9u da China. Mas os Tigres Voadores v\u00e3o enfrentar muitas batalhas no solo.",
+                "vote_average": 6.2,
+                "vote_count": 45
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Friendly Enemies",
+            "second_label": "Sound Service, Inc., Jack Whitney, Sound Director",
+            "category": "Sound Recording",
+            "year": 1943,
+            "tmdb": {
+                "id": 98195,
+                "original_title": "Friendly Enemies",
+                "title": "Friendly Enemies",
+                "release_date": "1942-06-21",
+                "backdrop_path": "/iPuLs6CKmocSwkG46yhohP8eOXL.jpg",
+                "poster_path": "/9G6js8Uff4rPzO28O3CoQPMAV13.jpg",
+                "overview": "During World War I, two German men friends who emigrated to the US and become millionaires agree on most things, with one major difference: one has taken the US side against Germany regarding the war, while the other stays stubbornly loyal to \"the old country\". His stubbornness results in tragedy for his old friend and a lesson in the consequences of blind loyalty.",
+                "vote_average": 5.8,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Gold Rush",
+            "second_label": "RCA Sound, James Fields, Sound Director",
+            "category": "Sound Recording",
+            "year": 1943,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mrs. Miniver",
+            "second_label": "Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",
+            "category": "Sound Recording",
+            "year": 1943,
+            "tmdb": {
+                "id": 27367,
+                "original_title": "Mrs. Miniver",
+                "title": "Rosa de Esperan\u00e7a",
+                "release_date": "1942-07-03",
+                "backdrop_path": "/kKD59GDPeapxwKp5FNSOLd7CQWe.jpg",
+                "poster_path": "/8EaKyKp3lW5YCDHDnF4wZ5lqIqo.jpg",
+                "overview": "Com o in\u00edcio da segunda guerra mundial, Vin, o filho mais velho, regressa da universidade e se apaixona por Carol Beldon, neta de Lady Beldon, uma aristocrata de Beldon Hall, uma mans\u00e3o vizinha. Apesar de discord\u00e2ncias iniciais, se casam. Com a iminente amea\u00e7a de ataques a\u00e9reos \u00e0 Inglaterra, Vin decide fazer sua parte e se junta \u00e0 For\u00e7a A\u00e9rea Real como piloto. \u00c9 enviado para uma base localizada perto da casa dos pais. Clem ajuda na Opera\u00e7\u00e3o Dynamo com o barco a motor da fam\u00edlia. Sozinha em casa, a Sra. Miniver encontra um piloto alem\u00e3o ferido em seu jardim. Ela o alimenta, o desarma calmamente e avisa \u00e0s autoridades locais.",
+                "vote_average": 7.021,
+                "vote_count": 238
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Once upon a Honeymoon",
+            "second_label": "RKO Radio Studio Sound Department, Steve Dunn, Sound Director",
+            "category": "Sound Recording",
+            "year": 1943,
+            "tmdb": {
+                "id": 43779,
+                "original_title": "Once Upon a Honeymoon",
+                "title": "Era Uma Lua de Mel",
+                "release_date": "1942-11-27",
+                "backdrop_path": "/gH4rZIFBymFhaXPx0XUjim3KpKP.jpg",
+                "poster_path": "/aWy7AROU1gtYUK1oa4u8mr1vWh0.jpg",
+                "overview": "A radio correspondent tries to rescue a burlesque queen from her marriage to a Nazi official.",
+                "vote_average": 6.2,
+                "vote_count": 44
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Pride of the Yankees",
+            "second_label": "Samuel Goldwyn Studio Sound Department, Thomas T. Moulton, Sound Director",
+            "category": "Sound Recording",
+            "year": 1943,
+            "tmdb": {
+                "id": 19140,
+                "original_title": "The Pride of the Yankees",
+                "title": "The Pride of the Yankees",
+                "release_date": "1942-07-14",
+                "backdrop_path": "/bd57iZNhXjX4Olm22XqXHondbBL.jpg",
+                "poster_path": "/tbSMm0IAa5WgTcyoeUn7AKAViVY.jpg",
+                "overview": "The story of the life and career of the baseball hall of famer, Lou Gehrig.",
+                "vote_average": 7.3,
+                "vote_count": 108
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Road to Morocco",
+            "second_label": "Paramount Studio Sound Department, Loren Ryder, Sound Director",
+            "category": "Sound Recording",
+            "year": 1943,
+            "tmdb": {
+                "id": 31805,
+                "original_title": "Road to Morocco",
+                "title": "A Sedu\u00e7\u00e3o de Marrocos",
+                "release_date": "1942-11-10",
+                "backdrop_path": "/q3oxb8KBBc3XvIsQjtLwYIGEFmR.jpg",
+                "poster_path": "/bjnlNAyoMEDWzGEvC7FBzA8Qlym.jpg",
+                "overview": "Jeff Peters (Bing Crosby) e Turkey Jackson (Bob Hope) acidentalmente, acabam naufragando em plena costa de Marrocos e para ganhar algum dinheiro, Jeff vende Turkey como escravo e al\u00e9m disso, se apaixona por uma princesa (Dorothy Lamour) que est\u00e1 prometida a um grande e perigoso chefe chamado Mullay Kasim (Anthony Quinn). Enquanto isso, Turkey acaba ficando feliz sendo cercado por mulheres bonitas mas tudo isso seria um plano para arruin\u00e1-lo. Jeff ent\u00e3o, o ajuda e os dois escapam com a princesa com o objetivo de n\u00e3o cair em uma enrascada pior de Mullay Kasim.",
+                "vote_average": 6.9,
+                "vote_count": 64
+            },
+            "winner": false
+        },
+        {
+            "first_label": "This above All",
+            "second_label": "20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director",
+            "category": "Sound Recording",
+            "year": 1943,
+            "tmdb": {
+                "id": 110628,
+                "original_title": "This Above All",
+                "title": "This Above All",
+                "release_date": "1942-05-12",
+                "backdrop_path": "/2iGtBG5UG3FiTVuKxh6Zlx3FyVY.jpg",
+                "poster_path": "/8AkgCCS7yZyoK58v6j5LnqGWyr.jpg",
+                "overview": "In 1940 England, aristocratic Prudence Cathaway alarms her snobbish parents by joining the WAF service branch. She soon meets and falls in love with the brooding Clive Briggs, despite his prejudice against the upper classes, and agrees to spend a week with him at a Dover hotel. When Clive's soldier friend, Monty, arrives to retrieve him, Prudence learns that Clive went AWOL after Dunkirk, and urges him to recall why England must fight the war.",
+                "vote_average": 6.6,
+                "vote_count": 15
+            },
+            "winner": false
+        },
+        {
+            "first_label": "You Were Never Lovelier",
+            "second_label": "Columbia Studio Sound Department, John Livadary, Sound Director",
+            "category": "Sound Recording",
+            "year": 1943,
+            "tmdb": {
+                "id": 43787,
+                "original_title": "You Were Never Lovelier",
+                "title": "Bonita Como Nunca",
+                "release_date": "1942-11-19",
+                "backdrop_path": "/e8j21r0gVtJhUPwmP5VMaTTdKPw.jpg",
+                "poster_path": "/25sxEClJ3pvBygj0HA7tvjjkw61.jpg",
+                "overview": "O Acunas, uma rica fam\u00edlia argentina, seguem a tradi\u00e7\u00e3o de que as filhas t\u00eam de se casar em ordem, primeiro as mais velhas. Quando a irm\u00e3 # 1 se casa, as irm\u00e3s # 3 e # 4, que j\u00e1 escolheram seus futuros maridos, fazem press\u00e3o sobre Maria a irm\u00e3 # 2. Mas Maria ainda n\u00e3o conheceu um homem que goste. O pai Eduardo Acuna, acreditando que os homens n\u00e3o s\u00e3o rom\u00e2nticos suficiente nos dias de hoje, envia para sua filha flores e cartas de amor an\u00f4nimas, criando um \"homem misterioso\" para ela se apaixonar. Ele pretende escolher um rapaz apropriado para ela mais tarde, para ocupar o papel. Mas Robert Davis, um dan\u00e7arino americano \u00e0 procura de trabalho, surge em cena. Maria se apaixona por ele, mas o pai n\u00e3o aprova.",
+                "vote_average": 7.2,
+                "vote_count": 46
+            },
+            "winner": false
+        }
+    ],
+    "Special Award": [
+        {
+            "first_label": "In Which We Serve",
+            "second_label": "Special Award",
+            "category": "Special Award",
+            "year": 1943,
+            "tmdb": {
+                "id": 28093,
+                "original_title": "In Which We Serve",
+                "title": "Nosso Barco, Nossa Alma",
+                "release_date": "1942-09-17",
+                "backdrop_path": "/8kJfcHdKQYtyCHNoyN8k2eZZph0.jpg",
+                "poster_path": "/i4SkM1rzBROLt9d33u0KGr2SVVm.jpg",
+                "overview": "O contratorpedeiro Torrin resiste bravamente a um ataque das pot\u00eancias do Eixo, por\u00e9m precisa retornar \u00e0s praias inglesas para reparos. De volta \u00e0 ativa, ele participa da retirada de Dunquerque e acaba por so\u00e7obrar em Creta, vitimado pelo inimigo. Enquanto aguardam socorro, os sobreviventes revelam porque e para quem continuam a lutar.",
+                "vote_average": 6.8,
+                "vote_count": 80
+            },
+            "winner": true
+        }
+    ],
+    "Special Effects": [
+        {
+            "first_label": "Reap the Wild Wind",
+            "second_label": "Photographic Effects by Gordon Jennings, Farciot Edouart, William L. Pereira; Sound Effects by Louis Mesenkop",
+            "category": "Special Effects",
+            "year": 1943,
+            "tmdb": {
+                "id": 63617,
+                "original_title": "Reap the Wild Wind",
+                "title": "Vendaval de Paix\u00f5es",
+                "release_date": "1942-03-26",
+                "backdrop_path": "/eCa0lE8q6r9zf18jRkraDdOvWOr.jpg",
+                "poster_path": "/xlHqEEFochNN1Jy9aTPGcrhQcLR.jpg",
+                "overview": "Loxi \u00e9 a jovem empres\u00e1ria que cuida de uma empresa de manuten\u00e7\u00e3o de barcos. O neg\u00f3cio \u00e9 muito lucrativo, uma vez que a costa da Fl\u00f3rida em 1840 possui \u00e1guas rasas e coberta de corais. Quando resgata um navio bastante danificado, Loxi conhece o capit\u00e3o Jack Stuart, por quem se apaixona. A ponto de lutar ao lado do amado para convencer os propriet\u00e1rios do barco que Stuart n\u00e3o teve nenhuma culpa nos estragos. O romance entre eles estar\u00e1 em risco quando o advogado contratado por ela, Stephen Tolliver, tamb\u00e9m se apaixona pela mo\u00e7a.",
+                "vote_average": 6.5,
+                "vote_count": 47
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Black Swan",
+            "second_label": "Photographic Effects by Fred Sersen; Sound Effects by Roger Heman, George Leverett",
+            "category": "Special Effects",
+            "year": 1943,
+            "tmdb": {
+                "id": 29882,
+                "original_title": "The Black Swan",
+                "title": "O Cisne Negro",
+                "release_date": "1942-12-04",
+                "backdrop_path": "/vK6SQRCjeaJUKKcpcv9urqSE5pt.jpg",
+                "poster_path": "/xGeoslDZmLq0k5bIN71sswdzm7Y.jpg",
+                "overview": "Quando o not\u00f3rio pirata Henry Morgan \u00e9 nomeado governador da Jamaica, ele pede a ajuda de alguns de seus ex-parceiros para livrar o Caribe dos Bucaneiros. Quando um deles aparentemente seq\u00fcestra a linda filha do governador anterior e se junta aos rebeldes, as coisas est\u00e3o prontas para uma briga. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.3,
+                "vote_count": 76
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Desperate Journey",
+            "second_label": "Photographic Effects by Byron Haskin; Sound Effects by Nathan Levinson",
+            "category": "Special Effects",
+            "year": 1943,
+            "tmdb": {
+                "id": 55236,
+                "original_title": "Desperate Journey",
+                "title": "Fugitivos do Inferno",
+                "release_date": "1942-09-26",
+                "backdrop_path": "/2lRKisbklh2gkNvqItzM2AA7qEt.jpg",
+                "poster_path": "/5zT8BBlBIPiBnoRx7a7344AwStm.jpg",
+                "overview": "Designado para bombardear uma ferrovia alem\u00e3, o Tenente aviador Terrence Forbes (Errol Flynn) realiza sua miss\u00e3o, mas retorna em uma velocidade muito baixa e o bombardeiro da RAF \u00e9 abatido perto da antiga fronteira polonesa. Juntamente com sua equipe, composta do oficial Johnny Hammond (Ronald Reagan), do Sgt. Kirk Edwards (Alan Hale), oficial Jed Forrest (Arthur Kennedy) e do Sgt. Lloyd Hollis (Ronald Sinclair), que se acha ferido, Forbes \u00e9 capturado pela Gestapo. Interrogado pelo Mj. Otto Baumeister (Raymond Massey), Forbes consegue nocaute\u00e1-lo, e junto a seu grupo, come\u00e7a uma fuga desesperada para sa\u00edrem vivos da Alemanha. Agora, eles ter\u00e3o de correr contra o rel\u00f3gio para escapar do Major, que busca vingan\u00e7a.",
+                "vote_average": 5.9,
+                "vote_count": 24
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Flying Tigers",
+            "second_label": "Photographic Effects by Howard Lydecker; Sound Effects by Daniel J. Bloomberg",
+            "category": "Special Effects",
+            "year": 1943,
+            "tmdb": {
+                "id": 29372,
+                "original_title": "Flying Tigers",
+                "title": "Tigres Voadores",
+                "release_date": "1942-10-08",
+                "backdrop_path": "/vKtDoxuJ5A63GOW2QlgT17CdHwG.jpg",
+                "poster_path": "/1Aee8HBwkq1yjKYMnL9YMPhXJZ.jpg",
+                "overview": "Eram o terror dos c\u00e9us, um pequeno grupo de mercen\u00e1rios ousados, que guerrearam contra os japoneses em defesa da liberdade na China. Eles eram os ases, os aventureiros e os her\u00f3is. Os pilotos mais respeitados de toda Am\u00e9rica, os Tigres Voadores! Com habilidade e coragem incompar\u00e1veis, Jim Gordon (John Wayne), o comandante dos Tigres, era uma arma poderosa no c\u00e9u da China. Mas os Tigres Voadores v\u00e3o enfrentar muitas batalhas no solo.",
+                "vote_average": 6.2,
+                "vote_count": 45
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Invisible Agent",
+            "second_label": "Photographic Effects by John Fulton; Sound Effects by Bernard B. Brown",
+            "category": "Special Effects",
+            "year": 1943,
+            "tmdb": {
+                "id": 28426,
+                "original_title": "Invisible Agent",
+                "title": "O Agente Invis\u00edvel",
+                "release_date": "1942-08-07",
+                "backdrop_path": "/bQcWWA0kFDjcei4ECXEUwIjNjQK.jpg",
+                "poster_path": "/2yybvJ8qeTv3efX8LP0q1KGleDJ.jpg",
+                "overview": "Os alem\u00e3es desejam comprar a f\u00f3rmula da invisibilidade com o filho do Dr. Frank Griffin. Este por sua vez, n\u00e3o vende a f\u00f3rmula, e os Estados Unidos no per\u00edodo da Segunda Guerra Mundial, tamb\u00e9m desejam o produto. Mas Frank Raymond resolve dar a f\u00f3rmula com a condi\u00e7\u00e3o de que ele mesmo a tome e se infiltre nos quart\u00e9is generais dos nazistas, a fim de pegar um caderno com o nome de todos agentes duplos infiltrados nos Estados Unidos e tamb\u00e9m evitar um grande ataque em massa \u00e0 Nova York que planejaram. Com a ajuda na Alemanha de Maria Soreson (Ilona Massey), o agente invis\u00edvel poder\u00e1 auxiliar na Guerra mais do que mil espi\u00f5es juntos.",
+                "vote_average": 5.9,
+                "vote_count": 42
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jungle Book",
+            "second_label": "Photographic Effects by Lawrence Butler; Sound Effects by William H. Wilmarth",
+            "category": "Special Effects",
+            "year": 1943,
+            "tmdb": {
+                "id": 23033,
+                "original_title": "Jungle Book",
+                "title": "Mogli: O Menino Lobo",
+                "release_date": "1942-04-03",
+                "backdrop_path": "/7m7APJ99k0A6ojExFTKI3lU3ijV.jpg",
+                "poster_path": "/zYkffyYCFO1Li1f20MyaAYUaYC4.jpg",
+                "overview": "Adapta\u00e7\u00e3o da eterna aventura na floresta escreita por Rudyard Kipling. Estrelando Sabu, o jovem indiano que ganhou fama internacional como Mogli, um \u00f3rf\u00e3o criado por lobos e amigo de todos os animais selvagens. Quando Mogli volta para sua terra natal, j\u00e1 crescido, ele descobre os estranhos modos dos homens. L\u00e1 ele encontra Mahala, uma alde\u00e3 encantadora, que fica impressionada com seus amigos animais. Juntos, eles fazem uma viagem atrav\u00e9s da floresta, at\u00e9 encontrarem ru\u00ednas cheias de tesouros de uma civiliza\u00e7\u00e3o perdida.",
+                "vote_average": 6.2,
+                "vote_count": 97
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mrs. Miniver",
+            "second_label": "Photographic Effects by A. Arnold Gillespie, Warren Newcombe; Sound Effects by Douglas Shearer",
+            "category": "Special Effects",
+            "year": 1943,
+            "tmdb": {
+                "id": 27367,
+                "original_title": "Mrs. Miniver",
+                "title": "Rosa de Esperan\u00e7a",
+                "release_date": "1942-07-03",
+                "backdrop_path": "/kKD59GDPeapxwKp5FNSOLd7CQWe.jpg",
+                "poster_path": "/8EaKyKp3lW5YCDHDnF4wZ5lqIqo.jpg",
+                "overview": "Com o in\u00edcio da segunda guerra mundial, Vin, o filho mais velho, regressa da universidade e se apaixona por Carol Beldon, neta de Lady Beldon, uma aristocrata de Beldon Hall, uma mans\u00e3o vizinha. Apesar de discord\u00e2ncias iniciais, se casam. Com a iminente amea\u00e7a de ataques a\u00e9reos \u00e0 Inglaterra, Vin decide fazer sua parte e se junta \u00e0 For\u00e7a A\u00e9rea Real como piloto. \u00c9 enviado para uma base localizada perto da casa dos pais. Clem ajuda na Opera\u00e7\u00e3o Dynamo com o barco a motor da fam\u00edlia. Sozinha em casa, a Sra. Miniver encontra um piloto alem\u00e3o ferido em seu jardim. Ela o alimenta, o desarma calmamente e avisa \u00e0s autoridades locais.",
+                "vote_average": 7.021,
+                "vote_count": 238
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Navy Comes Through",
+            "second_label": "Photographic Effects by Vernon L. Walker; Sound Effects by James G. Stewart",
+            "category": "Special Effects",
+            "year": 1943,
+            "tmdb": {
+                "id": 99674,
+                "original_title": "The Navy Comes Through",
+                "title": "Emboscada em Alto Mar",
+                "release_date": "1942-10-30",
+                "backdrop_path": "/gQq2TCey5zR0GQ9HeKn6sRxwsl5.jpg",
+                "poster_path": "/zLJEz5ESATiWb64v97YbEddE4Mh.jpg",
+                "overview": "A U.S. Navy crew aboard a merchant marine ship battle Nazis.",
+                "vote_average": 5.6,
+                "vote_count": 9
+            },
+            "winner": false
+        },
+        {
+            "first_label": "One of Our Aircraft Is Missing",
+            "second_label": "Photographic Effects by Ronald Neame; Sound Effects by C. C. Stevens",
+            "category": "Special Effects",
+            "year": 1943,
+            "tmdb": {
+                "id": 43780,
+                "original_title": "One of Our Aircraft Is Missing",
+                "title": "E... Um Avi\u00e3o N\u00e3o Regressou",
+                "release_date": "1942-04-24",
+                "backdrop_path": "/sDwCcdC38mhzl9ryfpvkhroMWjR.jpg",
+                "poster_path": "/fDL8iat0Yhii2dKRc4nQEEWVhvQ.jpg",
+                "overview": "Quando o fogo antia\u00e9reo dos Nazistas danificam um bombardeiro brit\u00e2nico, sua tripula\u00e7\u00e3o salta e vai a procura de ajuda da resist\u00eancia holandesa.  Durante a ofensiva de Bombardeio dos Aliado na Segunda Guerra Mundial, o p\u00fablico foi frequentemente informado de que \"Um ataque ocorreu ontem \u00e0 noite sobre ..., Uma (ou muitas vezes mais) de Nossas Aeronave est\u00e1 Desaparecida\". Atr\u00e1s destas palavras sombrias estavam hist\u00f3rias de morte, destrui\u00e7\u00e3o e bravura. Esta \u00e9 a hist\u00f3ria de uma dessas tripula\u00e7\u00f5es de bombardeio que foram abatidos e os valentes patriotas holandeses que os ajudaram a voltar para casa. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.5,
+                "vote_count": 34
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Pride of the Yankees",
+            "second_label": "Photographic Effects by Jack Cosgrove, Ray Binger; Sound Effects by Thomas T. Moulton",
+            "category": "Special Effects",
+            "year": 1943,
+            "tmdb": {
+                "id": 19140,
+                "original_title": "The Pride of the Yankees",
+                "title": "The Pride of the Yankees",
+                "release_date": "1942-07-14",
+                "backdrop_path": "/bd57iZNhXjX4Olm22XqXHondbBL.jpg",
+                "poster_path": "/tbSMm0IAa5WgTcyoeUn7AKAViVY.jpg",
+                "overview": "The story of the life and career of the baseball hall of famer, Lou Gehrig.",
+                "vote_average": 7.3,
+                "vote_count": 108
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Original Motion Picture Story)": [
+        {
+            "first_label": "The Invaders",
+            "second_label": "Emeric Pressburger",
+            "category": "Writing (Original Motion Picture Story)",
+            "year": 1943,
+            "tmdb": {
+                "id": 21735,
+                "original_title": "49th Parallel",
+                "title": "Invas\u00e3o de B\u00e1rbaros",
+                "release_date": "1941-11-24",
+                "backdrop_path": "/nvuaUT8kDUyjsRUcNemwuJjTVWD.jpg",
+                "poster_path": "/m4YTQv9fHYB2nZ7M2Al6wzOmrYe.jpg",
+                "overview": "Uma tripula\u00e7\u00e3o de U-boat da Segunda Guerra Mundial est\u00e1 encalhada no norte do Canad\u00e1. Para evitar o aprisionamento, eles devem ir at\u00e9 a fronteira e entrar nos EUA que ainda est\u00e3o neutros.",
+                "vote_average": 6.9,
+                "vote_count": 97
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Holiday Inn",
+            "second_label": "Irving Berlin",
+            "category": "Writing (Original Motion Picture Story)",
+            "year": 1943,
+            "tmdb": {
+                "id": 13485,
+                "original_title": "Holiday Inn",
+                "title": "Duas Semanas de Prazer",
+                "release_date": "1942-07-10",
+                "backdrop_path": "/4xM4PBZ7hCeMZAQn1pC1Baxmzaq.jpg",
+                "poster_path": "/7eZzwqLM1w1Mljg60rzB1zr27lu.jpg",
+                "overview": "Numa pousada que funciona apenas nas ferias, um cantor e um dan\u00e7arino disputam o amor de uma bela artista em ascens\u00e3o. A bela Linda Mason faz do crooner Jim Hardy um bobo perdidamente apaixonado. Mas passo a passo, suavemente, Ted Hanover a convence a ser sua nova parceira de dan\u00e7a, depois da femme fatale Lila Dixon lhe dar o cano. A ceia de natal do Jim, no Holiday Inn, \u00e9 o cen\u00e1rio para a disputa entre Hanover e o gerente Danny Reed. A m\u00fasica \u00e9 o tema. (e 10 - Estimado 10 Anos)",
+                "vote_average": 7.0,
+                "vote_count": 184
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Pride of the Yankees",
+            "second_label": "Paul Gallico",
+            "category": "Writing (Original Motion Picture Story)",
+            "year": 1943,
+            "tmdb": {
+                "id": 19140,
+                "original_title": "The Pride of the Yankees",
+                "title": "The Pride of the Yankees",
+                "release_date": "1942-07-14",
+                "backdrop_path": "/bd57iZNhXjX4Olm22XqXHondbBL.jpg",
+                "poster_path": "/tbSMm0IAa5WgTcyoeUn7AKAViVY.jpg",
+                "overview": "The story of the life and career of the baseball hall of famer, Lou Gehrig.",
+                "vote_average": 7.3,
+                "vote_count": 108
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Talk of the Town",
+            "second_label": "Sidney Harmon",
+            "category": "Writing (Original Motion Picture Story)",
+            "year": 1943,
+            "tmdb": {
+                "id": 23159,
+                "original_title": "The Talk of the Town",
+                "title": "E a Vida Continua",
+                "release_date": "1942-08-20",
+                "backdrop_path": "/5DYlPcpI5XQq1IrYt3AZGzqbgWZ.jpg",
+                "poster_path": "/eok5KEipiq3y6KhAryUkIqQpxWM.jpg",
+                "overview": "When the Holmes Woolen Mill burns down, political activist Leopold Dilg is jailed for arson and accidental murder. Escaping, Leopold hides out in the home of his childhood sweetheart Nora Shelley... which she has just rented to unsuspecting law professor Michael Lightcap.",
+                "vote_average": 7.2,
+                "vote_count": 91
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Yankee Doodle Dandy",
+            "second_label": "Robert Buckner",
+            "category": "Writing (Original Motion Picture Story)",
+            "year": 1943,
+            "tmdb": {
+                "id": 3087,
+                "original_title": "Yankee Doodle Dandy",
+                "title": "A Can\u00e7\u00e3o da Vit\u00f3ria",
+                "release_date": "1942-05-29",
+                "backdrop_path": "/mVhtWsCu6z58fmpIP7SHcwdCGDz.jpg",
+                "poster_path": "/cYCnnBVjZ8G9Nv0J4bfz56n8kfQ.jpg",
+                "overview": "George M. Cohan (James Cagney) conta sua vida em flashback, em um tom modesto, a Franklin Roosevelt (Jack Young). Ele foi um lend\u00e1rio artista da Broadway que viveu a \u00e9poca de ouro do teatro musical nos Estados Unidos, hist\u00f3ria que \u00e9 contada atrav\u00e9s de n\u00fameros de dan\u00e7a e can\u00e7\u00f5es. Cohan passou mais de 55 anos nos palcos, estrelou mais de 30 pe\u00e7as e podia dizer por a\u00ed que j\u00e1 havia cantado e dan\u00e7ado mais de 500 can\u00e7\u00f5es. Por isso tudo, sua hist\u00f3ria pessoal se confunde com a hist\u00f3ria americana.",
+                "vote_average": 7.0,
+                "vote_count": 196
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Original Screenplay)": [
+        {
+            "first_label": "Woman of the Year",
+            "second_label": "Ring Lardner, Jr., Michael Kanin",
+            "category": "Writing (Original Screenplay)",
+            "year": 1943,
+            "tmdb": {
+                "id": 20640,
+                "original_title": "Woman of the Year",
+                "title": "A Mulher do Dia",
+                "release_date": "1942-02-05",
+                "backdrop_path": "/dpvDxlfv0G3pmok59YcFquzLon4.jpg",
+                "poster_path": "/fiO6vidPfaox0b5UR6OxGl4Hqut.jpg",
+                "overview": "Tess e Sam trabalham no mesmo jornal e n\u00e3o gostam muito um do outro. Pelo menos na primeira vez, porque eles acabam se apaixonando e se casando. Mas Tess \u00e9 uma mulher muito ativa e uma das feministas mais famosas do pa\u00eds; ela \u00e9 ainda eleita como \"A Mulher do Ano\". Por estar ocupada o tempo todo, ela se esquece de como ser realmente uma mulher e Sam come\u00e7a a se sentir negligenciado.",
+                "vote_average": 6.9,
+                "vote_count": 135
+            },
+            "winner": true
+        },
+        {
+            "first_label": "One of Our Aircraft Is Missing",
+            "second_label": "Michael Powell, Emeric Pressburger",
+            "category": "Writing (Original Screenplay)",
+            "year": 1943,
+            "tmdb": {
+                "id": 43780,
+                "original_title": "One of Our Aircraft Is Missing",
+                "title": "E... Um Avi\u00e3o N\u00e3o Regressou",
+                "release_date": "1942-04-24",
+                "backdrop_path": "/sDwCcdC38mhzl9ryfpvkhroMWjR.jpg",
+                "poster_path": "/fDL8iat0Yhii2dKRc4nQEEWVhvQ.jpg",
+                "overview": "Quando o fogo antia\u00e9reo dos Nazistas danificam um bombardeiro brit\u00e2nico, sua tripula\u00e7\u00e3o salta e vai a procura de ajuda da resist\u00eancia holandesa.  Durante a ofensiva de Bombardeio dos Aliado na Segunda Guerra Mundial, o p\u00fablico foi frequentemente informado de que \"Um ataque ocorreu ontem \u00e0 noite sobre ..., Uma (ou muitas vezes mais) de Nossas Aeronave est\u00e1 Desaparecida\". Atr\u00e1s destas palavras sombrias estavam hist\u00f3rias de morte, destrui\u00e7\u00e3o e bravura. Esta \u00e9 a hist\u00f3ria de uma dessas tripula\u00e7\u00f5es de bombardeio que foram abatidos e os valentes patriotas holandeses que os ajudaram a voltar para casa. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.5,
+                "vote_count": 34
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Road to Morocco",
+            "second_label": "Frank Butler, Don Hartman",
+            "category": "Writing (Original Screenplay)",
+            "year": 1943,
+            "tmdb": {
+                "id": 31805,
+                "original_title": "Road to Morocco",
+                "title": "A Sedu\u00e7\u00e3o de Marrocos",
+                "release_date": "1942-11-10",
+                "backdrop_path": "/q3oxb8KBBc3XvIsQjtLwYIGEFmR.jpg",
+                "poster_path": "/bjnlNAyoMEDWzGEvC7FBzA8Qlym.jpg",
+                "overview": "Jeff Peters (Bing Crosby) e Turkey Jackson (Bob Hope) acidentalmente, acabam naufragando em plena costa de Marrocos e para ganhar algum dinheiro, Jeff vende Turkey como escravo e al\u00e9m disso, se apaixona por uma princesa (Dorothy Lamour) que est\u00e1 prometida a um grande e perigoso chefe chamado Mullay Kasim (Anthony Quinn). Enquanto isso, Turkey acaba ficando feliz sendo cercado por mulheres bonitas mas tudo isso seria um plano para arruin\u00e1-lo. Jeff ent\u00e3o, o ajuda e os dois escapam com a princesa com o objetivo de n\u00e3o cair em uma enrascada pior de Mullay Kasim.",
+                "vote_average": 6.9,
+                "vote_count": 64
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Wake Island",
+            "second_label": "W. R. Burnett, Frank Butler",
+            "category": "Writing (Original Screenplay)",
+            "year": 1943,
+            "tmdb": {
+                "id": 43786,
+                "original_title": "Wake Island",
+                "title": "Nossos Mortos Ser\u00e3o Vingados",
+                "release_date": "1942-08-11",
+                "backdrop_path": "/g9kAFh9Xp05fQsbv12MbeQGBpxS.jpg",
+                "poster_path": "/8ytAmQG8E03niY1lqSCHd0w1ghI.jpg",
+                "overview": "In late 1941, with no hope of relief or re-supply, a small band of United States Marines tries to keep the Japanese Navy from capturing their island base.",
+                "vote_average": 5.5,
+                "vote_count": 23
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The War against Mrs. Hadley",
+            "second_label": "George Oppenheimer",
+            "category": "Writing (Original Screenplay)",
+            "year": 1943,
+            "tmdb": {
+                "id": 100528,
+                "original_title": "The War Against Mrs. Hadley",
+                "title": "A\u00e7o da Mesma T\u00eampera",
+                "release_date": "1942-08-07",
+                "backdrop_path": "/z6s3xbUrYBPLyjfizUTRqFus4Dd.jpg",
+                "poster_path": "/1bwo2eZOJZ4R8EtlAmFIZICTODx.jpg",
+                "overview": "Wealthy American society matron, Stella Hadley refuses to sacrifice her material comforts to aid the war effort until she realizes that her selfishness is cheating the boys overseas who are fighting for her freedom.",
+                "vote_average": 4.8,
+                "vote_count": 5
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay)": [
+        {
+            "first_label": "Mrs. Miniver",
+            "second_label": "Arthur Wimperis, George Froeschel, James Hilton, Claudine West",
+            "category": "Writing (Screenplay)",
+            "year": 1943,
+            "tmdb": {
+                "id": 27367,
+                "original_title": "Mrs. Miniver",
+                "title": "Rosa de Esperan\u00e7a",
+                "release_date": "1942-07-03",
+                "backdrop_path": "/kKD59GDPeapxwKp5FNSOLd7CQWe.jpg",
+                "poster_path": "/8EaKyKp3lW5YCDHDnF4wZ5lqIqo.jpg",
+                "overview": "Com o in\u00edcio da segunda guerra mundial, Vin, o filho mais velho, regressa da universidade e se apaixona por Carol Beldon, neta de Lady Beldon, uma aristocrata de Beldon Hall, uma mans\u00e3o vizinha. Apesar de discord\u00e2ncias iniciais, se casam. Com a iminente amea\u00e7a de ataques a\u00e9reos \u00e0 Inglaterra, Vin decide fazer sua parte e se junta \u00e0 For\u00e7a A\u00e9rea Real como piloto. \u00c9 enviado para uma base localizada perto da casa dos pais. Clem ajuda na Opera\u00e7\u00e3o Dynamo com o barco a motor da fam\u00edlia. Sozinha em casa, a Sra. Miniver encontra um piloto alem\u00e3o ferido em seu jardim. Ela o alimenta, o desarma calmamente e avisa \u00e0s autoridades locais.",
+                "vote_average": 7.021,
+                "vote_count": 238
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Invaders",
+            "second_label": "Rodney Ackland, Emeric Pressburger",
+            "category": "Writing (Screenplay)",
+            "year": 1943,
+            "tmdb": {
+                "id": 21735,
+                "original_title": "49th Parallel",
+                "title": "Invas\u00e3o de B\u00e1rbaros",
+                "release_date": "1941-11-24",
+                "backdrop_path": "/nvuaUT8kDUyjsRUcNemwuJjTVWD.jpg",
+                "poster_path": "/m4YTQv9fHYB2nZ7M2Al6wzOmrYe.jpg",
+                "overview": "Uma tripula\u00e7\u00e3o de U-boat da Segunda Guerra Mundial est\u00e1 encalhada no norte do Canad\u00e1. Para evitar o aprisionamento, eles devem ir at\u00e9 a fronteira e entrar nos EUA que ainda est\u00e3o neutros.",
+                "vote_average": 6.9,
+                "vote_count": 97
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Pride of the Yankees",
+            "second_label": "Jo Swerling, Herman J. Mankiewicz",
+            "category": "Writing (Screenplay)",
+            "year": 1943,
+            "tmdb": {
+                "id": 19140,
+                "original_title": "The Pride of the Yankees",
+                "title": "The Pride of the Yankees",
+                "release_date": "1942-07-14",
+                "backdrop_path": "/bd57iZNhXjX4Olm22XqXHondbBL.jpg",
+                "poster_path": "/tbSMm0IAa5WgTcyoeUn7AKAViVY.jpg",
+                "overview": "The story of the life and career of the baseball hall of famer, Lou Gehrig.",
+                "vote_average": 7.3,
+                "vote_count": 108
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Random Harvest",
+            "second_label": "Claudine West, George Froeschel, Arthur Wimperis",
+            "category": "Writing (Screenplay)",
+            "year": 1943,
+            "tmdb": {
+                "id": 22387,
+                "original_title": "Random Harvest",
+                "title": "Na Noite do Passado",
+                "release_date": "1942-12-17",
+                "backdrop_path": "/7p5XTeAZAIXykWZhWHgkjBOjlPo.jpg",
+                "poster_path": "/x5W3FOGmifwK3e8IhLDQYvURIw2.jpg",
+                "overview": "An amnesiac World War I vet falls in love with a music hall star, only to suffer an accident which restores his original memories but erases his post-War life.",
+                "vote_average": 7.2,
+                "vote_count": 92
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Talk of the Town",
+            "second_label": "Irwin Shaw, Sidney Buchman",
+            "category": "Writing (Screenplay)",
+            "year": 1943,
+            "tmdb": {
+                "id": 23159,
+                "original_title": "The Talk of the Town",
+                "title": "E a Vida Continua",
+                "release_date": "1942-08-20",
+                "backdrop_path": "/5DYlPcpI5XQq1IrYt3AZGzqbgWZ.jpg",
+                "poster_path": "/eok5KEipiq3y6KhAryUkIqQpxWM.jpg",
+                "overview": "When the Holmes Woolen Mill burns down, political activist Leopold Dilg is jailed for arson and accidental murder. Escaping, Leopold hides out in the home of his childhood sweetheart Nora Shelley... which she has just rented to unsuspecting law professor Michael Lightcap.",
+                "vote_average": 7.2,
+                "vote_count": 91
+            },
+            "winner": false
+        }
+    ]
+}

@@ -1,0 +1,3108 @@
+{
+    "Actor": [
+        {
+            "first_label": "Gary Cooper",
+            "second_label": "Sergeant York",
+            "category": "Actor",
+            "year": 1942,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Cary Grant",
+            "second_label": "Penny Serenade",
+            "category": "Actor",
+            "year": 1942,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Walter Huston",
+            "second_label": "All That Money Can Buy",
+            "category": "Actor",
+            "year": 1942,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Robert Montgomery",
+            "second_label": "Here Comes Mr. Jordan",
+            "category": "Actor",
+            "year": 1942,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Orson Welles",
+            "second_label": "Citizen Kane",
+            "category": "Actor",
+            "year": 1942,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Donald Crisp",
+            "second_label": "How Green Was My Valley",
+            "category": "Actor in a Supporting Role",
+            "year": 1942,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Walter Brennan",
+            "second_label": "Sergeant York",
+            "category": "Actor in a Supporting Role",
+            "year": 1942,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Charles Coburn",
+            "second_label": "The Devil and Miss Jones",
+            "category": "Actor in a Supporting Role",
+            "year": 1942,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "James Gleason",
+            "second_label": "Here Comes Mr. Jordan",
+            "category": "Actor in a Supporting Role",
+            "year": 1942,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sydney Greenstreet",
+            "second_label": "The Maltese Falcon",
+            "category": "Actor in a Supporting Role",
+            "year": 1942,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress": [
+        {
+            "first_label": "Joan Fontaine",
+            "second_label": "Suspicion",
+            "category": "Actress",
+            "year": 1942,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Bette Davis",
+            "second_label": "The Little Foxes",
+            "category": "Actress",
+            "year": 1942,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Olivia de Havilland",
+            "second_label": "Hold Back the Dawn",
+            "category": "Actress",
+            "year": 1942,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Greer Garson",
+            "second_label": "Blossoms in the Dust",
+            "category": "Actress",
+            "year": 1942,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Barbara Stanwyck",
+            "second_label": "Ball of Fire",
+            "category": "Actress",
+            "year": 1942,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Mary Astor",
+            "second_label": "The Great Lie",
+            "category": "Actress in a Supporting Role",
+            "year": 1942,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Sara Allgood",
+            "second_label": "How Green Was My Valley",
+            "category": "Actress in a Supporting Role",
+            "year": 1942,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Patricia Collinge",
+            "second_label": "The Little Foxes",
+            "category": "Actress in a Supporting Role",
+            "year": 1942,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Teresa Wright",
+            "second_label": "The Little Foxes",
+            "category": "Actress in a Supporting Role",
+            "year": 1942,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Margaret Wycherly",
+            "second_label": "Sergeant York",
+            "category": "Actress in a Supporting Role",
+            "year": 1942,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction (Black-and-White)": [
+        {
+            "first_label": "How Green Was My Valley",
+            "second_label": "Art Direction: Richard Day, Nathan Juran; Interior Decoration: Thomas Little",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1942,
+            "tmdb": {
+                "id": 43266,
+                "original_title": "How Green Was My Valley",
+                "title": "Como Era Verde o Meu Vale",
+                "release_date": "1941-10-28",
+                "backdrop_path": "/ucQESsrG63LsA5HD70aaPxEyORk.jpg",
+                "poster_path": "/1D2linQi2VWojXn7SkHyKxT1z3m.jpg",
+                "overview": "Aos 60 anos, Huw Morgan relembra sua vida quando garoto (Roddy McDowall) em uma pequena cidade mineradora. Suas reminisc\u00eancias revelam a desintegra\u00e7\u00e3o da unida fam\u00edlia Morgan e de seus dedicados pais (Donald Crisp e Sara Allgood), enquanto capta os sentimentos e problemas daquele tempo. Maureen O\u2019Hara e Walter Pidgeon co-estrelam este aclamado cl\u00e1ssico das telas nesta hist\u00f3ria sobre sonhos, lutas e triunfos de uma fam\u00edlia.",
+                "vote_average": 7.2,
+                "vote_count": 367
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Citizen Kane",
+            "second_label": "Art Direction: Perry Ferguson, Van Nest Polglase; Interior Decoration: Al Fields, Darrell Silvera",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1942,
+            "tmdb": {
+                "id": 15,
+                "original_title": "Citizen Kane",
+                "title": "Cidad\u00e3o Kane",
+                "release_date": "1941-04-17",
+                "backdrop_path": "/ruF3Lmd4A8MHbnEBE6lxPMbsHGL.jpg",
+                "poster_path": "/2pJ2voOH3QqfgDygG6e9W48YBLt.jpg",
+                "overview": "Charles Foster Kane foi um menino pobre que acaba se tornando um dos homens mais ricos do mundo. O filme inicia com a sua morte, momentos antes da qual pronuncia a palavra \"Rosebud\". Ap\u00f3s dias de sensacionalismo em cima da not\u00edcia de sua morte, o jornalista Jerry Thompson \u00e9 enviado por seu chefe para investigar a vida de Kane, a fim de descobrir o sentido de sua \u00faltima palavra, a qual ningu\u00e9m sabia. Entrevistando pessoas do passado de Kane, o jornalista mergulha na vida de um homem solit\u00e1rio, que desde a inf\u00e2ncia \u00e9 obrigado a seguir a vontade alheia. Ningu\u00e9m a seu redor importa-se com Kane, que busca por meio da aquisi\u00e7\u00e3o de bens a adora\u00e7\u00e3o das pessoas. Ao final, Thompson, ap\u00f3s a exaustiva investiga\u00e7\u00e3o da vida de Kane atrav\u00e9s de entrevistas, se v\u00ea incapaz de descobrir o significado da palavra, concluindo que \"Charles Foster Kane foi um homem que possuiu tudo o que quis e depois perdeu tudo. Talvez Rosebud seja algo que ele nunca tenha possu\u00eddo ou algo que tenha perdido\".",
+                "vote_average": 8.008,
+                "vote_count": 5243
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Flame of New Orleans",
+            "second_label": "Art Direction: Martin Obzina, Jack Otterson; Interior Decoration: Russell A. Gausman",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1942,
+            "tmdb": {
+                "id": 61109,
+                "original_title": "The Flame of New Orleans",
+                "title": "Paix\u00e3o Fatal",
+                "release_date": "1941-07-07",
+                "backdrop_path": "/vCB9xZJMkytvESDUVQ2YVxX4gW9.jpg",
+                "poster_path": "/rWpX53eaQo1IMj51jZkqu9984wN.jpg",
+                "overview": "In old New Orleans, a beautiful adventuress juggles the attentions of a rich banker and a dashing sea captain.",
+                "vote_average": 6.0,
+                "vote_count": 15
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hold Back the Dawn",
+            "second_label": "Art Direction: Hans Dreier, Robert Usher; Interior Decoration: Sam Comer",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1942,
+            "tmdb": {
+                "id": 51395,
+                "original_title": "Hold Back the Dawn",
+                "title": "A Porta de Ouro",
+                "release_date": "1941-09-26",
+                "backdrop_path": "/uudTreOlFCOefYNGXFlLcaAI3lj.jpg",
+                "poster_path": "/9glz9yMbU9gDIrtU7R4HeNxApGT.jpg",
+                "overview": "Romanian-French gigolo Georges Iscovescu wishes to enter the USA. Stopped in Mexico by the quota system, he decides to marry an American, then desert her and join his old partner Anita, who's done likewise. But after sweeping teacher Emmy Brown off her feet, he finds her so sweet that love and jealousy endanger his plans.",
+                "vote_average": 6.5,
+                "vote_count": 38
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ladies in Retirement",
+            "second_label": "Art Direction: Lionel Banks; Interior Decoration: George Montgomery",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1942,
+            "tmdb": {
+                "id": 42066,
+                "original_title": "Ladies in Retirement",
+                "title": "Ladies in Retirement",
+                "release_date": "1941-09-09",
+                "backdrop_path": "/7yJEQtH8INCSvXW327bqUjzpRmD.jpg",
+                "poster_path": "/5KULYDhSbuvDdYVMT08mouLLm4Q.jpg",
+                "overview": "Ellen Creed is a housekeeper who looks after Leonora Fiske, a retired actress living in the English countryside. When Ellen's eccentric sisters visit their sibling at Leonora's home, tensions soon lead to murder.",
+                "vote_average": 6.4,
+                "vote_count": 27
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Little Foxes",
+            "second_label": "Art Direction: Stephen Goosson; Interior Decoration: Howard Bristol",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1942,
+            "tmdb": {
+                "id": 43802,
+                "original_title": "The Little Foxes",
+                "title": "P\u00e9rfida",
+                "release_date": "1941-08-29",
+                "backdrop_path": "/zcGLxxXHUtjbkZLIrdQjXSLGQmx.jpg",
+                "poster_path": "/mB3qcYHdZp9iuWECcV1HiXwn5Np.jpg",
+                "overview": "In 1900, a clan attempts to strike a deal with a Chicago industrialist to get him to build cotton mills in their Deep South town.",
+                "vote_average": 7.5,
+                "vote_count": 157
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sergeant York",
+            "second_label": "Art Direction: John Hughes; Interior Decoration: Fred MacLean",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1942,
+            "tmdb": {
+                "id": 16442,
+                "original_title": "Sergeant York",
+                "title": "Sargento York",
+                "release_date": "1941-09-27",
+                "backdrop_path": "/i4nVONDi6brdbG8K8J1NmMrD0NJ.jpg",
+                "poster_path": "/3GV5RAaunGGo0l6gt0S9FuhEKaq.jpg",
+                "overview": "Alvin Cullum York (Gary Cooper) vive \u00e9 um soldado pacifista que ter\u00e1 que deixar suas cren\u00e7as crist\u00e3s de lado para participar do front na Primeira Guerra Mundial. Vencedor do Oscar de Melhor Ator (Gary Cooper) e Melhor Montagem, indicado a outras nove categorias.",
+                "vote_average": 7.2,
+                "vote_count": 188
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Son of Monte Cristo",
+            "second_label": "Art Direction: John DuCasse Schulze; Interior Decoration: Edward G. Boyle",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1942,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sundown",
+            "second_label": "Art Direction: Alexander Golitzen; Interior Decoration: Richard Irvine",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1942,
+            "tmdb": {
+                "id": 94241,
+                "original_title": "Sundown",
+                "title": "Sundown",
+                "release_date": "1941-10-31",
+                "backdrop_path": "/mzmSRpqkPbdJdo3580WPDrf7Mog.jpg",
+                "poster_path": "/4R2c2fp9wULd5W57myi3hUy5mKi.jpg",
+                "overview": "Englishmen fighting Nazis in Africa discover an exotic mystery woman living among the natives and enlist her aid in overcoming the Germans.",
+                "vote_average": 5.4,
+                "vote_count": 21
+            },
+            "winner": false
+        },
+        {
+            "first_label": "That Hamilton Woman",
+            "second_label": "Art Direction: Vincent Korda; Interior Decoration: Julia Heron",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1942,
+            "tmdb": {
+                "id": 43798,
+                "original_title": "That Hamilton Woman",
+                "title": "Lady Hamilton, A Divina Dama",
+                "release_date": "1941-04-03",
+                "backdrop_path": "/61MzmuuyTZ1afikdmT3HgFYTd3z.jpg",
+                "poster_path": "/rIweXumIJkOALwoUJsRhWXGvDHc.jpg",
+                "overview": "The story of courtesan and dance-hall girl Emma Hamilton, including her relationships with Sir William Hamilton and Admiral Horatio Nelson and her rise and fall, set during the Napoleonic Wars.",
+                "vote_average": 7.1,
+                "vote_count": 71
+            },
+            "winner": false
+        },
+        {
+            "first_label": "When Ladies Meet",
+            "second_label": "Art Direction: Cedric Gibbons, Randall Duell; Interior Decoration: Edwin B. Willis",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1942,
+            "tmdb": {
+                "id": 175035,
+                "original_title": "When Ladies Meet",
+                "title": "When Ladies Meet",
+                "release_date": "1933-06-23",
+                "backdrop_path": "/qUkyy4Eprqrohd9Wi4M5OY9S4Jj.jpg",
+                "poster_path": "/6GGK7UGIT1mG8wbGiDouhG9joaO.jpg",
+                "overview": "Mary, a writer working on a novel about a love triangle, is attracted to her publisher. Her suitor Jimmy is determined to break them up; he introduces Mary to the publisher's wife without telling Mary who she is.",
+                "vote_average": 5.3,
+                "vote_count": 11
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction (Color)": [
+        {
+            "first_label": "Blossoms in the Dust",
+            "second_label": "Art Direction: Cedric Gibbons, Urie McCleary; Interior Decoration: Edwin B. Willis",
+            "category": "Art Direction (Color)",
+            "year": 1942,
+            "tmdb": {
+                "id": 84087,
+                "original_title": "Blossoms in the Dust",
+                "title": "Flores do P\u00f3",
+                "release_date": "1941-08-15",
+                "backdrop_path": "/d0jHDB6c2yu2c2yJBJkzkkADoUz.jpg",
+                "poster_path": "/qKfQuCvpHpmyywk0hgqtbHyHfN2.jpg",
+                "overview": "Este drama biogr\u00e1fico do diretor Mervyn LeRoy mereceu uma indica\u00e7\u00e3o ao Oscar de melhor filme por retratar com grande sensibilidade a vida da engajada dona de casa Edna Gladney (Greer Garson). Ap\u00f3s passar por amargas experi\u00eancias de vida, ela se casa com o texano Sam Gladney (Walter Pidgeon). O casal tem um filho, que morre precocemente. Ao mesmo tempo, Edna descobre que n\u00e3o poder\u00e1 ter outra crian\u00e7a e assim decide se dedicar a algo para preencher sua vida. Ao observar que o tratamento dado \u00e0s crian\u00e7as \u00f3rf\u00e3s e abandonadas n\u00e3o \u00e9 exatamente o que poderia chamar de terno, ela abre uma casa de ado\u00e7\u00e3o e encaminha as crian\u00e7as a lares onde possam ter uma vida digna.",
+                "vote_average": 6.5,
+                "vote_count": 29
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Blood and Sand",
+            "second_label": "Art Direction: Richard Day, Joseph C. Wright; Interior Decoration: Thomas Little",
+            "category": "Art Direction (Color)",
+            "year": 1942,
+            "tmdb": {
+                "id": 44399,
+                "original_title": "Blood and Sand",
+                "title": "Sangue e Areia",
+                "release_date": "1941-05-30",
+                "backdrop_path": "/h9qgkNFLDeMqXDwDbBkIvaZ76G0.jpg",
+                "poster_path": "/stl9yenFy3awGEv6MLQGGIi6ueL.jpg",
+                "overview": "O campon\u00eas analfabeto Juan Gallardo se eleva meteoricamente \u00e0 fama e fortuna na arena de touradas, apenas para semear as sementes de sua pr\u00f3pria queda.  O toureiro Juan Gallardo se apaixona pela socialite Dona Sol, se afastando da fiel Carmen, que ainda assim se mant\u00e9m fiel a seu homem enquanto ele continua a enfrentar um perigo real na pra\u00e7a de touros.",
+                "vote_average": 6.4,
+                "vote_count": 54
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Louisiana Purchase",
+            "second_label": "Art Direction: Raoul Pene du Bois; Interior Decoration: Stephen A. Seymour",
+            "category": "Art Direction (Color)",
+            "year": 1942,
+            "tmdb": {
+                "id": 97818,
+                "original_title": "Louisiana Purchase",
+                "title": "Sucedeu no Carnaval",
+                "release_date": "1941-12-31",
+                "backdrop_path": "/s53sqtiAEzv0MqCW1prRf51nFYl.jpg",
+                "poster_path": "/hHfNiAPvBW005ZnBSMUdqK7lMyg.jpg",
+                "overview": "A bumbling senator investigating graft in Louisiana is the target of a scheme involving a Viennese beauty.",
+                "vote_average": 6.6,
+                "vote_count": 7
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography (Black-and-White)": [
+        {
+            "first_label": "How Green Was My Valley",
+            "second_label": "Arthur Miller",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1942,
+            "tmdb": {
+                "id": 43266,
+                "original_title": "How Green Was My Valley",
+                "title": "Como Era Verde o Meu Vale",
+                "release_date": "1941-10-28",
+                "backdrop_path": "/ucQESsrG63LsA5HD70aaPxEyORk.jpg",
+                "poster_path": "/1D2linQi2VWojXn7SkHyKxT1z3m.jpg",
+                "overview": "Aos 60 anos, Huw Morgan relembra sua vida quando garoto (Roddy McDowall) em uma pequena cidade mineradora. Suas reminisc\u00eancias revelam a desintegra\u00e7\u00e3o da unida fam\u00edlia Morgan e de seus dedicados pais (Donald Crisp e Sara Allgood), enquanto capta os sentimentos e problemas daquele tempo. Maureen O\u2019Hara e Walter Pidgeon co-estrelam este aclamado cl\u00e1ssico das telas nesta hist\u00f3ria sobre sonhos, lutas e triunfos de uma fam\u00edlia.",
+                "vote_average": 7.2,
+                "vote_count": 367
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Chocolate Soldier",
+            "second_label": "Karl Freund",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1942,
+            "tmdb": {
+                "id": 94209,
+                "original_title": "The Chocolate Soldier",
+                "title": "The Chocolate Soldier",
+                "release_date": "1941-11-01",
+                "backdrop_path": "/4oEOhxzIrnprGa4M9kW9zyPWCWw.jpg",
+                "poster_path": "/7EmQFdwC7Q4KpHkDwIh1x4Hf4tq.jpg",
+                "overview": "Maria and Karl Lang are the singing duo of Vienna. Maria is very flirtatious and Karl very jealous. Karl decides to masquerade as a Russian guardsman and attempts to make Maria flirt with him - to test her loyalty to him - as the Russian, Karl makes a vigorous attempt to seduce Maria. For a moment she accepts then rejects. Karl is left in turmoil...",
+                "vote_average": 6.6,
+                "vote_count": 7
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Citizen Kane",
+            "second_label": "Gregg Toland",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1942,
+            "tmdb": {
+                "id": 15,
+                "original_title": "Citizen Kane",
+                "title": "Cidad\u00e3o Kane",
+                "release_date": "1941-04-17",
+                "backdrop_path": "/ruF3Lmd4A8MHbnEBE6lxPMbsHGL.jpg",
+                "poster_path": "/2pJ2voOH3QqfgDygG6e9W48YBLt.jpg",
+                "overview": "Charles Foster Kane foi um menino pobre que acaba se tornando um dos homens mais ricos do mundo. O filme inicia com a sua morte, momentos antes da qual pronuncia a palavra \"Rosebud\". Ap\u00f3s dias de sensacionalismo em cima da not\u00edcia de sua morte, o jornalista Jerry Thompson \u00e9 enviado por seu chefe para investigar a vida de Kane, a fim de descobrir o sentido de sua \u00faltima palavra, a qual ningu\u00e9m sabia. Entrevistando pessoas do passado de Kane, o jornalista mergulha na vida de um homem solit\u00e1rio, que desde a inf\u00e2ncia \u00e9 obrigado a seguir a vontade alheia. Ningu\u00e9m a seu redor importa-se com Kane, que busca por meio da aquisi\u00e7\u00e3o de bens a adora\u00e7\u00e3o das pessoas. Ao final, Thompson, ap\u00f3s a exaustiva investiga\u00e7\u00e3o da vida de Kane atrav\u00e9s de entrevistas, se v\u00ea incapaz de descobrir o significado da palavra, concluindo que \"Charles Foster Kane foi um homem que possuiu tudo o que quis e depois perdeu tudo. Talvez Rosebud seja algo que ele nunca tenha possu\u00eddo ou algo que tenha perdido\".",
+                "vote_average": 8.008,
+                "vote_count": 5243
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dr. Jekyll and Mr. Hyde",
+            "second_label": "Joseph Ruttenberg",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1942,
+            "tmdb": {
+                "id": 3019,
+                "original_title": "Dr. Jekyll and Mr. Hyde",
+                "title": "O M\u00e9dico e o Monstro",
+                "release_date": "1931-12-24",
+                "backdrop_path": "/i2Wb6QsKg14tl4p9HgJENfUCqhh.jpg",
+                "poster_path": "/fRKR4HlpPtNBBWbCwJo6rMxKSyy.jpg",
+                "overview": "O Dr. Henry Jekyll acredita que h\u00e1 dois lados distintos para os homens: Um lado bom e um mal. Ele acredita que, ao separar os dois, o homem pode se libertar. Ele tem \u00eaxito em seus experimentos com produtos qu\u00edmicos, se transforma em Hyde e comete crimes horr\u00edveis. Quando ele interrompe o uso da droga, j\u00e1 \u00e9 tarde demais ...",
+                "vote_average": 7.2,
+                "vote_count": 255
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Here Comes Mr. Jordan",
+            "second_label": "Joseph Walker",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1942,
+            "tmdb": {
+                "id": 38914,
+                "original_title": "Here Comes Mr. Jordan",
+                "title": "Que Espere o C\u00e9u",
+                "release_date": "1941-08-07",
+                "backdrop_path": "/sl0tLI7ThQI6PEho6nNvO2wBgcn.jpg",
+                "poster_path": "/k6gmIV3hTSCG2JBh2zPMLogZ5y3.jpg",
+                "overview": "Boxer Joe Pendleton, flying to his next fight, crashes...because a Heavenly Messenger, new on the job, snatched Joe's spirit prematurely from his body. Before the matter can be rectified, Joe's body is cremated; so the celestial Mr. Jordan grants him the use of the body of wealthy Bruce Farnsworth, who's just been murdered by his wife. Joe tries to remake Farnsworth's unworthy life in his own clean-cut image, but then falls in love; and what about that murderous wife?",
+                "vote_average": 6.9,
+                "vote_count": 95
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hold Back the Dawn",
+            "second_label": "Leo Tover",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1942,
+            "tmdb": {
+                "id": 51395,
+                "original_title": "Hold Back the Dawn",
+                "title": "A Porta de Ouro",
+                "release_date": "1941-09-26",
+                "backdrop_path": "/uudTreOlFCOefYNGXFlLcaAI3lj.jpg",
+                "poster_path": "/9glz9yMbU9gDIrtU7R4HeNxApGT.jpg",
+                "overview": "Romanian-French gigolo Georges Iscovescu wishes to enter the USA. Stopped in Mexico by the quota system, he decides to marry an American, then desert her and join his old partner Anita, who's done likewise. But after sweeping teacher Emmy Brown off her feet, he finds her so sweet that love and jealousy endanger his plans.",
+                "vote_average": 6.5,
+                "vote_count": 38
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sergeant York",
+            "second_label": "Sol Polito",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1942,
+            "tmdb": {
+                "id": 16442,
+                "original_title": "Sergeant York",
+                "title": "Sargento York",
+                "release_date": "1941-09-27",
+                "backdrop_path": "/i4nVONDi6brdbG8K8J1NmMrD0NJ.jpg",
+                "poster_path": "/3GV5RAaunGGo0l6gt0S9FuhEKaq.jpg",
+                "overview": "Alvin Cullum York (Gary Cooper) vive \u00e9 um soldado pacifista que ter\u00e1 que deixar suas cren\u00e7as crist\u00e3s de lado para participar do front na Primeira Guerra Mundial. Vencedor do Oscar de Melhor Ator (Gary Cooper) e Melhor Montagem, indicado a outras nove categorias.",
+                "vote_average": 7.2,
+                "vote_count": 188
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sun Valley Serenade",
+            "second_label": "Edward Cronjager",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1942,
+            "tmdb": {
+                "id": 43797,
+                "original_title": "Sun Valley Serenade",
+                "title": "Quero Casar-me Contigo",
+                "release_date": "1941-08-29",
+                "backdrop_path": "/uVvSAIGgYdXpThHGtmDvEGgeFbl.jpg",
+                "poster_path": "/6N7NMzb1iWEtb5NhLT622EKK5ht.jpg",
+                "overview": "Quando a banda de Phil Corey chega \u00e0 est\u00e2ncia de esqui Sun Valley em Idaho seu pianista Ted Scott se apaixona pela refugiada norueguesa Karen Benson. Quando a solista Vivian Dawn sai, Karen assume o show no gelo.",
+                "vote_average": 6.7,
+                "vote_count": 22
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sundown",
+            "second_label": "Charles Lang",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1942,
+            "tmdb": {
+                "id": 94241,
+                "original_title": "Sundown",
+                "title": "Sundown",
+                "release_date": "1941-10-31",
+                "backdrop_path": "/mzmSRpqkPbdJdo3580WPDrf7Mog.jpg",
+                "poster_path": "/4R2c2fp9wULd5W57myi3hUy5mKi.jpg",
+                "overview": "Englishmen fighting Nazis in Africa discover an exotic mystery woman living among the natives and enlist her aid in overcoming the Germans.",
+                "vote_average": 5.4,
+                "vote_count": 21
+            },
+            "winner": false
+        },
+        {
+            "first_label": "That Hamilton Woman",
+            "second_label": "That Hamilton Woman",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1942,
+            "tmdb": {
+                "id": 43798,
+                "original_title": "That Hamilton Woman",
+                "title": "Lady Hamilton, A Divina Dama",
+                "release_date": "1941-04-03",
+                "backdrop_path": "/61MzmuuyTZ1afikdmT3HgFYTd3z.jpg",
+                "poster_path": "/rIweXumIJkOALwoUJsRhWXGvDHc.jpg",
+                "overview": "The story of courtesan and dance-hall girl Emma Hamilton, including her relationships with Sir William Hamilton and Admiral Horatio Nelson and her rise and fall, set during the Napoleonic Wars.",
+                "vote_average": 7.1,
+                "vote_count": 71
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography (Color)": [
+        {
+            "first_label": "Blood and Sand",
+            "second_label": "Ernest Palmer, Ray Rennahan",
+            "category": "Cinematography (Color)",
+            "year": 1942,
+            "tmdb": {
+                "id": 44399,
+                "original_title": "Blood and Sand",
+                "title": "Sangue e Areia",
+                "release_date": "1941-05-30",
+                "backdrop_path": "/h9qgkNFLDeMqXDwDbBkIvaZ76G0.jpg",
+                "poster_path": "/stl9yenFy3awGEv6MLQGGIi6ueL.jpg",
+                "overview": "O campon\u00eas analfabeto Juan Gallardo se eleva meteoricamente \u00e0 fama e fortuna na arena de touradas, apenas para semear as sementes de sua pr\u00f3pria queda.  O toureiro Juan Gallardo se apaixona pela socialite Dona Sol, se afastando da fiel Carmen, que ainda assim se mant\u00e9m fiel a seu homem enquanto ele continua a enfrentar um perigo real na pra\u00e7a de touros.",
+                "vote_average": 6.4,
+                "vote_count": 54
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Aloma of the South Seas",
+            "second_label": "Wilfred M. Cline, Karl Struss, William Snyder",
+            "category": "Cinematography (Color)",
+            "year": 1942,
+            "tmdb": {
+                "id": 183632,
+                "original_title": "Aloma of the South Seas",
+                "title": "Aloma, A Virgem Prometida",
+                "release_date": "1941-08-27",
+                "backdrop_path": "/jkixTbEurJNNzNKD6qESOJQBTIi.jpg",
+                "poster_path": "/hd53BepCGhwrIZO6owVJyW2dcUN.jpg",
+                "overview": "Tanoa, herdeiro do trono de uma ilha dos Mares do Sul, n\u00e3o passa de uma crian\u00e7a quando se torna noivo de Aloma. Quando \u00e9 enviado para os Estados Unidos para aprimorar sua educa\u00e7\u00e3o, Aloma apaixona-se por seu amigo Revo. Quinze anos mais tarde, Tanoa volta para casa, esquecido da noiva, mas, ao fingir seguir as tradi\u00e7\u00f5es locais, acaba realmente caindo de amores por Aloma\u2014e \u00e9 correspondido. Enciumado, Revo torna-se inimigo mortal dos dois amantes e comete v\u00e1rios crimes em sua \u00e2nsia de vingan\u00e7a. Um vulc\u00e3o, que se torna ativo de s\u00fabito, \u00e9 visto pelos nativos como manifesta\u00e7\u00e3o da ira divina, por\u00e9m ele ter\u00e1 papel importante como instrumento da Justi\u00e7a.",
+                "vote_average": 5.7,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Billy the Kid",
+            "second_label": "William V. Skall, Leonard Smith",
+            "category": "Cinematography (Color)",
+            "year": 1942,
+            "tmdb": {
+                "id": 111470,
+                "original_title": "Billy the Kid",
+                "title": "Gentil Tirano",
+                "release_date": "1941-05-30",
+                "backdrop_path": "/9sHYiLiHlYatR62tIcou92lFtzL.jpg",
+                "poster_path": "/7cySamNwhXYdqmzdQRYOOrk15iH.jpg",
+                "overview": "Baseado no livro \"The Saga of Billy the Kid\", de Walter Noble Burns, sobre o pistoleiro William Bonney, ou apenas Billy the Kid, que passa a ser perseguido pelo xerife quando decide se vingar daqueles que assassinaram seu protetor. Filmado antes por por King Vidor em 1930.",
+                "vote_average": 4.7,
+                "vote_count": 19
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Blossoms in the Dust",
+            "second_label": "Karl Freund, W. Howard Greene",
+            "category": "Cinematography (Color)",
+            "year": 1942,
+            "tmdb": {
+                "id": 84087,
+                "original_title": "Blossoms in the Dust",
+                "title": "Flores do P\u00f3",
+                "release_date": "1941-08-15",
+                "backdrop_path": "/d0jHDB6c2yu2c2yJBJkzkkADoUz.jpg",
+                "poster_path": "/qKfQuCvpHpmyywk0hgqtbHyHfN2.jpg",
+                "overview": "Este drama biogr\u00e1fico do diretor Mervyn LeRoy mereceu uma indica\u00e7\u00e3o ao Oscar de melhor filme por retratar com grande sensibilidade a vida da engajada dona de casa Edna Gladney (Greer Garson). Ap\u00f3s passar por amargas experi\u00eancias de vida, ela se casa com o texano Sam Gladney (Walter Pidgeon). O casal tem um filho, que morre precocemente. Ao mesmo tempo, Edna descobre que n\u00e3o poder\u00e1 ter outra crian\u00e7a e assim decide se dedicar a algo para preencher sua vida. Ao observar que o tratamento dado \u00e0s crian\u00e7as \u00f3rf\u00e3s e abandonadas n\u00e3o \u00e9 exatamente o que poderia chamar de terno, ela abre uma casa de ado\u00e7\u00e3o e encaminha as crian\u00e7as a lares onde possam ter uma vida digna.",
+                "vote_average": 6.5,
+                "vote_count": 29
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dive Bomber",
+            "second_label": "Bert Glennon",
+            "category": "Cinematography (Color)",
+            "year": 1942,
+            "tmdb": {
+                "id": 65587,
+                "original_title": "Dive Bomber",
+                "title": "Dem\u00f4nios do C\u00e9u",
+                "release_date": "1941-08-30",
+                "backdrop_path": "/5EjoUHdoePpgZlkXgdsnhBJSP1O.jpg",
+                "poster_path": "/2my6RE1UuD7M3I0gwrToUUosyUQ.jpg",
+                "overview": "A military surgeon teams with a ranking navy flyer to develop a high-altitude suit which will protect pilots from blacking out when they go into a steep dive.",
+                "vote_average": 6.3,
+                "vote_count": 28
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Louisiana Purchase",
+            "second_label": "Harry Hallenberger, Ray Rennahan",
+            "category": "Cinematography (Color)",
+            "year": 1942,
+            "tmdb": {
+                "id": 97818,
+                "original_title": "Louisiana Purchase",
+                "title": "Sucedeu no Carnaval",
+                "release_date": "1941-12-31",
+                "backdrop_path": "/s53sqtiAEzv0MqCW1prRf51nFYl.jpg",
+                "poster_path": "/hHfNiAPvBW005ZnBSMUdqK7lMyg.jpg",
+                "overview": "A bumbling senator investigating graft in Louisiana is the target of a scheme involving a Viennese beauty.",
+                "vote_average": 6.6,
+                "vote_count": 7
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "How Green Was My Valley",
+            "second_label": "John Ford",
+            "category": "Directing",
+            "year": 1942,
+            "tmdb": {
+                "id": 43266,
+                "original_title": "How Green Was My Valley",
+                "title": "Como Era Verde o Meu Vale",
+                "release_date": "1941-10-28",
+                "backdrop_path": "/ucQESsrG63LsA5HD70aaPxEyORk.jpg",
+                "poster_path": "/1D2linQi2VWojXn7SkHyKxT1z3m.jpg",
+                "overview": "Aos 60 anos, Huw Morgan relembra sua vida quando garoto (Roddy McDowall) em uma pequena cidade mineradora. Suas reminisc\u00eancias revelam a desintegra\u00e7\u00e3o da unida fam\u00edlia Morgan e de seus dedicados pais (Donald Crisp e Sara Allgood), enquanto capta os sentimentos e problemas daquele tempo. Maureen O\u2019Hara e Walter Pidgeon co-estrelam este aclamado cl\u00e1ssico das telas nesta hist\u00f3ria sobre sonhos, lutas e triunfos de uma fam\u00edlia.",
+                "vote_average": 7.2,
+                "vote_count": 367
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Citizen Kane",
+            "second_label": "Orson Welles",
+            "category": "Directing",
+            "year": 1942,
+            "tmdb": {
+                "id": 15,
+                "original_title": "Citizen Kane",
+                "title": "Cidad\u00e3o Kane",
+                "release_date": "1941-04-17",
+                "backdrop_path": "/ruF3Lmd4A8MHbnEBE6lxPMbsHGL.jpg",
+                "poster_path": "/2pJ2voOH3QqfgDygG6e9W48YBLt.jpg",
+                "overview": "Charles Foster Kane foi um menino pobre que acaba se tornando um dos homens mais ricos do mundo. O filme inicia com a sua morte, momentos antes da qual pronuncia a palavra \"Rosebud\". Ap\u00f3s dias de sensacionalismo em cima da not\u00edcia de sua morte, o jornalista Jerry Thompson \u00e9 enviado por seu chefe para investigar a vida de Kane, a fim de descobrir o sentido de sua \u00faltima palavra, a qual ningu\u00e9m sabia. Entrevistando pessoas do passado de Kane, o jornalista mergulha na vida de um homem solit\u00e1rio, que desde a inf\u00e2ncia \u00e9 obrigado a seguir a vontade alheia. Ningu\u00e9m a seu redor importa-se com Kane, que busca por meio da aquisi\u00e7\u00e3o de bens a adora\u00e7\u00e3o das pessoas. Ao final, Thompson, ap\u00f3s a exaustiva investiga\u00e7\u00e3o da vida de Kane atrav\u00e9s de entrevistas, se v\u00ea incapaz de descobrir o significado da palavra, concluindo que \"Charles Foster Kane foi um homem que possuiu tudo o que quis e depois perdeu tudo. Talvez Rosebud seja algo que ele nunca tenha possu\u00eddo ou algo que tenha perdido\".",
+                "vote_average": 8.008,
+                "vote_count": 5243
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Here Comes Mr. Jordan",
+            "second_label": "Alexander Hall",
+            "category": "Directing",
+            "year": 1942,
+            "tmdb": {
+                "id": 38914,
+                "original_title": "Here Comes Mr. Jordan",
+                "title": "Que Espere o C\u00e9u",
+                "release_date": "1941-08-07",
+                "backdrop_path": "/sl0tLI7ThQI6PEho6nNvO2wBgcn.jpg",
+                "poster_path": "/k6gmIV3hTSCG2JBh2zPMLogZ5y3.jpg",
+                "overview": "Boxer Joe Pendleton, flying to his next fight, crashes...because a Heavenly Messenger, new on the job, snatched Joe's spirit prematurely from his body. Before the matter can be rectified, Joe's body is cremated; so the celestial Mr. Jordan grants him the use of the body of wealthy Bruce Farnsworth, who's just been murdered by his wife. Joe tries to remake Farnsworth's unworthy life in his own clean-cut image, but then falls in love; and what about that murderous wife?",
+                "vote_average": 6.9,
+                "vote_count": 95
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Little Foxes",
+            "second_label": "William Wyler",
+            "category": "Directing",
+            "year": 1942,
+            "tmdb": {
+                "id": 43802,
+                "original_title": "The Little Foxes",
+                "title": "P\u00e9rfida",
+                "release_date": "1941-08-29",
+                "backdrop_path": "/zcGLxxXHUtjbkZLIrdQjXSLGQmx.jpg",
+                "poster_path": "/mB3qcYHdZp9iuWECcV1HiXwn5Np.jpg",
+                "overview": "In 1900, a clan attempts to strike a deal with a Chicago industrialist to get him to build cotton mills in their Deep South town.",
+                "vote_average": 7.5,
+                "vote_count": 157
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sergeant York",
+            "second_label": "Howard Hawks",
+            "category": "Directing",
+            "year": 1942,
+            "tmdb": {
+                "id": 16442,
+                "original_title": "Sergeant York",
+                "title": "Sargento York",
+                "release_date": "1941-09-27",
+                "backdrop_path": "/i4nVONDi6brdbG8K8J1NmMrD0NJ.jpg",
+                "poster_path": "/3GV5RAaunGGo0l6gt0S9FuhEKaq.jpg",
+                "overview": "Alvin Cullum York (Gary Cooper) vive \u00e9 um soldado pacifista que ter\u00e1 que deixar suas cren\u00e7as crist\u00e3s de lado para participar do front na Primeira Guerra Mundial. Vencedor do Oscar de Melhor Ator (Gary Cooper) e Melhor Montagem, indicado a outras nove categorias.",
+                "vote_average": 7.2,
+                "vote_count": 188
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "Churchill's Island",
+            "second_label": "National Film Board of Canada",
+            "category": "Documentary (Short Subject)",
+            "year": 1942,
+            "tmdb": {
+                "id": 236820,
+                "original_title": "Churchill's Island",
+                "title": "Churchill's Island",
+                "release_date": "1941-01-01",
+                "backdrop_path": null,
+                "poster_path": "/9ltXmXEzxjvzuqW0jf3MW4UUDWp.jpg",
+                "overview": "The people of Britain resist the German air force and navy with help from North America.",
+                "vote_average": 6.3,
+                "vote_count": 7
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Adventure in the Bronx",
+            "second_label": "Film Associates",
+            "category": "Documentary (Short Subject)",
+            "year": 1942,
+            "tmdb": {
+                "id": 236823,
+                "original_title": "Adventure in the Bronx",
+                "title": "Adventure in the Bronx",
+                "release_date": "1941-01-01",
+                "backdrop_path": null,
+                "poster_path": "/9kzxHp6Nx5Dw87GcyB0WEkPfI9X.jpg",
+                "overview": "1941 Oscar nominated documentary",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Bomber",
+            "second_label": "United States Office for Emergency Management Film Unit",
+            "category": "Documentary (Short Subject)",
+            "year": 1942,
+            "tmdb": {
+                "id": 65587,
+                "original_title": "Dive Bomber",
+                "title": "Dem\u00f4nios do C\u00e9u",
+                "release_date": "1941-08-30",
+                "backdrop_path": "/5EjoUHdoePpgZlkXgdsnhBJSP1O.jpg",
+                "poster_path": "/2my6RE1UuD7M3I0gwrToUUosyUQ.jpg",
+                "overview": "A military surgeon teams with a ranking navy flyer to develop a high-altitude suit which will protect pilots from blacking out when they go into a steep dive.",
+                "vote_average": 6.3,
+                "vote_count": 28
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Christmas under Fire",
+            "second_label": "British Ministry of Information",
+            "category": "Documentary (Short Subject)",
+            "year": 1942,
+            "tmdb": {
+                "id": 236824,
+                "original_title": "Christmas Under Fire",
+                "title": "Christmas Under Fire",
+                "release_date": "1940-12-25",
+                "backdrop_path": null,
+                "poster_path": "/syL8VWCxRdB0Q8JDSMZjSAxewiL.jpg",
+                "overview": "How Britain coped with a Christmas during the war.",
+                "vote_average": 6.2,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Letter from Home",
+            "second_label": "British Ministry of Information",
+            "category": "Documentary (Short Subject)",
+            "year": 1942,
+            "tmdb": {
+                "id": 236825,
+                "original_title": "Letter from Home",
+                "title": "Letter from Home",
+                "release_date": "1941-12-01",
+                "backdrop_path": null,
+                "poster_path": "/eOZZUDmsoPnVm2o5J5SLURad8WV.jpg",
+                "overview": "Two evacuee children living in the United States receive a letter from their mother, Mrs Taylor, telling them of her life in Blitz-era London.  Glimpses of the events of Mrs Taylor's typical day, including ration shopping and fire warden training, belie the letter's innocuous statements.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Life of a Thoroughbred",
+            "second_label": "Truman Talley, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1942,
+            "tmdb": {
+                "id": 236828,
+                "original_title": "Life of a Thoroughbred",
+                "title": "Life of a Thoroughbred",
+                "release_date": "1941-01-01",
+                "backdrop_path": null,
+                "poster_path": "/90WsPAcpBx5yZwWg616Tv8cUHS0.jpg",
+                "overview": "1941 Oscar nominated short documentary by Tom Cummiskey",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Norway in Revolt",
+            "second_label": "The March of Time",
+            "category": "Documentary (Short Subject)",
+            "year": 1942,
+            "tmdb": {
+                "id": 236829,
+                "original_title": "Norway in Revolt",
+                "title": "Norway in Revolt",
+                "release_date": "1941-09-26",
+                "backdrop_path": null,
+                "poster_path": "/vuGwROUMl1Lyah8IesQR9qUR2R.jpg",
+                "overview": "1941 Oscar nominated documentary",
+                "vote_average": 5.0,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Place to Live",
+            "second_label": "Philadelphia Housing Association",
+            "category": "Documentary (Short Subject)",
+            "year": 1942,
+            "tmdb": {
+                "id": 236821,
+                "original_title": "A Place to Live",
+                "title": "A Place to Live",
+                "release_date": "1941-01-01",
+                "backdrop_path": null,
+                "poster_path": "/qk9o0DgPUVXGSWPccBwmPmmsg4V.jpg",
+                "overview": "Inner city squalor in Philadelphia, Pennsylvania is the subject of this documentary, which focuses on a child returning from school to his home, a cramped and squalid apartment in a rat-infested slum neighborhood.",
+                "vote_average": 5.5,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Russian Soil",
+            "second_label": "Amkino",
+            "category": "Documentary (Short Subject)",
+            "year": 1942,
+            "tmdb": {
+                "id": 236822,
+                "original_title": "\u0420\u0443\u0441\u0441\u043a\u0430\u044f \u0437\u0435\u043c\u043b\u044f",
+                "title": "Russian Soil",
+                "release_date": "1941-01-01",
+                "backdrop_path": null,
+                "poster_path": "/zz8tBuZ22WyjcOYaFtKqt8USwd8.jpg",
+                "overview": "1941 Oscar nominated documentary",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Soldiers of the Sky",
+            "second_label": "Truman Talley, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1942,
+            "tmdb": {
+                "id": 236830,
+                "original_title": "Soldiers of the Sky",
+                "title": "Soldiers of the Sky",
+                "release_date": "1941-01-01",
+                "backdrop_path": null,
+                "poster_path": "/lDxAEnArw5QazctkJrPJ0k0sZEK.jpg",
+                "overview": "1941 Oscar nominated short documentary",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "War Clouds in the Pacific",
+            "second_label": "National Film Board of Canada",
+            "category": "Documentary (Short Subject)",
+            "year": 1942,
+            "tmdb": {
+                "id": 236831,
+                "original_title": "Warclouds in the Pacific",
+                "title": "Warclouds in the Pacific",
+                "release_date": "1941-12-24",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "This short film examines the Japan that emerged at the beginning of the 1900s and was firmly established as an industrialized nation by the outbreak of World War II. Facing the greatest threat in their history, the democracies of the Pacific took careful stock of this new Japan and its strength, and erected a vast system of defence across the world's greatest ocean.",
+                "vote_average": 5.0,
+                "vote_count": 4
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "Sergeant York",
+            "second_label": "William Holmes",
+            "category": "Film Editing",
+            "year": 1942,
+            "tmdb": {
+                "id": 16442,
+                "original_title": "Sergeant York",
+                "title": "Sargento York",
+                "release_date": "1941-09-27",
+                "backdrop_path": "/i4nVONDi6brdbG8K8J1NmMrD0NJ.jpg",
+                "poster_path": "/3GV5RAaunGGo0l6gt0S9FuhEKaq.jpg",
+                "overview": "Alvin Cullum York (Gary Cooper) vive \u00e9 um soldado pacifista que ter\u00e1 que deixar suas cren\u00e7as crist\u00e3s de lado para participar do front na Primeira Guerra Mundial. Vencedor do Oscar de Melhor Ator (Gary Cooper) e Melhor Montagem, indicado a outras nove categorias.",
+                "vote_average": 7.2,
+                "vote_count": 188
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Citizen Kane",
+            "second_label": "Robert Wise",
+            "category": "Film Editing",
+            "year": 1942,
+            "tmdb": {
+                "id": 15,
+                "original_title": "Citizen Kane",
+                "title": "Cidad\u00e3o Kane",
+                "release_date": "1941-04-17",
+                "backdrop_path": "/ruF3Lmd4A8MHbnEBE6lxPMbsHGL.jpg",
+                "poster_path": "/2pJ2voOH3QqfgDygG6e9W48YBLt.jpg",
+                "overview": "Charles Foster Kane foi um menino pobre que acaba se tornando um dos homens mais ricos do mundo. O filme inicia com a sua morte, momentos antes da qual pronuncia a palavra \"Rosebud\". Ap\u00f3s dias de sensacionalismo em cima da not\u00edcia de sua morte, o jornalista Jerry Thompson \u00e9 enviado por seu chefe para investigar a vida de Kane, a fim de descobrir o sentido de sua \u00faltima palavra, a qual ningu\u00e9m sabia. Entrevistando pessoas do passado de Kane, o jornalista mergulha na vida de um homem solit\u00e1rio, que desde a inf\u00e2ncia \u00e9 obrigado a seguir a vontade alheia. Ningu\u00e9m a seu redor importa-se com Kane, que busca por meio da aquisi\u00e7\u00e3o de bens a adora\u00e7\u00e3o das pessoas. Ao final, Thompson, ap\u00f3s a exaustiva investiga\u00e7\u00e3o da vida de Kane atrav\u00e9s de entrevistas, se v\u00ea incapaz de descobrir o significado da palavra, concluindo que \"Charles Foster Kane foi um homem que possuiu tudo o que quis e depois perdeu tudo. Talvez Rosebud seja algo que ele nunca tenha possu\u00eddo ou algo que tenha perdido\".",
+                "vote_average": 8.008,
+                "vote_count": 5243
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dr. Jekyll and Mr. Hyde",
+            "second_label": "Harold F. Kress",
+            "category": "Film Editing",
+            "year": 1942,
+            "tmdb": {
+                "id": 3019,
+                "original_title": "Dr. Jekyll and Mr. Hyde",
+                "title": "O M\u00e9dico e o Monstro",
+                "release_date": "1931-12-24",
+                "backdrop_path": "/i2Wb6QsKg14tl4p9HgJENfUCqhh.jpg",
+                "poster_path": "/fRKR4HlpPtNBBWbCwJo6rMxKSyy.jpg",
+                "overview": "O Dr. Henry Jekyll acredita que h\u00e1 dois lados distintos para os homens: Um lado bom e um mal. Ele acredita que, ao separar os dois, o homem pode se libertar. Ele tem \u00eaxito em seus experimentos com produtos qu\u00edmicos, se transforma em Hyde e comete crimes horr\u00edveis. Quando ele interrompe o uso da droga, j\u00e1 \u00e9 tarde demais ...",
+                "vote_average": 7.2,
+                "vote_count": 255
+            },
+            "winner": false
+        },
+        {
+            "first_label": "How Green Was My Valley",
+            "second_label": "James B. Clark",
+            "category": "Film Editing",
+            "year": 1942,
+            "tmdb": {
+                "id": 43266,
+                "original_title": "How Green Was My Valley",
+                "title": "Como Era Verde o Meu Vale",
+                "release_date": "1941-10-28",
+                "backdrop_path": "/ucQESsrG63LsA5HD70aaPxEyORk.jpg",
+                "poster_path": "/1D2linQi2VWojXn7SkHyKxT1z3m.jpg",
+                "overview": "Aos 60 anos, Huw Morgan relembra sua vida quando garoto (Roddy McDowall) em uma pequena cidade mineradora. Suas reminisc\u00eancias revelam a desintegra\u00e7\u00e3o da unida fam\u00edlia Morgan e de seus dedicados pais (Donald Crisp e Sara Allgood), enquanto capta os sentimentos e problemas daquele tempo. Maureen O\u2019Hara e Walter Pidgeon co-estrelam este aclamado cl\u00e1ssico das telas nesta hist\u00f3ria sobre sonhos, lutas e triunfos de uma fam\u00edlia.",
+                "vote_average": 7.2,
+                "vote_count": 367
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Little Foxes",
+            "second_label": "Daniel Mandell",
+            "category": "Film Editing",
+            "year": 1942,
+            "tmdb": {
+                "id": 43802,
+                "original_title": "The Little Foxes",
+                "title": "P\u00e9rfida",
+                "release_date": "1941-08-29",
+                "backdrop_path": "/zcGLxxXHUtjbkZLIrdQjXSLGQmx.jpg",
+                "poster_path": "/mB3qcYHdZp9iuWECcV1HiXwn5Np.jpg",
+                "overview": "In 1900, a clan attempts to strike a deal with a Chicago industrialist to get him to build cotton mills in their Deep South town.",
+                "vote_average": 7.5,
+                "vote_count": 157
+            },
+            "winner": false
+        }
+    ],
+    "Irving G. Thalberg Memorial Award": [
+        {
+            "first_label": "",
+            "second_label": "Walt Disney",
+            "category": "Irving G. Thalberg Memorial Award",
+            "year": 1942,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        }
+    ],
+    "Music (Music Score of a Dramatic Picture)": [
+        {
+            "first_label": "All That Money Can Buy",
+            "second_label": "Bernard Herrmann",
+            "category": "Music (Music Score of a Dramatic Picture)",
+            "year": 1942,
+            "tmdb": {
+                "id": 29451,
+                "original_title": "All That Money Can Buy",
+                "title": "O Homem Que Vendeu a Alma",
+                "release_date": "1941-10-17",
+                "backdrop_path": "/zydSOaJk2qf9maONGsktK5Pyjw1.jpg",
+                "poster_path": "/2GUZ0Yg3DKlZpc3HEF5qJz7KqD5.jpg",
+                "overview": "Baseado no conto \"Fausto\" de Goethe, \"The Devil and Daniel Webster\" conta a hist\u00f3ria do pobre fazendeiro Jabez Stone (James Craig), que ap\u00f3s diversos infort\u00fanios vende a alma ao Diabo (Walter Huston) em troca de sete anos de boa sorte e dinheiro.",
+                "vote_average": 7.1,
+                "vote_count": 79
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Back Street",
+            "second_label": "Frank Skinner",
+            "category": "Music (Music Score of a Dramatic Picture)",
+            "year": 1942,
+            "tmdb": {
+                "id": 109016,
+                "original_title": "Back Street",
+                "title": "Back Street",
+                "release_date": "1941-02-07",
+                "backdrop_path": "/wd0NfLeHOM27x17eOVTnVUIwfA0.jpg",
+                "poster_path": "/f04rDjGmrmW55XOMHLAk1okKLp6.jpg",
+                "overview": "Previously filmed in 1932, and remade a third time in 1961, this second film version of Fannie Hurst's novel stars Margaret Sullavan as a fashion designer in love with a married banker (Charles Boyer). Directed by Robert Stevenson, the film also stars Richard Carlson, Tim Holt, Frank McHugh, Esther Dale and Cecil Cunningham.",
+                "vote_average": 7.2,
+                "vote_count": 8
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ball of Fire",
+            "second_label": "Alfred Newman",
+            "category": "Music (Music Score of a Dramatic Picture)",
+            "year": 1942,
+            "tmdb": {
+                "id": 29884,
+                "original_title": "Ball of Fire",
+                "title": "Bola de Fogo",
+                "release_date": "1941-12-02",
+                "backdrop_path": "/eVzQFWYICGBql9cfss1WKn0CxZK.jpg",
+                "poster_path": "/t9L16dMTuNq4saLpQswZjkNvaMt.jpg",
+                "overview": "Oito professores est\u00e3o voltados exclusivamente para a elabora\u00e7\u00e3o de um enciclop\u00e9dia. Nenhum deles \u00e9 casado, pois acredita-se que ter uma fam\u00edlia pode ser prejudicial para o andamento dos trabalhos. Bertram Potts (Gary Cooper), o mais novo dos professores, tem como fun\u00e7\u00e3o preparar a parte de literatura inglesa e quer incluir no seu trabalho as mais variadas formas de g\u00edria. Assim anda entre a popula\u00e7\u00e3o fazendo anota\u00e7\u00f5es e encontra em Sugarpuss O'Shea (Barbara Stanwyck), uma sexy cantora de boate, uma fonte inesgot\u00e1vel de termos popularescos. Inicialmente ela n\u00e3o colabora, mas ela namora um g\u00e2ngster, Joe Lilac (Dana Andrews), que foi solto por falta de provas. A Promotoria pretende det\u00ea-la para interrogat\u00f3rio at\u00e9 conseguir provas contra Joe, ent\u00e3o O'Shea tem a id\u00e9ia de se hospedar na casa onde os professores est\u00e3o reunidos, usando o pretexto de que vai colaborar na enciclop\u00e9dia, pois a pol\u00edcia n\u00e3o a procurar\u00e1 em uma casa habitada por intelectuais.",
+                "vote_average": 7.4,
+                "vote_count": 189
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Cheers for Miss Bishop",
+            "second_label": "Edward Ward",
+            "category": "Music (Music Score of a Dramatic Picture)",
+            "year": 1942,
+            "tmdb": {
+                "id": 142876,
+                "original_title": "Cheers for Miss Bishop",
+                "title": "Cheers for Miss Bishop",
+                "release_date": "1941-02-21",
+                "backdrop_path": "/5pmh6lxg7R06nhzcslPCeoWHgoX.jpg",
+                "poster_path": "/qskXMXp76tEuIyKtg117UCG4LqS.jpg",
+                "overview": "Ella Bishop is an inhibited girl whose frustrations grow as she approaches womanhood. As a women, her ambitions to teach cause her to lose her only opportunity for true love. Ella's life becomes one of missed chances and wrong choices. As she reaches old age, she reflects back and realizes she allowed the years to go by without achieving what she believes to be her true fulfillment. However, her years have not been without glory, and her moment of triumph arrives when her numerous now-famous students from over the years, return to honor their beloved Miss Bishop.",
+                "vote_average": 5.9,
+                "vote_count": 14
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Citizen Kane",
+            "second_label": "Bernard Herrmann",
+            "category": "Music (Music Score of a Dramatic Picture)",
+            "year": 1942,
+            "tmdb": {
+                "id": 15,
+                "original_title": "Citizen Kane",
+                "title": "Cidad\u00e3o Kane",
+                "release_date": "1941-04-17",
+                "backdrop_path": "/ruF3Lmd4A8MHbnEBE6lxPMbsHGL.jpg",
+                "poster_path": "/2pJ2voOH3QqfgDygG6e9W48YBLt.jpg",
+                "overview": "Charles Foster Kane foi um menino pobre que acaba se tornando um dos homens mais ricos do mundo. O filme inicia com a sua morte, momentos antes da qual pronuncia a palavra \"Rosebud\". Ap\u00f3s dias de sensacionalismo em cima da not\u00edcia de sua morte, o jornalista Jerry Thompson \u00e9 enviado por seu chefe para investigar a vida de Kane, a fim de descobrir o sentido de sua \u00faltima palavra, a qual ningu\u00e9m sabia. Entrevistando pessoas do passado de Kane, o jornalista mergulha na vida de um homem solit\u00e1rio, que desde a inf\u00e2ncia \u00e9 obrigado a seguir a vontade alheia. Ningu\u00e9m a seu redor importa-se com Kane, que busca por meio da aquisi\u00e7\u00e3o de bens a adora\u00e7\u00e3o das pessoas. Ao final, Thompson, ap\u00f3s a exaustiva investiga\u00e7\u00e3o da vida de Kane atrav\u00e9s de entrevistas, se v\u00ea incapaz de descobrir o significado da palavra, concluindo que \"Charles Foster Kane foi um homem que possuiu tudo o que quis e depois perdeu tudo. Talvez Rosebud seja algo que ele nunca tenha possu\u00eddo ou algo que tenha perdido\".",
+                "vote_average": 8.008,
+                "vote_count": 5243
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dr. Jekyll and Mr. Hyde",
+            "second_label": "Franz Waxman",
+            "category": "Music (Music Score of a Dramatic Picture)",
+            "year": 1942,
+            "tmdb": {
+                "id": 3019,
+                "original_title": "Dr. Jekyll and Mr. Hyde",
+                "title": "O M\u00e9dico e o Monstro",
+                "release_date": "1931-12-24",
+                "backdrop_path": "/i2Wb6QsKg14tl4p9HgJENfUCqhh.jpg",
+                "poster_path": "/fRKR4HlpPtNBBWbCwJo6rMxKSyy.jpg",
+                "overview": "O Dr. Henry Jekyll acredita que h\u00e1 dois lados distintos para os homens: Um lado bom e um mal. Ele acredita que, ao separar os dois, o homem pode se libertar. Ele tem \u00eaxito em seus experimentos com produtos qu\u00edmicos, se transforma em Hyde e comete crimes horr\u00edveis. Quando ele interrompe o uso da droga, j\u00e1 \u00e9 tarde demais ...",
+                "vote_average": 7.2,
+                "vote_count": 255
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hold Back the Dawn",
+            "second_label": "Victor Young",
+            "category": "Music (Music Score of a Dramatic Picture)",
+            "year": 1942,
+            "tmdb": {
+                "id": 51395,
+                "original_title": "Hold Back the Dawn",
+                "title": "A Porta de Ouro",
+                "release_date": "1941-09-26",
+                "backdrop_path": "/uudTreOlFCOefYNGXFlLcaAI3lj.jpg",
+                "poster_path": "/9glz9yMbU9gDIrtU7R4HeNxApGT.jpg",
+                "overview": "Romanian-French gigolo Georges Iscovescu wishes to enter the USA. Stopped in Mexico by the quota system, he decides to marry an American, then desert her and join his old partner Anita, who's done likewise. But after sweeping teacher Emmy Brown off her feet, he finds her so sweet that love and jealousy endanger his plans.",
+                "vote_average": 6.5,
+                "vote_count": 38
+            },
+            "winner": false
+        },
+        {
+            "first_label": "How Green Was My Valley",
+            "second_label": "Alfred Newman",
+            "category": "Music (Music Score of a Dramatic Picture)",
+            "year": 1942,
+            "tmdb": {
+                "id": 43266,
+                "original_title": "How Green Was My Valley",
+                "title": "Como Era Verde o Meu Vale",
+                "release_date": "1941-10-28",
+                "backdrop_path": "/ucQESsrG63LsA5HD70aaPxEyORk.jpg",
+                "poster_path": "/1D2linQi2VWojXn7SkHyKxT1z3m.jpg",
+                "overview": "Aos 60 anos, Huw Morgan relembra sua vida quando garoto (Roddy McDowall) em uma pequena cidade mineradora. Suas reminisc\u00eancias revelam a desintegra\u00e7\u00e3o da unida fam\u00edlia Morgan e de seus dedicados pais (Donald Crisp e Sara Allgood), enquanto capta os sentimentos e problemas daquele tempo. Maureen O\u2019Hara e Walter Pidgeon co-estrelam este aclamado cl\u00e1ssico das telas nesta hist\u00f3ria sobre sonhos, lutas e triunfos de uma fam\u00edlia.",
+                "vote_average": 7.2,
+                "vote_count": 367
+            },
+            "winner": false
+        },
+        {
+            "first_label": "King of the Zombies",
+            "second_label": "Edward Kay",
+            "category": "Music (Music Score of a Dramatic Picture)",
+            "year": 1942,
+            "tmdb": {
+                "id": 23104,
+                "original_title": "King of the Zombies",
+                "title": "O Rei dos Zombies",
+                "release_date": "1941-05-14",
+                "backdrop_path": "/sxosjARgDyg35u1aCCBK8YKqTgp.jpg",
+                "poster_path": "/8aR8TjqGCHqBWlntgPK2N7nFnNC.jpg",
+                "overview": "During World War II, a small plane somewhere over the Caribbean runs low on fuel and is blown off course by a storm. Guided by a faint radio signal, they crash-land on an island. The passenger, his manservant and the pilot take refuge in a mansion owned by a doctor. The quick-witted yet easily-frightened manservant soon becomes convinced the mansion is haunted by zombies and ghosts.",
+                "vote_average": 5.2,
+                "vote_count": 40
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ladies in Retirement",
+            "second_label": "Morris Stoloff, Ernst Toch",
+            "category": "Music (Music Score of a Dramatic Picture)",
+            "year": 1942,
+            "tmdb": {
+                "id": 42066,
+                "original_title": "Ladies in Retirement",
+                "title": "Ladies in Retirement",
+                "release_date": "1941-09-09",
+                "backdrop_path": "/7yJEQtH8INCSvXW327bqUjzpRmD.jpg",
+                "poster_path": "/5KULYDhSbuvDdYVMT08mouLLm4Q.jpg",
+                "overview": "Ellen Creed is a housekeeper who looks after Leonora Fiske, a retired actress living in the English countryside. When Ellen's eccentric sisters visit their sibling at Leonora's home, tensions soon lead to murder.",
+                "vote_average": 6.4,
+                "vote_count": 27
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Little Foxes",
+            "second_label": "Meredith Willson",
+            "category": "Music (Music Score of a Dramatic Picture)",
+            "year": 1942,
+            "tmdb": {
+                "id": 43802,
+                "original_title": "The Little Foxes",
+                "title": "P\u00e9rfida",
+                "release_date": "1941-08-29",
+                "backdrop_path": "/zcGLxxXHUtjbkZLIrdQjXSLGQmx.jpg",
+                "poster_path": "/mB3qcYHdZp9iuWECcV1HiXwn5Np.jpg",
+                "overview": "In 1900, a clan attempts to strike a deal with a Chicago industrialist to get him to build cotton mills in their Deep South town.",
+                "vote_average": 7.5,
+                "vote_count": 157
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lydia",
+            "second_label": "Miklos Rozsa",
+            "category": "Music (Music Score of a Dramatic Picture)",
+            "year": 1942,
+            "tmdb": {
+                "id": 56151,
+                "original_title": "Lydia",
+                "title": "Lydia",
+                "release_date": "1941-09-18",
+                "backdrop_path": "/3ud3O7RW3cl8b9mhFgzyJPMmKxP.jpg",
+                "poster_path": "/3rw3hm5i79uhJEggBTs5S0ZKo7s.jpg",
+                "overview": "Lydia MacMillan, a wealthy woman who has never married, invites several men her own age to her home to reminisce about the times when they were young and courted her. In memory, each romance seemed splendid and destined for happiness, but in each case, Lydia realizes, the truth was less romantic, and ill-starred.",
+                "vote_average": 6.4,
+                "vote_count": 9
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mercy Island",
+            "second_label": "Cy Feuer, Walter Scharf",
+            "category": "Music (Music Score of a Dramatic Picture)",
+            "year": 1942,
+            "tmdb": {
+                "id": 218304,
+                "original_title": "Mercy Island",
+                "title": "Mercy Island",
+                "release_date": "1941-10-09",
+                "backdrop_path": "/qTY7sHhF7aDP9uksVL1Q5DfL39O.jpg",
+                "poster_path": "/my8CiYGONbhqv48yUEWnesyImcA.jpg",
+                "overview": "The beautiful Florida Keys provide the setting of this adventure that tells the tale of a fun-filled fishing trip that becomes a nightmare when the charter boat is wrecked on an isolated island. Unfortunately, there are very few provisions and the group must fend for themselves. They are eventually assisted by a hermit, but before that one of the group goes insane, and another is eaten by an alligator.",
+                "vote_average": 5.0,
+                "vote_count": 1
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sergeant York",
+            "second_label": "Max Steiner",
+            "category": "Music (Music Score of a Dramatic Picture)",
+            "year": 1942,
+            "tmdb": {
+                "id": 16442,
+                "original_title": "Sergeant York",
+                "title": "Sargento York",
+                "release_date": "1941-09-27",
+                "backdrop_path": "/i4nVONDi6brdbG8K8J1NmMrD0NJ.jpg",
+                "poster_path": "/3GV5RAaunGGo0l6gt0S9FuhEKaq.jpg",
+                "overview": "Alvin Cullum York (Gary Cooper) vive \u00e9 um soldado pacifista que ter\u00e1 que deixar suas cren\u00e7as crist\u00e3s de lado para participar do front na Primeira Guerra Mundial. Vencedor do Oscar de Melhor Ator (Gary Cooper) e Melhor Montagem, indicado a outras nove categorias.",
+                "vote_average": 7.2,
+                "vote_count": 188
+            },
+            "winner": false
+        },
+        {
+            "first_label": "So Ends Our Night",
+            "second_label": "Louis Gruenberg",
+            "category": "Music (Music Score of a Dramatic Picture)",
+            "year": 1942,
+            "tmdb": {
+                "id": 218305,
+                "original_title": "So Ends Our Night",
+                "title": "So Ends Our Night",
+                "release_date": "1941-02-27",
+                "backdrop_path": "/4NcNulbm915IIsfV9zyq3ILWz2X.jpg",
+                "poster_path": "/mcfquwORtst95ii7v61eeq0atT2.jpg",
+                "overview": "An anti-Nazi on the run and a young Jewish couple race across Europe trying to escape Hitler's ever powerful influence.",
+                "vote_average": 6.0,
+                "vote_count": 8
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sundown",
+            "second_label": "Miklos Rozsa",
+            "category": "Music (Music Score of a Dramatic Picture)",
+            "year": 1942,
+            "tmdb": {
+                "id": 94241,
+                "original_title": "Sundown",
+                "title": "Sundown",
+                "release_date": "1941-10-31",
+                "backdrop_path": "/mzmSRpqkPbdJdo3580WPDrf7Mog.jpg",
+                "poster_path": "/4R2c2fp9wULd5W57myi3hUy5mKi.jpg",
+                "overview": "Englishmen fighting Nazis in Africa discover an exotic mystery woman living among the natives and enlist her aid in overcoming the Germans.",
+                "vote_average": 5.4,
+                "vote_count": 21
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Suspicion",
+            "second_label": "Franz Waxman",
+            "category": "Music (Music Score of a Dramatic Picture)",
+            "year": 1942,
+            "tmdb": {
+                "id": 11462,
+                "original_title": "Suspicion",
+                "title": "Suspeita",
+                "release_date": "1941-11-14",
+                "backdrop_path": "/v3uvuJF0mK2Na8CakyKq3GkmG5K.jpg",
+                "poster_path": "/5Ne7fRLaQ79Z0ECVPu0x8Yufc5g.jpg",
+                "overview": "Rapaz leva vida de playboy tomando dinheiro emprestado dos amigos. Um dia conhece uma garota t\u00edmida com quem acaba se casando. Mas a jovem com o tempo passa a desconfiar que ele \u00e9 na verdade um assassino e ela corre o risco de ser a pr\u00f3xima v\u00edtima.",
+                "vote_average": 7.1,
+                "vote_count": 749
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tanks a Million",
+            "second_label": "Edward Ward",
+            "category": "Music (Music Score of a Dramatic Picture)",
+            "year": 1942,
+            "tmdb": {
+                "id": 96134,
+                "original_title": "Tanks a Million",
+                "title": "Tanks a Million",
+                "release_date": "1941-09-12",
+                "backdrop_path": "/xyzfKZmbFbjAKcJC8wsfw0LP1YS.jpg",
+                "poster_path": "/vxidUkYeszKBbKuRB22MlHaMqlO.jpg",
+                "overview": "Chubby William Tracy starred as Dodo Doubleday, a feckless Army draftee blessed (or cursed) with a photographic memory. Inexplicably promoted to sergeant, Doubleday becomes the bane of topkick Sgt. Ames' (Joe Sawyer) existence.",
+                "vote_average": 4.9,
+                "vote_count": 7
+            },
+            "winner": false
+        },
+        {
+            "first_label": "That Uncertain Feeling",
+            "second_label": "Werner Heymann",
+            "category": "Music (Music Score of a Dramatic Picture)",
+            "year": 1942,
+            "tmdb": {
+                "id": 43799,
+                "original_title": "That Uncertain Feeling",
+                "title": "That Uncertain Feeling",
+                "release_date": "1941-04-20",
+                "backdrop_path": "/gOlcqmIn7NOKoDC5MMjvWkARmC7.jpg",
+                "poster_path": "/gkasJPQy4DtYCtllr68AZjDrJLQ.jpg",
+                "overview": "A happily married woman sees a psychoanalyst and develops doubts about her husband.",
+                "vote_average": 6.4,
+                "vote_count": 45
+            },
+            "winner": false
+        },
+        {
+            "first_label": "This Woman Is Mine",
+            "second_label": "Richard Hageman",
+            "category": "Music (Music Score of a Dramatic Picture)",
+            "year": 1942,
+            "tmdb": {
+                "id": 94835,
+                "original_title": "This Woman Is Mine",
+                "title": "This Woman Is Mine",
+                "release_date": "1941-08-22",
+                "backdrop_path": "/hznnu9MmGPRqm3C2PxJZgz8xnf3.jpg",
+                "poster_path": "/eTg6OERTcisEyi89zlmbvw0kbuJ.jpg",
+                "overview": "Three seafaring fur traders fall in love with a female stowaway they discover aboard their ship.  Many adventures follow.",
+                "vote_average": 3.2,
+                "vote_count": 5
+            },
+            "winner": false
+        }
+    ],
+    "Music (Scoring of a Musical Picture)": [
+        {
+            "first_label": "Dumbo",
+            "second_label": "Frank Churchill, Oliver Wallace",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1942,
+            "tmdb": {
+                "id": 11360,
+                "original_title": "Dumbo",
+                "title": "Dumbo",
+                "release_date": "1941-10-31",
+                "backdrop_path": "/aRVQ1EgTx3vbhK6qls2O834bPQc.jpg",
+                "poster_path": "/xElwvLH9stNdduVnx9hx5UqEUwv.jpg",
+                "overview": "Dumbo \u00e9 um beb\u00e9 elefante que nasceu com umas orelhas enormes. Um dia ele conhece Tim\u00f3teo, um ratinho que mete medo \u00e0 maioria dos elefantes do circo onde vive Dumbo. Ao contr\u00e1rio do que se podia esperar, o rato e o elefante acabam por se tornar amigos e, juntos, eles tornam-se as maiores atrac\u00e7\u00f5es do circo. Usando suas orelhas, Dumbo faz o que nenhum outro elefante consegue: voar!",
+                "vote_average": 7.003,
+                "vote_count": 4751
+            },
+            "winner": true
+        },
+        {
+            "first_label": "All-American Co-Ed",
+            "second_label": "Edward Ward",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1942,
+            "tmdb": {
+                "id": 96139,
+                "original_title": "All-American Co-Ed",
+                "title": "P\u00e2ndega Universit\u00e1ria",
+                "release_date": "1941-10-31",
+                "backdrop_path": "/yOfh8NGeJH9sxeWUdikH0Rf78fj.jpg",
+                "poster_path": "/3TWoyPl3ftUwWZAWLtAywzivpgn.jpg",
+                "overview": "All-girl school Mar Brynn tenta obter mais alunos e publicidade, tirando sarro da faculdade Quincton. Por vingan\u00e7a, os rapazes mandaram Bob Sheppard para Mar Brynn, vestido de menina, para lhes dar um pequeno esc\u00e2ndalo. Mas ele se apaixona por Virginia, a garota que est\u00e1 fazendo um show l\u00e1.",
+                "vote_average": 4.2,
+                "vote_count": 10
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Birth of the Blues",
+            "second_label": "Robert Emmett Dolan",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1942,
+            "tmdb": {
+                "id": 96700,
+                "original_title": "Birth of the Blues",
+                "title": "Birth of the Blues",
+                "release_date": "1941-11-07",
+                "backdrop_path": "/cQsjmUoFkiDQ1J37MDobBtesbV4.jpg",
+                "poster_path": "/99kcFMNoaLUhR7TpIr07oJrIYiE.jpg",
+                "overview": "Jeff grows up near Basin Street in New Orleans, playing his clarinet with the dock workers. He puts together a band, the Basin Street Hot-Shots, which includes a cornet player, Memphis. They struggle to get their jazz music accepted by the cafe society of the city. Betty Lou joins their band as a singer and gets Louie to show her how to do scat singing. Memphis and Jeff both fall in love with Betty Lou.",
+                "vote_average": 5.3,
+                "vote_count": 7
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Buck Privates",
+            "second_label": "Charles Previn",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1942,
+            "tmdb": {
+                "id": 29601,
+                "original_title": "Buck Privates",
+                "title": "Ordin\u00e1rio, Marche!",
+                "release_date": "1941-01-31",
+                "backdrop_path": "/uJVryqvFC6pOnw7OLXvdfBAZHQ3.jpg",
+                "poster_path": "/uACATiHL1nHFPbtZYqe6LD7BES1.jpg",
+                "overview": "Os vigaristas mesquinhos Slicker Smith e Herbie Brown se juntam ao Ex\u00e9rcito por engano, fugindo da pol\u00edcia. O policial que os persegue acaba sendo seu instrutor de treinamento. Um jovem rico e seu ex-motorista da classe trabalhadora n\u00e3o est\u00e3o apenas na mesma unidade, eles est\u00e3o competindo por uma garota bonita que parece atra\u00edda por ambos.",
+                "vote_average": 6.7,
+                "vote_count": 60
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Chocolate Soldier",
+            "second_label": "Herbert Stothart, Bronislau Kaper",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1942,
+            "tmdb": {
+                "id": 94209,
+                "original_title": "The Chocolate Soldier",
+                "title": "The Chocolate Soldier",
+                "release_date": "1941-11-01",
+                "backdrop_path": "/4oEOhxzIrnprGa4M9kW9zyPWCWw.jpg",
+                "poster_path": "/7EmQFdwC7Q4KpHkDwIh1x4Hf4tq.jpg",
+                "overview": "Maria and Karl Lang are the singing duo of Vienna. Maria is very flirtatious and Karl very jealous. Karl decides to masquerade as a Russian guardsman and attempts to make Maria flirt with him - to test her loyalty to him - as the Russian, Karl makes a vigorous attempt to seduce Maria. For a moment she accepts then rejects. Karl is left in turmoil...",
+                "vote_average": 6.6,
+                "vote_count": 7
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ice-Capades",
+            "second_label": "Cy Feuer",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1942,
+            "tmdb": {
+                "id": 218307,
+                "original_title": "Ice-Capades",
+                "title": "Ice-Capades",
+                "release_date": "1941-08-19",
+                "backdrop_path": "/2yKNgeUjF1ZbC3y2FMGEy72O2zV.jpg",
+                "poster_path": "/AvWv56D40QSwbYa74CpOQdzoJuL.jpg",
+                "overview": "Bob Clemens is a cameraman for newsreels. Assigned to shoot the Swiss ice skater Karen Vadja, he arrives too late, so decides to film a woman skating on a different New York rink and pass her off as Karen.  The scheme backfires when promoter Larry Herman takes a look at Bob's film and decides to make the skater a star. Unfortunately, it's actually amateur (and illegal immigrant) Marie Bergin in the newsreel footage, not the great figure skater from Switzerland. Chaos ensues as Bob tries to straighten everybody out.",
+                "vote_average": 5.0,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Strawberry Blonde",
+            "second_label": "Heinz Roemheld",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1942,
+            "tmdb": {
+                "id": 76465,
+                "original_title": "The Strawberry Blonde",
+                "title": "Uma Loira com A\u00e7\u00facar",
+                "release_date": "1941-02-21",
+                "backdrop_path": "/ayfhbqfbvo3Ojykb0TBRDYtRubh.jpg",
+                "poster_path": "/9BO1NeGRr83b3dJH8xlRLtNGrnG.jpg",
+                "overview": "Biff Grimes est\u00e1 desesperadamente apaixonado por Virginia, mas seu melhor amigo Hugo se casa com ela e manipula Biff para se envolver em seus neg\u00f3cios um tanto nefastos. Hugo parece ter roubado os sonhos de Biff, e Biff tem que lidar com a percep\u00e7\u00e3o de que ter o que ele quer e querer o que o outro tem podem ser coisas muito diferentes. (e 10 - Estimado 10 Anos)",
+                "vote_average": 6.8,
+                "vote_count": 55
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sun Valley Serenade",
+            "second_label": "Emil Newman",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1942,
+            "tmdb": {
+                "id": 43797,
+                "original_title": "Sun Valley Serenade",
+                "title": "Quero Casar-me Contigo",
+                "release_date": "1941-08-29",
+                "backdrop_path": "/uVvSAIGgYdXpThHGtmDvEGgeFbl.jpg",
+                "poster_path": "/6N7NMzb1iWEtb5NhLT622EKK5ht.jpg",
+                "overview": "Quando a banda de Phil Corey chega \u00e0 est\u00e2ncia de esqui Sun Valley em Idaho seu pianista Ted Scott se apaixona pela refugiada norueguesa Karen Benson. Quando a solista Vivian Dawn sai, Karen assume o show no gelo.",
+                "vote_average": 6.7,
+                "vote_count": 22
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sunny",
+            "second_label": "Anthony Collins",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1942,
+            "tmdb": {
+                "id": 117250,
+                "original_title": "Sunny",
+                "title": "Sunny",
+                "release_date": "1941-05-30",
+                "backdrop_path": "/z9ecqYeBT2RwDTyTQ76uBxfnJ2c.jpg",
+                "poster_path": "/rSrOMF6zb2J4u7V5y2sHwUg4r97.jpg",
+                "overview": "Sunny is a 1941 film American film directed by Herbert Wilcox. It was adapted by Sig Herzig from the Jerome Kern-Oscar Hammerstein II musical play Sunny. It stars Anna Neagle, Ray Bolger, John Carroll, Edward Everett Horton, Grace Hartman, Paul Hartman, Frieda Inescort, and Helen Westley.",
+                "vote_average": 4.9,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "You'll Never Get Rich",
+            "second_label": "Morris Stoloff",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1942,
+            "tmdb": {
+                "id": 28658,
+                "original_title": "You'll Never Get Rich",
+                "title": "Ao Compasso do Amor",
+                "release_date": "1941-09-25",
+                "backdrop_path": "/27RypcHKypz0dILLOJRLBPTnM5M.jpg",
+                "poster_path": "/6sdGOX0R1OVVT93kcZHz8xmOLOg.jpg",
+                "overview": "Depois que sua esposa descobre um bracelete de diamantes revelador, o empres\u00e1rio Martin Cortland tenta mostrar que ele n\u00e3o est\u00e1 correndo atr\u00e1s da showgirl Sheila Winthrop. O core\u00f3grafo Robert Curtis \u00e9 pego no meio do esquema do patr\u00e3o. O recrutamento pelo Ex\u00e9rcito oferece a Robert o local perfeito para fugir de seus problemas. Ou n\u00e3o \u00e9?",
+                "vote_average": 6.6,
+                "vote_count": 46
+            },
+            "winner": false
+        }
+    ],
+    "Music (Song)": [
+        {
+            "first_label": "Lady Be Good",
+            "second_label": "The Last Time I Saw Paris in \"Lady Be Good\" Music by Jerome Kern; Lyrics by Oscar Hammerstein II",
+            "category": "Music (Song)",
+            "year": 1942,
+            "tmdb": {
+                "id": 43792,
+                "original_title": "Lady Be Good",
+                "title": "Lady Be Good",
+                "release_date": "1941-09-18",
+                "backdrop_path": "/gyo5Jf1pXAIyGb6wp5F5Mp1sNJY.jpg",
+                "poster_path": "/pSWzGKpEexa1Q6RsRozXfdshHaP.jpg",
+                "overview": "Married songwriters almost split up while putting on a big show.",
+                "vote_average": 5.4,
+                "vote_count": 13
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Dumbo",
+            "second_label": "Baby Mine in \"Dumbo\" Music by Frank Churchill; Lyrics by Ned Washington",
+            "category": "Music (Song)",
+            "year": 1942,
+            "tmdb": {
+                "id": 11360,
+                "original_title": "Dumbo",
+                "title": "Dumbo",
+                "release_date": "1941-10-31",
+                "backdrop_path": "/aRVQ1EgTx3vbhK6qls2O834bPQc.jpg",
+                "poster_path": "/xElwvLH9stNdduVnx9hx5UqEUwv.jpg",
+                "overview": "Dumbo \u00e9 um beb\u00e9 elefante que nasceu com umas orelhas enormes. Um dia ele conhece Tim\u00f3teo, um ratinho que mete medo \u00e0 maioria dos elefantes do circo onde vive Dumbo. Ao contr\u00e1rio do que se podia esperar, o rato e o elefante acabam por se tornar amigos e, juntos, eles tornam-se as maiores atrac\u00e7\u00f5es do circo. Usando suas orelhas, Dumbo faz o que nenhum outro elefante consegue: voar!",
+                "vote_average": 7.003,
+                "vote_count": 4751
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ridin' on a Rainbow",
+            "second_label": "Be Honest With Me in \"Ridin' on a Rainbow\" Music and Lyrics by Gene Autry and Fred Rose",
+            "category": "Music (Song)",
+            "year": 1942,
+            "tmdb": {
+                "id": 216554,
+                "original_title": "Ridin' on a Rainbow",
+                "title": "Ridin' on a Rainbow",
+                "release_date": "1941-01-24",
+                "backdrop_path": "/yhYFnhkpUapQkO2P38cVaaTBMfQ.jpg",
+                "poster_path": "/6yR78kruHkM0SAUDcJZKmOwmEOL.jpg",
+                "overview": "When the showboat hits town, two men use the parade as a distraction to rob the bank. Their accomplice is Pop, the clown from the showboat. He leaves the money on the boat and tells his daughter Patsy to bring it to him at a later stop on the river. Gene's investigation of a bank robbery takes him to the  showboat where he becomes a performer. Gene and Frog try to find the money while helping Patsy and her father.",
+                "vote_average": 5.0,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Blues in the Night",
+            "second_label": "Blues In The Night in \"Blues in the Night\" Music by Harold Arlen; Lyrics by Johnny Mercer",
+            "category": "Music (Song)",
+            "year": 1942,
+            "tmdb": {
+                "id": 25862,
+                "original_title": "Blues in the Night",
+                "title": "Blues in the Night",
+                "release_date": "1941-11-15",
+                "backdrop_path": "/nwwnMRK1okOGkt1MeJNEVWhMQ1O.jpg",
+                "poster_path": "/A6anBd0LJIZ4fnsh70THxUtuCD.jpg",
+                "overview": "A struggling band find themselves attached to a fugitive and drawn into a series of old feuds and love affairs, as they try to stay together and find musical success.",
+                "vote_average": 6.2,
+                "vote_count": 24
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Buck Privates",
+            "second_label": "Boogie Woogie Bugle Boy Of Company B in \"Buck Privates\" Music by Hugh Prince; Lyrics by Don Raye",
+            "category": "Music (Song)",
+            "year": 1942,
+            "tmdb": {
+                "id": 29601,
+                "original_title": "Buck Privates",
+                "title": "Ordin\u00e1rio, Marche!",
+                "release_date": "1941-01-31",
+                "backdrop_path": "/uJVryqvFC6pOnw7OLXvdfBAZHQ3.jpg",
+                "poster_path": "/uACATiHL1nHFPbtZYqe6LD7BES1.jpg",
+                "overview": "Os vigaristas mesquinhos Slicker Smith e Herbie Brown se juntam ao Ex\u00e9rcito por engano, fugindo da pol\u00edcia. O policial que os persegue acaba sendo seu instrutor de treinamento. Um jovem rico e seu ex-motorista da classe trabalhadora n\u00e3o est\u00e3o apenas na mesma unidade, eles est\u00e3o competindo por uma garota bonita que parece atra\u00edda por ambos.",
+                "vote_average": 6.7,
+                "vote_count": 60
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sun Valley Serenade",
+            "second_label": "Chattanooga Choo Choo in \"Sun Valley Serenade\" Music by Harry Warren; Lyrics by Mack Gordon",
+            "category": "Music (Song)",
+            "year": 1942,
+            "tmdb": {
+                "id": 43797,
+                "original_title": "Sun Valley Serenade",
+                "title": "Quero Casar-me Contigo",
+                "release_date": "1941-08-29",
+                "backdrop_path": "/uVvSAIGgYdXpThHGtmDvEGgeFbl.jpg",
+                "poster_path": "/6N7NMzb1iWEtb5NhLT622EKK5ht.jpg",
+                "overview": "Quando a banda de Phil Corey chega \u00e0 est\u00e2ncia de esqui Sun Valley em Idaho seu pianista Ted Scott se apaixona pela refugiada norueguesa Karen Benson. Quando a solista Vivian Dawn sai, Karen assume o show no gelo.",
+                "vote_average": 6.7,
+                "vote_count": 22
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Las Vegas Nights",
+            "second_label": "Dolores in \"Las Vegas Nights\" Music by Lou Alter; Lyrics by Frank Loesser",
+            "category": "Music (Song)",
+            "year": 1942,
+            "tmdb": {
+                "id": 175288,
+                "original_title": "Las Vegas Nights",
+                "title": "Las Vegas Nights",
+                "release_date": "1941-03-28",
+                "backdrop_path": "/vUoeI3QOKMMSJ961lHBBWs2p0Db.jpg",
+                "poster_path": "/iyDuVT3iLTcP1vkLi1TCcTi6bsl.jpg",
+                "overview": "A vaudeville act inherits an old, beat-up building and decides to try to turn it into a hip new nightclub.  Frank Sinatra's first screen appearance.",
+                "vote_average": 5.0,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "All-American Co-Ed",
+            "second_label": "Out Of The Silence in \"All-American Co-Ed\" Music and Lyrics by Lloyd B. Norlind",
+            "category": "Music (Song)",
+            "year": 1942,
+            "tmdb": {
+                "id": 96139,
+                "original_title": "All-American Co-Ed",
+                "title": "P\u00e2ndega Universit\u00e1ria",
+                "release_date": "1941-10-31",
+                "backdrop_path": "/yOfh8NGeJH9sxeWUdikH0Rf78fj.jpg",
+                "poster_path": "/3TWoyPl3ftUwWZAWLtAywzivpgn.jpg",
+                "overview": "All-girl school Mar Brynn tenta obter mais alunos e publicidade, tirando sarro da faculdade Quincton. Por vingan\u00e7a, os rapazes mandaram Bob Sheppard para Mar Brynn, vestido de menina, para lhes dar um pequeno esc\u00e2ndalo. Mas ele se apaixona por Virginia, a garota que est\u00e1 fazendo um show l\u00e1.",
+                "vote_average": 4.2,
+                "vote_count": 10
+            },
+            "winner": false
+        },
+        {
+            "first_label": "You'll Never Get Rich",
+            "second_label": "Since I Kissed My Baby Goodbye in \"You'll Never Get Rich\" Music and Lyrics by Cole Porter",
+            "category": "Music (Song)",
+            "year": 1942,
+            "tmdb": {
+                "id": 28658,
+                "original_title": "You'll Never Get Rich",
+                "title": "Ao Compasso do Amor",
+                "release_date": "1941-09-25",
+                "backdrop_path": "/27RypcHKypz0dILLOJRLBPTnM5M.jpg",
+                "poster_path": "/6sdGOX0R1OVVT93kcZHz8xmOLOg.jpg",
+                "overview": "Depois que sua esposa descobre um bracelete de diamantes revelador, o empres\u00e1rio Martin Cortland tenta mostrar que ele n\u00e3o est\u00e1 correndo atr\u00e1s da showgirl Sheila Winthrop. O core\u00f3grafo Robert Curtis \u00e9 pego no meio do esquema do patr\u00e3o. O recrutamento pelo Ex\u00e9rcito oferece a Robert o local perfeito para fugir de seus problemas. Ou n\u00e3o \u00e9?",
+                "vote_average": 6.6,
+                "vote_count": 46
+            },
+            "winner": false
+        }
+    ],
+    "Outstanding Motion Picture": [
+        {
+            "first_label": "How Green Was My Valley",
+            "second_label": "20th Century-Fox",
+            "category": "Outstanding Motion Picture",
+            "year": 1942,
+            "tmdb": {
+                "id": 43266,
+                "original_title": "How Green Was My Valley",
+                "title": "Como Era Verde o Meu Vale",
+                "release_date": "1941-10-28",
+                "backdrop_path": "/ucQESsrG63LsA5HD70aaPxEyORk.jpg",
+                "poster_path": "/1D2linQi2VWojXn7SkHyKxT1z3m.jpg",
+                "overview": "Aos 60 anos, Huw Morgan relembra sua vida quando garoto (Roddy McDowall) em uma pequena cidade mineradora. Suas reminisc\u00eancias revelam a desintegra\u00e7\u00e3o da unida fam\u00edlia Morgan e de seus dedicados pais (Donald Crisp e Sara Allgood), enquanto capta os sentimentos e problemas daquele tempo. Maureen O\u2019Hara e Walter Pidgeon co-estrelam este aclamado cl\u00e1ssico das telas nesta hist\u00f3ria sobre sonhos, lutas e triunfos de uma fam\u00edlia.",
+                "vote_average": 7.2,
+                "vote_count": 367
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Blossoms in the Dust",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Outstanding Motion Picture",
+            "year": 1942,
+            "tmdb": {
+                "id": 84087,
+                "original_title": "Blossoms in the Dust",
+                "title": "Flores do P\u00f3",
+                "release_date": "1941-08-15",
+                "backdrop_path": "/d0jHDB6c2yu2c2yJBJkzkkADoUz.jpg",
+                "poster_path": "/qKfQuCvpHpmyywk0hgqtbHyHfN2.jpg",
+                "overview": "Este drama biogr\u00e1fico do diretor Mervyn LeRoy mereceu uma indica\u00e7\u00e3o ao Oscar de melhor filme por retratar com grande sensibilidade a vida da engajada dona de casa Edna Gladney (Greer Garson). Ap\u00f3s passar por amargas experi\u00eancias de vida, ela se casa com o texano Sam Gladney (Walter Pidgeon). O casal tem um filho, que morre precocemente. Ao mesmo tempo, Edna descobre que n\u00e3o poder\u00e1 ter outra crian\u00e7a e assim decide se dedicar a algo para preencher sua vida. Ao observar que o tratamento dado \u00e0s crian\u00e7as \u00f3rf\u00e3s e abandonadas n\u00e3o \u00e9 exatamente o que poderia chamar de terno, ela abre uma casa de ado\u00e7\u00e3o e encaminha as crian\u00e7as a lares onde possam ter uma vida digna.",
+                "vote_average": 6.5,
+                "vote_count": 29
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Citizen Kane",
+            "second_label": "Mercury",
+            "category": "Outstanding Motion Picture",
+            "year": 1942,
+            "tmdb": {
+                "id": 15,
+                "original_title": "Citizen Kane",
+                "title": "Cidad\u00e3o Kane",
+                "release_date": "1941-04-17",
+                "backdrop_path": "/ruF3Lmd4A8MHbnEBE6lxPMbsHGL.jpg",
+                "poster_path": "/2pJ2voOH3QqfgDygG6e9W48YBLt.jpg",
+                "overview": "Charles Foster Kane foi um menino pobre que acaba se tornando um dos homens mais ricos do mundo. O filme inicia com a sua morte, momentos antes da qual pronuncia a palavra \"Rosebud\". Ap\u00f3s dias de sensacionalismo em cima da not\u00edcia de sua morte, o jornalista Jerry Thompson \u00e9 enviado por seu chefe para investigar a vida de Kane, a fim de descobrir o sentido de sua \u00faltima palavra, a qual ningu\u00e9m sabia. Entrevistando pessoas do passado de Kane, o jornalista mergulha na vida de um homem solit\u00e1rio, que desde a inf\u00e2ncia \u00e9 obrigado a seguir a vontade alheia. Ningu\u00e9m a seu redor importa-se com Kane, que busca por meio da aquisi\u00e7\u00e3o de bens a adora\u00e7\u00e3o das pessoas. Ao final, Thompson, ap\u00f3s a exaustiva investiga\u00e7\u00e3o da vida de Kane atrav\u00e9s de entrevistas, se v\u00ea incapaz de descobrir o significado da palavra, concluindo que \"Charles Foster Kane foi um homem que possuiu tudo o que quis e depois perdeu tudo. Talvez Rosebud seja algo que ele nunca tenha possu\u00eddo ou algo que tenha perdido\".",
+                "vote_average": 8.008,
+                "vote_count": 5243
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Here Comes Mr. Jordan",
+            "second_label": "Columbia",
+            "category": "Outstanding Motion Picture",
+            "year": 1942,
+            "tmdb": {
+                "id": 38914,
+                "original_title": "Here Comes Mr. Jordan",
+                "title": "Que Espere o C\u00e9u",
+                "release_date": "1941-08-07",
+                "backdrop_path": "/sl0tLI7ThQI6PEho6nNvO2wBgcn.jpg",
+                "poster_path": "/k6gmIV3hTSCG2JBh2zPMLogZ5y3.jpg",
+                "overview": "Boxer Joe Pendleton, flying to his next fight, crashes...because a Heavenly Messenger, new on the job, snatched Joe's spirit prematurely from his body. Before the matter can be rectified, Joe's body is cremated; so the celestial Mr. Jordan grants him the use of the body of wealthy Bruce Farnsworth, who's just been murdered by his wife. Joe tries to remake Farnsworth's unworthy life in his own clean-cut image, but then falls in love; and what about that murderous wife?",
+                "vote_average": 6.9,
+                "vote_count": 95
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hold Back the Dawn",
+            "second_label": "Paramount",
+            "category": "Outstanding Motion Picture",
+            "year": 1942,
+            "tmdb": {
+                "id": 51395,
+                "original_title": "Hold Back the Dawn",
+                "title": "A Porta de Ouro",
+                "release_date": "1941-09-26",
+                "backdrop_path": "/uudTreOlFCOefYNGXFlLcaAI3lj.jpg",
+                "poster_path": "/9glz9yMbU9gDIrtU7R4HeNxApGT.jpg",
+                "overview": "Romanian-French gigolo Georges Iscovescu wishes to enter the USA. Stopped in Mexico by the quota system, he decides to marry an American, then desert her and join his old partner Anita, who's done likewise. But after sweeping teacher Emmy Brown off her feet, he finds her so sweet that love and jealousy endanger his plans.",
+                "vote_average": 6.5,
+                "vote_count": 38
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Little Foxes",
+            "second_label": "Samuel Goldwyn Productions",
+            "category": "Outstanding Motion Picture",
+            "year": 1942,
+            "tmdb": {
+                "id": 43802,
+                "original_title": "The Little Foxes",
+                "title": "P\u00e9rfida",
+                "release_date": "1941-08-29",
+                "backdrop_path": "/zcGLxxXHUtjbkZLIrdQjXSLGQmx.jpg",
+                "poster_path": "/mB3qcYHdZp9iuWECcV1HiXwn5Np.jpg",
+                "overview": "In 1900, a clan attempts to strike a deal with a Chicago industrialist to get him to build cotton mills in their Deep South town.",
+                "vote_average": 7.5,
+                "vote_count": 157
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Maltese Falcon",
+            "second_label": "Warner Bros.",
+            "category": "Outstanding Motion Picture",
+            "year": 1942,
+            "tmdb": {
+                "id": 963,
+                "original_title": "The Maltese Falcon",
+                "title": "Rel\u00edquia Macabra",
+                "release_date": "1941-10-18",
+                "backdrop_path": "/9xzVKUGbVKrrgwlmshJ8SxI5mL7.jpg",
+                "poster_path": "/yr0vvk29PMHvyf9xjFbxAnejUKz.jpg",
+                "overview": "Um detetive particular (Humphrey Bogart) \u00e9 procurado por uma mulher misteriosa (Mary Astor), que alega estar sendo amea\u00e7ada. Mas tanto o seu perseguidor quanto o homem encarregado de proteg\u00ea-la aparecem mortos e tudo gira em torno de uma est\u00e1tua de falc\u00e3o de valor incalcul\u00e1vel. Foi lan\u00e7ado no Brasil com o t\u00edtulo \"Rel\u00edquia Macabra\".",
+                "vote_average": 7.7,
+                "vote_count": 1576
+            },
+            "winner": false
+        },
+        {
+            "first_label": "One Foot in Heaven",
+            "second_label": "Warner Bros.",
+            "category": "Outstanding Motion Picture",
+            "year": 1942,
+            "tmdb": {
+                "id": 84086,
+                "original_title": "One Foot in Heaven",
+                "title": "Com Um P\u00e9 no C\u00e9u",
+                "release_date": "1941-11-01",
+                "backdrop_path": "/aXCUVOdmysmq6gKgpLQukS2TNHl.jpg",
+                "poster_path": "/vsQkW4kgaJME7emvrZfIpCkAT6P.jpg",
+                "overview": "Episodic look at the life of a minister and his family as they move from one parish to another.",
+                "vote_average": 6.6,
+                "vote_count": 17
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sergeant York",
+            "second_label": "Warner Bros.",
+            "category": "Outstanding Motion Picture",
+            "year": 1942,
+            "tmdb": {
+                "id": 16442,
+                "original_title": "Sergeant York",
+                "title": "Sargento York",
+                "release_date": "1941-09-27",
+                "backdrop_path": "/i4nVONDi6brdbG8K8J1NmMrD0NJ.jpg",
+                "poster_path": "/3GV5RAaunGGo0l6gt0S9FuhEKaq.jpg",
+                "overview": "Alvin Cullum York (Gary Cooper) vive \u00e9 um soldado pacifista que ter\u00e1 que deixar suas cren\u00e7as crist\u00e3s de lado para participar do front na Primeira Guerra Mundial. Vencedor do Oscar de Melhor Ator (Gary Cooper) e Melhor Montagem, indicado a outras nove categorias.",
+                "vote_average": 7.2,
+                "vote_count": 188
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Suspicion",
+            "second_label": "RKO Radio",
+            "category": "Outstanding Motion Picture",
+            "year": 1942,
+            "tmdb": {
+                "id": 11462,
+                "original_title": "Suspicion",
+                "title": "Suspeita",
+                "release_date": "1941-11-14",
+                "backdrop_path": "/v3uvuJF0mK2Na8CakyKq3GkmG5K.jpg",
+                "poster_path": "/5Ne7fRLaQ79Z0ECVPu0x8Yufc5g.jpg",
+                "overview": "Rapaz leva vida de playboy tomando dinheiro emprestado dos amigos. Um dia conhece uma garota t\u00edmida com quem acaba se casando. Mas a jovem com o tempo passa a desconfiar que ele \u00e9 na verdade um assassino e ela corre o risco de ser a pr\u00f3xima v\u00edtima.",
+                "vote_average": 7.1,
+                "vote_count": 749
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Cartoon)": [
+        {
+            "first_label": "Lend a Paw",
+            "second_label": "Walt Disney, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1942,
+            "tmdb": {
+                "id": 51024,
+                "original_title": "Lend a Paw",
+                "title": "Me D\u00ea Uma Pata",
+                "release_date": "1941-10-03",
+                "backdrop_path": "/bSfaSSy9q0VqgfcHlFvHyCcjZyJ.jpg",
+                "poster_path": "/qJmiLDsOh5beGVB0M6Xile7V13B.jpg",
+                "overview": "No curta, Pluto sente ci\u00fames do novo gatinho de Mickey, mas ap\u00f3s um acontecimento inesperado, tudo muda e Pluto ter\u00e1 uma importante decis\u00e3o a tomar.",
+                "vote_average": 6.7,
+                "vote_count": 83
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Boogie Woogie Bugle Boy of Company B",
+            "second_label": "Walter Lantz, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1942,
+            "tmdb": {
+                "id": 236567,
+                "original_title": "Boogie Woogie Bugle Boy of Company \"B\"",
+                "title": "Boogie Woogie Bugle Boy of Company \"B\"",
+                "release_date": "1941-08-31",
+                "backdrop_path": null,
+                "poster_path": "/n4oHYh17FXXJlnpMT1rIo3BPgso.jpg",
+                "overview": "Hot Breath Harry \u00e9 um excelente trompetista no clube de jazz, mas \u00e9 convocado para servir o Ex\u00e9rcito, onde enfrenta dificuldades de adapta\u00e7\u00e3o. S\u00f3 a m\u00fasica poder\u00e1 ajud\u00e1-lo a vencer suas dificuldades.",
+                "vote_average": 6.1,
+                "vote_count": 10
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hiawatha's Rabbit Hunt",
+            "second_label": "Leon Schlesinger, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1942,
+            "tmdb": {
+                "id": 168191,
+                "original_title": "Hiawatha's Rabbit Hunt",
+                "title": "Hiawatha's Rabbit Hunt",
+                "release_date": "1941-06-07",
+                "backdrop_path": "/5GQXPw9JO5p1c3eGEZ3uBtfO17N.jpg",
+                "poster_path": "/dLLpq8RFsUuHKr8DSVYYsk9kO6x.jpg",
+                "overview": "Bugs Bunny is hunted by Hiawatha, a stereotyped Native American who fills roughly the same role as Elmer Fudd in other Bugs Bunny cartoons of this era.",
+                "vote_average": 6.0,
+                "vote_count": 17
+            },
+            "winner": false
+        },
+        {
+            "first_label": "How War Came",
+            "second_label": "Columbia",
+            "category": "Short Subject (Cartoon)",
+            "year": 1942,
+            "tmdb": {
+                "id": 236817,
+                "original_title": "How War Came",
+                "title": "How War Came",
+                "release_date": "1941-11-07",
+                "backdrop_path": null,
+                "poster_path": "/i3QJE39TjZKskUfFO5qqnaxDC6n.jpg",
+                "overview": "An animated documentary describing the involvement of Japan, Italy and Nazi Germany as the aggressors and instigators of World War II.",
+                "vote_average": 4.6,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Night before Christmas",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1942,
+            "tmdb": {
+                "id": 39894,
+                "original_title": "The Night Before Christmas",
+                "title": "Noite de Natal",
+                "release_date": "1941-12-06",
+                "backdrop_path": "/uAdeDQyNPODkSnB9nbhO3oR5jfp.jpg",
+                "poster_path": "/7j4T3n2YK5ySKvIMEqR3ljXsxkZ.jpg",
+                "overview": "Est\u00e1 nevando e frio l\u00e1 fora, e quente l\u00e1 dentro, onde Jerry se espreme por uma ratoeira para pular debaixo de uma \u00e1rvore de Natal carregada de presentes. Confundindo o Tom adormecido com um brinquedo de pel\u00facia, Jerry o acorda e uma persegui\u00e7\u00e3o louca come\u00e7a.",
+                "vote_average": 7.3,
+                "vote_count": 67
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rhapsody in Rivets",
+            "second_label": "Leon Schlesinger, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1942,
+            "tmdb": {
+                "id": 163052,
+                "original_title": "Rhapsody in Rivets",
+                "title": "Rhapsody in Rivets",
+                "release_date": "1941-12-06",
+                "backdrop_path": "/tTO2OZvz7k15WId2b549gIwf8y9.jpg",
+                "poster_path": "/rHLdiw138KHOslSO9vGPUS74VQj.jpg",
+                "overview": "A construction foreman conducts his workers like a symphony orchestra as they build a skyscraper to Franz Liszt's \"Hungarian Rhapsody No. 2.\"",
+                "vote_average": 6.4,
+                "vote_count": 15
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rhythm in the Ranks",
+            "second_label": "George Pal, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1942,
+            "tmdb": {
+                "id": 236819,
+                "original_title": "Rhythm in the Ranks",
+                "title": "Rhythm in the Ranks",
+                "release_date": "1941-12-26",
+                "backdrop_path": null,
+                "poster_path": "/2Hdje9SNVY96r1IzAvolDPIoiqn.jpg",
+                "overview": "A toy soldier, distracted by a beautiful ice skater, is derelict in his duty and gets discharged. Later, when the screwball army declares war, he lucks into a chance to redeem himself.",
+                "vote_average": 7.0,
+                "vote_count": 2
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Rookie Bear",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1942,
+            "tmdb": {
+                "id": 236489,
+                "original_title": "The Rookie Bear",
+                "title": "The Rookie Bear",
+                "release_date": "1941-11-01",
+                "backdrop_path": "/uUU2HKD0FI1mrPLCTmK9HHhZJuR.jpg",
+                "poster_path": "/kEKVhmXq7ALKxuMa0wInTNiXX0r.jpg",
+                "overview": "In a humorous report, \"Strife\" magazine follows a bear who gets drafted and goes through the rigors of Army basic training.",
+                "vote_average": 5.0,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Superman",
+            "second_label": "Max Fleischer, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1942,
+            "tmdb": {
+                "id": 95414,
+                "original_title": "Superman",
+                "title": "Superman contra o Cientista Louco",
+                "release_date": "1941-09-26",
+                "backdrop_path": "/6PCprqrm0kdzYdAtZlSiFoY0Ypi.jpg",
+                "poster_path": "/4DK6wWZTp6v32NUXszkHOPGxm16.jpg",
+                "overview": "Depois que o Daily Planet recebe uma carta de um cientista louco amea\u00e7ando causar destrui\u00e7\u00e3o com seu Electrothanasia Ray, Lois Lane sai na esperan\u00e7a de obter mais informa\u00e7\u00f5es para uma not\u00edcia.",
+                "vote_average": 6.9,
+                "vote_count": 84
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Truant Officer Donald",
+            "second_label": "Walt Disney, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1942,
+            "tmdb": {
+                "id": 94181,
+                "original_title": "Truant Officer Donald",
+                "title": "O Inspetor de Disciplina Donald",
+                "release_date": "1941-08-01",
+                "backdrop_path": "/xMTUw6zsVGAf9kFBcwASReMVLez.jpg",
+                "poster_path": "/lDo5QWEUzDhwrffUll25uJelmWS.jpg",
+                "overview": "O xerife Donald encontra seus sobrinhos matando aula para nadar. Quando ele tenta repreend\u00ea-los, descobre que eles s\u00e3o mais espertos do que ele pensava.",
+                "vote_average": 6.4,
+                "vote_count": 36
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (One-reel)": [
+        {
+            "first_label": "Of Pups and Puzzles",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Short Subject (One-reel)",
+            "year": 1942,
+            "tmdb": {
+                "id": 236807,
+                "original_title": "Of Pups and Puzzles",
+                "title": "Of Pups and Puzzles",
+                "release_date": "1941-09-06",
+                "backdrop_path": null,
+                "poster_path": "/lhz26CUJinvHDdWKcEXToaUrFKF.jpg",
+                "overview": "This short film shows how the war department utilizes a Ph.D., a chimp, and three dogs to help design aptitude tests for men applying for work.",
+                "vote_average": 5.5,
+                "vote_count": 4
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Army Champions",
+            "second_label": "Pete Smith, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1942,
+            "tmdb": {
+                "id": 236809,
+                "original_title": "Army Champions",
+                "title": "Army Champions",
+                "release_date": "1941-10-11",
+                "backdrop_path": null,
+                "poster_path": "/mqde7zAew2kZOWmzgdqZztX4VVl.jpg",
+                "overview": "This Pete Smith Specialty short focuses on the young men who have signed up for the U.S. Army. The film uses the analogy of the speed, accuracy, and teamwork of sports and how these qualities are translated into the weapons training of American soldiers. We watch target practice by Army personnel with shoulder weapons, mortars, and various artillery pieces.",
+                "vote_average": 5.5,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Beauty and the Beach",
+            "second_label": "Paramount",
+            "category": "Short Subject (One-reel)",
+            "year": 1942,
+            "tmdb": {
+                "id": 236811,
+                "original_title": "Beauty and the Beach",
+                "title": "Beauty and the Beach",
+                "release_date": "1941-09-26",
+                "backdrop_path": null,
+                "poster_path": "/mG87yD0stZzTVM2527r2zxbwH7Q.jpg",
+                "overview": "This Paramount Headliner short (in-house number A1-1) was filmed at Jones Beach and features a background of pretty girls, bathing suits and the ocean. Johnny Long and His Orchestra provide the music for five songs, including \"Kiss the Boys Goodbye\", and Helen Young and Bob Huston provide the vocals.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Down on the Farm",
+            "second_label": "Paramount",
+            "category": "Short Subject (One-reel)",
+            "year": 1942,
+            "tmdb": {
+                "id": 236812,
+                "original_title": "Speaking of Animals Down on the Farm",
+                "title": "Speaking of Animals Down on the Farm",
+                "release_date": "1941-08-18",
+                "backdrop_path": null,
+                "poster_path": "/b66PYrkX5rkCxMkn4cXqp9tSaIi.jpg",
+                "overview": "Part of Tex Avery's \"Speaking of Animals\" series of animated shorts. A collection of puns, sight gags and slapstick jokes involving pigs, cows, chickens and other animals on a farm.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Forty Boys and a Song",
+            "second_label": "Warner Bros.",
+            "category": "Short Subject (One-reel)",
+            "year": 1942,
+            "tmdb": {
+                "id": 236813,
+                "original_title": "Forty Boys and a Song",
+                "title": "Forty Boys and a Song",
+                "release_date": "1941-12-06",
+                "backdrop_path": null,
+                "poster_path": "/829uX31T8XrSARaMnGBr0VtrAa5.jpg",
+                "overview": "Forty Boys and a Song is a 1941 short documentary film directed by Irving Allen. The film is about the Robert Mitchell Boy Choir, consisting entirely of boys aged 8 to 14. The choir, run by organist Robert Mitchell, appeared in Hollywood productions for over thirty years. Accordingly, the boys were recruited to go to a special school where they would go through regular classroom instruction until 1 PM, after which they'd do choir practice. The kids are also shown performing in a church on Sunday as well as camping, as they are all part of the same Boy Scouts troop. The film was nominated for an Oscar for Best Short Subject, One-Reel.",
+                "vote_average": 4.5,
+                "vote_count": 8
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Kings of the Turf",
+            "second_label": "Warner Bros.",
+            "category": "Short Subject (One-reel)",
+            "year": 1942,
+            "tmdb": {
+                "id": 236814,
+                "original_title": "Kings of the Turf",
+                "title": "Kings of the Turf",
+                "release_date": "1941-09-27",
+                "backdrop_path": null,
+                "poster_path": "/2uZ4fI6e4gzbC3EDPgQW3CephgR.jpg",
+                "overview": "Kings of the Turf is a 1941 American short documentary film about horse racing, directed by Del Frazier. This entry in The Sports Parade series shows us how Mortimer, a Standardbred horse, is trained for harness racing. It was nominated for an Academy Award at the 14th Academy Awards for Best Short Subject.",
+                "vote_average": 4.3,
+                "vote_count": 6
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sagebrush and Silver",
+            "second_label": "20th Century-Fox",
+            "category": "Short Subject (One-reel)",
+            "year": 1942,
+            "tmdb": {
+                "id": 236815,
+                "original_title": "Sagebrush and Silver",
+                "title": "Sagebrush and Silver",
+                "release_date": "1941-08-15",
+                "backdrop_path": null,
+                "poster_path": "/sC5hAI0pMUfR2qdHxmVRZrp8rik.jpg",
+                "overview": "Sagebrush and Silver is a 1941 American short documentary film directed by Frank Hurley. It was nominated for an Academy Award at the 14th Academy Awards for Best Short Subject.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Two-reel)": [
+        {
+            "first_label": "Main Street on the March!",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Short Subject (Two-reel)",
+            "year": 1942,
+            "tmdb": {
+                "id": 236802,
+                "original_title": "Main Street on the March!",
+                "title": "Main Street on the March!",
+                "release_date": "1941-12-09",
+                "backdrop_path": null,
+                "poster_path": "/jhYvaWaDqUuHrA7WbpEFtp8vDxw.jpg",
+                "overview": "This Best Short Subject Academy Award winning film begins in the spring of 1940, just before the Nazi occupation of the Benelux countries, and ends immediately after the Japanese attack on Pearl Harbor. It chronicles how the people of \"Main Street America\", the country's military forces, and its industrial base were completely transformed when the decision was made to gear up for war. Original footage is interspersed with contemporary newsreels and stock footage.",
+                "vote_average": 5.4,
+                "vote_count": 7
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Alive in the Deep",
+            "second_label": "Woodard Productions, Inc.",
+            "category": "Short Subject (Two-reel)",
+            "year": 1942,
+            "tmdb": {
+                "id": 236803,
+                "original_title": "Alive in the Deep",
+                "title": "Alive in the Deep",
+                "release_date": "1941-05-07",
+                "backdrop_path": null,
+                "poster_path": "/mB2v0z5wlXjrkDiFBlXNH8e2edY.jpg",
+                "overview": "Alive in the Deep is a 1941 American short documentary film directed by Stacy Woodard and Horace Woodard. It was nominated for an Academy Award at the 14th Academy Awards for Best Short Subject.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Forbidden Passage",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Short Subject (Two-reel)",
+            "year": 1942,
+            "tmdb": {
+                "id": 130359,
+                "original_title": "Forbidden Passage",
+                "title": "Forbidden Passage",
+                "release_date": "1941-02-08",
+                "backdrop_path": "/jqhTmXGbKYBDZYPmmJC5eKRw84I.jpg",
+                "poster_path": "/ymHVl8x3hUb8AxcCwPiDINo9IBz.jpg",
+                "overview": "This MGM Crime Does Not Pay series short looks at the U.S. Department of Immigration's efforts to halt the smuggling of illegal aliens into the country. Desperate immigrants, tired of waiting for legal entry, pay exorbitant fees and risk a grisly death to enter by illegal means.",
+                "vote_average": 6.3,
+                "vote_count": 7
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Gay Parisian",
+            "second_label": "Warner Bros.",
+            "category": "Short Subject (Two-reel)",
+            "year": 1942,
+            "tmdb": {
+                "id": 236804,
+                "original_title": "The Gay Parisian",
+                "title": "The Gay Parisian",
+                "release_date": "1942-01-10",
+                "backdrop_path": null,
+                "poster_path": "/67JtBvecJ0EOtSJq9MvjTbGr82K.jpg",
+                "overview": "The Gay Parisian is an American short film produced in 1941 by Warner Bros. featuring the Ballet Russe de Monte-Carlo and directed by Jean Negulesco. The film is a screen adaptation, in Technicolor, of the 1938 ballet Ga\u00eet\u00e9 Parisienne, choreographed by L\u00e9onide Massine to music by Jacques Offenbach. It was nominated for an Academy Award at the 14th Academy Awards for Best Short Subject (Two-Reel).",
+                "vote_average": 4.3,
+                "vote_count": 10
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Tanks Are Coming",
+            "second_label": "United States Army",
+            "category": "Short Subject (Two-reel)",
+            "year": 1942,
+            "tmdb": {
+                "id": 32939,
+                "original_title": "The Tanks Are Coming",
+                "title": "The Tanks Are Coming",
+                "release_date": "1941-10-04",
+                "backdrop_path": "/9cdJjWAnCinW88BwDEUFwtikiMQ.jpg",
+                "poster_path": "/kVjC14Vvid4Cb9A3cp8eYK7So8s.jpg",
+                "overview": "Curta educativo sobre o status dos tanques de batalha e o treinamento em tanques no Ex\u00e9rcito Americano no pr\u00e9-guerra de 1941, com um recruta c\u00f4mico do Bronx.",
+                "vote_average": 5.2,
+                "vote_count": 6
+            },
+            "winner": false
+        }
+    ],
+    "Sound Recording": [
+        {
+            "first_label": "That Hamilton Woman",
+            "second_label": "General Service Sound Department, Jack Whitney, Sound Director",
+            "category": "Sound Recording",
+            "year": 1942,
+            "tmdb": {
+                "id": 43798,
+                "original_title": "That Hamilton Woman",
+                "title": "Lady Hamilton, A Divina Dama",
+                "release_date": "1941-04-03",
+                "backdrop_path": "/61MzmuuyTZ1afikdmT3HgFYTd3z.jpg",
+                "poster_path": "/rIweXumIJkOALwoUJsRhWXGvDHc.jpg",
+                "overview": "The story of courtesan and dance-hall girl Emma Hamilton, including her relationships with Sir William Hamilton and Admiral Horatio Nelson and her rise and fall, set during the Napoleonic Wars.",
+                "vote_average": 7.1,
+                "vote_count": 71
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Appointment for Love",
+            "second_label": "Universal Studio Sound Department, Bernard B. Brown, Sound Director",
+            "category": "Sound Recording",
+            "year": 1942,
+            "tmdb": {
+                "id": 95320,
+                "original_title": "Appointment for Love",
+                "title": "Encontro de Amor",
+                "release_date": "1941-10-31",
+                "backdrop_path": "/3LbJ68KueUxeLQIZTb7OioZYp0Z.jpg",
+                "poster_path": "/xr3tbpmOK3hJEALIdyWv3w2judw.jpg",
+                "overview": "O charmoso Andre Cassil corteja a m\u00e9dica Jane Alexander e os dois se casam impulsivamente. A lua de mel acaba muito rapidamente quando Jane conta suas vis\u00f5es progressistas sobre o casamento, que incluem as dous terem apartamentos separados.",
+                "vote_average": 5.2,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ball of Fire",
+            "second_label": "Samuel Goldwyn Studio Sound Department, Thomas T. Moulton, Sound Director",
+            "category": "Sound Recording",
+            "year": 1942,
+            "tmdb": {
+                "id": 29884,
+                "original_title": "Ball of Fire",
+                "title": "Bola de Fogo",
+                "release_date": "1941-12-02",
+                "backdrop_path": "/eVzQFWYICGBql9cfss1WKn0CxZK.jpg",
+                "poster_path": "/t9L16dMTuNq4saLpQswZjkNvaMt.jpg",
+                "overview": "Oito professores est\u00e3o voltados exclusivamente para a elabora\u00e7\u00e3o de um enciclop\u00e9dia. Nenhum deles \u00e9 casado, pois acredita-se que ter uma fam\u00edlia pode ser prejudicial para o andamento dos trabalhos. Bertram Potts (Gary Cooper), o mais novo dos professores, tem como fun\u00e7\u00e3o preparar a parte de literatura inglesa e quer incluir no seu trabalho as mais variadas formas de g\u00edria. Assim anda entre a popula\u00e7\u00e3o fazendo anota\u00e7\u00f5es e encontra em Sugarpuss O'Shea (Barbara Stanwyck), uma sexy cantora de boate, uma fonte inesgot\u00e1vel de termos popularescos. Inicialmente ela n\u00e3o colabora, mas ela namora um g\u00e2ngster, Joe Lilac (Dana Andrews), que foi solto por falta de provas. A Promotoria pretende det\u00ea-la para interrogat\u00f3rio at\u00e9 conseguir provas contra Joe, ent\u00e3o O'Shea tem a id\u00e9ia de se hospedar na casa onde os professores est\u00e3o reunidos, usando o pretexto de que vai colaborar na enciclop\u00e9dia, pois a pol\u00edcia n\u00e3o a procurar\u00e1 em uma casa habitada por intelectuais.",
+                "vote_average": 7.4,
+                "vote_count": 189
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Chocolate Soldier",
+            "second_label": "Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",
+            "category": "Sound Recording",
+            "year": 1942,
+            "tmdb": {
+                "id": 94209,
+                "original_title": "The Chocolate Soldier",
+                "title": "The Chocolate Soldier",
+                "release_date": "1941-11-01",
+                "backdrop_path": "/4oEOhxzIrnprGa4M9kW9zyPWCWw.jpg",
+                "poster_path": "/7EmQFdwC7Q4KpHkDwIh1x4Hf4tq.jpg",
+                "overview": "Maria and Karl Lang are the singing duo of Vienna. Maria is very flirtatious and Karl very jealous. Karl decides to masquerade as a Russian guardsman and attempts to make Maria flirt with him - to test her loyalty to him - as the Russian, Karl makes a vigorous attempt to seduce Maria. For a moment she accepts then rejects. Karl is left in turmoil...",
+                "vote_average": 6.6,
+                "vote_count": 7
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Citizen Kane",
+            "second_label": "RKO Radio Studio Sound Department, John Aalberg, Sound Director",
+            "category": "Sound Recording",
+            "year": 1942,
+            "tmdb": {
+                "id": 15,
+                "original_title": "Citizen Kane",
+                "title": "Cidad\u00e3o Kane",
+                "release_date": "1941-04-17",
+                "backdrop_path": "/ruF3Lmd4A8MHbnEBE6lxPMbsHGL.jpg",
+                "poster_path": "/2pJ2voOH3QqfgDygG6e9W48YBLt.jpg",
+                "overview": "Charles Foster Kane foi um menino pobre que acaba se tornando um dos homens mais ricos do mundo. O filme inicia com a sua morte, momentos antes da qual pronuncia a palavra \"Rosebud\". Ap\u00f3s dias de sensacionalismo em cima da not\u00edcia de sua morte, o jornalista Jerry Thompson \u00e9 enviado por seu chefe para investigar a vida de Kane, a fim de descobrir o sentido de sua \u00faltima palavra, a qual ningu\u00e9m sabia. Entrevistando pessoas do passado de Kane, o jornalista mergulha na vida de um homem solit\u00e1rio, que desde a inf\u00e2ncia \u00e9 obrigado a seguir a vontade alheia. Ningu\u00e9m a seu redor importa-se com Kane, que busca por meio da aquisi\u00e7\u00e3o de bens a adora\u00e7\u00e3o das pessoas. Ao final, Thompson, ap\u00f3s a exaustiva investiga\u00e7\u00e3o da vida de Kane atrav\u00e9s de entrevistas, se v\u00ea incapaz de descobrir o significado da palavra, concluindo que \"Charles Foster Kane foi um homem que possuiu tudo o que quis e depois perdeu tudo. Talvez Rosebud seja algo que ele nunca tenha possu\u00eddo ou algo que tenha perdido\".",
+                "vote_average": 8.008,
+                "vote_count": 5243
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Devil Pays Off",
+            "second_label": "Republic Studio Sound Department, Charles Lootens, Sound Director",
+            "category": "Sound Recording",
+            "year": 1942,
+            "tmdb": {
+                "id": 165745,
+                "original_title": "Devil Pays Off",
+                "title": "Devil Pays Off",
+                "release_date": "1941-11-10",
+                "backdrop_path": "/2TkABMxEJdzDrhpAAJnCeqOKRl6.jpg",
+                "poster_path": "/bL4LWV2SJMFwnhLiWPDzropYGZe.jpg",
+                "overview": "A former Navy man attempts to redeem his honor by exposing a shipping tycoon's dealings with the enemy.",
+                "vote_average": 3.3,
+                "vote_count": 7
+            },
+            "winner": false
+        },
+        {
+            "first_label": "How Green Was My Valley",
+            "second_label": "20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director",
+            "category": "Sound Recording",
+            "year": 1942,
+            "tmdb": {
+                "id": 43266,
+                "original_title": "How Green Was My Valley",
+                "title": "Como Era Verde o Meu Vale",
+                "release_date": "1941-10-28",
+                "backdrop_path": "/ucQESsrG63LsA5HD70aaPxEyORk.jpg",
+                "poster_path": "/1D2linQi2VWojXn7SkHyKxT1z3m.jpg",
+                "overview": "Aos 60 anos, Huw Morgan relembra sua vida quando garoto (Roddy McDowall) em uma pequena cidade mineradora. Suas reminisc\u00eancias revelam a desintegra\u00e7\u00e3o da unida fam\u00edlia Morgan e de seus dedicados pais (Donald Crisp e Sara Allgood), enquanto capta os sentimentos e problemas daquele tempo. Maureen O\u2019Hara e Walter Pidgeon co-estrelam este aclamado cl\u00e1ssico das telas nesta hist\u00f3ria sobre sonhos, lutas e triunfos de uma fam\u00edlia.",
+                "vote_average": 7.2,
+                "vote_count": 367
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Men in Her Life",
+            "second_label": "Columbia Studio Sound Department, John Livadary, Sound Director",
+            "category": "Sound Recording",
+            "year": 1942,
+            "tmdb": {
+                "id": 96695,
+                "original_title": "The Men in Her Life",
+                "title": "The Men in Her Life",
+                "release_date": "1941-10-30",
+                "backdrop_path": "/xYHFApAORQmbPLEtr82uBqIrcUz.jpg",
+                "poster_path": "/l7ERRNUhkF5zD6RXTxKL83GLqxl.jpg",
+                "overview": "A circus performer becomes a ballerina and then begins her life of a career versus marriage and a home-life. She marries her first husband, her mentor and instructor, primarily out of gratitude. After his death, she marries an American thinking that can be her escape from the world of ballet. But she leaves him to return the dancing. She has a child but does not tell her husband. When her daughter is two-years-old, the husband finds out and takes the child to America. The ballerina continues to dance until her best dancing days have gone by.",
+                "vote_average": 6.0,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sergeant York",
+            "second_label": "Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",
+            "category": "Sound Recording",
+            "year": 1942,
+            "tmdb": {
+                "id": 16442,
+                "original_title": "Sergeant York",
+                "title": "Sargento York",
+                "release_date": "1941-09-27",
+                "backdrop_path": "/i4nVONDi6brdbG8K8J1NmMrD0NJ.jpg",
+                "poster_path": "/3GV5RAaunGGo0l6gt0S9FuhEKaq.jpg",
+                "overview": "Alvin Cullum York (Gary Cooper) vive \u00e9 um soldado pacifista que ter\u00e1 que deixar suas cren\u00e7as crist\u00e3s de lado para participar do front na Primeira Guerra Mundial. Vencedor do Oscar de Melhor Ator (Gary Cooper) e Melhor Montagem, indicado a outras nove categorias.",
+                "vote_average": 7.2,
+                "vote_count": 188
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Skylark",
+            "second_label": "Paramount Studio Sound Department, Loren Ryder, Sound Director",
+            "category": "Sound Recording",
+            "year": 1942,
+            "tmdb": {
+                "id": 96175,
+                "original_title": "Skylark",
+                "title": "Skylark",
+                "release_date": "1941-11-21",
+                "backdrop_path": "/4lSAk6ykUmrRpHbDs68AlmqjyDw.jpg",
+                "poster_path": "/cpFap9wHhLMdn9OPVS6Uv7xMn4n.jpg",
+                "overview": "As her fifth wedding anniversary approaches, a woman realizes that she is fed up with always coming in second to her husband's advertising business. Just at the moment when she is trying to decide what to do, she meets a handsome attorney, and their innocent flirtation begins to turn into something a bit more serious.",
+                "vote_average": 6.8,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Topper Returns",
+            "second_label": "Hal Roach Studio Sound Department, Elmer Raguse, Sound Director",
+            "category": "Sound Recording",
+            "year": 1942,
+            "tmdb": {
+                "id": 44875,
+                "original_title": "Topper Returns",
+                "title": "A Volta do Fantasma",
+                "release_date": "1941-03-21",
+                "backdrop_path": "/5HaZJ8YcQcqCbhPsTfLT0D75b0e.jpg",
+                "poster_path": "/1lmk672uN88lT8W8wCD6xeWiUdX.jpg",
+                "overview": "Topper is once again tormented by a fun-loving spirit. This time, it's Gail Richards, who was accidentally murdered while vacationing at the home of her wealthy friend, Ann Carrington (Landis), the intended victim. With Topper's help, Gail sets out to find her killer with the expected zany results.",
+                "vote_average": 6.3,
+                "vote_count": 44
+            },
+            "winner": false
+        }
+    ],
+    "Special Award": [
+        {
+            "first_label": "Fantasia",
+            "second_label": "Special Award",
+            "category": "Special Award",
+            "year": 1942,
+            "tmdb": {
+                "id": 756,
+                "original_title": "Fantasia",
+                "title": "Fantasia",
+                "release_date": "1940-11-13",
+                "backdrop_path": "/lyzI5uFJC2E7sIYCCdaU0oZkDw2.jpg",
+                "poster_path": "/5m9njnidjR0syG2gpVPVgcEMB2X.jpg",
+                "overview": "A integra\u00e7\u00e3o das grandes obras da m\u00fasica cl\u00e1ssica com visuais extremamente criativos e originais da anima\u00e7\u00e3o. S\u00e3o as seguintes composi\u00e7\u00f5es que fazem parte do filme: \"Toccata e Fuga em R\u00e9 Menor\", de Johann Sebastian Bach; \"Su\u00edte Quebra-Nozes\", de Peter Llich Tchaikovsky; \"O Aprendiz de Feiticeiro\", de Paul Dukas; \"Sagra\u00e7\u00e3o da Primavera\", de Igor Stravinsky; \"Sinfonia Pastoral\", de Ludwing Van Beethoven; \"Dan\u00e7a das Horas\", de Almicare Ponchielli; \"Noite no Monte Calvo\", de Modest Mussorgsky; e \"Ave Maria\", de Franz Schubert.",
+                "vote_average": 7.356,
+                "vote_count": 2917
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Kukan",
+            "second_label": "Special Award",
+            "category": "Special Award",
+            "year": 1942,
+            "tmdb": {
+                "id": 236832,
+                "original_title": "Kukan: The Battle Cry of China",
+                "title": "Kukan: The Battle Cry of China",
+                "release_date": "1941-06-23",
+                "backdrop_path": null,
+                "poster_path": "/2jQQE9LKqXoaYFTRmN9cXn8mL2u.jpg",
+                "overview": "Rey Scott received an Honorary Academy Award for this documentary \"For his extraordinary achievement in producing Kukan, the film record of China's struggle, including its photography with a 16mm camera under the most difficult and dangerous conditions.\"",
+                "vote_average": 6.6,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Target for Tonight",
+            "second_label": "Special Award",
+            "category": "Special Award",
+            "year": 1942,
+            "tmdb": {
+                "id": 98478,
+                "original_title": "Target for Tonight",
+                "title": "Target for Tonight",
+                "release_date": "1941-08-18",
+                "backdrop_path": "/758J2XvQKNm0wCFrAv7TiYiJH0H.jpg",
+                "poster_path": "/rGiuN6KghkC7RtrBZUrpP0jBeGs.jpg",
+                "overview": "This is the authentic story of a bombing raid on Germany... how it is planned and how it is executed. Every person seen in the picture is a member of the Royal Air Force from Commander-in-Chief to aircraft hand, re-enacting his own daily life on the job. They are the men and women who actually direct, plan and execute the raids.",
+                "vote_average": 6.1,
+                "vote_count": 11
+            },
+            "winner": false
+        }
+    ],
+    "Special Effects": [
+        {
+            "first_label": "I Wanted Wings",
+            "second_label": "Photographic Effects by Farciot Edouart, Gordon Jennings; Sound Effects by Louis Mesenkop",
+            "category": "Special Effects",
+            "year": 1942,
+            "tmdb": {
+                "id": 131766,
+                "original_title": "I Wanted Wings",
+                "title": "I Wanted Wings",
+                "release_date": "1941-03-26",
+                "backdrop_path": "/sBNUtPPsQ0T0sgRP99I4srOpIIS.jpg",
+                "poster_path": "/iiEkitLzTfR1JAeHxR0AyFQTFxf.jpg",
+                "overview": "Told in flashback, this drama follows the training and personal lives of three recruits in the Army Air Corps: a wealthy playboy, a college jock, and an auto mechanic. Love interest is supplied by a female photographer and a sultry blonde.",
+                "vote_average": 5.1,
+                "vote_count": 7
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Aloma of the South Seas",
+            "second_label": "Photographic Effects by Farciot Edouart, Gordon Jennings; Sound Effects by Louis Mesenkop",
+            "category": "Special Effects",
+            "year": 1942,
+            "tmdb": {
+                "id": 183632,
+                "original_title": "Aloma of the South Seas",
+                "title": "Aloma, A Virgem Prometida",
+                "release_date": "1941-08-27",
+                "backdrop_path": "/jkixTbEurJNNzNKD6qESOJQBTIi.jpg",
+                "poster_path": "/hd53BepCGhwrIZO6owVJyW2dcUN.jpg",
+                "overview": "Tanoa, herdeiro do trono de uma ilha dos Mares do Sul, n\u00e3o passa de uma crian\u00e7a quando se torna noivo de Aloma. Quando \u00e9 enviado para os Estados Unidos para aprimorar sua educa\u00e7\u00e3o, Aloma apaixona-se por seu amigo Revo. Quinze anos mais tarde, Tanoa volta para casa, esquecido da noiva, mas, ao fingir seguir as tradi\u00e7\u00f5es locais, acaba realmente caindo de amores por Aloma\u2014e \u00e9 correspondido. Enciumado, Revo torna-se inimigo mortal dos dois amantes e comete v\u00e1rios crimes em sua \u00e2nsia de vingan\u00e7a. Um vulc\u00e3o, que se torna ativo de s\u00fabito, \u00e9 visto pelos nativos como manifesta\u00e7\u00e3o da ira divina, por\u00e9m ele ter\u00e1 papel importante como instrumento da Justi\u00e7a.",
+                "vote_average": 5.7,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Flight Command",
+            "second_label": "Photographic Effects by A. Arnold Gillespie; Sound Effects by Douglas Shearer",
+            "category": "Special Effects",
+            "year": 1942,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Invisible Woman",
+            "second_label": "Photographic Effects by John Fulton; Sound Effects by John Hall",
+            "category": "Special Effects",
+            "year": 1942,
+            "tmdb": {
+                "id": 28423,
+                "original_title": "The Invisible Woman",
+                "title": "A Mulher Invis\u00edvel",
+                "release_date": "1940-12-28",
+                "backdrop_path": "/gbxm4XRbDAfeyd2KLxSi7Rmf2q5.jpg",
+                "poster_path": "/ySUbbnVGTeFxZKdn2Vdf7OXeIc2.jpg",
+                "overview": "O exc\u00eantrico Professor Gibbs, brilhante, mas pouco pr\u00e1tico, inventa uma m\u00e1quina de invisibilidade e p\u00f5e um an\u00fancio para uma cobaia. Ele recebe uma candidata, Kitty Carroll, uma modelo atraente e aventureira, que acha que ser invis\u00edvel a ajudaria a resolver algumas pend\u00eancias. As complica\u00e7\u00f5es surgem quando tr\u00eas bandidos atrapalhados roubam a m\u00e1quina para usar no seu chefe.",
+                "vote_average": 5.7,
+                "vote_count": 63
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Sea Wolf",
+            "second_label": "Photographic Effects by Byron Haskin; Sound Effects by Nathan Levinson",
+            "category": "Special Effects",
+            "year": 1942,
+            "tmdb": {
+                "id": 33931,
+                "original_title": "The Sea Wolf",
+                "title": "O Lobo do Mar",
+                "release_date": "1941-03-21",
+                "backdrop_path": "/dD1zeP5cn46ba06AMxFu8DIboml.jpg",
+                "poster_path": "/hgpzaiHupKqvozTcXuqF5Ew5QVF.jpg",
+                "overview": "Shipwrecked fugitives try to escape a brutal sea captain who's losing his mind.",
+                "vote_average": 7.1,
+                "vote_count": 52
+            },
+            "winner": false
+        },
+        {
+            "first_label": "That Hamilton Woman",
+            "second_label": "Photographic Effects by Lawrence Butler; Sound Effects by William H. Wilmarth",
+            "category": "Special Effects",
+            "year": 1942,
+            "tmdb": {
+                "id": 43798,
+                "original_title": "That Hamilton Woman",
+                "title": "Lady Hamilton, A Divina Dama",
+                "release_date": "1941-04-03",
+                "backdrop_path": "/61MzmuuyTZ1afikdmT3HgFYTd3z.jpg",
+                "poster_path": "/rIweXumIJkOALwoUJsRhWXGvDHc.jpg",
+                "overview": "The story of courtesan and dance-hall girl Emma Hamilton, including her relationships with Sir William Hamilton and Admiral Horatio Nelson and her rise and fall, set during the Napoleonic Wars.",
+                "vote_average": 7.1,
+                "vote_count": 71
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Topper Returns",
+            "second_label": "Photographic Effects by Roy Seawright; Sound Effects by Elmer Raguse",
+            "category": "Special Effects",
+            "year": 1942,
+            "tmdb": {
+                "id": 44875,
+                "original_title": "Topper Returns",
+                "title": "A Volta do Fantasma",
+                "release_date": "1941-03-21",
+                "backdrop_path": "/5HaZJ8YcQcqCbhPsTfLT0D75b0e.jpg",
+                "poster_path": "/1lmk672uN88lT8W8wCD6xeWiUdX.jpg",
+                "overview": "Topper is once again tormented by a fun-loving spirit. This time, it's Gail Richards, who was accidentally murdered while vacationing at the home of her wealthy friend, Ann Carrington (Landis), the intended victim. With Topper's help, Gail sets out to find her killer with the expected zany results.",
+                "vote_average": 6.3,
+                "vote_count": 44
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Yank in the R.A.F.",
+            "second_label": "Photographic Effects by Fred Sersen; Sound Effects by E. H. Hansen",
+            "category": "Special Effects",
+            "year": 1942,
+            "tmdb": {
+                "id": 49609,
+                "original_title": "A Yank in the R.A.F.",
+                "title": "Um Yankee na RAF",
+                "release_date": "1941-09-26",
+                "backdrop_path": "/5doH8NYYtXkbce6s7N6pVlJUTAF.jpg",
+                "poster_path": "/2rnMINMnWv5iBM6YaqO6tiFaws7.jpg",
+                "overview": "Tyrone Power \u00e9 um piloto de pilotos, um professor, mas n\u00e3o acredita em nada al\u00e9m de suas pr\u00f3prias habilidades. Ele fica em apuros por voar um novo ca\u00e7a diretamente para o Canad\u00e1, em vez de pousar no estado de Nova York e deix\u00e1-lo ser rebocada pela fronteira como a lei exige. Mas lhe \u00e9 oferecido um novo trabalho: Transportar bombardeiros para a guerra na Inglaterra. Ent\u00e3o em uma das viagens ele encontra Betty Grable, uma antiga paix\u00e3o, que juntou-se \u00e0 RAF como uma WREN (Women of the Royal Naval Services) numa tentativa de lutar pela democracia. Tyrone volta a cortej\u00e1-la e, no curso de suas v\u00e1rias miss\u00f5es come\u00e7a a desenvolver uma compreens\u00e3o do porque eles est\u00e3o lutando.",
+                "vote_average": 5.5,
+                "vote_count": 20
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Original Screenplay)": [
+        {
+            "first_label": "Citizen Kane",
+            "second_label": "Herman J. Mankiewicz, Orson Welles",
+            "category": "Writing (Original Screenplay)",
+            "year": 1942,
+            "tmdb": {
+                "id": 15,
+                "original_title": "Citizen Kane",
+                "title": "Cidad\u00e3o Kane",
+                "release_date": "1941-04-17",
+                "backdrop_path": "/ruF3Lmd4A8MHbnEBE6lxPMbsHGL.jpg",
+                "poster_path": "/2pJ2voOH3QqfgDygG6e9W48YBLt.jpg",
+                "overview": "Charles Foster Kane foi um menino pobre que acaba se tornando um dos homens mais ricos do mundo. O filme inicia com a sua morte, momentos antes da qual pronuncia a palavra \"Rosebud\". Ap\u00f3s dias de sensacionalismo em cima da not\u00edcia de sua morte, o jornalista Jerry Thompson \u00e9 enviado por seu chefe para investigar a vida de Kane, a fim de descobrir o sentido de sua \u00faltima palavra, a qual ningu\u00e9m sabia. Entrevistando pessoas do passado de Kane, o jornalista mergulha na vida de um homem solit\u00e1rio, que desde a inf\u00e2ncia \u00e9 obrigado a seguir a vontade alheia. Ningu\u00e9m a seu redor importa-se com Kane, que busca por meio da aquisi\u00e7\u00e3o de bens a adora\u00e7\u00e3o das pessoas. Ao final, Thompson, ap\u00f3s a exaustiva investiga\u00e7\u00e3o da vida de Kane atrav\u00e9s de entrevistas, se v\u00ea incapaz de descobrir o significado da palavra, concluindo que \"Charles Foster Kane foi um homem que possuiu tudo o que quis e depois perdeu tudo. Talvez Rosebud seja algo que ele nunca tenha possu\u00eddo ou algo que tenha perdido\".",
+                "vote_average": 8.008,
+                "vote_count": 5243
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Devil and Miss Jones",
+            "second_label": "Norman Krasna",
+            "category": "Writing (Original Screenplay)",
+            "year": 1942,
+            "tmdb": {
+                "id": 43801,
+                "original_title": "The Devil and Miss Jones",
+                "title": "O Diabo e a Mulher",
+                "release_date": "1941-04-11",
+                "backdrop_path": "/2gI7jZ16RZxwM8HlVvi2EMsSFMO.jpg",
+                "poster_path": "/spGm2v3Jpg5l5xZS9xjKYNrLYF1.jpg",
+                "overview": "O milion\u00e1rio J.P. Merrick, tir\u00e2nico dono de uma loja de departamento, \u00e9 o diabo em pessoa para todos os seus empregados. Quando Merrick resolve se passar por empregado da loja para descobrir o que os funcion\u00e1rios dizem e pensam sobre ele, ele conhece a Srta. Jones. Tentando ajud\u00e1-lo, a Srta. Jones acaba por colocar Merrick em uma s\u00e9rie de problemas. (e Livre - Estimado Livre)",
+                "vote_average": 7.7,
+                "vote_count": 50
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sergeant York",
+            "second_label": "Abem Finkel, Harry Chandlee, Howard Koch, John Huston",
+            "category": "Writing (Original Screenplay)",
+            "year": 1942,
+            "tmdb": {
+                "id": 16442,
+                "original_title": "Sergeant York",
+                "title": "Sargento York",
+                "release_date": "1941-09-27",
+                "backdrop_path": "/i4nVONDi6brdbG8K8J1NmMrD0NJ.jpg",
+                "poster_path": "/3GV5RAaunGGo0l6gt0S9FuhEKaq.jpg",
+                "overview": "Alvin Cullum York (Gary Cooper) vive \u00e9 um soldado pacifista que ter\u00e1 que deixar suas cren\u00e7as crist\u00e3s de lado para participar do front na Primeira Guerra Mundial. Vencedor do Oscar de Melhor Ator (Gary Cooper) e Melhor Montagem, indicado a outras nove categorias.",
+                "vote_average": 7.2,
+                "vote_count": 188
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tall, Dark and Handsome",
+            "second_label": "Karl Tunberg, Darrell Ware",
+            "category": "Writing (Original Screenplay)",
+            "year": 1942,
+            "tmdb": {
+                "id": 94251,
+                "original_title": "Tall, Dark and Handsome",
+                "title": "Tall, Dark and Handsome",
+                "release_date": "1941-01-24",
+                "backdrop_path": "/sPENqwaGKDT2AfJJMN1e0hjbA66.jpg",
+                "poster_path": "/hDd1F0hJCYcCwzSMolWljORG8ky.jpg",
+                "overview": "Robin Hoodish gangster in 1929 Chicago is an object of affection, kind to New York hood and bad to a bad crook.",
+                "vote_average": 5.4,
+                "vote_count": 6
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tom, Dick and Harry",
+            "second_label": "Paul Jarrico",
+            "category": "Writing (Original Screenplay)",
+            "year": 1942,
+            "tmdb": {
+                "id": 86604,
+                "original_title": "Tom, Dick and Harry",
+                "title": "Tom, Dick and Harry",
+                "release_date": "1941-06-13",
+                "backdrop_path": "/6xPGvzPnHSLYvqNOUtvUDd681L.jpg",
+                "poster_path": "/aZnucljYes0E8NkzH3Bg5jWiQg.jpg",
+                "overview": "Janie is a telephone operator who is caught up in the lines of love of three men: car salesman Tom, Chicago millionaire Dick and auto mechanic Harry. But Janie just can't seem to make up her mind between them. While fantasizing about her futures with each of the men, Janie spends her time desperately trying to juggle between them until she can make a decision.",
+                "vote_average": 5.2,
+                "vote_count": 15
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Original Story)": [
+        {
+            "first_label": "Here Comes Mr. Jordan",
+            "second_label": "Harry Segall",
+            "category": "Writing (Original Story)",
+            "year": 1942,
+            "tmdb": {
+                "id": 38914,
+                "original_title": "Here Comes Mr. Jordan",
+                "title": "Que Espere o C\u00e9u",
+                "release_date": "1941-08-07",
+                "backdrop_path": "/sl0tLI7ThQI6PEho6nNvO2wBgcn.jpg",
+                "poster_path": "/k6gmIV3hTSCG2JBh2zPMLogZ5y3.jpg",
+                "overview": "Boxer Joe Pendleton, flying to his next fight, crashes...because a Heavenly Messenger, new on the job, snatched Joe's spirit prematurely from his body. Before the matter can be rectified, Joe's body is cremated; so the celestial Mr. Jordan grants him the use of the body of wealthy Bruce Farnsworth, who's just been murdered by his wife. Joe tries to remake Farnsworth's unworthy life in his own clean-cut image, but then falls in love; and what about that murderous wife?",
+                "vote_average": 6.9,
+                "vote_count": 95
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Ball of Fire",
+            "second_label": "Billy Wilder, Thomas Monroe",
+            "category": "Writing (Original Story)",
+            "year": 1942,
+            "tmdb": {
+                "id": 29884,
+                "original_title": "Ball of Fire",
+                "title": "Bola de Fogo",
+                "release_date": "1941-12-02",
+                "backdrop_path": "/eVzQFWYICGBql9cfss1WKn0CxZK.jpg",
+                "poster_path": "/t9L16dMTuNq4saLpQswZjkNvaMt.jpg",
+                "overview": "Oito professores est\u00e3o voltados exclusivamente para a elabora\u00e7\u00e3o de um enciclop\u00e9dia. Nenhum deles \u00e9 casado, pois acredita-se que ter uma fam\u00edlia pode ser prejudicial para o andamento dos trabalhos. Bertram Potts (Gary Cooper), o mais novo dos professores, tem como fun\u00e7\u00e3o preparar a parte de literatura inglesa e quer incluir no seu trabalho as mais variadas formas de g\u00edria. Assim anda entre a popula\u00e7\u00e3o fazendo anota\u00e7\u00f5es e encontra em Sugarpuss O'Shea (Barbara Stanwyck), uma sexy cantora de boate, uma fonte inesgot\u00e1vel de termos popularescos. Inicialmente ela n\u00e3o colabora, mas ela namora um g\u00e2ngster, Joe Lilac (Dana Andrews), que foi solto por falta de provas. A Promotoria pretende det\u00ea-la para interrogat\u00f3rio at\u00e9 conseguir provas contra Joe, ent\u00e3o O'Shea tem a id\u00e9ia de se hospedar na casa onde os professores est\u00e3o reunidos, usando o pretexto de que vai colaborar na enciclop\u00e9dia, pois a pol\u00edcia n\u00e3o a procurar\u00e1 em uma casa habitada por intelectuais.",
+                "vote_average": 7.4,
+                "vote_count": 189
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Lady Eve",
+            "second_label": "Monckton Hoffe",
+            "category": "Writing (Original Story)",
+            "year": 1942,
+            "tmdb": {
+                "id": 3086,
+                "original_title": "The Lady Eve",
+                "title": "As Tr\u00eas Noites de Eva",
+                "release_date": "1941-02-25",
+                "backdrop_path": "/mNQm9BVRBVoGsZFHIrtNERJj5WK.jpg",
+                "poster_path": "/lJYD3CMgKtv12hazSHc7xt3i2uq.jpg",
+                "overview": "Depois de um ano estudando of\u00eddios amaz\u00f4nicos, o rico - por\u00e9m r\u00fastico - Charles Pike conhece em um navio Jean Harrington, uma golpista. Eles se apaixonam, mas um engano os separa. Para reconquist\u00e1-lo, Jean se disfar\u00e7a como uma senhora inglesa e volta para atorment\u00e1-lo.",
+                "vote_average": 7.2,
+                "vote_count": 321
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Meet John Doe",
+            "second_label": "Richard Connell, Robert Presnell",
+            "category": "Writing (Original Story)",
+            "year": 1942,
+            "tmdb": {
+                "id": 32574,
+                "original_title": "Meet John Doe",
+                "title": "Ador\u00e1vel Vagabundo",
+                "release_date": "1941-03-14",
+                "backdrop_path": "/fy2hkQgAWj1st3FWBzqc27JlytC.jpg",
+                "poster_path": "/dnBZbFE2OGlTGNGBVTn6t83tJtd.jpg",
+                "overview": "Como tacada de despedida, a rec\u00e9m demitida rep\u00f3rter Ann Mitchell faz mat\u00e9ria com uma carta falsa do desempregado \"John Doe\" ou Z\u00e9 Ningu\u00e9m, que amea\u00e7a o suic\u00eddio em protesto pelos males sociais. O jornal \u00e9 for\u00e7ado a recontratar Ann e a contratar John Willoughby para se fazer passar pelo Z\u00e9 Ningu\u00e9m \"Doe\". Ann e seus chefes cinicamente usam e abusam dessa hist\u00f3ria, extraem tudo que \u00e9 poss\u00edvel, at\u00e9 que a  filosofia do inventado \"Z\u00e9 Ningu\u00e9m\" faz surgir um movimento pol\u00edtico inteiro.",
+                "vote_average": 7.3,
+                "vote_count": 229
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Night Train",
+            "second_label": "Gordon Wellesley",
+            "category": "Writing (Original Story)",
+            "year": 1942,
+            "tmdb": {
+                "id": 41597,
+                "original_title": "Night Train to Munich",
+                "title": "Gestapo",
+                "release_date": "1940-08-31",
+                "backdrop_path": "/nQXlAXXwZVhD4o3FQ94XyOwqX8w.jpg",
+                "poster_path": "/wHkeBqL42t0vxqtDnany7qncL2u.jpg",
+                "overview": "Tchecoslov\u00e1quia, mar\u00e7o de 1939, na v\u00e9spera da Segunda Guerra Mundial. Enquanto os invasores alem\u00e3es ocupam Praga, o inventor Axel Bomasch consegue fugir e chegar \u00e0 Inglaterra; mas aqueles que precisam colocar os seus conhecimentos ao servi\u00e7o da m\u00e1quina de guerra nazi, para levar a cabo os seus mal\u00e9ficos planos de destrui\u00e7\u00e3o, n\u00e3o parar\u00e3o em nada para o capturar\u2026",
+                "vote_average": 7.3,
+                "vote_count": 72
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay)": [
+        {
+            "first_label": "Here Comes Mr. Jordan",
+            "second_label": "Sidney Buchman, Seton I. Miller",
+            "category": "Writing (Screenplay)",
+            "year": 1942,
+            "tmdb": {
+                "id": 38914,
+                "original_title": "Here Comes Mr. Jordan",
+                "title": "Que Espere o C\u00e9u",
+                "release_date": "1941-08-07",
+                "backdrop_path": "/sl0tLI7ThQI6PEho6nNvO2wBgcn.jpg",
+                "poster_path": "/k6gmIV3hTSCG2JBh2zPMLogZ5y3.jpg",
+                "overview": "Boxer Joe Pendleton, flying to his next fight, crashes...because a Heavenly Messenger, new on the job, snatched Joe's spirit prematurely from his body. Before the matter can be rectified, Joe's body is cremated; so the celestial Mr. Jordan grants him the use of the body of wealthy Bruce Farnsworth, who's just been murdered by his wife. Joe tries to remake Farnsworth's unworthy life in his own clean-cut image, but then falls in love; and what about that murderous wife?",
+                "vote_average": 6.9,
+                "vote_count": 95
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Hold Back the Dawn",
+            "second_label": "Charles Brackett, Billy Wilder",
+            "category": "Writing (Screenplay)",
+            "year": 1942,
+            "tmdb": {
+                "id": 51395,
+                "original_title": "Hold Back the Dawn",
+                "title": "A Porta de Ouro",
+                "release_date": "1941-09-26",
+                "backdrop_path": "/uudTreOlFCOefYNGXFlLcaAI3lj.jpg",
+                "poster_path": "/9glz9yMbU9gDIrtU7R4HeNxApGT.jpg",
+                "overview": "Romanian-French gigolo Georges Iscovescu wishes to enter the USA. Stopped in Mexico by the quota system, he decides to marry an American, then desert her and join his old partner Anita, who's done likewise. But after sweeping teacher Emmy Brown off her feet, he finds her so sweet that love and jealousy endanger his plans.",
+                "vote_average": 6.5,
+                "vote_count": 38
+            },
+            "winner": false
+        },
+        {
+            "first_label": "How Green Was My Valley",
+            "second_label": "Philip Dunne",
+            "category": "Writing (Screenplay)",
+            "year": 1942,
+            "tmdb": {
+                "id": 43266,
+                "original_title": "How Green Was My Valley",
+                "title": "Como Era Verde o Meu Vale",
+                "release_date": "1941-10-28",
+                "backdrop_path": "/ucQESsrG63LsA5HD70aaPxEyORk.jpg",
+                "poster_path": "/1D2linQi2VWojXn7SkHyKxT1z3m.jpg",
+                "overview": "Aos 60 anos, Huw Morgan relembra sua vida quando garoto (Roddy McDowall) em uma pequena cidade mineradora. Suas reminisc\u00eancias revelam a desintegra\u00e7\u00e3o da unida fam\u00edlia Morgan e de seus dedicados pais (Donald Crisp e Sara Allgood), enquanto capta os sentimentos e problemas daquele tempo. Maureen O\u2019Hara e Walter Pidgeon co-estrelam este aclamado cl\u00e1ssico das telas nesta hist\u00f3ria sobre sonhos, lutas e triunfos de uma fam\u00edlia.",
+                "vote_average": 7.2,
+                "vote_count": 367
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Little Foxes",
+            "second_label": "Lillian Hellman",
+            "category": "Writing (Screenplay)",
+            "year": 1942,
+            "tmdb": {
+                "id": 43802,
+                "original_title": "The Little Foxes",
+                "title": "P\u00e9rfida",
+                "release_date": "1941-08-29",
+                "backdrop_path": "/zcGLxxXHUtjbkZLIrdQjXSLGQmx.jpg",
+                "poster_path": "/mB3qcYHdZp9iuWECcV1HiXwn5Np.jpg",
+                "overview": "In 1900, a clan attempts to strike a deal with a Chicago industrialist to get him to build cotton mills in their Deep South town.",
+                "vote_average": 7.5,
+                "vote_count": 157
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Maltese Falcon",
+            "second_label": "John Huston",
+            "category": "Writing (Screenplay)",
+            "year": 1942,
+            "tmdb": {
+                "id": 963,
+                "original_title": "The Maltese Falcon",
+                "title": "Rel\u00edquia Macabra",
+                "release_date": "1941-10-18",
+                "backdrop_path": "/9xzVKUGbVKrrgwlmshJ8SxI5mL7.jpg",
+                "poster_path": "/yr0vvk29PMHvyf9xjFbxAnejUKz.jpg",
+                "overview": "Um detetive particular (Humphrey Bogart) \u00e9 procurado por uma mulher misteriosa (Mary Astor), que alega estar sendo amea\u00e7ada. Mas tanto o seu perseguidor quanto o homem encarregado de proteg\u00ea-la aparecem mortos e tudo gira em torno de uma est\u00e1tua de falc\u00e3o de valor incalcul\u00e1vel. Foi lan\u00e7ado no Brasil com o t\u00edtulo \"Rel\u00edquia Macabra\".",
+                "vote_average": 7.7,
+                "vote_count": 1576
+            },
+            "winner": false
+        }
+    ]
+}

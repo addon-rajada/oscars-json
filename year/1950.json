@@ -1,0 +1,1782 @@
+{
+    "Actor": [
+        {
+            "first_label": "Broderick Crawford",
+            "second_label": "All the King's Men",
+            "category": "Actor",
+            "year": 1950,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Kirk Douglas",
+            "second_label": "Champion",
+            "category": "Actor",
+            "year": 1950,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gregory Peck",
+            "second_label": "Twelve O'Clock High",
+            "category": "Actor",
+            "year": 1950,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Richard Todd",
+            "second_label": "The Hasty Heart",
+            "category": "Actor",
+            "year": 1950,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "John Wayne",
+            "second_label": "Sands of Iwo Jima",
+            "category": "Actor",
+            "year": 1950,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Dean Jagger",
+            "second_label": "Twelve O'Clock High",
+            "category": "Actor in a Supporting Role",
+            "year": 1950,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "John Ireland",
+            "second_label": "All the King's Men",
+            "category": "Actor in a Supporting Role",
+            "year": 1950,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Arthur Kennedy",
+            "second_label": "Champion",
+            "category": "Actor in a Supporting Role",
+            "year": 1950,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ralph Richardson",
+            "second_label": "The Heiress",
+            "category": "Actor in a Supporting Role",
+            "year": 1950,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "James Whitmore",
+            "second_label": "Battleground",
+            "category": "Actor in a Supporting Role",
+            "year": 1950,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress": [
+        {
+            "first_label": "Olivia de Havilland",
+            "second_label": "The Heiress",
+            "category": "Actress",
+            "year": 1950,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Jeanne Crain",
+            "second_label": "Pinky",
+            "category": "Actress",
+            "year": 1950,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Susan Hayward",
+            "second_label": "My Foolish Heart",
+            "category": "Actress",
+            "year": 1950,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Deborah Kerr",
+            "second_label": "Edward, My Son",
+            "category": "Actress",
+            "year": 1950,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Loretta Young",
+            "second_label": "Come to the Stable",
+            "category": "Actress",
+            "year": 1950,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Mercedes McCambridge",
+            "second_label": "All the King's Men",
+            "category": "Actress in a Supporting Role",
+            "year": 1950,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Ethel Barrymore",
+            "second_label": "Pinky",
+            "category": "Actress in a Supporting Role",
+            "year": 1950,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Celeste Holm",
+            "second_label": "Come to the Stable",
+            "category": "Actress in a Supporting Role",
+            "year": 1950,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Elsa Lanchester",
+            "second_label": "Come to the Stable",
+            "category": "Actress in a Supporting Role",
+            "year": 1950,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ethel Waters",
+            "second_label": "Pinky",
+            "category": "Actress in a Supporting Role",
+            "year": 1950,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction (Black-and-White)": [
+        {
+            "first_label": "The Heiress",
+            "second_label": "Art Direction: Harry Horner, John Meehan; Set Decoration: Emile Kuri",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1950,
+            "tmdb": {
+                "id": 28571,
+                "original_title": "The Heiress",
+                "title": "Tarde Demais",
+                "release_date": "1949-10-06",
+                "backdrop_path": "/56eHAxXfZTz5pGiVDCFnuiHw2fp.jpg",
+                "poster_path": "/zcut0Y6PfcjBJKIyOpc0QDFS9jK.jpg",
+                "overview": "Uma jovem ing\u00eanua se apaixona por um bonito jovem, mas seu pai emocionalmente abusivo suspeita que seja um ca\u00e7ador de fortunas.  Em meados do s\u00e9culo XIX, a rica fam\u00edlia Sloper - o cirurgi\u00e3o vi\u00favo Dr. Austin Sloper, sua filha adulta Catherine Sloper (\u00fanica filha sobrevivente de Dr. Sloper) e Lavinia Penniman, recentemente vi\u00fava irm\u00e3 de Dr. Sloper - moram em uma casa suntuosa em 16 Washington. Square, Nova York. Apesar de todas as li\u00e7\u00f5es que Dr. Sloper pagou para encentivar as gra\u00e7as sociais para ela, Catherine \u00e9 uma mulher simples, desajeitada e extremamente t\u00edmida, que passa todo o seu tempo livre sozinha fazendo bordados quando n\u00e3o est\u00e1 idolatrando seu pai. A falta de charme e beleza social de Catherine \u00e9 \u00f3bvia para o Dr. Sloper, que espera que sua irm\u00e3 Lavinia atue como sua guardi\u00e3 e ajude socialmente .O primeiro homem a mostrar interesse por Catherine \u00e9 o belo Morris Townsend, que ela conheceu em uma festa de fam\u00edlia.",
+                "vote_average": 7.7,
+                "vote_count": 231
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Come to the Stable",
+            "second_label": "Art Direction: Lyle Wheeler, Joseph C. Wright; Set Decoration: Thomas Little, Paul S. Fox",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1950,
+            "tmdb": {
+                "id": 120481,
+                "original_title": "Come to the Stable",
+                "title": "Falam os Sinos",
+                "release_date": "1949-07-27",
+                "backdrop_path": "/bDYgODkocRo0lVzAEOseBZIfORX.jpg",
+                "poster_path": "/5S8e0COr9OmIeuy9nGL6x0H1oda.jpg",
+                "overview": "Two nuns arrive unannounced in the small New England town of Bethlehem, where they recruit various townspeople to help them build a children's hospital.",
+                "vote_average": 6.4,
+                "vote_count": 21
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Madame Bovary",
+            "second_label": "Art Direction: Cedric Gibbons, Jack Martin Smith; Set Decoration: Edwin B. Willis, Richard A. Pefferle",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1950,
+            "tmdb": {
+                "id": 45184,
+                "original_title": "Madame Bovary",
+                "title": "A Sedutora Madame Bovary",
+                "release_date": "1949-08-25",
+                "backdrop_path": "/a8TgAdADUKsZogQv1xKIGCH3BJL.jpg",
+                "poster_path": "/z0cRR7OXCkNA8tNYWYPV5fpsKdt.jpg",
+                "overview": "Infidelidades s\u00e3o despertadas de uma sonhadora esposa casada com um chato m\u00e9dico do campo.",
+                "vote_average": 6.7,
+                "vote_count": 44
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction (Color)": [
+        {
+            "first_label": "Little Women",
+            "second_label": "Art Direction: Cedric Gibbons, Paul Groesse; Set Decoration: Edwin B. Willis, Jack D. Moore",
+            "category": "Art Direction (Color)",
+            "year": 1950,
+            "tmdb": {
+                "id": 43436,
+                "original_title": "Little Women",
+                "title": "Quatro Destinos",
+                "release_date": "1949-03-10",
+                "backdrop_path": "/uTPHXSCC7KS1WBSmSSxu3jmypbS.jpg",
+                "poster_path": "/dmp6Rti5ZaKbxtTJRdAIhMuONDX.jpg",
+                "overview": "Durante a Guerra Civil Americana, quatro irm\u00e3s e a m\u00e3e sobrevivem com dificuldades enquanto o pai delas serve com o ex\u00e9rcito confederado. A hist\u00f3ria narra como as irm\u00e3s cresceram, superaram trag\u00e9dias, se apaixonaram e descobriram seu lugar no mundo.",
+                "vote_average": 7.4,
+                "vote_count": 206
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Adventures of Don Juan",
+            "second_label": "Art Direction: Edward Carrere; Set Decoration: Lyle Reifsnider",
+            "category": "Art Direction (Color)",
+            "year": 1950,
+            "tmdb": {
+                "id": 34233,
+                "original_title": "Adventures of Don Juan",
+                "title": "Adventures of Don Juan",
+                "release_date": "1948-12-24",
+                "backdrop_path": "/urfEevdzNXukF7ygoHZzDDgGHCa.jpg",
+                "poster_path": "/ktCLckyY6v8cplSOd3rY7PHKGnm.jpg",
+                "overview": "Spanish Lothario Don Juan, the legendary lover and adventurer returns to Spain following a scandal and comes to the aid of his queen, who is under threat from sinister forces.",
+                "vote_average": 6.5,
+                "vote_count": 33
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Saraband",
+            "second_label": "Art Direction: Jim Morahan, William Kellner, Michael Relph",
+            "category": "Art Direction (Color)",
+            "year": 1950,
+            "tmdb": {
+                "id": 80216,
+                "original_title": "Saraband for Dead Lovers",
+                "title": "Sepulcro Para um Amor",
+                "release_date": "1948-10-04",
+                "backdrop_path": "/fw7ooIKcnLFKWqanbJrusg4YZjI.jpg",
+                "poster_path": "/uMUQKs5GPuO35qR1XCQbYr5KDCy.jpg",
+                "overview": "Sophie Dorothea is a young woman forced into a loveless marriage with Prince George Louis of Hanover. George Louis is later crowned King George I of England. Despairing of ever experiencing true love, the depressed queen finds life at court no solace. Sophie then falls for a dashing Swedish soldier of fortune, Count Konigsmark.",
+                "vote_average": 5.7,
+                "vote_count": 11
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography (Black-and-White)": [
+        {
+            "first_label": "Battleground",
+            "second_label": "Paul C. Vogel",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1950,
+            "tmdb": {
+                "id": 31623,
+                "original_title": "Battleground",
+                "title": "Battleground, O Pre\u00e7o da Gl\u00f3ria",
+                "release_date": "1949-11-09",
+                "backdrop_path": "/bam6RudCnYDj8YIZt2vi3bUTxSp.jpg",
+                "poster_path": "/tsSss5cIkW5wVHNlIU51IUBky9N.jpg",
+                "overview": "Um esquadr\u00e3o da divis\u00e3o 101st Airborne fica encurralado na cidade sitiada de Bastogne durante a Batalha do Bulge. N\u00f3s acompanhamos um grupo de soldados norte-americanos, como eles lutam com os alem\u00e3es, em um nevado e nebuloso inverno, perto Bastogne na II Guerra Mundial. Eles est\u00e3o com pouco combust\u00edvel, ra\u00e7\u00f5es  e muni\u00e7\u00e3o. Os alem\u00e3es est\u00e3o constantemente incentivando a sua rendi\u00e7\u00e3o via r\u00e1dio e folhetos. E mais importante, o nevoeiro espesso e abrangente dificulta a movimenta\u00e7\u00e3o e identifica\u00e7\u00e3o do inimigo e impede a ajuda pelo apoio a\u00e9reo aliado. Este filme centra-se muito mais sobre a psicologia e moral dos soldados do que em cenas de a\u00e7\u00e3o e hero\u00edsmo.",
+                "vote_average": 6.6,
+                "vote_count": 83
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Champion",
+            "second_label": "Frank Planer",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1950,
+            "tmdb": {
+                "id": 25918,
+                "original_title": "Champion",
+                "title": "O Invenc\u00edvel",
+                "release_date": "1949-04-09",
+                "backdrop_path": "/5tl6cv6AU44WcvMbzD1x0OGjqu0.jpg",
+                "poster_path": "/luBAS7aD9Iu6RwEumfXbQewjO1g.jpg",
+                "overview": "An unscrupulous boxer fights his way to the top, but eventually alienates all of the people who helped him on the way up.",
+                "vote_average": 6.6,
+                "vote_count": 84
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Come to the Stable",
+            "second_label": "Joseph LaShelle",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1950,
+            "tmdb": {
+                "id": 120481,
+                "original_title": "Come to the Stable",
+                "title": "Falam os Sinos",
+                "release_date": "1949-07-27",
+                "backdrop_path": "/bDYgODkocRo0lVzAEOseBZIfORX.jpg",
+                "poster_path": "/5S8e0COr9OmIeuy9nGL6x0H1oda.jpg",
+                "overview": "Two nuns arrive unannounced in the small New England town of Bethlehem, where they recruit various townspeople to help them build a children's hospital.",
+                "vote_average": 6.4,
+                "vote_count": 21
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Heiress",
+            "second_label": "Leo Tover",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1950,
+            "tmdb": {
+                "id": 28571,
+                "original_title": "The Heiress",
+                "title": "Tarde Demais",
+                "release_date": "1949-10-06",
+                "backdrop_path": "/56eHAxXfZTz5pGiVDCFnuiHw2fp.jpg",
+                "poster_path": "/zcut0Y6PfcjBJKIyOpc0QDFS9jK.jpg",
+                "overview": "Uma jovem ing\u00eanua se apaixona por um bonito jovem, mas seu pai emocionalmente abusivo suspeita que seja um ca\u00e7ador de fortunas.  Em meados do s\u00e9culo XIX, a rica fam\u00edlia Sloper - o cirurgi\u00e3o vi\u00favo Dr. Austin Sloper, sua filha adulta Catherine Sloper (\u00fanica filha sobrevivente de Dr. Sloper) e Lavinia Penniman, recentemente vi\u00fava irm\u00e3 de Dr. Sloper - moram em uma casa suntuosa em 16 Washington. Square, Nova York. Apesar de todas as li\u00e7\u00f5es que Dr. Sloper pagou para encentivar as gra\u00e7as sociais para ela, Catherine \u00e9 uma mulher simples, desajeitada e extremamente t\u00edmida, que passa todo o seu tempo livre sozinha fazendo bordados quando n\u00e3o est\u00e1 idolatrando seu pai. A falta de charme e beleza social de Catherine \u00e9 \u00f3bvia para o Dr. Sloper, que espera que sua irm\u00e3 Lavinia atue como sua guardi\u00e3 e ajude socialmente .O primeiro homem a mostrar interesse por Catherine \u00e9 o belo Morris Townsend, que ela conheceu em uma festa de fam\u00edlia.",
+                "vote_average": 7.7,
+                "vote_count": 231
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Prince of Foxes",
+            "second_label": "Leon Shamroy",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1950,
+            "tmdb": {
+                "id": 44533,
+                "original_title": "Prince of Foxes",
+                "title": "O Favorito dos Borgia",
+                "release_date": "1949-11-11",
+                "backdrop_path": "/4a7JFwKeGu0VRWOzOYSLs5ij1Zc.jpg",
+                "poster_path": "/wW7QnqORPwTUGp62gAxaOequywC.jpg",
+                "overview": "Neste \u00e9pico cativante repleto de intriga, a\u00e7\u00e3o e romance, o belo e talentoso Tyrone Power brilha no papel-t\u00edtulo como Andrea Orsini, um corajoso e ousado soldado. A hist\u00f3ria \u00e9 ambientada na It\u00e1lia na \u00e9poca da Renascen\u00e7a, onde a famosa e violenta fam\u00edlia Borgia, comandada por Cesare Borgia (Orson Welles), est\u00e1 determinada a tomar as terras vizinhas e expandir o imp\u00e9rio, poder e riqueza da fam\u00edlia. Como soldado-espi\u00e3o dos Borgias, Orsini \u00e9 enviado a um pequeno territ\u00f3rio que Cesare espera capturar. Mas Orsini \u00e9 cativado pela intelig\u00eancia e charme do Duque e de sua jovem esposa. Dividido entre a lealdade e seu senhor e a crescente amizade com suas poss\u00edveis v\u00edtimas, Orsini se v\u00ea numa feroz e espetacular batalha que o for\u00e7a a confrontar suas pr\u00f3prias ideias de justi\u00e7a e nobreza. A soberba fotografia de Leon Shamroy da regi\u00e3o campestre italiana fornece um pano de fundo maravilhoso para este imperd\u00edvel mistura de drama com aventura.",
+                "vote_average": 6.0,
+                "vote_count": 23
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography (Color)": [
+        {
+            "first_label": "She Wore a Yellow Ribbon",
+            "second_label": "Winton Hoch",
+            "category": "Cinematography (Color)",
+            "year": 1950,
+            "tmdb": {
+                "id": 13909,
+                "original_title": "She Wore a Yellow Ribbon",
+                "title": "Legi\u00e3o Invenc\u00edvel",
+                "release_date": "1949-10-22",
+                "backdrop_path": "/45tJCXfr3S08qb5fVP86duFUUzx.jpg",
+                "poster_path": "/sb6EBrgw3yxU9sjF3qZzw95L3We.jpg",
+                "overview": "Nathan Brittles (John Wayne), um capit\u00e3o veterano da cavalaria americana, n\u00e3o quer aceitar a ideia de se retirar do servi\u00e7o ativo. Ele se recusa a se aposentar sem antes cumprir todas as suas obriga\u00e7\u00f5es com a tribo local e, assim, sai em sua \u00faltima patrulha para impedir um maci\u00e7o ataque ind\u00edgena que pode se transformar em um grande massacre.",
+                "vote_average": 6.9,
+                "vote_count": 327
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Barkleys of Broadway",
+            "second_label": "Harry Stradling",
+            "category": "Cinematography (Color)",
+            "year": 1950,
+            "tmdb": {
+                "id": 29885,
+                "original_title": "The Barkleys of Broadway",
+                "title": "Ciume, Sinal de Amor",
+                "release_date": "1949-05-04",
+                "backdrop_path": "/lraknsIRsxNE38469HayRlmM8Lm.jpg",
+                "poster_path": "/26DrCLhuLo10xYRYa34vsDhXxSL.jpg",
+                "overview": "Josh e Dinah Barkley formam um casal de sucesso, especializado em com\u00e9dias musicais. \u00c9 verdade que eles t\u00eam l\u00e1 suas desaven\u00e7as, mas nada muito s\u00e9rio. Entretanto, quando um empres\u00e1rio cisma que Dinah pode ser uma grande atriz dram\u00e1tica -- e ela se deixa convencer --, a casa vem abaixo...",
+                "vote_average": 7.0,
+                "vote_count": 43
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jolson Sings Again",
+            "second_label": "William Snyder",
+            "category": "Cinematography (Color)",
+            "year": 1950,
+            "tmdb": {
+                "id": 43435,
+                "original_title": "Jolson Sings Again",
+                "title": "Jolson Sings Again",
+                "release_date": "1949-08-17",
+                "backdrop_path": "/sckxtq50B8Eue9URqT6lo1GJZas.jpg",
+                "poster_path": "/sswaVzdGmBrDL1Ki0KfpLcclww2.jpg",
+                "overview": "In this sequel to The Jolson Story, we pick up the singer's career just as he has returned to the stage after a premature retirement. But his wife has left him and the appeal of the spotlight isn't what it used to be. This time Jolson trades in the stage for life in the fast lane: women, horses, travel. It takes the death of Moma Yoelson and World War II to bring Jolson back to earth - and to the stage. Once again teamed with manager Steve Martin, Jolson travels the world entertaining troops everywhere from Alaska to Africa. When he finally collapses from exhaustion it takes young, pretty nurse Ellen Clark to show him there's more to life than \"just rushing around\".",
+                "vote_average": 6.0,
+                "vote_count": 10
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Little Women",
+            "second_label": "Robert Planck, Charles Schoenbaum",
+            "category": "Cinematography (Color)",
+            "year": 1950,
+            "tmdb": {
+                "id": 43436,
+                "original_title": "Little Women",
+                "title": "Quatro Destinos",
+                "release_date": "1949-03-10",
+                "backdrop_path": "/uTPHXSCC7KS1WBSmSSxu3jmypbS.jpg",
+                "poster_path": "/dmp6Rti5ZaKbxtTJRdAIhMuONDX.jpg",
+                "overview": "Durante a Guerra Civil Americana, quatro irm\u00e3s e a m\u00e3e sobrevivem com dificuldades enquanto o pai delas serve com o ex\u00e9rcito confederado. A hist\u00f3ria narra como as irm\u00e3s cresceram, superaram trag\u00e9dias, se apaixonaram e descobriram seu lugar no mundo.",
+                "vote_average": 7.4,
+                "vote_count": 206
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sand",
+            "second_label": "Charles G. Clarke",
+            "category": "Cinematography (Color)",
+            "year": 1950,
+            "tmdb": {
+                "id": 217190,
+                "original_title": "Sand",
+                "title": "Sand",
+                "release_date": "1949-08-03",
+                "backdrop_path": "/pQ7bPihQiOeNQQjPgZj0rqaORPX.jpg",
+                "poster_path": "/vNQu41qYMEHFnddflngccAIVM1r.jpg",
+                "overview": "Novelist Will James, a specialist in horse stories, wrote the yarn upon which 20th Century-Fox's Sand was based. Mark Stevens plays horse breeder Jeff Keane, who loses his prize stallion in a train accident. While the stallion roams wild and free, Keane enlists the aid of rancher Joan Hartley (Coleen Gray) in searching for the animal. Once the horse is located, it is clear that it has developed a mean streak, the result of various cruelties inflicted upon it by humans. Jeff and Joan combine their efforts to regain the horse's friendship. Veteran Native American actors Iron Eyes Cody and Jay Silverheels make significant supporting appearances. Sand was attractively filmed in Technicolor on location in Colorado.",
+                "vote_average": 4.5,
+                "vote_count": 4
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design (Black-and-White)": [
+        {
+            "first_label": "The Heiress",
+            "second_label": "Edith Head, Gile Steele",
+            "category": "Costume Design (Black-and-White)",
+            "year": 1950,
+            "tmdb": {
+                "id": 28571,
+                "original_title": "The Heiress",
+                "title": "Tarde Demais",
+                "release_date": "1949-10-06",
+                "backdrop_path": "/56eHAxXfZTz5pGiVDCFnuiHw2fp.jpg",
+                "poster_path": "/zcut0Y6PfcjBJKIyOpc0QDFS9jK.jpg",
+                "overview": "Uma jovem ing\u00eanua se apaixona por um bonito jovem, mas seu pai emocionalmente abusivo suspeita que seja um ca\u00e7ador de fortunas.  Em meados do s\u00e9culo XIX, a rica fam\u00edlia Sloper - o cirurgi\u00e3o vi\u00favo Dr. Austin Sloper, sua filha adulta Catherine Sloper (\u00fanica filha sobrevivente de Dr. Sloper) e Lavinia Penniman, recentemente vi\u00fava irm\u00e3 de Dr. Sloper - moram em uma casa suntuosa em 16 Washington. Square, Nova York. Apesar de todas as li\u00e7\u00f5es que Dr. Sloper pagou para encentivar as gra\u00e7as sociais para ela, Catherine \u00e9 uma mulher simples, desajeitada e extremamente t\u00edmida, que passa todo o seu tempo livre sozinha fazendo bordados quando n\u00e3o est\u00e1 idolatrando seu pai. A falta de charme e beleza social de Catherine \u00e9 \u00f3bvia para o Dr. Sloper, que espera que sua irm\u00e3 Lavinia atue como sua guardi\u00e3 e ajude socialmente .O primeiro homem a mostrar interesse por Catherine \u00e9 o belo Morris Townsend, que ela conheceu em uma festa de fam\u00edlia.",
+                "vote_average": 7.7,
+                "vote_count": 231
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Prince of Foxes",
+            "second_label": "Vittorio Nino Novarese",
+            "category": "Costume Design (Black-and-White)",
+            "year": 1950,
+            "tmdb": {
+                "id": 44533,
+                "original_title": "Prince of Foxes",
+                "title": "O Favorito dos Borgia",
+                "release_date": "1949-11-11",
+                "backdrop_path": "/4a7JFwKeGu0VRWOzOYSLs5ij1Zc.jpg",
+                "poster_path": "/wW7QnqORPwTUGp62gAxaOequywC.jpg",
+                "overview": "Neste \u00e9pico cativante repleto de intriga, a\u00e7\u00e3o e romance, o belo e talentoso Tyrone Power brilha no papel-t\u00edtulo como Andrea Orsini, um corajoso e ousado soldado. A hist\u00f3ria \u00e9 ambientada na It\u00e1lia na \u00e9poca da Renascen\u00e7a, onde a famosa e violenta fam\u00edlia Borgia, comandada por Cesare Borgia (Orson Welles), est\u00e1 determinada a tomar as terras vizinhas e expandir o imp\u00e9rio, poder e riqueza da fam\u00edlia. Como soldado-espi\u00e3o dos Borgias, Orsini \u00e9 enviado a um pequeno territ\u00f3rio que Cesare espera capturar. Mas Orsini \u00e9 cativado pela intelig\u00eancia e charme do Duque e de sua jovem esposa. Dividido entre a lealdade e seu senhor e a crescente amizade com suas poss\u00edveis v\u00edtimas, Orsini se v\u00ea numa feroz e espetacular batalha que o for\u00e7a a confrontar suas pr\u00f3prias ideias de justi\u00e7a e nobreza. A soberba fotografia de Leon Shamroy da regi\u00e3o campestre italiana fornece um pano de fundo maravilhoso para este imperd\u00edvel mistura de drama com aventura.",
+                "vote_average": 6.0,
+                "vote_count": 23
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design (Color)": [
+        {
+            "first_label": "The Adventures of Don Juan",
+            "second_label": "Leah Rhodes, Travilla, Marjorie Best",
+            "category": "Costume Design (Color)",
+            "year": 1950,
+            "tmdb": {
+                "id": 34233,
+                "original_title": "Adventures of Don Juan",
+                "title": "Adventures of Don Juan",
+                "release_date": "1948-12-24",
+                "backdrop_path": "/urfEevdzNXukF7ygoHZzDDgGHCa.jpg",
+                "poster_path": "/ktCLckyY6v8cplSOd3rY7PHKGnm.jpg",
+                "overview": "Spanish Lothario Don Juan, the legendary lover and adventurer returns to Spain following a scandal and comes to the aid of his queen, who is under threat from sinister forces.",
+                "vote_average": 6.5,
+                "vote_count": 33
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Mother Is a Freshman",
+            "second_label": "Kay Nelson",
+            "category": "Costume Design (Color)",
+            "year": 1950,
+            "tmdb": {
+                "id": 103930,
+                "original_title": "Mother Is a Freshman",
+                "title": "Mam\u00e3e, Ele e Eu",
+                "release_date": "1949-03-12",
+                "backdrop_path": "/RqgmwRS1chhzuyul25Y04iYzwe.jpg",
+                "poster_path": "/lZ1aPTSq0t6HKrB7VFU4HpULnos.jpg",
+                "overview": "Widow Abby Abbott is having serious money problems and has to dip into the family trust in order to pay for her daughter Susan's college tuition. The catch: Abby must also become a co-ed or she can't touch the money. After passing her entrance exams, Abby goes to college and becomes very popular, especially with a handsome English professor whom Susan has a crush on.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "A Letter to Three Wives",
+            "second_label": "Joseph L. Mankiewicz",
+            "category": "Directing",
+            "year": 1950,
+            "tmdb": {
+                "id": 45578,
+                "original_title": "A Letter to Three Wives",
+                "title": "Quem \u00e9 o Infiel?",
+                "release_date": "1949-01-20",
+                "backdrop_path": "/feSYboaBumxLbMKjfk3ASMcRP36.jpg",
+                "poster_path": "/bSfwTLt2K8IeEeppsiDq7svikbV.jpg",
+                "overview": "A letter is addressed to three wives from their \"best friend\" Addie Ross, announcing that she is running away with one of their husbands - but she does not say which one.",
+                "vote_average": 7.2,
+                "vote_count": 144
+            },
+            "winner": true
+        },
+        {
+            "first_label": "All the King's Men",
+            "second_label": "Robert Rossen",
+            "category": "Directing",
+            "year": 1950,
+            "tmdb": {
+                "id": 25430,
+                "original_title": "All the King's Men",
+                "title": "A Grande Ilus\u00e3o",
+                "release_date": "1949-11-16",
+                "backdrop_path": "/bSTvvll9gIOcoavWRIVYL5RoTkn.jpg",
+                "poster_path": "/cN6OJA6xGmxHzkO59QJpspujAwg.jpg",
+                "overview": "O filme conta a hist\u00f3ria de ascens\u00e3o e queda de um pol\u00edtico rebelde do interior que come\u00e7a exigindo reformas e justi\u00e7a social, mas acaba embriagado pelo pr\u00f3prio poder. O roteiro \u00e9 uma adapta\u00e7\u00e3o do romance de Robert Penn Warren, publicado em 1946, e pelo qual o autor recebeu o Pr\u00e9mio Pulitzer de Literatura.",
+                "vote_average": 6.9,
+                "vote_count": 198
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Battleground",
+            "second_label": "William A. Wellman",
+            "category": "Directing",
+            "year": 1950,
+            "tmdb": {
+                "id": 31623,
+                "original_title": "Battleground",
+                "title": "Battleground, O Pre\u00e7o da Gl\u00f3ria",
+                "release_date": "1949-11-09",
+                "backdrop_path": "/bam6RudCnYDj8YIZt2vi3bUTxSp.jpg",
+                "poster_path": "/tsSss5cIkW5wVHNlIU51IUBky9N.jpg",
+                "overview": "Um esquadr\u00e3o da divis\u00e3o 101st Airborne fica encurralado na cidade sitiada de Bastogne durante a Batalha do Bulge. N\u00f3s acompanhamos um grupo de soldados norte-americanos, como eles lutam com os alem\u00e3es, em um nevado e nebuloso inverno, perto Bastogne na II Guerra Mundial. Eles est\u00e3o com pouco combust\u00edvel, ra\u00e7\u00f5es  e muni\u00e7\u00e3o. Os alem\u00e3es est\u00e3o constantemente incentivando a sua rendi\u00e7\u00e3o via r\u00e1dio e folhetos. E mais importante, o nevoeiro espesso e abrangente dificulta a movimenta\u00e7\u00e3o e identifica\u00e7\u00e3o do inimigo e impede a ajuda pelo apoio a\u00e9reo aliado. Este filme centra-se muito mais sobre a psicologia e moral dos soldados do que em cenas de a\u00e7\u00e3o e hero\u00edsmo.",
+                "vote_average": 6.6,
+                "vote_count": 83
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Fallen Idol",
+            "second_label": "Carol Reed",
+            "category": "Directing",
+            "year": 1950,
+            "tmdb": {
+                "id": 21631,
+                "original_title": "The Fallen Idol",
+                "title": "O \u00cddolo Ca\u00eddo",
+                "release_date": "1948-09-30",
+                "backdrop_path": "/9A88YZ2qZhpE0RM7e6BDJeDX2fh.jpg",
+                "poster_path": "/sCcjmsYVgh0urTbLqQgEeskkmPt.jpg",
+                "overview": "Um mordomo que trabalha em uma embaixada estrangeira em Londres torna-se o principal suspeito quando sua esposa cai acidentalmente e morre. A \u00fanica testemunha \u00e9 um menino impression\u00e1vel.  Philippe, filho de um diplomata e bom amigo de Baines, o mordomo, confunde-se com as complexidades e evas\u00f5es da vida adulta. Ele tenta manter segredos, mas acaba dizendo a eles. Ele mente para proteger seus amigos, mesmo sabendo que deve dizer a verdade. Ele resolve n\u00e3o ouvir mais as hist\u00f3rias de adultos quando Baines \u00e9 suspeito de assassinar sua esposa e ningu\u00e9m vai ouvir as informa\u00e7\u00f5es vitais de Philippe.  (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.1,
+                "vote_count": 158
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Heiress",
+            "second_label": "William Wyler",
+            "category": "Directing",
+            "year": 1950,
+            "tmdb": {
+                "id": 28571,
+                "original_title": "The Heiress",
+                "title": "Tarde Demais",
+                "release_date": "1949-10-06",
+                "backdrop_path": "/56eHAxXfZTz5pGiVDCFnuiHw2fp.jpg",
+                "poster_path": "/zcut0Y6PfcjBJKIyOpc0QDFS9jK.jpg",
+                "overview": "Uma jovem ing\u00eanua se apaixona por um bonito jovem, mas seu pai emocionalmente abusivo suspeita que seja um ca\u00e7ador de fortunas.  Em meados do s\u00e9culo XIX, a rica fam\u00edlia Sloper - o cirurgi\u00e3o vi\u00favo Dr. Austin Sloper, sua filha adulta Catherine Sloper (\u00fanica filha sobrevivente de Dr. Sloper) e Lavinia Penniman, recentemente vi\u00fava irm\u00e3 de Dr. Sloper - moram em uma casa suntuosa em 16 Washington. Square, Nova York. Apesar de todas as li\u00e7\u00f5es que Dr. Sloper pagou para encentivar as gra\u00e7as sociais para ela, Catherine \u00e9 uma mulher simples, desajeitada e extremamente t\u00edmida, que passa todo o seu tempo livre sozinha fazendo bordados quando n\u00e3o est\u00e1 idolatrando seu pai. A falta de charme e beleza social de Catherine \u00e9 \u00f3bvia para o Dr. Sloper, que espera que sua irm\u00e3 Lavinia atue como sua guardi\u00e3 e ajude socialmente .O primeiro homem a mostrar interesse por Catherine \u00e9 o belo Morris Townsend, que ela conheceu em uma festa de fam\u00edlia.",
+                "vote_average": 7.7,
+                "vote_count": 231
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "Daybreak in Udi",
+            "second_label": "Crown Film Unit",
+            "category": "Documentary (Feature)",
+            "year": 1950,
+            "tmdb": {
+                "id": 114472,
+                "original_title": "Daybreak in Udi",
+                "title": "Daybreak in Udi",
+                "release_date": "1949-08-15",
+                "backdrop_path": "/wVuVH8wa3uYbDkbjKSuhPaC2r5W.jpg",
+                "poster_path": "/ugbEiLtqP6I8FaUOUXinSh1wNfy.jpg",
+                "overview": "An African tribe in the Eastern Nigerian village of Umana work to build a maternity hospital, with the aid of government officials, and against the opposition of some tribal members.",
+                "vote_average": 4.3,
+                "vote_count": 7
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Kenji Comes Home",
+            "second_label": "Paul F. Heard, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1950,
+            "tmdb": {
+                "id": 149249,
+                "original_title": "Kenji Comes Home",
+                "title": "Kenji Comes Home",
+                "release_date": "1949-01-01",
+                "backdrop_path": null,
+                "poster_path": "/pb4BIqHkRuyqEA5JAKKHBKp68R.jpg",
+                "overview": "Kenji Comes Home is a 1949 documentary film produced by Paul F. Heard. Written and directed by Charles F. Schwep, it was filmed on location in Japan and employed native actors. The film is the story of Kenji,  a repatriated prisoner of war in Japan, and his difficulties in settling down. He is torn between the glowing promises of communism and ideals of his girlfriend Aki's Christian religion. The film was nominated for an Academy Award for Best Documentary Feature.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "A Chance to Live",
+            "second_label": "Richard de Rochemont, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1950,
+            "tmdb": {
+                "id": 240466,
+                "original_title": "A Chance to Live",
+                "title": "A Chance to Live",
+                "release_date": "1949-12-01",
+                "backdrop_path": null,
+                "poster_path": "/3Kfa7kX5JmGgMHssUnbz6EByTqZ.jpg",
+                "overview": "1949 documentary short that won an Oscar in a tie with \"So Much For So Little\"",
+                "vote_average": 5.0,
+                "vote_count": 1
+            },
+            "winner": true
+        },
+        {
+            "first_label": "So Much for So Little",
+            "second_label": "Edward Selzer, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1950,
+            "tmdb": {
+                "id": 140693,
+                "original_title": "So Much for So Little",
+                "title": "So Much for So Little",
+                "release_date": "1949-01-01",
+                "backdrop_path": "/taZyYYlB913WgDHGhHcNerq8Y3j.jpg",
+                "poster_path": "/5Ke6sP8LNRDxvJFPXo4ibYqHuuT.jpg",
+                "overview": "Little Johnny Jones, to be born in the next year, is shown growing to a ripe, healthy old age, thanks to the efforts of his local public health officers. But without them, he might be one of the 5% or so that dies in the first year. The price for the public health service: about 3 cents a week.",
+                "vote_average": 5.9,
+                "vote_count": 17
+            },
+            "winner": false
+        },
+        {
+            "first_label": "1848",
+            "second_label": "French Cinema General Cooperative",
+            "category": "Documentary (Short Subject)",
+            "year": 1950,
+            "tmdb": {
+                "id": 605939,
+                "original_title": "Revolu\u010dn\u00ed rok 1848",
+                "title": "Revolu\u010dn\u00ed rok 1848",
+                "release_date": "1949-12-23",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "Year of the Revolution 1848",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Rising Tide",
+            "second_label": "St. Francis-Xavier University, Antigonish, Nova Scotia",
+            "category": "Documentary (Short Subject)",
+            "year": 1950,
+            "tmdb": {
+                "id": 231335,
+                "original_title": "The Rising Tide",
+                "title": "The Rising Tide",
+                "release_date": "1949-01-01",
+                "backdrop_path": null,
+                "poster_path": "/sUZOQgalgHYCtn1NqCLMhywlKUw.jpg",
+                "overview": "This film shows the growth of cooperatives in the Maritime provinces and how they brought new life and hope to poverty-stricken fishermen.  The Rising Tide is a 1949 Canadian short documentary film directed by Jean Palardy. It was nominated for an Academy Award for Best Documentary Short.",
+                "vote_average": 5.7,
+                "vote_count": 3
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "Champion",
+            "second_label": "Harry Gerstad",
+            "category": "Film Editing",
+            "year": 1950,
+            "tmdb": {
+                "id": 25918,
+                "original_title": "Champion",
+                "title": "O Invenc\u00edvel",
+                "release_date": "1949-04-09",
+                "backdrop_path": "/5tl6cv6AU44WcvMbzD1x0OGjqu0.jpg",
+                "poster_path": "/luBAS7aD9Iu6RwEumfXbQewjO1g.jpg",
+                "overview": "An unscrupulous boxer fights his way to the top, but eventually alienates all of the people who helped him on the way up.",
+                "vote_average": 6.6,
+                "vote_count": 84
+            },
+            "winner": true
+        },
+        {
+            "first_label": "All the King's Men",
+            "second_label": "Robert Parrish, Al Clark",
+            "category": "Film Editing",
+            "year": 1950,
+            "tmdb": {
+                "id": 25430,
+                "original_title": "All the King's Men",
+                "title": "A Grande Ilus\u00e3o",
+                "release_date": "1949-11-16",
+                "backdrop_path": "/bSTvvll9gIOcoavWRIVYL5RoTkn.jpg",
+                "poster_path": "/cN6OJA6xGmxHzkO59QJpspujAwg.jpg",
+                "overview": "O filme conta a hist\u00f3ria de ascens\u00e3o e queda de um pol\u00edtico rebelde do interior que come\u00e7a exigindo reformas e justi\u00e7a social, mas acaba embriagado pelo pr\u00f3prio poder. O roteiro \u00e9 uma adapta\u00e7\u00e3o do romance de Robert Penn Warren, publicado em 1946, e pelo qual o autor recebeu o Pr\u00e9mio Pulitzer de Literatura.",
+                "vote_average": 6.9,
+                "vote_count": 198
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Battleground",
+            "second_label": "John Dunning",
+            "category": "Film Editing",
+            "year": 1950,
+            "tmdb": {
+                "id": 31623,
+                "original_title": "Battleground",
+                "title": "Battleground, O Pre\u00e7o da Gl\u00f3ria",
+                "release_date": "1949-11-09",
+                "backdrop_path": "/bam6RudCnYDj8YIZt2vi3bUTxSp.jpg",
+                "poster_path": "/tsSss5cIkW5wVHNlIU51IUBky9N.jpg",
+                "overview": "Um esquadr\u00e3o da divis\u00e3o 101st Airborne fica encurralado na cidade sitiada de Bastogne durante a Batalha do Bulge. N\u00f3s acompanhamos um grupo de soldados norte-americanos, como eles lutam com os alem\u00e3es, em um nevado e nebuloso inverno, perto Bastogne na II Guerra Mundial. Eles est\u00e3o com pouco combust\u00edvel, ra\u00e7\u00f5es  e muni\u00e7\u00e3o. Os alem\u00e3es est\u00e3o constantemente incentivando a sua rendi\u00e7\u00e3o via r\u00e1dio e folhetos. E mais importante, o nevoeiro espesso e abrangente dificulta a movimenta\u00e7\u00e3o e identifica\u00e7\u00e3o do inimigo e impede a ajuda pelo apoio a\u00e9reo aliado. Este filme centra-se muito mais sobre a psicologia e moral dos soldados do que em cenas de a\u00e7\u00e3o e hero\u00edsmo.",
+                "vote_average": 6.6,
+                "vote_count": 83
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sands of Iwo Jima",
+            "second_label": "Richard L. Van Enger",
+            "category": "Film Editing",
+            "year": 1950,
+            "tmdb": {
+                "id": 18712,
+                "original_title": "Sands of Iwo Jima",
+                "title": "Iwo Jima - O Portal da Gl\u00f3ria",
+                "release_date": "1950-01-01",
+                "backdrop_path": "/ovfJX70VfUTXM2o28lvZQchtynG.jpg",
+                "poster_path": "/utpy9JLuyhsxpw2E3yExw23f3eS.jpg",
+                "overview": "Depois que sua esposa leva seu filho e o abandona, o sargento John Stryker \u00e9 um homem amargurado que descarrega seu sofrimento em cima dos homens sob seu comando. Eles s\u00e3o um bando de recrutas verdes que t\u00eam dificuldade em lidar com pessoas dif\u00edceis e casca grossa como Stryker. Mesmo os seus antigos amigos come\u00e7am a se perguntar se ele deixou de ser o exemplo de sargento duro para ser um homem no limite.",
+                "vote_average": 6.4,
+                "vote_count": 130
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Window",
+            "second_label": "Frederic Knudtson",
+            "category": "Film Editing",
+            "year": 1950,
+            "tmdb": {
+                "id": 32684,
+                "original_title": "The Window",
+                "title": "Ningu\u00e9m Cr\u00ea em Mim",
+                "release_date": "1949-05-10",
+                "backdrop_path": "/7cVQJWjlyUw7Gl2h2walQGytmXg.jpg",
+                "poster_path": "/yMl1oGQZ3Sd3VNuU7t7rVNZAfQa.jpg",
+                "overview": "Tommy tem nove anos e vive inventando grandes hist\u00f3rias. Em uma noite de calor, ele decide dormir na escada de inc\u00eandio de seu apartamento e acaba testemunhando um assassinato. Ao revelar o que viu, seus pais e a pol\u00edcia acabam n\u00e3o acreditando nele.",
+                "vote_average": 7.0,
+                "vote_count": 55
+            },
+            "winner": false
+        }
+    ],
+    "Music (Music Score of a Dramatic or Comedy Picture)": [
+        {
+            "first_label": "The Heiress",
+            "second_label": "Aaron Copland",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1950,
+            "tmdb": {
+                "id": 28571,
+                "original_title": "The Heiress",
+                "title": "Tarde Demais",
+                "release_date": "1949-10-06",
+                "backdrop_path": "/56eHAxXfZTz5pGiVDCFnuiHw2fp.jpg",
+                "poster_path": "/zcut0Y6PfcjBJKIyOpc0QDFS9jK.jpg",
+                "overview": "Uma jovem ing\u00eanua se apaixona por um bonito jovem, mas seu pai emocionalmente abusivo suspeita que seja um ca\u00e7ador de fortunas.  Em meados do s\u00e9culo XIX, a rica fam\u00edlia Sloper - o cirurgi\u00e3o vi\u00favo Dr. Austin Sloper, sua filha adulta Catherine Sloper (\u00fanica filha sobrevivente de Dr. Sloper) e Lavinia Penniman, recentemente vi\u00fava irm\u00e3 de Dr. Sloper - moram em uma casa suntuosa em 16 Washington. Square, Nova York. Apesar de todas as li\u00e7\u00f5es que Dr. Sloper pagou para encentivar as gra\u00e7as sociais para ela, Catherine \u00e9 uma mulher simples, desajeitada e extremamente t\u00edmida, que passa todo o seu tempo livre sozinha fazendo bordados quando n\u00e3o est\u00e1 idolatrando seu pai. A falta de charme e beleza social de Catherine \u00e9 \u00f3bvia para o Dr. Sloper, que espera que sua irm\u00e3 Lavinia atue como sua guardi\u00e3 e ajude socialmente .O primeiro homem a mostrar interesse por Catherine \u00e9 o belo Morris Townsend, que ela conheceu em uma festa de fam\u00edlia.",
+                "vote_average": 7.7,
+                "vote_count": 231
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Beyond the Forest",
+            "second_label": "Max Steiner",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1950,
+            "tmdb": {
+                "id": 35896,
+                "original_title": "Beyond the Forest",
+                "title": "A Filha de Satan\u00e1s",
+                "release_date": "1949-10-21",
+                "backdrop_path": "/6tJd6OZfWfiAauJIy0gaYhp03is.jpg",
+                "poster_path": "/vKVNZQpyGldpYhEudwJmeAWdSW3.jpg",
+                "overview": "Rosa, the self-serving wife of a small-town doctor, gets a better offer when a wealthy big-city man insists she get a divorce and marry him instead. Soon she demonstrates she is capable of rather deplorable acts -- including murder.",
+                "vote_average": 6.8,
+                "vote_count": 46
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Champion",
+            "second_label": "Dimitri Tiomkin",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1950,
+            "tmdb": {
+                "id": 25918,
+                "original_title": "Champion",
+                "title": "O Invenc\u00edvel",
+                "release_date": "1949-04-09",
+                "backdrop_path": "/5tl6cv6AU44WcvMbzD1x0OGjqu0.jpg",
+                "poster_path": "/luBAS7aD9Iu6RwEumfXbQewjO1g.jpg",
+                "overview": "An unscrupulous boxer fights his way to the top, but eventually alienates all of the people who helped him on the way up.",
+                "vote_average": 6.6,
+                "vote_count": 84
+            },
+            "winner": false
+        }
+    ],
+    "Music (Scoring of a Musical Picture)": [
+        {
+            "first_label": "On the Town",
+            "second_label": "Roger Edens, Lennie Hayton",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1950,
+            "tmdb": {
+                "id": 31516,
+                "original_title": "On the Town",
+                "title": "Um Dia em Nova York",
+                "release_date": "1949-12-08",
+                "backdrop_path": "/hDzFOJPhblIEpYF7klZpfRZ9FF6.jpg",
+                "poster_path": "/lEU8QQmIayAtPZrCDf2czQgTjQ1.jpg",
+                "overview": "Tr\u00eas marinheiros - Gabey, Chip e Ozzie - ganham um passe de 24 horas em Nova York e a Big Apple nunca mais ser\u00e1 a mesma! Gabey se apaixona perdidamente para \"Senhorita Catraca do M\u00eas\" (ele pensa que ela \u00e9 uma debutante da alta sociedade quando ela \u00e9 realmente uma dan\u00e7arina em Coney Island; Chip inocente fica fisgado (literalmente) por uma senhorita motorista de t\u00e1xi; e Ozzie torna-se o objeto de interesse de uma antrop\u00f3loga linda que pensa que ele \u00e9 o exemplo perfeito de um \"homem pr\u00e9-hist\u00f3rico\". M\u00fasica maravilhosa e cenas fant\u00e1sticas de Nova York na sua melhor \u00e9poca.",
+                "vote_average": 7.0,
+                "vote_count": 232
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Jolson Sings Again",
+            "second_label": "Morris Stoloff, George Duning",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1950,
+            "tmdb": {
+                "id": 43435,
+                "original_title": "Jolson Sings Again",
+                "title": "Jolson Sings Again",
+                "release_date": "1949-08-17",
+                "backdrop_path": "/sckxtq50B8Eue9URqT6lo1GJZas.jpg",
+                "poster_path": "/sswaVzdGmBrDL1Ki0KfpLcclww2.jpg",
+                "overview": "In this sequel to The Jolson Story, we pick up the singer's career just as he has returned to the stage after a premature retirement. But his wife has left him and the appeal of the spotlight isn't what it used to be. This time Jolson trades in the stage for life in the fast lane: women, horses, travel. It takes the death of Moma Yoelson and World War II to bring Jolson back to earth - and to the stage. Once again teamed with manager Steve Martin, Jolson travels the world entertaining troops everywhere from Alaska to Africa. When he finally collapses from exhaustion it takes young, pretty nurse Ellen Clark to show him there's more to life than \"just rushing around\".",
+                "vote_average": 6.0,
+                "vote_count": 10
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Look for the Silver Lining",
+            "second_label": "Ray Heindorf",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1950,
+            "tmdb": {
+                "id": 94615,
+                "original_title": "Look for the Silver Lining",
+                "title": "Look for the Silver Lining",
+                "release_date": "1949-07-30",
+                "backdrop_path": null,
+                "poster_path": "/t7qlOtBVuZM2Bk5xXQ9Q3SOPtc4.jpg",
+                "overview": "Musical biography of Marilyn Miller, who overcame heartache to become a Broadway star",
+                "vote_average": 5.7,
+                "vote_count": 6
+            },
+            "winner": false
+        }
+    ],
+    "Music (Song)": [
+        {
+            "first_label": "Neptune's Daughter",
+            "second_label": "Baby, It's Cold Outside in \"Neptune's Daughter\" Music and Lyrics by Frank Loesser",
+            "category": "Music (Song)",
+            "year": 1950,
+            "tmdb": {
+                "id": 43437,
+                "original_title": "Neptune's Daughter",
+                "title": "A Filha de Netuno",
+                "release_date": "1949-06-10",
+                "backdrop_path": "/v2bJPNQ84qsWBrgj9vRyCpsGyEn.jpg",
+                "poster_path": "/d9O19EfkPl9FCmGh6QfklCDcoIv.jpg",
+                "overview": "Uma estilista de roupas de banho est\u00e1 determinada a proteger sua desmiolada irm\u00e3 de um destruidor de cora\u00e7\u00f5es da Am\u00e9rica do Sul, mas um caso de identidade equivocada complica as coisas.  A desmiolada Betty Barrett confunde o massagista Jack Spratt com Jose O'Rourke, o capit\u00e3o da equipe de p\u00f3lo Sul-Americana. Spratt entra na brincadeira, mas a situa\u00e7\u00e3o se complica quando eles se apaixonam. Enquanto isso Eve, a sens\u00edvel irm\u00e3 mais velha de Betty, teme que Betty fique com o cora\u00e7\u00e3o partido quando descobrir a confus\u00e3o. Ent\u00e3o ela arranja um encontro com o verdadeiro O'Rourke, mas, para complicar um pouco mais, o amor logo floresce entre eles tamb\u00e9m.",
+                "vote_average": 5.8,
+                "vote_count": 26
+            },
+            "winner": true
+        },
+        {
+            "first_label": "It's a Great Feeling",
+            "second_label": "It's A Great Feeling in \"It's a Great Feeling\" Music by Jule Styne; Lyrics by Sammy Cahn",
+            "category": "Music (Song)",
+            "year": 1950,
+            "tmdb": {
+                "id": 32552,
+                "original_title": "It's a Great Feeling",
+                "title": "Mademoiselle Fifi",
+                "release_date": "1949-08-01",
+                "backdrop_path": "/1iWhvMWDUfuy7YYTWMqAMNjnRpM.jpg",
+                "poster_path": "/jjZ1dQZ7TX4pU4XGKD3ZQ6ixWSv.jpg",
+                "overview": "A gar\u00e7onete do refeit\u00f3rio da Warner Brothers Judy Adams (Doris Day) est\u00e1 ansiosa para estourar nas telas. Ela acha que sua grande chance pode ter chegado quando os atores Jack Carson e Dennis Morgan concordam em ajud\u00e1-la. Mal sabe ela que os dois s\u00f3 est\u00e3o tentando tirar um filme do buraco. E al\u00e9m disso o chef\u00e3o do est\u00fadio Arthur Trent (Bill Goodwin) n\u00e3o est\u00e1 ajudando nem um pouco. (e Livre - Estimado Livre)",
+                "vote_average": 5.9,
+                "vote_count": 27
+            },
+            "winner": false
+        },
+        {
+            "first_label": "So Dear to My Heart",
+            "second_label": "Lavender Blue in \"So Dear to My Heart\" Music by Eliot Daniel; Lyrics by Larry Morey",
+            "category": "Music (Song)",
+            "year": 1950,
+            "tmdb": {
+                "id": 29682,
+                "original_title": "So Dear to My Heart",
+                "title": "Meu Querido Carneirinho",
+                "release_date": "1948-11-29",
+                "backdrop_path": "/naRUQ7gNgz0Q9VjBuQGewJlRKmf.jpg",
+                "poster_path": "/sWoOc4tkxlTf0i8YYia25sPRinY.jpg",
+                "overview": "Jerry \u00e9 um garoto que adota como seu bichinho de estima\u00e7\u00e3o Danny, um carneirinho preto e muito bagunceiro. O sonho do menino \u00e9 transformar seu carneiro sem pedigree em um campe\u00e3o da Exposi\u00e7\u00e3o de Animais. Apesar das dificuldades, Jerry n\u00e3o vai desistir.",
+                "vote_average": 6.5,
+                "vote_count": 42
+            },
+            "winner": false
+        },
+        {
+            "first_label": "My Foolish Heart",
+            "second_label": "My Foolish Heart in \"My Foolish Heart\" Music by Victor Young; Lyrics by Ned Washington",
+            "category": "Music (Song)",
+            "year": 1950,
+            "tmdb": {
+                "id": 109887,
+                "original_title": "My Foolish Heart",
+                "title": "Meu Maior Amor",
+                "release_date": "1950-01-19",
+                "backdrop_path": "/78M4EsvYLsS0F4DxIowdIdcHXLc.jpg",
+                "poster_path": "/icffoTnm5cQqclyxmHIEDDtsUSE.jpg",
+                "overview": "After a long absence, Mary Jane visits her schoolfriend Eloise, and Eloise's daughter Ramona. Eloise drinks too much and is unhappily married to Lew Wengler. Eloise falls asleep and remembers her time with her true love, Walt Dreiser, at the beginning of the Second World War. She recalls the events that lead up to her split with Mary Jane, and how Lew married Eloise rather than Mary Jane.",
+                "vote_average": 6.8,
+                "vote_count": 12
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Come to the Stable",
+            "second_label": "Through A Long And Sleepless Night in \"Come to the Stable\" Music by Alfred Newman; Lyrics by Mack Gordon",
+            "category": "Music (Song)",
+            "year": 1950,
+            "tmdb": {
+                "id": 120481,
+                "original_title": "Come to the Stable",
+                "title": "Falam os Sinos",
+                "release_date": "1949-07-27",
+                "backdrop_path": "/bDYgODkocRo0lVzAEOseBZIfORX.jpg",
+                "poster_path": "/5S8e0COr9OmIeuy9nGL6x0H1oda.jpg",
+                "overview": "Two nuns arrive unannounced in the small New England town of Bethlehem, where they recruit various townspeople to help them build a children's hospital.",
+                "vote_average": 6.4,
+                "vote_count": 21
+            },
+            "winner": false
+        }
+    ],
+    "Best Motion Picture": [
+        {
+            "first_label": "All the King's Men",
+            "second_label": "Robert Rossen Productions",
+            "category": "Best Motion Picture",
+            "year": 1950,
+            "tmdb": {
+                "id": 25430,
+                "original_title": "All the King's Men",
+                "title": "A Grande Ilus\u00e3o",
+                "release_date": "1949-11-16",
+                "backdrop_path": "/bSTvvll9gIOcoavWRIVYL5RoTkn.jpg",
+                "poster_path": "/cN6OJA6xGmxHzkO59QJpspujAwg.jpg",
+                "overview": "O filme conta a hist\u00f3ria de ascens\u00e3o e queda de um pol\u00edtico rebelde do interior que come\u00e7a exigindo reformas e justi\u00e7a social, mas acaba embriagado pelo pr\u00f3prio poder. O roteiro \u00e9 uma adapta\u00e7\u00e3o do romance de Robert Penn Warren, publicado em 1946, e pelo qual o autor recebeu o Pr\u00e9mio Pulitzer de Literatura.",
+                "vote_average": 6.9,
+                "vote_count": 198
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Battleground",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Best Motion Picture",
+            "year": 1950,
+            "tmdb": {
+                "id": 31623,
+                "original_title": "Battleground",
+                "title": "Battleground, O Pre\u00e7o da Gl\u00f3ria",
+                "release_date": "1949-11-09",
+                "backdrop_path": "/bam6RudCnYDj8YIZt2vi3bUTxSp.jpg",
+                "poster_path": "/tsSss5cIkW5wVHNlIU51IUBky9N.jpg",
+                "overview": "Um esquadr\u00e3o da divis\u00e3o 101st Airborne fica encurralado na cidade sitiada de Bastogne durante a Batalha do Bulge. N\u00f3s acompanhamos um grupo de soldados norte-americanos, como eles lutam com os alem\u00e3es, em um nevado e nebuloso inverno, perto Bastogne na II Guerra Mundial. Eles est\u00e3o com pouco combust\u00edvel, ra\u00e7\u00f5es  e muni\u00e7\u00e3o. Os alem\u00e3es est\u00e3o constantemente incentivando a sua rendi\u00e7\u00e3o via r\u00e1dio e folhetos. E mais importante, o nevoeiro espesso e abrangente dificulta a movimenta\u00e7\u00e3o e identifica\u00e7\u00e3o do inimigo e impede a ajuda pelo apoio a\u00e9reo aliado. Este filme centra-se muito mais sobre a psicologia e moral dos soldados do que em cenas de a\u00e7\u00e3o e hero\u00edsmo.",
+                "vote_average": 6.6,
+                "vote_count": 83
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Heiress",
+            "second_label": "Paramount",
+            "category": "Best Motion Picture",
+            "year": 1950,
+            "tmdb": {
+                "id": 28571,
+                "original_title": "The Heiress",
+                "title": "Tarde Demais",
+                "release_date": "1949-10-06",
+                "backdrop_path": "/56eHAxXfZTz5pGiVDCFnuiHw2fp.jpg",
+                "poster_path": "/zcut0Y6PfcjBJKIyOpc0QDFS9jK.jpg",
+                "overview": "Uma jovem ing\u00eanua se apaixona por um bonito jovem, mas seu pai emocionalmente abusivo suspeita que seja um ca\u00e7ador de fortunas.  Em meados do s\u00e9culo XIX, a rica fam\u00edlia Sloper - o cirurgi\u00e3o vi\u00favo Dr. Austin Sloper, sua filha adulta Catherine Sloper (\u00fanica filha sobrevivente de Dr. Sloper) e Lavinia Penniman, recentemente vi\u00fava irm\u00e3 de Dr. Sloper - moram em uma casa suntuosa em 16 Washington. Square, Nova York. Apesar de todas as li\u00e7\u00f5es que Dr. Sloper pagou para encentivar as gra\u00e7as sociais para ela, Catherine \u00e9 uma mulher simples, desajeitada e extremamente t\u00edmida, que passa todo o seu tempo livre sozinha fazendo bordados quando n\u00e3o est\u00e1 idolatrando seu pai. A falta de charme e beleza social de Catherine \u00e9 \u00f3bvia para o Dr. Sloper, que espera que sua irm\u00e3 Lavinia atue como sua guardi\u00e3 e ajude socialmente .O primeiro homem a mostrar interesse por Catherine \u00e9 o belo Morris Townsend, que ela conheceu em uma festa de fam\u00edlia.",
+                "vote_average": 7.7,
+                "vote_count": 231
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Letter to Three Wives",
+            "second_label": "20th Century-Fox",
+            "category": "Best Motion Picture",
+            "year": 1950,
+            "tmdb": {
+                "id": 45578,
+                "original_title": "A Letter to Three Wives",
+                "title": "Quem \u00e9 o Infiel?",
+                "release_date": "1949-01-20",
+                "backdrop_path": "/feSYboaBumxLbMKjfk3ASMcRP36.jpg",
+                "poster_path": "/bSfwTLt2K8IeEeppsiDq7svikbV.jpg",
+                "overview": "A letter is addressed to three wives from their \"best friend\" Addie Ross, announcing that she is running away with one of their husbands - but she does not say which one.",
+                "vote_average": 7.2,
+                "vote_count": 144
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Twelve O'Clock High",
+            "second_label": "20th Century-Fox",
+            "category": "Best Motion Picture",
+            "year": 1950,
+            "tmdb": {
+                "id": 15497,
+                "original_title": "Twelve O'Clock High",
+                "title": "Almas Em Chamas",
+                "release_date": "1949-12-21",
+                "backdrop_path": "/fVnphXrYJTH8xPKvJCtzSwZycFC.jpg",
+                "poster_path": "/g9VeQUobhofLwxSIbKM4ia5biAX.jpg",
+                "overview": "Um General  assume o comando de uma unidade de bombardeiros sofrendo de moral baixa e d\u00e1 duro para deixa-los em forma para a luta.  Nesta hist\u00f3ria dos primeiros dias dos bombardeios a luz do dia sobre a Alemanha nazista, o General Frank Savage deve assumir o comando de um grupo de bombardeiros \"azarado\". Grande parte da hist\u00f3ria trata de sua luta para transformar seu grupo em uma unidade de combate disciplinada, apesar de pesadas perdas e ataques fulminantes dos ca\u00e7as alem\u00e3es quando est\u00e3o sobre seus alvos. Filmagens de combate real s\u00e3o usadas neste drama de guerra tensa.",
+                "vote_average": 7.1,
+                "vote_count": 132
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Cartoon)": [
+        {
+            "first_label": "For Scent-Imental Reasons",
+            "second_label": "Edward Selzer, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1950,
+            "tmdb": {
+                "id": 83773,
+                "original_title": "For Scent-imental Reasons",
+                "title": "For Scent-imental Reasons",
+                "release_date": "1949-11-12",
+                "backdrop_path": "/sbmEgAPb5E4UfDb1h8vcAg9scD.jpg",
+                "poster_path": "/fOqcLns81CYB3G6orcezkyzy1Lj.jpg",
+                "overview": "Pep\u00e9 Le Pew invades a Parisian perfumery, where he sniffs the various scents. The shopkeeper runs in horror and recruits a female cat to run the skunk out of the shop. She tosses the cat inside, and a bottle of dye falls over, accidentally painting a white stripe down the cat's back. Pep\u00e9 gives chase...",
+                "vote_average": 6.7,
+                "vote_count": 63
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Hatch Up Your Troubles",
+            "second_label": "Fred Quimby, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1950,
+            "tmdb": {
+                "id": 67823,
+                "original_title": "Hatch Up Your Troubles",
+                "title": "Hatch Up Your Troubles",
+                "release_date": "1949-05-14",
+                "backdrop_path": "/uk9MS3ZFDcRFzn8c6t8HY9VKqpb.jpg",
+                "poster_path": "/cgm2QauNsB4dTNvy3hgV4u113JY.jpg",
+                "overview": "A baby woodpecker mistakes Jerry for his mother. The mouse rejects the newly hatched bird but soon finds himself protecting it against his feline nemesis, Tom.",
+                "vote_average": 6.8,
+                "vote_count": 43
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Magic Fluke",
+            "second_label": "Stephen Bosustow, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1950,
+            "tmdb": {
+                "id": 103983,
+                "original_title": "The Magic Fluke",
+                "title": "The Magic Fluke",
+                "release_date": "1949-03-24",
+                "backdrop_path": "/4FDGuTuk98sXLhohBAMx5soEFkJ.jpg",
+                "poster_path": "/cI9872XLgWkNdIort5ymNWfTrTZ.jpg",
+                "overview": "The Fox and Crow have a band-act in a nightclub, but the Fox walks out on his partner when he gets the position of a symphony-orchestra conductor. The Fox becomes while his old partner is on skid row, cold and hungry. One night, the Crow appears backstage at the concert Hall and hands a magician's wand to the Fox as he goes onstage. Using the wand as a baton, everything that can go wrong goes wrong for the snooty maestro.",
+                "vote_average": 5.8,
+                "vote_count": 6
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Toy Tinkers",
+            "second_label": "Walt Disney, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1950,
+            "tmdb": {
+                "id": 67697,
+                "original_title": "Toy Tinkers",
+                "title": "Consertadores de Brinquedos",
+                "release_date": "1949-12-16",
+                "backdrop_path": "/1gFy0ucU3hNBYBILfvjbrAhP6Ck.jpg",
+                "poster_path": "/a6jeJkT0xf8l3zTOgMcOsM2yHGv.jpg",
+                "overview": "When Donald Duck chops a Christmas tree, the inquisitive chipmunks Chip and Dale follow and see him decorate it with nuts and sweets. So they sneak in his home, determined to 'harvest' it all, using the toys for the Duck nephews, as if Christmas came early for them, so to say. Donald puts up an equally 'playful' yet grim defense, so it all rapidly escalates into a bitter miniature two-to-one-giant war over the Christmas-treats.",
+                "vote_average": 6.8,
+                "vote_count": 48
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (One-reel)": [
+        {
+            "first_label": "Aquatic House-Party",
+            "second_label": "Jack Eaton, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1950,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Roller Derby Girl",
+            "second_label": "Justin Herman, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1950,
+            "tmdb": {
+                "id": 240462,
+                "original_title": "Roller Derby Girl",
+                "title": "Roller Derby Girl",
+                "release_date": "1949-07-10",
+                "backdrop_path": null,
+                "poster_path": "/9I6kD72UcFkd1mkvD6RjYQxXe9t.jpg",
+                "overview": "Roller Derby Girl is  1949 short documentary directed by Justin Herman about how mid-twentieth century women made advances and careers in roller derby. The film was nominated for an Oscar for Best Short Subject, One-Reel.",
+                "vote_average": 5.5,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "So You Think You're Not Guilty",
+            "second_label": "Gordon Hollingshead, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1950,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Spills and Chills",
+            "second_label": "Walton C. Ament, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1950,
+            "tmdb": {
+                "id": 240463,
+                "original_title": "Spills and Chills",
+                "title": "Spills and Chills",
+                "release_date": "1949-08-13",
+                "backdrop_path": null,
+                "poster_path": "/D3c4kvp9ewwY7ZkjNsvEWe29je.jpg",
+                "overview": "Spills and Chills is a 1949 English language documentary written and directed by Robert Youngson, starring Dan Donaldson. The film was nominated for an Oscar for Best Short Subject, One-Reel.",
+                "vote_average": 6.0,
+                "vote_count": 2
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Water Trix",
+            "second_label": "Pete Smith, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1950,
+            "tmdb": {
+                "id": 240465,
+                "original_title": "Water Trix",
+                "title": "Water Trix",
+                "release_date": "1949-11-05",
+                "backdrop_path": null,
+                "poster_path": "/dNLjC2KTLfOlRgPeYGtf75mNCdl.jpg",
+                "overview": "In this Pete Smith Specialty, cameraman Charles T. Trego films water skiing champion Preston Petersen, as he and two unnamed female skiers perform various tricks and feats of skill in their sport.",
+                "vote_average": 5.6,
+                "vote_count": 5
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Two-reel)": [
+        {
+            "first_label": "Van Gogh",
+            "second_label": "Gaston Diehl and Robert Haessens, Producers",
+            "category": "Short Subject (Two-reel)",
+            "year": 1950,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Boy and the Eagle",
+            "second_label": "William Lasky, Producer",
+            "category": "Short Subject (Two-reel)",
+            "year": 1950,
+            "tmdb": {
+                "id": 240457,
+                "original_title": "The Boy and the Eagle",
+                "title": "The Boy and the Eagle",
+                "release_date": "1949-07-01",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "A crippled boy discovers a wounded bald eagle, nurses it back to health, tames and teaches it to fly. One day, a rattlesnake is about to strike the boy, when the bird attacks the snake and a vicious fight erupts between the snake and the bird. In the excitement, the boy forgets his crutches and finds himself able to walk without them...",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Chase of Death",
+            "second_label": "Irving Allen, Producer",
+            "category": "Short Subject (Two-reel)",
+            "year": 1950,
+            "tmdb": {
+                "id": 240458,
+                "original_title": "Chase of Death",
+                "title": "Chase of Death",
+                "release_date": "1949-01-01",
+                "backdrop_path": null,
+                "poster_path": "/d7bihFrPsdYQGnwpTXDvz2JL8l8.jpg",
+                "overview": "Chase of Death is a 1949 English language short film directed by Irving Allen. It has been nominated for an Oscar for Best Short Subject, Two-Reel. Two-Reel.  This film has been widely considered to be a LOST film. A copy has been located and verified as held in the archives of the Bibliotheque du Film, in Paris, France.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Grass Is Always Greener",
+            "second_label": "Gordon Hollingshead, Producer",
+            "category": "Short Subject (Two-reel)",
+            "year": 1950,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Snow Carnival",
+            "second_label": "Gordon Hollingshead, Producer",
+            "category": "Short Subject (Two-reel)",
+            "year": 1950,
+            "tmdb": {
+                "id": 240460,
+                "original_title": "Snow Carnival",
+                "title": "Snow Carnival",
+                "release_date": "1949-12-17",
+                "backdrop_path": null,
+                "poster_path": "/6L1opZO8D4eU0Zvjy5laDL2D4D7.jpg",
+                "overview": "Snow Carnival is a 1949 short documentary film narrated by Gary Cooper, and supervised by Gordon Hollingshead. It is about the snowy attractions of mid-twentieth century Aspen, Colorado. The film was nominated for an Oscar nominated for Best Short Subject, Two-Reel.",
+                "vote_average": 6.3,
+                "vote_count": 3
+            },
+            "winner": false
+        }
+    ],
+    "Sound Recording": [
+        {
+            "first_label": "Twelve O'Clock High",
+            "second_label": "20th Century-Fox Studio Sound Department, Thomas T. Moulton, Sound Director",
+            "category": "Sound Recording",
+            "year": 1950,
+            "tmdb": {
+                "id": 15497,
+                "original_title": "Twelve O'Clock High",
+                "title": "Almas Em Chamas",
+                "release_date": "1949-12-21",
+                "backdrop_path": "/fVnphXrYJTH8xPKvJCtzSwZycFC.jpg",
+                "poster_path": "/g9VeQUobhofLwxSIbKM4ia5biAX.jpg",
+                "overview": "Um General  assume o comando de uma unidade de bombardeiros sofrendo de moral baixa e d\u00e1 duro para deixa-los em forma para a luta.  Nesta hist\u00f3ria dos primeiros dias dos bombardeios a luz do dia sobre a Alemanha nazista, o General Frank Savage deve assumir o comando de um grupo de bombardeiros \"azarado\". Grande parte da hist\u00f3ria trata de sua luta para transformar seu grupo em uma unidade de combate disciplinada, apesar de pesadas perdas e ataques fulminantes dos ca\u00e7as alem\u00e3es quando est\u00e3o sobre seus alvos. Filmagens de combate real s\u00e3o usadas neste drama de guerra tensa.",
+                "vote_average": 7.1,
+                "vote_count": 132
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Once More, My Darling",
+            "second_label": "Universal-International Studio Sound Department, Leslie I. Carey, Sound Director",
+            "category": "Sound Recording",
+            "year": 1950,
+            "tmdb": {
+                "id": 217187,
+                "original_title": "Once More, My Darling",
+                "title": "Once More, My Darling",
+                "release_date": "1949-09-10",
+                "backdrop_path": "/e84PapjwUbdTmtgL2UCuKnBloCP.jpg",
+                "poster_path": "/u45nAGwtb1FohZU7BYENE4spEoD.jpg",
+                "overview": "An actor is recalled to active duty with the Army's C.I.D. to find the thief who stole historical jewels in occupied Germany and the trail leads to the boyfriend of a young debutante from Bel Air.",
+                "vote_average": 5.7,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sands of Iwo Jima",
+            "second_label": "Republic Studio Sound Department, Daniel J. Bloomberg, Sound Director",
+            "category": "Sound Recording",
+            "year": 1950,
+            "tmdb": {
+                "id": 18712,
+                "original_title": "Sands of Iwo Jima",
+                "title": "Iwo Jima - O Portal da Gl\u00f3ria",
+                "release_date": "1950-01-01",
+                "backdrop_path": "/ovfJX70VfUTXM2o28lvZQchtynG.jpg",
+                "poster_path": "/utpy9JLuyhsxpw2E3yExw23f3eS.jpg",
+                "overview": "Depois que sua esposa leva seu filho e o abandona, o sargento John Stryker \u00e9 um homem amargurado que descarrega seu sofrimento em cima dos homens sob seu comando. Eles s\u00e3o um bando de recrutas verdes que t\u00eam dificuldade em lidar com pessoas dif\u00edceis e casca grossa como Stryker. Mesmo os seus antigos amigos come\u00e7am a se perguntar se ele deixou de ser o exemplo de sargento duro para ser um homem no limite.",
+                "vote_average": 6.4,
+                "vote_count": 130
+            },
+            "winner": false
+        }
+    ],
+    "Special Effects": [
+        {
+            "first_label": "Mighty Joe Young",
+            "second_label": "ARKO Productions",
+            "category": "Special Effects",
+            "year": 1950,
+            "tmdb": {
+                "id": 39314,
+                "original_title": "Mighty Joe Young",
+                "title": "Monstro de um Mundo Perdido",
+                "release_date": "1949-07-27",
+                "backdrop_path": "/3ypZEsPA7nR0Ul7xBPBhZvhrU7t.jpg",
+                "poster_path": "/pY9w40lQgEK4cvxbCxirvV1Wzo0.jpg",
+                "overview": "A young woman, Jill Young, grew up on her father's ranch in Africa, raising a large gorilla named Joe from an infant. Years later, she brings him to Hollywood to become a star.",
+                "vote_average": 6.4,
+                "vote_count": 99
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Tulsa",
+            "second_label": "Walter Wanger Pictures",
+            "category": "Special Effects",
+            "year": 1950,
+            "tmdb": {
+                "id": 104083,
+                "original_title": "Tulsa",
+                "title": "Tulsa",
+                "release_date": "1949-04-13",
+                "backdrop_path": "/oKYwUvy11gDi4eKon8rPFXRs31p.jpg",
+                "poster_path": "/c8sFzywAM75XyuydCgIabm9ZrcC.jpg",
+                "overview": "It's Tulsa, Oklahoma at the start of the oil boom and Cherokee Lansing's rancher father is killed in a fight with the Tanner Oil Company. Cherokee plans revenge by bringing in her own wells with the help of oil expert Brad Brady and childhood friend Jim Redbird. When the oil and the money start gushing in, both Brad and Jim want to protect the land but Cherokee has different ideas. What started out as revenge for her father's death has turned into an obsession for wealth and power.",
+                "vote_average": 6.2,
+                "vote_count": 18
+            },
+            "winner": false
+        }
+    ],
+    "Special Foreign Language Film Award": [
+        {
+            "first_label": "The Bicycle Thief",
+            "second_label": "Special Award",
+            "category": "Special Foreign Language Film Award",
+            "year": 1950,
+            "tmdb": {
+                "id": 5156,
+                "original_title": "Ladri di biciclette",
+                "title": "Ladr\u00f5es de Bicicleta",
+                "release_date": "1948-11-24",
+                "backdrop_path": "/kTUUiKGKrdRhJsCcYT3Ivtfuuzh.jpg",
+                "poster_path": "/xhsIqIrOiesLpqNg7yQkDsin9Tw.jpg",
+                "overview": "Desempregado Antonio Ricci (Lamberto Maggiorani) est\u00e1 euf\u00f3rico quando finalmente encontra trabalho colocando cartazes pela cidade de Roma, destru\u00edda pela guerra. Sua esposa Maria (Lianella Carell), vende os len\u00e7\u00f3is da fam\u00edlia para resgatar a bicicleta de Antonio da loja de penhor, para que ele possa aceitar o trabalho. Por\u00e9m, o desastre ataca, quando a bicicleta de Antonio \u00e9 roubada. (e 10 - Estimado 10 Anos)",
+                "vote_average": 8.2,
+                "vote_count": 2250
+            },
+            "winner": true
+        }
+    ],
+    "Writing (Motion Picture Story)": [
+        {
+            "first_label": "The Stratton Story",
+            "second_label": "Douglas Morrow",
+            "category": "Writing (Motion Picture Story)",
+            "year": 1950,
+            "tmdb": {
+                "id": 43440,
+                "original_title": "The Stratton Story",
+                "title": "The Stratton Story",
+                "release_date": "1949-05-12",
+                "backdrop_path": "/A9cz3ZrsrFT7NgTZNgYevHIfjwF.jpg",
+                "poster_path": "/pp301J6FXlnHAoeY5zExdfui42N.jpg",
+                "overview": "Star major league pitcher Monty Stratton loses a leg in a hunting accident, but becomes determined to leave the game on his own terms.",
+                "vote_average": 6.7,
+                "vote_count": 29
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Come to the Stable",
+            "second_label": "Clare Boothe Luce",
+            "category": "Writing (Motion Picture Story)",
+            "year": 1950,
+            "tmdb": {
+                "id": 120481,
+                "original_title": "Come to the Stable",
+                "title": "Falam os Sinos",
+                "release_date": "1949-07-27",
+                "backdrop_path": "/bDYgODkocRo0lVzAEOseBZIfORX.jpg",
+                "poster_path": "/5S8e0COr9OmIeuy9nGL6x0H1oda.jpg",
+                "overview": "Two nuns arrive unannounced in the small New England town of Bethlehem, where they recruit various townspeople to help them build a children's hospital.",
+                "vote_average": 6.4,
+                "vote_count": 21
+            },
+            "winner": false
+        },
+        {
+            "first_label": "It Happens Every Spring",
+            "second_label": "Shirley W. Smith, Valentine Davies",
+            "category": "Writing (Motion Picture Story)",
+            "year": 1950,
+            "tmdb": {
+                "id": 88288,
+                "original_title": "It Happens Every Spring",
+                "title": "Todas as Primaveras",
+                "release_date": "1949-06-10",
+                "backdrop_path": "/s5RnJCwPEnNx7xFjIsCZtlF6FGy.jpg",
+                "poster_path": "/7tjnehLSx0NBmywRR9NIRzHhugd.jpg",
+                "overview": "A scientist discovers a formula that makes a baseball which is repelled by wood. He promptly sets out to exploit his discovery.",
+                "vote_average": 6.5,
+                "vote_count": 19
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sands of Iwo Jima",
+            "second_label": "Harry Brown",
+            "category": "Writing (Motion Picture Story)",
+            "year": 1950,
+            "tmdb": {
+                "id": 18712,
+                "original_title": "Sands of Iwo Jima",
+                "title": "Iwo Jima - O Portal da Gl\u00f3ria",
+                "release_date": "1950-01-01",
+                "backdrop_path": "/ovfJX70VfUTXM2o28lvZQchtynG.jpg",
+                "poster_path": "/utpy9JLuyhsxpw2E3yExw23f3eS.jpg",
+                "overview": "Depois que sua esposa leva seu filho e o abandona, o sargento John Stryker \u00e9 um homem amargurado que descarrega seu sofrimento em cima dos homens sob seu comando. Eles s\u00e3o um bando de recrutas verdes que t\u00eam dificuldade em lidar com pessoas dif\u00edceis e casca grossa como Stryker. Mesmo os seus antigos amigos come\u00e7am a se perguntar se ele deixou de ser o exemplo de sargento duro para ser um homem no limite.",
+                "vote_average": 6.4,
+                "vote_count": 130
+            },
+            "winner": false
+        },
+        {
+            "first_label": "White Heat",
+            "second_label": "Virginia Kellogg",
+            "category": "Writing (Motion Picture Story)",
+            "year": 1950,
+            "tmdb": {
+                "id": 15794,
+                "original_title": "White Heat",
+                "title": "F\u00faria Sanguin\u00e1ria",
+                "release_date": "1949-09-02",
+                "backdrop_path": "/cap8458wFeRCJSKxL758dI82TRK.jpg",
+                "poster_path": "/h5e41NdaSSYpyqrVsILlVWhwtox.jpg",
+                "overview": "Um criminoso psicopata com um complexo-m\u00e3e (Complexo de \u00c9dipo) faz uma fuga ousada da pris\u00e3o e depois lidera a sua antiga quadrilha num assalto \u00e0 folha de pagamento de uma f\u00e1brica de produtos qu\u00edmicos. Ap\u00f3s o assalto, os eventos tomam um rumo louco.",
+                "vote_average": 7.7,
+                "vote_count": 442
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay)": [
+        {
+            "first_label": "A Letter to Three Wives",
+            "second_label": "Joseph L. Mankiewicz",
+            "category": "Writing (Screenplay)",
+            "year": 1950,
+            "tmdb": {
+                "id": 45578,
+                "original_title": "A Letter to Three Wives",
+                "title": "Quem \u00e9 o Infiel?",
+                "release_date": "1949-01-20",
+                "backdrop_path": "/feSYboaBumxLbMKjfk3ASMcRP36.jpg",
+                "poster_path": "/bSfwTLt2K8IeEeppsiDq7svikbV.jpg",
+                "overview": "A letter is addressed to three wives from their \"best friend\" Addie Ross, announcing that she is running away with one of their husbands - but she does not say which one.",
+                "vote_average": 7.2,
+                "vote_count": 144
+            },
+            "winner": true
+        },
+        {
+            "first_label": "All the King's Men",
+            "second_label": "Robert Rossen",
+            "category": "Writing (Screenplay)",
+            "year": 1950,
+            "tmdb": {
+                "id": 25430,
+                "original_title": "All the King's Men",
+                "title": "A Grande Ilus\u00e3o",
+                "release_date": "1949-11-16",
+                "backdrop_path": "/bSTvvll9gIOcoavWRIVYL5RoTkn.jpg",
+                "poster_path": "/cN6OJA6xGmxHzkO59QJpspujAwg.jpg",
+                "overview": "O filme conta a hist\u00f3ria de ascens\u00e3o e queda de um pol\u00edtico rebelde do interior que come\u00e7a exigindo reformas e justi\u00e7a social, mas acaba embriagado pelo pr\u00f3prio poder. O roteiro \u00e9 uma adapta\u00e7\u00e3o do romance de Robert Penn Warren, publicado em 1946, e pelo qual o autor recebeu o Pr\u00e9mio Pulitzer de Literatura.",
+                "vote_average": 6.9,
+                "vote_count": 198
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Bicycle Thief",
+            "second_label": "Cesare Zavattini",
+            "category": "Writing (Screenplay)",
+            "year": 1950,
+            "tmdb": {
+                "id": 5156,
+                "original_title": "Ladri di biciclette",
+                "title": "Ladr\u00f5es de Bicicleta",
+                "release_date": "1948-11-24",
+                "backdrop_path": "/kTUUiKGKrdRhJsCcYT3Ivtfuuzh.jpg",
+                "poster_path": "/xhsIqIrOiesLpqNg7yQkDsin9Tw.jpg",
+                "overview": "Desempregado Antonio Ricci (Lamberto Maggiorani) est\u00e1 euf\u00f3rico quando finalmente encontra trabalho colocando cartazes pela cidade de Roma, destru\u00edda pela guerra. Sua esposa Maria (Lianella Carell), vende os len\u00e7\u00f3is da fam\u00edlia para resgatar a bicicleta de Antonio da loja de penhor, para que ele possa aceitar o trabalho. Por\u00e9m, o desastre ataca, quando a bicicleta de Antonio \u00e9 roubada. (e 10 - Estimado 10 Anos)",
+                "vote_average": 8.2,
+                "vote_count": 2250
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Champion",
+            "second_label": "Carl Foreman",
+            "category": "Writing (Screenplay)",
+            "year": 1950,
+            "tmdb": {
+                "id": 25918,
+                "original_title": "Champion",
+                "title": "O Invenc\u00edvel",
+                "release_date": "1949-04-09",
+                "backdrop_path": "/5tl6cv6AU44WcvMbzD1x0OGjqu0.jpg",
+                "poster_path": "/luBAS7aD9Iu6RwEumfXbQewjO1g.jpg",
+                "overview": "An unscrupulous boxer fights his way to the top, but eventually alienates all of the people who helped him on the way up.",
+                "vote_average": 6.6,
+                "vote_count": 84
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Fallen Idol",
+            "second_label": "Graham Greene",
+            "category": "Writing (Screenplay)",
+            "year": 1950,
+            "tmdb": {
+                "id": 21631,
+                "original_title": "The Fallen Idol",
+                "title": "O \u00cddolo Ca\u00eddo",
+                "release_date": "1948-09-30",
+                "backdrop_path": "/9A88YZ2qZhpE0RM7e6BDJeDX2fh.jpg",
+                "poster_path": "/sCcjmsYVgh0urTbLqQgEeskkmPt.jpg",
+                "overview": "Um mordomo que trabalha em uma embaixada estrangeira em Londres torna-se o principal suspeito quando sua esposa cai acidentalmente e morre. A \u00fanica testemunha \u00e9 um menino impression\u00e1vel.  Philippe, filho de um diplomata e bom amigo de Baines, o mordomo, confunde-se com as complexidades e evas\u00f5es da vida adulta. Ele tenta manter segredos, mas acaba dizendo a eles. Ele mente para proteger seus amigos, mesmo sabendo que deve dizer a verdade. Ele resolve n\u00e3o ouvir mais as hist\u00f3rias de adultos quando Baines \u00e9 suspeito de assassinar sua esposa e ningu\u00e9m vai ouvir as informa\u00e7\u00f5es vitais de Philippe.  (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.1,
+                "vote_count": 158
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Story and Screenplay)": [
+        {
+            "first_label": "Battleground",
+            "second_label": "Robert Pirosh",
+            "category": "Writing (Story and Screenplay)",
+            "year": 1950,
+            "tmdb": {
+                "id": 31623,
+                "original_title": "Battleground",
+                "title": "Battleground, O Pre\u00e7o da Gl\u00f3ria",
+                "release_date": "1949-11-09",
+                "backdrop_path": "/bam6RudCnYDj8YIZt2vi3bUTxSp.jpg",
+                "poster_path": "/tsSss5cIkW5wVHNlIU51IUBky9N.jpg",
+                "overview": "Um esquadr\u00e3o da divis\u00e3o 101st Airborne fica encurralado na cidade sitiada de Bastogne durante a Batalha do Bulge. N\u00f3s acompanhamos um grupo de soldados norte-americanos, como eles lutam com os alem\u00e3es, em um nevado e nebuloso inverno, perto Bastogne na II Guerra Mundial. Eles est\u00e3o com pouco combust\u00edvel, ra\u00e7\u00f5es  e muni\u00e7\u00e3o. Os alem\u00e3es est\u00e3o constantemente incentivando a sua rendi\u00e7\u00e3o via r\u00e1dio e folhetos. E mais importante, o nevoeiro espesso e abrangente dificulta a movimenta\u00e7\u00e3o e identifica\u00e7\u00e3o do inimigo e impede a ajuda pelo apoio a\u00e9reo aliado. Este filme centra-se muito mais sobre a psicologia e moral dos soldados do que em cenas de a\u00e7\u00e3o e hero\u00edsmo.",
+                "vote_average": 6.6,
+                "vote_count": 83
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Jolson Sings Again",
+            "second_label": "Sidney Buchman",
+            "category": "Writing (Story and Screenplay)",
+            "year": 1950,
+            "tmdb": {
+                "id": 43435,
+                "original_title": "Jolson Sings Again",
+                "title": "Jolson Sings Again",
+                "release_date": "1949-08-17",
+                "backdrop_path": "/sckxtq50B8Eue9URqT6lo1GJZas.jpg",
+                "poster_path": "/sswaVzdGmBrDL1Ki0KfpLcclww2.jpg",
+                "overview": "In this sequel to The Jolson Story, we pick up the singer's career just as he has returned to the stage after a premature retirement. But his wife has left him and the appeal of the spotlight isn't what it used to be. This time Jolson trades in the stage for life in the fast lane: women, horses, travel. It takes the death of Moma Yoelson and World War II to bring Jolson back to earth - and to the stage. Once again teamed with manager Steve Martin, Jolson travels the world entertaining troops everywhere from Alaska to Africa. When he finally collapses from exhaustion it takes young, pretty nurse Ellen Clark to show him there's more to life than \"just rushing around\".",
+                "vote_average": 6.0,
+                "vote_count": 10
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Paisan",
+            "second_label": "Alfred Hayes, Federico Fellini, Sergio Amidei, Marcello Pagliero, Roberto Rossellini",
+            "category": "Writing (Story and Screenplay)",
+            "year": 1950,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Passport to Pimlico",
+            "second_label": "T. E. B. Clarke",
+            "category": "Writing (Story and Screenplay)",
+            "year": 1950,
+            "tmdb": {
+                "id": 30095,
+                "original_title": "Passport to Pimlico",
+                "title": "Um Pa\u00eds de Anedota",
+                "release_date": "1949-10-26",
+                "backdrop_path": "/xC6suee08ve5VGuVpKKfeBCweqg.jpg",
+                "poster_path": "/tYPQny9ZFJo9ZkObdQkiT9N69lN.jpg",
+                "overview": "When an unexploded WWII bomb is accidentally detonated in Pimlico, it reveals a treasure trove and documents proving that the region is in fact part of Burgundy, France and thus foreign territory. The British government attempts to regain control by setting up border controls and cutting off services to the area.",
+                "vote_average": 6.7,
+                "vote_count": 78
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Quiet One",
+            "second_label": "Helen Levitt, Janice Loeb, Sidney Meyers",
+            "category": "Writing (Story and Screenplay)",
+            "year": 1950,
+            "tmdb": {
+                "id": 99185,
+                "original_title": "The Quiet One",
+                "title": "The Quiet One",
+                "release_date": "1948-09-01",
+                "backdrop_path": null,
+                "poster_path": "/bF4Vo1djRnmeiexPF7BJqluzFkD.jpg",
+                "overview": "A documentary account of the rehabilitation at the Wiltwyck School of an emotionally disturbed black boy who is unwanted, misunderstood, and inwardly tortured.",
+                "vote_average": 4.8,
+                "vote_count": 4
+            },
+            "winner": false
+        }
+    ]
+}

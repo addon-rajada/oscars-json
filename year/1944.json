@@ -1,0 +1,2796 @@
+{
+    "Actor": [
+        {
+            "first_label": "Paul Lukas",
+            "second_label": "Watch on the Rhine",
+            "category": "Actor",
+            "year": 1944,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Humphrey Bogart",
+            "second_label": "Casablanca",
+            "category": "Actor",
+            "year": 1944,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gary Cooper",
+            "second_label": "For Whom the Bell Tolls",
+            "category": "Actor",
+            "year": 1944,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Walter Pidgeon",
+            "second_label": "Madame Curie",
+            "category": "Actor",
+            "year": 1944,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mickey Rooney",
+            "second_label": "The Human Comedy",
+            "category": "Actor",
+            "year": 1944,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Charles Coburn",
+            "second_label": "The More the Merrier",
+            "category": "Actor in a Supporting Role",
+            "year": 1944,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Charles Bickford",
+            "second_label": "The Song of Bernadette",
+            "category": "Actor in a Supporting Role",
+            "year": 1944,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "J. Carrol Naish",
+            "second_label": "Sahara",
+            "category": "Actor in a Supporting Role",
+            "year": 1944,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Claude Rains",
+            "second_label": "Casablanca",
+            "category": "Actor in a Supporting Role",
+            "year": 1944,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Akim Tamiroff",
+            "second_label": "For Whom the Bell Tolls",
+            "category": "Actor in a Supporting Role",
+            "year": 1944,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress": [
+        {
+            "first_label": "Jennifer Jones",
+            "second_label": "The Song of Bernadette",
+            "category": "Actress",
+            "year": 1944,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Jean Arthur",
+            "second_label": "The More the Merrier",
+            "category": "Actress",
+            "year": 1944,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ingrid Bergman",
+            "second_label": "For Whom the Bell Tolls",
+            "category": "Actress",
+            "year": 1944,
+            "tmdb": {
+                "id": 240364,
+                "original_title": "Swedes in America",
+                "title": "Swedes in America",
+                "release_date": "1943-11-08",
+                "backdrop_path": null,
+                "poster_path": "/jW5i6SQspbiwXutfPCvgSzK1kuH.jpg",
+                "overview": "1943 documentary with Ingrid Bergman.",
+                "vote_average": 5.5,
+                "vote_count": 8
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Joan Fontaine",
+            "second_label": "The Constant Nymph",
+            "category": "Actress",
+            "year": 1944,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Greer Garson",
+            "second_label": "Madame Curie",
+            "category": "Actress",
+            "year": 1944,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Katina Paxinou",
+            "second_label": "For Whom the Bell Tolls",
+            "category": "Actress in a Supporting Role",
+            "year": 1944,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Gladys Cooper",
+            "second_label": "The Song of Bernadette",
+            "category": "Actress in a Supporting Role",
+            "year": 1944,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Paulette Goddard",
+            "second_label": "So Proudly We Hail!",
+            "category": "Actress in a Supporting Role",
+            "year": 1944,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Anne Revere",
+            "second_label": "The Song of Bernadette",
+            "category": "Actress in a Supporting Role",
+            "year": 1944,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lucile Watson",
+            "second_label": "Watch on the Rhine",
+            "category": "Actress in a Supporting Role",
+            "year": 1944,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction (Black-and-White)": [
+        {
+            "first_label": "The Song of Bernadette",
+            "second_label": "Art Direction: James Basevi, William Darling; Interior Decoration: Thomas Little",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1944,
+            "tmdb": {
+                "id": 43516,
+                "original_title": "The Song of Bernadette",
+                "title": "A Can\u00e7\u00e3o de Bernadette",
+                "release_date": "1943-12-21",
+                "backdrop_path": "/5gxdMOVSzWNVNSjDPzQGwP6xAed.jpg",
+                "poster_path": "/xtrt9i2LWF4V7tDedDNSnhKJP4c.jpg",
+                "overview": "Bernadette \u00e9 uma jovem camponesa que vive na Fran\u00e7a. Quando ela conta aos vizinhos que viu uma bela senhora no caminho para casa, todos assumem que se trata da Virgem Maria. Bernadette \u00e9 considerada louca por uns, e santa por outros.",
+                "vote_average": 7.0,
+                "vote_count": 107
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Five Graves to Cairo",
+            "second_label": "Art Direction: Hans Dreier, Ernst Fegte; Interior Decoration: Bertram Granger",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1944,
+            "tmdb": {
+                "id": 60216,
+                "original_title": "Five Graves to Cairo",
+                "title": "Cinco Covas No Egito",
+                "release_date": "1943-05-26",
+                "backdrop_path": "/Y1GoXaPO098QNz25Zv9W7Uvi91.jpg",
+                "poster_path": "/sZuSO4VcIzsGWuoQoM6oEyfp1HV.jpg",
+                "overview": "O Ex\u00e9rcito Brit\u00e2nico, retirando-se \u00e0 frente do vitorioso Rommel, deixa um \u00fanico sobrevivente na fronteira eg\u00edpcio que encontra ref\u00fagio em um remoto hotel no deserto. Ele \u00e9 ajudado pelo propriet\u00e1rio do hotel, apesar dos protestos da camareira francesa, com medo da chegada iminente de Rommel e os alem\u00e3es. Para sobreviver John assume a identidade do gar\u00e7om do hotel, recentemente falecido.",
+                "vote_average": 6.9,
+                "vote_count": 115
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Flight for Freedom",
+            "second_label": "Art Direction: Albert S. D'Agostino, Carroll Clark; Interior Decoration: Darrell Silvera, Harley Miller",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1944,
+            "tmdb": {
+                "id": 162110,
+                "original_title": "Flight for Freedom",
+                "title": "Flight for Freedom",
+                "release_date": "1943-04-14",
+                "backdrop_path": "/oWyztJEgNcJsqEep2tMayZi7FgN.jpg",
+                "poster_path": "/zo92DUlVnwsQ1Z656JHrtW4JqaX.jpg",
+                "overview": "A fictionalized biopic about aviation pioneer Amelia Earhart. A female pilot breaks the Los Angeles to New York record and attracts the interest of the U.S. Navy, who want to send her on a spy mission.",
+                "vote_average": 5.2,
+                "vote_count": 6
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Madame Curie",
+            "second_label": "Art Direction: Cedric Gibbons, Paul Groesse; Interior Decoration: Edwin B. Willis, Hugh Hunt",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1944,
+            "tmdb": {
+                "id": 37631,
+                "original_title": "Madame Curie",
+                "title": "Madame Curie",
+                "release_date": "1943-12-16",
+                "backdrop_path": "/fGSYPxh8MG2HQMtUZ2pLimQbXRH.jpg",
+                "poster_path": "/nbOS7mlW8qsKG8uBTZLPg45RGRh.jpg",
+                "overview": "Poor physics student Marie is studying at the Sorbonne in 1890s Paris. One of the few women studying in her field, Marie encounters skepticism concerning her abilities, but is eventually offered a research placement in Pierre Curie's lab. The scientists soon fall in love and embark on a shared quest to extract, from a particular type of rock, a new chemical element they have named radium. However, their research puts them on the brink of professional failure.",
+                "vote_average": 7.2,
+                "vote_count": 35
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mission to Moscow",
+            "second_label": "Art Direction: Carl Weyl; Interior Decoration: George J. Hopkins",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1944,
+            "tmdb": {
+                "id": 161512,
+                "original_title": "Mission to Moscow",
+                "title": "Miss\u00e3o em Moscou",
+                "release_date": "1943-04-29",
+                "backdrop_path": "/bRU32apzAB9pCFx49cYstPPIBtl.jpg",
+                "poster_path": "/pQ2hj7sfTwUGtz7mulxAc28hKYQ.jpg",
+                "overview": "Ambassador Joseph Davies is sent by FDR to Russia to learn about the Soviet system and returns to America as an advocate of Stalinism.",
+                "vote_average": 5.2,
+                "vote_count": 17
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The North Star",
+            "second_label": "Art Direction: Perry Ferguson; Interior Decoration: Howard Bristol",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1944,
+            "tmdb": {
+                "id": 48127,
+                "original_title": "The North Star",
+                "title": "The North Star",
+                "release_date": "1943-11-04",
+                "backdrop_path": "/wa4DU11AeIAUCGOuXV9RbpSckIU.jpg",
+                "poster_path": "/zENGbNnvBLJNOHxRYpQBoSiX3Ku.jpg",
+                "overview": "A Ukrainian village must suddenly contend with the Nazi invasion of June 1941.  Later re-edited and released as \"Armored Attack.\"",
+                "vote_average": 6.3,
+                "vote_count": 22
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction (Color)": [
+        {
+            "first_label": "Phantom of the Opera",
+            "second_label": "Art Direction: John B. Goodman, Alexander Golitzen; Interior Decoration: Russell A. Gausman, Ira S. Webb",
+            "category": "Art Direction (Color)",
+            "year": 1944,
+            "tmdb": {
+                "id": 15855,
+                "original_title": "Phantom of the Opera",
+                "title": "O Fantasma da \u00d3pera",
+                "release_date": "1943-08-12",
+                "backdrop_path": "/d8yE2GKtplZXXzgJ9151hV9nArD.jpg",
+                "poster_path": "/2IPsMihA1JNUnZbYpHZ93avZdW7.jpg",
+                "overview": "Este imortal e espetacular conto de terror de Gaston Leroux \u00e9 estrelado por Claude Rains como o mascarado fantasma da \u00d3pera de Paris, um compositor enlouquecido que planeja fazer de uma linda jovem soprano (Susanna Foster) a estrela da companhia de \u00f3pera e saciar sua vingan\u00e7a contra os que roubaram sua m\u00fasica. Nelson Eddy, o her\u00f3ico bar\u00edtono, tenta obter o afeto da garota enguanto persegue os passos do monstro que come\u00e7a a matar aqueles que resiste a suas loucas exig\u00eancias.",
+                "vote_average": 6.2,
+                "vote_count": 184
+            },
+            "winner": true
+        },
+        {
+            "first_label": "For Whom the Bell Tolls",
+            "second_label": "Art Direction: Hans Dreier, Haldane Douglas; Interior Decoration: Bertram Granger",
+            "category": "Art Direction (Color)",
+            "year": 1944,
+            "tmdb": {
+                "id": 27854,
+                "original_title": "For Whom the Bell Tolls",
+                "title": "Por Quem os Sinos Dobram",
+                "release_date": "1943-07-12",
+                "backdrop_path": "/mVrjkPOgQA0qrIYlo9DlVdTiwQJ.jpg",
+                "poster_path": "/j5tBLqs599srb0lryNZIlAWfWWy.jpg",
+                "overview": "Guerra Civil Espanhola, anos 30. O idealista Robert Jordan (Gary Cooper) se engaja no conflito para defender os princ\u00edpios de liberdade e democracia. Numa miss\u00e3o de alt\u00edssimo risco, ele aguarda o melhor momento de explodir uma ponte de import\u00e2ncia vital para as tropas inimigas. Neste cen\u00e1rio de idealismos e tens\u00f5es quase insuport\u00e1veis, a m\u00edstica Pilar, l\u00edder das for\u00e7as da resist\u00eancia civil, encoraja a bela e jovem Maria (Ingrid Bergman) a ajudar Robert em sua miss\u00e3o. Durante uma noite debaixo das estrelas, o medo da morte e a possibilidade do amor caminham lado a lado, em pleno horror da guerra.",
+                "vote_average": 6.539,
+                "vote_count": 179
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Gang's All Here",
+            "second_label": "Art Direction: James Basevi, Joseph C. Wright; Interior Decoration: Thomas Little",
+            "category": "Art Direction (Color)",
+            "year": 1944,
+            "tmdb": {
+                "id": 67967,
+                "original_title": "The Gang's All Here",
+                "title": "Entre a Loura e a Morena",
+                "release_date": "1943-12-24",
+                "backdrop_path": "/58omzraCM2cF9w8pRIUW0ClYxRb.jpg",
+                "poster_path": "/eLKCCAqyFMBnIUyiD34p2Ylp14i.jpg",
+                "overview": "Cantora conhece um sargento mas este deve cumprir uma miss\u00e3o no Pac\u00edfico. Ap\u00f3s o reencontro, ela descobre que ele \u00e9 rico e est\u00e1 prestes a se casar. Enquanto isso, Dorita usar\u00e1 todo seu charme e ousadia para resolver a situa\u00e7\u00e3o. Filme conhecido pela cena em que Carmen Miranda dan\u00e7a com algumas frutas sobre a cabe\u00e7a.",
+                "vote_average": 5.8,
+                "vote_count": 34
+            },
+            "winner": false
+        },
+        {
+            "first_label": "This Is the Army",
+            "second_label": "Art Direction: John Hughes, Lt. John Koenig; Interior Decoration: George J. Hopkins",
+            "category": "Art Direction (Color)",
+            "year": 1944,
+            "tmdb": {
+                "id": 43517,
+                "original_title": "This Is the Army",
+                "title": "Forja de Her\u00f3is",
+                "release_date": "1943-08-14",
+                "backdrop_path": "/p9vb0XpMVPZEJoJxmoh9G2vi2Ni.jpg",
+                "poster_path": "/2zBY2WMlhQDd1t24RHvEBz055qT.jpg",
+                "overview": "In WW I dancer Jerry Jones stages an all-soldier show on Broadway, called Yip Yip Yaphank. Wounded in the War, he becomes a producer. In WW II his son Johnny Jones, who was before his fathers assistant, gets the order to stage a knew all-soldier show, called THIS IS THE ARMY. But in his pesonal life he has problems, because he refuses to marry his fianc\u00e9e until the war is over.",
+                "vote_average": 5.7,
+                "vote_count": 19
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Thousands Cheer",
+            "second_label": "Art Direction: Cedric Gibbons, Daniel Cathcart; Interior Decoration: Edwin B. Willis, Jacques Mersereau",
+            "category": "Art Direction (Color)",
+            "year": 1944,
+            "tmdb": {
+                "id": 43518,
+                "original_title": "Thousands Cheer",
+                "title": "A Filha do Comandante",
+                "release_date": "1943-09-13",
+                "backdrop_path": "/69Ha8P7zR7iFbyXhsUoLrrnTaZA.jpg",
+                "poster_path": "/7YFjle5GLmpU7xajOVH25TH8ljU.jpg",
+                "overview": "Acrobat Eddie Marsh is in the army now. His first act is to become friendly with Kathryn Jones, the colonel's pretty daughter. Their romance hits a few snags, including disapproval from her father. Eddie's also plagued by fear of having an accident during his family's trapeze act in the army variety show, which also features a gallery of MGM stars.",
+                "vote_average": 6.4,
+                "vote_count": 17
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography (Black-and-White)": [
+        {
+            "first_label": "The Song of Bernadette",
+            "second_label": "Arthur Miller",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1944,
+            "tmdb": {
+                "id": 43516,
+                "original_title": "The Song of Bernadette",
+                "title": "A Can\u00e7\u00e3o de Bernadette",
+                "release_date": "1943-12-21",
+                "backdrop_path": "/5gxdMOVSzWNVNSjDPzQGwP6xAed.jpg",
+                "poster_path": "/xtrt9i2LWF4V7tDedDNSnhKJP4c.jpg",
+                "overview": "Bernadette \u00e9 uma jovem camponesa que vive na Fran\u00e7a. Quando ela conta aos vizinhos que viu uma bela senhora no caminho para casa, todos assumem que se trata da Virgem Maria. Bernadette \u00e9 considerada louca por uns, e santa por outros.",
+                "vote_average": 7.0,
+                "vote_count": 107
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Air Force",
+            "second_label": "James Wong Howe, Elmer Dyer, Charles Marshall",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1944,
+            "tmdb": {
+                "id": 15807,
+                "original_title": "Air Force",
+                "title": "\u00c1guias Americanas",
+                "release_date": "1943-03-20",
+                "backdrop_path": "/7L6SrvZgbTdNdj0lUA9L6C1mjuY.jpg",
+                "poster_path": "/mqH4V49GvANYsu1q4SW4CFUTFZe.jpg",
+                "overview": "A tripula\u00e7\u00e3o de um bombardeiro da For\u00e7a A\u00e9rea chega em Pearl Harbor no rescaldo do ataque japon\u00eas e \u00e9 enviado para Manila para ajudar com a defesa das Filipinas.  Em 6 de dezembro de 1941, nove bombardeiros B-17 partiram em um voo de San Francisco para o Hava\u00ed. Um dos bombardeiros, o Mary Ann, \u00e9 comandado pelo \"Irland\u00eas\" Quincannon. O bombardeiro, Tommy McMartin, tem uma irm\u00e3 vivendo no Hava\u00ed e o copiloto, Bill Williams, est\u00e1 apaixonado por ela. Os homens s\u00e3o todos altamente profissionais, com exce\u00e7\u00e3o do artilheiro Joe Winocki, um homem amargo que tem toda a inten\u00e7\u00e3o de deixar a For\u00e7a A\u00e9rea do ex\u00e9rcito. Eles chegam ao Campo Hickam na manh\u00e3 de 7 de dezembro, na mesma hora que os japoneses est\u00e3o atacando Pearl Harbor e outras instala\u00e7\u00f5es militares. Todos os homens se preparam para enfrentar o inimigo, inclusive Winocki cuja atitude muda rapidamente. O bombardeiro e sua tripula\u00e7\u00e3o participar\u00e3o de muitas miss\u00f5es, mas nem todos sobreviver\u00e3o.",
+                "vote_average": 6.3,
+                "vote_count": 53
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Casablanca",
+            "second_label": "Arthur Edeson",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1944,
+            "tmdb": {
+                "id": 289,
+                "original_title": "Casablanca",
+                "title": "Casablanca",
+                "release_date": "1943-01-15",
+                "backdrop_path": "/87wqeMeUeMRLjsE1IWNKJcPlpuC.jpg",
+                "poster_path": "/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
+                "overview": "Durante a Segunda Guerra Mundial, muitos fugitivos tentavam escapar dos nazistas por uma rota que passava pela cidade de Casablanca. O exilado americano Rick Blaine encontrou ref\u00fagio na cidade, dirigindo uma das principais casas noturnas da regi\u00e3o. Clandestinamente, tentando despistar o Capit\u00e3o Renault, ele ajuda refugiados, possibilitando que eles fujam para os Estados Unidos. Quando um casal pede sua ajuda para deixar o pa\u00eds, ele reencontra uma grande paix\u00e3o do passado, a bela Ilsa. Este amor vai encontrar uma nova vida e eles v\u00e3o lutar para fugir juntos.",
+                "vote_average": 8.2,
+                "vote_count": 5149
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Corvette K-225",
+            "second_label": "Tony Gaudio",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1944,
+            "tmdb": {
+                "id": 177751,
+                "original_title": "Corvette K-225",
+                "title": "Corvetas em A\u00e7\u00e3o",
+                "release_date": "1943-09-29",
+                "backdrop_path": "/mxw0wpRO6ZlLgIGTwr2HMjloNmx.jpg",
+                "poster_path": "/wh1zsNsElJNKkH5h6dQAXLR0NCV.jpg",
+                "overview": "The story of a Canadian WWII naval vessel, with a dramatic subplot concerning her first captain.",
+                "vote_average": 6.2,
+                "vote_count": 11
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Five Graves to Cairo",
+            "second_label": "John Seitz",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1944,
+            "tmdb": {
+                "id": 60216,
+                "original_title": "Five Graves to Cairo",
+                "title": "Cinco Covas No Egito",
+                "release_date": "1943-05-26",
+                "backdrop_path": "/Y1GoXaPO098QNz25Zv9W7Uvi91.jpg",
+                "poster_path": "/sZuSO4VcIzsGWuoQoM6oEyfp1HV.jpg",
+                "overview": "O Ex\u00e9rcito Brit\u00e2nico, retirando-se \u00e0 frente do vitorioso Rommel, deixa um \u00fanico sobrevivente na fronteira eg\u00edpcio que encontra ref\u00fagio em um remoto hotel no deserto. Ele \u00e9 ajudado pelo propriet\u00e1rio do hotel, apesar dos protestos da camareira francesa, com medo da chegada iminente de Rommel e os alem\u00e3es. Para sobreviver John assume a identidade do gar\u00e7om do hotel, recentemente falecido.",
+                "vote_average": 6.9,
+                "vote_count": 115
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Human Comedy",
+            "second_label": "Harry Stradling",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1944,
+            "tmdb": {
+                "id": 48993,
+                "original_title": "The Human Comedy",
+                "title": "A Com\u00e9dia Humana",
+                "release_date": "1943-03-02",
+                "backdrop_path": "/rwloZ4Z2aX7hJiitjkPOgv7xbrb.jpg",
+                "poster_path": "/mB0d8hGueJF4OxSf9oZgJAQUqre.jpg",
+                "overview": "Teenager Homer Macauley stays at home in the small town of Ithaca, California to support his family while his older brother Marcus prepares to go to war.",
+                "vote_average": 6.3,
+                "vote_count": 24
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Madame Curie",
+            "second_label": "Joseph Ruttenberg",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1944,
+            "tmdb": {
+                "id": 37631,
+                "original_title": "Madame Curie",
+                "title": "Madame Curie",
+                "release_date": "1943-12-16",
+                "backdrop_path": "/fGSYPxh8MG2HQMtUZ2pLimQbXRH.jpg",
+                "poster_path": "/nbOS7mlW8qsKG8uBTZLPg45RGRh.jpg",
+                "overview": "Poor physics student Marie is studying at the Sorbonne in 1890s Paris. One of the few women studying in her field, Marie encounters skepticism concerning her abilities, but is eventually offered a research placement in Pierre Curie's lab. The scientists soon fall in love and embark on a shared quest to extract, from a particular type of rock, a new chemical element they have named radium. However, their research puts them on the brink of professional failure.",
+                "vote_average": 7.2,
+                "vote_count": 35
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The North Star",
+            "second_label": "James Wong Howe",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1944,
+            "tmdb": {
+                "id": 48127,
+                "original_title": "The North Star",
+                "title": "The North Star",
+                "release_date": "1943-11-04",
+                "backdrop_path": "/wa4DU11AeIAUCGOuXV9RbpSckIU.jpg",
+                "poster_path": "/zENGbNnvBLJNOHxRYpQBoSiX3Ku.jpg",
+                "overview": "A Ukrainian village must suddenly contend with the Nazi invasion of June 1941.  Later re-edited and released as \"Armored Attack.\"",
+                "vote_average": 6.3,
+                "vote_count": 22
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sahara",
+            "second_label": "Sahara",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1944,
+            "tmdb": {
+                "id": 18783,
+                "original_title": "Sahara",
+                "title": "Sahara: Em Busca da Sobreviv\u00eancia",
+                "release_date": "1943-09-22",
+                "backdrop_path": "/e3U2mnT9JPyruXEKi78TWmRN0I2.jpg",
+                "poster_path": "/roVIPqVLMdvs7uOcqDuwO891t8s.jpg",
+                "overview": "O sargento Joe Gunn e sua tripula\u00e7\u00e3o de tanque acolhem cinco soldados brit\u00e2nicos, um franc\u00eas e um sudan\u00eas com um prisioneiro italiano, e cruzam o deserto da L\u00edbia para voltar ao comando ap\u00f3s a queda de Tobruk. Tambul, o sudan\u00eas leva-os a uma fortaleza abandonada no deserto onde eles esperam encontrar \u00e1gua. Logo um destacamento de soldados alem\u00e3es chega e tenta barganhar comida por \u00e1gua, mas Gunn e sua turma recusam. Quando os alem\u00e3es atacam, Gunn leva seus homens cansados do deserto em uma batalha desesperada, esperando que os refor\u00e7os brit\u00e2nicos possam chegar a tempo.",
+                "vote_average": 7.2,
+                "vote_count": 122
+            },
+            "winner": false
+        },
+        {
+            "first_label": "So Proudly We Hail!",
+            "second_label": "Charles Lang",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1944,
+            "tmdb": {
+                "id": 150778,
+                "original_title": "So Proudly We Hail",
+                "title": "A Legi\u00e3o Branca",
+                "release_date": "1943-09-09",
+                "backdrop_path": "/lrMaqHSDAoKh1tAgNTw8sIccxLa.jpg",
+                "poster_path": "/1HELEee7lRd1ul37F4tQCRbGOiX.jpg",
+                "overview": "During the start of the Pacific campaign in World War II, Lieutenant Janet Davidson is the head of a group of U.S. military nurses who are trapped behind enemy lines in the Philippines. Davidson tries to keep up the spirits of her staff, which includes Lieutenants Joan O'Doul and Olivia D'Arcy. They all seek to maintain a sense of normal life, including dating, while under constant danger as they tend to wounded soldiers.",
+                "vote_average": 5.5,
+                "vote_count": 21
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography (Color)": [
+        {
+            "first_label": "Phantom of the Opera",
+            "second_label": "Hal Mohr, W. Howard Greene",
+            "category": "Cinematography (Color)",
+            "year": 1944,
+            "tmdb": {
+                "id": 15855,
+                "original_title": "Phantom of the Opera",
+                "title": "O Fantasma da \u00d3pera",
+                "release_date": "1943-08-12",
+                "backdrop_path": "/d8yE2GKtplZXXzgJ9151hV9nArD.jpg",
+                "poster_path": "/2IPsMihA1JNUnZbYpHZ93avZdW7.jpg",
+                "overview": "Este imortal e espetacular conto de terror de Gaston Leroux \u00e9 estrelado por Claude Rains como o mascarado fantasma da \u00d3pera de Paris, um compositor enlouquecido que planeja fazer de uma linda jovem soprano (Susanna Foster) a estrela da companhia de \u00f3pera e saciar sua vingan\u00e7a contra os que roubaram sua m\u00fasica. Nelson Eddy, o her\u00f3ico bar\u00edtono, tenta obter o afeto da garota enguanto persegue os passos do monstro que come\u00e7a a matar aqueles que resiste a suas loucas exig\u00eancias.",
+                "vote_average": 6.2,
+                "vote_count": 184
+            },
+            "winner": true
+        },
+        {
+            "first_label": "For Whom the Bell Tolls",
+            "second_label": "Ray Rennahan",
+            "category": "Cinematography (Color)",
+            "year": 1944,
+            "tmdb": {
+                "id": 27854,
+                "original_title": "For Whom the Bell Tolls",
+                "title": "Por Quem os Sinos Dobram",
+                "release_date": "1943-07-12",
+                "backdrop_path": "/mVrjkPOgQA0qrIYlo9DlVdTiwQJ.jpg",
+                "poster_path": "/j5tBLqs599srb0lryNZIlAWfWWy.jpg",
+                "overview": "Guerra Civil Espanhola, anos 30. O idealista Robert Jordan (Gary Cooper) se engaja no conflito para defender os princ\u00edpios de liberdade e democracia. Numa miss\u00e3o de alt\u00edssimo risco, ele aguarda o melhor momento de explodir uma ponte de import\u00e2ncia vital para as tropas inimigas. Neste cen\u00e1rio de idealismos e tens\u00f5es quase insuport\u00e1veis, a m\u00edstica Pilar, l\u00edder das for\u00e7as da resist\u00eancia civil, encoraja a bela e jovem Maria (Ingrid Bergman) a ajudar Robert em sua miss\u00e3o. Durante uma noite debaixo das estrelas, o medo da morte e a possibilidade do amor caminham lado a lado, em pleno horror da guerra.",
+                "vote_average": 6.539,
+                "vote_count": 179
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Heaven Can Wait",
+            "second_label": "Edward Cronjager",
+            "category": "Cinematography (Color)",
+            "year": 1944,
+            "tmdb": {
+                "id": 18727,
+                "original_title": "Heaven Can Wait",
+                "title": "O Diabo Disse N\u00e3o",
+                "release_date": "1943-08-05",
+                "backdrop_path": "/aFC3WobznJXjq9UgZT8AC1innhe.jpg",
+                "poster_path": "/c0jKfLvvggNqvMDhOWxaBMGXkz7.jpg",
+                "overview": "Henry Van Cleve apresenta-se \u00e0s portas do inferno mas descobre que est\u00e1 sendo rigorosamente criticado em suas qualifica\u00e7\u00f5es para a entrada. Surpreso por existir qualquer d\u00favida sobre sua idoneidade, ele relata sua vida animada e as mulheres que ele conheceu, come\u00e7ando por sua m\u00e3e, mas, principalmente, concentrando-se em seus felizes, mas por vezes dif\u00edceis, 25 anos de casamento com Martha.",
+                "vote_average": 6.9,
+                "vote_count": 210
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hello, Frisco, Hello",
+            "second_label": "Charles G. Clarke, Allen Davey",
+            "category": "Cinematography (Color)",
+            "year": 1944,
+            "tmdb": {
+                "id": 31770,
+                "original_title": "Hello, Frisco, Hello",
+                "title": "Aquilo, Sim, Era Vida!",
+                "release_date": "1943-03-26",
+                "backdrop_path": "/m5zD9Bw7VS3jLCiVNTMG3Cd8TFk.jpg",
+                "poster_path": "/jHg4pd06QUq1iFoVaIEnOGUlhr3.jpg",
+                "overview": "O filme conta a hist\u00f3ria de um grupo de artistas da vaudeville de S\u00e3o Francisco, durante o per\u00edodo da explos\u00e3o entre o Panam\u00e1 e o Pac\u00edfico no ano de 1915, e quando Alexander Graham Bell fez sua primeira liga\u00e7\u00e3o transcontinental de Nova Iorque a S\u00e3o Francisco.",
+                "vote_average": 6.2,
+                "vote_count": 30
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lassie Come Home",
+            "second_label": "Leonard Smith",
+            "category": "Cinematography (Color)",
+            "year": 1944,
+            "tmdb": {
+                "id": 2202,
+                "original_title": "Lassie Come Home",
+                "title": "Lassie: A For\u00e7a do Cora\u00e7\u00e3o",
+                "release_date": "1943-12-01",
+                "backdrop_path": "/yzf3b8zFC2ol90eGL0VySETR94K.jpg",
+                "poster_path": "/t8PwuoH4Mo0lAa9cqmwnjK8PSWV.jpg",
+                "overview": "A cadela Lassie \u00e9 vendida por sua fam\u00edlia, que est\u00e1 com s\u00e9rios problemas financeiros. N\u00e3o satisfeita, Lassie viaja 1.000 milhas para retornar \u00e0 casa de seus verdadeiros donos. Baseado no romance de Eric Knight.",
+                "vote_average": 6.7,
+                "vote_count": 121
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Thousands Cheer",
+            "second_label": "George Folsey",
+            "category": "Cinematography (Color)",
+            "year": 1944,
+            "tmdb": {
+                "id": 43518,
+                "original_title": "Thousands Cheer",
+                "title": "A Filha do Comandante",
+                "release_date": "1943-09-13",
+                "backdrop_path": "/69Ha8P7zR7iFbyXhsUoLrrnTaZA.jpg",
+                "poster_path": "/7YFjle5GLmpU7xajOVH25TH8ljU.jpg",
+                "overview": "Acrobat Eddie Marsh is in the army now. His first act is to become friendly with Kathryn Jones, the colonel's pretty daughter. Their romance hits a few snags, including disapproval from her father. Eddie's also plagued by fear of having an accident during his family's trapeze act in the army variety show, which also features a gallery of MGM stars.",
+                "vote_average": 6.4,
+                "vote_count": 17
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "Casablanca",
+            "second_label": "Michael Curtiz",
+            "category": "Directing",
+            "year": 1944,
+            "tmdb": {
+                "id": 289,
+                "original_title": "Casablanca",
+                "title": "Casablanca",
+                "release_date": "1943-01-15",
+                "backdrop_path": "/87wqeMeUeMRLjsE1IWNKJcPlpuC.jpg",
+                "poster_path": "/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
+                "overview": "Durante a Segunda Guerra Mundial, muitos fugitivos tentavam escapar dos nazistas por uma rota que passava pela cidade de Casablanca. O exilado americano Rick Blaine encontrou ref\u00fagio na cidade, dirigindo uma das principais casas noturnas da regi\u00e3o. Clandestinamente, tentando despistar o Capit\u00e3o Renault, ele ajuda refugiados, possibilitando que eles fujam para os Estados Unidos. Quando um casal pede sua ajuda para deixar o pa\u00eds, ele reencontra uma grande paix\u00e3o do passado, a bela Ilsa. Este amor vai encontrar uma nova vida e eles v\u00e3o lutar para fugir juntos.",
+                "vote_average": 8.2,
+                "vote_count": 5149
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Heaven Can Wait",
+            "second_label": "Ernst Lubitsch",
+            "category": "Directing",
+            "year": 1944,
+            "tmdb": {
+                "id": 18727,
+                "original_title": "Heaven Can Wait",
+                "title": "O Diabo Disse N\u00e3o",
+                "release_date": "1943-08-05",
+                "backdrop_path": "/aFC3WobznJXjq9UgZT8AC1innhe.jpg",
+                "poster_path": "/c0jKfLvvggNqvMDhOWxaBMGXkz7.jpg",
+                "overview": "Henry Van Cleve apresenta-se \u00e0s portas do inferno mas descobre que est\u00e1 sendo rigorosamente criticado em suas qualifica\u00e7\u00f5es para a entrada. Surpreso por existir qualquer d\u00favida sobre sua idoneidade, ele relata sua vida animada e as mulheres que ele conheceu, come\u00e7ando por sua m\u00e3e, mas, principalmente, concentrando-se em seus felizes, mas por vezes dif\u00edceis, 25 anos de casamento com Martha.",
+                "vote_average": 6.9,
+                "vote_count": 210
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Human Comedy",
+            "second_label": "Clarence Brown",
+            "category": "Directing",
+            "year": 1944,
+            "tmdb": {
+                "id": 48993,
+                "original_title": "The Human Comedy",
+                "title": "A Com\u00e9dia Humana",
+                "release_date": "1943-03-02",
+                "backdrop_path": "/rwloZ4Z2aX7hJiitjkPOgv7xbrb.jpg",
+                "poster_path": "/mB0d8hGueJF4OxSf9oZgJAQUqre.jpg",
+                "overview": "Teenager Homer Macauley stays at home in the small town of Ithaca, California to support his family while his older brother Marcus prepares to go to war.",
+                "vote_average": 6.3,
+                "vote_count": 24
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The More the Merrier",
+            "second_label": "George Stevens",
+            "category": "Directing",
+            "year": 1944,
+            "tmdb": {
+                "id": 80616,
+                "original_title": "The More the Merrier",
+                "title": "Quanto Mais, Melhor",
+                "release_date": "1943-05-13",
+                "backdrop_path": "/hzrlJClyJLv1RZTRPEP6sFDFB90.jpg",
+                "poster_path": "/hkwpXQh3rNJWooaFXwZ0tVxmqF2.jpg",
+                "overview": "Washington. Durante a 2\u00aa Guerra Mundial uma jovem, Connie Milligan, aluga metade da sua casa para Benjamin Dingle, um am\u00e1vel senhor. Ele por sua vez aluga metade da sua parte para Joe Carter, um sargento da for\u00e7a a\u00e9rea. Esta situa\u00e7\u00e3o resulta em um inocente m\u00e9nage \u00e0 trois, na qual Benjamin banca o cupido.",
+                "vote_average": 6.9,
+                "vote_count": 74
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Song of Bernadette",
+            "second_label": "Henry King",
+            "category": "Directing",
+            "year": 1944,
+            "tmdb": {
+                "id": 43516,
+                "original_title": "The Song of Bernadette",
+                "title": "A Can\u00e7\u00e3o de Bernadette",
+                "release_date": "1943-12-21",
+                "backdrop_path": "/5gxdMOVSzWNVNSjDPzQGwP6xAed.jpg",
+                "poster_path": "/xtrt9i2LWF4V7tDedDNSnhKJP4c.jpg",
+                "overview": "Bernadette \u00e9 uma jovem camponesa que vive na Fran\u00e7a. Quando ela conta aos vizinhos que viu uma bela senhora no caminho para casa, todos assumem que se trata da Virgem Maria. Bernadette \u00e9 considerada louca por uns, e santa por outros.",
+                "vote_average": 7.0,
+                "vote_count": 107
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "Desert Victory",
+            "second_label": "British Ministry of Information",
+            "category": "Documentary (Feature)",
+            "year": 1944,
+            "tmdb": {
+                "id": 93335,
+                "original_title": "Desert Victory",
+                "title": "Vit\u00f3ria no Deserto",
+                "release_date": "1943-04-12",
+                "backdrop_path": null,
+                "poster_path": "/nJaxprZQvb5xpCDh1BsB4iMW0lx.jpg",
+                "overview": "A featureless land fit only for war, as the narrator, J. L. Hodson stated in the early scenes: \"If war was to be fought then let it begin here\". In endless miles of rock-strewn scrub desert, where civilians hardly existed. Desert Victory tells the story of the Allied campaign to drive Germany and Italy from North Africa is analysed, with the major portion of the film examining the battles at El Alamein, including some re-enactment. Won \"Best Documentary Feature\" at the 16th Academy Awards in 1944.",
+                "vote_average": 5.8,
+                "vote_count": 6
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Baptism of Fire",
+            "second_label": "United States Army",
+            "category": "Documentary (Feature)",
+            "year": 1944,
+            "tmdb": {
+                "id": 93336,
+                "original_title": "Baptism of Fire",
+                "title": "Baptism of Fire",
+                "release_date": "1943-12-01",
+                "backdrop_path": null,
+                "poster_path": "/eWUR8S4VVZMWBpscJ3v0hKLU6Aq.jpg",
+                "overview": "Baptism of Fire is a 1943 American documentary, meant to be an  Army training film starring Elisha Cook Jr. It was nominated for an Academy Award for Best Documentary Feature.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Battle of Russia",
+            "second_label": "United States Department of War Special Service Division",
+            "category": "Documentary (Feature)",
+            "year": 1944,
+            "tmdb": {
+                "id": 112912,
+                "original_title": "Why We Fight: The Battle of Russia",
+                "title": "Batalha da R\u00fassia",
+                "release_date": "1943-11-13",
+                "backdrop_path": "/texw0dgm5uwDwh2O35rGNZas8y5.jpg",
+                "poster_path": "/l22lkDcxTlwnAvmccRhrspixhN.jpg",
+                "overview": "\"A Batalha da R\u00fassia\". Um document\u00e1rio realizado com imagens exclusivas, filmadas pelos soldados ou capturadas do inimigo. \u00c9 a hist\u00f3ria da resist\u00eancia do povo sovi\u00e9tico diante dos temidos nazistas. Em 22 de junho de 1941 a Alemanha invade a antiga URSS. O Ex\u00e9rcito de Hitler acredita em uma batalha r\u00e1pida, em poucos meses. Acreditavam poder aniquiliar as principais for\u00e7as do ex\u00e9rcito sovi\u00e9tico e ocupar a parte europ\u00e9ia do territ\u00f3rio com o objetivo de destruir o Estado Socialista e se apoderar de suas riquezas antes do in\u00edcio do tem\u00edvel inversno sovi\u00e9tico. Subestimavam a capacidade de resist\u00eancia sovi\u00e9tica, do Ex\u00e9rcito Vermelho e da lideran\u00e7a do Partido Comunista comandado pelo secret\u00e1rio-geral, Josef Stalin. Em Hist\u00f3ria das Guerras voc\u00ea ter\u00e1 a oportunidade de ver o quanto o ex\u00e9rcito Nazista estava profundamente enganado.",
+                "vote_average": 6.7,
+                "vote_count": 30
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Report from the Aleutians",
+            "second_label": "United States Army Pictorial Service",
+            "category": "Documentary (Feature)",
+            "year": 1944,
+            "tmdb": {
+                "id": 23388,
+                "original_title": "Report from the Aleutians",
+                "title": "Report from the Aleutians",
+                "release_date": "1943-07-30",
+                "backdrop_path": "/kD5PhOGsKZXnQIT7NF9GN8D1J3j.jpg",
+                "poster_path": "/8IwmIbM1fXZANujMEDMwf8h3iL.jpg",
+                "overview": "A documentary propaganda film produced by the U.S. Army Signal Corps about the Aleutian Islands Campaign during World War II. The film opens with a map showing the strategic importance of the island, and the thrust of the 1942 Japanese offensive into Midway and Dutch Harbor. Nominated for the Academy Award for Best Documentary Feature.",
+                "vote_average": 5.7,
+                "vote_count": 16
+            },
+            "winner": false
+        },
+        {
+            "first_label": "War Department Report",
+            "second_label": "United States Office of Strategic Services Field Photographic Bureau",
+            "category": "Documentary (Feature)",
+            "year": 1944,
+            "tmdb": {
+                "id": 112918,
+                "original_title": "War Department Report",
+                "title": "War Department Report",
+                "release_date": "1943-12-07",
+                "backdrop_path": null,
+                "poster_path": "/q4MPxjXxz8cq9yrkREmIk1FoJKM.jpg",
+                "overview": "WWII propaganda film.",
+                "vote_average": 5.5,
+                "vote_count": 2
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "December 7th",
+            "second_label": "United States Navy",
+            "category": "Documentary (Short Subject)",
+            "year": 1944,
+            "tmdb": {
+                "id": 100605,
+                "original_title": "December 7th",
+                "title": "O Ataque a Pearl Harbor",
+                "release_date": "1943-03-01",
+                "backdrop_path": "/t1Zep7jOsDQKUV0i2JJqmNg7p8a.jpg",
+                "poster_path": "/vrfkeXuHyogHMTUIZ4srU3680is.jpg",
+                "overview": "\"Docudrama\" about the bombing of Pearl Harbor on December 7th, 1941 and its results, the recovering of the ships, the improving of defense in Hawaii and the US efforts to beat back the Japanese reinforcements.",
+                "vote_average": 5.7,
+                "vote_count": 23
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Children of Mars",
+            "second_label": "RKO Radio",
+            "category": "Documentary (Short Subject)",
+            "year": 1944,
+            "tmdb": {
+                "id": 240363,
+                "original_title": "Children of Mars",
+                "title": "Children of Mars",
+                "release_date": "1943-01-01",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "1943 film Oscar nominated in the category Best Documentary, Short Subject",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Plan for Destruction",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Documentary (Short Subject)",
+            "year": 1944,
+            "tmdb": {
+                "id": 100823,
+                "original_title": "Plan for Destruction",
+                "title": "Plan for Destruction",
+                "release_date": "1943-04-22",
+                "backdrop_path": null,
+                "poster_path": "/27ELQSlfUHCU4YJQESXYfpyhe5F.jpg",
+                "overview": "Plan for Destruction is a 1943 American short propaganda film directed by Edward Cahn. It looks at the Geopolitik ideas of the ex-World War I professor, General Karl Haushofer, who is portrayed as the head of a huge organization for gathering information of strategic value and the mastermind behind Adolf Hitler's wars and plans to enslave the world. The film was nominated for an Academy Award for Best Documentary Short.",
+                "vote_average": 5.8,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Swedes in America",
+            "second_label": "United States Office of War Information Overseas Motion Picture Bureau",
+            "category": "Documentary (Short Subject)",
+            "year": 1944,
+            "tmdb": {
+                "id": 240364,
+                "original_title": "Swedes in America",
+                "title": "Swedes in America",
+                "release_date": "1943-11-08",
+                "backdrop_path": null,
+                "poster_path": "/jW5i6SQspbiwXutfPCvgSzK1kuH.jpg",
+                "overview": "1943 documentary with Ingrid Bergman.",
+                "vote_average": 5.5,
+                "vote_count": 8
+            },
+            "winner": false
+        },
+        {
+            "first_label": "To the People of the United States",
+            "second_label": "Walter Wanger, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1944,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tomorrow We Fly",
+            "second_label": "United States Navy Bureau of Aeronautics",
+            "category": "Documentary (Short Subject)",
+            "year": 1944,
+            "tmdb": {
+                "id": 240366,
+                "original_title": "Tomorrow We Fly",
+                "title": "Tomorrow We Fly",
+                "release_date": "1943-01-01",
+                "backdrop_path": null,
+                "poster_path": "/1TQ3OnDK3kA6qaJbTTNpGG1wHgP.jpg",
+                "overview": "1943 Oscar nominated film in the category Best Documentary, Short Subject.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Youth in Crisis",
+            "second_label": "The March of Time",
+            "category": "Documentary (Short Subject)",
+            "year": 1944,
+            "tmdb": {
+                "id": 240367,
+                "original_title": "Youth in Crisis",
+                "title": "Youth in Crisis",
+                "release_date": "1943-11-05",
+                "backdrop_path": null,
+                "poster_path": "/AiJd2nis4WY4yXhYHK4RslSBY5h.jpg",
+                "overview": "There is a vast increase of youth crime, doubling in the two years since the US entered World War II. With fathers off to war, women are working in the factories leaving children at home for the day or after school, unsupervised and free to get into trouble. Young men and women, some working and making an adult wage, now feel that they have the right to act and do as adults. Others are trying their hands at new thrills, such as smoking marijuana. Young women are getting into trouble by getting involved with the many servicemen that they are attracted to. This film shows how these kinds of subversive thoughts that lead to juvenile delinquency can be broken by having youths selling war bonds and organizing 4-H clubs, among other activities.",
+                "vote_average": 5.0,
+                "vote_count": 4
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "Air Force",
+            "second_label": "George Amy",
+            "category": "Film Editing",
+            "year": 1944,
+            "tmdb": {
+                "id": 15807,
+                "original_title": "Air Force",
+                "title": "\u00c1guias Americanas",
+                "release_date": "1943-03-20",
+                "backdrop_path": "/7L6SrvZgbTdNdj0lUA9L6C1mjuY.jpg",
+                "poster_path": "/mqH4V49GvANYsu1q4SW4CFUTFZe.jpg",
+                "overview": "A tripula\u00e7\u00e3o de um bombardeiro da For\u00e7a A\u00e9rea chega em Pearl Harbor no rescaldo do ataque japon\u00eas e \u00e9 enviado para Manila para ajudar com a defesa das Filipinas.  Em 6 de dezembro de 1941, nove bombardeiros B-17 partiram em um voo de San Francisco para o Hava\u00ed. Um dos bombardeiros, o Mary Ann, \u00e9 comandado pelo \"Irland\u00eas\" Quincannon. O bombardeiro, Tommy McMartin, tem uma irm\u00e3 vivendo no Hava\u00ed e o copiloto, Bill Williams, est\u00e1 apaixonado por ela. Os homens s\u00e3o todos altamente profissionais, com exce\u00e7\u00e3o do artilheiro Joe Winocki, um homem amargo que tem toda a inten\u00e7\u00e3o de deixar a For\u00e7a A\u00e9rea do ex\u00e9rcito. Eles chegam ao Campo Hickam na manh\u00e3 de 7 de dezembro, na mesma hora que os japoneses est\u00e3o atacando Pearl Harbor e outras instala\u00e7\u00f5es militares. Todos os homens se preparam para enfrentar o inimigo, inclusive Winocki cuja atitude muda rapidamente. O bombardeiro e sua tripula\u00e7\u00e3o participar\u00e3o de muitas miss\u00f5es, mas nem todos sobreviver\u00e3o.",
+                "vote_average": 6.3,
+                "vote_count": 53
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Casablanca",
+            "second_label": "Owen Marks",
+            "category": "Film Editing",
+            "year": 1944,
+            "tmdb": {
+                "id": 289,
+                "original_title": "Casablanca",
+                "title": "Casablanca",
+                "release_date": "1943-01-15",
+                "backdrop_path": "/87wqeMeUeMRLjsE1IWNKJcPlpuC.jpg",
+                "poster_path": "/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
+                "overview": "Durante a Segunda Guerra Mundial, muitos fugitivos tentavam escapar dos nazistas por uma rota que passava pela cidade de Casablanca. O exilado americano Rick Blaine encontrou ref\u00fagio na cidade, dirigindo uma das principais casas noturnas da regi\u00e3o. Clandestinamente, tentando despistar o Capit\u00e3o Renault, ele ajuda refugiados, possibilitando que eles fujam para os Estados Unidos. Quando um casal pede sua ajuda para deixar o pa\u00eds, ele reencontra uma grande paix\u00e3o do passado, a bela Ilsa. Este amor vai encontrar uma nova vida e eles v\u00e3o lutar para fugir juntos.",
+                "vote_average": 8.2,
+                "vote_count": 5149
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Five Graves to Cairo",
+            "second_label": "Doane Harrison",
+            "category": "Film Editing",
+            "year": 1944,
+            "tmdb": {
+                "id": 60216,
+                "original_title": "Five Graves to Cairo",
+                "title": "Cinco Covas No Egito",
+                "release_date": "1943-05-26",
+                "backdrop_path": "/Y1GoXaPO098QNz25Zv9W7Uvi91.jpg",
+                "poster_path": "/sZuSO4VcIzsGWuoQoM6oEyfp1HV.jpg",
+                "overview": "O Ex\u00e9rcito Brit\u00e2nico, retirando-se \u00e0 frente do vitorioso Rommel, deixa um \u00fanico sobrevivente na fronteira eg\u00edpcio que encontra ref\u00fagio em um remoto hotel no deserto. Ele \u00e9 ajudado pelo propriet\u00e1rio do hotel, apesar dos protestos da camareira francesa, com medo da chegada iminente de Rommel e os alem\u00e3es. Para sobreviver John assume a identidade do gar\u00e7om do hotel, recentemente falecido.",
+                "vote_average": 6.9,
+                "vote_count": 115
+            },
+            "winner": false
+        },
+        {
+            "first_label": "For Whom the Bell Tolls",
+            "second_label": "Sherman Todd, John Link",
+            "category": "Film Editing",
+            "year": 1944,
+            "tmdb": {
+                "id": 27854,
+                "original_title": "For Whom the Bell Tolls",
+                "title": "Por Quem os Sinos Dobram",
+                "release_date": "1943-07-12",
+                "backdrop_path": "/mVrjkPOgQA0qrIYlo9DlVdTiwQJ.jpg",
+                "poster_path": "/j5tBLqs599srb0lryNZIlAWfWWy.jpg",
+                "overview": "Guerra Civil Espanhola, anos 30. O idealista Robert Jordan (Gary Cooper) se engaja no conflito para defender os princ\u00edpios de liberdade e democracia. Numa miss\u00e3o de alt\u00edssimo risco, ele aguarda o melhor momento de explodir uma ponte de import\u00e2ncia vital para as tropas inimigas. Neste cen\u00e1rio de idealismos e tens\u00f5es quase insuport\u00e1veis, a m\u00edstica Pilar, l\u00edder das for\u00e7as da resist\u00eancia civil, encoraja a bela e jovem Maria (Ingrid Bergman) a ajudar Robert em sua miss\u00e3o. Durante uma noite debaixo das estrelas, o medo da morte e a possibilidade do amor caminham lado a lado, em pleno horror da guerra.",
+                "vote_average": 6.539,
+                "vote_count": 179
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Song of Bernadette",
+            "second_label": "Barbara McLean",
+            "category": "Film Editing",
+            "year": 1944,
+            "tmdb": {
+                "id": 43516,
+                "original_title": "The Song of Bernadette",
+                "title": "A Can\u00e7\u00e3o de Bernadette",
+                "release_date": "1943-12-21",
+                "backdrop_path": "/5gxdMOVSzWNVNSjDPzQGwP6xAed.jpg",
+                "poster_path": "/xtrt9i2LWF4V7tDedDNSnhKJP4c.jpg",
+                "overview": "Bernadette \u00e9 uma jovem camponesa que vive na Fran\u00e7a. Quando ela conta aos vizinhos que viu uma bela senhora no caminho para casa, todos assumem que se trata da Virgem Maria. Bernadette \u00e9 considerada louca por uns, e santa por outros.",
+                "vote_average": 7.0,
+                "vote_count": 107
+            },
+            "winner": false
+        }
+    ],
+    "Irving G. Thalberg Memorial Award": [
+        {
+            "first_label": "",
+            "second_label": "Hal B. Wallis",
+            "category": "Irving G. Thalberg Memorial Award",
+            "year": 1944,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        }
+    ],
+    "Music (Music Score of a Dramatic or Comedy Picture)": [
+        {
+            "first_label": "The Song of Bernadette",
+            "second_label": "Alfred Newman",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1944,
+            "tmdb": {
+                "id": 43516,
+                "original_title": "The Song of Bernadette",
+                "title": "A Can\u00e7\u00e3o de Bernadette",
+                "release_date": "1943-12-21",
+                "backdrop_path": "/5gxdMOVSzWNVNSjDPzQGwP6xAed.jpg",
+                "poster_path": "/xtrt9i2LWF4V7tDedDNSnhKJP4c.jpg",
+                "overview": "Bernadette \u00e9 uma jovem camponesa que vive na Fran\u00e7a. Quando ela conta aos vizinhos que viu uma bela senhora no caminho para casa, todos assumem que se trata da Virgem Maria. Bernadette \u00e9 considerada louca por uns, e santa por outros.",
+                "vote_average": 7.0,
+                "vote_count": 107
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Amazing Mrs. Holliday",
+            "second_label": "Frank Skinner, Hans J. Salter",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1944,
+            "tmdb": {
+                "id": 45216,
+                "original_title": "The Amazing Mrs. Holliday",
+                "title": "Sempre Tua",
+                "release_date": "1943-02-19",
+                "backdrop_path": "/efx8xr7KcGZybnaI7p2CtZ8ULTV.jpg",
+                "poster_path": "/2Zu6V1RLNOwngY7TtrcrF7NqTLb.jpg",
+                "overview": "A missionary tries to outwit the U.S. government and smuggle Chinese orphans into the country.",
+                "vote_average": 6.4,
+                "vote_count": 7
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Casablanca",
+            "second_label": "Max Steiner",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1944,
+            "tmdb": {
+                "id": 289,
+                "original_title": "Casablanca",
+                "title": "Casablanca",
+                "release_date": "1943-01-15",
+                "backdrop_path": "/87wqeMeUeMRLjsE1IWNKJcPlpuC.jpg",
+                "poster_path": "/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
+                "overview": "Durante a Segunda Guerra Mundial, muitos fugitivos tentavam escapar dos nazistas por uma rota que passava pela cidade de Casablanca. O exilado americano Rick Blaine encontrou ref\u00fagio na cidade, dirigindo uma das principais casas noturnas da regi\u00e3o. Clandestinamente, tentando despistar o Capit\u00e3o Renault, ele ajuda refugiados, possibilitando que eles fujam para os Estados Unidos. Quando um casal pede sua ajuda para deixar o pa\u00eds, ele reencontra uma grande paix\u00e3o do passado, a bela Ilsa. Este amor vai encontrar uma nova vida e eles v\u00e3o lutar para fugir juntos.",
+                "vote_average": 8.2,
+                "vote_count": 5149
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Commandos Strike at Dawn",
+            "second_label": "Morris Stoloff, Louis Gruenberg",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1944,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Fallen Sparrow",
+            "second_label": "Roy Webb, C. Bakaleinikoff",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1944,
+            "tmdb": {
+                "id": 26533,
+                "original_title": "The Fallen Sparrow",
+                "title": "Beijo da Trai\u00e7\u00e3o",
+                "release_date": "1943-08-19",
+                "backdrop_path": "/t2PauqiXhhI0H1cdzeC79DQtdfJ.jpg",
+                "poster_path": "/5OhbU7Mfr9gsewp1BtW36tWCcj3.jpg",
+                "overview": "Imprisoned during the Spanish Civil War, John \"Kit\" McKittrick is released when a New York City policeman pulls some strings. Upon returning to America, McKittrick hears that a friend has committed suicide, and he begins to smell a rat. During his investigation, McKittrick questions three beautiful women, one of whom has a tie to his refugee past. Pursued by Nazi operatives, McKittrick learns of the death of another friend, and begins to suspect the dark Dr. Skaas.",
+                "vote_average": 5.7,
+                "vote_count": 20
+            },
+            "winner": false
+        },
+        {
+            "first_label": "For Whom the Bell Tolls",
+            "second_label": "Victor Young",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1944,
+            "tmdb": {
+                "id": 27854,
+                "original_title": "For Whom the Bell Tolls",
+                "title": "Por Quem os Sinos Dobram",
+                "release_date": "1943-07-12",
+                "backdrop_path": "/mVrjkPOgQA0qrIYlo9DlVdTiwQJ.jpg",
+                "poster_path": "/j5tBLqs599srb0lryNZIlAWfWWy.jpg",
+                "overview": "Guerra Civil Espanhola, anos 30. O idealista Robert Jordan (Gary Cooper) se engaja no conflito para defender os princ\u00edpios de liberdade e democracia. Numa miss\u00e3o de alt\u00edssimo risco, ele aguarda o melhor momento de explodir uma ponte de import\u00e2ncia vital para as tropas inimigas. Neste cen\u00e1rio de idealismos e tens\u00f5es quase insuport\u00e1veis, a m\u00edstica Pilar, l\u00edder das for\u00e7as da resist\u00eancia civil, encoraja a bela e jovem Maria (Ingrid Bergman) a ajudar Robert em sua miss\u00e3o. Durante uma noite debaixo das estrelas, o medo da morte e a possibilidade do amor caminham lado a lado, em pleno horror da guerra.",
+                "vote_average": 6.539,
+                "vote_count": 179
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hangmen Also Die",
+            "second_label": "Hanns Eisler",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1944,
+            "tmdb": {
+                "id": 22178,
+                "original_title": "Hangmen Also Die!",
+                "title": "Os Carrascos Tamb\u00e9m Morrem",
+                "release_date": "1943-04-15",
+                "backdrop_path": "/7rL5tbuSmtpKeLAKcBTqQwmXAGj.jpg",
+                "poster_path": "/d9J86BpP7NLreJJ9VCbr1SDMRii.jpg",
+                "overview": "Durante a ocupa\u00e7\u00e3o nazista da Checoslov\u00e1quia, o cirurgi\u00e3o Dr. Franticek Svoboda, um patriota checo, assassina o brutal \"Carrasco da Europa\", o Reichsprotektor Reinhard Heydrich e \u00e9 ferido no processo. Na tentativa de escapar, ele \u00e9 ajudado pelo professor de hist\u00f3ria Stephen Novotny e sua filha Mascha. Vers\u00e3o totalmente ficcional do epis\u00f3dio. Foi o \u00fanico projeto Hollywoodiano bem sucedido de Bertolt Brecht; o dinheiro que recebeu permitiu escrever \"As vis\u00f5es de Simone Marchand\", \"Schwyk na Segunda Guerra Mundial\" e a adapta\u00e7\u00e3o da \"Duquesa de Malfi\" de Webster. Hanns Eisler ganhou um Oscar por sua partitura musical. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.9,
+                "vote_count": 111
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hi Diddle Diddle",
+            "second_label": "Phil Boutelje",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1944,
+            "tmdb": {
+                "id": 90799,
+                "original_title": "Hi Diddle Diddle",
+                "title": "Hi Diddle Diddle",
+                "release_date": "1943-08-02",
+                "backdrop_path": "/gAOeYhO0m1jMu7vC8CY6dSspw9D.jpg",
+                "poster_path": "/6ZKJotSaxIdClD1ekmfXUjVmzn5.jpg",
+                "overview": "When the bride's mother is supposedly swindled out of her money by a spurned suitor, the groom's father orchestrates a scheme of his own to set things right. He is aided by a cabaret singer, while placating a jealous wife.",
+                "vote_average": 6.9,
+                "vote_count": 10
+            },
+            "winner": false
+        },
+        {
+            "first_label": "In Old Oklahoma",
+            "second_label": "Walter Scharf",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1944,
+            "tmdb": {
+                "id": 40719,
+                "original_title": "In Old Oklahoma",
+                "title": "Quando a Mulher Se Atreve",
+                "release_date": "1943-12-06",
+                "backdrop_path": "/jS8ADXQOTmca4jnCh0hPzNj9EBX.jpg",
+                "poster_path": "/ii1jD3kitpvOY0iUwckHAwWtY7Y.jpg",
+                "overview": "O cowboy Dan Somers e o magnata do petr\u00f3leo Jim Hunk Gardner disputam os direitos de arrendamento de petr\u00f3leo em terra ind\u00edgena, bem como o amor de uma professora.",
+                "vote_average": 6.5,
+                "vote_count": 33
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Johnny Come Lately",
+            "second_label": "Leigh Harline",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1944,
+            "tmdb": {
+                "id": 114186,
+                "original_title": "Johnny Come Lately",
+                "title": "Johnny Come Lately",
+                "release_date": "1943-09-03",
+                "backdrop_path": "/5tKkN7Lejj4fnOTCcH0Lh5lr34E.jpg",
+                "poster_path": "/1Cso3GYcNt1zyXsFdA1jaFhWwjK.jpg",
+                "overview": "Cagney is a human dynamo as a drifter who helps save ailing Grace George from losing her newspaper. The pace is fast, and audiences of all ages will be pleased. The supporting cast, have all the small-town characterizations down pat -- with Margaret Hamilton a standout. Cagney himself, had genuine affection for this film, and listed it among his top five movie-making experiences at a retrospective the year before he died.",
+                "vote_average": 6.5,
+                "vote_count": 14
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Kansan",
+            "second_label": "Gerard Carbonara",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1944,
+            "tmdb": {
+                "id": 68094,
+                "original_title": "The Kansan",
+                "title": "The Kansan",
+                "release_date": "1943-09-10",
+                "backdrop_path": "/lprJXhdYqMhQA9BnL8rqAS6kzfY.jpg",
+                "poster_path": "/p0o0LV969cvqptwgsrjsAMWZx9d.jpg",
+                "overview": "Wounded while stopping the James gang from robbing the local bank, a cowboy wakes up in the hospital to find that he's been elected town marshal. He soon comes into conflict with the town banker, who controls everything in town and is squeezing the townspeople for every penny he can get out of them.",
+                "vote_average": 5.2,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lady of Burlesque",
+            "second_label": "Arthur Lange",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1944,
+            "tmdb": {
+                "id": 50001,
+                "original_title": "Lady of Burlesque",
+                "title": "A Morte Dirige o Espet\u00e1culo",
+                "release_date": "1943-05-01",
+                "backdrop_path": "/bK7fTYFqoM2GSGMfiJTUzsAnyuH.jpg",
+                "poster_path": "/bng9HQoCP4i62cKHK0E1EoqZu0X.jpg",
+                "overview": "After one member of their group is murdered, the performers at a burlesque house must work together to find out who the killer is before they strike again.",
+                "vote_average": 5.3,
+                "vote_count": 35
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Madame Curie",
+            "second_label": "Herbert Stothart",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1944,
+            "tmdb": {
+                "id": 37631,
+                "original_title": "Madame Curie",
+                "title": "Madame Curie",
+                "release_date": "1943-12-16",
+                "backdrop_path": "/fGSYPxh8MG2HQMtUZ2pLimQbXRH.jpg",
+                "poster_path": "/nbOS7mlW8qsKG8uBTZLPg45RGRh.jpg",
+                "overview": "Poor physics student Marie is studying at the Sorbonne in 1890s Paris. One of the few women studying in her field, Marie encounters skepticism concerning her abilities, but is eventually offered a research placement in Pierre Curie's lab. The scientists soon fall in love and embark on a shared quest to extract, from a particular type of rock, a new chemical element they have named radium. However, their research puts them on the brink of professional failure.",
+                "vote_average": 7.2,
+                "vote_count": 35
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Moon and Sixpence",
+            "second_label": "Dimitri Tiomkin",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1944,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The North Star",
+            "second_label": "Aaron Copland",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1944,
+            "tmdb": {
+                "id": 48127,
+                "original_title": "The North Star",
+                "title": "The North Star",
+                "release_date": "1943-11-04",
+                "backdrop_path": "/wa4DU11AeIAUCGOuXV9RbpSckIU.jpg",
+                "poster_path": "/zENGbNnvBLJNOHxRYpQBoSiX3Ku.jpg",
+                "overview": "A Ukrainian village must suddenly contend with the Nazi invasion of June 1941.  Later re-edited and released as \"Armored Attack.\"",
+                "vote_average": 6.3,
+                "vote_count": 22
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Victory through Air Power",
+            "second_label": "Edward H. Plumb, Paul J. Smith, Oliver G. Wallace",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1944,
+            "tmdb": {
+                "id": 22779,
+                "original_title": "Victory Through Air Power",
+                "title": "Victory Through Air Power",
+                "release_date": "1943-07-17",
+                "backdrop_path": "/e8xNmmkolNOc8FBKWha19Q6eL4u.jpg",
+                "poster_path": "/7uHtN8sAlVsSbTZOvhGV8iTEfGk.jpg",
+                "overview": "This is a unique film in Disney Production's history. This film is essentially a propaganda film selling Major Alexander de Seversky's theories about the practical uses of long range strategic bombing. Using a combination of animation humorously telling about the development of air warfare, the film switches to the Major illustrating his ideas could win the war for the allies.",
+                "vote_average": 5.6,
+                "vote_count": 39
+            },
+            "winner": false
+        }
+    ],
+    "Music (Scoring of a Musical Picture)": [
+        {
+            "first_label": "This Is the Army",
+            "second_label": "Ray Heindorf",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1944,
+            "tmdb": {
+                "id": 43517,
+                "original_title": "This Is the Army",
+                "title": "Forja de Her\u00f3is",
+                "release_date": "1943-08-14",
+                "backdrop_path": "/p9vb0XpMVPZEJoJxmoh9G2vi2Ni.jpg",
+                "poster_path": "/2zBY2WMlhQDd1t24RHvEBz055qT.jpg",
+                "overview": "In WW I dancer Jerry Jones stages an all-soldier show on Broadway, called Yip Yip Yaphank. Wounded in the War, he becomes a producer. In WW II his son Johnny Jones, who was before his fathers assistant, gets the order to stage a knew all-soldier show, called THIS IS THE ARMY. But in his pesonal life he has problems, because he refuses to marry his fianc\u00e9e until the war is over.",
+                "vote_average": 5.7,
+                "vote_count": 19
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Coney Island",
+            "second_label": "Alfred Newman",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1944,
+            "tmdb": {
+                "id": 69204,
+                "original_title": "Coney Island",
+                "title": "Turbilh\u00e3o",
+                "release_date": "1943-06-18",
+                "backdrop_path": "/fxh0kBgazJsG8NXP9ddVf8LZjlM.jpg",
+                "poster_path": "/4AnCF6htFM5DmUDbnEn9GDUpxod.jpg",
+                "overview": "Set at the turn of the century, smooth talking con man Eddie Johnson weasels his way into a job at friend and rival Joe Rocco's Coney Island night spot. Eddie meets the club's star attraction (and Joe's love interest), Kate Farley, a brash singer with a penchant for flashy clothes. Eddie and Kate argue as he tries to soften her image. Eventually, Kate becomes the toast of Coney Island and the two fall in love. Joe then tries to sabotage their marriage plans.",
+                "vote_average": 5.3,
+                "vote_count": 6
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hit Parade of 1943",
+            "second_label": "Walter Scharf",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1944,
+            "tmdb": {
+                "id": 112492,
+                "original_title": "Hit Parade of 1943",
+                "title": "Hit Parade of 1943",
+                "release_date": "1943-03-26",
+                "backdrop_path": "/bIbUQUJG80rwvNBnvv40jEyMQQa.jpg",
+                "poster_path": "/sML9sHatQesOqlc0z3JmMf0y33j.jpg",
+                "overview": "When amateur songwriter Jill Wright moves from the Midwest to New York City, she is dismayed to discover that Rick Farrell, the owner of Miracle Publishing Co., has claimed as his own the song she submitted to his company. One of the many films made at Republic with a year attached to the \"Hit Parade\" title, which came from the \"Hit Parade\" radio program sponsored by Lucky Strike cigarettes.",
+                "vote_average": 4.8,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Phantom of the Opera",
+            "second_label": "Edward Ward",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1944,
+            "tmdb": {
+                "id": 15855,
+                "original_title": "Phantom of the Opera",
+                "title": "O Fantasma da \u00d3pera",
+                "release_date": "1943-08-12",
+                "backdrop_path": "/d8yE2GKtplZXXzgJ9151hV9nArD.jpg",
+                "poster_path": "/2IPsMihA1JNUnZbYpHZ93avZdW7.jpg",
+                "overview": "Este imortal e espetacular conto de terror de Gaston Leroux \u00e9 estrelado por Claude Rains como o mascarado fantasma da \u00d3pera de Paris, um compositor enlouquecido que planeja fazer de uma linda jovem soprano (Susanna Foster) a estrela da companhia de \u00f3pera e saciar sua vingan\u00e7a contra os que roubaram sua m\u00fasica. Nelson Eddy, o her\u00f3ico bar\u00edtono, tenta obter o afeto da garota enguanto persegue os passos do monstro que come\u00e7a a matar aqueles que resiste a suas loucas exig\u00eancias.",
+                "vote_average": 6.2,
+                "vote_count": 184
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Saludos Amigos",
+            "second_label": "Charles Wolcott, Edward H. Plumb, Paul J. Smith",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1944,
+            "tmdb": {
+                "id": 14906,
+                "original_title": "Saludos Amigos",
+                "title": "Al\u00f4, Amigos",
+                "release_date": "1942-08-24",
+                "backdrop_path": "/epWLmnK6XYtlR8ICOKauGH546W2.jpg",
+                "poster_path": "/7QMwCSoy8Y0hIW4oljsJmOvnoiy.jpg",
+                "overview": "Apresentando personagens como Z\u00e9 Carioca, Pedro, um avi\u00e3o mirim do correio e os famosos Pato Donald e Pateta, em aventuras espetaculares! Pato Donald \u00e9 um turista americano que embarca em uma incr\u00edvel viagem pelos Andes! Pedro \u00e9 um avi\u00e3ozinho que voa pelo Chile e enfrenta uma terr\u00edvel tempestade, passando por maus bocados para atravessar o Monte Aconc\u00e1gua. Em Buenos Aires, Pateta aprende a usar o equipamento de montaria e dan\u00e7as t\u00edpicas argentinas. Recheado com coloridas cenas de Carnaval do Rio de Janeiro e m\u00fasicas como \"Aquarela do Brasil\", Pato Donald conhece os pontos tur\u00edsticos mais belos do Rio de Janeiro e de quebra ainda aprende a sambar.",
+                "vote_average": 5.8,
+                "vote_count": 421
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Sky's the Limit",
+            "second_label": "Leigh Harline",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1944,
+            "tmdb": {
+                "id": 43515,
+                "original_title": "The Sky's the Limit",
+                "title": "The Sky's the Limit",
+                "release_date": "1943-07-13",
+                "backdrop_path": "/wSdYIGrH67alXUp41KenYIS4QR5.jpg",
+                "poster_path": "/wU6EtdyRfHIRXHxLNW7SUnGYLjg.jpg",
+                "overview": "Flying Tiger Fred Atwell sneaks away from his famous squadron's personal appearance tour and goes incognito for several days of leave. He quickly falls for photographer Joan Manion, pursuing her in the guise of a carefree drifter.",
+                "vote_average": 6.1,
+                "vote_count": 19
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Something to Shout About",
+            "second_label": "Morris Stoloff",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1944,
+            "tmdb": {
+                "id": 120588,
+                "original_title": "Something to Shout About",
+                "title": "Canta Cora\u00e7\u00e3o",
+                "release_date": "1943-02-25",
+                "backdrop_path": "/6vphoApHzQ9TDyYHV9EEV87dSmv.jpg",
+                "poster_path": "/cNFiTCRji2ATvlG4Ls16eIRUABj.jpg",
+                "overview": "A press agent, a composer and a landlord of a theatrical boardinghouse revive vaudeville on Broadway.",
+                "vote_average": 5.8,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Stage Door Canteen",
+            "second_label": "Frederic E. Rich",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1944,
+            "tmdb": {
+                "id": 38726,
+                "original_title": "Stage Door Canteen",
+                "title": "Noivas do Tio Sam",
+                "release_date": "1943-06-24",
+                "backdrop_path": "/utUHP8oG2HfdKaJpFdFiqsPD2RX.jpg",
+                "poster_path": "/1pUUs6kVSXz1x06coXhX2qZYjWA.jpg",
+                "overview": "A young soldier on a pass in New York City visits the famed Stage Door Canteen, where famous stars of the theater and films appear and host a recreational center for servicemen during the war. The soldier meets a pretty young hostess and they enjoy the many entertainers and a growing romance",
+                "vote_average": 6.1,
+                "vote_count": 14
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Star Spangled Rhythm",
+            "second_label": "Robert Emmett Dolan",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1944,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Thousands Cheer",
+            "second_label": "Herbert Stothart",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1944,
+            "tmdb": {
+                "id": 43518,
+                "original_title": "Thousands Cheer",
+                "title": "A Filha do Comandante",
+                "release_date": "1943-09-13",
+                "backdrop_path": "/69Ha8P7zR7iFbyXhsUoLrrnTaZA.jpg",
+                "poster_path": "/7YFjle5GLmpU7xajOVH25TH8ljU.jpg",
+                "overview": "Acrobat Eddie Marsh is in the army now. His first act is to become friendly with Kathryn Jones, the colonel's pretty daughter. Their romance hits a few snags, including disapproval from her father. Eddie's also plagued by fear of having an accident during his family's trapeze act in the army variety show, which also features a gallery of MGM stars.",
+                "vote_average": 6.4,
+                "vote_count": 17
+            },
+            "winner": false
+        }
+    ],
+    "Music (Song)": [
+        {
+            "first_label": "Hello, Frisco, Hello",
+            "second_label": "You'll Never Know in \"Hello, Frisco, Hello\" Music by Harry Warren; Lyrics by Mack Gordon",
+            "category": "Music (Song)",
+            "year": 1944,
+            "tmdb": {
+                "id": 31770,
+                "original_title": "Hello, Frisco, Hello",
+                "title": "Aquilo, Sim, Era Vida!",
+                "release_date": "1943-03-26",
+                "backdrop_path": "/m5zD9Bw7VS3jLCiVNTMG3Cd8TFk.jpg",
+                "poster_path": "/jHg4pd06QUq1iFoVaIEnOGUlhr3.jpg",
+                "overview": "O filme conta a hist\u00f3ria de um grupo de artistas da vaudeville de S\u00e3o Francisco, durante o per\u00edodo da explos\u00e3o entre o Panam\u00e1 e o Pac\u00edfico no ano de 1915, e quando Alexander Graham Bell fez sua primeira liga\u00e7\u00e3o transcontinental de Nova Iorque a S\u00e3o Francisco.",
+                "vote_average": 6.2,
+                "vote_count": 30
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Hit Parade of 1943",
+            "second_label": "A Change Of Heart in \"Hit Parade of 1943\" Music by Jule Styne; Lyrics by Harold Adamson",
+            "category": "Music (Song)",
+            "year": 1944,
+            "tmdb": {
+                "id": 112492,
+                "original_title": "Hit Parade of 1943",
+                "title": "Hit Parade of 1943",
+                "release_date": "1943-03-26",
+                "backdrop_path": "/bIbUQUJG80rwvNBnvv40jEyMQQa.jpg",
+                "poster_path": "/sML9sHatQesOqlc0z3JmMf0y33j.jpg",
+                "overview": "When amateur songwriter Jill Wright moves from the Midwest to New York City, she is dismayed to discover that Rick Farrell, the owner of Miracle Publishing Co., has claimed as his own the song she submitted to his company. One of the many films made at Republic with a year attached to the \"Hit Parade\" title, which came from the \"Hit Parade\" radio program sponsored by Lucky Strike cigarettes.",
+                "vote_average": 4.8,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Cabin in the Sky",
+            "second_label": "Happiness Is A Thing Called Joe in \"Cabin in the Sky\" Music by Harold Arlen; Lyrics by E. Y. Harburg",
+            "category": "Music (Song)",
+            "year": 1944,
+            "tmdb": {
+                "id": 59964,
+                "original_title": "Cabin in the Sky",
+                "title": "Um Lugar No C\u00e9u",
+                "release_date": "1943-04-09",
+                "backdrop_path": "/uto1jAibvYI95DNgMVUBQukVBrP.jpg",
+                "poster_path": "/6MSTz2fS8P7ufuCXIHBFpjqW9tr.jpg",
+                "overview": "Little Joe \u00e9 um bom malandro, dividido entre o amor da sua esposa Pet\u00fania e o fasc\u00ednio de Georgia Brown, uma bonita rapariga de m\u00e1 vida... preso num duelo entre os enviados do Senhor e do Diabo. Como pode a virtude triunfar sobre o Mal?  Segundo Pet\u00fania: \u00ab\u00c1s vezes, quando se enfrenta o Diabo, temos que o espetar com a sua pr\u00f3pria forquilha\u00bb",
+                "vote_average": 6.3,
+                "vote_count": 37
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Sky's the Limit",
+            "second_label": "My Shining Hour in \"The Sky's the Limit\" Music by Harold Arlen; Lyrics by Johnny Mercer",
+            "category": "Music (Song)",
+            "year": 1944,
+            "tmdb": {
+                "id": 43515,
+                "original_title": "The Sky's the Limit",
+                "title": "The Sky's the Limit",
+                "release_date": "1943-07-13",
+                "backdrop_path": "/wSdYIGrH67alXUp41KenYIS4QR5.jpg",
+                "poster_path": "/wU6EtdyRfHIRXHxLNW7SUnGYLjg.jpg",
+                "overview": "Flying Tiger Fred Atwell sneaks away from his famous squadron's personal appearance tour and goes incognito for several days of leave. He quickly falls for photographer Joan Manion, pursuing her in the guise of a carefree drifter.",
+                "vote_average": 6.1,
+                "vote_count": 19
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Saludos Amigos",
+            "second_label": "Saludos Amigos in \"Saludos Amigos\" Music by Charles Wolcott; Lyrics by Ned Washington",
+            "category": "Music (Song)",
+            "year": 1944,
+            "tmdb": {
+                "id": 14906,
+                "original_title": "Saludos Amigos",
+                "title": "Al\u00f4, Amigos",
+                "release_date": "1942-08-24",
+                "backdrop_path": "/epWLmnK6XYtlR8ICOKauGH546W2.jpg",
+                "poster_path": "/7QMwCSoy8Y0hIW4oljsJmOvnoiy.jpg",
+                "overview": "Apresentando personagens como Z\u00e9 Carioca, Pedro, um avi\u00e3o mirim do correio e os famosos Pato Donald e Pateta, em aventuras espetaculares! Pato Donald \u00e9 um turista americano que embarca em uma incr\u00edvel viagem pelos Andes! Pedro \u00e9 um avi\u00e3ozinho que voa pelo Chile e enfrenta uma terr\u00edvel tempestade, passando por maus bocados para atravessar o Monte Aconc\u00e1gua. Em Buenos Aires, Pateta aprende a usar o equipamento de montaria e dan\u00e7as t\u00edpicas argentinas. Recheado com coloridas cenas de Carnaval do Rio de Janeiro e m\u00fasicas como \"Aquarela do Brasil\", Pato Donald conhece os pontos tur\u00edsticos mais belos do Rio de Janeiro e de quebra ainda aprende a sambar.",
+                "vote_average": 5.8,
+                "vote_count": 421
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hers to Hold",
+            "second_label": "Say A Pray'r For The Boys Over There in \"Hers to Hold\" Music by Jimmy McHugh; Lyrics by Herb Magidson",
+            "category": "Music (Song)",
+            "year": 1944,
+            "tmdb": {
+                "id": 218113,
+                "original_title": "Hers to Hold",
+                "title": "La\u00e7os Eternos",
+                "release_date": "1943-07-16",
+                "backdrop_path": "/4Ffzjf00ENSb3BRJTl15OaUG1WH.jpg",
+                "poster_path": "/4HxGeSnccLbhxcUIsIeylp4Guxb.jpg",
+                "overview": "Deanna Durbin is all grown up in Hers to Hold, the unofficial sequel to her \"Three Smart Girls\" films of the 1930s. Durbin plays Penelope Craig, the starry-eyed daughter of wealthy Judson and Dorothy Craig (Charles Winninger, Nella Walker). Developing a crush on much-older playboy Bill Morley (Joseph Cotton), Penelope stops at nothing to land the elusive Morley as her husband. Highlights include Durbin's renditions of \"Begin the Beguine\" and the \"Seguidilla\" from Carmen, and a captivating sequence that includes highlights from Durbin's earlier films, presented as home movies!",
+                "vote_average": 6.8,
+                "vote_count": 6
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Star Spangled Rhythm",
+            "second_label": "That Old Black Magic in \"Star Spangled Rhythm\" Music by Harold Arlen; Lyrics by Johnny Mercer",
+            "category": "Music (Song)",
+            "year": 1944,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Thank Your Lucky Stars",
+            "second_label": "They're Either Too Young Or Too Old in \"Thank Your Lucky Stars\" Music by Arthur Schwartz; Lyrics by Frank Loesser",
+            "category": "Music (Song)",
+            "year": 1944,
+            "tmdb": {
+                "id": 43514,
+                "original_title": "Thank Your Lucky Stars",
+                "title": "Gra\u00e7as \u00e0 Minha Boa Estrela",
+                "release_date": "1943-09-25",
+                "backdrop_path": "/yG91RiprmrXxGYBSKRvc3Iz0DAS.jpg",
+                "poster_path": "/rVqCzzIBN38e1r4ZcbNlaziE4Bg.jpg",
+                "overview": "An Eddie Cantor look-alike organizes an all-star show to help the war effort.",
+                "vote_average": 6.2,
+                "vote_count": 32
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Stage Door Canteen",
+            "second_label": "We Mustn't Say Goodbye in \"Stage Door Canteen\" Music by James Monaco; Lyrics by Al Dubin",
+            "category": "Music (Song)",
+            "year": 1944,
+            "tmdb": {
+                "id": 38726,
+                "original_title": "Stage Door Canteen",
+                "title": "Noivas do Tio Sam",
+                "release_date": "1943-06-24",
+                "backdrop_path": "/utUHP8oG2HfdKaJpFdFiqsPD2RX.jpg",
+                "poster_path": "/1pUUs6kVSXz1x06coXhX2qZYjWA.jpg",
+                "overview": "A young soldier on a pass in New York City visits the famed Stage Door Canteen, where famous stars of the theater and films appear and host a recreational center for servicemen during the war. The soldier meets a pretty young hostess and they enjoy the many entertainers and a growing romance",
+                "vote_average": 6.1,
+                "vote_count": 14
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Something to Shout About",
+            "second_label": "You'd Be So Nice To Come Home To in \"Something to Shout About\" Music and Lyrics by Cole Porter",
+            "category": "Music (Song)",
+            "year": 1944,
+            "tmdb": {
+                "id": 120588,
+                "original_title": "Something to Shout About",
+                "title": "Canta Cora\u00e7\u00e3o",
+                "release_date": "1943-02-25",
+                "backdrop_path": "/6vphoApHzQ9TDyYHV9EEV87dSmv.jpg",
+                "poster_path": "/cNFiTCRji2ATvlG4Ls16eIRUABj.jpg",
+                "overview": "A press agent, a composer and a landlord of a theatrical boardinghouse revive vaudeville on Broadway.",
+                "vote_average": 5.8,
+                "vote_count": 4
+            },
+            "winner": false
+        }
+    ],
+    "Outstanding Motion Picture": [
+        {
+            "first_label": "Casablanca",
+            "second_label": "Warner Bros.",
+            "category": "Outstanding Motion Picture",
+            "year": 1944,
+            "tmdb": {
+                "id": 289,
+                "original_title": "Casablanca",
+                "title": "Casablanca",
+                "release_date": "1943-01-15",
+                "backdrop_path": "/87wqeMeUeMRLjsE1IWNKJcPlpuC.jpg",
+                "poster_path": "/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
+                "overview": "Durante a Segunda Guerra Mundial, muitos fugitivos tentavam escapar dos nazistas por uma rota que passava pela cidade de Casablanca. O exilado americano Rick Blaine encontrou ref\u00fagio na cidade, dirigindo uma das principais casas noturnas da regi\u00e3o. Clandestinamente, tentando despistar o Capit\u00e3o Renault, ele ajuda refugiados, possibilitando que eles fujam para os Estados Unidos. Quando um casal pede sua ajuda para deixar o pa\u00eds, ele reencontra uma grande paix\u00e3o do passado, a bela Ilsa. Este amor vai encontrar uma nova vida e eles v\u00e3o lutar para fugir juntos.",
+                "vote_average": 8.2,
+                "vote_count": 5149
+            },
+            "winner": true
+        },
+        {
+            "first_label": "For Whom the Bell Tolls",
+            "second_label": "Paramount",
+            "category": "Outstanding Motion Picture",
+            "year": 1944,
+            "tmdb": {
+                "id": 27854,
+                "original_title": "For Whom the Bell Tolls",
+                "title": "Por Quem os Sinos Dobram",
+                "release_date": "1943-07-12",
+                "backdrop_path": "/mVrjkPOgQA0qrIYlo9DlVdTiwQJ.jpg",
+                "poster_path": "/j5tBLqs599srb0lryNZIlAWfWWy.jpg",
+                "overview": "Guerra Civil Espanhola, anos 30. O idealista Robert Jordan (Gary Cooper) se engaja no conflito para defender os princ\u00edpios de liberdade e democracia. Numa miss\u00e3o de alt\u00edssimo risco, ele aguarda o melhor momento de explodir uma ponte de import\u00e2ncia vital para as tropas inimigas. Neste cen\u00e1rio de idealismos e tens\u00f5es quase insuport\u00e1veis, a m\u00edstica Pilar, l\u00edder das for\u00e7as da resist\u00eancia civil, encoraja a bela e jovem Maria (Ingrid Bergman) a ajudar Robert em sua miss\u00e3o. Durante uma noite debaixo das estrelas, o medo da morte e a possibilidade do amor caminham lado a lado, em pleno horror da guerra.",
+                "vote_average": 6.539,
+                "vote_count": 179
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Heaven Can Wait",
+            "second_label": "20th Century-Fox",
+            "category": "Outstanding Motion Picture",
+            "year": 1944,
+            "tmdb": {
+                "id": 18727,
+                "original_title": "Heaven Can Wait",
+                "title": "O Diabo Disse N\u00e3o",
+                "release_date": "1943-08-05",
+                "backdrop_path": "/aFC3WobznJXjq9UgZT8AC1innhe.jpg",
+                "poster_path": "/c0jKfLvvggNqvMDhOWxaBMGXkz7.jpg",
+                "overview": "Henry Van Cleve apresenta-se \u00e0s portas do inferno mas descobre que est\u00e1 sendo rigorosamente criticado em suas qualifica\u00e7\u00f5es para a entrada. Surpreso por existir qualquer d\u00favida sobre sua idoneidade, ele relata sua vida animada e as mulheres que ele conheceu, come\u00e7ando por sua m\u00e3e, mas, principalmente, concentrando-se em seus felizes, mas por vezes dif\u00edceis, 25 anos de casamento com Martha.",
+                "vote_average": 6.9,
+                "vote_count": 210
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Human Comedy",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Outstanding Motion Picture",
+            "year": 1944,
+            "tmdb": {
+                "id": 48993,
+                "original_title": "The Human Comedy",
+                "title": "A Com\u00e9dia Humana",
+                "release_date": "1943-03-02",
+                "backdrop_path": "/rwloZ4Z2aX7hJiitjkPOgv7xbrb.jpg",
+                "poster_path": "/mB0d8hGueJF4OxSf9oZgJAQUqre.jpg",
+                "overview": "Teenager Homer Macauley stays at home in the small town of Ithaca, California to support his family while his older brother Marcus prepares to go to war.",
+                "vote_average": 6.3,
+                "vote_count": 24
+            },
+            "winner": false
+        },
+        {
+            "first_label": "In Which We Serve",
+            "second_label": "Two Cities",
+            "category": "Outstanding Motion Picture",
+            "year": 1944,
+            "tmdb": {
+                "id": 28093,
+                "original_title": "In Which We Serve",
+                "title": "Nosso Barco, Nossa Alma",
+                "release_date": "1942-09-17",
+                "backdrop_path": "/8kJfcHdKQYtyCHNoyN8k2eZZph0.jpg",
+                "poster_path": "/i4SkM1rzBROLt9d33u0KGr2SVVm.jpg",
+                "overview": "O contratorpedeiro Torrin resiste bravamente a um ataque das pot\u00eancias do Eixo, por\u00e9m precisa retornar \u00e0s praias inglesas para reparos. De volta \u00e0 ativa, ele participa da retirada de Dunquerque e acaba por so\u00e7obrar em Creta, vitimado pelo inimigo. Enquanto aguardam socorro, os sobreviventes revelam porque e para quem continuam a lutar.",
+                "vote_average": 6.8,
+                "vote_count": 80
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Madame Curie",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Outstanding Motion Picture",
+            "year": 1944,
+            "tmdb": {
+                "id": 37631,
+                "original_title": "Madame Curie",
+                "title": "Madame Curie",
+                "release_date": "1943-12-16",
+                "backdrop_path": "/fGSYPxh8MG2HQMtUZ2pLimQbXRH.jpg",
+                "poster_path": "/nbOS7mlW8qsKG8uBTZLPg45RGRh.jpg",
+                "overview": "Poor physics student Marie is studying at the Sorbonne in 1890s Paris. One of the few women studying in her field, Marie encounters skepticism concerning her abilities, but is eventually offered a research placement in Pierre Curie's lab. The scientists soon fall in love and embark on a shared quest to extract, from a particular type of rock, a new chemical element they have named radium. However, their research puts them on the brink of professional failure.",
+                "vote_average": 7.2,
+                "vote_count": 35
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The More the Merrier",
+            "second_label": "Columbia",
+            "category": "Outstanding Motion Picture",
+            "year": 1944,
+            "tmdb": {
+                "id": 80616,
+                "original_title": "The More the Merrier",
+                "title": "Quanto Mais, Melhor",
+                "release_date": "1943-05-13",
+                "backdrop_path": "/hzrlJClyJLv1RZTRPEP6sFDFB90.jpg",
+                "poster_path": "/hkwpXQh3rNJWooaFXwZ0tVxmqF2.jpg",
+                "overview": "Washington. Durante a 2\u00aa Guerra Mundial uma jovem, Connie Milligan, aluga metade da sua casa para Benjamin Dingle, um am\u00e1vel senhor. Ele por sua vez aluga metade da sua parte para Joe Carter, um sargento da for\u00e7a a\u00e9rea. Esta situa\u00e7\u00e3o resulta em um inocente m\u00e9nage \u00e0 trois, na qual Benjamin banca o cupido.",
+                "vote_average": 6.9,
+                "vote_count": 74
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Ox-Bow Incident",
+            "second_label": "20th Century-Fox",
+            "category": "Outstanding Motion Picture",
+            "year": 1944,
+            "tmdb": {
+                "id": 980,
+                "original_title": "The Ox-Bow Incident",
+                "title": "Consci\u00eancias Mortas",
+                "release_date": "1943-03-11",
+                "backdrop_path": "/A1aJIo66DkwjWCZOPdRdShzDW2O.jpg",
+                "poster_path": "/mAiDUTELbMUJKOTroJLrbYMBk3i.jpg",
+                "overview": "Dois vagabundos est\u00e3o passando por uma cidade no oeste, quando chega a not\u00edcia de que um fazendeiro local foi assassinado e seu gado roubado. As pessoas da cidade se juntam aos vagabundos, formam uma patrulha para capturar os criminosos. Eles encontram tr\u00eas homens na posse do gado, e est\u00e3o determinados a ver a justi\u00e7a ser feita no local. Quando uma patrulha alcan\u00e7a tr\u00eas homens suspeitos de matar um fazendeiro local, alguns deles ficam fortemente divididos sobre se devem ou n\u00e3o linchar os homens.",
+                "vote_average": 7.7,
+                "vote_count": 345
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Song of Bernadette",
+            "second_label": "20th Century-Fox",
+            "category": "Outstanding Motion Picture",
+            "year": 1944,
+            "tmdb": {
+                "id": 43516,
+                "original_title": "The Song of Bernadette",
+                "title": "A Can\u00e7\u00e3o de Bernadette",
+                "release_date": "1943-12-21",
+                "backdrop_path": "/5gxdMOVSzWNVNSjDPzQGwP6xAed.jpg",
+                "poster_path": "/xtrt9i2LWF4V7tDedDNSnhKJP4c.jpg",
+                "overview": "Bernadette \u00e9 uma jovem camponesa que vive na Fran\u00e7a. Quando ela conta aos vizinhos que viu uma bela senhora no caminho para casa, todos assumem que se trata da Virgem Maria. Bernadette \u00e9 considerada louca por uns, e santa por outros.",
+                "vote_average": 7.0,
+                "vote_count": 107
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Watch on the Rhine",
+            "second_label": "Warner Bros.",
+            "category": "Outstanding Motion Picture",
+            "year": 1944,
+            "tmdb": {
+                "id": 68440,
+                "original_title": "Watch on the Rhine",
+                "title": "Horas de Tormenta",
+                "release_date": "1943-08-27",
+                "backdrop_path": "/vR6sKvMlxIGv0f6QcaVgLlGHI98.jpg",
+                "poster_path": "/yCt7CtTpl5Hqu11nshHoQEjNOzr.jpg",
+                "overview": "Ap\u00f3s 18 anos vivendo na Europa, o casal Sara e Kurt Muller vai visitar a m\u00e3e dela em Washington DC. L\u00e1, um conde romeno descobre que a mala de Kurt est\u00e1 cheia de dinheiro e que ele trabalha para um grupo anti-nazista. O conde decide chantagea-lo, mas Kurt o mata. Agora o casal e os filhos precisam escapar.",
+                "vote_average": 6.9,
+                "vote_count": 37
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Cartoon)": [
+        {
+            "first_label": "Yankee Doodle Mouse",
+            "second_label": "Frederick Quimby, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1944,
+            "tmdb": {
+                "id": 39896,
+                "original_title": "The Yankee Doodle Mouse",
+                "title": "Ratinho Patriota",
+                "release_date": "1943-06-26",
+                "backdrop_path": "/vYKBwcZH8St8Unrs2oXiwLtXU8R.jpg",
+                "poster_path": "/xunQBzrIJkoxToACUVpPo0Neqzc.jpg",
+                "overview": "Em honra aos militares dos EUA durante a Segunda Guerra Mundial, Tom e Jerry batalham no por\u00e3o utilizando utens\u00edlios dom\u00e9sticos como armas de guerra ou ve\u00edculos.",
+                "vote_average": 7.0,
+                "vote_count": 53
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Dizzy Acrobat",
+            "second_label": "Walter Lantz, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1944,
+            "tmdb": {
+                "id": 86030,
+                "original_title": "The Dizzy Acrobat",
+                "title": "O Acrobata Maluco",
+                "release_date": "1943-05-20",
+                "backdrop_path": "/sZ0IAnZ7ACj0CbPiRrpEWgJmEIV.jpg",
+                "poster_path": "/x1kQlqRj3zlBE8ViN5Eyh1fLERe.jpg",
+                "overview": "Pica-Pau est\u00e1 em um circo, e apronta mil e umas com o guarda.",
+                "vote_average": 5.8,
+                "vote_count": 13
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The 500 Hats of Bartholomew Cubbins",
+            "second_label": "George Pal, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1944,
+            "tmdb": {
+                "id": 240362,
+                "original_title": "500 Hats of Bartholomew Cubbins",
+                "title": "500 Hats of Bartholomew Cubbins",
+                "release_date": "1943-04-30",
+                "backdrop_path": null,
+                "poster_path": "/kFwkCJ52OemyRigyrWX8AeZOHK4.jpg",
+                "overview": "Bartholomew Cubbins has SO MANY HATS. Every time he removes one in the presence of the King, it is replaced magically with another. This enrages the King, who brings him to trial, and to the ultimate sentence.",
+                "vote_average": 5.9,
+                "vote_count": 7
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Greetings Bait!",
+            "second_label": "Leon Schlesinger, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1944,
+            "tmdb": {
+                "id": 236706,
+                "original_title": "Greetings Bait",
+                "title": "Greetings Bait",
+                "release_date": "1943-05-14",
+                "backdrop_path": "/iSnLMmVhFGjFz4F4CD5qoCSPkWv.jpg",
+                "poster_path": "/eVyet43LiGyXb7nJG7qmdKnIXdn.jpg",
+                "overview": "A worm reminiscent of Jerry Colonna is lowered into the water and uses various guises to lure fish. He also tangles with a crab.",
+                "vote_average": 6.0,
+                "vote_count": 10
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Imagination",
+            "second_label": "Dave Fleischer, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1944,
+            "tmdb": {
+                "id": 236678,
+                "original_title": "Imagination",
+                "title": "Imagination",
+                "release_date": "1943-11-18",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "In this tale, told as a musical story, a little girl imagines that her two dolls come to life and go through a adventure involving a villain.",
+                "vote_average": 5.2,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Reason and Emotion",
+            "second_label": "Walt Disney, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1944,
+            "tmdb": {
+                "id": 64693,
+                "original_title": "Reason and Emotion",
+                "title": "Reason and Emotion",
+                "release_date": "1943-08-27",
+                "backdrop_path": "/sCcdAEotqVl3smRT1og6ZimW63x.jpg",
+                "poster_path": "/57Hcet2DHd23YCUTcCWBU9Cf09Y.jpg",
+                "overview": "A World War II propaganda film about the need to remain calm and logical during wartime.",
+                "vote_average": 6.3,
+                "vote_count": 17
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (One-reel)": [
+        {
+            "first_label": "Amphibious Fighters",
+            "second_label": "Grantland Rice, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1944,
+            "tmdb": {
+                "id": 236874,
+                "original_title": "Amphibious Fighters",
+                "title": "Amphibious Fighters",
+                "release_date": "1943-07-02",
+                "backdrop_path": null,
+                "poster_path": "/qZXo4dNQPbYm9Z0x7HXj0Tp5yti.jpg",
+                "overview": "Amphibious Fighters is a 1943 short directed by Jack Eaton. In 1944, it won an Oscar for Best Short Subject (One-Reel) at the 16th Academy Awards.",
+                "vote_average": 5.0,
+                "vote_count": 1
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Cavalcade of Dance with Veloz and Yolanda",
+            "second_label": "Gordon Hollingshead, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1944,
+            "tmdb": {
+                "id": 236875,
+                "original_title": "Cavalcade of Dance",
+                "title": "Cavalcade of Dance",
+                "release_date": "1943-10-03",
+                "backdrop_path": null,
+                "poster_path": "/4GnPSrQSqcNeJptDvSTE5PnYv9B.jpg",
+                "overview": "Ballroom dancers Veloz and Yolanda perform the various dance fads of the first half of the twentieth century.",
+                "vote_average": 5.2,
+                "vote_count": 8
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Champions Carry On",
+            "second_label": "Edmund Reek, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1944,
+            "tmdb": {
+                "id": 240360,
+                "original_title": "Champions Carry On",
+                "title": "Champions Carry On",
+                "release_date": "1943-01-01",
+                "backdrop_path": null,
+                "poster_path": "/joivou9NDLs6xSMW3cJSMA1kjE.jpg",
+                "overview": "Champions Carry On is a 1943 American short documentary film about how American sports figures were contributing to the war effort, produced by Edmund Reek. It was nominated for an Academy Award at the 16th Academy Awards for Best Short Subject (One-Reel).",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hollywood in Uniform",
+            "second_label": "Ralph Staub, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1944,
+            "tmdb": {
+                "id": 240361,
+                "original_title": "Screen Snapshots (Series 23, No. 1): Hollywood in Uniform",
+                "title": "Screen Snapshots (Series 23, No. 1): Hollywood in Uniform",
+                "release_date": "1943-08-15",
+                "backdrop_path": null,
+                "poster_path": "/lXF2Of898sXM12eH4Zn4sCMiSt4.jpg",
+                "overview": "Actors are seen in their new roles as military men during WWII: Robert Stack displaying his remarkable skill as an artillery training officer; Tyrone Power as a Marine drill instructor; Rudy Vallee leading a military band; and Glenn Ford in the everyday grind of a Marine private.",
+                "vote_average": 6.0,
+                "vote_count": 1
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Seeing Hands",
+            "second_label": "Pete Smith, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1944,
+            "tmdb": {
+                "id": 98562,
+                "original_title": "Seeing Hands",
+                "title": "Seeing Hands",
+                "release_date": "1943-07-03",
+                "backdrop_path": null,
+                "poster_path": "/vx6yCteQm2GW0TFoSjp8SYlftrx.jpg",
+                "overview": "This serious Pete Smith Specialty series entry encourages industry to hire people with disabilities to help with the war effort. As a boy, Ben Helwig was blinded in an accident while playing baseball. He eventually acquired a guide dog and now works in a defense plant.",
+                "vote_average": 5.3,
+                "vote_count": 6
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Two-reel)": [
+        {
+            "first_label": "Heavenly Music",
+            "second_label": "Jerry Bresler and Sam Coslow, Producers",
+            "category": "Short Subject (Two-reel)",
+            "year": 1944,
+            "tmdb": {
+                "id": 236865,
+                "original_title": "Heavenly Music",
+                "title": "Heavenly Music",
+                "release_date": "1943-05-01",
+                "backdrop_path": "/oMY6yJ1etWGKnT9BmA0zVlHkcBB.jpg",
+                "poster_path": "/lk5u7MvKW0E31qTrbgfEmQ0A5Oz.jpg",
+                "overview": "Bandleader/singer/songwriter Ted Barry arrives to heaven. The receptionist tells him that before he can take his place in the Hall of Music, a committee must review his work and decide whether he is worthy of admittance.",
+                "vote_average": 5.4,
+                "vote_count": 9
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Letter to a Hero",
+            "second_label": "Frederic Ullman, Jr., Producer",
+            "category": "Short Subject (Two-reel)",
+            "year": 1944,
+            "tmdb": {
+                "id": 236870,
+                "original_title": "Letter to a Hero",
+                "title": "Letter to a Hero",
+                "release_date": "1943-01-01",
+                "backdrop_path": null,
+                "poster_path": "/odh8zWZXHgJNdZOcaqnVGwNJ0Kz.jpg",
+                "overview": "Letter to a Hero is a 1943 American short documentary film produced by Frederic Ullman Jr. A school teacher in Monroe, NY writes a letter to her former student who is fighting in WWII. It was nominated for an Academy Award at the 16th Academy Awards for Best Short Subject, Two-Reel.",
+                "vote_average": 5.0,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mardi Gras",
+            "second_label": "Walter MacEwen, Producer",
+            "category": "Short Subject (Two-reel)",
+            "year": 1944,
+            "tmdb": {
+                "id": 236872,
+                "original_title": "Mardi Gras",
+                "title": "Mardi Gras",
+                "release_date": "1943-10-01",
+                "backdrop_path": null,
+                "poster_path": "/jmhQHnxQE9v0tFIwymvKJFpiWTM.jpg",
+                "overview": "The first of a series of six two-reel \"Musical Parade\" shorts produced in Technicolor for the Paramount 1943-44 production season. The series would continue into 1948, and then were reissued in the early 50's. Songs included \"All the Way\" and \"At the Mardi Gras.\"",
+                "vote_average": 1.0,
+                "vote_count": 1
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Women at War",
+            "second_label": "Gordon Hollingshead, Producer",
+            "category": "Short Subject (Two-reel)",
+            "year": 1944,
+            "tmdb": {
+                "id": 97745,
+                "original_title": "Women at War",
+                "title": "Women at War",
+                "release_date": "1943-10-02",
+                "backdrop_path": null,
+                "poster_path": "/dnZ4QhbIlOLjQMN5JRCKwMqM0jW.jpg",
+                "overview": "Three young women arrive at the Women's Army Corps facility in Fort Des Moines for varied reasons and with different goals. Mary Savage is a war widow who wants to become an officer, farm girl Stormy Hart wants to become involved in motor transport, and Lorna Travis seeks to win the approval of her father, a major general, who has very chauvinist views on the role of women in the military. Intensive training and guidance prepares the three to make a contribution to the success of the upcoming war games conducted by General Travis and validate the value of the WACS to the war effort.",
+                "vote_average": 6.2,
+                "vote_count": 4
+            },
+            "winner": false
+        }
+    ],
+    "Sound Recording": [
+        {
+            "first_label": "This Land Is Mine",
+            "second_label": "RKO Radio Studio Sound Department, Stephen Dunn, Sound Director",
+            "category": "Sound Recording",
+            "year": 1944,
+            "tmdb": {
+                "id": 45220,
+                "original_title": "This Land Is Mine",
+                "title": "Esta Terra \u00e9 Minha",
+                "release_date": "1943-05-07",
+                "backdrop_path": "/hroWjsXExj9bfFwBeBr4rPpddOB.jpg",
+                "poster_path": "/lrzTlL50vFQhq9cvsuZvCYLPOcq.jpg",
+                "overview": "Somewhere in Europe, in a city occupied by the Nazis, a gentle school teacher finds himself torn between collaboration and resistance, cowardice and courage.",
+                "vote_average": 7.1,
+                "vote_count": 57
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Hangmen Also Die",
+            "second_label": "Sound Service, Inc., Jack Whitney, Sound Director",
+            "category": "Sound Recording",
+            "year": 1944,
+            "tmdb": {
+                "id": 22178,
+                "original_title": "Hangmen Also Die!",
+                "title": "Os Carrascos Tamb\u00e9m Morrem",
+                "release_date": "1943-04-15",
+                "backdrop_path": "/7rL5tbuSmtpKeLAKcBTqQwmXAGj.jpg",
+                "poster_path": "/d9J86BpP7NLreJJ9VCbr1SDMRii.jpg",
+                "overview": "Durante a ocupa\u00e7\u00e3o nazista da Checoslov\u00e1quia, o cirurgi\u00e3o Dr. Franticek Svoboda, um patriota checo, assassina o brutal \"Carrasco da Europa\", o Reichsprotektor Reinhard Heydrich e \u00e9 ferido no processo. Na tentativa de escapar, ele \u00e9 ajudado pelo professor de hist\u00f3ria Stephen Novotny e sua filha Mascha. Vers\u00e3o totalmente ficcional do epis\u00f3dio. Foi o \u00fanico projeto Hollywoodiano bem sucedido de Bertolt Brecht; o dinheiro que recebeu permitiu escrever \"As vis\u00f5es de Simone Marchand\", \"Schwyk na Segunda Guerra Mundial\" e a adapta\u00e7\u00e3o da \"Duquesa de Malfi\" de Webster. Hanns Eisler ganhou um Oscar por sua partitura musical. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.9,
+                "vote_count": 111
+            },
+            "winner": false
+        },
+        {
+            "first_label": "In Old Oklahoma",
+            "second_label": "Republic Studio Sound Department, Daniel J. Bloomberg, Sound Director",
+            "category": "Sound Recording",
+            "year": 1944,
+            "tmdb": {
+                "id": 40719,
+                "original_title": "In Old Oklahoma",
+                "title": "Quando a Mulher Se Atreve",
+                "release_date": "1943-12-06",
+                "backdrop_path": "/jS8ADXQOTmca4jnCh0hPzNj9EBX.jpg",
+                "poster_path": "/ii1jD3kitpvOY0iUwckHAwWtY7Y.jpg",
+                "overview": "O cowboy Dan Somers e o magnata do petr\u00f3leo Jim Hunk Gardner disputam os direitos de arrendamento de petr\u00f3leo em terra ind\u00edgena, bem como o amor de uma professora.",
+                "vote_average": 6.5,
+                "vote_count": 33
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Madame Curie",
+            "second_label": "Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",
+            "category": "Sound Recording",
+            "year": 1944,
+            "tmdb": {
+                "id": 37631,
+                "original_title": "Madame Curie",
+                "title": "Madame Curie",
+                "release_date": "1943-12-16",
+                "backdrop_path": "/fGSYPxh8MG2HQMtUZ2pLimQbXRH.jpg",
+                "poster_path": "/nbOS7mlW8qsKG8uBTZLPg45RGRh.jpg",
+                "overview": "Poor physics student Marie is studying at the Sorbonne in 1890s Paris. One of the few women studying in her field, Marie encounters skepticism concerning her abilities, but is eventually offered a research placement in Pierre Curie's lab. The scientists soon fall in love and embark on a shared quest to extract, from a particular type of rock, a new chemical element they have named radium. However, their research puts them on the brink of professional failure.",
+                "vote_average": 7.2,
+                "vote_count": 35
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The North Star",
+            "second_label": "Samuel Goldwyn Studio Sound Department, Thomas T. Moulton, Sound Director",
+            "category": "Sound Recording",
+            "year": 1944,
+            "tmdb": {
+                "id": 48127,
+                "original_title": "The North Star",
+                "title": "The North Star",
+                "release_date": "1943-11-04",
+                "backdrop_path": "/wa4DU11AeIAUCGOuXV9RbpSckIU.jpg",
+                "poster_path": "/zENGbNnvBLJNOHxRYpQBoSiX3Ku.jpg",
+                "overview": "A Ukrainian village must suddenly contend with the Nazi invasion of June 1941.  Later re-edited and released as \"Armored Attack.\"",
+                "vote_average": 6.3,
+                "vote_count": 22
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Phantom of the Opera",
+            "second_label": "Universal Studio Sound Department, Bernard B. Brown, Sound Director",
+            "category": "Sound Recording",
+            "year": 1944,
+            "tmdb": {
+                "id": 15855,
+                "original_title": "Phantom of the Opera",
+                "title": "O Fantasma da \u00d3pera",
+                "release_date": "1943-08-12",
+                "backdrop_path": "/d8yE2GKtplZXXzgJ9151hV9nArD.jpg",
+                "poster_path": "/2IPsMihA1JNUnZbYpHZ93avZdW7.jpg",
+                "overview": "Este imortal e espetacular conto de terror de Gaston Leroux \u00e9 estrelado por Claude Rains como o mascarado fantasma da \u00d3pera de Paris, um compositor enlouquecido que planeja fazer de uma linda jovem soprano (Susanna Foster) a estrela da companhia de \u00f3pera e saciar sua vingan\u00e7a contra os que roubaram sua m\u00fasica. Nelson Eddy, o her\u00f3ico bar\u00edtono, tenta obter o afeto da garota enguanto persegue os passos do monstro que come\u00e7a a matar aqueles que resiste a suas loucas exig\u00eancias.",
+                "vote_average": 6.2,
+                "vote_count": 184
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Riding High",
+            "second_label": "Paramount Studio Sound Department, Loren L. Ryder, Sound Director",
+            "category": "Sound Recording",
+            "year": 1944,
+            "tmdb": {
+                "id": 218116,
+                "original_title": "Riding High",
+                "title": "Riding High",
+                "release_date": "1943-11-11",
+                "backdrop_path": "/nmm3dNsbfC57XnNJVoQKSrX7pPh.jpg",
+                "poster_path": "/sXySLUMMdmu77fb0yNxvnyOlOdz.jpg",
+                "overview": "No relation to the 1950 Frank Capra film of the same name, the 1943 Technicolor musical Riding High is a by-the-numbers vehicle for Dorothy Lamour and Dick Powell. Lamour stars as Ann Castle, a former burlesque queen who heads westward to claim her father's silver mine. Powell plays mining engineer Steve Baird, who like Ann has a vested interest in the worked-out mine. With the help of genial counterfeiter Mortimer J. Slocum (Victor Moore), Steve and Ann are able to peddle mining stock, thus saving her from bankruptcy. The stockholders are in a lynching mood when it appears that they've been flim-flammed, but a last minute \"miracle\" saves the day. Featured in the cast are Paramount stalwarts Cass Daley and Gil Lamb, the former doing her quasi-Martha Raye act and the latter swallowing his harmonica for the millionth time. Production values are excellent and the songs are exuberantly performed; it's only in its hackneyed plot that Riding High slows to a clip-clop.",
+                "vote_average": 4.0,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sahara",
+            "second_label": "Columbia Studio Sound Department, John Livadary, Sound Director",
+            "category": "Sound Recording",
+            "year": 1944,
+            "tmdb": {
+                "id": 18783,
+                "original_title": "Sahara",
+                "title": "Sahara: Em Busca da Sobreviv\u00eancia",
+                "release_date": "1943-09-22",
+                "backdrop_path": "/e3U2mnT9JPyruXEKi78TWmRN0I2.jpg",
+                "poster_path": "/roVIPqVLMdvs7uOcqDuwO891t8s.jpg",
+                "overview": "O sargento Joe Gunn e sua tripula\u00e7\u00e3o de tanque acolhem cinco soldados brit\u00e2nicos, um franc\u00eas e um sudan\u00eas com um prisioneiro italiano, e cruzam o deserto da L\u00edbia para voltar ao comando ap\u00f3s a queda de Tobruk. Tambul, o sudan\u00eas leva-os a uma fortaleza abandonada no deserto onde eles esperam encontrar \u00e1gua. Logo um destacamento de soldados alem\u00e3es chega e tenta barganhar comida por \u00e1gua, mas Gunn e sua turma recusam. Quando os alem\u00e3es atacam, Gunn leva seus homens cansados do deserto em uma batalha desesperada, esperando que os refor\u00e7os brit\u00e2nicos possam chegar a tempo.",
+                "vote_average": 7.2,
+                "vote_count": 122
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Saludos Amigos",
+            "second_label": "Walt Disney Studio Sound Department, C. O. Slyfield, Sound Director",
+            "category": "Sound Recording",
+            "year": 1944,
+            "tmdb": {
+                "id": 14906,
+                "original_title": "Saludos Amigos",
+                "title": "Al\u00f4, Amigos",
+                "release_date": "1942-08-24",
+                "backdrop_path": "/epWLmnK6XYtlR8ICOKauGH546W2.jpg",
+                "poster_path": "/7QMwCSoy8Y0hIW4oljsJmOvnoiy.jpg",
+                "overview": "Apresentando personagens como Z\u00e9 Carioca, Pedro, um avi\u00e3o mirim do correio e os famosos Pato Donald e Pateta, em aventuras espetaculares! Pato Donald \u00e9 um turista americano que embarca em uma incr\u00edvel viagem pelos Andes! Pedro \u00e9 um avi\u00e3ozinho que voa pelo Chile e enfrenta uma terr\u00edvel tempestade, passando por maus bocados para atravessar o Monte Aconc\u00e1gua. Em Buenos Aires, Pateta aprende a usar o equipamento de montaria e dan\u00e7as t\u00edpicas argentinas. Recheado com coloridas cenas de Carnaval do Rio de Janeiro e m\u00fasicas como \"Aquarela do Brasil\", Pato Donald conhece os pontos tur\u00edsticos mais belos do Rio de Janeiro e de quebra ainda aprende a sambar.",
+                "vote_average": 5.8,
+                "vote_count": 421
+            },
+            "winner": false
+        },
+        {
+            "first_label": "So This Is Washington",
+            "second_label": "RCA Sound, J. L. Fields, Sound Director",
+            "category": "Sound Recording",
+            "year": 1944,
+            "tmdb": {
+                "id": 94207,
+                "original_title": "So This Is Washington",
+                "title": "So This Is Washington",
+                "release_date": "1943-08-01",
+                "backdrop_path": "/v01uMrqZPHttO3H53kdZ83Z4IWY.jpg",
+                "poster_path": "/xK0PHeUxzayWUvoBpU98aO0eBQe.jpg",
+                "overview": "Lum and Abner go to Washington to aid in the war effort by giving the government what they think is a good substitute for rubber--Abner's homemade licorice.",
+                "vote_average": 4.8,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Song of Bernadette",
+            "second_label": "20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director",
+            "category": "Sound Recording",
+            "year": 1944,
+            "tmdb": {
+                "id": 43516,
+                "original_title": "The Song of Bernadette",
+                "title": "A Can\u00e7\u00e3o de Bernadette",
+                "release_date": "1943-12-21",
+                "backdrop_path": "/5gxdMOVSzWNVNSjDPzQGwP6xAed.jpg",
+                "poster_path": "/xtrt9i2LWF4V7tDedDNSnhKJP4c.jpg",
+                "overview": "Bernadette \u00e9 uma jovem camponesa que vive na Fran\u00e7a. Quando ela conta aos vizinhos que viu uma bela senhora no caminho para casa, todos assumem que se trata da Virgem Maria. Bernadette \u00e9 considerada louca por uns, e santa por outros.",
+                "vote_average": 7.0,
+                "vote_count": 107
+            },
+            "winner": false
+        },
+        {
+            "first_label": "This Is the Army",
+            "second_label": "Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",
+            "category": "Sound Recording",
+            "year": 1944,
+            "tmdb": {
+                "id": 43517,
+                "original_title": "This Is the Army",
+                "title": "Forja de Her\u00f3is",
+                "release_date": "1943-08-14",
+                "backdrop_path": "/p9vb0XpMVPZEJoJxmoh9G2vi2Ni.jpg",
+                "poster_path": "/2zBY2WMlhQDd1t24RHvEBz055qT.jpg",
+                "overview": "In WW I dancer Jerry Jones stages an all-soldier show on Broadway, called Yip Yip Yaphank. Wounded in the War, he becomes a producer. In WW II his son Johnny Jones, who was before his fathers assistant, gets the order to stage a knew all-soldier show, called THIS IS THE ARMY. But in his pesonal life he has problems, because he refuses to marry his fianc\u00e9e until the war is over.",
+                "vote_average": 5.7,
+                "vote_count": 19
+            },
+            "winner": false
+        }
+    ],
+    "Special Effects": [
+        {
+            "first_label": "Crash Dive",
+            "second_label": "Photographic Effects by Fred Sersen; Sound Effects by Roger Heman",
+            "category": "Special Effects",
+            "year": 1944,
+            "tmdb": {
+                "id": 74012,
+                "original_title": "Crash Dive",
+                "title": "Mergulho no Inferno",
+                "release_date": "1943-04-22",
+                "backdrop_path": "/fn32967cJ0hF8SozyBr9uCbGEzo.jpg",
+                "poster_path": "/iiHO2RKRQXLT2FJeHwBOGrgoStX.jpg",
+                "overview": "Um tenente submarino e seu comandante se apaixonam pela mesma garota.\r Contra sua prefer\u00eancia pessoal, o comandante da embarca\u00e7\u00e3o PT Ward Stewart \u00e9 nomeado diretor executivo do submarino USS Corsair. De licen\u00e7a antes de zarpar, ele conhece a professora Jean Hewlett e fica apaixonado... sem saber que ela \u00e9 a queridinha de Dewey Connors, seu novo comandante. No mar, os homens criam um relacionamento enquanto lutam contra os navios alem\u00e3es. Quando eles descobrir\u00e3o sua rivalidade rom\u00e2ntica m\u00fatua? Ser\u00e1 que isso vai interferir num ataque de comando espetacular \u00e0 uma base secreta alem\u00e3?",
+                "vote_average": 6.1,
+                "vote_count": 22
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Air Force",
+            "second_label": "Photographic Effects by Hans Koenekamp, Rex Wimpy; Sound Effects by Nathan Levinson",
+            "category": "Special Effects",
+            "year": 1944,
+            "tmdb": {
+                "id": 15807,
+                "original_title": "Air Force",
+                "title": "\u00c1guias Americanas",
+                "release_date": "1943-03-20",
+                "backdrop_path": "/7L6SrvZgbTdNdj0lUA9L6C1mjuY.jpg",
+                "poster_path": "/mqH4V49GvANYsu1q4SW4CFUTFZe.jpg",
+                "overview": "A tripula\u00e7\u00e3o de um bombardeiro da For\u00e7a A\u00e9rea chega em Pearl Harbor no rescaldo do ataque japon\u00eas e \u00e9 enviado para Manila para ajudar com a defesa das Filipinas.  Em 6 de dezembro de 1941, nove bombardeiros B-17 partiram em um voo de San Francisco para o Hava\u00ed. Um dos bombardeiros, o Mary Ann, \u00e9 comandado pelo \"Irland\u00eas\" Quincannon. O bombardeiro, Tommy McMartin, tem uma irm\u00e3 vivendo no Hava\u00ed e o copiloto, Bill Williams, est\u00e1 apaixonado por ela. Os homens s\u00e3o todos altamente profissionais, com exce\u00e7\u00e3o do artilheiro Joe Winocki, um homem amargo que tem toda a inten\u00e7\u00e3o de deixar a For\u00e7a A\u00e9rea do ex\u00e9rcito. Eles chegam ao Campo Hickam na manh\u00e3 de 7 de dezembro, na mesma hora que os japoneses est\u00e3o atacando Pearl Harbor e outras instala\u00e7\u00f5es militares. Todos os homens se preparam para enfrentar o inimigo, inclusive Winocki cuja atitude muda rapidamente. O bombardeiro e sua tripula\u00e7\u00e3o participar\u00e3o de muitas miss\u00f5es, mas nem todos sobreviver\u00e3o.",
+                "vote_average": 6.3,
+                "vote_count": 53
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Bombardier",
+            "second_label": "Photographic Effects by Vernon L. Walker; Sound Effects by James G. Stewart, Roy Granville",
+            "category": "Special Effects",
+            "year": 1944,
+            "tmdb": {
+                "id": 62749,
+                "original_title": "Bombardier",
+                "title": "Bombardeio",
+                "release_date": "1943-05-14",
+                "backdrop_path": "/9hokjNR1YEZlzKqswxR7ij0IrAG.jpg",
+                "poster_path": "/z5Jy1QjLycT54kmS8w0PZvxrlfh.jpg",
+                "overview": "A documentary/drama about the training of bombardiers during WWII. Major Chick Davis proves to the U.S. Army the superiority of high altitude precision bombing, and establishes a school for bombardiers. Training is followed in semi-documentary style, with personal dramas in subplots. The climax is a spectacular, if somewhat jingoistic, battle sequence.",
+                "vote_average": 5.4,
+                "vote_count": 18
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The North Star",
+            "second_label": "Photographic Effects by Clarence Slifer, R. O. Binger; Sound Effects by Thomas T. Moulton",
+            "category": "Special Effects",
+            "year": 1944,
+            "tmdb": {
+                "id": 48127,
+                "original_title": "The North Star",
+                "title": "The North Star",
+                "release_date": "1943-11-04",
+                "backdrop_path": "/wa4DU11AeIAUCGOuXV9RbpSckIU.jpg",
+                "poster_path": "/zENGbNnvBLJNOHxRYpQBoSiX3Ku.jpg",
+                "overview": "A Ukrainian village must suddenly contend with the Nazi invasion of June 1941.  Later re-edited and released as \"Armored Attack.\"",
+                "vote_average": 6.3,
+                "vote_count": 22
+            },
+            "winner": false
+        },
+        {
+            "first_label": "So Proudly We Hail!",
+            "second_label": "Photographic Effects by Gordon Jennings, Farciot Edouart; Sound Effects by George Dutton",
+            "category": "Special Effects",
+            "year": 1944,
+            "tmdb": {
+                "id": 150778,
+                "original_title": "So Proudly We Hail",
+                "title": "A Legi\u00e3o Branca",
+                "release_date": "1943-09-09",
+                "backdrop_path": "/lrMaqHSDAoKh1tAgNTw8sIccxLa.jpg",
+                "poster_path": "/1HELEee7lRd1ul37F4tQCRbGOiX.jpg",
+                "overview": "During the start of the Pacific campaign in World War II, Lieutenant Janet Davidson is the head of a group of U.S. military nurses who are trapped behind enemy lines in the Philippines. Davidson tries to keep up the spirits of her staff, which includes Lieutenants Joan O'Doul and Olivia D'Arcy. They all seek to maintain a sense of normal life, including dating, while under constant danger as they tend to wounded soldiers.",
+                "vote_average": 5.5,
+                "vote_count": 21
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Stand By for Action",
+            "second_label": "Photographic Effects by A. Arnold Gillespie, Donald Jahraus; Sound Effects by Michael Steinore",
+            "category": "Special Effects",
+            "year": 1944,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Original Motion Picture Story)": [
+        {
+            "first_label": "The Human Comedy",
+            "second_label": "William Saroyan",
+            "category": "Writing (Original Motion Picture Story)",
+            "year": 1944,
+            "tmdb": {
+                "id": 48993,
+                "original_title": "The Human Comedy",
+                "title": "A Com\u00e9dia Humana",
+                "release_date": "1943-03-02",
+                "backdrop_path": "/rwloZ4Z2aX7hJiitjkPOgv7xbrb.jpg",
+                "poster_path": "/mB0d8hGueJF4OxSf9oZgJAQUqre.jpg",
+                "overview": "Teenager Homer Macauley stays at home in the small town of Ithaca, California to support his family while his older brother Marcus prepares to go to war.",
+                "vote_average": 6.3,
+                "vote_count": 24
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Action in the North Atlantic",
+            "second_label": "Guy Gilpatric",
+            "category": "Writing (Original Motion Picture Story)",
+            "year": 1944,
+            "tmdb": {
+                "id": 23051,
+                "original_title": "Action in the North Atlantic",
+                "title": "Comboio Para o Leste",
+                "release_date": "1943-06-12",
+                "backdrop_path": "/4DvQVazlPdXnonF33fHUBXMikMK.jpg",
+                "poster_path": "/xzciU4Hk9XN3gqDObzC2SCc4f0N.jpg",
+                "overview": "O tenente Joe Rossi \u00e9 primeiro oficial num Navio da Liberdade em um grande comboio de Halifax para Murmansk. Depois de submarinos alem\u00e3es atacarem o comboio seu navio se separa e est\u00e1 indo sozinho para Murmansk. Apesar dos ataques de avi\u00f5es e submarinos alem\u00e3es ele luta para levar o navio em seguran\u00e7a para Murmansk.",
+                "vote_average": 7.0,
+                "vote_count": 48
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Destination Tokyo",
+            "second_label": "Steve Fisher",
+            "category": "Writing (Original Motion Picture Story)",
+            "year": 1944,
+            "tmdb": {
+                "id": 22871,
+                "original_title": "Destination Tokyo",
+                "title": "Rumo a T\u00f3quio",
+                "release_date": "1943-12-31",
+                "backdrop_path": "/sYFUT5kIPM9IcLEo5QrgM5HW3iz.jpg",
+                "poster_path": "/tt5Bpv0ERcfKxMpL8og7guTCvWN.jpg",
+                "overview": "Durante a Segunda Guerra Mundial, o Capit\u00e3o Cassidy e sua tripula\u00e7\u00e3o recebem a ordem de ir at\u00e9 a Baia de Tokio em uma miss\u00e3o secreta. O objetivo \u00e9 reunir informa\u00e7\u00f5es para o bombardeio planejado de T\u00f3quio. Ao longo do caminho, a tripula\u00e7\u00e3o aprende uns com os outros como devem enfrentar o inimigo, e alguns deles perdem a vida. Depois de obter as informa\u00e7\u00f5es que necessitam, eles enfrentam a angustiante tarefa de escapar da ba\u00eda uma vez que sua presen\u00e7a foi descoberta.",
+                "vote_average": 6.7,
+                "vote_count": 58
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The More the Merrier",
+            "second_label": "Robert Russell, Frank Ross",
+            "category": "Writing (Original Motion Picture Story)",
+            "year": 1944,
+            "tmdb": {
+                "id": 80616,
+                "original_title": "The More the Merrier",
+                "title": "Quanto Mais, Melhor",
+                "release_date": "1943-05-13",
+                "backdrop_path": "/hzrlJClyJLv1RZTRPEP6sFDFB90.jpg",
+                "poster_path": "/hkwpXQh3rNJWooaFXwZ0tVxmqF2.jpg",
+                "overview": "Washington. Durante a 2\u00aa Guerra Mundial uma jovem, Connie Milligan, aluga metade da sua casa para Benjamin Dingle, um am\u00e1vel senhor. Ele por sua vez aluga metade da sua parte para Joe Carter, um sargento da for\u00e7a a\u00e9rea. Esta situa\u00e7\u00e3o resulta em um inocente m\u00e9nage \u00e0 trois, na qual Benjamin banca o cupido.",
+                "vote_average": 6.9,
+                "vote_count": 74
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Shadow of a Doubt",
+            "second_label": "Gordon McDonell",
+            "category": "Writing (Original Motion Picture Story)",
+            "year": 1944,
+            "tmdb": {
+                "id": 21734,
+                "original_title": "Shadow of a Doubt",
+                "title": "A Sombra de uma D\u00favida",
+                "release_date": "1943-01-15",
+                "backdrop_path": "/AuCrQyv2WZfbZcWOfim3ifXZ7zv.jpg",
+                "poster_path": "/3zLvqss1Ysit4ppOc8CULMFyeQV.jpg",
+                "overview": "O Tio Charlie vai visitar seus parentes na cidadezinha de Santa Rosa. Mas sua sobrinha, tamb\u00e9m chamada de Charlie, come\u00e7a a suspeitar de que ele \u00e9 o famoso Assassino de Vi\u00favas Alegre, um criminoso que est\u00e1 sendo procurado pela pol\u00edcia e fugiu da Filad\u00e9lfia para a Calif\u00f3rnia.",
+                "vote_average": 7.529,
+                "vote_count": 968
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Original Screenplay)": [
+        {
+            "first_label": "Princess O'Rourke",
+            "second_label": "Norman Krasna",
+            "category": "Writing (Original Screenplay)",
+            "year": 1944,
+            "tmdb": {
+                "id": 33039,
+                "original_title": "Princess O'Rourke",
+                "title": "Sua Alteza Quer Casar",
+                "release_date": "1943-10-23",
+                "backdrop_path": "/4Prl7DDqIiI28rcvbvxypUCuOaF.jpg",
+                "poster_path": "/8ELqUEit0clvoFdEMJjk0N9xRlp.jpg",
+                "overview": "A down-to-earth pilot charms a European princess on vacation in the United States.",
+                "vote_average": 6.4,
+                "vote_count": 19
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Air Force",
+            "second_label": "Dudley Nichols",
+            "category": "Writing (Original Screenplay)",
+            "year": 1944,
+            "tmdb": {
+                "id": 15807,
+                "original_title": "Air Force",
+                "title": "\u00c1guias Americanas",
+                "release_date": "1943-03-20",
+                "backdrop_path": "/7L6SrvZgbTdNdj0lUA9L6C1mjuY.jpg",
+                "poster_path": "/mqH4V49GvANYsu1q4SW4CFUTFZe.jpg",
+                "overview": "A tripula\u00e7\u00e3o de um bombardeiro da For\u00e7a A\u00e9rea chega em Pearl Harbor no rescaldo do ataque japon\u00eas e \u00e9 enviado para Manila para ajudar com a defesa das Filipinas.  Em 6 de dezembro de 1941, nove bombardeiros B-17 partiram em um voo de San Francisco para o Hava\u00ed. Um dos bombardeiros, o Mary Ann, \u00e9 comandado pelo \"Irland\u00eas\" Quincannon. O bombardeiro, Tommy McMartin, tem uma irm\u00e3 vivendo no Hava\u00ed e o copiloto, Bill Williams, est\u00e1 apaixonado por ela. Os homens s\u00e3o todos altamente profissionais, com exce\u00e7\u00e3o do artilheiro Joe Winocki, um homem amargo que tem toda a inten\u00e7\u00e3o de deixar a For\u00e7a A\u00e9rea do ex\u00e9rcito. Eles chegam ao Campo Hickam na manh\u00e3 de 7 de dezembro, na mesma hora que os japoneses est\u00e3o atacando Pearl Harbor e outras instala\u00e7\u00f5es militares. Todos os homens se preparam para enfrentar o inimigo, inclusive Winocki cuja atitude muda rapidamente. O bombardeiro e sua tripula\u00e7\u00e3o participar\u00e3o de muitas miss\u00f5es, mas nem todos sobreviver\u00e3o.",
+                "vote_average": 6.3,
+                "vote_count": 53
+            },
+            "winner": false
+        },
+        {
+            "first_label": "In Which We Serve",
+            "second_label": "Noel Coward",
+            "category": "Writing (Original Screenplay)",
+            "year": 1944,
+            "tmdb": {
+                "id": 28093,
+                "original_title": "In Which We Serve",
+                "title": "Nosso Barco, Nossa Alma",
+                "release_date": "1942-09-17",
+                "backdrop_path": "/8kJfcHdKQYtyCHNoyN8k2eZZph0.jpg",
+                "poster_path": "/i4SkM1rzBROLt9d33u0KGr2SVVm.jpg",
+                "overview": "O contratorpedeiro Torrin resiste bravamente a um ataque das pot\u00eancias do Eixo, por\u00e9m precisa retornar \u00e0s praias inglesas para reparos. De volta \u00e0 ativa, ele participa da retirada de Dunquerque e acaba por so\u00e7obrar em Creta, vitimado pelo inimigo. Enquanto aguardam socorro, os sobreviventes revelam porque e para quem continuam a lutar.",
+                "vote_average": 6.8,
+                "vote_count": 80
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The North Star",
+            "second_label": "Lillian Hellman",
+            "category": "Writing (Original Screenplay)",
+            "year": 1944,
+            "tmdb": {
+                "id": 48127,
+                "original_title": "The North Star",
+                "title": "The North Star",
+                "release_date": "1943-11-04",
+                "backdrop_path": "/wa4DU11AeIAUCGOuXV9RbpSckIU.jpg",
+                "poster_path": "/zENGbNnvBLJNOHxRYpQBoSiX3Ku.jpg",
+                "overview": "A Ukrainian village must suddenly contend with the Nazi invasion of June 1941.  Later re-edited and released as \"Armored Attack.\"",
+                "vote_average": 6.3,
+                "vote_count": 22
+            },
+            "winner": false
+        },
+        {
+            "first_label": "So Proudly We Hail!",
+            "second_label": "Allan Scott",
+            "category": "Writing (Original Screenplay)",
+            "year": 1944,
+            "tmdb": {
+                "id": 150778,
+                "original_title": "So Proudly We Hail",
+                "title": "A Legi\u00e3o Branca",
+                "release_date": "1943-09-09",
+                "backdrop_path": "/lrMaqHSDAoKh1tAgNTw8sIccxLa.jpg",
+                "poster_path": "/1HELEee7lRd1ul37F4tQCRbGOiX.jpg",
+                "overview": "During the start of the Pacific campaign in World War II, Lieutenant Janet Davidson is the head of a group of U.S. military nurses who are trapped behind enemy lines in the Philippines. Davidson tries to keep up the spirits of her staff, which includes Lieutenants Joan O'Doul and Olivia D'Arcy. They all seek to maintain a sense of normal life, including dating, while under constant danger as they tend to wounded soldiers.",
+                "vote_average": 5.5,
+                "vote_count": 21
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay)": [
+        {
+            "first_label": "Casablanca",
+            "second_label": "Julius J. Epstein, Philip G. Epstein, Howard Koch",
+            "category": "Writing (Screenplay)",
+            "year": 1944,
+            "tmdb": {
+                "id": 289,
+                "original_title": "Casablanca",
+                "title": "Casablanca",
+                "release_date": "1943-01-15",
+                "backdrop_path": "/87wqeMeUeMRLjsE1IWNKJcPlpuC.jpg",
+                "poster_path": "/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
+                "overview": "Durante a Segunda Guerra Mundial, muitos fugitivos tentavam escapar dos nazistas por uma rota que passava pela cidade de Casablanca. O exilado americano Rick Blaine encontrou ref\u00fagio na cidade, dirigindo uma das principais casas noturnas da regi\u00e3o. Clandestinamente, tentando despistar o Capit\u00e3o Renault, ele ajuda refugiados, possibilitando que eles fujam para os Estados Unidos. Quando um casal pede sua ajuda para deixar o pa\u00eds, ele reencontra uma grande paix\u00e3o do passado, a bela Ilsa. Este amor vai encontrar uma nova vida e eles v\u00e3o lutar para fugir juntos.",
+                "vote_average": 8.2,
+                "vote_count": 5149
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Holy Matrimony",
+            "second_label": "Nunnally Johnson",
+            "category": "Writing (Screenplay)",
+            "year": 1944,
+            "tmdb": {
+                "id": 180114,
+                "original_title": "Holy Matrimony",
+                "title": "Holy Matrimony",
+                "release_date": "1943-08-24",
+                "backdrop_path": "/b6gYWGNvJa2arbfSFDV3Qy3ypWa.jpg",
+                "poster_path": "/4WKa7s8WydeDEO45pvjLJRebFC4.jpg",
+                "overview": "An artist returning from years abroad takes the identity of his dead valet and gets married, but then there are complications.",
+                "vote_average": 6.7,
+                "vote_count": 12
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The More the Merrier",
+            "second_label": "Robert Russell, Frank Ross, Richard Flournoy, Lewis R. Foster",
+            "category": "Writing (Screenplay)",
+            "year": 1944,
+            "tmdb": {
+                "id": 80616,
+                "original_title": "The More the Merrier",
+                "title": "Quanto Mais, Melhor",
+                "release_date": "1943-05-13",
+                "backdrop_path": "/hzrlJClyJLv1RZTRPEP6sFDFB90.jpg",
+                "poster_path": "/hkwpXQh3rNJWooaFXwZ0tVxmqF2.jpg",
+                "overview": "Washington. Durante a 2\u00aa Guerra Mundial uma jovem, Connie Milligan, aluga metade da sua casa para Benjamin Dingle, um am\u00e1vel senhor. Ele por sua vez aluga metade da sua parte para Joe Carter, um sargento da for\u00e7a a\u00e9rea. Esta situa\u00e7\u00e3o resulta em um inocente m\u00e9nage \u00e0 trois, na qual Benjamin banca o cupido.",
+                "vote_average": 6.9,
+                "vote_count": 74
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Song of Bernadette",
+            "second_label": "George Seaton",
+            "category": "Writing (Screenplay)",
+            "year": 1944,
+            "tmdb": {
+                "id": 43516,
+                "original_title": "The Song of Bernadette",
+                "title": "A Can\u00e7\u00e3o de Bernadette",
+                "release_date": "1943-12-21",
+                "backdrop_path": "/5gxdMOVSzWNVNSjDPzQGwP6xAed.jpg",
+                "poster_path": "/xtrt9i2LWF4V7tDedDNSnhKJP4c.jpg",
+                "overview": "Bernadette \u00e9 uma jovem camponesa que vive na Fran\u00e7a. Quando ela conta aos vizinhos que viu uma bela senhora no caminho para casa, todos assumem que se trata da Virgem Maria. Bernadette \u00e9 considerada louca por uns, e santa por outros.",
+                "vote_average": 7.0,
+                "vote_count": 107
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Watch on the Rhine",
+            "second_label": "Dashiell Hammett",
+            "category": "Writing (Screenplay)",
+            "year": 1944,
+            "tmdb": {
+                "id": 68440,
+                "original_title": "Watch on the Rhine",
+                "title": "Horas de Tormenta",
+                "release_date": "1943-08-27",
+                "backdrop_path": "/vR6sKvMlxIGv0f6QcaVgLlGHI98.jpg",
+                "poster_path": "/yCt7CtTpl5Hqu11nshHoQEjNOzr.jpg",
+                "overview": "Ap\u00f3s 18 anos vivendo na Europa, o casal Sara e Kurt Muller vai visitar a m\u00e3e dela em Washington DC. L\u00e1, um conde romeno descobre que a mala de Kurt est\u00e1 cheia de dinheiro e que ele trabalha para um grupo anti-nazista. O conde decide chantagea-lo, mas Kurt o mata. Agora o casal e os filhos precisam escapar.",
+                "vote_average": 6.9,
+                "vote_count": 37
+            },
+            "winner": false
+        }
+    ]
+}

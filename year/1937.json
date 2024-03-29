@@ -1,0 +1,1760 @@
+{
+    "Actor": [
+        {
+            "first_label": "Paul Muni",
+            "second_label": "The Story of Louis Pasteur",
+            "category": "Actor",
+            "year": 1937,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Gary Cooper",
+            "second_label": "Mr. Deeds Goes to Town",
+            "category": "Actor",
+            "year": 1937,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Walter Huston",
+            "second_label": "Dodsworth",
+            "category": "Actor",
+            "year": 1937,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "William Powell",
+            "second_label": "My Man Godfrey",
+            "category": "Actor",
+            "year": 1937,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Spencer Tracy",
+            "second_label": "San Francisco",
+            "category": "Actor",
+            "year": 1937,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Walter Brennan",
+            "second_label": "Come and Get It",
+            "category": "Actor in a Supporting Role",
+            "year": 1937,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Mischa Auer",
+            "second_label": "My Man Godfrey",
+            "category": "Actor in a Supporting Role",
+            "year": 1937,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Stuart Erwin",
+            "second_label": "Pigskin Parade",
+            "category": "Actor in a Supporting Role",
+            "year": 1937,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Basil Rathbone",
+            "second_label": "Romeo and Juliet",
+            "category": "Actor in a Supporting Role",
+            "year": 1937,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Akim Tamiroff",
+            "second_label": "The General Died at Dawn",
+            "category": "Actor in a Supporting Role",
+            "year": 1937,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress": [
+        {
+            "first_label": "Luise Rainer",
+            "second_label": "The Great Ziegfeld",
+            "category": "Actress",
+            "year": 1937,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Irene Dunne",
+            "second_label": "Theodora Goes Wild",
+            "category": "Actress",
+            "year": 1937,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gladys George",
+            "second_label": "Valiant Is the Word for Carrie",
+            "category": "Actress",
+            "year": 1937,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Carole Lombard",
+            "second_label": "My Man Godfrey",
+            "category": "Actress",
+            "year": 1937,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Norma Shearer",
+            "second_label": "Romeo and Juliet",
+            "category": "Actress",
+            "year": 1937,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Gale Sondergaard",
+            "second_label": "Anthony Adverse",
+            "category": "Actress in a Supporting Role",
+            "year": 1937,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Beulah Bondi",
+            "second_label": "The Gorgeous Hussy",
+            "category": "Actress in a Supporting Role",
+            "year": 1937,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Alice Brady",
+            "second_label": "My Man Godfrey",
+            "category": "Actress in a Supporting Role",
+            "year": 1937,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Bonita Granville",
+            "second_label": "These Three",
+            "category": "Actress in a Supporting Role",
+            "year": 1937,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Maria Ouspenskaya",
+            "second_label": "Dodsworth",
+            "category": "Actress in a Supporting Role",
+            "year": 1937,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction": [
+        {
+            "first_label": "Dodsworth",
+            "second_label": "Richard Day",
+            "category": "Art Direction",
+            "year": 1937,
+            "tmdb": {
+                "id": 31507,
+                "original_title": "Dodsworth",
+                "title": "Fogo de Outono",
+                "release_date": "1936-09-23",
+                "backdrop_path": "/aE9zfMnG4kGBf4SEyUZ5ehPsb6K.jpg",
+                "poster_path": "/qpd9P54mLYvzdC6rBz56is8aeDB.jpg",
+                "overview": "Um empres\u00e1rio se aposenta vendendo sua montadora de ve\u00edculos e parte em uma viagem com sua esposa para a Europa, que est\u00e1 em nega\u00e7\u00e3o sobre sua idade e usa a viagem como uma oportunidade de flertar com outros homens.",
+                "vote_average": 7.1,
+                "vote_count": 121
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Anthony Adverse",
+            "second_label": "Anton Grot",
+            "category": "Art Direction",
+            "year": 1937,
+            "tmdb": {
+                "id": 37658,
+                "original_title": "Anthony Adverse",
+                "title": "Adversidade",
+                "release_date": "1936-08-26",
+                "backdrop_path": "/dww52MSjI109oUWCoxBjoqg1o38.jpg",
+                "poster_path": "/9SPjkq5z86t80Q7XBw8AG2si2vQ.jpg",
+                "overview": "Based on the novel by Hervey Allen, this expansive drama follows the many adventures of the eponymous hero, Anthony Adverse. Abandoned at a convent by his heartless nobleman father, Don Luis, Anthony is later mentored by his kind grandfather, John Bonnyfeather, and falls for the beautiful Angela Giuseppe. When circumstances separate Anthony and Angela and he embarks on a long journey, he must find his way back to her, no matter what the cost.",
+                "vote_average": 5.7,
+                "vote_count": 25
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Great Ziegfeld",
+            "second_label": "Cedric Gibbons, Eddie Imazu, Edwin B. Willis",
+            "category": "Art Direction",
+            "year": 1937,
+            "tmdb": {
+                "id": 43277,
+                "original_title": "The Great Ziegfeld",
+                "title": "Ziegfeld - O Criador de Estrelas",
+                "release_date": "1936-04-08",
+                "backdrop_path": "/1DMVadrF3wqBNcZPDfsVK3lDvAk.jpg",
+                "poster_path": "/im03JvbiNoLpUvRwmtQcyW0HqY6.jpg",
+                "overview": "O filme retrata a vida de Florenz Ziegfeld (William Powell), um dos maiores empres\u00e1rios do showbusiness norte-americano no come\u00e7o do s\u00e9culo XX. Incluindo seus casos com artistas de seus espet\u00e1culo, seu casamento com Anna Held (Luise Rainer) e a crise da d\u00e9cada de 30.",
+                "vote_average": 6.2,
+                "vote_count": 113
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lloyds of London",
+            "second_label": "William S. Darling",
+            "category": "Art Direction",
+            "year": 1937,
+            "tmdb": {
+                "id": 81687,
+                "original_title": "Lloyd's of London",
+                "title": "Lloyd's of London",
+                "release_date": "1936-11-25",
+                "backdrop_path": "/xRD6SIjR2ezwcMKw6J5UX7gef3v.jpg",
+                "poster_path": "/7Fg6Kcgrbw3Ek6SCK6DYDp4Y0OT.jpg",
+                "overview": "Norfolk, England, 1770. The nephew of an innkeeper and the son of a reverend maintain a very close friendship until, after living a great adventure, they must separate their paths. The former will head his footsteps to London and bound his destiny to Lloyd's, a thriving insurance company; the latter will eventually become one of the greatest heroes in the history of the British Empire.",
+                "vote_average": 7.2,
+                "vote_count": 18
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Magnificent Brute",
+            "second_label": "Albert S. D'Agostino, Jack Otterson",
+            "category": "Art Direction",
+            "year": 1937,
+            "tmdb": {
+                "id": 218367,
+                "original_title": "The Magnificent Brute",
+                "title": "The Magnificent Brute",
+                "release_date": "1936-10-11",
+                "backdrop_path": "/9bqHgzik943hRiVUm7SOG4JmibN.jpg",
+                "poster_path": "/7EgHExSfePRjDfAlegE9gioB03T.jpg",
+                "overview": "A love triangle forms the basis of this drama. It all begins in a steel mill when a steel worker ignores the besotted gazes of his landlady at the boarding house and falls in love with a gold-digger. His best friend also finds himself smitten by the seductive young woman. But when the one of the workers fritters away a collection that had been taken up for the wife of a deceased co-worker on a foolish bet, he and the vamp take off until the good-hearted landlady intervenes and convinces them to stay and take their lumps.",
+                "vote_average": 6.0,
+                "vote_count": 1
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Romeo and Juliet",
+            "second_label": "Cedric Gibbons, Frederic Hope, Edwin B. Willis",
+            "category": "Art Direction",
+            "year": 1937,
+            "tmdb": {
+                "id": 43879,
+                "original_title": "Romeo and Juliet",
+                "title": "Romeu e Julieta",
+                "release_date": "1936-09-03",
+                "backdrop_path": "/kRY4Y3en26BiJCC0GO4YZ4EDyOb.jpg",
+                "poster_path": "/tGK16kxbsSrNnuRyhw57Yl1H20w.jpg",
+                "overview": "Young love is poisoned by a generations long feud between two noble families.",
+                "vote_average": 6.0,
+                "vote_count": 24
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Winterset",
+            "second_label": "Perry Ferguson",
+            "category": "Art Direction",
+            "year": 1937,
+            "tmdb": {
+                "id": 87445,
+                "original_title": "Winterset",
+                "title": "Os Predestinados",
+                "release_date": "1936-12-03",
+                "backdrop_path": "/vtgsdDm0uGNBYqQ14J3ONnhxiAm.jpg",
+                "poster_path": "/3t9wRsjNYJobOV5leydtv9tuPfD.jpg",
+                "overview": "A man is determined to find the real culprit behind the crime for which his father was wrongly executed.",
+                "vote_average": 5.4,
+                "vote_count": 11
+            },
+            "winner": false
+        }
+    ],
+    "Assistant Director": [
+        {
+            "first_label": "The Charge of the Light Brigade",
+            "second_label": "Jack Sullivan",
+            "category": "Assistant Director",
+            "year": 1937,
+            "tmdb": {
+                "id": 43884,
+                "original_title": "The Charge of the Light Brigade",
+                "title": "A Carga da Brigada Ligeira",
+                "release_date": "1936-10-20",
+                "backdrop_path": "/dsrHhe5Ljve2WKwDUHJPIfyG3f1.jpg",
+                "poster_path": "/v7PFjyhEAWKGQ8g6cTGw4GzYKsa.jpg",
+                "overview": "Em 1853, enquanto os imp\u00e9rios brit\u00e2nico e russo competem para ganhar e manter seus lugares no terr\u00edvel Grande Jogo de intrigas e alian\u00e7as pol\u00edticas cujo maior pr\u00eamio \u00e9 o dom\u00ednio da \u00cdndia e dos territ\u00f3rios fronteiri\u00e7os, o Major Geoffrey Vickers deve suportar v\u00e1rias trai\u00e7\u00f5es e infort\u00fanios at\u00e9 poder se vingar nas Colinas de Balaclava, em 25 de outubro de 1854, o dia mais glorioso da Guerra da Crimeia.",
+                "vote_average": 6.5,
+                "vote_count": 64
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Anthony Adverse",
+            "second_label": "William Cannon",
+            "category": "Assistant Director",
+            "year": 1937,
+            "tmdb": {
+                "id": 37658,
+                "original_title": "Anthony Adverse",
+                "title": "Adversidade",
+                "release_date": "1936-08-26",
+                "backdrop_path": "/dww52MSjI109oUWCoxBjoqg1o38.jpg",
+                "poster_path": "/9SPjkq5z86t80Q7XBw8AG2si2vQ.jpg",
+                "overview": "Based on the novel by Hervey Allen, this expansive drama follows the many adventures of the eponymous hero, Anthony Adverse. Abandoned at a convent by his heartless nobleman father, Don Luis, Anthony is later mentored by his kind grandfather, John Bonnyfeather, and falls for the beautiful Angela Giuseppe. When circumstances separate Anthony and Angela and he embarks on a long journey, he must find his way back to her, no matter what the cost.",
+                "vote_average": 5.7,
+                "vote_count": 25
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Garden of Allah",
+            "second_label": "Eric G. Stacey",
+            "category": "Assistant Director",
+            "year": 1937,
+            "tmdb": {
+                "id": 151848,
+                "original_title": "The Garden of Allah",
+                "title": "O Jardim de Allah",
+                "release_date": "1936-10-14",
+                "backdrop_path": "/wCKoZibsAdSbtNkLZOJphPeG5w0.jpg",
+                "poster_path": "/ilEUSPjSJC50sgsJgQkDesW7iok.jpg",
+                "overview": "The star-crossed desert romance of a cloistered woman and a renegade monk.",
+                "vote_average": 5.6,
+                "vote_count": 27
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Last of the Mohicans",
+            "second_label": "Clem Beauchamp",
+            "category": "Assistant Director",
+            "year": 1937,
+            "tmdb": {
+                "id": 23108,
+                "original_title": "The Last of the Mohicans",
+                "title": "The Last of the Mohicans",
+                "release_date": "1936-07-02",
+                "backdrop_path": "/aNPFwKhK7yD2cWQtEGYWNmAVjJR.jpg",
+                "poster_path": "/A6QezyupjtlFdEazInKtujn6eAH.jpg",
+                "overview": "The story is set in the British province of New York during the French and Indian War, and concerns\u2014in part\u2014a Huron massacre (with passive French acquiescence) of between 500 to 1,500 Anglo-American troops, who had honorably surrendered at Fort William Henry, plus some women and servants; the kidnapping of two sisters, daughters of the British commander; and their rescue by the last Mohicans.",
+                "vote_average": 6.4,
+                "vote_count": 33
+            },
+            "winner": false
+        },
+        {
+            "first_label": "San Francisco",
+            "second_label": "Joseph Newman",
+            "category": "Assistant Director",
+            "year": 1937,
+            "tmdb": {
+                "id": 43881,
+                "original_title": "San Francisco",
+                "title": "S\u00e3o Francisco, a Cidade do Pecado",
+                "release_date": "1936-06-26",
+                "backdrop_path": "/paFUPuG8ImGQwCtR8vgwTW9iZWB.jpg",
+                "poster_path": "/zQF1UDB0ck4dRfKAn4XixGrCkjx.jpg",
+                "overview": "Um Le\u00e3o-de-Ch\u00e1cara da Costa Barbary e um empres\u00e1rio de Nob Hill s\u00e3o rivais pelos afetos de uma bela cantora, tanto pessoal quanto profissionalmente, na S\u00e3o Francisco de 1906.",
+                "vote_average": 6.6,
+                "vote_count": 65
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "Anthony Adverse",
+            "second_label": "Gaetano Gaudio",
+            "category": "Cinematography",
+            "year": 1937,
+            "tmdb": {
+                "id": 37658,
+                "original_title": "Anthony Adverse",
+                "title": "Adversidade",
+                "release_date": "1936-08-26",
+                "backdrop_path": "/dww52MSjI109oUWCoxBjoqg1o38.jpg",
+                "poster_path": "/9SPjkq5z86t80Q7XBw8AG2si2vQ.jpg",
+                "overview": "Based on the novel by Hervey Allen, this expansive drama follows the many adventures of the eponymous hero, Anthony Adverse. Abandoned at a convent by his heartless nobleman father, Don Luis, Anthony is later mentored by his kind grandfather, John Bonnyfeather, and falls for the beautiful Angela Giuseppe. When circumstances separate Anthony and Angela and he embarks on a long journey, he must find his way back to her, no matter what the cost.",
+                "vote_average": 5.7,
+                "vote_count": 25
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The General Died at Dawn",
+            "second_label": "Victor Milner",
+            "category": "Cinematography",
+            "year": 1937,
+            "tmdb": {
+                "id": 113916,
+                "original_title": "The General Died at Dawn",
+                "title": "O General Morreu ao Amanhecer",
+                "release_date": "1936-11-17",
+                "backdrop_path": "/mCPGNXY26GNmRF6hXFugCvJIxu9.jpg",
+                "poster_path": "/mpt6AyISPBYesV8lFxED7PoHxZD.jpg",
+                "overview": "China, 1930s, during the ravaging civil war. General Pen entrusts O'Hara, an intrepid American adventurer, with the mission of providing a large sum of money to Mr. Wu with the task of buying weapons in Shanghai to help end General Yang's tyranny that keeps an entire province under his ruthless iron boot.",
+                "vote_average": 6.2,
+                "vote_count": 13
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Gorgeous Hussy",
+            "second_label": "George Folsey",
+            "category": "Cinematography",
+            "year": 1937,
+            "tmdb": {
+                "id": 112284,
+                "original_title": "The Gorgeous Hussy",
+                "title": "Mulher Sublime",
+                "release_date": "1936-08-28",
+                "backdrop_path": "/g4jdGrWYn0ZwrTs2hcs1MW1yaBm.jpg",
+                "poster_path": "/jvqWDuu9NRjB8MnIMunYH9GchfZ.jpg",
+                "overview": "It's the early nineteenth century Washington. Young adult Margaret O'Neal, Peggy to most that know her, is the daughter of Major William O'Neal, who is the innkeeper of the establishment where most out-of-town politicians and military men stay when they're in Washington. Peggy is pretty and politically aware. She is courted by several of those politicians and military men who all want to marry her, except for the one with who she is truly in love.",
+                "vote_average": 5.0,
+                "vote_count": 11
+            },
+            "winner": false
+        }
+    ],
+    "Dance Direction": [
+        {
+            "first_label": "The Great Ziegfeld",
+            "second_label": "\"A Pretty Girl Is Like a Melody\" from \"The Great Ziegfeld\"",
+            "category": "Dance Direction",
+            "year": 1937,
+            "tmdb": {
+                "id": 43277,
+                "original_title": "The Great Ziegfeld",
+                "title": "Ziegfeld - O Criador de Estrelas",
+                "release_date": "1936-04-08",
+                "backdrop_path": "/1DMVadrF3wqBNcZPDfsVK3lDvAk.jpg",
+                "poster_path": "/im03JvbiNoLpUvRwmtQcyW0HqY6.jpg",
+                "overview": "O filme retrata a vida de Florenz Ziegfeld (William Powell), um dos maiores empres\u00e1rios do showbusiness norte-americano no come\u00e7o do s\u00e9culo XX. Incluindo seus casos com artistas de seus espet\u00e1culo, seu casamento com Anna Held (Luise Rainer) e a crise da d\u00e9cada de 30.",
+                "vote_average": 6.2,
+                "vote_count": 113
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Gold Diggers of 1937",
+            "second_label": "\"Love and War\" from \"Gold Diggers of 1937\"",
+            "category": "Dance Direction",
+            "year": 1937,
+            "tmdb": {
+                "id": 57698,
+                "original_title": "Gold Diggers of 1937",
+                "title": "Gold Diggers of 1937",
+                "release_date": "1936-12-28",
+                "backdrop_path": "/8ci8G1jmxuxos2ztUAm3dm617Ey.jpg",
+                "poster_path": "/5m02wlrOrt61BXskXVeyHFi8pwN.jpg",
+                "overview": "The partners of stage-producer J.\u202fJ. Hobart gamble away the money for his new show. They enlist a gold-digging chorus girl to help get it back by conning an insurance company. But they don\u2019t count on the persistence of insurance man Rosmer Peck and his secretary Norma Perry.",
+                "vote_average": 5.8,
+                "vote_count": 12
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Cain and Mabel",
+            "second_label": "\"1000 Love Songs\" from \"Cain and Mabel\"",
+            "category": "Dance Direction",
+            "year": 1937,
+            "tmdb": {
+                "id": 184741,
+                "original_title": "Cain and Mabel",
+                "title": "Cain e Mabel",
+                "release_date": "1936-09-26",
+                "backdrop_path": "/h3IGEKNC8Xg836205fQPMnxNdVF.jpg",
+                "poster_path": "/u0Uo1auSeWGUlu8mAIAoeu85ldZ.jpg",
+                "overview": "A chorus girl and a heavyweight boxer are paired romantically as a publicity stunt.",
+                "vote_average": 6.2,
+                "vote_count": 10
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Born to Dance",
+            "second_label": "\"Swingin' the Jinx\" from \"Born to Dance\"",
+            "category": "Dance Direction",
+            "year": 1937,
+            "tmdb": {
+                "id": 43872,
+                "original_title": "Born to Dance",
+                "title": "Born to Dance",
+                "release_date": "1936-11-27",
+                "backdrop_path": "/mEltS22GMPthU9MwzAP4HeRzUYg.jpg",
+                "poster_path": "/40ANyC8M0OuL7hevKmQFrAAbZaB.jpg",
+                "overview": "On leave, a sailor falls in love with a young lady aspiring to become a Broadway dancer, but their relationship is jeopardized by an established Broadway star, who is also enamored by him.",
+                "vote_average": 5.9,
+                "vote_count": 22
+            },
+            "winner": false
+        },
+        {
+            "first_label": "One in a Million",
+            "second_label": "\"Skating Ensemble\" from \"One in a Million\"",
+            "category": "Dance Direction",
+            "year": 1937,
+            "tmdb": {
+                "id": 130342,
+                "original_title": "One in a Million",
+                "title": "One in a Million",
+                "release_date": "1937-01-01",
+                "backdrop_path": "/jFyavNLieZMLr3jYEidxU7m336K.jpg",
+                "poster_path": "/qs8e9jBY0gRgwweTeG9TJkjpwui.jpg",
+                "overview": "American theatrical manager discovers Greta Muller preparing for the Olympics in Switzerland and brings her to Madison Square Garden.",
+                "vote_average": 7.0,
+                "vote_count": 2
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dancing Pirate",
+            "second_label": "\"The Finale\" from \"Dancing Pirate\"",
+            "category": "Dance Direction",
+            "year": 1937,
+            "tmdb": {
+                "id": 188918,
+                "original_title": "Dancing Pirate",
+                "title": "O Pirata Dan\u00e7arino",
+                "release_date": "1936-05-22",
+                "backdrop_path": "/oKPRXsPGf6uzQhQTo18nNLI41Tj.jpg",
+                "poster_path": "/uNcHCDMm5AJTNi1CmQoBdN7wBlk.jpg",
+                "overview": "Jonathan Pride is a mild-mannered dance instructor in 1820 Boston. En route to visit relatives, Jonathan is shanghaied by a band of zany pirates and forced to work as a galley boy. When the pirate vessel arrives at the port of Las Palomas, Jonathan, clad in buccaneer's garb, makes his escape. Everyone in Las Palomas, including Governor Alcalde (Frank Morgan) and fetching senorita Serafina (Steffi Duna), assumes that Jonathan is the pirate chieftain, leading to a series of typical comic-opera complications.",
+                "vote_average": 5.3,
+                "vote_count": 10
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Swing Time",
+            "second_label": "\"Bojangles of Harlem\" from \"Swing Time\"",
+            "category": "Dance Direction",
+            "year": 1937,
+            "tmdb": {
+                "id": 20325,
+                "original_title": "Swing Time",
+                "title": "Ritmo Louco",
+                "release_date": "1936-08-27",
+                "backdrop_path": "/lXiQusG4WJtwkDoYsOQLKG6Hzvn.jpg",
+                "poster_path": "/cECQGtw13ooPIuEpVWOUlUXaAnO.jpg",
+                "overview": "Um dan\u00e7arino e apostador viaja a Nova York para levantar a quantia necess\u00e1ria para poder se casar com sua noiva. Chegando l\u00e1, ele acaba se envolvendo com uma bela dan\u00e7arina novata.",
+                "vote_average": 6.8,
+                "vote_count": 209
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "Mr. Deeds Goes to Town",
+            "second_label": "Frank Capra",
+            "category": "Directing",
+            "year": 1937,
+            "tmdb": {
+                "id": 24807,
+                "original_title": "Mr. Deeds Goes to Town",
+                "title": "O Galante Mr. Deeds",
+                "release_date": "1936-04-09",
+                "backdrop_path": "/4HndddVOLbvifowXjNpdkkF8Q71.jpg",
+                "poster_path": "/9xBuHtiB4CwtEciWdUd28VvhkJO.jpg",
+                "overview": "O simpl\u00f3rio e honesto Longfellow Deeds, de Mandrake Falls - Vermont, acaba herdando uma fortuna imensa. Ele precisar\u00e1 ir para a cidade grande, mas lidar\u00e1 com pessoas que s\u00f3 pensam em se aproveitar de sua fortuna e humildade. Uma delas \u00e9 a rep\u00f3rter Babe Bennett, que fica amiga de Deeds somente porque est\u00e1 procurando uma boa hist\u00f3ria para seu jornal.",
+                "vote_average": 7.5,
+                "vote_count": 332
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Dodsworth",
+            "second_label": "William Wyler",
+            "category": "Directing",
+            "year": 1937,
+            "tmdb": {
+                "id": 31507,
+                "original_title": "Dodsworth",
+                "title": "Fogo de Outono",
+                "release_date": "1936-09-23",
+                "backdrop_path": "/aE9zfMnG4kGBf4SEyUZ5ehPsb6K.jpg",
+                "poster_path": "/qpd9P54mLYvzdC6rBz56is8aeDB.jpg",
+                "overview": "Um empres\u00e1rio se aposenta vendendo sua montadora de ve\u00edculos e parte em uma viagem com sua esposa para a Europa, que est\u00e1 em nega\u00e7\u00e3o sobre sua idade e usa a viagem como uma oportunidade de flertar com outros homens.",
+                "vote_average": 7.1,
+                "vote_count": 121
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Great Ziegfeld",
+            "second_label": "Robert Z. Leonard",
+            "category": "Directing",
+            "year": 1937,
+            "tmdb": {
+                "id": 43277,
+                "original_title": "The Great Ziegfeld",
+                "title": "Ziegfeld - O Criador de Estrelas",
+                "release_date": "1936-04-08",
+                "backdrop_path": "/1DMVadrF3wqBNcZPDfsVK3lDvAk.jpg",
+                "poster_path": "/im03JvbiNoLpUvRwmtQcyW0HqY6.jpg",
+                "overview": "O filme retrata a vida de Florenz Ziegfeld (William Powell), um dos maiores empres\u00e1rios do showbusiness norte-americano no come\u00e7o do s\u00e9culo XX. Incluindo seus casos com artistas de seus espet\u00e1culo, seu casamento com Anna Held (Luise Rainer) e a crise da d\u00e9cada de 30.",
+                "vote_average": 6.2,
+                "vote_count": 113
+            },
+            "winner": false
+        },
+        {
+            "first_label": "My Man Godfrey",
+            "second_label": "Gregory La Cava",
+            "category": "Directing",
+            "year": 1937,
+            "tmdb": {
+                "id": 13562,
+                "original_title": "My Man Godfrey",
+                "title": "Irene, a Teimosa",
+                "release_date": "1936-09-02",
+                "backdrop_path": "/xCIYcIdsC3vGqLNtR9w97vPxWnT.jpg",
+                "poster_path": "/wtfOW7fIxBZWY78rvUoPpWhMSiR.jpg",
+                "overview": "A crise econ\u00f4mica levou Godfrey a viver embaixo da ponte. Mas ao ser convidado para se tornar mordomo de uma fam\u00edlia rica, sua sorte muda. Na mans\u00e3o, ele conhece a bela Irene e aos poucos vai conquistando a confian\u00e7a de todos.",
+                "vote_average": 7.6,
+                "vote_count": 325
+            },
+            "winner": false
+        },
+        {
+            "first_label": "San Francisco",
+            "second_label": "W. S. Van Dyke",
+            "category": "Directing",
+            "year": 1937,
+            "tmdb": {
+                "id": 43881,
+                "original_title": "San Francisco",
+                "title": "S\u00e3o Francisco, a Cidade do Pecado",
+                "release_date": "1936-06-26",
+                "backdrop_path": "/paFUPuG8ImGQwCtR8vgwTW9iZWB.jpg",
+                "poster_path": "/zQF1UDB0ck4dRfKAn4XixGrCkjx.jpg",
+                "overview": "Um Le\u00e3o-de-Ch\u00e1cara da Costa Barbary e um empres\u00e1rio de Nob Hill s\u00e3o rivais pelos afetos de uma bela cantora, tanto pessoal quanto profissionalmente, na S\u00e3o Francisco de 1906.",
+                "vote_average": 6.6,
+                "vote_count": 65
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "Anthony Adverse",
+            "second_label": "Ralph Dawson",
+            "category": "Film Editing",
+            "year": 1937,
+            "tmdb": {
+                "id": 37658,
+                "original_title": "Anthony Adverse",
+                "title": "Adversidade",
+                "release_date": "1936-08-26",
+                "backdrop_path": "/dww52MSjI109oUWCoxBjoqg1o38.jpg",
+                "poster_path": "/9SPjkq5z86t80Q7XBw8AG2si2vQ.jpg",
+                "overview": "Based on the novel by Hervey Allen, this expansive drama follows the many adventures of the eponymous hero, Anthony Adverse. Abandoned at a convent by his heartless nobleman father, Don Luis, Anthony is later mentored by his kind grandfather, John Bonnyfeather, and falls for the beautiful Angela Giuseppe. When circumstances separate Anthony and Angela and he embarks on a long journey, he must find his way back to her, no matter what the cost.",
+                "vote_average": 5.7,
+                "vote_count": 25
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Come and Get It",
+            "second_label": "Edward Curtiss",
+            "category": "Film Editing",
+            "year": 1937,
+            "tmdb": {
+                "id": 93313,
+                "original_title": "Come and Get It",
+                "title": "Meu Filho \u00e9 Meu Rival",
+                "release_date": "1936-11-06",
+                "backdrop_path": "/9aiwz7W64ngTBf7v3pSs6lSEj0I.jpg",
+                "poster_path": "/cy4wlhy0a7VxKCJO4tHKnNCC3Vb.jpg",
+                "overview": "Wyoming, d\u00e9cada de 1880. Lenhador Barney Glasgow despreza a amada Lotta Morgan, cantora de saloon, em favor de um casamento por interesse com Emma Louise, filha do patr\u00e3o. Seu amigo Swan Bostrom une-se a Lotta. Barney enriquece derrubando \u00e1rvores sem o cuidado de replant\u00e1-las. Anos mais tarde, tanto ele quanto o filho Richard apaixonam-se pela filha de Lotta e Swan, tamb\u00e9m chamada Lotta e tamb\u00e9m muito parecida com a m\u00e3e.",
+                "vote_average": 6.8,
+                "vote_count": 30
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Great Ziegfeld",
+            "second_label": "William S. Gray",
+            "category": "Film Editing",
+            "year": 1937,
+            "tmdb": {
+                "id": 43277,
+                "original_title": "The Great Ziegfeld",
+                "title": "Ziegfeld - O Criador de Estrelas",
+                "release_date": "1936-04-08",
+                "backdrop_path": "/1DMVadrF3wqBNcZPDfsVK3lDvAk.jpg",
+                "poster_path": "/im03JvbiNoLpUvRwmtQcyW0HqY6.jpg",
+                "overview": "O filme retrata a vida de Florenz Ziegfeld (William Powell), um dos maiores empres\u00e1rios do showbusiness norte-americano no come\u00e7o do s\u00e9culo XX. Incluindo seus casos com artistas de seus espet\u00e1culo, seu casamento com Anna Held (Luise Rainer) e a crise da d\u00e9cada de 30.",
+                "vote_average": 6.2,
+                "vote_count": 113
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lloyds of London",
+            "second_label": "Barbara McLean",
+            "category": "Film Editing",
+            "year": 1937,
+            "tmdb": {
+                "id": 81687,
+                "original_title": "Lloyd's of London",
+                "title": "Lloyd's of London",
+                "release_date": "1936-11-25",
+                "backdrop_path": "/xRD6SIjR2ezwcMKw6J5UX7gef3v.jpg",
+                "poster_path": "/7Fg6Kcgrbw3Ek6SCK6DYDp4Y0OT.jpg",
+                "overview": "Norfolk, England, 1770. The nephew of an innkeeper and the son of a reverend maintain a very close friendship until, after living a great adventure, they must separate their paths. The former will head his footsteps to London and bound his destiny to Lloyd's, a thriving insurance company; the latter will eventually become one of the greatest heroes in the history of the British Empire.",
+                "vote_average": 7.2,
+                "vote_count": 18
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Tale of Two Cities",
+            "second_label": "Conrad A. Nervig",
+            "category": "Film Editing",
+            "year": 1937,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Theodora Goes Wild",
+            "second_label": "Otto Meyer",
+            "category": "Film Editing",
+            "year": 1937,
+            "tmdb": {
+                "id": 52429,
+                "original_title": "Theodora Goes Wild",
+                "title": "Os Pecados de Theodora",
+                "release_date": "1936-11-12",
+                "backdrop_path": "/oBlTxZS8aSLH1i67nczMeSuwg2a.jpg",
+                "poster_path": "/rCrLr32lMOeqKHrBuxAPYpDEDJX.jpg",
+                "overview": "The small-town prudes of Lynnfield are up in arms over 'The Sinner,' a sexy best-seller. They little suspect that author 'Caroline Adams' is really Theodora Lynn, scion of the town's leading family. Michael Grant, devil-may-care book jacket illustrator, penetrates Theodora's incognito and sets out to 'free her' from Lynnfield against her will. But Michael has a secret too, and gets a taste of his own medicine.",
+                "vote_average": 6.5,
+                "vote_count": 39
+            },
+            "winner": false
+        }
+    ],
+    "Music (Scoring)": [
+        {
+            "first_label": "Anthony Adverse",
+            "second_label": "Warner Bros. Studio Music Department, Leo Forbstein, head of department  (Score by Erich Wolfgang Korngold)",
+            "category": "Music (Scoring)",
+            "year": 1937,
+            "tmdb": {
+                "id": 37658,
+                "original_title": "Anthony Adverse",
+                "title": "Adversidade",
+                "release_date": "1936-08-26",
+                "backdrop_path": "/dww52MSjI109oUWCoxBjoqg1o38.jpg",
+                "poster_path": "/9SPjkq5z86t80Q7XBw8AG2si2vQ.jpg",
+                "overview": "Based on the novel by Hervey Allen, this expansive drama follows the many adventures of the eponymous hero, Anthony Adverse. Abandoned at a convent by his heartless nobleman father, Don Luis, Anthony is later mentored by his kind grandfather, John Bonnyfeather, and falls for the beautiful Angela Giuseppe. When circumstances separate Anthony and Angela and he embarks on a long journey, he must find his way back to her, no matter what the cost.",
+                "vote_average": 5.7,
+                "vote_count": 25
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Charge of the Light Brigade",
+            "second_label": "Warner Bros. Studio Music Department, Leo Forbstein, head of department  (Score by Max Steiner)",
+            "category": "Music (Scoring)",
+            "year": 1937,
+            "tmdb": {
+                "id": 43884,
+                "original_title": "The Charge of the Light Brigade",
+                "title": "A Carga da Brigada Ligeira",
+                "release_date": "1936-10-20",
+                "backdrop_path": "/dsrHhe5Ljve2WKwDUHJPIfyG3f1.jpg",
+                "poster_path": "/v7PFjyhEAWKGQ8g6cTGw4GzYKsa.jpg",
+                "overview": "Em 1853, enquanto os imp\u00e9rios brit\u00e2nico e russo competem para ganhar e manter seus lugares no terr\u00edvel Grande Jogo de intrigas e alian\u00e7as pol\u00edticas cujo maior pr\u00eamio \u00e9 o dom\u00ednio da \u00cdndia e dos territ\u00f3rios fronteiri\u00e7os, o Major Geoffrey Vickers deve suportar v\u00e1rias trai\u00e7\u00f5es e infort\u00fanios at\u00e9 poder se vingar nas Colinas de Balaclava, em 25 de outubro de 1854, o dia mais glorioso da Guerra da Crimeia.",
+                "vote_average": 6.5,
+                "vote_count": 64
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Garden of Allah",
+            "second_label": "Selznick International Pictures Music Department, Max Steiner, head of department  (Score by Max Steiner)",
+            "category": "Music (Scoring)",
+            "year": 1937,
+            "tmdb": {
+                "id": 151848,
+                "original_title": "The Garden of Allah",
+                "title": "O Jardim de Allah",
+                "release_date": "1936-10-14",
+                "backdrop_path": "/wCKoZibsAdSbtNkLZOJphPeG5w0.jpg",
+                "poster_path": "/ilEUSPjSJC50sgsJgQkDesW7iok.jpg",
+                "overview": "The star-crossed desert romance of a cloistered woman and a renegade monk.",
+                "vote_average": 5.6,
+                "vote_count": 27
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The General Died at Dawn",
+            "second_label": "Paramount Studio Music Department, Boris Morros, head of department  (Score by Werner Janssen)",
+            "category": "Music (Scoring)",
+            "year": 1937,
+            "tmdb": {
+                "id": 113916,
+                "original_title": "The General Died at Dawn",
+                "title": "O General Morreu ao Amanhecer",
+                "release_date": "1936-11-17",
+                "backdrop_path": "/mCPGNXY26GNmRF6hXFugCvJIxu9.jpg",
+                "poster_path": "/mpt6AyISPBYesV8lFxED7PoHxZD.jpg",
+                "overview": "China, 1930s, during the ravaging civil war. General Pen entrusts O'Hara, an intrepid American adventurer, with the mission of providing a large sum of money to Mr. Wu with the task of buying weapons in Shanghai to help end General Yang's tyranny that keeps an entire province under his ruthless iron boot.",
+                "vote_average": 6.2,
+                "vote_count": 13
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Winterset",
+            "second_label": "RKO Radio Studio Music Department, Nathaniel Shilkret, head of department  (Score by Nathaniel Shilkret)",
+            "category": "Music (Scoring)",
+            "year": 1937,
+            "tmdb": {
+                "id": 87445,
+                "original_title": "Winterset",
+                "title": "Os Predestinados",
+                "release_date": "1936-12-03",
+                "backdrop_path": "/vtgsdDm0uGNBYqQ14J3ONnhxiAm.jpg",
+                "poster_path": "/3t9wRsjNYJobOV5leydtv9tuPfD.jpg",
+                "overview": "A man is determined to find the real culprit behind the crime for which his father was wrongly executed.",
+                "vote_average": 5.4,
+                "vote_count": 11
+            },
+            "winner": false
+        }
+    ],
+    "Music (Song)": [
+        {
+            "first_label": "Swing Time",
+            "second_label": "The Way You Look Tonight in \"Swing Time\" Music by Jerome Kern; Lyrics by Dorothy Fields",
+            "category": "Music (Song)",
+            "year": 1937,
+            "tmdb": {
+                "id": 20325,
+                "original_title": "Swing Time",
+                "title": "Ritmo Louco",
+                "release_date": "1936-08-27",
+                "backdrop_path": "/lXiQusG4WJtwkDoYsOQLKG6Hzvn.jpg",
+                "poster_path": "/cECQGtw13ooPIuEpVWOUlUXaAnO.jpg",
+                "overview": "Um dan\u00e7arino e apostador viaja a Nova York para levantar a quantia necess\u00e1ria para poder se casar com sua noiva. Chegando l\u00e1, ele acaba se envolvendo com uma bela dan\u00e7arina novata.",
+                "vote_average": 6.8,
+                "vote_count": 209
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Suzy",
+            "second_label": "Did I Remember in \"Suzy\" Music by Walter Donaldson; Lyrics by Harold Adamson",
+            "category": "Music (Song)",
+            "year": 1937,
+            "tmdb": {
+                "id": 52358,
+                "original_title": "Suzy",
+                "title": "Suzy",
+                "release_date": "1936-07-20",
+                "backdrop_path": "/9tRdjGy803VMXEuRQyKME0VFPEo.jpg",
+                "poster_path": "/r7DOZC5fCuqoPnZNnpRimFFBdea.jpg",
+                "overview": "A French air ace discovers that his showgirl wife's first husband is still alive.",
+                "vote_average": 5.8,
+                "vote_count": 21
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Born to Dance",
+            "second_label": "I've Got You Under My Skin in \"Born to Dance\" Music and Lyrics by Cole Porter",
+            "category": "Music (Song)",
+            "year": 1937,
+            "tmdb": {
+                "id": 43872,
+                "original_title": "Born to Dance",
+                "title": "Born to Dance",
+                "release_date": "1936-11-27",
+                "backdrop_path": "/mEltS22GMPthU9MwzAP4HeRzUYg.jpg",
+                "poster_path": "/40ANyC8M0OuL7hevKmQFrAAbZaB.jpg",
+                "overview": "On leave, a sailor falls in love with a young lady aspiring to become a Broadway dancer, but their relationship is jeopardized by an established Broadway star, who is also enamored by him.",
+                "vote_average": 5.9,
+                "vote_count": 22
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Trail of the Lonesome Pine",
+            "second_label": "A Melody From The Sky in \"Trail of the Lonesome Pine\" Music by Louis Alter; Lyrics by Sidney Mitchell",
+            "category": "Music (Song)",
+            "year": 1937,
+            "tmdb": {
+                "id": 76094,
+                "original_title": "The Trail of the Lonesome Pine",
+                "title": "The Trail of the Lonesome Pine",
+                "release_date": "1936-03-13",
+                "backdrop_path": "/cvVv9Xr8AaYhhV6Dfae4iQUuPa6.jpg",
+                "poster_path": "/6x9MA5AAfGYuRLCDT8d2dogYtC4.jpg",
+                "overview": "A well-established tale of a long-running feud between two mountain clans.",
+                "vote_average": 6.3,
+                "vote_count": 25
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Pennies from Heaven",
+            "second_label": "Pennies From Heaven in \"Pennies from Heaven\" Music by Arthur Johnston; Lyrics by Johnny Burke",
+            "category": "Music (Song)",
+            "year": 1937,
+            "tmdb": {
+                "id": 189005,
+                "original_title": "Pennies from Heaven",
+                "title": "Dinheiro do C\u00e9u",
+                "release_date": "1936-11-25",
+                "backdrop_path": "/ehWF02YDjGbym8yQORQ7yBxNeyH.jpg",
+                "poster_path": "/1qpr2k4IQCCuRGnCcOnBGxJYrWE.jpg",
+                "overview": "Larry Poole, in prison on a false charge, promises an inmate that when he gets out he will look up and help out a family. The family turns out to be a young girl, Patsy Smith, and her elderly grandfather who need lots of help. This delays Larry from following his dream and going to Venice and becoming a gondolier. Instead, he becomes a street singer and, while singing in the street, meets a pretty welfare worker, Susan Sprague. She takes a dim view of Patsy's welfare under the guardianship of Larry and her grandfather and starts proceedings to have Patsy placed in an orphanage.",
+                "vote_average": 6.8,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sing, Baby, Sing",
+            "second_label": "When Did You Leave Heaven in \"Sing, Baby, Sing\" Music by Richard A. Whiting; Lyrics by Walter Bullock",
+            "category": "Music (Song)",
+            "year": 1937,
+            "tmdb": {
+                "id": 218365,
+                "original_title": "Sing, Baby, Sing",
+                "title": "Sing, Baby, Sing",
+                "release_date": "1936-08-21",
+                "backdrop_path": "/AmRDkUu1aPmVLZAZuEA0kgiN1P.jpg",
+                "poster_path": "/gfCQ8ZSIAUIHrjADh27Q2yz2Nae.jpg",
+                "overview": "The \"Caliban-Ariel\" romance of fiftysomething John Barrymore and teenager Elaine Barrie is spoofed in this delightful 20th Century Fox musical. Adolphe Menjou plays the Barrymore counterpart, a loose-living movie star with a penchant for wine, women, and more wine. Alice Faye plays a nightclub singer hungry for publicity. Her agent (Gregory Ratoff) arranges a \"romance\" between Faye and Menjou. Eventually Faye winds up with Michael Whalen, allowing Menjou to continue his blissful, bibulous bachelorhood. Sing, Baby, Sing represented the feature-film debut of the Ritz Brothers, who are in top form in their specialty numbers--and who are awarded a final curtain call after the \"The End\" title, just so the audience won't forget them (The same device was used to introduce British actor George Sanders in Fox's Lancer Spy [37]).",
+                "vote_average": 5.7,
+                "vote_count": 3
+            },
+            "winner": false
+        }
+    ],
+    "Outstanding Production": [
+        {
+            "first_label": "The Great Ziegfeld",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Outstanding Production",
+            "year": 1937,
+            "tmdb": {
+                "id": 43277,
+                "original_title": "The Great Ziegfeld",
+                "title": "Ziegfeld - O Criador de Estrelas",
+                "release_date": "1936-04-08",
+                "backdrop_path": "/1DMVadrF3wqBNcZPDfsVK3lDvAk.jpg",
+                "poster_path": "/im03JvbiNoLpUvRwmtQcyW0HqY6.jpg",
+                "overview": "O filme retrata a vida de Florenz Ziegfeld (William Powell), um dos maiores empres\u00e1rios do showbusiness norte-americano no come\u00e7o do s\u00e9culo XX. Incluindo seus casos com artistas de seus espet\u00e1culo, seu casamento com Anna Held (Luise Rainer) e a crise da d\u00e9cada de 30.",
+                "vote_average": 6.2,
+                "vote_count": 113
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Anthony Adverse",
+            "second_label": "Warner Bros.",
+            "category": "Outstanding Production",
+            "year": 1937,
+            "tmdb": {
+                "id": 37658,
+                "original_title": "Anthony Adverse",
+                "title": "Adversidade",
+                "release_date": "1936-08-26",
+                "backdrop_path": "/dww52MSjI109oUWCoxBjoqg1o38.jpg",
+                "poster_path": "/9SPjkq5z86t80Q7XBw8AG2si2vQ.jpg",
+                "overview": "Based on the novel by Hervey Allen, this expansive drama follows the many adventures of the eponymous hero, Anthony Adverse. Abandoned at a convent by his heartless nobleman father, Don Luis, Anthony is later mentored by his kind grandfather, John Bonnyfeather, and falls for the beautiful Angela Giuseppe. When circumstances separate Anthony and Angela and he embarks on a long journey, he must find his way back to her, no matter what the cost.",
+                "vote_average": 5.7,
+                "vote_count": 25
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dodsworth",
+            "second_label": "Samuel Goldwyn Productions",
+            "category": "Outstanding Production",
+            "year": 1937,
+            "tmdb": {
+                "id": 31507,
+                "original_title": "Dodsworth",
+                "title": "Fogo de Outono",
+                "release_date": "1936-09-23",
+                "backdrop_path": "/aE9zfMnG4kGBf4SEyUZ5ehPsb6K.jpg",
+                "poster_path": "/qpd9P54mLYvzdC6rBz56is8aeDB.jpg",
+                "overview": "Um empres\u00e1rio se aposenta vendendo sua montadora de ve\u00edculos e parte em uma viagem com sua esposa para a Europa, que est\u00e1 em nega\u00e7\u00e3o sobre sua idade e usa a viagem como uma oportunidade de flertar com outros homens.",
+                "vote_average": 7.1,
+                "vote_count": 121
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Libeled Lady",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Outstanding Production",
+            "year": 1937,
+            "tmdb": {
+                "id": 31773,
+                "original_title": "Libeled Lady",
+                "title": "Libeled Lady",
+                "release_date": "1936-10-09",
+                "backdrop_path": "/yIj4Y2BXbjr8Qem6Ly8QJWt4PgL.jpg",
+                "poster_path": "/mu2zGdHZJ9IASvnQktjGLZ4kU13.jpg",
+                "overview": "When a major newspaper accuses wealthy socialite Connie Allenbury of being a home-wrecker, and she files a multi-million-dollar libel lawsuit, the publication's frazzled head editor, Warren Haggerty, must find a way to turn the tables on her. Soon Haggerty's harried fianc\u00e9e, Gladys Benton, and his dashing friend Bill Chandler are in on a scheme that aims to discredit Connie, with amusing and unexpected results.",
+                "vote_average": 7.3,
+                "vote_count": 106
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mr. Deeds Goes to Town",
+            "second_label": "Columbia",
+            "category": "Outstanding Production",
+            "year": 1937,
+            "tmdb": {
+                "id": 24807,
+                "original_title": "Mr. Deeds Goes to Town",
+                "title": "O Galante Mr. Deeds",
+                "release_date": "1936-04-09",
+                "backdrop_path": "/4HndddVOLbvifowXjNpdkkF8Q71.jpg",
+                "poster_path": "/9xBuHtiB4CwtEciWdUd28VvhkJO.jpg",
+                "overview": "O simpl\u00f3rio e honesto Longfellow Deeds, de Mandrake Falls - Vermont, acaba herdando uma fortuna imensa. Ele precisar\u00e1 ir para a cidade grande, mas lidar\u00e1 com pessoas que s\u00f3 pensam em se aproveitar de sua fortuna e humildade. Uma delas \u00e9 a rep\u00f3rter Babe Bennett, que fica amiga de Deeds somente porque est\u00e1 procurando uma boa hist\u00f3ria para seu jornal.",
+                "vote_average": 7.5,
+                "vote_count": 332
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Romeo and Juliet",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Outstanding Production",
+            "year": 1937,
+            "tmdb": {
+                "id": 43879,
+                "original_title": "Romeo and Juliet",
+                "title": "Romeu e Julieta",
+                "release_date": "1936-09-03",
+                "backdrop_path": "/kRY4Y3en26BiJCC0GO4YZ4EDyOb.jpg",
+                "poster_path": "/tGK16kxbsSrNnuRyhw57Yl1H20w.jpg",
+                "overview": "Young love is poisoned by a generations long feud between two noble families.",
+                "vote_average": 6.0,
+                "vote_count": 24
+            },
+            "winner": false
+        },
+        {
+            "first_label": "San Francisco",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Outstanding Production",
+            "year": 1937,
+            "tmdb": {
+                "id": 43881,
+                "original_title": "San Francisco",
+                "title": "S\u00e3o Francisco, a Cidade do Pecado",
+                "release_date": "1936-06-26",
+                "backdrop_path": "/paFUPuG8ImGQwCtR8vgwTW9iZWB.jpg",
+                "poster_path": "/zQF1UDB0ck4dRfKAn4XixGrCkjx.jpg",
+                "overview": "Um Le\u00e3o-de-Ch\u00e1cara da Costa Barbary e um empres\u00e1rio de Nob Hill s\u00e3o rivais pelos afetos de uma bela cantora, tanto pessoal quanto profissionalmente, na S\u00e3o Francisco de 1906.",
+                "vote_average": 6.6,
+                "vote_count": 65
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Story of Louis Pasteur",
+            "second_label": "Cosmopolitan",
+            "category": "Outstanding Production",
+            "year": 1937,
+            "tmdb": {
+                "id": 74469,
+                "original_title": "The Story of Louis Pasteur",
+                "title": "The Story of Louis Pasteur",
+                "release_date": "1936-02-22",
+                "backdrop_path": "/dNrOYlSjx9F6WPrtVaKai6OAa1k.jpg",
+                "poster_path": "/tEYBb5ZKK22TWSwLY1hkFSD2rjG.jpg",
+                "overview": "A true story about Louis Pasteur, who revolutionized medicine by proving that much disease is caused by microbes, that sanitation is paramount and that at least some diseases can be cured by vaccinations.",
+                "vote_average": 6.8,
+                "vote_count": 39
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Tale of Two Cities",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Outstanding Production",
+            "year": 1937,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Three Smart Girls",
+            "second_label": "Universal",
+            "category": "Outstanding Production",
+            "year": 1937,
+            "tmdb": {
+                "id": 64142,
+                "original_title": "Three Smart Girls",
+                "title": "Tr\u00eas Pequenas do Barulho",
+                "release_date": "1936-12-20",
+                "backdrop_path": "/iuqShSmgUOCM72Mu4u7Btqelflx.jpg",
+                "poster_path": "/zae2mPsb621u2U4vLa2KkDGG7el.jpg",
+                "overview": "The three Craig sisters Penny, Kay, and Joan, go to New York to stop their divorced father from marrying gold digger Donna Lyons and re-unite him with their mother.",
+                "vote_average": 6.4,
+                "vote_count": 16
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Cartoon)": [
+        {
+            "first_label": "The Country Cousin",
+            "second_label": "Walt Disney, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1937,
+            "tmdb": {
+                "id": 80927,
+                "original_title": "The Country Cousin",
+                "title": "Primo da Ro\u00e7a",
+                "release_date": "1936-10-31",
+                "backdrop_path": "/96vGENlvGicAHrkvOd0bzM2VYJV.jpg",
+                "poster_path": "/vEYHGahoIQ1oJriICmaIaqKYfof.jpg",
+                "overview": "Morty, um rato da cidade, convida seu primo do interior Abner para conhecer a vida da cidade grande.",
+                "vote_average": 6.2,
+                "vote_count": 61
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Old Mill Pond",
+            "second_label": "Harman-Ising",
+            "category": "Short Subject (Cartoon)",
+            "year": 1937,
+            "tmdb": {
+                "id": 201973,
+                "original_title": "The Old Mill Pond",
+                "title": "The Old Mill Pond",
+                "release_date": "1936-03-06",
+                "backdrop_path": "/vSnbkkeANw77EA2bIltaB9AGn4h.jpg",
+                "poster_path": "/gJXGtjEW4BLdfiMvkTVfUAjFXXT.jpg",
+                "overview": "The fish and frogs gather at the old mill pond to hear a jazz concert. Performers include caricatures of Cab Calloway, Fats Waller, and tap dancer Bill Robinson (\"Bojangles\").",
+                "vote_average": 4.9,
+                "vote_count": 11
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sinbad the Sailor",
+            "second_label": "Paramount",
+            "category": "Short Subject (Cartoon)",
+            "year": 1937,
+            "tmdb": {
+                "id": 67713,
+                "original_title": "Popeye the Sailor Meets Sindbad the Sailor",
+                "title": "Popeye the Sailor Meets Sindbad the Sailor",
+                "release_date": "1936-11-27",
+                "backdrop_path": "/v72aGYqPcX5kLD1AVzsTXoxfS4d.jpg",
+                "poster_path": "/Ae4r3014zCLSbaL9PiiFm9QGWXS.jpg",
+                "overview": "O marujo Sinbad se proclama o maior marinheiro do mundo, uma alega\u00e7\u00e3o que \u00e9 desafiada pela chegada de Popeye \u00e0 sua ilha com Ol\u00edvia Palito e Dudu. Com a ajuda do seu p\u00e1ssaro Roca, Sinbad lan\u00e7a uma s\u00e9rie de desafios a Popeye para que este possa provar sua grandeza.",
+                "vote_average": 6.4,
+                "vote_count": 115
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Color)": [
+        {
+            "first_label": "Give Me Liberty",
+            "second_label": "Warner Bros.",
+            "category": "Short Subject (Color)",
+            "year": 1937,
+            "tmdb": {
+                "id": 233693,
+                "original_title": "Give Me Liberty",
+                "title": "Give Me Liberty",
+                "release_date": "1936-12-19",
+                "backdrop_path": null,
+                "poster_path": "/qpwafnNixYDlHJHnpQ2pUtTuzqC.jpg",
+                "overview": "Patrick Henry's rousing speech before the Virginia legislature argues for colonial independence.",
+                "vote_average": 5.9,
+                "vote_count": 7
+            },
+            "winner": true
+        },
+        {
+            "first_label": "La Fiesta de Santa Barbara",
+            "second_label": "Lewis Lewyn, Producer",
+            "category": "Short Subject (Color)",
+            "year": 1937,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Popular Science J-6-2",
+            "second_label": "Paramount",
+            "category": "Short Subject (Color)",
+            "year": 1937,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (One-reel)": [
+        {
+            "first_label": "Bored of Education",
+            "second_label": "Hal Roach, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1937,
+            "tmdb": {
+                "id": 202265,
+                "original_title": "Bored of Education",
+                "title": "Bored of Education",
+                "release_date": "1936-08-20",
+                "backdrop_path": "/gknNFyUu1L4JoaerObxbPPF0sjr.jpg",
+                "poster_path": "/wrNRS2Fzxd5n91TNKkmARsWgX9L.jpg",
+                "overview": "Spanky and Alfalfa fake a toothache to get out of school.",
+                "vote_average": 6.3,
+                "vote_count": 10
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Moscow Moods",
+            "second_label": "Paramount",
+            "category": "Short Subject (One-reel)",
+            "year": 1937,
+            "tmdb": {
+                "id": 233689,
+                "original_title": "Moscow Moods",
+                "title": "Moscow Moods",
+                "release_date": "1936-01-23",
+                "backdrop_path": null,
+                "poster_path": "/iJRC66lLHkUfoyVM38Xq76KeAqz.jpg",
+                "overview": "Moscow Moods is a 1936 American short film directed by Fred Waller. It was nominated for an Academy Award at the 9th Academy Awards in 1936 for Best Short Subject (One-Reel).",
+                "vote_average": 1.0,
+                "vote_count": 1
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Wanted, a Master",
+            "second_label": "Pete Smith, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1937,
+            "tmdb": {
+                "id": 233691,
+                "original_title": "Wanted - A Master",
+                "title": "Wanted - A Master",
+                "release_date": "1936-12-26",
+                "backdrop_path": null,
+                "poster_path": "/16v1Kz8pHZn1OLYmd8hVfUTw5vA.jpg",
+                "overview": "A dog living in a junkyard learns that all stray dogs will be exterminated by 3 o'clock that afternoon, so sets off to find a master before the deadline.",
+                "vote_average": 6.2,
+                "vote_count": 5
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Two-reel)": [
+        {
+            "first_label": "The Public Pays",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Short Subject (Two-reel)",
+            "year": 1937,
+            "tmdb": {
+                "id": 130386,
+                "original_title": "The Public Pays",
+                "title": "The Public Pays",
+                "release_date": "1936-10-10",
+                "backdrop_path": "/iT8VxWJctOQnQqvKmW7SPTfjzRj.jpg",
+                "poster_path": "/4ezWESlj4BoD5xPvtFLVcq7zxVz.jpg",
+                "overview": "In this MGM Crime Does Not Pay series short, a protection racket preying on milk distribution is broken through the persistence of law enforcement and the courage of a local businessman.",
+                "vote_average": 7.0,
+                "vote_count": 6
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Double or Nothing",
+            "second_label": "Warner Bros.",
+            "category": "Short Subject (Two-reel)",
+            "year": 1937,
+            "tmdb": {
+                "id": 233684,
+                "original_title": "Double or Nothing",
+                "title": "Double or Nothing",
+                "release_date": "1936-01-18",
+                "backdrop_path": null,
+                "poster_path": "/dOg3FhFnjBqehJSZ6TV0CYH7lK6.jpg",
+                "overview": "Double or Nothing is a 1936 American short musical comedy film directed by Joseph Henabery. It was nominated for an Academy Award at the 9th Academy Awards in 1936 for Best Short Subject (Two-Reel).  Preserved by the Academy Film Archive in partnership with Library of Congress.  Motion Picture, Broadcasting, and Recorded Sound Division in 2013.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dummy Ache",
+            "second_label": "RKO Radio",
+            "category": "Short Subject (Two-reel)",
+            "year": 1937,
+            "tmdb": {
+                "id": 233686,
+                "original_title": "Dummy Ache",
+                "title": "Dummy Ache",
+                "release_date": "1936-07-10",
+                "backdrop_path": null,
+                "poster_path": "/8b7vb0ahP1T8vUBNtSj8soBSEoH.jpg",
+                "overview": "Dummy Ache is a 1936 American short comedy film directed by Leslie Goodwins. An assuming husband, suspicious of his wife, follows her for the day. Misunderstandings, mishaps, and hijinks ensue. It was nominated for an Academy Award at the 9th Academy Awards in 1936 for Best Short Subject (Two-Reel).  Preserved by the Academy Film Archive in partnership with Library of Congress. Motion Picture, Broadcasting, and Recorded Sound Division in 2013.",
+                "vote_average": 4.0,
+                "vote_count": 3
+            },
+            "winner": false
+        }
+    ],
+    "Sound Recording": [
+        {
+            "first_label": "San Francisco",
+            "second_label": "Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",
+            "category": "Sound Recording",
+            "year": 1937,
+            "tmdb": {
+                "id": 43881,
+                "original_title": "San Francisco",
+                "title": "S\u00e3o Francisco, a Cidade do Pecado",
+                "release_date": "1936-06-26",
+                "backdrop_path": "/paFUPuG8ImGQwCtR8vgwTW9iZWB.jpg",
+                "poster_path": "/zQF1UDB0ck4dRfKAn4XixGrCkjx.jpg",
+                "overview": "Um Le\u00e3o-de-Ch\u00e1cara da Costa Barbary e um empres\u00e1rio de Nob Hill s\u00e3o rivais pelos afetos de uma bela cantora, tanto pessoal quanto profissionalmente, na S\u00e3o Francisco de 1906.",
+                "vote_average": 6.6,
+                "vote_count": 65
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Banjo on My Knee",
+            "second_label": "20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director",
+            "category": "Sound Recording",
+            "year": 1937,
+            "tmdb": {
+                "id": 149991,
+                "original_title": "Banjo on My Knee",
+                "title": "Um Romance no Mississippi",
+                "release_date": "1936-12-11",
+                "backdrop_path": "/jI3zw0UrBQhPR1uTbyfrDbPplZE.jpg",
+                "poster_path": "/66D5TtKwXiIX796NT3M5D8vEAor.jpg",
+                "overview": "A young husband leaves his river shantyboat community in Pecan Point, Tennessee and travels to New Orleans in search of his runaway wife.",
+                "vote_average": 5.5,
+                "vote_count": 10
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Charge of the Light Brigade",
+            "second_label": "Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",
+            "category": "Sound Recording",
+            "year": 1937,
+            "tmdb": {
+                "id": 43884,
+                "original_title": "The Charge of the Light Brigade",
+                "title": "A Carga da Brigada Ligeira",
+                "release_date": "1936-10-20",
+                "backdrop_path": "/dsrHhe5Ljve2WKwDUHJPIfyG3f1.jpg",
+                "poster_path": "/v7PFjyhEAWKGQ8g6cTGw4GzYKsa.jpg",
+                "overview": "Em 1853, enquanto os imp\u00e9rios brit\u00e2nico e russo competem para ganhar e manter seus lugares no terr\u00edvel Grande Jogo de intrigas e alian\u00e7as pol\u00edticas cujo maior pr\u00eamio \u00e9 o dom\u00ednio da \u00cdndia e dos territ\u00f3rios fronteiri\u00e7os, o Major Geoffrey Vickers deve suportar v\u00e1rias trai\u00e7\u00f5es e infort\u00fanios at\u00e9 poder se vingar nas Colinas de Balaclava, em 25 de outubro de 1854, o dia mais glorioso da Guerra da Crimeia.",
+                "vote_average": 6.5,
+                "vote_count": 64
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dodsworth",
+            "second_label": "United Artists Studio Sound Department, Thomas T. Moulton, Sound Director",
+            "category": "Sound Recording",
+            "year": 1937,
+            "tmdb": {
+                "id": 31507,
+                "original_title": "Dodsworth",
+                "title": "Fogo de Outono",
+                "release_date": "1936-09-23",
+                "backdrop_path": "/aE9zfMnG4kGBf4SEyUZ5ehPsb6K.jpg",
+                "poster_path": "/qpd9P54mLYvzdC6rBz56is8aeDB.jpg",
+                "overview": "Um empres\u00e1rio se aposenta vendendo sua montadora de ve\u00edculos e parte em uma viagem com sua esposa para a Europa, que est\u00e1 em nega\u00e7\u00e3o sobre sua idade e usa a viagem como uma oportunidade de flertar com outros homens.",
+                "vote_average": 7.1,
+                "vote_count": 121
+            },
+            "winner": false
+        },
+        {
+            "first_label": "General Spanky",
+            "second_label": "Hal Roach Studio Sound Department, Elmer A. Raguse, Sound Director",
+            "category": "Sound Recording",
+            "year": 1937,
+            "tmdb": {
+                "id": 90358,
+                "original_title": "General Spanky",
+                "title": "General Spanky",
+                "release_date": "1936-12-11",
+                "backdrop_path": "/oL1KoTd6itfrGmqE77Oa7xlgzIm.jpg",
+                "poster_path": "/qnf2STVPgqzn83cPQsuTY6AwUxR.jpg",
+                "overview": "Orphaned shoeshine boy Spanky is working on a Mississippi riverboat during the Civil War. There he befriends young runaway slave Buckwheat. After wronging a vicious gambler, Spanky and Buckwheat are forced to jump ship. Finding solace at a nearby house, the two are picked by Marshall Valiant for an important mission. This inspires Spanky to organize the local kids to form a small army of their own.",
+                "vote_average": 5.0,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mr. Deeds Goes to Town",
+            "second_label": "Columbia Studio Sound Department, John Livadary, Sound Director",
+            "category": "Sound Recording",
+            "year": 1937,
+            "tmdb": {
+                "id": 24807,
+                "original_title": "Mr. Deeds Goes to Town",
+                "title": "O Galante Mr. Deeds",
+                "release_date": "1936-04-09",
+                "backdrop_path": "/4HndddVOLbvifowXjNpdkkF8Q71.jpg",
+                "poster_path": "/9xBuHtiB4CwtEciWdUd28VvhkJO.jpg",
+                "overview": "O simpl\u00f3rio e honesto Longfellow Deeds, de Mandrake Falls - Vermont, acaba herdando uma fortuna imensa. Ele precisar\u00e1 ir para a cidade grande, mas lidar\u00e1 com pessoas que s\u00f3 pensam em se aproveitar de sua fortuna e humildade. Uma delas \u00e9 a rep\u00f3rter Babe Bennett, que fica amiga de Deeds somente porque est\u00e1 procurando uma boa hist\u00f3ria para seu jornal.",
+                "vote_average": 7.5,
+                "vote_count": 332
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Texas Rangers",
+            "second_label": "Paramount Studio Sound Department, Franklin B. Hansen, Sound Director",
+            "category": "Sound Recording",
+            "year": 1937,
+            "tmdb": {
+                "id": 50104,
+                "original_title": "The Texas Rangers",
+                "title": "Atiradores do Texas",
+                "release_date": "1936-08-28",
+                "backdrop_path": "/40jGC7yDEOJfuJnl2xiEiM5QMKm.jpg",
+                "poster_path": "/AqT33eHMRJPr9vpFF4kLlu1MSNh.jpg",
+                "overview": "Two down-on-their-luck former outlaws volunteer to be Texas Rangers and find themselves assigned to bring in an old friend, now a notorious outlaw.",
+                "vote_average": 6.3,
+                "vote_count": 13
+            },
+            "winner": false
+        },
+        {
+            "first_label": "That Girl from Paris",
+            "second_label": "RKO Radio Studio Sound Department, J. O. Aalberg, Sound Director",
+            "category": "Sound Recording",
+            "year": 1937,
+            "tmdb": {
+                "id": 218369,
+                "original_title": "That Girl from Paris",
+                "title": "That Girl from Paris",
+                "release_date": "1936-12-31",
+                "backdrop_path": "/cO09SmHBLEF8vHdepWkkcR13iMc.jpg",
+                "poster_path": "/x1d8BvQc1AaRWHTLMLTnfHFK2.jpg",
+                "overview": "Nikki Martin, a beautiful French opera star, stows away on an ocean liner in hopes of escaping her jealous fiancee. Once aboard, she joins an American swing band and falls in love with its leader, who, after hearing her sing, eventually comes to reciprocate her feelings.",
+                "vote_average": 6.5,
+                "vote_count": 2
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Three Smart Girls",
+            "second_label": "Universal Studio Sound Department, Homer G. Tasker, Sound Director",
+            "category": "Sound Recording",
+            "year": 1937,
+            "tmdb": {
+                "id": 64142,
+                "original_title": "Three Smart Girls",
+                "title": "Tr\u00eas Pequenas do Barulho",
+                "release_date": "1936-12-20",
+                "backdrop_path": "/iuqShSmgUOCM72Mu4u7Btqelflx.jpg",
+                "poster_path": "/zae2mPsb621u2U4vLa2KkDGG7el.jpg",
+                "overview": "The three Craig sisters Penny, Kay, and Joan, go to New York to stop their divorced father from marrying gold digger Donna Lyons and re-unite him with their mother.",
+                "vote_average": 6.4,
+                "vote_count": 16
+            },
+            "winner": false
+        }
+    ],
+    "Special Award": [
+        {
+            "first_label": "The Garden of Allah",
+            "second_label": "Special Award",
+            "category": "Special Award",
+            "year": 1937,
+            "tmdb": {
+                "id": 151848,
+                "original_title": "The Garden of Allah",
+                "title": "O Jardim de Allah",
+                "release_date": "1936-10-14",
+                "backdrop_path": "/wCKoZibsAdSbtNkLZOJphPeG5w0.jpg",
+                "poster_path": "/ilEUSPjSJC50sgsJgQkDesW7iok.jpg",
+                "overview": "The star-crossed desert romance of a cloistered woman and a renegade monk.",
+                "vote_average": 5.6,
+                "vote_count": 27
+            },
+            "winner": true
+        }
+    ],
+    "Writing (Original Story)": [
+        {
+            "first_label": "The Story of Louis Pasteur",
+            "second_label": "Pierre Collings, Sheridan Gibney",
+            "category": "Writing (Original Story)",
+            "year": 1937,
+            "tmdb": {
+                "id": 74469,
+                "original_title": "The Story of Louis Pasteur",
+                "title": "The Story of Louis Pasteur",
+                "release_date": "1936-02-22",
+                "backdrop_path": "/dNrOYlSjx9F6WPrtVaKai6OAa1k.jpg",
+                "poster_path": "/tEYBb5ZKK22TWSwLY1hkFSD2rjG.jpg",
+                "overview": "A true story about Louis Pasteur, who revolutionized medicine by proving that much disease is caused by microbes, that sanitation is paramount and that at least some diseases can be cured by vaccinations.",
+                "vote_average": 6.8,
+                "vote_count": 39
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Fury",
+            "second_label": "Norman Krasna",
+            "category": "Writing (Original Story)",
+            "year": 1937,
+            "tmdb": {
+                "id": 14615,
+                "original_title": "Fury",
+                "title": "F\u00faria",
+                "release_date": "1936-06-05",
+                "backdrop_path": "/jO42dG97qZDvrWnbvs6KxC7E97c.jpg",
+                "poster_path": "/u1kjLTUqmqjDMlRxcwCqWagjf6r.jpg",
+                "overview": "Quando um injustamente acusado prisioneiro mal sobrevive a um ataque de uma turba de linchadores e \u00e9 dado como morto, ele vingativamente decide responsabilizar a multid\u00e3o pelo seu assassinato. Joe Wilson e Katherine Grant est\u00e3o namorando, mas ele n\u00e3o tem dinheiro suficiente para se casar. Ent\u00e3o Katherine viaja pelo pa\u00eds para ganhar dinheiro. Mas as coisas d\u00e3o desastrosamente errado para Joe quando ele para em uma pequena cidade e \u00e9 confundido com um assassino procurado. Ao longo do filme, Fritz Lang nos mostra como um homem decente e civilizado pode tornar-se um homem cruel e amargo.",
+                "vote_average": 7.5,
+                "vote_count": 202
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Great Ziegfeld",
+            "second_label": "William Anthony McGuire",
+            "category": "Writing (Original Story)",
+            "year": 1937,
+            "tmdb": {
+                "id": 43277,
+                "original_title": "The Great Ziegfeld",
+                "title": "Ziegfeld - O Criador de Estrelas",
+                "release_date": "1936-04-08",
+                "backdrop_path": "/1DMVadrF3wqBNcZPDfsVK3lDvAk.jpg",
+                "poster_path": "/im03JvbiNoLpUvRwmtQcyW0HqY6.jpg",
+                "overview": "O filme retrata a vida de Florenz Ziegfeld (William Powell), um dos maiores empres\u00e1rios do showbusiness norte-americano no come\u00e7o do s\u00e9culo XX. Incluindo seus casos com artistas de seus espet\u00e1culo, seu casamento com Anna Held (Luise Rainer) e a crise da d\u00e9cada de 30.",
+                "vote_average": 6.2,
+                "vote_count": 113
+            },
+            "winner": false
+        },
+        {
+            "first_label": "San Francisco",
+            "second_label": "Robert Hopkins",
+            "category": "Writing (Original Story)",
+            "year": 1937,
+            "tmdb": {
+                "id": 43881,
+                "original_title": "San Francisco",
+                "title": "S\u00e3o Francisco, a Cidade do Pecado",
+                "release_date": "1936-06-26",
+                "backdrop_path": "/paFUPuG8ImGQwCtR8vgwTW9iZWB.jpg",
+                "poster_path": "/zQF1UDB0ck4dRfKAn4XixGrCkjx.jpg",
+                "overview": "Um Le\u00e3o-de-Ch\u00e1cara da Costa Barbary e um empres\u00e1rio de Nob Hill s\u00e3o rivais pelos afetos de uma bela cantora, tanto pessoal quanto profissionalmente, na S\u00e3o Francisco de 1906.",
+                "vote_average": 6.6,
+                "vote_count": 65
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Three Smart Girls",
+            "second_label": "Adele Comandini",
+            "category": "Writing (Original Story)",
+            "year": 1937,
+            "tmdb": {
+                "id": 64142,
+                "original_title": "Three Smart Girls",
+                "title": "Tr\u00eas Pequenas do Barulho",
+                "release_date": "1936-12-20",
+                "backdrop_path": "/iuqShSmgUOCM72Mu4u7Btqelflx.jpg",
+                "poster_path": "/zae2mPsb621u2U4vLa2KkDGG7el.jpg",
+                "overview": "The three Craig sisters Penny, Kay, and Joan, go to New York to stop their divorced father from marrying gold digger Donna Lyons and re-unite him with their mother.",
+                "vote_average": 6.4,
+                "vote_count": 16
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay)": [
+        {
+            "first_label": "The Story of Louis Pasteur",
+            "second_label": "Pierre Collings, Sheridan Gibney",
+            "category": "Writing (Screenplay)",
+            "year": 1937,
+            "tmdb": {
+                "id": 74469,
+                "original_title": "The Story of Louis Pasteur",
+                "title": "The Story of Louis Pasteur",
+                "release_date": "1936-02-22",
+                "backdrop_path": "/dNrOYlSjx9F6WPrtVaKai6OAa1k.jpg",
+                "poster_path": "/tEYBb5ZKK22TWSwLY1hkFSD2rjG.jpg",
+                "overview": "A true story about Louis Pasteur, who revolutionized medicine by proving that much disease is caused by microbes, that sanitation is paramount and that at least some diseases can be cured by vaccinations.",
+                "vote_average": 6.8,
+                "vote_count": 39
+            },
+            "winner": true
+        },
+        {
+            "first_label": "After the Thin Man",
+            "second_label": "Frances Goodrich, Albert Hackett",
+            "category": "Writing (Screenplay)",
+            "year": 1937,
+            "tmdb": {
+                "id": 14588,
+                "original_title": "After the Thin Man",
+                "title": "A Com\u00e9dia dos Acusados",
+                "release_date": "1936-12-25",
+                "backdrop_path": "/xRyu3WKWBATP8T4afJ5vArNlElB.jpg",
+                "poster_path": "/1fkCHOffEkPOY0UwSrvzG6YKDVp.jpg",
+                "overview": "Nick and Nora Charles investigate when Nora's cousin reports her disreputable husband is missing, and find themselves in a mystery involving the shady owners of a popular nightclub, a singer and her dark brother, the cousin's forsaken true love, and Nora's bombastic and controlling aunt.",
+                "vote_average": 7.3,
+                "vote_count": 154
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dodsworth",
+            "second_label": "Sidney Howard",
+            "category": "Writing (Screenplay)",
+            "year": 1937,
+            "tmdb": {
+                "id": 31507,
+                "original_title": "Dodsworth",
+                "title": "Fogo de Outono",
+                "release_date": "1936-09-23",
+                "backdrop_path": "/aE9zfMnG4kGBf4SEyUZ5ehPsb6K.jpg",
+                "poster_path": "/qpd9P54mLYvzdC6rBz56is8aeDB.jpg",
+                "overview": "Um empres\u00e1rio se aposenta vendendo sua montadora de ve\u00edculos e parte em uma viagem com sua esposa para a Europa, que est\u00e1 em nega\u00e7\u00e3o sobre sua idade e usa a viagem como uma oportunidade de flertar com outros homens.",
+                "vote_average": 7.1,
+                "vote_count": 121
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mr. Deeds Goes to Town",
+            "second_label": "Robert Riskin",
+            "category": "Writing (Screenplay)",
+            "year": 1937,
+            "tmdb": {
+                "id": 24807,
+                "original_title": "Mr. Deeds Goes to Town",
+                "title": "O Galante Mr. Deeds",
+                "release_date": "1936-04-09",
+                "backdrop_path": "/4HndddVOLbvifowXjNpdkkF8Q71.jpg",
+                "poster_path": "/9xBuHtiB4CwtEciWdUd28VvhkJO.jpg",
+                "overview": "O simpl\u00f3rio e honesto Longfellow Deeds, de Mandrake Falls - Vermont, acaba herdando uma fortuna imensa. Ele precisar\u00e1 ir para a cidade grande, mas lidar\u00e1 com pessoas que s\u00f3 pensam em se aproveitar de sua fortuna e humildade. Uma delas \u00e9 a rep\u00f3rter Babe Bennett, que fica amiga de Deeds somente porque est\u00e1 procurando uma boa hist\u00f3ria para seu jornal.",
+                "vote_average": 7.5,
+                "vote_count": 332
+            },
+            "winner": false
+        },
+        {
+            "first_label": "My Man Godfrey",
+            "second_label": "Eric Hatch, Morris Ryskind",
+            "category": "Writing (Screenplay)",
+            "year": 1937,
+            "tmdb": {
+                "id": 13562,
+                "original_title": "My Man Godfrey",
+                "title": "Irene, a Teimosa",
+                "release_date": "1936-09-02",
+                "backdrop_path": "/xCIYcIdsC3vGqLNtR9w97vPxWnT.jpg",
+                "poster_path": "/wtfOW7fIxBZWY78rvUoPpWhMSiR.jpg",
+                "overview": "A crise econ\u00f4mica levou Godfrey a viver embaixo da ponte. Mas ao ser convidado para se tornar mordomo de uma fam\u00edlia rica, sua sorte muda. Na mans\u00e3o, ele conhece a bela Irene e aos poucos vai conquistando a confian\u00e7a de todos.",
+                "vote_average": 7.6,
+                "vote_count": 325
+            },
+            "winner": false
+        }
+    ]
+}

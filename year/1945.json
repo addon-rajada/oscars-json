@@ -1,0 +1,2792 @@
+{
+    "Actor": [
+        {
+            "first_label": "Bing Crosby",
+            "second_label": "Going My Way",
+            "category": "Actor",
+            "year": 1945,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Charles Boyer",
+            "second_label": "Gaslight",
+            "category": "Actor",
+            "year": 1945,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Barry Fitzgerald",
+            "second_label": "Going My Way",
+            "category": "Actor",
+            "year": 1945,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Cary Grant",
+            "second_label": "None but the Lonely Heart",
+            "category": "Actor",
+            "year": 1945,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Alexander Knox",
+            "second_label": "Wilson",
+            "category": "Actor",
+            "year": 1945,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Barry Fitzgerald",
+            "second_label": "Going My Way",
+            "category": "Actor in a Supporting Role",
+            "year": 1945,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Hume Cronyn",
+            "second_label": "The Seventh Cross",
+            "category": "Actor in a Supporting Role",
+            "year": 1945,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Claude Rains",
+            "second_label": "Mr. Skeffington",
+            "category": "Actor in a Supporting Role",
+            "year": 1945,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Clifton Webb",
+            "second_label": "Laura",
+            "category": "Actor in a Supporting Role",
+            "year": 1945,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Monty Woolley",
+            "second_label": "Since You Went Away",
+            "category": "Actor in a Supporting Role",
+            "year": 1945,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress": [
+        {
+            "first_label": "Ingrid Bergman",
+            "second_label": "Gaslight",
+            "category": "Actress",
+            "year": 1945,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Claudette Colbert",
+            "second_label": "Since You Went Away",
+            "category": "Actress",
+            "year": 1945,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Bette Davis",
+            "second_label": "Mr. Skeffington",
+            "category": "Actress",
+            "year": 1945,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Greer Garson",
+            "second_label": "Mrs. Parkington",
+            "category": "Actress",
+            "year": 1945,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Barbara Stanwyck",
+            "second_label": "Double Indemnity",
+            "category": "Actress",
+            "year": 1945,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Ethel Barrymore",
+            "second_label": "None but the Lonely Heart",
+            "category": "Actress in a Supporting Role",
+            "year": 1945,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Jennifer Jones",
+            "second_label": "Since You Went Away",
+            "category": "Actress in a Supporting Role",
+            "year": 1945,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Angela Lansbury",
+            "second_label": "Gaslight",
+            "category": "Actress in a Supporting Role",
+            "year": 1945,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Aline MacMahon",
+            "second_label": "Dragon Seed",
+            "category": "Actress in a Supporting Role",
+            "year": 1945,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Agnes Moorehead",
+            "second_label": "Mrs. Parkington",
+            "category": "Actress in a Supporting Role",
+            "year": 1945,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction (Black-and-White)": [
+        {
+            "first_label": "Gaslight",
+            "second_label": "Art Direction: Cedric Gibbons, William Ferrari; Interior Decoration: Edwin B. Willis, Paul Huldschinsky",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1945,
+            "tmdb": {
+                "id": 13528,
+                "original_title": "Gaslight",
+                "title": "\u00c0 Meia Luz",
+                "release_date": "1944-05-04",
+                "backdrop_path": "/fEVYmqXuD9iqesoYexOTHSGXIWK.jpg",
+                "poster_path": "/wrAS0Lao9rktvuEq6vg9SsB4WPQ.jpg",
+                "overview": "Anos depois de sua tia ser assassinada em sua casa, uma jovem se muda de volta para casa com seu novo marido. No entanto, ele tem um segredo e far\u00e1 qualquer coisa para proteg\u00ea-lo mesmo que isso signifique enlouquecer sua esposa.",
+                "vote_average": 7.485,
+                "vote_count": 453
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Address Unknown",
+            "second_label": "Art Direction: Lionel Banks, Walter Holscher; Interior Decoration: Joseph Kish",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1945,
+            "tmdb": {
+                "id": 126759,
+                "original_title": "Address Unknown",
+                "title": "Endere\u00e7o Desconhecido",
+                "release_date": "1944-06-01",
+                "backdrop_path": "/pCdtpi15FPdXBccd3vWOyUZEF3.jpg",
+                "poster_path": "/eitmE8snK3kIHhbeoHqwIPRtVaB.jpg",
+                "overview": "When a German art dealer living in the US returns to his native country he finds himself attracted to Nazi propaganda.",
+                "vote_average": 6.4,
+                "vote_count": 22
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Adventures of Mark Twain",
+            "second_label": "Art Direction: John J. Hughes; Interior Decoration: Fred MacLean",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1945,
+            "tmdb": {
+                "id": 120747,
+                "original_title": "The Adventures of Mark Twain",
+                "title": "The Adventures of Mark Twain",
+                "release_date": "1944-07-20",
+                "backdrop_path": "/hPvsXF9pcK4y1wxYJMIxR8ay8y1.jpg",
+                "poster_path": "/UP32sGRFWdxvLB2lBKOHgbHW8c.jpg",
+                "overview": "A dramatised life of Samuel Langhorn Clemens, or Mark Twain.",
+                "vote_average": 6.6,
+                "vote_count": 9
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Casanova Brown",
+            "second_label": "Art Direction: Perry Ferguson; Interior Decoration: Julia Heron",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1945,
+            "tmdb": {
+                "id": 81751,
+                "original_title": "Casanova Brown",
+                "title": "Casanova J\u00fanior",
+                "release_date": "1944-08-23",
+                "backdrop_path": "/lVUX2CJcHbNH7LAcsj5vSp8c0PD.jpg",
+                "poster_path": "/4Mz3GC5LPWbzR3liMv8ctw7tjxG.jpg",
+                "overview": "O casamento de Cass Brown e Isabel \u00e9 cancelado. E, quando ele est\u00e1 prestes a se casar com outra mulher, descobre que Isabel est\u00e1 gr\u00e1vida. Para que ela n\u00e3o entregue o beb\u00ea para ado\u00e7\u00e3o, Cass rapta a crian\u00e7a e passa a cuidar dela. Mas ser\u00e1 que este \u00e9 um plano para reconquist\u00e1-lo?",
+                "vote_average": 6.4,
+                "vote_count": 20
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Laura",
+            "second_label": "Art Direction: Lyle Wheeler, Leland Fuller; Interior Decoration: Thomas Little",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1945,
+            "tmdb": {
+                "id": 1939,
+                "original_title": "Laura",
+                "title": "Laura",
+                "release_date": "1944-10-11",
+                "backdrop_path": "/9r20ZZDnUymGFlVPHKV2euTPTxk.jpg",
+                "poster_path": "/j0zEiFFrdbZnMXqD3piOtZBJeNB.jpg",
+                "overview": "Baseado em um conto de Vera Caspary, este mist\u00e9rio sobre o assassinato da personagem principal mostra um detetive se apaixonando pelo retrato dessa bela v\u00edtima. Ele investiga tr\u00eas suspeitos para tentar solucionar o crime: um jornalista, o noivo de Laura, a v\u00edtima, e sua tia.",
+                "vote_average": 7.632,
+                "vote_count": 749
+            },
+            "winner": false
+        },
+        {
+            "first_label": "No Time for Love",
+            "second_label": "Art Direction: Hans Dreier, Robert Usher; Interior Decoration: Sam Comer",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1945,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Since You Went Away",
+            "second_label": "Art Direction: Mark-Lee Kirk; Interior Decoration: Victor A. Gangelin",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1945,
+            "tmdb": {
+                "id": 42401,
+                "original_title": "Since You Went Away",
+                "title": "Desde Que Partiste",
+                "release_date": "1944-06-30",
+                "backdrop_path": "/96ymUd1TTAM2IaJKochuiqFXJGU.jpg",
+                "poster_path": "/vRwn4Yrf4O8LbP7gy9Bzh0hKbjW.jpg",
+                "overview": "While husband Tim is away during World War II, Anne Hilton copes with problems on the homefront. Taking in a lodger, Colonel Smollett, to help make ends meet and dealing with shortages and rationing are minor inconveniences compared to the love affair daughter Jane and the Colonel's grandson conduct.",
+                "vote_average": 6.4,
+                "vote_count": 43
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Step Lively",
+            "second_label": "Art Direction: Albert S. D'Agostino, Carroll Clark; Interior Decoration: Darrell Silvera, Claude Carpenter",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1945,
+            "tmdb": {
+                "id": 43503,
+                "original_title": "Step Lively",
+                "title": "Step Lively",
+                "release_date": "1944-07-26",
+                "backdrop_path": "/gwPu1ovrEsy51aMaANPj5NB7THw.jpg",
+                "poster_path": "/82BFW6rBqoHF7JOi4PyllG64pWZ.jpg",
+                "overview": "Fly-by-night producers dodge bill collectors while trying for one big hit.",
+                "vote_average": 6.0,
+                "vote_count": 6
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction (Color)": [
+        {
+            "first_label": "Wilson",
+            "second_label": "Art Direction: Wiard Ihnen; Interior Decoration: Thomas Little",
+            "category": "Art Direction (Color)",
+            "year": 1945,
+            "tmdb": {
+                "id": 84084,
+                "original_title": "Wilson",
+                "title": "Wilson",
+                "release_date": "1944-08-01",
+                "backdrop_path": "/a1mrTStV8fCOECTQntMe4sKLp85.jpg",
+                "poster_path": "/6nXIUIUwh4GZ8mQvEhgqUuqMann.jpg",
+                "overview": "The political career of Woodrow Wilson is chronicled, beginning with his decision to leave his post at Princeton to run for Governor of New Jersey, and his subsequent ascent to the Presidency of the United States. During his terms in office, Wilson must deal with the death of his first wife, the onslaught of German hostilities leading to American involvement in the Great War, and his own country's reticence to join the League of Nations.",
+                "vote_average": 5.7,
+                "vote_count": 20
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Climax",
+            "second_label": "Art Direction: John B. Goodman, Alexander Golitzen; Interior Decoration: Russell A. Gausman, Ira S. Webb",
+            "category": "Art Direction (Color)",
+            "year": 1945,
+            "tmdb": {
+                "id": 39407,
+                "original_title": "The Climax",
+                "title": "Climax",
+                "release_date": "1944-10-20",
+                "backdrop_path": "/enLWUAV9cDC7WRO14YWDUHCju12.jpg",
+                "poster_path": "/laGEHhF7CPKIbbnNP7kMXxFY3OH.jpg",
+                "overview": "Dr. Hohner, theatre physician at the Vienna Royal Theatre, murders his mistress, the star soprano when his jealousy drives him to the point of mad obsession. Ten years later, another young singer reminds Hohner of the late diva and his old mania kicks in. Hohner wants to prevent her from singing for anyone but him, even if it means silencing her forever.",
+                "vote_average": 5.4,
+                "vote_count": 29
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Cover Girl",
+            "second_label": "Art Direction: Lionel Banks, Cary Odell; Interior Decoration: Fay Babcock",
+            "category": "Art Direction (Color)",
+            "year": 1945,
+            "tmdb": {
+                "id": 21622,
+                "original_title": "Cover Girl",
+                "title": "Modelos",
+                "release_date": "1944-03-22",
+                "backdrop_path": "/zrfg4V4fBjpKm2J4OyuaaoazO6h.jpg",
+                "poster_path": "/uhZATA1Of1vjnG62JwUcdb18v3v.jpg",
+                "overview": "Ao vencer concurso de beleza, jovem dan\u00e7arina deixa o namorado para tr\u00e1s a fim de trabalhar como modelo. Mas descobre que o sucesso n\u00e3o substitui um grande amor.  No Brooklyn, a dan\u00e7arina de cabar\u00e9 Rusty Parker tem uma vida simples mas feliz dan\u00e7ando no McGuire, cabar\u00e9 de propriedade de seu namorado Danny. Rusty, Danny e Genius tem um ritual nas noites de sexta-feira: eles encomendam ostras em um bar, tentando encontrar uma p\u00e9rola. A vida de Rusty muda quando ela participa e ganha um concurso para ser a garota da capa da revista Vanity. Ela \u00e9 convidada a trabalhar em um grande teatro na Broadway, cujo propriet\u00e1rio prop\u00f5e se casar com ela. Ela perde a felicidade e come\u00e7a a beber em seu novo estilo de vida, sem o amor de Danny e seus velhos amigos.",
+                "vote_average": 6.4,
+                "vote_count": 84
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Desert Song",
+            "second_label": "Art Direction: Charles Novi; Interior Decoration: Jack McConaghy",
+            "category": "Art Direction (Color)",
+            "year": 1945,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Kismet",
+            "second_label": "Art Direction: Cedric Gibbons, Daniel B. Cathcart; Interior Decoration: Edwin B. Willis, Richard Pefferle",
+            "category": "Art Direction (Color)",
+            "year": 1945,
+            "tmdb": {
+                "id": 43501,
+                "original_title": "Kismet",
+                "title": "Kismet",
+                "release_date": "1944-10-01",
+                "backdrop_path": "/nuFvDwBSauFNvYLONAK5rLpxLvh.jpg",
+                "poster_path": "/cQ4iBs2bEYawZWxrHY3mHOzXhfr.jpg",
+                "overview": "Hafiz, a rascally beggar on the periphery of the court of Baghdad, schemes to marry his daughter to royalty and to win the heart of the queen of the castle himself.",
+                "vote_average": 4.9,
+                "vote_count": 12
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lady in the Dark",
+            "second_label": "Art Direction: Hans Dreier, Raoul Pene du Bois; Interior Decoration: Ray Moyer",
+            "category": "Art Direction (Color)",
+            "year": 1945,
+            "tmdb": {
+                "id": 120801,
+                "original_title": "Lady in the Dark",
+                "title": "Lady in the Dark",
+                "release_date": "1944-02-10",
+                "backdrop_path": "/5GwBbIVe4E6Ng3KGeo0X6uVt9Hl.jpg",
+                "poster_path": "/m7tekCG1oCpAY6RTzR0YIucfu4c.jpg",
+                "overview": "A neurotic editor sees a psychoanalyst about the advertising man, movie star and other man in her life.",
+                "vote_average": 4.7,
+                "vote_count": 9
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Princess and the Pirate",
+            "second_label": "Art Direction: Ernst Fegte; Interior Decoration: Howard Bristol",
+            "category": "Art Direction (Color)",
+            "year": 1945,
+            "tmdb": {
+                "id": 30506,
+                "original_title": "The Princess and the Pirate",
+                "title": "The Princess and the Pirate",
+                "release_date": "1944-11-17",
+                "backdrop_path": "/y8C3mhdLbFemmeVypo7yUhp6PyF.jpg",
+                "poster_path": "/foAqdD4Xov5q09rLkj4AzRxs9aQ.jpg",
+                "overview": "Princess Margaret is travelling incognito to elope with her true love instead of marrying the man her father has betrothed her to. On the high seas, her ship is attacked by pirates who know her identity and plan to kidnap her and hold her for a king's ransom.",
+                "vote_average": 6.8,
+                "vote_count": 21
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography (Black-and-White)": [
+        {
+            "first_label": "Laura",
+            "second_label": "Joseph LaShelle",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1945,
+            "tmdb": {
+                "id": 1939,
+                "original_title": "Laura",
+                "title": "Laura",
+                "release_date": "1944-10-11",
+                "backdrop_path": "/9r20ZZDnUymGFlVPHKV2euTPTxk.jpg",
+                "poster_path": "/j0zEiFFrdbZnMXqD3piOtZBJeNB.jpg",
+                "overview": "Baseado em um conto de Vera Caspary, este mist\u00e9rio sobre o assassinato da personagem principal mostra um detetive se apaixonando pelo retrato dessa bela v\u00edtima. Ele investiga tr\u00eas suspeitos para tentar solucionar o crime: um jornalista, o noivo de Laura, a v\u00edtima, e sua tia.",
+                "vote_average": 7.632,
+                "vote_count": 749
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Double Indemnity",
+            "second_label": "John Seitz",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1945,
+            "tmdb": {
+                "id": 996,
+                "original_title": "Double Indemnity",
+                "title": "Pacto de Sangue",
+                "release_date": "1944-07-06",
+                "backdrop_path": "/byQdu1nzQLI9t1VeoP1xuQfru3L.jpg",
+                "poster_path": "/rHtE9BzynU7JjnV8IZgr5CtXIux.jpg",
+                "overview": "Um agente de seguros encontra a atraente (e casada) Phyllis quando vai efetuar um neg\u00f3cio e ambos logo se apaixonam. Phyllis o convence a efetuar um plano para assassinar seu marido ap\u00f3s fazer um seguro de vida para ele. O objetivo? Ficar com o dinheiro do seguro. Mas nem tudo d\u00e1 certo na execu\u00e7\u00e3o do plano. (Estimado e 14)",
+                "vote_average": 8.1,
+                "vote_count": 1696
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dragon Seed",
+            "second_label": "Sidney Wagner",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1945,
+            "tmdb": {
+                "id": 123665,
+                "original_title": "Dragon Seed",
+                "title": "A Estirpe do Drag\u00e3o",
+                "release_date": "1944-07-20",
+                "backdrop_path": "/avDdTrJuYgsgnGCZjrVgsraX8vT.jpg",
+                "poster_path": "/94sBtA9bBLGQLCXfwFmK4F0c1DY.jpg",
+                "overview": "The lives of a small Chinese village are turned Upside down when the Japanese invade it. An heroic young Chinese woman leads her fellow villagers in an uprising against Japanese Invaders.",
+                "vote_average": 6.4,
+                "vote_count": 14
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gaslight",
+            "second_label": "Joseph Ruttenberg",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1945,
+            "tmdb": {
+                "id": 13528,
+                "original_title": "Gaslight",
+                "title": "\u00c0 Meia Luz",
+                "release_date": "1944-05-04",
+                "backdrop_path": "/fEVYmqXuD9iqesoYexOTHSGXIWK.jpg",
+                "poster_path": "/wrAS0Lao9rktvuEq6vg9SsB4WPQ.jpg",
+                "overview": "Anos depois de sua tia ser assassinada em sua casa, uma jovem se muda de volta para casa com seu novo marido. No entanto, ele tem um segredo e far\u00e1 qualquer coisa para proteg\u00ea-lo mesmo que isso signifique enlouquecer sua esposa.",
+                "vote_average": 7.485,
+                "vote_count": 453
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Going My Way",
+            "second_label": "Lionel Lindon",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1945,
+            "tmdb": {
+                "id": 17661,
+                "original_title": "Going My Way",
+                "title": "O Bom Pastor",
+                "release_date": "1944-05-15",
+                "backdrop_path": "/jiGn1FXSQVfN2nhix0tQtmoGWcF.jpg",
+                "poster_path": "/j7OxlZLu4m1r6Ur1inB3DoTi7Ct.jpg",
+                "overview": "Um novo padre chega numa par\u00f3quia para substituir o antigo, e deve conseguir integrar seu estilo aos novos e antigos religiosos da congrega\u00e7\u00e3o. Tudo parece estar indo relativamente bem, at\u00e9 que uma noite a igreja queima at\u00e9 o ch\u00e3o. Vencedor do Oscar de Melhor Filme.",
+                "vote_average": 6.7,
+                "vote_count": 160
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lifeboat",
+            "second_label": "Glen MacWilliams",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1945,
+            "tmdb": {
+                "id": 13321,
+                "original_title": "Lifeboat",
+                "title": "Um Barco e Nove Destinos",
+                "release_date": "1944-01-28",
+                "backdrop_path": "/chCsoPdAQfXQIhqJfexHywVEwxb.jpg",
+                "poster_path": "/gxCXfkFMpqyycBUGFLGA8YjSlfx.jpg",
+                "overview": "Durante a Segunda Guerra Mundial no Atl\u00e2ntico, um navio e um barco alem\u00e3o se envolvem em um combate e ambos naufragam, mas existem alguns sobreviventes que v\u00e3o para um dos botes. No entanto, eles t\u00eam diferentes origens e prop\u00f3sitos, mas surge o pomo da disc\u00f3rdia quando um dos sobreviventes se revela um nazista.",
+                "vote_average": 7.379,
+                "vote_count": 404
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Since You Went Away",
+            "second_label": "Stanley Cortez, Lee Garmes",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1945,
+            "tmdb": {
+                "id": 42401,
+                "original_title": "Since You Went Away",
+                "title": "Desde Que Partiste",
+                "release_date": "1944-06-30",
+                "backdrop_path": "/96ymUd1TTAM2IaJKochuiqFXJGU.jpg",
+                "poster_path": "/vRwn4Yrf4O8LbP7gy9Bzh0hKbjW.jpg",
+                "overview": "While husband Tim is away during World War II, Anne Hilton copes with problems on the homefront. Taking in a lodger, Colonel Smollett, to help make ends meet and dealing with shortages and rationing are minor inconveniences compared to the love affair daughter Jane and the Colonel's grandson conduct.",
+                "vote_average": 6.4,
+                "vote_count": 43
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Thirty Seconds over Tokyo",
+            "second_label": "Robert Surtees, Harold Rosson",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1945,
+            "tmdb": {
+                "id": 18770,
+                "original_title": "Thirty Seconds Over Tokyo",
+                "title": "Trinta Segundos Sobre T\u00f3quio",
+                "release_date": "1944-11-15",
+                "backdrop_path": "/x5OnEbMl2o7mC85i8VaL9sHSix1.jpg",
+                "poster_path": "/dvvgU0TwstTtZofAzBA5syt5on7.jpg",
+                "overview": "A verdadeira e incrivelmente detalhada hist\u00f3ria de \"O Raid de Doolittle\", baseado no relato pessoal de Ted Lawson, um dos participantes do Raid. Atordoados pelo ataque a Pearl Harbor e uma s\u00e9rie de outras derrotas, a Am\u00e9rica precisava de uma vit\u00f3ria. Para isso o coronel Jimmy Doolittle, um campe\u00e3o de corrida a\u00e9rea e piloto de acrobacias, elabora um plano para um ataque ousado ao cora\u00e7\u00e3o do pr\u00f3prio Jap\u00e3o. Para fazer isso, ele deve treinar pilotos de bombardeiro do ex\u00e9rcito para fazer algo que ningu\u00e9m jamais sonhou ser poss\u00edvel, o lan\u00e7amento de 16 bombardeiros B-25, totalmente carregados de combust\u00edvel e bombas, a partir de um porta-avi\u00f5es! Not\u00e1vel em sua exatid\u00e3o, este filme ainda usa imagens filmadas do raid real.",
+                "vote_average": 6.6,
+                "vote_count": 54
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Uninvited",
+            "second_label": "Charles Lang",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1945,
+            "tmdb": {
+                "id": 16373,
+                "original_title": "The Uninvited",
+                "title": "O Solar das Almas Perdidas",
+                "release_date": "1944-02-24",
+                "backdrop_path": "/poCmeIQA2xL7GnGq9PMwUcJ4AgI.jpg",
+                "poster_path": "/uwp5ahLmWliRyX3mPoLHU7BKhf5.jpg",
+                "overview": "A brother and sister move into an old seaside house that has been abandoned for many years on the Cornwellian coast only to soon discover that it is haunted by the ghost of the mother of their neighbor's granddaughter, with whom the brother has fallen in love.",
+                "vote_average": 6.9,
+                "vote_count": 194
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The White Cliffs of Dover",
+            "second_label": "George Folsey",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1945,
+            "tmdb": {
+                "id": 52440,
+                "original_title": "The White Cliffs of Dover",
+                "title": "Evoca\u00e7\u00e3o",
+                "release_date": "1944-05-11",
+                "backdrop_path": "/cpC76nY1HDJLz6m60uUY8FFQJFT.jpg",
+                "poster_path": "/l6g71AmExvAIKOZB3vdEBR5WArm.jpg",
+                "overview": "American Susan travels with her father to England for a vacation. Invited to a society ball, Susan meets Sir John Ashwood and marries him after a whirlwind romance. However, she never quite adjusts to life as a new member of the British gentry. At the outbreak of World War I, John is sent to the trenches and never returns. When her son goes off to fight in World War II, Susan fears the same tragic fate may befall him too.",
+                "vote_average": 6.7,
+                "vote_count": 21
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography (Color)": [
+        {
+            "first_label": "Wilson",
+            "second_label": "Leon Shamroy",
+            "category": "Cinematography (Color)",
+            "year": 1945,
+            "tmdb": {
+                "id": 84084,
+                "original_title": "Wilson",
+                "title": "Wilson",
+                "release_date": "1944-08-01",
+                "backdrop_path": "/a1mrTStV8fCOECTQntMe4sKLp85.jpg",
+                "poster_path": "/6nXIUIUwh4GZ8mQvEhgqUuqMann.jpg",
+                "overview": "The political career of Woodrow Wilson is chronicled, beginning with his decision to leave his post at Princeton to run for Governor of New Jersey, and his subsequent ascent to the Presidency of the United States. During his terms in office, Wilson must deal with the death of his first wife, the onslaught of German hostilities leading to American involvement in the Great War, and his own country's reticence to join the League of Nations.",
+                "vote_average": 5.7,
+                "vote_count": 20
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Cover Girl",
+            "second_label": "Cover Girl",
+            "category": "Cinematography (Color)",
+            "year": 1945,
+            "tmdb": {
+                "id": 21622,
+                "original_title": "Cover Girl",
+                "title": "Modelos",
+                "release_date": "1944-03-22",
+                "backdrop_path": "/zrfg4V4fBjpKm2J4OyuaaoazO6h.jpg",
+                "poster_path": "/uhZATA1Of1vjnG62JwUcdb18v3v.jpg",
+                "overview": "Ao vencer concurso de beleza, jovem dan\u00e7arina deixa o namorado para tr\u00e1s a fim de trabalhar como modelo. Mas descobre que o sucesso n\u00e3o substitui um grande amor.  No Brooklyn, a dan\u00e7arina de cabar\u00e9 Rusty Parker tem uma vida simples mas feliz dan\u00e7ando no McGuire, cabar\u00e9 de propriedade de seu namorado Danny. Rusty, Danny e Genius tem um ritual nas noites de sexta-feira: eles encomendam ostras em um bar, tentando encontrar uma p\u00e9rola. A vida de Rusty muda quando ela participa e ganha um concurso para ser a garota da capa da revista Vanity. Ela \u00e9 convidada a trabalhar em um grande teatro na Broadway, cujo propriet\u00e1rio prop\u00f5e se casar com ela. Ela perde a felicidade e come\u00e7a a beber em seu novo estilo de vida, sem o amor de Danny e seus velhos amigos.",
+                "vote_average": 6.4,
+                "vote_count": 84
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Home in Indiana",
+            "second_label": "Edward Cronjager",
+            "category": "Cinematography (Color)",
+            "year": 1945,
+            "tmdb": {
+                "id": 218105,
+                "original_title": "Home in Indiana",
+                "title": "Home in Indiana",
+                "release_date": "1944-06-15",
+                "backdrop_path": "/56t6LGoiv0HcskmReUNTwQKga4.jpg",
+                "poster_path": "/bPQBbyL8SOB2b3zvJj1zLYzw35Q.jpg",
+                "overview": "'Sparke' Thorton, a lad with a penchant for trouble, is sent to live with his Uncle and Aunt Bolt in Indiana after his Aunt Henrietta Bolt dies. Though he's not happy about the arrangement at first, his love of horses and his affection for a young filly that he plans to race make life bearable. He also finds romance with tomboyish 'Char' Bruce who shares his love for horses.",
+                "vote_average": 5.6,
+                "vote_count": 9
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Kismet",
+            "second_label": "Charles Rosher",
+            "category": "Cinematography (Color)",
+            "year": 1945,
+            "tmdb": {
+                "id": 43501,
+                "original_title": "Kismet",
+                "title": "Kismet",
+                "release_date": "1944-10-01",
+                "backdrop_path": "/nuFvDwBSauFNvYLONAK5rLpxLvh.jpg",
+                "poster_path": "/cQ4iBs2bEYawZWxrHY3mHOzXhfr.jpg",
+                "overview": "Hafiz, a rascally beggar on the periphery of the court of Baghdad, schemes to marry his daughter to royalty and to win the heart of the queen of the castle himself.",
+                "vote_average": 4.9,
+                "vote_count": 12
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lady in the Dark",
+            "second_label": "Ray Rennahan",
+            "category": "Cinematography (Color)",
+            "year": 1945,
+            "tmdb": {
+                "id": 120801,
+                "original_title": "Lady in the Dark",
+                "title": "Lady in the Dark",
+                "release_date": "1944-02-10",
+                "backdrop_path": "/5GwBbIVe4E6Ng3KGeo0X6uVt9Hl.jpg",
+                "poster_path": "/m7tekCG1oCpAY6RTzR0YIucfu4c.jpg",
+                "overview": "A neurotic editor sees a psychoanalyst about the advertising man, movie star and other man in her life.",
+                "vote_average": 4.7,
+                "vote_count": 9
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Meet Me in St. Louis",
+            "second_label": "George Folsey",
+            "category": "Cinematography (Color)",
+            "year": 1945,
+            "tmdb": {
+                "id": 909,
+                "original_title": "Meet Me in St. Louis",
+                "title": "Agora Seremos Felizes",
+                "release_date": "1944-11-28",
+                "backdrop_path": "/fQ93o3wVSIe0dXMLTVTBHoqWwew.jpg",
+                "poster_path": "/6BeXfI1cWNARoMqoHTdwOXt6SHb.jpg",
+                "overview": "No ano que antecedeu a Feira Mundial de St. Louis de 1904, as quatro filhas dos Smith aprendem li\u00e7\u00f5es de vida e amor, mesmo que se preparem para uma mudan\u00e7a relutante para Nova York. Agora Seremos Felizes \u00e9 muito mais que um musical. \u00c9 a encantadora hist\u00f3ria de uma fam\u00edlia na virada do s\u00e9culo, repleta de magias e recorda\u00e7\u00f5es. Judy Garland \u00e9 Esther Smith, uma garota da agitada cidade de St. Louis que, junto com sua fam\u00edlia, tem que se mudar para Nova York. Como se n\u00e3o bastasse deixar todos os seus amigos para tr\u00e1s, ela ainda ir\u00e1 perder a sensacional Feira Mundial de St. Louis de 1904. Esther precisa fazer alguma coisa para evitar essa trag\u00e9dia!",
+                "vote_average": 7.021,
+                "vote_count": 349
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "Going My Way",
+            "second_label": "Leo McCarey",
+            "category": "Directing",
+            "year": 1945,
+            "tmdb": {
+                "id": 17661,
+                "original_title": "Going My Way",
+                "title": "O Bom Pastor",
+                "release_date": "1944-05-15",
+                "backdrop_path": "/jiGn1FXSQVfN2nhix0tQtmoGWcF.jpg",
+                "poster_path": "/j7OxlZLu4m1r6Ur1inB3DoTi7Ct.jpg",
+                "overview": "Um novo padre chega numa par\u00f3quia para substituir o antigo, e deve conseguir integrar seu estilo aos novos e antigos religiosos da congrega\u00e7\u00e3o. Tudo parece estar indo relativamente bem, at\u00e9 que uma noite a igreja queima at\u00e9 o ch\u00e3o. Vencedor do Oscar de Melhor Filme.",
+                "vote_average": 6.7,
+                "vote_count": 160
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Double Indemnity",
+            "second_label": "Billy Wilder",
+            "category": "Directing",
+            "year": 1945,
+            "tmdb": {
+                "id": 996,
+                "original_title": "Double Indemnity",
+                "title": "Pacto de Sangue",
+                "release_date": "1944-07-06",
+                "backdrop_path": "/byQdu1nzQLI9t1VeoP1xuQfru3L.jpg",
+                "poster_path": "/rHtE9BzynU7JjnV8IZgr5CtXIux.jpg",
+                "overview": "Um agente de seguros encontra a atraente (e casada) Phyllis quando vai efetuar um neg\u00f3cio e ambos logo se apaixonam. Phyllis o convence a efetuar um plano para assassinar seu marido ap\u00f3s fazer um seguro de vida para ele. O objetivo? Ficar com o dinheiro do seguro. Mas nem tudo d\u00e1 certo na execu\u00e7\u00e3o do plano. (Estimado e 14)",
+                "vote_average": 8.1,
+                "vote_count": 1696
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Laura",
+            "second_label": "Otto Preminger",
+            "category": "Directing",
+            "year": 1945,
+            "tmdb": {
+                "id": 1939,
+                "original_title": "Laura",
+                "title": "Laura",
+                "release_date": "1944-10-11",
+                "backdrop_path": "/9r20ZZDnUymGFlVPHKV2euTPTxk.jpg",
+                "poster_path": "/j0zEiFFrdbZnMXqD3piOtZBJeNB.jpg",
+                "overview": "Baseado em um conto de Vera Caspary, este mist\u00e9rio sobre o assassinato da personagem principal mostra um detetive se apaixonando pelo retrato dessa bela v\u00edtima. Ele investiga tr\u00eas suspeitos para tentar solucionar o crime: um jornalista, o noivo de Laura, a v\u00edtima, e sua tia.",
+                "vote_average": 7.632,
+                "vote_count": 749
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lifeboat",
+            "second_label": "Alfred Hitchcock",
+            "category": "Directing",
+            "year": 1945,
+            "tmdb": {
+                "id": 13321,
+                "original_title": "Lifeboat",
+                "title": "Um Barco e Nove Destinos",
+                "release_date": "1944-01-28",
+                "backdrop_path": "/chCsoPdAQfXQIhqJfexHywVEwxb.jpg",
+                "poster_path": "/gxCXfkFMpqyycBUGFLGA8YjSlfx.jpg",
+                "overview": "Durante a Segunda Guerra Mundial no Atl\u00e2ntico, um navio e um barco alem\u00e3o se envolvem em um combate e ambos naufragam, mas existem alguns sobreviventes que v\u00e3o para um dos botes. No entanto, eles t\u00eam diferentes origens e prop\u00f3sitos, mas surge o pomo da disc\u00f3rdia quando um dos sobreviventes se revela um nazista.",
+                "vote_average": 7.379,
+                "vote_count": 404
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Wilson",
+            "second_label": "Henry King",
+            "category": "Directing",
+            "year": 1945,
+            "tmdb": {
+                "id": 84084,
+                "original_title": "Wilson",
+                "title": "Wilson",
+                "release_date": "1944-08-01",
+                "backdrop_path": "/a1mrTStV8fCOECTQntMe4sKLp85.jpg",
+                "poster_path": "/6nXIUIUwh4GZ8mQvEhgqUuqMann.jpg",
+                "overview": "The political career of Woodrow Wilson is chronicled, beginning with his decision to leave his post at Princeton to run for Governor of New Jersey, and his subsequent ascent to the Presidency of the United States. During his terms in office, Wilson must deal with the death of his first wife, the onslaught of German hostilities leading to American involvement in the Great War, and his own country's reticence to join the League of Nations.",
+                "vote_average": 5.7,
+                "vote_count": 20
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "The Fighting Lady",
+            "second_label": "United States Navy",
+            "category": "Documentary (Feature)",
+            "year": 1945,
+            "tmdb": {
+                "id": 86120,
+                "original_title": "The Fighting Lady",
+                "title": "The Fighting Lady",
+                "release_date": "1944-12-21",
+                "backdrop_path": "/A35b5VoAJ6mn962mmGTsJRBUH0p.jpg",
+                "poster_path": "/nqP7WWmgFhd8KSGFQmARQivrQv.jpg",
+                "overview": "Oscar winner William Wyler directed this 1944 \"newsdrama,\" narrated by Lieut. Robert Taylor, USNR (Bataan), and photographed in zones of combat by the U.S. Navy. The film follows one of the many new aircraft carriers built since Pearl Harbor, known as THE FIGHTING LADY in honor of all American carriers, as it goes into action against the Japanese in the Pacific Ocean in 1943. See the ship and its pilots undergo their baptism of fire, attacking the Japanese base on Marcus Island.  Preserved by the Academy Film Archive in partnership with The Film Foundation.",
+                "vote_average": 6.0,
+                "vote_count": 10
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Resisting Enemy Interrogation",
+            "second_label": "United States Army Air Force",
+            "category": "Documentary (Feature)",
+            "year": 1945,
+            "tmdb": {
+                "id": 114459,
+                "original_title": "Resisting Enemy Interrogation",
+                "title": "Resisting Enemy Interrogation",
+                "release_date": "1944-08-01",
+                "backdrop_path": null,
+                "poster_path": "/bEvGtr2yY2vM4ozcTvlaHKL3IVT.jpg",
+                "overview": "A downed American bomber crew quickly falls prey to the clever interrogation techniques of the Germans in this dramatic training film.",
+                "vote_average": 6.2,
+                "vote_count": 4
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "With the Marines at Tarawa",
+            "second_label": "United States Marine Corps",
+            "category": "Documentary (Short Subject)",
+            "year": 1945,
+            "tmdb": {
+                "id": 101586,
+                "original_title": "With the Marines at Tarawa",
+                "title": "With the Marines at Tarawa",
+                "release_date": "1944-03-02",
+                "backdrop_path": "/l6od0iSA0qSqE7dClouW7VtalDd.jpg",
+                "poster_path": "/lxe4nBCQFRfEhn19a9VNpcXqhcC.jpg",
+                "overview": "Documentary short film depicting the harrowing battle between the U.S. Marines and the Japanese for control of the Pacific island of Tarawa.",
+                "vote_average": 6.7,
+                "vote_count": 9
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Arturo Toscanini",
+            "second_label": "United States Office of War Information Overseas Motion Picture Bureau",
+            "category": "Documentary (Short Subject)",
+            "year": 1945,
+            "tmdb": {
+                "id": 240385,
+                "original_title": "Hymn of the Nations",
+                "title": "Hymn of the Nations",
+                "release_date": "1944-02-01",
+                "backdrop_path": null,
+                "poster_path": "/t3PBoYQOlZOaF1roQUhVEg5eQV1.jpg",
+                "overview": "Hymn of the Nations, originally titled Arturo Toscanini: Hymn of the Nations, is a 1944 film directed by Alexander Hammid, which features the \"Inno delle nazioni,\" a patriotic work for tenor soloist, chorus, and orchestra, composed by Italian opera composer Giuseppe Verdi in the early 1860s. (For this musical work, Verdi utilized the national anthems of several European nations.) In December 1943, Arturo Toscanini filmed a performance of this music for inclusion in an Office of War Information documentary about the role of Italian-Americans in aiding the Allies during World War II. Toscanini added a bridge passage to include arrangements of \"The Star-Spangled Banner\" for the United States and \"The Internationale\" for the Soviet Union and the Italian partisans. Joining Toscanini in the filmed performance in NBC Studio 8-H, were tenor Jan Peerce, the Westminster Choir, and the NBC Symphony Orchestra.  Preserved by the Academy Film Archive in 2010.",
+                "vote_average": 4.9,
+                "vote_count": 7
+            },
+            "winner": false
+        },
+        {
+            "first_label": "New Americans",
+            "second_label": "RKO Radio",
+            "category": "Documentary (Short Subject)",
+            "year": 1945,
+            "tmdb": {
+                "id": 240386,
+                "original_title": "New Americans",
+                "title": "New Americans",
+                "release_date": "1944-01-01",
+                "backdrop_path": null,
+                "poster_path": "/1zYnASqeBLUIBIzLdOZDxaK8pwp.jpg",
+                "overview": "Part of RKO's \"This is America\" series, this is an Oscar nominated short documentary from 1944 that follows the plight of European immigrants arriving in the USA looking for hope and safety.",
+                "vote_average": 5.2,
+                "vote_count": 4
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "Wilson",
+            "second_label": "Barbara McLean",
+            "category": "Film Editing",
+            "year": 1945,
+            "tmdb": {
+                "id": 84084,
+                "original_title": "Wilson",
+                "title": "Wilson",
+                "release_date": "1944-08-01",
+                "backdrop_path": "/a1mrTStV8fCOECTQntMe4sKLp85.jpg",
+                "poster_path": "/6nXIUIUwh4GZ8mQvEhgqUuqMann.jpg",
+                "overview": "The political career of Woodrow Wilson is chronicled, beginning with his decision to leave his post at Princeton to run for Governor of New Jersey, and his subsequent ascent to the Presidency of the United States. During his terms in office, Wilson must deal with the death of his first wife, the onslaught of German hostilities leading to American involvement in the Great War, and his own country's reticence to join the League of Nations.",
+                "vote_average": 5.7,
+                "vote_count": 20
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Going My Way",
+            "second_label": "Leroy Stone",
+            "category": "Film Editing",
+            "year": 1945,
+            "tmdb": {
+                "id": 17661,
+                "original_title": "Going My Way",
+                "title": "O Bom Pastor",
+                "release_date": "1944-05-15",
+                "backdrop_path": "/jiGn1FXSQVfN2nhix0tQtmoGWcF.jpg",
+                "poster_path": "/j7OxlZLu4m1r6Ur1inB3DoTi7Ct.jpg",
+                "overview": "Um novo padre chega numa par\u00f3quia para substituir o antigo, e deve conseguir integrar seu estilo aos novos e antigos religiosos da congrega\u00e7\u00e3o. Tudo parece estar indo relativamente bem, at\u00e9 que uma noite a igreja queima at\u00e9 o ch\u00e3o. Vencedor do Oscar de Melhor Filme.",
+                "vote_average": 6.7,
+                "vote_count": 160
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Janie",
+            "second_label": "Owen Marks",
+            "category": "Film Editing",
+            "year": 1945,
+            "tmdb": {
+                "id": 215689,
+                "original_title": "Janie",
+                "title": "Janie Tem Dois Namorados",
+                "release_date": "1944-09-02",
+                "backdrop_path": "/d4aQnm6Xjxe9EIGBqKrG9w2Qsra.jpg",
+                "poster_path": "/1cn4QPkZlpTqCSkOEh1sZlg3paF.jpg",
+                "overview": "Teenage Janie falls in love with a private from an Army base opposed by her editor father.",
+                "vote_average": 5.5,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "None but the Lonely Heart",
+            "second_label": "Roland Gross",
+            "category": "Film Editing",
+            "year": 1945,
+            "tmdb": {
+                "id": 52362,
+                "original_title": "None But the Lonely Heart",
+                "title": "Apenas um Cora\u00e7\u00e3o Solit\u00e1rio",
+                "release_date": "1944-10-17",
+                "backdrop_path": "/iwSuFnsieEdzAt943GzhmHTU6V3.jpg",
+                "poster_path": "/st37wKa1ZUbVSlKFI1fuUWb0rbi.jpg",
+                "overview": "When an itinerant reluctantly returns home to help his sickly mother run her shop, they're both tempted to turn to crime to help make ends meet.",
+                "vote_average": 6.2,
+                "vote_count": 43
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Since You Went Away",
+            "second_label": "Hal C. Kern, James E. Newcom",
+            "category": "Film Editing",
+            "year": 1945,
+            "tmdb": {
+                "id": 42401,
+                "original_title": "Since You Went Away",
+                "title": "Desde Que Partiste",
+                "release_date": "1944-06-30",
+                "backdrop_path": "/96ymUd1TTAM2IaJKochuiqFXJGU.jpg",
+                "poster_path": "/vRwn4Yrf4O8LbP7gy9Bzh0hKbjW.jpg",
+                "overview": "While husband Tim is away during World War II, Anne Hilton copes with problems on the homefront. Taking in a lodger, Colonel Smollett, to help make ends meet and dealing with shortages and rationing are minor inconveniences compared to the love affair daughter Jane and the Colonel's grandson conduct.",
+                "vote_average": 6.4,
+                "vote_count": 43
+            },
+            "winner": false
+        }
+    ],
+    "Irving G. Thalberg Memorial Award": [
+        {
+            "first_label": "",
+            "second_label": "Darryl F. Zanuck",
+            "category": "Irving G. Thalberg Memorial Award",
+            "year": 1945,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        }
+    ],
+    "Music (Music Score of a Dramatic or Comedy Picture)": [
+        {
+            "first_label": "Since You Went Away",
+            "second_label": "Max Steiner",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1945,
+            "tmdb": {
+                "id": 42401,
+                "original_title": "Since You Went Away",
+                "title": "Desde Que Partiste",
+                "release_date": "1944-06-30",
+                "backdrop_path": "/96ymUd1TTAM2IaJKochuiqFXJGU.jpg",
+                "poster_path": "/vRwn4Yrf4O8LbP7gy9Bzh0hKbjW.jpg",
+                "overview": "While husband Tim is away during World War II, Anne Hilton copes with problems on the homefront. Taking in a lodger, Colonel Smollett, to help make ends meet and dealing with shortages and rationing are minor inconveniences compared to the love affair daughter Jane and the Colonel's grandson conduct.",
+                "vote_average": 6.4,
+                "vote_count": 43
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Address Unknown",
+            "second_label": "Morris Stoloff, Ernst Toch",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1945,
+            "tmdb": {
+                "id": 126759,
+                "original_title": "Address Unknown",
+                "title": "Endere\u00e7o Desconhecido",
+                "release_date": "1944-06-01",
+                "backdrop_path": "/pCdtpi15FPdXBccd3vWOyUZEF3.jpg",
+                "poster_path": "/eitmE8snK3kIHhbeoHqwIPRtVaB.jpg",
+                "overview": "When a German art dealer living in the US returns to his native country he finds himself attracted to Nazi propaganda.",
+                "vote_average": 6.4,
+                "vote_count": 22
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Adventures of Mark Twain",
+            "second_label": "Max Steiner",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1945,
+            "tmdb": {
+                "id": 120747,
+                "original_title": "The Adventures of Mark Twain",
+                "title": "The Adventures of Mark Twain",
+                "release_date": "1944-07-20",
+                "backdrop_path": "/hPvsXF9pcK4y1wxYJMIxR8ay8y1.jpg",
+                "poster_path": "/UP32sGRFWdxvLB2lBKOHgbHW8c.jpg",
+                "overview": "A dramatised life of Samuel Langhorn Clemens, or Mark Twain.",
+                "vote_average": 6.6,
+                "vote_count": 9
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Bridge of San Luis Rey",
+            "second_label": "Dimitri Tiomkin",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1945,
+            "tmdb": {
+                "id": 151386,
+                "original_title": "The Bridge of San Luis Rey",
+                "title": "The Bridge of San Luis Rey",
+                "release_date": "1944-02-11",
+                "backdrop_path": "/7NxdVmzL495PTEu7mGC6MhUsNIg.jpg",
+                "poster_path": "/5z3oEBAx5Atnx3W235nBJdUtVZD.jpg",
+                "overview": "A rope bridge over a gorge in the Peruvian Andes snaps, sending five people plunging to their deaths. A priest sets out to find out more about the life of each of the victims.",
+                "vote_average": 6.0,
+                "vote_count": 2
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Casanova Brown",
+            "second_label": "Arthur Lange",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1945,
+            "tmdb": {
+                "id": 81751,
+                "original_title": "Casanova Brown",
+                "title": "Casanova J\u00fanior",
+                "release_date": "1944-08-23",
+                "backdrop_path": "/lVUX2CJcHbNH7LAcsj5vSp8c0PD.jpg",
+                "poster_path": "/4Mz3GC5LPWbzR3liMv8ctw7tjxG.jpg",
+                "overview": "O casamento de Cass Brown e Isabel \u00e9 cancelado. E, quando ele est\u00e1 prestes a se casar com outra mulher, descobre que Isabel est\u00e1 gr\u00e1vida. Para que ela n\u00e3o entregue o beb\u00ea para ado\u00e7\u00e3o, Cass rapta a crian\u00e7a e passa a cuidar dela. Mas ser\u00e1 que este \u00e9 um plano para reconquist\u00e1-lo?",
+                "vote_average": 6.4,
+                "vote_count": 20
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Christmas Holiday",
+            "second_label": "H. J. Salter",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1945,
+            "tmdb": {
+                "id": 26530,
+                "original_title": "Christmas Holiday",
+                "title": "F\u00e9rias de Natal",
+                "release_date": "1944-07-31",
+                "backdrop_path": "/mARgLmutZwDevkyGk5GuIm7HJlR.jpg",
+                "poster_path": "/nTrumh0ynfCuB8AT0DxRAgtXvOI.jpg",
+                "overview": "Don't be fooled by the title. Christmas Holiday is a far, far cry from It's a Wonderful Life. Told in flashback, the story begins as Abigail Martin marries Southern aristocrat Robert Monette. Unfortunately, Robert has inherited his family's streak of violence and instability, and soon drags Abigail into a life of misery.",
+                "vote_average": 6.4,
+                "vote_count": 29
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Double Indemnity",
+            "second_label": "Miklos Rozsa",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1945,
+            "tmdb": {
+                "id": 996,
+                "original_title": "Double Indemnity",
+                "title": "Pacto de Sangue",
+                "release_date": "1944-07-06",
+                "backdrop_path": "/byQdu1nzQLI9t1VeoP1xuQfru3L.jpg",
+                "poster_path": "/rHtE9BzynU7JjnV8IZgr5CtXIux.jpg",
+                "overview": "Um agente de seguros encontra a atraente (e casada) Phyllis quando vai efetuar um neg\u00f3cio e ambos logo se apaixonam. Phyllis o convence a efetuar um plano para assassinar seu marido ap\u00f3s fazer um seguro de vida para ele. O objetivo? Ficar com o dinheiro do seguro. Mas nem tudo d\u00e1 certo na execu\u00e7\u00e3o do plano. (Estimado e 14)",
+                "vote_average": 8.1,
+                "vote_count": 1696
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Fighting Seabees",
+            "second_label": "Walter Scharf, Roy Webb",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1945,
+            "tmdb": {
+                "id": 22994,
+                "original_title": "The Fighting Seabees",
+                "title": "Romance dos Sete Mares",
+                "release_date": "1944-01-27",
+                "backdrop_path": "/yxi4mD31dEx7JgVxUbZhjm7tgG3.jpg",
+                "poster_path": "/wZLgcDVJEAnpO6sYawZcFUF9Sy9.jpg",
+                "overview": "Na WW2 no Pac\u00edfico trabalhadores da constru\u00e7\u00e3o civil s\u00e3o necess\u00e1rios para construir instala\u00e7\u00f5es militares, mas o trabalho \u00e9 perigoso e eles duvidam da capacidade da Marinha para proteg\u00ea-los. Depois de uma s\u00e9rie de ataques por parte dos japoneses algo novo \u00e9 tentado, os Batalh\u00f5es de Constru\u00e7\u00e3o, em ingl\u00eas Construction Battalions (CBs = Seabees) Abelhas do Mar. O novo batalh\u00e3o tem tanto que construir quanto estar pronto para lutar.",
+                "vote_average": 6.1,
+                "vote_count": 45
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Hairy Ape",
+            "second_label": "Edward Paul, Michel Michelet",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1945,
+            "tmdb": {
+                "id": 129105,
+                "original_title": "The Hairy Ape",
+                "title": "O Grande Bruto",
+                "release_date": "1944-07-02",
+                "backdrop_path": "/l5IRcpmdwnSGYKbDSCIpti42tM7.jpg",
+                "poster_path": "/iqkruHw3HSbnj71zZrM56Lnhrkc.jpg",
+                "overview": "Aboard ship, a spoiled woman (Susan Hayward) insults the brutish stoker (William Bendix) while watching him work.",
+                "vote_average": 5.5,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "It Happened Tomorrow",
+            "second_label": "Robert Stolz",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1945,
+            "tmdb": {
+                "id": 3589,
+                "original_title": "It Happened Tomorrow",
+                "title": "O Tempo \u00e9 uma Ilus\u00e3o",
+                "release_date": "1944-03-31",
+                "backdrop_path": "/lQZBj79QytDUuJKKyrlwItQEDpC.jpg",
+                "poster_path": "/rLiYy3ipKeTk5YurD6nxFaZ1DIN.jpg",
+                "overview": "A young turn-of-the-century newspaper man finds he can get hold of the next day's paper. This brings more problems than fortune, especially as his new girlfriend is part of a phony clairvoyant act.",
+                "vote_average": 6.8,
+                "vote_count": 53
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jack London",
+            "second_label": "Frederic Efrem Rich",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1945,
+            "tmdb": {
+                "id": 29094,
+                "original_title": "The Lodger",
+                "title": "The Lodger",
+                "release_date": "1944-01-19",
+                "backdrop_path": "/tmDRpisxZSocdISKpZ7TXh6xsPz.jpg",
+                "poster_path": "/qKuVeCVHRN9hfNWEk06JBVKuWww.jpg",
+                "overview": "In Victorian era London, the inhabitants of a family home with rented rooms upstairs fear the new lodger is Jack the Ripper.",
+                "vote_average": 6.3,
+                "vote_count": 82
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Kismet",
+            "second_label": "Herbert Stothart",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1945,
+            "tmdb": {
+                "id": 43501,
+                "original_title": "Kismet",
+                "title": "Kismet",
+                "release_date": "1944-10-01",
+                "backdrop_path": "/nuFvDwBSauFNvYLONAK5rLpxLvh.jpg",
+                "poster_path": "/cQ4iBs2bEYawZWxrHY3mHOzXhfr.jpg",
+                "overview": "Hafiz, a rascally beggar on the periphery of the court of Baghdad, schemes to marry his daughter to royalty and to win the heart of the queen of the castle himself.",
+                "vote_average": 4.9,
+                "vote_count": 12
+            },
+            "winner": false
+        },
+        {
+            "first_label": "None but the Lonely Heart",
+            "second_label": "Hanns Eisler, C. Bakaleinikoff",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1945,
+            "tmdb": {
+                "id": 52362,
+                "original_title": "None But the Lonely Heart",
+                "title": "Apenas um Cora\u00e7\u00e3o Solit\u00e1rio",
+                "release_date": "1944-10-17",
+                "backdrop_path": "/iwSuFnsieEdzAt943GzhmHTU6V3.jpg",
+                "poster_path": "/st37wKa1ZUbVSlKFI1fuUWb0rbi.jpg",
+                "overview": "When an itinerant reluctantly returns home to help his sickly mother run her shop, they're both tempted to turn to crime to help make ends meet.",
+                "vote_average": 6.2,
+                "vote_count": 43
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Princess and the Pirate",
+            "second_label": "David Rose",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1945,
+            "tmdb": {
+                "id": 30506,
+                "original_title": "The Princess and the Pirate",
+                "title": "The Princess and the Pirate",
+                "release_date": "1944-11-17",
+                "backdrop_path": "/y8C3mhdLbFemmeVypo7yUhp6PyF.jpg",
+                "poster_path": "/foAqdD4Xov5q09rLkj4AzRxs9aQ.jpg",
+                "overview": "Princess Margaret is travelling incognito to elope with her true love instead of marrying the man her father has betrothed her to. On the high seas, her ship is attacked by pirates who know her identity and plan to kidnap her and hold her for a king's ransom.",
+                "vote_average": 6.8,
+                "vote_count": 21
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Summer Storm",
+            "second_label": "Karl Hajos",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1945,
+            "tmdb": {
+                "id": 81030,
+                "original_title": "Summer Storm",
+                "title": "O Que Matou Por Amor",
+                "release_date": "1944-07-14",
+                "backdrop_path": "/AaIoCDdOuvcrasWXvxyAnzPjPha.jpg",
+                "poster_path": "/llsRbejE79aeDR1pmjAYB78B3Qi.jpg",
+                "overview": "It's a tale of power and passions when a Russian siren, who wants the finer things in life, sinks her hooks into a judge, a decadent aristocrat and an estate superintendent, with surprising results.",
+                "vote_average": 5.1,
+                "vote_count": 8
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Three Russian Girls",
+            "second_label": "Franke Harling",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1945,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Up in Mabel's Room",
+            "second_label": "Edward Paul",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1945,
+            "tmdb": {
+                "id": 191478,
+                "original_title": "Up in Mabel's Room",
+                "title": "Up in Mabel's Room",
+                "release_date": "1944-09-12",
+                "backdrop_path": "/iDcp2PdFoX4Hg5uOEUB4T4nXdd8.jpg",
+                "poster_path": "/fq8gxJfeA3RgaVoLGj10nLFRa6V.jpg",
+                "overview": "Newly-married Gary Ainsworth (Dennis O'Keefe) once gave his former sweetheart Mabel (Gail Patrick) a sexy negligee with his initials embroidered in the lacework. It is Gary's unenviable task to retrieve the incriminating undergarment from Mabel's room before his wife Geraldine (Marjorie Reynolds) gets wise.",
+                "vote_average": 6.0,
+                "vote_count": 1
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Voice in the Wind",
+            "second_label": "Michel Michelet",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1945,
+            "tmdb": {
+                "id": 42294,
+                "original_title": "Voice in the Wind",
+                "title": "Uma Voz na Tormenta",
+                "release_date": "1944-03-03",
+                "backdrop_path": "/yVNWCYMcfoymK2Sc00GzBsIId8r.jpg",
+                "poster_path": "/5OGf9Zlp5CArH4Ax0ALwKJKXMYF.jpg",
+                "overview": "Former concert pianist, victim of Nazi torture, pursues a confused, melancholic existence on the island of Guadalupe.",
+                "vote_average": 5.0,
+                "vote_count": 10
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Wilson",
+            "second_label": "Alfred Newman",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1945,
+            "tmdb": {
+                "id": 84084,
+                "original_title": "Wilson",
+                "title": "Wilson",
+                "release_date": "1944-08-01",
+                "backdrop_path": "/a1mrTStV8fCOECTQntMe4sKLp85.jpg",
+                "poster_path": "/6nXIUIUwh4GZ8mQvEhgqUuqMann.jpg",
+                "overview": "The political career of Woodrow Wilson is chronicled, beginning with his decision to leave his post at Princeton to run for Governor of New Jersey, and his subsequent ascent to the Presidency of the United States. During his terms in office, Wilson must deal with the death of his first wife, the onslaught of German hostilities leading to American involvement in the Great War, and his own country's reticence to join the League of Nations.",
+                "vote_average": 5.7,
+                "vote_count": 20
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Woman of the Town",
+            "second_label": "Miklos Rozsa",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1945,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Music (Scoring of a Musical Picture)": [
+        {
+            "first_label": "Cover Girl",
+            "second_label": "Morris Stoloff, Carmen Dragon",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1945,
+            "tmdb": {
+                "id": 21622,
+                "original_title": "Cover Girl",
+                "title": "Modelos",
+                "release_date": "1944-03-22",
+                "backdrop_path": "/zrfg4V4fBjpKm2J4OyuaaoazO6h.jpg",
+                "poster_path": "/uhZATA1Of1vjnG62JwUcdb18v3v.jpg",
+                "overview": "Ao vencer concurso de beleza, jovem dan\u00e7arina deixa o namorado para tr\u00e1s a fim de trabalhar como modelo. Mas descobre que o sucesso n\u00e3o substitui um grande amor.  No Brooklyn, a dan\u00e7arina de cabar\u00e9 Rusty Parker tem uma vida simples mas feliz dan\u00e7ando no McGuire, cabar\u00e9 de propriedade de seu namorado Danny. Rusty, Danny e Genius tem um ritual nas noites de sexta-feira: eles encomendam ostras em um bar, tentando encontrar uma p\u00e9rola. A vida de Rusty muda quando ela participa e ganha um concurso para ser a garota da capa da revista Vanity. Ela \u00e9 convidada a trabalhar em um grande teatro na Broadway, cujo propriet\u00e1rio prop\u00f5e se casar com ela. Ela perde a felicidade e come\u00e7a a beber em seu novo estilo de vida, sem o amor de Danny e seus velhos amigos.",
+                "vote_average": 6.4,
+                "vote_count": 84
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Brazil",
+            "second_label": "Walter Scharf",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1945,
+            "tmdb": {
+                "id": 218090,
+                "original_title": "Brazil",
+                "title": "Brazil",
+                "release_date": "1944-11-30",
+                "backdrop_path": "/a5SA9YihmG5jEs2HczD3MXvPrq2.jpg",
+                "poster_path": "/lDpqZLKRKv0jmLjJwSflOtKDcc0.jpg",
+                "overview": "Brazil is perhaps the best of the handful of US films made by Brazilian singing sensation Tito Guizar. In typical screwball-comedy fashion, the plot is set in motion by authoress Nicky Henderson, who has hit the best-seller charts with her latest tome, Why Marry a Latin? While researching her next book in Rio De Janeiro, she finds out \"why\" when she meets handsome songwriter Miguel Soares. Upon learning about Nicky's book, Miguel decides to teach her a few lessons in the affairs of the heart. Edward Everett Horton is also on hand, twittering his way through the role of a well-meaning buttinsky. Thanks to the \"Good Neighbor\" policy of the 1940s, South American musicals were a glut on the market, but Brazil was good enough on its own merits to pay its way at the box office.",
+                "vote_average": 5.2,
+                "vote_count": 8
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Higher and Higher",
+            "second_label": "C. Bakaleinikoff",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1945,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hollywood Canteen",
+            "second_label": "Ray Heindorf",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1945,
+            "tmdb": {
+                "id": 38697,
+                "original_title": "Hollywood Canteen",
+                "title": "Um Sonho em Hollywood",
+                "release_date": "1944-12-15",
+                "backdrop_path": "/rk52jJxMdAnyv2o0OwQ2hZGRTct.jpg",
+                "poster_path": "/4ifU2c7Kbt4sCLbTdLFBqnhPYDp.jpg",
+                "overview": "Two soldiers on leave spend three nights at a club offering free of charge food, dancing, and entertainment for servicemen on their way overseas. Club founders Bette Davis and John Garfield give talks on the history of the place.",
+                "vote_average": 7.3,
+                "vote_count": 26
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Irish Eyes Are Smiling",
+            "second_label": "Alfred Newman",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1945,
+            "tmdb": {
+                "id": 218092,
+                "original_title": "Irish Eyes Are Smiling",
+                "title": "Irish Eyes Are Smiling",
+                "release_date": "1944-10-19",
+                "backdrop_path": "/sIgxelD0uUnLD4vjJxJmviJ9Y4z.jpg",
+                "poster_path": "/yKuq2klKIvVo4hT3G0JusdJg8r8.jpg",
+                "overview": "Climbing to fame, Irish-American composer Ernest R. Ball romances a showgirl, who catches the eye of an underworld character.",
+                "vote_average": 5.0,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Knickerbocker Holiday",
+            "second_label": "Werner R. Heymann, Kurt Weill",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1945,
+            "tmdb": {
+                "id": 218093,
+                "original_title": "Knickerbocker Holiday",
+                "title": "Knickerbocker Holiday",
+                "release_date": "1944-03-17",
+                "backdrop_path": "/2vd6IJm4YZv76Ct89tkfevMpRUi.jpg",
+                "poster_path": "/4IeyT46WeL9RL5MQgFRGD22NhJa.jpg",
+                "overview": "The wild and woolly early days of New York -- when it was still known as New Amsterdam -- provide the backdrop for this period musical-comedy. In 1650, Peter Stuyvesant (Charles Coburn) arrives in New Amsterdam to assume his duties as governor. Stuyvesant is hardly the fun-loving type, and one of his first official acts is to call for the death of Brom Broeck (Nelson Eddy), a newspaper publisher well-known for his fearless exposes of police and government corruption. However, Broeck hasn't done anything that would justify the death penalty, so Stuyvesant waits (without much patience) for Broeck to step out of line. Broeck is romancing a beautiful woman named Tina Tienhoven (Constance Dowling), whose sister Ulda (Shelley Winters) happens to be dating his best friend, Ten Pin (Johnnie \"Scat\" Davis). After Stuyvesant's men toss Broeck in jail on a trumped-up charge, Stuyvesant sets his sights on winning Tina's affections.",
+                "vote_average": 5.0,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lady in the Dark",
+            "second_label": "Robert Emmett Dolan",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1945,
+            "tmdb": {
+                "id": 120801,
+                "original_title": "Lady in the Dark",
+                "title": "Lady in the Dark",
+                "release_date": "1944-02-10",
+                "backdrop_path": "/5GwBbIVe4E6Ng3KGeo0X6uVt9Hl.jpg",
+                "poster_path": "/m7tekCG1oCpAY6RTzR0YIucfu4c.jpg",
+                "overview": "A neurotic editor sees a psychoanalyst about the advertising man, movie star and other man in her life.",
+                "vote_average": 4.7,
+                "vote_count": 9
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lady, Let's Dance",
+            "second_label": "Edward Kay",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1945,
+            "tmdb": {
+                "id": 218094,
+                "original_title": "Lady, Let's Dance",
+                "title": "Dan\u00e7arina Loura",
+                "release_date": "1944-04-11",
+                "backdrop_path": null,
+                "poster_path": "/besgxMtJCB4GCl3kUlHCxpSTY2R.jpg",
+                "overview": "Singing, dancing, and ice skating are featured in this musical that focuses on ice-skating sensation Belita. The story begins as she travels to a California resort where she has been hired as a replacement for a dance team. The resort is run by a handsome fellow. As a result of the gig, the skater becomes a national star while the resort manager gets fired and becomes a drifter until he ends up in the Army. The Oscar nominated score includes the following songs: \"Silver Shadows and Golden Dreams\", \"Dream of Dreams\", \"Rio\", \"In the Days of Beau Brummel\", \"Lady, Let's Dance\", \"Happy Hearts\", \"Ten Million Men and a Girl\", and the rhumba standard \"Esperanza\".",
+                "vote_average": 5.0,
+                "vote_count": 2
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Meet Me in St. Louis",
+            "second_label": "Georgie Stoll",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1945,
+            "tmdb": {
+                "id": 909,
+                "original_title": "Meet Me in St. Louis",
+                "title": "Agora Seremos Felizes",
+                "release_date": "1944-11-28",
+                "backdrop_path": "/fQ93o3wVSIe0dXMLTVTBHoqWwew.jpg",
+                "poster_path": "/6BeXfI1cWNARoMqoHTdwOXt6SHb.jpg",
+                "overview": "No ano que antecedeu a Feira Mundial de St. Louis de 1904, as quatro filhas dos Smith aprendem li\u00e7\u00f5es de vida e amor, mesmo que se preparem para uma mudan\u00e7a relutante para Nova York. Agora Seremos Felizes \u00e9 muito mais que um musical. \u00c9 a encantadora hist\u00f3ria de uma fam\u00edlia na virada do s\u00e9culo, repleta de magias e recorda\u00e7\u00f5es. Judy Garland \u00e9 Esther Smith, uma garota da agitada cidade de St. Louis que, junto com sua fam\u00edlia, tem que se mudar para Nova York. Como se n\u00e3o bastasse deixar todos os seus amigos para tr\u00e1s, ela ainda ir\u00e1 perder a sensacional Feira Mundial de St. Louis de 1904. Esther precisa fazer alguma coisa para evitar essa trag\u00e9dia!",
+                "vote_average": 7.021,
+                "vote_count": 349
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Merry Monahans",
+            "second_label": "H. J. Salter",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1945,
+            "tmdb": {
+                "id": 218095,
+                "original_title": "The Merry Monahans",
+                "title": "The Merry Monahans",
+                "release_date": "1944-09-15",
+                "backdrop_path": "/4Ao6qxHfjTgNRaSNwQn2WaaqC1Z.jpg",
+                "poster_path": "/vSWSSIokRMPMWp2Pfth3SqFHcA9.jpg",
+                "overview": "The film concerns a family vaudeville troupe headed by patriarch Pete Monahan. Because of his love affair with the bottle, Pete manages to get himself and his family blacklisted from every major vaude house in the country. Though Pete's kids Jimmy and Patsy love their dad, they're forced to break away from the act and go off on their own to survive. Eventually, the whole gang is reunited in a shamelessly lachrymose musical finale.",
+                "vote_average": 5.5,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Minstrel Man",
+            "second_label": "Ferde Grofe, Leo Erdody",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1945,
+            "tmdb": {
+                "id": 218096,
+                "original_title": "Minstrel Man",
+                "title": "Minstrel Man",
+                "release_date": "1944-01-02",
+                "backdrop_path": null,
+                "poster_path": "/dfr1ilRzUZvCv5yFWoIHiIpZP4S.jpg",
+                "overview": "Unusually elaborate for a PRC film, Minstrel Man is a lively musical drama built around the talents of veteran vaudevillian Benny Fields. The star is cast as Dixie Boy Johnson, who rises from the ranks of minstrel shows to become a top Broadway attraction. On the opening night of his greatest stage triumph, Dixie Boy's wife dies in childbirth. Profoundly shaken, he walks out of the show, leaving the baby to be raised by his showbiz pals Mae and Lasses White (Gladys George, Roscoe Karns). The kid grows up to be an attractive young woman named Caroline (Judy Clark), who follows in her dad's footsteps by billing herself as-that's right-Dixie Girl Johnson. This leads to a tearful reunion between Caroline and the father she'd long assumed to be dead. If Minstrel Man seems at times to be a dress rehearsal for Columbia's The Jolson Story (1946), it shouldn't surprising: the PRC film was directed by Joseph H. Lewis, who went on to helm Jolson Story's musical highlights.",
+                "vote_average": 5.0,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sensations of 1945",
+            "second_label": "Mahlon Merrick",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1945,
+            "tmdb": {
+                "id": 218097,
+                "original_title": "Sensations of 1945",
+                "title": "Sensations of 1945",
+                "release_date": "1944-06-30",
+                "backdrop_path": "/qVhFZ4CdIwgWP84xTM9pbECncl5.jpg",
+                "poster_path": "/8xUB3LBFTV8xOEUrXX7NLhxgYxY.jpg",
+                "overview": "As dancer Ginny Walker performs on stage, a veiled woman in the audience stands up, accuses Ginny of stealing her husband and then fires a gun at her. After Ginny collapses and is taken to her dressing room, the woman, Julia Westcolt, a friend of Ginny's, dashes backstage, discards her veil, and then congratulates her friend on their successful publicity stunt. When Ginny's press agents, Gus Crane and his son Junior, visit their client backstage, she brags about her feat and chides them for not being more creative in promoting her. Horrified at Ginny's brashness, Junior, a conservative Harvard graduate, chastises her and leaves the room.",
+                "vote_average": 6.2,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Song of the Open Road",
+            "second_label": "Charles Previn",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1945,
+            "tmdb": {
+                "id": 218098,
+                "original_title": "Song of the Open Road",
+                "title": "Song of the Open Road",
+                "release_date": "1944-06-21",
+                "backdrop_path": "/buSGToumXRBWEhJN2D4FEFPuGrt.jpg",
+                "poster_path": "/lUkKPOcfu4oIi7dGviXRtMsnuOp.jpg",
+                "overview": "A beautiful child star tires of life in the spotlight and so disguises herself and sneaks off to join a Civilian Conservation Corps camp to work with normal kids. It doesn't take her long to discover that being \"normal\" isn't easy as it looks. When a crop is in danger of being ruined because there are not enough people to harvest it, the girl employs some of her famous colleagues to lend a hand.  Songs include: \"Too Much in Love,\" \"Here It Is Monday,\" \"Delightfully Dangerous,\" \"Hawaiian War Chant\" and \"Notre Dame.\"",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Up in Arms",
+            "second_label": "Ray Heindorf, Louis Forbes",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1945,
+            "tmdb": {
+                "id": 113757,
+                "original_title": "Up in Arms",
+                "title": "Up in Arms",
+                "release_date": "1944-02-17",
+                "backdrop_path": "/2TSEvm2JsXeBXyjaW1awSxrKyzB.jpg",
+                "poster_path": "/rFgHxjHkuZvQtQ598GvqrWdcHJf.jpg",
+                "overview": "Hypochondriac Danny Weems gets drafted and accidentally smuggles his girlfriend aboard his Pacific-bound troopship.",
+                "vote_average": 5.9,
+                "vote_count": 7
+            },
+            "winner": false
+        }
+    ],
+    "Music (Song)": [
+        {
+            "first_label": "Going My Way",
+            "second_label": "Swinging On A Star in \"Going My Way\" Music by James Van Heusen; Lyrics by Johnny Burke",
+            "category": "Music (Song)",
+            "year": 1945,
+            "tmdb": {
+                "id": 17661,
+                "original_title": "Going My Way",
+                "title": "O Bom Pastor",
+                "release_date": "1944-05-15",
+                "backdrop_path": "/jiGn1FXSQVfN2nhix0tQtmoGWcF.jpg",
+                "poster_path": "/j7OxlZLu4m1r6Ur1inB3DoTi7Ct.jpg",
+                "overview": "Um novo padre chega numa par\u00f3quia para substituir o antigo, e deve conseguir integrar seu estilo aos novos e antigos religiosos da congrega\u00e7\u00e3o. Tudo parece estar indo relativamente bem, at\u00e9 que uma noite a igreja queima at\u00e9 o ch\u00e3o. Vencedor do Oscar de Melhor Filme.",
+                "vote_average": 6.7,
+                "vote_count": 160
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Higher and Higher",
+            "second_label": "I Couldn't Sleep A Wink Last Night in \"Higher and Higher\" Music by Jimmy McHugh; Lyrics by Harold Adamson",
+            "category": "Music (Song)",
+            "year": 1945,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Follow the Boys",
+            "second_label": "I'll Walk Alone in \"Follow the Boys\" Music by Jule Styne; Lyrics by Sammy Cahn",
+            "category": "Music (Song)",
+            "year": 1945,
+            "tmdb": {
+                "id": 27628,
+                "original_title": "Follow the Boys",
+                "title": "Epopeia da Alegria",
+                "release_date": "1944-05-05",
+                "backdrop_path": "/2gPXgkQjChy7EY1ZcdcQLKGLjTe.jpg",
+                "poster_path": "/jFrQrxdDOYIVH8OQ6h5TgFg9JEN.jpg",
+                "overview": "During World War II, all the studios put out \"all-star\" vehicles which featured virtually every star on the lot--often playing themselves--in musical numbers and comedy skits, and were meant as morale-boosters to both the troops overseas and the civilians at home. This was Universal Pictures' effort. It features everyone from Donald O'Connor to the Andrews Sisters to Orson Welles to W.C. Fields to George Raft to Marlene Dietrich, and dozens of other Universal players.",
+                "vote_average": 5.2,
+                "vote_count": 8
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sweet and Lowdown",
+            "second_label": "I'm Making Believe in \"Sweet and Lowdown\" Music by James V. Monaco; Lyrics by Mack Gordon",
+            "category": "Music (Song)",
+            "year": 1945,
+            "tmdb": {
+                "id": 162236,
+                "original_title": "Sweet and Low-Down",
+                "title": "Sweet and Low-Down",
+                "release_date": "1944-09-21",
+                "backdrop_path": "/jmNIU8l3hkAcEhIIC1pMakjElKF.jpg",
+                "poster_path": "/g2K7AFbgPnugNHbkJJdngHOyCvd.jpg",
+                "overview": "After their annual free concert at Chicago's Dearborn Settlement, Benny Goodman and his band are packing up to go to their next engagement when a kid steals Goodman's clarinet. Goodman and Popsie pursue him to a tenement flat where he has led them to hear his brother play the trombone. Shenanigans ensue following Goodman's offering the brother a job with the band.",
+                "vote_average": 5.2,
+                "vote_count": 6
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Cover Girl",
+            "second_label": "Long Ago And Far Away in \"Cover Girl\" Music by Jerome Kern; Lyrics by Ira Gershwin",
+            "category": "Music (Song)",
+            "year": 1945,
+            "tmdb": {
+                "id": 21622,
+                "original_title": "Cover Girl",
+                "title": "Modelos",
+                "release_date": "1944-03-22",
+                "backdrop_path": "/zrfg4V4fBjpKm2J4OyuaaoazO6h.jpg",
+                "poster_path": "/uhZATA1Of1vjnG62JwUcdb18v3v.jpg",
+                "overview": "Ao vencer concurso de beleza, jovem dan\u00e7arina deixa o namorado para tr\u00e1s a fim de trabalhar como modelo. Mas descobre que o sucesso n\u00e3o substitui um grande amor.  No Brooklyn, a dan\u00e7arina de cabar\u00e9 Rusty Parker tem uma vida simples mas feliz dan\u00e7ando no McGuire, cabar\u00e9 de propriedade de seu namorado Danny. Rusty, Danny e Genius tem um ritual nas noites de sexta-feira: eles encomendam ostras em um bar, tentando encontrar uma p\u00e9rola. A vida de Rusty muda quando ela participa e ganha um concurso para ser a garota da capa da revista Vanity. Ela \u00e9 convidada a trabalhar em um grande teatro na Broadway, cujo propriet\u00e1rio prop\u00f5e se casar com ela. Ela perde a felicidade e come\u00e7a a beber em seu novo estilo de vida, sem o amor de Danny e seus velhos amigos.",
+                "vote_average": 6.4,
+                "vote_count": 84
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Up in Arms",
+            "second_label": "Now I Know in \"Up in Arms\" Music by Harold Arlen; Lyrics by Ted Koehler",
+            "category": "Music (Song)",
+            "year": 1945,
+            "tmdb": {
+                "id": 113757,
+                "original_title": "Up in Arms",
+                "title": "Up in Arms",
+                "release_date": "1944-02-17",
+                "backdrop_path": "/2TSEvm2JsXeBXyjaW1awSxrKyzB.jpg",
+                "poster_path": "/rFgHxjHkuZvQtQ598GvqrWdcHJf.jpg",
+                "overview": "Hypochondriac Danny Weems gets drafted and accidentally smuggles his girlfriend aboard his Pacific-bound troopship.",
+                "vote_average": 5.9,
+                "vote_count": 7
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Minstrel Man",
+            "second_label": "Remember Me To Carolina in \"Minstrel Man\" Music by Harry Revel; Lyrics by Paul Webster",
+            "category": "Music (Song)",
+            "year": 1945,
+            "tmdb": {
+                "id": 218096,
+                "original_title": "Minstrel Man",
+                "title": "Minstrel Man",
+                "release_date": "1944-01-02",
+                "backdrop_path": null,
+                "poster_path": "/dfr1ilRzUZvCv5yFWoIHiIpZP4S.jpg",
+                "overview": "Unusually elaborate for a PRC film, Minstrel Man is a lively musical drama built around the talents of veteran vaudevillian Benny Fields. The star is cast as Dixie Boy Johnson, who rises from the ranks of minstrel shows to become a top Broadway attraction. On the opening night of his greatest stage triumph, Dixie Boy's wife dies in childbirth. Profoundly shaken, he walks out of the show, leaving the baby to be raised by his showbiz pals Mae and Lasses White (Gladys George, Roscoe Karns). The kid grows up to be an attractive young woman named Caroline (Judy Clark), who follows in her dad's footsteps by billing herself as-that's right-Dixie Girl Johnson. This leads to a tearful reunion between Caroline and the father she'd long assumed to be dead. If Minstrel Man seems at times to be a dress rehearsal for Columbia's The Jolson Story (1946), it shouldn't surprising: the PRC film was directed by Joseph H. Lewis, who went on to helm Jolson Story's musical highlights.",
+                "vote_average": 5.0,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Brazil",
+            "second_label": "Rio De Janeiro in \"Brazil\" Music by Ary Barroso; Lyrics by Ned Washington",
+            "category": "Music (Song)",
+            "year": 1945,
+            "tmdb": {
+                "id": 218090,
+                "original_title": "Brazil",
+                "title": "Brazil",
+                "release_date": "1944-11-30",
+                "backdrop_path": "/a5SA9YihmG5jEs2HczD3MXvPrq2.jpg",
+                "poster_path": "/lDpqZLKRKv0jmLjJwSflOtKDcc0.jpg",
+                "overview": "Brazil is perhaps the best of the handful of US films made by Brazilian singing sensation Tito Guizar. In typical screwball-comedy fashion, the plot is set in motion by authoress Nicky Henderson, who has hit the best-seller charts with her latest tome, Why Marry a Latin? While researching her next book in Rio De Janeiro, she finds out \"why\" when she meets handsome songwriter Miguel Soares. Upon learning about Nicky's book, Miguel decides to teach her a few lessons in the affairs of the heart. Edward Everett Horton is also on hand, twittering his way through the role of a well-meaning buttinsky. Thanks to the \"Good Neighbor\" policy of the 1940s, South American musicals were a glut on the market, but Brazil was good enough on its own merits to pay its way at the box office.",
+                "vote_average": 5.2,
+                "vote_count": 8
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lady, Let's Dance",
+            "second_label": "Silver Shadows And Golden Dreams in \"Lady, Let's Dance\" Music by Lew Pollack; Lyrics by Charles Newman",
+            "category": "Music (Song)",
+            "year": 1945,
+            "tmdb": {
+                "id": 218094,
+                "original_title": "Lady, Let's Dance",
+                "title": "Dan\u00e7arina Loura",
+                "release_date": "1944-04-11",
+                "backdrop_path": null,
+                "poster_path": "/besgxMtJCB4GCl3kUlHCxpSTY2R.jpg",
+                "overview": "Singing, dancing, and ice skating are featured in this musical that focuses on ice-skating sensation Belita. The story begins as she travels to a California resort where she has been hired as a replacement for a dance team. The resort is run by a handsome fellow. As a result of the gig, the skater becomes a national star while the resort manager gets fired and becomes a drifter until he ends up in the Army. The Oscar nominated score includes the following songs: \"Silver Shadows and Golden Dreams\", \"Dream of Dreams\", \"Rio\", \"In the Days of Beau Brummel\", \"Lady, Let's Dance\", \"Happy Hearts\", \"Ten Million Men and a Girl\", and the rhumba standard \"Esperanza\".",
+                "vote_average": 5.0,
+                "vote_count": 2
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hollywood Canteen",
+            "second_label": "Sweet Dreams Sweetheart in \"Hollywood Canteen\" Music by M. K. Jerome; Lyrics by Ted Koehler",
+            "category": "Music (Song)",
+            "year": 1945,
+            "tmdb": {
+                "id": 38697,
+                "original_title": "Hollywood Canteen",
+                "title": "Um Sonho em Hollywood",
+                "release_date": "1944-12-15",
+                "backdrop_path": "/rk52jJxMdAnyv2o0OwQ2hZGRTct.jpg",
+                "poster_path": "/4ifU2c7Kbt4sCLbTdLFBqnhPYDp.jpg",
+                "overview": "Two soldiers on leave spend three nights at a club offering free of charge food, dancing, and entertainment for servicemen on their way overseas. Club founders Bette Davis and John Garfield give talks on the history of the place.",
+                "vote_average": 7.3,
+                "vote_count": 26
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Song of the Open Road",
+            "second_label": "Too Much In Love in \"Song of the Open Road\" Music by Walter Kent; Lyrics by Kim Gannon",
+            "category": "Music (Song)",
+            "year": 1945,
+            "tmdb": {
+                "id": 218098,
+                "original_title": "Song of the Open Road",
+                "title": "Song of the Open Road",
+                "release_date": "1944-06-21",
+                "backdrop_path": "/buSGToumXRBWEhJN2D4FEFPuGrt.jpg",
+                "poster_path": "/lUkKPOcfu4oIi7dGviXRtMsnuOp.jpg",
+                "overview": "A beautiful child star tires of life in the spotlight and so disguises herself and sneaks off to join a Civilian Conservation Corps camp to work with normal kids. It doesn't take her long to discover that being \"normal\" isn't easy as it looks. When a crop is in danger of being ruined because there are not enough people to harvest it, the girl employs some of her famous colleagues to lend a hand.  Songs include: \"Too Much in Love,\" \"Here It Is Monday,\" \"Delightfully Dangerous,\" \"Hawaiian War Chant\" and \"Notre Dame.\"",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Meet Me in St. Louis",
+            "second_label": "The Trolley Song in \"Meet Me in St. Louis\" Music and Lyrics by Ralph Blane and Hugh Martin",
+            "category": "Music (Song)",
+            "year": 1945,
+            "tmdb": {
+                "id": 909,
+                "original_title": "Meet Me in St. Louis",
+                "title": "Agora Seremos Felizes",
+                "release_date": "1944-11-28",
+                "backdrop_path": "/fQ93o3wVSIe0dXMLTVTBHoqWwew.jpg",
+                "poster_path": "/6BeXfI1cWNARoMqoHTdwOXt6SHb.jpg",
+                "overview": "No ano que antecedeu a Feira Mundial de St. Louis de 1904, as quatro filhas dos Smith aprendem li\u00e7\u00f5es de vida e amor, mesmo que se preparem para uma mudan\u00e7a relutante para Nova York. Agora Seremos Felizes \u00e9 muito mais que um musical. \u00c9 a encantadora hist\u00f3ria de uma fam\u00edlia na virada do s\u00e9culo, repleta de magias e recorda\u00e7\u00f5es. Judy Garland \u00e9 Esther Smith, uma garota da agitada cidade de St. Louis que, junto com sua fam\u00edlia, tem que se mudar para Nova York. Como se n\u00e3o bastasse deixar todos os seus amigos para tr\u00e1s, ela ainda ir\u00e1 perder a sensacional Feira Mundial de St. Louis de 1904. Esther precisa fazer alguma coisa para evitar essa trag\u00e9dia!",
+                "vote_average": 7.021,
+                "vote_count": 349
+            },
+            "winner": false
+        }
+    ],
+    "Best Motion Picture": [
+        {
+            "first_label": "Going My Way",
+            "second_label": "Paramount",
+            "category": "Best Motion Picture",
+            "year": 1945,
+            "tmdb": {
+                "id": 17661,
+                "original_title": "Going My Way",
+                "title": "O Bom Pastor",
+                "release_date": "1944-05-15",
+                "backdrop_path": "/jiGn1FXSQVfN2nhix0tQtmoGWcF.jpg",
+                "poster_path": "/j7OxlZLu4m1r6Ur1inB3DoTi7Ct.jpg",
+                "overview": "Um novo padre chega numa par\u00f3quia para substituir o antigo, e deve conseguir integrar seu estilo aos novos e antigos religiosos da congrega\u00e7\u00e3o. Tudo parece estar indo relativamente bem, at\u00e9 que uma noite a igreja queima at\u00e9 o ch\u00e3o. Vencedor do Oscar de Melhor Filme.",
+                "vote_average": 6.7,
+                "vote_count": 160
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Double Indemnity",
+            "second_label": "Paramount",
+            "category": "Best Motion Picture",
+            "year": 1945,
+            "tmdb": {
+                "id": 996,
+                "original_title": "Double Indemnity",
+                "title": "Pacto de Sangue",
+                "release_date": "1944-07-06",
+                "backdrop_path": "/byQdu1nzQLI9t1VeoP1xuQfru3L.jpg",
+                "poster_path": "/rHtE9BzynU7JjnV8IZgr5CtXIux.jpg",
+                "overview": "Um agente de seguros encontra a atraente (e casada) Phyllis quando vai efetuar um neg\u00f3cio e ambos logo se apaixonam. Phyllis o convence a efetuar um plano para assassinar seu marido ap\u00f3s fazer um seguro de vida para ele. O objetivo? Ficar com o dinheiro do seguro. Mas nem tudo d\u00e1 certo na execu\u00e7\u00e3o do plano. (Estimado e 14)",
+                "vote_average": 8.1,
+                "vote_count": 1696
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gaslight",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Best Motion Picture",
+            "year": 1945,
+            "tmdb": {
+                "id": 13528,
+                "original_title": "Gaslight",
+                "title": "\u00c0 Meia Luz",
+                "release_date": "1944-05-04",
+                "backdrop_path": "/fEVYmqXuD9iqesoYexOTHSGXIWK.jpg",
+                "poster_path": "/wrAS0Lao9rktvuEq6vg9SsB4WPQ.jpg",
+                "overview": "Anos depois de sua tia ser assassinada em sua casa, uma jovem se muda de volta para casa com seu novo marido. No entanto, ele tem um segredo e far\u00e1 qualquer coisa para proteg\u00ea-lo mesmo que isso signifique enlouquecer sua esposa.",
+                "vote_average": 7.485,
+                "vote_count": 453
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Since You Went Away",
+            "second_label": "Selznick International Pictures",
+            "category": "Best Motion Picture",
+            "year": 1945,
+            "tmdb": {
+                "id": 42401,
+                "original_title": "Since You Went Away",
+                "title": "Desde Que Partiste",
+                "release_date": "1944-06-30",
+                "backdrop_path": "/96ymUd1TTAM2IaJKochuiqFXJGU.jpg",
+                "poster_path": "/vRwn4Yrf4O8LbP7gy9Bzh0hKbjW.jpg",
+                "overview": "While husband Tim is away during World War II, Anne Hilton copes with problems on the homefront. Taking in a lodger, Colonel Smollett, to help make ends meet and dealing with shortages and rationing are minor inconveniences compared to the love affair daughter Jane and the Colonel's grandson conduct.",
+                "vote_average": 6.4,
+                "vote_count": 43
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Wilson",
+            "second_label": "20th Century-Fox",
+            "category": "Best Motion Picture",
+            "year": 1945,
+            "tmdb": {
+                "id": 84084,
+                "original_title": "Wilson",
+                "title": "Wilson",
+                "release_date": "1944-08-01",
+                "backdrop_path": "/a1mrTStV8fCOECTQntMe4sKLp85.jpg",
+                "poster_path": "/6nXIUIUwh4GZ8mQvEhgqUuqMann.jpg",
+                "overview": "The political career of Woodrow Wilson is chronicled, beginning with his decision to leave his post at Princeton to run for Governor of New Jersey, and his subsequent ascent to the Presidency of the United States. During his terms in office, Wilson must deal with the death of his first wife, the onslaught of German hostilities leading to American involvement in the Great War, and his own country's reticence to join the League of Nations.",
+                "vote_average": 5.7,
+                "vote_count": 20
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Cartoon)": [
+        {
+            "first_label": "Mouse Trouble",
+            "second_label": "Frederick C. Quimby, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1945,
+            "tmdb": {
+                "id": 40144,
+                "original_title": "Mouse Trouble",
+                "title": "A Ca\u00e7a ao Rato",
+                "release_date": "1944-11-23",
+                "backdrop_path": "/agnHCcFO5QAK2G32VQeGwmIuQJo.jpg",
+                "poster_path": "/2qCPjb3A5ap4oDJ7RtjqrJU23v0.jpg",
+                "overview": "O novo livro de Tom sobre \"como apanhar um rato\" n\u00e3o se revela muito \u00fatil contra Jerry; na verdade, Jerry parece utiliz\u00e1-lo melhor do que Tom.",
+                "vote_average": 7.2,
+                "vote_count": 66
+            },
+            "winner": true
+        },
+        {
+            "first_label": "And to Think I Saw It on Mulberry Street",
+            "second_label": "George Pal, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1945,
+            "tmdb": {
+                "id": 240377,
+                "original_title": "And to Think That I Saw It on Mulberry Street",
+                "title": "And to Think That I Saw It on Mulberry Street",
+                "release_date": "1944-07-28",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "1944 animated short film by George Pal, based on the book by Dr. Seuss.",
+                "vote_average": 6.0,
+                "vote_count": 2
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dog, Cat and Canary",
+            "second_label": "Screen Gems",
+            "category": "Short Subject (Cartoon)",
+            "year": 1945,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Fish Fry",
+            "second_label": "Walter Lantz, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1945,
+            "tmdb": {
+                "id": 220665,
+                "original_title": "Fish Fry",
+                "title": "Peixe Frito",
+                "release_date": "1944-06-19",
+                "backdrop_path": null,
+                "poster_path": "/gYdQrTpO7Shkq7rWS7RBvXXpRSy.jpg",
+                "overview": "Um gato de rua tenta roubar o peixinho dourado que Andy Panda acabou de comprar em uma loja de animais, mas o peixe se mostra inteligente demais para ele.",
+                "vote_average": 6.7,
+                "vote_count": 6
+            },
+            "winner": false
+        },
+        {
+            "first_label": "How to Play Football",
+            "second_label": "Walt Disney, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1945,
+            "tmdb": {
+                "id": 66984,
+                "original_title": "How to Play Football",
+                "title": "Como Jogar Futebol Americano",
+                "release_date": "1944-09-15",
+                "backdrop_path": "/jti0stDkPBZdtXYxUGZzbZuYSzf.jpg",
+                "poster_path": "/rMCXhyLwaYbl2k1UYyw9LLsmZbX.jpg",
+                "overview": "A turma do Pateta ensina como jogar futebol americano, em um jogo emocionante entre os times da Taxidermia e da Antropologia.",
+                "vote_average": 6.8,
+                "vote_count": 58
+            },
+            "winner": false
+        },
+        {
+            "first_label": "My Boy Johnny",
+            "second_label": "Paul Terry, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1945,
+            "tmdb": {
+                "id": 240384,
+                "original_title": "My Boy Johnny",
+                "title": "My Boy Johnny",
+                "release_date": "1944-05-12",
+                "backdrop_path": "/vq6jYth729kWz3Z2DKFTB94smBA.jpg",
+                "poster_path": "/tc5e2rfkNp6WEmtlRfpEctvinWZ.jpg",
+                "overview": "In a departure from the usual Terrytoon, this short is based on predictions of things to come in the world after the end of World War II. It primarily deals with, in a comedy sense, what every \"G.I.\" Jonnny can expect when he returns home to civilian life.",
+                "vote_average": 5.0,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Swooner Crooner",
+            "second_label": "Warner Bros.",
+            "category": "Short Subject (Cartoon)",
+            "year": 1945,
+            "tmdb": {
+                "id": 100359,
+                "original_title": "Swooner Crooner",
+                "title": "Swooner Crooner",
+                "release_date": "1944-05-06",
+                "backdrop_path": "/2l4El1OhsVj9zNWUHccNSeWvFsv.jpg",
+                "poster_path": "/shtQCXEDuQf5prrk9fOu3SpMIwV.jpg",
+                "overview": "Porky Pig's egg faces production problems when a crooning rooster distracts the hens from their jobs.",
+                "vote_average": 6.7,
+                "vote_count": 16
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (One-reel)": [
+        {
+            "first_label": "Who's Who in Animal Land",
+            "second_label": "Jerry Fairbanks, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1945,
+            "tmdb": {
+                "id": 240374,
+                "original_title": "Who's Who in Animal Land",
+                "title": "Who's Who in Animal Land",
+                "release_date": "1944-12-02",
+                "backdrop_path": null,
+                "poster_path": "/53nXXdbfNqnHVFxjuAoA5hbXDvH.jpg",
+                "overview": "An Academy award-winning Paramount Headliner short featuring a tour of the animal kingdom with the animals tossing around quips and jokes via dubbing and special effects. The narration is by Ken Carpenter, and the ending is a rendition of \"Cow-Cow Boogie\" by a \"cow soloist\" and some cow-pasture harmonizers.",
+                "vote_average": 6.0,
+                "vote_count": 1
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Blue Grass Gentlemen",
+            "second_label": "Edmund Reek, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1945,
+            "tmdb": {
+                "id": 240375,
+                "original_title": "Blue-Grass Gentlemen",
+                "title": "Blue-Grass Gentlemen",
+                "release_date": "1944-01-01",
+                "backdrop_path": null,
+                "poster_path": "/iGgDS5fcer8dZyYwNUaK8sIfHal.jpg",
+                "overview": "Blue-Grass Gentlemen is a 1944 English language short film, starring Ed Thorgersen. It was nominated for an Oscar in the category Best Short Subject, One-Reel.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jammin' the Blues",
+            "second_label": "Gordon Hollingshead, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1945,
+            "tmdb": {
+                "id": 147282,
+                "original_title": "Jammin' the Blues",
+                "title": "Jammin' the Blues",
+                "release_date": "1944-05-05",
+                "backdrop_path": "/4XEmtvZ6fm1HhjTsUeclvkeWOEK.jpg",
+                "poster_path": "/dRFAdxORaQokAy62KqIHUbcaA6e.jpg",
+                "overview": "In this short film, prominent jazz musicians of the 1940s gather for a rare filming of a jam session. This highly stylized chronicle features tenor sax legend Lester Young.",
+                "vote_average": 7.1,
+                "vote_count": 28
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Movie Pests",
+            "second_label": "Pete Smith, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1945,
+            "tmdb": {
+                "id": 101541,
+                "original_title": "Movie Pests",
+                "title": "Movie Pests",
+                "release_date": "1944-07-08",
+                "backdrop_path": null,
+                "poster_path": "/syPiHKgBXcGYZrut0FenVHkrgQR.jpg",
+                "overview": "This Pete Smith Specialty short takes a humorous look at the inconsiderate pests whose annoying habits make enjoying a movie impossible.",
+                "vote_average": 5.6,
+                "vote_count": 8
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Screen Snapshots' 50th Anniversary of Motion Pictures",
+            "second_label": "Ralph Staub, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1945,
+            "tmdb": {
+                "id": 240376,
+                "original_title": "Screen Snapshots' 50th Anniversary of Motion Pictures",
+                "title": "Screen Snapshots' 50th Anniversary of Motion Pictures",
+                "release_date": "1944-01-01",
+                "backdrop_path": null,
+                "poster_path": "/oEkXOwVxkRsoE54WjceEuVLHkJ0.jpg",
+                "overview": "1944 short film nominated for an Oscar in the category of Best Short Subject, One Reel",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Two-reel)": [
+        {
+            "first_label": "I Won't Play",
+            "second_label": "Gordon Hollingshead, Producer",
+            "category": "Short Subject (Two-reel)",
+            "year": 1945,
+            "tmdb": {
+                "id": 180505,
+                "original_title": "I Won't Play",
+                "title": "I Won't Play",
+                "release_date": "1944-11-11",
+                "backdrop_path": null,
+                "poster_path": "/A4KvaObtyGYPGcmnHfLILCc7A3z.jpg",
+                "overview": "In this Oscar-winning short film, a Marine, Joe Fingers, on a South Sea island during World War II, tells tales of the influence he's had on various personalities. In the words of one of his buddies, he's either the biggest liar in the world or the most important man in show business.",
+                "vote_average": 5.8,
+                "vote_count": 12
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Bombalera",
+            "second_label": "Louis Harris, Producer",
+            "category": "Short Subject (Two-reel)",
+            "year": 1945,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Main Street Today",
+            "second_label": "Jerry Bresler, Producer; Herbert Moulton, Associate Producer",
+            "category": "Short Subject (Two-reel)",
+            "year": 1945,
+            "tmdb": {
+                "id": 240373,
+                "original_title": "Main Street Today",
+                "title": "Main Street Today",
+                "release_date": "1944-03-25",
+                "backdrop_path": null,
+                "poster_path": "/eWeqr9hsBfnezB7HoD2zbJ3FTGM.jpg",
+                "overview": "This patriotic short film promotes America's war effort at home. The story looks at a fictional small town's main street, seeing where additional workforce, for increased production of materials needed by the military, might come from.",
+                "vote_average": 6.7,
+                "vote_count": 3
+            },
+            "winner": false
+        }
+    ],
+    "Sound Recording": [
+        {
+            "first_label": "Wilson",
+            "second_label": "20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director",
+            "category": "Sound Recording",
+            "year": 1945,
+            "tmdb": {
+                "id": 84084,
+                "original_title": "Wilson",
+                "title": "Wilson",
+                "release_date": "1944-08-01",
+                "backdrop_path": "/a1mrTStV8fCOECTQntMe4sKLp85.jpg",
+                "poster_path": "/6nXIUIUwh4GZ8mQvEhgqUuqMann.jpg",
+                "overview": "The political career of Woodrow Wilson is chronicled, beginning with his decision to leave his post at Princeton to run for Governor of New Jersey, and his subsequent ascent to the Presidency of the United States. During his terms in office, Wilson must deal with the death of his first wife, the onslaught of German hostilities leading to American involvement in the Great War, and his own country's reticence to join the League of Nations.",
+                "vote_average": 5.7,
+                "vote_count": 20
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Brazil",
+            "second_label": "Republic Studio Sound Department, Daniel J. Bloomberg, Sound Director",
+            "category": "Sound Recording",
+            "year": 1945,
+            "tmdb": {
+                "id": 218090,
+                "original_title": "Brazil",
+                "title": "Brazil",
+                "release_date": "1944-11-30",
+                "backdrop_path": "/a5SA9YihmG5jEs2HczD3MXvPrq2.jpg",
+                "poster_path": "/lDpqZLKRKv0jmLjJwSflOtKDcc0.jpg",
+                "overview": "Brazil is perhaps the best of the handful of US films made by Brazilian singing sensation Tito Guizar. In typical screwball-comedy fashion, the plot is set in motion by authoress Nicky Henderson, who has hit the best-seller charts with her latest tome, Why Marry a Latin? While researching her next book in Rio De Janeiro, she finds out \"why\" when she meets handsome songwriter Miguel Soares. Upon learning about Nicky's book, Miguel decides to teach her a few lessons in the affairs of the heart. Edward Everett Horton is also on hand, twittering his way through the role of a well-meaning buttinsky. Thanks to the \"Good Neighbor\" policy of the 1940s, South American musicals were a glut on the market, but Brazil was good enough on its own merits to pay its way at the box office.",
+                "vote_average": 5.2,
+                "vote_count": 8
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Casanova Brown",
+            "second_label": "Samuel Goldwyn Studio Sound Department, Thomas T. Moulton, Sound Director",
+            "category": "Sound Recording",
+            "year": 1945,
+            "tmdb": {
+                "id": 81751,
+                "original_title": "Casanova Brown",
+                "title": "Casanova J\u00fanior",
+                "release_date": "1944-08-23",
+                "backdrop_path": "/lVUX2CJcHbNH7LAcsj5vSp8c0PD.jpg",
+                "poster_path": "/4Mz3GC5LPWbzR3liMv8ctw7tjxG.jpg",
+                "overview": "O casamento de Cass Brown e Isabel \u00e9 cancelado. E, quando ele est\u00e1 prestes a se casar com outra mulher, descobre que Isabel est\u00e1 gr\u00e1vida. Para que ela n\u00e3o entregue o beb\u00ea para ado\u00e7\u00e3o, Cass rapta a crian\u00e7a e passa a cuidar dela. Mas ser\u00e1 que este \u00e9 um plano para reconquist\u00e1-lo?",
+                "vote_average": 6.4,
+                "vote_count": 20
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Cover Girl",
+            "second_label": "Columbia Studio Sound Department, John Livadary, Sound Director",
+            "category": "Sound Recording",
+            "year": 1945,
+            "tmdb": {
+                "id": 21622,
+                "original_title": "Cover Girl",
+                "title": "Modelos",
+                "release_date": "1944-03-22",
+                "backdrop_path": "/zrfg4V4fBjpKm2J4OyuaaoazO6h.jpg",
+                "poster_path": "/uhZATA1Of1vjnG62JwUcdb18v3v.jpg",
+                "overview": "Ao vencer concurso de beleza, jovem dan\u00e7arina deixa o namorado para tr\u00e1s a fim de trabalhar como modelo. Mas descobre que o sucesso n\u00e3o substitui um grande amor.  No Brooklyn, a dan\u00e7arina de cabar\u00e9 Rusty Parker tem uma vida simples mas feliz dan\u00e7ando no McGuire, cabar\u00e9 de propriedade de seu namorado Danny. Rusty, Danny e Genius tem um ritual nas noites de sexta-feira: eles encomendam ostras em um bar, tentando encontrar uma p\u00e9rola. A vida de Rusty muda quando ela participa e ganha um concurso para ser a garota da capa da revista Vanity. Ela \u00e9 convidada a trabalhar em um grande teatro na Broadway, cujo propriet\u00e1rio prop\u00f5e se casar com ela. Ela perde a felicidade e come\u00e7a a beber em seu novo estilo de vida, sem o amor de Danny e seus velhos amigos.",
+                "vote_average": 6.4,
+                "vote_count": 84
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Double Indemnity",
+            "second_label": "Paramount Studio Sound Department, Loren L. Ryder, Sound Director",
+            "category": "Sound Recording",
+            "year": 1945,
+            "tmdb": {
+                "id": 996,
+                "original_title": "Double Indemnity",
+                "title": "Pacto de Sangue",
+                "release_date": "1944-07-06",
+                "backdrop_path": "/byQdu1nzQLI9t1VeoP1xuQfru3L.jpg",
+                "poster_path": "/rHtE9BzynU7JjnV8IZgr5CtXIux.jpg",
+                "overview": "Um agente de seguros encontra a atraente (e casada) Phyllis quando vai efetuar um neg\u00f3cio e ambos logo se apaixonam. Phyllis o convence a efetuar um plano para assassinar seu marido ap\u00f3s fazer um seguro de vida para ele. O objetivo? Ficar com o dinheiro do seguro. Mas nem tudo d\u00e1 certo na execu\u00e7\u00e3o do plano. (Estimado e 14)",
+                "vote_average": 8.1,
+                "vote_count": 1696
+            },
+            "winner": false
+        },
+        {
+            "first_label": "His Butler's Sister",
+            "second_label": "Universal Studio Sound Department, Bernard B. Brown, Sound Director",
+            "category": "Sound Recording",
+            "year": 1945,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hollywood Canteen",
+            "second_label": "Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",
+            "category": "Sound Recording",
+            "year": 1945,
+            "tmdb": {
+                "id": 38697,
+                "original_title": "Hollywood Canteen",
+                "title": "Um Sonho em Hollywood",
+                "release_date": "1944-12-15",
+                "backdrop_path": "/rk52jJxMdAnyv2o0OwQ2hZGRTct.jpg",
+                "poster_path": "/4ifU2c7Kbt4sCLbTdLFBqnhPYDp.jpg",
+                "overview": "Two soldiers on leave spend three nights at a club offering free of charge food, dancing, and entertainment for servicemen on their way overseas. Club founders Bette Davis and John Garfield give talks on the history of the place.",
+                "vote_average": 7.3,
+                "vote_count": 26
+            },
+            "winner": false
+        },
+        {
+            "first_label": "It Happened Tomorrow",
+            "second_label": "Sound Service, Inc., Jack Whitney, Sound Director",
+            "category": "Sound Recording",
+            "year": 1945,
+            "tmdb": {
+                "id": 3589,
+                "original_title": "It Happened Tomorrow",
+                "title": "O Tempo \u00e9 uma Ilus\u00e3o",
+                "release_date": "1944-03-31",
+                "backdrop_path": "/lQZBj79QytDUuJKKyrlwItQEDpC.jpg",
+                "poster_path": "/rLiYy3ipKeTk5YurD6nxFaZ1DIN.jpg",
+                "overview": "A young turn-of-the-century newspaper man finds he can get hold of the next day's paper. This brings more problems than fortune, especially as his new girlfriend is part of a phony clairvoyant act.",
+                "vote_average": 6.8,
+                "vote_count": 53
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Kismet",
+            "second_label": "Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",
+            "category": "Sound Recording",
+            "year": 1945,
+            "tmdb": {
+                "id": 43501,
+                "original_title": "Kismet",
+                "title": "Kismet",
+                "release_date": "1944-10-01",
+                "backdrop_path": "/nuFvDwBSauFNvYLONAK5rLpxLvh.jpg",
+                "poster_path": "/cQ4iBs2bEYawZWxrHY3mHOzXhfr.jpg",
+                "overview": "Hafiz, a rascally beggar on the periphery of the court of Baghdad, schemes to marry his daughter to royalty and to win the heart of the queen of the castle himself.",
+                "vote_average": 4.9,
+                "vote_count": 12
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Music in Manhattan",
+            "second_label": "RKO Radio Studio Sound Department, Stephen Dunn, Sound Director",
+            "category": "Sound Recording",
+            "year": 1945,
+            "tmdb": {
+                "id": 218100,
+                "original_title": "Music in Manhattan",
+                "title": "Music in Manhattan",
+                "release_date": "1944-10-06",
+                "backdrop_path": "/f67XC9njP1QosXxH6WCArCTJjhe.jpg",
+                "poster_path": "/rWmbKlUIhgiBJMLuhCv5NV6Cu1t.jpg",
+                "overview": "Frankie Foster and Stanley Benson are a pair of small-potatoes performers. Both try to make it to the big-time after winning an amateur talent contest. Though this leads them to a few professional gigs, something is missing from their act and they are not popular. Believing a little cash will boost their career, Frankie heads for Washington, D.C. to see if her wealthy father will help them. En route Frankie is mistaken for the wife of the well-known pilot Johnny Pearson and ends up in his suite having to pretend she is his spouse. When the pilot meets her, romantic sparks fly.",
+                "vote_average": 4.0,
+                "vote_count": 1
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Voice in the Wind",
+            "second_label": "RCA Sound, W. M. Dalgleish, Sound Director",
+            "category": "Sound Recording",
+            "year": 1945,
+            "tmdb": {
+                "id": 42294,
+                "original_title": "Voice in the Wind",
+                "title": "Uma Voz na Tormenta",
+                "release_date": "1944-03-03",
+                "backdrop_path": "/yVNWCYMcfoymK2Sc00GzBsIId8r.jpg",
+                "poster_path": "/5OGf9Zlp5CArH4Ax0ALwKJKXMYF.jpg",
+                "overview": "Former concert pianist, victim of Nazi torture, pursues a confused, melancholic existence on the island of Guadalupe.",
+                "vote_average": 5.0,
+                "vote_count": 10
+            },
+            "winner": false
+        }
+    ],
+    "Special Effects": [
+        {
+            "first_label": "Thirty Seconds over Tokyo",
+            "second_label": "Photographic Effects by A. Arnold Gillespie, Donald Jahraus, Warren Newcombe; Sound Effects by Douglas Shearer",
+            "category": "Special Effects",
+            "year": 1945,
+            "tmdb": {
+                "id": 18770,
+                "original_title": "Thirty Seconds Over Tokyo",
+                "title": "Trinta Segundos Sobre T\u00f3quio",
+                "release_date": "1944-11-15",
+                "backdrop_path": "/x5OnEbMl2o7mC85i8VaL9sHSix1.jpg",
+                "poster_path": "/dvvgU0TwstTtZofAzBA5syt5on7.jpg",
+                "overview": "A verdadeira e incrivelmente detalhada hist\u00f3ria de \"O Raid de Doolittle\", baseado no relato pessoal de Ted Lawson, um dos participantes do Raid. Atordoados pelo ataque a Pearl Harbor e uma s\u00e9rie de outras derrotas, a Am\u00e9rica precisava de uma vit\u00f3ria. Para isso o coronel Jimmy Doolittle, um campe\u00e3o de corrida a\u00e9rea e piloto de acrobacias, elabora um plano para um ataque ousado ao cora\u00e7\u00e3o do pr\u00f3prio Jap\u00e3o. Para fazer isso, ele deve treinar pilotos de bombardeiro do ex\u00e9rcito para fazer algo que ningu\u00e9m jamais sonhou ser poss\u00edvel, o lan\u00e7amento de 16 bombardeiros B-25, totalmente carregados de combust\u00edvel e bombas, a partir de um porta-avi\u00f5es! Not\u00e1vel em sua exatid\u00e3o, este filme ainda usa imagens filmadas do raid real.",
+                "vote_average": 6.6,
+                "vote_count": 54
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Adventures of Mark Twain",
+            "second_label": "Photographic Effects by Paul Detlefsen, John Crouse; Sound Effects by Nathan Levinson",
+            "category": "Special Effects",
+            "year": 1945,
+            "tmdb": {
+                "id": 120747,
+                "original_title": "The Adventures of Mark Twain",
+                "title": "The Adventures of Mark Twain",
+                "release_date": "1944-07-20",
+                "backdrop_path": "/hPvsXF9pcK4y1wxYJMIxR8ay8y1.jpg",
+                "poster_path": "/UP32sGRFWdxvLB2lBKOHgbHW8c.jpg",
+                "overview": "A dramatised life of Samuel Langhorn Clemens, or Mark Twain.",
+                "vote_average": 6.6,
+                "vote_count": 9
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Days of Glory",
+            "second_label": "Photographic Effects by Vernon L. Walker; Sound Effects by James G. Stewart, Roy Granville",
+            "category": "Special Effects",
+            "year": 1945,
+            "tmdb": {
+                "id": 96366,
+                "original_title": "Days of Glory",
+                "title": "Quando a Neve Tornar a Cair",
+                "release_date": "1944-06-16",
+                "backdrop_path": "/3Kr3TVGvF4NrC4jYPtns2oYy8L2.jpg",
+                "poster_path": "/b0iRM1CGk3VerLf1oO9uOn2sea1.jpg",
+                "overview": "A heroic guerilla group fights back against impossible odds during the 1941 Nazi invasion of Russia.",
+                "vote_average": 5.7,
+                "vote_count": 24
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Secret Command",
+            "second_label": "Photographic Effects by David Allen, Ray Cory, Robert Wright; Sound Effects by Russell Malmgren, Harry Kusnick",
+            "category": "Special Effects",
+            "year": 1945,
+            "tmdb": {
+                "id": 82247,
+                "original_title": "Secret Command",
+                "title": "Secret Command",
+                "release_date": "1944-07-30",
+                "backdrop_path": "/pmKWPCP0vOTgEBLxwZP1UYpw1Ed.jpg",
+                "poster_path": "/atraWKyN3TrdXwyyE98eG87qOoR.jpg",
+                "overview": "Sam Gallagher returns home to Los Angeles as an undercover spy for the Navy, getting a job at the shipyards where his brother, Jeff, is a foreman. Jeff still resents Sam for abandoning the family years ago and fears he may steal away Lea Damaron, his current girlfriend -- who is Sam's old flame. While Sam tries to sniff out Nazi saboteurs in the plant, he grows closer to Jill McGann, the agent tasked with pretending to be his wife.",
+                "vote_average": 6.8,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Since You Went Away",
+            "second_label": "Photographic Effects by John R. Cosgrove; Sound Effects by Arthur Johns",
+            "category": "Special Effects",
+            "year": 1945,
+            "tmdb": {
+                "id": 42401,
+                "original_title": "Since You Went Away",
+                "title": "Desde Que Partiste",
+                "release_date": "1944-06-30",
+                "backdrop_path": "/96ymUd1TTAM2IaJKochuiqFXJGU.jpg",
+                "poster_path": "/vRwn4Yrf4O8LbP7gy9Bzh0hKbjW.jpg",
+                "overview": "While husband Tim is away during World War II, Anne Hilton copes with problems on the homefront. Taking in a lodger, Colonel Smollett, to help make ends meet and dealing with shortages and rationing are minor inconveniences compared to the love affair daughter Jane and the Colonel's grandson conduct.",
+                "vote_average": 6.4,
+                "vote_count": 43
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Story of Dr. Wassell",
+            "second_label": "Photographic Effects by Gordon Jennings, Farciot Edouart; Sound Effects by George Dutton",
+            "category": "Special Effects",
+            "year": 1945,
+            "tmdb": {
+                "id": 92399,
+                "original_title": "The Story of Dr. Wassell",
+                "title": "Pelo Vale das Sombras",
+                "release_date": "1944-07-04",
+                "backdrop_path": "/vU7Jdx2v6li9hEwGRUILe4iK2aL.jpg",
+                "poster_path": "/yjrMxwMxhsahGbCHLFpDUW5fR1t.jpg",
+                "overview": "Como a varredura japonesa atrav\u00e9s das \u00cdndias Orientais, durante a Segunda Guerra Mundial, Dr. Wassell est\u00e1 determinado a escapar de Java com alguns tripulantes do cruzador Marblehead.",
+                "vote_average": 6.3,
+                "vote_count": 19
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Wilson",
+            "second_label": "Photographic Effects by Fred Sersen; Sound Effects by Roger Heman",
+            "category": "Special Effects",
+            "year": 1945,
+            "tmdb": {
+                "id": 84084,
+                "original_title": "Wilson",
+                "title": "Wilson",
+                "release_date": "1944-08-01",
+                "backdrop_path": "/a1mrTStV8fCOECTQntMe4sKLp85.jpg",
+                "poster_path": "/6nXIUIUwh4GZ8mQvEhgqUuqMann.jpg",
+                "overview": "The political career of Woodrow Wilson is chronicled, beginning with his decision to leave his post at Princeton to run for Governor of New Jersey, and his subsequent ascent to the Presidency of the United States. During his terms in office, Wilson must deal with the death of his first wife, the onslaught of German hostilities leading to American involvement in the Great War, and his own country's reticence to join the League of Nations.",
+                "vote_average": 5.7,
+                "vote_count": 20
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Original Motion Picture Story)": [
+        {
+            "first_label": "Going My Way",
+            "second_label": "Leo McCarey",
+            "category": "Writing (Original Motion Picture Story)",
+            "year": 1945,
+            "tmdb": {
+                "id": 17661,
+                "original_title": "Going My Way",
+                "title": "O Bom Pastor",
+                "release_date": "1944-05-15",
+                "backdrop_path": "/jiGn1FXSQVfN2nhix0tQtmoGWcF.jpg",
+                "poster_path": "/j7OxlZLu4m1r6Ur1inB3DoTi7Ct.jpg",
+                "overview": "Um novo padre chega numa par\u00f3quia para substituir o antigo, e deve conseguir integrar seu estilo aos novos e antigos religiosos da congrega\u00e7\u00e3o. Tudo parece estar indo relativamente bem, at\u00e9 que uma noite a igreja queima at\u00e9 o ch\u00e3o. Vencedor do Oscar de Melhor Filme.",
+                "vote_average": 6.7,
+                "vote_count": 160
+            },
+            "winner": true
+        },
+        {
+            "first_label": "A Guy Named Joe",
+            "second_label": "Chandler Sprague, David Boehm",
+            "category": "Writing (Original Motion Picture Story)",
+            "year": 1945,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lifeboat",
+            "second_label": "John Steinbeck",
+            "category": "Writing (Original Motion Picture Story)",
+            "year": 1945,
+            "tmdb": {
+                "id": 13321,
+                "original_title": "Lifeboat",
+                "title": "Um Barco e Nove Destinos",
+                "release_date": "1944-01-28",
+                "backdrop_path": "/chCsoPdAQfXQIhqJfexHywVEwxb.jpg",
+                "poster_path": "/gxCXfkFMpqyycBUGFLGA8YjSlfx.jpg",
+                "overview": "Durante a Segunda Guerra Mundial no Atl\u00e2ntico, um navio e um barco alem\u00e3o se envolvem em um combate e ambos naufragam, mas existem alguns sobreviventes que v\u00e3o para um dos botes. No entanto, eles t\u00eam diferentes origens e prop\u00f3sitos, mas surge o pomo da disc\u00f3rdia quando um dos sobreviventes se revela um nazista.",
+                "vote_average": 7.379,
+                "vote_count": 404
+            },
+            "winner": false
+        },
+        {
+            "first_label": "None Shall Escape",
+            "second_label": "Alfred Neumann, Joseph Than",
+            "category": "Writing (Original Motion Picture Story)",
+            "year": 1945,
+            "tmdb": {
+                "id": 48989,
+                "original_title": "None Shall Escape",
+                "title": "None Shall Escape",
+                "release_date": "1944-02-03",
+                "backdrop_path": "/ziQpPpvcYEAFsGuRJvXIY2A2Rme.jpg",
+                "poster_path": "/vtJdshqBOnasjyBsTDktiI80LWv.jpg",
+                "overview": "Through flashbacks, the story of a Nazi war criminal is exposed.",
+                "vote_average": 6.2,
+                "vote_count": 24
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Sullivans",
+            "second_label": "Edward Doherty, Jules Schermer",
+            "category": "Writing (Original Motion Picture Story)",
+            "year": 1945,
+            "tmdb": {
+                "id": 43504,
+                "original_title": "The Fighting Sullivans",
+                "title": "The Fighting Sullivans",
+                "release_date": "1944-02-03",
+                "backdrop_path": "/bfzoOngMHwVAQ9zpl9AyZVZO4hS.jpg",
+                "poster_path": "/lyYw2dk1dowEc4NlPFFtsDBihTm.jpg",
+                "overview": "The lives of a close-knit group of brothers growing up in Iowa during the days of the Great Depression and of World War II and their eventual deaths in action in the Pacific theater are chronicled in this film based on a true story.",
+                "vote_average": 6.2,
+                "vote_count": 18
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Original Screenplay)": [
+        {
+            "first_label": "Wilson",
+            "second_label": "Lamar Trotti",
+            "category": "Writing (Original Screenplay)",
+            "year": 1945,
+            "tmdb": {
+                "id": 84084,
+                "original_title": "Wilson",
+                "title": "Wilson",
+                "release_date": "1944-08-01",
+                "backdrop_path": "/a1mrTStV8fCOECTQntMe4sKLp85.jpg",
+                "poster_path": "/6nXIUIUwh4GZ8mQvEhgqUuqMann.jpg",
+                "overview": "The political career of Woodrow Wilson is chronicled, beginning with his decision to leave his post at Princeton to run for Governor of New Jersey, and his subsequent ascent to the Presidency of the United States. During his terms in office, Wilson must deal with the death of his first wife, the onslaught of German hostilities leading to American involvement in the Great War, and his own country's reticence to join the League of Nations.",
+                "vote_average": 5.7,
+                "vote_count": 20
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Hail the Conquering Hero",
+            "second_label": "Preston Sturges",
+            "category": "Writing (Original Screenplay)",
+            "year": 1945,
+            "tmdb": {
+                "id": 36498,
+                "original_title": "Hail the Conquering Hero",
+                "title": "Hail the Conquering Hero",
+                "release_date": "1944-08-09",
+                "backdrop_path": "/vfyvDJmvRGMkePPDEg4C0QyymoQ.jpg",
+                "poster_path": "/AfuK8Ui0o4Z9ATlUT7nOvYI4P0d.jpg",
+                "overview": "Having been discharged from the Marines for a hayfever condition before ever seeing action, Woodrow Lafayette Pershing Truesmith delays the return to his hometown, feeling that he is a failure. While in a moment of melancholy, he meets up with a group of Marines who befriend him and encourage him to return home to his mother by fabricating a story that he was wounded in battle with honorable discharge.",
+                "vote_average": 7.0,
+                "vote_count": 64
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Miracle of Morgan's Creek",
+            "second_label": "Preston Sturges",
+            "category": "Writing (Original Screenplay)",
+            "year": 1945,
+            "tmdb": {
+                "id": 42879,
+                "original_title": "The Miracle of Morgan\u2019s Creek",
+                "title": "Papai Por Acaso",
+                "release_date": "1943-12-12",
+                "backdrop_path": "/fGaAtzve0Ds5WvGRtg39PS9N47v.jpg",
+                "poster_path": "/rf2OgScEs3zsJL0Gp4ZMsR2ScdN.jpg",
+                "overview": "A small-town girl with a soft spot for American soldiers wakes up the morning after a wild farewell party for the troops to find that she married someone she can't remember.",
+                "vote_average": 6.8,
+                "vote_count": 100
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Two Girls and a Sailor",
+            "second_label": "Richard Connell, Gladys Lehman",
+            "category": "Writing (Original Screenplay)",
+            "year": 1945,
+            "tmdb": {
+                "id": 80941,
+                "original_title": "Two Girls and a Sailor",
+                "title": "Duas Garotas e um Marujo",
+                "release_date": "1944-06-14",
+                "backdrop_path": "/eHi2VovGnPmOSAHtwizgirQLUYa.jpg",
+                "poster_path": "/j7mQELOJvbX4rdzsF0MK9tudp6M.jpg",
+                "overview": "A sailor helps two sisters start up a service canteen. The sailor soon becomes taken with gorgeous sister Jean, unaware that her sibling Patsy is also in love with him.",
+                "vote_average": 5.7,
+                "vote_count": 10
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Wing and a Prayer",
+            "second_label": "Jerome Cady",
+            "category": "Writing (Original Screenplay)",
+            "year": 1945,
+            "tmdb": {
+                "id": 69847,
+                "original_title": "Wing and a Prayer",
+                "title": "Uma Asa e uma Prece",
+                "release_date": "1944-01-01",
+                "backdrop_path": "/27vPuwocCu8uu8Fnvw7fz4lQtMK.jpg",
+                "poster_path": "/cHx4awWZOTyGLD2eWBkDj7yy6Z1.jpg",
+                "overview": "Um porta-avi\u00f5es \u00e9 enviado em uma miss\u00e3o de engodo pelo Pac\u00edfico, com ordens de evitar o combate, mantendo, assim, o estado de alerta japon\u00eas antes da batalha de Midway. Todos os homens t\u00eam os seus problemas e preocupa\u00e7\u00f5es individuais, mas tornam-se cada vez mais frustrados com a sua proibi\u00e7\u00e3o de combate, por raz\u00f5es desconhecidas para eles. Mas no final, todos v\u00e3o ter a sua chance de lutar.",
+                "vote_average": 6.5,
+                "vote_count": 11
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay)": [
+        {
+            "first_label": "Going My Way",
+            "second_label": "Frank Butler, Frank Cavett",
+            "category": "Writing (Screenplay)",
+            "year": 1945,
+            "tmdb": {
+                "id": 17661,
+                "original_title": "Going My Way",
+                "title": "O Bom Pastor",
+                "release_date": "1944-05-15",
+                "backdrop_path": "/jiGn1FXSQVfN2nhix0tQtmoGWcF.jpg",
+                "poster_path": "/j7OxlZLu4m1r6Ur1inB3DoTi7Ct.jpg",
+                "overview": "Um novo padre chega numa par\u00f3quia para substituir o antigo, e deve conseguir integrar seu estilo aos novos e antigos religiosos da congrega\u00e7\u00e3o. Tudo parece estar indo relativamente bem, at\u00e9 que uma noite a igreja queima at\u00e9 o ch\u00e3o. Vencedor do Oscar de Melhor Filme.",
+                "vote_average": 6.7,
+                "vote_count": 160
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Double Indemnity",
+            "second_label": "Billy Wilder, Raymond Chandler",
+            "category": "Writing (Screenplay)",
+            "year": 1945,
+            "tmdb": {
+                "id": 996,
+                "original_title": "Double Indemnity",
+                "title": "Pacto de Sangue",
+                "release_date": "1944-07-06",
+                "backdrop_path": "/byQdu1nzQLI9t1VeoP1xuQfru3L.jpg",
+                "poster_path": "/rHtE9BzynU7JjnV8IZgr5CtXIux.jpg",
+                "overview": "Um agente de seguros encontra a atraente (e casada) Phyllis quando vai efetuar um neg\u00f3cio e ambos logo se apaixonam. Phyllis o convence a efetuar um plano para assassinar seu marido ap\u00f3s fazer um seguro de vida para ele. O objetivo? Ficar com o dinheiro do seguro. Mas nem tudo d\u00e1 certo na execu\u00e7\u00e3o do plano. (Estimado e 14)",
+                "vote_average": 8.1,
+                "vote_count": 1696
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gaslight",
+            "second_label": "John Van Druten, Walter Reisch, John L. Balderston",
+            "category": "Writing (Screenplay)",
+            "year": 1945,
+            "tmdb": {
+                "id": 13528,
+                "original_title": "Gaslight",
+                "title": "\u00c0 Meia Luz",
+                "release_date": "1944-05-04",
+                "backdrop_path": "/fEVYmqXuD9iqesoYexOTHSGXIWK.jpg",
+                "poster_path": "/wrAS0Lao9rktvuEq6vg9SsB4WPQ.jpg",
+                "overview": "Anos depois de sua tia ser assassinada em sua casa, uma jovem se muda de volta para casa com seu novo marido. No entanto, ele tem um segredo e far\u00e1 qualquer coisa para proteg\u00ea-lo mesmo que isso signifique enlouquecer sua esposa.",
+                "vote_average": 7.485,
+                "vote_count": 453
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Laura",
+            "second_label": "Jay Dratler, Samuel Hoffenstein, Betty Reinhardt",
+            "category": "Writing (Screenplay)",
+            "year": 1945,
+            "tmdb": {
+                "id": 1939,
+                "original_title": "Laura",
+                "title": "Laura",
+                "release_date": "1944-10-11",
+                "backdrop_path": "/9r20ZZDnUymGFlVPHKV2euTPTxk.jpg",
+                "poster_path": "/j0zEiFFrdbZnMXqD3piOtZBJeNB.jpg",
+                "overview": "Baseado em um conto de Vera Caspary, este mist\u00e9rio sobre o assassinato da personagem principal mostra um detetive se apaixonando pelo retrato dessa bela v\u00edtima. Ele investiga tr\u00eas suspeitos para tentar solucionar o crime: um jornalista, o noivo de Laura, a v\u00edtima, e sua tia.",
+                "vote_average": 7.632,
+                "vote_count": 749
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Meet Me in St. Louis",
+            "second_label": "Irving Brecher, Fred F. Finklehoffe",
+            "category": "Writing (Screenplay)",
+            "year": 1945,
+            "tmdb": {
+                "id": 909,
+                "original_title": "Meet Me in St. Louis",
+                "title": "Agora Seremos Felizes",
+                "release_date": "1944-11-28",
+                "backdrop_path": "/fQ93o3wVSIe0dXMLTVTBHoqWwew.jpg",
+                "poster_path": "/6BeXfI1cWNARoMqoHTdwOXt6SHb.jpg",
+                "overview": "No ano que antecedeu a Feira Mundial de St. Louis de 1904, as quatro filhas dos Smith aprendem li\u00e7\u00f5es de vida e amor, mesmo que se preparem para uma mudan\u00e7a relutante para Nova York. Agora Seremos Felizes \u00e9 muito mais que um musical. \u00c9 a encantadora hist\u00f3ria de uma fam\u00edlia na virada do s\u00e9culo, repleta de magias e recorda\u00e7\u00f5es. Judy Garland \u00e9 Esther Smith, uma garota da agitada cidade de St. Louis que, junto com sua fam\u00edlia, tem que se mudar para Nova York. Como se n\u00e3o bastasse deixar todos os seus amigos para tr\u00e1s, ela ainda ir\u00e1 perder a sensacional Feira Mundial de St. Louis de 1904. Esther precisa fazer alguma coisa para evitar essa trag\u00e9dia!",
+                "vote_average": 7.021,
+                "vote_count": 349
+            },
+            "winner": false
+        }
+    ]
+}

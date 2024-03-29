@@ -1,0 +1,2146 @@
+{
+    "Actor": [
+        {
+            "first_label": "Robert Donat",
+            "second_label": "Goodbye, Mr. Chips",
+            "category": "Actor",
+            "year": 1940,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Clark Gable",
+            "second_label": "Gone with the Wind",
+            "category": "Actor",
+            "year": 1940,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Laurence Olivier",
+            "second_label": "Wuthering Heights",
+            "category": "Actor",
+            "year": 1940,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mickey Rooney",
+            "second_label": "Babes in Arms",
+            "category": "Actor",
+            "year": 1940,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "James Stewart",
+            "second_label": "Mr. Smith Goes to Washington",
+            "category": "Actor",
+            "year": 1940,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Thomas Mitchell",
+            "second_label": "Stagecoach",
+            "category": "Actor in a Supporting Role",
+            "year": 1940,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Brian Aherne",
+            "second_label": "Juarez",
+            "category": "Actor in a Supporting Role",
+            "year": 1940,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Harry Carey",
+            "second_label": "Mr. Smith Goes to Washington",
+            "category": "Actor in a Supporting Role",
+            "year": 1940,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Brian Donlevy",
+            "second_label": "Beau Geste",
+            "category": "Actor in a Supporting Role",
+            "year": 1940,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Claude Rains",
+            "second_label": "Mr. Smith Goes to Washington",
+            "category": "Actor in a Supporting Role",
+            "year": 1940,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress": [
+        {
+            "first_label": "Vivien Leigh",
+            "second_label": "Gone with the Wind",
+            "category": "Actress",
+            "year": 1940,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Bette Davis",
+            "second_label": "Dark Victory",
+            "category": "Actress",
+            "year": 1940,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Irene Dunne",
+            "second_label": "Love Affair",
+            "category": "Actress",
+            "year": 1940,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Greta Garbo",
+            "second_label": "Ninotchka",
+            "category": "Actress",
+            "year": 1940,
+            "tmdb": {
+                "id": 293939,
+                "original_title": "Ein Tango f\u00fcr Dich",
+                "title": "A Tango for You",
+                "release_date": "1930-07-31",
+                "backdrop_path": null,
+                "poster_path": "/cDrQBNUDXUvu5jZcMMbeatvdLJi.jpg",
+                "overview": "Jimmy Bolt, a singer and dancer (and occasionally as a waiter) works at a variet\u00e9. The man may be talented, but he\u2019s not exactly a big success, and things get complicated when a young orphan girl falls in love with the voice of another singer but then mistakes Bolt for him\u2026",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Greer Garson",
+            "second_label": "Goodbye, Mr. Chips",
+            "category": "Actress",
+            "year": 1940,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Hattie McDaniel",
+            "second_label": "Gone with the Wind",
+            "category": "Actress in a Supporting Role",
+            "year": 1940,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Olivia de Havilland",
+            "second_label": "Gone with the Wind",
+            "category": "Actress in a Supporting Role",
+            "year": 1940,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Geraldine Fitzgerald",
+            "second_label": "Wuthering Heights",
+            "category": "Actress in a Supporting Role",
+            "year": 1940,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Edna May Oliver",
+            "second_label": "Drums along the Mohawk",
+            "category": "Actress in a Supporting Role",
+            "year": 1940,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Maria Ouspenskaya",
+            "second_label": "Love Affair",
+            "category": "Actress in a Supporting Role",
+            "year": 1940,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction": [
+        {
+            "first_label": "Gone with the Wind",
+            "second_label": "Lyle Wheeler",
+            "category": "Art Direction",
+            "year": 1940,
+            "tmdb": {
+                "id": 770,
+                "original_title": "Gone with the Wind",
+                "title": "...E o Vento Levou",
+                "release_date": "1939-12-15",
+                "backdrop_path": "/ft8WRF2xqEwwGWa59naDUybKTAx.jpg",
+                "poster_path": "/erwBUaSZLgMo79KRcQYw0bAV9h3.jpg",
+                "overview": "Scarlett O'Hara \u00e9 uma jovem mimada que consegue tudo o que quer. No entanto, algo falta em sua vida: o amor de Ashley Wilkes, um nobre sulista que deve se casar com a sua prima Melanie. Tudo muda quando a Guerra Civil americana explode e Scarlett precisa lutar para sobreviver e manter a fazenda da fam\u00edlia.",
+                "vote_average": 7.964,
+                "vote_count": 3839
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Beau Geste",
+            "second_label": "Hans Dreier, Robert Odell",
+            "category": "Art Direction",
+            "year": 1940,
+            "tmdb": {
+                "id": 36851,
+                "original_title": "Beau Geste",
+                "title": "Beau Geste",
+                "release_date": "1939-07-24",
+                "backdrop_path": "/1YsmP89lRD8SIb0WNXyzjFB8jvI.jpg",
+                "poster_path": "/xDRHfwghNNXy4ASdus5GSzyTX6x.jpg",
+                "overview": "Michael \"Beau\" Geste deixa a Inglaterra depois de acontecimentos que o deixaram frustrado, e se junta a infame Legi\u00e3o Estrangeira Francesa. L\u00e1, ele se re\u00fane com seus dois irm\u00e3os no norte da \u00c1frica, onde enfrentam mais perigo com seu comandante s\u00e1dico do que com os \u00e1rabes rebeldes.",
+                "vote_average": 6.9,
+                "vote_count": 88
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Captain Fury",
+            "second_label": "Charles D. Hall",
+            "category": "Art Direction",
+            "year": 1940,
+            "tmdb": {
+                "id": 151935,
+                "original_title": "Captain Fury",
+                "title": "Captain Fury",
+                "release_date": "1939-05-26",
+                "backdrop_path": "/1d5VSEbksjjTXh3Z4KONuPIjps0.jpg",
+                "poster_path": "/yZ8nNRLrl9gJnyp6HelsCa0hQFD.jpg",
+                "overview": "An Irish convict sentenced to hard labor in Australia escapes into the outback, and organizes a band of fellow escapees to fight a corrupt landlord.",
+                "vote_average": 5.5,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "First Love",
+            "second_label": "Jack Otterson, Martin Obzina",
+            "category": "Art Direction",
+            "year": 1940,
+            "tmdb": {
+                "id": 61645,
+                "original_title": "First Love",
+                "title": "First Love",
+                "release_date": "1939-11-10",
+                "backdrop_path": "/n7E8Q6fPUdokMwg7iaaOacad6cs.jpg",
+                "poster_path": "/ogS9UjgYVSrLrofLEIxvxSdoiIy.jpg",
+                "overview": "In this reworking of Cinderella, orphaned Connie Harding is sent to live with her rich aunt and uncle after graduating from boarding school. She's hardly received with open arms, especially by her snobby cousin Barbara. When the entire family is invited to a major social ball, Barbara sees to it that Connie is forced to stay home. With the aid of her uncle, who acts as her fairy godfather, Connie makes it to the ball and meets her Prince Charming in Ted Drake, her cousin's boyfriend.",
+                "vote_average": 7.8,
+                "vote_count": 12
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Love Affair",
+            "second_label": "Van Nest Polglase, Al Herman",
+            "category": "Art Direction",
+            "year": 1940,
+            "tmdb": {
+                "id": 43739,
+                "original_title": "Love Affair",
+                "title": "Duas Vidas",
+                "release_date": "1939-04-07",
+                "backdrop_path": "/sS1W3HmhIfXbMNp6OECMHyNej6K.jpg",
+                "poster_path": "/2bKxlYgwKRQidS8S9DSPjpITPlv.jpg",
+                "overview": "Um playboy franc\u00eas e uma antiga cantora de discoteca apaixonam-se a bordo de um navio.",
+                "vote_average": 7.1,
+                "vote_count": 94
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Man of Conquest",
+            "second_label": "John Victor Mackay",
+            "category": "Art Direction",
+            "year": 1940,
+            "tmdb": {
+                "id": 192939,
+                "original_title": "Man of Conquest",
+                "title": "Man of Conquest",
+                "release_date": "1939-05-15",
+                "backdrop_path": "/o6fLrKw7dVOtMs0nyX2y75pmdyk.jpg",
+                "poster_path": "/1FmkzjV57DzwwEyBuwvxDeHOuck.jpg",
+                "overview": "The story of Sam Houston, hero of the Texas revolution, statesman, and first president of the Republic of Texas.",
+                "vote_average": 5.2,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mr. Smith Goes to Washington",
+            "second_label": "Lionel Banks",
+            "category": "Art Direction",
+            "year": 1940,
+            "tmdb": {
+                "id": 3083,
+                "original_title": "Mr. Smith Goes to Washington",
+                "title": "A Mulher Faz o Homem",
+                "release_date": "1939-10-19",
+                "backdrop_path": "/4HagjGPF6dMGYlmx7mEfjLV2kQ0.jpg",
+                "poster_path": "/6GsIOdWlIqUmpujcgGFW7Gl9W5K.jpg",
+                "overview": "Ing\u00eanuo homem do interior (James Stewart) \u00e9 convidado para preencher uma vaga no Senado dos Estados Unidos. Aos poucos vai descobrindo o mar de lama que \u00e9 o ambiente pol\u00edtico dos comandantes de seu pa\u00eds. Tudo em que acredita est\u00e1 amea\u00e7ado. Como enfrentar esses poderosos Senadores e dirigentes pol\u00edticos?",
+                "vote_average": 7.9,
+                "vote_count": 980
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Private Lives of Elizabeth and Essex",
+            "second_label": "Anton Grot",
+            "category": "Art Direction",
+            "year": 1940,
+            "tmdb": {
+                "id": 16902,
+                "original_title": "The Private Lives of Elizabeth and Essex",
+                "title": "Meu Reino Por um Amor",
+                "release_date": "1939-11-11",
+                "backdrop_path": "/dR1bndcisajWYbG4YvbbN6Cmu7f.jpg",
+                "poster_path": "/76UbFh03IvO8fwD8MywFpdfUCcj.jpg",
+                "overview": "Michael Curtiz realiza aqui uma produ\u00e7\u00e3o \u00e9pica e dram\u00e1tica, contando a hist\u00f3ria de um tumultuado romance entre a Rainha Elizabeth I (Bette Davis) e Robert Devereux (Errol Flynn), conde de Essex - interior da Inglaterra. Vitorioso na batalha contra a Espanha, o jovem Devereux torna-se popular e atrai a aten\u00e7\u00e3o da rainha. Ap\u00f3s outra vit\u00f3ria do her\u00f3i, agora contra a Irlanda, Devereux retorna ao pa\u00eds e exige compartilhar o trono real com Elizabeth. Que de in\u00edcio cogita um casamento, mas percebe que aquilo pode ser um desastre para a Inglaterra. Assim Elizabeth arma um plano para preservar o trono e proteger seu povo do homem que poderia ter sido rei.",
+                "vote_average": 6.2,
+                "vote_count": 79
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Rains Came",
+            "second_label": "William Darling, George Dudley",
+            "category": "Art Direction",
+            "year": 1940,
+            "tmdb": {
+                "id": 115109,
+                "original_title": "The Rains Came",
+                "title": "E As Chuvas Chegaram",
+                "release_date": "1939-09-15",
+                "backdrop_path": "/9RnsbF7POa9Fm5Eb8LPAdnGJQDN.jpg",
+                "poster_path": "/aQQcSrcnucDGDIXF0NmYd92tsdC.jpg",
+                "overview": "Indian aristocrat Rama Safti returns from medical training in the U.S. to give his life to the poor folk of Ranchipur. Lady Edwina and her drunken artist ex-lover Tom Ransome get in the way, but everyone shapes up when faced by earthquake, flooding, and plague.",
+                "vote_average": 5.9,
+                "vote_count": 19
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Stagecoach",
+            "second_label": "Alexander Toluboff",
+            "category": "Art Direction",
+            "year": 1940,
+            "tmdb": {
+                "id": 995,
+                "original_title": "Stagecoach",
+                "title": "No Tempo das Dilig\u00eancias",
+                "release_date": "1939-03-03",
+                "backdrop_path": "/7SYNEG50fKODsTP6h9phYM3BueV.jpg",
+                "poster_path": "/7dttd14XW2y4ZSo98PbnfyRrErQ.jpg",
+                "overview": "Uma dilig\u00eancia atravessa o Monument Valley, entre Tonto e Lordsburg, com cinco passageiros, aos quais se junta Ringo Kid, que viaja para acertar as contas com os irm\u00e3os Plummer mas, a meio caminho, ocorre um violento ataque de apaches. Um cl\u00e1ssico de John Ford, sempre citado entre os melhores filmes de todos os tempos e que serviu de modelo a muitos outros faroestes. O filme \u00e9 impec\u00e1vel em todos os n\u00edveis: dire\u00e7\u00e3o, elenco, fotografia (de Bert Glennon) e hist\u00f3ria (baseada no conto Stage to Lordsburg de Ernest Haycox e roteirizada por Dudley Nichols).",
+                "vote_average": 7.6,
+                "vote_count": 1048
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Wizard of Oz",
+            "second_label": "Cedric Gibbons, William A. Horning",
+            "category": "Art Direction",
+            "year": 1940,
+            "tmdb": {
+                "id": 630,
+                "original_title": "The Wizard of Oz",
+                "title": "O M\u00e1gico de Oz",
+                "release_date": "1939-08-15",
+                "backdrop_path": "/nRsr98MFztBGm532hCVMGXV6qOp.jpg",
+                "poster_path": "/7sYIjWRzqClPK6hiqpOJOnaGUcO.jpg",
+                "overview": "Dorothy e seu cachorro Tot\u00f3 s\u00e3o levados para a terra m\u00e1gica de Oz quando um ciclone passa pela fazenda de seus av\u00f3s no Kansas. Eles viajam em dire\u00e7\u00e3o \u00e0 Cidade Esmeralda para encontrar o Mago Oz e no caminho encontram um Espantalho, que precisa de um c\u00e9rebro, um Homem de Lata sem um cora\u00e7\u00e3o e um Le\u00e3o Covarde que quer coragem. O Mago pede ao grupo que tragam a vassoura da Bruxa Malvada do Oeste a fim de ganharem sua ajuda.",
+                "vote_average": 7.6,
+                "vote_count": 5286
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Wuthering Heights",
+            "second_label": "James Basevi",
+            "category": "Art Direction",
+            "year": 1940,
+            "tmdb": {
+                "id": 3084,
+                "original_title": "Wuthering Heights",
+                "title": "O Morro dos Ventos Uivantes",
+                "release_date": "1939-04-07",
+                "backdrop_path": "/qyl6dV5dCfoBifzSShAz8YZtrf9.jpg",
+                "poster_path": "/tA3ZaItWqhoruqhvbnJM4WWrHfF.jpg",
+                "overview": "Humilhado por seu irm\u00e3o de cria\u00e7\u00e3o Hindley (Hugh Williams), Heathcliff (Laurence Olivier) torna-se um homem rico e em busca de vingan\u00e7a. Ao mesmo tempo, por\u00e9m, o rebelde nutre grande paix\u00e3o por Cathy (Merle Oberon), irm\u00e3 do homem que deseja matar e que, durante os anos em que esteve ausente da Inglaterra, casou-se com o nobre Edgar (David Niven). Certo dia, o Sr. Earnshaw retorna de viagem da cidade, trazendo consigo o pequeno \u00f3rf\u00e3o chamado Heathcliff. Por\u00e9m, o filho de Earnshaw, Hindley, sente ci\u00fames do garoto, enquanto Catherine, sua filha, torna-se a paix\u00e3o infantil e logo o amor de Heathcliff. As coisas mudam quando os pais dos garotos morrem, e Heathcliff come\u00e7a a ser tratado como mero empregado. (e 12 - Estimado 12 Anos)",
+                "vote_average": 7.2,
+                "vote_count": 250
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography (Black-and-White)": [
+        {
+            "first_label": "Wuthering Heights",
+            "second_label": "Gregg Toland",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1940,
+            "tmdb": {
+                "id": 3084,
+                "original_title": "Wuthering Heights",
+                "title": "O Morro dos Ventos Uivantes",
+                "release_date": "1939-04-07",
+                "backdrop_path": "/qyl6dV5dCfoBifzSShAz8YZtrf9.jpg",
+                "poster_path": "/tA3ZaItWqhoruqhvbnJM4WWrHfF.jpg",
+                "overview": "Humilhado por seu irm\u00e3o de cria\u00e7\u00e3o Hindley (Hugh Williams), Heathcliff (Laurence Olivier) torna-se um homem rico e em busca de vingan\u00e7a. Ao mesmo tempo, por\u00e9m, o rebelde nutre grande paix\u00e3o por Cathy (Merle Oberon), irm\u00e3 do homem que deseja matar e que, durante os anos em que esteve ausente da Inglaterra, casou-se com o nobre Edgar (David Niven). Certo dia, o Sr. Earnshaw retorna de viagem da cidade, trazendo consigo o pequeno \u00f3rf\u00e3o chamado Heathcliff. Por\u00e9m, o filho de Earnshaw, Hindley, sente ci\u00fames do garoto, enquanto Catherine, sua filha, torna-se a paix\u00e3o infantil e logo o amor de Heathcliff. As coisas mudam quando os pais dos garotos morrem, e Heathcliff come\u00e7a a ser tratado como mero empregado. (e 12 - Estimado 12 Anos)",
+                "vote_average": 7.2,
+                "vote_count": 250
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Stagecoach",
+            "second_label": "Bert Glennon",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1940,
+            "tmdb": {
+                "id": 995,
+                "original_title": "Stagecoach",
+                "title": "No Tempo das Dilig\u00eancias",
+                "release_date": "1939-03-03",
+                "backdrop_path": "/7SYNEG50fKODsTP6h9phYM3BueV.jpg",
+                "poster_path": "/7dttd14XW2y4ZSo98PbnfyRrErQ.jpg",
+                "overview": "Uma dilig\u00eancia atravessa o Monument Valley, entre Tonto e Lordsburg, com cinco passageiros, aos quais se junta Ringo Kid, que viaja para acertar as contas com os irm\u00e3os Plummer mas, a meio caminho, ocorre um violento ataque de apaches. Um cl\u00e1ssico de John Ford, sempre citado entre os melhores filmes de todos os tempos e que serviu de modelo a muitos outros faroestes. O filme \u00e9 impec\u00e1vel em todos os n\u00edveis: dire\u00e7\u00e3o, elenco, fotografia (de Bert Glennon) e hist\u00f3ria (baseada no conto Stage to Lordsburg de Ernest Haycox e roteirizada por Dudley Nichols).",
+                "vote_average": 7.6,
+                "vote_count": 1048
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography (Color)": [
+        {
+            "first_label": "Gone with the Wind",
+            "second_label": "Ernest Haller, Ray Rennahan",
+            "category": "Cinematography (Color)",
+            "year": 1940,
+            "tmdb": {
+                "id": 770,
+                "original_title": "Gone with the Wind",
+                "title": "...E o Vento Levou",
+                "release_date": "1939-12-15",
+                "backdrop_path": "/ft8WRF2xqEwwGWa59naDUybKTAx.jpg",
+                "poster_path": "/erwBUaSZLgMo79KRcQYw0bAV9h3.jpg",
+                "overview": "Scarlett O'Hara \u00e9 uma jovem mimada que consegue tudo o que quer. No entanto, algo falta em sua vida: o amor de Ashley Wilkes, um nobre sulista que deve se casar com a sua prima Melanie. Tudo muda quando a Guerra Civil americana explode e Scarlett precisa lutar para sobreviver e manter a fazenda da fam\u00edlia.",
+                "vote_average": 7.964,
+                "vote_count": 3839
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Private Lives of Elizabeth and Essex",
+            "second_label": "Sol Polito, W. Howard Greene",
+            "category": "Cinematography (Color)",
+            "year": 1940,
+            "tmdb": {
+                "id": 16902,
+                "original_title": "The Private Lives of Elizabeth and Essex",
+                "title": "Meu Reino Por um Amor",
+                "release_date": "1939-11-11",
+                "backdrop_path": "/dR1bndcisajWYbG4YvbbN6Cmu7f.jpg",
+                "poster_path": "/76UbFh03IvO8fwD8MywFpdfUCcj.jpg",
+                "overview": "Michael Curtiz realiza aqui uma produ\u00e7\u00e3o \u00e9pica e dram\u00e1tica, contando a hist\u00f3ria de um tumultuado romance entre a Rainha Elizabeth I (Bette Davis) e Robert Devereux (Errol Flynn), conde de Essex - interior da Inglaterra. Vitorioso na batalha contra a Espanha, o jovem Devereux torna-se popular e atrai a aten\u00e7\u00e3o da rainha. Ap\u00f3s outra vit\u00f3ria do her\u00f3i, agora contra a Irlanda, Devereux retorna ao pa\u00eds e exige compartilhar o trono real com Elizabeth. Que de in\u00edcio cogita um casamento, mas percebe que aquilo pode ser um desastre para a Inglaterra. Assim Elizabeth arma um plano para preservar o trono e proteger seu povo do homem que poderia ter sido rei.",
+                "vote_average": 6.2,
+                "vote_count": 79
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "Gone with the Wind",
+            "second_label": "Victor Fleming",
+            "category": "Directing",
+            "year": 1940,
+            "tmdb": {
+                "id": 770,
+                "original_title": "Gone with the Wind",
+                "title": "...E o Vento Levou",
+                "release_date": "1939-12-15",
+                "backdrop_path": "/ft8WRF2xqEwwGWa59naDUybKTAx.jpg",
+                "poster_path": "/erwBUaSZLgMo79KRcQYw0bAV9h3.jpg",
+                "overview": "Scarlett O'Hara \u00e9 uma jovem mimada que consegue tudo o que quer. No entanto, algo falta em sua vida: o amor de Ashley Wilkes, um nobre sulista que deve se casar com a sua prima Melanie. Tudo muda quando a Guerra Civil americana explode e Scarlett precisa lutar para sobreviver e manter a fazenda da fam\u00edlia.",
+                "vote_average": 7.964,
+                "vote_count": 3839
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Goodbye, Mr. Chips",
+            "second_label": "Sam Wood",
+            "category": "Directing",
+            "year": 1940,
+            "tmdb": {
+                "id": 42852,
+                "original_title": "Goodbye, Mr. Chips",
+                "title": "Adeus, Sr. Chips",
+                "release_date": "1939-07-28",
+                "backdrop_path": "/d9ThwpGXncwXLGk3jNOK1Xyrv5M.jpg",
+                "poster_path": "/qjRdqKBmaHZrQAWpYkiXVnJRJXn.jpg",
+                "overview": "O filme, baseado no romande de James Hilton, conta a hist\u00f3ria do Sr. Chipping (Robert Donnar), um respeitado professor de latim, obcecado pelo trabalho. Um dia, este homem com uma vida muito discreta, conhece e se apaixona pela extrovertida Katherine (Greer Garson). Sua conviv\u00eancia com a mo\u00e7a o torna mais amig\u00e1vel e ele ganha a confian\u00e7a de seus alunos. Tudo parecia bem, mas uma trag\u00e9dia acontece e muda sua vida novamente.",
+                "vote_average": 7.4,
+                "vote_count": 108
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mr. Smith Goes to Washington",
+            "second_label": "Frank Capra",
+            "category": "Directing",
+            "year": 1940,
+            "tmdb": {
+                "id": 3083,
+                "original_title": "Mr. Smith Goes to Washington",
+                "title": "A Mulher Faz o Homem",
+                "release_date": "1939-10-19",
+                "backdrop_path": "/4HagjGPF6dMGYlmx7mEfjLV2kQ0.jpg",
+                "poster_path": "/6GsIOdWlIqUmpujcgGFW7Gl9W5K.jpg",
+                "overview": "Ing\u00eanuo homem do interior (James Stewart) \u00e9 convidado para preencher uma vaga no Senado dos Estados Unidos. Aos poucos vai descobrindo o mar de lama que \u00e9 o ambiente pol\u00edtico dos comandantes de seu pa\u00eds. Tudo em que acredita est\u00e1 amea\u00e7ado. Como enfrentar esses poderosos Senadores e dirigentes pol\u00edticos?",
+                "vote_average": 7.9,
+                "vote_count": 980
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Stagecoach",
+            "second_label": "John Ford",
+            "category": "Directing",
+            "year": 1940,
+            "tmdb": {
+                "id": 995,
+                "original_title": "Stagecoach",
+                "title": "No Tempo das Dilig\u00eancias",
+                "release_date": "1939-03-03",
+                "backdrop_path": "/7SYNEG50fKODsTP6h9phYM3BueV.jpg",
+                "poster_path": "/7dttd14XW2y4ZSo98PbnfyRrErQ.jpg",
+                "overview": "Uma dilig\u00eancia atravessa o Monument Valley, entre Tonto e Lordsburg, com cinco passageiros, aos quais se junta Ringo Kid, que viaja para acertar as contas com os irm\u00e3os Plummer mas, a meio caminho, ocorre um violento ataque de apaches. Um cl\u00e1ssico de John Ford, sempre citado entre os melhores filmes de todos os tempos e que serviu de modelo a muitos outros faroestes. O filme \u00e9 impec\u00e1vel em todos os n\u00edveis: dire\u00e7\u00e3o, elenco, fotografia (de Bert Glennon) e hist\u00f3ria (baseada no conto Stage to Lordsburg de Ernest Haycox e roteirizada por Dudley Nichols).",
+                "vote_average": 7.6,
+                "vote_count": 1048
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Wuthering Heights",
+            "second_label": "William Wyler",
+            "category": "Directing",
+            "year": 1940,
+            "tmdb": {
+                "id": 3084,
+                "original_title": "Wuthering Heights",
+                "title": "O Morro dos Ventos Uivantes",
+                "release_date": "1939-04-07",
+                "backdrop_path": "/qyl6dV5dCfoBifzSShAz8YZtrf9.jpg",
+                "poster_path": "/tA3ZaItWqhoruqhvbnJM4WWrHfF.jpg",
+                "overview": "Humilhado por seu irm\u00e3o de cria\u00e7\u00e3o Hindley (Hugh Williams), Heathcliff (Laurence Olivier) torna-se um homem rico e em busca de vingan\u00e7a. Ao mesmo tempo, por\u00e9m, o rebelde nutre grande paix\u00e3o por Cathy (Merle Oberon), irm\u00e3 do homem que deseja matar e que, durante os anos em que esteve ausente da Inglaterra, casou-se com o nobre Edgar (David Niven). Certo dia, o Sr. Earnshaw retorna de viagem da cidade, trazendo consigo o pequeno \u00f3rf\u00e3o chamado Heathcliff. Por\u00e9m, o filho de Earnshaw, Hindley, sente ci\u00fames do garoto, enquanto Catherine, sua filha, torna-se a paix\u00e3o infantil e logo o amor de Heathcliff. As coisas mudam quando os pais dos garotos morrem, e Heathcliff come\u00e7a a ser tratado como mero empregado. (e 12 - Estimado 12 Anos)",
+                "vote_average": 7.2,
+                "vote_count": 250
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "Gone with the Wind",
+            "second_label": "Hal C. Kern, James E. Newcom",
+            "category": "Film Editing",
+            "year": 1940,
+            "tmdb": {
+                "id": 770,
+                "original_title": "Gone with the Wind",
+                "title": "...E o Vento Levou",
+                "release_date": "1939-12-15",
+                "backdrop_path": "/ft8WRF2xqEwwGWa59naDUybKTAx.jpg",
+                "poster_path": "/erwBUaSZLgMo79KRcQYw0bAV9h3.jpg",
+                "overview": "Scarlett O'Hara \u00e9 uma jovem mimada que consegue tudo o que quer. No entanto, algo falta em sua vida: o amor de Ashley Wilkes, um nobre sulista que deve se casar com a sua prima Melanie. Tudo muda quando a Guerra Civil americana explode e Scarlett precisa lutar para sobreviver e manter a fazenda da fam\u00edlia.",
+                "vote_average": 7.964,
+                "vote_count": 3839
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Goodbye, Mr. Chips",
+            "second_label": "Charles Frend",
+            "category": "Film Editing",
+            "year": 1940,
+            "tmdb": {
+                "id": 42852,
+                "original_title": "Goodbye, Mr. Chips",
+                "title": "Adeus, Sr. Chips",
+                "release_date": "1939-07-28",
+                "backdrop_path": "/d9ThwpGXncwXLGk3jNOK1Xyrv5M.jpg",
+                "poster_path": "/qjRdqKBmaHZrQAWpYkiXVnJRJXn.jpg",
+                "overview": "O filme, baseado no romande de James Hilton, conta a hist\u00f3ria do Sr. Chipping (Robert Donnar), um respeitado professor de latim, obcecado pelo trabalho. Um dia, este homem com uma vida muito discreta, conhece e se apaixona pela extrovertida Katherine (Greer Garson). Sua conviv\u00eancia com a mo\u00e7a o torna mais amig\u00e1vel e ele ganha a confian\u00e7a de seus alunos. Tudo parecia bem, mas uma trag\u00e9dia acontece e muda sua vida novamente.",
+                "vote_average": 7.4,
+                "vote_count": 108
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mr. Smith Goes to Washington",
+            "second_label": "Gene Havlick, Al Clark",
+            "category": "Film Editing",
+            "year": 1940,
+            "tmdb": {
+                "id": 3083,
+                "original_title": "Mr. Smith Goes to Washington",
+                "title": "A Mulher Faz o Homem",
+                "release_date": "1939-10-19",
+                "backdrop_path": "/4HagjGPF6dMGYlmx7mEfjLV2kQ0.jpg",
+                "poster_path": "/6GsIOdWlIqUmpujcgGFW7Gl9W5K.jpg",
+                "overview": "Ing\u00eanuo homem do interior (James Stewart) \u00e9 convidado para preencher uma vaga no Senado dos Estados Unidos. Aos poucos vai descobrindo o mar de lama que \u00e9 o ambiente pol\u00edtico dos comandantes de seu pa\u00eds. Tudo em que acredita est\u00e1 amea\u00e7ado. Como enfrentar esses poderosos Senadores e dirigentes pol\u00edticos?",
+                "vote_average": 7.9,
+                "vote_count": 980
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Rains Came",
+            "second_label": "Barbara McLean",
+            "category": "Film Editing",
+            "year": 1940,
+            "tmdb": {
+                "id": 115109,
+                "original_title": "The Rains Came",
+                "title": "E As Chuvas Chegaram",
+                "release_date": "1939-09-15",
+                "backdrop_path": "/9RnsbF7POa9Fm5Eb8LPAdnGJQDN.jpg",
+                "poster_path": "/aQQcSrcnucDGDIXF0NmYd92tsdC.jpg",
+                "overview": "Indian aristocrat Rama Safti returns from medical training in the U.S. to give his life to the poor folk of Ranchipur. Lady Edwina and her drunken artist ex-lover Tom Ransome get in the way, but everyone shapes up when faced by earthquake, flooding, and plague.",
+                "vote_average": 5.9,
+                "vote_count": 19
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Stagecoach",
+            "second_label": "Otho Lovering, Dorothy Spencer",
+            "category": "Film Editing",
+            "year": 1940,
+            "tmdb": {
+                "id": 995,
+                "original_title": "Stagecoach",
+                "title": "No Tempo das Dilig\u00eancias",
+                "release_date": "1939-03-03",
+                "backdrop_path": "/7SYNEG50fKODsTP6h9phYM3BueV.jpg",
+                "poster_path": "/7dttd14XW2y4ZSo98PbnfyRrErQ.jpg",
+                "overview": "Uma dilig\u00eancia atravessa o Monument Valley, entre Tonto e Lordsburg, com cinco passageiros, aos quais se junta Ringo Kid, que viaja para acertar as contas com os irm\u00e3os Plummer mas, a meio caminho, ocorre um violento ataque de apaches. Um cl\u00e1ssico de John Ford, sempre citado entre os melhores filmes de todos os tempos e que serviu de modelo a muitos outros faroestes. O filme \u00e9 impec\u00e1vel em todos os n\u00edveis: dire\u00e7\u00e3o, elenco, fotografia (de Bert Glennon) e hist\u00f3ria (baseada no conto Stage to Lordsburg de Ernest Haycox e roteirizada por Dudley Nichols).",
+                "vote_average": 7.6,
+                "vote_count": 1048
+            },
+            "winner": false
+        }
+    ],
+    "Irving G. Thalberg Memorial Award": [
+        {
+            "first_label": "",
+            "second_label": "David O. Selznick",
+            "category": "Irving G. Thalberg Memorial Award",
+            "year": 1940,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        }
+    ],
+    "Music (Original Score)": [
+        {
+            "first_label": "The Wizard of Oz",
+            "second_label": "Herbert Stothart",
+            "category": "Music (Original Score)",
+            "year": 1940,
+            "tmdb": {
+                "id": 630,
+                "original_title": "The Wizard of Oz",
+                "title": "O M\u00e1gico de Oz",
+                "release_date": "1939-08-15",
+                "backdrop_path": "/nRsr98MFztBGm532hCVMGXV6qOp.jpg",
+                "poster_path": "/7sYIjWRzqClPK6hiqpOJOnaGUcO.jpg",
+                "overview": "Dorothy e seu cachorro Tot\u00f3 s\u00e3o levados para a terra m\u00e1gica de Oz quando um ciclone passa pela fazenda de seus av\u00f3s no Kansas. Eles viajam em dire\u00e7\u00e3o \u00e0 Cidade Esmeralda para encontrar o Mago Oz e no caminho encontram um Espantalho, que precisa de um c\u00e9rebro, um Homem de Lata sem um cora\u00e7\u00e3o e um Le\u00e3o Covarde que quer coragem. O Mago pede ao grupo que tragam a vassoura da Bruxa Malvada do Oeste a fim de ganharem sua ajuda.",
+                "vote_average": 7.6,
+                "vote_count": 5286
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Dark Victory",
+            "second_label": "Max Steiner",
+            "category": "Music (Original Score)",
+            "year": 1940,
+            "tmdb": {
+                "id": 27972,
+                "original_title": "Dark Victory",
+                "title": "Vit\u00f3ria Amarga",
+                "release_date": "1939-04-20",
+                "backdrop_path": "/jsIYE5ntyzkJlGKiJcKFGYqH9yN.jpg",
+                "poster_path": "/zga7ncPWuRN2fMFgzqKxoBkYrfE.jpg",
+                "overview": "Uma jovem socialite \u00e9 diagnosticada com um tumor cerebral e deve decidir se vai ou n\u00e3o conhecer seus \u00faltimos dias com dignidade.  Judith Traherne est\u00e1 no auge da sociedade quando o Dr. Frederick Steele diagnostica um tumor no seu c\u00e9rebro. Ap\u00f3s a cirurgia, ela se apaixona por Steele. O m\u00e9dico diz \u00e0 secret\u00e1ria que o tumor vai voltar e eventualmente mat\u00e1-la. Quando fica sabendo disso, Judith se torna man\u00edaca depressiva. Seu treinador de cavalos, Michael, que a ama, diz a ela para tirar o m\u00e1ximo de proveito da vida poss\u00edvel. Ela se casa com o Dr. Steele, que pretende encontrar uma cura para sua doen\u00e7a. Quando ele vai para uma confer\u00eancia em Nova York, Judith come\u00e7a a ter falhas de vis\u00e3o, o que indica a que ela est\u00e1 morrendo.",
+                "vote_average": 6.9,
+                "vote_count": 129
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Eternally Yours",
+            "second_label": "Werner Janssen",
+            "category": "Music (Original Score)",
+            "year": 1940,
+            "tmdb": {
+                "id": 76382,
+                "original_title": "Eternally Yours",
+                "title": "Eternamente Tua",
+                "release_date": "1939-10-07",
+                "backdrop_path": "/mzPaH67TtrYyCbe4GEi7csyasVF.jpg",
+                "poster_path": "/1GLruIchHPJwy2ZnwWl2Es4QzsD.jpg",
+                "overview": "Anita, engaged to solid Don Barnes, is swept off her feet by magician Arturo. Before you can say presto, she's his wife and stage assistant on a lengthy world tour. But Anita is annoyed by Arturo's constant flirtations, and his death-defying stunts give her nightmares. And forget her plan to retire to a farmhouse. Eventually, she has had enough and disappears.",
+                "vote_average": 5.6,
+                "vote_count": 16
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Golden Boy",
+            "second_label": "Victor Young",
+            "category": "Music (Original Score)",
+            "year": 1940,
+            "tmdb": {
+                "id": 43529,
+                "original_title": "Golden Boy",
+                "title": "Conflito de Duas Almas",
+                "release_date": "1939-09-05",
+                "backdrop_path": "/vbdguNCtuz4C7np3yC2r7a9eaaB.jpg",
+                "poster_path": "/tSbDPwCSXpJ6OuUQ2T2vsGzBU2v.jpg",
+                "overview": "Despite his talent as a musician, a city boy decides to become a boxer. He's successful as a fighter \u2014 much to the dismay of his parents. When gangsters try to by a piece of him, he begins to have second thoughts.",
+                "vote_average": 6.4,
+                "vote_count": 28
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gone with the Wind",
+            "second_label": "Max Steiner",
+            "category": "Music (Original Score)",
+            "year": 1940,
+            "tmdb": {
+                "id": 770,
+                "original_title": "Gone with the Wind",
+                "title": "...E o Vento Levou",
+                "release_date": "1939-12-15",
+                "backdrop_path": "/ft8WRF2xqEwwGWa59naDUybKTAx.jpg",
+                "poster_path": "/erwBUaSZLgMo79KRcQYw0bAV9h3.jpg",
+                "overview": "Scarlett O'Hara \u00e9 uma jovem mimada que consegue tudo o que quer. No entanto, algo falta em sua vida: o amor de Ashley Wilkes, um nobre sulista que deve se casar com a sua prima Melanie. Tudo muda quando a Guerra Civil americana explode e Scarlett precisa lutar para sobreviver e manter a fazenda da fam\u00edlia.",
+                "vote_average": 7.964,
+                "vote_count": 3839
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gulliver's Travels",
+            "second_label": "Victor Young",
+            "category": "Music (Original Score)",
+            "year": 1940,
+            "tmdb": {
+                "id": 42518,
+                "original_title": "Gulliver's Travels",
+                "title": "As Viagens de Gulliver",
+                "release_date": "1939-11-10",
+                "backdrop_path": "/pwP9RTomD5Ft6fQYLmkUTUlKTgv.jpg",
+                "poster_path": "/oxJuUeTOaAunEJJ64F2ua0Q3XSz.jpg",
+                "overview": "Em 1699, numa de suas viagens, Gulliver naufraga durante uma tempestade e vai ter a uma praia da ilha de Lilliput, habitada por homens min\u00fasculos que vivem sob o dom\u00ednio de um rei e de leis cru\u00e9is e desumanas.\r Lilliput est\u00e1 em permanente guerra com Blefuscu, um pa\u00eds vizinho habitado por gente do mesmo tamanho e \u00e9 esse estado de guerra que acaba por salvar a vida do gigante, j\u00e1 que o rei v\u00ea em Gulliver a grande oportunidade de derrotar seu inimigo.",
+                "vote_average": 6.2,
+                "vote_count": 113
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Man in the Iron Mask",
+            "second_label": "Lud Gluskin, Lucien Moraweck",
+            "category": "Music (Original Score)",
+            "year": 1940,
+            "tmdb": {
+                "id": 43836,
+                "original_title": "The Man in the Iron Mask",
+                "title": "O Homem da M\u00e1scara de Ferro",
+                "release_date": "1939-07-13",
+                "backdrop_path": "/dV6mM6R6zUWqmWe2cJW1FeACUhr.jpg",
+                "poster_path": "/hqPu1WEvfZr9nzNMcd06RFDJ2tA.jpg",
+                "overview": "Os Tr\u00eas Mosqueteiros v\u00e3o resgatar o rei que est\u00e1 preso injustamente pelo seu irm\u00e3o g\u00eameo. Lu\u00eds XIV da Fran\u00e7a faz artimanhas para manter seu irm\u00e3o g\u00eameo Philippe encarcerado em uma m\u00e1scara de ferro, longe do conhecimento do p\u00fablico, que dava mostras de preferir Philippe como Rei da Fran\u00e7a. Mas os mosqueteiros e o camarada D\u2019Artagnan se combinam para salvar Philippe.",
+                "vote_average": 7.1,
+                "vote_count": 24
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Man of Conquest",
+            "second_label": "Victor Young",
+            "category": "Music (Original Score)",
+            "year": 1940,
+            "tmdb": {
+                "id": 192939,
+                "original_title": "Man of Conquest",
+                "title": "Man of Conquest",
+                "release_date": "1939-05-15",
+                "backdrop_path": "/o6fLrKw7dVOtMs0nyX2y75pmdyk.jpg",
+                "poster_path": "/1FmkzjV57DzwwEyBuwvxDeHOuck.jpg",
+                "overview": "The story of Sam Houston, hero of the Texas revolution, statesman, and first president of the Republic of Texas.",
+                "vote_average": 5.2,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Nurse Edith Cavell",
+            "second_label": "Anthony Collins",
+            "category": "Music (Original Score)",
+            "year": 1940,
+            "tmdb": {
+                "id": 218326,
+                "original_title": "Nurse Edith Cavell",
+                "title": "Nurse Edith Cavell",
+                "release_date": "1939-08-31",
+                "backdrop_path": "/6FqJf99xrNYvdputt2ssezNNOOr.jpg",
+                "poster_path": "/ydEquMTPU1tdsNyzpbt9tBBoAqU.jpg",
+                "overview": "British nurse Edith Cavell is stationed at a hospital in Brussels during World War I. When the son of a former patient escapes from a German prisoner-of-war camp, she helps him flee to Holland. Outraged at the number of soldiers detained in the camps, Edith, along with a group of sympathizers, devises a plan to help the prisoners escape. As the group works to free the soldiers, Edith must keep her activities secret from the Germans",
+                "vote_average": 6.4,
+                "vote_count": 9
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Of Mice and Men",
+            "second_label": "Aaron Copland",
+            "category": "Music (Original Score)",
+            "year": 1940,
+            "tmdb": {
+                "id": 51802,
+                "original_title": "Of Mice and Men",
+                "title": "Of Mice and Men",
+                "release_date": "1939-12-24",
+                "backdrop_path": "/oM2pdFnPzNIyvbM4I1MtF3YNmcS.jpg",
+                "poster_path": "/ihgGS9K8pCYdgb9SpanxoKcJ0Al.jpg",
+                "overview": "An intellectually disabled giant and his level headed guardian find work at a sadistic cowboy's ranch in depression era America.",
+                "vote_average": 7.3,
+                "vote_count": 74
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Rains Came",
+            "second_label": "Alfred Newman",
+            "category": "Music (Original Score)",
+            "year": 1940,
+            "tmdb": {
+                "id": 115109,
+                "original_title": "The Rains Came",
+                "title": "E As Chuvas Chegaram",
+                "release_date": "1939-09-15",
+                "backdrop_path": "/9RnsbF7POa9Fm5Eb8LPAdnGJQDN.jpg",
+                "poster_path": "/aQQcSrcnucDGDIXF0NmYd92tsdC.jpg",
+                "overview": "Indian aristocrat Rama Safti returns from medical training in the U.S. to give his life to the poor folk of Ranchipur. Lady Edwina and her drunken artist ex-lover Tom Ransome get in the way, but everyone shapes up when faced by earthquake, flooding, and plague.",
+                "vote_average": 5.9,
+                "vote_count": 19
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Wuthering Heights",
+            "second_label": "Alfred Newman",
+            "category": "Music (Original Score)",
+            "year": 1940,
+            "tmdb": {
+                "id": 3084,
+                "original_title": "Wuthering Heights",
+                "title": "O Morro dos Ventos Uivantes",
+                "release_date": "1939-04-07",
+                "backdrop_path": "/qyl6dV5dCfoBifzSShAz8YZtrf9.jpg",
+                "poster_path": "/tA3ZaItWqhoruqhvbnJM4WWrHfF.jpg",
+                "overview": "Humilhado por seu irm\u00e3o de cria\u00e7\u00e3o Hindley (Hugh Williams), Heathcliff (Laurence Olivier) torna-se um homem rico e em busca de vingan\u00e7a. Ao mesmo tempo, por\u00e9m, o rebelde nutre grande paix\u00e3o por Cathy (Merle Oberon), irm\u00e3 do homem que deseja matar e que, durante os anos em que esteve ausente da Inglaterra, casou-se com o nobre Edgar (David Niven). Certo dia, o Sr. Earnshaw retorna de viagem da cidade, trazendo consigo o pequeno \u00f3rf\u00e3o chamado Heathcliff. Por\u00e9m, o filho de Earnshaw, Hindley, sente ci\u00fames do garoto, enquanto Catherine, sua filha, torna-se a paix\u00e3o infantil e logo o amor de Heathcliff. As coisas mudam quando os pais dos garotos morrem, e Heathcliff come\u00e7a a ser tratado como mero empregado. (e 12 - Estimado 12 Anos)",
+                "vote_average": 7.2,
+                "vote_count": 250
+            },
+            "winner": false
+        }
+    ],
+    "Music (Scoring)": [
+        {
+            "first_label": "Stagecoach",
+            "second_label": "Richard Hageman, Frank Harling, John Leipold, Leo Shuken",
+            "category": "Music (Scoring)",
+            "year": 1940,
+            "tmdb": {
+                "id": 995,
+                "original_title": "Stagecoach",
+                "title": "No Tempo das Dilig\u00eancias",
+                "release_date": "1939-03-03",
+                "backdrop_path": "/7SYNEG50fKODsTP6h9phYM3BueV.jpg",
+                "poster_path": "/7dttd14XW2y4ZSo98PbnfyRrErQ.jpg",
+                "overview": "Uma dilig\u00eancia atravessa o Monument Valley, entre Tonto e Lordsburg, com cinco passageiros, aos quais se junta Ringo Kid, que viaja para acertar as contas com os irm\u00e3os Plummer mas, a meio caminho, ocorre um violento ataque de apaches. Um cl\u00e1ssico de John Ford, sempre citado entre os melhores filmes de todos os tempos e que serviu de modelo a muitos outros faroestes. O filme \u00e9 impec\u00e1vel em todos os n\u00edveis: dire\u00e7\u00e3o, elenco, fotografia (de Bert Glennon) e hist\u00f3ria (baseada no conto Stage to Lordsburg de Ernest Haycox e roteirizada por Dudley Nichols).",
+                "vote_average": 7.6,
+                "vote_count": 1048
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Babes in Arms",
+            "second_label": "George E. Stoll, Roger Edens",
+            "category": "Music (Scoring)",
+            "year": 1940,
+            "tmdb": {
+                "id": 32610,
+                "original_title": "Babes in Arms",
+                "title": "Sangue de Artista",
+                "release_date": "1939-10-10",
+                "backdrop_path": "/v6u16y9xtaVvwHan71EMZLGNcL9.jpg",
+                "poster_path": "/hCE0OHNjMI2LNpoqJxDX4Otb06X.jpg",
+                "overview": "Mickey Moran, son of two vaudeville veterans, decides to put up his own vaudeville show with his girlfriend Patsy Barton. But child actress Rosalie wants to make a comeback and replace Patsy both professionally and as Mickey's girl.",
+                "vote_average": 6.4,
+                "vote_count": 40
+            },
+            "winner": false
+        },
+        {
+            "first_label": "First Love",
+            "second_label": "Charles Previn",
+            "category": "Music (Scoring)",
+            "year": 1940,
+            "tmdb": {
+                "id": 61645,
+                "original_title": "First Love",
+                "title": "First Love",
+                "release_date": "1939-11-10",
+                "backdrop_path": "/n7E8Q6fPUdokMwg7iaaOacad6cs.jpg",
+                "poster_path": "/ogS9UjgYVSrLrofLEIxvxSdoiIy.jpg",
+                "overview": "In this reworking of Cinderella, orphaned Connie Harding is sent to live with her rich aunt and uncle after graduating from boarding school. She's hardly received with open arms, especially by her snobby cousin Barbara. When the entire family is invited to a major social ball, Barbara sees to it that Connie is forced to stay home. With the aid of her uncle, who acts as her fairy godfather, Connie makes it to the ball and meets her Prince Charming in Ted Drake, her cousin's boyfriend.",
+                "vote_average": 7.8,
+                "vote_count": 12
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Great Victor Herbert",
+            "second_label": "Phil Boutelje, Arthur Lange",
+            "category": "Music (Scoring)",
+            "year": 1940,
+            "tmdb": {
+                "id": 218321,
+                "original_title": "The Great Victor Herbert",
+                "title": "The Great Victor Herbert",
+                "release_date": "1939-12-29",
+                "backdrop_path": "/4NIeQ6VYUkBMgbGmzNvxMmdtIZX.jpg",
+                "poster_path": "/iDNPMcq0KnYAewftT9ahTcTJgGz.jpg",
+                "overview": "In his last film assignment, portly Walter Connolly fills the title role (in more ways than one) in The Great Victor Herbert. Very little of Herbert's life story is incorporated in the screenplay (a closing title actually apologizes for the film's paucity of cold hard facts); instead, the writers allow the famed composer's works to speak for themselves. In the tradition of one of his own operettas, Herbert spends most of his time patching up the shaky marriage between tenor John Ramsey (Allan Jones) and Louise Hall (Mary Martin). Many of Herbert's most famous compositions are well in evidence, including \"Ah! Sweet Mystery of Life\", \"March of the Toys\" and \"Kiss Me Again\", the latter performed con brio by teenaged coloratura Susanna Foster. Evidently, the producers were able to secure the film rights for the Herbert songs, but not for the stage productions in which they appeared, which may explain such bizarre interpolations as having a song from Naughty Marietta.",
+                "vote_average": 5.0,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Hunchback of Notre Dame",
+            "second_label": "Alfred Newman",
+            "category": "Music (Scoring)",
+            "year": 1940,
+            "tmdb": {
+                "id": 31685,
+                "original_title": "The Hunchback of Notre Dame",
+                "title": "O Corcunda de Notre Dame",
+                "release_date": "1939-12-29",
+                "backdrop_path": "/mt1RJGw7LvAoIGflIqYG87u84Xq.jpg",
+                "poster_path": "/m6fsyHeqSQs4tktk9q3awgo7IzF.jpg",
+                "overview": "Esta produ\u00e7\u00e3o estrelada por Charles Laughton, que estava no auge de sua carreira quando personificou Quas\u00edmodo (o Corcunda), recebeu duas indica\u00e7\u00f5es ao Oscar, em 1939. \u00c9 provavelmente, a melhor interpreta\u00e7\u00e3o dada ao triste personagem, morador da Catedral de Notre Dame, que perambula pelos impressionantes cen\u00e1rios de Paris, criados especialmente para o filme, em Hollywood. Maureen O'Hara est\u00e1 perfeita como a linda cigana Esmeralda, pela qual Quas\u00edmodo se apaixona desesperadamente, a ponto de romper a paz da imponente e secular Catedral, aterrorizando a popula\u00e7\u00e3o.",
+                "vote_average": 7.2,
+                "vote_count": 179
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Intermezzo",
+            "second_label": "Lou Forbes",
+            "category": "Music (Scoring)",
+            "year": 1940,
+            "tmdb": {
+                "id": 31868,
+                "original_title": "Intermezzo: A Love Story",
+                "title": "Intermezzo: A Love Story",
+                "release_date": "1939-10-06",
+                "backdrop_path": "/ye9wO7oHbae13trtAEvS32vFOLZ.jpg",
+                "poster_path": "/14cUqSYvzBEap5Hy7nJIImPRRD0.jpg",
+                "overview": "A concert violinist becomes charmed with his daughter's talented piano teacher. When he invites her to go on tour with him, they make beautiful music away from the concert hall as well. He soon leaves his wife so the two can go off together.",
+                "vote_average": 6.6,
+                "vote_count": 35
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mr. Smith Goes to Washington",
+            "second_label": "Dimitri Tiomkin",
+            "category": "Music (Scoring)",
+            "year": 1940,
+            "tmdb": {
+                "id": 3083,
+                "original_title": "Mr. Smith Goes to Washington",
+                "title": "A Mulher Faz o Homem",
+                "release_date": "1939-10-19",
+                "backdrop_path": "/4HagjGPF6dMGYlmx7mEfjLV2kQ0.jpg",
+                "poster_path": "/6GsIOdWlIqUmpujcgGFW7Gl9W5K.jpg",
+                "overview": "Ing\u00eanuo homem do interior (James Stewart) \u00e9 convidado para preencher uma vaga no Senado dos Estados Unidos. Aos poucos vai descobrindo o mar de lama que \u00e9 o ambiente pol\u00edtico dos comandantes de seu pa\u00eds. Tudo em que acredita est\u00e1 amea\u00e7ado. Como enfrentar esses poderosos Senadores e dirigentes pol\u00edticos?",
+                "vote_average": 7.9,
+                "vote_count": 980
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Of Mice and Men",
+            "second_label": "Aaron Copland",
+            "category": "Music (Scoring)",
+            "year": 1940,
+            "tmdb": {
+                "id": 51802,
+                "original_title": "Of Mice and Men",
+                "title": "Of Mice and Men",
+                "release_date": "1939-12-24",
+                "backdrop_path": "/oM2pdFnPzNIyvbM4I1MtF3YNmcS.jpg",
+                "poster_path": "/ihgGS9K8pCYdgb9SpanxoKcJ0Al.jpg",
+                "overview": "An intellectually disabled giant and his level headed guardian find work at a sadistic cowboy's ranch in depression era America.",
+                "vote_average": 7.3,
+                "vote_count": 74
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Private Lives of Elizabeth and Essex",
+            "second_label": "Erich Wolfgang Korngold",
+            "category": "Music (Scoring)",
+            "year": 1940,
+            "tmdb": {
+                "id": 16902,
+                "original_title": "The Private Lives of Elizabeth and Essex",
+                "title": "Meu Reino Por um Amor",
+                "release_date": "1939-11-11",
+                "backdrop_path": "/dR1bndcisajWYbG4YvbbN6Cmu7f.jpg",
+                "poster_path": "/76UbFh03IvO8fwD8MywFpdfUCcj.jpg",
+                "overview": "Michael Curtiz realiza aqui uma produ\u00e7\u00e3o \u00e9pica e dram\u00e1tica, contando a hist\u00f3ria de um tumultuado romance entre a Rainha Elizabeth I (Bette Davis) e Robert Devereux (Errol Flynn), conde de Essex - interior da Inglaterra. Vitorioso na batalha contra a Espanha, o jovem Devereux torna-se popular e atrai a aten\u00e7\u00e3o da rainha. Ap\u00f3s outra vit\u00f3ria do her\u00f3i, agora contra a Irlanda, Devereux retorna ao pa\u00eds e exige compartilhar o trono real com Elizabeth. Que de in\u00edcio cogita um casamento, mas percebe que aquilo pode ser um desastre para a Inglaterra. Assim Elizabeth arma um plano para preservar o trono e proteger seu povo do homem que poderia ter sido rei.",
+                "vote_average": 6.2,
+                "vote_count": 79
+            },
+            "winner": false
+        },
+        {
+            "first_label": "She Married a Cop",
+            "second_label": "Cy Feuer",
+            "category": "Music (Scoring)",
+            "year": 1940,
+            "tmdb": {
+                "id": 218323,
+                "original_title": "She Married a Cop",
+                "title": "She Married a Cop",
+                "release_date": "1939-07-11",
+                "backdrop_path": "/4SDI1Cc2dU8EIkYbWJJFz0PNGaU.jpg",
+                "poster_path": "/ckr7csSMtUPQxxPBNzR6aOTwXBa.jpg",
+                "overview": "This comedy is set in New York and centers upon a singing Irish cop who causes quite a sensation among two producers when he sings at the annual Policeman's Ball. For a long time, they have been looking for a voice for their new cartoon feature, \"Paddy the Pig,\" and the cop is just perfect. The policeman is tickled pink at the prospect of being a star and begins telling all his friends about his good fortune (he has no idea what they plan to do with his voice). Eventually he ends up marrying one of the producers, who still hasn't told him the truth. Suddenly the night of the big premiere finally arrives and all of the policeman's old friends and colleagues are there. As it begins, the policeman is appalled and humiliated to see that he has been mocked and has become a laughing stock. He immediately spurns his new wife and goes back to the police force. Time passes, and fortunately, the two reunite and settle their differences.",
+                "vote_average": 5.0,
+                "vote_count": 2
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Swanee River",
+            "second_label": "Louis Silvers",
+            "category": "Music (Scoring)",
+            "year": 1940,
+            "tmdb": {
+                "id": 118328,
+                "original_title": "Swanee River",
+                "title": "Swanee River",
+                "release_date": "1939-12-29",
+                "backdrop_path": "/jXffEDS4v1pkzINPHq1TASAwrJN.jpg",
+                "poster_path": "/4dAbyzq2a53ut0uT7yrLXimdCue.jpg",
+                "overview": "Swanee River is a 1940 American biopic about Stephen Foster, a songwriter from Pittsburgh who falls in love with the South, marries a Southern girl, then is accused of sympathizing when the Civil War breaks out. Typical of 20th Century Fox biopics of the time, the film is more fictional than factual biography.",
+                "vote_average": 0.0,
+                "vote_count": 1
+            },
+            "winner": false
+        },
+        {
+            "first_label": "They Shall Have Music",
+            "second_label": "Alfred Newman",
+            "category": "Music (Scoring)",
+            "year": 1940,
+            "tmdb": {
+                "id": 130841,
+                "original_title": "They Shall Have Music",
+                "title": "They Shall Have Music",
+                "release_date": "1939-08-18",
+                "backdrop_path": "/aNp9f6ZqbWlTm1QtltWCNo1qQXE.jpg",
+                "poster_path": "/haCxpkR4kN1ZgimDIyjz5Lbm3Jn.jpg",
+                "overview": "The future is bleak for a troubled boy from a broken home in the slums. He runs away when his step father breaks his violin, ending up sleeping in the basement of a music school for poor children.",
+                "vote_average": 5.9,
+                "vote_count": 7
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Way Down South",
+            "second_label": "Victor Young",
+            "category": "Music (Scoring)",
+            "year": 1940,
+            "tmdb": {
+                "id": 151857,
+                "original_title": "Way Down South",
+                "title": "Way Down South",
+                "release_date": "1939-07-21",
+                "backdrop_path": "/uZwVIZS2jQWIONMJCQtkopdON9O.jpg",
+                "poster_path": "/kDa3wDTNWWmuw67rx3BljONKIWV.jpg",
+                "overview": "In the pre-Civil War South, a plantation owner dies and leaves all his possessions, including his slaves, to his young son. While the deceased treated his slaves decently, his corrupt executor abuses them unmercifully, beating them without provocation, and he is planning to sell off the father'e estate--including the slaves--at the earliest opportunity so he and his mistress can steal the money and move to France. The young boy doesn't want to sell his father's estate or break up an of the slave families, and he has to find someone to help him thwart the crooked executor's plans.",
+                "vote_average": 5.4,
+                "vote_count": 5
+            },
+            "winner": false
+        }
+    ],
+    "Music (Song)": [
+        {
+            "first_label": "The Wizard of Oz",
+            "second_label": "Over The Rainbow in \"The Wizard of Oz\" Music by Harold Arlen; Lyrics by E. Y. Harburg",
+            "category": "Music (Song)",
+            "year": 1940,
+            "tmdb": {
+                "id": 630,
+                "original_title": "The Wizard of Oz",
+                "title": "O M\u00e1gico de Oz",
+                "release_date": "1939-08-15",
+                "backdrop_path": "/nRsr98MFztBGm532hCVMGXV6qOp.jpg",
+                "poster_path": "/7sYIjWRzqClPK6hiqpOJOnaGUcO.jpg",
+                "overview": "Dorothy e seu cachorro Tot\u00f3 s\u00e3o levados para a terra m\u00e1gica de Oz quando um ciclone passa pela fazenda de seus av\u00f3s no Kansas. Eles viajam em dire\u00e7\u00e3o \u00e0 Cidade Esmeralda para encontrar o Mago Oz e no caminho encontram um Espantalho, que precisa de um c\u00e9rebro, um Homem de Lata sem um cora\u00e7\u00e3o e um Le\u00e3o Covarde que quer coragem. O Mago pede ao grupo que tragam a vassoura da Bruxa Malvada do Oeste a fim de ganharem sua ajuda.",
+                "vote_average": 7.6,
+                "vote_count": 5286
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Gulliver's Travels",
+            "second_label": "Faithful Forever in \"Gulliver's Travels\" Music by Ralph Rainger; Lyrics by Leo Robin",
+            "category": "Music (Song)",
+            "year": 1940,
+            "tmdb": {
+                "id": 42518,
+                "original_title": "Gulliver's Travels",
+                "title": "As Viagens de Gulliver",
+                "release_date": "1939-11-10",
+                "backdrop_path": "/pwP9RTomD5Ft6fQYLmkUTUlKTgv.jpg",
+                "poster_path": "/oxJuUeTOaAunEJJ64F2ua0Q3XSz.jpg",
+                "overview": "Em 1699, numa de suas viagens, Gulliver naufraga durante uma tempestade e vai ter a uma praia da ilha de Lilliput, habitada por homens min\u00fasculos que vivem sob o dom\u00ednio de um rei e de leis cru\u00e9is e desumanas.\r Lilliput est\u00e1 em permanente guerra com Blefuscu, um pa\u00eds vizinho habitado por gente do mesmo tamanho e \u00e9 esse estado de guerra que acaba por salvar a vida do gigante, j\u00e1 que o rei v\u00ea em Gulliver a grande oportunidade de derrotar seu inimigo.",
+                "vote_average": 6.2,
+                "vote_count": 113
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Second Fiddle",
+            "second_label": "I Poured My Heart Into A Song in \"Second Fiddle\" Music and Lyrics by Irving Berlin",
+            "category": "Music (Song)",
+            "year": 1940,
+            "tmdb": {
+                "id": 43835,
+                "original_title": "Second Fiddle",
+                "title": "Second Fiddle",
+                "release_date": "1939-06-30",
+                "backdrop_path": "/nfJ8coyeDcGv7t9uFHb5uMs70UP.jpg",
+                "poster_path": "/wEjrXMxuotsy7bStkmHKTSFTSSb.jpg",
+                "overview": "Studio publicist discovers Minnesota skating teacher and takes her to Hollywood. She goes back to Minnesota but he follows her.",
+                "vote_average": 5.0,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Love Affair",
+            "second_label": "Wishing in \"Love Affair\" Music and Lyrics by Buddy de Sylva",
+            "category": "Music (Song)",
+            "year": 1940,
+            "tmdb": {
+                "id": 43739,
+                "original_title": "Love Affair",
+                "title": "Duas Vidas",
+                "release_date": "1939-04-07",
+                "backdrop_path": "/sS1W3HmhIfXbMNp6OECMHyNej6K.jpg",
+                "poster_path": "/2bKxlYgwKRQidS8S9DSPjpITPlv.jpg",
+                "overview": "Um playboy franc\u00eas e uma antiga cantora de discoteca apaixonam-se a bordo de um navio.",
+                "vote_average": 7.1,
+                "vote_count": 94
+            },
+            "winner": false
+        }
+    ],
+    "Outstanding Production": [
+        {
+            "first_label": "Gone with the Wind",
+            "second_label": "Selznick International Pictures",
+            "category": "Outstanding Production",
+            "year": 1940,
+            "tmdb": {
+                "id": 770,
+                "original_title": "Gone with the Wind",
+                "title": "...E o Vento Levou",
+                "release_date": "1939-12-15",
+                "backdrop_path": "/ft8WRF2xqEwwGWa59naDUybKTAx.jpg",
+                "poster_path": "/erwBUaSZLgMo79KRcQYw0bAV9h3.jpg",
+                "overview": "Scarlett O'Hara \u00e9 uma jovem mimada que consegue tudo o que quer. No entanto, algo falta em sua vida: o amor de Ashley Wilkes, um nobre sulista que deve se casar com a sua prima Melanie. Tudo muda quando a Guerra Civil americana explode e Scarlett precisa lutar para sobreviver e manter a fazenda da fam\u00edlia.",
+                "vote_average": 7.964,
+                "vote_count": 3839
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Dark Victory",
+            "second_label": "Warner Bros.-First National",
+            "category": "Outstanding Production",
+            "year": 1940,
+            "tmdb": {
+                "id": 27972,
+                "original_title": "Dark Victory",
+                "title": "Vit\u00f3ria Amarga",
+                "release_date": "1939-04-20",
+                "backdrop_path": "/jsIYE5ntyzkJlGKiJcKFGYqH9yN.jpg",
+                "poster_path": "/zga7ncPWuRN2fMFgzqKxoBkYrfE.jpg",
+                "overview": "Uma jovem socialite \u00e9 diagnosticada com um tumor cerebral e deve decidir se vai ou n\u00e3o conhecer seus \u00faltimos dias com dignidade.  Judith Traherne est\u00e1 no auge da sociedade quando o Dr. Frederick Steele diagnostica um tumor no seu c\u00e9rebro. Ap\u00f3s a cirurgia, ela se apaixona por Steele. O m\u00e9dico diz \u00e0 secret\u00e1ria que o tumor vai voltar e eventualmente mat\u00e1-la. Quando fica sabendo disso, Judith se torna man\u00edaca depressiva. Seu treinador de cavalos, Michael, que a ama, diz a ela para tirar o m\u00e1ximo de proveito da vida poss\u00edvel. Ela se casa com o Dr. Steele, que pretende encontrar uma cura para sua doen\u00e7a. Quando ele vai para uma confer\u00eancia em Nova York, Judith come\u00e7a a ter falhas de vis\u00e3o, o que indica a que ela est\u00e1 morrendo.",
+                "vote_average": 6.9,
+                "vote_count": 129
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Goodbye, Mr. Chips",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Outstanding Production",
+            "year": 1940,
+            "tmdb": {
+                "id": 42852,
+                "original_title": "Goodbye, Mr. Chips",
+                "title": "Adeus, Sr. Chips",
+                "release_date": "1939-07-28",
+                "backdrop_path": "/d9ThwpGXncwXLGk3jNOK1Xyrv5M.jpg",
+                "poster_path": "/qjRdqKBmaHZrQAWpYkiXVnJRJXn.jpg",
+                "overview": "O filme, baseado no romande de James Hilton, conta a hist\u00f3ria do Sr. Chipping (Robert Donnar), um respeitado professor de latim, obcecado pelo trabalho. Um dia, este homem com uma vida muito discreta, conhece e se apaixona pela extrovertida Katherine (Greer Garson). Sua conviv\u00eancia com a mo\u00e7a o torna mais amig\u00e1vel e ele ganha a confian\u00e7a de seus alunos. Tudo parecia bem, mas uma trag\u00e9dia acontece e muda sua vida novamente.",
+                "vote_average": 7.4,
+                "vote_count": 108
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Love Affair",
+            "second_label": "RKO Radio",
+            "category": "Outstanding Production",
+            "year": 1940,
+            "tmdb": {
+                "id": 43739,
+                "original_title": "Love Affair",
+                "title": "Duas Vidas",
+                "release_date": "1939-04-07",
+                "backdrop_path": "/sS1W3HmhIfXbMNp6OECMHyNej6K.jpg",
+                "poster_path": "/2bKxlYgwKRQidS8S9DSPjpITPlv.jpg",
+                "overview": "Um playboy franc\u00eas e uma antiga cantora de discoteca apaixonam-se a bordo de um navio.",
+                "vote_average": 7.1,
+                "vote_count": 94
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mr. Smith Goes to Washington",
+            "second_label": "Columbia",
+            "category": "Outstanding Production",
+            "year": 1940,
+            "tmdb": {
+                "id": 3083,
+                "original_title": "Mr. Smith Goes to Washington",
+                "title": "A Mulher Faz o Homem",
+                "release_date": "1939-10-19",
+                "backdrop_path": "/4HagjGPF6dMGYlmx7mEfjLV2kQ0.jpg",
+                "poster_path": "/6GsIOdWlIqUmpujcgGFW7Gl9W5K.jpg",
+                "overview": "Ing\u00eanuo homem do interior (James Stewart) \u00e9 convidado para preencher uma vaga no Senado dos Estados Unidos. Aos poucos vai descobrindo o mar de lama que \u00e9 o ambiente pol\u00edtico dos comandantes de seu pa\u00eds. Tudo em que acredita est\u00e1 amea\u00e7ado. Como enfrentar esses poderosos Senadores e dirigentes pol\u00edticos?",
+                "vote_average": 7.9,
+                "vote_count": 980
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ninotchka",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Outstanding Production",
+            "year": 1940,
+            "tmdb": {
+                "id": 1859,
+                "original_title": "Ninotchka",
+                "title": "Ninotchka",
+                "release_date": "1939-11-23",
+                "backdrop_path": "/tlTuiruOW5kK8lhzct1FYrQogOy.jpg",
+                "poster_path": "/cYsSoCtlpbX60udRMKIUdjcjzbv.jpg",
+                "overview": "Nina Yakushova (Greta Garbo), comiss\u00e1ria do governo sovi\u00e9tico, \u00e9 mandada a Paris para averiguar o comportamento de tr\u00eas representantes do governo que t\u00eam como miss\u00e3o negociar uma j\u00f3ia. Aos poucos sucumbe ao capitalismo e a Leon d'Algout (Melvyn Douglas), um galanteador franc\u00eas que est\u00e1 apaixonado por ela.",
+                "vote_average": 7.5,
+                "vote_count": 364
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Of Mice and Men",
+            "second_label": "Hal Roach (production company)",
+            "category": "Outstanding Production",
+            "year": 1940,
+            "tmdb": {
+                "id": 51802,
+                "original_title": "Of Mice and Men",
+                "title": "Of Mice and Men",
+                "release_date": "1939-12-24",
+                "backdrop_path": "/oM2pdFnPzNIyvbM4I1MtF3YNmcS.jpg",
+                "poster_path": "/ihgGS9K8pCYdgb9SpanxoKcJ0Al.jpg",
+                "overview": "An intellectually disabled giant and his level headed guardian find work at a sadistic cowboy's ranch in depression era America.",
+                "vote_average": 7.3,
+                "vote_count": 74
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Stagecoach",
+            "second_label": "Walter Wanger (production company)",
+            "category": "Outstanding Production",
+            "year": 1940,
+            "tmdb": {
+                "id": 995,
+                "original_title": "Stagecoach",
+                "title": "No Tempo das Dilig\u00eancias",
+                "release_date": "1939-03-03",
+                "backdrop_path": "/7SYNEG50fKODsTP6h9phYM3BueV.jpg",
+                "poster_path": "/7dttd14XW2y4ZSo98PbnfyRrErQ.jpg",
+                "overview": "Uma dilig\u00eancia atravessa o Monument Valley, entre Tonto e Lordsburg, com cinco passageiros, aos quais se junta Ringo Kid, que viaja para acertar as contas com os irm\u00e3os Plummer mas, a meio caminho, ocorre um violento ataque de apaches. Um cl\u00e1ssico de John Ford, sempre citado entre os melhores filmes de todos os tempos e que serviu de modelo a muitos outros faroestes. O filme \u00e9 impec\u00e1vel em todos os n\u00edveis: dire\u00e7\u00e3o, elenco, fotografia (de Bert Glennon) e hist\u00f3ria (baseada no conto Stage to Lordsburg de Ernest Haycox e roteirizada por Dudley Nichols).",
+                "vote_average": 7.6,
+                "vote_count": 1048
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Wizard of Oz",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Outstanding Production",
+            "year": 1940,
+            "tmdb": {
+                "id": 630,
+                "original_title": "The Wizard of Oz",
+                "title": "O M\u00e1gico de Oz",
+                "release_date": "1939-08-15",
+                "backdrop_path": "/nRsr98MFztBGm532hCVMGXV6qOp.jpg",
+                "poster_path": "/7sYIjWRzqClPK6hiqpOJOnaGUcO.jpg",
+                "overview": "Dorothy e seu cachorro Tot\u00f3 s\u00e3o levados para a terra m\u00e1gica de Oz quando um ciclone passa pela fazenda de seus av\u00f3s no Kansas. Eles viajam em dire\u00e7\u00e3o \u00e0 Cidade Esmeralda para encontrar o Mago Oz e no caminho encontram um Espantalho, que precisa de um c\u00e9rebro, um Homem de Lata sem um cora\u00e7\u00e3o e um Le\u00e3o Covarde que quer coragem. O Mago pede ao grupo que tragam a vassoura da Bruxa Malvada do Oeste a fim de ganharem sua ajuda.",
+                "vote_average": 7.6,
+                "vote_count": 5286
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Wuthering Heights",
+            "second_label": "Samuel Goldwyn Productions",
+            "category": "Outstanding Production",
+            "year": 1940,
+            "tmdb": {
+                "id": 3084,
+                "original_title": "Wuthering Heights",
+                "title": "O Morro dos Ventos Uivantes",
+                "release_date": "1939-04-07",
+                "backdrop_path": "/qyl6dV5dCfoBifzSShAz8YZtrf9.jpg",
+                "poster_path": "/tA3ZaItWqhoruqhvbnJM4WWrHfF.jpg",
+                "overview": "Humilhado por seu irm\u00e3o de cria\u00e7\u00e3o Hindley (Hugh Williams), Heathcliff (Laurence Olivier) torna-se um homem rico e em busca de vingan\u00e7a. Ao mesmo tempo, por\u00e9m, o rebelde nutre grande paix\u00e3o por Cathy (Merle Oberon), irm\u00e3 do homem que deseja matar e que, durante os anos em que esteve ausente da Inglaterra, casou-se com o nobre Edgar (David Niven). Certo dia, o Sr. Earnshaw retorna de viagem da cidade, trazendo consigo o pequeno \u00f3rf\u00e3o chamado Heathcliff. Por\u00e9m, o filho de Earnshaw, Hindley, sente ci\u00fames do garoto, enquanto Catherine, sua filha, torna-se a paix\u00e3o infantil e logo o amor de Heathcliff. As coisas mudam quando os pais dos garotos morrem, e Heathcliff come\u00e7a a ser tratado como mero empregado. (e 12 - Estimado 12 Anos)",
+                "vote_average": 7.2,
+                "vote_count": 250
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Cartoon)": [
+        {
+            "first_label": "The Ugly Duckling",
+            "second_label": "Walt Disney, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1940,
+            "tmdb": {
+                "id": 418956,
+                "original_title": "The Ugly Duckling",
+                "title": "O Patinho Feio",
+                "release_date": "1939-04-07",
+                "backdrop_path": "/woMB1t6cBbS9xPzZzsv8DI7IOxV.jpg",
+                "poster_path": "/qFZLv8aAH1NWRA1b3pbFsDgetoy.jpg",
+                "overview": "A busca de um patinho rejeitado por uma fam\u00edlia que o aceite leva \u00e0 rejei\u00e7\u00e3o constante antes de descobrir sua verdadeira identidade como cisne.",
+                "vote_average": 7.0,
+                "vote_count": 149
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Detouring America",
+            "second_label": "Warner Bros.",
+            "category": "Short Subject (Cartoon)",
+            "year": 1940,
+            "tmdb": {
+                "id": 187326,
+                "original_title": "Detouring America",
+                "title": "Detouring America",
+                "release_date": "1939-08-23",
+                "backdrop_path": "/lZpmmtOZ8I1Lgz5WfUZSdCi8Q4s.jpg",
+                "poster_path": "/1gQC6FDw8oxPnMmo0PUYGiIzJJa.jpg",
+                "overview": "This travelogue across America is filled with sight gags such as the 'Old Reliable' geyser spitting into a spittoon, cliff-dwelling Indians who walk horizontally up and down the faces of cliffs to get to their homes, and a Texas cow puncher who really punches cows. Also featured is Mr. Butter Fingers, a 'human fly' who climbs the outside of the Empire State Building.",
+                "vote_average": 5.8,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Peace on Earth",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1940,
+            "tmdb": {
+                "id": 46242,
+                "original_title": "Peace on Earth",
+                "title": "Paz na Terra",
+                "release_date": "1939-12-09",
+                "backdrop_path": "/e0blihrpCRHjeElsX1c7XILKbHy.jpg",
+                "poster_path": "/jSvlAiGpxtUkMX9C8ZcPp7sNNQh.jpg",
+                "overview": "Na noite de Natal, dois pequenos esquilos ouvem uma hist\u00f3ria de seu av\u00f4 sobre como a ra\u00e7a humana acabou em guerra.",
+                "vote_average": 7.1,
+                "vote_count": 51
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Pointer",
+            "second_label": "Walt Disney, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1940,
+            "tmdb": {
+                "id": 67599,
+                "original_title": "The Pointer",
+                "title": "The Pointer",
+                "release_date": "1939-07-21",
+                "backdrop_path": "/uFgfYppUWNk7w8sGX1IMHOPweol.jpg",
+                "poster_path": "/9Oejpd9QwEDQ6rrzSw6lJQL8Z0k.jpg",
+                "overview": "Mickey and Pluto go hunting for quail. Pluto scares away the first ones they see; Mickey scolds him, then relents. He shows Pluto how to be a pointer, and they set off after another quail, but Mickey accidentally jumps on a bear's nose, and thinks it's Pluto. Meanwhile, Pluto finds the quail and points. The babies climb on board and start picking at his hairs, but Pluto's been told not to move. Mickey finally comes across Pluto, who by now is covered by small animals, and realizes he's being followed by a bear. Mickey tries to reason with the bear, and backs off a cliff, onto Pluto.",
+                "vote_average": 5.7,
+                "vote_count": 31
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (One-reel)": [
+        {
+            "first_label": "Busy Little Bears",
+            "second_label": "Paramount",
+            "category": "Short Subject (One-reel)",
+            "year": 1940,
+            "tmdb": {
+                "id": 235657,
+                "original_title": "Busy Little Bears",
+                "title": "Busy Little Bears",
+                "release_date": "1939-04-20",
+                "backdrop_path": null,
+                "poster_path": "/rMEMUyCW5dbyqdzsp1cL7lQBhLa.jpg",
+                "overview": "Busy Little Bears is a 1939 American short family film directed by John A. Haeseler. The film follows three bear cubs are observed exploring the forests of the Sierra Nevadas, encountering other wildlife, and invading the kitchen of a local ranch house. It won an Oscar at the 12th Academy Awards in 1940 for Best Short Subject (One-Reel).  Preserved by the Academy Film Archive in partnership with UCLA Film & Television Archive in 2013.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Information Please",
+            "second_label": "RKO Radio",
+            "category": "Short Subject (One-reel)",
+            "year": 1940,
+            "tmdb": {
+                "id": 235658,
+                "original_title": "Information Please: Series 1, No. 1",
+                "title": "Information Please: Series 1, No. 1",
+                "release_date": "1939-09-08",
+                "backdrop_path": null,
+                "poster_path": "/462R1p7acePc37aIJb2HckdreSN.jpg",
+                "overview": "Information Please: Series 1, No. 1 is a 1939 short film of the famous show from RKO Radio. The segment stars Clifton Fadiman, Rex Stout, and John Kieran.It was nominated for an Oscar for Best Short Subject, One-Reel, a rare instance of a game show being nominated for an Academy Award.",
+                "vote_average": 5.2,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Prophet without Honor",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Short Subject (One-reel)",
+            "year": 1940,
+            "tmdb": {
+                "id": 235659,
+                "original_title": "Prophet Without Honor",
+                "title": "Prophet Without Honor",
+                "release_date": "1939-05-20",
+                "backdrop_path": null,
+                "poster_path": "/y8AVROKNa2J3gsu9t8bH8Ywvv3z.jpg",
+                "overview": "This short film portrays the story of Matthew Fontaine Maury (1806-1873), an American Naval officer who developed the first maps that charted the oceans' winds and currents.",
+                "vote_average": 5.4,
+                "vote_count": 9
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sword Fishing",
+            "second_label": "Warner Bros.",
+            "category": "Short Subject (One-reel)",
+            "year": 1940,
+            "tmdb": {
+                "id": 235660,
+                "original_title": "Sword Fishing",
+                "title": "Sword Fishing",
+                "release_date": "1939-10-21",
+                "backdrop_path": null,
+                "poster_path": "/tQxtqSCui36DZ0YJ1DQ7tae1pcs.jpg",
+                "overview": "Sword Fishing is a 1939 short documentary film about a group of fisherman, including Howard Hill, \"the world's greatest archer,\" who go in search of marlin off the California coast. With fishing line attached to his arrow, Hill plans to spear the fish, which would then be brought aboard the boat by rod and reel. In 1940, the film was nominated for an Academy Award for Best Live Action Short Film, One-Reel at the 12th Academy Awards.",
+                "vote_average": 5.5,
+                "vote_count": 6
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Two-reel)": [
+        {
+            "first_label": "Sons of Liberty",
+            "second_label": "Warner Bros.",
+            "category": "Short Subject (Two-reel)",
+            "year": 1940,
+            "tmdb": {
+                "id": 130204,
+                "original_title": "Sons of Liberty",
+                "title": "Sons of Liberty",
+                "release_date": "1939-05-20",
+                "backdrop_path": null,
+                "poster_path": "/hXTX4dtIYt0amXAaRKsnoNZ2y3T.jpg",
+                "overview": "Set during the American Revolution, this colorful 2 reel short tells the story of Haym Salomon, American patriot and financier of the American Revolution.",
+                "vote_average": 5.7,
+                "vote_count": 7
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Drunk Driving",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Short Subject (Two-reel)",
+            "year": 1940,
+            "tmdb": {
+                "id": 235654,
+                "original_title": "Drunk Driving",
+                "title": "Drunk Driving",
+                "release_date": "1939-10-28",
+                "backdrop_path": null,
+                "poster_path": "/3NL8lAoZm3A8W5DPv35wV3YR9nZ.jpg",
+                "overview": "In this Crime Does Not Pay series entry, John Jones is an up and coming businessman who drinks too much but denies he has a problem. One day he mixes drinking and driving, and the tragic consequences hit very close to home.",
+                "vote_average": 5.2,
+                "vote_count": 6
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Five Times Five",
+            "second_label": "RKO Radio",
+            "category": "Short Subject (Two-reel)",
+            "year": 1940,
+            "tmdb": {
+                "id": 235656,
+                "original_title": "Five Times Five",
+                "title": "Five Times Five",
+                "release_date": "1939-07-19",
+                "backdrop_path": null,
+                "poster_path": "/aRtTcUjeDVGxRR11RScgjZZjFhs.jpg",
+                "overview": "C\u00e9cile, Annette, Yvonne, \u00c9milie and Marie, the Dionne Quintuplets, turn five years old and have a private birthday party in their garden. Other than the five little French-Canadian princesses-of-the-world, the attendees at the party for the sheltered sisters are their doctor-and-mentor Roy Dafoe; a priest and two nurses; radio's \"Town Crier\" Alexander Woollcott; and RKO-Newsreel cameraman Harry Smith.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        }
+    ],
+    "Sound Recording": [
+        {
+            "first_label": "When Tomorrow Comes",
+            "second_label": "Universal Studio Sound Department, Bernard B. Brown, Sound Director",
+            "category": "Sound Recording",
+            "year": 1940,
+            "tmdb": {
+                "id": 165917,
+                "original_title": "When Tomorrow Comes",
+                "title": "Noite de Pecado",
+                "release_date": "1939-08-11",
+                "backdrop_path": "/mm1974YXNOHgqNvQYmRExf2w8EY.jpg",
+                "poster_path": "/5dplGMHCBu38INKTu2sdsJrIbmp.jpg",
+                "overview": "A famous concert pianist unhappily married to a woman who suffers from mental illness falls in love with a waitress.",
+                "vote_average": 5.3,
+                "vote_count": 11
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Balalaika",
+            "second_label": "Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",
+            "category": "Sound Recording",
+            "year": 1940,
+            "tmdb": {
+                "id": 127570,
+                "original_title": "Balalaika",
+                "title": "Balalaika",
+                "release_date": "1939-12-15",
+                "backdrop_path": "/kB8nJfZ21Dh4hkK7bb1OP0vgk8P.jpg",
+                "poster_path": "/a4NeSbpuLjZEskT92HYOYDUqYxx.jpg",
+                "overview": "A Russian prince disguised as a worker and a cafe singer secretly involved in revolutionary activities fall in love.",
+                "vote_average": 4.2,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gone with the Wind",
+            "second_label": "Samuel Goldwyn Studio Sound Department, Thomas T. Moulton, Sound Director",
+            "category": "Sound Recording",
+            "year": 1940,
+            "tmdb": {
+                "id": 770,
+                "original_title": "Gone with the Wind",
+                "title": "...E o Vento Levou",
+                "release_date": "1939-12-15",
+                "backdrop_path": "/ft8WRF2xqEwwGWa59naDUybKTAx.jpg",
+                "poster_path": "/erwBUaSZLgMo79KRcQYw0bAV9h3.jpg",
+                "overview": "Scarlett O'Hara \u00e9 uma jovem mimada que consegue tudo o que quer. No entanto, algo falta em sua vida: o amor de Ashley Wilkes, um nobre sulista que deve se casar com a sua prima Melanie. Tudo muda quando a Guerra Civil americana explode e Scarlett precisa lutar para sobreviver e manter a fazenda da fam\u00edlia.",
+                "vote_average": 7.964,
+                "vote_count": 3839
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Goodbye, Mr. Chips",
+            "second_label": "Denham Studio Sound Department, A. W. Watkins, Sound Director",
+            "category": "Sound Recording",
+            "year": 1940,
+            "tmdb": {
+                "id": 42852,
+                "original_title": "Goodbye, Mr. Chips",
+                "title": "Adeus, Sr. Chips",
+                "release_date": "1939-07-28",
+                "backdrop_path": "/d9ThwpGXncwXLGk3jNOK1Xyrv5M.jpg",
+                "poster_path": "/qjRdqKBmaHZrQAWpYkiXVnJRJXn.jpg",
+                "overview": "O filme, baseado no romande de James Hilton, conta a hist\u00f3ria do Sr. Chipping (Robert Donnar), um respeitado professor de latim, obcecado pelo trabalho. Um dia, este homem com uma vida muito discreta, conhece e se apaixona pela extrovertida Katherine (Greer Garson). Sua conviv\u00eancia com a mo\u00e7a o torna mais amig\u00e1vel e ele ganha a confian\u00e7a de seus alunos. Tudo parecia bem, mas uma trag\u00e9dia acontece e muda sua vida novamente.",
+                "vote_average": 7.4,
+                "vote_count": 108
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Great Victor Herbert",
+            "second_label": "Paramount Studio Sound Department, Loren L. Ryder, Sound Director",
+            "category": "Sound Recording",
+            "year": 1940,
+            "tmdb": {
+                "id": 218321,
+                "original_title": "The Great Victor Herbert",
+                "title": "The Great Victor Herbert",
+                "release_date": "1939-12-29",
+                "backdrop_path": "/4NIeQ6VYUkBMgbGmzNvxMmdtIZX.jpg",
+                "poster_path": "/iDNPMcq0KnYAewftT9ahTcTJgGz.jpg",
+                "overview": "In his last film assignment, portly Walter Connolly fills the title role (in more ways than one) in The Great Victor Herbert. Very little of Herbert's life story is incorporated in the screenplay (a closing title actually apologizes for the film's paucity of cold hard facts); instead, the writers allow the famed composer's works to speak for themselves. In the tradition of one of his own operettas, Herbert spends most of his time patching up the shaky marriage between tenor John Ramsey (Allan Jones) and Louise Hall (Mary Martin). Many of Herbert's most famous compositions are well in evidence, including \"Ah! Sweet Mystery of Life\", \"March of the Toys\" and \"Kiss Me Again\", the latter performed con brio by teenaged coloratura Susanna Foster. Evidently, the producers were able to secure the film rights for the Herbert songs, but not for the stage productions in which they appeared, which may explain such bizarre interpolations as having a song from Naughty Marietta.",
+                "vote_average": 5.0,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Hunchback of Notre Dame",
+            "second_label": "RKO Radio Studio Sound Department, John Aalberg, Sound Director",
+            "category": "Sound Recording",
+            "year": 1940,
+            "tmdb": {
+                "id": 31685,
+                "original_title": "The Hunchback of Notre Dame",
+                "title": "O Corcunda de Notre Dame",
+                "release_date": "1939-12-29",
+                "backdrop_path": "/mt1RJGw7LvAoIGflIqYG87u84Xq.jpg",
+                "poster_path": "/m6fsyHeqSQs4tktk9q3awgo7IzF.jpg",
+                "overview": "Esta produ\u00e7\u00e3o estrelada por Charles Laughton, que estava no auge de sua carreira quando personificou Quas\u00edmodo (o Corcunda), recebeu duas indica\u00e7\u00f5es ao Oscar, em 1939. \u00c9 provavelmente, a melhor interpreta\u00e7\u00e3o dada ao triste personagem, morador da Catedral de Notre Dame, que perambula pelos impressionantes cen\u00e1rios de Paris, criados especialmente para o filme, em Hollywood. Maureen O'Hara est\u00e1 perfeita como a linda cigana Esmeralda, pela qual Quas\u00edmodo se apaixona desesperadamente, a ponto de romper a paz da imponente e secular Catedral, aterrorizando a popula\u00e7\u00e3o.",
+                "vote_average": 7.2,
+                "vote_count": 179
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Man of Conquest",
+            "second_label": "Republic Studio Sound Department, Charles L. Lootens, Sound Director",
+            "category": "Sound Recording",
+            "year": 1940,
+            "tmdb": {
+                "id": 192939,
+                "original_title": "Man of Conquest",
+                "title": "Man of Conquest",
+                "release_date": "1939-05-15",
+                "backdrop_path": "/o6fLrKw7dVOtMs0nyX2y75pmdyk.jpg",
+                "poster_path": "/1FmkzjV57DzwwEyBuwvxDeHOuck.jpg",
+                "overview": "The story of Sam Houston, hero of the Texas revolution, statesman, and first president of the Republic of Texas.",
+                "vote_average": 5.2,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mr. Smith Goes to Washington",
+            "second_label": "Columbia Studio Sound Department, John Livadary, Sound Director",
+            "category": "Sound Recording",
+            "year": 1940,
+            "tmdb": {
+                "id": 3083,
+                "original_title": "Mr. Smith Goes to Washington",
+                "title": "A Mulher Faz o Homem",
+                "release_date": "1939-10-19",
+                "backdrop_path": "/4HagjGPF6dMGYlmx7mEfjLV2kQ0.jpg",
+                "poster_path": "/6GsIOdWlIqUmpujcgGFW7Gl9W5K.jpg",
+                "overview": "Ing\u00eanuo homem do interior (James Stewart) \u00e9 convidado para preencher uma vaga no Senado dos Estados Unidos. Aos poucos vai descobrindo o mar de lama que \u00e9 o ambiente pol\u00edtico dos comandantes de seu pa\u00eds. Tudo em que acredita est\u00e1 amea\u00e7ado. Como enfrentar esses poderosos Senadores e dirigentes pol\u00edticos?",
+                "vote_average": 7.9,
+                "vote_count": 980
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Of Mice and Men",
+            "second_label": "Hal Roach Studio Sound Department, Elmer A. Raguse, Sound Director",
+            "category": "Sound Recording",
+            "year": 1940,
+            "tmdb": {
+                "id": 51802,
+                "original_title": "Of Mice and Men",
+                "title": "Of Mice and Men",
+                "release_date": "1939-12-24",
+                "backdrop_path": "/oM2pdFnPzNIyvbM4I1MtF3YNmcS.jpg",
+                "poster_path": "/ihgGS9K8pCYdgb9SpanxoKcJ0Al.jpg",
+                "overview": "An intellectually disabled giant and his level headed guardian find work at a sadistic cowboy's ranch in depression era America.",
+                "vote_average": 7.3,
+                "vote_count": 74
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Private Lives of Elizabeth and Essex",
+            "second_label": "Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",
+            "category": "Sound Recording",
+            "year": 1940,
+            "tmdb": {
+                "id": 16902,
+                "original_title": "The Private Lives of Elizabeth and Essex",
+                "title": "Meu Reino Por um Amor",
+                "release_date": "1939-11-11",
+                "backdrop_path": "/dR1bndcisajWYbG4YvbbN6Cmu7f.jpg",
+                "poster_path": "/76UbFh03IvO8fwD8MywFpdfUCcj.jpg",
+                "overview": "Michael Curtiz realiza aqui uma produ\u00e7\u00e3o \u00e9pica e dram\u00e1tica, contando a hist\u00f3ria de um tumultuado romance entre a Rainha Elizabeth I (Bette Davis) e Robert Devereux (Errol Flynn), conde de Essex - interior da Inglaterra. Vitorioso na batalha contra a Espanha, o jovem Devereux torna-se popular e atrai a aten\u00e7\u00e3o da rainha. Ap\u00f3s outra vit\u00f3ria do her\u00f3i, agora contra a Irlanda, Devereux retorna ao pa\u00eds e exige compartilhar o trono real com Elizabeth. Que de in\u00edcio cogita um casamento, mas percebe que aquilo pode ser um desastre para a Inglaterra. Assim Elizabeth arma um plano para preservar o trono e proteger seu povo do homem que poderia ter sido rei.",
+                "vote_average": 6.2,
+                "vote_count": 79
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Rains Came",
+            "second_label": "20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director",
+            "category": "Sound Recording",
+            "year": 1940,
+            "tmdb": {
+                "id": 115109,
+                "original_title": "The Rains Came",
+                "title": "E As Chuvas Chegaram",
+                "release_date": "1939-09-15",
+                "backdrop_path": "/9RnsbF7POa9Fm5Eb8LPAdnGJQDN.jpg",
+                "poster_path": "/aQQcSrcnucDGDIXF0NmYd92tsdC.jpg",
+                "overview": "Indian aristocrat Rama Safti returns from medical training in the U.S. to give his life to the poor folk of Ranchipur. Lady Edwina and her drunken artist ex-lover Tom Ransome get in the way, but everyone shapes up when faced by earthquake, flooding, and plague.",
+                "vote_average": 5.9,
+                "vote_count": 19
+            },
+            "winner": false
+        }
+    ],
+    "Special Award": [
+        {
+            "first_label": "Gone with the Wind",
+            "second_label": "Special Award",
+            "category": "Special Award",
+            "year": 1940,
+            "tmdb": {
+                "id": 770,
+                "original_title": "Gone with the Wind",
+                "title": "...E o Vento Levou",
+                "release_date": "1939-12-15",
+                "backdrop_path": "/ft8WRF2xqEwwGWa59naDUybKTAx.jpg",
+                "poster_path": "/erwBUaSZLgMo79KRcQYw0bAV9h3.jpg",
+                "overview": "Scarlett O'Hara \u00e9 uma jovem mimada que consegue tudo o que quer. No entanto, algo falta em sua vida: o amor de Ashley Wilkes, um nobre sulista que deve se casar com a sua prima Melanie. Tudo muda quando a Guerra Civil americana explode e Scarlett precisa lutar para sobreviver e manter a fazenda da fam\u00edlia.",
+                "vote_average": 7.964,
+                "vote_count": 3839
+            },
+            "winner": true
+        }
+    ],
+    "Special Effects": [
+        {
+            "first_label": "The Rains Came",
+            "second_label": "Fred Sersen, E. H. Hansen",
+            "category": "Special Effects",
+            "year": 1940,
+            "tmdb": {
+                "id": 115109,
+                "original_title": "The Rains Came",
+                "title": "E As Chuvas Chegaram",
+                "release_date": "1939-09-15",
+                "backdrop_path": "/9RnsbF7POa9Fm5Eb8LPAdnGJQDN.jpg",
+                "poster_path": "/aQQcSrcnucDGDIXF0NmYd92tsdC.jpg",
+                "overview": "Indian aristocrat Rama Safti returns from medical training in the U.S. to give his life to the poor folk of Ranchipur. Lady Edwina and her drunken artist ex-lover Tom Ransome get in the way, but everyone shapes up when faced by earthquake, flooding, and plague.",
+                "vote_average": 5.9,
+                "vote_count": 19
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Gone with the Wind",
+            "second_label": "John R. Cosgrove, Fred Albin, Arthur Johns",
+            "category": "Special Effects",
+            "year": 1940,
+            "tmdb": {
+                "id": 770,
+                "original_title": "Gone with the Wind",
+                "title": "...E o Vento Levou",
+                "release_date": "1939-12-15",
+                "backdrop_path": "/ft8WRF2xqEwwGWa59naDUybKTAx.jpg",
+                "poster_path": "/erwBUaSZLgMo79KRcQYw0bAV9h3.jpg",
+                "overview": "Scarlett O'Hara \u00e9 uma jovem mimada que consegue tudo o que quer. No entanto, algo falta em sua vida: o amor de Ashley Wilkes, um nobre sulista que deve se casar com a sua prima Melanie. Tudo muda quando a Guerra Civil americana explode e Scarlett precisa lutar para sobreviver e manter a fazenda da fam\u00edlia.",
+                "vote_average": 7.964,
+                "vote_count": 3839
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Only Angels Have Wings",
+            "second_label": "Roy Davidson, Edwin C. Hahn",
+            "category": "Special Effects",
+            "year": 1940,
+            "tmdb": {
+                "id": 43832,
+                "original_title": "Only Angels Have Wings",
+                "title": "O Para\u00edso Infernal",
+                "release_date": "1939-05-15",
+                "backdrop_path": "/wq7KVxUAYH06cHuReBcV0Sx2kFv.jpg",
+                "poster_path": "/8xreEjvwaFtLRoRrTaEaGF7cKFS.jpg",
+                "overview": "Em um porto de com\u00e9rcio remoto sul-americano, o gerente de uma empresa de frete a\u00e9reo \u00e9 for\u00e7ado a arriscar a vida de seus pilotos para ganhar um contrato importante.  Geoff Carter (Cary Grant) \u00e9 o chefe de um servi\u00e7o de frete a\u00e9reo em ru\u00ednas precisando desesperadamente de um piloto substituto. Ele \u00e9 for\u00e7ado a contratar um aviador desacreditado (Richard Barthelmess) que chega com sua esposa (Rita Hayworth), a ex-amante de Carter. Enquanto isso, a viajante Bonnie Lee (Jean Arthur) tenta se aproximar do emocionalmente fechado Carter. O filme recebeu duas indica\u00e7\u00f5es ao Oscar. (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.3,
+                "vote_count": 216
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Private Lives of Elizabeth and Essex",
+            "second_label": "Byron Haskin, Nathan Levinson",
+            "category": "Special Effects",
+            "year": 1940,
+            "tmdb": {
+                "id": 16902,
+                "original_title": "The Private Lives of Elizabeth and Essex",
+                "title": "Meu Reino Por um Amor",
+                "release_date": "1939-11-11",
+                "backdrop_path": "/dR1bndcisajWYbG4YvbbN6Cmu7f.jpg",
+                "poster_path": "/76UbFh03IvO8fwD8MywFpdfUCcj.jpg",
+                "overview": "Michael Curtiz realiza aqui uma produ\u00e7\u00e3o \u00e9pica e dram\u00e1tica, contando a hist\u00f3ria de um tumultuado romance entre a Rainha Elizabeth I (Bette Davis) e Robert Devereux (Errol Flynn), conde de Essex - interior da Inglaterra. Vitorioso na batalha contra a Espanha, o jovem Devereux torna-se popular e atrai a aten\u00e7\u00e3o da rainha. Ap\u00f3s outra vit\u00f3ria do her\u00f3i, agora contra a Irlanda, Devereux retorna ao pa\u00eds e exige compartilhar o trono real com Elizabeth. Que de in\u00edcio cogita um casamento, mas percebe que aquilo pode ser um desastre para a Inglaterra. Assim Elizabeth arma um plano para preservar o trono e proteger seu povo do homem que poderia ter sido rei.",
+                "vote_average": 6.2,
+                "vote_count": 79
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Topper Takes a Trip",
+            "second_label": "Roy Seawright",
+            "category": "Special Effects",
+            "year": 1940,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Union Pacific",
+            "second_label": "Farciot Edouart, Gordon Jennings, Loren Ryder",
+            "category": "Special Effects",
+            "year": 1940,
+            "tmdb": {
+                "id": 43837,
+                "original_title": "Union Pacific",
+                "title": "Alian\u00e7a de A\u00e7o",
+                "release_date": "1939-05-05",
+                "backdrop_path": "/2irUfjyGZibkM2sR2AsBHTtgeuo.jpg",
+                "poster_path": "/lSk1CWl7EaHKBNMPaDWGnhRO598.jpg",
+                "overview": "Sinopse: Cecil B. DeMille nos leva de volta ao ano 1860, ent\u00e3o reconstr\u00f3i a primeira ferrovia intercontinental, a Union Pacific. Um dos \u00faltimos feitos do Presidente Lincoln foi autorizar a expans\u00e3o da Union Pacific para o oeste dos EUA. Um espet\u00e1culo real e hist\u00f3rico, que as vezes mescla as aventuras fict\u00edcias do inspetor ferrovi\u00e1rio (McCrea), a bilheteira (Stanwyck), e o melhor amigo de McCrea, Preston. Infelizmente, Preston une-se a Donlevy, que est\u00e1 empenhado a destruir a ferrovia, em nome de um cartel de pol\u00edticos corruptos. Durante um ataque ind\u00edgena, McCrea e Preston lutam lado a lado para salvar Stanwyck, ent\u00e3o o inspetor tenta convencer Preston, a tornar-se um homem honesto.",
+                "vote_average": 6.5,
+                "vote_count": 68
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Wizard of Oz",
+            "second_label": "A. Arnold Gillespie, Douglas Shearer",
+            "category": "Special Effects",
+            "year": 1940,
+            "tmdb": {
+                "id": 630,
+                "original_title": "The Wizard of Oz",
+                "title": "O M\u00e1gico de Oz",
+                "release_date": "1939-08-15",
+                "backdrop_path": "/nRsr98MFztBGm532hCVMGXV6qOp.jpg",
+                "poster_path": "/7sYIjWRzqClPK6hiqpOJOnaGUcO.jpg",
+                "overview": "Dorothy e seu cachorro Tot\u00f3 s\u00e3o levados para a terra m\u00e1gica de Oz quando um ciclone passa pela fazenda de seus av\u00f3s no Kansas. Eles viajam em dire\u00e7\u00e3o \u00e0 Cidade Esmeralda para encontrar o Mago Oz e no caminho encontram um Espantalho, que precisa de um c\u00e9rebro, um Homem de Lata sem um cora\u00e7\u00e3o e um Le\u00e3o Covarde que quer coragem. O Mago pede ao grupo que tragam a vassoura da Bruxa Malvada do Oeste a fim de ganharem sua ajuda.",
+                "vote_average": 7.6,
+                "vote_count": 5286
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Original Story)": [
+        {
+            "first_label": "Mr. Smith Goes to Washington",
+            "second_label": "Lewis R. Foster",
+            "category": "Writing (Original Story)",
+            "year": 1940,
+            "tmdb": {
+                "id": 3083,
+                "original_title": "Mr. Smith Goes to Washington",
+                "title": "A Mulher Faz o Homem",
+                "release_date": "1939-10-19",
+                "backdrop_path": "/4HagjGPF6dMGYlmx7mEfjLV2kQ0.jpg",
+                "poster_path": "/6GsIOdWlIqUmpujcgGFW7Gl9W5K.jpg",
+                "overview": "Ing\u00eanuo homem do interior (James Stewart) \u00e9 convidado para preencher uma vaga no Senado dos Estados Unidos. Aos poucos vai descobrindo o mar de lama que \u00e9 o ambiente pol\u00edtico dos comandantes de seu pa\u00eds. Tudo em que acredita est\u00e1 amea\u00e7ado. Como enfrentar esses poderosos Senadores e dirigentes pol\u00edticos?",
+                "vote_average": 7.9,
+                "vote_count": 980
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Bachelor Mother",
+            "second_label": "Felix Jackson",
+            "category": "Writing (Original Story)",
+            "year": 1940,
+            "tmdb": {
+                "id": 36488,
+                "original_title": "Bachelor Mother",
+                "title": "M\u00e3e Por Acaso",
+                "release_date": "1939-06-30",
+                "backdrop_path": "/2QL4R2BF7POan6b73Il8O1X2Yi0.jpg",
+                "poster_path": "/asVj2RpNpr9CSDYdYYu5Osg33A.jpg",
+                "overview": "Polly Parrish, a clerk at Merlin's Department Store, is mistakenly presumed to be the mother of a foundling. Outraged at Polly's unmotherly conduct, David Merlin becomes determined to keep the single woman and \"her\" baby together.",
+                "vote_average": 7.1,
+                "vote_count": 54
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Love Affair",
+            "second_label": "Mildred Cram, Leo McCarey",
+            "category": "Writing (Original Story)",
+            "year": 1940,
+            "tmdb": {
+                "id": 43739,
+                "original_title": "Love Affair",
+                "title": "Duas Vidas",
+                "release_date": "1939-04-07",
+                "backdrop_path": "/sS1W3HmhIfXbMNp6OECMHyNej6K.jpg",
+                "poster_path": "/2bKxlYgwKRQidS8S9DSPjpITPlv.jpg",
+                "overview": "Um playboy franc\u00eas e uma antiga cantora de discoteca apaixonam-se a bordo de um navio.",
+                "vote_average": 7.1,
+                "vote_count": 94
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ninotchka",
+            "second_label": "Melchior Lengyel",
+            "category": "Writing (Original Story)",
+            "year": 1940,
+            "tmdb": {
+                "id": 1859,
+                "original_title": "Ninotchka",
+                "title": "Ninotchka",
+                "release_date": "1939-11-23",
+                "backdrop_path": "/tlTuiruOW5kK8lhzct1FYrQogOy.jpg",
+                "poster_path": "/cYsSoCtlpbX60udRMKIUdjcjzbv.jpg",
+                "overview": "Nina Yakushova (Greta Garbo), comiss\u00e1ria do governo sovi\u00e9tico, \u00e9 mandada a Paris para averiguar o comportamento de tr\u00eas representantes do governo que t\u00eam como miss\u00e3o negociar uma j\u00f3ia. Aos poucos sucumbe ao capitalismo e a Leon d'Algout (Melvyn Douglas), um galanteador franc\u00eas que est\u00e1 apaixonado por ela.",
+                "vote_average": 7.5,
+                "vote_count": 364
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Young Mr. Lincoln",
+            "second_label": "Lamar Trotti",
+            "category": "Writing (Original Story)",
+            "year": 1940,
+            "tmdb": {
+                "id": 43838,
+                "original_title": "Young Mr. Lincoln",
+                "title": "A Mocidade de Lincoln",
+                "release_date": "1939-06-09",
+                "backdrop_path": "/buGNPL2zNGjPirZTMT3DwwkVdw1.jpg",
+                "poster_path": "/gVHbi2AZfWsZB10FJcwaFV59kIo.jpg",
+                "overview": "Nova Salem, Illinois, 1832. Uma fam\u00edlia que est\u00e1 viajando em uma carro\u00e7a necessita de mantimentos da loja de Abraham Lincoln e a \u00fanica coisa de valor que eles tem para trocar \u00e9 um livro sobre Direito. Abraham fala sobre suas ambi\u00e7\u00f5es com Ann, uma jovem mulher que logo morre. Ele se muda para Springfield, a nova capital do estado, e em 1937, juntamente com o amigo John T. Stuart abre um escrit\u00f3rio de advocacia. Lincoln conhece Mary Todd, uma mulher do Kentucky que, ao contr\u00e1rio de Lincoln, era rica. \u00c9 focado o primeiro caso de Lincoln, no qual primeiramente impede que Matt Clay e Adam Clay sejam linchados por terem assassinado Scrub White. Ambos os irm\u00e3os se declaram culpados, como se um protegesse o outro. Abigail Clay, a \u00fanica pessoa que poderia testemunhar, \u00e9 a m\u00e3e dos acusados e se recusa a dizer algo, pois o testemunho dela salvaria um dos filhos, mas automaticamente condenaria o outro \u00e0 forca.",
+                "vote_average": 7.2,
+                "vote_count": 157
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay)": [
+        {
+            "first_label": "Gone with the Wind",
+            "second_label": "Sidney Howard",
+            "category": "Writing (Screenplay)",
+            "year": 1940,
+            "tmdb": {
+                "id": 770,
+                "original_title": "Gone with the Wind",
+                "title": "...E o Vento Levou",
+                "release_date": "1939-12-15",
+                "backdrop_path": "/ft8WRF2xqEwwGWa59naDUybKTAx.jpg",
+                "poster_path": "/erwBUaSZLgMo79KRcQYw0bAV9h3.jpg",
+                "overview": "Scarlett O'Hara \u00e9 uma jovem mimada que consegue tudo o que quer. No entanto, algo falta em sua vida: o amor de Ashley Wilkes, um nobre sulista que deve se casar com a sua prima Melanie. Tudo muda quando a Guerra Civil americana explode e Scarlett precisa lutar para sobreviver e manter a fazenda da fam\u00edlia.",
+                "vote_average": 7.964,
+                "vote_count": 3839
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Goodbye, Mr. Chips",
+            "second_label": "R. C. Sherriff, Claudine West, Eric Maschwitz",
+            "category": "Writing (Screenplay)",
+            "year": 1940,
+            "tmdb": {
+                "id": 42852,
+                "original_title": "Goodbye, Mr. Chips",
+                "title": "Adeus, Sr. Chips",
+                "release_date": "1939-07-28",
+                "backdrop_path": "/d9ThwpGXncwXLGk3jNOK1Xyrv5M.jpg",
+                "poster_path": "/qjRdqKBmaHZrQAWpYkiXVnJRJXn.jpg",
+                "overview": "O filme, baseado no romande de James Hilton, conta a hist\u00f3ria do Sr. Chipping (Robert Donnar), um respeitado professor de latim, obcecado pelo trabalho. Um dia, este homem com uma vida muito discreta, conhece e se apaixona pela extrovertida Katherine (Greer Garson). Sua conviv\u00eancia com a mo\u00e7a o torna mais amig\u00e1vel e ele ganha a confian\u00e7a de seus alunos. Tudo parecia bem, mas uma trag\u00e9dia acontece e muda sua vida novamente.",
+                "vote_average": 7.4,
+                "vote_count": 108
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mr. Smith Goes to Washington",
+            "second_label": "Sidney Buchman",
+            "category": "Writing (Screenplay)",
+            "year": 1940,
+            "tmdb": {
+                "id": 3083,
+                "original_title": "Mr. Smith Goes to Washington",
+                "title": "A Mulher Faz o Homem",
+                "release_date": "1939-10-19",
+                "backdrop_path": "/4HagjGPF6dMGYlmx7mEfjLV2kQ0.jpg",
+                "poster_path": "/6GsIOdWlIqUmpujcgGFW7Gl9W5K.jpg",
+                "overview": "Ing\u00eanuo homem do interior (James Stewart) \u00e9 convidado para preencher uma vaga no Senado dos Estados Unidos. Aos poucos vai descobrindo o mar de lama que \u00e9 o ambiente pol\u00edtico dos comandantes de seu pa\u00eds. Tudo em que acredita est\u00e1 amea\u00e7ado. Como enfrentar esses poderosos Senadores e dirigentes pol\u00edticos?",
+                "vote_average": 7.9,
+                "vote_count": 980
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ninotchka",
+            "second_label": "Charles Brackett, Billy Wilder, Walter Reisch",
+            "category": "Writing (Screenplay)",
+            "year": 1940,
+            "tmdb": {
+                "id": 1859,
+                "original_title": "Ninotchka",
+                "title": "Ninotchka",
+                "release_date": "1939-11-23",
+                "backdrop_path": "/tlTuiruOW5kK8lhzct1FYrQogOy.jpg",
+                "poster_path": "/cYsSoCtlpbX60udRMKIUdjcjzbv.jpg",
+                "overview": "Nina Yakushova (Greta Garbo), comiss\u00e1ria do governo sovi\u00e9tico, \u00e9 mandada a Paris para averiguar o comportamento de tr\u00eas representantes do governo que t\u00eam como miss\u00e3o negociar uma j\u00f3ia. Aos poucos sucumbe ao capitalismo e a Leon d'Algout (Melvyn Douglas), um galanteador franc\u00eas que est\u00e1 apaixonado por ela.",
+                "vote_average": 7.5,
+                "vote_count": 364
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Wuthering Heights",
+            "second_label": "Charles MacArthur, Ben Hecht",
+            "category": "Writing (Screenplay)",
+            "year": 1940,
+            "tmdb": {
+                "id": 3084,
+                "original_title": "Wuthering Heights",
+                "title": "O Morro dos Ventos Uivantes",
+                "release_date": "1939-04-07",
+                "backdrop_path": "/qyl6dV5dCfoBifzSShAz8YZtrf9.jpg",
+                "poster_path": "/tA3ZaItWqhoruqhvbnJM4WWrHfF.jpg",
+                "overview": "Humilhado por seu irm\u00e3o de cria\u00e7\u00e3o Hindley (Hugh Williams), Heathcliff (Laurence Olivier) torna-se um homem rico e em busca de vingan\u00e7a. Ao mesmo tempo, por\u00e9m, o rebelde nutre grande paix\u00e3o por Cathy (Merle Oberon), irm\u00e3 do homem que deseja matar e que, durante os anos em que esteve ausente da Inglaterra, casou-se com o nobre Edgar (David Niven). Certo dia, o Sr. Earnshaw retorna de viagem da cidade, trazendo consigo o pequeno \u00f3rf\u00e3o chamado Heathcliff. Por\u00e9m, o filho de Earnshaw, Hindley, sente ci\u00fames do garoto, enquanto Catherine, sua filha, torna-se a paix\u00e3o infantil e logo o amor de Heathcliff. As coisas mudam quando os pais dos garotos morrem, e Heathcliff come\u00e7a a ser tratado como mero empregado. (e 12 - Estimado 12 Anos)",
+                "vote_average": 7.2,
+                "vote_count": 250
+            },
+            "winner": false
+        }
+    ]
+}

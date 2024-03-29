@@ -1,0 +1,1552 @@
+{
+    "Actor": [
+        {
+            "first_label": "Victor McLaglen",
+            "second_label": "The Informer",
+            "category": "Actor",
+            "year": 1936,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Clark Gable",
+            "second_label": "Mutiny on the Bounty",
+            "category": "Actor",
+            "year": 1936,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Charles Laughton",
+            "second_label": "Mutiny on the Bounty",
+            "category": "Actor",
+            "year": 1936,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Paul Muni",
+            "second_label": "Black Fury",
+            "category": "Actor",
+            "year": 1936,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Franchot Tone",
+            "second_label": "Mutiny on the Bounty",
+            "category": "Actor",
+            "year": 1936,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress": [
+        {
+            "first_label": "Bette Davis",
+            "second_label": "Dangerous",
+            "category": "Actress",
+            "year": 1936,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Elisabeth Bergner",
+            "second_label": "Escape Me Never",
+            "category": "Actress",
+            "year": 1936,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Claudette Colbert",
+            "second_label": "Private Worlds",
+            "category": "Actress",
+            "year": 1936,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Katharine Hepburn",
+            "second_label": "Alice Adams",
+            "category": "Actress",
+            "year": 1936,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Miriam Hopkins",
+            "second_label": "Becky Sharp",
+            "category": "Actress",
+            "year": 1936,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Merle Oberon",
+            "second_label": "The Dark Angel",
+            "category": "Actress",
+            "year": 1936,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction": [
+        {
+            "first_label": "The Dark Angel",
+            "second_label": "Richard Day",
+            "category": "Art Direction",
+            "year": 1936,
+            "tmdb": {
+                "id": 120977,
+                "original_title": "The Dark Angel",
+                "title": "The Dark Angel",
+                "release_date": "1935-09-08",
+                "backdrop_path": "/w3HnykWCdBrI1s24Q5Vj0gh2eCV.jpg",
+                "poster_path": "/m3wi7lWEWVhbENCBOrEx7RnWqQl.jpg",
+                "overview": "Kitty Vane, Alan Trent, and Gerald Shannon have been inseparable friends since childhood. Kitty has always known she would marry one of them, but has waited until the beginning of World War I before finally choosing Alan. Gerald graciously gives them his blessing. Then, Gerald and Alan go to war. Angered over a misunderstanding involving Alan and Kitty, Gerald sends Alan on a dangerous mission that will change all their lives forever.",
+                "vote_average": 6.1,
+                "vote_count": 16
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Lives of a Bengal Lancer",
+            "second_label": "Hans Dreier, Roland Anderson",
+            "category": "Art Direction",
+            "year": 1936,
+            "tmdb": {
+                "id": 43898,
+                "original_title": "The Lives of a Bengal Lancer",
+                "title": "The Lives of a Bengal Lancer",
+                "release_date": "1935-01-11",
+                "backdrop_path": "/w7r1wv8ptSEgHu2IsIjuHcnWcrL.jpg",
+                "poster_path": "/tPHImK7LhrEkidI0q1CyUsZcRpl.jpg",
+                "overview": "In the Northwest Frontier of India, the 41st Bengal Lancers leaded by the harsh Colonel Tom Stone are having trouble with the rebellious leader Mohammed Khan. After two casualties, the experienced but insubordinate Lieutenant Alan McGregor receives as replacement, the arrogant Lieutenant Forsythe and the immature son of Colonel Stone, Lieutenant Donald Stone. With the intention to prove that he will not have any privilege in the troop, the reception of Colonel Stone to his son is absolutely cold, but he becomes the prot\u00e9g\u00e9 of McGregor. When Lieutenant Stone is kidnapped by Mohammed Khan, McGregor and Forsythe disobey the direct order of their commander, disguise as Indian peddlers and go to Khan's fortress to attempt to rescue their friend.",
+                "vote_average": 6.6,
+                "vote_count": 36
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Top Hat",
+            "second_label": "Van Nest Polglase, Carroll Clark",
+            "category": "Art Direction",
+            "year": 1936,
+            "tmdb": {
+                "id": 3080,
+                "original_title": "Top Hat",
+                "title": "O Picolino",
+                "release_date": "1935-08-29",
+                "backdrop_path": "/tnPgH5j3rPRajvF1iUqLH9WgWqz.jpg",
+                "poster_path": "/7we4vnoODrF7dl3AYlrkOkh53vW.jpg",
+                "overview": "Um dan\u00e7arino americano ensaia um n\u00famero de sapateado em seu quarto de hotel em Londres e acaba incomodando a vizinha do quarto de baixo. Logo ambos come\u00e7am a se apaixonar. Mas um certo mal-entendido pode colocar tudo a perder...",
+                "vote_average": 7.3,
+                "vote_count": 276
+            },
+            "winner": false
+        }
+    ],
+    "Assistant Director": [
+        {
+            "first_label": "The Lives of a Bengal Lancer",
+            "second_label": "Clem Beauchamp, Paul Wing",
+            "category": "Assistant Director",
+            "year": 1936,
+            "tmdb": {
+                "id": 43898,
+                "original_title": "The Lives of a Bengal Lancer",
+                "title": "The Lives of a Bengal Lancer",
+                "release_date": "1935-01-11",
+                "backdrop_path": "/w7r1wv8ptSEgHu2IsIjuHcnWcrL.jpg",
+                "poster_path": "/tPHImK7LhrEkidI0q1CyUsZcRpl.jpg",
+                "overview": "In the Northwest Frontier of India, the 41st Bengal Lancers leaded by the harsh Colonel Tom Stone are having trouble with the rebellious leader Mohammed Khan. After two casualties, the experienced but insubordinate Lieutenant Alan McGregor receives as replacement, the arrogant Lieutenant Forsythe and the immature son of Colonel Stone, Lieutenant Donald Stone. With the intention to prove that he will not have any privilege in the troop, the reception of Colonel Stone to his son is absolutely cold, but he becomes the prot\u00e9g\u00e9 of McGregor. When Lieutenant Stone is kidnapped by Mohammed Khan, McGregor and Forsythe disobey the direct order of their commander, disguise as Indian peddlers and go to Khan's fortress to attempt to rescue their friend.",
+                "vote_average": 6.6,
+                "vote_count": 36
+            },
+            "winner": true
+        },
+        {
+            "first_label": "David Copperfield",
+            "second_label": "Joseph Newman",
+            "category": "Assistant Director",
+            "year": 1936,
+            "tmdb": {
+                "id": 43899,
+                "original_title": "The Personal History, Adventures, Experience, & Observation of David Copperfield the Younger",
+                "title": "David Copperfield",
+                "release_date": "1935-01-18",
+                "backdrop_path": "/dF4bK5tMVo1AeyPBOHGElECFsYu.jpg",
+                "poster_path": "/4MtgfnOvnUioz04Yp4Km4JGUOCQ.jpg",
+                "overview": "Charles Dickens' timeless tale of an ordinary young man who lives an extraordinary life, filled with people who help and hinder him.",
+                "vote_average": 6.5,
+                "vote_count": 60
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Les Miserables",
+            "second_label": "Eric Stacey",
+            "category": "Assistant Director",
+            "year": 1936,
+            "tmdb": {
+                "id": 43893,
+                "original_title": "Les Mis\u00e9rables",
+                "title": "Les Mis\u00e9rables",
+                "release_date": "1935-04-20",
+                "backdrop_path": "/l6A4m3IhK8OSScpo441tyn8or8L.jpg",
+                "poster_path": "/9hSPMlFppQBCcDDECA0TgTL0F8k.jpg",
+                "overview": "In 19th century France, Jean Valjean, a man imprisoned for stealing bread, must flee a relentless policeman named Javert. The pursuit consumes both men's lives, and soon Valjean finds himself in the midst of the student revolutions in France.",
+                "vote_average": 7.2,
+                "vote_count": 49
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Midsummer Night's Dream",
+            "second_label": "Sherry Shourds",
+            "category": "Assistant Director",
+            "year": 1936,
+            "tmdb": {
+                "id": 19075,
+                "original_title": "A Midsummer Night's Dream",
+                "title": "Sonho de uma Noite de Ver\u00e3o",
+                "release_date": "1935-10-09",
+                "backdrop_path": "/n2monim3nSKBGVBZjXIhy5WwAve.jpg",
+                "poster_path": "/jIdjacF7a1KTSWcheNEo6qFEY8K.jpg",
+                "overview": "Four young people escape Athens to a forest where the king and queen of the fairies are quarreling, while meanwhile, a troupe of amateur actors rehearses a play. When the fairy Puck uses a magic flower to make people fall in love, the whole thing becomes a little bit confused...",
+                "vote_average": 6.4,
+                "vote_count": 38
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "A Midsummer Night's Dream",
+            "second_label": "Hal Mohr",
+            "category": "Cinematography",
+            "year": 1936,
+            "tmdb": {
+                "id": 19075,
+                "original_title": "A Midsummer Night's Dream",
+                "title": "Sonho de uma Noite de Ver\u00e3o",
+                "release_date": "1935-10-09",
+                "backdrop_path": "/n2monim3nSKBGVBZjXIhy5WwAve.jpg",
+                "poster_path": "/jIdjacF7a1KTSWcheNEo6qFEY8K.jpg",
+                "overview": "Four young people escape Athens to a forest where the king and queen of the fairies are quarreling, while meanwhile, a troupe of amateur actors rehearses a play. When the fairy Puck uses a magic flower to make people fall in love, the whole thing becomes a little bit confused...",
+                "vote_average": 6.4,
+                "vote_count": 38
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Barbary Coast",
+            "second_label": "Ray June",
+            "category": "Cinematography",
+            "year": 1936,
+            "tmdb": {
+                "id": 76499,
+                "original_title": "Barbary Coast",
+                "title": "Duas Almas se Encontram",
+                "release_date": "1935-10-13",
+                "backdrop_path": "/jjE8o214f2Xn6gAGK3YfXH9XKbG.jpg",
+                "poster_path": "/hkUzk3WBI11LYgn1qsWGTsFlLOL.jpg",
+                "overview": "Numa corrida do ouro californiano que atraiu aventureiros dos quatro cantos do mundo, chegam por terra ou por mar. Na v\u00e9spera do ano novo em S\u00e3o Francisco chega um barco com pessoas s\u00f3 com um pensamento: ouro, mas igualmente est\u00e1 a bordo Marcus Aurelius Cobb (Frank Craven), um jornalista que pretende fundar um jornal na cidade, e Mary Rutledge (Miriam Hopkins), que veio da cidade de Nova Iorque.\r Mary quer se casar muito brevemente com Dan Morgan, que foi respons\u00e1vel pela greve no Vale dos Colonos, mas ela tem uma desagrad\u00e1vel surpresa ao ter conhecimento que o mesmo vale e Dan j\u00e1 n\u00e3o existem. Uma hist\u00f3ria que fala da febre do ouro e das diferentes maneiras que o homem com sede de riqueza arranja para o conseguir.",
+                "vote_average": 6.5,
+                "vote_count": 23
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Crusades",
+            "second_label": "Victor Milner",
+            "category": "Cinematography",
+            "year": 1936,
+            "tmdb": {
+                "id": 58905,
+                "original_title": "The Crusades",
+                "title": "As Cruzadas",
+                "release_date": "1935-08-21",
+                "backdrop_path": "/rdUxISpYYACfQRHDVDJ91gc0ilB.jpg",
+                "poster_path": "/ecuUhbDcNHqGQCvDgUVxULfdwKj.jpg",
+                "overview": "King Richard the Lionhearted launches a crusade to preserve Christianity in Jerusalem.",
+                "vote_average": 6.2,
+                "vote_count": 13
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Les Miserables",
+            "second_label": "Gregg Toland",
+            "category": "Cinematography",
+            "year": 1936,
+            "tmdb": {
+                "id": 43893,
+                "original_title": "Les Mis\u00e9rables",
+                "title": "Les Mis\u00e9rables",
+                "release_date": "1935-04-20",
+                "backdrop_path": "/l6A4m3IhK8OSScpo441tyn8or8L.jpg",
+                "poster_path": "/9hSPMlFppQBCcDDECA0TgTL0F8k.jpg",
+                "overview": "In 19th century France, Jean Valjean, a man imprisoned for stealing bread, must flee a relentless policeman named Javert. The pursuit consumes both men's lives, and soon Valjean finds himself in the midst of the student revolutions in France.",
+                "vote_average": 7.2,
+                "vote_count": 49
+            },
+            "winner": false
+        }
+    ],
+    "Dance Direction": [
+        {
+            "first_label": "Broadway Melody of 1936",
+            "second_label": "\"I've Got a Feeling You're Fooling\" from \"Broadway Melody of 1936\"",
+            "category": "Dance Direction",
+            "year": 1936,
+            "tmdb": {
+                "id": 43890,
+                "original_title": "Broadway Melody of 1936",
+                "title": "Melodia da Broadway de 1936",
+                "release_date": "1935-09-18",
+                "backdrop_path": "/eNGptmROfwYxukYh8OklqhxrR4j.jpg",
+                "poster_path": "/bF20h8jBITmSnc6lqmDXwjGyt7J.jpg",
+                "overview": "Dotada de uma voz surpreendente e admirada por seu carisma, Irene Foster (Eleanor Powell), sonha em brilhar nas noites da Broadway.\r Seguindo seu instinto e seu cora\u00e7\u00e3o, Irene se muda para a Broadway na esperan\u00e7a de que seu amor de inf\u00e2ncia, agora produtor, Robert Gordon (Robert Taylor), a reconhe\u00e7a.\r Robert, por outro lado, est\u00e1 muito ocupado com um jornalista fofoqueiro, o colunista Bert Keeler (Jack Benny), e acaba n\u00e3o a notando. Kitty (Una Merkel), secret\u00e1ria de Robert, no entanto, percebe o talento da mo\u00e7a e planeja, junto com Irene, uma situa\u00e7\u00e3o onde Robert note n\u00e3o s\u00f3 sua voz, mas tamb\u00e9m todo o seu charme e encanto.\r Melodia da Broadway, al\u00e9m de indicado a dois Oscars, Melhor Fotografia e Melhor Roteiro Original, foi vencedor do Oscar de Melhor Dire\u00e7\u00e3o.\r Este filme ainda foi o principal respons\u00e1vel pela grande ascen\u00e7\u00e3o da atriz Eleanor Powell em Hollywood, e fez das m\u00fasicas You Are My Lucky Star e Brodway Rhythm os maiores sucessos da \u00e9poca.",
+                "vote_average": 6.4,
+                "vote_count": 17
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Folies Bergere",
+            "second_label": "\"Straw Hat\" from \"Folies Bergere\"",
+            "category": "Dance Direction",
+            "year": 1936,
+            "tmdb": {
+                "id": 174988,
+                "original_title": "Folies Berg\u00e8re",
+                "title": "Folies Berg\u00e8re",
+                "release_date": "1935-02-22",
+                "backdrop_path": "/xM0PB6hghVY9L7MCbwWUvmFNbLd.jpg",
+                "poster_path": "/aBRvZLaLW9d5IX9m8zdGlHugohG.jpg",
+                "overview": "An entertainer impersonates a look-alike banker, causing comic confusion for wife and girlfriend.",
+                "vote_average": 5.2,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gold Diggers of 1935",
+            "second_label": "\"Lullaby of Broadway\" from \"Gold Diggers of 1935\"",
+            "category": "Dance Direction",
+            "year": 1936,
+            "tmdb": {
+                "id": 43892,
+                "original_title": "Gold Diggers of 1935",
+                "title": "Gold Diggers of 1935",
+                "release_date": "1935-03-15",
+                "backdrop_path": "/sw8usJoEQevFcF8WLV09zfC82Bp.jpg",
+                "poster_path": "/utP30vhi3le9X3STgoUIKaOLIqG.jpg",
+                "overview": "Romance strikes when a vacationing millionairess and her daughter and son spend their vacation at a posh New England resort.",
+                "vote_average": 6.4,
+                "vote_count": 43
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gold Diggers of 1935",
+            "second_label": "\"The Words Are In My Heart\" from \"Gold Diggers of 1935\"",
+            "category": "Dance Direction",
+            "year": 1936,
+            "tmdb": {
+                "id": 43892,
+                "original_title": "Gold Diggers of 1935",
+                "title": "Gold Diggers of 1935",
+                "release_date": "1935-03-15",
+                "backdrop_path": "/sw8usJoEQevFcF8WLV09zfC82Bp.jpg",
+                "poster_path": "/utP30vhi3le9X3STgoUIKaOLIqG.jpg",
+                "overview": "Romance strikes when a vacationing millionairess and her daughter and son spend their vacation at a posh New England resort.",
+                "vote_average": 6.4,
+                "vote_count": 43
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Go into Your Dance",
+            "second_label": "\"Latin from Manhattan\" from \"Go into Your Dance\"",
+            "category": "Dance Direction",
+            "year": 1936,
+            "tmdb": {
+                "id": 223361,
+                "original_title": "Go Into Your Dance",
+                "title": "Go Into Your Dance",
+                "release_date": "1935-04-20",
+                "backdrop_path": "/yJHIg10aMpGY12zfBHwt3M8iHGO.jpg",
+                "poster_path": "/trLYJ5RwmIzHaNtJUsdrhGm3JVJ.jpg",
+                "overview": "An irresponsible Broadway star gets mixed up with gambling and gangsters.",
+                "vote_average": 7.5,
+                "vote_count": 2
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Broadway Hostess",
+            "second_label": "\"Playboy from Paree\" from \"Broadway Hostess\"",
+            "category": "Dance Direction",
+            "year": 1936,
+            "tmdb": {
+                "id": 173800,
+                "original_title": "Broadway Hostess",
+                "title": "Broadway Hostess",
+                "release_date": "1935-12-07",
+                "backdrop_path": "/aF3JJknp31dD8UfSPRISCXDz9Pw.jpg",
+                "poster_path": "/wPTBIKQ9awRXJMrEC4xuxwvnnYL.jpg",
+                "overview": "Melodrama about the professional and romantic problems of an aspiring singer.",
+                "vote_average": 5.0,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "King of Burlesque",
+            "second_label": "\"Lovely Lady\" from \"King of Burlesque\"",
+            "category": "Dance Direction",
+            "year": 1936,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "King of Burlesque",
+            "second_label": "\"Too Good To Be True\" from \"King of Burlesque\"",
+            "category": "Dance Direction",
+            "year": 1936,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Top Hat",
+            "second_label": "\"Piccolino\" from \"Top Hat\"",
+            "category": "Dance Direction",
+            "year": 1936,
+            "tmdb": {
+                "id": 3080,
+                "original_title": "Top Hat",
+                "title": "O Picolino",
+                "release_date": "1935-08-29",
+                "backdrop_path": "/tnPgH5j3rPRajvF1iUqLH9WgWqz.jpg",
+                "poster_path": "/7we4vnoODrF7dl3AYlrkOkh53vW.jpg",
+                "overview": "Um dan\u00e7arino americano ensaia um n\u00famero de sapateado em seu quarto de hotel em Londres e acaba incomodando a vizinha do quarto de baixo. Logo ambos come\u00e7am a se apaixonar. Mas um certo mal-entendido pode colocar tudo a perder...",
+                "vote_average": 7.3,
+                "vote_count": 276
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Top Hat",
+            "second_label": "\"Top Hat, White Tie, and Tails\" from \"Top Hat\"",
+            "category": "Dance Direction",
+            "year": 1936,
+            "tmdb": {
+                "id": 3080,
+                "original_title": "Top Hat",
+                "title": "O Picolino",
+                "release_date": "1935-08-29",
+                "backdrop_path": "/tnPgH5j3rPRajvF1iUqLH9WgWqz.jpg",
+                "poster_path": "/7we4vnoODrF7dl3AYlrkOkh53vW.jpg",
+                "overview": "Um dan\u00e7arino americano ensaia um n\u00famero de sapateado em seu quarto de hotel em Londres e acaba incomodando a vizinha do quarto de baixo. Logo ambos come\u00e7am a se apaixonar. Mas um certo mal-entendido pode colocar tudo a perder...",
+                "vote_average": 7.3,
+                "vote_count": 276
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Big Broadcast of 1936",
+            "second_label": "\"It's the Animal in Me\" from \"Big Broadcast of 1936\"",
+            "category": "Dance Direction",
+            "year": 1936,
+            "tmdb": {
+                "id": 197491,
+                "original_title": "The Big Broadcast of 1936",
+                "title": "The Big Broadcast of 1936",
+                "release_date": "1935-09-20",
+                "backdrop_path": "/hRB7tqKD2qHujWSP9b5dlJjeJ8c.jpg",
+                "poster_path": "/wkw0Ps1k1sy0vjNOqvS14El9Car.jpg",
+                "overview": "Two-bit radio station owner Spud Miller doubles as the station's sole announcer. On the verge of bankruptcy, Spud is receptive to the wacky notions of George and Gracie, who've just invented a television device that can pick up and transmit any signal, any time, anywhere.",
+                "vote_average": 5.4,
+                "vote_count": 7
+            },
+            "winner": false
+        },
+        {
+            "first_label": "All the King's Horses",
+            "second_label": "\"Viennese Waltz\" from \"All the King's Horses\"",
+            "category": "Dance Direction",
+            "year": 1936,
+            "tmdb": {
+                "id": 218403,
+                "original_title": "All the King's Horses",
+                "title": "All the King's Horses",
+                "release_date": "1935-02-22",
+                "backdrop_path": "/wuZirUcw3sxNjyAYn3JH3GtyPW8.jpg",
+                "poster_path": "/z9pJaM8ShB70KqmLSREeKGCxv8T.jpg",
+                "overview": "A Hollywood actor visits a mythical country where he looks like the king and confuses the queen.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "She",
+            "second_label": "\"Hall of Kings\" from \"She\"",
+            "category": "Dance Direction",
+            "year": 1936,
+            "tmdb": {
+                "id": 60566,
+                "original_title": "She",
+                "title": "She",
+                "release_date": "1935-07-12",
+                "backdrop_path": "/uqAnz90UoQt9ls0297zpj9GKuv9.jpg",
+                "poster_path": "/ziqvOkl1pfOxx3SH8EElx9V1lZo.jpg",
+                "overview": "Leo Vincey, told by his dying uncle of a lost land visited 500 years ago by his ancestor, heads out with family friend Horace Holly to try to discover the land and its secret of immortality, said to be contained within a mystic fire. Picking up Tanya, a guide's daughter, in the frozen Russian arctic, they stumble upon Kor, revealed to be a hidden civilization ruled over by an immortal queen, called She, who believes Vincey is her long-lost lover John Vincey, Leo's ancestor.",
+                "vote_average": 5.4,
+                "vote_count": 25
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "The Informer",
+            "second_label": "John Ford",
+            "category": "Directing",
+            "year": 1936,
+            "tmdb": {
+                "id": 43896,
+                "original_title": "The Informer",
+                "title": "O Delator",
+                "release_date": "1935-05-09",
+                "backdrop_path": "/a9KoSHzoT8PLWYoFDBgjDdp1Z78.jpg",
+                "poster_path": "/gFsyHdVg93uPMZc64kCaCR3Y7Vn.jpg",
+                "overview": "Gypo Nolan is a former Irish Republican Army man who drowns his sorrows in the bottle. He's desperate to escape his bleak Dublin life and start over in America with his girlfriend. So when British authorities advertise a reward for information about his best friend, current IRA member Frankie, Gypo cooperates. Now Gypo can buy two tickets on a boat bound for the States, but can he escape the overwhelming guilt he feels for betraying his buddy?",
+                "vote_average": 6.7,
+                "vote_count": 92
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Captain Blood",
+            "second_label": "Michael Curtiz",
+            "category": "Directing",
+            "year": 1936,
+            "tmdb": {
+                "id": 16905,
+                "original_title": "Captain Blood",
+                "title": "Capit\u00e3o Blood",
+                "release_date": "1935-12-26",
+                "backdrop_path": "/liv4C6089TmYVJUZ9ntXKugQMkd.jpg",
+                "poster_path": "/Ae0ltppMl66pAH1odgDU1C4H1iq.jpg",
+                "overview": "O m\u00e9dico irland\u00eas Peter Blood (Errol Flynn)\u00e9 injustamente acusado de um crime e sentenciado \u00e0 escravid\u00e3o no Caribe. Ele termina por se tornar um pirata e se apaixona pela filha do governador, interpretada por Olivia de Havilland.",
+                "vote_average": 7.2,
+                "vote_count": 214
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Lives of a Bengal Lancer",
+            "second_label": "Henry Hathaway",
+            "category": "Directing",
+            "year": 1936,
+            "tmdb": {
+                "id": 43898,
+                "original_title": "The Lives of a Bengal Lancer",
+                "title": "The Lives of a Bengal Lancer",
+                "release_date": "1935-01-11",
+                "backdrop_path": "/w7r1wv8ptSEgHu2IsIjuHcnWcrL.jpg",
+                "poster_path": "/tPHImK7LhrEkidI0q1CyUsZcRpl.jpg",
+                "overview": "In the Northwest Frontier of India, the 41st Bengal Lancers leaded by the harsh Colonel Tom Stone are having trouble with the rebellious leader Mohammed Khan. After two casualties, the experienced but insubordinate Lieutenant Alan McGregor receives as replacement, the arrogant Lieutenant Forsythe and the immature son of Colonel Stone, Lieutenant Donald Stone. With the intention to prove that he will not have any privilege in the troop, the reception of Colonel Stone to his son is absolutely cold, but he becomes the prot\u00e9g\u00e9 of McGregor. When Lieutenant Stone is kidnapped by Mohammed Khan, McGregor and Forsythe disobey the direct order of their commander, disguise as Indian peddlers and go to Khan's fortress to attempt to rescue their friend.",
+                "vote_average": 6.6,
+                "vote_count": 36
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mutiny on the Bounty",
+            "second_label": "Frank Lloyd",
+            "category": "Directing",
+            "year": 1936,
+            "tmdb": {
+                "id": 12311,
+                "original_title": "Mutiny on the Bounty",
+                "title": "O Grande Motim",
+                "release_date": "1935-11-22",
+                "backdrop_path": "/806U8drrogLJjU6GRse1QOvD67T.jpg",
+                "poster_path": "/wOiAo89JgK336SfaVm4zOX00W0f.jpg",
+                "overview": "O marinheiro Roger Byam (Franchot Tone) acompanha o capit\u00e3o Bligh (Charles Laughton) e Fletcher Christian (Clark Gable) em uma viagem de navio ao Taiti. Bligh mostra ser um verdadeiro tirano e, depois de seis prazeirosos meses no Taiti, Christian lidera um motim entre a equipe para voltarem \u00e0 casa.",
+                "vote_average": 7.4,
+                "vote_count": 311
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "A Midsummer Night's Dream",
+            "second_label": "Ralph Dawson",
+            "category": "Film Editing",
+            "year": 1936,
+            "tmdb": {
+                "id": 19075,
+                "original_title": "A Midsummer Night's Dream",
+                "title": "Sonho de uma Noite de Ver\u00e3o",
+                "release_date": "1935-10-09",
+                "backdrop_path": "/n2monim3nSKBGVBZjXIhy5WwAve.jpg",
+                "poster_path": "/jIdjacF7a1KTSWcheNEo6qFEY8K.jpg",
+                "overview": "Four young people escape Athens to a forest where the king and queen of the fairies are quarreling, while meanwhile, a troupe of amateur actors rehearses a play. When the fairy Puck uses a magic flower to make people fall in love, the whole thing becomes a little bit confused...",
+                "vote_average": 6.4,
+                "vote_count": 38
+            },
+            "winner": true
+        },
+        {
+            "first_label": "David Copperfield",
+            "second_label": "Robert J. Kern",
+            "category": "Film Editing",
+            "year": 1936,
+            "tmdb": {
+                "id": 43899,
+                "original_title": "The Personal History, Adventures, Experience, & Observation of David Copperfield the Younger",
+                "title": "David Copperfield",
+                "release_date": "1935-01-18",
+                "backdrop_path": "/dF4bK5tMVo1AeyPBOHGElECFsYu.jpg",
+                "poster_path": "/4MtgfnOvnUioz04Yp4Km4JGUOCQ.jpg",
+                "overview": "Charles Dickens' timeless tale of an ordinary young man who lives an extraordinary life, filled with people who help and hinder him.",
+                "vote_average": 6.5,
+                "vote_count": 60
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Informer",
+            "second_label": "George Hively",
+            "category": "Film Editing",
+            "year": 1936,
+            "tmdb": {
+                "id": 43896,
+                "original_title": "The Informer",
+                "title": "O Delator",
+                "release_date": "1935-05-09",
+                "backdrop_path": "/a9KoSHzoT8PLWYoFDBgjDdp1Z78.jpg",
+                "poster_path": "/gFsyHdVg93uPMZc64kCaCR3Y7Vn.jpg",
+                "overview": "Gypo Nolan is a former Irish Republican Army man who drowns his sorrows in the bottle. He's desperate to escape his bleak Dublin life and start over in America with his girlfriend. So when British authorities advertise a reward for information about his best friend, current IRA member Frankie, Gypo cooperates. Now Gypo can buy two tickets on a boat bound for the States, but can he escape the overwhelming guilt he feels for betraying his buddy?",
+                "vote_average": 6.7,
+                "vote_count": 92
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Les Miserables",
+            "second_label": "Barbara McLean",
+            "category": "Film Editing",
+            "year": 1936,
+            "tmdb": {
+                "id": 43893,
+                "original_title": "Les Mis\u00e9rables",
+                "title": "Les Mis\u00e9rables",
+                "release_date": "1935-04-20",
+                "backdrop_path": "/l6A4m3IhK8OSScpo441tyn8or8L.jpg",
+                "poster_path": "/9hSPMlFppQBCcDDECA0TgTL0F8k.jpg",
+                "overview": "In 19th century France, Jean Valjean, a man imprisoned for stealing bread, must flee a relentless policeman named Javert. The pursuit consumes both men's lives, and soon Valjean finds himself in the midst of the student revolutions in France.",
+                "vote_average": 7.2,
+                "vote_count": 49
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Lives of a Bengal Lancer",
+            "second_label": "Ellsworth Hoagland",
+            "category": "Film Editing",
+            "year": 1936,
+            "tmdb": {
+                "id": 43898,
+                "original_title": "The Lives of a Bengal Lancer",
+                "title": "The Lives of a Bengal Lancer",
+                "release_date": "1935-01-11",
+                "backdrop_path": "/w7r1wv8ptSEgHu2IsIjuHcnWcrL.jpg",
+                "poster_path": "/tPHImK7LhrEkidI0q1CyUsZcRpl.jpg",
+                "overview": "In the Northwest Frontier of India, the 41st Bengal Lancers leaded by the harsh Colonel Tom Stone are having trouble with the rebellious leader Mohammed Khan. After two casualties, the experienced but insubordinate Lieutenant Alan McGregor receives as replacement, the arrogant Lieutenant Forsythe and the immature son of Colonel Stone, Lieutenant Donald Stone. With the intention to prove that he will not have any privilege in the troop, the reception of Colonel Stone to his son is absolutely cold, but he becomes the prot\u00e9g\u00e9 of McGregor. When Lieutenant Stone is kidnapped by Mohammed Khan, McGregor and Forsythe disobey the direct order of their commander, disguise as Indian peddlers and go to Khan's fortress to attempt to rescue their friend.",
+                "vote_average": 6.6,
+                "vote_count": 36
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mutiny on the Bounty",
+            "second_label": "Margaret Booth",
+            "category": "Film Editing",
+            "year": 1936,
+            "tmdb": {
+                "id": 12311,
+                "original_title": "Mutiny on the Bounty",
+                "title": "O Grande Motim",
+                "release_date": "1935-11-22",
+                "backdrop_path": "/806U8drrogLJjU6GRse1QOvD67T.jpg",
+                "poster_path": "/wOiAo89JgK336SfaVm4zOX00W0f.jpg",
+                "overview": "O marinheiro Roger Byam (Franchot Tone) acompanha o capit\u00e3o Bligh (Charles Laughton) e Fletcher Christian (Clark Gable) em uma viagem de navio ao Taiti. Bligh mostra ser um verdadeiro tirano e, depois de seis prazeirosos meses no Taiti, Christian lidera um motim entre a equipe para voltarem \u00e0 casa.",
+                "vote_average": 7.4,
+                "vote_count": 311
+            },
+            "winner": false
+        }
+    ],
+    "Music (Scoring)": [
+        {
+            "first_label": "The Informer",
+            "second_label": "RKO Radio Studio Music Department, Max Steiner, head of department  (Score by Max Steiner)",
+            "category": "Music (Scoring)",
+            "year": 1936,
+            "tmdb": {
+                "id": 43896,
+                "original_title": "The Informer",
+                "title": "O Delator",
+                "release_date": "1935-05-09",
+                "backdrop_path": "/a9KoSHzoT8PLWYoFDBgjDdp1Z78.jpg",
+                "poster_path": "/gFsyHdVg93uPMZc64kCaCR3Y7Vn.jpg",
+                "overview": "Gypo Nolan is a former Irish Republican Army man who drowns his sorrows in the bottle. He's desperate to escape his bleak Dublin life and start over in America with his girlfriend. So when British authorities advertise a reward for information about his best friend, current IRA member Frankie, Gypo cooperates. Now Gypo can buy two tickets on a boat bound for the States, but can he escape the overwhelming guilt he feels for betraying his buddy?",
+                "vote_average": 6.7,
+                "vote_count": 92
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Captain Blood",
+            "second_label": "Warner Bros.-First National Studio Music Department, Leo Forbstein, head of department  (Score by Erich Wolfgang Korngold)",
+            "category": "Music (Scoring)",
+            "year": 1936,
+            "tmdb": {
+                "id": 16905,
+                "original_title": "Captain Blood",
+                "title": "Capit\u00e3o Blood",
+                "release_date": "1935-12-26",
+                "backdrop_path": "/liv4C6089TmYVJUZ9ntXKugQMkd.jpg",
+                "poster_path": "/Ae0ltppMl66pAH1odgDU1C4H1iq.jpg",
+                "overview": "O m\u00e9dico irland\u00eas Peter Blood (Errol Flynn)\u00e9 injustamente acusado de um crime e sentenciado \u00e0 escravid\u00e3o no Caribe. Ele termina por se tornar um pirata e se apaixona pela filha do governador, interpretada por Olivia de Havilland.",
+                "vote_average": 7.2,
+                "vote_count": 214
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mutiny on the Bounty",
+            "second_label": "Metro-Goldwyn-Mayer Studio Music Department, Nat W. Finston, head of department  (Score by Herbert Stothart)",
+            "category": "Music (Scoring)",
+            "year": 1936,
+            "tmdb": {
+                "id": 12311,
+                "original_title": "Mutiny on the Bounty",
+                "title": "O Grande Motim",
+                "release_date": "1935-11-22",
+                "backdrop_path": "/806U8drrogLJjU6GRse1QOvD67T.jpg",
+                "poster_path": "/wOiAo89JgK336SfaVm4zOX00W0f.jpg",
+                "overview": "O marinheiro Roger Byam (Franchot Tone) acompanha o capit\u00e3o Bligh (Charles Laughton) e Fletcher Christian (Clark Gable) em uma viagem de navio ao Taiti. Bligh mostra ser um verdadeiro tirano e, depois de seis prazeirosos meses no Taiti, Christian lidera um motim entre a equipe para voltarem \u00e0 casa.",
+                "vote_average": 7.4,
+                "vote_count": 311
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Peter Ibbetson",
+            "second_label": "Paramount Studio Music Department, Irvin Talbot, head of department  (Score by Ernst Toch)",
+            "category": "Music (Scoring)",
+            "year": 1936,
+            "tmdb": {
+                "id": 57412,
+                "original_title": "Peter Ibbetson",
+                "title": "O Sonho Eterno",
+                "release_date": "1935-11-07",
+                "backdrop_path": "/n7uGuskpUkRlwVgLEryeVlkrdaU.jpg",
+                "poster_path": "/i7SHcawBVUwh2SMfc17dBBue3Nd.jpg",
+                "overview": "O arquiteto Peter Ibbetson \u00e9 contratado pelo Duque de Towers para um trabalho de restaura\u00e7\u00e3o em sua propriedade. Quando chega, descobre que a Duquesa Mary \u00e9, na verdade, a sua namoradinha de inf\u00e2ncia. A velha chama \u00e9 reacesa e o duque, com ci\u00fames, tenta atirar em Peter, por\u00e9m \u00e9 morto por este. Peter recebe a pena de pris\u00e3o perp\u00e9tua e come\u00e7a a se comunicar com Mary atrav\u00e9s dos sonhos de ambos.",
+                "vote_average": 6.9,
+                "vote_count": 44
+            },
+            "winner": false
+        }
+    ],
+    "Music (Song)": [
+        {
+            "first_label": "Gold Diggers of 1935",
+            "second_label": "Lullaby Of Broadway in \"Gold Diggers of 1935\" Music by Harry Warren; Lyrics by Al Dubin",
+            "category": "Music (Song)",
+            "year": 1936,
+            "tmdb": {
+                "id": 43892,
+                "original_title": "Gold Diggers of 1935",
+                "title": "Gold Diggers of 1935",
+                "release_date": "1935-03-15",
+                "backdrop_path": "/sw8usJoEQevFcF8WLV09zfC82Bp.jpg",
+                "poster_path": "/utP30vhi3le9X3STgoUIKaOLIqG.jpg",
+                "overview": "Romance strikes when a vacationing millionairess and her daughter and son spend their vacation at a posh New England resort.",
+                "vote_average": 6.4,
+                "vote_count": 43
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Top Hat",
+            "second_label": "Cheek To Cheek in \"Top Hat\" Music and Lyrics by Irving Berlin",
+            "category": "Music (Song)",
+            "year": 1936,
+            "tmdb": {
+                "id": 3080,
+                "original_title": "Top Hat",
+                "title": "O Picolino",
+                "release_date": "1935-08-29",
+                "backdrop_path": "/tnPgH5j3rPRajvF1iUqLH9WgWqz.jpg",
+                "poster_path": "/7we4vnoODrF7dl3AYlrkOkh53vW.jpg",
+                "overview": "Um dan\u00e7arino americano ensaia um n\u00famero de sapateado em seu quarto de hotel em Londres e acaba incomodando a vizinha do quarto de baixo. Logo ambos come\u00e7am a se apaixonar. Mas um certo mal-entendido pode colocar tudo a perder...",
+                "vote_average": 7.3,
+                "vote_count": 276
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Roberta",
+            "second_label": "Lovely To Look At in \"Roberta\" Music by Jerome Kern; Lyrics by Dorothy Fields and Jimmy McHugh",
+            "category": "Music (Song)",
+            "year": 1936,
+            "tmdb": {
+                "id": 31798,
+                "original_title": "Roberta",
+                "title": "Roberta",
+                "release_date": "1935-03-07",
+                "backdrop_path": "/j7Gf4gLZaEMXNR4KKmbolZEJ7Xo.jpg",
+                "poster_path": "/i4apYC87andlqfn5IhbxZN3b8Up.jpg",
+                "overview": "John visita sua tia em Paris, junto de sua banda. Ela \u00e9 dona de uma loja de moda gerenciada por sua assistente, Stephanie. L\u00e1, eles encontram a cantora Scharwenka, com quem conseguem um trabalho. Enquanto isso, Madame Roberta vem a falecer e deixa os neg\u00f3cios para John, que entra em sociedade com Stephanie.",
+                "vote_average": 7.0,
+                "vote_count": 39
+            },
+            "winner": false
+        }
+    ],
+    "Outstanding Production": [
+        {
+            "first_label": "Mutiny on the Bounty",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Outstanding Production",
+            "year": 1936,
+            "tmdb": {
+                "id": 12311,
+                "original_title": "Mutiny on the Bounty",
+                "title": "O Grande Motim",
+                "release_date": "1935-11-22",
+                "backdrop_path": "/806U8drrogLJjU6GRse1QOvD67T.jpg",
+                "poster_path": "/wOiAo89JgK336SfaVm4zOX00W0f.jpg",
+                "overview": "O marinheiro Roger Byam (Franchot Tone) acompanha o capit\u00e3o Bligh (Charles Laughton) e Fletcher Christian (Clark Gable) em uma viagem de navio ao Taiti. Bligh mostra ser um verdadeiro tirano e, depois de seis prazeirosos meses no Taiti, Christian lidera um motim entre a equipe para voltarem \u00e0 casa.",
+                "vote_average": 7.4,
+                "vote_count": 311
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Alice Adams",
+            "second_label": "RKO Radio",
+            "category": "Outstanding Production",
+            "year": 1936,
+            "tmdb": {
+                "id": 43886,
+                "original_title": "Alice Adams",
+                "title": "A Mulher Que Soube Amar",
+                "release_date": "1935-08-23",
+                "backdrop_path": "/iDskLegJ8VpZxB8CSwjXk7pj7DK.jpg",
+                "poster_path": "/rjhJDaC7025umyBKvKHyOsocKDp.jpg",
+                "overview": "In the lower-middle-class Adams family, father and son are happy to work in a drugstore, but mother and daughter Alice try every possible social-climbing stratagem despite snubs and embarrassment. When Alice finally meets her dream man Arthur, mother nags father into a risky business venture and plans to impress Alice's beau with an \"upscale\" family dinner. Will the excruciating results drive Arthur away?",
+                "vote_average": 6.6,
+                "vote_count": 45
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Broadway Melody of 1936",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Outstanding Production",
+            "year": 1936,
+            "tmdb": {
+                "id": 43890,
+                "original_title": "Broadway Melody of 1936",
+                "title": "Melodia da Broadway de 1936",
+                "release_date": "1935-09-18",
+                "backdrop_path": "/eNGptmROfwYxukYh8OklqhxrR4j.jpg",
+                "poster_path": "/bF20h8jBITmSnc6lqmDXwjGyt7J.jpg",
+                "overview": "Dotada de uma voz surpreendente e admirada por seu carisma, Irene Foster (Eleanor Powell), sonha em brilhar nas noites da Broadway.\r Seguindo seu instinto e seu cora\u00e7\u00e3o, Irene se muda para a Broadway na esperan\u00e7a de que seu amor de inf\u00e2ncia, agora produtor, Robert Gordon (Robert Taylor), a reconhe\u00e7a.\r Robert, por outro lado, est\u00e1 muito ocupado com um jornalista fofoqueiro, o colunista Bert Keeler (Jack Benny), e acaba n\u00e3o a notando. Kitty (Una Merkel), secret\u00e1ria de Robert, no entanto, percebe o talento da mo\u00e7a e planeja, junto com Irene, uma situa\u00e7\u00e3o onde Robert note n\u00e3o s\u00f3 sua voz, mas tamb\u00e9m todo o seu charme e encanto.\r Melodia da Broadway, al\u00e9m de indicado a dois Oscars, Melhor Fotografia e Melhor Roteiro Original, foi vencedor do Oscar de Melhor Dire\u00e7\u00e3o.\r Este filme ainda foi o principal respons\u00e1vel pela grande ascen\u00e7\u00e3o da atriz Eleanor Powell em Hollywood, e fez das m\u00fasicas You Are My Lucky Star e Brodway Rhythm os maiores sucessos da \u00e9poca.",
+                "vote_average": 6.4,
+                "vote_count": 17
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Captain Blood",
+            "second_label": "Cosmopolitan",
+            "category": "Outstanding Production",
+            "year": 1936,
+            "tmdb": {
+                "id": 16905,
+                "original_title": "Captain Blood",
+                "title": "Capit\u00e3o Blood",
+                "release_date": "1935-12-26",
+                "backdrop_path": "/liv4C6089TmYVJUZ9ntXKugQMkd.jpg",
+                "poster_path": "/Ae0ltppMl66pAH1odgDU1C4H1iq.jpg",
+                "overview": "O m\u00e9dico irland\u00eas Peter Blood (Errol Flynn)\u00e9 injustamente acusado de um crime e sentenciado \u00e0 escravid\u00e3o no Caribe. Ele termina por se tornar um pirata e se apaixona pela filha do governador, interpretada por Olivia de Havilland.",
+                "vote_average": 7.2,
+                "vote_count": 214
+            },
+            "winner": false
+        },
+        {
+            "first_label": "David Copperfield",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Outstanding Production",
+            "year": 1936,
+            "tmdb": {
+                "id": 43899,
+                "original_title": "The Personal History, Adventures, Experience, & Observation of David Copperfield the Younger",
+                "title": "David Copperfield",
+                "release_date": "1935-01-18",
+                "backdrop_path": "/dF4bK5tMVo1AeyPBOHGElECFsYu.jpg",
+                "poster_path": "/4MtgfnOvnUioz04Yp4Km4JGUOCQ.jpg",
+                "overview": "Charles Dickens' timeless tale of an ordinary young man who lives an extraordinary life, filled with people who help and hinder him.",
+                "vote_average": 6.5,
+                "vote_count": 60
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Informer",
+            "second_label": "RKO Radio",
+            "category": "Outstanding Production",
+            "year": 1936,
+            "tmdb": {
+                "id": 43896,
+                "original_title": "The Informer",
+                "title": "O Delator",
+                "release_date": "1935-05-09",
+                "backdrop_path": "/a9KoSHzoT8PLWYoFDBgjDdp1Z78.jpg",
+                "poster_path": "/gFsyHdVg93uPMZc64kCaCR3Y7Vn.jpg",
+                "overview": "Gypo Nolan is a former Irish Republican Army man who drowns his sorrows in the bottle. He's desperate to escape his bleak Dublin life and start over in America with his girlfriend. So when British authorities advertise a reward for information about his best friend, current IRA member Frankie, Gypo cooperates. Now Gypo can buy two tickets on a boat bound for the States, but can he escape the overwhelming guilt he feels for betraying his buddy?",
+                "vote_average": 6.7,
+                "vote_count": 92
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Les Miserables",
+            "second_label": "20th Century",
+            "category": "Outstanding Production",
+            "year": 1936,
+            "tmdb": {
+                "id": 43893,
+                "original_title": "Les Mis\u00e9rables",
+                "title": "Les Mis\u00e9rables",
+                "release_date": "1935-04-20",
+                "backdrop_path": "/l6A4m3IhK8OSScpo441tyn8or8L.jpg",
+                "poster_path": "/9hSPMlFppQBCcDDECA0TgTL0F8k.jpg",
+                "overview": "In 19th century France, Jean Valjean, a man imprisoned for stealing bread, must flee a relentless policeman named Javert. The pursuit consumes both men's lives, and soon Valjean finds himself in the midst of the student revolutions in France.",
+                "vote_average": 7.2,
+                "vote_count": 49
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Lives of a Bengal Lancer",
+            "second_label": "Paramount",
+            "category": "Outstanding Production",
+            "year": 1936,
+            "tmdb": {
+                "id": 43898,
+                "original_title": "The Lives of a Bengal Lancer",
+                "title": "The Lives of a Bengal Lancer",
+                "release_date": "1935-01-11",
+                "backdrop_path": "/w7r1wv8ptSEgHu2IsIjuHcnWcrL.jpg",
+                "poster_path": "/tPHImK7LhrEkidI0q1CyUsZcRpl.jpg",
+                "overview": "In the Northwest Frontier of India, the 41st Bengal Lancers leaded by the harsh Colonel Tom Stone are having trouble with the rebellious leader Mohammed Khan. After two casualties, the experienced but insubordinate Lieutenant Alan McGregor receives as replacement, the arrogant Lieutenant Forsythe and the immature son of Colonel Stone, Lieutenant Donald Stone. With the intention to prove that he will not have any privilege in the troop, the reception of Colonel Stone to his son is absolutely cold, but he becomes the prot\u00e9g\u00e9 of McGregor. When Lieutenant Stone is kidnapped by Mohammed Khan, McGregor and Forsythe disobey the direct order of their commander, disguise as Indian peddlers and go to Khan's fortress to attempt to rescue their friend.",
+                "vote_average": 6.6,
+                "vote_count": 36
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Midsummer Night's Dream",
+            "second_label": "Warner Bros.",
+            "category": "Outstanding Production",
+            "year": 1936,
+            "tmdb": {
+                "id": 19075,
+                "original_title": "A Midsummer Night's Dream",
+                "title": "Sonho de uma Noite de Ver\u00e3o",
+                "release_date": "1935-10-09",
+                "backdrop_path": "/n2monim3nSKBGVBZjXIhy5WwAve.jpg",
+                "poster_path": "/jIdjacF7a1KTSWcheNEo6qFEY8K.jpg",
+                "overview": "Four young people escape Athens to a forest where the king and queen of the fairies are quarreling, while meanwhile, a troupe of amateur actors rehearses a play. When the fairy Puck uses a magic flower to make people fall in love, the whole thing becomes a little bit confused...",
+                "vote_average": 6.4,
+                "vote_count": 38
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Naughty Marietta",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Outstanding Production",
+            "year": 1936,
+            "tmdb": {
+                "id": 43894,
+                "original_title": "Naughty Marietta",
+                "title": "Naughty Marietta",
+                "release_date": "1935-03-29",
+                "backdrop_path": "/nC9cTQgEX2E3Il6IZ4czmmaDN19.jpg",
+                "poster_path": "/mTBQjQxJ4U6Y5fo4GqON0qTNt8k.jpg",
+                "overview": "A French princess flees an arranged marriage and sails for New Orleans, where she is rescued from pirates by a dashing mercenary.",
+                "vote_average": 4.3,
+                "vote_count": 15
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ruggles of Red Gap",
+            "second_label": "Paramount",
+            "category": "Outstanding Production",
+            "year": 1936,
+            "tmdb": {
+                "id": 36006,
+                "original_title": "Ruggles of Red Gap",
+                "title": "Vamos \u00e0 Am\u00e9rica",
+                "release_date": "1935-03-08",
+                "backdrop_path": "/t7AhTPxploPYAxjFBnEAcJIo1k9.jpg",
+                "poster_path": "/57KChzqCoDDsNGqJzsv10NzOwod.jpg",
+                "overview": "In this comedy of an Englishman stranded in a sea of barbaric Americans, Marmaduke Ruggles, a gentleman's gentleman and butler to an Earl is lost in a poker game to an uncouth American cattle baron. Ruggles' life is turned upside down as he's taken to the USA, is gradually assimilated into American life, accidentally becomes a local celebrity, and falls in love along the way.",
+                "vote_average": 7.0,
+                "vote_count": 64
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Top Hat",
+            "second_label": "RKO Radio",
+            "category": "Outstanding Production",
+            "year": 1936,
+            "tmdb": {
+                "id": 3080,
+                "original_title": "Top Hat",
+                "title": "O Picolino",
+                "release_date": "1935-08-29",
+                "backdrop_path": "/tnPgH5j3rPRajvF1iUqLH9WgWqz.jpg",
+                "poster_path": "/7we4vnoODrF7dl3AYlrkOkh53vW.jpg",
+                "overview": "Um dan\u00e7arino americano ensaia um n\u00famero de sapateado em seu quarto de hotel em Londres e acaba incomodando a vizinha do quarto de baixo. Logo ambos come\u00e7am a se apaixonar. Mas um certo mal-entendido pode colocar tudo a perder...",
+                "vote_average": 7.3,
+                "vote_count": 276
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Cartoon)": [
+        {
+            "first_label": "Three Orphan Kittens",
+            "second_label": "Walt Disney, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1936,
+            "tmdb": {
+                "id": 67626,
+                "original_title": "Three Orphan Kittens",
+                "title": "Three Orphan Kittens",
+                "release_date": "1935-10-26",
+                "backdrop_path": "/abc9GHG97cQupdEZU3QZlqS2zW4.jpg",
+                "poster_path": "/pHRyzTsWb3mQ4iB0HhilUkSWUSo.jpg",
+                "overview": "Three orphan kittens are entering a society house in winter and ruin the furniture. But when they're caught by the maid, the young daughter of the house \"rescues\" them from the cold outside.",
+                "vote_average": 6.6,
+                "vote_count": 58
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Calico Dragon",
+            "second_label": "Harman-Ising",
+            "category": "Short Subject (Cartoon)",
+            "year": 1936,
+            "tmdb": {
+                "id": 184589,
+                "original_title": "The Calico Dragon",
+                "title": "The Calico Dragon",
+                "release_date": "1935-03-29",
+                "backdrop_path": "/a6G4nqxQN5XdzezlX0t2uM2CWND.jpg",
+                "poster_path": "/ifSqCXLhU9FLPycgATaehLolGip.jpg",
+                "overview": "A little girl reads a story about a dragon; as she falls asleep, her doll rides off on his calico horse through a calico land to do battle with a three-headed singing calico dragon.",
+                "vote_average": 4.7,
+                "vote_count": 10
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Who Killed Cock Robin?",
+            "second_label": "Walt Disney, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1936,
+            "tmdb": {
+                "id": 109323,
+                "original_title": "Who Killed Cock Robin?",
+                "title": "Who Killed Cock Robin?",
+                "release_date": "1935-06-25",
+                "backdrop_path": "/orANwaaxQGkPVe6rf79dgoTSveG.jpg",
+                "poster_path": "/awWED45W3qgayjXUkeUCc1whlgx.jpg",
+                "overview": "A robin is shot so the woodland community holds a trial to investigate.",
+                "vote_average": 6.7,
+                "vote_count": 33
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Comedy)": [
+        {
+            "first_label": "How to Sleep",
+            "second_label": "Jack Chertok, Producer",
+            "category": "Short Subject (Comedy)",
+            "year": 1936,
+            "tmdb": {
+                "id": 197160,
+                "original_title": "How to Sleep",
+                "title": "How to Sleep",
+                "release_date": "1935-09-14",
+                "backdrop_path": "/61sfv4MbTb9Pa4MdXIz2A874Fnb.jpg",
+                "poster_path": "/rKkJ1q7nFrCnInXrchDXzZjLymA.jpg",
+                "overview": "A lecturer seated at a desk promises an informative film about how to sleep; it's a sequel to and inspired by \"How to stay awake,\" which put his audience to sleep. He plans to examine the causes of sleep, the causes of insomnia, and recent research on sleep, including a time-lapse film of a man changing positions 55 times during an 8-hour rest: why exercise, he asks, when you can sleep like a top? The film instructs one on how to get a drink of water during the night without waking completely, and other useful skills for the insomniac.",
+                "vote_average": 6.3,
+                "vote_count": 11
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Oh, My Nerves",
+            "second_label": "Jules White, Producer",
+            "category": "Short Subject (Comedy)",
+            "year": 1936,
+            "tmdb": {
+                "id": 233666,
+                "original_title": "Oh, My Nerves",
+                "title": "Oh, My Nerves",
+                "release_date": "1935-10-17",
+                "backdrop_path": null,
+                "poster_path": "/fdNsOxS55PEdqEmRMa5V3Lana4K.jpg",
+                "overview": "Oh, My Nerves is a 1935 American short comedy film directed by Del Lord. Monty's nerves are shot, so he decides to go on a nice, relaxing trip to the country. Unfortunately, his brother-in-law Tom brings along the rest of the family. Comic chaos ensues. The film was nominated for an Academy Award at the 8th Academy Awards, held in March 1936, for Best Short Subject (Comedy).",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tit for Tat",
+            "second_label": "Hal Roach, Producer",
+            "category": "Short Subject (Comedy)",
+            "year": 1936,
+            "tmdb": {
+                "id": 50912,
+                "original_title": "Tit for Tat",
+                "title": "Tit for Tat",
+                "release_date": "1935-01-05",
+                "backdrop_path": "/ccbNKE6L1unRVZ8VuLoXiQzpMd1.jpg",
+                "poster_path": "/r07ErTPIpBaKVaGpxjoFVdZVIjW.jpg",
+                "overview": "Stan and Ollie have set up their own electrical appliance store but, unfortunately for them, the grocery right next door is run by the man and wife whom they encountered in \"Them Thar Hills\" (1935). Stan and Ollie go and visit to offer the hand of friendship, but the grocer again becomes convinced that Ollie and his wife are fooling around.",
+                "vote_average": 6.8,
+                "vote_count": 69
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Novelty)": [
+        {
+            "first_label": "Wings over Mt. Everest",
+            "second_label": "Gaumont British and Skibo Productions",
+            "category": "Short Subject (Novelty)",
+            "year": 1936,
+            "tmdb": {
+                "id": 233669,
+                "original_title": "Wings Over Everest",
+                "title": "Wings Over Everest",
+                "release_date": "1934-12-31",
+                "backdrop_path": null,
+                "poster_path": "/3yoNSNkrdz89pQZxowgY4ZnTGL9.jpg",
+                "overview": "A documentary about the first flight over Mt Everest.",
+                "vote_average": 5.0,
+                "vote_count": 6
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Audioscopiks",
+            "second_label": "Pete Smith, Producer",
+            "category": "Short Subject (Novelty)",
+            "year": 1936,
+            "tmdb": {
+                "id": 197173,
+                "original_title": "Audioscopiks",
+                "title": "Audioscopiks",
+                "release_date": "1935-12-26",
+                "backdrop_path": null,
+                "poster_path": "/e3jGE8aVKHspxiBdLISrECIsKl0.jpg",
+                "overview": "After the audience is instructed how to use the 3-D glasses they received, demonstrations of three-dimensional films are presented. Various objects move towards the camera, including a ladder being shoved out a window, the slide on a trombone, a woman on a swing, and a thrown baseball.",
+                "vote_average": 4.6,
+                "vote_count": 8
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Camera Thrills",
+            "second_label": "Universal",
+            "category": "Short Subject (Novelty)",
+            "year": 1936,
+            "tmdb": {
+                "id": 233676,
+                "original_title": "Camera Thrills",
+                "title": "Camera Thrills",
+                "release_date": "1935-09-01",
+                "backdrop_path": null,
+                "poster_path": "/MKfER4IKw2jJNfuUGeLW8SWRAu.jpg",
+                "overview": "Academy Award nominated short film.  Preserved by the Academy Film Archive in partnership with Library of Congress Motion Picture, Broadcasting, and Recorded Sound Division in 2012.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        }
+    ],
+    "Sound Recording": [
+        {
+            "first_label": "Naughty Marietta",
+            "second_label": "Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",
+            "category": "Sound Recording",
+            "year": 1936,
+            "tmdb": {
+                "id": 43894,
+                "original_title": "Naughty Marietta",
+                "title": "Naughty Marietta",
+                "release_date": "1935-03-29",
+                "backdrop_path": "/nC9cTQgEX2E3Il6IZ4czmmaDN19.jpg",
+                "poster_path": "/mTBQjQxJ4U6Y5fo4GqON0qTNt8k.jpg",
+                "overview": "A French princess flees an arranged marriage and sails for New Orleans, where she is rescued from pirates by a dashing mercenary.",
+                "vote_average": 4.3,
+                "vote_count": 15
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Bride of Frankenstein",
+            "second_label": "Universal Studio Sound Department, Gilbert Kurland, Sound Director",
+            "category": "Sound Recording",
+            "year": 1936,
+            "tmdb": {
+                "id": 229,
+                "original_title": "Bride of Frankenstein",
+                "title": "A Noiva de Frankenstein",
+                "release_date": "1935-04-20",
+                "backdrop_path": "/haPU3dCyYUTRN34ceyJrX4DAjZq.jpg",
+                "poster_path": "/459XH176R35BwUhdjvAT7oBfoJL.jpg",
+                "overview": "Dr. Frankenstein (Colin Clive) e seu monstro (Boris Karloff) retornam, pois n\u00e3o estavam mortos como inicialmente se acreditava. O pesquisador planeja parar suas demon\u00edacas experi\u00eancias, mas quando um cientista louco (Ernest Thesiger) seq\u00fcestra sua esposa (Valerie Hobson), ele concorda em ajud\u00e1-lo em criar uma nova criatura, uma mulher (Elsa Lanchester), para ser companheira do monstro.",
+                "vote_average": 7.5,
+                "vote_count": 896
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Captain Blood",
+            "second_label": "Warner Bros.-First National Studio Sound Department, Nathan Levinson, Sound Director",
+            "category": "Sound Recording",
+            "year": 1936,
+            "tmdb": {
+                "id": 16905,
+                "original_title": "Captain Blood",
+                "title": "Capit\u00e3o Blood",
+                "release_date": "1935-12-26",
+                "backdrop_path": "/liv4C6089TmYVJUZ9ntXKugQMkd.jpg",
+                "poster_path": "/Ae0ltppMl66pAH1odgDU1C4H1iq.jpg",
+                "overview": "O m\u00e9dico irland\u00eas Peter Blood (Errol Flynn)\u00e9 injustamente acusado de um crime e sentenciado \u00e0 escravid\u00e3o no Caribe. Ele termina por se tornar um pirata e se apaixona pela filha do governador, interpretada por Olivia de Havilland.",
+                "vote_average": 7.2,
+                "vote_count": 214
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Dark Angel",
+            "second_label": "United Artists Studio Sound Department, Thomas T. Moulton, Sound Director",
+            "category": "Sound Recording",
+            "year": 1936,
+            "tmdb": {
+                "id": 120977,
+                "original_title": "The Dark Angel",
+                "title": "The Dark Angel",
+                "release_date": "1935-09-08",
+                "backdrop_path": "/w3HnykWCdBrI1s24Q5Vj0gh2eCV.jpg",
+                "poster_path": "/m3wi7lWEWVhbENCBOrEx7RnWqQl.jpg",
+                "overview": "Kitty Vane, Alan Trent, and Gerald Shannon have been inseparable friends since childhood. Kitty has always known she would marry one of them, but has waited until the beginning of World War I before finally choosing Alan. Gerald graciously gives them his blessing. Then, Gerald and Alan go to war. Angered over a misunderstanding involving Alan and Kitty, Gerald sends Alan on a dangerous mission that will change all their lives forever.",
+                "vote_average": 6.1,
+                "vote_count": 16
+            },
+            "winner": false
+        },
+        {
+            "first_label": "I Dream Too Much",
+            "second_label": "RKO Radio Studio Sound Department, Carl Dreher, Sound Director",
+            "category": "Sound Recording",
+            "year": 1936,
+            "tmdb": {
+                "id": 218389,
+                "original_title": "I Dream Too Much",
+                "title": "I Dream Too Much",
+                "release_date": "1935-11-29",
+                "backdrop_path": "/64AdJtaxniBYXLUzPRF69Nk4CDB.jpg",
+                "poster_path": "/1Whyoac7ta8uwCuP4I28Cauox1p.jpg",
+                "overview": "Opera student Annette Monard meets composer Jonathan Street, and in a buoyant, alcohol-fueled evening, the couple marries. Sincerely falling in love, Jonathan encourages the talented Annette to sing \u2014 yet when his own attempt at an opera fails, Jonathan lashes out at Annette's success. Despite her husband's jealousy, Annette embarks on a successful career that allows her to secretly fund Jonathan's opera, bringing their marriage to a crisis.",
+                "vote_average": 4.6,
+                "vote_count": 11
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Lives of a Bengal Lancer",
+            "second_label": "Paramount Studio Sound Department, Franklin B. Hansen, Sound Director",
+            "category": "Sound Recording",
+            "year": 1936,
+            "tmdb": {
+                "id": 43898,
+                "original_title": "The Lives of a Bengal Lancer",
+                "title": "The Lives of a Bengal Lancer",
+                "release_date": "1935-01-11",
+                "backdrop_path": "/w7r1wv8ptSEgHu2IsIjuHcnWcrL.jpg",
+                "poster_path": "/tPHImK7LhrEkidI0q1CyUsZcRpl.jpg",
+                "overview": "In the Northwest Frontier of India, the 41st Bengal Lancers leaded by the harsh Colonel Tom Stone are having trouble with the rebellious leader Mohammed Khan. After two casualties, the experienced but insubordinate Lieutenant Alan McGregor receives as replacement, the arrogant Lieutenant Forsythe and the immature son of Colonel Stone, Lieutenant Donald Stone. With the intention to prove that he will not have any privilege in the troop, the reception of Colonel Stone to his son is absolutely cold, but he becomes the prot\u00e9g\u00e9 of McGregor. When Lieutenant Stone is kidnapped by Mohammed Khan, McGregor and Forsythe disobey the direct order of their commander, disguise as Indian peddlers and go to Khan's fortress to attempt to rescue their friend.",
+                "vote_average": 6.6,
+                "vote_count": 36
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Love Me Forever",
+            "second_label": "Columbia Studio Sound Department, John Livadary, Sound Director",
+            "category": "Sound Recording",
+            "year": 1936,
+            "tmdb": {
+                "id": 234207,
+                "original_title": "Love Me Forever",
+                "title": "Love Me Forever",
+                "release_date": "1935-06-28",
+                "backdrop_path": "/kAGU1QEmNvMJLju7SoMz33MCL1.jpg",
+                "poster_path": "/SY3Ce2MZXu10SUpTRk04H8D2Ry.jpg",
+                "overview": "A man who loves an aspiring opera singer is prepared to sacrifice everything to help her with her career, even though he knows she doesn't love him.",
+                "vote_average": 4.0,
+                "vote_count": 2
+            },
+            "winner": false
+        },
+        {
+            "first_label": "$1,000 a Minute",
+            "second_label": "Republic Studio Sound Department",
+            "category": "Sound Recording",
+            "year": 1936,
+            "tmdb": {
+                "id": 218388,
+                "original_title": "$1,000 a Minute",
+                "title": "$1,000 a Minute",
+                "release_date": "1935-10-21",
+                "backdrop_path": "/zJ13fCLuGyu6pDYyKbNSPOSwDoo.jpg",
+                "poster_path": "/8hYBOLHPaBLtSvy1iXKCKyi3zro.jpg",
+                "overview": "Two rich and wealthy millionaires who have a lot of money bet that reporter Wally Jones can't spend $720,000 in twelve hours.",
+                "vote_average": 5.2,
+                "vote_count": 9
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Thanks a Million",
+            "second_label": "20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director",
+            "category": "Sound Recording",
+            "year": 1936,
+            "tmdb": {
+                "id": 142142,
+                "original_title": "Thanks a Million",
+                "title": "Thanks a Million",
+                "release_date": "1935-11-13",
+                "backdrop_path": "/quUg6APm8LJBARlzR2QggO1FGME.jpg",
+                "poster_path": "/rr1HVwpXM0iCIfKX9n03lEAm6He.jpg",
+                "overview": "A show troupe is engaged by Judge Culliman, who is running for Governor, to enhance his political campaign. When the inebriated Judge has to be replaced in doing his campaign speech by the troupe crooner, Eric Land, his political backers decide that they want him to run for Governor in the Judge's place. Romance, music, political corruption and the election results follow.",
+                "vote_average": 5.6,
+                "vote_count": 5
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Original Story)": [
+        {
+            "first_label": "The Scoundrel",
+            "second_label": "Ben Hecht, Charles MacArthur",
+            "category": "Writing (Original Story)",
+            "year": 1936,
+            "tmdb": {
+                "id": 37089,
+                "original_title": "The Scoundrel",
+                "title": "The Scoundrel",
+                "release_date": "1935-04-30",
+                "backdrop_path": "/xfvkmgtTCwekkpAZh3rYb4lqEk3.jpg",
+                "poster_path": "/tgr9WqlCfPMdkriFYONoBC3iRVR.jpg",
+                "overview": "A ruthless, cynical, hated publisher is killed in a plane crash, doomed to be a \"restless\" spirit for being unloved. A heavenly power gives him a month on Earth to find one person to shed a tear for him before his fate is sealed.",
+                "vote_average": 6.2,
+                "vote_count": 10
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Broadway Melody of 1936",
+            "second_label": "Moss Hart",
+            "category": "Writing (Original Story)",
+            "year": 1936,
+            "tmdb": {
+                "id": 43890,
+                "original_title": "Broadway Melody of 1936",
+                "title": "Melodia da Broadway de 1936",
+                "release_date": "1935-09-18",
+                "backdrop_path": "/eNGptmROfwYxukYh8OklqhxrR4j.jpg",
+                "poster_path": "/bF20h8jBITmSnc6lqmDXwjGyt7J.jpg",
+                "overview": "Dotada de uma voz surpreendente e admirada por seu carisma, Irene Foster (Eleanor Powell), sonha em brilhar nas noites da Broadway.\r Seguindo seu instinto e seu cora\u00e7\u00e3o, Irene se muda para a Broadway na esperan\u00e7a de que seu amor de inf\u00e2ncia, agora produtor, Robert Gordon (Robert Taylor), a reconhe\u00e7a.\r Robert, por outro lado, est\u00e1 muito ocupado com um jornalista fofoqueiro, o colunista Bert Keeler (Jack Benny), e acaba n\u00e3o a notando. Kitty (Una Merkel), secret\u00e1ria de Robert, no entanto, percebe o talento da mo\u00e7a e planeja, junto com Irene, uma situa\u00e7\u00e3o onde Robert note n\u00e3o s\u00f3 sua voz, mas tamb\u00e9m todo o seu charme e encanto.\r Melodia da Broadway, al\u00e9m de indicado a dois Oscars, Melhor Fotografia e Melhor Roteiro Original, foi vencedor do Oscar de Melhor Dire\u00e7\u00e3o.\r Este filme ainda foi o principal respons\u00e1vel pela grande ascen\u00e7\u00e3o da atriz Eleanor Powell em Hollywood, e fez das m\u00fasicas You Are My Lucky Star e Brodway Rhythm os maiores sucessos da \u00e9poca.",
+                "vote_average": 6.4,
+                "vote_count": 17
+            },
+            "winner": false
+        },
+        {
+            "first_label": "G-Men",
+            "second_label": "Gregory Rogers",
+            "category": "Writing (Original Story)",
+            "year": 1936,
+            "tmdb": {
+                "id": 26718,
+                "original_title": "'G' Men",
+                "title": "Contra o Imp\u00e9rio do Crime",
+                "release_date": "1935-05-04",
+                "backdrop_path": "/zqPuqXz3XTtcbBxIKs0w0ojACCX.jpg",
+                "poster_path": "/6jY4xH5SDNrRIxlYoXskXniO2Zl.jpg",
+                "overview": "James Cagney interpreta o jovem advogado criminalista, Brick Davis, que tenta resistir as tenta\u00e7\u00f5es do mundo do crime, embora sua educa\u00e7\u00e3o tenha sido paga por um g\u00e2ngster. Sua vida d\u00e1 uma reviravolta quando um amigo e agente federal tenta recrut\u00e1-lo para o FBI, e \u00e9 assassinado por um g\u00e2ngster.",
+                "vote_average": 6.5,
+                "vote_count": 76
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Gay Deception",
+            "second_label": "Don Hartman, Stephen Avery",
+            "category": "Writing (Original Story)",
+            "year": 1936,
+            "tmdb": {
+                "id": 54570,
+                "original_title": "The Gay Deception",
+                "title": "The Gay Deception",
+                "release_date": "1935-09-13",
+                "backdrop_path": "/6IaXTpdiTfe3vmJ8sOSG5ENbh1f.jpg",
+                "poster_path": "/mhXbD4gKt3v0v67hDBlnyVZw3e5.jpg",
+                "overview": "A wide-eyed working girl wins a $5,000 sweepstakes and plunges into the lush life of New York City, where she meets a bellboy who is more than he seems.",
+                "vote_average": 6.6,
+                "vote_count": 5
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay)": [
+        {
+            "first_label": "The Informer",
+            "second_label": "Dudley Nichols",
+            "category": "Writing (Screenplay)",
+            "year": 1936,
+            "tmdb": {
+                "id": 43896,
+                "original_title": "The Informer",
+                "title": "O Delator",
+                "release_date": "1935-05-09",
+                "backdrop_path": "/a9KoSHzoT8PLWYoFDBgjDdp1Z78.jpg",
+                "poster_path": "/gFsyHdVg93uPMZc64kCaCR3Y7Vn.jpg",
+                "overview": "Gypo Nolan is a former Irish Republican Army man who drowns his sorrows in the bottle. He's desperate to escape his bleak Dublin life and start over in America with his girlfriend. So when British authorities advertise a reward for information about his best friend, current IRA member Frankie, Gypo cooperates. Now Gypo can buy two tickets on a boat bound for the States, but can he escape the overwhelming guilt he feels for betraying his buddy?",
+                "vote_average": 6.7,
+                "vote_count": 92
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Captain Blood",
+            "second_label": "Casey Robinson",
+            "category": "Writing (Screenplay)",
+            "year": 1936,
+            "tmdb": {
+                "id": 16905,
+                "original_title": "Captain Blood",
+                "title": "Capit\u00e3o Blood",
+                "release_date": "1935-12-26",
+                "backdrop_path": "/liv4C6089TmYVJUZ9ntXKugQMkd.jpg",
+                "poster_path": "/Ae0ltppMl66pAH1odgDU1C4H1iq.jpg",
+                "overview": "O m\u00e9dico irland\u00eas Peter Blood (Errol Flynn)\u00e9 injustamente acusado de um crime e sentenciado \u00e0 escravid\u00e3o no Caribe. Ele termina por se tornar um pirata e se apaixona pela filha do governador, interpretada por Olivia de Havilland.",
+                "vote_average": 7.2,
+                "vote_count": 214
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Lives of a Bengal Lancer",
+            "second_label": "Screenplay by Waldemar Young, John L. Balderston, Achmed Abdullah;  Adaptation by Grover Jones, William Slavens McNutt",
+            "category": "Writing (Screenplay)",
+            "year": 1936,
+            "tmdb": {
+                "id": 43898,
+                "original_title": "The Lives of a Bengal Lancer",
+                "title": "The Lives of a Bengal Lancer",
+                "release_date": "1935-01-11",
+                "backdrop_path": "/w7r1wv8ptSEgHu2IsIjuHcnWcrL.jpg",
+                "poster_path": "/tPHImK7LhrEkidI0q1CyUsZcRpl.jpg",
+                "overview": "In the Northwest Frontier of India, the 41st Bengal Lancers leaded by the harsh Colonel Tom Stone are having trouble with the rebellious leader Mohammed Khan. After two casualties, the experienced but insubordinate Lieutenant Alan McGregor receives as replacement, the arrogant Lieutenant Forsythe and the immature son of Colonel Stone, Lieutenant Donald Stone. With the intention to prove that he will not have any privilege in the troop, the reception of Colonel Stone to his son is absolutely cold, but he becomes the prot\u00e9g\u00e9 of McGregor. When Lieutenant Stone is kidnapped by Mohammed Khan, McGregor and Forsythe disobey the direct order of their commander, disguise as Indian peddlers and go to Khan's fortress to attempt to rescue their friend.",
+                "vote_average": 6.6,
+                "vote_count": 36
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mutiny on the Bounty",
+            "second_label": "Talbot Jennings, Jules Furthman, Carey Wilson",
+            "category": "Writing (Screenplay)",
+            "year": 1936,
+            "tmdb": {
+                "id": 12311,
+                "original_title": "Mutiny on the Bounty",
+                "title": "O Grande Motim",
+                "release_date": "1935-11-22",
+                "backdrop_path": "/806U8drrogLJjU6GRse1QOvD67T.jpg",
+                "poster_path": "/wOiAo89JgK336SfaVm4zOX00W0f.jpg",
+                "overview": "O marinheiro Roger Byam (Franchot Tone) acompanha o capit\u00e3o Bligh (Charles Laughton) e Fletcher Christian (Clark Gable) em uma viagem de navio ao Taiti. Bligh mostra ser um verdadeiro tirano e, depois de seis prazeirosos meses no Taiti, Christian lidera um motim entre a equipe para voltarem \u00e0 casa.",
+                "vote_average": 7.4,
+                "vote_count": 311
+            },
+            "winner": false
+        }
+    ]
+}

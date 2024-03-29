@@ -1,0 +1,710 @@
+{
+    "Actor": [
+        {
+            "first_label": "George Arliss",
+            "second_label": "Disraeli",
+            "category": "Actor",
+            "year": 1931,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "George Arliss",
+            "second_label": "The Green Goddess",
+            "category": "Actor",
+            "year": 1931,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Wallace Beery",
+            "second_label": "The Big House",
+            "category": "Actor",
+            "year": 1931,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Maurice Chevalier",
+            "second_label": "The Big Pond",
+            "category": "Actor",
+            "year": 1931,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Maurice Chevalier",
+            "second_label": "The Love Parade",
+            "category": "Actor",
+            "year": 1931,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ronald Colman",
+            "second_label": "Bulldog Drummond",
+            "category": "Actor",
+            "year": 1931,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ronald Colman",
+            "second_label": "Condemned",
+            "category": "Actor",
+            "year": 1931,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lawrence Tibbett",
+            "second_label": "The Rogue Song",
+            "category": "Actor",
+            "year": 1931,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress": [
+        {
+            "first_label": "Norma Shearer",
+            "second_label": "The Divorcee",
+            "category": "Actress",
+            "year": 1931,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Nancy Carroll",
+            "second_label": "The Devil's Holiday",
+            "category": "Actress",
+            "year": 1931,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ruth Chatterton",
+            "second_label": "Sarah and Son",
+            "category": "Actress",
+            "year": 1931,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Greta Garbo",
+            "second_label": "Anna Christie",
+            "category": "Actress",
+            "year": 1931,
+            "tmdb": {
+                "id": 293939,
+                "original_title": "Ein Tango f\u00fcr Dich",
+                "title": "A Tango for You",
+                "release_date": "1930-07-31",
+                "backdrop_path": null,
+                "poster_path": "/cDrQBNUDXUvu5jZcMMbeatvdLJi.jpg",
+                "overview": "Jimmy Bolt, a singer and dancer (and occasionally as a waiter) works at a variet\u00e9. The man may be talented, but he\u2019s not exactly a big success, and things get complicated when a young orphan girl falls in love with the voice of another singer but then mistakes Bolt for him\u2026",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Greta Garbo",
+            "second_label": "Romance",
+            "category": "Actress",
+            "year": 1931,
+            "tmdb": {
+                "id": 293939,
+                "original_title": "Ein Tango f\u00fcr Dich",
+                "title": "A Tango for You",
+                "release_date": "1930-07-31",
+                "backdrop_path": null,
+                "poster_path": "/cDrQBNUDXUvu5jZcMMbeatvdLJi.jpg",
+                "overview": "Jimmy Bolt, a singer and dancer (and occasionally as a waiter) works at a variet\u00e9. The man may be talented, but he\u2019s not exactly a big success, and things get complicated when a young orphan girl falls in love with the voice of another singer but then mistakes Bolt for him\u2026",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Norma Shearer",
+            "second_label": "Their Own Desire",
+            "category": "Actress",
+            "year": 1931,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gloria Swanson",
+            "second_label": "The Trespasser",
+            "category": "Actress",
+            "year": 1931,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction": [
+        {
+            "first_label": "King of Jazz",
+            "second_label": "Herman Rosse",
+            "category": "Art Direction",
+            "year": 1931,
+            "tmdb": {
+                "id": 108213,
+                "original_title": "King of Jazz",
+                "title": "O Rei do Jazz",
+                "release_date": "1930-04-20",
+                "backdrop_path": "/lrjr3n25Hmwy6foSrr1w9nMi3e8.jpg",
+                "poster_path": "/p6YcZi3eHxrUMbNySJkzOFjWvoo.jpg",
+                "overview": "Made during the early years of the movie musical, this exuberant revue was one of the most extravagant, eclectic, and technically ambitious Hollywood productions of its day. Starring the bandleader Paul Whiteman, then widely celebrated as the King of Jazz, the film drew from Broadway variety shows to present a spectacular array of sketches, performances by such acts as the Rhythm Boys (featuring a young Bing Crosby), and orchestral numbers\u2014all lavishly staged by veteran theater director John Murray Anderson.",
+                "vote_average": 6.1,
+                "vote_count": 31
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Bulldog Drummond",
+            "second_label": "(William Cameron Menzies)",
+            "category": "Art Direction",
+            "year": 1931,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Love Parade",
+            "second_label": "(Hans Dreier)",
+            "category": "Art Direction",
+            "year": 1931,
+            "tmdb": {
+                "id": 51759,
+                "original_title": "The Love Parade",
+                "title": "Alvorada do Amor",
+                "release_date": "1930-01-18",
+                "backdrop_path": "/iu55XOBLoKKjFBRFTPTZizKn0jp.jpg",
+                "poster_path": "/pWAoFnPsH4gYiFGqLwzicyMazdh.jpg",
+                "overview": "A hist\u00f3ria da Rainha Louise da Sylvania (Jeanette MacDonald) e o seu novo marido, Conde Alfred (Maurice Chevalier). Embora o Conde Alfred tenha prometido, na cerim\u00f3nia de casamento, ser um marido d\u00f3cil, ele depressa se arrepende da sua decis\u00e3o a partir do momento em que as suas ordens n\u00e3o s\u00e3o obedecidas e se vai tornando enfastiado com a vida que leva. Amea\u00e7ando partir para Paris, ele s\u00f3 \u00e9 detido pela Rainha Louise quando ela lhe oferece o equivalente aos poderes de um rei...",
+                "vote_average": 6.4,
+                "vote_count": 29
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sally",
+            "second_label": "(Jack Okey)",
+            "category": "Art Direction",
+            "year": 1931,
+            "tmdb": {
+                "id": 134914,
+                "original_title": "Sally",
+                "title": "Sally",
+                "release_date": "1930-01-12",
+                "backdrop_path": "/1f9Jg3GP8rXmzvtgQPwtIDBQviY.jpg",
+                "poster_path": "/4sDxM5nUoRXe6ZdGml2QOFEhLgV.jpg",
+                "overview": "Sally is an orphan who was named by the telephone exchange where she was abandoned as a baby. In the orphanage, she discovered the joy of dancing. Working as a waitress, she serves Blair (Alexander Gray), and they both fall for each other, but Blair is engaged to socialite Marcia. Sally is hired to impersonate a famous Russian dancer named Noskerova, but at that engagement, she is found to be a phoney. Undaunted, she proceeds with her life and has a show on Broadway, but she still thinks of Blair.",
+                "vote_average": 7.0,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Vagabond King",
+            "second_label": "(Hans Dreier)",
+            "category": "Art Direction",
+            "year": 1931,
+            "tmdb": {
+                "id": 173668,
+                "original_title": "The Vagabond King",
+                "title": "The Vagabond King",
+                "release_date": "1930-02-17",
+                "backdrop_path": "/bQWvvFt4vZSQdUb6YyzSkjAom0s.jpg",
+                "poster_path": "/hVyDecnVeltUh8R32zipZevjs3h.jpg",
+                "overview": "The story takes place in medieval France. Poet-rogue Francois Villon, sentenced to hang by King Louis XI for writing derogatory verses about him, is offered a temporary reprieve. His hanging will be postponed for 24 hours, and in that time he must defeat the invading Burgundians and win the love of the beautiful Katherine.",
+                "vote_average": 6.0,
+                "vote_count": 2
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "With Byrd at the South Pole",
+            "second_label": "Joseph T. Rucker, Willard Van Der Veer",
+            "category": "Cinematography",
+            "year": 1931,
+            "tmdb": {
+                "id": 101383,
+                "original_title": "With Byrd at the South Pole",
+                "title": "With Byrd at the South Pole",
+                "release_date": "1930-06-19",
+                "backdrop_path": "/xyeDoHPhOgnzIdDofeg44CMiHsf.jpg",
+                "poster_path": "/urqYdtCzUU45eRdzne4XDcqkq24.jpg",
+                "overview": "With Byrd at the South Pole (1930) is a documentary film about Rear Admiral Richard E. Byrd and his 1st quest to the South Pole beginning at the Little America-Exploration Base. The film's soundtrack consists mostly of music and sound effects, with narration read by Floyd Gibbons. The film won at the 3rd Academy Awards for Best Cinematography.",
+                "vote_average": 6.3,
+                "vote_count": 13
+            },
+            "winner": true
+        },
+        {
+            "first_label": "All Quiet on the Western Front",
+            "second_label": "(Arthur Edeson)",
+            "category": "Cinematography",
+            "year": 1931,
+            "tmdb": {
+                "id": 143,
+                "original_title": "All Quiet on the Western Front",
+                "title": "Sem Novidade no Front",
+                "release_date": "1930-04-29",
+                "backdrop_path": "/hSRb0YhB4TaeIKgZtQbFuY3l0XM.jpg",
+                "poster_path": "/7kJgNZaRAOYM3HJIP5eTZ8PWVv4.jpg",
+                "overview": "Sete estudantes patriotas alem\u00e3es apresentam-se como volunt\u00e1rios para o servi\u00e7o militar em plena Primeira Guerra Mundial. Baseado no conto hom\u00f4nimo de Erich Maria Remarque, \"Sem Novidade No Front\" \u00e9 um grande filme pacifista, que mostra a loucura e futilidade da guerra. As cenas de guerra nas trincheiras s\u00e3o retratadas de forma brilhante e dolorosa. Mesmo muitos anos ap\u00f3s o seu lan\u00e7amento, continua sendo um tema atual e dominante nos pa\u00edses que sofreram e sofrem com a guerra. Vencedor dos Oscars de Melhor Filme e Melhor Diretor. Considerado o maior filme anti-guerra de todos os tempos.",
+                "vote_average": 7.7,
+                "vote_count": 740
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Anna Christie",
+            "second_label": "(William Daniels)",
+            "category": "Cinematography",
+            "year": 1931,
+            "tmdb": {
+                "id": 42812,
+                "original_title": "Anna Christie",
+                "title": "Anna Christie",
+                "release_date": "1930-02-21",
+                "backdrop_path": "/rBXc4JPCe97mYS5oiCrbbZFQKVY.jpg",
+                "poster_path": "/zHsjA95g42xeBEPcWdF4s1BA53L.jpg",
+                "overview": "Quinze anos ap\u00f3s ter mandado a sua filha Anna viver com os seus parentes em St. Paul, o velho marinheiro Chris Christofferson anseia o regressa da jovem, agora j\u00e1 adulta. As expectativas que tinha sobre a filha acabam por se gorar quando constata que Anna passou afinal por uma vida cheia de dificuldades, na qual se teve, inclusivamente, que prostituir. Uma noite, junto \u00e0 costa onde vivem, um navio naufraga. Chris, ajudado por Anna, consegue salvar tr\u00eas jovens marinheiros. Anna apaixona-se por um deles, Matt, contra a vontade do pai\u2026",
+                "vote_average": 6.1,
+                "vote_count": 44
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hell's Angels",
+            "second_label": "(Gaetano Gaudio), (Harry Perry)",
+            "category": "Cinematography",
+            "year": 1931,
+            "tmdb": {
+                "id": 22301,
+                "original_title": "Hell's Angels",
+                "title": "Anjos do Inferno",
+                "release_date": "1930-11-15",
+                "backdrop_path": "/wZeh4Pa9NXtvgyIngIOIS9j2C3S.jpg",
+                "poster_path": "/vt6zF55B9WLzYENs6cuXy8J5o1X.jpg",
+                "overview": "Os irm\u00e3os Monte e Ray deixam Oxford para se juntar ao Royal Flying Corps. Ray ama Helen e Helen gosta de se divertir com Monte. Antes de sa\u00edrem em miss\u00e3o na Alemanha, encontram-na nos bra\u00e7os de outro homem.",
+                "vote_average": 6.4,
+                "vote_count": 86
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Love Parade",
+            "second_label": "(Victor Milner)",
+            "category": "Cinematography",
+            "year": 1931,
+            "tmdb": {
+                "id": 51759,
+                "original_title": "The Love Parade",
+                "title": "Alvorada do Amor",
+                "release_date": "1930-01-18",
+                "backdrop_path": "/iu55XOBLoKKjFBRFTPTZizKn0jp.jpg",
+                "poster_path": "/pWAoFnPsH4gYiFGqLwzicyMazdh.jpg",
+                "overview": "A hist\u00f3ria da Rainha Louise da Sylvania (Jeanette MacDonald) e o seu novo marido, Conde Alfred (Maurice Chevalier). Embora o Conde Alfred tenha prometido, na cerim\u00f3nia de casamento, ser um marido d\u00f3cil, ele depressa se arrepende da sua decis\u00e3o a partir do momento em que as suas ordens n\u00e3o s\u00e3o obedecidas e se vai tornando enfastiado com a vida que leva. Amea\u00e7ando partir para Paris, ele s\u00f3 \u00e9 detido pela Rainha Louise quando ela lhe oferece o equivalente aos poderes de um rei...",
+                "vote_average": 6.4,
+                "vote_count": 29
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "All Quiet on the Western Front",
+            "second_label": "Lewis Milestone",
+            "category": "Directing",
+            "year": 1931,
+            "tmdb": {
+                "id": 143,
+                "original_title": "All Quiet on the Western Front",
+                "title": "Sem Novidade no Front",
+                "release_date": "1930-04-29",
+                "backdrop_path": "/hSRb0YhB4TaeIKgZtQbFuY3l0XM.jpg",
+                "poster_path": "/7kJgNZaRAOYM3HJIP5eTZ8PWVv4.jpg",
+                "overview": "Sete estudantes patriotas alem\u00e3es apresentam-se como volunt\u00e1rios para o servi\u00e7o militar em plena Primeira Guerra Mundial. Baseado no conto hom\u00f4nimo de Erich Maria Remarque, \"Sem Novidade No Front\" \u00e9 um grande filme pacifista, que mostra a loucura e futilidade da guerra. As cenas de guerra nas trincheiras s\u00e3o retratadas de forma brilhante e dolorosa. Mesmo muitos anos ap\u00f3s o seu lan\u00e7amento, continua sendo um tema atual e dominante nos pa\u00edses que sofreram e sofrem com a guerra. Vencedor dos Oscars de Melhor Filme e Melhor Diretor. Considerado o maior filme anti-guerra de todos os tempos.",
+                "vote_average": 7.7,
+                "vote_count": 740
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Anna Christie",
+            "second_label": "Clarence Brown",
+            "category": "Directing",
+            "year": 1931,
+            "tmdb": {
+                "id": 42812,
+                "original_title": "Anna Christie",
+                "title": "Anna Christie",
+                "release_date": "1930-02-21",
+                "backdrop_path": "/rBXc4JPCe97mYS5oiCrbbZFQKVY.jpg",
+                "poster_path": "/zHsjA95g42xeBEPcWdF4s1BA53L.jpg",
+                "overview": "Quinze anos ap\u00f3s ter mandado a sua filha Anna viver com os seus parentes em St. Paul, o velho marinheiro Chris Christofferson anseia o regressa da jovem, agora j\u00e1 adulta. As expectativas que tinha sobre a filha acabam por se gorar quando constata que Anna passou afinal por uma vida cheia de dificuldades, na qual se teve, inclusivamente, que prostituir. Uma noite, junto \u00e0 costa onde vivem, um navio naufraga. Chris, ajudado por Anna, consegue salvar tr\u00eas jovens marinheiros. Anna apaixona-se por um deles, Matt, contra a vontade do pai\u2026",
+                "vote_average": 6.1,
+                "vote_count": 44
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Romance",
+            "second_label": "Clarence Brown",
+            "category": "Directing",
+            "year": 1931,
+            "tmdb": {
+                "id": 77412,
+                "original_title": "Romance",
+                "title": "Romance",
+                "release_date": "1930-08-20",
+                "backdrop_path": "/lsAUxdJBP0FXSqcjvieZTem6GZ6.jpg",
+                "poster_path": "/vZ2n5RngxRXgqJPZjmnM81tSMyK.jpg",
+                "overview": "O padre Tom apaixona-se por Rita Cavallini, uma cantora de \u00f3pera. Mas Rita est\u00e1 presa ao rico Cornelius Van Tuyl, seu antigo amor, o que dificulta as coisas. A hist\u00f3ria \u00e9 contada pelo agora bispo Tom ao jovem Harry, que deseja casar-se com uma atriz.",
+                "vote_average": 6.3,
+                "vote_count": 12
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Divorcee",
+            "second_label": "Robert Leonard",
+            "category": "Directing",
+            "year": 1931,
+            "tmdb": {
+                "id": 80708,
+                "original_title": "The Divorcee",
+                "title": "A Divorciada",
+                "release_date": "1930-04-19",
+                "backdrop_path": "/yBkiaOHyKf3I2RQCaWjBmjBljXq.jpg",
+                "poster_path": "/zzu6IW9ilkUt6L4DL9SoNnwtAfy.jpg",
+                "overview": "When a woman discovers that her husband has been unfaithful to her, she decides to respond to his infidelities in kind.",
+                "vote_average": 6.2,
+                "vote_count": 46
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Love Parade",
+            "second_label": "Ernst Lubitsch",
+            "category": "Directing",
+            "year": 1931,
+            "tmdb": {
+                "id": 51759,
+                "original_title": "The Love Parade",
+                "title": "Alvorada do Amor",
+                "release_date": "1930-01-18",
+                "backdrop_path": "/iu55XOBLoKKjFBRFTPTZizKn0jp.jpg",
+                "poster_path": "/pWAoFnPsH4gYiFGqLwzicyMazdh.jpg",
+                "overview": "A hist\u00f3ria da Rainha Louise da Sylvania (Jeanette MacDonald) e o seu novo marido, Conde Alfred (Maurice Chevalier). Embora o Conde Alfred tenha prometido, na cerim\u00f3nia de casamento, ser um marido d\u00f3cil, ele depressa se arrepende da sua decis\u00e3o a partir do momento em que as suas ordens n\u00e3o s\u00e3o obedecidas e se vai tornando enfastiado com a vida que leva. Amea\u00e7ando partir para Paris, ele s\u00f3 \u00e9 detido pela Rainha Louise quando ela lhe oferece o equivalente aos poderes de um rei...",
+                "vote_average": 6.4,
+                "vote_count": 29
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hallelujah",
+            "second_label": "King Vidor",
+            "category": "Directing",
+            "year": 1931,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Outstanding Production": [
+        {
+            "first_label": "All Quiet on the Western Front",
+            "second_label": "Universal",
+            "category": "Outstanding Production",
+            "year": 1931,
+            "tmdb": {
+                "id": 143,
+                "original_title": "All Quiet on the Western Front",
+                "title": "Sem Novidade no Front",
+                "release_date": "1930-04-29",
+                "backdrop_path": "/hSRb0YhB4TaeIKgZtQbFuY3l0XM.jpg",
+                "poster_path": "/7kJgNZaRAOYM3HJIP5eTZ8PWVv4.jpg",
+                "overview": "Sete estudantes patriotas alem\u00e3es apresentam-se como volunt\u00e1rios para o servi\u00e7o militar em plena Primeira Guerra Mundial. Baseado no conto hom\u00f4nimo de Erich Maria Remarque, \"Sem Novidade No Front\" \u00e9 um grande filme pacifista, que mostra a loucura e futilidade da guerra. As cenas de guerra nas trincheiras s\u00e3o retratadas de forma brilhante e dolorosa. Mesmo muitos anos ap\u00f3s o seu lan\u00e7amento, continua sendo um tema atual e dominante nos pa\u00edses que sofreram e sofrem com a guerra. Vencedor dos Oscars de Melhor Filme e Melhor Diretor. Considerado o maior filme anti-guerra de todos os tempos.",
+                "vote_average": 7.7,
+                "vote_count": 740
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Big House",
+            "second_label": "Cosmopolitan",
+            "category": "Outstanding Production",
+            "year": 1931,
+            "tmdb": {
+                "id": 47250,
+                "original_title": "The Big House",
+                "title": "O Pres\u00eddio",
+                "release_date": "1930-06-14",
+                "backdrop_path": "/4lRe6MUBc6NW3HRxLYjtEnwdju5.jpg",
+                "poster_path": "/qVf7Dpgx0sdDkZEn4CwTYethoMp.jpg",
+                "overview": "Convicted of manslaughter for a drunken driving accident, Kent Marlowe is sent to prison, where he meets vicious incarcerated figures who are planning an escape from the brutal conditions.",
+                "vote_average": 6.6,
+                "vote_count": 37
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Disraeli",
+            "second_label": "Warner Bros.",
+            "category": "Outstanding Production",
+            "year": 1931,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Divorcee",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Outstanding Production",
+            "year": 1931,
+            "tmdb": {
+                "id": 80708,
+                "original_title": "The Divorcee",
+                "title": "A Divorciada",
+                "release_date": "1930-04-19",
+                "backdrop_path": "/yBkiaOHyKf3I2RQCaWjBmjBljXq.jpg",
+                "poster_path": "/zzu6IW9ilkUt6L4DL9SoNnwtAfy.jpg",
+                "overview": "When a woman discovers that her husband has been unfaithful to her, she decides to respond to his infidelities in kind.",
+                "vote_average": 6.2,
+                "vote_count": 46
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Love Parade",
+            "second_label": "Paramount Famous Lasky",
+            "category": "Outstanding Production",
+            "year": 1931,
+            "tmdb": {
+                "id": 51759,
+                "original_title": "The Love Parade",
+                "title": "Alvorada do Amor",
+                "release_date": "1930-01-18",
+                "backdrop_path": "/iu55XOBLoKKjFBRFTPTZizKn0jp.jpg",
+                "poster_path": "/pWAoFnPsH4gYiFGqLwzicyMazdh.jpg",
+                "overview": "A hist\u00f3ria da Rainha Louise da Sylvania (Jeanette MacDonald) e o seu novo marido, Conde Alfred (Maurice Chevalier). Embora o Conde Alfred tenha prometido, na cerim\u00f3nia de casamento, ser um marido d\u00f3cil, ele depressa se arrepende da sua decis\u00e3o a partir do momento em que as suas ordens n\u00e3o s\u00e3o obedecidas e se vai tornando enfastiado com a vida que leva. Amea\u00e7ando partir para Paris, ele s\u00f3 \u00e9 detido pela Rainha Louise quando ela lhe oferece o equivalente aos poderes de um rei...",
+                "vote_average": 6.4,
+                "vote_count": 29
+            },
+            "winner": false
+        }
+    ],
+    "Sound Recording": [
+        {
+            "first_label": "The Big House",
+            "second_label": "Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",
+            "category": "Sound Recording",
+            "year": 1931,
+            "tmdb": {
+                "id": 47250,
+                "original_title": "The Big House",
+                "title": "O Pres\u00eddio",
+                "release_date": "1930-06-14",
+                "backdrop_path": "/4lRe6MUBc6NW3HRxLYjtEnwdju5.jpg",
+                "poster_path": "/qVf7Dpgx0sdDkZEn4CwTYethoMp.jpg",
+                "overview": "Convicted of manslaughter for a drunken driving accident, Kent Marlowe is sent to prison, where he meets vicious incarcerated figures who are planning an escape from the brutal conditions.",
+                "vote_average": 6.6,
+                "vote_count": 37
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Case of Sergeant Grischa",
+            "second_label": "(RKO Radio Studio Sound Department, John Tribby, Sound Director)",
+            "category": "Sound Recording",
+            "year": 1931,
+            "tmdb": {
+                "id": 173715,
+                "original_title": "The Case of Sergeant Grischa",
+                "title": "The Case of Sergeant Grischa",
+                "release_date": "1930-02-23",
+                "backdrop_path": "/cEASgQOXXVJVRSG9n7Z9CEvkcu6.jpg",
+                "poster_path": "/3UuKtXEY3WTGiBYzFAM4GM5fbGE.jpg",
+                "overview": "This film earned an Oscar nomination for Sound Recording. It is the only film nominated in this category that is among the lost. No negative or print material is known to have survived. Contemporary reviews were scathing, describing the film as a vastly overlong and boring talk-fest.",
+                "vote_average": 6.0,
+                "vote_count": 1
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Love Parade",
+            "second_label": "(Paramount Famous Lasky Studio Sound Department, Franklin Hansen, Sound Director)",
+            "category": "Sound Recording",
+            "year": 1931,
+            "tmdb": {
+                "id": 51759,
+                "original_title": "The Love Parade",
+                "title": "Alvorada do Amor",
+                "release_date": "1930-01-18",
+                "backdrop_path": "/iu55XOBLoKKjFBRFTPTZizKn0jp.jpg",
+                "poster_path": "/pWAoFnPsH4gYiFGqLwzicyMazdh.jpg",
+                "overview": "A hist\u00f3ria da Rainha Louise da Sylvania (Jeanette MacDonald) e o seu novo marido, Conde Alfred (Maurice Chevalier). Embora o Conde Alfred tenha prometido, na cerim\u00f3nia de casamento, ser um marido d\u00f3cil, ele depressa se arrepende da sua decis\u00e3o a partir do momento em que as suas ordens n\u00e3o s\u00e3o obedecidas e se vai tornando enfastiado com a vida que leva. Amea\u00e7ando partir para Paris, ele s\u00f3 \u00e9 detido pela Rainha Louise quando ela lhe oferece o equivalente aos poderes de um rei...",
+                "vote_average": 6.4,
+                "vote_count": 29
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Raffles",
+            "second_label": "(United Artists Studio Sound Department, Oscar Lagerstrom, Sound Director)",
+            "category": "Sound Recording",
+            "year": 1931,
+            "tmdb": {
+                "id": 104439,
+                "original_title": "Raffles",
+                "title": "Raffles",
+                "release_date": "1930-07-11",
+                "backdrop_path": "/gzcfhMFuoryamZ2hOkICFMc6oGk.jpg",
+                "poster_path": "/pcMNl7PGYIj5cj0JV3qOHDfpLGu.jpg",
+                "overview": "A distinguished English gentleman has a secret life--he is the notorious jewel thief the press has dubbed \"The Amateur Cracksman\". When he meets a woman and falls in love he decides to \"retire\" from that life, but an old friend comes to him with a predicament that entails him committing one last job.",
+                "vote_average": 5.9,
+                "vote_count": 11
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Song of the Flame",
+            "second_label": "(First National Studio Sound Department, George Groves, Sound Director)",
+            "category": "Sound Recording",
+            "year": 1931,
+            "tmdb": {
+                "id": 173713,
+                "original_title": "The Song of the Flame",
+                "title": "The Song of the Flame",
+                "release_date": "1930-05-24",
+                "backdrop_path": "/6TOCzEyzpMcIaZ4QktGrxwrHBfm.jpg",
+                "poster_path": "/qH1W5gqsdqmFHmXjXiJvdnh3kyd.jpg",
+                "overview": "This was a screen version of the 1925 operetta by Oscar Hammerstein II, Otto Harbach, Herbert Stohart, and George Gershwin. The story of the movie is about a peasant who is known as \"The Flame\" who leads a revolution in Russia. This peasant who is in love with a Russian prince saves his life by agreeing to sacrifice her virginity to an evil fellow-conspirator. This was an all Technicolor musical which was had a sequence in Vitascope (a Warner Brother's wide screen process)",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        }
+    ],
+    "Writing": [
+        {
+            "first_label": "The Big House",
+            "second_label": "Frances Marion",
+            "category": "Writing",
+            "year": 1931,
+            "tmdb": {
+                "id": 47250,
+                "original_title": "The Big House",
+                "title": "O Pres\u00eddio",
+                "release_date": "1930-06-14",
+                "backdrop_path": "/4lRe6MUBc6NW3HRxLYjtEnwdju5.jpg",
+                "poster_path": "/qVf7Dpgx0sdDkZEn4CwTYethoMp.jpg",
+                "overview": "Convicted of manslaughter for a drunken driving accident, Kent Marlowe is sent to prison, where he meets vicious incarcerated figures who are planning an escape from the brutal conditions.",
+                "vote_average": 6.6,
+                "vote_count": 37
+            },
+            "winner": true
+        },
+        {
+            "first_label": "All Quiet on the Western Front",
+            "second_label": "(George Abbott), (Maxwell Anderson), (Del Andrews)",
+            "category": "Writing",
+            "year": 1931,
+            "tmdb": {
+                "id": 143,
+                "original_title": "All Quiet on the Western Front",
+                "title": "Sem Novidade no Front",
+                "release_date": "1930-04-29",
+                "backdrop_path": "/hSRb0YhB4TaeIKgZtQbFuY3l0XM.jpg",
+                "poster_path": "/7kJgNZaRAOYM3HJIP5eTZ8PWVv4.jpg",
+                "overview": "Sete estudantes patriotas alem\u00e3es apresentam-se como volunt\u00e1rios para o servi\u00e7o militar em plena Primeira Guerra Mundial. Baseado no conto hom\u00f4nimo de Erich Maria Remarque, \"Sem Novidade No Front\" \u00e9 um grande filme pacifista, que mostra a loucura e futilidade da guerra. As cenas de guerra nas trincheiras s\u00e3o retratadas de forma brilhante e dolorosa. Mesmo muitos anos ap\u00f3s o seu lan\u00e7amento, continua sendo um tema atual e dominante nos pa\u00edses que sofreram e sofrem com a guerra. Vencedor dos Oscars de Melhor Filme e Melhor Diretor. Considerado o maior filme anti-guerra de todos os tempos.",
+                "vote_average": 7.7,
+                "vote_count": 740
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Disraeli",
+            "second_label": "(Julian Josephson)",
+            "category": "Writing",
+            "year": 1931,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Divorcee",
+            "second_label": "(John Meehan)",
+            "category": "Writing",
+            "year": 1931,
+            "tmdb": {
+                "id": 80708,
+                "original_title": "The Divorcee",
+                "title": "A Divorciada",
+                "release_date": "1930-04-19",
+                "backdrop_path": "/yBkiaOHyKf3I2RQCaWjBmjBljXq.jpg",
+                "poster_path": "/zzu6IW9ilkUt6L4DL9SoNnwtAfy.jpg",
+                "overview": "When a woman discovers that her husband has been unfaithful to her, she decides to respond to his infidelities in kind.",
+                "vote_average": 6.2,
+                "vote_count": 46
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Street of Chance",
+            "second_label": "(Howard Estabrook)",
+            "category": "Writing",
+            "year": 1931,
+            "tmdb": {
+                "id": 169326,
+                "original_title": "Street of Chance",
+                "title": "Caminhos da Sorte",
+                "release_date": "1930-02-08",
+                "backdrop_path": "/vNPJHbfapU4RWV8F18qP0PEBPi4.jpg",
+                "poster_path": "/eqwX0TpA6aYQy9DMNSAhvrXiqUH.jpg",
+                "overview": "'Natural' Davis (William Powell) is a respected gambler who follows a ruthless code of honor with those who cheat against him. His wife, Alma (Kay Francis), wants to divorce him because of his addiction and lifestyle, but they agree on a reconciliation and second honeymoon together and 'Natural' promises to give up gambling. However, his plans change when his brother, 'Babe' (Regis Toomey), arrives in town looking to score big, and 'Natural' has to devise a plan quickly to put him off gambling forever.",
+                "vote_average": 6.3,
+                "vote_count": 4
+            },
+            "winner": false
+        }
+    ]
+}

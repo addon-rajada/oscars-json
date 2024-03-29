@@ -1,0 +1,1766 @@
+{
+    "Actor": [
+        {
+            "first_label": "Laurence Olivier",
+            "second_label": "Hamlet",
+            "category": "Actor",
+            "year": 1949,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Lew Ayres",
+            "second_label": "Johnny Belinda",
+            "category": "Actor",
+            "year": 1949,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Montgomery Clift",
+            "second_label": "The Search",
+            "category": "Actor",
+            "year": 1949,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dan Dailey",
+            "second_label": "When My Baby Smiles at Me",
+            "category": "Actor",
+            "year": 1949,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Clifton Webb",
+            "second_label": "Sitting Pretty",
+            "category": "Actor",
+            "year": 1949,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Walter Huston",
+            "second_label": "The Treasure of the Sierra Madre",
+            "category": "Actor in a Supporting Role",
+            "year": 1949,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Charles Bickford",
+            "second_label": "Johnny Belinda",
+            "category": "Actor in a Supporting Role",
+            "year": 1949,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jos Ferrer",
+            "second_label": "Joan of Arc",
+            "category": "Actor in a Supporting Role",
+            "year": 1949,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Oscar Homolka",
+            "second_label": "I Remember Mama",
+            "category": "Actor in a Supporting Role",
+            "year": 1949,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Cecil Kellaway",
+            "second_label": "The Luck of the Irish",
+            "category": "Actor in a Supporting Role",
+            "year": 1949,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress": [
+        {
+            "first_label": "Jane Wyman",
+            "second_label": "Johnny Belinda",
+            "category": "Actress",
+            "year": 1949,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Ingrid Bergman",
+            "second_label": "Joan of Arc",
+            "category": "Actress",
+            "year": 1949,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Olivia de Havilland",
+            "second_label": "The Snake Pit",
+            "category": "Actress",
+            "year": 1949,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Irene Dunne",
+            "second_label": "I Remember Mama",
+            "category": "Actress",
+            "year": 1949,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Barbara Stanwyck",
+            "second_label": "Sorry, Wrong Number",
+            "category": "Actress",
+            "year": 1949,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Claire Trevor",
+            "second_label": "Key Largo",
+            "category": "Actress in a Supporting Role",
+            "year": 1949,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Barbara Bel Geddes",
+            "second_label": "I Remember Mama",
+            "category": "Actress in a Supporting Role",
+            "year": 1949,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ellen Corby",
+            "second_label": "I Remember Mama",
+            "category": "Actress in a Supporting Role",
+            "year": 1949,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Agnes Moorehead",
+            "second_label": "Johnny Belinda",
+            "category": "Actress in a Supporting Role",
+            "year": 1949,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jean Simmons",
+            "second_label": "Hamlet",
+            "category": "Actress in a Supporting Role",
+            "year": 1949,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction (Black-and-White)": [
+        {
+            "first_label": "Hamlet",
+            "second_label": "Art Direction: Roger K. Furse; Set Decoration: Carmen Dillon",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1949,
+            "tmdb": {
+                "id": 23383,
+                "original_title": "Hamlet",
+                "title": "Hamlet",
+                "release_date": "1948-12-10",
+                "backdrop_path": "/tFfucMJh4Me1JYBIRJcOokWWuLs.jpg",
+                "poster_path": "/woO9SgU2vTRMZeG0YqOLeoIqlzC.jpg",
+                "overview": "O pr\u00edncipe dinamarqu\u00eas Hamlet (Laurence Olivier) procura vingar a morte do pai o Rei. O fantasma do seu pai conta que foi assassinado pelo seu tio (Basil Sydney), irm\u00e3o do rei, que assumiu o trono e casou-se com a rainha, a m\u00e3e de Hamlet (Eileen Herlie).",
+                "vote_average": 7.5,
+                "vote_count": 234
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Johnny Belinda",
+            "second_label": "Art Direction: Robert Haas; Set Decoration: William Wallace",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1949,
+            "tmdb": {
+                "id": 62000,
+                "original_title": "Johnny Belinda",
+                "title": "Belinda",
+                "release_date": "1948-09-14",
+                "backdrop_path": "/u3lmI4KMiU2tV5zWQPm6222kq92.jpg",
+                "poster_path": "/lIkYFx7ZaU56iG507lgLoSh1GNR.jpg",
+                "overview": "No Cabo Breton do p\u00f3s-guerra, os esfor\u00e7os de um m\u00e9dico para orientar uma mulher surda/muda s\u00e3o prejudicados quando ela \u00e9 estuprada, e a gravidez resultante causa esc\u00e2ndalo. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.8,
+                "vote_count": 65
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction (Color)": [
+        {
+            "first_label": "The Red Shoes",
+            "second_label": "Art Direction: Hein Heckroth; Set Decoration: Arthur Lawson",
+            "category": "Art Direction (Color)",
+            "year": 1949,
+            "tmdb": {
+                "id": 19542,
+                "original_title": "The Red Shoes",
+                "title": "Os Sapatinhos Vermelhos",
+                "release_date": "1948-09-06",
+                "backdrop_path": "/cSbBSHHiy849SUhyTW6FX4Dbj43.jpg",
+                "poster_path": "/3LWh4MLETNE52QkQ2MYKTrfd3v8.jpg",
+                "overview": "No \u00e1rduo mundo do bal\u00e9, as garotas e dan\u00e7arinos do empres\u00e1rio Boris Lermontov n\u00e3o t\u00eam folga: sua vida deve ser devotada \u00e0 dan\u00e7a se eles quiserem continuar na carreira. A jovem bailarina Victoria Page \u00e9 uma promessa, e ap\u00f3s o sucesso do espet\u00e1culo \"Red Shoes\", parece que ela ter\u00e1 o mundo a seus p\u00e9s, at\u00e9 se envolver com o compositor Julian Craster, a contragosto de Lermontov.",
+                "vote_average": 7.966,
+                "vote_count": 607
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Joan of Arc",
+            "second_label": "Art Direction: Richard Day; Set Decoration: Edwin Casey Roberts, Joseph Kish",
+            "category": "Art Direction (Color)",
+            "year": 1949,
+            "tmdb": {
+                "id": 43443,
+                "original_title": "Joan of Arc",
+                "title": "Joana D'Arc",
+                "release_date": "1948-12-22",
+                "backdrop_path": "/9YLQnn3ChNgzBVoSMcV8oFmW7it.jpg",
+                "poster_path": "/obeSdxiZtBv2Epqko3BxORrrTx.jpg",
+                "overview": "No s\u00e9culo XV, a Fran\u00e7a \u00e9 uma na\u00e7\u00e3o derrotada e arruinada ap\u00f3s a Guerra dos Cem Anos contra a Inglaterra. A menina de fazenda de 14 anos de idade Joana D'Arc afirma ouvir vozes do C\u00e9u pedindo-lhe para levar Ex\u00e9rcito de Deus contra Orleans e coroando o fraco Delfim Charles VII como Rei da Fran\u00e7a. Joana arregimenta as pessoas com a sua f\u00e9, forma um ex\u00e9rcito e conquista Orleans. Quando seu ex\u00e9rcito est\u00e1 pronto para atacar Paris, o corrupto Charles vende seu pa\u00eds para a Inglaterra e dissolve o ex\u00e9rcito. Joana \u00e9 presa, vendida ao Burgundians Ingleses e submetida a um julgamento pol\u00edtico vergonhoso no castelo de Rouen.",
+                "vote_average": 6.2,
+                "vote_count": 70
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography (Black-and-White)": [
+        {
+            "first_label": "The Naked City",
+            "second_label": "William Daniels",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1949,
+            "tmdb": {
+                "id": 20482,
+                "original_title": "The Naked City",
+                "title": "Cidade Nua",
+                "release_date": "1948-03-04",
+                "backdrop_path": "/wKH0879JYE2BqFVL0AT6wSc63kq.jpg",
+                "poster_path": "/rex4oaiSCD8UQg9204R6hQcFrX9.jpg",
+                "overview": "Dois detetives da cidade de Nova York, Don Muldoon (Barry Fitzgerald) e Jimmy Halloran (Don Taylor) s\u00e3o designados pra investigar um misterioso assassinato de uma mulher. Seguindo os rastros de joias roubadas ligadas ao crime, os detetives localizam Ruth e seu noivo. Os dois, juntamente com o assassino da mulher, controlam um ladr\u00e3o de joias que vem importunando a sociedade de Nova York. Um dos mais excitantes filmes do g\u00eanero \"noir\" da d\u00e9cada.",
+                "vote_average": 7.2,
+                "vote_count": 231
+            },
+            "winner": true
+        },
+        {
+            "first_label": "A Foreign Affair",
+            "second_label": "Charles B. Lang, Jr.",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1949,
+            "tmdb": {
+                "id": 61650,
+                "original_title": "A Foreign Affair",
+                "title": "A Mundana",
+                "release_date": "1948-08-20",
+                "backdrop_path": "/2ayWDLdRN5PLzZ3sB0LQfX4BnFi.jpg",
+                "poster_path": "/gtIrfeYq5h5QioFIT9xCU4W53aB.jpg",
+                "overview": "Uma congressista (Jean Arthur) vai \u00e0 Berlim destru\u00edda pela Segunda Guerra Mundial, para verificar o moral das tropas norte-americanas. Durante a inspe\u00e7\u00e3o, um capit\u00e3o (John Lund) tenta seduzi-la para que ela n\u00e3o descubra seu envolvimento com uma cantora alem\u00e3 (Marlene Dietrich), suspeita de ser simpatizante nazista.",
+                "vote_average": 7.0,
+                "vote_count": 134
+            },
+            "winner": false
+        },
+        {
+            "first_label": "I Remember Mama",
+            "second_label": "Nicholas Musuraca",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1949,
+            "tmdb": {
+                "id": 43442,
+                "original_title": "I Remember Mama",
+                "title": "I Remember Mama",
+                "release_date": "1948-03-09",
+                "backdrop_path": "/jdsWlcsYvg6ziMtaAf5XiW1jv5V.jpg",
+                "poster_path": "/oqiq3Zm6NeiVvd08gpUUu3WrihA.jpg",
+                "overview": "Norwegian immigrant Marta Hanson keeps a firm but loving hand on her household of four children, a devoted husband and a highly-educated lodger who reads great literature to the family every evening. Through financial crises, illnesses and the small triumphs of everyday life, Marta maintains her optimism and sense of humor, traits she passes on to her aspiring-author daughter, Katrin.",
+                "vote_average": 7.0,
+                "vote_count": 53
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Johnny Belinda",
+            "second_label": "Ted McCord",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1949,
+            "tmdb": {
+                "id": 62000,
+                "original_title": "Johnny Belinda",
+                "title": "Belinda",
+                "release_date": "1948-09-14",
+                "backdrop_path": "/u3lmI4KMiU2tV5zWQPm6222kq92.jpg",
+                "poster_path": "/lIkYFx7ZaU56iG507lgLoSh1GNR.jpg",
+                "overview": "No Cabo Breton do p\u00f3s-guerra, os esfor\u00e7os de um m\u00e9dico para orientar uma mulher surda/muda s\u00e3o prejudicados quando ela \u00e9 estuprada, e a gravidez resultante causa esc\u00e2ndalo. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.8,
+                "vote_count": 65
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Portrait of Jennie",
+            "second_label": "Joseph August",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1949,
+            "tmdb": {
+                "id": 32558,
+                "original_title": "Portrait of Jennie",
+                "title": "O Retrato de Jennie",
+                "release_date": "1948-12-25",
+                "backdrop_path": "/n9Hbq2PRv3nhbFbLQkgWb7nP8Ck.jpg",
+                "poster_path": "/AuZVFoCOxKKwC6eKWol4NkAFpWi.jpg",
+                "overview": "A mysterious girl inspires a struggling artist.",
+                "vote_average": 7.047,
+                "vote_count": 95
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography (Color)": [
+        {
+            "first_label": "Joan of Arc",
+            "second_label": "Joseph Valentine, William V. Skall, Winton Hoch",
+            "category": "Cinematography (Color)",
+            "year": 1949,
+            "tmdb": {
+                "id": 43443,
+                "original_title": "Joan of Arc",
+                "title": "Joana D'Arc",
+                "release_date": "1948-12-22",
+                "backdrop_path": "/9YLQnn3ChNgzBVoSMcV8oFmW7it.jpg",
+                "poster_path": "/obeSdxiZtBv2Epqko3BxORrrTx.jpg",
+                "overview": "No s\u00e9culo XV, a Fran\u00e7a \u00e9 uma na\u00e7\u00e3o derrotada e arruinada ap\u00f3s a Guerra dos Cem Anos contra a Inglaterra. A menina de fazenda de 14 anos de idade Joana D'Arc afirma ouvir vozes do C\u00e9u pedindo-lhe para levar Ex\u00e9rcito de Deus contra Orleans e coroando o fraco Delfim Charles VII como Rei da Fran\u00e7a. Joana arregimenta as pessoas com a sua f\u00e9, forma um ex\u00e9rcito e conquista Orleans. Quando seu ex\u00e9rcito est\u00e1 pronto para atacar Paris, o corrupto Charles vende seu pa\u00eds para a Inglaterra e dissolve o ex\u00e9rcito. Joana \u00e9 presa, vendida ao Burgundians Ingleses e submetida a um julgamento pol\u00edtico vergonhoso no castelo de Rouen.",
+                "vote_average": 6.2,
+                "vote_count": 70
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Green Grass of Wyoming",
+            "second_label": "Charles G. Clarke",
+            "category": "Cinematography (Color)",
+            "year": 1949,
+            "tmdb": {
+                "id": 18985,
+                "original_title": "Green Grass of Wyoming",
+                "title": "Green Grass of Wyoming",
+                "release_date": "1948-06-03",
+                "backdrop_path": "/zu30CAjLKjMlxGfoy1NDZUKgaNx.jpg",
+                "poster_path": "/myWY0rBMCP44ftESRneYxCGjrSi.jpg",
+                "overview": "The romance of a rancher's niece and a rival rancher's son parallels that of a stallion and a mare.",
+                "vote_average": 6.3,
+                "vote_count": 12
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Loves of Carmen",
+            "second_label": "William Snyder",
+            "category": "Cinematography (Color)",
+            "year": 1949,
+            "tmdb": {
+                "id": 43455,
+                "original_title": "The Loves of Carmen",
+                "title": "Os Amores de Carmen",
+                "release_date": "1948-08-23",
+                "backdrop_path": "/hRCyfCtARGdOEe7YWpVOEKcY9vn.jpg",
+                "poster_path": "/oSaGu8Qxh4PTy6FyNPZ9E8UWiFD.jpg",
+                "overview": "Uma bela mas amoral garota cigana seduz um jovem militar da Cavalaria e o faz trair sua honra e ser dispensado do servi\u00e7o militar. Por causa dela ele logo come\u00e7a numa vida de crime. Baseado na \u00f3pera Carmen de Georges Bizet, por sua vez baseada no romance Carmen de Prosper M\u00e9rim\u00e9e.",
+                "vote_average": 6.9,
+                "vote_count": 18
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Three Musketeers",
+            "second_label": "Robert Planck",
+            "category": "Cinematography (Color)",
+            "year": 1949,
+            "tmdb": {
+                "id": 41609,
+                "original_title": "The Three Musketeers",
+                "title": "Os Tr\u00eas Mosqueteiros",
+                "release_date": "1948-10-19",
+                "backdrop_path": "/ApuhdQZ2KaQB9CDgmI2DhCOlZiI.jpg",
+                "poster_path": "/k4zfvqavw0WLaPo7098tjHA8xX3.jpg",
+                "overview": "D'Artagnan, um jovem provinciano, chega \u00e0 Paris com o intuito de se tornar um mosqueteiro. Ele encontrar\u00e1 muitos obst\u00e1culos, a\u00e7\u00e3o, amor, \u00f3dio, o rei e a rainha. E ainda Richelieu e sua impetuosidade, que deixar\u00e1 D'Artagnan envolvido em tramas pol\u00edticas. Mas contra tudo e todos ele se junta a Athos, Porthos e Aramis. D'Artagnan ter\u00e1, al\u00e9m do mais, que se desdobrar para manter seguro o seu amor pela encantadora Constance Bonacieux sem com isso indispor a apaixonada Milady De Winter, uma agente secreta do Cardeal.",
+                "vote_average": 6.7,
+                "vote_count": 131
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design (Black-and-White)": [
+        {
+            "first_label": "Hamlet",
+            "second_label": "Roger K. Furse",
+            "category": "Costume Design (Black-and-White)",
+            "year": 1949,
+            "tmdb": {
+                "id": 23383,
+                "original_title": "Hamlet",
+                "title": "Hamlet",
+                "release_date": "1948-12-10",
+                "backdrop_path": "/tFfucMJh4Me1JYBIRJcOokWWuLs.jpg",
+                "poster_path": "/woO9SgU2vTRMZeG0YqOLeoIqlzC.jpg",
+                "overview": "O pr\u00edncipe dinamarqu\u00eas Hamlet (Laurence Olivier) procura vingar a morte do pai o Rei. O fantasma do seu pai conta que foi assassinado pelo seu tio (Basil Sydney), irm\u00e3o do rei, que assumiu o trono e casou-se com a rainha, a m\u00e3e de Hamlet (Eileen Herlie).",
+                "vote_average": 7.5,
+                "vote_count": 234
+            },
+            "winner": true
+        },
+        {
+            "first_label": "B. F.'s Daughter",
+            "second_label": "Irene",
+            "category": "Costume Design (Black-and-White)",
+            "year": 1949,
+            "tmdb": {
+                "id": 83838,
+                "original_title": "B.F.'s Daughter",
+                "title": "A Rebelde",
+                "release_date": "1948-03-24",
+                "backdrop_path": "/meRGwlMnS1YXZlfb3qNDSQxM4F3.jpg",
+                "poster_path": "/5qtpLnKIR5nD8BmokfQnAlK4R7C.jpg",
+                "overview": "Ax\u00e8le, fot\u00f3grafa, e Camille, escritora, partem por um ano \u00e0 Vila M\u00e9dicis, em Roma. Camille \u00e9 acompanhada por seu marido, o c\u00e9lebre escritor Marc Landr\u00e9. Enquanto uma estranha rivalidade se instala no casal, Camille se aproxima da jovem fot\u00f3grafa.",
+                "vote_average": 6.3,
+                "vote_count": 8
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design (Color)": [
+        {
+            "first_label": "Joan of Arc",
+            "second_label": "Dorothy Jeakins, Karinska",
+            "category": "Costume Design (Color)",
+            "year": 1949,
+            "tmdb": {
+                "id": 43443,
+                "original_title": "Joan of Arc",
+                "title": "Joana D'Arc",
+                "release_date": "1948-12-22",
+                "backdrop_path": "/9YLQnn3ChNgzBVoSMcV8oFmW7it.jpg",
+                "poster_path": "/obeSdxiZtBv2Epqko3BxORrrTx.jpg",
+                "overview": "No s\u00e9culo XV, a Fran\u00e7a \u00e9 uma na\u00e7\u00e3o derrotada e arruinada ap\u00f3s a Guerra dos Cem Anos contra a Inglaterra. A menina de fazenda de 14 anos de idade Joana D'Arc afirma ouvir vozes do C\u00e9u pedindo-lhe para levar Ex\u00e9rcito de Deus contra Orleans e coroando o fraco Delfim Charles VII como Rei da Fran\u00e7a. Joana arregimenta as pessoas com a sua f\u00e9, forma um ex\u00e9rcito e conquista Orleans. Quando seu ex\u00e9rcito est\u00e1 pronto para atacar Paris, o corrupto Charles vende seu pa\u00eds para a Inglaterra e dissolve o ex\u00e9rcito. Joana \u00e9 presa, vendida ao Burgundians Ingleses e submetida a um julgamento pol\u00edtico vergonhoso no castelo de Rouen.",
+                "vote_average": 6.2,
+                "vote_count": 70
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Emperor Waltz",
+            "second_label": "Edith Head, Gile Steele",
+            "category": "Costume Design (Color)",
+            "year": 1949,
+            "tmdb": {
+                "id": 38804,
+                "original_title": "The Emperor Waltz",
+                "title": "The Emperor Waltz",
+                "release_date": "1948-07-02",
+                "backdrop_path": "/dfl63w8irDbF7FYN8rVbQTFFdW.jpg",
+                "poster_path": "/duJXRdPna0jWpsdcDOPpPqbTPsa.jpg",
+                "overview": "At the turn of the 20th century, travelling salesman Virgil Smith journeys to Vienna in the hope he can sell a gramophone to Emperor Franz Joseph, whose purchase of the recent American invention could spur its popularity in Austria.",
+                "vote_average": 5.9,
+                "vote_count": 23
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "The Treasure of the Sierra Madre",
+            "second_label": "John Huston",
+            "category": "Directing",
+            "year": 1949,
+            "tmdb": {
+                "id": 3090,
+                "original_title": "The Treasure of the Sierra Madre",
+                "title": "O Tesouro de Sierra Madre",
+                "release_date": "1948-01-15",
+                "backdrop_path": "/sj5R5SGor3YMFBuabMj8gPbyBmh.jpg",
+                "poster_path": "/aDx0b64VlRJt36kpDwx5CqAY2tg.jpg",
+                "overview": "Dois vagabundos e um garimpeiro grisalho descobrem um verdadeiro tesouro em ouro, mas a gan\u00e2ncia e a paranoia vai rapidamente se apoderar de todos neste cl\u00e1ssico sobre o poder da riqueza escondida nas montanhas e a avareza que se esconde no cora\u00e7\u00e3o dos homens. e 12.",
+                "vote_average": 8.0,
+                "vote_count": 1119
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Hamlet",
+            "second_label": "Laurence Olivier",
+            "category": "Directing",
+            "year": 1949,
+            "tmdb": {
+                "id": 23383,
+                "original_title": "Hamlet",
+                "title": "Hamlet",
+                "release_date": "1948-12-10",
+                "backdrop_path": "/tFfucMJh4Me1JYBIRJcOokWWuLs.jpg",
+                "poster_path": "/woO9SgU2vTRMZeG0YqOLeoIqlzC.jpg",
+                "overview": "O pr\u00edncipe dinamarqu\u00eas Hamlet (Laurence Olivier) procura vingar a morte do pai o Rei. O fantasma do seu pai conta que foi assassinado pelo seu tio (Basil Sydney), irm\u00e3o do rei, que assumiu o trono e casou-se com a rainha, a m\u00e3e de Hamlet (Eileen Herlie).",
+                "vote_average": 7.5,
+                "vote_count": 234
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Johnny Belinda",
+            "second_label": "Jean Negulesco",
+            "category": "Directing",
+            "year": 1949,
+            "tmdb": {
+                "id": 62000,
+                "original_title": "Johnny Belinda",
+                "title": "Belinda",
+                "release_date": "1948-09-14",
+                "backdrop_path": "/u3lmI4KMiU2tV5zWQPm6222kq92.jpg",
+                "poster_path": "/lIkYFx7ZaU56iG507lgLoSh1GNR.jpg",
+                "overview": "No Cabo Breton do p\u00f3s-guerra, os esfor\u00e7os de um m\u00e9dico para orientar uma mulher surda/muda s\u00e3o prejudicados quando ela \u00e9 estuprada, e a gravidez resultante causa esc\u00e2ndalo. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.8,
+                "vote_count": 65
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Search",
+            "second_label": "Fred Zinnemann",
+            "category": "Directing",
+            "year": 1949,
+            "tmdb": {
+                "id": 41131,
+                "original_title": "The Search",
+                "title": "Perdidos na Tormenta",
+                "release_date": "1948-03-26",
+                "backdrop_path": "/hcVy8lkYnvTEbKAkYj5Kyl6yE8G.jpg",
+                "poster_path": "/jDP8XxQUJTTofJPkhFER3aBYDqR.jpg",
+                "overview": "Na Berlim do p\u00f3s-guerra, um soldado americano ajuda um menino Tcheco perdido a encontrar sua m\u00e3e. Um menino Tcheco de nove anos de idade, mudo, sobrevivente de Auschwitz, foge de um centro de refugiados na Alemanha no p\u00f3s-guerra e \u00e9 encontrado por um soldado americano. Ao mesmo tempo, a m\u00e3e do menino, o \u00fanico membro sobrevivente de sua fam\u00edlia, procura pelo seu filho em Centros de Refugiados. Tempo, dist\u00e2ncia, e o enorme  n\u00famero de crian\u00e7as refugiadas s\u00e3o fatores que dificultam o reencontro de m\u00e3e e filho.",
+                "vote_average": 6.9,
+                "vote_count": 65
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Snake Pit",
+            "second_label": "Anatole Litvak",
+            "category": "Directing",
+            "year": 1949,
+            "tmdb": {
+                "id": 62694,
+                "original_title": "The Snake Pit",
+                "title": "Na Cova da Serpente",
+                "release_date": "1948-11-04",
+                "backdrop_path": "/xyPp8XpOozFfpZmYSlz0h9SpOpO.jpg",
+                "poster_path": "/7NkGhyPfLoPHiFzXVUXU91nMeLb.jpg",
+                "overview": "Uma cr\u00f4nica detalhada da estadia de uma mulher em uma institui\u00e7\u00e3o mental.  Virginia Cunningham se encontra em um asilo de loucos... E n\u00e3o consegue se lembrar de como chegou l\u00e1. Em flashback, seu marido Robert relata seu namoro, casamento e seus sintomas em desenvolvimento. O pessoal do asilo n\u00e3o \u00e9 demonizado, mas o medo, a ignor\u00e2ncia e os preconceitos mant\u00eam a Virg\u00ednia em um estado de mis\u00e9ria, enquanto o Dr. Mark Kik luta para encontrar a raiz de seu problema. Mas uma reca\u00edda leva Virg\u00ednia de volta para a angustiante 'Cova da Serpente' ...",
+                "vote_average": 7.0,
+                "vote_count": 92
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "The Secret Land",
+            "second_label": "Orville O. Dull, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1949,
+            "tmdb": {
+                "id": 114471,
+                "original_title": "The Secret Land",
+                "title": "The Secret Land",
+                "release_date": "1948-10-22",
+                "backdrop_path": "/bq0dywv0to2FbLlq3h0CLxZWdFB.jpg",
+                "poster_path": "/avkYNdwwf3WYQd8cK90q3IBU9ef.jpg",
+                "overview": "This documentary, filmed entirely by military photographers, recounts the U.S. Navy's 1946-47 expedition to Antarctica, known as Operation High Jump. The expedition was under the overall command of Admiral Richard E. Byrd, no stranger to the Antarctic. This was a large undertaking involving 13 ships and over 4000 thousand men. The fleet departed from Norfolk, Virginia traveling through the Panama canal and then southward to their final destination. The trip through the ice pack was fraught with danger and forced the submarine that was part of the fleet to withdraw. The trip was a success meeting all of its scientific goals.",
+                "vote_average": 5.9,
+                "vote_count": 8
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Quiet One",
+            "second_label": "Janice Loeb, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1949,
+            "tmdb": {
+                "id": 99185,
+                "original_title": "The Quiet One",
+                "title": "The Quiet One",
+                "release_date": "1948-09-01",
+                "backdrop_path": null,
+                "poster_path": "/bF4Vo1djRnmeiexPF7BJqluzFkD.jpg",
+                "overview": "A documentary account of the rehabilitation at the Wiltwyck School of an emotionally disturbed black boy who is unwanted, misunderstood, and inwardly tortured.",
+                "vote_average": 4.8,
+                "vote_count": 4
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "Toward Independence",
+            "second_label": "United States Army",
+            "category": "Documentary (Short Subject)",
+            "year": 1949,
+            "tmdb": {
+                "id": 240452,
+                "original_title": "Toward Independence",
+                "title": "Toward Independence",
+                "release_date": "1948-01-01",
+                "backdrop_path": null,
+                "poster_path": "/zayACSusQp3z27eAecUQ0HNR7xp.jpg",
+                "overview": "Toward Independence is a 1948 American short documentary film about the rehabilitation of individuals with spinal cord injuries.",
+                "vote_average": 5.8,
+                "vote_count": 5
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Heart to Heart",
+            "second_label": "Herbert Morgan, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1949,
+            "tmdb": {
+                "id": 29682,
+                "original_title": "So Dear to My Heart",
+                "title": "Meu Querido Carneirinho",
+                "release_date": "1948-11-29",
+                "backdrop_path": "/naRUQ7gNgz0Q9VjBuQGewJlRKmf.jpg",
+                "poster_path": "/sWoOc4tkxlTf0i8YYia25sPRinY.jpg",
+                "overview": "Jerry \u00e9 um garoto que adota como seu bichinho de estima\u00e7\u00e3o Danny, um carneirinho preto e muito bagunceiro. O sonho do menino \u00e9 transformar seu carneiro sem pedigree em um campe\u00e3o da Exposi\u00e7\u00e3o de Animais. Apesar das dificuldades, Jerry n\u00e3o vai desistir.",
+                "vote_average": 6.5,
+                "vote_count": 42
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Operation Vittles",
+            "second_label": "United States Army Air Force",
+            "category": "Documentary (Short Subject)",
+            "year": 1949,
+            "tmdb": {
+                "id": 240455,
+                "original_title": "Operation Vittles",
+                "title": "Operation Vittles",
+                "release_date": "1948-01-01",
+                "backdrop_path": null,
+                "poster_path": "/lF9mAUyirWiGNjmIlUR7evNQJm4.jpg",
+                "overview": "Operation Vittles is a 1948 American short documentary film about the Berlin Airlift, from the initial closure of the city in 1948 through 1949. It explains how, what, and why that supported the city. It was nominated for an Academy Award for Best Documentary Short.",
+                "vote_average": 5.0,
+                "vote_count": 3
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "The Naked City",
+            "second_label": "Paul Weatherwax",
+            "category": "Film Editing",
+            "year": 1949,
+            "tmdb": {
+                "id": 20482,
+                "original_title": "The Naked City",
+                "title": "Cidade Nua",
+                "release_date": "1948-03-04",
+                "backdrop_path": "/wKH0879JYE2BqFVL0AT6wSc63kq.jpg",
+                "poster_path": "/rex4oaiSCD8UQg9204R6hQcFrX9.jpg",
+                "overview": "Dois detetives da cidade de Nova York, Don Muldoon (Barry Fitzgerald) e Jimmy Halloran (Don Taylor) s\u00e3o designados pra investigar um misterioso assassinato de uma mulher. Seguindo os rastros de joias roubadas ligadas ao crime, os detetives localizam Ruth e seu noivo. Os dois, juntamente com o assassino da mulher, controlam um ladr\u00e3o de joias que vem importunando a sociedade de Nova York. Um dos mais excitantes filmes do g\u00eanero \"noir\" da d\u00e9cada.",
+                "vote_average": 7.2,
+                "vote_count": 231
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Joan of Arc",
+            "second_label": "Frank Sullivan",
+            "category": "Film Editing",
+            "year": 1949,
+            "tmdb": {
+                "id": 43443,
+                "original_title": "Joan of Arc",
+                "title": "Joana D'Arc",
+                "release_date": "1948-12-22",
+                "backdrop_path": "/9YLQnn3ChNgzBVoSMcV8oFmW7it.jpg",
+                "poster_path": "/obeSdxiZtBv2Epqko3BxORrrTx.jpg",
+                "overview": "No s\u00e9culo XV, a Fran\u00e7a \u00e9 uma na\u00e7\u00e3o derrotada e arruinada ap\u00f3s a Guerra dos Cem Anos contra a Inglaterra. A menina de fazenda de 14 anos de idade Joana D'Arc afirma ouvir vozes do C\u00e9u pedindo-lhe para levar Ex\u00e9rcito de Deus contra Orleans e coroando o fraco Delfim Charles VII como Rei da Fran\u00e7a. Joana arregimenta as pessoas com a sua f\u00e9, forma um ex\u00e9rcito e conquista Orleans. Quando seu ex\u00e9rcito est\u00e1 pronto para atacar Paris, o corrupto Charles vende seu pa\u00eds para a Inglaterra e dissolve o ex\u00e9rcito. Joana \u00e9 presa, vendida ao Burgundians Ingleses e submetida a um julgamento pol\u00edtico vergonhoso no castelo de Rouen.",
+                "vote_average": 6.2,
+                "vote_count": 70
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Johnny Belinda",
+            "second_label": "David Weisbart",
+            "category": "Film Editing",
+            "year": 1949,
+            "tmdb": {
+                "id": 62000,
+                "original_title": "Johnny Belinda",
+                "title": "Belinda",
+                "release_date": "1948-09-14",
+                "backdrop_path": "/u3lmI4KMiU2tV5zWQPm6222kq92.jpg",
+                "poster_path": "/lIkYFx7ZaU56iG507lgLoSh1GNR.jpg",
+                "overview": "No Cabo Breton do p\u00f3s-guerra, os esfor\u00e7os de um m\u00e9dico para orientar uma mulher surda/muda s\u00e3o prejudicados quando ela \u00e9 estuprada, e a gravidez resultante causa esc\u00e2ndalo. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.8,
+                "vote_count": 65
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Red River",
+            "second_label": "Christian Nyby",
+            "category": "Film Editing",
+            "year": 1949,
+            "tmdb": {
+                "id": 3089,
+                "original_title": "Red River",
+                "title": "Rio Vermelho",
+                "release_date": "1948-08-26",
+                "backdrop_path": "/lao4uGoHBwlhFYMigkF7Zwo8CoD.jpg",
+                "poster_path": "/jyNTsAzrIWB441OtvfbgKtx1kFS.jpg",
+                "overview": "Uma aventura intensa e repleta de a\u00e7\u00e3o que captura a grandiosidade, impon\u00eancia e perigo do selvagem oeste americano. Tom Dunson (John Wayne) conduz seu enorme rebanho pela trai\u00e7oeira Trilha Chisholm, arriscando tudo para alcan\u00e7ar seu destino, o Rio Vermelho. Mas, no caminho, novas informa\u00e7\u00f5es e as maneiras tir\u00e2nicas de Dunson fazem Matthew Garth, seu filho adotivo, tirar o rebanho de Dunson e levar para um novo destino no Kansas. Dunson, querendo vingan\u00e7a, sai em persegui\u00e7\u00e3o.",
+                "vote_average": 7.371,
+                "vote_count": 484
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Red Shoes",
+            "second_label": "Reginald Mills",
+            "category": "Film Editing",
+            "year": 1949,
+            "tmdb": {
+                "id": 19542,
+                "original_title": "The Red Shoes",
+                "title": "Os Sapatinhos Vermelhos",
+                "release_date": "1948-09-06",
+                "backdrop_path": "/cSbBSHHiy849SUhyTW6FX4Dbj43.jpg",
+                "poster_path": "/3LWh4MLETNE52QkQ2MYKTrfd3v8.jpg",
+                "overview": "No \u00e1rduo mundo do bal\u00e9, as garotas e dan\u00e7arinos do empres\u00e1rio Boris Lermontov n\u00e3o t\u00eam folga: sua vida deve ser devotada \u00e0 dan\u00e7a se eles quiserem continuar na carreira. A jovem bailarina Victoria Page \u00e9 uma promessa, e ap\u00f3s o sucesso do espet\u00e1culo \"Red Shoes\", parece que ela ter\u00e1 o mundo a seus p\u00e9s, at\u00e9 se envolver com o compositor Julian Craster, a contragosto de Lermontov.",
+                "vote_average": 7.966,
+                "vote_count": 607
+            },
+            "winner": false
+        }
+    ],
+    "Irving G. Thalberg Memorial Award": [
+        {
+            "first_label": "",
+            "second_label": "Jerry Wald",
+            "category": "Irving G. Thalberg Memorial Award",
+            "year": 1949,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        }
+    ],
+    "Music (Music Score of a Dramatic or Comedy Picture)": [
+        {
+            "first_label": "The Red Shoes",
+            "second_label": "Brian Easdale",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1949,
+            "tmdb": {
+                "id": 19542,
+                "original_title": "The Red Shoes",
+                "title": "Os Sapatinhos Vermelhos",
+                "release_date": "1948-09-06",
+                "backdrop_path": "/cSbBSHHiy849SUhyTW6FX4Dbj43.jpg",
+                "poster_path": "/3LWh4MLETNE52QkQ2MYKTrfd3v8.jpg",
+                "overview": "No \u00e1rduo mundo do bal\u00e9, as garotas e dan\u00e7arinos do empres\u00e1rio Boris Lermontov n\u00e3o t\u00eam folga: sua vida deve ser devotada \u00e0 dan\u00e7a se eles quiserem continuar na carreira. A jovem bailarina Victoria Page \u00e9 uma promessa, e ap\u00f3s o sucesso do espet\u00e1culo \"Red Shoes\", parece que ela ter\u00e1 o mundo a seus p\u00e9s, at\u00e9 se envolver com o compositor Julian Craster, a contragosto de Lermontov.",
+                "vote_average": 7.966,
+                "vote_count": 607
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Hamlet",
+            "second_label": "William Walton",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1949,
+            "tmdb": {
+                "id": 23383,
+                "original_title": "Hamlet",
+                "title": "Hamlet",
+                "release_date": "1948-12-10",
+                "backdrop_path": "/tFfucMJh4Me1JYBIRJcOokWWuLs.jpg",
+                "poster_path": "/woO9SgU2vTRMZeG0YqOLeoIqlzC.jpg",
+                "overview": "O pr\u00edncipe dinamarqu\u00eas Hamlet (Laurence Olivier) procura vingar a morte do pai o Rei. O fantasma do seu pai conta que foi assassinado pelo seu tio (Basil Sydney), irm\u00e3o do rei, que assumiu o trono e casou-se com a rainha, a m\u00e3e de Hamlet (Eileen Herlie).",
+                "vote_average": 7.5,
+                "vote_count": 234
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Joan of Arc",
+            "second_label": "Hugo Friedhofer",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1949,
+            "tmdb": {
+                "id": 43443,
+                "original_title": "Joan of Arc",
+                "title": "Joana D'Arc",
+                "release_date": "1948-12-22",
+                "backdrop_path": "/9YLQnn3ChNgzBVoSMcV8oFmW7it.jpg",
+                "poster_path": "/obeSdxiZtBv2Epqko3BxORrrTx.jpg",
+                "overview": "No s\u00e9culo XV, a Fran\u00e7a \u00e9 uma na\u00e7\u00e3o derrotada e arruinada ap\u00f3s a Guerra dos Cem Anos contra a Inglaterra. A menina de fazenda de 14 anos de idade Joana D'Arc afirma ouvir vozes do C\u00e9u pedindo-lhe para levar Ex\u00e9rcito de Deus contra Orleans e coroando o fraco Delfim Charles VII como Rei da Fran\u00e7a. Joana arregimenta as pessoas com a sua f\u00e9, forma um ex\u00e9rcito e conquista Orleans. Quando seu ex\u00e9rcito est\u00e1 pronto para atacar Paris, o corrupto Charles vende seu pa\u00eds para a Inglaterra e dissolve o ex\u00e9rcito. Joana \u00e9 presa, vendida ao Burgundians Ingleses e submetida a um julgamento pol\u00edtico vergonhoso no castelo de Rouen.",
+                "vote_average": 6.2,
+                "vote_count": 70
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Johnny Belinda",
+            "second_label": "Max Steiner",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1949,
+            "tmdb": {
+                "id": 62000,
+                "original_title": "Johnny Belinda",
+                "title": "Belinda",
+                "release_date": "1948-09-14",
+                "backdrop_path": "/u3lmI4KMiU2tV5zWQPm6222kq92.jpg",
+                "poster_path": "/lIkYFx7ZaU56iG507lgLoSh1GNR.jpg",
+                "overview": "No Cabo Breton do p\u00f3s-guerra, os esfor\u00e7os de um m\u00e9dico para orientar uma mulher surda/muda s\u00e3o prejudicados quando ela \u00e9 estuprada, e a gravidez resultante causa esc\u00e2ndalo. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.8,
+                "vote_count": 65
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Snake Pit",
+            "second_label": "Alfred Newman",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1949,
+            "tmdb": {
+                "id": 62694,
+                "original_title": "The Snake Pit",
+                "title": "Na Cova da Serpente",
+                "release_date": "1948-11-04",
+                "backdrop_path": "/xyPp8XpOozFfpZmYSlz0h9SpOpO.jpg",
+                "poster_path": "/7NkGhyPfLoPHiFzXVUXU91nMeLb.jpg",
+                "overview": "Uma cr\u00f4nica detalhada da estadia de uma mulher em uma institui\u00e7\u00e3o mental.  Virginia Cunningham se encontra em um asilo de loucos... E n\u00e3o consegue se lembrar de como chegou l\u00e1. Em flashback, seu marido Robert relata seu namoro, casamento e seus sintomas em desenvolvimento. O pessoal do asilo n\u00e3o \u00e9 demonizado, mas o medo, a ignor\u00e2ncia e os preconceitos mant\u00eam a Virg\u00ednia em um estado de mis\u00e9ria, enquanto o Dr. Mark Kik luta para encontrar a raiz de seu problema. Mas uma reca\u00edda leva Virg\u00ednia de volta para a angustiante 'Cova da Serpente' ...",
+                "vote_average": 7.0,
+                "vote_count": 92
+            },
+            "winner": false
+        }
+    ],
+    "Music (Scoring of a Musical Picture)": [
+        {
+            "first_label": "Easter Parade",
+            "second_label": "Johnny Green, Roger Edens",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1949,
+            "tmdb": {
+                "id": 29380,
+                "original_title": "Easter Parade",
+                "title": "Desfile de P\u00e1scoa",
+                "release_date": "1948-07-08",
+                "backdrop_path": "/g2MffH3EQXvjSnFF8ol1VkuAKci.jpg",
+                "poster_path": "/aLgvafQvb6D6at4khC0b7kn0h8f.jpg",
+                "overview": "Um artista de nightclub contrata uma ing\u00eanua Menina do Coro para ser sua nova parceira de dan\u00e7a para deixar sua ex-parceira ciumenta e para provar que ele pode transformar qualquer parceira em uma estrela.  Na v\u00e9spera da P\u00e1scoa em 1911, Don Hewes \u00e9 surpreendido quando sua parceira de dan\u00e7a (e tamb\u00e9m sua paix\u00e3o) Nadine Hale se recusa a renovar o contrato com ele. Para provar que Nadine n\u00e3o \u00e9 importante para ele, Don contrata uma ing\u00eanua Menina do Coro, Hannah Brown, prometendo fazer dela uma estrela a tempo para o desfile de P\u00e1scoa do pr\u00f3ximo ano. Cheio de Melodia! Cheio de Amor!",
+                "vote_average": 6.9,
+                "vote_count": 130
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Emperor Waltz",
+            "second_label": "Victor Young",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1949,
+            "tmdb": {
+                "id": 38804,
+                "original_title": "The Emperor Waltz",
+                "title": "The Emperor Waltz",
+                "release_date": "1948-07-02",
+                "backdrop_path": "/dfl63w8irDbF7FYN8rVbQTFFdW.jpg",
+                "poster_path": "/duJXRdPna0jWpsdcDOPpPqbTPsa.jpg",
+                "overview": "At the turn of the 20th century, travelling salesman Virgil Smith journeys to Vienna in the hope he can sell a gramophone to Emperor Franz Joseph, whose purchase of the recent American invention could spur its popularity in Austria.",
+                "vote_average": 5.9,
+                "vote_count": 23
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Pirate",
+            "second_label": "Lennie Hayton",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1949,
+            "tmdb": {
+                "id": 35032,
+                "original_title": "The Pirate",
+                "title": "O Pirata",
+                "release_date": "1948-06-11",
+                "backdrop_path": "/nYAWpmsmoX9FrTinl9y75r75Q.jpg",
+                "poster_path": "/ltoy9asHYuLcEq78jjvZPjH6LCG.jpg",
+                "overview": "A girl is engaged to the local richman, but meanwhile she has dreams about the legendary pirate Macoco. A traveling singer falls in love with her and to impress her he poses as the pirate.",
+                "vote_average": 6.5,
+                "vote_count": 87
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Romance on the High Seas",
+            "second_label": "Ray Heindorf",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1949,
+            "tmdb": {
+                "id": 43449,
+                "original_title": "Romance on the High Seas",
+                "title": "Romance em Alto-Mar",
+                "release_date": "1948-06-25",
+                "backdrop_path": "/6xdHzVtFQoyoker40qD4rdlIFtU.jpg",
+                "poster_path": "/60YafJKLwCINwD7Q10yWXDpAGt3.jpg",
+                "overview": "Desentendimentos rom\u00e2nticas abundam quando os c\u00f4njuges suspeitam um do outro e uma cantora de boate vai num cruzeiro sob identidade falsa. A socialite Elvira Kent (Janis Paige) desconfia de seu marido Michael Kent (Don DeFore) est\u00e1 paquerando outras mulheres. Quando ele anuncia que n\u00e3o pode acompanh\u00e1-la em sua programada viagem de cruzeiro, ela contrata a cantora de boate Georgia Garrett (Doris Day), para fingir ser ela no cruzeiro. Elvira fica em um hotel perto de casa para que possa espionar seu marido. No entanto ela n\u00e3o sabe que seu marido contratou um detetive, Peter Virgil (Jack Carson), para ficar de olho nela no mar. Claro que Peter n\u00e3o percebe que a Ge\u00f3rgia n\u00e3o \u00e9 a Sra. Kent e a\u00ed...",
+                "vote_average": 6.8,
+                "vote_count": 28
+            },
+            "winner": false
+        },
+        {
+            "first_label": "When My Baby Smiles at Me",
+            "second_label": "Alfred Newman",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1949,
+            "tmdb": {
+                "id": 201074,
+                "original_title": "When My Baby Smiles at Me",
+                "title": "When My Baby Smiles at Me",
+                "release_date": "1948-11-10",
+                "backdrop_path": "/2eIK465CztcwHQ6Ds5rEusbocT9.jpg",
+                "poster_path": "/kkqweLXeP0ohTAqVgb3jCsQVwHl.jpg",
+                "overview": "Bonny Kane and 'Skid' Johnson are vaudeville performers in the 1920s. The two of them suffer marital difficulties when Skid gets an offer to appear on Broadway while Bonny gets left behind on the road. Things get worse with Skid's increasing drinking problem and the fact that the press has reported him to be spending a lot of time with his pretty co-star.",
+                "vote_average": 4.8,
+                "vote_count": 5
+            },
+            "winner": false
+        }
+    ],
+    "Music (Song)": [
+        {
+            "first_label": "The Paleface",
+            "second_label": "Buttons And Bows in \"The Paleface\" Music and Lyrics by Jay Livingston and Ray Evans",
+            "category": "Music (Song)",
+            "year": 1949,
+            "tmdb": {
+                "id": 17804,
+                "original_title": "The Paleface",
+                "title": "O Valente Treme-Treme",
+                "release_date": "1948-12-17",
+                "backdrop_path": "/dm8dfILA11OYR0usqQGJJZQMw93.jpg",
+                "poster_path": "/dyB8CdPQTv12k5Jkk3Rx257jxRw.jpg",
+                "overview": "Calamity Jane, uma famosa pistoleira, \u00e9 libertada da pris\u00e3o por seus comparsas. Levada \u00e0 presen\u00e7a do Governador Johnson e do Comiss\u00e1rio, eles lhe contam que a sua fuga foi planejada, de forma que todos pensassem que ela teria sido executada pelos colegas. \u00c9 proposta a ela seu perd\u00e3o, em troca de Jane ajud-a-los a prender uma quadrilha que contrabandeia armas para os ind\u00edgenas.",
+                "vote_average": 6.1,
+                "vote_count": 63
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Casbah",
+            "second_label": "For Every Man There's A Woman in \"Casbah\" Music by Harold Arlen; Lyrics by Leo Robin",
+            "category": "Music (Song)",
+            "year": 1949,
+            "tmdb": {
+                "id": 45628,
+                "original_title": "Casbah",
+                "title": "Casbah",
+                "release_date": "1948-04-01",
+                "backdrop_path": "/2uE13eTmXRNXreuq9V1YVtPS4Ey.jpg",
+                "poster_path": "/4wBE8iu1Z424CgvJbtLUGsX35Lp.jpg",
+                "overview": "Pepe Le Moko leads a gang of jewel thieves in the Casbah of Algiers, where he has exiled himself to escape imprisonment in his native France.",
+                "vote_average": 5.7,
+                "vote_count": 14
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Romance on the High Seas",
+            "second_label": "It's Magic in \"Romance on the High Seas\" Music by Jule Styne; Lyrics by Sammy Cahn",
+            "category": "Music (Song)",
+            "year": 1949,
+            "tmdb": {
+                "id": 43449,
+                "original_title": "Romance on the High Seas",
+                "title": "Romance em Alto-Mar",
+                "release_date": "1948-06-25",
+                "backdrop_path": "/6xdHzVtFQoyoker40qD4rdlIFtU.jpg",
+                "poster_path": "/60YafJKLwCINwD7Q10yWXDpAGt3.jpg",
+                "overview": "Desentendimentos rom\u00e2nticas abundam quando os c\u00f4njuges suspeitam um do outro e uma cantora de boate vai num cruzeiro sob identidade falsa. A socialite Elvira Kent (Janis Paige) desconfia de seu marido Michael Kent (Don DeFore) est\u00e1 paquerando outras mulheres. Quando ele anuncia que n\u00e3o pode acompanh\u00e1-la em sua programada viagem de cruzeiro, ela contrata a cantora de boate Georgia Garrett (Doris Day), para fingir ser ela no cruzeiro. Elvira fica em um hotel perto de casa para que possa espionar seu marido. No entanto ela n\u00e3o sabe que seu marido contratou um detetive, Peter Virgil (Jack Carson), para ficar de olho nela no mar. Claro que Peter n\u00e3o percebe que a Ge\u00f3rgia n\u00e3o \u00e9 a Sra. Kent e a\u00ed...",
+                "vote_average": 6.8,
+                "vote_count": 28
+            },
+            "winner": false
+        },
+        {
+            "first_label": "That Lady in Ermine",
+            "second_label": "This Is The Moment in \"That Lady in Ermine\" Music by Frederick Hollander; Lyrics by Leo Robin",
+            "category": "Music (Song)",
+            "year": 1949,
+            "tmdb": {
+                "id": 52278,
+                "original_title": "That Lady in Ermine",
+                "title": "That Lady in Ermine",
+                "release_date": "1948-08-24",
+                "backdrop_path": "/qOD84c5MHTFWaKiIqkIqteZ3gRF.jpg",
+                "poster_path": "/64dV400PRPPXh6bLjPQkdO8BMjh.jpg",
+                "overview": "Circa 1861, Angelina, ruling countess of an Italian principality, is at a loss when invaded by a Hungarian army. Her lookalike ancestress Francesca, who saved a similar situation 300 years before, comes to life from a portrait to help her descendant. Complicating factor: the newlywed countess feels strangely drawn to the handsome invader...",
+                "vote_average": 5.8,
+                "vote_count": 14
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Wet Blanket Policy",
+            "second_label": "The Woody Woodpecker Song in \"Wet Blanket Policy\" Music and Lyrics by Ramey Idriss and George Tibbles",
+            "category": "Music (Song)",
+            "year": 1949,
+            "tmdb": {
+                "id": 217150,
+                "original_title": "Wet Blanket Policy",
+                "title": "Ap\u00f3lice Cobertor",
+                "release_date": "1948-08-27",
+                "backdrop_path": "/psTZNUkxQh0zfYJ9VqnruVLUaEX.jpg",
+                "poster_path": "/8dvBRxgzx76U1QONP9H0SlfTMzL.jpg",
+                "overview": "Pica-Pau tenta se livrar do neg\u00f3cio sujo do Zeca Urubu.",
+                "vote_average": 7.2,
+                "vote_count": 5
+            },
+            "winner": false
+        }
+    ],
+    "Best Motion Picture": [
+        {
+            "first_label": "Hamlet",
+            "second_label": "J. Arthur Rank-Two Cities Films",
+            "category": "Best Motion Picture",
+            "year": 1949,
+            "tmdb": {
+                "id": 23383,
+                "original_title": "Hamlet",
+                "title": "Hamlet",
+                "release_date": "1948-12-10",
+                "backdrop_path": "/tFfucMJh4Me1JYBIRJcOokWWuLs.jpg",
+                "poster_path": "/woO9SgU2vTRMZeG0YqOLeoIqlzC.jpg",
+                "overview": "O pr\u00edncipe dinamarqu\u00eas Hamlet (Laurence Olivier) procura vingar a morte do pai o Rei. O fantasma do seu pai conta que foi assassinado pelo seu tio (Basil Sydney), irm\u00e3o do rei, que assumiu o trono e casou-se com a rainha, a m\u00e3e de Hamlet (Eileen Herlie).",
+                "vote_average": 7.5,
+                "vote_count": 234
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Johnny Belinda",
+            "second_label": "Warner Bros.",
+            "category": "Best Motion Picture",
+            "year": 1949,
+            "tmdb": {
+                "id": 62000,
+                "original_title": "Johnny Belinda",
+                "title": "Belinda",
+                "release_date": "1948-09-14",
+                "backdrop_path": "/u3lmI4KMiU2tV5zWQPm6222kq92.jpg",
+                "poster_path": "/lIkYFx7ZaU56iG507lgLoSh1GNR.jpg",
+                "overview": "No Cabo Breton do p\u00f3s-guerra, os esfor\u00e7os de um m\u00e9dico para orientar uma mulher surda/muda s\u00e3o prejudicados quando ela \u00e9 estuprada, e a gravidez resultante causa esc\u00e2ndalo. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.8,
+                "vote_count": 65
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Red Shoes",
+            "second_label": "J. Arthur Rank-Archers",
+            "category": "Best Motion Picture",
+            "year": 1949,
+            "tmdb": {
+                "id": 19542,
+                "original_title": "The Red Shoes",
+                "title": "Os Sapatinhos Vermelhos",
+                "release_date": "1948-09-06",
+                "backdrop_path": "/cSbBSHHiy849SUhyTW6FX4Dbj43.jpg",
+                "poster_path": "/3LWh4MLETNE52QkQ2MYKTrfd3v8.jpg",
+                "overview": "No \u00e1rduo mundo do bal\u00e9, as garotas e dan\u00e7arinos do empres\u00e1rio Boris Lermontov n\u00e3o t\u00eam folga: sua vida deve ser devotada \u00e0 dan\u00e7a se eles quiserem continuar na carreira. A jovem bailarina Victoria Page \u00e9 uma promessa, e ap\u00f3s o sucesso do espet\u00e1culo \"Red Shoes\", parece que ela ter\u00e1 o mundo a seus p\u00e9s, at\u00e9 se envolver com o compositor Julian Craster, a contragosto de Lermontov.",
+                "vote_average": 7.966,
+                "vote_count": 607
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Snake Pit",
+            "second_label": "20th Century-Fox",
+            "category": "Best Motion Picture",
+            "year": 1949,
+            "tmdb": {
+                "id": 62694,
+                "original_title": "The Snake Pit",
+                "title": "Na Cova da Serpente",
+                "release_date": "1948-11-04",
+                "backdrop_path": "/xyPp8XpOozFfpZmYSlz0h9SpOpO.jpg",
+                "poster_path": "/7NkGhyPfLoPHiFzXVUXU91nMeLb.jpg",
+                "overview": "Uma cr\u00f4nica detalhada da estadia de uma mulher em uma institui\u00e7\u00e3o mental.  Virginia Cunningham se encontra em um asilo de loucos... E n\u00e3o consegue se lembrar de como chegou l\u00e1. Em flashback, seu marido Robert relata seu namoro, casamento e seus sintomas em desenvolvimento. O pessoal do asilo n\u00e3o \u00e9 demonizado, mas o medo, a ignor\u00e2ncia e os preconceitos mant\u00eam a Virg\u00ednia em um estado de mis\u00e9ria, enquanto o Dr. Mark Kik luta para encontrar a raiz de seu problema. Mas uma reca\u00edda leva Virg\u00ednia de volta para a angustiante 'Cova da Serpente' ...",
+                "vote_average": 7.0,
+                "vote_count": 92
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Treasure of the Sierra Madre",
+            "second_label": "Warner Bros.",
+            "category": "Best Motion Picture",
+            "year": 1949,
+            "tmdb": {
+                "id": 3090,
+                "original_title": "The Treasure of the Sierra Madre",
+                "title": "O Tesouro de Sierra Madre",
+                "release_date": "1948-01-15",
+                "backdrop_path": "/sj5R5SGor3YMFBuabMj8gPbyBmh.jpg",
+                "poster_path": "/aDx0b64VlRJt36kpDwx5CqAY2tg.jpg",
+                "overview": "Dois vagabundos e um garimpeiro grisalho descobrem um verdadeiro tesouro em ouro, mas a gan\u00e2ncia e a paranoia vai rapidamente se apoderar de todos neste cl\u00e1ssico sobre o poder da riqueza escondida nas montanhas e a avareza que se esconde no cora\u00e7\u00e3o dos homens. e 12.",
+                "vote_average": 8.0,
+                "vote_count": 1119
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Cartoon)": [
+        {
+            "first_label": "The Little Orphan",
+            "second_label": "Fred Quimby, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1949,
+            "tmdb": {
+                "id": 72668,
+                "original_title": "The Little Orphan",
+                "title": "The Little Orphan",
+                "release_date": "1948-12-01",
+                "backdrop_path": "/jWRYs5ogOMviEiwqIT8s3LJafKB.jpg",
+                "poster_path": "/pVZDDu1OFraZnLtBOnOUkWkd1TJ.jpg",
+                "overview": "The Bide A Wee Mouse Home has sent the orphan mouse Nibbles to spend Thanksgiving with Jerry. Unfortunately, Nibbles is always hungry.",
+                "vote_average": 6.9,
+                "vote_count": 52
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Mickey and the Seal",
+            "second_label": "Walt Disney, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1949,
+            "tmdb": {
+                "id": 67001,
+                "original_title": "Mickey and the Seal",
+                "title": "Mickey e a Foca",
+                "release_date": "1948-12-03",
+                "backdrop_path": "/hUm13KvhX4uGvLwFRotHVBVh71R.jpg",
+                "poster_path": "/fMVNvcJg3YDVaBV6547a6ObSVH.jpg",
+                "overview": "Mickey Mouse inadvertidamente traz para casa uma foca beb\u00ea do zool\u00f3gico, Pluto \u00e9 o \u00fanico que sabe disso.",
+                "vote_average": 6.6,
+                "vote_count": 45
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mouse Wreckers",
+            "second_label": "Edward Selzer, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1949,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Robin Hoodlum",
+            "second_label": "United Productions of America",
+            "category": "Short Subject (Cartoon)",
+            "year": 1949,
+            "tmdb": {
+                "id": 103978,
+                "original_title": "Robin Hoodlum",
+                "title": "Robin Hoodlum",
+                "release_date": "1948-12-23",
+                "backdrop_path": "/3Ug2nkskIdJM3a8nWtHR8kRvjJi.jpg",
+                "poster_path": "/nrXXf9yAgnVbBLmYBbdVM40VhAZ.jpg",
+                "overview": "Fox is Robin Hoodlum and the Crow is the Sheriff pursuing R. Hoodlum and his merry band. He escapes one trap after another until he is lured into an archery contest at the Palace---everybody plays the Palace sooner or later---and gets caught.",
+                "vote_average": 5.4,
+                "vote_count": 8
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tea for Two Hundred",
+            "second_label": "Walt Disney, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1949,
+            "tmdb": {
+                "id": 90497,
+                "original_title": "Tea for Two Hundred",
+                "title": "Tea for Two Hundred",
+                "release_date": "1948-12-24",
+                "backdrop_path": "/ox5XUxO4icDZvk09vObqTmx4gng.jpg",
+                "poster_path": "/z2Al3kkyswXXQcU6AUlEsJbfpt2.jpg",
+                "overview": "Donald is preparing a little picnic when he sees some ants passing by. He decides to tease one, ultimately by piling lots of food onto it. The ant eventually stumbles, but realizes Donald is sitting on a veritable gold mine. He rallies his fellow ants, and while Donald is napping, they cart him to a cliff and drop him into the river. When he returns to the raid in progress, he finds himself powerless to stop it. He dynamites the ant hill, but that only separates the ledge he's standing on, and he finds himself in the river again as the ants finish off a cupcake.",
+                "vote_average": 6.3,
+                "vote_count": 37
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (One-reel)": [
+        {
+            "first_label": "Symphony of a City",
+            "second_label": "Edmund H. Reek, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1949,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Annie Was a Wonder",
+            "second_label": "Herbert Moulton, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1949,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Cinderella Horse",
+            "second_label": "Gordon Hollingshead, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1949,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "So You Want to Be on the Radio",
+            "second_label": "Gordon Hollingshead, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1949,
+            "tmdb": {
+                "id": 240449,
+                "original_title": "So You Want to Be on the Radio",
+                "title": "So You Want to Be on the Radio",
+                "release_date": "1948-11-06",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "Joe McDoakes and his wife love to participate in radio show contests, but something seems to interfere every time they are lucky enough to be chosen as participants.",
+                "vote_average": 5.7,
+                "vote_count": 6
+            },
+            "winner": false
+        },
+        {
+            "first_label": "You Can't Win",
+            "second_label": "Pete Smith, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1949,
+            "tmdb": {
+                "id": 240451,
+                "original_title": "You Can't Win",
+                "title": "You Can't Win",
+                "release_date": "1948-05-29",
+                "backdrop_path": null,
+                "poster_path": "/6MaHRfey3ZNf4sSOihpmL4sYjV3.jpg",
+                "overview": "In this comedic Pete Smith Specialty short film, a homeowner experiences a series of mishaps while taking a day off from the office.",
+                "vote_average": 3.7,
+                "vote_count": 7
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Two-reel)": [
+        {
+            "first_label": "Seal Island",
+            "second_label": "Walt Disney, Producer",
+            "category": "Short Subject (Two-reel)",
+            "year": 1949,
+            "tmdb": {
+                "id": 107881,
+                "original_title": "Seal Island",
+                "title": "Seal Island",
+                "release_date": "1948-12-21",
+                "backdrop_path": "/c7UnX3lFkM845bNFc1cywlG8OO2.jpg",
+                "poster_path": "/9bCvFyQ14yyUwAdAKhUS9Hjr8Dp.jpg",
+                "overview": "Seal Island is a 1948 American documentary film directed by James Algar. It won an Academy Award in 1949 for Best Short Subject (Two-Reel).",
+                "vote_average": 6.7,
+                "vote_count": 8
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Calgary Stampede",
+            "second_label": "Gordon Hollingshead, Producer",
+            "category": "Short Subject (Two-reel)",
+            "year": 1949,
+            "tmdb": {
+                "id": 240440,
+                "original_title": "Calgary Stampede",
+                "title": "Calgary Stampede",
+                "release_date": "1948-05-29",
+                "backdrop_path": "/2UC5xQmJ2o46m3pPsargOsrRckC.jpg",
+                "poster_path": "/fJuNgS5tS2Q6SuTGTD7hk7d7tkn.jpg",
+                "overview": "The pageantry of Calgary's colorful celebration of its past, culminating with its world famous rodeo, is chronicled.",
+                "vote_average": 5.0,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Going to Blazes",
+            "second_label": "Herbert Morgan, Producer",
+            "category": "Short Subject (Two-reel)",
+            "year": 1949,
+            "tmdb": {
+                "id": 240441,
+                "original_title": "Going to Blazes!",
+                "title": "Going to Blazes!",
+                "release_date": "1948-04-24",
+                "backdrop_path": null,
+                "poster_path": "/52LIvQMh8H5EVqnyEVlkk3LdovO.jpg",
+                "overview": "This Theatre of Life series short, produced with the cooperation of the Los Angeles Fire Department, emphasizes fire safety and fire prevention. It gives a behind-the-scenes look at the switching system used to dispatch the proper equipment to fires, as well as a look at life in the fire station and fire fighter training. The film was nominated for an Oscar for Best Short Subject, Two-Reel.",
+                "vote_average": 5.8,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Samba-Mania",
+            "second_label": "Harry Grey, Producer",
+            "category": "Short Subject (Two-reel)",
+            "year": 1949,
+            "tmdb": {
+                "id": 240442,
+                "original_title": "Samba-Mania",
+                "title": "Samba-Mania",
+                "release_date": "1948-02-27",
+                "backdrop_path": null,
+                "poster_path": "/iVGzoOaE6ij9CpgpCLPHUYJOUS2.jpg",
+                "overview": "Night club owner Russ Vincent hires boogie-woogie dancer Betty Hannon for a spot in a South American revue headed by Lita Baron (as Isabelita.) The latter is wary of Hannon's motives, but Vincent dismisses her feelings as jealousy.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Snow Capers",
+            "second_label": "Thomas Mead, Producer",
+            "category": "Short Subject (Two-reel)",
+            "year": 1949,
+            "tmdb": {
+                "id": 240443,
+                "original_title": "Snow Capers",
+                "title": "Snow Capers",
+                "release_date": "1948-01-01",
+                "backdrop_path": null,
+                "poster_path": "/1kUWdHd7Wgo0yAKgcfguKTCsSH5.jpg",
+                "overview": "Snow Capers is a 1948 short documentary film about winter sports in the Rocky Mountains directed by Arthur Cohen. It was nominated for an Oscar for Short Subjects, Two-Reel.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        }
+    ],
+    "Sound Recording": [
+        {
+            "first_label": "The Snake Pit",
+            "second_label": "20th Century-Fox Studio Sound Department, Thomas T. Moulton, Sound Director",
+            "category": "Sound Recording",
+            "year": 1949,
+            "tmdb": {
+                "id": 62694,
+                "original_title": "The Snake Pit",
+                "title": "Na Cova da Serpente",
+                "release_date": "1948-11-04",
+                "backdrop_path": "/xyPp8XpOozFfpZmYSlz0h9SpOpO.jpg",
+                "poster_path": "/7NkGhyPfLoPHiFzXVUXU91nMeLb.jpg",
+                "overview": "Uma cr\u00f4nica detalhada da estadia de uma mulher em uma institui\u00e7\u00e3o mental.  Virginia Cunningham se encontra em um asilo de loucos... E n\u00e3o consegue se lembrar de como chegou l\u00e1. Em flashback, seu marido Robert relata seu namoro, casamento e seus sintomas em desenvolvimento. O pessoal do asilo n\u00e3o \u00e9 demonizado, mas o medo, a ignor\u00e2ncia e os preconceitos mant\u00eam a Virg\u00ednia em um estado de mis\u00e9ria, enquanto o Dr. Mark Kik luta para encontrar a raiz de seu problema. Mas uma reca\u00edda leva Virg\u00ednia de volta para a angustiante 'Cova da Serpente' ...",
+                "vote_average": 7.0,
+                "vote_count": 92
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Johnny Belinda",
+            "second_label": "Warner Bros. Studio Sound Department, Col. Nathan O. Levinson, Sound Director",
+            "category": "Sound Recording",
+            "year": 1949,
+            "tmdb": {
+                "id": 62000,
+                "original_title": "Johnny Belinda",
+                "title": "Belinda",
+                "release_date": "1948-09-14",
+                "backdrop_path": "/u3lmI4KMiU2tV5zWQPm6222kq92.jpg",
+                "poster_path": "/lIkYFx7ZaU56iG507lgLoSh1GNR.jpg",
+                "overview": "No Cabo Breton do p\u00f3s-guerra, os esfor\u00e7os de um m\u00e9dico para orientar uma mulher surda/muda s\u00e3o prejudicados quando ela \u00e9 estuprada, e a gravidez resultante causa esc\u00e2ndalo. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.8,
+                "vote_count": 65
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Moonrise",
+            "second_label": "Republic Studio Sound Department, Daniel J. Bloomberg, Sound Director",
+            "category": "Sound Recording",
+            "year": 1949,
+            "tmdb": {
+                "id": 28392,
+                "original_title": "Moonrise",
+                "title": "Ao Cair da Noite",
+                "release_date": "1948-10-01",
+                "backdrop_path": "/4O2edhgfsspXdyNV0nLQLN5IsU5.jpg",
+                "poster_path": "/9U0WHjNGNDipkl11Qlcg4NA9aHz.jpg",
+                "overview": "Stigmatized from infancy by the fate of his criminal father, a man is bruised and bullied until one night, in a fit of rage, he kills his most persistent tormentor. As the police close in around him, he makes a desperate bid for the love of the dead man\u2019s fianc\u00e9e, a schoolteacher who sees the wounded soul behind his aggression.",
+                "vote_average": 6.2,
+                "vote_count": 66
+            },
+            "winner": false
+        }
+    ],
+    "Special Award": [
+        {
+            "first_label": "Joan of Arc",
+            "second_label": "Special Award",
+            "category": "Special Award",
+            "year": 1949,
+            "tmdb": {
+                "id": 43443,
+                "original_title": "Joan of Arc",
+                "title": "Joana D'Arc",
+                "release_date": "1948-12-22",
+                "backdrop_path": "/9YLQnn3ChNgzBVoSMcV8oFmW7it.jpg",
+                "poster_path": "/obeSdxiZtBv2Epqko3BxORrrTx.jpg",
+                "overview": "No s\u00e9culo XV, a Fran\u00e7a \u00e9 uma na\u00e7\u00e3o derrotada e arruinada ap\u00f3s a Guerra dos Cem Anos contra a Inglaterra. A menina de fazenda de 14 anos de idade Joana D'Arc afirma ouvir vozes do C\u00e9u pedindo-lhe para levar Ex\u00e9rcito de Deus contra Orleans e coroando o fraco Delfim Charles VII como Rei da Fran\u00e7a. Joana arregimenta as pessoas com a sua f\u00e9, forma um ex\u00e9rcito e conquista Orleans. Quando seu ex\u00e9rcito est\u00e1 pronto para atacar Paris, o corrupto Charles vende seu pa\u00eds para a Inglaterra e dissolve o ex\u00e9rcito. Joana \u00e9 presa, vendida ao Burgundians Ingleses e submetida a um julgamento pol\u00edtico vergonhoso no castelo de Rouen.",
+                "vote_average": 6.2,
+                "vote_count": 70
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Search",
+            "second_label": "Special Award",
+            "category": "Special Award",
+            "year": 1949,
+            "tmdb": {
+                "id": 41131,
+                "original_title": "The Search",
+                "title": "Perdidos na Tormenta",
+                "release_date": "1948-03-26",
+                "backdrop_path": "/hcVy8lkYnvTEbKAkYj5Kyl6yE8G.jpg",
+                "poster_path": "/jDP8XxQUJTTofJPkhFER3aBYDqR.jpg",
+                "overview": "Na Berlim do p\u00f3s-guerra, um soldado americano ajuda um menino Tcheco perdido a encontrar sua m\u00e3e. Um menino Tcheco de nove anos de idade, mudo, sobrevivente de Auschwitz, foge de um centro de refugiados na Alemanha no p\u00f3s-guerra e \u00e9 encontrado por um soldado americano. Ao mesmo tempo, a m\u00e3e do menino, o \u00fanico membro sobrevivente de sua fam\u00edlia, procura pelo seu filho em Centros de Refugiados. Tempo, dist\u00e2ncia, e o enorme  n\u00famero de crian\u00e7as refugiadas s\u00e3o fatores que dificultam o reencontro de m\u00e3e e filho.",
+                "vote_average": 6.9,
+                "vote_count": 65
+            },
+            "winner": false
+        }
+    ],
+    "Special Effects": [
+        {
+            "first_label": "Portrait of Jennie",
+            "second_label": "Special Visual Effects by Paul Eagler, J. McMillan Johnson, Russell Shearman, Clarence Slifer; Special Audible Effects by Charles Freeman, James G. Stewart",
+            "category": "Special Effects",
+            "year": 1949,
+            "tmdb": {
+                "id": 32558,
+                "original_title": "Portrait of Jennie",
+                "title": "O Retrato de Jennie",
+                "release_date": "1948-12-25",
+                "backdrop_path": "/n9Hbq2PRv3nhbFbLQkgWb7nP8Ck.jpg",
+                "poster_path": "/AuZVFoCOxKKwC6eKWol4NkAFpWi.jpg",
+                "overview": "A mysterious girl inspires a struggling artist.",
+                "vote_average": 7.047,
+                "vote_count": 95
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Deep Waters",
+            "second_label": "Special Visual Effects by Ralph Hammeras, Fred Sersen, Edward Snyder; Special Audible Effects by Roger Heman",
+            "category": "Special Effects",
+            "year": 1949,
+            "tmdb": {
+                "id": 36336,
+                "original_title": "Deep Waters",
+                "title": "Deep Waters",
+                "release_date": "1948-07-22",
+                "backdrop_path": "/qJBFBv3atTPcMToTRoxq7ZfwdNV.jpg",
+                "poster_path": "/riDbZs4xtwck89hlFf0WQLCuQ5m.jpg",
+                "overview": "A state welfare agent persuades a Maine lobsterman to take a troubled orphan boy aboard.",
+                "vote_average": 6.0,
+                "vote_count": 5
+            },
+            "winner": false
+        }
+    ],
+    "Special Foreign Language Film Award": [
+        {
+            "first_label": "Monsieur Vincent",
+            "second_label": "Special Award",
+            "category": "Special Foreign Language Film Award",
+            "year": 1949,
+            "tmdb": {
+                "id": 43460,
+                "original_title": "Monsieur Vincent",
+                "title": "S\u00e3o Vicente de Paulo - O Capel\u00e3o das Galeras",
+                "release_date": "1947-11-05",
+                "backdrop_path": "/qjsFuAlp0qrlMKITUgRmu6941t1.jpg",
+                "poster_path": "/6NpfFmqbDT0t6wIsju9X9KOMNW3.jpg",
+                "overview": "S\u00e3o Vicente de Paulo (Pierre Fresnay) teve uma inf\u00e2ncia extremamente pobre e sofrida, e passou muitos anos trabalhando como escravo. Anos depois, ao tornar-se padre, come\u00e7ou os primeiros trabalhos humanit\u00e1rios de caridade, trabalhando para trazer paz e harmonia entre os nobres e os pobres durante o s\u00e9culo XVII, na Fran\u00e7a, numa \u00e9poca em que a peste negra dizimava milhares de vidas.",
+                "vote_average": 6.5,
+                "vote_count": 35
+            },
+            "winner": true
+        }
+    ],
+    "Writing (Motion Picture Story)": [
+        {
+            "first_label": "The Search",
+            "second_label": "Richard Schweizer, David Wechsler",
+            "category": "Writing (Motion Picture Story)",
+            "year": 1949,
+            "tmdb": {
+                "id": 41131,
+                "original_title": "The Search",
+                "title": "Perdidos na Tormenta",
+                "release_date": "1948-03-26",
+                "backdrop_path": "/hcVy8lkYnvTEbKAkYj5Kyl6yE8G.jpg",
+                "poster_path": "/jDP8XxQUJTTofJPkhFER3aBYDqR.jpg",
+                "overview": "Na Berlim do p\u00f3s-guerra, um soldado americano ajuda um menino Tcheco perdido a encontrar sua m\u00e3e. Um menino Tcheco de nove anos de idade, mudo, sobrevivente de Auschwitz, foge de um centro de refugiados na Alemanha no p\u00f3s-guerra e \u00e9 encontrado por um soldado americano. Ao mesmo tempo, a m\u00e3e do menino, o \u00fanico membro sobrevivente de sua fam\u00edlia, procura pelo seu filho em Centros de Refugiados. Tempo, dist\u00e2ncia, e o enorme  n\u00famero de crian\u00e7as refugiadas s\u00e3o fatores que dificultam o reencontro de m\u00e3e e filho.",
+                "vote_average": 6.9,
+                "vote_count": 65
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Louisiana Story",
+            "second_label": "Frances Flaherty, Robert Flaherty",
+            "category": "Writing (Motion Picture Story)",
+            "year": 1949,
+            "tmdb": {
+                "id": 70447,
+                "original_title": "Louisiana Story",
+                "title": "A Hist\u00f3ria de Louisiana",
+                "release_date": "1948-09-28",
+                "backdrop_path": "/f5z01S7J9st1zUYLSocBUGqYpBK.jpg",
+                "poster_path": "/kwEbsHAvdY9G2gJKRKYmxJ6IB6L.jpg",
+                "overview": "Com poucos di\u00e1logos e sem atores profissionais, o filme sustenta-se na trilha sonora e nas paisagens ex\u00f3ticas e majestosas dos p\u00e2ntanos da Louisiana, sob o olhar de uma crian\u00e7a canadense de origem francesa.",
+                "vote_average": 6.6,
+                "vote_count": 40
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Naked City",
+            "second_label": "Malvin Wald",
+            "category": "Writing (Motion Picture Story)",
+            "year": 1949,
+            "tmdb": {
+                "id": 20482,
+                "original_title": "The Naked City",
+                "title": "Cidade Nua",
+                "release_date": "1948-03-04",
+                "backdrop_path": "/wKH0879JYE2BqFVL0AT6wSc63kq.jpg",
+                "poster_path": "/rex4oaiSCD8UQg9204R6hQcFrX9.jpg",
+                "overview": "Dois detetives da cidade de Nova York, Don Muldoon (Barry Fitzgerald) e Jimmy Halloran (Don Taylor) s\u00e3o designados pra investigar um misterioso assassinato de uma mulher. Seguindo os rastros de joias roubadas ligadas ao crime, os detetives localizam Ruth e seu noivo. Os dois, juntamente com o assassino da mulher, controlam um ladr\u00e3o de joias que vem importunando a sociedade de Nova York. Um dos mais excitantes filmes do g\u00eanero \"noir\" da d\u00e9cada.",
+                "vote_average": 7.2,
+                "vote_count": 231
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Red River",
+            "second_label": "Borden Chase",
+            "category": "Writing (Motion Picture Story)",
+            "year": 1949,
+            "tmdb": {
+                "id": 3089,
+                "original_title": "Red River",
+                "title": "Rio Vermelho",
+                "release_date": "1948-08-26",
+                "backdrop_path": "/lao4uGoHBwlhFYMigkF7Zwo8CoD.jpg",
+                "poster_path": "/jyNTsAzrIWB441OtvfbgKtx1kFS.jpg",
+                "overview": "Uma aventura intensa e repleta de a\u00e7\u00e3o que captura a grandiosidade, impon\u00eancia e perigo do selvagem oeste americano. Tom Dunson (John Wayne) conduz seu enorme rebanho pela trai\u00e7oeira Trilha Chisholm, arriscando tudo para alcan\u00e7ar seu destino, o Rio Vermelho. Mas, no caminho, novas informa\u00e7\u00f5es e as maneiras tir\u00e2nicas de Dunson fazem Matthew Garth, seu filho adotivo, tirar o rebanho de Dunson e levar para um novo destino no Kansas. Dunson, querendo vingan\u00e7a, sai em persegui\u00e7\u00e3o.",
+                "vote_average": 7.371,
+                "vote_count": 484
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Red Shoes",
+            "second_label": "Emeric Pressburger",
+            "category": "Writing (Motion Picture Story)",
+            "year": 1949,
+            "tmdb": {
+                "id": 19542,
+                "original_title": "The Red Shoes",
+                "title": "Os Sapatinhos Vermelhos",
+                "release_date": "1948-09-06",
+                "backdrop_path": "/cSbBSHHiy849SUhyTW6FX4Dbj43.jpg",
+                "poster_path": "/3LWh4MLETNE52QkQ2MYKTrfd3v8.jpg",
+                "overview": "No \u00e1rduo mundo do bal\u00e9, as garotas e dan\u00e7arinos do empres\u00e1rio Boris Lermontov n\u00e3o t\u00eam folga: sua vida deve ser devotada \u00e0 dan\u00e7a se eles quiserem continuar na carreira. A jovem bailarina Victoria Page \u00e9 uma promessa, e ap\u00f3s o sucesso do espet\u00e1culo \"Red Shoes\", parece que ela ter\u00e1 o mundo a seus p\u00e9s, at\u00e9 se envolver com o compositor Julian Craster, a contragosto de Lermontov.",
+                "vote_average": 7.966,
+                "vote_count": 607
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay)": [
+        {
+            "first_label": "The Treasure of the Sierra Madre",
+            "second_label": "John Huston",
+            "category": "Writing (Screenplay)",
+            "year": 1949,
+            "tmdb": {
+                "id": 3090,
+                "original_title": "The Treasure of the Sierra Madre",
+                "title": "O Tesouro de Sierra Madre",
+                "release_date": "1948-01-15",
+                "backdrop_path": "/sj5R5SGor3YMFBuabMj8gPbyBmh.jpg",
+                "poster_path": "/aDx0b64VlRJt36kpDwx5CqAY2tg.jpg",
+                "overview": "Dois vagabundos e um garimpeiro grisalho descobrem um verdadeiro tesouro em ouro, mas a gan\u00e2ncia e a paranoia vai rapidamente se apoderar de todos neste cl\u00e1ssico sobre o poder da riqueza escondida nas montanhas e a avareza que se esconde no cora\u00e7\u00e3o dos homens. e 12.",
+                "vote_average": 8.0,
+                "vote_count": 1119
+            },
+            "winner": true
+        },
+        {
+            "first_label": "A Foreign Affair",
+            "second_label": "Charles Brackett, Billy Wilder, Richard L. Breen",
+            "category": "Writing (Screenplay)",
+            "year": 1949,
+            "tmdb": {
+                "id": 61650,
+                "original_title": "A Foreign Affair",
+                "title": "A Mundana",
+                "release_date": "1948-08-20",
+                "backdrop_path": "/2ayWDLdRN5PLzZ3sB0LQfX4BnFi.jpg",
+                "poster_path": "/gtIrfeYq5h5QioFIT9xCU4W53aB.jpg",
+                "overview": "Uma congressista (Jean Arthur) vai \u00e0 Berlim destru\u00edda pela Segunda Guerra Mundial, para verificar o moral das tropas norte-americanas. Durante a inspe\u00e7\u00e3o, um capit\u00e3o (John Lund) tenta seduzi-la para que ela n\u00e3o descubra seu envolvimento com uma cantora alem\u00e3 (Marlene Dietrich), suspeita de ser simpatizante nazista.",
+                "vote_average": 7.0,
+                "vote_count": 134
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Johnny Belinda",
+            "second_label": "Irmgard Von Cube, Allen Vincent",
+            "category": "Writing (Screenplay)",
+            "year": 1949,
+            "tmdb": {
+                "id": 62000,
+                "original_title": "Johnny Belinda",
+                "title": "Belinda",
+                "release_date": "1948-09-14",
+                "backdrop_path": "/u3lmI4KMiU2tV5zWQPm6222kq92.jpg",
+                "poster_path": "/lIkYFx7ZaU56iG507lgLoSh1GNR.jpg",
+                "overview": "No Cabo Breton do p\u00f3s-guerra, os esfor\u00e7os de um m\u00e9dico para orientar uma mulher surda/muda s\u00e3o prejudicados quando ela \u00e9 estuprada, e a gravidez resultante causa esc\u00e2ndalo. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.8,
+                "vote_count": 65
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Search",
+            "second_label": "Richard Schweizer, David Wechsler",
+            "category": "Writing (Screenplay)",
+            "year": 1949,
+            "tmdb": {
+                "id": 41131,
+                "original_title": "The Search",
+                "title": "Perdidos na Tormenta",
+                "release_date": "1948-03-26",
+                "backdrop_path": "/hcVy8lkYnvTEbKAkYj5Kyl6yE8G.jpg",
+                "poster_path": "/jDP8XxQUJTTofJPkhFER3aBYDqR.jpg",
+                "overview": "Na Berlim do p\u00f3s-guerra, um soldado americano ajuda um menino Tcheco perdido a encontrar sua m\u00e3e. Um menino Tcheco de nove anos de idade, mudo, sobrevivente de Auschwitz, foge de um centro de refugiados na Alemanha no p\u00f3s-guerra e \u00e9 encontrado por um soldado americano. Ao mesmo tempo, a m\u00e3e do menino, o \u00fanico membro sobrevivente de sua fam\u00edlia, procura pelo seu filho em Centros de Refugiados. Tempo, dist\u00e2ncia, e o enorme  n\u00famero de crian\u00e7as refugiadas s\u00e3o fatores que dificultam o reencontro de m\u00e3e e filho.",
+                "vote_average": 6.9,
+                "vote_count": 65
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Snake Pit",
+            "second_label": "Frank Partos, Millen Brand",
+            "category": "Writing (Screenplay)",
+            "year": 1949,
+            "tmdb": {
+                "id": 62694,
+                "original_title": "The Snake Pit",
+                "title": "Na Cova da Serpente",
+                "release_date": "1948-11-04",
+                "backdrop_path": "/xyPp8XpOozFfpZmYSlz0h9SpOpO.jpg",
+                "poster_path": "/7NkGhyPfLoPHiFzXVUXU91nMeLb.jpg",
+                "overview": "Uma cr\u00f4nica detalhada da estadia de uma mulher em uma institui\u00e7\u00e3o mental.  Virginia Cunningham se encontra em um asilo de loucos... E n\u00e3o consegue se lembrar de como chegou l\u00e1. Em flashback, seu marido Robert relata seu namoro, casamento e seus sintomas em desenvolvimento. O pessoal do asilo n\u00e3o \u00e9 demonizado, mas o medo, a ignor\u00e2ncia e os preconceitos mant\u00eam a Virg\u00ednia em um estado de mis\u00e9ria, enquanto o Dr. Mark Kik luta para encontrar a raiz de seu problema. Mas uma reca\u00edda leva Virg\u00ednia de volta para a angustiante 'Cova da Serpente' ...",
+                "vote_average": 7.0,
+                "vote_count": 92
+            },
+            "winner": false
+        }
+    ]
+}
