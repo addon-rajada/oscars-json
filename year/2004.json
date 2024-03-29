@@ -1,0 +1,1806 @@
+{
+    "Actor in a Leading Role": [
+        {
+            "first_label": "Sean Penn",
+            "second_label": "Mystic River",
+            "category": "Actor in a Leading Role",
+            "year": 2004,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Johnny Depp",
+            "second_label": "Pirates of the Caribbean: The Curse of the Black Pearl",
+            "category": "Actor in a Leading Role",
+            "year": 2004,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ben Kingsley",
+            "second_label": "House of Sand and Fog",
+            "category": "Actor in a Leading Role",
+            "year": 2004,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jude Law",
+            "second_label": "Cold Mountain",
+            "category": "Actor in a Leading Role",
+            "year": 2004,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Bill Murray",
+            "second_label": "Lost in Translation",
+            "category": "Actor in a Leading Role",
+            "year": 2004,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Tim Robbins",
+            "second_label": "Mystic River",
+            "category": "Actor in a Supporting Role",
+            "year": 2004,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Alec Baldwin",
+            "second_label": "The Cooler",
+            "category": "Actor in a Supporting Role",
+            "year": 2004,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Benicio Del Toro",
+            "second_label": "21 Grams",
+            "category": "Actor in a Supporting Role",
+            "year": 2004,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Djimon Hounsou",
+            "second_label": "In America",
+            "category": "Actor in a Supporting Role",
+            "year": 2004,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ken Watanabe",
+            "second_label": "The Last Samurai",
+            "category": "Actor in a Supporting Role",
+            "year": 2004,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Leading Role": [
+        {
+            "first_label": "Charlize Theron",
+            "second_label": "Monster",
+            "category": "Actress in a Leading Role",
+            "year": 2004,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Keisha Castle-Hughes",
+            "second_label": "Whale Rider",
+            "category": "Actress in a Leading Role",
+            "year": 2004,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Diane Keaton",
+            "second_label": "Something's Gotta Give",
+            "category": "Actress in a Leading Role",
+            "year": 2004,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Samantha Morton",
+            "second_label": "In America",
+            "category": "Actress in a Leading Role",
+            "year": 2004,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Naomi Watts",
+            "second_label": "21 Grams",
+            "category": "Actress in a Leading Role",
+            "year": 2004,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Rene Zellweger",
+            "second_label": "Cold Mountain",
+            "category": "Actress in a Supporting Role",
+            "year": 2004,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Shohreh Aghdashloo",
+            "second_label": "House of Sand and Fog",
+            "category": "Actress in a Supporting Role",
+            "year": 2004,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Patricia Clarkson",
+            "second_label": "Pieces of April",
+            "category": "Actress in a Supporting Role",
+            "year": 2004,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Marcia Gay Harden",
+            "second_label": "Mystic River",
+            "category": "Actress in a Supporting Role",
+            "year": 2004,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Holly Hunter",
+            "second_label": "Thirteen",
+            "category": "Actress in a Supporting Role",
+            "year": 2004,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Animated Feature Film": [
+        {
+            "first_label": "Finding Nemo",
+            "second_label": "Andrew Stanton",
+            "category": "Animated Feature Film",
+            "year": 2004,
+            "tmdb": {
+                "id": 12,
+                "original_title": "Finding Nemo",
+                "title": "Procurando Nemo",
+                "release_date": "2003-05-30",
+                "backdrop_path": "/eCynaAOgYYiw5yN5lBwz3IxqvaW.jpg",
+                "poster_path": "/5jrPMq7IMLTqcuPDlK6jfruEbpq.jpg",
+                "overview": "Depois que seu filho \u00e9 capturado na Grande Barreira de Corais e levado para Sydney, um peixe-palha\u00e7o t\u00edmido parte em uma jornada para traz\u00ea-lo para casa.",
+                "vote_average": 7.824,
+                "vote_count": 18594
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Brother Bear",
+            "second_label": "Aaron Blaise and Robert Walker",
+            "category": "Animated Feature Film",
+            "year": 2004,
+            "tmdb": {
+                "id": 10009,
+                "original_title": "Brother Bear",
+                "title": "Irm\u00e3o Urso",
+                "release_date": "2003-10-23",
+                "backdrop_path": "/nMKfeFtE9bML6yjdcymrt5vtaNz.jpg",
+                "poster_path": "/pFRQgHiZwHTX7LmHEI0hwocuBC3.jpg",
+                "overview": "Em busca de vingan\u00e7a por seu pai ter sido morto por um urso, o \u00edndio Kenai acaba sendo amaldi\u00e7oado pelos esp\u00edritos da floresta e \u00e9 transformado em um urso. Obrigado a viver sob a nova pele, ele come\u00e7a a ver a realidade sob a \u00f3tica dos animais. Logo faz amizade com outro urso, Koda, mas se v\u00ea em apuros quando seu pr\u00f3prio irm\u00e3o come\u00e7a a ca\u00e7\u00e1-lo.",
+                "vote_average": 7.3,
+                "vote_count": 5153
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Triplets of Belleville",
+            "second_label": "Sylvain Chomet",
+            "category": "Animated Feature Film",
+            "year": 2004,
+            "tmdb": {
+                "id": 9662,
+                "original_title": "Les Triplettes de Belleville",
+                "title": "As Bicicletas de Belleville",
+                "release_date": "2003-06-11",
+                "backdrop_path": "/umvgkmn3k7Ac3E74IlhCGQpoqgS.jpg",
+                "poster_path": "/flHYQswYEIvBL2QsQLEJJzTJDyS.jpg",
+                "overview": "Quando seu neto \u00e9 raptado durante o Tour de France, Madame Souza e seu amado vira-latas Bruno se juntam com as Irm\u00e3s Belleville - um grupo de senhoras cantoras e dan\u00e7arinas do tempo de Fred Astaire - para resgat\u00e1-lo.",
+                "vote_average": 7.374,
+                "vote_count": 890
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction": [
+        {
+            "first_label": "The Lord of the Rings: The Return of the King",
+            "second_label": "Art Direction: Grant Major; Set Decoration: Dan Hennah and Alan Lee",
+            "category": "Art Direction",
+            "year": 2004,
+            "tmdb": {
+                "id": 122,
+                "original_title": "The Lord of the Rings: The Return of the King",
+                "title": "O Senhor dos An\u00e9is: O Retorno do Rei",
+                "release_date": "2003-12-01",
+                "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+                "poster_path": "/rU4oIKv5I4C59DpcXKmT7kNwGI0.jpg",
+                "overview": "O confronto final entre as for\u00e7as do bem e do mal que lutam pelo controle do futuro da Terra M\u00e9dia se aproxima. Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf e Pippin partam para o local na inten\u00e7\u00e3o de ajudar a resist\u00eancia. Um ex\u00e9rcito \u00e9 reunido por Theoden em Rohan, em mais uma tentativa de deter as for\u00e7as de Sauron. Enquanto isso, Frodo, Sam e Gollum seguem sua viagem rumo \u00e0 Montanha da Perdi\u00e7\u00e3o para destruir o anel.",
+                "vote_average": 8.5,
+                "vote_count": 23192
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Girl with a Pearl Earring",
+            "second_label": "Art Direction: Ben Van Os; Set Decoration: Cecile Heideman",
+            "category": "Art Direction",
+            "year": 2004,
+            "tmdb": {
+                "id": 3635,
+                "original_title": "Girl with a Pearl Earring",
+                "title": "Mo\u00e7a com Brinco de P\u00e9rola",
+                "release_date": "2003-12-12",
+                "backdrop_path": "/tuiupUeJrNQkmO6LADHOSjbGJ6E.jpg",
+                "poster_path": "/86Bis9xai20ivYA8K4aW6eg7wUQ.jpg",
+                "overview": "Enquanto trabalha como criada na casa do pintor Johannes Vermeer, Griet se aproxima dele. Mais tarde, ela se torna o rosto da obra de arte mais prol\u00edfica de Johannes, onde posa com um brinco de p\u00e9rola.",
+                "vote_average": 6.6,
+                "vote_count": 1312
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Last Samurai",
+            "second_label": "Art Direction: Lilly Kilvert; Set Decoration: Gretchen Rau",
+            "category": "Art Direction",
+            "year": 2004,
+            "tmdb": {
+                "id": 616,
+                "original_title": "The Last Samurai",
+                "title": "O \u00daltimo Samurai",
+                "release_date": "2003-12-05",
+                "backdrop_path": "/z354BaTVzKj7E60WLzDoSmUuO4u.jpg",
+                "poster_path": "/uOXcVNT3eKPfU93GwcXd2XFssJv.jpg",
+                "overview": "Em 1870 \u00e9 enviado ao Jap\u00e3o o capit\u00e3o Nathan Algren, um conceituado militar norte-americano. A miss\u00e3o de Algren \u00e9 treinar as tropas do imperador Meiji, para que elas possam eliminar os \u00faltimos samurais que ainda vivem na regi\u00e3o. Por\u00e9m, ap\u00f3s ser capturado pelo inimigo, Algren aprende com Katsumoto o c\u00f3digo de honra dos samurais e passa a ficar em d\u00favida sobre que lado apoiar.",
+                "vote_average": 7.584,
+                "vote_count": 6553
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Master and Commander: The Far Side of the World",
+            "second_label": "Art Direction: William Sandell; Set Decoration: Robert Gould",
+            "category": "Art Direction",
+            "year": 2004,
+            "tmdb": {
+                "id": 8619,
+                "original_title": "Master and Commander: The Far Side of the World",
+                "title": "Mestre dos Mares: O Lado Mais Distante do Mundo",
+                "release_date": "2003-11-14",
+                "backdrop_path": "/zMHyNxNt4zhL939XX8QLBW3gWfu.jpg",
+                "poster_path": "/3v61179ciXMpmyiJZmpqyCoV5us.jpg",
+                "overview": "Jack Aubrey \u00e9 o capit\u00e3o do H.M.S. Surprise, um dos principais navios de guerra da marinha brit\u00e2nica. Com seu pa\u00eds em guerra contra a Fran\u00e7a de Napole\u00e3o Bonaparte, Aubrey \u00e9 atacado por um navio inimigo mais poderoso, que fere boa parte de sua tripula\u00e7\u00e3o e ainda danifica o navio. Aubrey ent\u00e3o se sente dividido entre cumprir seu dever e tentar derrotar o inimigo ou retornar para cuidar dos feridos.",
+                "vote_average": 7.1,
+                "vote_count": 2999
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Seabiscuit",
+            "second_label": "Art Direction: Jeannine Oppewall; Set Decoration: Leslie Pope",
+            "category": "Art Direction",
+            "year": 2004,
+            "tmdb": {
+                "id": 4464,
+                "original_title": "Seabiscuit",
+                "title": "Seabiscuit: Alma de Her\u00f3i",
+                "release_date": "2003-07-22",
+                "backdrop_path": "/9mxDXwoNLLX1SOeq2uiqEfGg4sN.jpg",
+                "poster_path": "/qEcPXNRT19zq6zdFDizqdJOpFIC.jpg",
+                "overview": "Charles Howard (Jeff Bridges) \u00e9 um milion\u00e1rio que ganhou um cavalo de pequeno porte e indisciplinado, chamado Seabiscuit, que nunca teve grande destaque nas corridas. Howard decide trein\u00e1-lo de forma a torn\u00e1-lo competitivo, contratando para tanto o j\u00f3quei Red Pollard (Tobey Maguire) e o treinador Tom Smith (Chris Cooper), conhecido no meio por sua capacidade de se comunicar com cavalos. Juntos eles conseguem transformar Seabiscuit no cavalo do ano em 1938, chamando a aten\u00e7\u00e3o da popula\u00e7\u00e3o americana para sua hist\u00f3ria de sucesso.",
+                "vote_average": 7.0,
+                "vote_count": 784
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "Master and Commander: The Far Side of the World",
+            "second_label": "Russell Boyd",
+            "category": "Cinematography",
+            "year": 2004,
+            "tmdb": {
+                "id": 8619,
+                "original_title": "Master and Commander: The Far Side of the World",
+                "title": "Mestre dos Mares: O Lado Mais Distante do Mundo",
+                "release_date": "2003-11-14",
+                "backdrop_path": "/zMHyNxNt4zhL939XX8QLBW3gWfu.jpg",
+                "poster_path": "/3v61179ciXMpmyiJZmpqyCoV5us.jpg",
+                "overview": "Jack Aubrey \u00e9 o capit\u00e3o do H.M.S. Surprise, um dos principais navios de guerra da marinha brit\u00e2nica. Com seu pa\u00eds em guerra contra a Fran\u00e7a de Napole\u00e3o Bonaparte, Aubrey \u00e9 atacado por um navio inimigo mais poderoso, que fere boa parte de sua tripula\u00e7\u00e3o e ainda danifica o navio. Aubrey ent\u00e3o se sente dividido entre cumprir seu dever e tentar derrotar o inimigo ou retornar para cuidar dos feridos.",
+                "vote_average": 7.1,
+                "vote_count": 2999
+            },
+            "winner": true
+        },
+        {
+            "first_label": "City of God",
+            "second_label": "Cesar Charlone",
+            "category": "Cinematography",
+            "year": 2004,
+            "tmdb": {
+                "id": 598,
+                "original_title": "Cidade de Deus",
+                "title": "Cidade de Deus",
+                "release_date": "2002-08-30",
+                "backdrop_path": "/uvitbjFU4JqvMwIkMWHp69bmUzG.jpg",
+                "poster_path": "/pA70WUs7KHiHltfiBN4XEELOXcS.jpg",
+                "overview": "Buscap\u00e9 \u00e9 um jovem morador da Cidade de Deus que cresce em meio \u00e0 viol\u00eancia. Com medo de se tornar um bandido, enxerga na fotografia uma oportunidade de ter uma vida digna.",
+                "vote_average": 8.4,
+                "vote_count": 6996
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Cold Mountain",
+            "second_label": "John Seale",
+            "category": "Cinematography",
+            "year": 2004,
+            "tmdb": {
+                "id": 2289,
+                "original_title": "Cold Mountain",
+                "title": "Montanha Gelada",
+                "release_date": "2003-12-24",
+                "backdrop_path": "/xjJz025MAPrSeNj18LPjcyu4xFM.jpg",
+                "poster_path": "/hWWW2cIoc2DOOJBbkwNHGwHFLN2.jpg",
+                "overview": "Ap\u00f3s o t\u00e9rmino da Guerra Civil Americana, o soldado Inman Balis inicia o percurso para retornar \u00e0 sua casa, na vila de Cold Mountain. L\u00e1 est\u00e1 \u00e0 sua espera Ada, sua namorada, que luta para administrar uma grande fazenda ap\u00f3s a morte de seu pai. Para ajud\u00e1-la na tarefa chega Ruby, enviada por sua vizinha Sally, que cria uma grande amizade com Ada. No caminho de volta, Inman encontra diversos outros soldados, feridos como ele, com quem divide suas experi\u00eancias da guerra.",
+                "vote_average": 6.9,
+                "vote_count": 1665
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Girl with a Pearl Earring",
+            "second_label": "Eduardo Serra",
+            "category": "Cinematography",
+            "year": 2004,
+            "tmdb": {
+                "id": 3635,
+                "original_title": "Girl with a Pearl Earring",
+                "title": "Mo\u00e7a com Brinco de P\u00e9rola",
+                "release_date": "2003-12-12",
+                "backdrop_path": "/tuiupUeJrNQkmO6LADHOSjbGJ6E.jpg",
+                "poster_path": "/86Bis9xai20ivYA8K4aW6eg7wUQ.jpg",
+                "overview": "Enquanto trabalha como criada na casa do pintor Johannes Vermeer, Griet se aproxima dele. Mais tarde, ela se torna o rosto da obra de arte mais prol\u00edfica de Johannes, onde posa com um brinco de p\u00e9rola.",
+                "vote_average": 6.6,
+                "vote_count": 1312
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Seabiscuit",
+            "second_label": "John Schwartzman",
+            "category": "Cinematography",
+            "year": 2004,
+            "tmdb": {
+                "id": 4464,
+                "original_title": "Seabiscuit",
+                "title": "Seabiscuit: Alma de Her\u00f3i",
+                "release_date": "2003-07-22",
+                "backdrop_path": "/9mxDXwoNLLX1SOeq2uiqEfGg4sN.jpg",
+                "poster_path": "/qEcPXNRT19zq6zdFDizqdJOpFIC.jpg",
+                "overview": "Charles Howard (Jeff Bridges) \u00e9 um milion\u00e1rio que ganhou um cavalo de pequeno porte e indisciplinado, chamado Seabiscuit, que nunca teve grande destaque nas corridas. Howard decide trein\u00e1-lo de forma a torn\u00e1-lo competitivo, contratando para tanto o j\u00f3quei Red Pollard (Tobey Maguire) e o treinador Tom Smith (Chris Cooper), conhecido no meio por sua capacidade de se comunicar com cavalos. Juntos eles conseguem transformar Seabiscuit no cavalo do ano em 1938, chamando a aten\u00e7\u00e3o da popula\u00e7\u00e3o americana para sua hist\u00f3ria de sucesso.",
+                "vote_average": 7.0,
+                "vote_count": 784
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design": [
+        {
+            "first_label": "The Lord of the Rings: The Return of the King",
+            "second_label": "Ngila Dickson and Richard Taylor",
+            "category": "Costume Design",
+            "year": 2004,
+            "tmdb": {
+                "id": 122,
+                "original_title": "The Lord of the Rings: The Return of the King",
+                "title": "O Senhor dos An\u00e9is: O Retorno do Rei",
+                "release_date": "2003-12-01",
+                "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+                "poster_path": "/rU4oIKv5I4C59DpcXKmT7kNwGI0.jpg",
+                "overview": "O confronto final entre as for\u00e7as do bem e do mal que lutam pelo controle do futuro da Terra M\u00e9dia se aproxima. Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf e Pippin partam para o local na inten\u00e7\u00e3o de ajudar a resist\u00eancia. Um ex\u00e9rcito \u00e9 reunido por Theoden em Rohan, em mais uma tentativa de deter as for\u00e7as de Sauron. Enquanto isso, Frodo, Sam e Gollum seguem sua viagem rumo \u00e0 Montanha da Perdi\u00e7\u00e3o para destruir o anel.",
+                "vote_average": 8.5,
+                "vote_count": 23192
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Girl with a Pearl Earring",
+            "second_label": "Dien van Straalen",
+            "category": "Costume Design",
+            "year": 2004,
+            "tmdb": {
+                "id": 3635,
+                "original_title": "Girl with a Pearl Earring",
+                "title": "Mo\u00e7a com Brinco de P\u00e9rola",
+                "release_date": "2003-12-12",
+                "backdrop_path": "/tuiupUeJrNQkmO6LADHOSjbGJ6E.jpg",
+                "poster_path": "/86Bis9xai20ivYA8K4aW6eg7wUQ.jpg",
+                "overview": "Enquanto trabalha como criada na casa do pintor Johannes Vermeer, Griet se aproxima dele. Mais tarde, ela se torna o rosto da obra de arte mais prol\u00edfica de Johannes, onde posa com um brinco de p\u00e9rola.",
+                "vote_average": 6.6,
+                "vote_count": 1312
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Last Samurai",
+            "second_label": "Ngila Dickson",
+            "category": "Costume Design",
+            "year": 2004,
+            "tmdb": {
+                "id": 616,
+                "original_title": "The Last Samurai",
+                "title": "O \u00daltimo Samurai",
+                "release_date": "2003-12-05",
+                "backdrop_path": "/z354BaTVzKj7E60WLzDoSmUuO4u.jpg",
+                "poster_path": "/uOXcVNT3eKPfU93GwcXd2XFssJv.jpg",
+                "overview": "Em 1870 \u00e9 enviado ao Jap\u00e3o o capit\u00e3o Nathan Algren, um conceituado militar norte-americano. A miss\u00e3o de Algren \u00e9 treinar as tropas do imperador Meiji, para que elas possam eliminar os \u00faltimos samurais que ainda vivem na regi\u00e3o. Por\u00e9m, ap\u00f3s ser capturado pelo inimigo, Algren aprende com Katsumoto o c\u00f3digo de honra dos samurais e passa a ficar em d\u00favida sobre que lado apoiar.",
+                "vote_average": 7.584,
+                "vote_count": 6553
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Master and Commander: The Far Side of the World",
+            "second_label": "Wendy Stites",
+            "category": "Costume Design",
+            "year": 2004,
+            "tmdb": {
+                "id": 8619,
+                "original_title": "Master and Commander: The Far Side of the World",
+                "title": "Mestre dos Mares: O Lado Mais Distante do Mundo",
+                "release_date": "2003-11-14",
+                "backdrop_path": "/zMHyNxNt4zhL939XX8QLBW3gWfu.jpg",
+                "poster_path": "/3v61179ciXMpmyiJZmpqyCoV5us.jpg",
+                "overview": "Jack Aubrey \u00e9 o capit\u00e3o do H.M.S. Surprise, um dos principais navios de guerra da marinha brit\u00e2nica. Com seu pa\u00eds em guerra contra a Fran\u00e7a de Napole\u00e3o Bonaparte, Aubrey \u00e9 atacado por um navio inimigo mais poderoso, que fere boa parte de sua tripula\u00e7\u00e3o e ainda danifica o navio. Aubrey ent\u00e3o se sente dividido entre cumprir seu dever e tentar derrotar o inimigo ou retornar para cuidar dos feridos.",
+                "vote_average": 7.1,
+                "vote_count": 2999
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Seabiscuit",
+            "second_label": "Judianna Makovsky",
+            "category": "Costume Design",
+            "year": 2004,
+            "tmdb": {
+                "id": 4464,
+                "original_title": "Seabiscuit",
+                "title": "Seabiscuit: Alma de Her\u00f3i",
+                "release_date": "2003-07-22",
+                "backdrop_path": "/9mxDXwoNLLX1SOeq2uiqEfGg4sN.jpg",
+                "poster_path": "/qEcPXNRT19zq6zdFDizqdJOpFIC.jpg",
+                "overview": "Charles Howard (Jeff Bridges) \u00e9 um milion\u00e1rio que ganhou um cavalo de pequeno porte e indisciplinado, chamado Seabiscuit, que nunca teve grande destaque nas corridas. Howard decide trein\u00e1-lo de forma a torn\u00e1-lo competitivo, contratando para tanto o j\u00f3quei Red Pollard (Tobey Maguire) e o treinador Tom Smith (Chris Cooper), conhecido no meio por sua capacidade de se comunicar com cavalos. Juntos eles conseguem transformar Seabiscuit no cavalo do ano em 1938, chamando a aten\u00e7\u00e3o da popula\u00e7\u00e3o americana para sua hist\u00f3ria de sucesso.",
+                "vote_average": 7.0,
+                "vote_count": 784
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "The Lord of the Rings: The Return of the King",
+            "second_label": "Peter Jackson",
+            "category": "Directing",
+            "year": 2004,
+            "tmdb": {
+                "id": 122,
+                "original_title": "The Lord of the Rings: The Return of the King",
+                "title": "O Senhor dos An\u00e9is: O Retorno do Rei",
+                "release_date": "2003-12-01",
+                "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+                "poster_path": "/rU4oIKv5I4C59DpcXKmT7kNwGI0.jpg",
+                "overview": "O confronto final entre as for\u00e7as do bem e do mal que lutam pelo controle do futuro da Terra M\u00e9dia se aproxima. Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf e Pippin partam para o local na inten\u00e7\u00e3o de ajudar a resist\u00eancia. Um ex\u00e9rcito \u00e9 reunido por Theoden em Rohan, em mais uma tentativa de deter as for\u00e7as de Sauron. Enquanto isso, Frodo, Sam e Gollum seguem sua viagem rumo \u00e0 Montanha da Perdi\u00e7\u00e3o para destruir o anel.",
+                "vote_average": 8.5,
+                "vote_count": 23192
+            },
+            "winner": true
+        },
+        {
+            "first_label": "City of God",
+            "second_label": "Fernando Meirelles",
+            "category": "Directing",
+            "year": 2004,
+            "tmdb": {
+                "id": 598,
+                "original_title": "Cidade de Deus",
+                "title": "Cidade de Deus",
+                "release_date": "2002-08-30",
+                "backdrop_path": "/uvitbjFU4JqvMwIkMWHp69bmUzG.jpg",
+                "poster_path": "/pA70WUs7KHiHltfiBN4XEELOXcS.jpg",
+                "overview": "Buscap\u00e9 \u00e9 um jovem morador da Cidade de Deus que cresce em meio \u00e0 viol\u00eancia. Com medo de se tornar um bandido, enxerga na fotografia uma oportunidade de ter uma vida digna.",
+                "vote_average": 8.4,
+                "vote_count": 6996
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lost in Translation",
+            "second_label": "Sofia Coppola",
+            "category": "Directing",
+            "year": 2004,
+            "tmdb": {
+                "id": 153,
+                "original_title": "Lost in Translation",
+                "title": "Encontros e Desencontros",
+                "release_date": "2003-09-18",
+                "backdrop_path": "/45He7gApNQyDbqCDjxew9BnHzjf.jpg",
+                "poster_path": "/l2IEdDTtdVHfFKa2Uv45AbqySDT.jpg",
+                "overview": "Bob Harris (Bill Murray) \u00e9 uma estrela de cinema, que est\u00e1 em T\u00f3quio para fazer um comercial de u\u00edsque. Charlotte (Scarlett Johansson), por sua vez, est\u00e1 na cidade acompanhando seu marido, um fot\u00f3grafo workaholic (Giovanni Ribisi) que a deixa sozinha o tempo todo. Sofrendo com o hor\u00e1rio, Bob e Charlotte n\u00e3o conseguem dormir. Eles se encontram, por acaso, no bar de um hotel de luxo, e em pouco tempo tornam-se grandes amigos. Resolvem ent\u00e3o partir pela cidade juntos. A eles junta-se uma jovem atriz chamada Kelly (Anna Faris), com quem v\u00e3o viver algumas aventuras pela cidade de T\u00f3quio.",
+                "vote_average": 7.393,
+                "vote_count": 6979
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Master and Commander: The Far Side of the World",
+            "second_label": "Peter Weir",
+            "category": "Directing",
+            "year": 2004,
+            "tmdb": {
+                "id": 8619,
+                "original_title": "Master and Commander: The Far Side of the World",
+                "title": "Mestre dos Mares: O Lado Mais Distante do Mundo",
+                "release_date": "2003-11-14",
+                "backdrop_path": "/zMHyNxNt4zhL939XX8QLBW3gWfu.jpg",
+                "poster_path": "/3v61179ciXMpmyiJZmpqyCoV5us.jpg",
+                "overview": "Jack Aubrey \u00e9 o capit\u00e3o do H.M.S. Surprise, um dos principais navios de guerra da marinha brit\u00e2nica. Com seu pa\u00eds em guerra contra a Fran\u00e7a de Napole\u00e3o Bonaparte, Aubrey \u00e9 atacado por um navio inimigo mais poderoso, que fere boa parte de sua tripula\u00e7\u00e3o e ainda danifica o navio. Aubrey ent\u00e3o se sente dividido entre cumprir seu dever e tentar derrotar o inimigo ou retornar para cuidar dos feridos.",
+                "vote_average": 7.1,
+                "vote_count": 2999
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mystic River",
+            "second_label": "Clint Eastwood",
+            "category": "Directing",
+            "year": 2004,
+            "tmdb": {
+                "id": 322,
+                "original_title": "Mystic River",
+                "title": "Sobre Meninos e Lobos",
+                "release_date": "2003-03-03",
+                "backdrop_path": "/ah9hRJhdMMLkntNDIatKwncNJra.jpg",
+                "poster_path": "/sKALnVXQpq4wQWCSB6QPjQXZCfH.jpg",
+                "overview": "Tr\u00eas amigos de inf\u00e2ncia, Dave, Sean e Jimmy acabam se separando quando um deles, Dave, \u00e9 sequestrado e sofre terr\u00edveis abusos sexuais. Agora adultos, o passado volta a assombr\u00e1-los quando a filha de Jimmy \u00e9 assassinada. Sean \u00e9 o policial que investiga o caso, Jimmy quer revanche e Dave \u00e9 o principal suspeito.",
+                "vote_average": 7.741,
+                "vote_count": 6310
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "The Fog of War",
+            "second_label": "Errol Morris and Michael Williams",
+            "category": "Documentary (Feature)",
+            "year": 2004,
+            "tmdb": {
+                "id": 12698,
+                "original_title": "The Fog of War",
+                "title": "Sob a N\u00e9voa da Guerra",
+                "release_date": "2003-12-09",
+                "backdrop_path": "/hbqpPucPtkw4vhDYvXTDI75QLN1.jpg",
+                "poster_path": "/r2hi8bzNbVyhOdq3Msqul3vQG5f.jpg",
+                "overview": "A hist\u00f3ria da Am\u00e9rica vista atrav\u00e9s dos olhos de Robert McNamara, ex-secret\u00e1rio de Defesa dos presidentes John F. Kennedy e Lyndon B. Johnson.\r Document\u00e1rio sobre Robert McNamara, secret\u00e1rio de Defesa nas administra\u00e7\u00f5es Kennedy e Johnson, que posteriormente se tornou presidente do Banco Mundial. O document\u00e1rio combina uma entrevista com o Sr. McNamara falando de algumas das trag\u00e9dias e gl\u00f3rias do s\u00e9culo 20, imagens de arquivo, documentos, e uma trilha sonora original de Philip Glass.",
+                "vote_average": 7.7,
+                "vote_count": 250
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Balseros",
+            "second_label": "Carlos Bosch and Josep Maria Domenech",
+            "category": "Documentary (Feature)",
+            "year": 2004,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Capturing the Friedmans",
+            "second_label": "Andrew Jarecki and Marc Smerling",
+            "category": "Documentary (Feature)",
+            "year": 2004,
+            "tmdb": {
+                "id": 2260,
+                "original_title": "Capturing the Friedmans",
+                "title": "Na Captura dos Friedmans",
+                "release_date": "2003-05-30",
+                "backdrop_path": "/bV7q6ZFguqbVWo95hCkfgS92fUg.jpg",
+                "poster_path": "/qWdMQj0HN7QxKxEkm0tk04nuAQ2.jpg",
+                "overview": "O document\u00e1rio exp\u00f5e o caso de uma fam\u00edlia judia de classe m\u00e9dia, em uma pequena cidade da costa leste dos Estados Unidos. O pai - professor de computa\u00e7\u00e3o para crian\u00e7as e adolescentes - e o filho mais novo s\u00e3o acusados de molestar crian\u00e7as em 1987, na escola de inform\u00e1tica montada na casa da fam\u00edlia. O filme mistura cenas do pol\u00eamico julgamento com depoimentos de v\u00edtimas e imagens feitas pelos tr\u00eas filhos do casal, que n\u00e3o deixaram de praticar seu hobby de gravar em v\u00eddeo imagens da fam\u00edlia durante o per\u00edodo em que os Friedman foram atacados pela m\u00eddia. O document\u00e1rio se desenrola com a estrutura de uma fic\u00e7\u00e3o, \u00b4capturando\u00b4 as experi\u00eancias vividas pelos protagonistas e deixando ao espectador a decis\u00e3o sobre o veredito do caso. Filme vencedor do Grande Pr\u00eamio do J\u00fari no Festival de Sundance em 2003.",
+                "vote_average": 7.2,
+                "vote_count": 313
+            },
+            "winner": false
+        },
+        {
+            "first_label": "My Architect",
+            "second_label": "Nathaniel Kahn and Susan R. Behr",
+            "category": "Documentary (Feature)",
+            "year": 2004,
+            "tmdb": {
+                "id": 50314,
+                "original_title": "My Architect: A Son's Journey",
+                "title": "My Architect: A Son's Journey",
+                "release_date": "2003-11-12",
+                "backdrop_path": "/lWka0Rp7dhUu5ijstVW77IjphGG.jpg",
+                "poster_path": "/flpuP2Y2qUkVGghsOYkxj0HkgB9.jpg",
+                "overview": "World-famous architect Louis Kahn (Exeter Library, Salk Institute, Bangladeshi Capitol Building) had two illegitimate children with two different women outside of his marriage. Son Nathaniel always hoped that someday his father would come and live with him and his mother, but Kahn never left his wife. Instead, Kahn was found dead in a men's room in Penn Station when Nathaniel was only 11.",
+                "vote_average": 6.9,
+                "vote_count": 27
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Weather Underground",
+            "second_label": "Sam Green and Bill Siegel",
+            "category": "Documentary (Feature)",
+            "year": 2004,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "Chernobyl Heart",
+            "second_label": "Maryann DeLeo",
+            "category": "Documentary (Short Subject)",
+            "year": 2004,
+            "tmdb": {
+                "id": 26753,
+                "original_title": "Chernobyl Heart",
+                "title": "Chernobyl Heart",
+                "release_date": "2003-01-01",
+                "backdrop_path": null,
+                "poster_path": "/fO3CWFwi009lsCJhwZWTt10euOJ.jpg",
+                "overview": "This Academy Award-winning documentary takes a look at children born after the 1986 Chernobyl nuclear plant disaster who have been born with a deteriorated heart condition.",
+                "vote_average": 7.1,
+                "vote_count": 16
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Asylum",
+            "second_label": "Sandy McLeod and Gini Reticker",
+            "category": "Documentary (Short Subject)",
+            "year": 2004,
+            "tmdb": {
+                "id": 244995,
+                "original_title": "Asylum",
+                "title": "Asylum",
+                "release_date": "2003-03-09",
+                "backdrop_path": null,
+                "poster_path": "/kIti0bOOtGKhQLmq4DhoZIkjp9M.jpg",
+                "overview": "Baba, a young Ghanaian woman, goes in search of her father for his blessing on her impending marriage. This turns to a nightmare as he insists she a different man, and that she undergo female genital mutilation as is the custom in his tribe. She is forced to flee her father's village, seeking refugee status in the U.S. Instead she becomes enmeshed in the U.S. immigration system.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ferry Tales",
+            "second_label": "Katja Esson",
+            "category": "Documentary (Short Subject)",
+            "year": 2004,
+            "tmdb": {
+                "id": 245000,
+                "original_title": "Ferry Tales",
+                "title": "Ferry Tales",
+                "release_date": "2003-10-09",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "A documentary that focuses on the daily meetings between a group of commuters in the women's room of the Staten Island Ferry.",
+                "vote_average": 10.0,
+                "vote_count": 1
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "The Lord of the Rings: The Return of the King",
+            "second_label": "Jamie Selkirk",
+            "category": "Film Editing",
+            "year": 2004,
+            "tmdb": {
+                "id": 122,
+                "original_title": "The Lord of the Rings: The Return of the King",
+                "title": "O Senhor dos An\u00e9is: O Retorno do Rei",
+                "release_date": "2003-12-01",
+                "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+                "poster_path": "/rU4oIKv5I4C59DpcXKmT7kNwGI0.jpg",
+                "overview": "O confronto final entre as for\u00e7as do bem e do mal que lutam pelo controle do futuro da Terra M\u00e9dia se aproxima. Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf e Pippin partam para o local na inten\u00e7\u00e3o de ajudar a resist\u00eancia. Um ex\u00e9rcito \u00e9 reunido por Theoden em Rohan, em mais uma tentativa de deter as for\u00e7as de Sauron. Enquanto isso, Frodo, Sam e Gollum seguem sua viagem rumo \u00e0 Montanha da Perdi\u00e7\u00e3o para destruir o anel.",
+                "vote_average": 8.5,
+                "vote_count": 23192
+            },
+            "winner": true
+        },
+        {
+            "first_label": "City of God",
+            "second_label": "Daniel Rezende",
+            "category": "Film Editing",
+            "year": 2004,
+            "tmdb": {
+                "id": 598,
+                "original_title": "Cidade de Deus",
+                "title": "Cidade de Deus",
+                "release_date": "2002-08-30",
+                "backdrop_path": "/uvitbjFU4JqvMwIkMWHp69bmUzG.jpg",
+                "poster_path": "/pA70WUs7KHiHltfiBN4XEELOXcS.jpg",
+                "overview": "Buscap\u00e9 \u00e9 um jovem morador da Cidade de Deus que cresce em meio \u00e0 viol\u00eancia. Com medo de se tornar um bandido, enxerga na fotografia uma oportunidade de ter uma vida digna.",
+                "vote_average": 8.4,
+                "vote_count": 6996
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Cold Mountain",
+            "second_label": "Walter Murch",
+            "category": "Film Editing",
+            "year": 2004,
+            "tmdb": {
+                "id": 2289,
+                "original_title": "Cold Mountain",
+                "title": "Montanha Gelada",
+                "release_date": "2003-12-24",
+                "backdrop_path": "/xjJz025MAPrSeNj18LPjcyu4xFM.jpg",
+                "poster_path": "/hWWW2cIoc2DOOJBbkwNHGwHFLN2.jpg",
+                "overview": "Ap\u00f3s o t\u00e9rmino da Guerra Civil Americana, o soldado Inman Balis inicia o percurso para retornar \u00e0 sua casa, na vila de Cold Mountain. L\u00e1 est\u00e1 \u00e0 sua espera Ada, sua namorada, que luta para administrar uma grande fazenda ap\u00f3s a morte de seu pai. Para ajud\u00e1-la na tarefa chega Ruby, enviada por sua vizinha Sally, que cria uma grande amizade com Ada. No caminho de volta, Inman encontra diversos outros soldados, feridos como ele, com quem divide suas experi\u00eancias da guerra.",
+                "vote_average": 6.9,
+                "vote_count": 1665
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Master and Commander: The Far Side of the World",
+            "second_label": "Lee Smith",
+            "category": "Film Editing",
+            "year": 2004,
+            "tmdb": {
+                "id": 8619,
+                "original_title": "Master and Commander: The Far Side of the World",
+                "title": "Mestre dos Mares: O Lado Mais Distante do Mundo",
+                "release_date": "2003-11-14",
+                "backdrop_path": "/zMHyNxNt4zhL939XX8QLBW3gWfu.jpg",
+                "poster_path": "/3v61179ciXMpmyiJZmpqyCoV5us.jpg",
+                "overview": "Jack Aubrey \u00e9 o capit\u00e3o do H.M.S. Surprise, um dos principais navios de guerra da marinha brit\u00e2nica. Com seu pa\u00eds em guerra contra a Fran\u00e7a de Napole\u00e3o Bonaparte, Aubrey \u00e9 atacado por um navio inimigo mais poderoso, que fere boa parte de sua tripula\u00e7\u00e3o e ainda danifica o navio. Aubrey ent\u00e3o se sente dividido entre cumprir seu dever e tentar derrotar o inimigo ou retornar para cuidar dos feridos.",
+                "vote_average": 7.1,
+                "vote_count": 2999
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Seabiscuit",
+            "second_label": "William Goldenberg",
+            "category": "Film Editing",
+            "year": 2004,
+            "tmdb": {
+                "id": 4464,
+                "original_title": "Seabiscuit",
+                "title": "Seabiscuit: Alma de Her\u00f3i",
+                "release_date": "2003-07-22",
+                "backdrop_path": "/9mxDXwoNLLX1SOeq2uiqEfGg4sN.jpg",
+                "poster_path": "/qEcPXNRT19zq6zdFDizqdJOpFIC.jpg",
+                "overview": "Charles Howard (Jeff Bridges) \u00e9 um milion\u00e1rio que ganhou um cavalo de pequeno porte e indisciplinado, chamado Seabiscuit, que nunca teve grande destaque nas corridas. Howard decide trein\u00e1-lo de forma a torn\u00e1-lo competitivo, contratando para tanto o j\u00f3quei Red Pollard (Tobey Maguire) e o treinador Tom Smith (Chris Cooper), conhecido no meio por sua capacidade de se comunicar com cavalos. Juntos eles conseguem transformar Seabiscuit no cavalo do ano em 1938, chamando a aten\u00e7\u00e3o da popula\u00e7\u00e3o americana para sua hist\u00f3ria de sucesso.",
+                "vote_average": 7.0,
+                "vote_count": 784
+            },
+            "winner": false
+        }
+    ],
+    "Foreign Language Film": [
+        {
+            "first_label": "The Barbarian Invasions",
+            "second_label": "Canada",
+            "category": "Foreign Language Film",
+            "year": 2004,
+            "tmdb": {
+                "id": 11042,
+                "original_title": "Les Invasions barbares",
+                "title": "As Invas\u00f5es B\u00e1rbaras",
+                "release_date": "2003-09-24",
+                "backdrop_path": "/7PefpVkSOiQmcdGv6TGHU8kn296.jpg",
+                "poster_path": "/9MHqEm9nHAMZaiXnYoKlMyiXoew.jpg",
+                "overview": "\u00c0 beira da morte e com dificuldades em aceitar seu passado, R\u00e9my busca encontrar a paz. Para tanto recebe a ajuda de S\u00e9bastien, seu filho ausente, sua ex-mulher e velhos amigos.",
+                "vote_average": 7.0,
+                "vote_count": 350
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Evil",
+            "second_label": "Sweden",
+            "category": "Foreign Language Film",
+            "year": 2004,
+            "tmdb": {
+                "id": 1576,
+                "original_title": "Resident Evil",
+                "title": "Resident Evil: O H\u00f3spede Maldito",
+                "release_date": "2002-03-15",
+                "backdrop_path": "/5pGWjnM62Zs0S1xRf3TDL1Xizr.jpg",
+                "poster_path": "/9vJX0Q9LSoOlTio8cTAm2ms0sWz.jpg",
+                "overview": "Uma equipe de comando militar composta por civis deve lutar contra mortos-vivos carn\u00edvoros, c\u00e3es mutantes e defesas mort\u00edferas de um super computador, antes que um v\u00edrus solto consuma a humanidade, nesta adapta\u00e7\u00e3o do sucesso da s\u00e9rie de v\u00eddeo-games!",
+                "vote_average": 6.615,
+                "vote_count": 6009
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Twilight Samurai",
+            "second_label": "Japan",
+            "category": "Foreign Language Film",
+            "year": 2004,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Twin Sisters",
+            "second_label": "The Netherlands",
+            "category": "Foreign Language Film",
+            "year": 2004,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Zelary",
+            "second_label": "Czech Republic",
+            "category": "Foreign Language Film",
+            "year": 2004,
+            "tmdb": {
+                "id": 19765,
+                "original_title": "\u017delary",
+                "title": "\u017delary",
+                "release_date": "2003-09-04",
+                "backdrop_path": "/8QFuCy9fjcI6wm02fxFkJOjktRz.jpg",
+                "poster_path": "/qYHnkyOWb3Dj9IxmHAlimk99kte.jpg",
+                "overview": "A nurse and her surgeon-lover are part of a resistance movement in 1940s Czechoslovakia. When they are discovered, her lover flees and she must find a place to hide. A patient whose life she saved, a man from a remote mountain village where time stopped 150 years ago, agrees to hide her as his wife.",
+                "vote_average": 7.2,
+                "vote_count": 43
+            },
+            "winner": false
+        }
+    ],
+    "Makeup": [
+        {
+            "first_label": "The Lord of the Rings: The Return of the King",
+            "second_label": "Richard Taylor and Peter King",
+            "category": "Makeup",
+            "year": 2004,
+            "tmdb": {
+                "id": 122,
+                "original_title": "The Lord of the Rings: The Return of the King",
+                "title": "O Senhor dos An\u00e9is: O Retorno do Rei",
+                "release_date": "2003-12-01",
+                "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+                "poster_path": "/rU4oIKv5I4C59DpcXKmT7kNwGI0.jpg",
+                "overview": "O confronto final entre as for\u00e7as do bem e do mal que lutam pelo controle do futuro da Terra M\u00e9dia se aproxima. Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf e Pippin partam para o local na inten\u00e7\u00e3o de ajudar a resist\u00eancia. Um ex\u00e9rcito \u00e9 reunido por Theoden em Rohan, em mais uma tentativa de deter as for\u00e7as de Sauron. Enquanto isso, Frodo, Sam e Gollum seguem sua viagem rumo \u00e0 Montanha da Perdi\u00e7\u00e3o para destruir o anel.",
+                "vote_average": 8.5,
+                "vote_count": 23192
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Master and Commander: The Far Side of the World",
+            "second_label": "Edouard Henriques III and Yolanda Toussieng",
+            "category": "Makeup",
+            "year": 2004,
+            "tmdb": {
+                "id": 8619,
+                "original_title": "Master and Commander: The Far Side of the World",
+                "title": "Mestre dos Mares: O Lado Mais Distante do Mundo",
+                "release_date": "2003-11-14",
+                "backdrop_path": "/zMHyNxNt4zhL939XX8QLBW3gWfu.jpg",
+                "poster_path": "/3v61179ciXMpmyiJZmpqyCoV5us.jpg",
+                "overview": "Jack Aubrey \u00e9 o capit\u00e3o do H.M.S. Surprise, um dos principais navios de guerra da marinha brit\u00e2nica. Com seu pa\u00eds em guerra contra a Fran\u00e7a de Napole\u00e3o Bonaparte, Aubrey \u00e9 atacado por um navio inimigo mais poderoso, que fere boa parte de sua tripula\u00e7\u00e3o e ainda danifica o navio. Aubrey ent\u00e3o se sente dividido entre cumprir seu dever e tentar derrotar o inimigo ou retornar para cuidar dos feridos.",
+                "vote_average": 7.1,
+                "vote_count": 2999
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Pirates of the Caribbean: The Curse of the Black Pearl",
+            "second_label": "Ve Neill and Martin Samuel",
+            "category": "Makeup",
+            "year": 2004,
+            "tmdb": {
+                "id": 22,
+                "original_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+                "title": "Piratas do Caribe: A Maldi\u00e7\u00e3o do P\u00e9rola Negra",
+                "release_date": "2003-07-09",
+                "backdrop_path": "/wW7Wt5bXzPy4VOEE4LTIUDyDgBo.jpg",
+                "poster_path": "/xsAlxvMCRzyreLxdZL1dOUSbonV.jpg",
+                "overview": "O pirata Jack Sparrow tem seu navio saqueado e roubado pelo capit\u00e3o Barbossa e sua tripula\u00e7\u00e3o. Com o navio de Sparrow, Barbossa invade a cidade de Port Royal, levando consigo Elizabeth Swann, filha do governador. Para recuperar sua embarca\u00e7\u00e3o, Sparrow recebe a ajuda de Will Turner, um grande amigo de Elizabeth. Eles desbravam os mares em dire\u00e7\u00e3o \u00e0 misteriosa Ilha da Morte, tentando impedir que os piratas-esqueleto derramem o sangue de Elizabeth para desfazer a maldi\u00e7\u00e3o que os assola.",
+                "vote_average": 7.799,
+                "vote_count": 19844
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Score)": [
+        {
+            "first_label": "The Lord of the Rings: The Return of the King",
+            "second_label": "Howard Shore",
+            "category": "Music (Original Score)",
+            "year": 2004,
+            "tmdb": {
+                "id": 122,
+                "original_title": "The Lord of the Rings: The Return of the King",
+                "title": "O Senhor dos An\u00e9is: O Retorno do Rei",
+                "release_date": "2003-12-01",
+                "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+                "poster_path": "/rU4oIKv5I4C59DpcXKmT7kNwGI0.jpg",
+                "overview": "O confronto final entre as for\u00e7as do bem e do mal que lutam pelo controle do futuro da Terra M\u00e9dia se aproxima. Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf e Pippin partam para o local na inten\u00e7\u00e3o de ajudar a resist\u00eancia. Um ex\u00e9rcito \u00e9 reunido por Theoden em Rohan, em mais uma tentativa de deter as for\u00e7as de Sauron. Enquanto isso, Frodo, Sam e Gollum seguem sua viagem rumo \u00e0 Montanha da Perdi\u00e7\u00e3o para destruir o anel.",
+                "vote_average": 8.5,
+                "vote_count": 23192
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Big Fish",
+            "second_label": "Danny Elfman",
+            "category": "Music (Original Score)",
+            "year": 2004,
+            "tmdb": {
+                "id": 587,
+                "original_title": "Big Fish",
+                "title": "Peixe Grande e Suas Hist\u00f3rias Maravilhosas",
+                "release_date": "2003-12-25",
+                "backdrop_path": "/bLqUd0tBvKezDr9MEla7k34i3rp.jpg",
+                "poster_path": "/2IVwZB2necwjAmnw14Wxi7isYq4.jpg",
+                "overview": "Durante toda a sua vida, Edward Bloom tem sido um homem de grandes sonhos, paix\u00f5es e hist\u00f3rias inesquec\u00edveis. Em seus \u00faltimos anos de vida, ele continua sendo um grande mist\u00e9rio para seu filho William. Agora, na tentativa de conhecer o seu pai de verdade, Will come\u00e7a a juntar as pe\u00e7as para montar uma id\u00e9ia real de seu pai atrav\u00e9s de flashbacks de suas maravilhosas hist\u00f3rias nesta maravilha de filme.",
+                "vote_average": 7.759,
+                "vote_count": 6908
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Cold Mountain",
+            "second_label": "Gabriel Yared",
+            "category": "Music (Original Score)",
+            "year": 2004,
+            "tmdb": {
+                "id": 2289,
+                "original_title": "Cold Mountain",
+                "title": "Montanha Gelada",
+                "release_date": "2003-12-24",
+                "backdrop_path": "/xjJz025MAPrSeNj18LPjcyu4xFM.jpg",
+                "poster_path": "/hWWW2cIoc2DOOJBbkwNHGwHFLN2.jpg",
+                "overview": "Ap\u00f3s o t\u00e9rmino da Guerra Civil Americana, o soldado Inman Balis inicia o percurso para retornar \u00e0 sua casa, na vila de Cold Mountain. L\u00e1 est\u00e1 \u00e0 sua espera Ada, sua namorada, que luta para administrar uma grande fazenda ap\u00f3s a morte de seu pai. Para ajud\u00e1-la na tarefa chega Ruby, enviada por sua vizinha Sally, que cria uma grande amizade com Ada. No caminho de volta, Inman encontra diversos outros soldados, feridos como ele, com quem divide suas experi\u00eancias da guerra.",
+                "vote_average": 6.9,
+                "vote_count": 1665
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Finding Nemo",
+            "second_label": "Thomas Newman",
+            "category": "Music (Original Score)",
+            "year": 2004,
+            "tmdb": {
+                "id": 12,
+                "original_title": "Finding Nemo",
+                "title": "Procurando Nemo",
+                "release_date": "2003-05-30",
+                "backdrop_path": "/eCynaAOgYYiw5yN5lBwz3IxqvaW.jpg",
+                "poster_path": "/5jrPMq7IMLTqcuPDlK6jfruEbpq.jpg",
+                "overview": "Depois que seu filho \u00e9 capturado na Grande Barreira de Corais e levado para Sydney, um peixe-palha\u00e7o t\u00edmido parte em uma jornada para traz\u00ea-lo para casa.",
+                "vote_average": 7.824,
+                "vote_count": 18594
+            },
+            "winner": false
+        },
+        {
+            "first_label": "House of Sand and Fog",
+            "second_label": "James Horner",
+            "category": "Music (Original Score)",
+            "year": 2004,
+            "tmdb": {
+                "id": 11093,
+                "original_title": "House of Sand and Fog",
+                "title": "Casa de Areia e N\u00e9voa",
+                "release_date": "2003-12-19",
+                "backdrop_path": "/4yK1PD5qZlsqumpTTTV12WrTwgR.jpg",
+                "poster_path": "/mHz5hyw3ApK4bZ6adWXsL8cEV7X.jpg",
+                "overview": "Duas pessoas travam uma disputa at\u00e9 \u00e0s \u00faltimas conseq\u00fc\u00eancias. De um lado est\u00e1 Kathy (Jennifer Connelly), jovem que sofre profunda depress\u00e3o ap\u00f3s ter sido abandonada pelo marido. Por um erro do governo, ela \u00e9 expulsa da casa em que morava. Inconformada, contrata um advogado para recuperar o que ela acredita ser o \u00faltimo s\u00edmbolo de sua sanidade. Do outro lado est\u00e1 Massoud Amir Behrani (Ben Kingsley), imigrante iraniano que comprou a casa de Kathy em leil\u00e3o, o que para ele \u00e9 a oportunidade de dar conforto \u00e0 mulher e ao filho e de recuperar o padr\u00e3o de vida que tinham no Ir\u00e3.",
+                "vote_average": 7.1,
+                "vote_count": 710
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Song)": [
+        {
+            "first_label": "The Lord of the Rings: The Return of the King",
+            "second_label": "Into The West in \"The Lord of the Rings: The Return of the King\" Music and Lyric by Fran Walsh and Howard Shore and Annie Lennox",
+            "category": "Music (Original Song)",
+            "year": 2004,
+            "tmdb": {
+                "id": 122,
+                "original_title": "The Lord of the Rings: The Return of the King",
+                "title": "O Senhor dos An\u00e9is: O Retorno do Rei",
+                "release_date": "2003-12-01",
+                "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+                "poster_path": "/rU4oIKv5I4C59DpcXKmT7kNwGI0.jpg",
+                "overview": "O confronto final entre as for\u00e7as do bem e do mal que lutam pelo controle do futuro da Terra M\u00e9dia se aproxima. Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf e Pippin partam para o local na inten\u00e7\u00e3o de ajudar a resist\u00eancia. Um ex\u00e9rcito \u00e9 reunido por Theoden em Rohan, em mais uma tentativa de deter as for\u00e7as de Sauron. Enquanto isso, Frodo, Sam e Gollum seguem sua viagem rumo \u00e0 Montanha da Perdi\u00e7\u00e3o para destruir o anel.",
+                "vote_average": 8.5,
+                "vote_count": 23192
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Triplets of Belleville",
+            "second_label": "Belleville Rendez-vous in \"The Triplets of Belleville\"",
+            "category": "Music (Original Song)",
+            "year": 2004,
+            "tmdb": {
+                "id": 9662,
+                "original_title": "Les Triplettes de Belleville",
+                "title": "As Bicicletas de Belleville",
+                "release_date": "2003-06-11",
+                "backdrop_path": "/umvgkmn3k7Ac3E74IlhCGQpoqgS.jpg",
+                "poster_path": "/flHYQswYEIvBL2QsQLEJJzTJDyS.jpg",
+                "overview": "Quando seu neto \u00e9 raptado durante o Tour de France, Madame Souza e seu amado vira-latas Bruno se juntam com as Irm\u00e3s Belleville - um grupo de senhoras cantoras e dan\u00e7arinas do tempo de Fred Astaire - para resgat\u00e1-lo.",
+                "vote_average": 7.374,
+                "vote_count": 890
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Mighty Wind",
+            "second_label": "A Kiss At The End Of The Rainbow in \"A Mighty Wind\" Music and Lyric by Michael McKean and Annette O'Toole",
+            "category": "Music (Original Song)",
+            "year": 2004,
+            "tmdb": {
+                "id": 13370,
+                "original_title": "A Mighty Wind",
+                "title": "Os Grandes M\u00fasicos",
+                "release_date": "2003-04-16",
+                "backdrop_path": "/e2JTL58CsHrq69tRuW98KjDqfM.jpg",
+                "poster_path": "/5wUYwAD75BxtJ0Mp4da6XzHIFex.jpg",
+                "overview": "Ap\u00f3s 20 anos de sua estr\u00e9ia como calouros, o trio Folksmen (Guest como Alan Barrows, McKean como Jerry Palter e Shearer como Mark Shubb) re\u00fane-se novamente nos anos 80 nos mais variados festivais de folk.",
+                "vote_average": 6.8,
+                "vote_count": 224
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Cold Mountain",
+            "second_label": "Scarlet Tide in \"Cold Mountain\" Music and Lyric by T Bone Burnett and Elvis Costello",
+            "category": "Music (Original Song)",
+            "year": 2004,
+            "tmdb": {
+                "id": 2289,
+                "original_title": "Cold Mountain",
+                "title": "Montanha Gelada",
+                "release_date": "2003-12-24",
+                "backdrop_path": "/xjJz025MAPrSeNj18LPjcyu4xFM.jpg",
+                "poster_path": "/hWWW2cIoc2DOOJBbkwNHGwHFLN2.jpg",
+                "overview": "Ap\u00f3s o t\u00e9rmino da Guerra Civil Americana, o soldado Inman Balis inicia o percurso para retornar \u00e0 sua casa, na vila de Cold Mountain. L\u00e1 est\u00e1 \u00e0 sua espera Ada, sua namorada, que luta para administrar uma grande fazenda ap\u00f3s a morte de seu pai. Para ajud\u00e1-la na tarefa chega Ruby, enviada por sua vizinha Sally, que cria uma grande amizade com Ada. No caminho de volta, Inman encontra diversos outros soldados, feridos como ele, com quem divide suas experi\u00eancias da guerra.",
+                "vote_average": 6.9,
+                "vote_count": 1665
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Cold Mountain",
+            "second_label": "You Will Be My Ain True Love in \"Cold Mountain\" Music and Lyric by Sting",
+            "category": "Music (Original Song)",
+            "year": 2004,
+            "tmdb": {
+                "id": 2289,
+                "original_title": "Cold Mountain",
+                "title": "Montanha Gelada",
+                "release_date": "2003-12-24",
+                "backdrop_path": "/xjJz025MAPrSeNj18LPjcyu4xFM.jpg",
+                "poster_path": "/hWWW2cIoc2DOOJBbkwNHGwHFLN2.jpg",
+                "overview": "Ap\u00f3s o t\u00e9rmino da Guerra Civil Americana, o soldado Inman Balis inicia o percurso para retornar \u00e0 sua casa, na vila de Cold Mountain. L\u00e1 est\u00e1 \u00e0 sua espera Ada, sua namorada, que luta para administrar uma grande fazenda ap\u00f3s a morte de seu pai. Para ajud\u00e1-la na tarefa chega Ruby, enviada por sua vizinha Sally, que cria uma grande amizade com Ada. No caminho de volta, Inman encontra diversos outros soldados, feridos como ele, com quem divide suas experi\u00eancias da guerra.",
+                "vote_average": 6.9,
+                "vote_count": 1665
+            },
+            "winner": false
+        }
+    ],
+    "Best Picture": [
+        {
+            "first_label": "The Lord of the Rings: The Return of the King",
+            "second_label": "Barrie M. Osborne, Peter Jackson and Fran Walsh, Producers",
+            "category": "Best Picture",
+            "year": 2004,
+            "tmdb": {
+                "id": 122,
+                "original_title": "The Lord of the Rings: The Return of the King",
+                "title": "O Senhor dos An\u00e9is: O Retorno do Rei",
+                "release_date": "2003-12-01",
+                "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+                "poster_path": "/rU4oIKv5I4C59DpcXKmT7kNwGI0.jpg",
+                "overview": "O confronto final entre as for\u00e7as do bem e do mal que lutam pelo controle do futuro da Terra M\u00e9dia se aproxima. Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf e Pippin partam para o local na inten\u00e7\u00e3o de ajudar a resist\u00eancia. Um ex\u00e9rcito \u00e9 reunido por Theoden em Rohan, em mais uma tentativa de deter as for\u00e7as de Sauron. Enquanto isso, Frodo, Sam e Gollum seguem sua viagem rumo \u00e0 Montanha da Perdi\u00e7\u00e3o para destruir o anel.",
+                "vote_average": 8.5,
+                "vote_count": 23192
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Lost in Translation",
+            "second_label": "Ross Katz and Sofia Coppola, Producers",
+            "category": "Best Picture",
+            "year": 2004,
+            "tmdb": {
+                "id": 153,
+                "original_title": "Lost in Translation",
+                "title": "Encontros e Desencontros",
+                "release_date": "2003-09-18",
+                "backdrop_path": "/45He7gApNQyDbqCDjxew9BnHzjf.jpg",
+                "poster_path": "/l2IEdDTtdVHfFKa2Uv45AbqySDT.jpg",
+                "overview": "Bob Harris (Bill Murray) \u00e9 uma estrela de cinema, que est\u00e1 em T\u00f3quio para fazer um comercial de u\u00edsque. Charlotte (Scarlett Johansson), por sua vez, est\u00e1 na cidade acompanhando seu marido, um fot\u00f3grafo workaholic (Giovanni Ribisi) que a deixa sozinha o tempo todo. Sofrendo com o hor\u00e1rio, Bob e Charlotte n\u00e3o conseguem dormir. Eles se encontram, por acaso, no bar de um hotel de luxo, e em pouco tempo tornam-se grandes amigos. Resolvem ent\u00e3o partir pela cidade juntos. A eles junta-se uma jovem atriz chamada Kelly (Anna Faris), com quem v\u00e3o viver algumas aventuras pela cidade de T\u00f3quio.",
+                "vote_average": 7.393,
+                "vote_count": 6979
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Master and Commander: The Far Side of the World",
+            "second_label": "Samuel Goldwyn, Jr., Peter Weir and Duncan Henderson, Producers",
+            "category": "Best Picture",
+            "year": 2004,
+            "tmdb": {
+                "id": 8619,
+                "original_title": "Master and Commander: The Far Side of the World",
+                "title": "Mestre dos Mares: O Lado Mais Distante do Mundo",
+                "release_date": "2003-11-14",
+                "backdrop_path": "/zMHyNxNt4zhL939XX8QLBW3gWfu.jpg",
+                "poster_path": "/3v61179ciXMpmyiJZmpqyCoV5us.jpg",
+                "overview": "Jack Aubrey \u00e9 o capit\u00e3o do H.M.S. Surprise, um dos principais navios de guerra da marinha brit\u00e2nica. Com seu pa\u00eds em guerra contra a Fran\u00e7a de Napole\u00e3o Bonaparte, Aubrey \u00e9 atacado por um navio inimigo mais poderoso, que fere boa parte de sua tripula\u00e7\u00e3o e ainda danifica o navio. Aubrey ent\u00e3o se sente dividido entre cumprir seu dever e tentar derrotar o inimigo ou retornar para cuidar dos feridos.",
+                "vote_average": 7.1,
+                "vote_count": 2999
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mystic River",
+            "second_label": "Robert Lorenz, Judie G. Hoyt and Clint Eastwood, Producers",
+            "category": "Best Picture",
+            "year": 2004,
+            "tmdb": {
+                "id": 322,
+                "original_title": "Mystic River",
+                "title": "Sobre Meninos e Lobos",
+                "release_date": "2003-03-03",
+                "backdrop_path": "/ah9hRJhdMMLkntNDIatKwncNJra.jpg",
+                "poster_path": "/sKALnVXQpq4wQWCSB6QPjQXZCfH.jpg",
+                "overview": "Tr\u00eas amigos de inf\u00e2ncia, Dave, Sean e Jimmy acabam se separando quando um deles, Dave, \u00e9 sequestrado e sofre terr\u00edveis abusos sexuais. Agora adultos, o passado volta a assombr\u00e1-los quando a filha de Jimmy \u00e9 assassinada. Sean \u00e9 o policial que investiga o caso, Jimmy quer revanche e Dave \u00e9 o principal suspeito.",
+                "vote_average": 7.741,
+                "vote_count": 6310
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Seabiscuit",
+            "second_label": "Kathleen Kennedy, Frank Marshall and Gary Ross, Producers",
+            "category": "Best Picture",
+            "year": 2004,
+            "tmdb": {
+                "id": 4464,
+                "original_title": "Seabiscuit",
+                "title": "Seabiscuit: Alma de Her\u00f3i",
+                "release_date": "2003-07-22",
+                "backdrop_path": "/9mxDXwoNLLX1SOeq2uiqEfGg4sN.jpg",
+                "poster_path": "/qEcPXNRT19zq6zdFDizqdJOpFIC.jpg",
+                "overview": "Charles Howard (Jeff Bridges) \u00e9 um milion\u00e1rio que ganhou um cavalo de pequeno porte e indisciplinado, chamado Seabiscuit, que nunca teve grande destaque nas corridas. Howard decide trein\u00e1-lo de forma a torn\u00e1-lo competitivo, contratando para tanto o j\u00f3quei Red Pollard (Tobey Maguire) e o treinador Tom Smith (Chris Cooper), conhecido no meio por sua capacidade de se comunicar com cavalos. Juntos eles conseguem transformar Seabiscuit no cavalo do ano em 1938, chamando a aten\u00e7\u00e3o da popula\u00e7\u00e3o americana para sua hist\u00f3ria de sucesso.",
+                "vote_average": 7.0,
+                "vote_count": 784
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Animated)": [
+        {
+            "first_label": "Harvie Krumpet",
+            "second_label": "Adam Elliot",
+            "category": "Short Film (Animated)",
+            "year": 2004,
+            "tmdb": {
+                "id": 21131,
+                "original_title": "Harvie Krumpet",
+                "title": "Harvie Krumpet",
+                "release_date": "2003-10-23",
+                "backdrop_path": "/xzI3Fbq17FbPVUlOoZ4NmN2LF2z.jpg",
+                "poster_path": "/5TWvqqncvw5azIwnSGl8i9xTFZr.jpg",
+                "overview": "The odd biography of Harvie Krumpet, a man who has Tourette's Syndrome, chronic bad luck, menial jobs, nudist tendencies, and a book of \"fakts\" hung around his neck - but still optimistically lives own way and enjoys the small things life has to offer.",
+                "vote_average": 7.4,
+                "vote_count": 164
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Boundin'",
+            "second_label": "Bud Luckey",
+            "category": "Short Film (Animated)",
+            "year": 2004,
+            "tmdb": {
+                "id": 13062,
+                "original_title": "Boundin'",
+                "title": "Pular",
+                "release_date": "2003-11-04",
+                "backdrop_path": "/creJJVuDkR0MI240P9U3eTrcQkf.jpg",
+                "poster_path": "/1KpJP5aLCRE0baQfX33H447p30T.jpg",
+                "overview": "Uma ovelha feliz e orgulhosa dan\u00e7a alegremente, at\u00e9 o dia em que seu pelo \u00e9 tosquiado completamente. A ovelha fica deprimida e amuada, at\u00e9 receber uma li\u00e7\u00e3o de que o importante n\u00e3o s\u00e3o as apar\u00eancias. Faz parte da Cole\u00e7\u00e3o Pixar Curtas 01.",
+                "vote_average": 6.6,
+                "vote_count": 523
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Destino",
+            "second_label": "Dominique Monfery and Roy Edward Disney",
+            "category": "Short Film (Animated)",
+            "year": 2004,
+            "tmdb": {
+                "id": 35114,
+                "original_title": "Destino",
+                "title": "Destino",
+                "release_date": "2003-08-05",
+                "backdrop_path": "/hsx40OreCcM84gNmOeVssUvetRg.jpg",
+                "poster_path": "/A4HxxjQNLAEskd8RL413beTK23Y.jpg",
+                "overview": "Para uma can\u00e7\u00e3o de amor perdido e redescoberto, uma mulher v\u00ea e sofre transforma\u00e7\u00f5es surreais. De rel\u00f3gios derretidos ampulheta de areia, \u00e0 figuras em tiras, para globos oculares, o estilo e os temas de Dal\u00ed s\u00e3o claramente reconhec\u00edveis por toda parte.",
+                "vote_average": 7.2,
+                "vote_count": 237
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gone Nutty",
+            "second_label": "Carlos Saldanha and John C. Donkin",
+            "category": "Short Film (Animated)",
+            "year": 2004,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Nibbles",
+            "second_label": "Chris Hinton",
+            "category": "Short Film (Animated)",
+            "year": 2004,
+            "tmdb": {
+                "id": 220866,
+                "original_title": "Nibbles",
+                "title": "Nibbles",
+                "release_date": "2003-12-31",
+                "backdrop_path": "/AnuRVvZsoVbgzFHLvuRx6wjSTXQ.jpg",
+                "poster_path": "/lTxcKNQMmxVk9A8B70UG6Oa5N8x.jpg",
+                "overview": "Uma fam\u00edlia sai para pescar, mas faz muitas paradas pelo caminho...",
+                "vote_average": 6.3,
+                "vote_count": 10
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Live Action)": [
+        {
+            "first_label": "Two Soldiers",
+            "second_label": "Aaron Schneider and Andrew J. Sacks",
+            "category": "Short Film (Live Action)",
+            "year": 2004,
+            "tmdb": {
+                "id": 204781,
+                "original_title": "Two Soldiers",
+                "title": "Two Soldiers",
+                "release_date": "2003-07-30",
+                "backdrop_path": null,
+                "poster_path": "/1hFzer2Jyy21LuMhteCyBszT3K3.jpg",
+                "overview": "Set during WWII, a young boy wants to join his brother in the \"war at Pearl Harbour\".",
+                "vote_average": 6.8,
+                "vote_count": 9
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Die Rote Jacke (The Red Jacket)",
+            "second_label": "Florian Baxmeyer",
+            "category": "Short Film (Live Action)",
+            "year": 2004,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Most (The Bridge)",
+            "second_label": "Bobby Garabedian and William Zabka",
+            "category": "Short Film (Live Action)",
+            "year": 2004,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Squash",
+            "second_label": "Lionel Bailliu",
+            "category": "Short Film (Live Action)",
+            "year": 2004,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "(A) Torzija [(A) Torsion]",
+            "second_label": "Stefan Arsenijevic",
+            "category": "Short Film (Live Action)",
+            "year": 2004,
+            "tmdb": {
+                "id": 244987,
+                "original_title": "(A)Torzija",
+                "title": "(A)Torsion",
+                "release_date": "2003-02-08",
+                "backdrop_path": null,
+                "poster_path": "/gOxhnl80yIwq4q8LXVIr9skBE5T.jpg",
+                "overview": "(A) Torsion is a 2002 Bosnian short film directed by Stefan Arsenijevic. A singing group, trying to escape war-torn Sarajevo, has to wait for a tunnel to clear. While they wait, a cow has difficulty giving birth because of the \"torsion\" affecting its calf (i.e., it's in a twisted position inside). Fortunately, one of the choir members has some veterinary training, and with help from the chorus to drown out the sounds of war, the cow gives birth. The film was nominated for an Oscar for Best Live Action Short Film.",
+                "vote_average": 6.8,
+                "vote_count": 9
+            },
+            "winner": false
+        }
+    ],
+    "Sound Editing": [
+        {
+            "first_label": "Master and Commander: The Far Side of the World",
+            "second_label": "Richard King",
+            "category": "Sound Editing",
+            "year": 2004,
+            "tmdb": {
+                "id": 8619,
+                "original_title": "Master and Commander: The Far Side of the World",
+                "title": "Mestre dos Mares: O Lado Mais Distante do Mundo",
+                "release_date": "2003-11-14",
+                "backdrop_path": "/zMHyNxNt4zhL939XX8QLBW3gWfu.jpg",
+                "poster_path": "/3v61179ciXMpmyiJZmpqyCoV5us.jpg",
+                "overview": "Jack Aubrey \u00e9 o capit\u00e3o do H.M.S. Surprise, um dos principais navios de guerra da marinha brit\u00e2nica. Com seu pa\u00eds em guerra contra a Fran\u00e7a de Napole\u00e3o Bonaparte, Aubrey \u00e9 atacado por um navio inimigo mais poderoso, que fere boa parte de sua tripula\u00e7\u00e3o e ainda danifica o navio. Aubrey ent\u00e3o se sente dividido entre cumprir seu dever e tentar derrotar o inimigo ou retornar para cuidar dos feridos.",
+                "vote_average": 7.1,
+                "vote_count": 2999
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Finding Nemo",
+            "second_label": "Gary Rydstrom and Michael Silvers",
+            "category": "Sound Editing",
+            "year": 2004,
+            "tmdb": {
+                "id": 12,
+                "original_title": "Finding Nemo",
+                "title": "Procurando Nemo",
+                "release_date": "2003-05-30",
+                "backdrop_path": "/eCynaAOgYYiw5yN5lBwz3IxqvaW.jpg",
+                "poster_path": "/5jrPMq7IMLTqcuPDlK6jfruEbpq.jpg",
+                "overview": "Depois que seu filho \u00e9 capturado na Grande Barreira de Corais e levado para Sydney, um peixe-palha\u00e7o t\u00edmido parte em uma jornada para traz\u00ea-lo para casa.",
+                "vote_average": 7.824,
+                "vote_count": 18594
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Pirates of the Caribbean: The Curse of the Black Pearl",
+            "second_label": "Christopher Boyes and George Watters II",
+            "category": "Sound Editing",
+            "year": 2004,
+            "tmdb": {
+                "id": 22,
+                "original_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+                "title": "Piratas do Caribe: A Maldi\u00e7\u00e3o do P\u00e9rola Negra",
+                "release_date": "2003-07-09",
+                "backdrop_path": "/wW7Wt5bXzPy4VOEE4LTIUDyDgBo.jpg",
+                "poster_path": "/xsAlxvMCRzyreLxdZL1dOUSbonV.jpg",
+                "overview": "O pirata Jack Sparrow tem seu navio saqueado e roubado pelo capit\u00e3o Barbossa e sua tripula\u00e7\u00e3o. Com o navio de Sparrow, Barbossa invade a cidade de Port Royal, levando consigo Elizabeth Swann, filha do governador. Para recuperar sua embarca\u00e7\u00e3o, Sparrow recebe a ajuda de Will Turner, um grande amigo de Elizabeth. Eles desbravam os mares em dire\u00e7\u00e3o \u00e0 misteriosa Ilha da Morte, tentando impedir que os piratas-esqueleto derramem o sangue de Elizabeth para desfazer a maldi\u00e7\u00e3o que os assola.",
+                "vote_average": 7.799,
+                "vote_count": 19844
+            },
+            "winner": false
+        }
+    ],
+    "Sound Mixing": [
+        {
+            "first_label": "The Lord of the Rings: The Return of the King",
+            "second_label": "Christopher Boyes, Michael Semanick, Michael Hedges and Hammond Peek",
+            "category": "Sound Mixing",
+            "year": 2004,
+            "tmdb": {
+                "id": 122,
+                "original_title": "The Lord of the Rings: The Return of the King",
+                "title": "O Senhor dos An\u00e9is: O Retorno do Rei",
+                "release_date": "2003-12-01",
+                "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+                "poster_path": "/rU4oIKv5I4C59DpcXKmT7kNwGI0.jpg",
+                "overview": "O confronto final entre as for\u00e7as do bem e do mal que lutam pelo controle do futuro da Terra M\u00e9dia se aproxima. Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf e Pippin partam para o local na inten\u00e7\u00e3o de ajudar a resist\u00eancia. Um ex\u00e9rcito \u00e9 reunido por Theoden em Rohan, em mais uma tentativa de deter as for\u00e7as de Sauron. Enquanto isso, Frodo, Sam e Gollum seguem sua viagem rumo \u00e0 Montanha da Perdi\u00e7\u00e3o para destruir o anel.",
+                "vote_average": 8.5,
+                "vote_count": 23192
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Last Samurai",
+            "second_label": "Andy Nelson, Anna Behlmer and Jeff Wexler",
+            "category": "Sound Mixing",
+            "year": 2004,
+            "tmdb": {
+                "id": 616,
+                "original_title": "The Last Samurai",
+                "title": "O \u00daltimo Samurai",
+                "release_date": "2003-12-05",
+                "backdrop_path": "/z354BaTVzKj7E60WLzDoSmUuO4u.jpg",
+                "poster_path": "/uOXcVNT3eKPfU93GwcXd2XFssJv.jpg",
+                "overview": "Em 1870 \u00e9 enviado ao Jap\u00e3o o capit\u00e3o Nathan Algren, um conceituado militar norte-americano. A miss\u00e3o de Algren \u00e9 treinar as tropas do imperador Meiji, para que elas possam eliminar os \u00faltimos samurais que ainda vivem na regi\u00e3o. Por\u00e9m, ap\u00f3s ser capturado pelo inimigo, Algren aprende com Katsumoto o c\u00f3digo de honra dos samurais e passa a ficar em d\u00favida sobre que lado apoiar.",
+                "vote_average": 7.584,
+                "vote_count": 6553
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Master and Commander: The Far Side of the World",
+            "second_label": "Paul Massey, D.M. Hemphill and Arthur Rochester",
+            "category": "Sound Mixing",
+            "year": 2004,
+            "tmdb": {
+                "id": 8619,
+                "original_title": "Master and Commander: The Far Side of the World",
+                "title": "Mestre dos Mares: O Lado Mais Distante do Mundo",
+                "release_date": "2003-11-14",
+                "backdrop_path": "/zMHyNxNt4zhL939XX8QLBW3gWfu.jpg",
+                "poster_path": "/3v61179ciXMpmyiJZmpqyCoV5us.jpg",
+                "overview": "Jack Aubrey \u00e9 o capit\u00e3o do H.M.S. Surprise, um dos principais navios de guerra da marinha brit\u00e2nica. Com seu pa\u00eds em guerra contra a Fran\u00e7a de Napole\u00e3o Bonaparte, Aubrey \u00e9 atacado por um navio inimigo mais poderoso, que fere boa parte de sua tripula\u00e7\u00e3o e ainda danifica o navio. Aubrey ent\u00e3o se sente dividido entre cumprir seu dever e tentar derrotar o inimigo ou retornar para cuidar dos feridos.",
+                "vote_average": 7.1,
+                "vote_count": 2999
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Pirates of the Caribbean: The Curse of the Black Pearl",
+            "second_label": "Christopher Boyes, David Parker, David Campbell and Lee Orloff",
+            "category": "Sound Mixing",
+            "year": 2004,
+            "tmdb": {
+                "id": 22,
+                "original_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+                "title": "Piratas do Caribe: A Maldi\u00e7\u00e3o do P\u00e9rola Negra",
+                "release_date": "2003-07-09",
+                "backdrop_path": "/wW7Wt5bXzPy4VOEE4LTIUDyDgBo.jpg",
+                "poster_path": "/xsAlxvMCRzyreLxdZL1dOUSbonV.jpg",
+                "overview": "O pirata Jack Sparrow tem seu navio saqueado e roubado pelo capit\u00e3o Barbossa e sua tripula\u00e7\u00e3o. Com o navio de Sparrow, Barbossa invade a cidade de Port Royal, levando consigo Elizabeth Swann, filha do governador. Para recuperar sua embarca\u00e7\u00e3o, Sparrow recebe a ajuda de Will Turner, um grande amigo de Elizabeth. Eles desbravam os mares em dire\u00e7\u00e3o \u00e0 misteriosa Ilha da Morte, tentando impedir que os piratas-esqueleto derramem o sangue de Elizabeth para desfazer a maldi\u00e7\u00e3o que os assola.",
+                "vote_average": 7.799,
+                "vote_count": 19844
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Seabiscuit",
+            "second_label": "Andy Nelson, Anna Behlmer and Tod A. Maitland",
+            "category": "Sound Mixing",
+            "year": 2004,
+            "tmdb": {
+                "id": 4464,
+                "original_title": "Seabiscuit",
+                "title": "Seabiscuit: Alma de Her\u00f3i",
+                "release_date": "2003-07-22",
+                "backdrop_path": "/9mxDXwoNLLX1SOeq2uiqEfGg4sN.jpg",
+                "poster_path": "/qEcPXNRT19zq6zdFDizqdJOpFIC.jpg",
+                "overview": "Charles Howard (Jeff Bridges) \u00e9 um milion\u00e1rio que ganhou um cavalo de pequeno porte e indisciplinado, chamado Seabiscuit, que nunca teve grande destaque nas corridas. Howard decide trein\u00e1-lo de forma a torn\u00e1-lo competitivo, contratando para tanto o j\u00f3quei Red Pollard (Tobey Maguire) e o treinador Tom Smith (Chris Cooper), conhecido no meio por sua capacidade de se comunicar com cavalos. Juntos eles conseguem transformar Seabiscuit no cavalo do ano em 1938, chamando a aten\u00e7\u00e3o da popula\u00e7\u00e3o americana para sua hist\u00f3ria de sucesso.",
+                "vote_average": 7.0,
+                "vote_count": 784
+            },
+            "winner": false
+        }
+    ],
+    "Visual Effects": [
+        {
+            "first_label": "The Lord of the Rings: The Return of the King",
+            "second_label": "Jim Rygiel, Joe Letteri, Randall William Cook and Alex Funke",
+            "category": "Visual Effects",
+            "year": 2004,
+            "tmdb": {
+                "id": 122,
+                "original_title": "The Lord of the Rings: The Return of the King",
+                "title": "O Senhor dos An\u00e9is: O Retorno do Rei",
+                "release_date": "2003-12-01",
+                "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+                "poster_path": "/rU4oIKv5I4C59DpcXKmT7kNwGI0.jpg",
+                "overview": "O confronto final entre as for\u00e7as do bem e do mal que lutam pelo controle do futuro da Terra M\u00e9dia se aproxima. Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf e Pippin partam para o local na inten\u00e7\u00e3o de ajudar a resist\u00eancia. Um ex\u00e9rcito \u00e9 reunido por Theoden em Rohan, em mais uma tentativa de deter as for\u00e7as de Sauron. Enquanto isso, Frodo, Sam e Gollum seguem sua viagem rumo \u00e0 Montanha da Perdi\u00e7\u00e3o para destruir o anel.",
+                "vote_average": 8.5,
+                "vote_count": 23192
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Master and Commander: The Far Side of the World",
+            "second_label": "Dan Sudick, Stefen Fangmeier, Nathan McGuinness and Robert Stromberg",
+            "category": "Visual Effects",
+            "year": 2004,
+            "tmdb": {
+                "id": 8619,
+                "original_title": "Master and Commander: The Far Side of the World",
+                "title": "Mestre dos Mares: O Lado Mais Distante do Mundo",
+                "release_date": "2003-11-14",
+                "backdrop_path": "/zMHyNxNt4zhL939XX8QLBW3gWfu.jpg",
+                "poster_path": "/3v61179ciXMpmyiJZmpqyCoV5us.jpg",
+                "overview": "Jack Aubrey \u00e9 o capit\u00e3o do H.M.S. Surprise, um dos principais navios de guerra da marinha brit\u00e2nica. Com seu pa\u00eds em guerra contra a Fran\u00e7a de Napole\u00e3o Bonaparte, Aubrey \u00e9 atacado por um navio inimigo mais poderoso, que fere boa parte de sua tripula\u00e7\u00e3o e ainda danifica o navio. Aubrey ent\u00e3o se sente dividido entre cumprir seu dever e tentar derrotar o inimigo ou retornar para cuidar dos feridos.",
+                "vote_average": 7.1,
+                "vote_count": 2999
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Pirates of the Caribbean: The Curse of the Black Pearl",
+            "second_label": "John Knoll, Hal Hickel, Charles Gibson and Terry Frazee",
+            "category": "Visual Effects",
+            "year": 2004,
+            "tmdb": {
+                "id": 22,
+                "original_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+                "title": "Piratas do Caribe: A Maldi\u00e7\u00e3o do P\u00e9rola Negra",
+                "release_date": "2003-07-09",
+                "backdrop_path": "/wW7Wt5bXzPy4VOEE4LTIUDyDgBo.jpg",
+                "poster_path": "/xsAlxvMCRzyreLxdZL1dOUSbonV.jpg",
+                "overview": "O pirata Jack Sparrow tem seu navio saqueado e roubado pelo capit\u00e3o Barbossa e sua tripula\u00e7\u00e3o. Com o navio de Sparrow, Barbossa invade a cidade de Port Royal, levando consigo Elizabeth Swann, filha do governador. Para recuperar sua embarca\u00e7\u00e3o, Sparrow recebe a ajuda de Will Turner, um grande amigo de Elizabeth. Eles desbravam os mares em dire\u00e7\u00e3o \u00e0 misteriosa Ilha da Morte, tentando impedir que os piratas-esqueleto derramem o sangue de Elizabeth para desfazer a maldi\u00e7\u00e3o que os assola.",
+                "vote_average": 7.799,
+                "vote_count": 19844
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Adapted Screenplay)": [
+        {
+            "first_label": "The Lord of the Rings: The Return of the King",
+            "second_label": "Screenplay by Fran Walsh, Philippa Boyens, & Peter Jackson",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2004,
+            "tmdb": {
+                "id": 122,
+                "original_title": "The Lord of the Rings: The Return of the King",
+                "title": "O Senhor dos An\u00e9is: O Retorno do Rei",
+                "release_date": "2003-12-01",
+                "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+                "poster_path": "/rU4oIKv5I4C59DpcXKmT7kNwGI0.jpg",
+                "overview": "O confronto final entre as for\u00e7as do bem e do mal que lutam pelo controle do futuro da Terra M\u00e9dia se aproxima. Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf e Pippin partam para o local na inten\u00e7\u00e3o de ajudar a resist\u00eancia. Um ex\u00e9rcito \u00e9 reunido por Theoden em Rohan, em mais uma tentativa de deter as for\u00e7as de Sauron. Enquanto isso, Frodo, Sam e Gollum seguem sua viagem rumo \u00e0 Montanha da Perdi\u00e7\u00e3o para destruir o anel.",
+                "vote_average": 8.5,
+                "vote_count": 23192
+            },
+            "winner": true
+        },
+        {
+            "first_label": "American Splendor",
+            "second_label": "Written by Robert Pulcini & Shari Springer Berman",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2004,
+            "tmdb": {
+                "id": 2771,
+                "original_title": "American Splendor",
+                "title": "Anti-Her\u00f3i Americano",
+                "release_date": "2003-08-15",
+                "backdrop_path": "/kx7rlqkKAkGOk23ARUReec0c8Ad.jpg",
+                "poster_path": "/3Cuher0ibSga1as9OtZe50UcXxj.jpg",
+                "overview": "O balconista de hospital Harvey Pekar (Paul Giamatti) deixa cair no ch\u00e3o alguns arquivos de \u00f3bito e encontra a ficha de um homem que trabalhou a vida inteira como balconista em Cleveland \u00ad um emprego burocr\u00e1tico, exatamente como o dele. Esse epis\u00f3dio, combinado com o fato de ter visto o seu amigo Robert Crumb (James Urbaniak) se tornar uma pequena celebridade em S\u00e3o Francisco como cartunista, o inspiram a criar a sua pr\u00f3pria revista em quadrinhos, chamada American Splendor. A revista, publicada em 1976 com grande sucesso, retratava com realismo o cotidiano do pr\u00f3prio Harvey, um amante compulsivo de jazz e livros. Trata-se de uma biografia.",
+                "vote_average": 7.2,
+                "vote_count": 436
+            },
+            "winner": false
+        },
+        {
+            "first_label": "City of God",
+            "second_label": "Screenplay by Braulio Mantovani",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2004,
+            "tmdb": {
+                "id": 598,
+                "original_title": "Cidade de Deus",
+                "title": "Cidade de Deus",
+                "release_date": "2002-08-30",
+                "backdrop_path": "/uvitbjFU4JqvMwIkMWHp69bmUzG.jpg",
+                "poster_path": "/pA70WUs7KHiHltfiBN4XEELOXcS.jpg",
+                "overview": "Buscap\u00e9 \u00e9 um jovem morador da Cidade de Deus que cresce em meio \u00e0 viol\u00eancia. Com medo de se tornar um bandido, enxerga na fotografia uma oportunidade de ter uma vida digna.",
+                "vote_average": 8.4,
+                "vote_count": 6996
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mystic River",
+            "second_label": "Screenplay by Brian Helgeland",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2004,
+            "tmdb": {
+                "id": 322,
+                "original_title": "Mystic River",
+                "title": "Sobre Meninos e Lobos",
+                "release_date": "2003-03-03",
+                "backdrop_path": "/ah9hRJhdMMLkntNDIatKwncNJra.jpg",
+                "poster_path": "/sKALnVXQpq4wQWCSB6QPjQXZCfH.jpg",
+                "overview": "Tr\u00eas amigos de inf\u00e2ncia, Dave, Sean e Jimmy acabam se separando quando um deles, Dave, \u00e9 sequestrado e sofre terr\u00edveis abusos sexuais. Agora adultos, o passado volta a assombr\u00e1-los quando a filha de Jimmy \u00e9 assassinada. Sean \u00e9 o policial que investiga o caso, Jimmy quer revanche e Dave \u00e9 o principal suspeito.",
+                "vote_average": 7.741,
+                "vote_count": 6310
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Seabiscuit",
+            "second_label": "Written for the Screen by Gary Ross",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2004,
+            "tmdb": {
+                "id": 4464,
+                "original_title": "Seabiscuit",
+                "title": "Seabiscuit: Alma de Her\u00f3i",
+                "release_date": "2003-07-22",
+                "backdrop_path": "/9mxDXwoNLLX1SOeq2uiqEfGg4sN.jpg",
+                "poster_path": "/qEcPXNRT19zq6zdFDizqdJOpFIC.jpg",
+                "overview": "Charles Howard (Jeff Bridges) \u00e9 um milion\u00e1rio que ganhou um cavalo de pequeno porte e indisciplinado, chamado Seabiscuit, que nunca teve grande destaque nas corridas. Howard decide trein\u00e1-lo de forma a torn\u00e1-lo competitivo, contratando para tanto o j\u00f3quei Red Pollard (Tobey Maguire) e o treinador Tom Smith (Chris Cooper), conhecido no meio por sua capacidade de se comunicar com cavalos. Juntos eles conseguem transformar Seabiscuit no cavalo do ano em 1938, chamando a aten\u00e7\u00e3o da popula\u00e7\u00e3o americana para sua hist\u00f3ria de sucesso.",
+                "vote_average": 7.0,
+                "vote_count": 784
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Original Screenplay)": [
+        {
+            "first_label": "Lost in Translation",
+            "second_label": "Written by Sofia Coppola",
+            "category": "Writing (Original Screenplay)",
+            "year": 2004,
+            "tmdb": {
+                "id": 153,
+                "original_title": "Lost in Translation",
+                "title": "Encontros e Desencontros",
+                "release_date": "2003-09-18",
+                "backdrop_path": "/45He7gApNQyDbqCDjxew9BnHzjf.jpg",
+                "poster_path": "/l2IEdDTtdVHfFKa2Uv45AbqySDT.jpg",
+                "overview": "Bob Harris (Bill Murray) \u00e9 uma estrela de cinema, que est\u00e1 em T\u00f3quio para fazer um comercial de u\u00edsque. Charlotte (Scarlett Johansson), por sua vez, est\u00e1 na cidade acompanhando seu marido, um fot\u00f3grafo workaholic (Giovanni Ribisi) que a deixa sozinha o tempo todo. Sofrendo com o hor\u00e1rio, Bob e Charlotte n\u00e3o conseguem dormir. Eles se encontram, por acaso, no bar de um hotel de luxo, e em pouco tempo tornam-se grandes amigos. Resolvem ent\u00e3o partir pela cidade juntos. A eles junta-se uma jovem atriz chamada Kelly (Anna Faris), com quem v\u00e3o viver algumas aventuras pela cidade de T\u00f3quio.",
+                "vote_average": 7.393,
+                "vote_count": 6979
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Barbarian Invasions",
+            "second_label": "Written by Denys Arcand",
+            "category": "Writing (Original Screenplay)",
+            "year": 2004,
+            "tmdb": {
+                "id": 11042,
+                "original_title": "Les Invasions barbares",
+                "title": "As Invas\u00f5es B\u00e1rbaras",
+                "release_date": "2003-09-24",
+                "backdrop_path": "/7PefpVkSOiQmcdGv6TGHU8kn296.jpg",
+                "poster_path": "/9MHqEm9nHAMZaiXnYoKlMyiXoew.jpg",
+                "overview": "\u00c0 beira da morte e com dificuldades em aceitar seu passado, R\u00e9my busca encontrar a paz. Para tanto recebe a ajuda de S\u00e9bastien, seu filho ausente, sua ex-mulher e velhos amigos.",
+                "vote_average": 7.0,
+                "vote_count": 350
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dirty Pretty Things",
+            "second_label": "Written by Steven Knight",
+            "category": "Writing (Original Screenplay)",
+            "year": 2004,
+            "tmdb": {
+                "id": 3472,
+                "original_title": "Dirty Pretty Things",
+                "title": "Coisas Belas E Sujas",
+                "release_date": "2002-09-05",
+                "backdrop_path": "/4Q28PE1ZlRBMZqRluoVkP3NN7eO.jpg",
+                "poster_path": "/z3qMmKq6QY200mO950BzPFsxbNa.jpg",
+                "overview": "De Stephen Frears, diretor nomeado ao Oscar por Os Imorais, Liga\u00e7\u00f5es Perigosas e Alta Fidelidade. Indicado ao Oscar de Melhor Roteiro Original, com Audrey Tatou, estrela de sucesso internacional. No secreto submundo de Londres, dois imigrantes ilegais descobrem que o pre\u00e7o da liberdade pode ser mais do que eles est\u00e3o dispostos a arriscar. Um nigeriano, imigrante ilegal, que trabalha como porteiro em um hotel, \u00e9 acusado de assassinato. Ele se junta a uma camareira turca e uma prostituta chinesa para desvendar o crime.",
+                "vote_average": 6.9,
+                "vote_count": 415
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Finding Nemo",
+            "second_label": "Screenplay by Andrew Stanton, Bob Peterson and David Reynolds; Original Story by Andrew Stanton",
+            "category": "Writing (Original Screenplay)",
+            "year": 2004,
+            "tmdb": {
+                "id": 12,
+                "original_title": "Finding Nemo",
+                "title": "Procurando Nemo",
+                "release_date": "2003-05-30",
+                "backdrop_path": "/eCynaAOgYYiw5yN5lBwz3IxqvaW.jpg",
+                "poster_path": "/5jrPMq7IMLTqcuPDlK6jfruEbpq.jpg",
+                "overview": "Depois que seu filho \u00e9 capturado na Grande Barreira de Corais e levado para Sydney, um peixe-palha\u00e7o t\u00edmido parte em uma jornada para traz\u00ea-lo para casa.",
+                "vote_average": 7.824,
+                "vote_count": 18594
+            },
+            "winner": false
+        },
+        {
+            "first_label": "In America",
+            "second_label": "Written by Jim Sheridan, Naomi Sheridan, & Kirsten Sheridan",
+            "category": "Writing (Original Screenplay)",
+            "year": 2004,
+            "tmdb": {
+                "id": 10511,
+                "original_title": "In America",
+                "title": "Terra de Sonhos",
+                "release_date": "2003-10-31",
+                "backdrop_path": "/wj7H0pTsVweqtRKLJyaUnl9hvqN.jpg",
+                "poster_path": "/laJvTx8J5eULYbXjDGDaBaTHU8G.jpg",
+                "overview": "Christy (Sarah Bolger) \u00e9 uma garota de 11 anos cuja fam\u00edlia se mudou recentemente, da Irlanda para os Estados Unidos. Ela v\u00ea seu novo lar como um local m\u00e1gico e especial, onde sonhos podem se tornar realidade. Para seus pais a mudan\u00e7a \u00e9 a chance de recome\u00e7ar a vida, depois da perda do filho mais novo.",
+                "vote_average": 7.2,
+                "vote_count": 317
+            },
+            "winner": false
+        }
+    ]
+}

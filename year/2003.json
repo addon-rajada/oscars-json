@@ -1,0 +1,1874 @@
+{
+    "Actor in a Leading Role": [
+        {
+            "first_label": "Adrien Brody",
+            "second_label": "The Pianist",
+            "category": "Actor in a Leading Role",
+            "year": 2003,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Nicolas Cage",
+            "second_label": "Adaptation",
+            "category": "Actor in a Leading Role",
+            "year": 2003,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Michael Caine",
+            "second_label": "The Quiet American",
+            "category": "Actor in a Leading Role",
+            "year": 2003,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Daniel Day-Lewis",
+            "second_label": "Gangs of New York",
+            "category": "Actor in a Leading Role",
+            "year": 2003,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jack Nicholson",
+            "second_label": "About Schmidt",
+            "category": "Actor in a Leading Role",
+            "year": 2003,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Chris Cooper",
+            "second_label": "Adaptation",
+            "category": "Actor in a Supporting Role",
+            "year": 2003,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Ed Harris",
+            "second_label": "The Hours",
+            "category": "Actor in a Supporting Role",
+            "year": 2003,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Paul Newman",
+            "second_label": "Road to Perdition",
+            "category": "Actor in a Supporting Role",
+            "year": 2003,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "John C. Reilly",
+            "second_label": "Chicago",
+            "category": "Actor in a Supporting Role",
+            "year": 2003,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Christopher Walken",
+            "second_label": "Catch Me If You Can",
+            "category": "Actor in a Supporting Role",
+            "year": 2003,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Leading Role": [
+        {
+            "first_label": "Nicole Kidman",
+            "second_label": "The Hours",
+            "category": "Actress in a Leading Role",
+            "year": 2003,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Salma Hayek",
+            "second_label": "Frida",
+            "category": "Actress in a Leading Role",
+            "year": 2003,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Diane Lane",
+            "second_label": "Unfaithful",
+            "category": "Actress in a Leading Role",
+            "year": 2003,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Julianne Moore",
+            "second_label": "Far from Heaven",
+            "category": "Actress in a Leading Role",
+            "year": 2003,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rene Zellweger",
+            "second_label": "Chicago",
+            "category": "Actress in a Leading Role",
+            "year": 2003,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Catherine Zeta-Jones",
+            "second_label": "Chicago",
+            "category": "Actress in a Supporting Role",
+            "year": 2003,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Kathy Bates",
+            "second_label": "About Schmidt",
+            "category": "Actress in a Supporting Role",
+            "year": 2003,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Julianne Moore",
+            "second_label": "The Hours",
+            "category": "Actress in a Supporting Role",
+            "year": 2003,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Queen Latifah",
+            "second_label": "Chicago",
+            "category": "Actress in a Supporting Role",
+            "year": 2003,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Meryl Streep",
+            "second_label": "Adaptation",
+            "category": "Actress in a Supporting Role",
+            "year": 2003,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Animated Feature Film": [
+        {
+            "first_label": "Spirited Away",
+            "second_label": "Hayao Miyazaki",
+            "category": "Animated Feature Film",
+            "year": 2003,
+            "tmdb": {
+                "id": 129,
+                "original_title": "\u5343\u3068\u5343\u5c0b\u306e\u795e\u96a0\u3057",
+                "title": "A Viagem de Chihiro",
+                "release_date": "2001-07-20",
+                "backdrop_path": "/mSDsSDwaP3E7dEfUPWy4J0djt4O.jpg",
+                "poster_path": "/hhoKhsyJ3hFaxEm5pMdZRiTu2lJ.jpg",
+                "overview": "Chihiro e seus pais est\u00e3o se mudando para uma cidade diferente. A caminho da nova casa, o pai decide pegar um atalho. Eles se deparam com uma mesa repleta de comida, embora ningu\u00e9m esteja por perto. Chihiro sente o perigo, mas seus pais come\u00e7am a comer. Quando anoitece, eles se transformam em porcos. Agora, apenas Chihiro pode salv\u00e1-los",
+                "vote_average": 8.541,
+                "vote_count": 15729
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Ice Age",
+            "second_label": "Chris Wedge",
+            "category": "Animated Feature Film",
+            "year": 2003,
+            "tmdb": {
+                "id": 425,
+                "original_title": "Ice Age",
+                "title": "A Era do Gelo",
+                "release_date": "2002-03-10",
+                "backdrop_path": "/a9ykRAWtQnI3SsZDfh8sCJo5cWI.jpg",
+                "poster_path": "/A2NR4rJdD6bIVE61T7rhHxrrGvv.jpg",
+                "overview": "Vinte mil anos atr\u00e1s, na era do gelo, tr\u00eas criaturas completamente diferentes se juntaram por obra do destino. Sid, uma c\u00f4mica e falante pregui\u00e7a, Manny, um peludo mamute ranzinza, e Diego, um sinistro tigre dente de sabre relutante em se juntar ao grupo para devolver um beb\u00ea humano a seu pai. Antes desta incr\u00edvel jornada terminar, este diferente trio ir\u00e1 passar por lavas ferventes, escapar de trai\u00e7oeiros t\u00faneis de gelo e conhecer um pr\u00e9-hist\u00f3rico esquilo chamado Scrat, uma criatura compulsiva por sua noz. Junte-se ao mais fant\u00e1stico e engra\u00e7ado grupo da hist\u00f3ria, na aventura mais legal de todos os tempos.",
+                "vote_average": 7.4,
+                "vote_count": 12709
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lilo & Stitch",
+            "second_label": "Chris Sanders",
+            "category": "Animated Feature Film",
+            "year": 2003,
+            "tmdb": {
+                "id": 11544,
+                "original_title": "Lilo & Stitch",
+                "title": "Lilo & Stitch",
+                "release_date": "2002-06-21",
+                "backdrop_path": "/cxDFAic9FXPPJt2MdfX4ijVh3eC.jpg",
+                "poster_path": "/ottRXMCQ9jPB318syTcfIdtJWIE.jpg",
+                "overview": "Lilo \u00e9 uma garotinha de cinco anos que ama cuidar de animais. Um dia ela adota um cachorro e decide cham\u00e1-lo de Stitch. O que ela n\u00e3o sabe \u00e9 que Stitch \u00e9 um alien\u00edgena e um dos criminosos mais perigosos da gal\u00e1xia. Agora, para escapar de seus captores que ainda o persegue, Stitch decide se passar por um cachorro comum, criando com o tempo um la\u00e7o de amizade com Lilo.",
+                "vote_average": 7.523,
+                "vote_count": 5895
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Spirit: Stallion of the Cimarron",
+            "second_label": "Jeffrey Katzenberg",
+            "category": "Animated Feature Film",
+            "year": 2003,
+            "tmdb": {
+                "id": 9023,
+                "original_title": "Spirit: Stallion of the Cimarron",
+                "title": "Spirit: O Corcel Indom\u00e1vel",
+                "release_date": "2002-05-24",
+                "backdrop_path": "/b8hPBW0NJmiIVzvQjT3CwIpAdzl.jpg",
+                "poster_path": "/qJ8fF5Uoy9WLrUvCXU26VJrfa5r.jpg",
+                "overview": "No final do s\u00e9culo XVII em pleno Oeste norte-americano vive Spirit, um cavalo que resiste a ser domado pelo homem. Ele se apaixona por uma \u00e9gua local, chamada Chuva, e desenvolve uma grande amizade com um jovem \u00edndio Lakota chamado Pequeno Rio. Juntos eles acompanham a coloniza\u00e7\u00e3o do local onde vivem, percebendo as mudan\u00e7as que a chegada da civiliza\u00e7\u00e3o fazem em seu dia-a-dia.",
+                "vote_average": 7.695,
+                "vote_count": 4381
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Treasure Planet",
+            "second_label": "Ron Clements",
+            "category": "Animated Feature Film",
+            "year": 2003,
+            "tmdb": {
+                "id": 9016,
+                "original_title": "Treasure Planet",
+                "title": "Planeta do Tesouro",
+                "release_date": "2002-11-26",
+                "backdrop_path": "/30XLt1HzwOsdciWVaYVxlJq3cjH.jpg",
+                "poster_path": "/4GJnKM1CLylmp8phkyiITiwu7L.jpg",
+                "overview": "Vers\u00e3o animada da Disney de \u201cIlha do Tesouro\u201d, mas passando-se no espa\u00e7o. Jim Hawkins \u00e9 um adolescente rebelde sem muita perspectiva de futuro, at\u00e9 receber um mapa que o far\u00e1 percorrer o espa\u00e7o em sua nave com uma tripula\u00e7\u00e3o de personagens caracter\u00edsticos da empresa. Afundou na bilheteria e foi um dos respons\u00e1veis pela decis\u00e3o de Disney de n\u00e3o lan\u00e7ar mais filmes de anima\u00e7\u00e3o convencional.",
+                "vote_average": 7.543,
+                "vote_count": 3977
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction": [
+        {
+            "first_label": "Chicago",
+            "second_label": "Art Direction: John Myhre; Set Decoration: Gordon Sim",
+            "category": "Art Direction",
+            "year": 2003,
+            "tmdb": {
+                "id": 1574,
+                "original_title": "Chicago",
+                "title": "Chicago",
+                "release_date": "2002-12-10",
+                "backdrop_path": "/jkyqFgqmZlH5vSURckq0GgsewOY.jpg",
+                "poster_path": "/v1Sg3GuHDz9uhrKqYozOeCMLSpj.jpg",
+                "overview": "Velma Kelly (Catherine Zeta-Jones) \u00e9 uma famosa dan\u00e7arina que \u00e9 tamb\u00e9m a principal atra\u00e7\u00e3o da boate onde trabalha. Ap\u00f3s matar seu marido, Velma entra em uma seleta lista de assassinas de Chicago, a qual \u00e9 controlada por Billy Flynn (Richard Gere), um advogado que busca sempre se aproveitar ao m\u00e1ximo da situa\u00e7\u00e3o. Ao contr\u00e1rio do que se esperava, o assassinato faz com que a fama de Velma cres\u00e7a ainda mais, tornando-a uma verdadeira celebridade do showbizz. Enquanto isso, a aspirante a cantora Roxie Hart (Ren\u00e9e Zellweger) sonha com um mundo de glamour e fama, at\u00e9 que mata seu namorado ap\u00f3s uma briga. Billy fica sabendo do crime e decide adiar ao m\u00e1ximo o julgamento de Velma, de forma a poder explorar os dois assassinatos ao m\u00e1ximo nos jornais. Assim como ocorreu com Velma, Roxie tamb\u00e9m se torna uma estrela por causa de crime que cometeu, iniciando uma disputa entre as duas pelo posto de maior celebridade do meio art\u00edstico.",
+                "vote_average": 7.1,
+                "vote_count": 2476
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Frida",
+            "second_label": "Art Direction: Felipe Fernandez del Paso; Set Decoration: Hania Robledo",
+            "category": "Art Direction",
+            "year": 2003,
+            "tmdb": {
+                "id": 1360,
+                "original_title": "Frida",
+                "title": "Frida",
+                "release_date": "2002-08-29",
+                "backdrop_path": "/s04Ds4xbJU7DzeGVyamccH4LoxF.jpg",
+                "poster_path": "/a4hgR6aKoohB6MHni171jbi9BkU.jpg",
+                "overview": "Frida Kahlo (Salma Hayek) foi um dos principais nomes da hist\u00f3ria art\u00edstica do M\u00e9xico. Conceituada e aclamada como pintora, ele teve um agitado casamento aberto com Diego Rivera (Alfred Molina), seu companheiro tamb\u00e9m nas artes, e ainda um controverso caso com o pol\u00edtico Leon Trostky (Geoffrey Rush), al\u00e9m de v\u00e1rias outras mulheres.",
+                "vote_average": 7.4,
+                "vote_count": 1945
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gangs of New York",
+            "second_label": "Art Direction: Dante Ferretti; Set Decoration: Francesca Lo Schiavo",
+            "category": "Art Direction",
+            "year": 2003,
+            "tmdb": {
+                "id": 3131,
+                "original_title": "Gangs of New York",
+                "title": "Gangues de Nova York",
+                "release_date": "2002-12-14",
+                "backdrop_path": "/a2Aj5ksEo2HOUH3FbGyZCtaJM4C.jpg",
+                "poster_path": "/19AomqCo1CJ3P4C9ieMwirixpNj.jpg",
+                "overview": "William Cutting \u00e9 o l\u00edder de uma gangue violenta na Nova York do s\u00e9culo 19 que confronta seus rivais. Um jovem jura se vingar do perverso g\u00e2ngster que matou seu pai, mas fica dividido entre a sede de vingan\u00e7a e o fasc\u00ednio pelo carism\u00e1tico Cutting.",
+                "vote_average": 7.32,
+                "vote_count": 6327
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Lord of the Rings: The Two Towers",
+            "second_label": "Art Direction: Grant Major; Set Decoration: Dan Hennah and Alan Lee",
+            "category": "Art Direction",
+            "year": 2003,
+            "tmdb": {
+                "id": 121,
+                "original_title": "The Lord of the Rings: The Two Towers",
+                "title": "O Senhor dos An\u00e9is: As Duas Torres",
+                "release_date": "2002-12-18",
+                "backdrop_path": "/6G73mNyooWAEQTpckPSnFxFoNmc.jpg",
+                "poster_path": "/20eUL6eN89SM0U7KPDw8iR82mOT.jpg",
+                "overview": "Ap\u00f3s a captura de Merry e Pippy pelos orcs, a Sociedade do Anel \u00e9 dissolvida. Frodo e Sam seguem sua jornada rumo \u00e0 Montanha da Perdi\u00e7\u00e3o para destruir o anel e descobrem que est\u00e3o sendo perseguidos pelo misterioso Gollum. Enquanto isso, Aragorn, o elfo e arqueiro Legolas e o an\u00e3o Gimli partem para resgatar os hobbits sequestrados e chegam ao reino de Rohan, onde o rei Theoden foi v\u00edtima de uma maldi\u00e7\u00e3o mortal de Saruman.",
+                "vote_average": 8.394,
+                "vote_count": 20974
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Road to Perdition",
+            "second_label": "Art Direction: Dennis Gassner; Set Decoration: Nancy Haigh",
+            "category": "Art Direction",
+            "year": 2003,
+            "tmdb": {
+                "id": 4147,
+                "original_title": "Road to Perdition",
+                "title": "Estrada para Perdi\u00e7\u00e3o",
+                "release_date": "2002-07-12",
+                "backdrop_path": "/nkP4Bc3CR8nYBvzS0O1fmiteJvv.jpg",
+                "poster_path": "/loSpBeirRfTPJ3cMIqpQArstGhh.jpg",
+                "overview": "Ele n\u00e3o deveria estar l\u00e1. Mas no momento em que Michael Sullivan Jr. presencia um brutal assassinato, as vidas desse menino de 12 anos e do gangster que \u00e9 seu pai s\u00e3o destru\u00eddas para sempre e seus destinos unidos para sempre. Agora, perseguido pela M\u00e1fia a quem devotou sua vida, Sullivan e seu filho n\u00e3o t\u00eam para onde fugir ou como escapar \u00e0 persegui\u00e7\u00e3o incans\u00e1vel de um s\u00e1dico assassino. \u00c9 nessa luta feroz e instintiva pela sobreviv\u00eancia e para proteger seu filho, que este gangster profissional ir\u00e1 descobrir a honra e a reden\u00e7\u00e3o.",
+                "vote_average": 7.3,
+                "vote_count": 3461
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "Road to Perdition",
+            "second_label": "Conrad L. Hall",
+            "category": "Cinematography",
+            "year": 2003,
+            "tmdb": {
+                "id": 4147,
+                "original_title": "Road to Perdition",
+                "title": "Estrada para Perdi\u00e7\u00e3o",
+                "release_date": "2002-07-12",
+                "backdrop_path": "/nkP4Bc3CR8nYBvzS0O1fmiteJvv.jpg",
+                "poster_path": "/loSpBeirRfTPJ3cMIqpQArstGhh.jpg",
+                "overview": "Ele n\u00e3o deveria estar l\u00e1. Mas no momento em que Michael Sullivan Jr. presencia um brutal assassinato, as vidas desse menino de 12 anos e do gangster que \u00e9 seu pai s\u00e3o destru\u00eddas para sempre e seus destinos unidos para sempre. Agora, perseguido pela M\u00e1fia a quem devotou sua vida, Sullivan e seu filho n\u00e3o t\u00eam para onde fugir ou como escapar \u00e0 persegui\u00e7\u00e3o incans\u00e1vel de um s\u00e1dico assassino. \u00c9 nessa luta feroz e instintiva pela sobreviv\u00eancia e para proteger seu filho, que este gangster profissional ir\u00e1 descobrir a honra e a reden\u00e7\u00e3o.",
+                "vote_average": 7.3,
+                "vote_count": 3461
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Chicago",
+            "second_label": "Dion Beebe",
+            "category": "Cinematography",
+            "year": 2003,
+            "tmdb": {
+                "id": 1574,
+                "original_title": "Chicago",
+                "title": "Chicago",
+                "release_date": "2002-12-10",
+                "backdrop_path": "/jkyqFgqmZlH5vSURckq0GgsewOY.jpg",
+                "poster_path": "/v1Sg3GuHDz9uhrKqYozOeCMLSpj.jpg",
+                "overview": "Velma Kelly (Catherine Zeta-Jones) \u00e9 uma famosa dan\u00e7arina que \u00e9 tamb\u00e9m a principal atra\u00e7\u00e3o da boate onde trabalha. Ap\u00f3s matar seu marido, Velma entra em uma seleta lista de assassinas de Chicago, a qual \u00e9 controlada por Billy Flynn (Richard Gere), um advogado que busca sempre se aproveitar ao m\u00e1ximo da situa\u00e7\u00e3o. Ao contr\u00e1rio do que se esperava, o assassinato faz com que a fama de Velma cres\u00e7a ainda mais, tornando-a uma verdadeira celebridade do showbizz. Enquanto isso, a aspirante a cantora Roxie Hart (Ren\u00e9e Zellweger) sonha com um mundo de glamour e fama, at\u00e9 que mata seu namorado ap\u00f3s uma briga. Billy fica sabendo do crime e decide adiar ao m\u00e1ximo o julgamento de Velma, de forma a poder explorar os dois assassinatos ao m\u00e1ximo nos jornais. Assim como ocorreu com Velma, Roxie tamb\u00e9m se torna uma estrela por causa de crime que cometeu, iniciando uma disputa entre as duas pelo posto de maior celebridade do meio art\u00edstico.",
+                "vote_average": 7.1,
+                "vote_count": 2476
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Far from Heaven",
+            "second_label": "Edward Lachman",
+            "category": "Cinematography",
+            "year": 2003,
+            "tmdb": {
+                "id": 10712,
+                "original_title": "Far from Heaven",
+                "title": "Longe do Para\u00edso",
+                "release_date": "2002-11-08",
+                "backdrop_path": "/awzxZMG6CmL9lK9lJi9nN1lUkkl.jpg",
+                "poster_path": "/dy9wNpDu497pHkSjuCvgB2i8O2D.jpg",
+                "overview": "Nos anos 50, uma mulher leva sua vida dividida entre seu casamento, filhos e eventos sociais at\u00e9 descobrir um segredo sobre seu marido, que colocar\u00e1 em xeque todas as suas incertezas.",
+                "vote_average": 7.035,
+                "vote_count": 573
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gangs of New York",
+            "second_label": "Michael Ballhaus",
+            "category": "Cinematography",
+            "year": 2003,
+            "tmdb": {
+                "id": 3131,
+                "original_title": "Gangs of New York",
+                "title": "Gangues de Nova York",
+                "release_date": "2002-12-14",
+                "backdrop_path": "/a2Aj5ksEo2HOUH3FbGyZCtaJM4C.jpg",
+                "poster_path": "/19AomqCo1CJ3P4C9ieMwirixpNj.jpg",
+                "overview": "William Cutting \u00e9 o l\u00edder de uma gangue violenta na Nova York do s\u00e9culo 19 que confronta seus rivais. Um jovem jura se vingar do perverso g\u00e2ngster que matou seu pai, mas fica dividido entre a sede de vingan\u00e7a e o fasc\u00ednio pelo carism\u00e1tico Cutting.",
+                "vote_average": 7.32,
+                "vote_count": 6327
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Pianist",
+            "second_label": "Pawel Edelman",
+            "category": "Cinematography",
+            "year": 2003,
+            "tmdb": {
+                "id": 423,
+                "original_title": "The Pianist",
+                "title": "O Pianista",
+                "release_date": "2002-09-17",
+                "backdrop_path": "/dVr11o9or7AS8AMPfwjSpEU83iU.jpg",
+                "poster_path": "/s0evYrftQZepUEaLPUFUdRvBG80.jpg",
+                "overview": "Um pianista judeu polon\u00eas v\u00ea Vars\u00f3via mudar gradualmente \u00e0 medida que a Segunda Guerra Mundial come\u00e7a. Szpilman \u00e9 for\u00e7ado a ir para o Gueto de Vars\u00f3via, mas depois \u00e9 separado de sua fam\u00edlia durante a Opera\u00e7\u00e3o Reinhard. A partir deste momento at\u00e9 que os prisioneiros dos campos de concentra\u00e7\u00e3o sejam liberados, Szpilman se esconde em v\u00e1rios locais entre as ru\u00ednas de Vars\u00f3via.",
+                "vote_average": 8.381,
+                "vote_count": 8762
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design": [
+        {
+            "first_label": "Chicago",
+            "second_label": "Colleen Atwood",
+            "category": "Costume Design",
+            "year": 2003,
+            "tmdb": {
+                "id": 1574,
+                "original_title": "Chicago",
+                "title": "Chicago",
+                "release_date": "2002-12-10",
+                "backdrop_path": "/jkyqFgqmZlH5vSURckq0GgsewOY.jpg",
+                "poster_path": "/v1Sg3GuHDz9uhrKqYozOeCMLSpj.jpg",
+                "overview": "Velma Kelly (Catherine Zeta-Jones) \u00e9 uma famosa dan\u00e7arina que \u00e9 tamb\u00e9m a principal atra\u00e7\u00e3o da boate onde trabalha. Ap\u00f3s matar seu marido, Velma entra em uma seleta lista de assassinas de Chicago, a qual \u00e9 controlada por Billy Flynn (Richard Gere), um advogado que busca sempre se aproveitar ao m\u00e1ximo da situa\u00e7\u00e3o. Ao contr\u00e1rio do que se esperava, o assassinato faz com que a fama de Velma cres\u00e7a ainda mais, tornando-a uma verdadeira celebridade do showbizz. Enquanto isso, a aspirante a cantora Roxie Hart (Ren\u00e9e Zellweger) sonha com um mundo de glamour e fama, at\u00e9 que mata seu namorado ap\u00f3s uma briga. Billy fica sabendo do crime e decide adiar ao m\u00e1ximo o julgamento de Velma, de forma a poder explorar os dois assassinatos ao m\u00e1ximo nos jornais. Assim como ocorreu com Velma, Roxie tamb\u00e9m se torna uma estrela por causa de crime que cometeu, iniciando uma disputa entre as duas pelo posto de maior celebridade do meio art\u00edstico.",
+                "vote_average": 7.1,
+                "vote_count": 2476
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Frida",
+            "second_label": "Julie Weiss",
+            "category": "Costume Design",
+            "year": 2003,
+            "tmdb": {
+                "id": 1360,
+                "original_title": "Frida",
+                "title": "Frida",
+                "release_date": "2002-08-29",
+                "backdrop_path": "/s04Ds4xbJU7DzeGVyamccH4LoxF.jpg",
+                "poster_path": "/a4hgR6aKoohB6MHni171jbi9BkU.jpg",
+                "overview": "Frida Kahlo (Salma Hayek) foi um dos principais nomes da hist\u00f3ria art\u00edstica do M\u00e9xico. Conceituada e aclamada como pintora, ele teve um agitado casamento aberto com Diego Rivera (Alfred Molina), seu companheiro tamb\u00e9m nas artes, e ainda um controverso caso com o pol\u00edtico Leon Trostky (Geoffrey Rush), al\u00e9m de v\u00e1rias outras mulheres.",
+                "vote_average": 7.4,
+                "vote_count": 1945
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gangs of New York",
+            "second_label": "Sandy Powell",
+            "category": "Costume Design",
+            "year": 2003,
+            "tmdb": {
+                "id": 3131,
+                "original_title": "Gangs of New York",
+                "title": "Gangues de Nova York",
+                "release_date": "2002-12-14",
+                "backdrop_path": "/a2Aj5ksEo2HOUH3FbGyZCtaJM4C.jpg",
+                "poster_path": "/19AomqCo1CJ3P4C9ieMwirixpNj.jpg",
+                "overview": "William Cutting \u00e9 o l\u00edder de uma gangue violenta na Nova York do s\u00e9culo 19 que confronta seus rivais. Um jovem jura se vingar do perverso g\u00e2ngster que matou seu pai, mas fica dividido entre a sede de vingan\u00e7a e o fasc\u00ednio pelo carism\u00e1tico Cutting.",
+                "vote_average": 7.32,
+                "vote_count": 6327
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Hours",
+            "second_label": "Ann Roth",
+            "category": "Costume Design",
+            "year": 2003,
+            "tmdb": {
+                "id": 590,
+                "original_title": "The Hours",
+                "title": "As Horas",
+                "release_date": "2002-12-27",
+                "backdrop_path": "/vPxVNrhIDbqjTw2K6clafOn4uTy.jpg",
+                "poster_path": "/eYHfjDl284ASZ7YnA6LgbvlBvcL.jpg",
+                "overview": "No come\u00e7o do s\u00e9culo 20, Virginia Woolf lida com a depress\u00e3o e tenta finalizar o romance \"Mrs. Dalloway\". Seu texto afeta profundamente uma dona de casa dos anos 1950 e uma mulher nos dias atuais, que parece viver os eventos do livro.",
+                "vote_average": 7.3,
+                "vote_count": 1591
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Pianist",
+            "second_label": "Anna Sheppard",
+            "category": "Costume Design",
+            "year": 2003,
+            "tmdb": {
+                "id": 423,
+                "original_title": "The Pianist",
+                "title": "O Pianista",
+                "release_date": "2002-09-17",
+                "backdrop_path": "/dVr11o9or7AS8AMPfwjSpEU83iU.jpg",
+                "poster_path": "/s0evYrftQZepUEaLPUFUdRvBG80.jpg",
+                "overview": "Um pianista judeu polon\u00eas v\u00ea Vars\u00f3via mudar gradualmente \u00e0 medida que a Segunda Guerra Mundial come\u00e7a. Szpilman \u00e9 for\u00e7ado a ir para o Gueto de Vars\u00f3via, mas depois \u00e9 separado de sua fam\u00edlia durante a Opera\u00e7\u00e3o Reinhard. A partir deste momento at\u00e9 que os prisioneiros dos campos de concentra\u00e7\u00e3o sejam liberados, Szpilman se esconde em v\u00e1rios locais entre as ru\u00ednas de Vars\u00f3via.",
+                "vote_average": 8.381,
+                "vote_count": 8762
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "The Pianist",
+            "second_label": "Roman Polanski",
+            "category": "Directing",
+            "year": 2003,
+            "tmdb": {
+                "id": 423,
+                "original_title": "The Pianist",
+                "title": "O Pianista",
+                "release_date": "2002-09-17",
+                "backdrop_path": "/dVr11o9or7AS8AMPfwjSpEU83iU.jpg",
+                "poster_path": "/s0evYrftQZepUEaLPUFUdRvBG80.jpg",
+                "overview": "Um pianista judeu polon\u00eas v\u00ea Vars\u00f3via mudar gradualmente \u00e0 medida que a Segunda Guerra Mundial come\u00e7a. Szpilman \u00e9 for\u00e7ado a ir para o Gueto de Vars\u00f3via, mas depois \u00e9 separado de sua fam\u00edlia durante a Opera\u00e7\u00e3o Reinhard. A partir deste momento at\u00e9 que os prisioneiros dos campos de concentra\u00e7\u00e3o sejam liberados, Szpilman se esconde em v\u00e1rios locais entre as ru\u00ednas de Vars\u00f3via.",
+                "vote_average": 8.381,
+                "vote_count": 8762
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Chicago",
+            "second_label": "Rob Marshall",
+            "category": "Directing",
+            "year": 2003,
+            "tmdb": {
+                "id": 1574,
+                "original_title": "Chicago",
+                "title": "Chicago",
+                "release_date": "2002-12-10",
+                "backdrop_path": "/jkyqFgqmZlH5vSURckq0GgsewOY.jpg",
+                "poster_path": "/v1Sg3GuHDz9uhrKqYozOeCMLSpj.jpg",
+                "overview": "Velma Kelly (Catherine Zeta-Jones) \u00e9 uma famosa dan\u00e7arina que \u00e9 tamb\u00e9m a principal atra\u00e7\u00e3o da boate onde trabalha. Ap\u00f3s matar seu marido, Velma entra em uma seleta lista de assassinas de Chicago, a qual \u00e9 controlada por Billy Flynn (Richard Gere), um advogado que busca sempre se aproveitar ao m\u00e1ximo da situa\u00e7\u00e3o. Ao contr\u00e1rio do que se esperava, o assassinato faz com que a fama de Velma cres\u00e7a ainda mais, tornando-a uma verdadeira celebridade do showbizz. Enquanto isso, a aspirante a cantora Roxie Hart (Ren\u00e9e Zellweger) sonha com um mundo de glamour e fama, at\u00e9 que mata seu namorado ap\u00f3s uma briga. Billy fica sabendo do crime e decide adiar ao m\u00e1ximo o julgamento de Velma, de forma a poder explorar os dois assassinatos ao m\u00e1ximo nos jornais. Assim como ocorreu com Velma, Roxie tamb\u00e9m se torna uma estrela por causa de crime que cometeu, iniciando uma disputa entre as duas pelo posto de maior celebridade do meio art\u00edstico.",
+                "vote_average": 7.1,
+                "vote_count": 2476
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gangs of New York",
+            "second_label": "Martin Scorsese",
+            "category": "Directing",
+            "year": 2003,
+            "tmdb": {
+                "id": 3131,
+                "original_title": "Gangs of New York",
+                "title": "Gangues de Nova York",
+                "release_date": "2002-12-14",
+                "backdrop_path": "/a2Aj5ksEo2HOUH3FbGyZCtaJM4C.jpg",
+                "poster_path": "/19AomqCo1CJ3P4C9ieMwirixpNj.jpg",
+                "overview": "William Cutting \u00e9 o l\u00edder de uma gangue violenta na Nova York do s\u00e9culo 19 que confronta seus rivais. Um jovem jura se vingar do perverso g\u00e2ngster que matou seu pai, mas fica dividido entre a sede de vingan\u00e7a e o fasc\u00ednio pelo carism\u00e1tico Cutting.",
+                "vote_average": 7.32,
+                "vote_count": 6327
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Hours",
+            "second_label": "Stephen Daldry",
+            "category": "Directing",
+            "year": 2003,
+            "tmdb": {
+                "id": 590,
+                "original_title": "The Hours",
+                "title": "As Horas",
+                "release_date": "2002-12-27",
+                "backdrop_path": "/vPxVNrhIDbqjTw2K6clafOn4uTy.jpg",
+                "poster_path": "/eYHfjDl284ASZ7YnA6LgbvlBvcL.jpg",
+                "overview": "No come\u00e7o do s\u00e9culo 20, Virginia Woolf lida com a depress\u00e3o e tenta finalizar o romance \"Mrs. Dalloway\". Seu texto afeta profundamente uma dona de casa dos anos 1950 e uma mulher nos dias atuais, que parece viver os eventos do livro.",
+                "vote_average": 7.3,
+                "vote_count": 1591
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Talk to Her",
+            "second_label": "Pedro Almodvar",
+            "category": "Directing",
+            "year": 2003,
+            "tmdb": {
+                "id": 64,
+                "original_title": "Hable con ella",
+                "title": "Fale com Ela",
+                "release_date": "2002-03-15",
+                "backdrop_path": "/rknvDtxOe1uqLX0EFWLHIQxRXcJ.jpg",
+                "poster_path": "/yWigIdXSA6X3Iw8HRfnweXjETf.jpg",
+                "overview": "Benigno est\u00e1 apaixonado por Alicia, uma dan\u00e7arina que observa do anonimato de seu apartamento. Depois de um acidente, ela \u00e9 levada ao hospital onde Benigno trabalha como cuidador. Quando a toureira Lydia \u00e9 levada para a mesma ala hospitalar, seu companheiro Marco cria um la\u00e7o verdadeiro com Benigno.",
+                "vote_average": 7.6,
+                "vote_count": 1228
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "Bowling for Columbine",
+            "second_label": "Michael Moore, Michael Donovan",
+            "category": "Documentary (Feature)",
+            "year": 2003,
+            "tmdb": {
+                "id": 1430,
+                "original_title": "Bowling for Columbine",
+                "title": "Tiros em Columbine",
+                "release_date": "2002-10-09",
+                "backdrop_path": "/pvkkPOva0ndqBr0BQyBt8OtM4J8.jpg",
+                "poster_path": "/u78e1u4bowv6ZIhcmIedVEgFdRf.jpg",
+                "overview": "Document\u00e1rio que investiga a fascina\u00e7\u00e3o dos americanos pelas armas de fogo. Michael Moore, diretor e narrador do filme, questiona a origem dessa cultura b\u00e9lica e busca respostas visitando pequenas cidades dos Estados Unidos, onde a maior parte dos moradores guarda uma arma em casa. Entre essas cidades est\u00e1 Littleton, no Colorado, onde fica o col\u00e9gio Columbine. L\u00e1 os adolescentes Dylan Klebold e Eric Harris pegaram as armas dos pais e mataram 14 estudantes e um professor no refeit\u00f3rio. Michael Moore tamb\u00e9m faz uma visita ao ator Charlton Heston, presidente da Associa\u00e7\u00e3o Americana do Rifle.",
+                "vote_average": 7.5,
+                "vote_count": 1454
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Daughter from Danang",
+            "second_label": "Gail Dolgin, Vicente Franco",
+            "category": "Documentary (Feature)",
+            "year": 2003,
+            "tmdb": {
+                "id": 67232,
+                "original_title": "Daughter from Danang",
+                "title": "Daughter From Danang",
+                "release_date": "2002-01-11",
+                "backdrop_path": null,
+                "poster_path": "/dfXmPwACubRI6YhDIyeh0PoBu2y.jpg",
+                "overview": "In 1975, as the Vietnam War was ending, thousands of orphans and Amerasian children were brought to the United States as part of \"Operation Babylift.\" Daughter from Danang tells the dramatic story of one of these children, Heidi Bub (a.k.a. Mai Thi Hiep), and her Vietnamese mother, Mai Thi Kim, separated at the war's end and reunited 22 years later. Heidi, now living in Tennessee - a married woman with kids - had always dreamt of a joyful reunion. When she ventures to Vietnam to meet her mother, she unknowingly embarks on an emotional pilgrimage that spans decades and distance. Unlike most reunion stories that climax with a clich\u00e9 happy ending, Daughter from Danang is a real-life drama. Journeying from the Vietnam War to Pulaski, Tennessee and back to Vietnam, Daughter from Danang tensely unfolds as cultural differences and the years of separation take their toll in a riveting film about longing and the personal legacy of war.",
+                "vote_average": 6.4,
+                "vote_count": 7
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Prisoner of Paradise",
+            "second_label": "Malcolm Clarke, Stuart Sender",
+            "category": "Documentary (Feature)",
+            "year": 2003,
+            "tmdb": {
+                "id": 112902,
+                "original_title": "Prisoner of Paradise",
+                "title": "Prisoner of Paradise",
+                "release_date": "2003-03-07",
+                "backdrop_path": "/xart08wXzUYGl6rt88TdZgbPbrv.jpg",
+                "poster_path": "/uRdDLAvrObQ99Cqy1DeuVaHIYWF.jpg",
+                "overview": "The film tells the true story of Kurt Gerron, a German-Jewish cabaret and film actor in the 1920s and 1930s who was sent to the Theresienstadt concentration camp where he was commanded to write and direct a Nazi propaganda film.",
+                "vote_average": 6.3,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Spellbound",
+            "second_label": "Jeffrey Blitz, Sean Welch",
+            "category": "Documentary (Feature)",
+            "year": 2003,
+            "tmdb": {
+                "id": 16636,
+                "original_title": "Spellbound",
+                "title": "Spellbound",
+                "release_date": "2002-03-14",
+                "backdrop_path": "/yKjaeMSOJ0ObahfjcoSPLMSeOXE.jpg",
+                "poster_path": "/whPFGfqZayYOU5f5mx0GdXZOgpi.jpg",
+                "overview": "This documentary follows 8 teens and pre-teens as they work their way toward the finals of the Scripps Howard national spelling bee championship in Washington D.C.",
+                "vote_average": 7.4,
+                "vote_count": 110
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Winged Migration",
+            "second_label": "Jacques Perrin",
+            "category": "Documentary (Feature)",
+            "year": 2003,
+            "tmdb": {
+                "id": 11516,
+                "original_title": "Le peuple migrateur",
+                "title": "Migra\u00e7\u00e3o Alada",
+                "release_date": "2001-12-12",
+                "backdrop_path": "/c8lCUmgvyxfM3oJzbD9bQf8bV02.jpg",
+                "poster_path": "/qjv7cYLSufwf03So0SuRFU7sRxB.jpg",
+                "overview": "Durante 3 anos s\u00e3o acompanhados os h\u00e1bitos de migra\u00e7\u00e3o de diversas esp\u00e9cies de p\u00e1ssaros, passando por todos os continentes do planeta.",
+                "vote_average": 7.6,
+                "vote_count": 169
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "Twin Towers",
+            "second_label": "Bill Guttentag, Robert David Port",
+            "category": "Documentary (Short Subject)",
+            "year": 2003,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Collector of Bedford Street",
+            "second_label": "Alice Elliott",
+            "category": "Documentary (Short Subject)",
+            "year": 2003,
+            "tmdb": {
+                "id": 244982,
+                "original_title": "The Collector of Bedford Street",
+                "title": "The Collector of Bedford Street",
+                "release_date": "2002-06-01",
+                "backdrop_path": null,
+                "poster_path": "/9kcuy85gSaIOM0FOaGxWLfZecuf.jpg",
+                "overview": "The Collector of Bedford Street is a 2002 documentary film about director Alice Elliott's neighbor, Larry Selman, a community activist and fundraiser who had an intellectual disability. When Larry's primary caregiver becomes unable to care for him, his New York City neighborhood community rallies together to protect his independent lifestyle by establishing an adult trust fund in his behalf. The film was nominated for the 2002 Academy Award for Best Documentary Short Subject.",
+                "vote_average": 7.0,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mighty Times: The Legacy of Rosa Parks",
+            "second_label": "Robert Hudson, Bobby Houston",
+            "category": "Documentary (Short Subject)",
+            "year": 2003,
+            "tmdb": {
+                "id": 244983,
+                "original_title": "Mighty Times: The Legacy of Rosa Parks",
+                "title": "Mighty Times: The Legacy of Rosa Parks",
+                "release_date": "2002-09-12",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "Oscar nominated documentary short from 2002",
+                "vote_average": 8.1,
+                "vote_count": 7
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Why Can't We Be a Family Again?",
+            "second_label": "Roger Weisberg, Murray Nossel",
+            "category": "Documentary (Short Subject)",
+            "year": 2003,
+            "tmdb": {
+                "id": 244984,
+                "original_title": "Why Can't We Be a Family Again?",
+                "title": "Why Can't We Be a Family Again?",
+                "release_date": "2002-06-04",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "Two extraordinary brothers struggle to believe in their mother's love.",
+                "vote_average": 6.3,
+                "vote_count": 3
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "Chicago",
+            "second_label": "Martin Walsh",
+            "category": "Film Editing",
+            "year": 2003,
+            "tmdb": {
+                "id": 1574,
+                "original_title": "Chicago",
+                "title": "Chicago",
+                "release_date": "2002-12-10",
+                "backdrop_path": "/jkyqFgqmZlH5vSURckq0GgsewOY.jpg",
+                "poster_path": "/v1Sg3GuHDz9uhrKqYozOeCMLSpj.jpg",
+                "overview": "Velma Kelly (Catherine Zeta-Jones) \u00e9 uma famosa dan\u00e7arina que \u00e9 tamb\u00e9m a principal atra\u00e7\u00e3o da boate onde trabalha. Ap\u00f3s matar seu marido, Velma entra em uma seleta lista de assassinas de Chicago, a qual \u00e9 controlada por Billy Flynn (Richard Gere), um advogado que busca sempre se aproveitar ao m\u00e1ximo da situa\u00e7\u00e3o. Ao contr\u00e1rio do que se esperava, o assassinato faz com que a fama de Velma cres\u00e7a ainda mais, tornando-a uma verdadeira celebridade do showbizz. Enquanto isso, a aspirante a cantora Roxie Hart (Ren\u00e9e Zellweger) sonha com um mundo de glamour e fama, at\u00e9 que mata seu namorado ap\u00f3s uma briga. Billy fica sabendo do crime e decide adiar ao m\u00e1ximo o julgamento de Velma, de forma a poder explorar os dois assassinatos ao m\u00e1ximo nos jornais. Assim como ocorreu com Velma, Roxie tamb\u00e9m se torna uma estrela por causa de crime que cometeu, iniciando uma disputa entre as duas pelo posto de maior celebridade do meio art\u00edstico.",
+                "vote_average": 7.1,
+                "vote_count": 2476
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Gangs of New York",
+            "second_label": "Thelma Schoonmaker",
+            "category": "Film Editing",
+            "year": 2003,
+            "tmdb": {
+                "id": 3131,
+                "original_title": "Gangs of New York",
+                "title": "Gangues de Nova York",
+                "release_date": "2002-12-14",
+                "backdrop_path": "/a2Aj5ksEo2HOUH3FbGyZCtaJM4C.jpg",
+                "poster_path": "/19AomqCo1CJ3P4C9ieMwirixpNj.jpg",
+                "overview": "William Cutting \u00e9 o l\u00edder de uma gangue violenta na Nova York do s\u00e9culo 19 que confronta seus rivais. Um jovem jura se vingar do perverso g\u00e2ngster que matou seu pai, mas fica dividido entre a sede de vingan\u00e7a e o fasc\u00ednio pelo carism\u00e1tico Cutting.",
+                "vote_average": 7.32,
+                "vote_count": 6327
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Hours",
+            "second_label": "Peter Boyle",
+            "category": "Film Editing",
+            "year": 2003,
+            "tmdb": {
+                "id": 590,
+                "original_title": "The Hours",
+                "title": "As Horas",
+                "release_date": "2002-12-27",
+                "backdrop_path": "/vPxVNrhIDbqjTw2K6clafOn4uTy.jpg",
+                "poster_path": "/eYHfjDl284ASZ7YnA6LgbvlBvcL.jpg",
+                "overview": "No come\u00e7o do s\u00e9culo 20, Virginia Woolf lida com a depress\u00e3o e tenta finalizar o romance \"Mrs. Dalloway\". Seu texto afeta profundamente uma dona de casa dos anos 1950 e uma mulher nos dias atuais, que parece viver os eventos do livro.",
+                "vote_average": 7.3,
+                "vote_count": 1591
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Lord of the Rings: The Two Towers",
+            "second_label": "Michael Horton",
+            "category": "Film Editing",
+            "year": 2003,
+            "tmdb": {
+                "id": 121,
+                "original_title": "The Lord of the Rings: The Two Towers",
+                "title": "O Senhor dos An\u00e9is: As Duas Torres",
+                "release_date": "2002-12-18",
+                "backdrop_path": "/6G73mNyooWAEQTpckPSnFxFoNmc.jpg",
+                "poster_path": "/20eUL6eN89SM0U7KPDw8iR82mOT.jpg",
+                "overview": "Ap\u00f3s a captura de Merry e Pippy pelos orcs, a Sociedade do Anel \u00e9 dissolvida. Frodo e Sam seguem sua jornada rumo \u00e0 Montanha da Perdi\u00e7\u00e3o para destruir o anel e descobrem que est\u00e3o sendo perseguidos pelo misterioso Gollum. Enquanto isso, Aragorn, o elfo e arqueiro Legolas e o an\u00e3o Gimli partem para resgatar os hobbits sequestrados e chegam ao reino de Rohan, onde o rei Theoden foi v\u00edtima de uma maldi\u00e7\u00e3o mortal de Saruman.",
+                "vote_average": 8.394,
+                "vote_count": 20974
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Pianist",
+            "second_label": "Herv de Luze",
+            "category": "Film Editing",
+            "year": 2003,
+            "tmdb": {
+                "id": 423,
+                "original_title": "The Pianist",
+                "title": "O Pianista",
+                "release_date": "2002-09-17",
+                "backdrop_path": "/dVr11o9or7AS8AMPfwjSpEU83iU.jpg",
+                "poster_path": "/s0evYrftQZepUEaLPUFUdRvBG80.jpg",
+                "overview": "Um pianista judeu polon\u00eas v\u00ea Vars\u00f3via mudar gradualmente \u00e0 medida que a Segunda Guerra Mundial come\u00e7a. Szpilman \u00e9 for\u00e7ado a ir para o Gueto de Vars\u00f3via, mas depois \u00e9 separado de sua fam\u00edlia durante a Opera\u00e7\u00e3o Reinhard. A partir deste momento at\u00e9 que os prisioneiros dos campos de concentra\u00e7\u00e3o sejam liberados, Szpilman se esconde em v\u00e1rios locais entre as ru\u00ednas de Vars\u00f3via.",
+                "vote_average": 8.381,
+                "vote_count": 8762
+            },
+            "winner": false
+        }
+    ],
+    "Foreign Language Film": [
+        {
+            "first_label": "Nowhere in Africa",
+            "second_label": "Germany",
+            "category": "Foreign Language Film",
+            "year": 2003,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "El Crimen del Padre Amaro",
+            "second_label": "Mexico",
+            "category": "Foreign Language Film",
+            "year": 2003,
+            "tmdb": {
+                "id": 542,
+                "original_title": "El Crimen del Padre Amaro",
+                "title": "O Crime do Padre Amaro",
+                "release_date": "2002-10-01",
+                "backdrop_path": "/edV5Rdc9uJMftJCaOtHI5Tgd2ex.jpg",
+                "poster_path": "/eo60rPzqAjEvv5EPZINGBx7BU7a.jpg",
+                "overview": "O jovem padre Amaro acaba de ser ordenado e em breve ir\u00e1 para Roma continuar seus estudos, gra\u00e7as \u00e0 boa rela\u00e7\u00e3o que mant\u00e9m com o bispo. Antes, contudo, deve trabalhar em uma par\u00f3quia. Ele \u00e9 enviado para Los Reyes para atuar sob as ordens do padre Benito, o vig\u00e1rio que aparentemente vive uma exist\u00eancia corrupta e contradit\u00f3ria. L\u00e1 Amaro conhece a linda e devota Amelia, filha de Sanjuanera, dona do restaurante mais importante da cidade e amante do padre Benito. Diante do mundo real, Amaro \u00e9 confrontado com a hipocrisia da Igreja, que condena as guerrilhas mas convive com chefes do tr\u00e1fico de drogas.",
+                "vote_average": 6.6,
+                "vote_count": 249
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hero",
+            "second_label": "People's Republic of China",
+            "category": "Foreign Language Film",
+            "year": 2003,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Man without a Past",
+            "second_label": "Finland",
+            "category": "Foreign Language Film",
+            "year": 2003,
+            "tmdb": {
+                "id": 7294,
+                "original_title": "Mies vailla menneisyytt\u00e4",
+                "title": "O Homem Sem Passado",
+                "release_date": "2002-03-01",
+                "backdrop_path": "/nvzRMLQSYB1XYooexBr8Nqp5vcU.jpg",
+                "poster_path": "/m0xfBj5aeo3isfOqKz8TIbRM16f.jpg",
+                "overview": "Ao chegar a Helsinki, um homem \u00e9 atacado e espancado com tanta crueldade que fica amn\u00e9sico. Incapaz de lembrar seu pr\u00f3prio nome ou qualquer coisa de seu passado, vai viver na periferia da cidade e aos poucos recome\u00e7a a construir sua vida. Segunda parte da trilogia da melancolia do cineasta finland\u00eas Aki Kaurism\u00e4ki que come\u00e7a com \"Nuvens Passageiras (1996)\" e termina com \"Luzes na Escurid\u00e3o (2006)\".",
+                "vote_average": 7.438,
+                "vote_count": 320
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Zus & Zo",
+            "second_label": "The Netherlands",
+            "category": "Foreign Language Film",
+            "year": 2003,
+            "tmdb": {
+                "id": 16539,
+                "original_title": "Zus & zo",
+                "title": "Zus & Zo",
+                "release_date": "2002-05-08",
+                "backdrop_path": "/3aKs5sru2flpoRANNDKyZcvDEUd.jpg",
+                "poster_path": "/pmStxhCvk7iN3HUK73JZKByRhEB.jpg",
+                "overview": "In this Oscar-nominated comedy, three wacky sisters try to save their inheritance from their supposedly gay brother, who suddenly appears with a fianc\u00e9 in tow. If he gets married, their father's will stipulates that he gets the family hotel in Portugal. So the sisters put aside their personal differences and set out to stop the wedding at all costs.",
+                "vote_average": 5.3,
+                "vote_count": 14
+            },
+            "winner": false
+        }
+    ],
+    "Makeup": [
+        {
+            "first_label": "Frida",
+            "second_label": "John Jackson, Beatrice De Alba",
+            "category": "Makeup",
+            "year": 2003,
+            "tmdb": {
+                "id": 1360,
+                "original_title": "Frida",
+                "title": "Frida",
+                "release_date": "2002-08-29",
+                "backdrop_path": "/s04Ds4xbJU7DzeGVyamccH4LoxF.jpg",
+                "poster_path": "/a4hgR6aKoohB6MHni171jbi9BkU.jpg",
+                "overview": "Frida Kahlo (Salma Hayek) foi um dos principais nomes da hist\u00f3ria art\u00edstica do M\u00e9xico. Conceituada e aclamada como pintora, ele teve um agitado casamento aberto com Diego Rivera (Alfred Molina), seu companheiro tamb\u00e9m nas artes, e ainda um controverso caso com o pol\u00edtico Leon Trostky (Geoffrey Rush), al\u00e9m de v\u00e1rias outras mulheres.",
+                "vote_average": 7.4,
+                "vote_count": 1945
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Time Machine",
+            "second_label": "John M. Elliott, Jr., Barbara Lorenz",
+            "category": "Makeup",
+            "year": 2003,
+            "tmdb": {
+                "id": 2135,
+                "original_title": "The Time Machine",
+                "title": "A M\u00e1quina do Tempo",
+                "release_date": "2002-03-04",
+                "backdrop_path": "/i0eOILDW8HipIkOUSKhB1dvZzNJ.jpg",
+                "poster_path": "/hEUR9s3oWImmN1PdSvzzTm0ez1N.jpg",
+                "overview": "Desesperado pelo assassinato de sua noiva, o inventor Alexander n\u00e3o consegue reverter a morte da amada alterando o tempo. Por\u00e9m, em um futuro em que a humanidade est\u00e1 dividida entre esp\u00e9cies pac\u00edficas e predat\u00f3rias, o cientista precisa enfrentar os carn\u00edvoros Morlocks para salvar seus novos amigos.",
+                "vote_average": 6.246,
+                "vote_count": 2149
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Score)": [
+        {
+            "first_label": "Frida",
+            "second_label": "Elliot Goldenthal",
+            "category": "Music (Original Score)",
+            "year": 2003,
+            "tmdb": {
+                "id": 1360,
+                "original_title": "Frida",
+                "title": "Frida",
+                "release_date": "2002-08-29",
+                "backdrop_path": "/s04Ds4xbJU7DzeGVyamccH4LoxF.jpg",
+                "poster_path": "/a4hgR6aKoohB6MHni171jbi9BkU.jpg",
+                "overview": "Frida Kahlo (Salma Hayek) foi um dos principais nomes da hist\u00f3ria art\u00edstica do M\u00e9xico. Conceituada e aclamada como pintora, ele teve um agitado casamento aberto com Diego Rivera (Alfred Molina), seu companheiro tamb\u00e9m nas artes, e ainda um controverso caso com o pol\u00edtico Leon Trostky (Geoffrey Rush), al\u00e9m de v\u00e1rias outras mulheres.",
+                "vote_average": 7.4,
+                "vote_count": 1945
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Catch Me If You Can",
+            "second_label": "John Williams",
+            "category": "Music (Original Score)",
+            "year": 2003,
+            "tmdb": {
+                "id": 640,
+                "original_title": "Catch Me If You Can",
+                "title": "Prenda-Me se For Capaz",
+                "release_date": "2002-12-16",
+                "backdrop_path": "/Ag6qhzsJd3k1NKuNrG9RmhZDMh7.jpg",
+                "poster_path": "/pSaqcj3pwTKt34cyn6NrBE7V4eH.jpg",
+                "overview": "Frank Abagnale Jr. j\u00e1 foi m\u00e9dico, advogado e co-piloto, tudo isso com apenas 18 anos. Mestre na arte do disfarce, ele aproveita suas habilidades para viver a vida como quer e praticar golpes milion\u00e1rios, que fazem com que se torne o ladr\u00e3o de banco mais bem-sucedido da hist\u00f3ria dos Estados Unidos com apenas 17 anos. Mas em seu encal\u00e7o est\u00e1 o agente do FBI Carl Hanratty, que usa todos os meios que tem ao seu dispor para encontr\u00e1-lo e captur\u00e1-lo.",
+                "vote_average": 7.977,
+                "vote_count": 14982
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Far from Heaven",
+            "second_label": "Elmer Bernstein",
+            "category": "Music (Original Score)",
+            "year": 2003,
+            "tmdb": {
+                "id": 10712,
+                "original_title": "Far from Heaven",
+                "title": "Longe do Para\u00edso",
+                "release_date": "2002-11-08",
+                "backdrop_path": "/awzxZMG6CmL9lK9lJi9nN1lUkkl.jpg",
+                "poster_path": "/dy9wNpDu497pHkSjuCvgB2i8O2D.jpg",
+                "overview": "Nos anos 50, uma mulher leva sua vida dividida entre seu casamento, filhos e eventos sociais at\u00e9 descobrir um segredo sobre seu marido, que colocar\u00e1 em xeque todas as suas incertezas.",
+                "vote_average": 7.035,
+                "vote_count": 573
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Hours",
+            "second_label": "Philip Glass",
+            "category": "Music (Original Score)",
+            "year": 2003,
+            "tmdb": {
+                "id": 590,
+                "original_title": "The Hours",
+                "title": "As Horas",
+                "release_date": "2002-12-27",
+                "backdrop_path": "/vPxVNrhIDbqjTw2K6clafOn4uTy.jpg",
+                "poster_path": "/eYHfjDl284ASZ7YnA6LgbvlBvcL.jpg",
+                "overview": "No come\u00e7o do s\u00e9culo 20, Virginia Woolf lida com a depress\u00e3o e tenta finalizar o romance \"Mrs. Dalloway\". Seu texto afeta profundamente uma dona de casa dos anos 1950 e uma mulher nos dias atuais, que parece viver os eventos do livro.",
+                "vote_average": 7.3,
+                "vote_count": 1591
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Road to Perdition",
+            "second_label": "Thomas Newman",
+            "category": "Music (Original Score)",
+            "year": 2003,
+            "tmdb": {
+                "id": 4147,
+                "original_title": "Road to Perdition",
+                "title": "Estrada para Perdi\u00e7\u00e3o",
+                "release_date": "2002-07-12",
+                "backdrop_path": "/nkP4Bc3CR8nYBvzS0O1fmiteJvv.jpg",
+                "poster_path": "/loSpBeirRfTPJ3cMIqpQArstGhh.jpg",
+                "overview": "Ele n\u00e3o deveria estar l\u00e1. Mas no momento em que Michael Sullivan Jr. presencia um brutal assassinato, as vidas desse menino de 12 anos e do gangster que \u00e9 seu pai s\u00e3o destru\u00eddas para sempre e seus destinos unidos para sempre. Agora, perseguido pela M\u00e1fia a quem devotou sua vida, Sullivan e seu filho n\u00e3o t\u00eam para onde fugir ou como escapar \u00e0 persegui\u00e7\u00e3o incans\u00e1vel de um s\u00e1dico assassino. \u00c9 nessa luta feroz e instintiva pela sobreviv\u00eancia e para proteger seu filho, que este gangster profissional ir\u00e1 descobrir a honra e a reden\u00e7\u00e3o.",
+                "vote_average": 7.3,
+                "vote_count": 3461
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Song)": [
+        {
+            "first_label": "8 Mile",
+            "second_label": "Lose Yourself in \"8 Mile\" Music by Eminem, Jeff Bass and Luis Resto; Lyric by Eminem",
+            "category": "Music (Original Song)",
+            "year": 2003,
+            "tmdb": {
+                "id": 65,
+                "original_title": "8 Mile",
+                "title": "8 Mile: Rua das Ilus\u00f5es",
+                "release_date": "2002-11-08",
+                "backdrop_path": "/bfccQmQWNFQYRv4PHgCnjDu7PXn.jpg",
+                "poster_path": "/86CyysIw6WvboRPN8qrjCP0M0nS.jpg",
+                "overview": "Em Detroit vive Jimmy, um jovem rapper em plena crise de identidade, que procura um sentido para sua vida. Ele abandona a namorada gr\u00e1vida, briga com a m\u00e3e alco\u00f3latra e \u00e9 perseguido pelos inimigos. Tudo vai mal, mas ele deposita suas esperan\u00e7as em um concurso de rima. \u00c9 l\u00e1 que ele extravasa sua raiva e ang\u00fastia.",
+                "vote_average": 7.1,
+                "vote_count": 6926
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Frida",
+            "second_label": "Burn It Blue in \"Frida\" Music by Elliot Goldenthal; Lyric by Julie Taymor",
+            "category": "Music (Original Song)",
+            "year": 2003,
+            "tmdb": {
+                "id": 1360,
+                "original_title": "Frida",
+                "title": "Frida",
+                "release_date": "2002-08-29",
+                "backdrop_path": "/s04Ds4xbJU7DzeGVyamccH4LoxF.jpg",
+                "poster_path": "/a4hgR6aKoohB6MHni171jbi9BkU.jpg",
+                "overview": "Frida Kahlo (Salma Hayek) foi um dos principais nomes da hist\u00f3ria art\u00edstica do M\u00e9xico. Conceituada e aclamada como pintora, ele teve um agitado casamento aberto com Diego Rivera (Alfred Molina), seu companheiro tamb\u00e9m nas artes, e ainda um controverso caso com o pol\u00edtico Leon Trostky (Geoffrey Rush), al\u00e9m de v\u00e1rias outras mulheres.",
+                "vote_average": 7.4,
+                "vote_count": 1945
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Wild Thornberrys Movie",
+            "second_label": "Father And Daughter in \"The Wild Thornberrys Movie\" Music and Lyric by Paul Simon",
+            "category": "Music (Original Song)",
+            "year": 2003,
+            "tmdb": {
+                "id": 14317,
+                "original_title": "The Wild Thornberrys Movie",
+                "title": "Os Thornberrys - O Filme",
+                "release_date": "2002-12-20",
+                "backdrop_path": "/gseVao2FiyRZuqWQNl05BQ8TEVM.jpg",
+                "poster_path": "/yMhreXSfdMtagELAM6YOjPPHGIi.jpg",
+                "overview": "\u00c0 primeira vista os Thornberrys parecem ser uma fam\u00edlia normal, formado pelos pais, duas filhas e um animal de estima\u00e7\u00e3o. O pai, Nigel (Tim Curry), \u00e9 apresentador de document\u00e1rios sobre animais, que por sua vez s\u00e3o dirigidos por sua esposa, Marianne (Jodi Carlisle). Para facilitar o trabalho eles vivem rodando o planeta para realizar seus document\u00e1rios, carregando junto as filhas Eliza (Lacey Chabert) e Debbie (Danielle Harris), viajando em um \u00f4nibus recheado de equipamentos.",
+                "vote_average": 6.3,
+                "vote_count": 245
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gangs of New York",
+            "second_label": "The Hands That Built America in \"Gangs of New York\" Music and Lyric by Bono, The Edge, Adam Clayton and Larry Mullen",
+            "category": "Music (Original Song)",
+            "year": 2003,
+            "tmdb": {
+                "id": 3131,
+                "original_title": "Gangs of New York",
+                "title": "Gangues de Nova York",
+                "release_date": "2002-12-14",
+                "backdrop_path": "/a2Aj5ksEo2HOUH3FbGyZCtaJM4C.jpg",
+                "poster_path": "/19AomqCo1CJ3P4C9ieMwirixpNj.jpg",
+                "overview": "William Cutting \u00e9 o l\u00edder de uma gangue violenta na Nova York do s\u00e9culo 19 que confronta seus rivais. Um jovem jura se vingar do perverso g\u00e2ngster que matou seu pai, mas fica dividido entre a sede de vingan\u00e7a e o fasc\u00ednio pelo carism\u00e1tico Cutting.",
+                "vote_average": 7.32,
+                "vote_count": 6327
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Chicago",
+            "second_label": "I Move On in \"Chicago\" Music by John Kander; Lyric by Fred Ebb",
+            "category": "Music (Original Song)",
+            "year": 2003,
+            "tmdb": {
+                "id": 1574,
+                "original_title": "Chicago",
+                "title": "Chicago",
+                "release_date": "2002-12-10",
+                "backdrop_path": "/jkyqFgqmZlH5vSURckq0GgsewOY.jpg",
+                "poster_path": "/v1Sg3GuHDz9uhrKqYozOeCMLSpj.jpg",
+                "overview": "Velma Kelly (Catherine Zeta-Jones) \u00e9 uma famosa dan\u00e7arina que \u00e9 tamb\u00e9m a principal atra\u00e7\u00e3o da boate onde trabalha. Ap\u00f3s matar seu marido, Velma entra em uma seleta lista de assassinas de Chicago, a qual \u00e9 controlada por Billy Flynn (Richard Gere), um advogado que busca sempre se aproveitar ao m\u00e1ximo da situa\u00e7\u00e3o. Ao contr\u00e1rio do que se esperava, o assassinato faz com que a fama de Velma cres\u00e7a ainda mais, tornando-a uma verdadeira celebridade do showbizz. Enquanto isso, a aspirante a cantora Roxie Hart (Ren\u00e9e Zellweger) sonha com um mundo de glamour e fama, at\u00e9 que mata seu namorado ap\u00f3s uma briga. Billy fica sabendo do crime e decide adiar ao m\u00e1ximo o julgamento de Velma, de forma a poder explorar os dois assassinatos ao m\u00e1ximo nos jornais. Assim como ocorreu com Velma, Roxie tamb\u00e9m se torna uma estrela por causa de crime que cometeu, iniciando uma disputa entre as duas pelo posto de maior celebridade do meio art\u00edstico.",
+                "vote_average": 7.1,
+                "vote_count": 2476
+            },
+            "winner": false
+        }
+    ],
+    "Best Picture": [
+        {
+            "first_label": "Chicago",
+            "second_label": "Martin Richards, Producer",
+            "category": "Best Picture",
+            "year": 2003,
+            "tmdb": {
+                "id": 1574,
+                "original_title": "Chicago",
+                "title": "Chicago",
+                "release_date": "2002-12-10",
+                "backdrop_path": "/jkyqFgqmZlH5vSURckq0GgsewOY.jpg",
+                "poster_path": "/v1Sg3GuHDz9uhrKqYozOeCMLSpj.jpg",
+                "overview": "Velma Kelly (Catherine Zeta-Jones) \u00e9 uma famosa dan\u00e7arina que \u00e9 tamb\u00e9m a principal atra\u00e7\u00e3o da boate onde trabalha. Ap\u00f3s matar seu marido, Velma entra em uma seleta lista de assassinas de Chicago, a qual \u00e9 controlada por Billy Flynn (Richard Gere), um advogado que busca sempre se aproveitar ao m\u00e1ximo da situa\u00e7\u00e3o. Ao contr\u00e1rio do que se esperava, o assassinato faz com que a fama de Velma cres\u00e7a ainda mais, tornando-a uma verdadeira celebridade do showbizz. Enquanto isso, a aspirante a cantora Roxie Hart (Ren\u00e9e Zellweger) sonha com um mundo de glamour e fama, at\u00e9 que mata seu namorado ap\u00f3s uma briga. Billy fica sabendo do crime e decide adiar ao m\u00e1ximo o julgamento de Velma, de forma a poder explorar os dois assassinatos ao m\u00e1ximo nos jornais. Assim como ocorreu com Velma, Roxie tamb\u00e9m se torna uma estrela por causa de crime que cometeu, iniciando uma disputa entre as duas pelo posto de maior celebridade do meio art\u00edstico.",
+                "vote_average": 7.1,
+                "vote_count": 2476
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Gangs of New York",
+            "second_label": "Alberto Grimaldi and Harvey Weinstein, Producers",
+            "category": "Best Picture",
+            "year": 2003,
+            "tmdb": {
+                "id": 3131,
+                "original_title": "Gangs of New York",
+                "title": "Gangues de Nova York",
+                "release_date": "2002-12-14",
+                "backdrop_path": "/a2Aj5ksEo2HOUH3FbGyZCtaJM4C.jpg",
+                "poster_path": "/19AomqCo1CJ3P4C9ieMwirixpNj.jpg",
+                "overview": "William Cutting \u00e9 o l\u00edder de uma gangue violenta na Nova York do s\u00e9culo 19 que confronta seus rivais. Um jovem jura se vingar do perverso g\u00e2ngster que matou seu pai, mas fica dividido entre a sede de vingan\u00e7a e o fasc\u00ednio pelo carism\u00e1tico Cutting.",
+                "vote_average": 7.32,
+                "vote_count": 6327
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Hours",
+            "second_label": "Scott Rudin and Robert Fox, Producers",
+            "category": "Best Picture",
+            "year": 2003,
+            "tmdb": {
+                "id": 590,
+                "original_title": "The Hours",
+                "title": "As Horas",
+                "release_date": "2002-12-27",
+                "backdrop_path": "/vPxVNrhIDbqjTw2K6clafOn4uTy.jpg",
+                "poster_path": "/eYHfjDl284ASZ7YnA6LgbvlBvcL.jpg",
+                "overview": "No come\u00e7o do s\u00e9culo 20, Virginia Woolf lida com a depress\u00e3o e tenta finalizar o romance \"Mrs. Dalloway\". Seu texto afeta profundamente uma dona de casa dos anos 1950 e uma mulher nos dias atuais, que parece viver os eventos do livro.",
+                "vote_average": 7.3,
+                "vote_count": 1591
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Lord of the Rings: The Two Towers",
+            "second_label": "Barrie M. Osborne, Fran Walsh and Peter Jackson, Producers",
+            "category": "Best Picture",
+            "year": 2003,
+            "tmdb": {
+                "id": 121,
+                "original_title": "The Lord of the Rings: The Two Towers",
+                "title": "O Senhor dos An\u00e9is: As Duas Torres",
+                "release_date": "2002-12-18",
+                "backdrop_path": "/6G73mNyooWAEQTpckPSnFxFoNmc.jpg",
+                "poster_path": "/20eUL6eN89SM0U7KPDw8iR82mOT.jpg",
+                "overview": "Ap\u00f3s a captura de Merry e Pippy pelos orcs, a Sociedade do Anel \u00e9 dissolvida. Frodo e Sam seguem sua jornada rumo \u00e0 Montanha da Perdi\u00e7\u00e3o para destruir o anel e descobrem que est\u00e3o sendo perseguidos pelo misterioso Gollum. Enquanto isso, Aragorn, o elfo e arqueiro Legolas e o an\u00e3o Gimli partem para resgatar os hobbits sequestrados e chegam ao reino de Rohan, onde o rei Theoden foi v\u00edtima de uma maldi\u00e7\u00e3o mortal de Saruman.",
+                "vote_average": 8.394,
+                "vote_count": 20974
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Pianist",
+            "second_label": "Roman Polanski, Robert Benmussa and Alain Sarde, Producers",
+            "category": "Best Picture",
+            "year": 2003,
+            "tmdb": {
+                "id": 423,
+                "original_title": "The Pianist",
+                "title": "O Pianista",
+                "release_date": "2002-09-17",
+                "backdrop_path": "/dVr11o9or7AS8AMPfwjSpEU83iU.jpg",
+                "poster_path": "/s0evYrftQZepUEaLPUFUdRvBG80.jpg",
+                "overview": "Um pianista judeu polon\u00eas v\u00ea Vars\u00f3via mudar gradualmente \u00e0 medida que a Segunda Guerra Mundial come\u00e7a. Szpilman \u00e9 for\u00e7ado a ir para o Gueto de Vars\u00f3via, mas depois \u00e9 separado de sua fam\u00edlia durante a Opera\u00e7\u00e3o Reinhard. A partir deste momento at\u00e9 que os prisioneiros dos campos de concentra\u00e7\u00e3o sejam liberados, Szpilman se esconde em v\u00e1rios locais entre as ru\u00ednas de Vars\u00f3via.",
+                "vote_average": 8.381,
+                "vote_count": 8762
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Animated)": [
+        {
+            "first_label": "The ChubbChubbs!",
+            "second_label": "Eric Armstrong",
+            "category": "Short Film (Animated)",
+            "year": 2003,
+            "tmdb": {
+                "id": 27042,
+                "original_title": "The ChubbChubbs!",
+                "title": "Os ChubbChubbs!",
+                "release_date": "2002-07-03",
+                "backdrop_path": "/p728fZQzGKXiXVH7y5ATXvBiGHe.jpg",
+                "poster_path": "/1MtQFiKWSlr5D8jUqYtfDVTld6J.jpg",
+                "overview": "Meeper, um aspirante a cantor, tenta avisar os habitantes de seu planeta sobre a invas\u00e3o dos alien\u00edgenas ChubbChubbs.",
+                "vote_average": 6.6,
+                "vote_count": 79
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Cathedral",
+            "second_label": "Tomek Baginski",
+            "category": "Short Film (Animated)",
+            "year": 2003,
+            "tmdb": {
+                "id": 15990,
+                "original_title": "Katedra",
+                "title": "Katedra",
+                "release_date": "2002-03-24",
+                "backdrop_path": "/5mYsfeoj9vHqAYOIK9k67PPSfRJ.jpg",
+                "poster_path": "/zQRwlC4Mc8jiTntJobPLoG8Yj5k.jpg",
+                "overview": "Um explorador visita uma catedral incomum constru\u00edda com materiais org\u00e2nicos...",
+                "vote_average": 6.9,
+                "vote_count": 93
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Das Rad",
+            "second_label": "Chris Stenner, Heidi Wittlinger",
+            "category": "Short Film (Animated)",
+            "year": 2003,
+            "tmdb": {
+                "id": 12610,
+                "original_title": "Osmosis Jones",
+                "title": "Osmose Jones - Uma Aventura Radical pelo Corpo Humano",
+                "release_date": "2001-08-10",
+                "backdrop_path": "/qHrPJdZx2Um0AA90TGXtL76eRS1.jpg",
+                "poster_path": "/vLHoUumoFz32rDuPWDpJv3RwlEM.jpg",
+                "overview": "Frank Pepperidge (Bill Murray) \u00e9 um construtor que repentinamente pega um resfriado. Este pequeno fato deflagra uma guerra dentro do seu corpo, que \u00e9 conhecido por \"Cidade de Frank\", e faz com que a c\u00e9lula branca policial Osmosis Jones (Chris Rock) e a p\u00edlula Drixorial (David Hyde Pierce) juntem suas for\u00e7as a fim de eliminar os v\u00edrus que est\u00e3o dentro do corpo de Frank e amea\u00e7am todo a \"cidade\" onde vivem.",
+                "vote_average": 6.5,
+                "vote_count": 967
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mike's New Car",
+            "second_label": "Pete Docter, Roger Gould",
+            "category": "Short Film (Animated)",
+            "year": 2003,
+            "tmdb": {
+                "id": 13931,
+                "original_title": "Mike's New Car",
+                "title": "O Novo Carro do Mike",
+                "release_date": "2002-05-24",
+                "backdrop_path": "/1gwPQcnfkMCnAlWauI934i7E3Pr.jpg",
+                "poster_path": "/y9f9hYfuImvIvJRJrDCbLGELT5Y.jpg",
+                "overview": "Mike descobre que ser o melhor colecionador de gargalhadas da Monsters, Inc. tem seus benef\u00edcios, como ganhar dinheiro suficiente para comprar um carro com tra\u00e7\u00e3o nas seis rodas carregado de gadgets. Esse cheiro de carro novo n\u00e3o dura o tempo suficiente, no entanto, quando Sulley inicia um infeliz teste de estrada que ensina a Mike o verdadeiro significado do remorso do comprador. O orgulho de Mike em suas novas rodas s\u00f3 \u00e9 superado pela falta de habilidades de Sulley no painel de controle. Os dois finalmente concordam em uma coisa: caminhar para o trabalho pode ser o melhor, pelo menos hoje.",
+                "vote_average": 6.9,
+                "vote_count": 657
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mt. Head",
+            "second_label": "Koji Yamamura",
+            "category": "Short Film (Animated)",
+            "year": 2003,
+            "tmdb": {
+                "id": 36072,
+                "original_title": "\u982d\u5c71",
+                "title": "Mount Head",
+                "release_date": "2002-10-04",
+                "backdrop_path": "/tapUeZMlUUDlxy6hOcnDHF282eX.jpg",
+                "poster_path": "/2XsbnsB3lZFhSAE8mS9EoGviief.jpg",
+                "overview": "A miserly man eats the pits of some cherries he can't stand throwing out. A tree starts growing from the top of his head. He cuts it off; it grows back. After a while, he gives up and lets it grow, but the crowds that gather on top of his head to enjoy the tree (and leave huge mounds of trash) eventually drive him to uproot the tree. This leaves a crater on top of his head, which fills with water, which becomes a popular lake.",
+                "vote_average": 6.3,
+                "vote_count": 43
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Live Action)": [
+        {
+            "first_label": "This Charming Man (Der Er En Yndig Mand)",
+            "second_label": "Martin Strange-Hansen, Mie Andreasen",
+            "category": "Short Film (Live Action)",
+            "year": 2003,
+            "tmdb": {
+                "id": 115479,
+                "original_title": "Der er en yndig mand",
+                "title": "This Charming Man",
+                "release_date": "2002-10-02",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "Lars applies for job training, but his papers are mixed with an immigrant and he's sent instead to Danish class. When he learns that the attractive teacher, Ida, will lose her job if the immigrant isn't in attendance, he decides to go through with the erroneous assignment posing as the other guy. The short film is a comedy of errors, but works in some poignant and scathing observations about xenophobia.",
+                "vote_average": 5.7,
+                "vote_count": 8
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Fait D'Hiver",
+            "second_label": "Fait D'Hiver",
+            "category": "Short Film (Live Action)",
+            "year": 2003,
+            "tmdb": {
+                "id": 121966,
+                "original_title": "Fait d'hiver",
+                "title": "Gridlock",
+                "release_date": "2001-10-08",
+                "backdrop_path": null,
+                "poster_path": "/joaiPH3i6zjVP1jLs0mLFxgRNUl.jpg",
+                "overview": "On a cold winter evening a young manager gets stuck in traffic on his way home from work. He takes his brand new mobile to call his wife, not knowing that by doing so he is about to cause irreparable damage.",
+                "vote_average": 7.0,
+                "vote_count": 17
+            },
+            "winner": false
+        },
+        {
+            "first_label": "I'll Wait for the Next One... (J'Attendrai Le Suivant...)",
+            "second_label": "Philippe Orreindy, Thomas Gaudin",
+            "category": "Short Film (Live Action)",
+            "year": 2003,
+            "tmdb": {
+                "id": 162657,
+                "original_title": "J'attendrai le suivant...",
+                "title": "I'll Wait for the Next One...",
+                "release_date": "2002-07-31",
+                "backdrop_path": "/elfczBn2tRGFq9mPq5Wc4Kf6hWC.jpg",
+                "poster_path": "/iTu72Gxt4f1iqNH2bw5Qh9O9G3e.jpg",
+                "overview": "On a subway train, a man announces that he's looking for someone who might be interested in him; the usual dating methods have not worked, though there's nothing wrong with him. He explains that any interested woman can just get off at the next stop. One woman looks interested...",
+                "vote_average": 7.0,
+                "vote_count": 44
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Inja (Dog)",
+            "second_label": "Steven Pasvolsky, Joe Weatherstone",
+            "category": "Short Film (Live Action)",
+            "year": 2003,
+            "tmdb": {
+                "id": 165664,
+                "original_title": "Inja",
+                "title": "Inja",
+                "release_date": "2002-01-10",
+                "backdrop_path": null,
+                "poster_path": "/s8aj2ZBaypBFmZLvzxw7MbI82L8.jpg",
+                "overview": "Inja [Dog] is a 2002 South African short film directed by Steve Pasvolsky. Using a Xhosa boy as a pawn, a farmer teaches his puppy to be white man's best friend. Ten years later, both their lives hang in the balance at the mercy of the dog. The film was nominated for an Oscar for Best Live Action Short Film.",
+                "vote_average": 7.9,
+                "vote_count": 7
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Johnny Flynton",
+            "second_label": "Lexi Alexander, Alexander Buono",
+            "category": "Short Film (Live Action)",
+            "year": 2003,
+            "tmdb": {
+                "id": 244981,
+                "original_title": "Johnny Flynton",
+                "title": "Johnny Flynton",
+                "release_date": "2002-09-21",
+                "backdrop_path": null,
+                "poster_path": "/aBWLWio9I2RrhjQtJsJa2pJtyb.jpg",
+                "overview": "Johnny Flynton is a 2002 American short film directed and co-written by Lexi Alexander. Johnny Flynton is good at one thing: boxing. He's not too bright, and there's clearly some issues in his past, but what's worse, when he's boxing, his temper flares up. His wife, Samantha, tells him she's pregnant. Meanwhile, he's got an exhibition match with local boy Artie Duane. Johnny lets him get a few punches in to look good, but when Artie starts taking cheap shots, Johnny can't stand by and overreacts. He runs home, where he's in high spirits, but that proves his downfall. The film was nominated for an Oscar for Best Live Action Short Film.",
+                "vote_average": 6.7,
+                "vote_count": 7
+            },
+            "winner": false
+        }
+    ],
+    "Sound": [
+        {
+            "first_label": "Chicago",
+            "second_label": "Michael Minkler, Dominick Tavella, David Lee",
+            "category": "Sound",
+            "year": 2003,
+            "tmdb": {
+                "id": 1574,
+                "original_title": "Chicago",
+                "title": "Chicago",
+                "release_date": "2002-12-10",
+                "backdrop_path": "/jkyqFgqmZlH5vSURckq0GgsewOY.jpg",
+                "poster_path": "/v1Sg3GuHDz9uhrKqYozOeCMLSpj.jpg",
+                "overview": "Velma Kelly (Catherine Zeta-Jones) \u00e9 uma famosa dan\u00e7arina que \u00e9 tamb\u00e9m a principal atra\u00e7\u00e3o da boate onde trabalha. Ap\u00f3s matar seu marido, Velma entra em uma seleta lista de assassinas de Chicago, a qual \u00e9 controlada por Billy Flynn (Richard Gere), um advogado que busca sempre se aproveitar ao m\u00e1ximo da situa\u00e7\u00e3o. Ao contr\u00e1rio do que se esperava, o assassinato faz com que a fama de Velma cres\u00e7a ainda mais, tornando-a uma verdadeira celebridade do showbizz. Enquanto isso, a aspirante a cantora Roxie Hart (Ren\u00e9e Zellweger) sonha com um mundo de glamour e fama, at\u00e9 que mata seu namorado ap\u00f3s uma briga. Billy fica sabendo do crime e decide adiar ao m\u00e1ximo o julgamento de Velma, de forma a poder explorar os dois assassinatos ao m\u00e1ximo nos jornais. Assim como ocorreu com Velma, Roxie tamb\u00e9m se torna uma estrela por causa de crime que cometeu, iniciando uma disputa entre as duas pelo posto de maior celebridade do meio art\u00edstico.",
+                "vote_average": 7.1,
+                "vote_count": 2476
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Gangs of New York",
+            "second_label": "Tom Fleischman, Eugene Gearty, Ivan Sharrock",
+            "category": "Sound",
+            "year": 2003,
+            "tmdb": {
+                "id": 3131,
+                "original_title": "Gangs of New York",
+                "title": "Gangues de Nova York",
+                "release_date": "2002-12-14",
+                "backdrop_path": "/a2Aj5ksEo2HOUH3FbGyZCtaJM4C.jpg",
+                "poster_path": "/19AomqCo1CJ3P4C9ieMwirixpNj.jpg",
+                "overview": "William Cutting \u00e9 o l\u00edder de uma gangue violenta na Nova York do s\u00e9culo 19 que confronta seus rivais. Um jovem jura se vingar do perverso g\u00e2ngster que matou seu pai, mas fica dividido entre a sede de vingan\u00e7a e o fasc\u00ednio pelo carism\u00e1tico Cutting.",
+                "vote_average": 7.32,
+                "vote_count": 6327
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Lord of the Rings: The Two Towers",
+            "second_label": "Christopher Boyes, Michael Semanick, Michael Hedges, Hammond Peek",
+            "category": "Sound",
+            "year": 2003,
+            "tmdb": {
+                "id": 121,
+                "original_title": "The Lord of the Rings: The Two Towers",
+                "title": "O Senhor dos An\u00e9is: As Duas Torres",
+                "release_date": "2002-12-18",
+                "backdrop_path": "/6G73mNyooWAEQTpckPSnFxFoNmc.jpg",
+                "poster_path": "/20eUL6eN89SM0U7KPDw8iR82mOT.jpg",
+                "overview": "Ap\u00f3s a captura de Merry e Pippy pelos orcs, a Sociedade do Anel \u00e9 dissolvida. Frodo e Sam seguem sua jornada rumo \u00e0 Montanha da Perdi\u00e7\u00e3o para destruir o anel e descobrem que est\u00e3o sendo perseguidos pelo misterioso Gollum. Enquanto isso, Aragorn, o elfo e arqueiro Legolas e o an\u00e3o Gimli partem para resgatar os hobbits sequestrados e chegam ao reino de Rohan, onde o rei Theoden foi v\u00edtima de uma maldi\u00e7\u00e3o mortal de Saruman.",
+                "vote_average": 8.394,
+                "vote_count": 20974
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Road to Perdition",
+            "second_label": "Scott Millan, Bob Beemer, John Patrick Pritchett",
+            "category": "Sound",
+            "year": 2003,
+            "tmdb": {
+                "id": 4147,
+                "original_title": "Road to Perdition",
+                "title": "Estrada para Perdi\u00e7\u00e3o",
+                "release_date": "2002-07-12",
+                "backdrop_path": "/nkP4Bc3CR8nYBvzS0O1fmiteJvv.jpg",
+                "poster_path": "/loSpBeirRfTPJ3cMIqpQArstGhh.jpg",
+                "overview": "Ele n\u00e3o deveria estar l\u00e1. Mas no momento em que Michael Sullivan Jr. presencia um brutal assassinato, as vidas desse menino de 12 anos e do gangster que \u00e9 seu pai s\u00e3o destru\u00eddas para sempre e seus destinos unidos para sempre. Agora, perseguido pela M\u00e1fia a quem devotou sua vida, Sullivan e seu filho n\u00e3o t\u00eam para onde fugir ou como escapar \u00e0 persegui\u00e7\u00e3o incans\u00e1vel de um s\u00e1dico assassino. \u00c9 nessa luta feroz e instintiva pela sobreviv\u00eancia e para proteger seu filho, que este gangster profissional ir\u00e1 descobrir a honra e a reden\u00e7\u00e3o.",
+                "vote_average": 7.3,
+                "vote_count": 3461
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Spider-Man",
+            "second_label": "Kevin O'Connell, Greg P. Russell, Ed Novick",
+            "category": "Sound",
+            "year": 2003,
+            "tmdb": {
+                "id": 557,
+                "original_title": "Spider-Man",
+                "title": "Homem-Aranha",
+                "release_date": "2002-05-01",
+                "backdrop_path": "/jHxCeXnSchAuwHnmVatTgqMYdX8.jpg",
+                "poster_path": "/2WIwz0qJpnVAiofTAhrmhbKxuvE.jpg",
+                "overview": "Peter Parker (Tobey Maguire) \u00e9 um jovem estudioso que vive com seus tios, Ben (Cliff Robertson) e May (Rosemary Harris), desde que seus pais faleceram. Peter tem dificuldade em se relacionar com seus colegas, por ser t\u00edmido e por eles o considerarem um nerd. At\u00e9 que, em uma demonstra\u00e7\u00e3o cient\u00edfica, um acidente inesperado faz com que uma aranha modificada geneticamente pique Peter. A partir de ent\u00e3o seu corpo \u00e9 quimicamente alterado pela picada da aranha.",
+                "vote_average": 7.292,
+                "vote_count": 18238
+            },
+            "winner": false
+        }
+    ],
+    "Sound Editing": [
+        {
+            "first_label": "The Lord of the Rings: The Two Towers",
+            "second_label": "Ethan Van der Ryn, Michael Hopkins",
+            "category": "Sound Editing",
+            "year": 2003,
+            "tmdb": {
+                "id": 121,
+                "original_title": "The Lord of the Rings: The Two Towers",
+                "title": "O Senhor dos An\u00e9is: As Duas Torres",
+                "release_date": "2002-12-18",
+                "backdrop_path": "/6G73mNyooWAEQTpckPSnFxFoNmc.jpg",
+                "poster_path": "/20eUL6eN89SM0U7KPDw8iR82mOT.jpg",
+                "overview": "Ap\u00f3s a captura de Merry e Pippy pelos orcs, a Sociedade do Anel \u00e9 dissolvida. Frodo e Sam seguem sua jornada rumo \u00e0 Montanha da Perdi\u00e7\u00e3o para destruir o anel e descobrem que est\u00e3o sendo perseguidos pelo misterioso Gollum. Enquanto isso, Aragorn, o elfo e arqueiro Legolas e o an\u00e3o Gimli partem para resgatar os hobbits sequestrados e chegam ao reino de Rohan, onde o rei Theoden foi v\u00edtima de uma maldi\u00e7\u00e3o mortal de Saruman.",
+                "vote_average": 8.394,
+                "vote_count": 20974
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Minority Report",
+            "second_label": "Richard Hymns, Gary Rydstrom",
+            "category": "Sound Editing",
+            "year": 2003,
+            "tmdb": {
+                "id": 180,
+                "original_title": "Minority Report",
+                "title": "Minority Report: A Nova Lei",
+                "release_date": "2002-06-20",
+                "backdrop_path": "/qq4H9JfBKQ5DarMLI6lhUQjn9D7.jpg",
+                "poster_path": "/lnl6gMM1AqA4lDMRRh1ZzPz3vYT.jpg",
+                "overview": "N\u00e3o h\u00e1 crimes em Washington D.C. h\u00e1 seis anos, gra\u00e7as a impressionante tecnologia que identifica os assassinos antes que eles possam cometer seus crimes. Mas quando o pr\u00f3prio chefe da Divis\u00e3o de Pr\u00e9-Crime \u00e9 acusado de um futuro assassinato, ele tem apenas 36 horas para descobrir quem est\u00e1 querendo destru\u00ed-lo ou tornar-se-\u00e1 uma v\u00edtima do sistema \"perfeito\" que ele ajudou a criar.",
+                "vote_average": 7.345,
+                "vote_count": 8331
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Road to Perdition",
+            "second_label": "Scott A. Hecker",
+            "category": "Sound Editing",
+            "year": 2003,
+            "tmdb": {
+                "id": 4147,
+                "original_title": "Road to Perdition",
+                "title": "Estrada para Perdi\u00e7\u00e3o",
+                "release_date": "2002-07-12",
+                "backdrop_path": "/nkP4Bc3CR8nYBvzS0O1fmiteJvv.jpg",
+                "poster_path": "/loSpBeirRfTPJ3cMIqpQArstGhh.jpg",
+                "overview": "Ele n\u00e3o deveria estar l\u00e1. Mas no momento em que Michael Sullivan Jr. presencia um brutal assassinato, as vidas desse menino de 12 anos e do gangster que \u00e9 seu pai s\u00e3o destru\u00eddas para sempre e seus destinos unidos para sempre. Agora, perseguido pela M\u00e1fia a quem devotou sua vida, Sullivan e seu filho n\u00e3o t\u00eam para onde fugir ou como escapar \u00e0 persegui\u00e7\u00e3o incans\u00e1vel de um s\u00e1dico assassino. \u00c9 nessa luta feroz e instintiva pela sobreviv\u00eancia e para proteger seu filho, que este gangster profissional ir\u00e1 descobrir a honra e a reden\u00e7\u00e3o.",
+                "vote_average": 7.3,
+                "vote_count": 3461
+            },
+            "winner": false
+        }
+    ],
+    "Visual Effects": [
+        {
+            "first_label": "The Lord of the Rings: The Two Towers",
+            "second_label": "Jim Rygiel, Joe Letteri, Randall William Cook, Alex Funke",
+            "category": "Visual Effects",
+            "year": 2003,
+            "tmdb": {
+                "id": 121,
+                "original_title": "The Lord of the Rings: The Two Towers",
+                "title": "O Senhor dos An\u00e9is: As Duas Torres",
+                "release_date": "2002-12-18",
+                "backdrop_path": "/6G73mNyooWAEQTpckPSnFxFoNmc.jpg",
+                "poster_path": "/20eUL6eN89SM0U7KPDw8iR82mOT.jpg",
+                "overview": "Ap\u00f3s a captura de Merry e Pippy pelos orcs, a Sociedade do Anel \u00e9 dissolvida. Frodo e Sam seguem sua jornada rumo \u00e0 Montanha da Perdi\u00e7\u00e3o para destruir o anel e descobrem que est\u00e3o sendo perseguidos pelo misterioso Gollum. Enquanto isso, Aragorn, o elfo e arqueiro Legolas e o an\u00e3o Gimli partem para resgatar os hobbits sequestrados e chegam ao reino de Rohan, onde o rei Theoden foi v\u00edtima de uma maldi\u00e7\u00e3o mortal de Saruman.",
+                "vote_average": 8.394,
+                "vote_count": 20974
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Spider-Man",
+            "second_label": "John Dykstra, Scott Stokdyk, Anthony LaMolinara, John Frazier",
+            "category": "Visual Effects",
+            "year": 2003,
+            "tmdb": {
+                "id": 557,
+                "original_title": "Spider-Man",
+                "title": "Homem-Aranha",
+                "release_date": "2002-05-01",
+                "backdrop_path": "/jHxCeXnSchAuwHnmVatTgqMYdX8.jpg",
+                "poster_path": "/2WIwz0qJpnVAiofTAhrmhbKxuvE.jpg",
+                "overview": "Peter Parker (Tobey Maguire) \u00e9 um jovem estudioso que vive com seus tios, Ben (Cliff Robertson) e May (Rosemary Harris), desde que seus pais faleceram. Peter tem dificuldade em se relacionar com seus colegas, por ser t\u00edmido e por eles o considerarem um nerd. At\u00e9 que, em uma demonstra\u00e7\u00e3o cient\u00edfica, um acidente inesperado faz com que uma aranha modificada geneticamente pique Peter. A partir de ent\u00e3o seu corpo \u00e9 quimicamente alterado pela picada da aranha.",
+                "vote_average": 7.292,
+                "vote_count": 18238
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Star Wars Episode II Attack of the Clones",
+            "second_label": "Rob Coleman, Pablo Helman, John Knoll, Ben Snow",
+            "category": "Visual Effects",
+            "year": 2003,
+            "tmdb": {
+                "id": 1894,
+                "original_title": "Star Wars: Episode II - Attack of the Clones",
+                "title": "Star Wars: Epis\u00f3dio II - Ataque dos Clones",
+                "release_date": "2002-05-15",
+                "backdrop_path": "/abwxHfymXGAbbH3lo9PDEJEfvtW.jpg",
+                "poster_path": "/9m1nJ2MfTG5QEmjOCg0b4YCo4W8.jpg",
+                "overview": "Com a miss\u00e3o de proteger a Senadora Amidala, Anakin Skywalker descobre o seu amor por ela, do mesmo modo que vai conhecendo seu lado sombrio. Obi-Wan Kenobi descobre um ex\u00e9rcito de clones \u00e0 medida que a Gal\u00e1xia caminha para uma grande guerra.",
+                "vote_average": 6.558,
+                "vote_count": 12706
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Adapted Screenplay)": [
+        {
+            "first_label": "The Pianist",
+            "second_label": "Screenplay by Ronald Harwood",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2003,
+            "tmdb": {
+                "id": 423,
+                "original_title": "The Pianist",
+                "title": "O Pianista",
+                "release_date": "2002-09-17",
+                "backdrop_path": "/dVr11o9or7AS8AMPfwjSpEU83iU.jpg",
+                "poster_path": "/s0evYrftQZepUEaLPUFUdRvBG80.jpg",
+                "overview": "Um pianista judeu polon\u00eas v\u00ea Vars\u00f3via mudar gradualmente \u00e0 medida que a Segunda Guerra Mundial come\u00e7a. Szpilman \u00e9 for\u00e7ado a ir para o Gueto de Vars\u00f3via, mas depois \u00e9 separado de sua fam\u00edlia durante a Opera\u00e7\u00e3o Reinhard. A partir deste momento at\u00e9 que os prisioneiros dos campos de concentra\u00e7\u00e3o sejam liberados, Szpilman se esconde em v\u00e1rios locais entre as ru\u00ednas de Vars\u00f3via.",
+                "vote_average": 8.381,
+                "vote_count": 8762
+            },
+            "winner": true
+        },
+        {
+            "first_label": "About a Boy",
+            "second_label": "Screenplay by Peter Hedges, Chris Weitz, & Paul Weitz",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2003,
+            "tmdb": {
+                "id": 245,
+                "original_title": "About a Boy",
+                "title": "Um Grande Garoto",
+                "release_date": "2002-04-26",
+                "backdrop_path": "/xxiPjhXigJ4zPiqqrA77FK10ULo.jpg",
+                "poster_path": "/38idKGSXqTUUMy0gqbUfmNOBhwh.jpg",
+                "overview": "Will Freeman (Hugh Grant) \u00e9 um homem na faixa dos trinta anos metido a gal\u00e3 que inventa ter um filho apenas para poder ir \u00e0s reuni\u00f5es de pais solteiros, onde tem a oportunidade de conhecer m\u00e3es tamb\u00e9m solteiras. Will sempre segue a mesma t\u00e1tica: vive com elas um r\u00e1pido romance e quando elas come\u00e7am a falar em compromisso ele acaba o namoro. At\u00e9 que, em um de seus relacionamentos, Will conhece o jovem Marcus (Nicholas Hoult), um garoto de 12 anos que \u00e9 completamente o seu oposto e tem muitos problemas em casa e na escola. Com o tempo Will e Marcus se envolvem cada vez mais, aprendendo que um pode ensinar muito ao outro.",
+                "vote_average": 6.7,
+                "vote_count": 2113
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Adaptation",
+            "second_label": "Screenplay by Charlie Kaufman and Donald Kaufman",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2003,
+            "tmdb": {
+                "id": 2757,
+                "original_title": "Adaptation.",
+                "title": "Adapta\u00e7\u00e3o.",
+                "release_date": "2002-12-06",
+                "backdrop_path": "/dh0PHjz4GKgR1PCkB6xH7g6PCuM.jpg",
+                "poster_path": "/rbVczZMHp7nUnXi6na6r0wt3m2v.jpg",
+                "overview": "Charlie Kaufman (Nicolas Cage) precisa de qualquer maneira adaptar para o cinema o romance \"The Orchid Thief\", de Susan Orlean (Meryl Streep). O livro conta a hist\u00f3ria de John Laroche (Chris Cooper), um fornecedor de plantas que clona orqu\u00eddeas raras para vend\u00ea-las a colecionadores. Por\u00e9m, al\u00e9m das dificuldades naturais da adapta\u00e7\u00e3o de um livro em roteiro de cinema, Charlie precisa lidar tamb\u00e9m com sua baixa auto-estima, sua frustra\u00e7\u00e3o sexual e ainda Donald, seu irm\u00e3o g\u00eameo que vive como um parasita em sua vida e sonha em tamb\u00e9m se tornar um roteirista.",
+                "vote_average": 7.371,
+                "vote_count": 2345
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Chicago",
+            "second_label": "Screenplay by Bill Condon",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2003,
+            "tmdb": {
+                "id": 1574,
+                "original_title": "Chicago",
+                "title": "Chicago",
+                "release_date": "2002-12-10",
+                "backdrop_path": "/jkyqFgqmZlH5vSURckq0GgsewOY.jpg",
+                "poster_path": "/v1Sg3GuHDz9uhrKqYozOeCMLSpj.jpg",
+                "overview": "Velma Kelly (Catherine Zeta-Jones) \u00e9 uma famosa dan\u00e7arina que \u00e9 tamb\u00e9m a principal atra\u00e7\u00e3o da boate onde trabalha. Ap\u00f3s matar seu marido, Velma entra em uma seleta lista de assassinas de Chicago, a qual \u00e9 controlada por Billy Flynn (Richard Gere), um advogado que busca sempre se aproveitar ao m\u00e1ximo da situa\u00e7\u00e3o. Ao contr\u00e1rio do que se esperava, o assassinato faz com que a fama de Velma cres\u00e7a ainda mais, tornando-a uma verdadeira celebridade do showbizz. Enquanto isso, a aspirante a cantora Roxie Hart (Ren\u00e9e Zellweger) sonha com um mundo de glamour e fama, at\u00e9 que mata seu namorado ap\u00f3s uma briga. Billy fica sabendo do crime e decide adiar ao m\u00e1ximo o julgamento de Velma, de forma a poder explorar os dois assassinatos ao m\u00e1ximo nos jornais. Assim como ocorreu com Velma, Roxie tamb\u00e9m se torna uma estrela por causa de crime que cometeu, iniciando uma disputa entre as duas pelo posto de maior celebridade do meio art\u00edstico.",
+                "vote_average": 7.1,
+                "vote_count": 2476
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Hours",
+            "second_label": "Screenplay by David Hare",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2003,
+            "tmdb": {
+                "id": 590,
+                "original_title": "The Hours",
+                "title": "As Horas",
+                "release_date": "2002-12-27",
+                "backdrop_path": "/vPxVNrhIDbqjTw2K6clafOn4uTy.jpg",
+                "poster_path": "/eYHfjDl284ASZ7YnA6LgbvlBvcL.jpg",
+                "overview": "No come\u00e7o do s\u00e9culo 20, Virginia Woolf lida com a depress\u00e3o e tenta finalizar o romance \"Mrs. Dalloway\". Seu texto afeta profundamente uma dona de casa dos anos 1950 e uma mulher nos dias atuais, que parece viver os eventos do livro.",
+                "vote_average": 7.3,
+                "vote_count": 1591
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Original Screenplay)": [
+        {
+            "first_label": "Talk to Her",
+            "second_label": "Written by Pedro Almodvar",
+            "category": "Writing (Original Screenplay)",
+            "year": 2003,
+            "tmdb": {
+                "id": 64,
+                "original_title": "Hable con ella",
+                "title": "Fale com Ela",
+                "release_date": "2002-03-15",
+                "backdrop_path": "/rknvDtxOe1uqLX0EFWLHIQxRXcJ.jpg",
+                "poster_path": "/yWigIdXSA6X3Iw8HRfnweXjETf.jpg",
+                "overview": "Benigno est\u00e1 apaixonado por Alicia, uma dan\u00e7arina que observa do anonimato de seu apartamento. Depois de um acidente, ela \u00e9 levada ao hospital onde Benigno trabalha como cuidador. Quando a toureira Lydia \u00e9 levada para a mesma ala hospitalar, seu companheiro Marco cria um la\u00e7o verdadeiro com Benigno.",
+                "vote_average": 7.6,
+                "vote_count": 1228
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Far from Heaven",
+            "second_label": "Written by Todd Haynes",
+            "category": "Writing (Original Screenplay)",
+            "year": 2003,
+            "tmdb": {
+                "id": 10712,
+                "original_title": "Far from Heaven",
+                "title": "Longe do Para\u00edso",
+                "release_date": "2002-11-08",
+                "backdrop_path": "/awzxZMG6CmL9lK9lJi9nN1lUkkl.jpg",
+                "poster_path": "/dy9wNpDu497pHkSjuCvgB2i8O2D.jpg",
+                "overview": "Nos anos 50, uma mulher leva sua vida dividida entre seu casamento, filhos e eventos sociais at\u00e9 descobrir um segredo sobre seu marido, que colocar\u00e1 em xeque todas as suas incertezas.",
+                "vote_average": 7.035,
+                "vote_count": 573
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gangs of New York",
+            "second_label": "Screenplay by Jay Cocks and Steve Zaillian and Kenneth Lonergan; Story by Jay Cocks",
+            "category": "Writing (Original Screenplay)",
+            "year": 2003,
+            "tmdb": {
+                "id": 3131,
+                "original_title": "Gangs of New York",
+                "title": "Gangues de Nova York",
+                "release_date": "2002-12-14",
+                "backdrop_path": "/a2Aj5ksEo2HOUH3FbGyZCtaJM4C.jpg",
+                "poster_path": "/19AomqCo1CJ3P4C9ieMwirixpNj.jpg",
+                "overview": "William Cutting \u00e9 o l\u00edder de uma gangue violenta na Nova York do s\u00e9culo 19 que confronta seus rivais. Um jovem jura se vingar do perverso g\u00e2ngster que matou seu pai, mas fica dividido entre a sede de vingan\u00e7a e o fasc\u00ednio pelo carism\u00e1tico Cutting.",
+                "vote_average": 7.32,
+                "vote_count": 6327
+            },
+            "winner": false
+        },
+        {
+            "first_label": "My Big Fat Greek Wedding",
+            "second_label": "Written by Nia Vardalos",
+            "category": "Writing (Original Screenplay)",
+            "year": 2003,
+            "tmdb": {
+                "id": 8346,
+                "original_title": "My Big Fat Greek Wedding",
+                "title": "Casamento Grego",
+                "release_date": "2002-04-19",
+                "backdrop_path": "/3d8Y4q172YFp2obUdfMjyErB7eU.jpg",
+                "poster_path": "/7InkKCZeGemG0MVUi0JKJkJdb8s.jpg",
+                "overview": "\u00c9 a hist\u00f3ria de Toula, uma garota grega de 30 anos que ainda est\u00e1 \"encalhada\". Seus pais gostariam de v\u00ea-la casando-se com um rapaz que tivesse as mesmas origens, por\u00e9m o cora\u00e7\u00e3o de Toula bateu forte por Ian, um professor americano que n\u00e3o sabe nada sobre a Gr\u00e9cia, nem sobre os costumes e tradi\u00e7\u00f5es de seu povo. Ser\u00e1 que sua fam\u00edlia vai deix\u00e1-los em paz?",
+                "vote_average": 6.5,
+                "vote_count": 2031
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Y Tu Mam Tambin",
+            "second_label": "Written by Carlos Cuarn and Alfonso Cuarn",
+            "category": "Writing (Original Screenplay)",
+            "year": 2003,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ]
+}

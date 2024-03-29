@@ -1,0 +1,2048 @@
+{
+    "Actor in a Leading Role": [
+        {
+            "first_label": "Jeff Bridges",
+            "second_label": "Crazy Heart",
+            "category": "Actor in a Leading Role",
+            "year": 2010,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "George Clooney",
+            "second_label": "Up in the Air",
+            "category": "Actor in a Leading Role",
+            "year": 2010,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Colin Firth",
+            "second_label": "A Single Man",
+            "category": "Actor in a Leading Role",
+            "year": 2010,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Morgan Freeman",
+            "second_label": "Invictus",
+            "category": "Actor in a Leading Role",
+            "year": 2010,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jeremy Renner",
+            "second_label": "The Hurt Locker",
+            "category": "Actor in a Leading Role",
+            "year": 2010,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Christoph Waltz",
+            "second_label": "Inglourious Basterds",
+            "category": "Actor in a Supporting Role",
+            "year": 2010,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Matt Damon",
+            "second_label": "Invictus",
+            "category": "Actor in a Supporting Role",
+            "year": 2010,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Woody Harrelson",
+            "second_label": "The Messenger",
+            "category": "Actor in a Supporting Role",
+            "year": 2010,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Christopher Plummer",
+            "second_label": "The Last Station",
+            "category": "Actor in a Supporting Role",
+            "year": 2010,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Stanley Tucci",
+            "second_label": "The Lovely Bones",
+            "category": "Actor in a Supporting Role",
+            "year": 2010,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Leading Role": [
+        {
+            "first_label": "Sandra Bullock",
+            "second_label": "The Blind Side",
+            "category": "Actress in a Leading Role",
+            "year": 2010,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Helen Mirren",
+            "second_label": "The Last Station",
+            "category": "Actress in a Leading Role",
+            "year": 2010,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Carey Mulligan",
+            "second_label": "An Education",
+            "category": "Actress in a Leading Role",
+            "year": 2010,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gabourey Sidibe",
+            "second_label": "Precious: Based on the Novel 'Push' by Sapphire",
+            "category": "Actress in a Leading Role",
+            "year": 2010,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Meryl Streep",
+            "second_label": "Julie & Julia",
+            "category": "Actress in a Leading Role",
+            "year": 2010,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Mo'Nique",
+            "second_label": "Precious: Based on the Novel 'Push' by Sapphire",
+            "category": "Actress in a Supporting Role",
+            "year": 2010,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Penlope Cruz",
+            "second_label": "Nine",
+            "category": "Actress in a Supporting Role",
+            "year": 2010,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Vera Farmiga",
+            "second_label": "Up in the Air",
+            "category": "Actress in a Supporting Role",
+            "year": 2010,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Maggie Gyllenhaal",
+            "second_label": "Crazy Heart",
+            "category": "Actress in a Supporting Role",
+            "year": 2010,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Anna Kendrick",
+            "second_label": "Up in the Air",
+            "category": "Actress in a Supporting Role",
+            "year": 2010,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Animated Feature Film": [
+        {
+            "first_label": "Up",
+            "second_label": "Pete Docter",
+            "category": "Animated Feature Film",
+            "year": 2010,
+            "tmdb": {
+                "id": 14160,
+                "original_title": "Up",
+                "title": "Up: Altas Aventuras",
+                "release_date": "2009-05-28",
+                "backdrop_path": "/hGGC9gKo7CFE3fW07RA587e5kol.jpg",
+                "poster_path": "/kms7XVDS6v7ic2jEw6N4DslQrWx.jpg",
+                "overview": "Carl Fredricksen \u00e9 um vendedor de bal\u00f5es que, aos 78 anos, est\u00e1 prestes a perder a casa em que sempre viveu com sua esposa, a falecida Ellie. Ap\u00f3s um incidente, Carl \u00e9 considerado uma amea\u00e7a p\u00fablica e for\u00e7ado a ser internado. Para evitar que isto aconte\u00e7a, ele p\u00f5e bal\u00f5es em sua casa, fazendo com que ela levante voo. Carl quer viajar para uma floresta na Am\u00e9rica do Sul, onde ele e Ellie sempre desejaram morar, mas descobre que um problema embarcou junto: Russell, um menino de 8 anos.",
+                "vote_average": 7.957,
+                "vote_count": 19483
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Coraline",
+            "second_label": "Henry Selick",
+            "category": "Animated Feature Film",
+            "year": 2010,
+            "tmdb": {
+                "id": 14836,
+                "original_title": "Coraline",
+                "title": "Coraline e o Mundo Secreto",
+                "release_date": "2009-02-05",
+                "backdrop_path": "/8GHxjXlI5rqyTBuVNekGTPjG5T6.jpg",
+                "poster_path": "/rranXmvqPT4NoXzmxhFtXr9nNYT.jpg",
+                "overview": "Entediada em sua nova casa, a pequena Coraline descobre uma porta secreta que cont\u00e9m um mundo parecido com o dela, por\u00e9m melhor em muitas maneiras. Coraline se encanta com a descoberta, mas logo descobre que h\u00e1 algo de errado quando seus pais alternativos tentam mant\u00ea-la eternamente nesse mundo paralelo.",
+                "vote_average": 7.871,
+                "vote_count": 7421
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Fantastic Mr. Fox",
+            "second_label": "Wes Anderson",
+            "category": "Animated Feature Film",
+            "year": 2010,
+            "tmdb": {
+                "id": 10315,
+                "original_title": "Fantastic Mr. Fox",
+                "title": "O Fant\u00e1stico Sr. Raposo",
+                "release_date": "2009-10-23",
+                "backdrop_path": "/qU4HDNKv7gjdlvMu74r70rISPwn.jpg",
+                "poster_path": "/shnKG2crnnCEToZHdxsiM2uDsKs.jpg",
+                "overview": "O Sr. Raposo e a Sra. Raposa levam uma vida feliz com seu filho exc\u00eantrico Ash e Kristofferson, o sobrinho que est\u00e1 de visita. Isso at\u00e9 o Sr. Raposo voltar aos velhos h\u00e1bitos e planejar o maior roubo de galinhas que o mundo animal j\u00e1 viu.",
+                "vote_average": 7.795,
+                "vote_count": 5116
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Princess and the Frog",
+            "second_label": "John Musker and Ron Clements",
+            "category": "Animated Feature Film",
+            "year": 2010,
+            "tmdb": {
+                "id": 10198,
+                "original_title": "The Princess and the Frog",
+                "title": "A Princesa e o Sapo",
+                "release_date": "2009-12-08",
+                "backdrop_path": "/z62CBlBBBOoNUuuxZ1jMAcq5ARE.jpg",
+                "poster_path": "/7uyZwjeHH9JmfULo4WzMsDpfW0S.jpg",
+                "overview": "Tiana \u00e9 uma bela jovem que vive em Nova Orleans. Desde crian\u00e7a ela sonha em ter um restaurante pr\u00f3prio, o que faz com que tenha dois empregos e junte o m\u00e1ximo de dinheiro poss\u00edvel. Para conseguir a quantia necess\u00e1ria para que possa enfim alugar o im\u00f3vel de seus sonhos, ela aceita trabalhar na festa realizada por Charlotte LaBouff, sua amiga de inf\u00e2ncia. Charlotte deseja conquistar o pr\u00edncipe Naveen, que acaba de chegar \u00e0 cidade. Entretanto, um incidente faz com que Tiana troque de roupa e, no quarto de Charlotte, use um de seus vestidos. \u00c9 quando surge um sapo, anunciando ser um pr\u00edncipe e pedindo a Tiana que lhe conceda um beijo, para que o feiti\u00e7o nele aplicado seja quebrado. De in\u00edcio Tiana acha a ideia repugnante, mas aceita ao receber a promessa do pr\u00edncipe de que conseguir\u00e1 para ela a quantia necess\u00e1ria para concretizar o aluguel. S\u00f3 que, ao beij\u00e1-lo, ao inv\u00e9s dele se tornar humano novamente, \u00e9 Tiana quem se transforma em sapo.",
+                "vote_average": 7.2,
+                "vote_count": 5290
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Secret of Kells",
+            "second_label": "Tomm Moore",
+            "category": "Animated Feature Film",
+            "year": 2010,
+            "tmdb": {
+                "id": 26963,
+                "original_title": "The Secret of Kells",
+                "title": "Uma Viagem ao Mundo das F\u00e1bulas",
+                "release_date": "2009-02-09",
+                "backdrop_path": "/740KCabjLKjsrxvEakmmJtDtAGY.jpg",
+                "poster_path": "/j2Jt3DiOcFMTpQY4f6xk7lSeuUL.jpg",
+                "overview": "O jovem Brendan vive em uma vila medieval remota sob o cerco das invas\u00f5es b\u00e1rbaras, mas uma nova vida de aventuras surge quando um mestre iluminador chega de terras estrangeiras carregando um livro antigo inacabado e repleto de sabedoria secreta e poderes. Para ajudar a completar o livro m\u00e1gico, Brendan tem que superar seus medos mais profundos em uma busca perigosa que o leva para a floresta encantada onde criaturas m\u00edticas se escondem. \u00c9 aqui que ele encontra a fada Aisling, uma misteriosa jovem mulher-lobo, que o ajuda ao longo do caminho.",
+                "vote_average": 7.4,
+                "vote_count": 645
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction": [
+        {
+            "first_label": "Avatar",
+            "second_label": "Production Design: Rick Carter and Robert Stromberg; Set Decoration: Kim Sinclair",
+            "category": "Art Direction",
+            "year": 2010,
+            "tmdb": {
+                "id": 19995,
+                "original_title": "Avatar",
+                "title": "Avatar",
+                "release_date": "2009-12-15",
+                "backdrop_path": "/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+                "poster_path": "/yuBGGfHaQcfb6b9bEYtE0PgbZFl.jpg",
+                "overview": "Apesar de n\u00e3o ter mais os movimentos da perna, o ex-fuzileiro naval Jake Sully ainda sente que pode ser um guerreiro. Sua intui\u00e7\u00e3o come\u00e7a a se tornar realidade quando ele viaja anos-luz at\u00e9 a esta\u00e7\u00e3o espacial montada no Planeta Pandora. Habitado por grandes seres azuis, os Na\u00b4vi, o local tem uma atmosfera fatal para qualquer terrestre. Por isso, oficiais criaram o programa Avatar, em que um corpo biol\u00f3gico, h\u00edbrido de humano e Na\u00b4vi, pode ser comandado a dist\u00e2ncia.",
+                "vote_average": 7.58,
+                "vote_count": 30657
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Imaginarium of Doctor Parnassus",
+            "second_label": "Production Design: Dave Warren and Anastasia Masaro; Set Decoration: Caroline Smith",
+            "category": "Art Direction",
+            "year": 2010,
+            "tmdb": {
+                "id": 8054,
+                "original_title": "The Imaginarium of Doctor Parnassus",
+                "title": "O Mundo Imagin\u00e1rio do Dr. Parnassus",
+                "release_date": "2009-10-01",
+                "backdrop_path": "/vBw4z7l3NI32th7nR34zqRgdvXS.jpg",
+                "poster_path": "/xLiyXUWN4b6fyM557UqmNqOmrst.jpg",
+                "overview": "O Doutor Parnassus, l\u00edder de um espet\u00e1culo art\u00edstico, tem um obscuro segredo: h\u00e1 muitos anos, ele trocou a alma de sua filha com o diabo. Agora o diabo voltou para cobrar o acordo, e Dr. Parnassus ter\u00e1 que coletar cinco almas para salvar a jovem.",
+                "vote_average": 6.4,
+                "vote_count": 2615
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Nine",
+            "second_label": "Production Design: John Myhre; Set Decoration: Gordon Sim",
+            "category": "Art Direction",
+            "year": 2010,
+            "tmdb": {
+                "id": 10197,
+                "original_title": "Nine",
+                "title": "Nine",
+                "release_date": "2009-12-03",
+                "backdrop_path": "/3ixn2R4tPEUQuq5AWw5EngopyWZ.jpg",
+                "poster_path": "/zSXVI01jUCt6bvcbUSjHlTtnWgE.jpg",
+                "overview": "Guido Contini (Daniel Day-Lewis) \u00e9 um famoso diretor de cinema \u00e0s voltas com a crise da meia idade, repleto de problemas pessoais e com d\u00e9ficit criativo. Homem de muitas mulheres, seu maior desafio \u00e9 buscar o equil\u00edbrio entra a esposa (Marion Cotillard), sua amante (Pen\u00e9lope Cruz), sua atriz/musa no cinema (Nicole Kidman), sua figurinista e confidente (Judi Dench), uma jornalista de moda (Kate Hudson), uma prostituta (Fergie) e sua pr\u00f3pria m\u00e3e (Sophia Loren).",
+                "vote_average": 5.5,
+                "vote_count": 561
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sherlock Holmes",
+            "second_label": "Production Design: Sarah Greenwood; Set Decoration: Katie Spencer",
+            "category": "Art Direction",
+            "year": 2010,
+            "tmdb": {
+                "id": 10528,
+                "original_title": "Sherlock Holmes",
+                "title": "Sherlock Holmes",
+                "release_date": "2009-12-23",
+                "backdrop_path": "/veXdzn7LL0bFIDGmE7tTkvRg0qV.jpg",
+                "poster_path": "/19ZNLpF6ibwcFIynGb65X3Z1bnL.jpg",
+                "overview": "O exc\u00eantrico detetive consultor Sherlock Holmes e o doutor John Watson lutam para derrubar um novo inimigo e desvendar um plano mortal que poderia destruir a Inglaterra.",
+                "vote_average": 7.2,
+                "vote_count": 13501
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Young Victoria",
+            "second_label": "Production Design: Patrice Vermette; Set Decoration: Maggie Gray",
+            "category": "Art Direction",
+            "year": 2010,
+            "tmdb": {
+                "id": 18320,
+                "original_title": "The Young Victoria",
+                "title": "A Jovem Rainha Vit\u00f3ria",
+                "release_date": "2009-03-04",
+                "backdrop_path": "/xS4rzfimFpMNXJLvzwoq2gDJbps.jpg",
+                "poster_path": "/2P2zx8zJp2Jcht0sHMyoIN7LFoU.jpg",
+                "overview": "\u00danica herdeira leg\u00edtima do rei William, da Inglaterra, a adolescente Vit\u00f3ria \u00e9 envolvida nas intrigas pol\u00edticas da sua pr\u00f3pria fam\u00edlia. Sua m\u00e3e deseja que ela assine uma ordem de reg\u00eancia enquanto seu tio belga organiza um casamento entre a futura monarca e o pr\u00edncipe Albert, o homem que se torna o amor de sua vida.",
+                "vote_average": 7.2,
+                "vote_count": 969
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "Avatar",
+            "second_label": "Mauro Fiore",
+            "category": "Cinematography",
+            "year": 2010,
+            "tmdb": {
+                "id": 19995,
+                "original_title": "Avatar",
+                "title": "Avatar",
+                "release_date": "2009-12-15",
+                "backdrop_path": "/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+                "poster_path": "/yuBGGfHaQcfb6b9bEYtE0PgbZFl.jpg",
+                "overview": "Apesar de n\u00e3o ter mais os movimentos da perna, o ex-fuzileiro naval Jake Sully ainda sente que pode ser um guerreiro. Sua intui\u00e7\u00e3o come\u00e7a a se tornar realidade quando ele viaja anos-luz at\u00e9 a esta\u00e7\u00e3o espacial montada no Planeta Pandora. Habitado por grandes seres azuis, os Na\u00b4vi, o local tem uma atmosfera fatal para qualquer terrestre. Por isso, oficiais criaram o programa Avatar, em que um corpo biol\u00f3gico, h\u00edbrido de humano e Na\u00b4vi, pode ser comandado a dist\u00e2ncia.",
+                "vote_average": 7.58,
+                "vote_count": 30657
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Harry Potter and the Half-Blood Prince",
+            "second_label": "Bruno Delbonnel",
+            "category": "Cinematography",
+            "year": 2010,
+            "tmdb": {
+                "id": 767,
+                "original_title": "Harry Potter and the Half-Blood Prince",
+                "title": "Harry Potter e o Enigma do Pr\u00edncipe",
+                "release_date": "2009-07-15",
+                "backdrop_path": "/urDWNffjwmNi5IQaezw9GwqkUXa.jpg",
+                "poster_path": "/hTQQ5l9mxA3Rob8PTyvrNNGuj6y.jpg",
+                "overview": "\u00c0 medida que Lorde Voldemort aperta seu cerco ao mundo dos Trouxas e dos feiticeiros. Hogwarts deixou de ser um paraiso protegido. Harry suspeita que existam perigos at\u00e9 mesmo dentro do castelo, mas Dumbledore est\u00e1 mais preocupado para a batalha final que est\u00e1 pr\u00f3ximo de se iniciar. Juntos, eles se esfor\u00e7am para descobrir a chave que desbloqueia as defesas de Voldemort e, para isso, Dumbledore recruta seu velho amigo horace slughorn, quem, ele acredita, possu\u00ed informa\u00e7\u00f5es valiosas a respeito. Mesmo quando um confronto decisivo se aproxima, h\u00e1 tempo para romance nos cora\u00e7\u00f5es de Harry, Ron, Hermione e seus colegas de classe. O amor est\u00e1 no ar, mas o perigo tamb\u00e9m e Hogwarts poder\u00e1 nunca mais ser a mesma.",
+                "vote_average": 7.692,
+                "vote_count": 18732
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Hurt Locker",
+            "second_label": "Barry Ackroyd",
+            "category": "Cinematography",
+            "year": 2010,
+            "tmdb": {
+                "id": 12162,
+                "original_title": "The Hurt Locker",
+                "title": "Guerra ao Terror",
+                "release_date": "2008-10-10",
+                "backdrop_path": "/off0xgvtfHY82l3MC4mDpCk1APY.jpg",
+                "poster_path": "/2CYMFR1ufrAZwoZ11d8aRax1Ial.jpg",
+                "overview": "Quando o novo sargento James assume o comando de um esquadr\u00e3o antibombas na Guerra do Iraque, ele surpreende seus dois subordinados, Sanborn e Eldridge, ao lan\u00e7\u00e1-los em um jogo mortal de combate urbano. \u00c0 medida que os homens lutam para controlar seu novo l\u00edder, a cidade explode em caos.",
+                "vote_average": 7.3,
+                "vote_count": 5359
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Inglourious Basterds",
+            "second_label": "Robert Richardson",
+            "category": "Cinematography",
+            "year": 2010,
+            "tmdb": {
+                "id": 16869,
+                "original_title": "Inglourious Basterds",
+                "title": "Bastardos Ingl\u00f3rios",
+                "release_date": "2009-08-02",
+                "backdrop_path": "/hg0MTIFs49ef179C9Y1HRtzqbbK.jpg",
+                "poster_path": "/6UjYycIR6VLYgggfNpmSPJHmFS0.jpg",
+                "overview": "Durante a Segunda Guerra Mundial, na Fran\u00e7a, um grupo de judeus americanos conhecidos como Bastardos espalha o terror entre o terceiro Reich. Ao mesmo tempo, Shosanna, uma judia que fugiu dos nazistas, planeja vingan\u00e7a quando um evento em seu cinema reunir\u00e1 os l\u00edderes do partido.",
+                "vote_average": 8.218,
+                "vote_count": 21458
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The White Ribbon",
+            "second_label": "Christian Berger",
+            "category": "Cinematography",
+            "year": 2010,
+            "tmdb": {
+                "id": 37903,
+                "original_title": "Das wei\u00dfe Band - Eine deutsche Kindergeschichte",
+                "title": "A Fita Branca",
+                "release_date": "2009-09-24",
+                "backdrop_path": "/zUAIDFmjkU7buiGr6q8Ea9MY3G1.jpg",
+                "poster_path": "/6yg66YVrjMjnGJpqcd5MxJDEVk0.jpg",
+                "overview": "1913. Em um vilarejo no norte da Alemanha vivem as crian\u00e7as e adolescentes de um coral, dirigido por um professor prim\u00e1rio. Um estranho acidente com o m\u00e9dico, cujo cavalo trope\u00e7a em um arame afiado, faz com que uma busca pelo respons\u00e1vel seja realizada. Outros estranhos eventos continuam a acontecer, tudo durante os anos anteriores \u00e0 Primeira Guerra Mundial, parecendo ser puni\u00e7\u00f5es rituais. Quem seria o respons\u00e1vel?",
+                "vote_average": 7.5,
+                "vote_count": 966
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design": [
+        {
+            "first_label": "The Young Victoria",
+            "second_label": "Sandy Powell",
+            "category": "Costume Design",
+            "year": 2010,
+            "tmdb": {
+                "id": 18320,
+                "original_title": "The Young Victoria",
+                "title": "A Jovem Rainha Vit\u00f3ria",
+                "release_date": "2009-03-04",
+                "backdrop_path": "/xS4rzfimFpMNXJLvzwoq2gDJbps.jpg",
+                "poster_path": "/2P2zx8zJp2Jcht0sHMyoIN7LFoU.jpg",
+                "overview": "\u00danica herdeira leg\u00edtima do rei William, da Inglaterra, a adolescente Vit\u00f3ria \u00e9 envolvida nas intrigas pol\u00edticas da sua pr\u00f3pria fam\u00edlia. Sua m\u00e3e deseja que ela assine uma ordem de reg\u00eancia enquanto seu tio belga organiza um casamento entre a futura monarca e o pr\u00edncipe Albert, o homem que se torna o amor de sua vida.",
+                "vote_average": 7.2,
+                "vote_count": 969
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Bright Star",
+            "second_label": "Janet Patterson",
+            "category": "Costume Design",
+            "year": 2010,
+            "tmdb": {
+                "id": 29963,
+                "original_title": "Bright Star",
+                "title": "Brilho de uma Paix\u00e3o",
+                "release_date": "2009-09-18",
+                "backdrop_path": "/nnyaQslEbd2ST1FAhuDyF4228mb.jpg",
+                "poster_path": "/r9Kkc4oXJAbcDMHWXqvPpjeZdQK.jpg",
+                "overview": "Londres, 1818. O jovem poeta John Keats \u00e9 vizinho de Fanny Brawne, estudante de moda e dona de opini\u00f5es fortes. Seus mundos n\u00e3o poderiam ser mais distintos. Quando o irm\u00e3o de John adoece, Fanny oferece seus cuidados. Encantado, John se aproxima da mo\u00e7a e se oferece para ensin\u00e1-la poesia. Os dois terminam se apaixonando. Quando a m\u00e3e de Fanny e o melhor amigo de John descobrem o caso, j\u00e1 \u00e9 tarde demais para tentarem desaconselh\u00e1-los.",
+                "vote_average": 6.6,
+                "vote_count": 420
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Coco before Chanel",
+            "second_label": "Catherine Leterrier",
+            "category": "Costume Design",
+            "year": 2010,
+            "tmdb": {
+                "id": 11156,
+                "original_title": "Coco avant Chanel",
+                "title": "Coco Antes de Chanel",
+                "release_date": "2009-04-22",
+                "backdrop_path": "/kZkk6iLvFPOiF6Xze2fYSiTbJ1Q.jpg",
+                "poster_path": "/t5NEDjcTB75322aCiwtVTFbJMiX.jpg",
+                "overview": "Filme-biografia que mostra a juventude da estilista Chanel e sua fase de aprendizado, al\u00e9m de sua inf\u00e2ncia no orfanato, o come\u00e7o de sua vida como modista antes da gl\u00f3ria e seus primeiros sucessos. Uma vida cheia de amores e desaforos, intui\u00e7\u00e3o e ousadia, muitas verdades ou apenas fantasias s\u00e3o promessas para o document\u00e1rio.",
+                "vote_average": 6.916,
+                "vote_count": 893
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Imaginarium of Doctor Parnassus",
+            "second_label": "Monique Prudhomme",
+            "category": "Costume Design",
+            "year": 2010,
+            "tmdb": {
+                "id": 8054,
+                "original_title": "The Imaginarium of Doctor Parnassus",
+                "title": "O Mundo Imagin\u00e1rio do Dr. Parnassus",
+                "release_date": "2009-10-01",
+                "backdrop_path": "/vBw4z7l3NI32th7nR34zqRgdvXS.jpg",
+                "poster_path": "/xLiyXUWN4b6fyM557UqmNqOmrst.jpg",
+                "overview": "O Doutor Parnassus, l\u00edder de um espet\u00e1culo art\u00edstico, tem um obscuro segredo: h\u00e1 muitos anos, ele trocou a alma de sua filha com o diabo. Agora o diabo voltou para cobrar o acordo, e Dr. Parnassus ter\u00e1 que coletar cinco almas para salvar a jovem.",
+                "vote_average": 6.4,
+                "vote_count": 2615
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Nine",
+            "second_label": "Colleen Atwood",
+            "category": "Costume Design",
+            "year": 2010,
+            "tmdb": {
+                "id": 10197,
+                "original_title": "Nine",
+                "title": "Nine",
+                "release_date": "2009-12-03",
+                "backdrop_path": "/3ixn2R4tPEUQuq5AWw5EngopyWZ.jpg",
+                "poster_path": "/zSXVI01jUCt6bvcbUSjHlTtnWgE.jpg",
+                "overview": "Guido Contini (Daniel Day-Lewis) \u00e9 um famoso diretor de cinema \u00e0s voltas com a crise da meia idade, repleto de problemas pessoais e com d\u00e9ficit criativo. Homem de muitas mulheres, seu maior desafio \u00e9 buscar o equil\u00edbrio entra a esposa (Marion Cotillard), sua amante (Pen\u00e9lope Cruz), sua atriz/musa no cinema (Nicole Kidman), sua figurinista e confidente (Judi Dench), uma jornalista de moda (Kate Hudson), uma prostituta (Fergie) e sua pr\u00f3pria m\u00e3e (Sophia Loren).",
+                "vote_average": 5.5,
+                "vote_count": 561
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "The Hurt Locker",
+            "second_label": "Kathryn Bigelow",
+            "category": "Directing",
+            "year": 2010,
+            "tmdb": {
+                "id": 12162,
+                "original_title": "The Hurt Locker",
+                "title": "Guerra ao Terror",
+                "release_date": "2008-10-10",
+                "backdrop_path": "/off0xgvtfHY82l3MC4mDpCk1APY.jpg",
+                "poster_path": "/2CYMFR1ufrAZwoZ11d8aRax1Ial.jpg",
+                "overview": "Quando o novo sargento James assume o comando de um esquadr\u00e3o antibombas na Guerra do Iraque, ele surpreende seus dois subordinados, Sanborn e Eldridge, ao lan\u00e7\u00e1-los em um jogo mortal de combate urbano. \u00c0 medida que os homens lutam para controlar seu novo l\u00edder, a cidade explode em caos.",
+                "vote_average": 7.3,
+                "vote_count": 5359
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Avatar",
+            "second_label": "James Cameron",
+            "category": "Directing",
+            "year": 2010,
+            "tmdb": {
+                "id": 19995,
+                "original_title": "Avatar",
+                "title": "Avatar",
+                "release_date": "2009-12-15",
+                "backdrop_path": "/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+                "poster_path": "/yuBGGfHaQcfb6b9bEYtE0PgbZFl.jpg",
+                "overview": "Apesar de n\u00e3o ter mais os movimentos da perna, o ex-fuzileiro naval Jake Sully ainda sente que pode ser um guerreiro. Sua intui\u00e7\u00e3o come\u00e7a a se tornar realidade quando ele viaja anos-luz at\u00e9 a esta\u00e7\u00e3o espacial montada no Planeta Pandora. Habitado por grandes seres azuis, os Na\u00b4vi, o local tem uma atmosfera fatal para qualquer terrestre. Por isso, oficiais criaram o programa Avatar, em que um corpo biol\u00f3gico, h\u00edbrido de humano e Na\u00b4vi, pode ser comandado a dist\u00e2ncia.",
+                "vote_average": 7.58,
+                "vote_count": 30657
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Inglourious Basterds",
+            "second_label": "Quentin Tarantino",
+            "category": "Directing",
+            "year": 2010,
+            "tmdb": {
+                "id": 16869,
+                "original_title": "Inglourious Basterds",
+                "title": "Bastardos Ingl\u00f3rios",
+                "release_date": "2009-08-02",
+                "backdrop_path": "/hg0MTIFs49ef179C9Y1HRtzqbbK.jpg",
+                "poster_path": "/6UjYycIR6VLYgggfNpmSPJHmFS0.jpg",
+                "overview": "Durante a Segunda Guerra Mundial, na Fran\u00e7a, um grupo de judeus americanos conhecidos como Bastardos espalha o terror entre o terceiro Reich. Ao mesmo tempo, Shosanna, uma judia que fugiu dos nazistas, planeja vingan\u00e7a quando um evento em seu cinema reunir\u00e1 os l\u00edderes do partido.",
+                "vote_average": 8.218,
+                "vote_count": 21458
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Precious: Based on the Novel 'Push' by Sapphire",
+            "second_label": "Lee Daniels",
+            "category": "Directing",
+            "year": 2010,
+            "tmdb": {
+                "id": 25793,
+                "original_title": "Precious",
+                "title": "Preciosa: Uma Hist\u00f3ria de Esperan\u00e7a",
+                "release_date": "2009-11-06",
+                "backdrop_path": "/A6dX9TSajWA5ETyQaTmOw6fju2n.jpg",
+                "poster_path": "/7hdU46d875iO4DYlJHrI9vleZmw.jpg",
+                "overview": "Preciosa tem apenas 16 anos e j\u00e1 est\u00e1 gr\u00e1vida de seu segundo filho. Extremamente obesa, analfabeta e t\u00edmida, sofre preconceito e agress\u00e3o dos colegas, e a assistente social decide envi\u00e1-la para uma escola especial, para jovens com o ensino atrasado. A professora da nova escola descobre que Preciosa sequer sabe ler, e ao se interessar pela vida da garota e seus problemas vai descobrir que a vida que ela tem em casa \u00e9 ainda pior.",
+                "vote_average": 7.333,
+                "vote_count": 1555
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Up in the Air",
+            "second_label": "Jason Reitman",
+            "category": "Directing",
+            "year": 2010,
+            "tmdb": {
+                "id": 22947,
+                "original_title": "Up in the Air",
+                "title": "Amor Sem Escalas",
+                "release_date": "2009-12-04",
+                "backdrop_path": "/tStWxov12DsfOJZEzvRQermG7OQ.jpg",
+                "poster_path": "/ekevPGphU6uXVJtUQ9fxiwNnyXU.jpg",
+                "overview": "Ryan Bingham tem por fun\u00e7\u00e3o demitir pessoas, at\u00e9 que seu chefe contrata a arrogante Natalie Keener, que desenvolveu um sistema de videoconfer\u00eancia onde as pessoas poder\u00e3o ser demitidas sem que seja necess\u00e1rio deixar o escrit\u00f3rio. Este sistema, caso seja implementado, p\u00f5e em risco o emprego de Ryan. Ele passa ent\u00e3o a tentar convenc\u00ea-la do erro que \u00e9 sua implementa\u00e7\u00e3o, viajando com Anna para mostrar a realidade de seu trabalho.",
+                "vote_average": 6.9,
+                "vote_count": 3449
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "The Cove",
+            "second_label": "Louie Psihoyos and Fisher Stevens",
+            "category": "Documentary (Feature)",
+            "year": 2010,
+            "tmdb": {
+                "id": 23128,
+                "original_title": "The Cove",
+                "title": "A Enseada",
+                "release_date": "2009-07-31",
+                "backdrop_path": "/gpyu3jQeMQeUFAVjCSrVCrYYK3f.jpg",
+                "poster_path": "/sZ3Qu6exsj2W6G0ZTqx0GyukxwO.jpg",
+                "overview": "O document\u00e1rio exp\u00f5e a dram\u00e1tica matan\u00e7a dos golfinhos em Taiji no Jap\u00e3o, em que aproximadamente 23 mil golfinhos s\u00e3o mortos anualmente.",
+                "vote_average": 7.9,
+                "vote_count": 573
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Burma VJ",
+            "second_label": "Burma VJ",
+            "category": "Documentary (Feature)",
+            "year": 2010,
+            "tmdb": {
+                "id": 26763,
+                "original_title": "Burma VJ: Reporter i et lukket land",
+                "title": "Burma VJ: Reporting from a Closed Country",
+                "release_date": "2008-11-12",
+                "backdrop_path": "/lI93UeaSKml4lLKmGNUh65NvoBX.jpg",
+                "poster_path": "/cAld4WLIUOP2rxt79UlDqhS9HlM.jpg",
+                "overview": "Going beyond the occasional news clip from Burma, the acclaimed filmmaker, Anders \u00d8stergaard, brings us close to the video journalists who deliver the footage. Though risking torture and life in jail, courageous young citizens of Burma live the essence of journalism as they insist on keeping up the flow of news from their closed country.",
+                "vote_average": 7.2,
+                "vote_count": 37
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Food, Inc.",
+            "second_label": "Robert Kenner and Elise Pearlstein",
+            "category": "Documentary (Feature)",
+            "year": 2010,
+            "tmdb": {
+                "id": 18570,
+                "original_title": "Food, Inc.",
+                "title": "Food, Inc.",
+                "release_date": "2008-09-07",
+                "backdrop_path": "/vmAQEWFyWC9EOoSm9iiGnH3YV2n.jpg",
+                "poster_path": "/3IMNzRog9pNdR1k743vocL3cc2H.jpg",
+                "overview": "Os autores investigam a cadeia de produ\u00e7\u00e3o dos alimentos nos EUA, desde a manipula\u00e7\u00e3o e o monop\u00f3lio de gr\u00e3os e cereais \u00e0 cria\u00e7\u00e3o e abate de animais para consumo, expondo a fragilidade dos organismos de fiscaliza\u00e7\u00e3o e os danos causados \u00e0 sociedade.",
+                "vote_average": 7.3,
+                "vote_count": 567
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers",
+            "second_label": "Judith Ehrlich and Rick Goldsmith",
+            "category": "Documentary (Feature)",
+            "year": 2010,
+            "tmdb": {
+                "id": 34576,
+                "original_title": "The Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers",
+                "title": "The Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers",
+                "release_date": "2009-10-16",
+                "backdrop_path": "/yiVyfbUVi9GcRXOk2TfnKh28kqL.jpg",
+                "poster_path": "/br3NZWHBAETFmfIBk4o9rvhByKZ.jpg",
+                "overview": "\"The Most Dangerous Man in America\" is the story of what happens when a former Pentagon insider, armed only with his conscience, steadfast determination, and a file cabinet full of classified documents, decides to challenge an \"Imperial\" Presidency-answerable to neither Congress, the press, nor the people-in order to help end the Vietnam War.",
+                "vote_average": 7.3,
+                "vote_count": 39
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Which Way Home",
+            "second_label": "Rebecca Cammisa",
+            "category": "Documentary (Feature)",
+            "year": 2010,
+            "tmdb": {
+                "id": 55204,
+                "original_title": "Which Way Home",
+                "title": "Which Way Home",
+                "release_date": "2009-01-31",
+                "backdrop_path": null,
+                "poster_path": "/3HqpJgcSS5kEwFITGYhCO0K8u6c.jpg",
+                "overview": "Follows unaccompanied child migrants, on their journey through Mexico, as they try to reach the United States.",
+                "vote_average": 7.9,
+                "vote_count": 18
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "Music by Prudence",
+            "second_label": "Roger Ross Williams and Elinor Burkett",
+            "category": "Documentary (Short Subject)",
+            "year": 2010,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "China's Unnatural Disaster: The Tears of Sichuan Province",
+            "second_label": "Jon Alpert and Matthew O'Neill",
+            "category": "Documentary (Short Subject)",
+            "year": 2010,
+            "tmdb": {
+                "id": 82248,
+                "original_title": "China's Unnatural Disaster: The Tears of Sichuan Province",
+                "title": "China's Unnatural Disaster: The Tears of Sichuan Province",
+                "release_date": "2009-09-03",
+                "backdrop_path": null,
+                "poster_path": "/3mtVdP0QCyFyRtJzDDRpR0a50GY.jpg",
+                "overview": "On May 12, 2008, a catastrophic earthquake hit Sichuan Province in rural China, killing nearly 70,000 people, including 10,000 children. In town after town, poorly constructed school buildings crumbled, wiping out classrooms filled with students, most of them their parents' only child. But when grieving mothers and fathers sought explanations and justice, they found their path blocked by incompetence, corruption and empty promises.",
+                "vote_average": 6.6,
+                "vote_count": 8
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Last Campaign of Governor Booth Gardner",
+            "second_label": "Daniel Junge and Henry Ansbacher",
+            "category": "Documentary (Short Subject)",
+            "year": 2010,
+            "tmdb": {
+                "id": 245037,
+                "original_title": "The Last Campaign of Governor Booth Gardner",
+                "title": "The Last Campaign of Governor Booth Gardner",
+                "release_date": "2009-08-01",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "Documentary following assisted suicide ballot initiative in Washington State.",
+                "vote_average": 6.0,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Last Truck: Closing of a GM Plant",
+            "second_label": "Steven Bognar and Julia Reichert",
+            "category": "Documentary (Short Subject)",
+            "year": 2010,
+            "tmdb": {
+                "id": 37098,
+                "original_title": "The Last Truck: Closing of a GM Plant",
+                "title": "\u00daltimo Caminh\u00e3o: Fim de Uma F\u00e1brica da GM",
+                "release_date": "2009-09-07",
+                "backdrop_path": "/sdgJNBgo8F8TFkAVZgr1KznpZbI.jpg",
+                "poster_path": "/9fkRpMujd9tgkpL8axHOr4zXbyH.jpg",
+                "overview": "Document\u00e1rio que mostra como os moradores de Moraine, em Ohio, foram afetados pelo fechamento da f\u00e1brica da GM na cidade.",
+                "vote_average": 5.4,
+                "vote_count": 7
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rabbit  la Berlin",
+            "second_label": "Bartek Konopka and Anna Wydra",
+            "category": "Documentary (Short Subject)",
+            "year": 2010,
+            "tmdb": {
+                "id": 129427,
+                "original_title": "Kr\u00f3lik po berlinsku",
+                "title": "Rabbit \u00e0 la Berlin",
+                "release_date": "2009-04-29",
+                "backdrop_path": "/nvtx8hDbooH2EO8ACCP5oW0Ile1.jpg",
+                "poster_path": "/4GqFZ8Phjoh5tmNIAwafExvVbXZ.jpg",
+                "overview": "The untold story about wild rabbits which lived between the Berlin Walls. For 28 years Death Zone was their safest home. Full of grass, no predators, guards protecting them from human disturbance. They were closed but happy. When their population grew up to thousands, guards started to remove them. But rabbits survived and stayed there. Unfortunately one day the wall fell down. Rabbits had to abandon comfortable system. They moved to West Berlin and have been living there in a few colonies since then. They are still learning how to live in the free world, same as we - the citizens of Eastern Europe.",
+                "vote_average": 6.4,
+                "vote_count": 16
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "The Hurt Locker",
+            "second_label": "Bob Murawski and Chris Innis",
+            "category": "Film Editing",
+            "year": 2010,
+            "tmdb": {
+                "id": 12162,
+                "original_title": "The Hurt Locker",
+                "title": "Guerra ao Terror",
+                "release_date": "2008-10-10",
+                "backdrop_path": "/off0xgvtfHY82l3MC4mDpCk1APY.jpg",
+                "poster_path": "/2CYMFR1ufrAZwoZ11d8aRax1Ial.jpg",
+                "overview": "Quando o novo sargento James assume o comando de um esquadr\u00e3o antibombas na Guerra do Iraque, ele surpreende seus dois subordinados, Sanborn e Eldridge, ao lan\u00e7\u00e1-los em um jogo mortal de combate urbano. \u00c0 medida que os homens lutam para controlar seu novo l\u00edder, a cidade explode em caos.",
+                "vote_average": 7.3,
+                "vote_count": 5359
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Avatar",
+            "second_label": "Stephen Rivkin, John Refoua and James Cameron",
+            "category": "Film Editing",
+            "year": 2010,
+            "tmdb": {
+                "id": 19995,
+                "original_title": "Avatar",
+                "title": "Avatar",
+                "release_date": "2009-12-15",
+                "backdrop_path": "/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+                "poster_path": "/yuBGGfHaQcfb6b9bEYtE0PgbZFl.jpg",
+                "overview": "Apesar de n\u00e3o ter mais os movimentos da perna, o ex-fuzileiro naval Jake Sully ainda sente que pode ser um guerreiro. Sua intui\u00e7\u00e3o come\u00e7a a se tornar realidade quando ele viaja anos-luz at\u00e9 a esta\u00e7\u00e3o espacial montada no Planeta Pandora. Habitado por grandes seres azuis, os Na\u00b4vi, o local tem uma atmosfera fatal para qualquer terrestre. Por isso, oficiais criaram o programa Avatar, em que um corpo biol\u00f3gico, h\u00edbrido de humano e Na\u00b4vi, pode ser comandado a dist\u00e2ncia.",
+                "vote_average": 7.58,
+                "vote_count": 30657
+            },
+            "winner": false
+        },
+        {
+            "first_label": "District 9",
+            "second_label": "Julian Clarke",
+            "category": "Film Editing",
+            "year": 2010,
+            "tmdb": {
+                "id": 17654,
+                "original_title": "District 9",
+                "title": "Distrito 9",
+                "release_date": "2009-08-05",
+                "backdrop_path": "/jhM3wgWUrrOkz9r4xwV5cV5RhI4.jpg",
+                "poster_path": "/ngDzpIMeVlwv0B3JNWqNVTRNfcU.jpg",
+                "overview": "H\u00e1 30 anos alien\u00edgenas chegam \u00e0 Terra em busca de ref\u00fagio, pois seu planeta estava morrendo. Eles passam a viver separados dos humanos em uma \u00e1rea chamada Distrito 9, na \u00c1frica do Sul, comandada pela multinacional United, que n\u00e3o se importa com o bem-estar dos alien\u00edgenas, mas que est\u00e1 disposta a tudo para dominar a tecnologia que eles possuem. Quando um agente em campo contrai um v\u00edrus que altera o seu DNA, o Distrito 9 passa a ser o \u00fanico lugar em que ele pode se esconder.",
+                "vote_average": 7.436,
+                "vote_count": 9047
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Inglourious Basterds",
+            "second_label": "Sally Menke",
+            "category": "Film Editing",
+            "year": 2010,
+            "tmdb": {
+                "id": 16869,
+                "original_title": "Inglourious Basterds",
+                "title": "Bastardos Ingl\u00f3rios",
+                "release_date": "2009-08-02",
+                "backdrop_path": "/hg0MTIFs49ef179C9Y1HRtzqbbK.jpg",
+                "poster_path": "/6UjYycIR6VLYgggfNpmSPJHmFS0.jpg",
+                "overview": "Durante a Segunda Guerra Mundial, na Fran\u00e7a, um grupo de judeus americanos conhecidos como Bastardos espalha o terror entre o terceiro Reich. Ao mesmo tempo, Shosanna, uma judia que fugiu dos nazistas, planeja vingan\u00e7a quando um evento em seu cinema reunir\u00e1 os l\u00edderes do partido.",
+                "vote_average": 8.218,
+                "vote_count": 21458
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Precious: Based on the Novel 'Push' by Sapphire",
+            "second_label": "Joe Klotz",
+            "category": "Film Editing",
+            "year": 2010,
+            "tmdb": {
+                "id": 25793,
+                "original_title": "Precious",
+                "title": "Preciosa: Uma Hist\u00f3ria de Esperan\u00e7a",
+                "release_date": "2009-11-06",
+                "backdrop_path": "/A6dX9TSajWA5ETyQaTmOw6fju2n.jpg",
+                "poster_path": "/7hdU46d875iO4DYlJHrI9vleZmw.jpg",
+                "overview": "Preciosa tem apenas 16 anos e j\u00e1 est\u00e1 gr\u00e1vida de seu segundo filho. Extremamente obesa, analfabeta e t\u00edmida, sofre preconceito e agress\u00e3o dos colegas, e a assistente social decide envi\u00e1-la para uma escola especial, para jovens com o ensino atrasado. A professora da nova escola descobre que Preciosa sequer sabe ler, e ao se interessar pela vida da garota e seus problemas vai descobrir que a vida que ela tem em casa \u00e9 ainda pior.",
+                "vote_average": 7.333,
+                "vote_count": 1555
+            },
+            "winner": false
+        }
+    ],
+    "Foreign Language Film": [
+        {
+            "first_label": "The Secret in Their Eyes",
+            "second_label": "Argentina",
+            "category": "Foreign Language Film",
+            "year": 2010,
+            "tmdb": {
+                "id": 25376,
+                "original_title": "El secreto de sus ojos",
+                "title": "O Segredo dos seus Olhos",
+                "release_date": "2009-08-13",
+                "backdrop_path": "/fNHCogWhABNAmzk0IFdzQP5XLYj.jpg",
+                "poster_path": "/pefOYP69bB3ZC6p6B3ZbWc46ioT.jpg",
+                "overview": "Benjam\u00edn Esp\u00f3sito trabalhou a vida toda em um Tribunal de Justi\u00e7a e agora aposentado tem a chance de escrever sobre a investiga\u00e7\u00e3o de um assassinato que acabou mudando sua vida anos atr\u00e1s.",
+                "vote_average": 8.0,
+                "vote_count": 2396
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Ajami",
+            "second_label": "Israel",
+            "category": "Foreign Language Film",
+            "year": 2010,
+            "tmdb": {
+                "id": 24424,
+                "original_title": "Ajami",
+                "title": "Ajami",
+                "release_date": "2009-09-17",
+                "backdrop_path": "/fCJq8HnsT3NrFNVqcGbbeapTZN.jpg",
+                "poster_path": "/wA7rM6zoWqJDT9BG5Vj92WbEJEp.jpg",
+                "overview": "Nasri \u00e9 um garoto de 13 anos de idade que enfrenta a passagem para a vida adulta de forma dram\u00e1tica quando seu tio fere imprudentemente um importante membro de um cl\u00e3, deixando assim sua fam\u00edlia exposta \u00e0 vingan\u00e7a.",
+                "vote_average": 7.0,
+                "vote_count": 75
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Milk of Sorrow",
+            "second_label": "Peru",
+            "category": "Foreign Language Film",
+            "year": 2010,
+            "tmdb": {
+                "id": 28644,
+                "original_title": "La teta asustada",
+                "title": "A Teta Assustada",
+                "release_date": "2009-02-13",
+                "backdrop_path": "/u1N34argMlLDuS7zUIekPVk9Imz.jpg",
+                "poster_path": "/bdg1wZ76HSVEtEKh7FUXYGqW9nW.jpg",
+                "overview": "A teta assustada \u00e9 um folclore existente no Peru, que atinge as mulheres estupradas durante a guerra do terrorismo. Seus filhos absorvem a doen\u00e7a atrav\u00e9s do leite materno, ficando sem alma. \u00c9 o que ocorre com Fausta (Magaly Solier). A s\u00fabita morte de sua m\u00e3e faz com que ela tenha que enfrentar seus medos e o segredo que esconde: a exist\u00eancia de uma batata em sua vagina, como forma de se proteger de um poss\u00edvel estupro.",
+                "vote_average": 6.2,
+                "vote_count": 87
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Prophet",
+            "second_label": "France",
+            "category": "Foreign Language Film",
+            "year": 2010,
+            "tmdb": {
+                "id": 21575,
+                "original_title": "Un proph\u00e8te",
+                "title": "O Profeta",
+                "release_date": "2009-08-26",
+                "backdrop_path": "/7en9qwF88VfxPXsN6azHmUxRBNy.jpg",
+                "poster_path": "/y7hkpyWNc6Oa43779b9kCiLmlYU.jpg",
+                "overview": "Mostra a dura trajet\u00f3ria de Malik, de dezenove anos, dentro do sistema carcer\u00e1rio. Ao chegar \u00e0 pris\u00e3o, ele \u00e9 encurralado pelo l\u00edder da gangue dominante dos corsos e for\u00e7ado a executar v\u00e1rias tarefas perigosas, inclusive tr\u00e1fico de drogas e assassinatos brutais. Com o tempo, Malik ganha a confian\u00e7a do l\u00edder da gangue e conquista posi\u00e7\u00f5es privilegiadas dentro da pris\u00e3o. Enquanto isso ele tra\u00e7a, secretamente, os seus pr\u00f3prios planos.",
+                "vote_average": 7.6,
+                "vote_count": 1436
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The White Ribbon",
+            "second_label": "Germany",
+            "category": "Foreign Language Film",
+            "year": 2010,
+            "tmdb": {
+                "id": 37903,
+                "original_title": "Das wei\u00dfe Band - Eine deutsche Kindergeschichte",
+                "title": "A Fita Branca",
+                "release_date": "2009-09-24",
+                "backdrop_path": "/zUAIDFmjkU7buiGr6q8Ea9MY3G1.jpg",
+                "poster_path": "/6yg66YVrjMjnGJpqcd5MxJDEVk0.jpg",
+                "overview": "1913. Em um vilarejo no norte da Alemanha vivem as crian\u00e7as e adolescentes de um coral, dirigido por um professor prim\u00e1rio. Um estranho acidente com o m\u00e9dico, cujo cavalo trope\u00e7a em um arame afiado, faz com que uma busca pelo respons\u00e1vel seja realizada. Outros estranhos eventos continuam a acontecer, tudo durante os anos anteriores \u00e0 Primeira Guerra Mundial, parecendo ser puni\u00e7\u00f5es rituais. Quem seria o respons\u00e1vel?",
+                "vote_average": 7.5,
+                "vote_count": 966
+            },
+            "winner": false
+        }
+    ],
+    "Irving G. Thalberg Memorial Award": [
+        {
+            "first_label": "",
+            "second_label": "John Calley",
+            "category": "Irving G. Thalberg Memorial Award",
+            "year": 2010,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        }
+    ],
+    "Makeup": [
+        {
+            "first_label": "Star Trek",
+            "second_label": "Barney Burman, Mindy Hall and Joel Harlow",
+            "category": "Makeup",
+            "year": 2010,
+            "tmdb": {
+                "id": 13475,
+                "original_title": "Star Trek",
+                "title": "Star Trek",
+                "release_date": "2009-05-06",
+                "backdrop_path": "/q7M0JpPixbEYT8EhnI7wTEMONxz.jpg",
+                "poster_path": "/qZ9VC2XGEqdPWOO8yA5BSBU5vDd.jpg",
+                "overview": "A bordo da USS Enterprise, a nave mais sofisticada j\u00e1 constru\u00edda, uma tripula\u00e7\u00e3o de novatos embarca em sua viagem inaugural, que \u00e9 atrapalhada por Nero, um comandante cuja vingan\u00e7a amea\u00e7a toda a humanidade. Para que os humanos possam sobreviver, James Kirk, um jovem oficial rebelde, e Spock, um Vulcan completamente l\u00f3gico, devem superar a rivalidade que h\u00e1 entre eles e encontrar uma maneira de derrotar Nero antes que seja tarde demais.",
+                "vote_average": 7.4,
+                "vote_count": 9558
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Il Divo",
+            "second_label": "Aldo Signoretti and Vittorio Sodano",
+            "category": "Makeup",
+            "year": 2010,
+            "tmdb": {
+                "id": 8832,
+                "original_title": "Il Divo",
+                "title": "O Divo",
+                "release_date": "2008-05-28",
+                "backdrop_path": "/f0QGUAdHs2eDMuUXO9GhViYe1bj.jpg",
+                "poster_path": "/g1bgM34ZGldqcGkucmaGZe4pMBu.jpg",
+                "overview": "Biografia de um dos personagens mais pol\u00eamicos da pol\u00edtica italiana, Giulio Andreotti, conhecido como 'Il Divo ou Belzebu'. Desde a restaura\u00e7\u00e3o da democracia em 1946, o pol\u00edtico foi eleito sete vezes. Em entrevistas de l\u00edderes mafiosos s\u00e3o reveladas as liga\u00e7\u00f5es deste membro da democracia crist\u00e3 com a m\u00e1fia. Durante seu governo, pol\u00edticos inimigos desapareceram, e o ex-primeiro-ministro Aldo Moro foi sequestrado e morto.",
+                "vote_average": 7.6,
+                "vote_count": 1065
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Young Victoria",
+            "second_label": "Jon Henry Gordon and Jenny Shircore",
+            "category": "Makeup",
+            "year": 2010,
+            "tmdb": {
+                "id": 18320,
+                "original_title": "The Young Victoria",
+                "title": "A Jovem Rainha Vit\u00f3ria",
+                "release_date": "2009-03-04",
+                "backdrop_path": "/xS4rzfimFpMNXJLvzwoq2gDJbps.jpg",
+                "poster_path": "/2P2zx8zJp2Jcht0sHMyoIN7LFoU.jpg",
+                "overview": "\u00danica herdeira leg\u00edtima do rei William, da Inglaterra, a adolescente Vit\u00f3ria \u00e9 envolvida nas intrigas pol\u00edticas da sua pr\u00f3pria fam\u00edlia. Sua m\u00e3e deseja que ela assine uma ordem de reg\u00eancia enquanto seu tio belga organiza um casamento entre a futura monarca e o pr\u00edncipe Albert, o homem que se torna o amor de sua vida.",
+                "vote_average": 7.2,
+                "vote_count": 969
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Score)": [
+        {
+            "first_label": "Up",
+            "second_label": "Michael Giacchino",
+            "category": "Music (Original Score)",
+            "year": 2010,
+            "tmdb": {
+                "id": 14160,
+                "original_title": "Up",
+                "title": "Up: Altas Aventuras",
+                "release_date": "2009-05-28",
+                "backdrop_path": "/hGGC9gKo7CFE3fW07RA587e5kol.jpg",
+                "poster_path": "/kms7XVDS6v7ic2jEw6N4DslQrWx.jpg",
+                "overview": "Carl Fredricksen \u00e9 um vendedor de bal\u00f5es que, aos 78 anos, est\u00e1 prestes a perder a casa em que sempre viveu com sua esposa, a falecida Ellie. Ap\u00f3s um incidente, Carl \u00e9 considerado uma amea\u00e7a p\u00fablica e for\u00e7ado a ser internado. Para evitar que isto aconte\u00e7a, ele p\u00f5e bal\u00f5es em sua casa, fazendo com que ela levante voo. Carl quer viajar para uma floresta na Am\u00e9rica do Sul, onde ele e Ellie sempre desejaram morar, mas descobre que um problema embarcou junto: Russell, um menino de 8 anos.",
+                "vote_average": 7.957,
+                "vote_count": 19483
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Avatar",
+            "second_label": "James Horner",
+            "category": "Music (Original Score)",
+            "year": 2010,
+            "tmdb": {
+                "id": 19995,
+                "original_title": "Avatar",
+                "title": "Avatar",
+                "release_date": "2009-12-15",
+                "backdrop_path": "/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+                "poster_path": "/yuBGGfHaQcfb6b9bEYtE0PgbZFl.jpg",
+                "overview": "Apesar de n\u00e3o ter mais os movimentos da perna, o ex-fuzileiro naval Jake Sully ainda sente que pode ser um guerreiro. Sua intui\u00e7\u00e3o come\u00e7a a se tornar realidade quando ele viaja anos-luz at\u00e9 a esta\u00e7\u00e3o espacial montada no Planeta Pandora. Habitado por grandes seres azuis, os Na\u00b4vi, o local tem uma atmosfera fatal para qualquer terrestre. Por isso, oficiais criaram o programa Avatar, em que um corpo biol\u00f3gico, h\u00edbrido de humano e Na\u00b4vi, pode ser comandado a dist\u00e2ncia.",
+                "vote_average": 7.58,
+                "vote_count": 30657
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Fantastic Mr. Fox",
+            "second_label": "Alexandre Desplat",
+            "category": "Music (Original Score)",
+            "year": 2010,
+            "tmdb": {
+                "id": 10315,
+                "original_title": "Fantastic Mr. Fox",
+                "title": "O Fant\u00e1stico Sr. Raposo",
+                "release_date": "2009-10-23",
+                "backdrop_path": "/qU4HDNKv7gjdlvMu74r70rISPwn.jpg",
+                "poster_path": "/shnKG2crnnCEToZHdxsiM2uDsKs.jpg",
+                "overview": "O Sr. Raposo e a Sra. Raposa levam uma vida feliz com seu filho exc\u00eantrico Ash e Kristofferson, o sobrinho que est\u00e1 de visita. Isso at\u00e9 o Sr. Raposo voltar aos velhos h\u00e1bitos e planejar o maior roubo de galinhas que o mundo animal j\u00e1 viu.",
+                "vote_average": 7.795,
+                "vote_count": 5116
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Hurt Locker",
+            "second_label": "Marco Beltrami and Buck Sanders",
+            "category": "Music (Original Score)",
+            "year": 2010,
+            "tmdb": {
+                "id": 12162,
+                "original_title": "The Hurt Locker",
+                "title": "Guerra ao Terror",
+                "release_date": "2008-10-10",
+                "backdrop_path": "/off0xgvtfHY82l3MC4mDpCk1APY.jpg",
+                "poster_path": "/2CYMFR1ufrAZwoZ11d8aRax1Ial.jpg",
+                "overview": "Quando o novo sargento James assume o comando de um esquadr\u00e3o antibombas na Guerra do Iraque, ele surpreende seus dois subordinados, Sanborn e Eldridge, ao lan\u00e7\u00e1-los em um jogo mortal de combate urbano. \u00c0 medida que os homens lutam para controlar seu novo l\u00edder, a cidade explode em caos.",
+                "vote_average": 7.3,
+                "vote_count": 5359
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sherlock Holmes",
+            "second_label": "Hans Zimmer",
+            "category": "Music (Original Score)",
+            "year": 2010,
+            "tmdb": {
+                "id": 10528,
+                "original_title": "Sherlock Holmes",
+                "title": "Sherlock Holmes",
+                "release_date": "2009-12-23",
+                "backdrop_path": "/veXdzn7LL0bFIDGmE7tTkvRg0qV.jpg",
+                "poster_path": "/19ZNLpF6ibwcFIynGb65X3Z1bnL.jpg",
+                "overview": "O exc\u00eantrico detetive consultor Sherlock Holmes e o doutor John Watson lutam para derrubar um novo inimigo e desvendar um plano mortal que poderia destruir a Inglaterra.",
+                "vote_average": 7.2,
+                "vote_count": 13501
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Song)": [
+        {
+            "first_label": "Crazy Heart",
+            "second_label": "The Weary Kind (Theme From Crazy Heart) in \"Crazy Heart\" Music and Lyric by Ryan Bingham and T Bone Burnett",
+            "category": "Music (Original Song)",
+            "year": 2010,
+            "tmdb": {
+                "id": 25196,
+                "original_title": "Crazy Heart",
+                "title": "Cora\u00e7\u00e3o Louco",
+                "release_date": "2009-12-16",
+                "backdrop_path": "/AqOE4sRNgZsq6FIJ5j0ku9N0YKS.jpg",
+                "poster_path": "/kaoRBukoA3SxgOzJRXUBfBlew9P.jpg",
+                "overview": "Um decadente cantor country v\u00ea a oportunidade de retomar a sua carreira e a sua vida quando come\u00e7a a se relacionar com uma rep\u00f3rter.Bad Blake leva uma vida com muitos altos e baixos, demasiados anos na estrada e um caminho com muitas bebidas. E, no entanto, Bad pode alcan\u00e7ar a salva\u00e7\u00e3o com a ajuda de Jean, uma jornalista que descobre o verdadeiro homem por tr\u00e1s do m\u00fasico.",
+                "vote_average": 6.91,
+                "vote_count": 990
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Princess and the Frog",
+            "second_label": "Almost There in \"The Princess and the Frog\" Music and Lyric by Randy Newman",
+            "category": "Music (Original Song)",
+            "year": 2010,
+            "tmdb": {
+                "id": 10198,
+                "original_title": "The Princess and the Frog",
+                "title": "A Princesa e o Sapo",
+                "release_date": "2009-12-08",
+                "backdrop_path": "/z62CBlBBBOoNUuuxZ1jMAcq5ARE.jpg",
+                "poster_path": "/7uyZwjeHH9JmfULo4WzMsDpfW0S.jpg",
+                "overview": "Tiana \u00e9 uma bela jovem que vive em Nova Orleans. Desde crian\u00e7a ela sonha em ter um restaurante pr\u00f3prio, o que faz com que tenha dois empregos e junte o m\u00e1ximo de dinheiro poss\u00edvel. Para conseguir a quantia necess\u00e1ria para que possa enfim alugar o im\u00f3vel de seus sonhos, ela aceita trabalhar na festa realizada por Charlotte LaBouff, sua amiga de inf\u00e2ncia. Charlotte deseja conquistar o pr\u00edncipe Naveen, que acaba de chegar \u00e0 cidade. Entretanto, um incidente faz com que Tiana troque de roupa e, no quarto de Charlotte, use um de seus vestidos. \u00c9 quando surge um sapo, anunciando ser um pr\u00edncipe e pedindo a Tiana que lhe conceda um beijo, para que o feiti\u00e7o nele aplicado seja quebrado. De in\u00edcio Tiana acha a ideia repugnante, mas aceita ao receber a promessa do pr\u00edncipe de que conseguir\u00e1 para ela a quantia necess\u00e1ria para concretizar o aluguel. S\u00f3 que, ao beij\u00e1-lo, ao inv\u00e9s dele se tornar humano novamente, \u00e9 Tiana quem se transforma em sapo.",
+                "vote_average": 7.2,
+                "vote_count": 5290
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Princess and the Frog",
+            "second_label": "Down In New Orleans in \"The Princess and the Frog\" Music and Lyric by Randy Newman",
+            "category": "Music (Original Song)",
+            "year": 2010,
+            "tmdb": {
+                "id": 10198,
+                "original_title": "The Princess and the Frog",
+                "title": "A Princesa e o Sapo",
+                "release_date": "2009-12-08",
+                "backdrop_path": "/z62CBlBBBOoNUuuxZ1jMAcq5ARE.jpg",
+                "poster_path": "/7uyZwjeHH9JmfULo4WzMsDpfW0S.jpg",
+                "overview": "Tiana \u00e9 uma bela jovem que vive em Nova Orleans. Desde crian\u00e7a ela sonha em ter um restaurante pr\u00f3prio, o que faz com que tenha dois empregos e junte o m\u00e1ximo de dinheiro poss\u00edvel. Para conseguir a quantia necess\u00e1ria para que possa enfim alugar o im\u00f3vel de seus sonhos, ela aceita trabalhar na festa realizada por Charlotte LaBouff, sua amiga de inf\u00e2ncia. Charlotte deseja conquistar o pr\u00edncipe Naveen, que acaba de chegar \u00e0 cidade. Entretanto, um incidente faz com que Tiana troque de roupa e, no quarto de Charlotte, use um de seus vestidos. \u00c9 quando surge um sapo, anunciando ser um pr\u00edncipe e pedindo a Tiana que lhe conceda um beijo, para que o feiti\u00e7o nele aplicado seja quebrado. De in\u00edcio Tiana acha a ideia repugnante, mas aceita ao receber a promessa do pr\u00edncipe de que conseguir\u00e1 para ela a quantia necess\u00e1ria para concretizar o aluguel. S\u00f3 que, ao beij\u00e1-lo, ao inv\u00e9s dele se tornar humano novamente, \u00e9 Tiana quem se transforma em sapo.",
+                "vote_average": 7.2,
+                "vote_count": 5290
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Paris 36",
+            "second_label": "Loin De Paname in \"Paris 36\" Music by Reinhardt Wagner; Lyric by Frank Thomas",
+            "category": "Music (Original Song)",
+            "year": 2010,
+            "tmdb": {
+                "id": 15457,
+                "original_title": "Faubourg 36",
+                "title": "Paris 36",
+                "release_date": "2008-09-24",
+                "backdrop_path": "/3DhtxvX7jzGEQsgVMPhwWrMRdXc.jpg",
+                "poster_path": "/mgLxYWhbq1nCPgs9SqvBZvsNOax.jpg",
+                "overview": "A star is born in a time of both celebration and instability in this historical drama with music from director Christophe Barratier. In the spring of 1936, Paris is in a state of uncertainty; while the rise of the Third Reich in Germany worries many, a leftist union-oriented candidate, L\u00e9on Blum, has been voted into power, and organized labor is feeling its new power by standing up to management.",
+                "vote_average": 6.1,
+                "vote_count": 124
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Nine",
+            "second_label": "Take It All in \"Nine\" Music and Lyric by Maury Yeston",
+            "category": "Music (Original Song)",
+            "year": 2010,
+            "tmdb": {
+                "id": 10197,
+                "original_title": "Nine",
+                "title": "Nine",
+                "release_date": "2009-12-03",
+                "backdrop_path": "/3ixn2R4tPEUQuq5AWw5EngopyWZ.jpg",
+                "poster_path": "/zSXVI01jUCt6bvcbUSjHlTtnWgE.jpg",
+                "overview": "Guido Contini (Daniel Day-Lewis) \u00e9 um famoso diretor de cinema \u00e0s voltas com a crise da meia idade, repleto de problemas pessoais e com d\u00e9ficit criativo. Homem de muitas mulheres, seu maior desafio \u00e9 buscar o equil\u00edbrio entra a esposa (Marion Cotillard), sua amante (Pen\u00e9lope Cruz), sua atriz/musa no cinema (Nicole Kidman), sua figurinista e confidente (Judi Dench), uma jornalista de moda (Kate Hudson), uma prostituta (Fergie) e sua pr\u00f3pria m\u00e3e (Sophia Loren).",
+                "vote_average": 5.5,
+                "vote_count": 561
+            },
+            "winner": false
+        }
+    ],
+    "Best Picture": [
+        {
+            "first_label": "The Hurt Locker",
+            "second_label": "Kathryn Bigelow, Mark Boal, Nicolas Chartier and Greg Shapiro, Producers",
+            "category": "Best Picture",
+            "year": 2010,
+            "tmdb": {
+                "id": 12162,
+                "original_title": "The Hurt Locker",
+                "title": "Guerra ao Terror",
+                "release_date": "2008-10-10",
+                "backdrop_path": "/off0xgvtfHY82l3MC4mDpCk1APY.jpg",
+                "poster_path": "/2CYMFR1ufrAZwoZ11d8aRax1Ial.jpg",
+                "overview": "Quando o novo sargento James assume o comando de um esquadr\u00e3o antibombas na Guerra do Iraque, ele surpreende seus dois subordinados, Sanborn e Eldridge, ao lan\u00e7\u00e1-los em um jogo mortal de combate urbano. \u00c0 medida que os homens lutam para controlar seu novo l\u00edder, a cidade explode em caos.",
+                "vote_average": 7.3,
+                "vote_count": 5359
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Avatar",
+            "second_label": "James Cameron and Jon Landau, Producers",
+            "category": "Best Picture",
+            "year": 2010,
+            "tmdb": {
+                "id": 19995,
+                "original_title": "Avatar",
+                "title": "Avatar",
+                "release_date": "2009-12-15",
+                "backdrop_path": "/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+                "poster_path": "/yuBGGfHaQcfb6b9bEYtE0PgbZFl.jpg",
+                "overview": "Apesar de n\u00e3o ter mais os movimentos da perna, o ex-fuzileiro naval Jake Sully ainda sente que pode ser um guerreiro. Sua intui\u00e7\u00e3o come\u00e7a a se tornar realidade quando ele viaja anos-luz at\u00e9 a esta\u00e7\u00e3o espacial montada no Planeta Pandora. Habitado por grandes seres azuis, os Na\u00b4vi, o local tem uma atmosfera fatal para qualquer terrestre. Por isso, oficiais criaram o programa Avatar, em que um corpo biol\u00f3gico, h\u00edbrido de humano e Na\u00b4vi, pode ser comandado a dist\u00e2ncia.",
+                "vote_average": 7.58,
+                "vote_count": 30657
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Blind Side",
+            "second_label": "Gil Netter, Andrew A. Kosove and Broderick Johnson, Producers",
+            "category": "Best Picture",
+            "year": 2010,
+            "tmdb": {
+                "id": 22881,
+                "original_title": "The Blind Side",
+                "title": "Um Sonho Poss\u00edvel",
+                "release_date": "2009-11-20",
+                "backdrop_path": "/5P6hWD4zxAMntRuRnB4MmPLijNw.jpg",
+                "poster_path": "/7YkeIFriVpYPqOQkK1KnrrTSTuY.jpg",
+                "overview": "Michael Oher era um jovem negro, filho de uma m\u00e3e viciada e n\u00e3o tinha onde morar. Com boa voca\u00e7\u00e3o para os esportes, um dia ele foi avistado pela fam\u00edlia de Leigh Anne Tuohy, andando em dire\u00e7\u00e3o ao est\u00e1dio da escola para poder dormir longe da chuva. Ao ser convidado para passar uma noite na casa dos milion\u00e1rios, Michael n\u00e3o tinha ideia que aquele dia iria mudar para sempre a sua vida, tornando-se mais tarde um astro do futebol americano.",
+                "vote_average": 7.689,
+                "vote_count": 6088
+            },
+            "winner": false
+        },
+        {
+            "first_label": "District 9",
+            "second_label": "Peter Jackson and Carolynne Cunningham, Producers",
+            "category": "Best Picture",
+            "year": 2010,
+            "tmdb": {
+                "id": 17654,
+                "original_title": "District 9",
+                "title": "Distrito 9",
+                "release_date": "2009-08-05",
+                "backdrop_path": "/jhM3wgWUrrOkz9r4xwV5cV5RhI4.jpg",
+                "poster_path": "/ngDzpIMeVlwv0B3JNWqNVTRNfcU.jpg",
+                "overview": "H\u00e1 30 anos alien\u00edgenas chegam \u00e0 Terra em busca de ref\u00fagio, pois seu planeta estava morrendo. Eles passam a viver separados dos humanos em uma \u00e1rea chamada Distrito 9, na \u00c1frica do Sul, comandada pela multinacional United, que n\u00e3o se importa com o bem-estar dos alien\u00edgenas, mas que est\u00e1 disposta a tudo para dominar a tecnologia que eles possuem. Quando um agente em campo contrai um v\u00edrus que altera o seu DNA, o Distrito 9 passa a ser o \u00fanico lugar em que ele pode se esconder.",
+                "vote_average": 7.436,
+                "vote_count": 9047
+            },
+            "winner": false
+        },
+        {
+            "first_label": "An Education",
+            "second_label": "Finola Dwyer and Amanda Posey, Producers",
+            "category": "Best Picture",
+            "year": 2010,
+            "tmdb": {
+                "id": 24684,
+                "original_title": "An Education",
+                "title": "Educa\u00e7\u00e3o",
+                "release_date": "2009-10-29",
+                "backdrop_path": "/9Cw5fOWLfHwFHjg88dC5oBZEmL4.jpg",
+                "poster_path": "/j0a1k2PKavbosauTxu2LFcfqmDI.jpg",
+                "overview": "Jenny (Carey Mulligan), uma estudante brilhante que tem pressa de viver a vida adulta, conhece David (Peter Sarsgaard), um homem elegante e mais velho. Ele a convida para conhecer o seu mundo vibrante de amigos de alta classe, clubes de jazz, e leva Jenny a descobrir a pr\u00f3pria sexualidade. Ser\u00e1 que ela vai deixar esse romance atrapalhar os seus planos de estudar em Oxford, confirmando o receio de sua orientadora (Emma Thompson)?",
+                "vote_average": 6.9,
+                "vote_count": 1251
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Inglourious Basterds",
+            "second_label": "Lawrence Bender, Producer",
+            "category": "Best Picture",
+            "year": 2010,
+            "tmdb": {
+                "id": 16869,
+                "original_title": "Inglourious Basterds",
+                "title": "Bastardos Ingl\u00f3rios",
+                "release_date": "2009-08-02",
+                "backdrop_path": "/hg0MTIFs49ef179C9Y1HRtzqbbK.jpg",
+                "poster_path": "/6UjYycIR6VLYgggfNpmSPJHmFS0.jpg",
+                "overview": "Durante a Segunda Guerra Mundial, na Fran\u00e7a, um grupo de judeus americanos conhecidos como Bastardos espalha o terror entre o terceiro Reich. Ao mesmo tempo, Shosanna, uma judia que fugiu dos nazistas, planeja vingan\u00e7a quando um evento em seu cinema reunir\u00e1 os l\u00edderes do partido.",
+                "vote_average": 8.218,
+                "vote_count": 21458
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Precious: Based on the Novel 'Push' by Sapphire",
+            "second_label": "Lee Daniels, Sarah Siegel-Magness and Gary Magness, Producers",
+            "category": "Best Picture",
+            "year": 2010,
+            "tmdb": {
+                "id": 25793,
+                "original_title": "Precious",
+                "title": "Preciosa: Uma Hist\u00f3ria de Esperan\u00e7a",
+                "release_date": "2009-11-06",
+                "backdrop_path": "/A6dX9TSajWA5ETyQaTmOw6fju2n.jpg",
+                "poster_path": "/7hdU46d875iO4DYlJHrI9vleZmw.jpg",
+                "overview": "Preciosa tem apenas 16 anos e j\u00e1 est\u00e1 gr\u00e1vida de seu segundo filho. Extremamente obesa, analfabeta e t\u00edmida, sofre preconceito e agress\u00e3o dos colegas, e a assistente social decide envi\u00e1-la para uma escola especial, para jovens com o ensino atrasado. A professora da nova escola descobre que Preciosa sequer sabe ler, e ao se interessar pela vida da garota e seus problemas vai descobrir que a vida que ela tem em casa \u00e9 ainda pior.",
+                "vote_average": 7.333,
+                "vote_count": 1555
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Serious Man",
+            "second_label": "Joel Coen and Ethan Coen, Producers",
+            "category": "Best Picture",
+            "year": 2010,
+            "tmdb": {
+                "id": 12573,
+                "original_title": "A Serious Man",
+                "title": "Um Homem S\u00e9rio",
+                "release_date": "2009-09-30",
+                "backdrop_path": "/ihwfod79qlBbFpjVQNeXxmX03ql.jpg",
+                "poster_path": "/8qzPIl8dewy1SyVm9HpL6wbtyw6.jpg",
+                "overview": "Uma esposa ad\u00faltera e um irm\u00e3o problem\u00e1tico se encontram em crises que levam um professor universit\u00e1rio de 60 anos a procurar conselhos de tr\u00eas rabinos diferentes.",
+                "vote_average": 6.7,
+                "vote_count": 1979
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Up",
+            "second_label": "Jonas Rivera, Producer",
+            "category": "Best Picture",
+            "year": 2010,
+            "tmdb": {
+                "id": 14160,
+                "original_title": "Up",
+                "title": "Up: Altas Aventuras",
+                "release_date": "2009-05-28",
+                "backdrop_path": "/hGGC9gKo7CFE3fW07RA587e5kol.jpg",
+                "poster_path": "/kms7XVDS6v7ic2jEw6N4DslQrWx.jpg",
+                "overview": "Carl Fredricksen \u00e9 um vendedor de bal\u00f5es que, aos 78 anos, est\u00e1 prestes a perder a casa em que sempre viveu com sua esposa, a falecida Ellie. Ap\u00f3s um incidente, Carl \u00e9 considerado uma amea\u00e7a p\u00fablica e for\u00e7ado a ser internado. Para evitar que isto aconte\u00e7a, ele p\u00f5e bal\u00f5es em sua casa, fazendo com que ela levante voo. Carl quer viajar para uma floresta na Am\u00e9rica do Sul, onde ele e Ellie sempre desejaram morar, mas descobre que um problema embarcou junto: Russell, um menino de 8 anos.",
+                "vote_average": 7.957,
+                "vote_count": 19483
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Up in the Air",
+            "second_label": "Daniel Dubiecki, Ivan Reitman and Jason Reitman, Producers",
+            "category": "Best Picture",
+            "year": 2010,
+            "tmdb": {
+                "id": 22947,
+                "original_title": "Up in the Air",
+                "title": "Amor Sem Escalas",
+                "release_date": "2009-12-04",
+                "backdrop_path": "/tStWxov12DsfOJZEzvRQermG7OQ.jpg",
+                "poster_path": "/ekevPGphU6uXVJtUQ9fxiwNnyXU.jpg",
+                "overview": "Ryan Bingham tem por fun\u00e7\u00e3o demitir pessoas, at\u00e9 que seu chefe contrata a arrogante Natalie Keener, que desenvolveu um sistema de videoconfer\u00eancia onde as pessoas poder\u00e3o ser demitidas sem que seja necess\u00e1rio deixar o escrit\u00f3rio. Este sistema, caso seja implementado, p\u00f5e em risco o emprego de Ryan. Ele passa ent\u00e3o a tentar convenc\u00ea-la do erro que \u00e9 sua implementa\u00e7\u00e3o, viajando com Anna para mostrar a realidade de seu trabalho.",
+                "vote_average": 6.9,
+                "vote_count": 3449
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Animated)": [
+        {
+            "first_label": "Logorama",
+            "second_label": "Nicolas Schmerkin",
+            "category": "Short Film (Animated)",
+            "year": 2010,
+            "tmdb": {
+                "id": 32389,
+                "original_title": "Logorama",
+                "title": "Logorama",
+                "release_date": "2009-05-16",
+                "backdrop_path": "/jepeB7fLQobRPfj4fq8nZDkG5tc.jpg",
+                "poster_path": "/iz4V4Tyl5SJaIQGvR8H0NUI04nZ.jpg",
+                "overview": "A pol\u00edcia persegue um criminoso armado em uma vers\u00e3o de Los Angeles composta inteiramente por logotipos corporativos...",
+                "vote_average": 7.1,
+                "vote_count": 167
+            },
+            "winner": true
+        },
+        {
+            "first_label": "French Roast",
+            "second_label": "Fabrice O. Joubert",
+            "category": "Short Film (Animated)",
+            "year": 2010,
+            "tmdb": {
+                "id": 37845,
+                "original_title": "French Roast",
+                "title": "French Roast",
+                "release_date": "2008-10-30",
+                "backdrop_path": "/o6huhi6WyWWVgDXQQdm24tZUGyO.jpg",
+                "poster_path": "/v5n5VrajQwgE5nqsqjo09SBU7JF.jpg",
+                "overview": "Em um elegante caf\u00e9 parisiense, um empres\u00e1rio nervoso descobre que se esqueceu de trazer a carteira e ganha tempo pedindo mais x\u00edcaras de caf\u00e9...",
+                "vote_average": 6.8,
+                "vote_count": 54
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Granny O'Grimm's Sleeping Beauty",
+            "second_label": "Nicky Phelan and Darragh O'Connell",
+            "category": "Short Film (Animated)",
+            "year": 2010,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Lady and the Reaper (La Dama y la Muerte)",
+            "second_label": "Javier Recio Gracia",
+            "category": "Short Film (Animated)",
+            "year": 2010,
+            "tmdb": {
+                "id": 62967,
+                "original_title": "The Lady and the Reaper",
+                "title": "A Senhora e a Morte",
+                "release_date": "2009-10-01",
+                "backdrop_path": "/qHzl4xCgDUXibxZV08PmoRLynXM.jpg",
+                "poster_path": "/lBSeKa7RR4Ry48JvRVwi3Dc9KKh.jpg",
+                "overview": "Uma doce velhinha vive sozinha em sua fazenda, esperando a chegada da morte para reencontrar seu amado marido. Uma noite, enquanto dormia, sua vida se esvai e ela \u00e9 convidada a cruzar a porta da morte. Mas quando ela est\u00e1 prestes a faz\u00ea-lo, a velha acorda dentro da enfermaria de um hospital, pois um m\u00e9dico arrogante a trouxe de volta \u00e0 vida e lutar\u00e1 muito contra a morte para recuperar a vida da velha a qualquer custo.",
+                "vote_average": 6.9,
+                "vote_count": 75
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Matter of Loaf and Death",
+            "second_label": "Nick Park",
+            "category": "Short Film (Animated)",
+            "year": 2010,
+            "tmdb": {
+                "id": 14447,
+                "original_title": "A Matter of Loaf and Death",
+                "title": "Wallace & Gromit: Uma Quest\u00e3o de Miolo e Morte",
+                "release_date": "2008-12-03",
+                "backdrop_path": "/cW47zxNIHau4sGvhMbXyvLhblGg.jpg",
+                "poster_path": "/p5FwgKFOmNThKpOmIBtsE5dEBqd.jpg",
+                "overview": "Wallace e Gromit come\u00e7am uma nova padaria. Gromit percebe que os p\u00e3es est\u00e3o desaparecendo misteriosamente, e tenta resolver o caso antes que Wallace termine como v\u00edtima.",
+                "vote_average": 7.3,
+                "vote_count": 474
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Live Action)": [
+        {
+            "first_label": "The New Tenants",
+            "second_label": "Joachim Back and Tivi Magnusson",
+            "category": "Short Film (Live Action)",
+            "year": 2010,
+            "tmdb": {
+                "id": 47798,
+                "original_title": "The New Tenants",
+                "title": "The New Tenants",
+                "release_date": "2009-12-30",
+                "backdrop_path": "/lStczMVRzoQDwCBhTcTOBiO5UMX.jpg",
+                "poster_path": "/f2f0ZRTa4wzMdRFq7ZptC0vnFu.jpg",
+                "overview": "A prying neighbor, a glassy-eyed drug dealer, and a husband brandishing both a weapon and a vendetta make up the welcome wagon. Set amidst the as-yet-unopened boxes and the hopes for a fresh start of two men on what might just be the worst moving day ever. Their new apartment reveals its terrifying history in a film that is by turns funny, frightening, and unexpectedly romantic.",
+                "vote_average": 6.2,
+                "vote_count": 26
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Door",
+            "second_label": "Juanita Wilson and James Flynn",
+            "category": "Short Film (Live Action)",
+            "year": 2010,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Instead of Abracadabra",
+            "second_label": "Patrik Eklund and Mathias Fjellstrm",
+            "category": "Short Film (Live Action)",
+            "year": 2010,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Kavi",
+            "second_label": "Gregg Helvey",
+            "category": "Short Film (Live Action)",
+            "year": 2010,
+            "tmdb": {
+                "id": 122385,
+                "original_title": "Kavi",
+                "title": "Kavi",
+                "release_date": "2009-04-17",
+                "backdrop_path": null,
+                "poster_path": "/8GDjTFqaPYrO4cLjqaBNOcN2Hp3.jpg",
+                "overview": "The story of a young boy who attempts to escape from the brick kiln where he is forced to work as a bonded labor slave in India.",
+                "vote_average": 5.9,
+                "vote_count": 7
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Miracle Fish",
+            "second_label": "Luke Doolan and Drew Bailey",
+            "category": "Short Film (Live Action)",
+            "year": 2010,
+            "tmdb": {
+                "id": 56047,
+                "original_title": "Miracle Fish",
+                "title": "Miracle Fish",
+                "release_date": "2010-02-19",
+                "backdrop_path": null,
+                "poster_path": "/6h7oZwGNZLSxURcYTc5rLXHQXG9.jpg",
+                "overview": "8 year old Joe has a Birthday he will never forget. After friends bully him, he sneaks off to the sick bay, wishing everyone in the world would go away. He wakes up to find his dream may have become a reality.",
+                "vote_average": 6.2,
+                "vote_count": 15
+            },
+            "winner": false
+        }
+    ],
+    "Sound Editing": [
+        {
+            "first_label": "The Hurt Locker",
+            "second_label": "Paul N.J. Ottosson",
+            "category": "Sound Editing",
+            "year": 2010,
+            "tmdb": {
+                "id": 12162,
+                "original_title": "The Hurt Locker",
+                "title": "Guerra ao Terror",
+                "release_date": "2008-10-10",
+                "backdrop_path": "/off0xgvtfHY82l3MC4mDpCk1APY.jpg",
+                "poster_path": "/2CYMFR1ufrAZwoZ11d8aRax1Ial.jpg",
+                "overview": "Quando o novo sargento James assume o comando de um esquadr\u00e3o antibombas na Guerra do Iraque, ele surpreende seus dois subordinados, Sanborn e Eldridge, ao lan\u00e7\u00e1-los em um jogo mortal de combate urbano. \u00c0 medida que os homens lutam para controlar seu novo l\u00edder, a cidade explode em caos.",
+                "vote_average": 7.3,
+                "vote_count": 5359
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Avatar",
+            "second_label": "Christopher Boyes and Gwendolyn Yates Whittle",
+            "category": "Sound Editing",
+            "year": 2010,
+            "tmdb": {
+                "id": 19995,
+                "original_title": "Avatar",
+                "title": "Avatar",
+                "release_date": "2009-12-15",
+                "backdrop_path": "/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+                "poster_path": "/yuBGGfHaQcfb6b9bEYtE0PgbZFl.jpg",
+                "overview": "Apesar de n\u00e3o ter mais os movimentos da perna, o ex-fuzileiro naval Jake Sully ainda sente que pode ser um guerreiro. Sua intui\u00e7\u00e3o come\u00e7a a se tornar realidade quando ele viaja anos-luz at\u00e9 a esta\u00e7\u00e3o espacial montada no Planeta Pandora. Habitado por grandes seres azuis, os Na\u00b4vi, o local tem uma atmosfera fatal para qualquer terrestre. Por isso, oficiais criaram o programa Avatar, em que um corpo biol\u00f3gico, h\u00edbrido de humano e Na\u00b4vi, pode ser comandado a dist\u00e2ncia.",
+                "vote_average": 7.58,
+                "vote_count": 30657
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Inglourious Basterds",
+            "second_label": "Wylie Stateman",
+            "category": "Sound Editing",
+            "year": 2010,
+            "tmdb": {
+                "id": 16869,
+                "original_title": "Inglourious Basterds",
+                "title": "Bastardos Ingl\u00f3rios",
+                "release_date": "2009-08-02",
+                "backdrop_path": "/hg0MTIFs49ef179C9Y1HRtzqbbK.jpg",
+                "poster_path": "/6UjYycIR6VLYgggfNpmSPJHmFS0.jpg",
+                "overview": "Durante a Segunda Guerra Mundial, na Fran\u00e7a, um grupo de judeus americanos conhecidos como Bastardos espalha o terror entre o terceiro Reich. Ao mesmo tempo, Shosanna, uma judia que fugiu dos nazistas, planeja vingan\u00e7a quando um evento em seu cinema reunir\u00e1 os l\u00edderes do partido.",
+                "vote_average": 8.218,
+                "vote_count": 21458
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Star Trek",
+            "second_label": "Mark Stoeckinger and Alan Rankin",
+            "category": "Sound Editing",
+            "year": 2010,
+            "tmdb": {
+                "id": 13475,
+                "original_title": "Star Trek",
+                "title": "Star Trek",
+                "release_date": "2009-05-06",
+                "backdrop_path": "/q7M0JpPixbEYT8EhnI7wTEMONxz.jpg",
+                "poster_path": "/qZ9VC2XGEqdPWOO8yA5BSBU5vDd.jpg",
+                "overview": "A bordo da USS Enterprise, a nave mais sofisticada j\u00e1 constru\u00edda, uma tripula\u00e7\u00e3o de novatos embarca em sua viagem inaugural, que \u00e9 atrapalhada por Nero, um comandante cuja vingan\u00e7a amea\u00e7a toda a humanidade. Para que os humanos possam sobreviver, James Kirk, um jovem oficial rebelde, e Spock, um Vulcan completamente l\u00f3gico, devem superar a rivalidade que h\u00e1 entre eles e encontrar uma maneira de derrotar Nero antes que seja tarde demais.",
+                "vote_average": 7.4,
+                "vote_count": 9558
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Up",
+            "second_label": "Michael Silvers and Tom Myers",
+            "category": "Sound Editing",
+            "year": 2010,
+            "tmdb": {
+                "id": 14160,
+                "original_title": "Up",
+                "title": "Up: Altas Aventuras",
+                "release_date": "2009-05-28",
+                "backdrop_path": "/hGGC9gKo7CFE3fW07RA587e5kol.jpg",
+                "poster_path": "/kms7XVDS6v7ic2jEw6N4DslQrWx.jpg",
+                "overview": "Carl Fredricksen \u00e9 um vendedor de bal\u00f5es que, aos 78 anos, est\u00e1 prestes a perder a casa em que sempre viveu com sua esposa, a falecida Ellie. Ap\u00f3s um incidente, Carl \u00e9 considerado uma amea\u00e7a p\u00fablica e for\u00e7ado a ser internado. Para evitar que isto aconte\u00e7a, ele p\u00f5e bal\u00f5es em sua casa, fazendo com que ela levante voo. Carl quer viajar para uma floresta na Am\u00e9rica do Sul, onde ele e Ellie sempre desejaram morar, mas descobre que um problema embarcou junto: Russell, um menino de 8 anos.",
+                "vote_average": 7.957,
+                "vote_count": 19483
+            },
+            "winner": false
+        }
+    ],
+    "Sound Mixing": [
+        {
+            "first_label": "The Hurt Locker",
+            "second_label": "Paul N.J. Ottosson and Ray Beckett",
+            "category": "Sound Mixing",
+            "year": 2010,
+            "tmdb": {
+                "id": 12162,
+                "original_title": "The Hurt Locker",
+                "title": "Guerra ao Terror",
+                "release_date": "2008-10-10",
+                "backdrop_path": "/off0xgvtfHY82l3MC4mDpCk1APY.jpg",
+                "poster_path": "/2CYMFR1ufrAZwoZ11d8aRax1Ial.jpg",
+                "overview": "Quando o novo sargento James assume o comando de um esquadr\u00e3o antibombas na Guerra do Iraque, ele surpreende seus dois subordinados, Sanborn e Eldridge, ao lan\u00e7\u00e1-los em um jogo mortal de combate urbano. \u00c0 medida que os homens lutam para controlar seu novo l\u00edder, a cidade explode em caos.",
+                "vote_average": 7.3,
+                "vote_count": 5359
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Avatar",
+            "second_label": "Christopher Boyes, Gary Summers, Andy Nelson and Tony Johnson",
+            "category": "Sound Mixing",
+            "year": 2010,
+            "tmdb": {
+                "id": 19995,
+                "original_title": "Avatar",
+                "title": "Avatar",
+                "release_date": "2009-12-15",
+                "backdrop_path": "/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+                "poster_path": "/yuBGGfHaQcfb6b9bEYtE0PgbZFl.jpg",
+                "overview": "Apesar de n\u00e3o ter mais os movimentos da perna, o ex-fuzileiro naval Jake Sully ainda sente que pode ser um guerreiro. Sua intui\u00e7\u00e3o come\u00e7a a se tornar realidade quando ele viaja anos-luz at\u00e9 a esta\u00e7\u00e3o espacial montada no Planeta Pandora. Habitado por grandes seres azuis, os Na\u00b4vi, o local tem uma atmosfera fatal para qualquer terrestre. Por isso, oficiais criaram o programa Avatar, em que um corpo biol\u00f3gico, h\u00edbrido de humano e Na\u00b4vi, pode ser comandado a dist\u00e2ncia.",
+                "vote_average": 7.58,
+                "vote_count": 30657
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Inglourious Basterds",
+            "second_label": "Michael Minkler, Tony Lamberti and Mark Ulano",
+            "category": "Sound Mixing",
+            "year": 2010,
+            "tmdb": {
+                "id": 16869,
+                "original_title": "Inglourious Basterds",
+                "title": "Bastardos Ingl\u00f3rios",
+                "release_date": "2009-08-02",
+                "backdrop_path": "/hg0MTIFs49ef179C9Y1HRtzqbbK.jpg",
+                "poster_path": "/6UjYycIR6VLYgggfNpmSPJHmFS0.jpg",
+                "overview": "Durante a Segunda Guerra Mundial, na Fran\u00e7a, um grupo de judeus americanos conhecidos como Bastardos espalha o terror entre o terceiro Reich. Ao mesmo tempo, Shosanna, uma judia que fugiu dos nazistas, planeja vingan\u00e7a quando um evento em seu cinema reunir\u00e1 os l\u00edderes do partido.",
+                "vote_average": 8.218,
+                "vote_count": 21458
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Star Trek",
+            "second_label": "Anna Behlmer, Andy Nelson and Peter J. Devlin",
+            "category": "Sound Mixing",
+            "year": 2010,
+            "tmdb": {
+                "id": 13475,
+                "original_title": "Star Trek",
+                "title": "Star Trek",
+                "release_date": "2009-05-06",
+                "backdrop_path": "/q7M0JpPixbEYT8EhnI7wTEMONxz.jpg",
+                "poster_path": "/qZ9VC2XGEqdPWOO8yA5BSBU5vDd.jpg",
+                "overview": "A bordo da USS Enterprise, a nave mais sofisticada j\u00e1 constru\u00edda, uma tripula\u00e7\u00e3o de novatos embarca em sua viagem inaugural, que \u00e9 atrapalhada por Nero, um comandante cuja vingan\u00e7a amea\u00e7a toda a humanidade. Para que os humanos possam sobreviver, James Kirk, um jovem oficial rebelde, e Spock, um Vulcan completamente l\u00f3gico, devem superar a rivalidade que h\u00e1 entre eles e encontrar uma maneira de derrotar Nero antes que seja tarde demais.",
+                "vote_average": 7.4,
+                "vote_count": 9558
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Transformers: Revenge of the Fallen",
+            "second_label": "Greg P. Russell, Gary Summers and Geoffrey Patterson",
+            "category": "Sound Mixing",
+            "year": 2010,
+            "tmdb": {
+                "id": 8373,
+                "original_title": "Transformers: Revenge of the Fallen",
+                "title": "Transformers: A Vingan\u00e7a dos Derrotados",
+                "release_date": "2009-06-19",
+                "backdrop_path": "/zbdoCe1meTyy0v1fsIxZ9Q0ef3H.jpg",
+                "poster_path": "/wZRc6MekG9uD56VtRqQysmHjdeI.jpg",
+                "overview": "Passaram-se dois anos desde que Sam Witwicky e os Autobots salvaram a ra\u00e7a humana e tentam ter uma vida normal: Sam est\u00e1 come\u00e7ando a faculdade, enquanto os Autobots trabalham com uma organiza\u00e7\u00e3o militar secreta e tentam construir uma casa para eles na Terra. Por\u00e9m, um antigo Decepticon conhecido como 'The Fallen' aparece para se vingar, ent\u00e3o Sam e sua namorada Mikaela precisam desvendar a hist\u00f3ria dos Transformes e achar um caminho para derrot\u00e1-lo.",
+                "vote_average": 6.179,
+                "vote_count": 8158
+            },
+            "winner": false
+        }
+    ],
+    "Visual Effects": [
+        {
+            "first_label": "Avatar",
+            "second_label": "Joe Letteri, Stephen Rosenbaum, Richard Baneham and Andrew R. Jones",
+            "category": "Visual Effects",
+            "year": 2010,
+            "tmdb": {
+                "id": 19995,
+                "original_title": "Avatar",
+                "title": "Avatar",
+                "release_date": "2009-12-15",
+                "backdrop_path": "/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+                "poster_path": "/yuBGGfHaQcfb6b9bEYtE0PgbZFl.jpg",
+                "overview": "Apesar de n\u00e3o ter mais os movimentos da perna, o ex-fuzileiro naval Jake Sully ainda sente que pode ser um guerreiro. Sua intui\u00e7\u00e3o come\u00e7a a se tornar realidade quando ele viaja anos-luz at\u00e9 a esta\u00e7\u00e3o espacial montada no Planeta Pandora. Habitado por grandes seres azuis, os Na\u00b4vi, o local tem uma atmosfera fatal para qualquer terrestre. Por isso, oficiais criaram o programa Avatar, em que um corpo biol\u00f3gico, h\u00edbrido de humano e Na\u00b4vi, pode ser comandado a dist\u00e2ncia.",
+                "vote_average": 7.58,
+                "vote_count": 30657
+            },
+            "winner": true
+        },
+        {
+            "first_label": "District 9",
+            "second_label": "Dan Kaufman, Peter Muyzers, Robert Habros and Matt Aitken",
+            "category": "Visual Effects",
+            "year": 2010,
+            "tmdb": {
+                "id": 17654,
+                "original_title": "District 9",
+                "title": "Distrito 9",
+                "release_date": "2009-08-05",
+                "backdrop_path": "/jhM3wgWUrrOkz9r4xwV5cV5RhI4.jpg",
+                "poster_path": "/ngDzpIMeVlwv0B3JNWqNVTRNfcU.jpg",
+                "overview": "H\u00e1 30 anos alien\u00edgenas chegam \u00e0 Terra em busca de ref\u00fagio, pois seu planeta estava morrendo. Eles passam a viver separados dos humanos em uma \u00e1rea chamada Distrito 9, na \u00c1frica do Sul, comandada pela multinacional United, que n\u00e3o se importa com o bem-estar dos alien\u00edgenas, mas que est\u00e1 disposta a tudo para dominar a tecnologia que eles possuem. Quando um agente em campo contrai um v\u00edrus que altera o seu DNA, o Distrito 9 passa a ser o \u00fanico lugar em que ele pode se esconder.",
+                "vote_average": 7.436,
+                "vote_count": 9047
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Star Trek",
+            "second_label": "Roger Guyett, Russell Earl, Paul Kavanagh and Burt Dalton",
+            "category": "Visual Effects",
+            "year": 2010,
+            "tmdb": {
+                "id": 13475,
+                "original_title": "Star Trek",
+                "title": "Star Trek",
+                "release_date": "2009-05-06",
+                "backdrop_path": "/q7M0JpPixbEYT8EhnI7wTEMONxz.jpg",
+                "poster_path": "/qZ9VC2XGEqdPWOO8yA5BSBU5vDd.jpg",
+                "overview": "A bordo da USS Enterprise, a nave mais sofisticada j\u00e1 constru\u00edda, uma tripula\u00e7\u00e3o de novatos embarca em sua viagem inaugural, que \u00e9 atrapalhada por Nero, um comandante cuja vingan\u00e7a amea\u00e7a toda a humanidade. Para que os humanos possam sobreviver, James Kirk, um jovem oficial rebelde, e Spock, um Vulcan completamente l\u00f3gico, devem superar a rivalidade que h\u00e1 entre eles e encontrar uma maneira de derrotar Nero antes que seja tarde demais.",
+                "vote_average": 7.4,
+                "vote_count": 9558
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Adapted Screenplay)": [
+        {
+            "first_label": "Precious: Based on the Novel 'Push' by Sapphire",
+            "second_label": "Screenplay by Geoffrey Fletcher",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2010,
+            "tmdb": {
+                "id": 25793,
+                "original_title": "Precious",
+                "title": "Preciosa: Uma Hist\u00f3ria de Esperan\u00e7a",
+                "release_date": "2009-11-06",
+                "backdrop_path": "/A6dX9TSajWA5ETyQaTmOw6fju2n.jpg",
+                "poster_path": "/7hdU46d875iO4DYlJHrI9vleZmw.jpg",
+                "overview": "Preciosa tem apenas 16 anos e j\u00e1 est\u00e1 gr\u00e1vida de seu segundo filho. Extremamente obesa, analfabeta e t\u00edmida, sofre preconceito e agress\u00e3o dos colegas, e a assistente social decide envi\u00e1-la para uma escola especial, para jovens com o ensino atrasado. A professora da nova escola descobre que Preciosa sequer sabe ler, e ao se interessar pela vida da garota e seus problemas vai descobrir que a vida que ela tem em casa \u00e9 ainda pior.",
+                "vote_average": 7.333,
+                "vote_count": 1555
+            },
+            "winner": true
+        },
+        {
+            "first_label": "District 9",
+            "second_label": "Written by Neill Blomkamp and Terri Tatchell",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2010,
+            "tmdb": {
+                "id": 17654,
+                "original_title": "District 9",
+                "title": "Distrito 9",
+                "release_date": "2009-08-05",
+                "backdrop_path": "/jhM3wgWUrrOkz9r4xwV5cV5RhI4.jpg",
+                "poster_path": "/ngDzpIMeVlwv0B3JNWqNVTRNfcU.jpg",
+                "overview": "H\u00e1 30 anos alien\u00edgenas chegam \u00e0 Terra em busca de ref\u00fagio, pois seu planeta estava morrendo. Eles passam a viver separados dos humanos em uma \u00e1rea chamada Distrito 9, na \u00c1frica do Sul, comandada pela multinacional United, que n\u00e3o se importa com o bem-estar dos alien\u00edgenas, mas que est\u00e1 disposta a tudo para dominar a tecnologia que eles possuem. Quando um agente em campo contrai um v\u00edrus que altera o seu DNA, o Distrito 9 passa a ser o \u00fanico lugar em que ele pode se esconder.",
+                "vote_average": 7.436,
+                "vote_count": 9047
+            },
+            "winner": false
+        },
+        {
+            "first_label": "An Education",
+            "second_label": "Screenplay by Nick Hornby",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2010,
+            "tmdb": {
+                "id": 24684,
+                "original_title": "An Education",
+                "title": "Educa\u00e7\u00e3o",
+                "release_date": "2009-10-29",
+                "backdrop_path": "/9Cw5fOWLfHwFHjg88dC5oBZEmL4.jpg",
+                "poster_path": "/j0a1k2PKavbosauTxu2LFcfqmDI.jpg",
+                "overview": "Jenny (Carey Mulligan), uma estudante brilhante que tem pressa de viver a vida adulta, conhece David (Peter Sarsgaard), um homem elegante e mais velho. Ele a convida para conhecer o seu mundo vibrante de amigos de alta classe, clubes de jazz, e leva Jenny a descobrir a pr\u00f3pria sexualidade. Ser\u00e1 que ela vai deixar esse romance atrapalhar os seus planos de estudar em Oxford, confirmando o receio de sua orientadora (Emma Thompson)?",
+                "vote_average": 6.9,
+                "vote_count": 1251
+            },
+            "winner": false
+        },
+        {
+            "first_label": "In the Loop",
+            "second_label": "Screenplay by Jesse Armstrong, Simon Blackwell, Armando Iannucci, Tony Roche",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2010,
+            "tmdb": {
+                "id": 19833,
+                "original_title": "In the Loop",
+                "title": "Conversa Truncada",
+                "release_date": "2009-01-22",
+                "backdrop_path": "/baRFkHjBNSEF2frf0Gh8dZBFewl.jpg",
+                "poster_path": "/jL6txnziFSeEifQkqnPBtaPaiXU.jpg",
+                "overview": "O Presidente dos Estados Unidos e o Primeiro Ministro do Reino Unido querem come\u00e7ar uma guerra, por\u00e9m nem todos acreditam que esta seja a melhor alternativa. O general americano Miller e o Secret\u00e1rio de Estado para Assuntos internacionais Brit\u00e2nico Simon Foster s\u00e3o contra a guerra. Quando Foster deixa escapar em uma entrevista que o governo est\u00e1 apoiando a guerra, a m\u00eddia transforma o fato em um conflito internacional, e o atrapalhado secret\u00e1rio \u00e9 enviado aos EUA para resolver a situa\u00e7\u00e3o.",
+                "vote_average": 7.0,
+                "vote_count": 626
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Up in the Air",
+            "second_label": "Screenplay by Jason Reitman and Sheldon Turner",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2010,
+            "tmdb": {
+                "id": 22947,
+                "original_title": "Up in the Air",
+                "title": "Amor Sem Escalas",
+                "release_date": "2009-12-04",
+                "backdrop_path": "/tStWxov12DsfOJZEzvRQermG7OQ.jpg",
+                "poster_path": "/ekevPGphU6uXVJtUQ9fxiwNnyXU.jpg",
+                "overview": "Ryan Bingham tem por fun\u00e7\u00e3o demitir pessoas, at\u00e9 que seu chefe contrata a arrogante Natalie Keener, que desenvolveu um sistema de videoconfer\u00eancia onde as pessoas poder\u00e3o ser demitidas sem que seja necess\u00e1rio deixar o escrit\u00f3rio. Este sistema, caso seja implementado, p\u00f5e em risco o emprego de Ryan. Ele passa ent\u00e3o a tentar convenc\u00ea-la do erro que \u00e9 sua implementa\u00e7\u00e3o, viajando com Anna para mostrar a realidade de seu trabalho.",
+                "vote_average": 6.9,
+                "vote_count": 3449
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Original Screenplay)": [
+        {
+            "first_label": "The Hurt Locker",
+            "second_label": "Written by Mark Boal",
+            "category": "Writing (Original Screenplay)",
+            "year": 2010,
+            "tmdb": {
+                "id": 12162,
+                "original_title": "The Hurt Locker",
+                "title": "Guerra ao Terror",
+                "release_date": "2008-10-10",
+                "backdrop_path": "/off0xgvtfHY82l3MC4mDpCk1APY.jpg",
+                "poster_path": "/2CYMFR1ufrAZwoZ11d8aRax1Ial.jpg",
+                "overview": "Quando o novo sargento James assume o comando de um esquadr\u00e3o antibombas na Guerra do Iraque, ele surpreende seus dois subordinados, Sanborn e Eldridge, ao lan\u00e7\u00e1-los em um jogo mortal de combate urbano. \u00c0 medida que os homens lutam para controlar seu novo l\u00edder, a cidade explode em caos.",
+                "vote_average": 7.3,
+                "vote_count": 5359
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Inglourious Basterds",
+            "second_label": "Written by Quentin Tarantino",
+            "category": "Writing (Original Screenplay)",
+            "year": 2010,
+            "tmdb": {
+                "id": 16869,
+                "original_title": "Inglourious Basterds",
+                "title": "Bastardos Ingl\u00f3rios",
+                "release_date": "2009-08-02",
+                "backdrop_path": "/hg0MTIFs49ef179C9Y1HRtzqbbK.jpg",
+                "poster_path": "/6UjYycIR6VLYgggfNpmSPJHmFS0.jpg",
+                "overview": "Durante a Segunda Guerra Mundial, na Fran\u00e7a, um grupo de judeus americanos conhecidos como Bastardos espalha o terror entre o terceiro Reich. Ao mesmo tempo, Shosanna, uma judia que fugiu dos nazistas, planeja vingan\u00e7a quando um evento em seu cinema reunir\u00e1 os l\u00edderes do partido.",
+                "vote_average": 8.218,
+                "vote_count": 21458
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Messenger",
+            "second_label": "Written by Alessandro Camon & Oren Moverman",
+            "category": "Writing (Original Screenplay)",
+            "year": 2010,
+            "tmdb": {
+                "id": 28089,
+                "original_title": "The Messenger",
+                "title": "O Mensageiro",
+                "release_date": "2009-11-13",
+                "backdrop_path": "/1AoLBTknFVs7n9ieTLAqZe1LwWg.jpg",
+                "poster_path": "/yBPBhkjs6pVAXUuhThqkBy2jRir.jpg",
+                "overview": "Ap\u00f3s ser ferido no Iraque, o soldado Will Montgomery (Ben Foster) volta para casa com uma miss\u00e3o ainda mais dif\u00edcil. Junto ao veterano Tony Stone (Woody Harrelson), eles s\u00e3o encarregados de comunicar aos familiares a morte de seus entes queridos. Will enfrenta um s\u00e9rio dilema \u00e9tico ao se envolver com Olivia (Samantha Morton), vi\u00fava de um soldado.",
+                "vote_average": 6.7,
+                "vote_count": 398
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Serious Man",
+            "second_label": "Written by Joel Coen & Ethan Coen",
+            "category": "Writing (Original Screenplay)",
+            "year": 2010,
+            "tmdb": {
+                "id": 12573,
+                "original_title": "A Serious Man",
+                "title": "Um Homem S\u00e9rio",
+                "release_date": "2009-09-30",
+                "backdrop_path": "/ihwfod79qlBbFpjVQNeXxmX03ql.jpg",
+                "poster_path": "/8qzPIl8dewy1SyVm9HpL6wbtyw6.jpg",
+                "overview": "Uma esposa ad\u00faltera e um irm\u00e3o problem\u00e1tico se encontram em crises que levam um professor universit\u00e1rio de 60 anos a procurar conselhos de tr\u00eas rabinos diferentes.",
+                "vote_average": 6.7,
+                "vote_count": 1979
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Up",
+            "second_label": "Screenplay by Bob Peterson, Pete Docter; Story by Pete Docter, Bob Peterson, Tom McCarthy",
+            "category": "Writing (Original Screenplay)",
+            "year": 2010,
+            "tmdb": {
+                "id": 14160,
+                "original_title": "Up",
+                "title": "Up: Altas Aventuras",
+                "release_date": "2009-05-28",
+                "backdrop_path": "/hGGC9gKo7CFE3fW07RA587e5kol.jpg",
+                "poster_path": "/kms7XVDS6v7ic2jEw6N4DslQrWx.jpg",
+                "overview": "Carl Fredricksen \u00e9 um vendedor de bal\u00f5es que, aos 78 anos, est\u00e1 prestes a perder a casa em que sempre viveu com sua esposa, a falecida Ellie. Ap\u00f3s um incidente, Carl \u00e9 considerado uma amea\u00e7a p\u00fablica e for\u00e7ado a ser internado. Para evitar que isto aconte\u00e7a, ele p\u00f5e bal\u00f5es em sua casa, fazendo com que ela levante voo. Carl quer viajar para uma floresta na Am\u00e9rica do Sul, onde ele e Ellie sempre desejaram morar, mas descobre que um problema embarcou junto: Russell, um menino de 8 anos.",
+                "vote_average": 7.957,
+                "vote_count": 19483
+            },
+            "winner": false
+        }
+    ]
+}

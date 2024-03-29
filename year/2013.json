@@ -1,0 +1,2050 @@
+{
+    "Actor in a Leading Role": [
+        {
+            "first_label": "Daniel Day-Lewis",
+            "second_label": "Lincoln",
+            "category": "Actor in a Leading Role",
+            "year": 2013,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Bradley Cooper",
+            "second_label": "Silver Linings Playbook",
+            "category": "Actor in a Leading Role",
+            "year": 2013,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hugh Jackman",
+            "second_label": "Les Misrables",
+            "category": "Actor in a Leading Role",
+            "year": 2013,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Joaquin Phoenix",
+            "second_label": "The Master",
+            "category": "Actor in a Leading Role",
+            "year": 2013,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Denzel Washington",
+            "second_label": "Flight",
+            "category": "Actor in a Leading Role",
+            "year": 2013,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Christoph Waltz",
+            "second_label": "Django Unchained",
+            "category": "Actor in a Supporting Role",
+            "year": 2013,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Alan Arkin",
+            "second_label": "Argo",
+            "category": "Actor in a Supporting Role",
+            "year": 2013,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Robert De Niro",
+            "second_label": "Silver Linings Playbook",
+            "category": "Actor in a Supporting Role",
+            "year": 2013,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Philip Seymour Hoffman",
+            "second_label": "The Master",
+            "category": "Actor in a Supporting Role",
+            "year": 2013,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tommy Lee Jones",
+            "second_label": "Lincoln",
+            "category": "Actor in a Supporting Role",
+            "year": 2013,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Leading Role": [
+        {
+            "first_label": "Jennifer Lawrence",
+            "second_label": "Silver Linings Playbook",
+            "category": "Actress in a Leading Role",
+            "year": 2013,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Jessica Chastain",
+            "second_label": "Zero Dark Thirty",
+            "category": "Actress in a Leading Role",
+            "year": 2013,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Emmanuelle Riva",
+            "second_label": "Amour",
+            "category": "Actress in a Leading Role",
+            "year": 2013,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Quvenzhan Wallis",
+            "second_label": "Beasts of the Southern Wild",
+            "category": "Actress in a Leading Role",
+            "year": 2013,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Naomi Watts",
+            "second_label": "The Impossible",
+            "category": "Actress in a Leading Role",
+            "year": 2013,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Anne Hathaway",
+            "second_label": "Les Misrables",
+            "category": "Actress in a Supporting Role",
+            "year": 2013,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Amy Adams",
+            "second_label": "The Master",
+            "category": "Actress in a Supporting Role",
+            "year": 2013,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sally Field",
+            "second_label": "Lincoln",
+            "category": "Actress in a Supporting Role",
+            "year": 2013,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Helen Hunt",
+            "second_label": "The Sessions",
+            "category": "Actress in a Supporting Role",
+            "year": 2013,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jacki Weaver",
+            "second_label": "Silver Linings Playbook",
+            "category": "Actress in a Supporting Role",
+            "year": 2013,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Animated Feature Film": [
+        {
+            "first_label": "Brave",
+            "second_label": "Mark Andrews and Brenda Chapman",
+            "category": "Animated Feature Film",
+            "year": 2013,
+            "tmdb": {
+                "id": 62177,
+                "original_title": "Brave",
+                "title": "Valente",
+                "release_date": "2012-06-21",
+                "backdrop_path": "/esIwzihCKlyqT6AjdI3q6WdSi5u.jpg",
+                "poster_path": "/jX9O3eyzfw937QOhRF4wz6nhxBM.jpg",
+                "overview": "Determinada a seguir seu pr\u00f3prio caminho na vida, a princesa M\u00e9rida desafia um costume que traz caos ao seu reino. Concedido um desejo, Merida deve confiar em sua bravura e suas habilidades de arco e flecha para desfazer uma maldi\u00e7\u00e3o bestial.",
+                "vote_average": 7.017,
+                "vote_count": 12947
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Frankenweenie",
+            "second_label": "Tim Burton",
+            "category": "Animated Feature Film",
+            "year": 2013,
+            "tmdb": {
+                "id": 62214,
+                "original_title": "Frankenweenie",
+                "title": "Frankenweenie",
+                "release_date": "2012-10-04",
+                "backdrop_path": "/yfTZ2MSRWc06cBrFOsAF4Lebi4.jpg",
+                "poster_path": "/bvwbt1S0hrCDcszV8Fzmy0BVI4G.jpg",
+                "overview": "Victor (Charlie Tahan) adora fazer filmes caseiros de terror, quase sempre estrelados por seu cachorro Sparky. Quando o c\u00e3o morre atropelado, Victor fica triste e inconformado. Inspirado por uma aula de ci\u00eancias que teve na escola, onde um professor mostra ser poss\u00edvel estimular os movimentos atrav\u00e9s da eletricidade, ele constr\u00f3i uma m\u00e1quina que permita reviver Sparky. O experimento d\u00e1 certo, mas o que Victor n\u00e3o esperava era que seu melhor amigo voltasse com h\u00e1bitos um pouco diferentes.",
+                "vote_average": 7.0,
+                "vote_count": 3159
+            },
+            "winner": false
+        },
+        {
+            "first_label": "ParaNorman",
+            "second_label": "Sam Fell and Chris Butler",
+            "category": "Animated Feature Film",
+            "year": 2013,
+            "tmdb": {
+                "id": 77174,
+                "original_title": "ParaNorman",
+                "title": "ParaNorman",
+                "release_date": "2012-08-03",
+                "backdrop_path": "/qRT6XrtT0E4UHFL0RXNrQOrh9zL.jpg",
+                "poster_path": "/9DZPtuYTKYxt6vzHvZ5FLThG4fl.jpg",
+                "overview": "Norman Babcock \u00e9 um garoto que consegue ver e falar com os mortos. Entretanto, o \u00fanico que acredita em suas habilidades \u00e9 Neil, um amigo exc\u00eantrico. Um dia, o tio de Norman conta sobre um importante ritual anual realizado na cidade, com o objetivo de proteg\u00ea-la de uma maldi\u00e7\u00e3o jogada por uma bruxa s\u00e9culos atr\u00e1s. Norman resolve ajudar no ritual, mas as coisas n\u00e3o saem como planejado e uma nuvem m\u00e1gica faz com que os mortos se levantem das tumbas da cidade.",
+                "vote_average": 6.97,
+                "vote_count": 2395
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Pirates! Band of Misfits",
+            "second_label": "Peter Lord",
+            "category": "Animated Feature Film",
+            "year": 2013,
+            "tmdb": {
+                "id": 72197,
+                "original_title": "The Pirates! In an Adventure with Scientists!",
+                "title": "Piratas Pirados!",
+                "release_date": "2012-03-12",
+                "backdrop_path": "/9UZnCIeUVHzZQLDXN7lht2T4ndB.jpg",
+                "poster_path": "/1GB1sV2EdfJSLTQ5z6P2jPBjb63.jpg",
+                "overview": "Na trama, o pirata Capit\u00e3o (Grant) \u00e9 um aventuresco, embora nem sempre bem sucedido, terror dos Sete Mares. Seu sonho: derrotar Black Bellamy (Jeremy Piven) e Cutlass Liz (Salma Hayek) e levar o trof\u00e9u de Pirata do Ano. Para conseguir, Capit\u00e3o vai com sua tripula\u00e7\u00e3o da ex\u00f3tica Ilha de Sangue \u00e0s ruas da Londres vitoriana, batalhando contra a Rainha Vit\u00f3ria (Imelda Staunton) e com a preciosa ajuda do jovem Charles Darwin (David Tennant).",
+                "vote_average": 6.5,
+                "vote_count": 1030
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Wreck-It Ralph",
+            "second_label": "Rich Moore",
+            "category": "Animated Feature Film",
+            "year": 2013,
+            "tmdb": {
+                "id": 82690,
+                "original_title": "Wreck-It Ralph",
+                "title": "Detona Ralph",
+                "release_date": "2012-11-01",
+                "backdrop_path": "/ziC23LkMYj8gToQQYQGWSGJCLNF.jpg",
+                "poster_path": "/hVhVpqRfvl4j3JzEIpur4FufgZG.jpg",
+                "overview": "Ralph est\u00e1 cansado de ser desprezado no seu pr\u00f3prio jogo de fliperama. Para ganhar a aten\u00e7\u00e3o do her\u00f3i Felix e todos os outros personagens, o vil\u00e3o tem um plano e sai em busca de uma medalha, com a inten\u00e7\u00e3o de provar o seu valor.",
+                "vote_average": 7.338,
+                "vote_count": 11877
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "Life of Pi",
+            "second_label": "Claudio Miranda",
+            "category": "Cinematography",
+            "year": 2013,
+            "tmdb": {
+                "id": 87827,
+                "original_title": "Life of Pi",
+                "title": "As Aventuras de Pi",
+                "release_date": "2012-11-20",
+                "backdrop_path": "/lcyippCCbZOliGxX7HbTNyWf98q.jpg",
+                "poster_path": "/nAE3BCzE5S4NmUHSmO9mXVqZRUa.jpg",
+                "overview": "Pi Patel \u00e9 filho do dono de um zool\u00f3gico localizado em Pondicherry, na \u00cdndia. Ap\u00f3s anos cuidando do neg\u00f3cio, a fam\u00edlia decide vender o empreendimento devido \u00e0 retirada do incentivo dado pela prefeitura local. A ideia \u00e9 se mudar para o Canad\u00e1, onde poderiam vender os animais para reiniciar a vida. Entretanto, o cargueiro onde todos viajam acaba naufragando devido a uma terr\u00edvel tempestade. Pi consegue sobreviver em um bote salva-vidas, mas precisa dividir o pouco espa\u00e7o dispon\u00edvel com uma zebra, um orangotango, uma hiena e um tigre de bengala chamado Richard Parker.",
+                "vote_average": 7.398,
+                "vote_count": 12693
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Anna Karenina",
+            "second_label": "Seamus McGarvey",
+            "category": "Cinematography",
+            "year": 2013,
+            "tmdb": {
+                "id": 96724,
+                "original_title": "Anna Karenina",
+                "title": "Anna Karenina",
+                "release_date": "2012-09-06",
+                "backdrop_path": "/54L28AmXoZ5ngjZte8Pcht2fDyR.jpg",
+                "poster_path": "/gKI66eHbl8dBcF0p4BhBYg275jU.jpg",
+                "overview": "Anna Karenina, casada um alto funcion\u00e1rio do governo russo, envolve-se com o Conde Vronsky, oficial da cavalaria, chocando a alta sociedade de 1874. Ela pede o div\u00f3rcio, mas o marido, al\u00e9m de se recusar a conced\u00ea-lo, ainda a impede de ver o filho.",
+                "vote_average": 6.7,
+                "vote_count": 2190
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Django Unchained",
+            "second_label": "Robert Richardson",
+            "category": "Cinematography",
+            "year": 2013,
+            "tmdb": {
+                "id": 68718,
+                "original_title": "Django Unchained",
+                "title": "Django Livre",
+                "release_date": "2012-12-25",
+                "backdrop_path": "/5Lbm0gpFDRAPIV1Cth6ln9iL1ou.jpg",
+                "poster_path": "/ar63Sx8jeqk0OOu2uchS477S2zE.jpg",
+                "overview": "Django \u00e9 um escravo, comprado pelo ca\u00e7ador de recompensas alem\u00e3o Dr. King Schultz para auxili\u00e1-lo em uma miss\u00e3o. A dupla acaba fazendo amizade e, ap\u00f3s resolver os problemas do ca\u00e7ador, parte em busca por Broomhilda, esposa de Django. Para isso, eles devem enfrentar o vil\u00e3o Calvin Candie, propriet\u00e1rio da escrava.",
+                "vote_average": 8.177,
+                "vote_count": 25401
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lincoln",
+            "second_label": "Janusz Kaminski",
+            "category": "Cinematography",
+            "year": 2013,
+            "tmdb": {
+                "id": 72976,
+                "original_title": "Lincoln",
+                "title": "Lincoln",
+                "release_date": "2012-11-09",
+                "backdrop_path": "/q8p5JPFmdRiRcoUFKefxW1gq8Ec.jpg",
+                "poster_path": "/Ah8nlXt06HTKfIbMQFGmuJmVIfq.jpg",
+                "overview": "O filme se passa durante a Guerra Civil norte-americana, que acabou com a vit\u00f3ria do Norte. Ao mesmo tempo em que se preocupava com o conflito, o o 16\u00ba presidente norte-americano, Abraham Lincoln (Daniel Day-Lewis), travava uma batalha ainda mais dif\u00edcil em Washington. Ao lado de seus colegas de partido, ele tentava passar uma emenda \u00e0 Constitui\u00e7\u00e3o dos Estados Unidos que acabava com a escravid\u00e3o.",
+                "vote_average": 6.9,
+                "vote_count": 3613
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Skyfall",
+            "second_label": "Roger Deakins",
+            "category": "Cinematography",
+            "year": 2013,
+            "tmdb": {
+                "id": 37724,
+                "original_title": "Skyfall",
+                "title": "007: Opera\u00e7\u00e3o Skyfall",
+                "release_date": "2012-10-24",
+                "backdrop_path": "/mgcbG1w3lgj9lajGBXVUjLQti8P.jpg",
+                "poster_path": "/1U1gkQynuQRNsZ8zm13zSCGOFAj.jpg",
+                "overview": "Ap\u00f3s uma miss\u00e3o mal sucedida de James Bond, a identidade de agentes secretos \u00e9 revelada e o M16, atacado. Ajudado por um agente de campo, Bond dever\u00e1 seguir a trilha de Silva, um homem que habita o passado de M e que tem contas a acertar.",
+                "vote_average": 7.234,
+                "vote_count": 14770
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design": [
+        {
+            "first_label": "Anna Karenina",
+            "second_label": "Jacqueline Durran",
+            "category": "Costume Design",
+            "year": 2013,
+            "tmdb": {
+                "id": 96724,
+                "original_title": "Anna Karenina",
+                "title": "Anna Karenina",
+                "release_date": "2012-09-06",
+                "backdrop_path": "/54L28AmXoZ5ngjZte8Pcht2fDyR.jpg",
+                "poster_path": "/gKI66eHbl8dBcF0p4BhBYg275jU.jpg",
+                "overview": "Anna Karenina, casada um alto funcion\u00e1rio do governo russo, envolve-se com o Conde Vronsky, oficial da cavalaria, chocando a alta sociedade de 1874. Ela pede o div\u00f3rcio, mas o marido, al\u00e9m de se recusar a conced\u00ea-lo, ainda a impede de ver o filho.",
+                "vote_average": 6.7,
+                "vote_count": 2190
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Les Mis_rables",
+            "second_label": "Paco Delgado",
+            "category": "Costume Design",
+            "year": 2013,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lincoln",
+            "second_label": "Joanna Johnston",
+            "category": "Costume Design",
+            "year": 2013,
+            "tmdb": {
+                "id": 72976,
+                "original_title": "Lincoln",
+                "title": "Lincoln",
+                "release_date": "2012-11-09",
+                "backdrop_path": "/q8p5JPFmdRiRcoUFKefxW1gq8Ec.jpg",
+                "poster_path": "/Ah8nlXt06HTKfIbMQFGmuJmVIfq.jpg",
+                "overview": "O filme se passa durante a Guerra Civil norte-americana, que acabou com a vit\u00f3ria do Norte. Ao mesmo tempo em que se preocupava com o conflito, o o 16\u00ba presidente norte-americano, Abraham Lincoln (Daniel Day-Lewis), travava uma batalha ainda mais dif\u00edcil em Washington. Ao lado de seus colegas de partido, ele tentava passar uma emenda \u00e0 Constitui\u00e7\u00e3o dos Estados Unidos que acabava com a escravid\u00e3o.",
+                "vote_average": 6.9,
+                "vote_count": 3613
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mirror Mirror",
+            "second_label": "Eiko Ishioka",
+            "category": "Costume Design",
+            "year": 2013,
+            "tmdb": {
+                "id": 62764,
+                "original_title": "Mirror Mirror",
+                "title": "Espelho, Espelho Meu",
+                "release_date": "2012-03-15",
+                "backdrop_path": "/ceim0H7KV8VKOS65hnMTUkmK8JR.jpg",
+                "poster_path": "/SzYZdrFn6esiwIKP0Mx2ukaIqn.jpg",
+                "overview": "Ap\u00f3s a morte do rei, sua esposa assume o comando do reino. Extremamente vaidosa, ela passa a cobrar cada vez mais impostos para sustentar uma vida de opul\u00eancia. Ao mesmo tempo mant\u00e9m presa em seu quarto a enteada, Branca de Neve. Ao completar 18 anos, Branca de Neve resolve sair do castelo e conhecer a realidade do reino. Horrorizada com a situa\u00e7\u00e3o de fome e mis\u00e9ria do povo, ela retorna decidida a derrubar a rainha.",
+                "vote_average": 5.9,
+                "vote_count": 3081
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Snow White and the Huntsman",
+            "second_label": "Colleen Atwood",
+            "category": "Costume Design",
+            "year": 2013,
+            "tmdb": {
+                "id": 58595,
+                "original_title": "Snow White and the Huntsman",
+                "title": "Branca de Neve e o Ca\u00e7ador",
+                "release_date": "2012-05-30",
+                "backdrop_path": "/KBe9fHU5rVg4daoKnFwl1Cbc28.jpg",
+                "poster_path": "/jlXNRuDfoCRLvnVwU41DLO0p3ze.jpg",
+                "overview": "A Rainha Ravenna quer destruir a Branca de Neve, que \u00e9 mais bonita do que ela. A rainha contrata um ca\u00e7ador, mas tudo come\u00e7a a dar errado quando ele ajuda a princesa.",
+                "vote_average": 5.984,
+                "vote_count": 7653
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "Life of Pi",
+            "second_label": "Ang Lee",
+            "category": "Directing",
+            "year": 2013,
+            "tmdb": {
+                "id": 87827,
+                "original_title": "Life of Pi",
+                "title": "As Aventuras de Pi",
+                "release_date": "2012-11-20",
+                "backdrop_path": "/lcyippCCbZOliGxX7HbTNyWf98q.jpg",
+                "poster_path": "/nAE3BCzE5S4NmUHSmO9mXVqZRUa.jpg",
+                "overview": "Pi Patel \u00e9 filho do dono de um zool\u00f3gico localizado em Pondicherry, na \u00cdndia. Ap\u00f3s anos cuidando do neg\u00f3cio, a fam\u00edlia decide vender o empreendimento devido \u00e0 retirada do incentivo dado pela prefeitura local. A ideia \u00e9 se mudar para o Canad\u00e1, onde poderiam vender os animais para reiniciar a vida. Entretanto, o cargueiro onde todos viajam acaba naufragando devido a uma terr\u00edvel tempestade. Pi consegue sobreviver em um bote salva-vidas, mas precisa dividir o pouco espa\u00e7o dispon\u00edvel com uma zebra, um orangotango, uma hiena e um tigre de bengala chamado Richard Parker.",
+                "vote_average": 7.398,
+                "vote_count": 12693
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Amour",
+            "second_label": "Michael Haneke",
+            "category": "Directing",
+            "year": 2013,
+            "tmdb": {
+                "id": 86837,
+                "original_title": "Amour",
+                "title": "Amor",
+                "release_date": "2012-09-20",
+                "backdrop_path": "/w7Z4BVMin49voNN61IUWyN9DopV.jpg",
+                "poster_path": "/obCBsX3PIqCckibGraeJRMubDYX.jpg",
+                "overview": "Georges e Anne s\u00e3o um casal de aposentados que costumavam dar aulas de m\u00fasica. Eles t\u00eam uma filha musicista que vive com marido e filhos em um pa\u00eds estrangeiro. Certo dia, Anne sofre um derrame e fica com um lado do corpo paralisado. O casal de idosos passa por graves obst\u00e1culos, que colocar\u00e3o o seu amor em teste.",
+                "vote_average": 7.8,
+                "vote_count": 1524
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Beasts of the Southern Wild",
+            "second_label": "Benh Zeitlin",
+            "category": "Directing",
+            "year": 2013,
+            "tmdb": {
+                "id": 84175,
+                "original_title": "Beasts of the Southern Wild",
+                "title": "Indom\u00e1vel Sonhadora",
+                "release_date": "2012-06-29",
+                "backdrop_path": "/7LWLPvyfLSb2oOlgWwAwUqA8uKo.jpg",
+                "poster_path": "/2s3E9RQAiiHWKsOknSi6LSNCOmY.jpg",
+                "overview": "Hushpuppy \u00e9 uma menina de apenas 6 anos de idade que vive em uma comunidade miser\u00e1vel isolada \u00e0s margens de um rio. Ela est\u00e1 correndo o risco de ficar \u00f3rf\u00e3, pois seu pai est\u00e1 muito doente. Ele, por sua vez, se recusa a procurar ajuda m\u00e9dica. Um dia, pai e filha precisam lidar com as consequ\u00eancias trazidas por uma forte tempestade, que inunda toda a comunidade. Vivendo em um barco, eles encontram alguns amigos que os ajudam. Entretanto, o pai v\u00ea como \u00fanica sa\u00edda explodir a barragem de uma represa pr\u00f3xima, o que faria com que a \u00e1gua baixasse rapidamente e a situa\u00e7\u00e3o voltasse a ser como era antes.",
+                "vote_average": 6.8,
+                "vote_count": 1006
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lincoln",
+            "second_label": "Steven Spielberg",
+            "category": "Directing",
+            "year": 2013,
+            "tmdb": {
+                "id": 72976,
+                "original_title": "Lincoln",
+                "title": "Lincoln",
+                "release_date": "2012-11-09",
+                "backdrop_path": "/q8p5JPFmdRiRcoUFKefxW1gq8Ec.jpg",
+                "poster_path": "/Ah8nlXt06HTKfIbMQFGmuJmVIfq.jpg",
+                "overview": "O filme se passa durante a Guerra Civil norte-americana, que acabou com a vit\u00f3ria do Norte. Ao mesmo tempo em que se preocupava com o conflito, o o 16\u00ba presidente norte-americano, Abraham Lincoln (Daniel Day-Lewis), travava uma batalha ainda mais dif\u00edcil em Washington. Ao lado de seus colegas de partido, ele tentava passar uma emenda \u00e0 Constitui\u00e7\u00e3o dos Estados Unidos que acabava com a escravid\u00e3o.",
+                "vote_average": 6.9,
+                "vote_count": 3613
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Silver Linings Playbook",
+            "second_label": "David O. Russell",
+            "category": "Directing",
+            "year": 2013,
+            "tmdb": {
+                "id": 82693,
+                "original_title": "Silver Linings Playbook",
+                "title": "O Lado Bom da Vida",
+                "release_date": "2012-11-16",
+                "backdrop_path": "/92Ppi99LkZFHUgpxwYRxcKZVZNH.jpg",
+                "poster_path": "/5R2ZLkflncVmRzTvSVP7MooxZ0C.jpg",
+                "overview": "Ao perder o emprego e a esposa, Pat Solatano vai morar com os pais. Ele quer reconstruir sua vida, mas seus pais ficariam felizes se ele simplesmente gostasse tanto do Philadelphia Eagles quanto eles. Tudo se complica quando Pat conhece Tiffany, que oferece ajuda para ele reconquistar a esposa.",
+                "vote_average": 7.1,
+                "vote_count": 11628
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "Searching for Sugar Man",
+            "second_label": "Malik Bendjelloul and Simon Chinn",
+            "category": "Documentary (Feature)",
+            "year": 2013,
+            "tmdb": {
+                "id": 84334,
+                "original_title": "Searching for Sugar Man",
+                "title": "Procurando Sugar Man",
+                "release_date": "2012-06-30",
+                "backdrop_path": "/8RafTGqYqAN9FJzvC75USKmJCso.jpg",
+                "poster_path": "/5EFtkPb1IDvT5HZv1iGWqUuwVjp.jpg",
+                "overview": "No final dos anos 1960, em um bar de Detroit, um artista \u00e9 descoberto. Esquecido em seu pa\u00eds, ele se tornou uma lenda para o resto do mundo. Dois f\u00e3s sul-africanos exploram a extraordin\u00e1ria hist\u00f3ria do cantor Sixto D\u00edaz Rodr\u00edguez.",
+                "vote_average": 7.9,
+                "vote_count": 868
+            },
+            "winner": true
+        },
+        {
+            "first_label": "5 Broken Cameras",
+            "second_label": "Emad Burnat and Guy Davidi",
+            "category": "Documentary (Feature)",
+            "year": 2013,
+            "tmdb": {
+                "id": 84170,
+                "original_title": "Five Broken Cameras",
+                "title": "5 C\u00e2meras Quebradas",
+                "release_date": "2011-11-23",
+                "backdrop_path": "/2DgKCfO49b8KwF18bWPS1Efpjpt.jpg",
+                "poster_path": "/lJhltUUQmmJSnnVoV3ZS8pOD4nK.jpg",
+                "overview": "Em 2005, uma pequena cidade na Cisjord\u00e2nia foi dividida por um muro, constru\u00eddo pelo governo israelense. Com o argumento oficial de proteger um povoado das redondezas, eles prepararam o terreno para a tomada de posse de 150 mil judeus israelenses. Mas o agricultor Emad, morador da regi\u00e3o, decidiu armar-se de uma c\u00e2mera e de formas pac\u00edficas de protesto para tentar conservar suas terras.",
+                "vote_average": 7.3,
+                "vote_count": 79
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Gatekeepers",
+            "second_label": "Dror Moreh, Philippa Kowarsky and Estelle Fialon",
+            "category": "Documentary (Feature)",
+            "year": 2013,
+            "tmdb": {
+                "id": 127918,
+                "original_title": "The Gatekeepers",
+                "title": "Os Guardi\u00f5es",
+                "release_date": "2012-07-09",
+                "backdrop_path": "/7ZbfWHkSZMiRmmFwxUpVcgMWFEO.jpg",
+                "poster_path": "/y7B7Ko7ZEXKcBLkO8HiGFAxAKjA.jpg",
+                "overview": "In an unprecedented and candid series of interviews, six former heads of the Shin Bet \u2014 Israel's intelligence and security agency \u2014 speak about their role in Israel's decades-long counterterrorism campaign, discussing their controversial methods and whether the ends ultimately justify the means. (TIFF)",
+                "vote_average": 6.9,
+                "vote_count": 94
+            },
+            "winner": false
+        },
+        {
+            "first_label": "How to Survive a Plague",
+            "second_label": "David France and Howard Gertler",
+            "category": "Documentary (Feature)",
+            "year": 2013,
+            "tmdb": {
+                "id": 84286,
+                "original_title": "How to Survive a Plague",
+                "title": "How to Survive a Plague",
+                "release_date": "2012-09-20",
+                "backdrop_path": "/m85Ns8BthzdQYlUPEjwy8KOvvtG.jpg",
+                "poster_path": "/azlN2LO5OtJVeSokkK408xMtt1n.jpg",
+                "overview": "A story of two coalitions \u2013 ACT UP and TAG (Treatment Action Group) \u2013 whose activism and innovation turned AIDS from a death sentence into a manageable condition. Despite having no scientific training, these self-made activists infiltrated the pharmaceutical industry and helped identify promising new drugs, moving them from experimental trials to patients in record time.",
+                "vote_average": 6.8,
+                "vote_count": 69
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Invisible War",
+            "second_label": "Kirby Dick and Amy Ziering",
+            "category": "Documentary (Feature)",
+            "year": 2013,
+            "tmdb": {
+                "id": 84288,
+                "original_title": "The Invisible War",
+                "title": "A Guerra Invis\u00edvel",
+                "release_date": "2012-01-20",
+                "backdrop_path": "/3yEnB3rNx0zSIAGcfVQuS38tUAe.jpg",
+                "poster_path": "/ph9Lo3pMNmTXFQa9wZVdCKL2tRe.jpg",
+                "overview": "O sonho das mulheres que entram para o ex\u00e9rcito norte-americano \u00e9 servir e proteger seu pa\u00eds. Mas uma vez no campo de batalha, elas sofrem um n\u00famero crescente de abusos sexuais por parte de seus supostos companheiros.",
+                "vote_average": 7.2,
+                "vote_count": 102
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "Inocente",
+            "second_label": "Sean Fine and Andrea Nix Fine",
+            "category": "Documentary (Short Subject)",
+            "year": 2013,
+            "tmdb": {
+                "id": 137648,
+                "original_title": "Inocente",
+                "title": "Inocente",
+                "release_date": "2012-06-15",
+                "backdrop_path": null,
+                "poster_path": "/AnI4Ppv2OF55o8uHP67EElKK9oj.jpg",
+                "overview": "INOCENTE is a personal and vibrant coming of age story about a young artist's determination never to surrender to the bleakness of her surroundings. At 15, Inocente refuses to let her dream of becoming an artist be caged by being an undocumented immigrant forced to live homeless for the last nine years. Color is her personal revolution and its sweep on her canvases creates a world that looks nothing like her own dark past. INOCENTE is both a timeless story about the transformative power of art and a timely snapshot of the new face of homelessness in America: children. The challenges are staggering, but the hope in her story proves that the hand she has been dealt does not define her, her dreams do.",
+                "vote_average": 7.4,
+                "vote_count": 10
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Kings Point",
+            "second_label": "Sari Gilman and Jedd Wider",
+            "category": "Documentary (Short Subject)",
+            "year": 2013,
+            "tmdb": {
+                "id": 137651,
+                "original_title": "Kings Point",
+                "title": "Kings Point",
+                "release_date": "2012-06-23",
+                "backdrop_path": "/kpl5BXy0rlcrQzvHvckCNWoadhx.jpg",
+                "poster_path": "/v3bcIpIRyUqWhzC8yiCvRTS8xdJ.jpg",
+                "overview": "A hist\u00f3ria de cinco pessoas que migraram de Nova York a Kings Point, uma comunidade de aposentados na Fl\u00f3rida, nos anos 70 e 80.",
+                "vote_average": 6.0,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mondays at Racine",
+            "second_label": "Cynthia Wade and Robin Honan",
+            "category": "Documentary (Short Subject)",
+            "year": 2013,
+            "tmdb": {
+                "id": 137652,
+                "original_title": "Mondays at Racine",
+                "title": "Segunda-feira no Racine",
+                "release_date": "2012-04-20",
+                "backdrop_path": "/j2vwGrlTXwXMcAAZnln5Eu1A4L3.jpg",
+                "poster_path": "/wdxUpUVDmLLxItVX9zcIgyEj4Wp.jpg",
+                "overview": "Uma segunda-feira por m\u00eas, as irm\u00e3s Cynthia e Rachel abrem gratuitamente seu sal\u00e3o de beleza em Nova York para pacientes com c\u00e2ncer. O document\u00e1rio acompanha as comoventes hist\u00f3rias das valentes e lindas mulheres que visitam o sal\u00e3o.",
+                "vote_average": 6.1,
+                "vote_count": 9
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Open Heart",
+            "second_label": "Kief Davidson and Cori Shepherd Stern",
+            "category": "Documentary (Short Subject)",
+            "year": 2013,
+            "tmdb": {
+                "id": 116377,
+                "original_title": "\u00c0 c\u0153ur ouvert",
+                "title": "De Cora\u00e7\u00e3o Aberto",
+                "release_date": "2012-08-08",
+                "backdrop_path": "/4peoUvLk0zLwWH4aziL0jIskXSE.jpg",
+                "poster_path": "/beRBr123QKjFl6oNH1bw7PcPi3C.jpg",
+                "overview": "Mila and Javier, both renowned surgeons and both passionate about their work, have been madly in love for the past 10 years. They have always taken great care to preserve their extraordinary love for each other and refuse to succumb to the routine of everyday living. But Mila\u2019s unexpected pregnancy, combined with increasing pressure from work at the hospital, drives Javier to drink more heavily and he ends up being suspended. Faced with his demons, Javier drifts further and further away from Mila. Yet, when their relationship is under serious threat, Javier is ready to do whatever it takes to win Mila back.",
+                "vote_average": 5.6,
+                "vote_count": 8
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Redemption",
+            "second_label": "Jon Alpert and Matthew O'Neill",
+            "category": "Documentary (Short Subject)",
+            "year": 2013,
+            "tmdb": {
+                "id": 107033,
+                "original_title": "Redemption",
+                "title": "Redemption",
+                "release_date": "2012-05-02",
+                "backdrop_path": "/kCwV9vtEEueAdPP3gH9xf2Madax.jpg",
+                "poster_path": "/vZ2KL4jVau9kiazxg5G3JsspeK0.jpg",
+                "overview": "1865, the American Civil War has just ended. The last remaining members of a now destitute Southern family journey to California. The guilt and scars they carry from the war are deeper and more painful than the loss of their family fortune and home. The war is over, but the battle to survive has just begun, they are in search of a new life, a new fortune, a new world and something else that they do not yet understand, the redemption of their very souls. Written by Joseph Paul Stachura",
+                "vote_average": 4.2,
+                "vote_count": 8
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "Argo",
+            "second_label": "William Goldenberg",
+            "category": "Film Editing",
+            "year": 2013,
+            "tmdb": {
+                "id": 68734,
+                "original_title": "Argo",
+                "title": "Argo",
+                "release_date": "2012-10-11",
+                "backdrop_path": "/q4ISn9yyC5OnLT9ESkExHjBuK8d.jpg",
+                "poster_path": "/dZqmn3vr80UeSSj4QbVEUI8D7yb.jpg",
+                "overview": "Quando a revolu\u00e7\u00e3o iraniana invade a embaixada dos EUA em Teer\u00e3, seis cidad\u00e3os americanos escapam. Agora, somente um homem \u00e9 capaz de tir\u00e1-los de tr\u00e1s das linhas inimigas. Tony Mendez \u00e9 um brilhante agente da CIA que se especializou em fugas imposs\u00edveis, mas seu mais recente plano \u00e9 t\u00e3o audacioso quando desesperador. Disfar\u00e7ados como equipe de produ\u00e7\u00e3o de um filme, Tony e os fugitivos devem se esconder \u00e0s vistas de todos e o menor deslize pode significar morte instant\u00e2nea.",
+                "vote_average": 7.3,
+                "vote_count": 7975
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Life of Pi",
+            "second_label": "Tim Squyres",
+            "category": "Film Editing",
+            "year": 2013,
+            "tmdb": {
+                "id": 87827,
+                "original_title": "Life of Pi",
+                "title": "As Aventuras de Pi",
+                "release_date": "2012-11-20",
+                "backdrop_path": "/lcyippCCbZOliGxX7HbTNyWf98q.jpg",
+                "poster_path": "/nAE3BCzE5S4NmUHSmO9mXVqZRUa.jpg",
+                "overview": "Pi Patel \u00e9 filho do dono de um zool\u00f3gico localizado em Pondicherry, na \u00cdndia. Ap\u00f3s anos cuidando do neg\u00f3cio, a fam\u00edlia decide vender o empreendimento devido \u00e0 retirada do incentivo dado pela prefeitura local. A ideia \u00e9 se mudar para o Canad\u00e1, onde poderiam vender os animais para reiniciar a vida. Entretanto, o cargueiro onde todos viajam acaba naufragando devido a uma terr\u00edvel tempestade. Pi consegue sobreviver em um bote salva-vidas, mas precisa dividir o pouco espa\u00e7o dispon\u00edvel com uma zebra, um orangotango, uma hiena e um tigre de bengala chamado Richard Parker.",
+                "vote_average": 7.398,
+                "vote_count": 12693
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lincoln",
+            "second_label": "Michael Kahn",
+            "category": "Film Editing",
+            "year": 2013,
+            "tmdb": {
+                "id": 72976,
+                "original_title": "Lincoln",
+                "title": "Lincoln",
+                "release_date": "2012-11-09",
+                "backdrop_path": "/q8p5JPFmdRiRcoUFKefxW1gq8Ec.jpg",
+                "poster_path": "/Ah8nlXt06HTKfIbMQFGmuJmVIfq.jpg",
+                "overview": "O filme se passa durante a Guerra Civil norte-americana, que acabou com a vit\u00f3ria do Norte. Ao mesmo tempo em que se preocupava com o conflito, o o 16\u00ba presidente norte-americano, Abraham Lincoln (Daniel Day-Lewis), travava uma batalha ainda mais dif\u00edcil em Washington. Ao lado de seus colegas de partido, ele tentava passar uma emenda \u00e0 Constitui\u00e7\u00e3o dos Estados Unidos que acabava com a escravid\u00e3o.",
+                "vote_average": 6.9,
+                "vote_count": 3613
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Silver Linings Playbook",
+            "second_label": "Jay Cassidy and Crispin Struthers",
+            "category": "Film Editing",
+            "year": 2013,
+            "tmdb": {
+                "id": 82693,
+                "original_title": "Silver Linings Playbook",
+                "title": "O Lado Bom da Vida",
+                "release_date": "2012-11-16",
+                "backdrop_path": "/92Ppi99LkZFHUgpxwYRxcKZVZNH.jpg",
+                "poster_path": "/5R2ZLkflncVmRzTvSVP7MooxZ0C.jpg",
+                "overview": "Ao perder o emprego e a esposa, Pat Solatano vai morar com os pais. Ele quer reconstruir sua vida, mas seus pais ficariam felizes se ele simplesmente gostasse tanto do Philadelphia Eagles quanto eles. Tudo se complica quando Pat conhece Tiffany, que oferece ajuda para ele reconquistar a esposa.",
+                "vote_average": 7.1,
+                "vote_count": 11628
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Zero Dark Thirty",
+            "second_label": "Dylan Tichenor and William Goldenberg",
+            "category": "Film Editing",
+            "year": 2013,
+            "tmdb": {
+                "id": 97630,
+                "original_title": "Zero Dark Thirty",
+                "title": "A Hora Mais Escura",
+                "release_date": "2012-12-19",
+                "backdrop_path": "/9d2RSOBmA5k6sDQoOkuBxJ9Gf7h.jpg",
+                "poster_path": "/fWpjkM77R5o4MV0nxO2cnywkCoJ.jpg",
+                "overview": "Maya \u00e9 uma agente da CIA que est\u00e1 por tr\u00e1s dos principais esfor\u00e7os em capturar Osama bin Laden, por ter descoberto os interlocutores do l\u00edder do grupo terrorista. Com isso ela participa da opera\u00e7\u00e3o que levou militares americanos a invadir o territ\u00f3rio paquistan\u00eas, com o objetivo de capturar e matar bin Laden.",
+                "vote_average": 7.0,
+                "vote_count": 4305
+            },
+            "winner": false
+        }
+    ],
+    "Foreign Language Film": [
+        {
+            "first_label": "Amour",
+            "second_label": "Austria",
+            "category": "Foreign Language Film",
+            "year": 2013,
+            "tmdb": {
+                "id": 86837,
+                "original_title": "Amour",
+                "title": "Amor",
+                "release_date": "2012-09-20",
+                "backdrop_path": "/w7Z4BVMin49voNN61IUWyN9DopV.jpg",
+                "poster_path": "/obCBsX3PIqCckibGraeJRMubDYX.jpg",
+                "overview": "Georges e Anne s\u00e3o um casal de aposentados que costumavam dar aulas de m\u00fasica. Eles t\u00eam uma filha musicista que vive com marido e filhos em um pa\u00eds estrangeiro. Certo dia, Anne sofre um derrame e fica com um lado do corpo paralisado. O casal de idosos passa por graves obst\u00e1culos, que colocar\u00e3o o seu amor em teste.",
+                "vote_average": 7.8,
+                "vote_count": 1524
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Kon-Tiki",
+            "second_label": "Norway",
+            "category": "Foreign Language Film",
+            "year": 2013,
+            "tmdb": {
+                "id": 70667,
+                "original_title": "Kon-Tiki",
+                "title": "Expedi\u00e7\u00e3o Kon Tiki",
+                "release_date": "2012-08-24",
+                "backdrop_path": "/8AGrSKolP4qyqK1wCUZN3HxAh3m.jpg",
+                "poster_path": "/fsfyvmAoLZqenIGvFQOF7FviT9O.jpg",
+                "overview": "Este drama, inspirado na hist\u00f3ria real de Thor Heyerdahl, mostra a expedi\u00e7\u00e3o Kon-Tiki. Em 1947, este pesquisador tinha uma tese ousada para a \u00e9poca: ele acreditava que a Polin\u00e9sia tinha sido ocupada primeiro pelos povos da Am\u00e9rica do Sul, e n\u00e3o pelos povos do oeste, como diziam os livros de Hist\u00f3ria. Para comprovar que essa vers\u00e3o da hist\u00f3ria era poss\u00edvel, Thor decidiu construir uma pequena jangada, com os mesmos materiais de s\u00e9culos atr\u00e1s, e chamou cinco tripulantes inexperientes para partir com ele em uma viagem de tr\u00eas meses, considerada por todos como uma aventura suicida. Enquanto flutuam pelo oceano Pac\u00edfico, torcendo para serem levados \u00e0 dire\u00e7\u00e3o correta, os homens enfrentam problemas com tempestades, tubar\u00f5es, baleias, recifes de corais e com a pr\u00f3pria jangada, que corre o risco de se desfazer a qualquer momento.",
+                "vote_average": 6.9,
+                "vote_count": 712
+            },
+            "winner": false
+        },
+        {
+            "first_label": "No",
+            "second_label": "Chile",
+            "category": "Foreign Language Film",
+            "year": 2013,
+            "tmdb": {
+                "id": 110398,
+                "original_title": "No",
+                "title": "No",
+                "release_date": "2012-08-09",
+                "backdrop_path": "/92MsvjpGoaiujgg6prkwmFvggoP.jpg",
+                "poster_path": "/Aqp4PH27zI4Uqqag41y2gXwmXma.jpg",
+                "overview": "No Chile de 1988, o governo ditatorial convoca um plebiscito para perguntar se a popula\u00e7\u00e3o apoia os militares. Um publicit\u00e1rio, ent\u00e3o, fica respons\u00e1vel pela Campanha do N\u00e3o, com ideias ousadas para convencer o povo a acabar com o regime militar.",
+                "vote_average": 7.2,
+                "vote_count": 407
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Royal Affair",
+            "second_label": "Denmark",
+            "category": "Foreign Language Film",
+            "year": 2013,
+            "tmdb": {
+                "id": 88273,
+                "original_title": "En kongelig aff\u00e6re",
+                "title": "O Amante da Rainha",
+                "release_date": "2012-03-29",
+                "backdrop_path": "/vY4JCrt1Fr5u3vgi5sulO7S3tzc.jpg",
+                "poster_path": "/8cGbM2oCOliRYF05EBNT1mKqknD.jpg",
+                "overview": "Jovem rainha casada com rei insano come\u00e7a a ter um caso extraconjugal com o m\u00e9dico da corte. Unidos, eles veem que compartilham as mesmas ideias a respeito do futuro de seu pa\u00eds e iniciam uma revolu\u00e7\u00e3o.",
+                "vote_average": 7.4,
+                "vote_count": 816
+            },
+            "winner": false
+        },
+        {
+            "first_label": "War Witch",
+            "second_label": "Canada",
+            "category": "Foreign Language Film",
+            "year": 2013,
+            "tmdb": {
+                "id": 98205,
+                "original_title": "Rebelle",
+                "title": "A Feiticeira da Guerra",
+                "release_date": "2012-02-17",
+                "backdrop_path": "/hnkdrpKqANChFKvwTRYlw2Y6xZt.jpg",
+                "poster_path": "/78Yi8mzd1S04ANbdlxI1FkMl4Vx.jpg",
+                "overview": "Depois de ter sua vila queimada por rebeldes e seus pais assassinados numa guerra civil na \u00c1frica, a menina Komona \u00e9 levada para a floresta para lutar como uma crian\u00e7a-soldado. Aos 14 anos, gr\u00e1vida, a jovem conta ao seu filho, ainda no ventre, sua hist\u00f3ria de vida.",
+                "vote_average": 6.6,
+                "vote_count": 94
+            },
+            "winner": false
+        }
+    ],
+    "Jean Hersholt Humanitarian Award": [
+        {
+            "first_label": "",
+            "second_label": "Jeffrey Katzenberg",
+            "category": "Jean Hersholt Humanitarian Award",
+            "year": 2013,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        }
+    ],
+    "Makeup and Hairstyling": [
+        {
+            "first_label": "Les Mis_rables",
+            "second_label": "Lisa Westcott and Julie Dartnell",
+            "category": "Makeup and Hairstyling",
+            "year": 2013,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Hitchcock",
+            "second_label": "Howard Berger, Peter Montagna and Martin Samuel",
+            "category": "Makeup and Hairstyling",
+            "year": 2013,
+            "tmdb": {
+                "id": 112336,
+                "original_title": "Hitchcock",
+                "title": "Hitchcock",
+                "release_date": "2012-11-22",
+                "backdrop_path": "/ikFXXa4k5A13cWXLxanBBInjh4s.jpg",
+                "poster_path": "/zlG4QzB00VM6QHUmRkKaboCOgat.jpg",
+                "overview": "Baseado no livro \"Alfred Hitchcock And The Making Of Psycho\", este filme revela os bastidores do cl\u00e1ssico Psicose (1960). Na \u00e9poca, mesmo estando no auge de sua carreira, Hitchcock n\u00e3o conseguiu apoio para realizar a obra, porque os est\u00fadios n\u00e3o queriam investir em um pequeno filme de terror. O resultado foi uma produ\u00e7\u00e3o independente, que encontrou dificuldades para driblar a censura e para ser distribu\u00edda nos EUA, em fun\u00e7\u00e3o das cenas de viol\u00eancia e nudez. Al\u00e9m disso, durante as filmagens, ocorreram brigas entre Hitchcock e sua esposa, Alma, os problemas de sa\u00fade do diretor e desentendimentos com o elenco. Mas contrariando todas as expectativas, \"Psicose\" se tornou uma refer\u00eancia no cinema mundial e um dos maiores sucessos na carreira do cineasta.",
+                "vote_average": 6.6,
+                "vote_count": 1450
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Hobbit: An Unexpected Journey",
+            "second_label": "Peter Swords King, Rick Findlater and Tami Lane",
+            "category": "Makeup and Hairstyling",
+            "year": 2013,
+            "tmdb": {
+                "id": 49051,
+                "original_title": "The Hobbit: An Unexpected Journey",
+                "title": "O Hobbit: Uma Jornada Inesperada",
+                "release_date": "2012-12-12",
+                "backdrop_path": "/xyXmtuvsoM5J3yNad0nvcetpBdY.jpg",
+                "poster_path": "/qmHzmfcCWKyQZ8NFQkIYH8JdShI.jpg",
+                "overview": "Como a maioria dos hobbits, Bilbo Bolseiro leva uma vida tranquila at\u00e9 o dia em que recebe uma miss\u00e3o do mago Gandalf. Acompanhado por um grupo de an\u00f5es, ele parte numa jornada at\u00e9 a Montanha Solit\u00e1ria para libertar o Reino de Erebor do drag\u00e3o Smaug.",
+                "vote_average": 7.3,
+                "vote_count": 17802
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Score)": [
+        {
+            "first_label": "Life of Pi",
+            "second_label": "Mychael Danna",
+            "category": "Music (Original Score)",
+            "year": 2013,
+            "tmdb": {
+                "id": 87827,
+                "original_title": "Life of Pi",
+                "title": "As Aventuras de Pi",
+                "release_date": "2012-11-20",
+                "backdrop_path": "/lcyippCCbZOliGxX7HbTNyWf98q.jpg",
+                "poster_path": "/nAE3BCzE5S4NmUHSmO9mXVqZRUa.jpg",
+                "overview": "Pi Patel \u00e9 filho do dono de um zool\u00f3gico localizado em Pondicherry, na \u00cdndia. Ap\u00f3s anos cuidando do neg\u00f3cio, a fam\u00edlia decide vender o empreendimento devido \u00e0 retirada do incentivo dado pela prefeitura local. A ideia \u00e9 se mudar para o Canad\u00e1, onde poderiam vender os animais para reiniciar a vida. Entretanto, o cargueiro onde todos viajam acaba naufragando devido a uma terr\u00edvel tempestade. Pi consegue sobreviver em um bote salva-vidas, mas precisa dividir o pouco espa\u00e7o dispon\u00edvel com uma zebra, um orangotango, uma hiena e um tigre de bengala chamado Richard Parker.",
+                "vote_average": 7.398,
+                "vote_count": 12693
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Anna Karenina",
+            "second_label": "Dario Marianelli",
+            "category": "Music (Original Score)",
+            "year": 2013,
+            "tmdb": {
+                "id": 96724,
+                "original_title": "Anna Karenina",
+                "title": "Anna Karenina",
+                "release_date": "2012-09-06",
+                "backdrop_path": "/54L28AmXoZ5ngjZte8Pcht2fDyR.jpg",
+                "poster_path": "/gKI66eHbl8dBcF0p4BhBYg275jU.jpg",
+                "overview": "Anna Karenina, casada um alto funcion\u00e1rio do governo russo, envolve-se com o Conde Vronsky, oficial da cavalaria, chocando a alta sociedade de 1874. Ela pede o div\u00f3rcio, mas o marido, al\u00e9m de se recusar a conced\u00ea-lo, ainda a impede de ver o filho.",
+                "vote_average": 6.7,
+                "vote_count": 2190
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Argo",
+            "second_label": "Alexandre Desplat",
+            "category": "Music (Original Score)",
+            "year": 2013,
+            "tmdb": {
+                "id": 68734,
+                "original_title": "Argo",
+                "title": "Argo",
+                "release_date": "2012-10-11",
+                "backdrop_path": "/q4ISn9yyC5OnLT9ESkExHjBuK8d.jpg",
+                "poster_path": "/dZqmn3vr80UeSSj4QbVEUI8D7yb.jpg",
+                "overview": "Quando a revolu\u00e7\u00e3o iraniana invade a embaixada dos EUA em Teer\u00e3, seis cidad\u00e3os americanos escapam. Agora, somente um homem \u00e9 capaz de tir\u00e1-los de tr\u00e1s das linhas inimigas. Tony Mendez \u00e9 um brilhante agente da CIA que se especializou em fugas imposs\u00edveis, mas seu mais recente plano \u00e9 t\u00e3o audacioso quando desesperador. Disfar\u00e7ados como equipe de produ\u00e7\u00e3o de um filme, Tony e os fugitivos devem se esconder \u00e0s vistas de todos e o menor deslize pode significar morte instant\u00e2nea.",
+                "vote_average": 7.3,
+                "vote_count": 7975
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lincoln",
+            "second_label": "John Williams",
+            "category": "Music (Original Score)",
+            "year": 2013,
+            "tmdb": {
+                "id": 72976,
+                "original_title": "Lincoln",
+                "title": "Lincoln",
+                "release_date": "2012-11-09",
+                "backdrop_path": "/q8p5JPFmdRiRcoUFKefxW1gq8Ec.jpg",
+                "poster_path": "/Ah8nlXt06HTKfIbMQFGmuJmVIfq.jpg",
+                "overview": "O filme se passa durante a Guerra Civil norte-americana, que acabou com a vit\u00f3ria do Norte. Ao mesmo tempo em que se preocupava com o conflito, o o 16\u00ba presidente norte-americano, Abraham Lincoln (Daniel Day-Lewis), travava uma batalha ainda mais dif\u00edcil em Washington. Ao lado de seus colegas de partido, ele tentava passar uma emenda \u00e0 Constitui\u00e7\u00e3o dos Estados Unidos que acabava com a escravid\u00e3o.",
+                "vote_average": 6.9,
+                "vote_count": 3613
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Skyfall",
+            "second_label": "Thomas Newman",
+            "category": "Music (Original Score)",
+            "year": 2013,
+            "tmdb": {
+                "id": 37724,
+                "original_title": "Skyfall",
+                "title": "007: Opera\u00e7\u00e3o Skyfall",
+                "release_date": "2012-10-24",
+                "backdrop_path": "/mgcbG1w3lgj9lajGBXVUjLQti8P.jpg",
+                "poster_path": "/1U1gkQynuQRNsZ8zm13zSCGOFAj.jpg",
+                "overview": "Ap\u00f3s uma miss\u00e3o mal sucedida de James Bond, a identidade de agentes secretos \u00e9 revelada e o M16, atacado. Ajudado por um agente de campo, Bond dever\u00e1 seguir a trilha de Silva, um homem que habita o passado de M e que tem contas a acertar.",
+                "vote_average": 7.234,
+                "vote_count": 14770
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Song)": [
+        {
+            "first_label": "Skyfall",
+            "second_label": "Skyfall in \"Skyfall\" Music and Lyric by Adele Adkins and Paul Epworth",
+            "category": "Music (Original Song)",
+            "year": 2013,
+            "tmdb": {
+                "id": 37724,
+                "original_title": "Skyfall",
+                "title": "007: Opera\u00e7\u00e3o Skyfall",
+                "release_date": "2012-10-24",
+                "backdrop_path": "/mgcbG1w3lgj9lajGBXVUjLQti8P.jpg",
+                "poster_path": "/1U1gkQynuQRNsZ8zm13zSCGOFAj.jpg",
+                "overview": "Ap\u00f3s uma miss\u00e3o mal sucedida de James Bond, a identidade de agentes secretos \u00e9 revelada e o M16, atacado. Ajudado por um agente de campo, Bond dever\u00e1 seguir a trilha de Silva, um homem que habita o passado de M e que tem contas a acertar.",
+                "vote_average": 7.234,
+                "vote_count": 14770
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Chasing Ice",
+            "second_label": "Before My Time in \"Chasing Ice\" Music and Lyric by J. Ralph",
+            "category": "Music (Original Song)",
+            "year": 2013,
+            "tmdb": {
+                "id": 84185,
+                "original_title": "Chasing Ice",
+                "title": "Perseguindo o Gelo",
+                "release_date": "2012-10-01",
+                "backdrop_path": "/pTzzoMS3OQ2iM1RImLITf9w0ov7.jpg",
+                "poster_path": "/q4T6Wqh7ZXzf30odR2Yo2dLWdZ.jpg",
+                "overview": "O fot\u00f3grafo ambiental James Balog usa c\u00e2meras com efeito time-lapse para capturar as mudan\u00e7as das geleiras do mundo com o passar dos anos.",
+                "vote_average": 7.4,
+                "vote_count": 152
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ted",
+            "second_label": "Everybody Needs A Best Friend in \"Ted\" Music by Walter Murphy; Lyric by Seth MacFarlane",
+            "category": "Music (Original Song)",
+            "year": 2013,
+            "tmdb": {
+                "id": 72105,
+                "original_title": "Ted",
+                "title": "Ted",
+                "release_date": "2012-06-29",
+                "backdrop_path": "/wS9TiAS1WckeTS2IrFg5dRN9WQD.jpg",
+                "poster_path": "/patvtN6QlClCRZlswIPxDSYJRzW.jpg",
+                "overview": "Quando crian\u00e7a, John desejou que seu ursinho Ted ganhasse vida e, surpreendentemente, foi atendido. Por\u00e9m, agora que \u00e9 adulto, ele precisa lidar com as consequ\u00eancias de seu pedido, j\u00e1 que Ted n\u00e3o vai parar de atormentar a sua vida.",
+                "vote_average": 6.421,
+                "vote_count": 11893
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Life of Pi",
+            "second_label": "Pi's Lullaby in \"Life of Pi\" Music by Mychael Danna; Lyric by Bombay Jayashri",
+            "category": "Music (Original Song)",
+            "year": 2013,
+            "tmdb": {
+                "id": 87827,
+                "original_title": "Life of Pi",
+                "title": "As Aventuras de Pi",
+                "release_date": "2012-11-20",
+                "backdrop_path": "/lcyippCCbZOliGxX7HbTNyWf98q.jpg",
+                "poster_path": "/nAE3BCzE5S4NmUHSmO9mXVqZRUa.jpg",
+                "overview": "Pi Patel \u00e9 filho do dono de um zool\u00f3gico localizado em Pondicherry, na \u00cdndia. Ap\u00f3s anos cuidando do neg\u00f3cio, a fam\u00edlia decide vender o empreendimento devido \u00e0 retirada do incentivo dado pela prefeitura local. A ideia \u00e9 se mudar para o Canad\u00e1, onde poderiam vender os animais para reiniciar a vida. Entretanto, o cargueiro onde todos viajam acaba naufragando devido a uma terr\u00edvel tempestade. Pi consegue sobreviver em um bote salva-vidas, mas precisa dividir o pouco espa\u00e7o dispon\u00edvel com uma zebra, um orangotango, uma hiena e um tigre de bengala chamado Richard Parker.",
+                "vote_average": 7.398,
+                "vote_count": 12693
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Les Misrables",
+            "second_label": "Suddenly in \"Les Misrables\" Music by Claude-Michel Schnberg; Lyric by Herbert Kretzmer and Alain Boublil",
+            "category": "Music (Original Song)",
+            "year": 2013,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Best Picture": [
+        {
+            "first_label": "Argo",
+            "second_label": "Grant Heslov, Ben Affleck and George Clooney, Producers",
+            "category": "Best Picture",
+            "year": 2013,
+            "tmdb": {
+                "id": 68734,
+                "original_title": "Argo",
+                "title": "Argo",
+                "release_date": "2012-10-11",
+                "backdrop_path": "/q4ISn9yyC5OnLT9ESkExHjBuK8d.jpg",
+                "poster_path": "/dZqmn3vr80UeSSj4QbVEUI8D7yb.jpg",
+                "overview": "Quando a revolu\u00e7\u00e3o iraniana invade a embaixada dos EUA em Teer\u00e3, seis cidad\u00e3os americanos escapam. Agora, somente um homem \u00e9 capaz de tir\u00e1-los de tr\u00e1s das linhas inimigas. Tony Mendez \u00e9 um brilhante agente da CIA que se especializou em fugas imposs\u00edveis, mas seu mais recente plano \u00e9 t\u00e3o audacioso quando desesperador. Disfar\u00e7ados como equipe de produ\u00e7\u00e3o de um filme, Tony e os fugitivos devem se esconder \u00e0s vistas de todos e o menor deslize pode significar morte instant\u00e2nea.",
+                "vote_average": 7.3,
+                "vote_count": 7975
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Amour",
+            "second_label": "Margaret Menegoz, Stefan Arndt, Veit Heiduschka and Michael Katz, Producers",
+            "category": "Best Picture",
+            "year": 2013,
+            "tmdb": {
+                "id": 86837,
+                "original_title": "Amour",
+                "title": "Amor",
+                "release_date": "2012-09-20",
+                "backdrop_path": "/w7Z4BVMin49voNN61IUWyN9DopV.jpg",
+                "poster_path": "/obCBsX3PIqCckibGraeJRMubDYX.jpg",
+                "overview": "Georges e Anne s\u00e3o um casal de aposentados que costumavam dar aulas de m\u00fasica. Eles t\u00eam uma filha musicista que vive com marido e filhos em um pa\u00eds estrangeiro. Certo dia, Anne sofre um derrame e fica com um lado do corpo paralisado. O casal de idosos passa por graves obst\u00e1culos, que colocar\u00e3o o seu amor em teste.",
+                "vote_average": 7.8,
+                "vote_count": 1524
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Beasts of the Southern Wild",
+            "second_label": "Dan Janvey, Josh Penn and Michael Gottwald, Producers",
+            "category": "Best Picture",
+            "year": 2013,
+            "tmdb": {
+                "id": 84175,
+                "original_title": "Beasts of the Southern Wild",
+                "title": "Indom\u00e1vel Sonhadora",
+                "release_date": "2012-06-29",
+                "backdrop_path": "/7LWLPvyfLSb2oOlgWwAwUqA8uKo.jpg",
+                "poster_path": "/2s3E9RQAiiHWKsOknSi6LSNCOmY.jpg",
+                "overview": "Hushpuppy \u00e9 uma menina de apenas 6 anos de idade que vive em uma comunidade miser\u00e1vel isolada \u00e0s margens de um rio. Ela est\u00e1 correndo o risco de ficar \u00f3rf\u00e3, pois seu pai est\u00e1 muito doente. Ele, por sua vez, se recusa a procurar ajuda m\u00e9dica. Um dia, pai e filha precisam lidar com as consequ\u00eancias trazidas por uma forte tempestade, que inunda toda a comunidade. Vivendo em um barco, eles encontram alguns amigos que os ajudam. Entretanto, o pai v\u00ea como \u00fanica sa\u00edda explodir a barragem de uma represa pr\u00f3xima, o que faria com que a \u00e1gua baixasse rapidamente e a situa\u00e7\u00e3o voltasse a ser como era antes.",
+                "vote_average": 6.8,
+                "vote_count": 1006
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Django Unchained",
+            "second_label": "Stacey Sher, Reginald Hudlin and Pilar Savone, Producers",
+            "category": "Best Picture",
+            "year": 2013,
+            "tmdb": {
+                "id": 68718,
+                "original_title": "Django Unchained",
+                "title": "Django Livre",
+                "release_date": "2012-12-25",
+                "backdrop_path": "/5Lbm0gpFDRAPIV1Cth6ln9iL1ou.jpg",
+                "poster_path": "/ar63Sx8jeqk0OOu2uchS477S2zE.jpg",
+                "overview": "Django \u00e9 um escravo, comprado pelo ca\u00e7ador de recompensas alem\u00e3o Dr. King Schultz para auxili\u00e1-lo em uma miss\u00e3o. A dupla acaba fazendo amizade e, ap\u00f3s resolver os problemas do ca\u00e7ador, parte em busca por Broomhilda, esposa de Django. Para isso, eles devem enfrentar o vil\u00e3o Calvin Candie, propriet\u00e1rio da escrava.",
+                "vote_average": 8.177,
+                "vote_count": 25401
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Les Mis_rables",
+            "second_label": "Tim Bevan, Eric Fellner, Debra Hayward and Cameron Mackintosh, Producers",
+            "category": "Best Picture",
+            "year": 2013,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Life of Pi",
+            "second_label": "Gil Netter, Ang Lee and David Womark, Producers",
+            "category": "Best Picture",
+            "year": 2013,
+            "tmdb": {
+                "id": 87827,
+                "original_title": "Life of Pi",
+                "title": "As Aventuras de Pi",
+                "release_date": "2012-11-20",
+                "backdrop_path": "/lcyippCCbZOliGxX7HbTNyWf98q.jpg",
+                "poster_path": "/nAE3BCzE5S4NmUHSmO9mXVqZRUa.jpg",
+                "overview": "Pi Patel \u00e9 filho do dono de um zool\u00f3gico localizado em Pondicherry, na \u00cdndia. Ap\u00f3s anos cuidando do neg\u00f3cio, a fam\u00edlia decide vender o empreendimento devido \u00e0 retirada do incentivo dado pela prefeitura local. A ideia \u00e9 se mudar para o Canad\u00e1, onde poderiam vender os animais para reiniciar a vida. Entretanto, o cargueiro onde todos viajam acaba naufragando devido a uma terr\u00edvel tempestade. Pi consegue sobreviver em um bote salva-vidas, mas precisa dividir o pouco espa\u00e7o dispon\u00edvel com uma zebra, um orangotango, uma hiena e um tigre de bengala chamado Richard Parker.",
+                "vote_average": 7.398,
+                "vote_count": 12693
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lincoln",
+            "second_label": "Steven Spielberg and Kathleen Kennedy, Producers",
+            "category": "Best Picture",
+            "year": 2013,
+            "tmdb": {
+                "id": 72976,
+                "original_title": "Lincoln",
+                "title": "Lincoln",
+                "release_date": "2012-11-09",
+                "backdrop_path": "/q8p5JPFmdRiRcoUFKefxW1gq8Ec.jpg",
+                "poster_path": "/Ah8nlXt06HTKfIbMQFGmuJmVIfq.jpg",
+                "overview": "O filme se passa durante a Guerra Civil norte-americana, que acabou com a vit\u00f3ria do Norte. Ao mesmo tempo em que se preocupava com o conflito, o o 16\u00ba presidente norte-americano, Abraham Lincoln (Daniel Day-Lewis), travava uma batalha ainda mais dif\u00edcil em Washington. Ao lado de seus colegas de partido, ele tentava passar uma emenda \u00e0 Constitui\u00e7\u00e3o dos Estados Unidos que acabava com a escravid\u00e3o.",
+                "vote_average": 6.9,
+                "vote_count": 3613
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Silver Linings Playbook",
+            "second_label": "Donna Gigliotti, Bruce Cohen and Jonathan Gordon, Producers",
+            "category": "Best Picture",
+            "year": 2013,
+            "tmdb": {
+                "id": 82693,
+                "original_title": "Silver Linings Playbook",
+                "title": "O Lado Bom da Vida",
+                "release_date": "2012-11-16",
+                "backdrop_path": "/92Ppi99LkZFHUgpxwYRxcKZVZNH.jpg",
+                "poster_path": "/5R2ZLkflncVmRzTvSVP7MooxZ0C.jpg",
+                "overview": "Ao perder o emprego e a esposa, Pat Solatano vai morar com os pais. Ele quer reconstruir sua vida, mas seus pais ficariam felizes se ele simplesmente gostasse tanto do Philadelphia Eagles quanto eles. Tudo se complica quando Pat conhece Tiffany, que oferece ajuda para ele reconquistar a esposa.",
+                "vote_average": 7.1,
+                "vote_count": 11628
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Zero Dark Thirty",
+            "second_label": "Mark Boal, Kathryn Bigelow and Megan Ellison, Producers",
+            "category": "Best Picture",
+            "year": 2013,
+            "tmdb": {
+                "id": 97630,
+                "original_title": "Zero Dark Thirty",
+                "title": "A Hora Mais Escura",
+                "release_date": "2012-12-19",
+                "backdrop_path": "/9d2RSOBmA5k6sDQoOkuBxJ9Gf7h.jpg",
+                "poster_path": "/fWpjkM77R5o4MV0nxO2cnywkCoJ.jpg",
+                "overview": "Maya \u00e9 uma agente da CIA que est\u00e1 por tr\u00e1s dos principais esfor\u00e7os em capturar Osama bin Laden, por ter descoberto os interlocutores do l\u00edder do grupo terrorista. Com isso ela participa da opera\u00e7\u00e3o que levou militares americanos a invadir o territ\u00f3rio paquistan\u00eas, com o objetivo de capturar e matar bin Laden.",
+                "vote_average": 7.0,
+                "vote_count": 4305
+            },
+            "winner": false
+        }
+    ],
+    "Production Design": [
+        {
+            "first_label": "Lincoln",
+            "second_label": "Production Design: Rick Carter; Set Decoration: Jim Erickson",
+            "category": "Production Design",
+            "year": 2013,
+            "tmdb": {
+                "id": 72976,
+                "original_title": "Lincoln",
+                "title": "Lincoln",
+                "release_date": "2012-11-09",
+                "backdrop_path": "/q8p5JPFmdRiRcoUFKefxW1gq8Ec.jpg",
+                "poster_path": "/Ah8nlXt06HTKfIbMQFGmuJmVIfq.jpg",
+                "overview": "O filme se passa durante a Guerra Civil norte-americana, que acabou com a vit\u00f3ria do Norte. Ao mesmo tempo em que se preocupava com o conflito, o o 16\u00ba presidente norte-americano, Abraham Lincoln (Daniel Day-Lewis), travava uma batalha ainda mais dif\u00edcil em Washington. Ao lado de seus colegas de partido, ele tentava passar uma emenda \u00e0 Constitui\u00e7\u00e3o dos Estados Unidos que acabava com a escravid\u00e3o.",
+                "vote_average": 6.9,
+                "vote_count": 3613
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Anna Karenina",
+            "second_label": "Production Design: Sarah Greenwood; Set Decoration: Katie Spencer",
+            "category": "Production Design",
+            "year": 2013,
+            "tmdb": {
+                "id": 96724,
+                "original_title": "Anna Karenina",
+                "title": "Anna Karenina",
+                "release_date": "2012-09-06",
+                "backdrop_path": "/54L28AmXoZ5ngjZte8Pcht2fDyR.jpg",
+                "poster_path": "/gKI66eHbl8dBcF0p4BhBYg275jU.jpg",
+                "overview": "Anna Karenina, casada um alto funcion\u00e1rio do governo russo, envolve-se com o Conde Vronsky, oficial da cavalaria, chocando a alta sociedade de 1874. Ela pede o div\u00f3rcio, mas o marido, al\u00e9m de se recusar a conced\u00ea-lo, ainda a impede de ver o filho.",
+                "vote_average": 6.7,
+                "vote_count": 2190
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Hobbit: An Unexpected Journey",
+            "second_label": "Production Design: Dan Hennah; Set Decoration: Ra Vincent and Simon Bright",
+            "category": "Production Design",
+            "year": 2013,
+            "tmdb": {
+                "id": 49051,
+                "original_title": "The Hobbit: An Unexpected Journey",
+                "title": "O Hobbit: Uma Jornada Inesperada",
+                "release_date": "2012-12-12",
+                "backdrop_path": "/xyXmtuvsoM5J3yNad0nvcetpBdY.jpg",
+                "poster_path": "/qmHzmfcCWKyQZ8NFQkIYH8JdShI.jpg",
+                "overview": "Como a maioria dos hobbits, Bilbo Bolseiro leva uma vida tranquila at\u00e9 o dia em que recebe uma miss\u00e3o do mago Gandalf. Acompanhado por um grupo de an\u00f5es, ele parte numa jornada at\u00e9 a Montanha Solit\u00e1ria para libertar o Reino de Erebor do drag\u00e3o Smaug.",
+                "vote_average": 7.3,
+                "vote_count": 17802
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Les Mis_rables",
+            "second_label": "Production Design: Eve Stewart; Set Decoration: Anna Lynch-Robinson",
+            "category": "Production Design",
+            "year": 2013,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Life of Pi",
+            "second_label": "Production Design: David Gropman; Set Decoration: Anna Pinnock",
+            "category": "Production Design",
+            "year": 2013,
+            "tmdb": {
+                "id": 87827,
+                "original_title": "Life of Pi",
+                "title": "As Aventuras de Pi",
+                "release_date": "2012-11-20",
+                "backdrop_path": "/lcyippCCbZOliGxX7HbTNyWf98q.jpg",
+                "poster_path": "/nAE3BCzE5S4NmUHSmO9mXVqZRUa.jpg",
+                "overview": "Pi Patel \u00e9 filho do dono de um zool\u00f3gico localizado em Pondicherry, na \u00cdndia. Ap\u00f3s anos cuidando do neg\u00f3cio, a fam\u00edlia decide vender o empreendimento devido \u00e0 retirada do incentivo dado pela prefeitura local. A ideia \u00e9 se mudar para o Canad\u00e1, onde poderiam vender os animais para reiniciar a vida. Entretanto, o cargueiro onde todos viajam acaba naufragando devido a uma terr\u00edvel tempestade. Pi consegue sobreviver em um bote salva-vidas, mas precisa dividir o pouco espa\u00e7o dispon\u00edvel com uma zebra, um orangotango, uma hiena e um tigre de bengala chamado Richard Parker.",
+                "vote_average": 7.398,
+                "vote_count": 12693
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Animated)": [
+        {
+            "first_label": "Paperman",
+            "second_label": "John Kahrs",
+            "category": "Short Film (Animated)",
+            "year": 2013,
+            "tmdb": {
+                "id": 140420,
+                "original_title": "Paperman",
+                "title": "O Avi\u00e3o de Papel",
+                "release_date": "2012-11-02",
+                "backdrop_path": "/uXXvFU16v3cH8gIUWx3WCbAt29a.jpg",
+                "poster_path": "/38M9ttjqbLaKsxQYUHVX5BZQ5yE.jpg",
+                "overview": "Nova York, Estados Unidos. Ao ir para o trabalho, um homem se interessa por uma jovem que v\u00ea na esta\u00e7\u00e3o de trem. Entretanto, n\u00e3o consegue falar com ela. Ao chegar ao escrit\u00f3rio, ele a v\u00ea no pr\u00e9dio ao lado. Sem conseguir chamar sua aten\u00e7\u00e3o, ele passa a fazer avi\u00f5es de papel com o material do trabalho e tenta acert\u00e1-los bem na janela do escrit\u00f3rio em que ela est\u00e1, em uma tentativa desesperada para que ela possa, enfim, not\u00e1-lo.",
+                "vote_average": 8.0,
+                "vote_count": 1652
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Adam and Dog",
+            "second_label": "Minkyu Lee",
+            "category": "Short Film (Animated)",
+            "year": 2013,
+            "tmdb": {
+                "id": 157301,
+                "original_title": "Adam and Dog",
+                "title": "Ad\u00e3o e o Cachorro...",
+                "release_date": "2013-02-01",
+                "backdrop_path": "/e1h6nlQrvR6OxIYdydmfUTeZyTf.jpg",
+                "poster_path": "/6u1NFKH6iccY54VAio46Ucjdfma.jpg",
+                "overview": "Esta \u00e9 uma releitura da hist\u00f3ria de Ad\u00e3o e Eva (como encontrados nos tr\u00eas primeiros cap\u00edtulos do Livro do G\u00e9nesis) do ponto de vista do c\u00e3o. Este filme de Minkyu Lee foi indicado ao Oscar por sua extrema sensibilidade! Vale assistir para descansar dos estudos b\u00edblicos!...",
+                "vote_average": 6.6,
+                "vote_count": 50
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Fresh Guacamole",
+            "second_label": "PES",
+            "category": "Short Film (Animated)",
+            "year": 2013,
+            "tmdb": {
+                "id": 142563,
+                "original_title": "Fresh Guacamole",
+                "title": "Fresh Guacamole",
+                "release_date": "2012-03-02",
+                "backdrop_path": "/jOwj5UULxFyXrSEYjnhheUbNH2T.jpg",
+                "poster_path": "/3uBH7edC9cbJqh180iWmAndVsz0.jpg",
+                "overview": "Fresh Guacamole' \u00e9 o filme mais curto j\u00e1 indicado ao Oscar. Agora tamb\u00e9m \u00e9 o curta-metragem do Oscar mais visto da hist\u00f3ria...",
+                "vote_average": 7.2,
+                "vote_count": 133
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Head over Heels",
+            "second_label": "Timothy Reckart and Fodhla Cronin O'Reilly",
+            "category": "Short Film (Animated)",
+            "year": 2013,
+            "tmdb": {
+                "id": 157305,
+                "original_title": "Head Over Heels",
+                "title": "Head Over Heels",
+                "release_date": "2012-05-24",
+                "backdrop_path": "/oL1YEALJT3GOXjgorl0nMh5p3kX.jpg",
+                "poster_path": "/jdpfNwhqgfissPi9AQpGTmHWRgW.jpg",
+                "overview": "Walter e Madge se distanciaram: ele mora no ch\u00e3o e ela no teto. Quando Walter tenta reacender seu antigo romance, o casal deve enfrentar seu equil\u00edbrio.",
+                "vote_average": 6.8,
+                "vote_count": 58
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Maggie Simpson in \"The Longest Daycare\"",
+            "second_label": "David Silverman",
+            "category": "Short Film (Animated)",
+            "year": 2013,
+            "tmdb": {
+                "id": 116440,
+                "original_title": "Maggie Simpson in \"The Longest Daycare\"",
+                "title": "O Dia Mais Longo na Creche",
+                "release_date": "2012-07-12",
+                "backdrop_path": "/cxJsU3BfJ7NkKae5gWqJkmu3aCO.jpg",
+                "poster_path": "/nD6WuToHtZISCFWDxGLAzj3fKz8.jpg",
+                "overview": "Maggie Simpson retorna \u00e0 Escola \"Ayn Rand School for Tots\". L\u00e1, as perspectivas futuras de Maggie s\u00e3o consideradas m\u00ednimas, de modo que ela fica em um dos quartos menos agrad\u00e1veis \u200b\u200bda creche, com apenas uma borboleta como companhia.\r \"The Longest Daycare\" N\u00e3o tem di\u00e1logos e \u00e9 executado por quatro minutos e 30 segundos. V\u00e1rios outros membros da fam\u00edlia Simpson ir\u00e3o aparecer, bem como o arqui-inimigo de Maggie, o beb\u00ea \"monocelha\" Gerald.",
+                "vote_average": 6.9,
+                "vote_count": 346
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Live Action)": [
+        {
+            "first_label": "Curfew",
+            "second_label": "Shawn Christensen",
+            "category": "Short Film (Live Action)",
+            "year": 2013,
+            "tmdb": {
+                "id": 157289,
+                "original_title": "Curfew",
+                "title": "Curfew",
+                "release_date": "2012-03-28",
+                "backdrop_path": "/ztlLXGHDXzTZChUs1ZmWyZvuR3U.jpg",
+                "poster_path": "/u1VvfX68rqTAMuKbWugWADBDO4B.jpg",
+                "overview": "At the lowest point of his life, Richie gets a call from his estranged sister asking him to look after his nine-year old niece, Sophia, for a few hours.",
+                "vote_average": 7.3,
+                "vote_count": 125
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Asad",
+            "second_label": "Bryan Buckley and Mino Jarjoura",
+            "category": "Short Film (Live Action)",
+            "year": 2013,
+            "tmdb": {
+                "id": 146891,
+                "original_title": "Asad",
+                "title": "Asad",
+                "release_date": "2012-04-12",
+                "backdrop_path": null,
+                "poster_path": "/ugbWzCBmPWRxkqeY0VZ533Hwxzy.jpg",
+                "overview": "A coming of age fable of a Somali boy as he struggles to survive in his war-torn land.",
+                "vote_average": 6.4,
+                "vote_count": 12
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Buzkashi Boys",
+            "second_label": "Sam French and Ariel Nasr",
+            "category": "Short Film (Live Action)",
+            "year": 2013,
+            "tmdb": {
+                "id": 146892,
+                "original_title": "Buzkashi Boys",
+                "title": "Buzkashi Boys",
+                "release_date": "2012-06-30",
+                "backdrop_path": null,
+                "poster_path": "/tCxuCqu2QKnVv6kt9Ny5kdydUl3.jpg",
+                "overview": "Set against the dramatic landscape of contemporary Afghanistan and the National sport of Buzkashi - a brutal game of horse polo played with a dead goat - Buzkashi Boys tells the coming of age story of two best friends, a charismatic street urchin and a defiant blacksmith's son, who struggle to realize their dreams as they make their way to manhood in one of the most war-torn countries on Earth. Shot on location in Kabul city by an alliance of Afghan and international film makers, Buzkashi Boys is a look at the life that continues beyond the headlines of war in Afghanistan.",
+                "vote_average": 6.2,
+                "vote_count": 16
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Death of a Shadow (Dood van een Schaduw)",
+            "second_label": "Tom Van Avermaet and Ellen De Waele",
+            "category": "Short Film (Live Action)",
+            "year": 2013,
+            "tmdb": {
+                "id": 146893,
+                "original_title": "Dood van een Schaduw",
+                "title": "Death of a Shadow",
+                "release_date": "2012-06-04",
+                "backdrop_path": "/5gSYMYPVFsYN45WOJNLNDlwHgBD.jpg",
+                "poster_path": "/eJQ3l6wR0RbsFS4ZvjXcMegFdEA.jpg",
+                "overview": "Soldier Nathan died during World War I. A strange collector imprisoned his shadow and gave him a new chance: a second life against 10000 captured shadows. It is love that guides him, as his purpose is to meet Sarah again, the woman he fell in love with before he died. But then he discovers that she's already in love with someone else, jealousy clouds his mind and pushes him towards a bitter decision, not without consequences.",
+                "vote_average": 6.9,
+                "vote_count": 32
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Henry",
+            "second_label": "Yan England",
+            "category": "Short Film (Live Action)",
+            "year": 2013,
+            "tmdb": {
+                "id": 107703,
+                "original_title": "Henry",
+                "title": "Henry",
+                "release_date": "2012-03-02",
+                "backdrop_path": null,
+                "poster_path": "/1Bm3PVZnCA5U3pwgr7OFk4l1859.jpg",
+                "overview": "The detective Silvestri has a zealous wife, a child on the way and a double murder to be solved in a livid  Rome selling drugs and consuming lives. His investigation intersects the lives of young people and affected Nina and John, in spite of themselves involved in the murder of a drug dealer and his mother. Aerobics instructor her layabout him, the young lovers try to work out and awkwardly from a story larger than themselves. In the background is moving while the murder underworld clan committed to winning a prestigious post in the heroin market. Among African criminals and delirious, Silvestri will be up to restore order and find the culprits. The price you pay will be high, however.",
+                "vote_average": 5.1,
+                "vote_count": 5
+            },
+            "winner": false
+        }
+    ],
+    "Sound Editing": [
+        {
+            "first_label": "Skyfall",
+            "second_label": "Per Hallberg and Karen Baker Landers",
+            "category": "Sound Editing",
+            "year": 2013,
+            "tmdb": {
+                "id": 37724,
+                "original_title": "Skyfall",
+                "title": "007: Opera\u00e7\u00e3o Skyfall",
+                "release_date": "2012-10-24",
+                "backdrop_path": "/mgcbG1w3lgj9lajGBXVUjLQti8P.jpg",
+                "poster_path": "/1U1gkQynuQRNsZ8zm13zSCGOFAj.jpg",
+                "overview": "Ap\u00f3s uma miss\u00e3o mal sucedida de James Bond, a identidade de agentes secretos \u00e9 revelada e o M16, atacado. Ajudado por um agente de campo, Bond dever\u00e1 seguir a trilha de Silva, um homem que habita o passado de M e que tem contas a acertar.",
+                "vote_average": 7.234,
+                "vote_count": 14770
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Zero Dark Thirty",
+            "second_label": "Paul N.J. Ottosson",
+            "category": "Sound Editing",
+            "year": 2013,
+            "tmdb": {
+                "id": 97630,
+                "original_title": "Zero Dark Thirty",
+                "title": "A Hora Mais Escura",
+                "release_date": "2012-12-19",
+                "backdrop_path": "/9d2RSOBmA5k6sDQoOkuBxJ9Gf7h.jpg",
+                "poster_path": "/fWpjkM77R5o4MV0nxO2cnywkCoJ.jpg",
+                "overview": "Maya \u00e9 uma agente da CIA que est\u00e1 por tr\u00e1s dos principais esfor\u00e7os em capturar Osama bin Laden, por ter descoberto os interlocutores do l\u00edder do grupo terrorista. Com isso ela participa da opera\u00e7\u00e3o que levou militares americanos a invadir o territ\u00f3rio paquistan\u00eas, com o objetivo de capturar e matar bin Laden.",
+                "vote_average": 7.0,
+                "vote_count": 4305
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Argo",
+            "second_label": "Erik Aadahl and Ethan Van der Ryn",
+            "category": "Sound Editing",
+            "year": 2013,
+            "tmdb": {
+                "id": 68734,
+                "original_title": "Argo",
+                "title": "Argo",
+                "release_date": "2012-10-11",
+                "backdrop_path": "/q4ISn9yyC5OnLT9ESkExHjBuK8d.jpg",
+                "poster_path": "/dZqmn3vr80UeSSj4QbVEUI8D7yb.jpg",
+                "overview": "Quando a revolu\u00e7\u00e3o iraniana invade a embaixada dos EUA em Teer\u00e3, seis cidad\u00e3os americanos escapam. Agora, somente um homem \u00e9 capaz de tir\u00e1-los de tr\u00e1s das linhas inimigas. Tony Mendez \u00e9 um brilhante agente da CIA que se especializou em fugas imposs\u00edveis, mas seu mais recente plano \u00e9 t\u00e3o audacioso quando desesperador. Disfar\u00e7ados como equipe de produ\u00e7\u00e3o de um filme, Tony e os fugitivos devem se esconder \u00e0s vistas de todos e o menor deslize pode significar morte instant\u00e2nea.",
+                "vote_average": 7.3,
+                "vote_count": 7975
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Django Unchained",
+            "second_label": "Wylie Stateman",
+            "category": "Sound Editing",
+            "year": 2013,
+            "tmdb": {
+                "id": 68718,
+                "original_title": "Django Unchained",
+                "title": "Django Livre",
+                "release_date": "2012-12-25",
+                "backdrop_path": "/5Lbm0gpFDRAPIV1Cth6ln9iL1ou.jpg",
+                "poster_path": "/ar63Sx8jeqk0OOu2uchS477S2zE.jpg",
+                "overview": "Django \u00e9 um escravo, comprado pelo ca\u00e7ador de recompensas alem\u00e3o Dr. King Schultz para auxili\u00e1-lo em uma miss\u00e3o. A dupla acaba fazendo amizade e, ap\u00f3s resolver os problemas do ca\u00e7ador, parte em busca por Broomhilda, esposa de Django. Para isso, eles devem enfrentar o vil\u00e3o Calvin Candie, propriet\u00e1rio da escrava.",
+                "vote_average": 8.177,
+                "vote_count": 25401
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Life of Pi",
+            "second_label": "Eugene Gearty and Philip Stockton",
+            "category": "Sound Editing",
+            "year": 2013,
+            "tmdb": {
+                "id": 87827,
+                "original_title": "Life of Pi",
+                "title": "As Aventuras de Pi",
+                "release_date": "2012-11-20",
+                "backdrop_path": "/lcyippCCbZOliGxX7HbTNyWf98q.jpg",
+                "poster_path": "/nAE3BCzE5S4NmUHSmO9mXVqZRUa.jpg",
+                "overview": "Pi Patel \u00e9 filho do dono de um zool\u00f3gico localizado em Pondicherry, na \u00cdndia. Ap\u00f3s anos cuidando do neg\u00f3cio, a fam\u00edlia decide vender o empreendimento devido \u00e0 retirada do incentivo dado pela prefeitura local. A ideia \u00e9 se mudar para o Canad\u00e1, onde poderiam vender os animais para reiniciar a vida. Entretanto, o cargueiro onde todos viajam acaba naufragando devido a uma terr\u00edvel tempestade. Pi consegue sobreviver em um bote salva-vidas, mas precisa dividir o pouco espa\u00e7o dispon\u00edvel com uma zebra, um orangotango, uma hiena e um tigre de bengala chamado Richard Parker.",
+                "vote_average": 7.398,
+                "vote_count": 12693
+            },
+            "winner": false
+        }
+    ],
+    "Sound Mixing": [
+        {
+            "first_label": "Les Mis_rables",
+            "second_label": "Andy Nelson, Mark Paterson and Simon Hayes",
+            "category": "Sound Mixing",
+            "year": 2013,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Argo",
+            "second_label": "John Reitz, Gregg Rudloff and Jose Antonio Garcia",
+            "category": "Sound Mixing",
+            "year": 2013,
+            "tmdb": {
+                "id": 68734,
+                "original_title": "Argo",
+                "title": "Argo",
+                "release_date": "2012-10-11",
+                "backdrop_path": "/q4ISn9yyC5OnLT9ESkExHjBuK8d.jpg",
+                "poster_path": "/dZqmn3vr80UeSSj4QbVEUI8D7yb.jpg",
+                "overview": "Quando a revolu\u00e7\u00e3o iraniana invade a embaixada dos EUA em Teer\u00e3, seis cidad\u00e3os americanos escapam. Agora, somente um homem \u00e9 capaz de tir\u00e1-los de tr\u00e1s das linhas inimigas. Tony Mendez \u00e9 um brilhante agente da CIA que se especializou em fugas imposs\u00edveis, mas seu mais recente plano \u00e9 t\u00e3o audacioso quando desesperador. Disfar\u00e7ados como equipe de produ\u00e7\u00e3o de um filme, Tony e os fugitivos devem se esconder \u00e0s vistas de todos e o menor deslize pode significar morte instant\u00e2nea.",
+                "vote_average": 7.3,
+                "vote_count": 7975
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Life of Pi",
+            "second_label": "Ron Bartlett, D.M. Hemphill and Drew Kunin",
+            "category": "Sound Mixing",
+            "year": 2013,
+            "tmdb": {
+                "id": 87827,
+                "original_title": "Life of Pi",
+                "title": "As Aventuras de Pi",
+                "release_date": "2012-11-20",
+                "backdrop_path": "/lcyippCCbZOliGxX7HbTNyWf98q.jpg",
+                "poster_path": "/nAE3BCzE5S4NmUHSmO9mXVqZRUa.jpg",
+                "overview": "Pi Patel \u00e9 filho do dono de um zool\u00f3gico localizado em Pondicherry, na \u00cdndia. Ap\u00f3s anos cuidando do neg\u00f3cio, a fam\u00edlia decide vender o empreendimento devido \u00e0 retirada do incentivo dado pela prefeitura local. A ideia \u00e9 se mudar para o Canad\u00e1, onde poderiam vender os animais para reiniciar a vida. Entretanto, o cargueiro onde todos viajam acaba naufragando devido a uma terr\u00edvel tempestade. Pi consegue sobreviver em um bote salva-vidas, mas precisa dividir o pouco espa\u00e7o dispon\u00edvel com uma zebra, um orangotango, uma hiena e um tigre de bengala chamado Richard Parker.",
+                "vote_average": 7.398,
+                "vote_count": 12693
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lincoln",
+            "second_label": "Andy Nelson, Gary Rydstrom and Ronald Judkins",
+            "category": "Sound Mixing",
+            "year": 2013,
+            "tmdb": {
+                "id": 72976,
+                "original_title": "Lincoln",
+                "title": "Lincoln",
+                "release_date": "2012-11-09",
+                "backdrop_path": "/q8p5JPFmdRiRcoUFKefxW1gq8Ec.jpg",
+                "poster_path": "/Ah8nlXt06HTKfIbMQFGmuJmVIfq.jpg",
+                "overview": "O filme se passa durante a Guerra Civil norte-americana, que acabou com a vit\u00f3ria do Norte. Ao mesmo tempo em que se preocupava com o conflito, o o 16\u00ba presidente norte-americano, Abraham Lincoln (Daniel Day-Lewis), travava uma batalha ainda mais dif\u00edcil em Washington. Ao lado de seus colegas de partido, ele tentava passar uma emenda \u00e0 Constitui\u00e7\u00e3o dos Estados Unidos que acabava com a escravid\u00e3o.",
+                "vote_average": 6.9,
+                "vote_count": 3613
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Skyfall",
+            "second_label": "Scott Millan, Greg P. Russell and Stuart Wilson",
+            "category": "Sound Mixing",
+            "year": 2013,
+            "tmdb": {
+                "id": 37724,
+                "original_title": "Skyfall",
+                "title": "007: Opera\u00e7\u00e3o Skyfall",
+                "release_date": "2012-10-24",
+                "backdrop_path": "/mgcbG1w3lgj9lajGBXVUjLQti8P.jpg",
+                "poster_path": "/1U1gkQynuQRNsZ8zm13zSCGOFAj.jpg",
+                "overview": "Ap\u00f3s uma miss\u00e3o mal sucedida de James Bond, a identidade de agentes secretos \u00e9 revelada e o M16, atacado. Ajudado por um agente de campo, Bond dever\u00e1 seguir a trilha de Silva, um homem que habita o passado de M e que tem contas a acertar.",
+                "vote_average": 7.234,
+                "vote_count": 14770
+            },
+            "winner": false
+        }
+    ],
+    "Visual Effects": [
+        {
+            "first_label": "Life of Pi",
+            "second_label": "Bill Westenhofer, Guillaume Rocheron, Erik-Jan De Boer and Donald R. Elliott",
+            "category": "Visual Effects",
+            "year": 2013,
+            "tmdb": {
+                "id": 87827,
+                "original_title": "Life of Pi",
+                "title": "As Aventuras de Pi",
+                "release_date": "2012-11-20",
+                "backdrop_path": "/lcyippCCbZOliGxX7HbTNyWf98q.jpg",
+                "poster_path": "/nAE3BCzE5S4NmUHSmO9mXVqZRUa.jpg",
+                "overview": "Pi Patel \u00e9 filho do dono de um zool\u00f3gico localizado em Pondicherry, na \u00cdndia. Ap\u00f3s anos cuidando do neg\u00f3cio, a fam\u00edlia decide vender o empreendimento devido \u00e0 retirada do incentivo dado pela prefeitura local. A ideia \u00e9 se mudar para o Canad\u00e1, onde poderiam vender os animais para reiniciar a vida. Entretanto, o cargueiro onde todos viajam acaba naufragando devido a uma terr\u00edvel tempestade. Pi consegue sobreviver em um bote salva-vidas, mas precisa dividir o pouco espa\u00e7o dispon\u00edvel com uma zebra, um orangotango, uma hiena e um tigre de bengala chamado Richard Parker.",
+                "vote_average": 7.398,
+                "vote_count": 12693
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Hobbit: An Unexpected Journey",
+            "second_label": "Joe Letteri, Eric Saindon, David Clayton and R. Christopher White",
+            "category": "Visual Effects",
+            "year": 2013,
+            "tmdb": {
+                "id": 49051,
+                "original_title": "The Hobbit: An Unexpected Journey",
+                "title": "O Hobbit: Uma Jornada Inesperada",
+                "release_date": "2012-12-12",
+                "backdrop_path": "/xyXmtuvsoM5J3yNad0nvcetpBdY.jpg",
+                "poster_path": "/qmHzmfcCWKyQZ8NFQkIYH8JdShI.jpg",
+                "overview": "Como a maioria dos hobbits, Bilbo Bolseiro leva uma vida tranquila at\u00e9 o dia em que recebe uma miss\u00e3o do mago Gandalf. Acompanhado por um grupo de an\u00f5es, ele parte numa jornada at\u00e9 a Montanha Solit\u00e1ria para libertar o Reino de Erebor do drag\u00e3o Smaug.",
+                "vote_average": 7.3,
+                "vote_count": 17802
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Marvel's The Avengers",
+            "second_label": "Janek Sirrs, Jeff White, Guy Williams and Dan Sudick",
+            "category": "Visual Effects",
+            "year": 2013,
+            "tmdb": {
+                "id": 24428,
+                "original_title": "The Avengers",
+                "title": "Os Vingadores: The Avengers",
+                "release_date": "2012-04-25",
+                "backdrop_path": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+                "poster_path": "/PtSapjHdDjlVcsqdEo0u7rDE6i.jpg",
+                "overview": "Loki, o irm\u00e3o de Thor, ganha acesso ao poder ilimitado do cubo c\u00f3smico ao roub\u00e1-lo de dentro das instala\u00e7\u00f5es da S.H.I.E.L.D. Nick Fury, o diretor desta ag\u00eancia internacional que mant\u00e9m a paz, logo re\u00fane os \u00fanicos super-her\u00f3is que ser\u00e3o capazes de defender a Terra de amea\u00e7as sem precedentes. Homem de Ferro, Capit\u00e3o Am\u00e9rica, Hulk, Thor, Vi\u00fava Negra e Gavi\u00e3o Arqueiro formam o time dos sonhos de Fury, mas eles precisam aprender a colocar os egos de lado e agir como um grupo em prol da humanidade.",
+                "vote_average": 7.712,
+                "vote_count": 29851
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Prometheus",
+            "second_label": "Richard Stammers, Trevor Wood, Charley Henley and Martin Hill",
+            "category": "Visual Effects",
+            "year": 2013,
+            "tmdb": {
+                "id": 70981,
+                "original_title": "Prometheus",
+                "title": "Prometheus",
+                "release_date": "2012-05-30",
+                "backdrop_path": "/vMDdWQuvOjg9yUjMJrNunXq9cmw.jpg",
+                "poster_path": "/k1GZVllOORTiN0XTPdumt9CSAcc.jpg",
+                "overview": "Uma equipe de cientistas embarca em uma jornada espacial para descobrir a verdade sobre a origem da ra\u00e7a humana. No planeta de destino, eles encontram criaturas poderosas e revela\u00e7\u00f5es assustadoras.",
+                "vote_average": 6.547,
+                "vote_count": 11628
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Snow White and the Huntsman",
+            "second_label": "Cedric Nicolas-Troyan, Philip Brennan, Neil Corbould and Michael Dawson",
+            "category": "Visual Effects",
+            "year": 2013,
+            "tmdb": {
+                "id": 58595,
+                "original_title": "Snow White and the Huntsman",
+                "title": "Branca de Neve e o Ca\u00e7ador",
+                "release_date": "2012-05-30",
+                "backdrop_path": "/KBe9fHU5rVg4daoKnFwl1Cbc28.jpg",
+                "poster_path": "/jlXNRuDfoCRLvnVwU41DLO0p3ze.jpg",
+                "overview": "A Rainha Ravenna quer destruir a Branca de Neve, que \u00e9 mais bonita do que ela. A rainha contrata um ca\u00e7ador, mas tudo come\u00e7a a dar errado quando ele ajuda a princesa.",
+                "vote_average": 5.984,
+                "vote_count": 7653
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Adapted Screenplay)": [
+        {
+            "first_label": "Argo",
+            "second_label": "Screenplay by Chris Terrio",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2013,
+            "tmdb": {
+                "id": 68734,
+                "original_title": "Argo",
+                "title": "Argo",
+                "release_date": "2012-10-11",
+                "backdrop_path": "/q4ISn9yyC5OnLT9ESkExHjBuK8d.jpg",
+                "poster_path": "/dZqmn3vr80UeSSj4QbVEUI8D7yb.jpg",
+                "overview": "Quando a revolu\u00e7\u00e3o iraniana invade a embaixada dos EUA em Teer\u00e3, seis cidad\u00e3os americanos escapam. Agora, somente um homem \u00e9 capaz de tir\u00e1-los de tr\u00e1s das linhas inimigas. Tony Mendez \u00e9 um brilhante agente da CIA que se especializou em fugas imposs\u00edveis, mas seu mais recente plano \u00e9 t\u00e3o audacioso quando desesperador. Disfar\u00e7ados como equipe de produ\u00e7\u00e3o de um filme, Tony e os fugitivos devem se esconder \u00e0s vistas de todos e o menor deslize pode significar morte instant\u00e2nea.",
+                "vote_average": 7.3,
+                "vote_count": 7975
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Beasts of the Southern Wild",
+            "second_label": "Screenplay by Lucy Alibar & Benh Zeitlin",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2013,
+            "tmdb": {
+                "id": 84175,
+                "original_title": "Beasts of the Southern Wild",
+                "title": "Indom\u00e1vel Sonhadora",
+                "release_date": "2012-06-29",
+                "backdrop_path": "/7LWLPvyfLSb2oOlgWwAwUqA8uKo.jpg",
+                "poster_path": "/2s3E9RQAiiHWKsOknSi6LSNCOmY.jpg",
+                "overview": "Hushpuppy \u00e9 uma menina de apenas 6 anos de idade que vive em uma comunidade miser\u00e1vel isolada \u00e0s margens de um rio. Ela est\u00e1 correndo o risco de ficar \u00f3rf\u00e3, pois seu pai est\u00e1 muito doente. Ele, por sua vez, se recusa a procurar ajuda m\u00e9dica. Um dia, pai e filha precisam lidar com as consequ\u00eancias trazidas por uma forte tempestade, que inunda toda a comunidade. Vivendo em um barco, eles encontram alguns amigos que os ajudam. Entretanto, o pai v\u00ea como \u00fanica sa\u00edda explodir a barragem de uma represa pr\u00f3xima, o que faria com que a \u00e1gua baixasse rapidamente e a situa\u00e7\u00e3o voltasse a ser como era antes.",
+                "vote_average": 6.8,
+                "vote_count": 1006
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Life of Pi",
+            "second_label": "Screenplay by David Magee",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2013,
+            "tmdb": {
+                "id": 87827,
+                "original_title": "Life of Pi",
+                "title": "As Aventuras de Pi",
+                "release_date": "2012-11-20",
+                "backdrop_path": "/lcyippCCbZOliGxX7HbTNyWf98q.jpg",
+                "poster_path": "/nAE3BCzE5S4NmUHSmO9mXVqZRUa.jpg",
+                "overview": "Pi Patel \u00e9 filho do dono de um zool\u00f3gico localizado em Pondicherry, na \u00cdndia. Ap\u00f3s anos cuidando do neg\u00f3cio, a fam\u00edlia decide vender o empreendimento devido \u00e0 retirada do incentivo dado pela prefeitura local. A ideia \u00e9 se mudar para o Canad\u00e1, onde poderiam vender os animais para reiniciar a vida. Entretanto, o cargueiro onde todos viajam acaba naufragando devido a uma terr\u00edvel tempestade. Pi consegue sobreviver em um bote salva-vidas, mas precisa dividir o pouco espa\u00e7o dispon\u00edvel com uma zebra, um orangotango, uma hiena e um tigre de bengala chamado Richard Parker.",
+                "vote_average": 7.398,
+                "vote_count": 12693
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lincoln",
+            "second_label": "Screenplay by Tony Kushner",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2013,
+            "tmdb": {
+                "id": 72976,
+                "original_title": "Lincoln",
+                "title": "Lincoln",
+                "release_date": "2012-11-09",
+                "backdrop_path": "/q8p5JPFmdRiRcoUFKefxW1gq8Ec.jpg",
+                "poster_path": "/Ah8nlXt06HTKfIbMQFGmuJmVIfq.jpg",
+                "overview": "O filme se passa durante a Guerra Civil norte-americana, que acabou com a vit\u00f3ria do Norte. Ao mesmo tempo em que se preocupava com o conflito, o o 16\u00ba presidente norte-americano, Abraham Lincoln (Daniel Day-Lewis), travava uma batalha ainda mais dif\u00edcil em Washington. Ao lado de seus colegas de partido, ele tentava passar uma emenda \u00e0 Constitui\u00e7\u00e3o dos Estados Unidos que acabava com a escravid\u00e3o.",
+                "vote_average": 6.9,
+                "vote_count": 3613
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Silver Linings Playbook",
+            "second_label": "Screenplay by David O. Russell",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2013,
+            "tmdb": {
+                "id": 82693,
+                "original_title": "Silver Linings Playbook",
+                "title": "O Lado Bom da Vida",
+                "release_date": "2012-11-16",
+                "backdrop_path": "/92Ppi99LkZFHUgpxwYRxcKZVZNH.jpg",
+                "poster_path": "/5R2ZLkflncVmRzTvSVP7MooxZ0C.jpg",
+                "overview": "Ao perder o emprego e a esposa, Pat Solatano vai morar com os pais. Ele quer reconstruir sua vida, mas seus pais ficariam felizes se ele simplesmente gostasse tanto do Philadelphia Eagles quanto eles. Tudo se complica quando Pat conhece Tiffany, que oferece ajuda para ele reconquistar a esposa.",
+                "vote_average": 7.1,
+                "vote_count": 11628
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Original Screenplay)": [
+        {
+            "first_label": "Django Unchained",
+            "second_label": "Written by Quentin Tarantino",
+            "category": "Writing (Original Screenplay)",
+            "year": 2013,
+            "tmdb": {
+                "id": 68718,
+                "original_title": "Django Unchained",
+                "title": "Django Livre",
+                "release_date": "2012-12-25",
+                "backdrop_path": "/5Lbm0gpFDRAPIV1Cth6ln9iL1ou.jpg",
+                "poster_path": "/ar63Sx8jeqk0OOu2uchS477S2zE.jpg",
+                "overview": "Django \u00e9 um escravo, comprado pelo ca\u00e7ador de recompensas alem\u00e3o Dr. King Schultz para auxili\u00e1-lo em uma miss\u00e3o. A dupla acaba fazendo amizade e, ap\u00f3s resolver os problemas do ca\u00e7ador, parte em busca por Broomhilda, esposa de Django. Para isso, eles devem enfrentar o vil\u00e3o Calvin Candie, propriet\u00e1rio da escrava.",
+                "vote_average": 8.177,
+                "vote_count": 25401
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Amour",
+            "second_label": "Written by Michael Haneke",
+            "category": "Writing (Original Screenplay)",
+            "year": 2013,
+            "tmdb": {
+                "id": 86837,
+                "original_title": "Amour",
+                "title": "Amor",
+                "release_date": "2012-09-20",
+                "backdrop_path": "/w7Z4BVMin49voNN61IUWyN9DopV.jpg",
+                "poster_path": "/obCBsX3PIqCckibGraeJRMubDYX.jpg",
+                "overview": "Georges e Anne s\u00e3o um casal de aposentados que costumavam dar aulas de m\u00fasica. Eles t\u00eam uma filha musicista que vive com marido e filhos em um pa\u00eds estrangeiro. Certo dia, Anne sofre um derrame e fica com um lado do corpo paralisado. O casal de idosos passa por graves obst\u00e1culos, que colocar\u00e3o o seu amor em teste.",
+                "vote_average": 7.8,
+                "vote_count": 1524
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Flight",
+            "second_label": "Written by John Gatins",
+            "category": "Writing (Original Screenplay)",
+            "year": 2013,
+            "tmdb": {
+                "id": 87502,
+                "original_title": "Flight",
+                "title": "O Voo",
+                "release_date": "2012-11-02",
+                "backdrop_path": "/bQMRePvke0SruzXuDmx9v8vqNWW.jpg",
+                "poster_path": "/vlWHFsqzRUWHk1G9T4wyfCVYLFI.jpg",
+                "overview": "O motor de um avi\u00e3o d\u00e1 problema, e o piloto Whisp Whitaker consegue salvar a aeronave e seus passageiros, tornando-se um her\u00f3i. Mas a Administra\u00e7\u00e3o Federal de Avia\u00e7\u00e3o investiga o epis\u00f3dio e encontra evid\u00eancias de abuso de \u00e1lcool e drogas ap\u00f3s um exame de sangue. O problema \u00e9 posto de lado para tentar preservar a imagem do comandante, que est\u00e1 determinado a mudar o rumo de sua vida.",
+                "vote_average": 6.8,
+                "vote_count": 5728
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Moonrise Kingdom",
+            "second_label": "Written by Wes Anderson & Roman Coppola",
+            "category": "Writing (Original Screenplay)",
+            "year": 2013,
+            "tmdb": {
+                "id": 83666,
+                "original_title": "Moonrise Kingdom",
+                "title": "Moonrise Kingdom",
+                "release_date": "2012-05-16",
+                "backdrop_path": "/bsYv9IFIGfpAV0oUbe7YTiyxhox.jpg",
+                "poster_path": "/s5YzV51Y3ekfdrLkE2vDibdnWBB.jpg",
+                "overview": "Em 1965, residentes de uma ilha formam uma comunidade aparentemente imune aos males do resto do mundo. Os adolescentes Sam e Suzy se apaixonam e decidem fugir antes da chegada de uma violenta tempestade que amea\u00e7a a regi\u00e3o.",
+                "vote_average": 7.7,
+                "vote_count": 5617
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Zero Dark Thirty",
+            "second_label": "Written by Mark Boal",
+            "category": "Writing (Original Screenplay)",
+            "year": 2013,
+            "tmdb": {
+                "id": 97630,
+                "original_title": "Zero Dark Thirty",
+                "title": "A Hora Mais Escura",
+                "release_date": "2012-12-19",
+                "backdrop_path": "/9d2RSOBmA5k6sDQoOkuBxJ9Gf7h.jpg",
+                "poster_path": "/fWpjkM77R5o4MV0nxO2cnywkCoJ.jpg",
+                "overview": "Maya \u00e9 uma agente da CIA que est\u00e1 por tr\u00e1s dos principais esfor\u00e7os em capturar Osama bin Laden, por ter descoberto os interlocutores do l\u00edder do grupo terrorista. Com isso ela participa da opera\u00e7\u00e3o que levou militares americanos a invadir o territ\u00f3rio paquistan\u00eas, com o objetivo de capturar e matar bin Laden.",
+                "vote_average": 7.0,
+                "vote_count": 4305
+            },
+            "winner": false
+        }
+    ]
+}

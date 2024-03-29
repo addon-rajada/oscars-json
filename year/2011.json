@@ -1,0 +1,2046 @@
+{
+    "Actor in a Leading Role": [
+        {
+            "first_label": "Colin Firth",
+            "second_label": "The King's Speech",
+            "category": "Actor in a Leading Role",
+            "year": 2011,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Javier Bardem",
+            "second_label": "Biutiful",
+            "category": "Actor in a Leading Role",
+            "year": 2011,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jeff Bridges",
+            "second_label": "True Grit",
+            "category": "Actor in a Leading Role",
+            "year": 2011,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jesse Eisenberg",
+            "second_label": "The Social Network",
+            "category": "Actor in a Leading Role",
+            "year": 2011,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "James Franco",
+            "second_label": "127 Hours",
+            "category": "Actor in a Leading Role",
+            "year": 2011,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Christian Bale",
+            "second_label": "The Fighter",
+            "category": "Actor in a Supporting Role",
+            "year": 2011,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "John Hawkes",
+            "second_label": "Winter's Bone",
+            "category": "Actor in a Supporting Role",
+            "year": 2011,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jeremy Renner",
+            "second_label": "The Town",
+            "category": "Actor in a Supporting Role",
+            "year": 2011,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mark Ruffalo",
+            "second_label": "The Kids Are All Right",
+            "category": "Actor in a Supporting Role",
+            "year": 2011,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Geoffrey Rush",
+            "second_label": "The King's Speech",
+            "category": "Actor in a Supporting Role",
+            "year": 2011,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Leading Role": [
+        {
+            "first_label": "Natalie Portman",
+            "second_label": "Black Swan",
+            "category": "Actress in a Leading Role",
+            "year": 2011,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Annette Bening",
+            "second_label": "The Kids Are All Right",
+            "category": "Actress in a Leading Role",
+            "year": 2011,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Nicole Kidman",
+            "second_label": "Rabbit Hole",
+            "category": "Actress in a Leading Role",
+            "year": 2011,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jennifer Lawrence",
+            "second_label": "Winter's Bone",
+            "category": "Actress in a Leading Role",
+            "year": 2011,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Michelle Williams",
+            "second_label": "Blue Valentine",
+            "category": "Actress in a Leading Role",
+            "year": 2011,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Melissa Leo",
+            "second_label": "The Fighter",
+            "category": "Actress in a Supporting Role",
+            "year": 2011,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Amy Adams",
+            "second_label": "The Fighter",
+            "category": "Actress in a Supporting Role",
+            "year": 2011,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Helena Bonham Carter",
+            "second_label": "The King's Speech",
+            "category": "Actress in a Supporting Role",
+            "year": 2011,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hailee Steinfeld",
+            "second_label": "True Grit",
+            "category": "Actress in a Supporting Role",
+            "year": 2011,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jacki Weaver",
+            "second_label": "Animal Kingdom",
+            "category": "Actress in a Supporting Role",
+            "year": 2011,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Animated Feature Film": [
+        {
+            "first_label": "Toy Story 3",
+            "second_label": "Lee Unkrich",
+            "category": "Animated Feature Film",
+            "year": 2011,
+            "tmdb": {
+                "id": 10193,
+                "original_title": "Toy Story 3",
+                "title": "Toy Story 3",
+                "release_date": "2010-06-16",
+                "backdrop_path": "/wE5JGzujfvDPMIfFjJyrhXFjZLc.jpg",
+                "poster_path": "/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
+                "overview": "Quando Andy se prepara para ir para a faculdade, Woody, Buzz, Jessie e o restante dos leais brinquedos de Andy pensam o que ir\u00e1 acontecer com eles. Mas quando uma confus\u00e3o faz com que eles sejam levados \u00e0 creche Sunnyside, eles conhecem um anfitri\u00e3o de novos brinquedos e logo descobrem que uma nova aventura selvagem est\u00e1 apenas come\u00e7ando!",
+                "vote_average": 7.795,
+                "vote_count": 14154
+            },
+            "winner": true
+        },
+        {
+            "first_label": "How to Train Your Dragon",
+            "second_label": "Chris Sanders and Dean DeBlois",
+            "category": "Animated Feature Film",
+            "year": 2011,
+            "tmdb": {
+                "id": 10191,
+                "original_title": "How to Train Your Dragon",
+                "title": "Como Treinar o Seu Drag\u00e3o",
+                "release_date": "2010-03-18",
+                "backdrop_path": "/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
+                "poster_path": "/unDtQ5SwuXJLJW6WB3F9yaSfIbl.jpg",
+                "overview": "Solu\u00e7o \u00e9 um jovem viking que desafia a tradi\u00e7\u00e3o, quando fica amigo de um dos mais mortais inimigos \u2014 um feroz drag\u00e3o que ele chama de Banguela.",
+                "vote_average": 7.8,
+                "vote_count": 12488
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Illusionist",
+            "second_label": "Sylvain Chomet",
+            "category": "Animated Feature Film",
+            "year": 2011,
+            "tmdb": {
+                "id": 1491,
+                "original_title": "The Illusionist",
+                "title": "O Ilusionista",
+                "release_date": "2006-08-18",
+                "backdrop_path": "/goBTeGaT42cVNjXRlRVQDnEmCvI.jpg",
+                "poster_path": "/uvHWsmniMfN8vfXerzwQueacv6w.jpg",
+                "overview": "Viena, in\u00edcio dos anos 1900. Um famoso m\u00e1gico chamado Eisenheim se apaixona por uma duquesa comprometida e usa suas habilidades para roub\u00e1-la das garras do noivo, o pr\u00edncipe herdeiro.",
+                "vote_average": 7.296,
+                "vote_count": 4688
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction": [
+        {
+            "first_label": "Alice in Wonderland",
+            "second_label": "Production Design: Robert Stromberg; Set Decoration: Karen O'Hara",
+            "category": "Art Direction",
+            "year": 2011,
+            "tmdb": {
+                "id": 12155,
+                "original_title": "Alice in Wonderland",
+                "title": "Alice no Pa\u00eds das Maravilhas",
+                "release_date": "2010-03-03",
+                "backdrop_path": "/ylEXht4BndyodoWM5YwEvWtWmHE.jpg",
+                "poster_path": "/fjaiHtykx4LcHJLzhKhn7tNPpAj.jpg",
+                "overview": "A Alice de 19 anos de idade, que regressa ao exc\u00eantrico mundo que encontrou pela primeira vez quando era crian\u00e7a reunindo-se assim com os seus amigos de inf\u00e2ncia: o Coelho Branco, Tweedledee e Tweedledum, a Ratazana, a Lagarta, o Gato Cheshire, e claro, o Chapeleiro Louco. Alice embarca numa fant\u00e1stica viagem para encontrar o seu verdadeiro destino e acabar com o reino de terror da Rainha Vermelha.",
+                "vote_average": 6.632,
+                "vote_count": 13483
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Harry Potter and the Deathly Hallows Part 1",
+            "second_label": "Production Design: Stuart Craig; Set Decoration: Stephenie McMillan",
+            "category": "Art Direction",
+            "year": 2011,
+            "tmdb": {
+                "id": 12444,
+                "original_title": "Harry Potter and the Deathly Hallows: Part 1",
+                "title": "Harry Potter e as Rel\u00edquias da Morte - Parte 1",
+                "release_date": "2010-11-17",
+                "backdrop_path": "/AqLcLsGGTzAjm3pCCq0CZCQrp6m.jpg",
+                "poster_path": "/67FVFOTaeBUQnimhCWpUkDawDct.jpg",
+                "overview": "Harry, Ron e Hermione est\u00e3o determinados em sua miss\u00e3o de descobrir e acabar com o segredo da imortalidade e do poder de destrui\u00e7\u00e3o de Voldemort \u2013 os Horcruxes. Fugitivos e sozinhos, os tr\u00eas amigos devem apenas contar uns com os outros, agora mas do que nunca... Mas as For\u00e7as das Trevas no caminho amea\u00e7am separ\u00e1-los para sempre.",
+                "vote_average": 7.755,
+                "vote_count": 18382
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Inception",
+            "second_label": "Production Design: Guy Hendrix Dyas; Set Decoration: Larry Dias and Doug Mowat",
+            "category": "Art Direction",
+            "year": 2011,
+            "tmdb": {
+                "id": 27205,
+                "original_title": "Inception",
+                "title": "A Origem",
+                "release_date": "2010-07-15",
+                "backdrop_path": "/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+                "poster_path": "/9e3Dz7aCANy5aRUQF745IlNloJ1.jpg",
+                "overview": "Um ladr\u00e3o que rouba segredos corporativos por meio do uso da tecnologia de compartilhamento de sonhos, recebe a tarefa inversa de plantar uma ideia na mente de um Diretor Executivo.",
+                "vote_average": 8.367,
+                "vote_count": 35454
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The King's Speech",
+            "second_label": "Production Design: Eve Stewart; Set Decoration: Judy Farr",
+            "category": "Art Direction",
+            "year": 2011,
+            "tmdb": {
+                "id": 45269,
+                "original_title": "The King's Speech",
+                "title": "O Discurso do Rei",
+                "release_date": "2010-11-26",
+                "backdrop_path": "/5eb7l7AE2yU0mvb38fR5qLNhDDH.jpg",
+                "poster_path": "/poXqTEX1UpqgAvWdlsndTCxZhaJ.jpg",
+                "overview": "O Pr\u00edncipe Albert da Inglaterra deve ascender ao trono como Rei George VI, mas ele tem um problema de fala. Sabendo que o pa\u00eds precisa que seu marido seja capaz de se comunicar perfeitamente, Elizabeth contrata Lionel Logue, um ator australiano e fonoaudi\u00f3logo, para ajudar o Pr\u00edncipe a superar a gagueira. Uma extraordin\u00e1ria amizade desenvolve-se entre os dois homens, e Logue usa meios n\u00e3o convencionais para ensinar o monarca a falar com seguran\u00e7a.",
+                "vote_average": 7.7,
+                "vote_count": 8393
+            },
+            "winner": false
+        },
+        {
+            "first_label": "True Grit",
+            "second_label": "Production Design: Jess Gonchor; Set Decoration: Nancy Haigh",
+            "category": "Art Direction",
+            "year": 2011,
+            "tmdb": {
+                "id": 44264,
+                "original_title": "True Grit",
+                "title": "Bravura Ind\u00f4mita",
+                "release_date": "2010-12-22",
+                "backdrop_path": "/zztSrG61sqoHH5Zr66Z27fpbb26.jpg",
+                "poster_path": "/dRFcmou6HSCsMUXVG5GVy9UH7R4.jpg",
+                "overview": "Depois que um bandido chamado Tom Chaney assassina seu pai, uma menina de 14 anos e mal-humorada, Mattie Ross, contrata Rooster Cogburn, um embriagado homem da lei para ajud\u00e1-la a encontrar Chaney e vingar seu pai . A dupla briguenta n\u00e3o est\u00e1 sozinha em sua busca. Um Texas Ranger, chamado LaBoeuf, tamb\u00e9m vem monitorando Chaney por raz\u00f5es pr\u00f3prias. Juntos, o trio se aventura em um territ\u00f3rio hostil para distribuir um pouco da justi\u00e7a do Velho Oeste.",
+                "vote_average": 7.3,
+                "vote_count": 5029
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "Inception",
+            "second_label": "Wally Pfister",
+            "category": "Cinematography",
+            "year": 2011,
+            "tmdb": {
+                "id": 27205,
+                "original_title": "Inception",
+                "title": "A Origem",
+                "release_date": "2010-07-15",
+                "backdrop_path": "/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+                "poster_path": "/9e3Dz7aCANy5aRUQF745IlNloJ1.jpg",
+                "overview": "Um ladr\u00e3o que rouba segredos corporativos por meio do uso da tecnologia de compartilhamento de sonhos, recebe a tarefa inversa de plantar uma ideia na mente de um Diretor Executivo.",
+                "vote_average": 8.367,
+                "vote_count": 35454
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Black Swan",
+            "second_label": "Matthew Libatique",
+            "category": "Cinematography",
+            "year": 2011,
+            "tmdb": {
+                "id": 44214,
+                "original_title": "Black Swan",
+                "title": "Cisne Negro",
+                "release_date": "2010-12-03",
+                "backdrop_path": "/hqh5O4KssfJWI62HGAgrjHXbxhD.jpg",
+                "poster_path": "/dcj2nZwSRFIUm0Qv1roHNkUtOEm.jpg",
+                "overview": "Nina \u00e9 uma bailarina cuja obsess\u00e3o pela dan\u00e7a supera todas as facetas de sua vida. Quando o diretor art\u00edstico da companhia decide substituir sua prima ballerina para a produ\u00e7\u00e3o de estreia de \"O Lago dos Cisnes\", Nina \u00e9 sua primeira escolha. Sua concorrente \u00e9 a novata Lily. Embora Nina seja perfeita para o papel do Cisne Branco, Lily personifica o Cisne Negro. A rivalidade entre as duas bailarinas se transforma em uma amizade distorcida e o lado obscuro de Nina come\u00e7a a vir \u00e0 tona.",
+                "vote_average": 7.681,
+                "vote_count": 13966
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The King's Speech",
+            "second_label": "Danny Cohen",
+            "category": "Cinematography",
+            "year": 2011,
+            "tmdb": {
+                "id": 45269,
+                "original_title": "The King's Speech",
+                "title": "O Discurso do Rei",
+                "release_date": "2010-11-26",
+                "backdrop_path": "/5eb7l7AE2yU0mvb38fR5qLNhDDH.jpg",
+                "poster_path": "/poXqTEX1UpqgAvWdlsndTCxZhaJ.jpg",
+                "overview": "O Pr\u00edncipe Albert da Inglaterra deve ascender ao trono como Rei George VI, mas ele tem um problema de fala. Sabendo que o pa\u00eds precisa que seu marido seja capaz de se comunicar perfeitamente, Elizabeth contrata Lionel Logue, um ator australiano e fonoaudi\u00f3logo, para ajudar o Pr\u00edncipe a superar a gagueira. Uma extraordin\u00e1ria amizade desenvolve-se entre os dois homens, e Logue usa meios n\u00e3o convencionais para ensinar o monarca a falar com seguran\u00e7a.",
+                "vote_average": 7.7,
+                "vote_count": 8393
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Social Network",
+            "second_label": "Jeff Cronenweth",
+            "category": "Cinematography",
+            "year": 2011,
+            "tmdb": {
+                "id": 37799,
+                "original_title": "The Social Network",
+                "title": "A Rede Social",
+                "release_date": "2010-10-01",
+                "backdrop_path": "/cq9N64ucEtfIc3eMxNr1VzY9LH9.jpg",
+                "poster_path": "/o8Y4YbPiV7TCNCEPJKv8AKTe2Gl.jpg",
+                "overview": "Uma hist\u00f3ria surpreendente sobre uma nova ra\u00e7a de rebeldes culturais: um g\u00eanio que deflagrou uma revolu\u00e7\u00e3o e mudou a cara da intera\u00e7\u00e3o humana de toda uma gera\u00e7\u00e3o, uma mudan\u00e7a que talvez perdure para sempre. Filmado com brutalidade emocional e humor inesperado, este filme soberbamente elaborado faz uma cr\u00f4nica sobre a cria\u00e7\u00e3o do Facebook e sobre as batalhas relativas \u00e0 sua propriedade ap\u00f3s o imenso sucesso do site.",
+                "vote_average": 7.365,
+                "vote_count": 11592
+            },
+            "winner": false
+        },
+        {
+            "first_label": "True Grit",
+            "second_label": "Roger Deakins",
+            "category": "Cinematography",
+            "year": 2011,
+            "tmdb": {
+                "id": 44264,
+                "original_title": "True Grit",
+                "title": "Bravura Ind\u00f4mita",
+                "release_date": "2010-12-22",
+                "backdrop_path": "/zztSrG61sqoHH5Zr66Z27fpbb26.jpg",
+                "poster_path": "/dRFcmou6HSCsMUXVG5GVy9UH7R4.jpg",
+                "overview": "Depois que um bandido chamado Tom Chaney assassina seu pai, uma menina de 14 anos e mal-humorada, Mattie Ross, contrata Rooster Cogburn, um embriagado homem da lei para ajud\u00e1-la a encontrar Chaney e vingar seu pai . A dupla briguenta n\u00e3o est\u00e1 sozinha em sua busca. Um Texas Ranger, chamado LaBoeuf, tamb\u00e9m vem monitorando Chaney por raz\u00f5es pr\u00f3prias. Juntos, o trio se aventura em um territ\u00f3rio hostil para distribuir um pouco da justi\u00e7a do Velho Oeste.",
+                "vote_average": 7.3,
+                "vote_count": 5029
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design": [
+        {
+            "first_label": "Alice in Wonderland",
+            "second_label": "Colleen Atwood",
+            "category": "Costume Design",
+            "year": 2011,
+            "tmdb": {
+                "id": 12155,
+                "original_title": "Alice in Wonderland",
+                "title": "Alice no Pa\u00eds das Maravilhas",
+                "release_date": "2010-03-03",
+                "backdrop_path": "/ylEXht4BndyodoWM5YwEvWtWmHE.jpg",
+                "poster_path": "/fjaiHtykx4LcHJLzhKhn7tNPpAj.jpg",
+                "overview": "A Alice de 19 anos de idade, que regressa ao exc\u00eantrico mundo que encontrou pela primeira vez quando era crian\u00e7a reunindo-se assim com os seus amigos de inf\u00e2ncia: o Coelho Branco, Tweedledee e Tweedledum, a Ratazana, a Lagarta, o Gato Cheshire, e claro, o Chapeleiro Louco. Alice embarca numa fant\u00e1stica viagem para encontrar o seu verdadeiro destino e acabar com o reino de terror da Rainha Vermelha.",
+                "vote_average": 6.632,
+                "vote_count": 13483
+            },
+            "winner": true
+        },
+        {
+            "first_label": "I Am Love",
+            "second_label": "Antonella Cannarozzi",
+            "category": "Costume Design",
+            "year": 2011,
+            "tmdb": {
+                "id": 41110,
+                "original_title": "Io sono l'amore",
+                "title": "Um Sonho de Amor",
+                "release_date": "2009-09-05",
+                "backdrop_path": "/z2HOdnH2LIrNOpF42eNw8bpOkkN.jpg",
+                "poster_path": "/73JrmUE9QPrdIfmckjsY0qy2lRm.jpg",
+                "overview": "Emma deixou a R\u00fassia para morar com seu marido na It\u00e1lia. Agora, membro de uma poderosa fam\u00edlia industrial, ela \u00e9 a respeitada m\u00e3e de tr\u00eas filhos, mas se sente insatisfeita. Um dia Antonio, um chef talentoso, amigo de seu filho e funcion\u00e1rio do restaurante da fam\u00edlia, que desperta seus sentidos, fazendo embarcar num t\u00f3rrido romance que mudar\u00e1 a fam\u00edlia Recchi para sempre..",
+                "vote_average": 6.8,
+                "vote_count": 324
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The King's Speech",
+            "second_label": "Jenny Beavan",
+            "category": "Costume Design",
+            "year": 2011,
+            "tmdb": {
+                "id": 45269,
+                "original_title": "The King's Speech",
+                "title": "O Discurso do Rei",
+                "release_date": "2010-11-26",
+                "backdrop_path": "/5eb7l7AE2yU0mvb38fR5qLNhDDH.jpg",
+                "poster_path": "/poXqTEX1UpqgAvWdlsndTCxZhaJ.jpg",
+                "overview": "O Pr\u00edncipe Albert da Inglaterra deve ascender ao trono como Rei George VI, mas ele tem um problema de fala. Sabendo que o pa\u00eds precisa que seu marido seja capaz de se comunicar perfeitamente, Elizabeth contrata Lionel Logue, um ator australiano e fonoaudi\u00f3logo, para ajudar o Pr\u00edncipe a superar a gagueira. Uma extraordin\u00e1ria amizade desenvolve-se entre os dois homens, e Logue usa meios n\u00e3o convencionais para ensinar o monarca a falar com seguran\u00e7a.",
+                "vote_average": 7.7,
+                "vote_count": 8393
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Tempest",
+            "second_label": "Sandy Powell",
+            "category": "Costume Design",
+            "year": 2011,
+            "tmdb": {
+                "id": 44638,
+                "original_title": "The Tempest",
+                "title": "A Tempestade",
+                "release_date": "2010-09-11",
+                "backdrop_path": "/9iyMoO8wLaML2adLqsKLisYAVD3.jpg",
+                "poster_path": "/mU8mNupftfgfN4ZAzn7EZUamcgt.jpg",
+                "overview": "Pr\u00f3spera \u00e9 tra\u00edda por seu irm\u00e3o e, por ser considerada uma bruxa, \u00e9 exilada em uma ilha m\u00e1gica junto com sua filha de quatro anos. Anos depois, Pr\u00f3spera provoca uma tempestade para naufragar o navio de seus inimigos e se prepara para sua vingan\u00e7a.",
+                "vote_average": 5.4,
+                "vote_count": 114
+            },
+            "winner": false
+        },
+        {
+            "first_label": "True Grit",
+            "second_label": "Mary Zophres",
+            "category": "Costume Design",
+            "year": 2011,
+            "tmdb": {
+                "id": 44264,
+                "original_title": "True Grit",
+                "title": "Bravura Ind\u00f4mita",
+                "release_date": "2010-12-22",
+                "backdrop_path": "/zztSrG61sqoHH5Zr66Z27fpbb26.jpg",
+                "poster_path": "/dRFcmou6HSCsMUXVG5GVy9UH7R4.jpg",
+                "overview": "Depois que um bandido chamado Tom Chaney assassina seu pai, uma menina de 14 anos e mal-humorada, Mattie Ross, contrata Rooster Cogburn, um embriagado homem da lei para ajud\u00e1-la a encontrar Chaney e vingar seu pai . A dupla briguenta n\u00e3o est\u00e1 sozinha em sua busca. Um Texas Ranger, chamado LaBoeuf, tamb\u00e9m vem monitorando Chaney por raz\u00f5es pr\u00f3prias. Juntos, o trio se aventura em um territ\u00f3rio hostil para distribuir um pouco da justi\u00e7a do Velho Oeste.",
+                "vote_average": 7.3,
+                "vote_count": 5029
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "The King's Speech",
+            "second_label": "Tom Hooper",
+            "category": "Directing",
+            "year": 2011,
+            "tmdb": {
+                "id": 45269,
+                "original_title": "The King's Speech",
+                "title": "O Discurso do Rei",
+                "release_date": "2010-11-26",
+                "backdrop_path": "/5eb7l7AE2yU0mvb38fR5qLNhDDH.jpg",
+                "poster_path": "/poXqTEX1UpqgAvWdlsndTCxZhaJ.jpg",
+                "overview": "O Pr\u00edncipe Albert da Inglaterra deve ascender ao trono como Rei George VI, mas ele tem um problema de fala. Sabendo que o pa\u00eds precisa que seu marido seja capaz de se comunicar perfeitamente, Elizabeth contrata Lionel Logue, um ator australiano e fonoaudi\u00f3logo, para ajudar o Pr\u00edncipe a superar a gagueira. Uma extraordin\u00e1ria amizade desenvolve-se entre os dois homens, e Logue usa meios n\u00e3o convencionais para ensinar o monarca a falar com seguran\u00e7a.",
+                "vote_average": 7.7,
+                "vote_count": 8393
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Black Swan",
+            "second_label": "Darren Aronofsky",
+            "category": "Directing",
+            "year": 2011,
+            "tmdb": {
+                "id": 44214,
+                "original_title": "Black Swan",
+                "title": "Cisne Negro",
+                "release_date": "2010-12-03",
+                "backdrop_path": "/hqh5O4KssfJWI62HGAgrjHXbxhD.jpg",
+                "poster_path": "/dcj2nZwSRFIUm0Qv1roHNkUtOEm.jpg",
+                "overview": "Nina \u00e9 uma bailarina cuja obsess\u00e3o pela dan\u00e7a supera todas as facetas de sua vida. Quando o diretor art\u00edstico da companhia decide substituir sua prima ballerina para a produ\u00e7\u00e3o de estreia de \"O Lago dos Cisnes\", Nina \u00e9 sua primeira escolha. Sua concorrente \u00e9 a novata Lily. Embora Nina seja perfeita para o papel do Cisne Branco, Lily personifica o Cisne Negro. A rivalidade entre as duas bailarinas se transforma em uma amizade distorcida e o lado obscuro de Nina come\u00e7a a vir \u00e0 tona.",
+                "vote_average": 7.681,
+                "vote_count": 13966
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Fighter",
+            "second_label": "David O. Russell",
+            "category": "Directing",
+            "year": 2011,
+            "tmdb": {
+                "id": 45317,
+                "original_title": "The Fighter",
+                "title": "O Vencedor",
+                "release_date": "2010-12-10",
+                "backdrop_path": "/2kqmEQZqime0G3ULgrKtAq3WVdH.jpg",
+                "poster_path": "/QqPw1u2HJvc4xlHVfj868sAfqr.jpg",
+                "overview": "Dicky Ecklund \u00e9 uma lenda do boxe que desperdi\u00e7ou o seu talento e a sua grande chance. Agora, o seu meio-irm\u00e3o Micky Ward tentar\u00e1 se tornar uma nova esperan\u00e7a de campe\u00e3o e superar as conquistas de Dicky. Treinado pela fam\u00edlia e sem obter sucesso em suas lutas, Micky ter\u00e1 que escolher entre seus familiares e a vontade de ser um verdadeiro campe\u00e3o.",
+                "vote_average": 7.387,
+                "vote_count": 4178
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Social Network",
+            "second_label": "David Fincher",
+            "category": "Directing",
+            "year": 2011,
+            "tmdb": {
+                "id": 37799,
+                "original_title": "The Social Network",
+                "title": "A Rede Social",
+                "release_date": "2010-10-01",
+                "backdrop_path": "/cq9N64ucEtfIc3eMxNr1VzY9LH9.jpg",
+                "poster_path": "/o8Y4YbPiV7TCNCEPJKv8AKTe2Gl.jpg",
+                "overview": "Uma hist\u00f3ria surpreendente sobre uma nova ra\u00e7a de rebeldes culturais: um g\u00eanio que deflagrou uma revolu\u00e7\u00e3o e mudou a cara da intera\u00e7\u00e3o humana de toda uma gera\u00e7\u00e3o, uma mudan\u00e7a que talvez perdure para sempre. Filmado com brutalidade emocional e humor inesperado, este filme soberbamente elaborado faz uma cr\u00f4nica sobre a cria\u00e7\u00e3o do Facebook e sobre as batalhas relativas \u00e0 sua propriedade ap\u00f3s o imenso sucesso do site.",
+                "vote_average": 7.365,
+                "vote_count": 11592
+            },
+            "winner": false
+        },
+        {
+            "first_label": "True Grit",
+            "second_label": "Joel Coen and Ethan Coen",
+            "category": "Directing",
+            "year": 2011,
+            "tmdb": {
+                "id": 44264,
+                "original_title": "True Grit",
+                "title": "Bravura Ind\u00f4mita",
+                "release_date": "2010-12-22",
+                "backdrop_path": "/zztSrG61sqoHH5Zr66Z27fpbb26.jpg",
+                "poster_path": "/dRFcmou6HSCsMUXVG5GVy9UH7R4.jpg",
+                "overview": "Depois que um bandido chamado Tom Chaney assassina seu pai, uma menina de 14 anos e mal-humorada, Mattie Ross, contrata Rooster Cogburn, um embriagado homem da lei para ajud\u00e1-la a encontrar Chaney e vingar seu pai . A dupla briguenta n\u00e3o est\u00e1 sozinha em sua busca. Um Texas Ranger, chamado LaBoeuf, tamb\u00e9m vem monitorando Chaney por raz\u00f5es pr\u00f3prias. Juntos, o trio se aventura em um territ\u00f3rio hostil para distribuir um pouco da justi\u00e7a do Velho Oeste.",
+                "vote_average": 7.3,
+                "vote_count": 5029
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "Inside Job",
+            "second_label": "Charles Ferguson and Audrey Marrs",
+            "category": "Documentary (Feature)",
+            "year": 2011,
+            "tmdb": {
+                "id": 44639,
+                "original_title": "Inside Job",
+                "title": "Trabalho Interno",
+                "release_date": "2010-10-08",
+                "backdrop_path": "/1yFmxvVYgVrFKL2ksFzgX0MrWOM.jpg",
+                "poster_path": "/7O7DBUqbD1z7lhjC9VP95scA1Dt.jpg",
+                "overview": "A crise financeira mundial que aconteceu em 2008, causou a perda de milh\u00f5es de empregos e casas e mergulhou os Estados Unidos em uma profunda recess\u00e3o econ\u00f4mica. Matt Damon narra um document\u00e1rio que fornece uma an\u00e1lise detalhada dos elementos que levaram ao colapso e identifica pe\u00e7as-chave do mundo financeiro e pol\u00edtico. O diretor Charles Ferguson realiza uma gama de entrevistas e tra\u00e7a a hist\u00f3ria dos Estados Unidos para a China para a Isl\u00e2ndia e para outros mercados financeiros mundiais.",
+                "vote_average": 7.7,
+                "vote_count": 886
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Exit through the Gift Shop",
+            "second_label": "Banksy and Jaimie D'Cruz",
+            "category": "Documentary (Feature)",
+            "year": 2011,
+            "tmdb": {
+                "id": 39452,
+                "original_title": "Exit Through the Gift Shop",
+                "title": "Bansky Pinta a Parede",
+                "release_date": "2010-03-05",
+                "backdrop_path": "/yGtoR1fi3e2xU7N91cb2DKJjtyL.jpg",
+                "poster_path": "/y6HK3PeQNeNLyruwtpCmV3TWuUx.jpg",
+                "overview": "Banksy is a graffiti artist with a global reputation whose work can be seen on walls from post-hurricane New Orleans to the separation barrier on the Palestinian West Bank. Fiercely guarding his anonymity to avoid prosecution, Banksy has so far resisted all attempts to be captured on film. Exit Through the Gift Shop tells the incredible true story of how an eccentric French shop keeper turned documentary maker attempted to locate and befriend Banksy, only to have the artist turn the camera back on its owner.",
+                "vote_average": 7.5,
+                "vote_count": 832
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gasland",
+            "second_label": "Josh Fox and Trish Adlesic",
+            "category": "Documentary (Feature)",
+            "year": 2011,
+            "tmdb": {
+                "id": 40663,
+                "original_title": "Gasland",
+                "title": "Gasland",
+                "release_date": "2010-01-24",
+                "backdrop_path": "/moifwwO6pW6k1SBHHZTeort3yLi.jpg",
+                "poster_path": "/2vu4Nk1wY0yjXiSzOxYuXlaD8yV.jpg",
+                "overview": "It is happening all across America-rural landowners wake up one day to find a lucrative offer from an energy company wanting to lease their property. Reason? The company hopes to tap into a reservoir dubbed the \"Saudi Arabia of natural gas.\" Halliburton developed a way to get the gas out of the ground-a hydraulic drilling process called \"fracking\"-and suddenly America finds itself on the precipice of becoming an energy superpower.",
+                "vote_average": 7.1,
+                "vote_count": 135
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Restrepo",
+            "second_label": "Tim Hetherington and Sebastian Junger",
+            "category": "Documentary (Feature)",
+            "year": 2011,
+            "tmdb": {
+                "id": 39312,
+                "original_title": "Restrepo",
+                "title": "Restrepo",
+                "release_date": "2010-06-25",
+                "backdrop_path": "/qidZqyYi7tPhn9YHsmJNW0wl8b0.jpg",
+                "poster_path": "/62DCMBMJU1ZVezVEawyatpFoJwI.jpg",
+                "overview": "Um pelot\u00e3o de soldados norte-americanos fica estacionado um ano num dos vales do Afeganist\u00e3o.",
+                "vote_average": 7.3,
+                "vote_count": 310
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Waste Land",
+            "second_label": "Lucy Walker and Angus Aynsley",
+            "category": "Documentary (Feature)",
+            "year": 2011,
+            "tmdb": {
+                "id": 46689,
+                "original_title": "Waste Land",
+                "title": "Lixo Extraordin\u00e1rio",
+                "release_date": "2010-01-24",
+                "backdrop_path": "/trPmeJW25TFrejTNSXnLVpu64Fa.jpg",
+                "poster_path": "/wvaVhCRVPSYZp2A3utfyrPl0dNw.jpg",
+                "overview": "Uma an\u00e1lise sobre o trabalho do artista pl\u00e1stico Vik Muniz no Jardim Gramacho, localizado na cidade de Duque de Caxias (RJ), que \u00e9 um dos maiores aterros sanit\u00e1rios do mundo.",
+                "vote_average": 7.6,
+                "vote_count": 111
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "Strangers No More",
+            "second_label": "Karen Goodman and Kirk Simon",
+            "category": "Documentary (Short Subject)",
+            "year": 2011,
+            "tmdb": {
+                "id": 113366,
+                "original_title": "Strangers No More",
+                "title": "Strangers No More",
+                "release_date": "2010-09-24",
+                "backdrop_path": null,
+                "poster_path": "/lNE0YdWyAfXBn6EMY4vuJ1D19u0.jpg",
+                "overview": "In the heart of Tel Aviv, there is an exceptional school where children from forty-eight different countries and diverse backgrounds come together to learn. Many of the students arrive at Bialik-Rogozin School fleeing poverty, political adversity and even genocide. Here, no child is a stranger. The film follows several students' struggle to acclimate to life in a new land while slowly opening up to share their stories of hardship and tragedy.",
+                "vote_average": 6.7,
+                "vote_count": 6
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Killing in the Name",
+            "second_label": "Jed Rothstein",
+            "category": "Documentary (Short Subject)",
+            "year": 2011,
+            "tmdb": {
+                "id": 128602,
+                "original_title": "Killing in the Name",
+                "title": "Killing in the Name",
+                "release_date": "2010-08-01",
+                "backdrop_path": null,
+                "poster_path": "/hzTSb0xHGycnArEEGu4RJCuivFa.jpg",
+                "overview": "In 2005, a suicide bomber walked into Ashraf's wedding, killing 27 people. Now he is on a quest to confront terrorism around the globe.",
+                "vote_average": 7.2,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Poster Girl",
+            "second_label": "Sara Nesson and Mitchell W. Block",
+            "category": "Documentary (Short Subject)",
+            "year": 2011,
+            "tmdb": {
+                "id": 82421,
+                "original_title": "Poster Girl",
+                "title": "Garota do P\u00f4ster",
+                "release_date": "2010-09-03",
+                "backdrop_path": "/l80Fl6lFcNG2LY2Bn1uIG6eCTpN.jpg",
+                "poster_path": "/jEtNPWo2gxvnz7av6ep1lANn5PE.jpg",
+                "overview": "As c\u00e2meras deste document\u00e1rio acompanham a rotina da ex-militar Robynn Murray, que sofre de diversos problemas desde que retornou da guerra.",
+                "vote_average": 8.2,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sun Come Up",
+            "second_label": "Jennifer Redfearn and Tim Metzger",
+            "category": "Documentary (Short Subject)",
+            "year": 2011,
+            "tmdb": {
+                "id": 193504,
+                "original_title": "Sun Come Up",
+                "title": "Sun Come Up",
+                "release_date": "2010-04-08",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "Sun Come Up tells the story of some of the world's first environmental refugees, the Carteret Islanders. The film follows relocation leader Ursula Rakova and a group of young families as they search for new homes in war torn Bougainville, an autonomous region of Papua New Guinea.",
+                "vote_average": 6.2,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Warriors of Qiugang",
+            "second_label": "Ruby Yang and Thomas Lennon",
+            "category": "Documentary (Short Subject)",
+            "year": 2011,
+            "tmdb": {
+                "id": 245038,
+                "original_title": "The Warriors of Qiugang",
+                "title": "The Warriors of Qiugang",
+                "release_date": "2010-09-17",
+                "backdrop_path": "/wb67BqAspIv0vZOaqaxbeVcOWtT.jpg",
+                "poster_path": "/aORZ6SDpziPVkMSacT60JfM7Sm9.jpg",
+                "overview": "Villagers in a remote district of central China take on a chemical company that is poisoning their water and air. For five years they fight to transform their environment and as they do, they find themselves transformed as well.",
+                "vote_average": 6.2,
+                "vote_count": 5
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "The Social Network",
+            "second_label": "Angus Wall and Kirk Baxter",
+            "category": "Film Editing",
+            "year": 2011,
+            "tmdb": {
+                "id": 37799,
+                "original_title": "The Social Network",
+                "title": "A Rede Social",
+                "release_date": "2010-10-01",
+                "backdrop_path": "/cq9N64ucEtfIc3eMxNr1VzY9LH9.jpg",
+                "poster_path": "/o8Y4YbPiV7TCNCEPJKv8AKTe2Gl.jpg",
+                "overview": "Uma hist\u00f3ria surpreendente sobre uma nova ra\u00e7a de rebeldes culturais: um g\u00eanio que deflagrou uma revolu\u00e7\u00e3o e mudou a cara da intera\u00e7\u00e3o humana de toda uma gera\u00e7\u00e3o, uma mudan\u00e7a que talvez perdure para sempre. Filmado com brutalidade emocional e humor inesperado, este filme soberbamente elaborado faz uma cr\u00f4nica sobre a cria\u00e7\u00e3o do Facebook e sobre as batalhas relativas \u00e0 sua propriedade ap\u00f3s o imenso sucesso do site.",
+                "vote_average": 7.365,
+                "vote_count": 11592
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Black Swan",
+            "second_label": "Andrew Weisblum",
+            "category": "Film Editing",
+            "year": 2011,
+            "tmdb": {
+                "id": 44214,
+                "original_title": "Black Swan",
+                "title": "Cisne Negro",
+                "release_date": "2010-12-03",
+                "backdrop_path": "/hqh5O4KssfJWI62HGAgrjHXbxhD.jpg",
+                "poster_path": "/dcj2nZwSRFIUm0Qv1roHNkUtOEm.jpg",
+                "overview": "Nina \u00e9 uma bailarina cuja obsess\u00e3o pela dan\u00e7a supera todas as facetas de sua vida. Quando o diretor art\u00edstico da companhia decide substituir sua prima ballerina para a produ\u00e7\u00e3o de estreia de \"O Lago dos Cisnes\", Nina \u00e9 sua primeira escolha. Sua concorrente \u00e9 a novata Lily. Embora Nina seja perfeita para o papel do Cisne Branco, Lily personifica o Cisne Negro. A rivalidade entre as duas bailarinas se transforma em uma amizade distorcida e o lado obscuro de Nina come\u00e7a a vir \u00e0 tona.",
+                "vote_average": 7.681,
+                "vote_count": 13966
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Fighter",
+            "second_label": "Pamela Martin",
+            "category": "Film Editing",
+            "year": 2011,
+            "tmdb": {
+                "id": 45317,
+                "original_title": "The Fighter",
+                "title": "O Vencedor",
+                "release_date": "2010-12-10",
+                "backdrop_path": "/2kqmEQZqime0G3ULgrKtAq3WVdH.jpg",
+                "poster_path": "/QqPw1u2HJvc4xlHVfj868sAfqr.jpg",
+                "overview": "Dicky Ecklund \u00e9 uma lenda do boxe que desperdi\u00e7ou o seu talento e a sua grande chance. Agora, o seu meio-irm\u00e3o Micky Ward tentar\u00e1 se tornar uma nova esperan\u00e7a de campe\u00e3o e superar as conquistas de Dicky. Treinado pela fam\u00edlia e sem obter sucesso em suas lutas, Micky ter\u00e1 que escolher entre seus familiares e a vontade de ser um verdadeiro campe\u00e3o.",
+                "vote_average": 7.387,
+                "vote_count": 4178
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The King's Speech",
+            "second_label": "Tariq Anwar",
+            "category": "Film Editing",
+            "year": 2011,
+            "tmdb": {
+                "id": 45269,
+                "original_title": "The King's Speech",
+                "title": "O Discurso do Rei",
+                "release_date": "2010-11-26",
+                "backdrop_path": "/5eb7l7AE2yU0mvb38fR5qLNhDDH.jpg",
+                "poster_path": "/poXqTEX1UpqgAvWdlsndTCxZhaJ.jpg",
+                "overview": "O Pr\u00edncipe Albert da Inglaterra deve ascender ao trono como Rei George VI, mas ele tem um problema de fala. Sabendo que o pa\u00eds precisa que seu marido seja capaz de se comunicar perfeitamente, Elizabeth contrata Lionel Logue, um ator australiano e fonoaudi\u00f3logo, para ajudar o Pr\u00edncipe a superar a gagueira. Uma extraordin\u00e1ria amizade desenvolve-se entre os dois homens, e Logue usa meios n\u00e3o convencionais para ensinar o monarca a falar com seguran\u00e7a.",
+                "vote_average": 7.7,
+                "vote_count": 8393
+            },
+            "winner": false
+        },
+        {
+            "first_label": "127 Hours",
+            "second_label": "Jon Harris",
+            "category": "Film Editing",
+            "year": 2011,
+            "tmdb": {
+                "id": 44115,
+                "original_title": "127 Hours",
+                "title": "127 Horas",
+                "release_date": "2010-11-12",
+                "backdrop_path": "/viBWzktrBmhzRw4ehmUIrrN4C0z.jpg",
+                "poster_path": "/1HoqPAq2HMUMwI0u4mpcBN4v9WJ.jpg",
+                "overview": "Ao explorar um c\u00e2nion remoto em Utah, o alpinista e aventureiro Aron Ralston fica preso em uma fenda quando uma pedra cai. Nos cinco dias seguintes, Ralston examina sua vida e considera suas op\u00e7\u00f5es, as quais o levam a uma situa\u00e7\u00e3o angustiante. Aron precisa tomar uma atitude para que possa se libertar e tentar voltar para a civiliza\u00e7\u00e3o.",
+                "vote_average": 7.1,
+                "vote_count": 7217
+            },
+            "winner": false
+        }
+    ],
+    "Foreign Language Film": [
+        {
+            "first_label": "In a Better World",
+            "second_label": "Denmark",
+            "category": "Foreign Language Film",
+            "year": 2011,
+            "tmdb": {
+                "id": 44716,
+                "original_title": "H\u00e6vnen",
+                "title": "Em Um Mundo Melhor",
+                "release_date": "2010-08-26",
+                "backdrop_path": "/jso7QKHWwkdlEHFef68kFWHsltx.jpg",
+                "poster_path": "/uwDHLzH4I7UXphS5iDrByH52uCB.jpg",
+                "overview": "Em uma na\u00e7\u00e3o africana devastada pela Guerra, o m\u00e9dico cirurgi\u00e3o Anton enfrenta um fluxo constante de perda e trag\u00e9dia. Enquanto isso, na Dinamarca, sua mulher est\u00e1 preocupada com seu filho mais velho, Elias, que \u00e9 constantemente perseguido por Sofus, o valent\u00e3o da classe. Quando Christian entra para a turma, ele e Elias se juntam no \u00f3dio a Sofus. Rude e cruel desde a morte de sua m\u00e3e, Christian passa por uma fase agressiva, enquanto seu pai Claus, devastado, n\u00e3o consegue lidar com seu comportamento. A partir da amizade conturbada dos dois garotos, as duas fam\u00edlias criam um v\u00ednculo.",
+                "vote_average": 7.1,
+                "vote_count": 387
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Biutiful",
+            "second_label": "Mexico",
+            "category": "Foreign Language Film",
+            "year": 2011,
+            "tmdb": {
+                "id": 45958,
+                "original_title": "Biutiful",
+                "title": "Biutiful",
+                "release_date": "2010-10-20",
+                "backdrop_path": "/s1r2aBDzkvlFkNnAgxWFTCQjKPe.jpg",
+                "poster_path": "/iixcawSjjXSWNC1ChXK3SQDKGZW.jpg",
+                "overview": "Esta \u00e9 a hist\u00f3ria de um homem que vive uma queda livre emocional. Em sua viagem em busca de reden\u00e7\u00e3o, a escurid\u00e3o ilumina o seu caminho. Conectado ao outro mundo, Uxbal \u00e9 um tr\u00e1gico her\u00f3i e pai de dois filhos que, ao sentir o perigo iminente da morte, batalha contra uma dura realidade e um destino que o impede de perdoar, perdoar-se, por amor e para sempre.",
+                "vote_average": 7.2,
+                "vote_count": 1046
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dogtooth",
+            "second_label": "Greece",
+            "category": "Foreign Language Film",
+            "year": 2011,
+            "tmdb": {
+                "id": 38810,
+                "original_title": "\u039a\u03c5\u03bd\u03cc\u03b4\u03bf\u03bd\u03c4\u03b1\u03c2",
+                "title": "Dente Canino",
+                "release_date": "2009-06-01",
+                "backdrop_path": "/eM0MpRNyag5RAhRFclSLUMO10xx.jpg",
+                "poster_path": "/piVMAliwrEYE8kvGIox5uF5Zjg.jpg",
+                "overview": "Em um esfor\u00e7o para proteger seus filhos da influ\u00eancia negativa do mundo exterior, um casal transforma sua casa em um complexo fechado de priva\u00e7\u00e3o cultural. Quando o pai convida um visitante de confian\u00e7a para sua casa, a realidade deles come\u00e7a a desmoronar gerando consequ\u00eancias devastadoras.",
+                "vote_average": 7.096,
+                "vote_count": 2106
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Incendies",
+            "second_label": "Canada",
+            "category": "Foreign Language Film",
+            "year": 2011,
+            "tmdb": {
+                "id": 46738,
+                "original_title": "Incendies",
+                "title": "Inc\u00eandios",
+                "release_date": "2010-09-17",
+                "backdrop_path": "/aFmoJntgDPR0Jd8XD1ZfFSmcqMg.jpg",
+                "poster_path": "/uCS7IEfBLoBBLpOdCkfpVA7xhed.jpg",
+                "overview": "Nawal, uma mulher moribunda do Oriente M\u00e9dio que vive em Montreal, deixa cartas para seus filhos g\u00eameos para serem lidas quando ela falecer. Jeanne deve entregar a dela para o pai que nunca conheceu e Simon deve entregar a dele para o irm\u00e3o que nunca soube que tinha. Os irm\u00e3os viajam para o Oriente M\u00e9dio separados e vivenciam atos de brutalidade, descobrem uma hist\u00f3ria familiar surpreendente e t\u00eam revela\u00e7\u00f5es sobre si mesmos.",
+                "vote_average": 8.1,
+                "vote_count": 2490
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Outside the Law (Hors-la-loi)",
+            "second_label": "Algeria",
+            "category": "Foreign Language Film",
+            "year": 2011,
+            "tmdb": {
+                "id": 47904,
+                "original_title": "Hors-la-loi",
+                "title": "Fora da Lei",
+                "release_date": "2010-09-21",
+                "backdrop_path": "/hmSG6bHdaNrdUAQG7dsxvHfzl7u.jpg",
+                "poster_path": "/zSIoGjVi12kjAZa5FcCY8x1j0q0.jpg",
+                "overview": "Expulsos da sua terra argelina, tr\u00eas irm\u00e3os e a m\u00e3e separam-se. Messaoud alista-se na Indochina. Em Paris, Abdelkader toma a cabe\u00e7a do movimento em prol da independ\u00eancia da Arg\u00e9lia e Said faz fortuna nas espeluncas e clubes de boxe de Pigalle. O destino dos tr\u00eas, selado pelo amor de uma m\u00e3e, enreda-se inexoravelmente ao de uma na\u00e7\u00e3o em luta pela sua liberdade.",
+                "vote_average": 6.6,
+                "vote_count": 188
+            },
+            "winner": false
+        }
+    ],
+    "Irving G. Thalberg Memorial Award": [
+        {
+            "first_label": "",
+            "second_label": "Francis Ford Coppola",
+            "category": "Irving G. Thalberg Memorial Award",
+            "year": 2011,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        }
+    ],
+    "Makeup": [
+        {
+            "first_label": "The Wolfman",
+            "second_label": "Rick Baker and Dave Elsey",
+            "category": "Makeup",
+            "year": 2011,
+            "tmdb": {
+                "id": 7978,
+                "original_title": "The Wolfman",
+                "title": "O Lobisomem",
+                "release_date": "2010-02-10",
+                "backdrop_path": "/aJKcFHxZp0oFJwQ1wHqjyqNpqXY.jpg",
+                "poster_path": "/2lsbwPdWfnr3NwVfPzASZI8FJlK.jpg",
+                "overview": "O ator Lawrence Talbot (Benicio Del Toro), quando crian\u00e7a, sofreu com a morte de sua m\u00e3e e nunca mais voltou a morar com o pai (Anthony Hopkins). Mais de duas d\u00e9cadas depois do ocorrido, ele \u00e9 chamado por sua futura cunhada Gwen Conliffe (Emily Blunt) para ajud\u00e1-la a encontrar o noivo desaparecido. Ao retornar para a casa do pai, Talbot acaba se envolvendo numa investiga\u00e7\u00e3o sobre violentas mortes que acontecem nas noites de lua cheia, entrando em contato com o seu passado e descobrindo um segredo que mudar\u00e1 para sempre a sua vida.",
+                "vote_average": 5.9,
+                "vote_count": 1901
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Barney's Version",
+            "second_label": "Adrien Morot",
+            "category": "Makeup",
+            "year": 2011,
+            "tmdb": {
+                "id": 46829,
+                "original_title": "Barney's Version",
+                "title": "A Minha Vers\u00e3o do Amor",
+                "release_date": "2010-10-26",
+                "backdrop_path": "/lQ5rAuqg3isxXAFTxueaXPsH2CS.jpg",
+                "poster_path": "/iGX5ZveRqPZcUyL5qJZvB1RTDcZ.jpg",
+                "overview": "No final de sua vida, Barney Panofsky relembra seus triunfos e trag\u00e9dias, come\u00e7ando pela rela\u00e7\u00e3o malfadada com Clara, com quem se casa quando ela fica gr\u00e1vida. Quando o relacionamento se desfaz, ele retorna a Montreal e se casa mais duas vezes, encontrando, finalmente, a felicidade com Miriam, sua terceira esposa. Em meio a isso tudo, Barney se sustenta com seu trabalho na televis\u00e3o, cria os filhos e ouve os conselhos do pai.",
+                "vote_average": 7.0,
+                "vote_count": 419
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Way Back",
+            "second_label": "Edouard F. Henriques, Gregory Funk and Yolanda Toussieng",
+            "category": "Makeup",
+            "year": 2011,
+            "tmdb": {
+                "id": 49009,
+                "original_title": "The Way Back",
+                "title": "Caminho da Liberdade",
+                "release_date": "2010-11-22",
+                "backdrop_path": "/jcQfgcq1j7Vit4wQ54niXiLfvE8.jpg",
+                "poster_path": "/hJCkHUETeLWnEq53k4ZTp0ep2mX.jpg",
+                "overview": "Denunciado por sua esposa em 1939 como um poss\u00edvel espi\u00e3o, Janusz encontra-se em um campo de trabalho da Sib\u00e9ria. Vivendo em condi\u00e7\u00f5es brutais, ele est\u00e1 determinado a escapar e uma nevasca lhe fornece a oportunidade perfeita e, junto a um pequeno grupo de prisioneiros, fogem. A fuga, por\u00e9m, \u00e9 a parte mais f\u00e1cil, pois Janusz e seus companheiros t\u00eam pela frente uma caminhada de 6.500 quil\u00f4metros a p\u00e9 pelo Himalaia congelado, antes que possam ser verdadeiramente livres.",
+                "vote_average": 7.0,
+                "vote_count": 1473
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Score)": [
+        {
+            "first_label": "The Social Network",
+            "second_label": "Trent Reznor and Atticus Ross",
+            "category": "Music (Original Score)",
+            "year": 2011,
+            "tmdb": {
+                "id": 37799,
+                "original_title": "The Social Network",
+                "title": "A Rede Social",
+                "release_date": "2010-10-01",
+                "backdrop_path": "/cq9N64ucEtfIc3eMxNr1VzY9LH9.jpg",
+                "poster_path": "/o8Y4YbPiV7TCNCEPJKv8AKTe2Gl.jpg",
+                "overview": "Uma hist\u00f3ria surpreendente sobre uma nova ra\u00e7a de rebeldes culturais: um g\u00eanio que deflagrou uma revolu\u00e7\u00e3o e mudou a cara da intera\u00e7\u00e3o humana de toda uma gera\u00e7\u00e3o, uma mudan\u00e7a que talvez perdure para sempre. Filmado com brutalidade emocional e humor inesperado, este filme soberbamente elaborado faz uma cr\u00f4nica sobre a cria\u00e7\u00e3o do Facebook e sobre as batalhas relativas \u00e0 sua propriedade ap\u00f3s o imenso sucesso do site.",
+                "vote_average": 7.365,
+                "vote_count": 11592
+            },
+            "winner": true
+        },
+        {
+            "first_label": "How to Train Your Dragon",
+            "second_label": "John Powell",
+            "category": "Music (Original Score)",
+            "year": 2011,
+            "tmdb": {
+                "id": 10191,
+                "original_title": "How to Train Your Dragon",
+                "title": "Como Treinar o Seu Drag\u00e3o",
+                "release_date": "2010-03-18",
+                "backdrop_path": "/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
+                "poster_path": "/unDtQ5SwuXJLJW6WB3F9yaSfIbl.jpg",
+                "overview": "Solu\u00e7o \u00e9 um jovem viking que desafia a tradi\u00e7\u00e3o, quando fica amigo de um dos mais mortais inimigos \u2014 um feroz drag\u00e3o que ele chama de Banguela.",
+                "vote_average": 7.8,
+                "vote_count": 12488
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Inception",
+            "second_label": "Hans Zimmer",
+            "category": "Music (Original Score)",
+            "year": 2011,
+            "tmdb": {
+                "id": 27205,
+                "original_title": "Inception",
+                "title": "A Origem",
+                "release_date": "2010-07-15",
+                "backdrop_path": "/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+                "poster_path": "/9e3Dz7aCANy5aRUQF745IlNloJ1.jpg",
+                "overview": "Um ladr\u00e3o que rouba segredos corporativos por meio do uso da tecnologia de compartilhamento de sonhos, recebe a tarefa inversa de plantar uma ideia na mente de um Diretor Executivo.",
+                "vote_average": 8.367,
+                "vote_count": 35454
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The King's Speech",
+            "second_label": "Alexandre Desplat",
+            "category": "Music (Original Score)",
+            "year": 2011,
+            "tmdb": {
+                "id": 45269,
+                "original_title": "The King's Speech",
+                "title": "O Discurso do Rei",
+                "release_date": "2010-11-26",
+                "backdrop_path": "/5eb7l7AE2yU0mvb38fR5qLNhDDH.jpg",
+                "poster_path": "/poXqTEX1UpqgAvWdlsndTCxZhaJ.jpg",
+                "overview": "O Pr\u00edncipe Albert da Inglaterra deve ascender ao trono como Rei George VI, mas ele tem um problema de fala. Sabendo que o pa\u00eds precisa que seu marido seja capaz de se comunicar perfeitamente, Elizabeth contrata Lionel Logue, um ator australiano e fonoaudi\u00f3logo, para ajudar o Pr\u00edncipe a superar a gagueira. Uma extraordin\u00e1ria amizade desenvolve-se entre os dois homens, e Logue usa meios n\u00e3o convencionais para ensinar o monarca a falar com seguran\u00e7a.",
+                "vote_average": 7.7,
+                "vote_count": 8393
+            },
+            "winner": false
+        },
+        {
+            "first_label": "127 Hours",
+            "second_label": "A.R. Rahman",
+            "category": "Music (Original Score)",
+            "year": 2011,
+            "tmdb": {
+                "id": 44115,
+                "original_title": "127 Hours",
+                "title": "127 Horas",
+                "release_date": "2010-11-12",
+                "backdrop_path": "/viBWzktrBmhzRw4ehmUIrrN4C0z.jpg",
+                "poster_path": "/1HoqPAq2HMUMwI0u4mpcBN4v9WJ.jpg",
+                "overview": "Ao explorar um c\u00e2nion remoto em Utah, o alpinista e aventureiro Aron Ralston fica preso em uma fenda quando uma pedra cai. Nos cinco dias seguintes, Ralston examina sua vida e considera suas op\u00e7\u00f5es, as quais o levam a uma situa\u00e7\u00e3o angustiante. Aron precisa tomar uma atitude para que possa se libertar e tentar voltar para a civiliza\u00e7\u00e3o.",
+                "vote_average": 7.1,
+                "vote_count": 7217
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Song)": [
+        {
+            "first_label": "Toy Story 3",
+            "second_label": "We Belong Together in \"Toy Story 3\" Music and Lyric by Randy Newman",
+            "category": "Music (Original Song)",
+            "year": 2011,
+            "tmdb": {
+                "id": 10193,
+                "original_title": "Toy Story 3",
+                "title": "Toy Story 3",
+                "release_date": "2010-06-16",
+                "backdrop_path": "/wE5JGzujfvDPMIfFjJyrhXFjZLc.jpg",
+                "poster_path": "/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
+                "overview": "Quando Andy se prepara para ir para a faculdade, Woody, Buzz, Jessie e o restante dos leais brinquedos de Andy pensam o que ir\u00e1 acontecer com eles. Mas quando uma confus\u00e3o faz com que eles sejam levados \u00e0 creche Sunnyside, eles conhecem um anfitri\u00e3o de novos brinquedos e logo descobrem que uma nova aventura selvagem est\u00e1 apenas come\u00e7ando!",
+                "vote_average": 7.795,
+                "vote_count": 14154
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Country Strong",
+            "second_label": "Coming Home in \"Country Strong\" Music and Lyric by Tom Douglas, Troy Verges and Hillary Lindsey",
+            "category": "Music (Original Song)",
+            "year": 2011,
+            "tmdb": {
+                "id": 45272,
+                "original_title": "Country Strong",
+                "title": "Onde o Amor Est\u00e1",
+                "release_date": "2010-12-22",
+                "backdrop_path": "/hJgamYy7QSELC3UZSW9a3f0mjfe.jpg",
+                "poster_path": "/kVmt65EFE5uQfEIDQOmoXQKvDfk.jpg",
+                "overview": "Logo ap\u00f3s um jovem cantor-compositor em ascens\u00e3o se envolver com uma estrela da m\u00fasica country, j\u00e1 n\u00e3o t\u00e3o famosa e bastante inst\u00e1vel emocionalmente, o casal embarca numa turn\u00ea de ressurrei\u00e7\u00e3o de carreira.",
+                "vote_average": 6.1,
+                "vote_count": 237
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tangled",
+            "second_label": "I See The Light in \"Tangled\" Music by Alan Menken; Lyric by Glenn Slater",
+            "category": "Music (Original Song)",
+            "year": 2011,
+            "tmdb": {
+                "id": 38757,
+                "original_title": "Tangled",
+                "title": "Enrolados",
+                "release_date": "2010-11-24",
+                "backdrop_path": "/cWczNud8Y8i8ab0Z4bxos4myWYO.jpg",
+                "poster_path": "/wZzVkdnc0kw20lSJc13ZmgTPah3.jpg",
+                "overview": "O bandido mais procurado do reino, Flynn Rider, se esconde em uma torre e imediatamente se torna prisioneiro de Rapunzel, residente de longa data do local. Dona de cabelos dourados m\u00e1gicos com 21 metros de comprimento, ela est\u00e1 trancada h\u00e1 anos e quer, desesperadamente, a liberdade. A adolescente determinada faz um acordo com o rapaz, e, juntos, partem para uma aventura emocionante.",
+                "vote_average": 7.605,
+                "vote_count": 10952
+            },
+            "winner": false
+        },
+        {
+            "first_label": "127 Hours",
+            "second_label": "If I Rise in \"127 Hours\" Music by A.R. Rahman; Lyric by Dido and Rollo Armstrong",
+            "category": "Music (Original Song)",
+            "year": 2011,
+            "tmdb": {
+                "id": 44115,
+                "original_title": "127 Hours",
+                "title": "127 Horas",
+                "release_date": "2010-11-12",
+                "backdrop_path": "/viBWzktrBmhzRw4ehmUIrrN4C0z.jpg",
+                "poster_path": "/1HoqPAq2HMUMwI0u4mpcBN4v9WJ.jpg",
+                "overview": "Ao explorar um c\u00e2nion remoto em Utah, o alpinista e aventureiro Aron Ralston fica preso em uma fenda quando uma pedra cai. Nos cinco dias seguintes, Ralston examina sua vida e considera suas op\u00e7\u00f5es, as quais o levam a uma situa\u00e7\u00e3o angustiante. Aron precisa tomar uma atitude para que possa se libertar e tentar voltar para a civiliza\u00e7\u00e3o.",
+                "vote_average": 7.1,
+                "vote_count": 7217
+            },
+            "winner": false
+        }
+    ],
+    "Best Picture": [
+        {
+            "first_label": "The King's Speech",
+            "second_label": "Iain Canning, Emile Sherman and Gareth Unwin, Producers",
+            "category": "Best Picture",
+            "year": 2011,
+            "tmdb": {
+                "id": 45269,
+                "original_title": "The King's Speech",
+                "title": "O Discurso do Rei",
+                "release_date": "2010-11-26",
+                "backdrop_path": "/5eb7l7AE2yU0mvb38fR5qLNhDDH.jpg",
+                "poster_path": "/poXqTEX1UpqgAvWdlsndTCxZhaJ.jpg",
+                "overview": "O Pr\u00edncipe Albert da Inglaterra deve ascender ao trono como Rei George VI, mas ele tem um problema de fala. Sabendo que o pa\u00eds precisa que seu marido seja capaz de se comunicar perfeitamente, Elizabeth contrata Lionel Logue, um ator australiano e fonoaudi\u00f3logo, para ajudar o Pr\u00edncipe a superar a gagueira. Uma extraordin\u00e1ria amizade desenvolve-se entre os dois homens, e Logue usa meios n\u00e3o convencionais para ensinar o monarca a falar com seguran\u00e7a.",
+                "vote_average": 7.7,
+                "vote_count": 8393
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Black Swan",
+            "second_label": "Mike Medavoy, Brian Oliver and Scott Franklin, Producers",
+            "category": "Best Picture",
+            "year": 2011,
+            "tmdb": {
+                "id": 44214,
+                "original_title": "Black Swan",
+                "title": "Cisne Negro",
+                "release_date": "2010-12-03",
+                "backdrop_path": "/hqh5O4KssfJWI62HGAgrjHXbxhD.jpg",
+                "poster_path": "/dcj2nZwSRFIUm0Qv1roHNkUtOEm.jpg",
+                "overview": "Nina \u00e9 uma bailarina cuja obsess\u00e3o pela dan\u00e7a supera todas as facetas de sua vida. Quando o diretor art\u00edstico da companhia decide substituir sua prima ballerina para a produ\u00e7\u00e3o de estreia de \"O Lago dos Cisnes\", Nina \u00e9 sua primeira escolha. Sua concorrente \u00e9 a novata Lily. Embora Nina seja perfeita para o papel do Cisne Branco, Lily personifica o Cisne Negro. A rivalidade entre as duas bailarinas se transforma em uma amizade distorcida e o lado obscuro de Nina come\u00e7a a vir \u00e0 tona.",
+                "vote_average": 7.681,
+                "vote_count": 13966
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Fighter",
+            "second_label": "David Hoberman, Todd Lieberman and Mark Wahlberg, Producers",
+            "category": "Best Picture",
+            "year": 2011,
+            "tmdb": {
+                "id": 45317,
+                "original_title": "The Fighter",
+                "title": "O Vencedor",
+                "release_date": "2010-12-10",
+                "backdrop_path": "/2kqmEQZqime0G3ULgrKtAq3WVdH.jpg",
+                "poster_path": "/QqPw1u2HJvc4xlHVfj868sAfqr.jpg",
+                "overview": "Dicky Ecklund \u00e9 uma lenda do boxe que desperdi\u00e7ou o seu talento e a sua grande chance. Agora, o seu meio-irm\u00e3o Micky Ward tentar\u00e1 se tornar uma nova esperan\u00e7a de campe\u00e3o e superar as conquistas de Dicky. Treinado pela fam\u00edlia e sem obter sucesso em suas lutas, Micky ter\u00e1 que escolher entre seus familiares e a vontade de ser um verdadeiro campe\u00e3o.",
+                "vote_average": 7.387,
+                "vote_count": 4178
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Inception",
+            "second_label": "Emma Thomas and Christopher Nolan, Producers",
+            "category": "Best Picture",
+            "year": 2011,
+            "tmdb": {
+                "id": 27205,
+                "original_title": "Inception",
+                "title": "A Origem",
+                "release_date": "2010-07-15",
+                "backdrop_path": "/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+                "poster_path": "/9e3Dz7aCANy5aRUQF745IlNloJ1.jpg",
+                "overview": "Um ladr\u00e3o que rouba segredos corporativos por meio do uso da tecnologia de compartilhamento de sonhos, recebe a tarefa inversa de plantar uma ideia na mente de um Diretor Executivo.",
+                "vote_average": 8.367,
+                "vote_count": 35454
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Kids Are All Right",
+            "second_label": "Gary Gilbert, Jeffrey Levy-Hinte and Celine Rattray, Producers",
+            "category": "Best Picture",
+            "year": 2011,
+            "tmdb": {
+                "id": 39781,
+                "original_title": "The Kids Are All Right",
+                "title": "Minhas M\u00e3es e Meu Pai",
+                "release_date": "2010-07-09",
+                "backdrop_path": "/kokPRmOdEmWZi3SR1dcdvsiq9lF.jpg",
+                "poster_path": "/AeFUOqhMmMlJngN0IG3sBI4s8ET.jpg",
+                "overview": "Dois irm\u00e3os adolescentes, Joni (Mia Wasikowaska) e Laser (Josh Hutcherson), s\u00e3o filhos do casal Jules (Julianne Moore) e Nic (Annette Bening), concebidos atrav\u00e9s da insemina\u00e7\u00e3o artificial de um doador an\u00f4nimo. Contudo, ao completar a maioridade, Joni encoraja o irm\u00e3o a embarcar numa aventura para encontrar o pai biol\u00f3gico sem que as m\u00e3es saibam. Quando Paul (Mark Ruffalo) aparece tudo muda, j\u00e1 que logo ela passa a fazer parte do cotidiano da fam\u00edlia.",
+                "vote_average": 6.6,
+                "vote_count": 1411
+            },
+            "winner": false
+        },
+        {
+            "first_label": "127 Hours",
+            "second_label": "Christian Colson, Danny Boyle and John Smithson, Producers",
+            "category": "Best Picture",
+            "year": 2011,
+            "tmdb": {
+                "id": 44115,
+                "original_title": "127 Hours",
+                "title": "127 Horas",
+                "release_date": "2010-11-12",
+                "backdrop_path": "/viBWzktrBmhzRw4ehmUIrrN4C0z.jpg",
+                "poster_path": "/1HoqPAq2HMUMwI0u4mpcBN4v9WJ.jpg",
+                "overview": "Ao explorar um c\u00e2nion remoto em Utah, o alpinista e aventureiro Aron Ralston fica preso em uma fenda quando uma pedra cai. Nos cinco dias seguintes, Ralston examina sua vida e considera suas op\u00e7\u00f5es, as quais o levam a uma situa\u00e7\u00e3o angustiante. Aron precisa tomar uma atitude para que possa se libertar e tentar voltar para a civiliza\u00e7\u00e3o.",
+                "vote_average": 7.1,
+                "vote_count": 7217
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Social Network",
+            "second_label": "The Social Network",
+            "category": "Best Picture",
+            "year": 2011,
+            "tmdb": {
+                "id": 37799,
+                "original_title": "The Social Network",
+                "title": "A Rede Social",
+                "release_date": "2010-10-01",
+                "backdrop_path": "/cq9N64ucEtfIc3eMxNr1VzY9LH9.jpg",
+                "poster_path": "/o8Y4YbPiV7TCNCEPJKv8AKTe2Gl.jpg",
+                "overview": "Uma hist\u00f3ria surpreendente sobre uma nova ra\u00e7a de rebeldes culturais: um g\u00eanio que deflagrou uma revolu\u00e7\u00e3o e mudou a cara da intera\u00e7\u00e3o humana de toda uma gera\u00e7\u00e3o, uma mudan\u00e7a que talvez perdure para sempre. Filmado com brutalidade emocional e humor inesperado, este filme soberbamente elaborado faz uma cr\u00f4nica sobre a cria\u00e7\u00e3o do Facebook e sobre as batalhas relativas \u00e0 sua propriedade ap\u00f3s o imenso sucesso do site.",
+                "vote_average": 7.365,
+                "vote_count": 11592
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Toy Story 3",
+            "second_label": "Darla K. Anderson, Producer",
+            "category": "Best Picture",
+            "year": 2011,
+            "tmdb": {
+                "id": 10193,
+                "original_title": "Toy Story 3",
+                "title": "Toy Story 3",
+                "release_date": "2010-06-16",
+                "backdrop_path": "/wE5JGzujfvDPMIfFjJyrhXFjZLc.jpg",
+                "poster_path": "/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
+                "overview": "Quando Andy se prepara para ir para a faculdade, Woody, Buzz, Jessie e o restante dos leais brinquedos de Andy pensam o que ir\u00e1 acontecer com eles. Mas quando uma confus\u00e3o faz com que eles sejam levados \u00e0 creche Sunnyside, eles conhecem um anfitri\u00e3o de novos brinquedos e logo descobrem que uma nova aventura selvagem est\u00e1 apenas come\u00e7ando!",
+                "vote_average": 7.795,
+                "vote_count": 14154
+            },
+            "winner": false
+        },
+        {
+            "first_label": "True Grit",
+            "second_label": "Scott Rudin, Ethan Coen and Joel Coen, Producers",
+            "category": "Best Picture",
+            "year": 2011,
+            "tmdb": {
+                "id": 44264,
+                "original_title": "True Grit",
+                "title": "Bravura Ind\u00f4mita",
+                "release_date": "2010-12-22",
+                "backdrop_path": "/zztSrG61sqoHH5Zr66Z27fpbb26.jpg",
+                "poster_path": "/dRFcmou6HSCsMUXVG5GVy9UH7R4.jpg",
+                "overview": "Depois que um bandido chamado Tom Chaney assassina seu pai, uma menina de 14 anos e mal-humorada, Mattie Ross, contrata Rooster Cogburn, um embriagado homem da lei para ajud\u00e1-la a encontrar Chaney e vingar seu pai . A dupla briguenta n\u00e3o est\u00e1 sozinha em sua busca. Um Texas Ranger, chamado LaBoeuf, tamb\u00e9m vem monitorando Chaney por raz\u00f5es pr\u00f3prias. Juntos, o trio se aventura em um territ\u00f3rio hostil para distribuir um pouco da justi\u00e7a do Velho Oeste.",
+                "vote_average": 7.3,
+                "vote_count": 5029
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Winter's Bone",
+            "second_label": "Anne Rosellini and Alix Madigan-Yorkin, Producers",
+            "category": "Best Picture",
+            "year": 2011,
+            "tmdb": {
+                "id": 39013,
+                "original_title": "Winter's Bone",
+                "title": "Inverno da Alma",
+                "release_date": "2010-06-11",
+                "backdrop_path": "/wW4dZWEfUIXWVKhKsPFBokndJbI.jpg",
+                "poster_path": "/gQEGofSZEqBlLvmi5bHIQprTuP4.jpg",
+                "overview": "Aos 17 anos de idade, Ree Dolly (Jennifer Lawrence) embarca em uma miss\u00e3o para encontrar seu pai, j\u00e1 que ele usou a casa de sua fam\u00edlia como forma de garantir sua liberdade condicional e desapareceu sem deixar vest\u00edgios. Confrontada com a possibilidade de perder a casa onde mora com seus irm\u00e3os pequenos e precisar voltar para a floresta de Ozark, Ree desafia os c\u00f3digos e a lei do sil\u00eancio arriscando sua vida para salvar sua fam\u00edlia. Ela desafia as mentiras, fugas e amea\u00e7as oferecidas por seus parentes e, dessa forma, come\u00e7a a juntar a verdade sobre seu pai.",
+                "vote_average": 6.8,
+                "vote_count": 1679
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Animated)": [
+        {
+            "first_label": "The Lost Thing",
+            "second_label": "Shaun Tan and Andrew Ruhemann",
+            "category": "Short Film (Animated)",
+            "year": 2011,
+            "tmdb": {
+                "id": 58515,
+                "original_title": "The Lost Thing",
+                "title": "The Lost Thing",
+                "release_date": "2010-06-03",
+                "backdrop_path": "/nc7OwIDJcWCb5snIbIuhiV9YN6N.jpg",
+                "poster_path": "/w272Z6vRaC1H6WZU5pIffaU04MR.jpg",
+                "overview": "Um menino encontra uma estranha criatura na praia e decide encontrar um lar para ela em um mundo onde todos acreditam que h\u00e1 coisas muito mais importantes para prestar aten\u00e7\u00e3o...",
+                "vote_average": 6.9,
+                "vote_count": 78
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Day & Night",
+            "second_label": "Teddy Newton",
+            "category": "Short Film (Animated)",
+            "year": 2011,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Gruffalo",
+            "second_label": "Jakob Schuh and Max Lang",
+            "category": "Short Film (Animated)",
+            "year": 2011,
+            "tmdb": {
+                "id": 28118,
+                "original_title": "The Gruffalo",
+                "title": "O Gruffalo",
+                "release_date": "2009-12-25",
+                "backdrop_path": "/tNtZdMP0OmxXvzA9lpZc9l5V2NC.jpg",
+                "poster_path": "/154eUuLvPnI0mwVDGpMgUyniFEy.jpg",
+                "overview": "Um rato sai para passear na floresta e se encontra com v\u00e1rios predadores.",
+                "vote_average": 7.2,
+                "vote_count": 289
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Let's Pollute",
+            "second_label": "Geefwee Boedoe",
+            "category": "Short Film (Animated)",
+            "year": 2011,
+            "tmdb": {
+                "id": 159523,
+                "original_title": "Let's Pollute",
+                "title": "Let's Pollute",
+                "release_date": "2009-11-05",
+                "backdrop_path": "/wrBgf1L1Hntkhd0rHZoq5Exyy4k.jpg",
+                "poster_path": "/puQMux80caMrVUOJVWe2wu7FEQS.jpg",
+                "overview": "No esp\u00edrito dos filmes educativos dos anos 50 e 60, 'Vamos Poluir' \u00e9 uma s\u00e1tira moderna sobre como a polui\u00e7\u00e3o \u00e9 nossa heran\u00e7a e mant\u00e9m nossa economia crescendo forte, enquanto nos ensina como sermos melhores poluidores para um amanh\u00e3 melhor arruinado...",
+                "vote_average": 6.5,
+                "vote_count": 13
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Madagascar, carnet de voyage (Madagascar, a Journey Diary)",
+            "second_label": "Bastien Dubois",
+            "category": "Short Film (Animated)",
+            "year": 2011,
+            "tmdb": {
+                "id": 150298,
+                "original_title": "Madagascar, carnet de voyage",
+                "title": "Madagascar, a Journey Diary",
+                "release_date": "2010-01-24",
+                "backdrop_path": "/xCLon2Mn8NXWd3dGQ9AdZzSlxhb.jpg",
+                "poster_path": "/zXGkHvYAb7ZJjHRJlk0x8EBvggh.jpg",
+                "overview": "Um di\u00e1rio de viagem que redesenha a viagem de um viajante europeu confrontado com os costumes de Famadihana...",
+                "vote_average": 6.9,
+                "vote_count": 15
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Live Action)": [
+        {
+            "first_label": "God of Love",
+            "second_label": "Luke Matheny",
+            "category": "Short Film (Live Action)",
+            "year": 2011,
+            "tmdb": {
+                "id": 58763,
+                "original_title": "God of Love",
+                "title": "God of Love",
+                "release_date": "2010-06-12",
+                "backdrop_path": "/zvsy2I5UPnzuNZXf3K6zOHMUm9M.jpg",
+                "poster_path": "/5niikw9JFCYihWcV7D9vb9yejg1.jpg",
+                "overview": "A lovestruck, lounge-singing darts champion finds his prayers are answered -- literally -- when he mysteriously receives a box of love-inducing darts.",
+                "vote_average": 7.1,
+                "vote_count": 34
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Confession",
+            "second_label": "Tanel Toom",
+            "category": "Short Film (Live Action)",
+            "year": 2011,
+            "tmdb": {
+                "id": 132239,
+                "original_title": "The Confession",
+                "title": "The Confession",
+                "release_date": "2010-06-12",
+                "backdrop_path": "/4CShn0q3aYzxIgLS61fo6sDVoYa.jpg",
+                "poster_path": "/hxPCDELgaiEToT3jAueaOFO9BiD.jpg",
+                "overview": "Sam can't think of any sins to tell the priest at his first confession. He worries that he won't be a real Catholic if the priest doesn't absolve him of some misdeed. Jacob, Sam's friend, devises a solution in the form of a prank, but the result is tragic.",
+                "vote_average": 7.2,
+                "vote_count": 18
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Crush",
+            "second_label": "Michael Creagh",
+            "category": "Short Film (Live Action)",
+            "year": 2011,
+            "tmdb": {
+                "id": 159518,
+                "original_title": "The Crush",
+                "title": "The Crush",
+                "release_date": "2010-04-20",
+                "backdrop_path": null,
+                "poster_path": "/4hywkQZ1d2RxBjh4h9P0dtgWw9G.jpg",
+                "overview": "Eight-year-old Ardal has a romantic heart and a passionate crush on his second-class teacher, Ms Purdy. But his dreams of marrying his love are dashed when she becomes engaged to her boyfriend, who Ardal deems entirely unacceptable. Inspired by his favourite western movies, he decides that his only course of action is to challenge his rival to a duel.",
+                "vote_average": 5.9,
+                "vote_count": 36
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Na Wewe",
+            "second_label": "Ivan Goldschmidt",
+            "category": "Short Film (Live Action)",
+            "year": 2011,
+            "tmdb": {
+                "id": 95468,
+                "original_title": "Na Wewe",
+                "title": "Na Wewe",
+                "release_date": "2010-04-25",
+                "backdrop_path": null,
+                "poster_path": "/bKKVhMm9Rlqj8oM4UVsXhUkQTug.jpg",
+                "overview": "Na Wewe is a 2010 Belgian short film directed by Ivan Goldschmidt, set in Burundi in 1994 or thereabouts. There is a civil war on, a genocidal conflict opposing Hutus and Tutsis. The film follows an attack by rebels of a minibus transporting ordinary passengers -- but who is a Hutu and who is a Tutsi? The film was nominated for an Oscar for Best Live Action Short Film.",
+                "vote_average": 6.5,
+                "vote_count": 13
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Wish 143",
+            "second_label": "Ian Barnes and Samantha Waite",
+            "category": "Short Film (Live Action)",
+            "year": 2011,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Sound Editing": [
+        {
+            "first_label": "Inception",
+            "second_label": "Richard King",
+            "category": "Sound Editing",
+            "year": 2011,
+            "tmdb": {
+                "id": 27205,
+                "original_title": "Inception",
+                "title": "A Origem",
+                "release_date": "2010-07-15",
+                "backdrop_path": "/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+                "poster_path": "/9e3Dz7aCANy5aRUQF745IlNloJ1.jpg",
+                "overview": "Um ladr\u00e3o que rouba segredos corporativos por meio do uso da tecnologia de compartilhamento de sonhos, recebe a tarefa inversa de plantar uma ideia na mente de um Diretor Executivo.",
+                "vote_average": 8.367,
+                "vote_count": 35454
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Toy Story 3",
+            "second_label": "Tom Myers and Michael Silvers",
+            "category": "Sound Editing",
+            "year": 2011,
+            "tmdb": {
+                "id": 10193,
+                "original_title": "Toy Story 3",
+                "title": "Toy Story 3",
+                "release_date": "2010-06-16",
+                "backdrop_path": "/wE5JGzujfvDPMIfFjJyrhXFjZLc.jpg",
+                "poster_path": "/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
+                "overview": "Quando Andy se prepara para ir para a faculdade, Woody, Buzz, Jessie e o restante dos leais brinquedos de Andy pensam o que ir\u00e1 acontecer com eles. Mas quando uma confus\u00e3o faz com que eles sejam levados \u00e0 creche Sunnyside, eles conhecem um anfitri\u00e3o de novos brinquedos e logo descobrem que uma nova aventura selvagem est\u00e1 apenas come\u00e7ando!",
+                "vote_average": 7.795,
+                "vote_count": 14154
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tron: Legacy",
+            "second_label": "Gwendolyn Yates Whittle and Addison Teague",
+            "category": "Sound Editing",
+            "year": 2011,
+            "tmdb": {
+                "id": 20526,
+                "original_title": "TRON: Legacy",
+                "title": "Tron: O Legado",
+                "release_date": "2010-12-14",
+                "backdrop_path": "/zK7wNuUQ4w0QQp9FF20YTPVgpyN.jpg",
+                "poster_path": "/wlHzvzXE9AvMgrVsKHg2PweC3aC.jpg",
+                "overview": "Quando Flynn, o maior criador de videogames do planeta, envia uma mensagem de um incr\u00edvel mundo digital, seu filho descobre o caminho e embarca numa jornada pessoal para salvar seu pai desaparecido h\u00e1 anos. Com a ajuda da destemida guerreira Quorra, pai e filho se aventuram num universo cibern\u00e9tico incr\u00edvel e travam a batalha definitiva do bem x mal.",
+                "vote_average": 6.469,
+                "vote_count": 6869
+            },
+            "winner": false
+        },
+        {
+            "first_label": "True Grit",
+            "second_label": "Skip Lievsay and Craig Berkey",
+            "category": "Sound Editing",
+            "year": 2011,
+            "tmdb": {
+                "id": 44264,
+                "original_title": "True Grit",
+                "title": "Bravura Ind\u00f4mita",
+                "release_date": "2010-12-22",
+                "backdrop_path": "/zztSrG61sqoHH5Zr66Z27fpbb26.jpg",
+                "poster_path": "/dRFcmou6HSCsMUXVG5GVy9UH7R4.jpg",
+                "overview": "Depois que um bandido chamado Tom Chaney assassina seu pai, uma menina de 14 anos e mal-humorada, Mattie Ross, contrata Rooster Cogburn, um embriagado homem da lei para ajud\u00e1-la a encontrar Chaney e vingar seu pai . A dupla briguenta n\u00e3o est\u00e1 sozinha em sua busca. Um Texas Ranger, chamado LaBoeuf, tamb\u00e9m vem monitorando Chaney por raz\u00f5es pr\u00f3prias. Juntos, o trio se aventura em um territ\u00f3rio hostil para distribuir um pouco da justi\u00e7a do Velho Oeste.",
+                "vote_average": 7.3,
+                "vote_count": 5029
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Unstoppable",
+            "second_label": "Mark P. Stoeckinger",
+            "category": "Sound Editing",
+            "year": 2011,
+            "tmdb": {
+                "id": 44048,
+                "original_title": "Unstoppable",
+                "title": "Incontrol\u00e1vel",
+                "release_date": "2010-11-04",
+                "backdrop_path": "/j3vV6gxD7USL13LSAN49pGun1X7.jpg",
+                "poster_path": "/yAuG9MZbIuHzWfdRfCQ9nCoawCu.jpg",
+                "overview": "Uma composi\u00e7\u00e3o carregada de produtos altamente t\u00f3xicos est\u00e1 desgovernada e o perigo \u00e9 iminente. Um condutor e um maquinista experiente precisam evitar que uma pequena cidade em seu caminho seja destru\u00edda. A \u00fanica sa\u00edda \u00e9 botar em pr\u00e1tica uma opera\u00e7\u00e3o muito arriscada, mas o tempo corre contra eles.",
+                "vote_average": 6.577,
+                "vote_count": 3359
+            },
+            "winner": false
+        }
+    ],
+    "Sound Mixing": [
+        {
+            "first_label": "Inception",
+            "second_label": "Lora Hirschberg, Gary A. Rizzo and Ed Novick",
+            "category": "Sound Mixing",
+            "year": 2011,
+            "tmdb": {
+                "id": 27205,
+                "original_title": "Inception",
+                "title": "A Origem",
+                "release_date": "2010-07-15",
+                "backdrop_path": "/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+                "poster_path": "/9e3Dz7aCANy5aRUQF745IlNloJ1.jpg",
+                "overview": "Um ladr\u00e3o que rouba segredos corporativos por meio do uso da tecnologia de compartilhamento de sonhos, recebe a tarefa inversa de plantar uma ideia na mente de um Diretor Executivo.",
+                "vote_average": 8.367,
+                "vote_count": 35454
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The King's Speech",
+            "second_label": "Paul Hamblin, Martin Jensen and John Midgley",
+            "category": "Sound Mixing",
+            "year": 2011,
+            "tmdb": {
+                "id": 45269,
+                "original_title": "The King's Speech",
+                "title": "O Discurso do Rei",
+                "release_date": "2010-11-26",
+                "backdrop_path": "/5eb7l7AE2yU0mvb38fR5qLNhDDH.jpg",
+                "poster_path": "/poXqTEX1UpqgAvWdlsndTCxZhaJ.jpg",
+                "overview": "O Pr\u00edncipe Albert da Inglaterra deve ascender ao trono como Rei George VI, mas ele tem um problema de fala. Sabendo que o pa\u00eds precisa que seu marido seja capaz de se comunicar perfeitamente, Elizabeth contrata Lionel Logue, um ator australiano e fonoaudi\u00f3logo, para ajudar o Pr\u00edncipe a superar a gagueira. Uma extraordin\u00e1ria amizade desenvolve-se entre os dois homens, e Logue usa meios n\u00e3o convencionais para ensinar o monarca a falar com seguran\u00e7a.",
+                "vote_average": 7.7,
+                "vote_count": 8393
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Salt",
+            "second_label": "Jeffrey J. Haboush, Greg P. Russell, Scott Millan and William Sarokin",
+            "category": "Sound Mixing",
+            "year": 2011,
+            "tmdb": {
+                "id": 27576,
+                "original_title": "Salt",
+                "title": "Salt",
+                "release_date": "2010-07-21",
+                "backdrop_path": "/75S1XsekIPF7c99g5cby0DeorPz.jpg",
+                "poster_path": "/vJMUB623nnYKDF9IFaetzigGqxm.jpg",
+                "overview": "Evelyn Salt (Angelina Jolie) jurou servir e honrar seu pa\u00eds. Agora trabalhando como agente da CIA, ela \u00e9 colocada \u00e0 prova ao ser acusada por um desertor russo de ser uma espi\u00e3 russa infiltrada. Decidida a provar sua inoc\u00eancia, ela foge e passa a usar suas habilidades para proteger n\u00e3o apenas sua vida, mas tamb\u00e9m a de seu marido.",
+                "vote_average": 6.4,
+                "vote_count": 5259
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Social Network",
+            "second_label": "Ren Klyce, David Parker, Michael Semanick and Mark Weingarten",
+            "category": "Sound Mixing",
+            "year": 2011,
+            "tmdb": {
+                "id": 37799,
+                "original_title": "The Social Network",
+                "title": "A Rede Social",
+                "release_date": "2010-10-01",
+                "backdrop_path": "/cq9N64ucEtfIc3eMxNr1VzY9LH9.jpg",
+                "poster_path": "/o8Y4YbPiV7TCNCEPJKv8AKTe2Gl.jpg",
+                "overview": "Uma hist\u00f3ria surpreendente sobre uma nova ra\u00e7a de rebeldes culturais: um g\u00eanio que deflagrou uma revolu\u00e7\u00e3o e mudou a cara da intera\u00e7\u00e3o humana de toda uma gera\u00e7\u00e3o, uma mudan\u00e7a que talvez perdure para sempre. Filmado com brutalidade emocional e humor inesperado, este filme soberbamente elaborado faz uma cr\u00f4nica sobre a cria\u00e7\u00e3o do Facebook e sobre as batalhas relativas \u00e0 sua propriedade ap\u00f3s o imenso sucesso do site.",
+                "vote_average": 7.365,
+                "vote_count": 11592
+            },
+            "winner": false
+        },
+        {
+            "first_label": "True Grit",
+            "second_label": "Skip Lievsay, Craig Berkey, Greg Orloff and Peter F. Kurland",
+            "category": "Sound Mixing",
+            "year": 2011,
+            "tmdb": {
+                "id": 44264,
+                "original_title": "True Grit",
+                "title": "Bravura Ind\u00f4mita",
+                "release_date": "2010-12-22",
+                "backdrop_path": "/zztSrG61sqoHH5Zr66Z27fpbb26.jpg",
+                "poster_path": "/dRFcmou6HSCsMUXVG5GVy9UH7R4.jpg",
+                "overview": "Depois que um bandido chamado Tom Chaney assassina seu pai, uma menina de 14 anos e mal-humorada, Mattie Ross, contrata Rooster Cogburn, um embriagado homem da lei para ajud\u00e1-la a encontrar Chaney e vingar seu pai . A dupla briguenta n\u00e3o est\u00e1 sozinha em sua busca. Um Texas Ranger, chamado LaBoeuf, tamb\u00e9m vem monitorando Chaney por raz\u00f5es pr\u00f3prias. Juntos, o trio se aventura em um territ\u00f3rio hostil para distribuir um pouco da justi\u00e7a do Velho Oeste.",
+                "vote_average": 7.3,
+                "vote_count": 5029
+            },
+            "winner": false
+        }
+    ],
+    "Visual Effects": [
+        {
+            "first_label": "Inception",
+            "second_label": "Paul Franklin, Chris Corbould, Andrew Lockley and Peter Bebb",
+            "category": "Visual Effects",
+            "year": 2011,
+            "tmdb": {
+                "id": 27205,
+                "original_title": "Inception",
+                "title": "A Origem",
+                "release_date": "2010-07-15",
+                "backdrop_path": "/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+                "poster_path": "/9e3Dz7aCANy5aRUQF745IlNloJ1.jpg",
+                "overview": "Um ladr\u00e3o que rouba segredos corporativos por meio do uso da tecnologia de compartilhamento de sonhos, recebe a tarefa inversa de plantar uma ideia na mente de um Diretor Executivo.",
+                "vote_average": 8.367,
+                "vote_count": 35454
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Alice in Wonderland",
+            "second_label": "Ken Ralston, David Schaub, Carey Villegas and Sean Phillips",
+            "category": "Visual Effects",
+            "year": 2011,
+            "tmdb": {
+                "id": 12155,
+                "original_title": "Alice in Wonderland",
+                "title": "Alice no Pa\u00eds das Maravilhas",
+                "release_date": "2010-03-03",
+                "backdrop_path": "/ylEXht4BndyodoWM5YwEvWtWmHE.jpg",
+                "poster_path": "/fjaiHtykx4LcHJLzhKhn7tNPpAj.jpg",
+                "overview": "A Alice de 19 anos de idade, que regressa ao exc\u00eantrico mundo que encontrou pela primeira vez quando era crian\u00e7a reunindo-se assim com os seus amigos de inf\u00e2ncia: o Coelho Branco, Tweedledee e Tweedledum, a Ratazana, a Lagarta, o Gato Cheshire, e claro, o Chapeleiro Louco. Alice embarca numa fant\u00e1stica viagem para encontrar o seu verdadeiro destino e acabar com o reino de terror da Rainha Vermelha.",
+                "vote_average": 6.632,
+                "vote_count": 13483
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Harry Potter and the Deathly Hallows Part 1",
+            "second_label": "Tim Burke, John Richardson, Christian Manz and Nicolas Aithadi",
+            "category": "Visual Effects",
+            "year": 2011,
+            "tmdb": {
+                "id": 12444,
+                "original_title": "Harry Potter and the Deathly Hallows: Part 1",
+                "title": "Harry Potter e as Rel\u00edquias da Morte - Parte 1",
+                "release_date": "2010-11-17",
+                "backdrop_path": "/AqLcLsGGTzAjm3pCCq0CZCQrp6m.jpg",
+                "poster_path": "/67FVFOTaeBUQnimhCWpUkDawDct.jpg",
+                "overview": "Harry, Ron e Hermione est\u00e3o determinados em sua miss\u00e3o de descobrir e acabar com o segredo da imortalidade e do poder de destrui\u00e7\u00e3o de Voldemort \u2013 os Horcruxes. Fugitivos e sozinhos, os tr\u00eas amigos devem apenas contar uns com os outros, agora mas do que nunca... Mas as For\u00e7as das Trevas no caminho amea\u00e7am separ\u00e1-los para sempre.",
+                "vote_average": 7.755,
+                "vote_count": 18382
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hereafter",
+            "second_label": "Michael Owens, Bryan Grill, Stephan Trojansky and Joe Farrell",
+            "category": "Visual Effects",
+            "year": 2011,
+            "tmdb": {
+                "id": 44603,
+                "original_title": "Hereafter",
+                "title": "Al\u00e9m da Vida",
+                "release_date": "2010-10-22",
+                "backdrop_path": "/f2z00VIPyrrfFabw0RnoY5M8uYt.jpg",
+                "poster_path": "/xNnd2jFEV9KjNU6M31HoOosloDI.jpg",
+                "overview": "Tr\u00eas pessoas s\u00e3o tocadas pela morte de maneiras diferentes. George (Matt Damon) \u00e9 um americano que desde pequeno consegue manter contato com a vida fora da mat\u00e9ria, mas considera o seu dom uma maldi\u00e7\u00e3o e tenta levar uma vida normal. Marie (C\u00e9cile De France) \u00e9 jornalista, francesa, e passou por uma experi\u00eancia de quase morte durante um tsunami. Em Londres, o menino Marcus (Frankie McLaren/George McLaren) perde algu\u00e9m muito ligado a ele e parte em busca desesperada por respostas. Enquanto cada um segue sua vida, o caminho deles ir\u00e1 se cruzar, podendo mundar para sempre as suas cren\u00e7as.",
+                "vote_average": 6.1,
+                "vote_count": 1577
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Iron Man 2",
+            "second_label": "Janek Sirrs, Ben Snow, Ged Wright and Daniel Sudick",
+            "category": "Visual Effects",
+            "year": 2011,
+            "tmdb": {
+                "id": 10138,
+                "original_title": "Iron Man 2",
+                "title": "Homem de Ferro 2",
+                "release_date": "2010-04-28",
+                "backdrop_path": "/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg",
+                "poster_path": "/wXnHMfgfBfjuzFdye2pDO9zm0Nn.jpg",
+                "overview": "Em um mundo ciente da exist\u00eancia do Homem de Ferro, o inventor bilion\u00e1rio Tony Stark sofre press\u00e3o de todos os lados para compartilhar sua tecnologia com as for\u00e7as armadas. Ele resiste para divulgar os segredos de sua inigual\u00e1vel armadura, com medo de que estas informa\u00e7\u00f5es caiam nas m\u00e3os erradas.",
+                "vote_average": 6.838,
+                "vote_count": 20293
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Adapted Screenplay)": [
+        {
+            "first_label": "The Social Network",
+            "second_label": "Screenplay by Aaron Sorkin",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2011,
+            "tmdb": {
+                "id": 37799,
+                "original_title": "The Social Network",
+                "title": "A Rede Social",
+                "release_date": "2010-10-01",
+                "backdrop_path": "/cq9N64ucEtfIc3eMxNr1VzY9LH9.jpg",
+                "poster_path": "/o8Y4YbPiV7TCNCEPJKv8AKTe2Gl.jpg",
+                "overview": "Uma hist\u00f3ria surpreendente sobre uma nova ra\u00e7a de rebeldes culturais: um g\u00eanio que deflagrou uma revolu\u00e7\u00e3o e mudou a cara da intera\u00e7\u00e3o humana de toda uma gera\u00e7\u00e3o, uma mudan\u00e7a que talvez perdure para sempre. Filmado com brutalidade emocional e humor inesperado, este filme soberbamente elaborado faz uma cr\u00f4nica sobre a cria\u00e7\u00e3o do Facebook e sobre as batalhas relativas \u00e0 sua propriedade ap\u00f3s o imenso sucesso do site.",
+                "vote_average": 7.365,
+                "vote_count": 11592
+            },
+            "winner": true
+        },
+        {
+            "first_label": "127 Hours",
+            "second_label": "Screenplay by Danny Boyle & Simon Beaufoy",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2011,
+            "tmdb": {
+                "id": 44115,
+                "original_title": "127 Hours",
+                "title": "127 Horas",
+                "release_date": "2010-11-12",
+                "backdrop_path": "/viBWzktrBmhzRw4ehmUIrrN4C0z.jpg",
+                "poster_path": "/1HoqPAq2HMUMwI0u4mpcBN4v9WJ.jpg",
+                "overview": "Ao explorar um c\u00e2nion remoto em Utah, o alpinista e aventureiro Aron Ralston fica preso em uma fenda quando uma pedra cai. Nos cinco dias seguintes, Ralston examina sua vida e considera suas op\u00e7\u00f5es, as quais o levam a uma situa\u00e7\u00e3o angustiante. Aron precisa tomar uma atitude para que possa se libertar e tentar voltar para a civiliza\u00e7\u00e3o.",
+                "vote_average": 7.1,
+                "vote_count": 7217
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Toy Story 3",
+            "second_label": "Screenplay by Michael Arndt; Story by John Lasseter, Andrew Stanton and Lee Unkrich",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2011,
+            "tmdb": {
+                "id": 10193,
+                "original_title": "Toy Story 3",
+                "title": "Toy Story 3",
+                "release_date": "2010-06-16",
+                "backdrop_path": "/wE5JGzujfvDPMIfFjJyrhXFjZLc.jpg",
+                "poster_path": "/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
+                "overview": "Quando Andy se prepara para ir para a faculdade, Woody, Buzz, Jessie e o restante dos leais brinquedos de Andy pensam o que ir\u00e1 acontecer com eles. Mas quando uma confus\u00e3o faz com que eles sejam levados \u00e0 creche Sunnyside, eles conhecem um anfitri\u00e3o de novos brinquedos e logo descobrem que uma nova aventura selvagem est\u00e1 apenas come\u00e7ando!",
+                "vote_average": 7.795,
+                "vote_count": 14154
+            },
+            "winner": false
+        },
+        {
+            "first_label": "True Grit",
+            "second_label": "Written for the screen by Joel Coen & Ethan Coen",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2011,
+            "tmdb": {
+                "id": 44264,
+                "original_title": "True Grit",
+                "title": "Bravura Ind\u00f4mita",
+                "release_date": "2010-12-22",
+                "backdrop_path": "/zztSrG61sqoHH5Zr66Z27fpbb26.jpg",
+                "poster_path": "/dRFcmou6HSCsMUXVG5GVy9UH7R4.jpg",
+                "overview": "Depois que um bandido chamado Tom Chaney assassina seu pai, uma menina de 14 anos e mal-humorada, Mattie Ross, contrata Rooster Cogburn, um embriagado homem da lei para ajud\u00e1-la a encontrar Chaney e vingar seu pai . A dupla briguenta n\u00e3o est\u00e1 sozinha em sua busca. Um Texas Ranger, chamado LaBoeuf, tamb\u00e9m vem monitorando Chaney por raz\u00f5es pr\u00f3prias. Juntos, o trio se aventura em um territ\u00f3rio hostil para distribuir um pouco da justi\u00e7a do Velho Oeste.",
+                "vote_average": 7.3,
+                "vote_count": 5029
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Winter's Bone",
+            "second_label": "Adapted for the screen by Debra Granik & Anne Rosellini",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2011,
+            "tmdb": {
+                "id": 39013,
+                "original_title": "Winter's Bone",
+                "title": "Inverno da Alma",
+                "release_date": "2010-06-11",
+                "backdrop_path": "/wW4dZWEfUIXWVKhKsPFBokndJbI.jpg",
+                "poster_path": "/gQEGofSZEqBlLvmi5bHIQprTuP4.jpg",
+                "overview": "Aos 17 anos de idade, Ree Dolly (Jennifer Lawrence) embarca em uma miss\u00e3o para encontrar seu pai, j\u00e1 que ele usou a casa de sua fam\u00edlia como forma de garantir sua liberdade condicional e desapareceu sem deixar vest\u00edgios. Confrontada com a possibilidade de perder a casa onde mora com seus irm\u00e3os pequenos e precisar voltar para a floresta de Ozark, Ree desafia os c\u00f3digos e a lei do sil\u00eancio arriscando sua vida para salvar sua fam\u00edlia. Ela desafia as mentiras, fugas e amea\u00e7as oferecidas por seus parentes e, dessa forma, come\u00e7a a juntar a verdade sobre seu pai.",
+                "vote_average": 6.8,
+                "vote_count": 1679
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Original Screenplay)": [
+        {
+            "first_label": "The King's Speech",
+            "second_label": "Screenplay by David Seidler",
+            "category": "Writing (Original Screenplay)",
+            "year": 2011,
+            "tmdb": {
+                "id": 45269,
+                "original_title": "The King's Speech",
+                "title": "O Discurso do Rei",
+                "release_date": "2010-11-26",
+                "backdrop_path": "/5eb7l7AE2yU0mvb38fR5qLNhDDH.jpg",
+                "poster_path": "/poXqTEX1UpqgAvWdlsndTCxZhaJ.jpg",
+                "overview": "O Pr\u00edncipe Albert da Inglaterra deve ascender ao trono como Rei George VI, mas ele tem um problema de fala. Sabendo que o pa\u00eds precisa que seu marido seja capaz de se comunicar perfeitamente, Elizabeth contrata Lionel Logue, um ator australiano e fonoaudi\u00f3logo, para ajudar o Pr\u00edncipe a superar a gagueira. Uma extraordin\u00e1ria amizade desenvolve-se entre os dois homens, e Logue usa meios n\u00e3o convencionais para ensinar o monarca a falar com seguran\u00e7a.",
+                "vote_average": 7.7,
+                "vote_count": 8393
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Another Year",
+            "second_label": "Written by Mike Leigh",
+            "category": "Writing (Original Screenplay)",
+            "year": 2011,
+            "tmdb": {
+                "id": 44009,
+                "original_title": "Another Year",
+                "title": "Um Ano Mais",
+                "release_date": "2010-11-05",
+                "backdrop_path": "/8VPwE9Owon0lOUi1FdTfakEPVZM.jpg",
+                "poster_path": "/zrkQcAatfBox5x9KZjaYGnKoqu6.jpg",
+                "overview": "Uma an\u00e1lise das quatro esta\u00e7\u00f5es da vida de um casal feliz e seus relacionamentos com a fam\u00edlia e amigos.  Tom e Gerri s\u00e3o casados e levam uma vida confort\u00e1vel, pacata e feliz. Eles n\u00e3o t\u00eam nada que os torne especiais, mas uma vida est\u00e1vel e pacata, solidamente alicer\u00e7ada num passado de companheirismo constru\u00eddo em cima de um casamento feliz. Talvez por isso, eles acabam sendo uma esp\u00e9cie de \u201cporto de abrigo\u201d para amigos e familiares em situa\u00e7\u00e3o mais aflitiva.",
+                "vote_average": 7.0,
+                "vote_count": 364
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Fighter",
+            "second_label": "Screenplay by Scott Silver and Paul Tamasy & Eric Johnson; Story by Keith Dorrington & Paul Tamasy & Eric Johnson",
+            "category": "Writing (Original Screenplay)",
+            "year": 2011,
+            "tmdb": {
+                "id": 45317,
+                "original_title": "The Fighter",
+                "title": "O Vencedor",
+                "release_date": "2010-12-10",
+                "backdrop_path": "/2kqmEQZqime0G3ULgrKtAq3WVdH.jpg",
+                "poster_path": "/QqPw1u2HJvc4xlHVfj868sAfqr.jpg",
+                "overview": "Dicky Ecklund \u00e9 uma lenda do boxe que desperdi\u00e7ou o seu talento e a sua grande chance. Agora, o seu meio-irm\u00e3o Micky Ward tentar\u00e1 se tornar uma nova esperan\u00e7a de campe\u00e3o e superar as conquistas de Dicky. Treinado pela fam\u00edlia e sem obter sucesso em suas lutas, Micky ter\u00e1 que escolher entre seus familiares e a vontade de ser um verdadeiro campe\u00e3o.",
+                "vote_average": 7.387,
+                "vote_count": 4178
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Inception",
+            "second_label": "Written by Christopher Nolan",
+            "category": "Writing (Original Screenplay)",
+            "year": 2011,
+            "tmdb": {
+                "id": 27205,
+                "original_title": "Inception",
+                "title": "A Origem",
+                "release_date": "2010-07-15",
+                "backdrop_path": "/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+                "poster_path": "/9e3Dz7aCANy5aRUQF745IlNloJ1.jpg",
+                "overview": "Um ladr\u00e3o que rouba segredos corporativos por meio do uso da tecnologia de compartilhamento de sonhos, recebe a tarefa inversa de plantar uma ideia na mente de um Diretor Executivo.",
+                "vote_average": 8.367,
+                "vote_count": 35454
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Kids Are All Right",
+            "second_label": "Written by Lisa Cholodenko & Stuart Blumberg",
+            "category": "Writing (Original Screenplay)",
+            "year": 2011,
+            "tmdb": {
+                "id": 39781,
+                "original_title": "The Kids Are All Right",
+                "title": "Minhas M\u00e3es e Meu Pai",
+                "release_date": "2010-07-09",
+                "backdrop_path": "/kokPRmOdEmWZi3SR1dcdvsiq9lF.jpg",
+                "poster_path": "/AeFUOqhMmMlJngN0IG3sBI4s8ET.jpg",
+                "overview": "Dois irm\u00e3os adolescentes, Joni (Mia Wasikowaska) e Laser (Josh Hutcherson), s\u00e3o filhos do casal Jules (Julianne Moore) e Nic (Annette Bening), concebidos atrav\u00e9s da insemina\u00e7\u00e3o artificial de um doador an\u00f4nimo. Contudo, ao completar a maioridade, Joni encoraja o irm\u00e3o a embarcar numa aventura para encontrar o pai biol\u00f3gico sem que as m\u00e3es saibam. Quando Paul (Mark Ruffalo) aparece tudo muda, j\u00e1 que logo ela passa a fazer parte do cotidiano da fam\u00edlia.",
+                "vote_average": 6.6,
+                "vote_count": 1411
+            },
+            "winner": false
+        }
+    ]
+}

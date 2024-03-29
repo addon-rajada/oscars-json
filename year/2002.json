@@ -1,0 +1,1792 @@
+{
+    "Actor in a Leading Role": [
+        {
+            "first_label": "Denzel Washington",
+            "second_label": "Training Day",
+            "category": "Actor in a Leading Role",
+            "year": 2002,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Russell Crowe",
+            "second_label": "A Beautiful Mind",
+            "category": "Actor in a Leading Role",
+            "year": 2002,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sean Penn",
+            "second_label": "I Am Sam",
+            "category": "Actor in a Leading Role",
+            "year": 2002,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Will Smith",
+            "second_label": "Ali",
+            "category": "Actor in a Leading Role",
+            "year": 2002,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tom Wilkinson",
+            "second_label": "In the Bedroom",
+            "category": "Actor in a Leading Role",
+            "year": 2002,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Jim Broadbent",
+            "second_label": "Iris",
+            "category": "Actor in a Supporting Role",
+            "year": 2002,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Ethan Hawke",
+            "second_label": "Training Day",
+            "category": "Actor in a Supporting Role",
+            "year": 2002,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ben Kingsley",
+            "second_label": "Sexy Beast",
+            "category": "Actor in a Supporting Role",
+            "year": 2002,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ian McKellen",
+            "second_label": "The Lord of the Rings: The Fellowship of the Ring",
+            "category": "Actor in a Supporting Role",
+            "year": 2002,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jon Voight",
+            "second_label": "Ali",
+            "category": "Actor in a Supporting Role",
+            "year": 2002,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Leading Role": [
+        {
+            "first_label": "Halle Berry",
+            "second_label": "Monster's Ball",
+            "category": "Actress in a Leading Role",
+            "year": 2002,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Judi Dench",
+            "second_label": "Iris",
+            "category": "Actress in a Leading Role",
+            "year": 2002,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Nicole Kidman",
+            "second_label": "Moulin Rouge",
+            "category": "Actress in a Leading Role",
+            "year": 2002,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sissy Spacek",
+            "second_label": "In the Bedroom",
+            "category": "Actress in a Leading Role",
+            "year": 2002,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rene Zellweger",
+            "second_label": "Bridget Jones's Diary",
+            "category": "Actress in a Leading Role",
+            "year": 2002,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Jennifer Connelly",
+            "second_label": "A Beautiful Mind",
+            "category": "Actress in a Supporting Role",
+            "year": 2002,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Helen Mirren",
+            "second_label": "Gosford Park",
+            "category": "Actress in a Supporting Role",
+            "year": 2002,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Maggie Smith",
+            "second_label": "Gosford Park",
+            "category": "Actress in a Supporting Role",
+            "year": 2002,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Marisa Tomei",
+            "second_label": "In the Bedroom",
+            "category": "Actress in a Supporting Role",
+            "year": 2002,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Kate Winslet",
+            "second_label": "Iris",
+            "category": "Actress in a Supporting Role",
+            "year": 2002,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Animated Feature Film": [
+        {
+            "first_label": "Shrek",
+            "second_label": "Aron Warner",
+            "category": "Animated Feature Film",
+            "year": 2002,
+            "tmdb": {
+                "id": 808,
+                "original_title": "Shrek",
+                "title": "Shrek",
+                "release_date": "2001-05-18",
+                "backdrop_path": "/sRvXNDItGlWCqtO3j6wks52FmbD.jpg",
+                "poster_path": "/dyhaB19AICF7TO7CK2aD6KfymnQ.jpg",
+                "overview": "Em um p\u00e2ntano distante vive Shrek, um ogro solit\u00e1rio que v\u00ea, sem mais nem menos, sua vida ser invadida por uma s\u00e9rie de personagens de contos de fada, como tr\u00eas ratos cegos, um grande e malvado lobo e ainda tr\u00eas porcos que n\u00e3o t\u00eam um lugar onde morar. Todos eles foram expulsos de seus lares pelo maligno Lorde Farquaad. Determinado a recuperar a tranquilidade de antes, Shrek resolve encontrar Farquaad e com ele faz um acordo: todos os personagens poder\u00e3o retornar aos seus lares se ele e seu amigo Burro resgatarem uma bela princesa, que \u00e9 prisioneira de um drag\u00e3o. Por\u00e9m, quando Shrek e o Burro enfim conseguem resgatar a princesa logo eles descobrem que seus problemas est\u00e3o apenas come\u00e7ando.",
+                "vote_average": 7.738,
+                "vote_count": 16380
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Jimmy Neutron: Boy Genius",
+            "second_label": "Steve Oedekerk, John A. Davis",
+            "category": "Animated Feature Film",
+            "year": 2002,
+            "tmdb": {
+                "id": 12589,
+                "original_title": "Jimmy Neutron: Boy Genius",
+                "title": "Jimmy Neutron: O Menino G\u00eanio",
+                "release_date": "2001-12-14",
+                "backdrop_path": "/9stTjA64EvFfNtrlO5XKvpBX351.jpg",
+                "poster_path": "/8FE53WuiAuWjRAj3U3jkM7KCcLJ.jpg",
+                "overview": "Jimmy Neutron \u00e9 um garoto muito inteligente, mas que possui dificuldades em se relacionar com outros jovens da sua idade. A situa\u00e7\u00e3o muda quando todos os pais do planeta s\u00e3o sequestrados por alien\u00edgenas, fazendo com que Jimmy tenha que liderar as crian\u00e7as para que elas consigam recuperar seus pais.",
+                "vote_average": 6.0,
+                "vote_count": 869
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Monsters, Inc.",
+            "second_label": "Pete Docter, John Lasseter",
+            "category": "Animated Feature Film",
+            "year": 2002,
+            "tmdb": {
+                "id": 585,
+                "original_title": "Monsters, Inc.",
+                "title": "Monstros S.A.",
+                "release_date": "2001-11-01",
+                "backdrop_path": "/vUTVUdfbsY4DePCYzxxDMXKp6v6.jpg",
+                "poster_path": "/5p6cdAeUevsLOX0oI1T4JIul4QO.jpg",
+                "overview": "O astro do susto, Sulley, e seu falante assistente, Mike, trabalham na Monstros S.A., a maior f\u00e1brica de processamento de gritos da cidade de Monstr\u00f3polis. A principal fonte de energia do mundo dos monstros prov\u00e9m da coleta dos gritos das crian\u00e7as humanas. Os monstros acreditam que as crian\u00e7as s\u00e3o t\u00f3xicas, e entram em p\u00e2nico quando uma menininha invade seu mundo. Sulley e Mike fazem de tudo para levar a garota de volta para casa, mas enfrentam desafios monstruosos e algumas situa\u00e7\u00f5es hil\u00e1rias em suas atrapalhadas aventuras.",
+                "vote_average": 7.8,
+                "vote_count": 17763
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction": [
+        {
+            "first_label": "Moulin Rouge",
+            "second_label": "Art Direction: Catherine Martin; Set Decoration: Brigitte Broch",
+            "category": "Art Direction",
+            "year": 2002,
+            "tmdb": {
+                "id": 824,
+                "original_title": "Moulin Rouge!",
+                "title": "Moulin Rouge: Amor em Vermelho",
+                "release_date": "2001-05-24",
+                "backdrop_path": "/vvcLSgiviCIU0J0UcwLqWdU8Iup.jpg",
+                "poster_path": "/3qvbVinK04m9BDHE8Aqztmf5mAw.jpg",
+                "overview": "Christian (Ewan McGregor) \u00e9 um jovem escritor que possui um dom para a poesia e que enfrenta seu pai para poder se mudar para o bairro bo\u00eamio de Montmartre, em Paris. L\u00e1 ele recebe o apoio de Henri de Toulouse-Latrec (John Leguizamo), que o ajuda a participar da vida social e cultural do local, que gira em torno do Moulin Rouge, uma boate que possui um mundo pr\u00f3prio de sexo, drogas, adrenalina e Can-Can. Ao visitar o local, Christian logo se apaixona por Satine (Nicole Kidman), a mais bela cortes\u00e3 de Paris e estrela maior do Moulin Rouge.",
+                "vote_average": 7.6,
+                "vote_count": 4350
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Amlie",
+            "second_label": "Art Direction: Aline Bonetto; Set Decoration: Marie-Laure Valla",
+            "category": "Art Direction",
+            "year": 2002,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gosford Park",
+            "second_label": "Art Direction: Stephen Altman; Set Decoration: Anna Pinnock",
+            "category": "Art Direction",
+            "year": 2002,
+            "tmdb": {
+                "id": 5279,
+                "original_title": "Gosford Park",
+                "title": "Assassinato em Gosford Park",
+                "release_date": "2001-11-07",
+                "backdrop_path": "/mkyqVN51VswajggvNllSDnVf1Cj.jpg",
+                "poster_path": "/d7u7ohi8eXEUw7CDH4BmWTWz3Ta.jpg",
+                "overview": "Na d\u00e9cada de 1930, Sir William McCordle e fam\u00edlia recebem ricos e famosos para um relaxante fim de semana em uma suntuosa casa de campo. Mas um assassinato ocorre na propriedade, e todos os convidados e serventes viram suspeitos do crime.",
+                "vote_average": 6.8,
+                "vote_count": 1020
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Harry Potter and the Sorcerer's Stone",
+            "second_label": "Art Direction: Stuart Craig; Set Decoration: Stephenie McMillan",
+            "category": "Art Direction",
+            "year": 2002,
+            "tmdb": {
+                "id": 671,
+                "original_title": "Harry Potter and the Philosopher's Stone",
+                "title": "Harry Potter e a Pedra Filosofal",
+                "release_date": "2001-11-16",
+                "backdrop_path": "/hziiv14OpD73u9gAak4XDDfBKa2.jpg",
+                "poster_path": "/4rtsbE9aQ1qw4gv7yYwaNYfWFoS.jpg",
+                "overview": "Harry Potter \u00e9 um garoto \u00f3rf\u00e3o que vive infeliz com seus tios, os Dursley. Em seu anivers\u00e1rio de 11 anos ele recebe uma carta que mudar\u00e1 sua vida: um convite para ingressar em Hogwarts.",
+                "vote_average": 7.914,
+                "vote_count": 26364
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Lord of the Rings: The Fellowship of the Ring",
+            "second_label": "Art Direction: Grant Major; Set Decoration: Dan Hennah",
+            "category": "Art Direction",
+            "year": 2002,
+            "tmdb": {
+                "id": 120,
+                "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+                "title": "O Senhor dos An\u00e9is: A Sociedade do Anel",
+                "release_date": "2001-12-18",
+                "backdrop_path": "/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
+                "poster_path": "/hi77F0o55uEhZid1eWRp830CRDx.jpg",
+                "overview": "Em uma terra fant\u00e1stica e \u00fanica, um hobbit recebe de presente de seu tio um anel m\u00e1gico e maligno que precisa ser destru\u00eddo antes que caia nas m\u00e3os do mal. Para isso, o hobbit Frodo tem um caminho \u00e1rduo pela frente, onde encontra perigo, medo e seres bizarros. Ao seu lado para o cumprimento desta jornada, ele aos poucos pode contar com outros hobbits, um elfo, um an\u00e3o, dois humanos e um mago, totalizando nove pessoas que formam a Sociedade do Anel.",
+                "vote_average": 8.411,
+                "vote_count": 24136
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "The Lord of the Rings: The Fellowship of the Ring",
+            "second_label": "Andrew Lesnie",
+            "category": "Cinematography",
+            "year": 2002,
+            "tmdb": {
+                "id": 120,
+                "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+                "title": "O Senhor dos An\u00e9is: A Sociedade do Anel",
+                "release_date": "2001-12-18",
+                "backdrop_path": "/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
+                "poster_path": "/hi77F0o55uEhZid1eWRp830CRDx.jpg",
+                "overview": "Em uma terra fant\u00e1stica e \u00fanica, um hobbit recebe de presente de seu tio um anel m\u00e1gico e maligno que precisa ser destru\u00eddo antes que caia nas m\u00e3os do mal. Para isso, o hobbit Frodo tem um caminho \u00e1rduo pela frente, onde encontra perigo, medo e seres bizarros. Ao seu lado para o cumprimento desta jornada, ele aos poucos pode contar com outros hobbits, um elfo, um an\u00e3o, dois humanos e um mago, totalizando nove pessoas que formam a Sociedade do Anel.",
+                "vote_average": 8.411,
+                "vote_count": 24136
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Amlie",
+            "second_label": "Bruno Delbonnel",
+            "category": "Cinematography",
+            "year": 2002,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Black Hawk Down",
+            "second_label": "Slawomir Idziak",
+            "category": "Cinematography",
+            "year": 2002,
+            "tmdb": {
+                "id": 855,
+                "original_title": "Black Hawk Down",
+                "title": "Falc\u00e3o Negro em Perigo",
+                "release_date": "2001-12-28",
+                "backdrop_path": "/7jaNOECZG8uS1tlq69HsY5xY8P9.jpg",
+                "poster_path": "/mwlZSgXxX0XrRGP7gMLdJxlrOTY.jpg",
+                "overview": "Em outubro de 1993, durante a guerra civil da Som\u00e1lia, uma for\u00e7a de elite americana \u00e9 enviada para capturar generais locais. Por\u00e9m, ap\u00f3s dois helic\u00f3pteros serem derrubados, o que deveria ser uma opera\u00e7\u00e3o simples se torna uma extensa batalha.",
+                "vote_average": 7.4,
+                "vote_count": 5436
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Man Who Wasn't There",
+            "second_label": "Roger Deakins",
+            "category": "Cinematography",
+            "year": 2002,
+            "tmdb": {
+                "id": 10778,
+                "original_title": "The Man Who Wasn't There",
+                "title": "O Homem que N\u00e3o Estava L\u00e1",
+                "release_date": "2001-10-26",
+                "backdrop_path": "/vIoDRgrlnBEMPm0sTmnPDaH5AIe.jpg",
+                "poster_path": "/mmvbTs5VAS29PR8ty23dA58oJS.jpg",
+                "overview": "Em meio aos anos 40, Ed Crane (Billy Bob Thornton) \u00e9 um barbeiro infeliz, que vive com sua esposa Doris (Frances McDormand). Ao descobrir que ela o est\u00e1 traindo, Ed passa ent\u00e3o a planejar uma trama de chantagem contra ela, a fim de ensinar-lhe uma li\u00e7\u00e3o. Mas quando seu plano vai por \u00e1gua abaixo uma s\u00e9rie de consequ\u00eancias desagrad\u00e1veis ocorrem, incluindo v\u00e1rios assassinatos.",
+                "vote_average": 7.5,
+                "vote_count": 1488
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Moulin Rouge",
+            "second_label": "Donald M. McAlpine",
+            "category": "Cinematography",
+            "year": 2002,
+            "tmdb": {
+                "id": 824,
+                "original_title": "Moulin Rouge!",
+                "title": "Moulin Rouge: Amor em Vermelho",
+                "release_date": "2001-05-24",
+                "backdrop_path": "/vvcLSgiviCIU0J0UcwLqWdU8Iup.jpg",
+                "poster_path": "/3qvbVinK04m9BDHE8Aqztmf5mAw.jpg",
+                "overview": "Christian (Ewan McGregor) \u00e9 um jovem escritor que possui um dom para a poesia e que enfrenta seu pai para poder se mudar para o bairro bo\u00eamio de Montmartre, em Paris. L\u00e1 ele recebe o apoio de Henri de Toulouse-Latrec (John Leguizamo), que o ajuda a participar da vida social e cultural do local, que gira em torno do Moulin Rouge, uma boate que possui um mundo pr\u00f3prio de sexo, drogas, adrenalina e Can-Can. Ao visitar o local, Christian logo se apaixona por Satine (Nicole Kidman), a mais bela cortes\u00e3 de Paris e estrela maior do Moulin Rouge.",
+                "vote_average": 7.6,
+                "vote_count": 4350
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design": [
+        {
+            "first_label": "Moulin Rouge",
+            "second_label": "Catherine Martin, Angus Strathie",
+            "category": "Costume Design",
+            "year": 2002,
+            "tmdb": {
+                "id": 824,
+                "original_title": "Moulin Rouge!",
+                "title": "Moulin Rouge: Amor em Vermelho",
+                "release_date": "2001-05-24",
+                "backdrop_path": "/vvcLSgiviCIU0J0UcwLqWdU8Iup.jpg",
+                "poster_path": "/3qvbVinK04m9BDHE8Aqztmf5mAw.jpg",
+                "overview": "Christian (Ewan McGregor) \u00e9 um jovem escritor que possui um dom para a poesia e que enfrenta seu pai para poder se mudar para o bairro bo\u00eamio de Montmartre, em Paris. L\u00e1 ele recebe o apoio de Henri de Toulouse-Latrec (John Leguizamo), que o ajuda a participar da vida social e cultural do local, que gira em torno do Moulin Rouge, uma boate que possui um mundo pr\u00f3prio de sexo, drogas, adrenalina e Can-Can. Ao visitar o local, Christian logo se apaixona por Satine (Nicole Kidman), a mais bela cortes\u00e3 de Paris e estrela maior do Moulin Rouge.",
+                "vote_average": 7.6,
+                "vote_count": 4350
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Affair of the Necklace",
+            "second_label": "Milena Canonero",
+            "category": "Costume Design",
+            "year": 2002,
+            "tmdb": {
+                "id": 19076,
+                "original_title": "The Affair of the Necklace",
+                "title": "O Enigma do Colar",
+                "release_date": "2001-11-30",
+                "backdrop_path": "/woxo93Jbp2B5wfd4zfS6B2phJNW.jpg",
+                "poster_path": "/oKScVpLJvbKy4nqLEPUiD3Ocy8s.jpg",
+                "overview": "Na Fran\u00e7a pr\u00e9-revolucion\u00e1ria, uma jovem aristocrata na mis\u00e9ria pretende salvar a sua fam\u00edlia da desgra\u00e7a, planejando o roubo de um colar muito precioso.",
+                "vote_average": 5.6,
+                "vote_count": 82
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gosford Park",
+            "second_label": "Jenny Beavan",
+            "category": "Costume Design",
+            "year": 2002,
+            "tmdb": {
+                "id": 5279,
+                "original_title": "Gosford Park",
+                "title": "Assassinato em Gosford Park",
+                "release_date": "2001-11-07",
+                "backdrop_path": "/mkyqVN51VswajggvNllSDnVf1Cj.jpg",
+                "poster_path": "/d7u7ohi8eXEUw7CDH4BmWTWz3Ta.jpg",
+                "overview": "Na d\u00e9cada de 1930, Sir William McCordle e fam\u00edlia recebem ricos e famosos para um relaxante fim de semana em uma suntuosa casa de campo. Mas um assassinato ocorre na propriedade, e todos os convidados e serventes viram suspeitos do crime.",
+                "vote_average": 6.8,
+                "vote_count": 1020
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Harry Potter and the Sorcerer's Stone",
+            "second_label": "Judianna Makovsky",
+            "category": "Costume Design",
+            "year": 2002,
+            "tmdb": {
+                "id": 671,
+                "original_title": "Harry Potter and the Philosopher's Stone",
+                "title": "Harry Potter e a Pedra Filosofal",
+                "release_date": "2001-11-16",
+                "backdrop_path": "/hziiv14OpD73u9gAak4XDDfBKa2.jpg",
+                "poster_path": "/4rtsbE9aQ1qw4gv7yYwaNYfWFoS.jpg",
+                "overview": "Harry Potter \u00e9 um garoto \u00f3rf\u00e3o que vive infeliz com seus tios, os Dursley. Em seu anivers\u00e1rio de 11 anos ele recebe uma carta que mudar\u00e1 sua vida: um convite para ingressar em Hogwarts.",
+                "vote_average": 7.914,
+                "vote_count": 26364
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Lord of the Rings: The Fellowship of the Ring",
+            "second_label": "Ngila Dickson, Richard Taylor",
+            "category": "Costume Design",
+            "year": 2002,
+            "tmdb": {
+                "id": 120,
+                "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+                "title": "O Senhor dos An\u00e9is: A Sociedade do Anel",
+                "release_date": "2001-12-18",
+                "backdrop_path": "/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
+                "poster_path": "/hi77F0o55uEhZid1eWRp830CRDx.jpg",
+                "overview": "Em uma terra fant\u00e1stica e \u00fanica, um hobbit recebe de presente de seu tio um anel m\u00e1gico e maligno que precisa ser destru\u00eddo antes que caia nas m\u00e3os do mal. Para isso, o hobbit Frodo tem um caminho \u00e1rduo pela frente, onde encontra perigo, medo e seres bizarros. Ao seu lado para o cumprimento desta jornada, ele aos poucos pode contar com outros hobbits, um elfo, um an\u00e3o, dois humanos e um mago, totalizando nove pessoas que formam a Sociedade do Anel.",
+                "vote_average": 8.411,
+                "vote_count": 24136
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "A Beautiful Mind",
+            "second_label": "Ron Howard",
+            "category": "Directing",
+            "year": 2002,
+            "tmdb": {
+                "id": 453,
+                "original_title": "A Beautiful Mind",
+                "title": "Uma Mente Brilhante",
+                "release_date": "2001-12-14",
+                "backdrop_path": "/zbpZOYrRCxEF8lFT5JC8XodEggC.jpg",
+                "poster_path": "/8K5W9QnNT7r1V9GuJ5z5KlrROkd.jpg",
+                "overview": "John Nash \u00e9 um g\u00eanio da matem\u00e1tica que, aos 21 anos, formulou um teorema que provou sua genialidade e o tornou aclamado no meio onde atuava. Mas aos poucos o belo e arrogante Nash se transforma em um sofrido e atormentado homem, que chega at\u00e9 mesmo a ser diagnosticado como esquizofr\u00eanico pelos m\u00e9dicos que o tratam. Por\u00e9m, ap\u00f3s anos de luta para se recuperar, ele consegue retornar \u00e0 sociedade e acaba sendo premiado com o Nobel.",
+                "vote_average": 7.857,
+                "vote_count": 9798
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Black Hawk Down",
+            "second_label": "Ridley Scott",
+            "category": "Directing",
+            "year": 2002,
+            "tmdb": {
+                "id": 855,
+                "original_title": "Black Hawk Down",
+                "title": "Falc\u00e3o Negro em Perigo",
+                "release_date": "2001-12-28",
+                "backdrop_path": "/7jaNOECZG8uS1tlq69HsY5xY8P9.jpg",
+                "poster_path": "/mwlZSgXxX0XrRGP7gMLdJxlrOTY.jpg",
+                "overview": "Em outubro de 1993, durante a guerra civil da Som\u00e1lia, uma for\u00e7a de elite americana \u00e9 enviada para capturar generais locais. Por\u00e9m, ap\u00f3s dois helic\u00f3pteros serem derrubados, o que deveria ser uma opera\u00e7\u00e3o simples se torna uma extensa batalha.",
+                "vote_average": 7.4,
+                "vote_count": 5436
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gosford Park",
+            "second_label": "Robert Altman",
+            "category": "Directing",
+            "year": 2002,
+            "tmdb": {
+                "id": 5279,
+                "original_title": "Gosford Park",
+                "title": "Assassinato em Gosford Park",
+                "release_date": "2001-11-07",
+                "backdrop_path": "/mkyqVN51VswajggvNllSDnVf1Cj.jpg",
+                "poster_path": "/d7u7ohi8eXEUw7CDH4BmWTWz3Ta.jpg",
+                "overview": "Na d\u00e9cada de 1930, Sir William McCordle e fam\u00edlia recebem ricos e famosos para um relaxante fim de semana em uma suntuosa casa de campo. Mas um assassinato ocorre na propriedade, e todos os convidados e serventes viram suspeitos do crime.",
+                "vote_average": 6.8,
+                "vote_count": 1020
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Lord of the Rings: The Fellowship of the Ring",
+            "second_label": "Peter Jackson",
+            "category": "Directing",
+            "year": 2002,
+            "tmdb": {
+                "id": 120,
+                "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+                "title": "O Senhor dos An\u00e9is: A Sociedade do Anel",
+                "release_date": "2001-12-18",
+                "backdrop_path": "/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
+                "poster_path": "/hi77F0o55uEhZid1eWRp830CRDx.jpg",
+                "overview": "Em uma terra fant\u00e1stica e \u00fanica, um hobbit recebe de presente de seu tio um anel m\u00e1gico e maligno que precisa ser destru\u00eddo antes que caia nas m\u00e3os do mal. Para isso, o hobbit Frodo tem um caminho \u00e1rduo pela frente, onde encontra perigo, medo e seres bizarros. Ao seu lado para o cumprimento desta jornada, ele aos poucos pode contar com outros hobbits, um elfo, um an\u00e3o, dois humanos e um mago, totalizando nove pessoas que formam a Sociedade do Anel.",
+                "vote_average": 8.411,
+                "vote_count": 24136
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mulholland Drive",
+            "second_label": "David Lynch",
+            "category": "Directing",
+            "year": 2002,
+            "tmdb": {
+                "id": 1018,
+                "original_title": "Mulholland Drive",
+                "title": "Cidade dos Sonhos",
+                "release_date": "2001-06-06",
+                "backdrop_path": "/y1giivdsGLyo1LCvlsL6mLKyTZ7.jpg",
+                "poster_path": "/8u1Kgf64cldZoQ3FfSB6F04Al4O.jpg",
+                "overview": "Uma jovem atriz viaja para Hollywood e se v\u00ea emaranhada numa intriga secreta com uma mulher que escapou por pouco de ser assassinada, e que agora se encontra com amn\u00e9sia devido a um acidente de carro. Seu mundo se torna um pesadelo e surreal.",
+                "vote_average": 7.82,
+                "vote_count": 5903
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "Murder on a Sunday Morning",
+            "second_label": "Jean-Xavier de Lestrade, Denis Poncet",
+            "category": "Documentary (Feature)",
+            "year": 2002,
+            "tmdb": {
+                "id": 51391,
+                "original_title": "Un coupable id\u00e9al",
+                "title": "Assassinato numa Manh\u00e3 de Domingo",
+                "release_date": "2001-09-14",
+                "backdrop_path": null,
+                "poster_path": "/clGLyc9htzaqxmozOqb5vGwNKfe.jpg",
+                "overview": "Mary Ann Stephens, uma turista branca, \u00e9 assassinada nas proximidades do hotel onde estava com o marido. Em poucas horas, a pol\u00edcia det\u00e9m Brenton Leonard Butler, um jovem negro de 15 anos.",
+                "vote_average": 7.4,
+                "vote_count": 51
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Children Underground",
+            "second_label": "Edet Belzberg",
+            "category": "Documentary (Feature)",
+            "year": 2002,
+            "tmdb": {
+                "id": 51722,
+                "original_title": "Children Underground",
+                "title": "Children Underground",
+                "release_date": "2001-09-19",
+                "backdrop_path": "/rbHbljHG4zzXjzFzVpUfsRtHp3o.jpg",
+                "poster_path": "/uacoFb7DHq0MrUjMcjjMZlIgmu2.jpg",
+                "overview": "Children Underground follows the story of five street children, aged eight to sixteen who live in a subway station in Bucharest, Romania. The street kids are encountered daily by commuting adults, who pass them by in the station as they starve, swindle, and steal, all while searching desperately for a fresh can of paint to get high with.",
+                "vote_average": 7.3,
+                "vote_count": 32
+            },
+            "winner": false
+        },
+        {
+            "first_label": "LaLee's Kin: The Legacy of Cotton",
+            "second_label": "Susan Froemke, Deborah Dickson",
+            "category": "Documentary (Feature)",
+            "year": 2002,
+            "tmdb": {
+                "id": 112906,
+                "original_title": "LaLee's Kin: The Legacy of Cotton",
+                "title": "LaLee's Kin: The Legacy of Cotton",
+                "release_date": "2001-01-19",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "This heartbreaking documentary depicts the extreme poverty of an African-American family and their Mississippi Delta school district.  LaLee's Kin takes us deep into the Mississippi Delta and the intertwined lives of LaLee Wallace, a great-grandmother struggling to hold her world together in the face of dire poverty, and Reggie Barnes, superintendent of the embattled West  Tallahatchie School System. The film explores the painful legacy of slavery and sharecropping in the Delta.",
+                "vote_average": 6.0,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Promises",
+            "second_label": "Justine Shapiro, B.Z. Goldberg",
+            "category": "Documentary (Feature)",
+            "year": 2002,
+            "tmdb": {
+                "id": 38880,
+                "original_title": "Promises",
+                "title": "Promessas de um Novo Mundo",
+                "release_date": "2001-01-30",
+                "backdrop_path": "/AraipGxP3BzHAdSyzF65Vg4qELe.jpg",
+                "poster_path": "/uysMBTby8R4bRWy4AheUW17Zmr7.jpg",
+                "overview": "Document\u00e1rio que retrata a hist\u00f3ria de sete crian\u00e7as israelenses e palestinas em Jerusal\u00e9m. Apesar de morarem no mesmo lugar, elas vivem em mundos completamente distintos, separados por diferen\u00e7as religiosas. Com idades entre 8 e 13 anos, raramente elas falam por si mesmas e est\u00e3o isoladas pelo medo. Neste filme, suas hist\u00f3rias oferecem uma nova e emocionante perspectiva sobre o conflito no Oriente M\u00e9dio. Melhor filme na escolha do p\u00fablico no Festival Internacional de Roterd\u00e3 de 2001: um caso in\u00e9dito, j\u00e1 que o filme ainda n\u00e3o tinha distribui\u00e7\u00e3o na Europa.",
+                "vote_average": 7.5,
+                "vote_count": 37
+            },
+            "winner": false
+        },
+        {
+            "first_label": "War Photographer",
+            "second_label": "Christian Frei",
+            "category": "Documentary (Feature)",
+            "year": 2002,
+            "tmdb": {
+                "id": 12722,
+                "original_title": "War Photographer",
+                "title": "Fot\u00f3grafo de Guerra",
+                "release_date": "2001-11-01",
+                "backdrop_path": "/qIuN8rJwud0Q4osCFMvxyVIjELL.jpg",
+                "poster_path": "/uHs3wYmLUzIl64ofRHxOplLn66n.jpg",
+                "overview": "Nas in\u00fameras regi\u00f5es em crise do mundo, o fot\u00f3grafo James Nachtwey procura a imagem perfeita para publicar. Um filme sobre um homem t\u00edmido, considerado um dos mais corajosos e importantes fot\u00f3grafos de guerra do nosso tempo, mas que dificilmente se encaixa no clich\u00ea do veterano de guerra dur\u00e3o.",
+                "vote_average": 7.5,
+                "vote_count": 59
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "Thoth",
+            "second_label": "Sarah Kernochan, Lynn Appelle",
+            "category": "Documentary (Short Subject)",
+            "year": 2002,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Artists and Orphans: A True Drama",
+            "second_label": "Lianne Klapper McNally",
+            "category": "Documentary (Short Subject)",
+            "year": 2002,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sing!",
+            "second_label": "Freida Lee Mock, Jessica Sanders",
+            "category": "Documentary (Short Subject)",
+            "year": 2002,
+            "tmdb": {
+                "id": 244978,
+                "original_title": "Sing!",
+                "title": "Sing!",
+                "release_date": "2001-01-01",
+                "backdrop_path": null,
+                "poster_path": "/xgMdogsw9jCN5BsoInHmqgCOje3.jpg",
+                "overview": "Sing! is a 2001 American short documentary film about the Los Angeles Children's Chorus, directed by Freida Lee Mock. How do squeaky-voiced 8 year olds become amazing singers? Sing! tells the story of how a community group, amid severe cutbacks in the arts, is able to develop a children's chorus that is one of the best in the country. It was nominated for an Academy Award for Best Documentary Short.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "Black Hawk Down",
+            "second_label": "Pietro Scalia",
+            "category": "Film Editing",
+            "year": 2002,
+            "tmdb": {
+                "id": 855,
+                "original_title": "Black Hawk Down",
+                "title": "Falc\u00e3o Negro em Perigo",
+                "release_date": "2001-12-28",
+                "backdrop_path": "/7jaNOECZG8uS1tlq69HsY5xY8P9.jpg",
+                "poster_path": "/mwlZSgXxX0XrRGP7gMLdJxlrOTY.jpg",
+                "overview": "Em outubro de 1993, durante a guerra civil da Som\u00e1lia, uma for\u00e7a de elite americana \u00e9 enviada para capturar generais locais. Por\u00e9m, ap\u00f3s dois helic\u00f3pteros serem derrubados, o que deveria ser uma opera\u00e7\u00e3o simples se torna uma extensa batalha.",
+                "vote_average": 7.4,
+                "vote_count": 5436
+            },
+            "winner": true
+        },
+        {
+            "first_label": "A Beautiful Mind",
+            "second_label": "Mike Hill, Dan Hanley",
+            "category": "Film Editing",
+            "year": 2002,
+            "tmdb": {
+                "id": 453,
+                "original_title": "A Beautiful Mind",
+                "title": "Uma Mente Brilhante",
+                "release_date": "2001-12-14",
+                "backdrop_path": "/zbpZOYrRCxEF8lFT5JC8XodEggC.jpg",
+                "poster_path": "/8K5W9QnNT7r1V9GuJ5z5KlrROkd.jpg",
+                "overview": "John Nash \u00e9 um g\u00eanio da matem\u00e1tica que, aos 21 anos, formulou um teorema que provou sua genialidade e o tornou aclamado no meio onde atuava. Mas aos poucos o belo e arrogante Nash se transforma em um sofrido e atormentado homem, que chega at\u00e9 mesmo a ser diagnosticado como esquizofr\u00eanico pelos m\u00e9dicos que o tratam. Por\u00e9m, ap\u00f3s anos de luta para se recuperar, ele consegue retornar \u00e0 sociedade e acaba sendo premiado com o Nobel.",
+                "vote_average": 7.857,
+                "vote_count": 9798
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Lord of the Rings: The Fellowship of the Ring",
+            "second_label": "John Gilbert",
+            "category": "Film Editing",
+            "year": 2002,
+            "tmdb": {
+                "id": 120,
+                "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+                "title": "O Senhor dos An\u00e9is: A Sociedade do Anel",
+                "release_date": "2001-12-18",
+                "backdrop_path": "/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
+                "poster_path": "/hi77F0o55uEhZid1eWRp830CRDx.jpg",
+                "overview": "Em uma terra fant\u00e1stica e \u00fanica, um hobbit recebe de presente de seu tio um anel m\u00e1gico e maligno que precisa ser destru\u00eddo antes que caia nas m\u00e3os do mal. Para isso, o hobbit Frodo tem um caminho \u00e1rduo pela frente, onde encontra perigo, medo e seres bizarros. Ao seu lado para o cumprimento desta jornada, ele aos poucos pode contar com outros hobbits, um elfo, um an\u00e3o, dois humanos e um mago, totalizando nove pessoas que formam a Sociedade do Anel.",
+                "vote_average": 8.411,
+                "vote_count": 24136
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Memento",
+            "second_label": "Dody Dorn",
+            "category": "Film Editing",
+            "year": 2002,
+            "tmdb": {
+                "id": 77,
+                "original_title": "Memento",
+                "title": "Amn\u00e9sia",
+                "release_date": "2000-10-11",
+                "backdrop_path": "/q2CtXYjp9IlnfBcPktNkBPsuAEO.jpg",
+                "poster_path": "/7leBWM27Q0TUnvmhw6WnFNgGn4G.jpg",
+                "overview": "Leonard est\u00e1 ca\u00e7ando o homem que estuprou e matou sua esposa. Ele tem dificuldades em encontrar o assassino pois sofre de uma forma intrat\u00e1vel de perda de mem\u00f3ria. Mesmo que ele possa lembrar detalhes da vida antes do acidente, Leonard n\u00e3o consegue lembrar o que aconteceu quinze minutos atr\u00e1s, onde est\u00e1 indo ou a raz\u00e3o.",
+                "vote_average": 8.186,
+                "vote_count": 14245
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Moulin Rouge",
+            "second_label": "Jill Bilcock",
+            "category": "Film Editing",
+            "year": 2002,
+            "tmdb": {
+                "id": 824,
+                "original_title": "Moulin Rouge!",
+                "title": "Moulin Rouge: Amor em Vermelho",
+                "release_date": "2001-05-24",
+                "backdrop_path": "/vvcLSgiviCIU0J0UcwLqWdU8Iup.jpg",
+                "poster_path": "/3qvbVinK04m9BDHE8Aqztmf5mAw.jpg",
+                "overview": "Christian (Ewan McGregor) \u00e9 um jovem escritor que possui um dom para a poesia e que enfrenta seu pai para poder se mudar para o bairro bo\u00eamio de Montmartre, em Paris. L\u00e1 ele recebe o apoio de Henri de Toulouse-Latrec (John Leguizamo), que o ajuda a participar da vida social e cultural do local, que gira em torno do Moulin Rouge, uma boate que possui um mundo pr\u00f3prio de sexo, drogas, adrenalina e Can-Can. Ao visitar o local, Christian logo se apaixona por Satine (Nicole Kidman), a mais bela cortes\u00e3 de Paris e estrela maior do Moulin Rouge.",
+                "vote_average": 7.6,
+                "vote_count": 4350
+            },
+            "winner": false
+        }
+    ],
+    "Foreign Language Film": [
+        {
+            "first_label": "No Man's Land",
+            "second_label": "Bosnia & Herzegovina",
+            "category": "Foreign Language Film",
+            "year": 2002,
+            "tmdb": {
+                "id": 8342,
+                "original_title": "No Man's Land",
+                "title": "Terra de Ningu\u00e9m",
+                "release_date": "2001-05-12",
+                "backdrop_path": "/e86j48mkpIzFSNutRGcNiltWCNt.jpg",
+                "poster_path": "/3ilPTtGOYEp9PFKtSh9tJWDus3I.jpg",
+                "overview": "Durante a Guerra da B\u00f3snia, dois soldados, um s\u00e9rvio e outro b\u00f3snio, acabam isolados em uma pequena trincheira, junto com um terceiro soldado, que est\u00e1 ca\u00eddo sobre uma mina - sendo que ningu\u00e9m pode matar ningu\u00e9m ali. Todas as partes do conflito ficam completas com a chegada de mais duas pessoas: um representante da ONU, para tentar resolver o impasse, e uma jornalista, para jogar lenha na fogueira.",
+                "vote_average": 7.5,
+                "vote_count": 413
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Amlie",
+            "second_label": "France",
+            "category": "Foreign Language Film",
+            "year": 2002,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Elling",
+            "second_label": "Norway",
+            "category": "Foreign Language Film",
+            "year": 2002,
+            "tmdb": {
+                "id": 6007,
+                "original_title": "Elling",
+                "title": "Elling",
+                "release_date": "2001-03-16",
+                "backdrop_path": "/mGTTk3v32wEk8TDkxsfMnlqSb8H.jpg",
+                "poster_path": "/i4o9u93vR7setcwVeL87jGwc8CS.jpg",
+                "overview": "Elling (Per Christian Ellefsen), um homem de 40 anos com problemas mentais, passou os \u00faltimos dois anos em um hospital psiqui\u00e1trico, onde foi internado ap\u00f3s a morte da m\u00e3e. Um programa de socializa\u00e7\u00e3o faz com que ele v\u00e1 viver num apartamento em Oslo com outro doente mental da mesma idade, Kjell Bjarne (Sven Nordin). No in\u00edcio at\u00e9 as atividades mais corriqueiras, como ir \u00e0 esquina ou atender ao telefone, se tornam grandes desafios. Mas aos poucos a dupla vai se adaptando \u00e0 nova realidade, perseguindo seus objetivos: enquanto Elling se descobre um poeta, Kjell Bjarne procura uma mulher para perder a virgindade.",
+                "vote_average": 7.1,
+                "vote_count": 155
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lagaan",
+            "second_label": "India",
+            "category": "Foreign Language Film",
+            "year": 2002,
+            "tmdb": {
+                "id": 19666,
+                "original_title": "\u0932\u0917\u093e\u0928",
+                "title": "Lagaan: A Coragem de um Povo",
+                "release_date": "2001-06-15",
+                "backdrop_path": "/u4YATs3X5PLcwCb4j4M6xJcgbty.jpg",
+                "poster_path": "/yNX9lFRAFeNLNRIXdqZK9gYrYKa.jpg",
+                "overview": "Na \u00cdndia de 1890, um arrogante comandante brit\u00e2nico faz uma aposta com os residentes de Champaner a uma partida de cricket e o perdedor dever\u00e1 pagar alt\u00edssimos impostos.",
+                "vote_average": 7.2,
+                "vote_count": 529
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Son of the Bride",
+            "second_label": "Argentina",
+            "category": "Foreign Language Film",
+            "year": 2002,
+            "tmdb": {
+                "id": 19460,
+                "original_title": "El hijo de la novia",
+                "title": "O Filho da Noiva",
+                "release_date": "2001-08-16",
+                "backdrop_path": "/kPRHoq1g68O5qawcnrB1c4LeO4I.jpg",
+                "poster_path": "/2Em1WXYGSf2yfH7bWye4UQ9Uzgd.jpg",
+                "overview": "Aos 42 anos Rafael Belvedere (Ricardo Dar\u00edn) est\u00e1 em crise, pois assumiu muitas responsabilidades e n\u00e3o tem mais tempo para qualquer tipo de divers\u00e3o. Boa parte de seu tempo \u00e9 gasto no gerenciamento do restaurante fundado por seu pai, no qual at\u00e9 tem um relativo sucesso, mas sem nunca conseguir escapar da sombra de seu pai. Rafael raramente visita sua m\u00e3e, Norma (Norma Aleandro), que est\u00e1 perdendo a mem\u00f3ria, pois ela sempre implica com suas acompanhantes. Sua ex-esposa o acusa de n\u00e3o dar a devida aten\u00e7\u00e3o ao filho e ainda h\u00e1 Naty (Natalia Verbeke), atual namorada de Rafael, que sempre lhe exige aten\u00e7\u00e3o e comprometimento. Em meio a todas estas responsabilidades Rafael sofre um ataque card\u00edaco, que faz com que se encontre novamente com Juan Carlos (Eduardo Blanco), um amigo de inf\u00e2ncia, que o ajuda a reconstruir seu passado e ver o presente com outros olhos.",
+                "vote_average": 7.6,
+                "vote_count": 190
+            },
+            "winner": false
+        }
+    ],
+    "Jean Hersholt Humanitarian Award": [
+        {
+            "first_label": "",
+            "second_label": "Arthur Hiller",
+            "category": "Jean Hersholt Humanitarian Award",
+            "year": 2002,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        }
+    ],
+    "Makeup": [
+        {
+            "first_label": "The Lord of the Rings: The Fellowship of the Ring",
+            "second_label": "Peter Owen, Richard Taylor",
+            "category": "Makeup",
+            "year": 2002,
+            "tmdb": {
+                "id": 120,
+                "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+                "title": "O Senhor dos An\u00e9is: A Sociedade do Anel",
+                "release_date": "2001-12-18",
+                "backdrop_path": "/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
+                "poster_path": "/hi77F0o55uEhZid1eWRp830CRDx.jpg",
+                "overview": "Em uma terra fant\u00e1stica e \u00fanica, um hobbit recebe de presente de seu tio um anel m\u00e1gico e maligno que precisa ser destru\u00eddo antes que caia nas m\u00e3os do mal. Para isso, o hobbit Frodo tem um caminho \u00e1rduo pela frente, onde encontra perigo, medo e seres bizarros. Ao seu lado para o cumprimento desta jornada, ele aos poucos pode contar com outros hobbits, um elfo, um an\u00e3o, dois humanos e um mago, totalizando nove pessoas que formam a Sociedade do Anel.",
+                "vote_average": 8.411,
+                "vote_count": 24136
+            },
+            "winner": true
+        },
+        {
+            "first_label": "A Beautiful Mind",
+            "second_label": "Greg Cannom, Colleen Callaghan",
+            "category": "Makeup",
+            "year": 2002,
+            "tmdb": {
+                "id": 453,
+                "original_title": "A Beautiful Mind",
+                "title": "Uma Mente Brilhante",
+                "release_date": "2001-12-14",
+                "backdrop_path": "/zbpZOYrRCxEF8lFT5JC8XodEggC.jpg",
+                "poster_path": "/8K5W9QnNT7r1V9GuJ5z5KlrROkd.jpg",
+                "overview": "John Nash \u00e9 um g\u00eanio da matem\u00e1tica que, aos 21 anos, formulou um teorema que provou sua genialidade e o tornou aclamado no meio onde atuava. Mas aos poucos o belo e arrogante Nash se transforma em um sofrido e atormentado homem, que chega at\u00e9 mesmo a ser diagnosticado como esquizofr\u00eanico pelos m\u00e9dicos que o tratam. Por\u00e9m, ap\u00f3s anos de luta para se recuperar, ele consegue retornar \u00e0 sociedade e acaba sendo premiado com o Nobel.",
+                "vote_average": 7.857,
+                "vote_count": 9798
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Moulin Rouge",
+            "second_label": "Maurizio Silvi, Aldo Signoretti",
+            "category": "Makeup",
+            "year": 2002,
+            "tmdb": {
+                "id": 824,
+                "original_title": "Moulin Rouge!",
+                "title": "Moulin Rouge: Amor em Vermelho",
+                "release_date": "2001-05-24",
+                "backdrop_path": "/vvcLSgiviCIU0J0UcwLqWdU8Iup.jpg",
+                "poster_path": "/3qvbVinK04m9BDHE8Aqztmf5mAw.jpg",
+                "overview": "Christian (Ewan McGregor) \u00e9 um jovem escritor que possui um dom para a poesia e que enfrenta seu pai para poder se mudar para o bairro bo\u00eamio de Montmartre, em Paris. L\u00e1 ele recebe o apoio de Henri de Toulouse-Latrec (John Leguizamo), que o ajuda a participar da vida social e cultural do local, que gira em torno do Moulin Rouge, uma boate que possui um mundo pr\u00f3prio de sexo, drogas, adrenalina e Can-Can. Ao visitar o local, Christian logo se apaixona por Satine (Nicole Kidman), a mais bela cortes\u00e3 de Paris e estrela maior do Moulin Rouge.",
+                "vote_average": 7.6,
+                "vote_count": 4350
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Score)": [
+        {
+            "first_label": "The Lord of the Rings: The Fellowship of the Ring",
+            "second_label": "Howard Shore",
+            "category": "Music (Original Score)",
+            "year": 2002,
+            "tmdb": {
+                "id": 120,
+                "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+                "title": "O Senhor dos An\u00e9is: A Sociedade do Anel",
+                "release_date": "2001-12-18",
+                "backdrop_path": "/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
+                "poster_path": "/hi77F0o55uEhZid1eWRp830CRDx.jpg",
+                "overview": "Em uma terra fant\u00e1stica e \u00fanica, um hobbit recebe de presente de seu tio um anel m\u00e1gico e maligno que precisa ser destru\u00eddo antes que caia nas m\u00e3os do mal. Para isso, o hobbit Frodo tem um caminho \u00e1rduo pela frente, onde encontra perigo, medo e seres bizarros. Ao seu lado para o cumprimento desta jornada, ele aos poucos pode contar com outros hobbits, um elfo, um an\u00e3o, dois humanos e um mago, totalizando nove pessoas que formam a Sociedade do Anel.",
+                "vote_average": 8.411,
+                "vote_count": 24136
+            },
+            "winner": true
+        },
+        {
+            "first_label": "A.I. Artificial Intelligence",
+            "second_label": "John Williams",
+            "category": "Music (Original Score)",
+            "year": 2002,
+            "tmdb": {
+                "id": 644,
+                "original_title": "A.I. Artificial Intelligence",
+                "title": "A.I.: Intelig\u00eancia Artificial",
+                "release_date": "2001-06-29",
+                "backdrop_path": "/n7p6UTAZtkeoHkwCO42BEQaMFJY.jpg",
+                "poster_path": "/jBF8tF6k8yLZnOHaTH5G2IptYiy.jpg",
+                "overview": "O primeiro menino-rob\u00f4 programado para amar, David, \u00e9 adotado por um funcion\u00e1rio da Cybertronics e sua esposa. Apesar de aos poucos ele ir se tornando o filho do casal, uma s\u00e9rie de circunst\u00e2ncias inesperadas dificulta a vida de David. Sem a total aceita\u00e7\u00e3o dos humanos ou das m\u00e1quinas, o menino-rob\u00f4 embarca em uma jornada para descobrir seu verdadeiro mundo.",
+                "vote_average": 7.044,
+                "vote_count": 5898
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Beautiful Mind",
+            "second_label": "James Horner",
+            "category": "Music (Original Score)",
+            "year": 2002,
+            "tmdb": {
+                "id": 453,
+                "original_title": "A Beautiful Mind",
+                "title": "Uma Mente Brilhante",
+                "release_date": "2001-12-14",
+                "backdrop_path": "/zbpZOYrRCxEF8lFT5JC8XodEggC.jpg",
+                "poster_path": "/8K5W9QnNT7r1V9GuJ5z5KlrROkd.jpg",
+                "overview": "John Nash \u00e9 um g\u00eanio da matem\u00e1tica que, aos 21 anos, formulou um teorema que provou sua genialidade e o tornou aclamado no meio onde atuava. Mas aos poucos o belo e arrogante Nash se transforma em um sofrido e atormentado homem, que chega at\u00e9 mesmo a ser diagnosticado como esquizofr\u00eanico pelos m\u00e9dicos que o tratam. Por\u00e9m, ap\u00f3s anos de luta para se recuperar, ele consegue retornar \u00e0 sociedade e acaba sendo premiado com o Nobel.",
+                "vote_average": 7.857,
+                "vote_count": 9798
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Harry Potter and the Sorcerer's Stone",
+            "second_label": "John Williams",
+            "category": "Music (Original Score)",
+            "year": 2002,
+            "tmdb": {
+                "id": 671,
+                "original_title": "Harry Potter and the Philosopher's Stone",
+                "title": "Harry Potter e a Pedra Filosofal",
+                "release_date": "2001-11-16",
+                "backdrop_path": "/hziiv14OpD73u9gAak4XDDfBKa2.jpg",
+                "poster_path": "/4rtsbE9aQ1qw4gv7yYwaNYfWFoS.jpg",
+                "overview": "Harry Potter \u00e9 um garoto \u00f3rf\u00e3o que vive infeliz com seus tios, os Dursley. Em seu anivers\u00e1rio de 11 anos ele recebe uma carta que mudar\u00e1 sua vida: um convite para ingressar em Hogwarts.",
+                "vote_average": 7.914,
+                "vote_count": 26364
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Monsters, Inc.",
+            "second_label": "Randy Newman",
+            "category": "Music (Original Score)",
+            "year": 2002,
+            "tmdb": {
+                "id": 585,
+                "original_title": "Monsters, Inc.",
+                "title": "Monstros S.A.",
+                "release_date": "2001-11-01",
+                "backdrop_path": "/vUTVUdfbsY4DePCYzxxDMXKp6v6.jpg",
+                "poster_path": "/5p6cdAeUevsLOX0oI1T4JIul4QO.jpg",
+                "overview": "O astro do susto, Sulley, e seu falante assistente, Mike, trabalham na Monstros S.A., a maior f\u00e1brica de processamento de gritos da cidade de Monstr\u00f3polis. A principal fonte de energia do mundo dos monstros prov\u00e9m da coleta dos gritos das crian\u00e7as humanas. Os monstros acreditam que as crian\u00e7as s\u00e3o t\u00f3xicas, e entram em p\u00e2nico quando uma menininha invade seu mundo. Sulley e Mike fazem de tudo para levar a garota de volta para casa, mas enfrentam desafios monstruosos e algumas situa\u00e7\u00f5es hil\u00e1rias em suas atrapalhadas aventuras.",
+                "vote_average": 7.8,
+                "vote_count": 17763
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Song)": [
+        {
+            "first_label": "Monsters, Inc.",
+            "second_label": "If I Didn't Have You in \"Monsters, Inc.\" Music and Lyric by Randy Newman",
+            "category": "Music (Original Song)",
+            "year": 2002,
+            "tmdb": {
+                "id": 585,
+                "original_title": "Monsters, Inc.",
+                "title": "Monstros S.A.",
+                "release_date": "2001-11-01",
+                "backdrop_path": "/vUTVUdfbsY4DePCYzxxDMXKp6v6.jpg",
+                "poster_path": "/5p6cdAeUevsLOX0oI1T4JIul4QO.jpg",
+                "overview": "O astro do susto, Sulley, e seu falante assistente, Mike, trabalham na Monstros S.A., a maior f\u00e1brica de processamento de gritos da cidade de Monstr\u00f3polis. A principal fonte de energia do mundo dos monstros prov\u00e9m da coleta dos gritos das crian\u00e7as humanas. Os monstros acreditam que as crian\u00e7as s\u00e3o t\u00f3xicas, e entram em p\u00e2nico quando uma menininha invade seu mundo. Sulley e Mike fazem de tudo para levar a garota de volta para casa, mas enfrentam desafios monstruosos e algumas situa\u00e7\u00f5es hil\u00e1rias em suas atrapalhadas aventuras.",
+                "vote_average": 7.8,
+                "vote_count": 17763
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Lord of the Rings: The Fellowship of the Ring",
+            "second_label": "May It Be in \"The Lord of the Rings: The Fellowship of the Ring\" Music and Lyric by Enya, Nicky Ryan and Roma Ryan",
+            "category": "Music (Original Song)",
+            "year": 2002,
+            "tmdb": {
+                "id": 120,
+                "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+                "title": "O Senhor dos An\u00e9is: A Sociedade do Anel",
+                "release_date": "2001-12-18",
+                "backdrop_path": "/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
+                "poster_path": "/hi77F0o55uEhZid1eWRp830CRDx.jpg",
+                "overview": "Em uma terra fant\u00e1stica e \u00fanica, um hobbit recebe de presente de seu tio um anel m\u00e1gico e maligno que precisa ser destru\u00eddo antes que caia nas m\u00e3os do mal. Para isso, o hobbit Frodo tem um caminho \u00e1rduo pela frente, onde encontra perigo, medo e seres bizarros. Ao seu lado para o cumprimento desta jornada, ele aos poucos pode contar com outros hobbits, um elfo, um an\u00e3o, dois humanos e um mago, totalizando nove pessoas que formam a Sociedade do Anel.",
+                "vote_average": 8.411,
+                "vote_count": 24136
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Pearl Harbor",
+            "second_label": "There You'll Be in \"Pearl Harbor\" Music and Lyric by Diane Warren",
+            "category": "Music (Original Song)",
+            "year": 2002,
+            "tmdb": {
+                "id": 676,
+                "original_title": "Pearl Harbor",
+                "title": "Pearl Harbor",
+                "release_date": "2001-05-21",
+                "backdrop_path": "/zv1xOEQzebKyku349qDZ085FZlO.jpg",
+                "poster_path": "/y8A0Cvp8WQmZ3bjbnsL53lY0dsC.jpg",
+                "overview": "Dois pilotos e amigos de longa data se apaixonam pela mesma mulher, mas precisam deixar suas diferen\u00e7as de lado quando os japoneses atacam a base naval de Pearl Harbor em 7 de dezembro de 1941.",
+                "vote_average": 6.9,
+                "vote_count": 6180
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Kate & Leopold",
+            "second_label": "Until in \"Kate & Leopold\" Music and Lyric by Sting",
+            "category": "Music (Original Song)",
+            "year": 2002,
+            "tmdb": {
+                "id": 11232,
+                "original_title": "Kate & Leopold",
+                "title": "Kate & Leopold",
+                "release_date": "2001-12-25",
+                "backdrop_path": "/tJLV3BAlHOgscVOrA99Wnb2gAef.jpg",
+                "poster_path": "/mUvikzKJJSg9khrVdxK8kg3TMHA.jpg",
+                "overview": "No s\u00e9culo 19, um nobre ingl\u00eas arruinado, vivendo nos EUA, \u00e9 pressionado a se casar com alguma americana rica para salvar a fam\u00edlia, mas acidentalmente atravessa um portal do tempo e acaba indo parar no s\u00e9culo 21 e conhecendo uma mulher moderna.",
+                "vote_average": 6.327,
+                "vote_count": 1278
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Vanilla Sky",
+            "second_label": "Vanilla Sky in \"Vanilla Sky\" Music and Lyric by Paul McCartney",
+            "category": "Music (Original Song)",
+            "year": 2002,
+            "tmdb": {
+                "id": 1903,
+                "original_title": "Vanilla Sky",
+                "title": "Vanilla Sky",
+                "release_date": "2001-12-14",
+                "backdrop_path": "/eGzzbfmnXMaa4LZnJVquP1llZ2R.jpg",
+                "poster_path": "/2nyj8JzNbsUY7tSzkDwFndU4bN5.jpg",
+                "overview": "Jovem, bonito e rico, o poderoso editor David Aames (Tom Cruise) pode ter tudo que seu cora\u00e7\u00e3o deseja. Mesmo assim, sua vida encantada parece incompleta. Uma noite, ele conhece Sofia (Pen\u00e9lope Cruz) a mulher de seus sonhos, e acredita que achou a pe\u00e7a que faltava. Por\u00e9m, um fatal encontro com a ciumenta Julie (Cameron Diaz) p\u00f5e o mundo de David fora de controle, atirando-o numa montanha-russa de romance, sexo, suspeita e sonho At\u00e9 um chocante despertar final que jamais ser\u00e1 esquecido.",
+                "vote_average": 6.8,
+                "vote_count": 3973
+            },
+            "winner": false
+        }
+    ],
+    "Best Picture": [
+        {
+            "first_label": "A Beautiful Mind",
+            "second_label": "Brian Grazer and Ron Howard, Producers",
+            "category": "Best Picture",
+            "year": 2002,
+            "tmdb": {
+                "id": 453,
+                "original_title": "A Beautiful Mind",
+                "title": "Uma Mente Brilhante",
+                "release_date": "2001-12-14",
+                "backdrop_path": "/zbpZOYrRCxEF8lFT5JC8XodEggC.jpg",
+                "poster_path": "/8K5W9QnNT7r1V9GuJ5z5KlrROkd.jpg",
+                "overview": "John Nash \u00e9 um g\u00eanio da matem\u00e1tica que, aos 21 anos, formulou um teorema que provou sua genialidade e o tornou aclamado no meio onde atuava. Mas aos poucos o belo e arrogante Nash se transforma em um sofrido e atormentado homem, que chega at\u00e9 mesmo a ser diagnosticado como esquizofr\u00eanico pelos m\u00e9dicos que o tratam. Por\u00e9m, ap\u00f3s anos de luta para se recuperar, ele consegue retornar \u00e0 sociedade e acaba sendo premiado com o Nobel.",
+                "vote_average": 7.857,
+                "vote_count": 9798
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Gosford Park",
+            "second_label": "Robert Altman, Bob Balaban and David Levy, Producers",
+            "category": "Best Picture",
+            "year": 2002,
+            "tmdb": {
+                "id": 5279,
+                "original_title": "Gosford Park",
+                "title": "Assassinato em Gosford Park",
+                "release_date": "2001-11-07",
+                "backdrop_path": "/mkyqVN51VswajggvNllSDnVf1Cj.jpg",
+                "poster_path": "/d7u7ohi8eXEUw7CDH4BmWTWz3Ta.jpg",
+                "overview": "Na d\u00e9cada de 1930, Sir William McCordle e fam\u00edlia recebem ricos e famosos para um relaxante fim de semana em uma suntuosa casa de campo. Mas um assassinato ocorre na propriedade, e todos os convidados e serventes viram suspeitos do crime.",
+                "vote_average": 6.8,
+                "vote_count": 1020
+            },
+            "winner": false
+        },
+        {
+            "first_label": "In the Bedroom",
+            "second_label": "Graham Leader, Ross Katz and Todd Field, Producers",
+            "category": "Best Picture",
+            "year": 2002,
+            "tmdb": {
+                "id": 1999,
+                "original_title": "In the Bedroom",
+                "title": "Entre Quatro Paredes",
+                "release_date": "2001-11-23",
+                "backdrop_path": "/kWa4iUaC7SU2DHDlknlVvw5x9nP.jpg",
+                "poster_path": "/4FIlOw7P2Yusdl7TqHFvKC1eMQ4.jpg",
+                "overview": "Ap\u00f3s a perda do filho, um casal (Tom Wilkinson e Sissy Spacek) faz de tudo para se livrar do sofrimento, ou pelo menos achar algum conforto em meio \u00e0 tanta dor. O que eles desconhecem \u00e9 que a prova\u00e7\u00e3o ser\u00e1 quase insuport\u00e1vel.",
+                "vote_average": 6.9,
+                "vote_count": 326
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Lord of the Rings: The Fellowship of the Ring",
+            "second_label": "Peter Jackson, Fran Walsh and Barrie M. Osborne, Producers",
+            "category": "Best Picture",
+            "year": 2002,
+            "tmdb": {
+                "id": 120,
+                "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+                "title": "O Senhor dos An\u00e9is: A Sociedade do Anel",
+                "release_date": "2001-12-18",
+                "backdrop_path": "/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
+                "poster_path": "/hi77F0o55uEhZid1eWRp830CRDx.jpg",
+                "overview": "Em uma terra fant\u00e1stica e \u00fanica, um hobbit recebe de presente de seu tio um anel m\u00e1gico e maligno que precisa ser destru\u00eddo antes que caia nas m\u00e3os do mal. Para isso, o hobbit Frodo tem um caminho \u00e1rduo pela frente, onde encontra perigo, medo e seres bizarros. Ao seu lado para o cumprimento desta jornada, ele aos poucos pode contar com outros hobbits, um elfo, um an\u00e3o, dois humanos e um mago, totalizando nove pessoas que formam a Sociedade do Anel.",
+                "vote_average": 8.411,
+                "vote_count": 24136
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Moulin Rouge",
+            "second_label": "Martin Brown, Baz Luhrmann and Fred Baron, Producers",
+            "category": "Best Picture",
+            "year": 2002,
+            "tmdb": {
+                "id": 824,
+                "original_title": "Moulin Rouge!",
+                "title": "Moulin Rouge: Amor em Vermelho",
+                "release_date": "2001-05-24",
+                "backdrop_path": "/vvcLSgiviCIU0J0UcwLqWdU8Iup.jpg",
+                "poster_path": "/3qvbVinK04m9BDHE8Aqztmf5mAw.jpg",
+                "overview": "Christian (Ewan McGregor) \u00e9 um jovem escritor que possui um dom para a poesia e que enfrenta seu pai para poder se mudar para o bairro bo\u00eamio de Montmartre, em Paris. L\u00e1 ele recebe o apoio de Henri de Toulouse-Latrec (John Leguizamo), que o ajuda a participar da vida social e cultural do local, que gira em torno do Moulin Rouge, uma boate que possui um mundo pr\u00f3prio de sexo, drogas, adrenalina e Can-Can. Ao visitar o local, Christian logo se apaixona por Satine (Nicole Kidman), a mais bela cortes\u00e3 de Paris e estrela maior do Moulin Rouge.",
+                "vote_average": 7.6,
+                "vote_count": 4350
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Animated)": [
+        {
+            "first_label": "For the Birds",
+            "second_label": "Ralph Eggleston",
+            "category": "Short Film (Animated)",
+            "year": 2002,
+            "tmdb": {
+                "id": 13930,
+                "original_title": "For the Birds",
+                "title": "Coisas de P\u00e1ssaros",
+                "release_date": "2000-11-02",
+                "backdrop_path": "/4x0YosZ3AKIMElxvZZ4hCMBIVkF.jpg",
+                "poster_path": "/61fre5RVPEVOcCK7i0KJb8nBN5u.jpg",
+                "overview": "Um grupo de passarinhos empoleirados em um fio de telefone se irritam com a chegada de uma grande ave desengon\u00e7ada. Tamb\u00e9m conhecido como \"Para os P\u00e1ssaros\". Faz parte da Cole\u00e7\u00e3o Pixar Curtas 01.",
+                "vote_average": 7.5,
+                "vote_count": 1151
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Fifty Percent Grey",
+            "second_label": "Ruairi Robinson, Seamus Byrne",
+            "category": "Short Film (Animated)",
+            "year": 2002,
+            "tmdb": {
+                "id": 85358,
+                "original_title": "Fifty Percent Grey",
+                "title": "Fifty Percent Grey",
+                "release_date": "2001-07-13",
+                "backdrop_path": "/6EdQghdvdHUerwXiaaYwgAkpS7K.jpg",
+                "poster_path": "/379qWaj3ye3kleE583rYXQKgrkc.jpg",
+                "overview": "Sergeant wakes up alone with only a widescreen TV for company, in a place designed for him to relax in peace and tranquility, for all eternity...",
+                "vote_average": 6.5,
+                "vote_count": 26
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Give Up Yer Aul Sins",
+            "second_label": "Cathal Gaffney, Darragh O'Connell",
+            "category": "Short Film (Animated)",
+            "year": 2002,
+            "tmdb": {
+                "id": 89671,
+                "original_title": "Give Up Yer Aul Sins",
+                "title": "Give Up Yer Aul Sins",
+                "release_date": "2002-06-05",
+                "backdrop_path": null,
+                "poster_path": "/f1H4nPiqfueXCiUjHl5P7AgWSXq.jpg",
+                "overview": "A schoolgirl offers a spirited and somewhat unconventional retelling of the story of John the Baptist. Give Up Yer Aul Sins is an Academy Award\u00ae nominated short film.",
+                "vote_average": 4.7,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Strange Invaders",
+            "second_label": "Cordell Barker",
+            "category": "Short Film (Animated)",
+            "year": 2002,
+            "tmdb": {
+                "id": 48488,
+                "original_title": "Strange Invaders",
+                "title": "Strange Invaders",
+                "release_date": "2001-09-23",
+                "backdrop_path": null,
+                "poster_path": "/ynpaR2CGc5B1LNd9L2CjMVCfCdr.jpg",
+                "overview": "Roger and Doris are a childless couple who get more than they bargained for when a strange child appears at their door one day.",
+                "vote_average": 5.6,
+                "vote_count": 12
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Stubble Trouble",
+            "second_label": "Joseph E. Merideth",
+            "category": "Short Film (Animated)",
+            "year": 2002,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Live Action)": [
+        {
+            "first_label": "the accountant",
+            "second_label": "Ray McKinnon, Lisa Blount",
+            "category": "Short Film (Live Action)",
+            "year": 2002,
+            "tmdb": {
+                "id": 36733,
+                "original_title": "The Accountant",
+                "title": "The Accountant",
+                "release_date": "2001-01-22",
+                "backdrop_path": null,
+                "poster_path": "/sOXVEPYCzeF6JGVEDp1WdfYttxD.jpg",
+                "overview": "The O'Dell farm is on the rocks. A non-traditional accountant comes with a variety of ways to save the farm.",
+                "vote_average": 7.0,
+                "vote_count": 14
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Copy Shop",
+            "second_label": "Virgil Widrich",
+            "category": "Short Film (Live Action)",
+            "year": 2002,
+            "tmdb": {
+                "id": 53981,
+                "original_title": "Copy Shop",
+                "title": "Copy Shop",
+                "release_date": "2001-01-26",
+                "backdrop_path": "/prVaXarG3t796SvU5sD3ocE3Qi4.jpg",
+                "poster_path": "/4jsofyCCHcEEdQ7iYK98v4n5ZOP.jpg",
+                "overview": "Wordless story about a man who awakes in his bed wearing his clothes (including a check vest). He rises, washes his face, combs his hair, and heads for work across the street at a copy shop. He inadvertently makes a photocopy of his hand, and then the machine beings turning out copies of photographs of himself, the street outside, and his apartment. He unplugs the copier and heads home. He repeats the scene we saw earlier. Copies of himself emerge from bed; baffled, he watches them go to work. Soon, it seems, he's part of a society in which everyone looks like him and wears check vest. Can he get things back to normal?",
+                "vote_average": 7.0,
+                "vote_count": 28
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gregor's Greatest Invention",
+            "second_label": "Johannes Kiefer",
+            "category": "Short Film (Live Action)",
+            "year": 2002,
+            "tmdb": {
+                "id": 244973,
+                "original_title": "Gregors gr\u00f6\u00dfte Erfindung",
+                "title": "Gregor's Greatest Invention",
+                "release_date": "2001-10-27",
+                "backdrop_path": null,
+                "poster_path": "/b4m9KH7lY3wb0uCUEaNGcXCx2Ug.jpg",
+                "overview": "Gregor, a young man, lives with and cares for his elderly grandmother. He's also a bit of an inventor. One day, when her wheelchair accidentally rolls down a hill and throws her into a pond, he gets an idea for an invention: A harness system that will let his grandmother walk again by supporting her weight. Meanwhile, her friends from the nursing home are trying to convince her to leave Gregor and live with them.",
+                "vote_average": 5.2,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Man Thing (Meska Sprawa)",
+            "second_label": "Slawomir Fabicki, Bogumil Godfrejow",
+            "category": "Short Film (Live Action)",
+            "year": 2002,
+            "tmdb": {
+                "id": 122388,
+                "original_title": "M\u0119ska sprawa",
+                "title": "A Man Thing",
+                "release_date": "2001-08-01",
+                "backdrop_path": "/8OxQtHWpYoQICPXNYjPaNtnRbLI.jpg",
+                "poster_path": "/lTDCP7PSx4RV2vvTDAW2J950MtN.jpg",
+                "overview": "13-year-old Bartek tries desperately to hide the fact that his father beats him. Lonely and with no support from his mother or his school, tyrannized by his soccer coach, the boy finds his only friend in an old dying stray dog.",
+                "vote_average": 7.7,
+                "vote_count": 12
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Speed for Thespians",
+            "second_label": "Kalman Apple, Shameela Bakhsh",
+            "category": "Short Film (Live Action)",
+            "year": 2002,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Sound": [
+        {
+            "first_label": "Black Hawk Down",
+            "second_label": "Michael Minkler, Myron Nettinga, Chris Munro",
+            "category": "Sound",
+            "year": 2002,
+            "tmdb": {
+                "id": 855,
+                "original_title": "Black Hawk Down",
+                "title": "Falc\u00e3o Negro em Perigo",
+                "release_date": "2001-12-28",
+                "backdrop_path": "/7jaNOECZG8uS1tlq69HsY5xY8P9.jpg",
+                "poster_path": "/mwlZSgXxX0XrRGP7gMLdJxlrOTY.jpg",
+                "overview": "Em outubro de 1993, durante a guerra civil da Som\u00e1lia, uma for\u00e7a de elite americana \u00e9 enviada para capturar generais locais. Por\u00e9m, ap\u00f3s dois helic\u00f3pteros serem derrubados, o que deveria ser uma opera\u00e7\u00e3o simples se torna uma extensa batalha.",
+                "vote_average": 7.4,
+                "vote_count": 5436
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Amlie",
+            "second_label": "Vincent Arnardi, Guillaume Leriche, Jean Umansky",
+            "category": "Sound",
+            "year": 2002,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Lord of the Rings: The Fellowship of the Ring",
+            "second_label": "Christopher Boyes, Michael Semanick, Gethin Creagh, Hammond Peek",
+            "category": "Sound",
+            "year": 2002,
+            "tmdb": {
+                "id": 120,
+                "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+                "title": "O Senhor dos An\u00e9is: A Sociedade do Anel",
+                "release_date": "2001-12-18",
+                "backdrop_path": "/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
+                "poster_path": "/hi77F0o55uEhZid1eWRp830CRDx.jpg",
+                "overview": "Em uma terra fant\u00e1stica e \u00fanica, um hobbit recebe de presente de seu tio um anel m\u00e1gico e maligno que precisa ser destru\u00eddo antes que caia nas m\u00e3os do mal. Para isso, o hobbit Frodo tem um caminho \u00e1rduo pela frente, onde encontra perigo, medo e seres bizarros. Ao seu lado para o cumprimento desta jornada, ele aos poucos pode contar com outros hobbits, um elfo, um an\u00e3o, dois humanos e um mago, totalizando nove pessoas que formam a Sociedade do Anel.",
+                "vote_average": 8.411,
+                "vote_count": 24136
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Moulin Rouge",
+            "second_label": "Andy Nelson, Anna Behlmer, Roger Savage, Guntis Sics",
+            "category": "Sound",
+            "year": 2002,
+            "tmdb": {
+                "id": 824,
+                "original_title": "Moulin Rouge!",
+                "title": "Moulin Rouge: Amor em Vermelho",
+                "release_date": "2001-05-24",
+                "backdrop_path": "/vvcLSgiviCIU0J0UcwLqWdU8Iup.jpg",
+                "poster_path": "/3qvbVinK04m9BDHE8Aqztmf5mAw.jpg",
+                "overview": "Christian (Ewan McGregor) \u00e9 um jovem escritor que possui um dom para a poesia e que enfrenta seu pai para poder se mudar para o bairro bo\u00eamio de Montmartre, em Paris. L\u00e1 ele recebe o apoio de Henri de Toulouse-Latrec (John Leguizamo), que o ajuda a participar da vida social e cultural do local, que gira em torno do Moulin Rouge, uma boate que possui um mundo pr\u00f3prio de sexo, drogas, adrenalina e Can-Can. Ao visitar o local, Christian logo se apaixona por Satine (Nicole Kidman), a mais bela cortes\u00e3 de Paris e estrela maior do Moulin Rouge.",
+                "vote_average": 7.6,
+                "vote_count": 4350
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Pearl Harbor",
+            "second_label": "Kevin O'Connell, Greg P. Russell, Peter J. Devlin",
+            "category": "Sound",
+            "year": 2002,
+            "tmdb": {
+                "id": 676,
+                "original_title": "Pearl Harbor",
+                "title": "Pearl Harbor",
+                "release_date": "2001-05-21",
+                "backdrop_path": "/zv1xOEQzebKyku349qDZ085FZlO.jpg",
+                "poster_path": "/y8A0Cvp8WQmZ3bjbnsL53lY0dsC.jpg",
+                "overview": "Dois pilotos e amigos de longa data se apaixonam pela mesma mulher, mas precisam deixar suas diferen\u00e7as de lado quando os japoneses atacam a base naval de Pearl Harbor em 7 de dezembro de 1941.",
+                "vote_average": 6.9,
+                "vote_count": 6180
+            },
+            "winner": false
+        }
+    ],
+    "Sound Editing": [
+        {
+            "first_label": "Pearl Harbor",
+            "second_label": "George Watters II, Christopher Boyes",
+            "category": "Sound Editing",
+            "year": 2002,
+            "tmdb": {
+                "id": 676,
+                "original_title": "Pearl Harbor",
+                "title": "Pearl Harbor",
+                "release_date": "2001-05-21",
+                "backdrop_path": "/zv1xOEQzebKyku349qDZ085FZlO.jpg",
+                "poster_path": "/y8A0Cvp8WQmZ3bjbnsL53lY0dsC.jpg",
+                "overview": "Dois pilotos e amigos de longa data se apaixonam pela mesma mulher, mas precisam deixar suas diferen\u00e7as de lado quando os japoneses atacam a base naval de Pearl Harbor em 7 de dezembro de 1941.",
+                "vote_average": 6.9,
+                "vote_count": 6180
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Monsters, Inc.",
+            "second_label": "Gary Rydstrom, Michael Silvers",
+            "category": "Sound Editing",
+            "year": 2002,
+            "tmdb": {
+                "id": 585,
+                "original_title": "Monsters, Inc.",
+                "title": "Monstros S.A.",
+                "release_date": "2001-11-01",
+                "backdrop_path": "/vUTVUdfbsY4DePCYzxxDMXKp6v6.jpg",
+                "poster_path": "/5p6cdAeUevsLOX0oI1T4JIul4QO.jpg",
+                "overview": "O astro do susto, Sulley, e seu falante assistente, Mike, trabalham na Monstros S.A., a maior f\u00e1brica de processamento de gritos da cidade de Monstr\u00f3polis. A principal fonte de energia do mundo dos monstros prov\u00e9m da coleta dos gritos das crian\u00e7as humanas. Os monstros acreditam que as crian\u00e7as s\u00e3o t\u00f3xicas, e entram em p\u00e2nico quando uma menininha invade seu mundo. Sulley e Mike fazem de tudo para levar a garota de volta para casa, mas enfrentam desafios monstruosos e algumas situa\u00e7\u00f5es hil\u00e1rias em suas atrapalhadas aventuras.",
+                "vote_average": 7.8,
+                "vote_count": 17763
+            },
+            "winner": false
+        }
+    ],
+    "Visual Effects": [
+        {
+            "first_label": "The Lord of the Rings: The Fellowship of the Ring",
+            "second_label": "Jim Rygiel, Randall William Cook, Richard Taylor, Mark Stetson",
+            "category": "Visual Effects",
+            "year": 2002,
+            "tmdb": {
+                "id": 120,
+                "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+                "title": "O Senhor dos An\u00e9is: A Sociedade do Anel",
+                "release_date": "2001-12-18",
+                "backdrop_path": "/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
+                "poster_path": "/hi77F0o55uEhZid1eWRp830CRDx.jpg",
+                "overview": "Em uma terra fant\u00e1stica e \u00fanica, um hobbit recebe de presente de seu tio um anel m\u00e1gico e maligno que precisa ser destru\u00eddo antes que caia nas m\u00e3os do mal. Para isso, o hobbit Frodo tem um caminho \u00e1rduo pela frente, onde encontra perigo, medo e seres bizarros. Ao seu lado para o cumprimento desta jornada, ele aos poucos pode contar com outros hobbits, um elfo, um an\u00e3o, dois humanos e um mago, totalizando nove pessoas que formam a Sociedade do Anel.",
+                "vote_average": 8.411,
+                "vote_count": 24136
+            },
+            "winner": true
+        },
+        {
+            "first_label": "A.I. Artificial Intelligence",
+            "second_label": "Dennis Muren, Scott Farrar, Stan Winston, Michael Lantieri",
+            "category": "Visual Effects",
+            "year": 2002,
+            "tmdb": {
+                "id": 644,
+                "original_title": "A.I. Artificial Intelligence",
+                "title": "A.I.: Intelig\u00eancia Artificial",
+                "release_date": "2001-06-29",
+                "backdrop_path": "/n7p6UTAZtkeoHkwCO42BEQaMFJY.jpg",
+                "poster_path": "/jBF8tF6k8yLZnOHaTH5G2IptYiy.jpg",
+                "overview": "O primeiro menino-rob\u00f4 programado para amar, David, \u00e9 adotado por um funcion\u00e1rio da Cybertronics e sua esposa. Apesar de aos poucos ele ir se tornando o filho do casal, uma s\u00e9rie de circunst\u00e2ncias inesperadas dificulta a vida de David. Sem a total aceita\u00e7\u00e3o dos humanos ou das m\u00e1quinas, o menino-rob\u00f4 embarca em uma jornada para descobrir seu verdadeiro mundo.",
+                "vote_average": 7.044,
+                "vote_count": 5898
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Pearl Harbor",
+            "second_label": "Eric Brevig, John Frazier, Ed Hirsh, Ben Snow",
+            "category": "Visual Effects",
+            "year": 2002,
+            "tmdb": {
+                "id": 676,
+                "original_title": "Pearl Harbor",
+                "title": "Pearl Harbor",
+                "release_date": "2001-05-21",
+                "backdrop_path": "/zv1xOEQzebKyku349qDZ085FZlO.jpg",
+                "poster_path": "/y8A0Cvp8WQmZ3bjbnsL53lY0dsC.jpg",
+                "overview": "Dois pilotos e amigos de longa data se apaixonam pela mesma mulher, mas precisam deixar suas diferen\u00e7as de lado quando os japoneses atacam a base naval de Pearl Harbor em 7 de dezembro de 1941.",
+                "vote_average": 6.9,
+                "vote_count": 6180
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay Based on Material Previously Produced or Published)": [
+        {
+            "first_label": "A Beautiful Mind",
+            "second_label": "Written by Akiva Goldsman",
+            "category": "Writing (Screenplay Based on Material Previously Produced or Published)",
+            "year": 2002,
+            "tmdb": {
+                "id": 453,
+                "original_title": "A Beautiful Mind",
+                "title": "Uma Mente Brilhante",
+                "release_date": "2001-12-14",
+                "backdrop_path": "/zbpZOYrRCxEF8lFT5JC8XodEggC.jpg",
+                "poster_path": "/8K5W9QnNT7r1V9GuJ5z5KlrROkd.jpg",
+                "overview": "John Nash \u00e9 um g\u00eanio da matem\u00e1tica que, aos 21 anos, formulou um teorema que provou sua genialidade e o tornou aclamado no meio onde atuava. Mas aos poucos o belo e arrogante Nash se transforma em um sofrido e atormentado homem, que chega at\u00e9 mesmo a ser diagnosticado como esquizofr\u00eanico pelos m\u00e9dicos que o tratam. Por\u00e9m, ap\u00f3s anos de luta para se recuperar, ele consegue retornar \u00e0 sociedade e acaba sendo premiado com o Nobel.",
+                "vote_average": 7.857,
+                "vote_count": 9798
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Ghost World",
+            "second_label": "Written by Daniel Clowes & Terry Zwigoff",
+            "category": "Writing (Screenplay Based on Material Previously Produced or Published)",
+            "year": 2002,
+            "tmdb": {
+                "id": 1548,
+                "original_title": "Ghost World",
+                "title": "Ghost World: Aprendendo a Viver",
+                "release_date": "2001-07-20",
+                "backdrop_path": "/o7zvlk0HCxRf13Im9ZpZ4okHehr.jpg",
+                "poster_path": "/uwKqnUPE4dSM0kKuMW0vXpURh2T.jpg",
+                "overview": "Enid e Rebecca est\u00e3o concluindo o segundo grau e come\u00e7am a entrar na crise mais forte da adolesc\u00eancia, buscando suas identidades e planejando o futuro. Rebecca parece infeliz, mas mant\u00e9m o foco e planeja o futuro, mas Enid parece totalmente perdida e incapaz de lidar com a frustra\u00e7\u00e3o da vida adulta. Os problemas podem abalar a amizade das duas, que sempre acreditaram que seriam amigas para sempre.",
+                "vote_average": 7.1,
+                "vote_count": 1330
+            },
+            "winner": false
+        },
+        {
+            "first_label": "In the Bedroom",
+            "second_label": "Screenplay by Rob Festinger and Todd Field",
+            "category": "Writing (Screenplay Based on Material Previously Produced or Published)",
+            "year": 2002,
+            "tmdb": {
+                "id": 1999,
+                "original_title": "In the Bedroom",
+                "title": "Entre Quatro Paredes",
+                "release_date": "2001-11-23",
+                "backdrop_path": "/kWa4iUaC7SU2DHDlknlVvw5x9nP.jpg",
+                "poster_path": "/4FIlOw7P2Yusdl7TqHFvKC1eMQ4.jpg",
+                "overview": "Ap\u00f3s a perda do filho, um casal (Tom Wilkinson e Sissy Spacek) faz de tudo para se livrar do sofrimento, ou pelo menos achar algum conforto em meio \u00e0 tanta dor. O que eles desconhecem \u00e9 que a prova\u00e7\u00e3o ser\u00e1 quase insuport\u00e1vel.",
+                "vote_average": 6.9,
+                "vote_count": 326
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Lord of the Rings: The Fellowship of the Ring",
+            "second_label": "Screenplay by Fran Walsh, Philippa Boyens, Peter Jackson",
+            "category": "Writing (Screenplay Based on Material Previously Produced or Published)",
+            "year": 2002,
+            "tmdb": {
+                "id": 120,
+                "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+                "title": "O Senhor dos An\u00e9is: A Sociedade do Anel",
+                "release_date": "2001-12-18",
+                "backdrop_path": "/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
+                "poster_path": "/hi77F0o55uEhZid1eWRp830CRDx.jpg",
+                "overview": "Em uma terra fant\u00e1stica e \u00fanica, um hobbit recebe de presente de seu tio um anel m\u00e1gico e maligno que precisa ser destru\u00eddo antes que caia nas m\u00e3os do mal. Para isso, o hobbit Frodo tem um caminho \u00e1rduo pela frente, onde encontra perigo, medo e seres bizarros. Ao seu lado para o cumprimento desta jornada, ele aos poucos pode contar com outros hobbits, um elfo, um an\u00e3o, dois humanos e um mago, totalizando nove pessoas que formam a Sociedade do Anel.",
+                "vote_average": 8.411,
+                "vote_count": 24136
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Shrek",
+            "second_label": "Written by Ted Elliott, Terry Rossio, Joe Stillman & Roger S.H. Schulman",
+            "category": "Writing (Screenplay Based on Material Previously Produced or Published)",
+            "year": 2002,
+            "tmdb": {
+                "id": 808,
+                "original_title": "Shrek",
+                "title": "Shrek",
+                "release_date": "2001-05-18",
+                "backdrop_path": "/sRvXNDItGlWCqtO3j6wks52FmbD.jpg",
+                "poster_path": "/dyhaB19AICF7TO7CK2aD6KfymnQ.jpg",
+                "overview": "Em um p\u00e2ntano distante vive Shrek, um ogro solit\u00e1rio que v\u00ea, sem mais nem menos, sua vida ser invadida por uma s\u00e9rie de personagens de contos de fada, como tr\u00eas ratos cegos, um grande e malvado lobo e ainda tr\u00eas porcos que n\u00e3o t\u00eam um lugar onde morar. Todos eles foram expulsos de seus lares pelo maligno Lorde Farquaad. Determinado a recuperar a tranquilidade de antes, Shrek resolve encontrar Farquaad e com ele faz um acordo: todos os personagens poder\u00e3o retornar aos seus lares se ele e seu amigo Burro resgatarem uma bela princesa, que \u00e9 prisioneira de um drag\u00e3o. Por\u00e9m, quando Shrek e o Burro enfim conseguem resgatar a princesa logo eles descobrem que seus problemas est\u00e3o apenas come\u00e7ando.",
+                "vote_average": 7.738,
+                "vote_count": 16380
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay Written Directly for the Screen)": [
+        {
+            "first_label": "Gosford Park",
+            "second_label": "Written by Julian Fellowes",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 2002,
+            "tmdb": {
+                "id": 5279,
+                "original_title": "Gosford Park",
+                "title": "Assassinato em Gosford Park",
+                "release_date": "2001-11-07",
+                "backdrop_path": "/mkyqVN51VswajggvNllSDnVf1Cj.jpg",
+                "poster_path": "/d7u7ohi8eXEUw7CDH4BmWTWz3Ta.jpg",
+                "overview": "Na d\u00e9cada de 1930, Sir William McCordle e fam\u00edlia recebem ricos e famosos para um relaxante fim de semana em uma suntuosa casa de campo. Mas um assassinato ocorre na propriedade, e todos os convidados e serventes viram suspeitos do crime.",
+                "vote_average": 6.8,
+                "vote_count": 1020
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Amlie",
+            "second_label": "Screenplay by Guillaume Laurant and Jean-Pierre Jeunet; Dialogue by Guillaume Laurant",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 2002,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Memento",
+            "second_label": "Screenplay by Christopher Nolan; Story by Jonathan Nolan",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 2002,
+            "tmdb": {
+                "id": 77,
+                "original_title": "Memento",
+                "title": "Amn\u00e9sia",
+                "release_date": "2000-10-11",
+                "backdrop_path": "/q2CtXYjp9IlnfBcPktNkBPsuAEO.jpg",
+                "poster_path": "/7leBWM27Q0TUnvmhw6WnFNgGn4G.jpg",
+                "overview": "Leonard est\u00e1 ca\u00e7ando o homem que estuprou e matou sua esposa. Ele tem dificuldades em encontrar o assassino pois sofre de uma forma intrat\u00e1vel de perda de mem\u00f3ria. Mesmo que ele possa lembrar detalhes da vida antes do acidente, Leonard n\u00e3o consegue lembrar o que aconteceu quinze minutos atr\u00e1s, onde est\u00e1 indo ou a raz\u00e3o.",
+                "vote_average": 8.186,
+                "vote_count": 14245
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Monster's Ball",
+            "second_label": "Written by Milo Addica & Will Rokos",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 2002,
+            "tmdb": {
+                "id": 1365,
+                "original_title": "Monster's Ball",
+                "title": "A \u00daltima Ceia",
+                "release_date": "2001-06-07",
+                "backdrop_path": "/G8S6je8HJkPD9sDTctoIBEpvey.jpg",
+                "poster_path": "/1cKQ4ZW9nevMx6qV5brtYgXWvr1.jpg",
+                "overview": "Hank Grotowski e seu filho Sonny trabalham juntos em uma pris\u00e3o localizada no sul dos Estados Unidos. Hank \u00e9 extremamente racista e precisa lidar com este sentimento todos os dias, devido \u00e0 presen\u00e7a de negros na pris\u00e3o. Um deles, Lawrence Musgrove, recebe periodicamente a visita de sua esposa Leticia. Ap\u00f3s ser condenado \u00e0 morte, Leticia segue sua vida juntamente com seu filho Tyrell. Por\u00e9m, duas trag\u00e9dias acabam fazendo com que as vidas de Leticia e Hank se cruzem.",
+                "vote_average": 6.8,
+                "vote_count": 927
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Royal Tenenbaums",
+            "second_label": "Written by Wes Anderson & Owen Wilson",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 2002,
+            "tmdb": {
+                "id": 9428,
+                "original_title": "The Royal Tenenbaums",
+                "title": "Os Exc\u00eantricos Tenenbaums",
+                "release_date": "2001-10-05",
+                "backdrop_path": "/g2s22rGjCTCYsjI1iAflem7HjdG.jpg",
+                "poster_path": "/zRzBGrncDZADU1x6jqSHz6z5uLc.jpg",
+                "overview": "Royal e sua esposa Etheline tiveram tr\u00eas filhos muito diferentes entre si, mas igualmente bem-sucedidos. Quando Etheline resolve se casar com outro, o irrespons\u00e1vel e exc\u00eantrico Royal resolve lutar por seu amor reunindo toda a fam\u00edlia.",
+                "vote_average": 7.487,
+                "vote_count": 4356
+            },
+            "winner": false
+        }
+    ]
+}

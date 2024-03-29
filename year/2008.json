@@ -1,0 +1,1868 @@
+{
+    "Actor in a Leading Role": [
+        {
+            "first_label": "Daniel Day-Lewis",
+            "second_label": "There Will Be Blood",
+            "category": "Actor in a Leading Role",
+            "year": 2008,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "George Clooney",
+            "second_label": "Michael Clayton",
+            "category": "Actor in a Leading Role",
+            "year": 2008,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Johnny Depp",
+            "second_label": "Sweeney Todd The Demon Barber of Fleet Street",
+            "category": "Actor in a Leading Role",
+            "year": 2008,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tommy Lee Jones",
+            "second_label": "In the Valley of Elah",
+            "category": "Actor in a Leading Role",
+            "year": 2008,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Viggo Mortensen",
+            "second_label": "Eastern Promises",
+            "category": "Actor in a Leading Role",
+            "year": 2008,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Javier Bardem",
+            "second_label": "No Country for Old Men",
+            "category": "Actor in a Supporting Role",
+            "year": 2008,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Casey Affleck",
+            "second_label": "The Assassination of Jesse James by the Coward Robert Ford",
+            "category": "Actor in a Supporting Role",
+            "year": 2008,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Philip Seymour Hoffman",
+            "second_label": "Charlie Wilson's War",
+            "category": "Actor in a Supporting Role",
+            "year": 2008,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hal Holbrook",
+            "second_label": "Into the Wild",
+            "category": "Actor in a Supporting Role",
+            "year": 2008,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tom Wilkinson",
+            "second_label": "Michael Clayton",
+            "category": "Actor in a Supporting Role",
+            "year": 2008,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Leading Role": [
+        {
+            "first_label": "Marion Cotillard",
+            "second_label": "La Vie en Rose",
+            "category": "Actress in a Leading Role",
+            "year": 2008,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Cate Blanchett",
+            "second_label": "Elizabeth: The Golden Age",
+            "category": "Actress in a Leading Role",
+            "year": 2008,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Julie Christie",
+            "second_label": "Away from Her",
+            "category": "Actress in a Leading Role",
+            "year": 2008,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Laura Linney",
+            "second_label": "The Savages",
+            "category": "Actress in a Leading Role",
+            "year": 2008,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ellen Page",
+            "second_label": "Juno",
+            "category": "Actress in a Leading Role",
+            "year": 2008,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Tilda Swinton",
+            "second_label": "Michael Clayton",
+            "category": "Actress in a Supporting Role",
+            "year": 2008,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Cate Blanchett",
+            "second_label": "I'm Not There",
+            "category": "Actress in a Supporting Role",
+            "year": 2008,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ruby Dee",
+            "second_label": "American Gangster",
+            "category": "Actress in a Supporting Role",
+            "year": 2008,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Saoirse Ronan",
+            "second_label": "Atonement",
+            "category": "Actress in a Supporting Role",
+            "year": 2008,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Amy Ryan",
+            "second_label": "Gone Baby Gone",
+            "category": "Actress in a Supporting Role",
+            "year": 2008,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Animated Feature Film": [
+        {
+            "first_label": "Ratatouille",
+            "second_label": "Brad Bird",
+            "category": "Animated Feature Film",
+            "year": 2008,
+            "tmdb": {
+                "id": 2062,
+                "original_title": "Ratatouille",
+                "title": "Ratatouille",
+                "release_date": "2007-06-28",
+                "backdrop_path": "/xgDj56UWyeWQcxQ44f5A3RTWuSs.jpg",
+                "poster_path": "/lpyqGZXjaPpr2dzkD9XD5DUGMkN.jpg",
+                "overview": "Um rato que sabe cozinhar faz uma alian\u00e7a incomum com um jovem trabalhador de cozinha em um restaurante famoso.",
+                "vote_average": 7.818,
+                "vote_count": 16311
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Persepolis",
+            "second_label": "Marjane Satrapi and Vincent Paronnaud",
+            "category": "Animated Feature Film",
+            "year": 2008,
+            "tmdb": {
+                "id": 2011,
+                "original_title": "Persepolis",
+                "title": "Pers\u00e9polis",
+                "release_date": "2007-06-27",
+                "backdrop_path": "/6kqybERm5qi2jGpu8I7DaQPxpSU.jpg",
+                "poster_path": "/nKk6mPk1JmkRxT92MqGWZQoCX2p.jpg",
+                "overview": "Marjane \u00e9 uma jovem iraniana de oito anos, que sonha em ser uma profetisa do futuro, para assim salvar o mundo. Querida pelos pais cultos e modernos e adorada pela av\u00f3, ela acompanha avidamente os acontecimentos que conduzem \u00e0 queda do x\u00e1 e de seu regime brutal. A entrada da nova Rep\u00fablica Isl\u00e2mica inaugura a era dos \u201cGuardi\u00f5es da Revolu\u00e7\u00e3o\u201d, que controlam como as pessoas devem agir e se vestir. Marjane, que agora deve usar v\u00e9u, deseja se transformar numa revolucion\u00e1ria. Mas, para tentar proteg\u00ea-la, seus pais a enviam para a \u00c1ustria.",
+                "vote_average": 7.9,
+                "vote_count": 1851
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Surf's Up",
+            "second_label": "Ash Brannon and Chris Buck",
+            "category": "Animated Feature Film",
+            "year": 2008,
+            "tmdb": {
+                "id": 9408,
+                "original_title": "Surf's Up",
+                "title": "T\u00e1 Dando Onda",
+                "release_date": "2007-06-08",
+                "backdrop_path": "/qOfUKwYsRLaZJIdkTdQyNeeGc2f.jpg",
+                "poster_path": "/6UKXtAbMHqZZMTdHSYq16i2HA7R.jpg",
+                "overview": "Cadu Maverick (Shia LaBeouf) \u00e9 um jovem pinguim, que tem o lend\u00e1rio surfista Big Z como \u00eddolo. Um dia ele decide deixar sua fam\u00edlia e sua cidade, Shiverpool, na Ant\u00e1rtida, para participar do Big Z Memorial Surf Off, um torneio de surf realizado na ilha Pen-Gu. Cadu acredita que caso ven\u00e7a o torneio ganhar\u00e1 respeito e admira\u00e7\u00e3o, seu grande sonho. Mas l\u00e1 ele conhece um veterano surfista chamado Grego (Jeff Bridges), com quem aprende que o campe\u00e3o nem sempre \u00e9 aquele que chega em 1\u00ba lugar nas competi\u00e7\u00f5es.",
+                "vote_average": 6.4,
+                "vote_count": 2348
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction": [
+        {
+            "first_label": "Sweeney Todd The Demon Barber of Fleet Street",
+            "second_label": "Art Direction: Dante Ferretti; Set Decoration: Francesca Lo Schiavo",
+            "category": "Art Direction",
+            "year": 2008,
+            "tmdb": {
+                "id": 13885,
+                "original_title": "Sweeney Todd: The Demon Barber of Fleet Street",
+                "title": "Sweeney Todd: O Barbeiro Demon\u00edaco da Rua Fleet",
+                "release_date": "2007-12-20",
+                "backdrop_path": "/bQWb6mHCqUwggIdQJBRn2zu4Xjv.jpg",
+                "poster_path": "/ldAJTuMoOacIXKj3gsPPFHENBWj.jpg",
+                "overview": "Benjamin Barker passou 15 anos afastado de Londres ap\u00f3s ser obrigado a deixar sua fam\u00edlia. Usando o nome de Sweeney Todd, ele retorna \u00e0 cidade com sede de vingan\u00e7a.",
+                "vote_average": 7.184,
+                "vote_count": 5635
+            },
+            "winner": true
+        },
+        {
+            "first_label": "American Gangster",
+            "second_label": "Art Direction: Arthur Max; Set Decoration: Beth A. Rubino",
+            "category": "Art Direction",
+            "year": 2008,
+            "tmdb": {
+                "id": 4982,
+                "original_title": "American Gangster",
+                "title": "O G\u00e2ngster",
+                "release_date": "2007-11-02",
+                "backdrop_path": "/qYx2AB7J3JsHA3xPfSMdLHRwDnc.jpg",
+                "poster_path": "/qycBudNP3cEhp05cleZX49qF63Y.jpg",
+                "overview": "Frank Lucas trabalha como chofer de um dos mafiosos mais importantes do Harlem. Ap\u00f3s a morte de seu chefe, Frank usa sua perspic\u00e1cia e jeito para os neg\u00f3cios para se transformar em um dos mais poderosos l\u00edderes criminosos da cidade. Enquanto isso, o policial veterano Richie Roberts percebe mudan\u00e7as na estrutura do poder da m\u00e1fia, e busca uma maneira de levar seu oponente \u00e0 justi\u00e7a.",
+                "vote_average": 7.6,
+                "vote_count": 5140
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Atonement",
+            "second_label": "Art Direction: Sarah Greenwood; Set Decoration: Katie Spencer",
+            "category": "Art Direction",
+            "year": 2008,
+            "tmdb": {
+                "id": 4347,
+                "original_title": "Atonement",
+                "title": "Desejo e Repara\u00e7\u00e3o",
+                "release_date": "2007-09-07",
+                "backdrop_path": "/sCDWoyRutBPVHzVGB2nmXE8oxaX.jpg",
+                "poster_path": "/sFIHg2JAyOe6ua0WM2IvcVplrZj.jpg",
+                "overview": "Em 1935, no dia mais quente do ano na Inglaterra, Briony Talles e sua fam\u00edlia se re\u00fanem num fim de semana na mans\u00e3o familiar. O momento pol\u00edtico \u00e9 de tens\u00e3o, por conta da 2\u00aa Guerra Mundial. Em meio ao calor opressivo emergem antigos ressentimentos familiares. Cinco anos antes, Briony, ent\u00e3o aos 13 anos, usa sua imagina\u00e7\u00e3o de escritora principiante para acusar Robbie Turner, o filho do caseiro e amante da sua irm\u00e3 mais velha Cec\u00edlia, de um crime que ele n\u00e3o cometeu. A acusa\u00e7\u00e3o na \u00e9poca destruiu o amor da irm\u00e3 e alterou de forma dram\u00e1tica v\u00e1rias vidas.",
+                "vote_average": 7.65,
+                "vote_count": 3997
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Golden Compass",
+            "second_label": "Art Direction: Dennis Gassner; Set Decoration: Anna Pinnock",
+            "category": "Art Direction",
+            "year": 2008,
+            "tmdb": {
+                "id": 2268,
+                "original_title": "The Golden Compass",
+                "title": "A B\u00fassola de Ouro",
+                "release_date": "2007-12-04",
+                "backdrop_path": "/qifYc5jT4CZxmLH9DfOlipioSPp.jpg",
+                "poster_path": "/A9KqGkas7C6Cp802HhKNGQTDnbw.jpg",
+                "overview": "Lyra Belacqua (Dakota Blue Richards) \u00e9 uma \u00f3rf\u00e3 que foi criada na Universidade Oxford. No mundo em que vive todas as pessoas t\u00eam um \"daemon\", ou seja, uma manifesta\u00e7\u00e3o de sua pr\u00f3pria alma em forma animal. Lyra leva uma vida tranq\u00fcila at\u00e9 ela e seu daemon, Pantalaimon, descobrirem a exist\u00eancia de uma subst\u00e2ncia misteriosa chamada \"p\u00f3\". Isto provoca um estranho efeito nas crian\u00e7as, o que faz com que as autoridades religiosas se conven\u00e7am de que representa o mal. Seguindo o misterioso Lorde Asriel (Daniel Craig), seu protetor, Lyra parte em busca de uma resposta. Em Londres ela descobre que diversas crian\u00e7as est\u00e3o desaparecendo, entre elas Roger (Ben Walker), seu melhor amigo. Com a ajuda de um instrumento ancestral, que se parece com uma b\u00fassola de ouro, ela parte numa jornada que pode alterar o mundo para sempre.",
+                "vote_average": 6.1,
+                "vote_count": 4371
+            },
+            "winner": false
+        },
+        {
+            "first_label": "There Will Be Blood",
+            "second_label": "Art Direction: Jack Fisk; Set Decoration: Jim Erickson",
+            "category": "Art Direction",
+            "year": 2008,
+            "tmdb": {
+                "id": 7345,
+                "original_title": "There Will Be Blood",
+                "title": "Sangue Negro",
+                "release_date": "2007-12-26",
+                "backdrop_path": "/8LRcCJjbQI552BMCuGgYqph8USS.jpg",
+                "poster_path": "/cOEbxHAm8CfbpAE9fKv9vTZaWeL.jpg",
+                "overview": "Daniel Plainview e seu filho s\u00e3o ca\u00e7adores de petr\u00f3leo, que perfuram po\u00e7os na Calif\u00f3rnia no in\u00edcio do s\u00e9culo XX. Eles s\u00e3o desafiados por um jovem pastor, Eli Sunday, cuja ambi\u00e7\u00e3o pessoal \u00e9 confrontada por Plainview. A luta entre os dois \u00e9 o centro dessa conflitante, tr\u00e1gica e hist\u00f3rica jornada ao abismo da loucura causada pela corrup\u00e7\u00e3o, fraude e petr\u00f3leo.",
+                "vote_average": 8.081,
+                "vote_count": 6272
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "There Will Be Blood",
+            "second_label": "Robert Elswit",
+            "category": "Cinematography",
+            "year": 2008,
+            "tmdb": {
+                "id": 7345,
+                "original_title": "There Will Be Blood",
+                "title": "Sangue Negro",
+                "release_date": "2007-12-26",
+                "backdrop_path": "/8LRcCJjbQI552BMCuGgYqph8USS.jpg",
+                "poster_path": "/cOEbxHAm8CfbpAE9fKv9vTZaWeL.jpg",
+                "overview": "Daniel Plainview e seu filho s\u00e3o ca\u00e7adores de petr\u00f3leo, que perfuram po\u00e7os na Calif\u00f3rnia no in\u00edcio do s\u00e9culo XX. Eles s\u00e3o desafiados por um jovem pastor, Eli Sunday, cuja ambi\u00e7\u00e3o pessoal \u00e9 confrontada por Plainview. A luta entre os dois \u00e9 o centro dessa conflitante, tr\u00e1gica e hist\u00f3rica jornada ao abismo da loucura causada pela corrup\u00e7\u00e3o, fraude e petr\u00f3leo.",
+                "vote_average": 8.081,
+                "vote_count": 6272
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Assassination of Jesse James by the Coward Robert Ford",
+            "second_label": "Roger Deakins",
+            "category": "Cinematography",
+            "year": 2008,
+            "tmdb": {
+                "id": 4512,
+                "original_title": "The Assassination of Jesse James by the Coward Robert Ford",
+                "title": "O Assassinato de Jesse James Pelo Covarde Robert Ford",
+                "release_date": "2007-09-20",
+                "backdrop_path": "/5r2BZajlRZqnOc6s2BS0aiFDcne.jpg",
+                "poster_path": "/9vpIhmdk0jq6POxz7Fm06gBP3YZ.jpg",
+                "overview": "Qualquer pessoa na Am\u00e9rica em 1880 conhece Jesse James. Ele \u00e9 o criminoso mais conhecido em todo pa\u00eds, ca\u00e7ado implacavelmente pela lei em dez estados. Ele \u00e9 tamb\u00e9m um dos maiores her\u00f3is do seu tempo, comparado \u00e0 Robin Hood pelo p\u00fablico. Robert Ford? Ningu\u00e9m conhece esse nome. Ainda n\u00e3o... Este jovem ambicioso de apenas 19 anos de idade faz planos para mudar isso. Ele se aproximar\u00e1 de Jesse, cavalgar\u00e1 ao lado do seu bando e conquistar\u00e1 sua amizade. E se isso ainda n\u00e3o trouxer a fama para Ford, ele arrumar\u00e1 uma outra maneira. Uma maneira mortal!",
+                "vote_average": 7.0,
+                "vote_count": 2367
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Atonement",
+            "second_label": "Seamus McGarvey",
+            "category": "Cinematography",
+            "year": 2008,
+            "tmdb": {
+                "id": 4347,
+                "original_title": "Atonement",
+                "title": "Desejo e Repara\u00e7\u00e3o",
+                "release_date": "2007-09-07",
+                "backdrop_path": "/sCDWoyRutBPVHzVGB2nmXE8oxaX.jpg",
+                "poster_path": "/sFIHg2JAyOe6ua0WM2IvcVplrZj.jpg",
+                "overview": "Em 1935, no dia mais quente do ano na Inglaterra, Briony Talles e sua fam\u00edlia se re\u00fanem num fim de semana na mans\u00e3o familiar. O momento pol\u00edtico \u00e9 de tens\u00e3o, por conta da 2\u00aa Guerra Mundial. Em meio ao calor opressivo emergem antigos ressentimentos familiares. Cinco anos antes, Briony, ent\u00e3o aos 13 anos, usa sua imagina\u00e7\u00e3o de escritora principiante para acusar Robbie Turner, o filho do caseiro e amante da sua irm\u00e3 mais velha Cec\u00edlia, de um crime que ele n\u00e3o cometeu. A acusa\u00e7\u00e3o na \u00e9poca destruiu o amor da irm\u00e3 e alterou de forma dram\u00e1tica v\u00e1rias vidas.",
+                "vote_average": 7.65,
+                "vote_count": 3997
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Diving Bell and the Butterfly",
+            "second_label": "Janusz Kaminski",
+            "category": "Cinematography",
+            "year": 2008,
+            "tmdb": {
+                "id": 2013,
+                "original_title": "Le Scaphandre et le Papillon",
+                "title": "O Escafandro e a Borboleta",
+                "release_date": "2007-05-23",
+                "backdrop_path": "/gs9Z5cPauxH9Gml2kO6oUYwkTgK.jpg",
+                "poster_path": "/lL07UboNRO7XMpCzev3349Ig4ri.jpg",
+                "overview": "Jean-Dominique Bauby (Mathieu Amalric) tem 43 anos, \u00e9 editor da revista Elle e um apaixonado pela vida. Mas, subitamente, tem um derrame cerebral. Vinte dias depois, ele acorda. Ainda est\u00e1 l\u00facido, mas sofre de uma rara paralisia: o \u00fanico movimento que lhe resta no corpo \u00e9 o do olho esquerdo. Bauby se recusa a aceitar seu destino. Aprende a se comunicar piscando letras do alfabeto, e forma palavras, frases e at\u00e9 par\u00e1grafos. Cria um mundo pr\u00f3prio, contando com aquilo que n\u00e3o se paralisou: sua imagina\u00e7\u00e3o e sua mem\u00f3ria.",
+                "vote_average": 7.565,
+                "vote_count": 1114
+            },
+            "winner": false
+        },
+        {
+            "first_label": "No Country for Old Men",
+            "second_label": "Roger Deakins",
+            "category": "Cinematography",
+            "year": 2008,
+            "tmdb": {
+                "id": 6977,
+                "original_title": "No Country for Old Men",
+                "title": "Onde os Fracos N\u00e3o T\u00eam Vez",
+                "release_date": "2007-06-13",
+                "backdrop_path": "/kd9jFTTabg4xJpHDgxY0h8F9BzG.jpg",
+                "poster_path": "/jdlY8Bhcb4Qzfldr1JaexYBgyW3.jpg",
+                "overview": "Quando um homem depara com a sangrenta cena de um crime, uma caminhonete carregada de hero\u00edna e irresist\u00edveis dois milh\u00f5es de d\u00f3lares, sua decis\u00e3o de levar o dinheiro deflagra uma intermin\u00e1vel e violenta rea\u00e7\u00e3o em cadeia, que nem a lei do Oeste do Texas pode deter.",
+                "vote_average": 7.937,
+                "vote_count": 11407
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design": [
+        {
+            "first_label": "Elizabeth: The Golden Age",
+            "second_label": "Alexandra Byrne",
+            "category": "Costume Design",
+            "year": 2008,
+            "tmdb": {
+                "id": 4517,
+                "original_title": "Elizabeth: The Golden Age",
+                "title": "Elizabeth: A Era de Ouro",
+                "release_date": "2007-09-09",
+                "backdrop_path": "/7NvMR6ihwuH8aXQ8PnVxSpxaMxV.jpg",
+                "poster_path": "/3S63gYQB0yVl8bbCroYG15hx9WB.jpg",
+                "overview": "H\u00e1 quase tr\u00eas d\u00e9cadas no comando da Inglaterra, a Rainha Elizabeth I enfrenta amea\u00e7as ao seu poder, impostas por governos estrangeiros e pelo seu pr\u00f3prio pa\u00eds. Simultaneamente, o Rei da Espanha Felipe II, apoiado pelo Vaticano, planeja destronar a rainha e restaurar o catolicismo na na\u00e7\u00e3o brit\u00e2nica. Elizabeth se prepara para entrar em guerra, ao mesmo tempo em que luta contra uma paix\u00e3o inesperada.",
+                "vote_average": 6.7,
+                "vote_count": 1164
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Across the Universe",
+            "second_label": "Albert Wolsky",
+            "category": "Costume Design",
+            "year": 2008,
+            "tmdb": {
+                "id": 4688,
+                "original_title": "Across the Universe",
+                "title": "Atrav\u00e9s do Universo",
+                "release_date": "2007-09-14",
+                "backdrop_path": "/wWINLezlSb2CXrpBlFXNKgDY8MG.jpg",
+                "poster_path": "/2XMnFYQqRUnfUnV1nUnzZTuxDSy.jpg",
+                "overview": "A m\u00fasica dos Beatles e a Guerra do Vietn\u00e3 formam o pano de fundo para o romance entre Lucy, uma garota americana da alta classe, e Jude, um pobre artista de Liverpool.  \u00c9 uma hist\u00f3ria de amor ambientada na d\u00e9cada de 1960, em meio aos turbulentos anos de protesto contra a guerra, \u00e0 luta pela liberdade de express\u00e3o e aos direitos civis, \u00e0 explora\u00e7\u00e3o da mente e ao rock and roll enfim, os movimentos da contracultura daquela \u00e9poca. Ao mesmo tempo corajosa, extravagante e altamente teatral, a hist\u00f3ria vai das escolas secund\u00e1rias e universidades de Massachusetts, Princeton e Ohio para o Lower East Side de Manhattan, os motins de Detroit, o Vietn\u00e3 e os estaleiros de Liverpool. Uma combina\u00e7\u00e3o de a\u00e7\u00e3o ao vivo e anima\u00e7\u00e3o, o filme est\u00e1 sonorizado com muitas m\u00fasicas dos Beatles que definiram aquele tempo.",
+                "vote_average": 7.1,
+                "vote_count": 1287
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Atonement",
+            "second_label": "Jacqueline Durran",
+            "category": "Costume Design",
+            "year": 2008,
+            "tmdb": {
+                "id": 4347,
+                "original_title": "Atonement",
+                "title": "Desejo e Repara\u00e7\u00e3o",
+                "release_date": "2007-09-07",
+                "backdrop_path": "/sCDWoyRutBPVHzVGB2nmXE8oxaX.jpg",
+                "poster_path": "/sFIHg2JAyOe6ua0WM2IvcVplrZj.jpg",
+                "overview": "Em 1935, no dia mais quente do ano na Inglaterra, Briony Talles e sua fam\u00edlia se re\u00fanem num fim de semana na mans\u00e3o familiar. O momento pol\u00edtico \u00e9 de tens\u00e3o, por conta da 2\u00aa Guerra Mundial. Em meio ao calor opressivo emergem antigos ressentimentos familiares. Cinco anos antes, Briony, ent\u00e3o aos 13 anos, usa sua imagina\u00e7\u00e3o de escritora principiante para acusar Robbie Turner, o filho do caseiro e amante da sua irm\u00e3 mais velha Cec\u00edlia, de um crime que ele n\u00e3o cometeu. A acusa\u00e7\u00e3o na \u00e9poca destruiu o amor da irm\u00e3 e alterou de forma dram\u00e1tica v\u00e1rias vidas.",
+                "vote_average": 7.65,
+                "vote_count": 3997
+            },
+            "winner": false
+        },
+        {
+            "first_label": "La Vie en Rose",
+            "second_label": "Marit Allen",
+            "category": "Costume Design",
+            "year": 2008,
+            "tmdb": {
+                "id": 1407,
+                "original_title": "La M\u00f4me",
+                "title": "Piaf: Um Hino ao Amor",
+                "release_date": "2007-02-14",
+                "backdrop_path": "/xaaZCEvqRcauCOWVKZxDvZR7MVG.jpg",
+                "poster_path": "/flWWczb3NFUroYxKr3zQ6BlSZB4.jpg",
+                "overview": "A vida de Edith Piaf foi sempre uma batalha. Abandonada pela m\u00e3e, foi criada pela av\u00f3, dona de um bordel na Normandia. Dos 3 aos 7 anos de idade fica cega, recuperando-se milagrosamente. Mais tarde vive com o pai alco\u00f3latra, a quem abandona aos 15 anos para cantar nas ruas de Paris. Em 1935 \u00e9 descoberta por um dono de boate e neste mesmo ano grava seu primeiro disco. A vida sofrida \u00e9 coroada com o sucesso internacional. Fama, dinheiro, amizades, mas tamb\u00e9m a constante vigil\u00e2ncia da opini\u00e3o p\u00fablica.",
+                "vote_average": 7.4,
+                "vote_count": 1518
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sweeney Todd The Demon Barber of Fleet Street",
+            "second_label": "Colleen Atwood",
+            "category": "Costume Design",
+            "year": 2008,
+            "tmdb": {
+                "id": 13885,
+                "original_title": "Sweeney Todd: The Demon Barber of Fleet Street",
+                "title": "Sweeney Todd: O Barbeiro Demon\u00edaco da Rua Fleet",
+                "release_date": "2007-12-20",
+                "backdrop_path": "/bQWb6mHCqUwggIdQJBRn2zu4Xjv.jpg",
+                "poster_path": "/ldAJTuMoOacIXKj3gsPPFHENBWj.jpg",
+                "overview": "Benjamin Barker passou 15 anos afastado de Londres ap\u00f3s ser obrigado a deixar sua fam\u00edlia. Usando o nome de Sweeney Todd, ele retorna \u00e0 cidade com sede de vingan\u00e7a.",
+                "vote_average": 7.184,
+                "vote_count": 5635
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "No Country for Old Men",
+            "second_label": "Joel Coen and Ethan Coen",
+            "category": "Directing",
+            "year": 2008,
+            "tmdb": {
+                "id": 6977,
+                "original_title": "No Country for Old Men",
+                "title": "Onde os Fracos N\u00e3o T\u00eam Vez",
+                "release_date": "2007-06-13",
+                "backdrop_path": "/kd9jFTTabg4xJpHDgxY0h8F9BzG.jpg",
+                "poster_path": "/jdlY8Bhcb4Qzfldr1JaexYBgyW3.jpg",
+                "overview": "Quando um homem depara com a sangrenta cena de um crime, uma caminhonete carregada de hero\u00edna e irresist\u00edveis dois milh\u00f5es de d\u00f3lares, sua decis\u00e3o de levar o dinheiro deflagra uma intermin\u00e1vel e violenta rea\u00e7\u00e3o em cadeia, que nem a lei do Oeste do Texas pode deter.",
+                "vote_average": 7.937,
+                "vote_count": 11407
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Diving Bell and the Butterfly",
+            "second_label": "Julian Schnabel",
+            "category": "Directing",
+            "year": 2008,
+            "tmdb": {
+                "id": 2013,
+                "original_title": "Le Scaphandre et le Papillon",
+                "title": "O Escafandro e a Borboleta",
+                "release_date": "2007-05-23",
+                "backdrop_path": "/gs9Z5cPauxH9Gml2kO6oUYwkTgK.jpg",
+                "poster_path": "/lL07UboNRO7XMpCzev3349Ig4ri.jpg",
+                "overview": "Jean-Dominique Bauby (Mathieu Amalric) tem 43 anos, \u00e9 editor da revista Elle e um apaixonado pela vida. Mas, subitamente, tem um derrame cerebral. Vinte dias depois, ele acorda. Ainda est\u00e1 l\u00facido, mas sofre de uma rara paralisia: o \u00fanico movimento que lhe resta no corpo \u00e9 o do olho esquerdo. Bauby se recusa a aceitar seu destino. Aprende a se comunicar piscando letras do alfabeto, e forma palavras, frases e at\u00e9 par\u00e1grafos. Cria um mundo pr\u00f3prio, contando com aquilo que n\u00e3o se paralisou: sua imagina\u00e7\u00e3o e sua mem\u00f3ria.",
+                "vote_average": 7.565,
+                "vote_count": 1114
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Juno",
+            "second_label": "Jason Reitman",
+            "category": "Directing",
+            "year": 2008,
+            "tmdb": {
+                "id": 7326,
+                "original_title": "Juno",
+                "title": "Juno",
+                "release_date": "2007-12-05",
+                "backdrop_path": "/sRXMmeNHTSWRYdDz3zaHNyyPJ0u.jpg",
+                "poster_path": "/jNIn2tVhpvFD6P9IojldI3mNYcn.jpg",
+                "overview": "Diante de uma gravidez n\u00e3o planejada, uma adolescente exc\u00eantrica faz uma decis\u00e3o pouco comum em rela\u00e7\u00e3o ao seu futuro filho.",
+                "vote_average": 7.1,
+                "vote_count": 6914
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Michael Clayton",
+            "second_label": "Tony Gilroy",
+            "category": "Directing",
+            "year": 2008,
+            "tmdb": {
+                "id": 4566,
+                "original_title": "Michael Clayton",
+                "title": "Conduta de Risco",
+                "release_date": "2007-09-28",
+                "backdrop_path": "/qyFg7CkPSsCrYhn1Wy2w3BRpUTy.jpg",
+                "poster_path": "/7LLTInSnQfwmuFhcFzWhFII4Xm1.jpg",
+                "overview": "Michael Clayton (George Clooney) trabalha numa das maiores firmas de advocacia de Nova York, com a fun\u00e7\u00e3o de limpar os erros de seus clientes. Apesar de estar cansado e infeliz com o trabalho, Clayton n\u00e3o tem como deixar o emprego, j\u00e1 que o v\u00edcio no jogo e seu div\u00f3rcio o deixaram repleto de d\u00edvidas. Quando Arthur Evans (Tom Wilkinson), o principal advogado da empresa, sofre um colapso e tenta sabotar todos os casos da U/North, uma empresa que \u00e9 cliente da Kenner, Bach & Ledeen, Clayton \u00e9 enviado para solucionar o problema. \u00c9 quando ele nota a pessoa em que se tornou.",
+                "vote_average": 6.781,
+                "vote_count": 1631
+            },
+            "winner": false
+        },
+        {
+            "first_label": "There Will Be Blood",
+            "second_label": "Paul Thomas Anderson",
+            "category": "Directing",
+            "year": 2008,
+            "tmdb": {
+                "id": 7345,
+                "original_title": "There Will Be Blood",
+                "title": "Sangue Negro",
+                "release_date": "2007-12-26",
+                "backdrop_path": "/8LRcCJjbQI552BMCuGgYqph8USS.jpg",
+                "poster_path": "/cOEbxHAm8CfbpAE9fKv9vTZaWeL.jpg",
+                "overview": "Daniel Plainview e seu filho s\u00e3o ca\u00e7adores de petr\u00f3leo, que perfuram po\u00e7os na Calif\u00f3rnia no in\u00edcio do s\u00e9culo XX. Eles s\u00e3o desafiados por um jovem pastor, Eli Sunday, cuja ambi\u00e7\u00e3o pessoal \u00e9 confrontada por Plainview. A luta entre os dois \u00e9 o centro dessa conflitante, tr\u00e1gica e hist\u00f3rica jornada ao abismo da loucura causada pela corrup\u00e7\u00e3o, fraude e petr\u00f3leo.",
+                "vote_average": 8.081,
+                "vote_count": 6272
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "Taxi to the Dark Side",
+            "second_label": "Alex Gibney and Eva Orner",
+            "category": "Documentary (Feature)",
+            "year": 2008,
+            "tmdb": {
+                "id": 13362,
+                "original_title": "Taxi to the Dark Side",
+                "title": "Um T\u00e1xi para a Escurid\u00e3o",
+                "release_date": "2007-04-30",
+                "backdrop_path": "/huPeSJqMSpVxss67W6wrGilQrgE.jpg",
+                "poster_path": "/ttCOk1fQGvFJvPIJS7D8J2jOjpo.jpg",
+                "overview": "An in-depth look at the torture practices of the United States in Afghanistan, Iraq and Guantanamo Bay, focusing on an innocent taxi driver in Afghanistan who was tortured and killed in 2002.",
+                "vote_average": 7.0,
+                "vote_count": 201
+            },
+            "winner": true
+        },
+        {
+            "first_label": "No End in Sight",
+            "second_label": "Charles Ferguson and Audrey Marrs",
+            "category": "Documentary (Feature)",
+            "year": 2008,
+            "tmdb": {
+                "id": 12901,
+                "original_title": "No End in Sight",
+                "title": "Sem Fim \u00e0 Vista",
+                "release_date": "2007-07-27",
+                "backdrop_path": "/xFZT3PycLvZMM5tOLam4eMQeCy1.jpg",
+                "poster_path": "/6x3RG6cQkhkvj5yRqFKdIWXbxtl.jpg",
+                "overview": "Um olhar cronol\u00f3gico sobre o fiasco no Iraque, especialmente as decis\u00f5es tomadas na primavera de 2003 - e os antecedentes daqueles que tomam decis\u00f5es - imediatamente ap\u00f3s a derrubada de Saddam: nenhum plano de ocupa\u00e7\u00e3o, uma equipe inadequada para governar o pa\u00eds, tropas insuficientes para manter a ordem, e tr\u00eas decretos da Casa Branca anunciados por Bremmer quando assumiu.",
+                "vote_average": 7.7,
+                "vote_count": 76
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Operation Homecoming: Writing the Wartime Experience",
+            "second_label": "Richard E. Robbins",
+            "category": "Documentary (Feature)",
+            "year": 2008,
+            "tmdb": {
+                "id": 34981,
+                "original_title": "Operation Homecoming: Writing the Wartime Experience",
+                "title": "Operation Homecoming: Writing the Wartime Experience",
+                "release_date": "2007-02-09",
+                "backdrop_path": null,
+                "poster_path": "/ma2IvXt9OasT1f9BpVMpONoGEle.jpg",
+                "overview": "A unique documentary about troops' experiences in Iraq and Afghanistan, based on writings by soldiers, Marines, and air men.",
+                "vote_average": 6.9,
+                "vote_count": 9
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sicko",
+            "second_label": "Michael Moore and Meghan O'Hara",
+            "category": "Documentary (Feature)",
+            "year": 2008,
+            "tmdb": {
+                "id": 2359,
+                "original_title": "Sicko",
+                "title": "Sicko: $O$ Sa\u00fade",
+                "release_date": "2007-05-18",
+                "backdrop_path": "/e7BKRLuCH4ig4wyWWHhd037QtNJ.jpg",
+                "poster_path": "/6PROZ74KRaOFbRDACU52NrQRdlv.jpg",
+                "overview": "Um painel do deficiente sistema de sa\u00fade americano. A partir do perfil de cidad\u00e3os comuns, somos levados a entender como milh\u00f5es de vidas s\u00e3o destru\u00eddas por um sistema que, no fim das contas, s\u00f3 beneficia a poucos endinheirados. Ali vale a l\u00f3gica de que, se voc\u00ea quer permanecer saud\u00e1vel nos Estados Unidos, \u00e9 bom n\u00e3o ficar doente. E, depois de examinar como o pa\u00eds chegou a esse estado, o filme visita uma s\u00e9rie de pa\u00edses com sistema de sa\u00fade p\u00fablico e eficiente, como Cuba e Canad\u00e1.",
+                "vote_average": 7.4,
+                "vote_count": 676
+            },
+            "winner": false
+        },
+        {
+            "first_label": "War/Dance",
+            "second_label": "Andrea Nix Fine and Sean Fine",
+            "category": "Documentary (Feature)",
+            "year": 2008,
+            "tmdb": {
+                "id": 16666,
+                "original_title": "War Dance",
+                "title": "War Dance",
+                "release_date": "2007-02-15",
+                "backdrop_path": "/dOsFxHgM5dJiTeVMei2KSQMOYF9.jpg",
+                "poster_path": "/mZxKlZSaL0VvBfmiZX3dv3BKVH5.jpg",
+                "overview": "Three children living in a displacement camp in northern Uganda compete in their country's national music and dance festival.",
+                "vote_average": 7.1,
+                "vote_count": 17
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "Freeheld",
+            "second_label": "Cynthia Wade and Vanessa Roth",
+            "category": "Documentary (Short Subject)",
+            "year": 2008,
+            "tmdb": {
+                "id": 245025,
+                "original_title": "Freeheld",
+                "title": "Freeheld",
+                "release_date": "2007-01-19",
+                "backdrop_path": null,
+                "poster_path": "/yhuJR8gBeoxBXbhsDNhpCfq0cYo.jpg",
+                "overview": "Lieutenant Laurel Hester is dying. All she wants to do is leave her pension benefits to her life partner - Stacie, so Stacie can afford to keep their house. Laurel is told no; they are not husband and wife. After spending a lifetime fighting for justice for other people, Laurel - a veteran New Jersey detective - launches a final battle for justice. Knuckle-biting, dramatic Freeheld chronicles a dying policewoman's bitter fight to provide for the love of her life.",
+                "vote_average": 5.4,
+                "vote_count": 11
+            },
+            "winner": true
+        },
+        {
+            "first_label": "La Corona (The Crown)",
+            "second_label": "Amanda Micheli and Isabel Vega",
+            "category": "Documentary (Short Subject)",
+            "year": 2008,
+            "tmdb": {
+                "id": 486939,
+                "original_title": "The Three Musketeers: Saving the Crown",
+                "title": "The Three Musketeers: Saving the Crown",
+                "release_date": "2007-07-31",
+                "backdrop_path": "/AhAN3GiNaM0ABhKqqTU1aDIvOZW.jpg",
+                "poster_path": "/ocLHz9BMYhhFU2vJkQIDkWVjPwe.jpg",
+                "overview": "The Three Musketeers return in this new swashbuckling CGI-animated, all-animal feature film based on the timeless story by Alexandre Dumas. The story follows the adventures of the brave musketeers, Porthos, Aramis and Athos, and of D'Artagnan who dreams of becoming a Musketeer himself.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Salim Baba",
+            "second_label": "Tim Sternberg and Francisco Bello",
+            "category": "Documentary (Short Subject)",
+            "year": 2008,
+            "tmdb": {
+                "id": 245026,
+                "original_title": "Salim Baba",
+                "title": "Salim Baba",
+                "release_date": "2007-08-09",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "Salim Muhammad is a 55-year-old man who lives in North Kolkata with his wife and five children. Since the age of ten he has made a living using a hand-cranked projector to screen discarded film scraps for the kids in his surrounding neighborhoods.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sari's Mother",
+            "second_label": "James Longley",
+            "category": "Documentary (Short Subject)",
+            "year": 2008,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "The Bourne Ultimatum",
+            "second_label": "Christopher Rouse",
+            "category": "Film Editing",
+            "year": 2008,
+            "tmdb": {
+                "id": 2503,
+                "original_title": "The Bourne Ultimatum",
+                "title": "O Ultimato Bourne",
+                "release_date": "2007-08-03",
+                "backdrop_path": "/qiBILuWhv7ipF0pxiEqIJdkQzj8.jpg",
+                "poster_path": "/27XjtVdi6zbNni68wtmGdlCODCR.jpg",
+                "overview": "Chegou o fim da linha para Jason Bourne. Agora, ele est\u00e1 decidido que nada o deter\u00e1: nem as promessas vazias de seu chefe nem as mortes dos que perseguem incansavelmente. Com nada mais a perder, ele usar\u00e1 toda habilidade que lhe foi ensinada para ir atr\u00e1s de seus criadores e acabar com tudo. Sua busca o levar\u00e1 de Moscou a Paris, Madri, Londres e Tanger, no Marrocos, enganando agentes federais e pol\u00edcias locais numa busca desesperada para encontrar respostas \u00e0s perguntas que o assombram. Acima de tudo, essa jornada de Bourne o levar\u00e1 ao lugar onde tudo come\u00e7ou e onde deve terminar: as ruas da cidade de Nova York.",
+                "vote_average": 7.428,
+                "vote_count": 7342
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Diving Bell and the Butterfly",
+            "second_label": "Juliette Welfling",
+            "category": "Film Editing",
+            "year": 2008,
+            "tmdb": {
+                "id": 2013,
+                "original_title": "Le Scaphandre et le Papillon",
+                "title": "O Escafandro e a Borboleta",
+                "release_date": "2007-05-23",
+                "backdrop_path": "/gs9Z5cPauxH9Gml2kO6oUYwkTgK.jpg",
+                "poster_path": "/lL07UboNRO7XMpCzev3349Ig4ri.jpg",
+                "overview": "Jean-Dominique Bauby (Mathieu Amalric) tem 43 anos, \u00e9 editor da revista Elle e um apaixonado pela vida. Mas, subitamente, tem um derrame cerebral. Vinte dias depois, ele acorda. Ainda est\u00e1 l\u00facido, mas sofre de uma rara paralisia: o \u00fanico movimento que lhe resta no corpo \u00e9 o do olho esquerdo. Bauby se recusa a aceitar seu destino. Aprende a se comunicar piscando letras do alfabeto, e forma palavras, frases e at\u00e9 par\u00e1grafos. Cria um mundo pr\u00f3prio, contando com aquilo que n\u00e3o se paralisou: sua imagina\u00e7\u00e3o e sua mem\u00f3ria.",
+                "vote_average": 7.565,
+                "vote_count": 1114
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Into the Wild",
+            "second_label": "Jay Cassidy",
+            "category": "Film Editing",
+            "year": 2008,
+            "tmdb": {
+                "id": 5915,
+                "original_title": "Into the Wild",
+                "title": "Na Natureza Selvagem",
+                "release_date": "2007-09-21",
+                "backdrop_path": "/mvyERNa0oNsBjbHqn5qSGMHk2FM.jpg",
+                "poster_path": "/bv2od9QMVaojT9lI02Uk47Z40Ue.jpg",
+                "overview": "In\u00edcio da d\u00e9cada de 90. Christopher McCandless \u00e9 um jovem rec\u00e9m-formado, que decide viajar sem rumo pelos Estados Unidos em busca da liberdade. Durante sua jornada pela Dakota do Sul, Arizona e Calif\u00f3rnia ele conhece pessoas que mudam sua vida, assim como sua presen\u00e7a tamb\u00e9m modifica as delas. At\u00e9 que, ap\u00f3s dois anos na estrada, Christopher decide fazer a maior das viagens e partir rumo ao Alasca.",
+                "vote_average": 7.806,
+                "vote_count": 9251
+            },
+            "winner": false
+        },
+        {
+            "first_label": "No Country for Old Men",
+            "second_label": "Roderick Jaynes",
+            "category": "Film Editing",
+            "year": 2008,
+            "tmdb": {
+                "id": 6977,
+                "original_title": "No Country for Old Men",
+                "title": "Onde os Fracos N\u00e3o T\u00eam Vez",
+                "release_date": "2007-06-13",
+                "backdrop_path": "/kd9jFTTabg4xJpHDgxY0h8F9BzG.jpg",
+                "poster_path": "/jdlY8Bhcb4Qzfldr1JaexYBgyW3.jpg",
+                "overview": "Quando um homem depara com a sangrenta cena de um crime, uma caminhonete carregada de hero\u00edna e irresist\u00edveis dois milh\u00f5es de d\u00f3lares, sua decis\u00e3o de levar o dinheiro deflagra uma intermin\u00e1vel e violenta rea\u00e7\u00e3o em cadeia, que nem a lei do Oeste do Texas pode deter.",
+                "vote_average": 7.937,
+                "vote_count": 11407
+            },
+            "winner": false
+        },
+        {
+            "first_label": "There Will Be Blood",
+            "second_label": "Dylan Tichenor",
+            "category": "Film Editing",
+            "year": 2008,
+            "tmdb": {
+                "id": 7345,
+                "original_title": "There Will Be Blood",
+                "title": "Sangue Negro",
+                "release_date": "2007-12-26",
+                "backdrop_path": "/8LRcCJjbQI552BMCuGgYqph8USS.jpg",
+                "poster_path": "/cOEbxHAm8CfbpAE9fKv9vTZaWeL.jpg",
+                "overview": "Daniel Plainview e seu filho s\u00e3o ca\u00e7adores de petr\u00f3leo, que perfuram po\u00e7os na Calif\u00f3rnia no in\u00edcio do s\u00e9culo XX. Eles s\u00e3o desafiados por um jovem pastor, Eli Sunday, cuja ambi\u00e7\u00e3o pessoal \u00e9 confrontada por Plainview. A luta entre os dois \u00e9 o centro dessa conflitante, tr\u00e1gica e hist\u00f3rica jornada ao abismo da loucura causada pela corrup\u00e7\u00e3o, fraude e petr\u00f3leo.",
+                "vote_average": 8.081,
+                "vote_count": 6272
+            },
+            "winner": false
+        }
+    ],
+    "Foreign Language Film": [
+        {
+            "first_label": "The Counterfeiters",
+            "second_label": "Austria",
+            "category": "Foreign Language Film",
+            "year": 2008,
+            "tmdb": {
+                "id": 7862,
+                "original_title": "Die F\u00e4lscher",
+                "title": "Os Fals\u00e1rios",
+                "release_date": "2007-03-22",
+                "backdrop_path": "/raoAycmSG2BDI3ttsQtM7MgyAbo.jpg",
+                "poster_path": "/8U1kGOVBcdiBSgNz5a63VfSzgbV.jpg",
+                "overview": "Ap\u00f3s ser preso e levado a um campo de concentra\u00e7\u00e3o, Salomon Sorowitsch (Karl Markovics) concorda em ajudar os nazistas em uma opera\u00e7\u00e3o de falsifica\u00e7\u00e3o criada para financiar os esfor\u00e7os de guerra. Neste processo mais de 130 milh\u00f5es de libras esterlinas foram impressas. Como o Reich sabia que o fim da guerra estava pr\u00f3ximo, ordenou que fossem impressas notas na moeda dos inimigos da Alemanha. A inten\u00e7\u00e3o era que esta atitude minasse a economia dos pa\u00edses e, ao mesmo tempo, ajudasse os cofres alem\u00e3es. Tratava-se da Opera\u00e7\u00e3o Bernhard, que contou com a participa\u00e7\u00e3o de prisioneiros de diversos campos de concentra\u00e7\u00e3o.",
+                "vote_average": 7.4,
+                "vote_count": 579
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Beaufort",
+            "second_label": "Israel",
+            "category": "Foreign Language Film",
+            "year": 2008,
+            "tmdb": {
+                "id": 15048,
+                "original_title": "\u05d1\u05d5\u05e4\u05d5\u05e8",
+                "title": "Beaufort",
+                "release_date": "2007-02-02",
+                "backdrop_path": "/7XT0zen1yvvSaUxecn4Tv5A3dSL.jpg",
+                "poster_path": "/qHE7j4HPg0QUD0OFG8x6fKEa6a2.jpg",
+                "overview": "BEAUFORT tells the story of LIRAZ LIBERTI, the 22 year-old outpost commander, and his troops in the months before Israel pulled out of Lebanon. This is not a story of war, but of retreat. This is a story with no enemy, only an amorphous entity that drops bombs from the skies while terrified young soldiers must find a way to carry out their mission until their very last minutes on that mountaintop.",
+                "vote_average": 6.5,
+                "vote_count": 38
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Katyn",
+            "second_label": "Poland",
+            "category": "Foreign Language Film",
+            "year": 2008,
+            "tmdb": {
+                "id": 13614,
+                "original_title": "Katy\u0144",
+                "title": "Katyn",
+                "release_date": "2007-09-21",
+                "backdrop_path": "/8nDDWPMB6odNmWpKy0VQaiXyxMY.jpg",
+                "poster_path": "/vfRDVMb9MBNFCxXhXRxKCLUujfF.jpg",
+                "overview": "O polon\u00eas Andrzej Wajda descreve o famoso e triste massacre de Katyn. Meses depois da invas\u00e3o nazista na Pol\u00f4nia, em 1939, aproximadamente 22 mil prisioneiros de guerra poloneses s\u00e3o mortos pela pol\u00edcia secreta sovi\u00e9tica nas florestas da cidade de Katyn.",
+                "vote_average": 6.7,
+                "vote_count": 223
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mongol",
+            "second_label": "Kazakhstan",
+            "category": "Foreign Language Film",
+            "year": 2008,
+            "tmdb": {
+                "id": 12246,
+                "original_title": "\u041c\u043e\u043d\u0433\u043e\u043b",
+                "title": "O Guerreiro Genghis Khan",
+                "release_date": "2007-09-20",
+                "backdrop_path": "/v04K1SN1HAUpxolz6Uu3V26lSLB.jpg",
+                "poster_path": "/14GHLlqITxqhbCSot7KWpaG2ltN.jpg",
+                "overview": "Reconstitui\u00e7\u00e3o dos primeiros anos de vida de Genghis Khan, que ainda muito cedo foi escravo antes de se tornar um dos maiores conquistadores de todos os tempos. Ele chegou a dominar metade do mundo conhecido at\u00e9 ent\u00e3o, incluindo a R\u00fassia no ano de 1206.",
+                "vote_average": 6.8,
+                "vote_count": 634
+            },
+            "winner": false
+        },
+        {
+            "first_label": "12",
+            "second_label": "Russia",
+            "category": "Foreign Language Film",
+            "year": 2008,
+            "tmdb": {
+                "id": 20714,
+                "original_title": "12",
+                "title": "12",
+                "release_date": "2007-06-06",
+                "backdrop_path": "/fiRs0tMsgYoOg8EVOvzjTFghfTN.jpg",
+                "poster_path": "/7bl0aH8u7oBcd4QK9Fml01IN8KU.jpg",
+                "overview": "Remake russo de \u201c12 Angry Men\u201d.\r \u201c12\u201d se passa na Moscou contempor\u00e2nea, onde 12 homens muito diferentes devem decidir por unanimidade o destino de um jovem checheno acusado de assassinar seu padrasto, um oficial do ex\u00e9rcito russo.  Consignados a uma sala de j\u00fari improvisada no gin\u00e1sio de uma escola, um por um, cada homem assume o centro do palco para confrontar, conectar-se e confessar enquanto o acusado aguarda um veredito e revisita sua dolorosa jornada pela guerra em flashbacks.",
+                "vote_average": 6.7,
+                "vote_count": 345
+            },
+            "winner": false
+        }
+    ],
+    "Makeup": [
+        {
+            "first_label": "La Vie en Rose",
+            "second_label": "Didier Lavergne and Jan Archibald",
+            "category": "Makeup",
+            "year": 2008,
+            "tmdb": {
+                "id": 1407,
+                "original_title": "La M\u00f4me",
+                "title": "Piaf: Um Hino ao Amor",
+                "release_date": "2007-02-14",
+                "backdrop_path": "/xaaZCEvqRcauCOWVKZxDvZR7MVG.jpg",
+                "poster_path": "/flWWczb3NFUroYxKr3zQ6BlSZB4.jpg",
+                "overview": "A vida de Edith Piaf foi sempre uma batalha. Abandonada pela m\u00e3e, foi criada pela av\u00f3, dona de um bordel na Normandia. Dos 3 aos 7 anos de idade fica cega, recuperando-se milagrosamente. Mais tarde vive com o pai alco\u00f3latra, a quem abandona aos 15 anos para cantar nas ruas de Paris. Em 1935 \u00e9 descoberta por um dono de boate e neste mesmo ano grava seu primeiro disco. A vida sofrida \u00e9 coroada com o sucesso internacional. Fama, dinheiro, amizades, mas tamb\u00e9m a constante vigil\u00e2ncia da opini\u00e3o p\u00fablica.",
+                "vote_average": 7.4,
+                "vote_count": 1518
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Norbit",
+            "second_label": "Rick Baker and Kazuhiro Tsuji",
+            "category": "Makeup",
+            "year": 2008,
+            "tmdb": {
+                "id": 9757,
+                "original_title": "Norbit",
+                "title": "Norbit - Uma com\u00e9dia de peso",
+                "release_date": "2007-02-08",
+                "backdrop_path": "/o8JAeCIyEiiNgjzZOyshiVrHrW9.jpg",
+                "poster_path": "/sExfA7YUSXQJRGmOZ9v52lxd16I.jpg",
+                "overview": "Norbit foi criado pelo sr. Wong, que o encontrou ainda beb\u00ea no Restaurante e Orfanato Wonton Dourado. Foi neste local que ele conheceu sua alma g\u00eamea, Kate. Eles se tornam amigos insepar\u00e1veis, at\u00e9 ela ser adotada e deixar o local. Aos 9 anos, Norbit \u00e9 amea\u00e7ado por tr\u00eas garotos da escola mas \u00e9 salvo por Rasputia (Eddie Murphy), uma robusta garota de 10 anos. Os dois crescem, namoram e se casam. Juntamente com seus irm\u00e3os Jack Grand\u00e3o, Azul\u00e3o e Earl, Rasputia administra a Construtora Latimore. Norbit \u00e9 empregado da empresa, sendo sempre ridicularizado pelos cunhados. A vida de Norbit n\u00e3o anda nada bem, mas ela muda ap\u00f3s reencontrar Kate, que decide comprar o antigo orfanato do sr. Wong. Por\u00e9m o que Kate n\u00e3o sabe \u00e9 que seu noivo, Deion, planeja transformar o local em um bar de strip-tease, contando com a ajuda dos irm\u00e3os de Rasputia. Reanimado por ter reencontrado Kate, Norbit ganha confian\u00e7a e, aos poucos, passa a enfrentar a esposa e sua fam\u00edlia.",
+                "vote_average": 5.6,
+                "vote_count": 2216
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Pirates of the Caribbean: At World's End",
+            "second_label": "Ve Neill and Martin Samuel",
+            "category": "Makeup",
+            "year": 2008,
+            "tmdb": {
+                "id": 285,
+                "original_title": "Pirates of the Caribbean: At World's End",
+                "title": "Piratas do Caribe: No Fim do Mundo",
+                "release_date": "2007-05-19",
+                "backdrop_path": "/kPcHuPYqzkSo4bmPHtH82GaeEgX.jpg",
+                "poster_path": "/2vgdFnsThB3acNVSUN9TzpUwLg5.jpg",
+                "overview": "Will Turner e Elizabeth Swann unem for\u00e7as com o Capit\u00e3o Barbossa para libertarem Jack Sparrow da pris\u00e3o de Davy Jones. Enquanto isso, a tripula\u00e7\u00e3o do barco fantasma O Holand\u00eas Voador causa estragos nos Sete Mares. Os amigos devem navegar atrav\u00e9s de \u00e1guas perigosas para enfrentarem o pirata chin\u00eas S\u00e3o Feng e, finalmente, eles devem escolher em que lado ficar na batalha, pois a vida do pirata est\u00e1 em jogo.",
+                "vote_average": 7.252,
+                "vote_count": 13765
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Score)": [
+        {
+            "first_label": "Atonement",
+            "second_label": "Dario Marianelli",
+            "category": "Music (Original Score)",
+            "year": 2008,
+            "tmdb": {
+                "id": 4347,
+                "original_title": "Atonement",
+                "title": "Desejo e Repara\u00e7\u00e3o",
+                "release_date": "2007-09-07",
+                "backdrop_path": "/sCDWoyRutBPVHzVGB2nmXE8oxaX.jpg",
+                "poster_path": "/sFIHg2JAyOe6ua0WM2IvcVplrZj.jpg",
+                "overview": "Em 1935, no dia mais quente do ano na Inglaterra, Briony Talles e sua fam\u00edlia se re\u00fanem num fim de semana na mans\u00e3o familiar. O momento pol\u00edtico \u00e9 de tens\u00e3o, por conta da 2\u00aa Guerra Mundial. Em meio ao calor opressivo emergem antigos ressentimentos familiares. Cinco anos antes, Briony, ent\u00e3o aos 13 anos, usa sua imagina\u00e7\u00e3o de escritora principiante para acusar Robbie Turner, o filho do caseiro e amante da sua irm\u00e3 mais velha Cec\u00edlia, de um crime que ele n\u00e3o cometeu. A acusa\u00e7\u00e3o na \u00e9poca destruiu o amor da irm\u00e3 e alterou de forma dram\u00e1tica v\u00e1rias vidas.",
+                "vote_average": 7.65,
+                "vote_count": 3997
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Kite Runner",
+            "second_label": "Alberto Iglesias",
+            "category": "Music (Original Score)",
+            "year": 2008,
+            "tmdb": {
+                "id": 7979,
+                "original_title": "The Kite Runner",
+                "title": "O Ca\u00e7ador de Pipas",
+                "release_date": "2007-12-14",
+                "backdrop_path": "/mN8L1gYgbLZW88jwj3ok2WO4UvE.jpg",
+                "poster_path": "/5fvAaNAGh2nKDNJIKDJlplp1xty.jpg",
+                "overview": "Kabul. Amir e Hassan s\u00e3o dois amigos, que se divertem em um torneio de pipas. Ap\u00f3s a vit\u00f3ria neste dia um ato de trai\u00e7\u00e3o de um menino marcar\u00e1 para sempre a vida de ambos. Amir passa a viver nos Estados Unidos, retornando ao Afeganist\u00e3o apenas ap\u00f3s 20 anos. \u00c9 quando ele enfrenta a m\u00e3o de ferro do governo talib\u00e3 para tentar consertar o ocorrido em seu passado.",
+                "vote_average": 7.323,
+                "vote_count": 1098
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Michael Clayton",
+            "second_label": "James Newton Howard",
+            "category": "Music (Original Score)",
+            "year": 2008,
+            "tmdb": {
+                "id": 4566,
+                "original_title": "Michael Clayton",
+                "title": "Conduta de Risco",
+                "release_date": "2007-09-28",
+                "backdrop_path": "/qyFg7CkPSsCrYhn1Wy2w3BRpUTy.jpg",
+                "poster_path": "/7LLTInSnQfwmuFhcFzWhFII4Xm1.jpg",
+                "overview": "Michael Clayton (George Clooney) trabalha numa das maiores firmas de advocacia de Nova York, com a fun\u00e7\u00e3o de limpar os erros de seus clientes. Apesar de estar cansado e infeliz com o trabalho, Clayton n\u00e3o tem como deixar o emprego, j\u00e1 que o v\u00edcio no jogo e seu div\u00f3rcio o deixaram repleto de d\u00edvidas. Quando Arthur Evans (Tom Wilkinson), o principal advogado da empresa, sofre um colapso e tenta sabotar todos os casos da U/North, uma empresa que \u00e9 cliente da Kenner, Bach & Ledeen, Clayton \u00e9 enviado para solucionar o problema. \u00c9 quando ele nota a pessoa em que se tornou.",
+                "vote_average": 6.781,
+                "vote_count": 1631
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ratatouille",
+            "second_label": "Michael Giacchino",
+            "category": "Music (Original Score)",
+            "year": 2008,
+            "tmdb": {
+                "id": 2062,
+                "original_title": "Ratatouille",
+                "title": "Ratatouille",
+                "release_date": "2007-06-28",
+                "backdrop_path": "/xgDj56UWyeWQcxQ44f5A3RTWuSs.jpg",
+                "poster_path": "/lpyqGZXjaPpr2dzkD9XD5DUGMkN.jpg",
+                "overview": "Um rato que sabe cozinhar faz uma alian\u00e7a incomum com um jovem trabalhador de cozinha em um restaurante famoso.",
+                "vote_average": 7.818,
+                "vote_count": 16311
+            },
+            "winner": false
+        },
+        {
+            "first_label": "3:10 to Yuma",
+            "second_label": "Marco Beltrami",
+            "category": "Music (Original Score)",
+            "year": 2008,
+            "tmdb": {
+                "id": 5176,
+                "original_title": "3:10 to Yuma",
+                "title": "Os Indom\u00e1veis",
+                "release_date": "2007-09-06",
+                "backdrop_path": "/2eznGndOi8s9CGReAvcQ8PEULwm.jpg",
+                "poster_path": "/emXjVhz8LL4ZWahmUsk6YSg5wcU.jpg",
+                "overview": "Dan Evans \u00e9 um jovem rancheiro, que enfrenta dificuldades financeiras e est\u00e1 prestes a perder as terras onde vive com sua fam\u00edlia. Ap\u00f3s realizar mais um assalto a dilig\u00eancia, o perigoso Ben Wade segue para uma pequena cidade do velho oeste. L\u00e1 ele \u00e9 preso e logo \u00e9 organizado um grupo para lev\u00e1-lo at\u00e9 uma cidade distante, onde poder\u00e1 ser enviado \u00e0 pris\u00e3o de Yuma atrav\u00e9s de um trem. Evans se oferece para integrar o grupo, desde que receba uma recompensa financeira que resolva seus problemas. A proposta \u00e9 aceita, mas fazer com que Wade embarque no trem n\u00e3o ser\u00e1 uma tarefa f\u00e1cil, j\u00e1 que os demais integrantes de seu bando est\u00e3o vindo em seu resgate.",
+                "vote_average": 7.2,
+                "vote_count": 3398
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Song)": [
+        {
+            "first_label": "Once",
+            "second_label": "Falling Slowly in \"Once\" Music and Lyric by Glen Hansard and Marketa Irglova",
+            "category": "Music (Original Song)",
+            "year": 2008,
+            "tmdb": {
+                "id": 5723,
+                "original_title": "Once",
+                "title": "Apenas Uma Vez",
+                "release_date": "2007-03-23",
+                "backdrop_path": "/p1XSyBriqz7oBWoVcRqYlB6Kve3.jpg",
+                "poster_path": "/5ZDrayRg7RGcJvsJJOOzKaJ6rKQ.jpg",
+                "overview": "Um m\u00fasico de rua conhece uma jovem que tamb\u00e9m se interessa por m\u00fasica e os dois, aos poucos, come\u00e7am a construir uma forte liga\u00e7\u00e3o.",
+                "vote_average": 7.4,
+                "vote_count": 1244
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Enchanted",
+            "second_label": "Happy Working Song in \"Enchanted\" Music by Alan Menken; Lyric by Stephen Schwartz",
+            "category": "Music (Original Song)",
+            "year": 2008,
+            "tmdb": {
+                "id": 4523,
+                "original_title": "Enchanted",
+                "title": "Encantada",
+                "release_date": "2007-11-20",
+                "backdrop_path": "/dOeaWGpouIaONuhRKOj2SrTEWe7.jpg",
+                "poster_path": "/dv3I9Zhn6Y1CGDyyrNEX9KFFdXR.jpg",
+                "overview": "Giselle \u00e9 uma bela princesa que foi recentemente banida por uma rainha malvada de seu mundo m\u00e1gico e musical. Com isso ela agora est\u00e1 na Manhattan dos dias atuais, um local completamente diferente de onde vivia. Logo ela recebe a ajuda de Robert, um advogado divorciado por quem se apaixona. S\u00f3 que Giselle j\u00e1 est\u00e1 prometida em casamento para o pr\u00edncipe Edward, que decide tamb\u00e9m deixar o mundo m\u00e1gico para reencontrar sua amada.",
+                "vote_average": 6.816,
+                "vote_count": 5217
+            },
+            "winner": false
+        },
+        {
+            "first_label": "August Rush",
+            "second_label": "Raise It Up in \"August Rush\" Music and Lyric by Jamal Joseph, Charles Mack and Tevin Thomas",
+            "category": "Music (Original Song)",
+            "year": 2008,
+            "tmdb": {
+                "id": 5123,
+                "original_title": "August Rush",
+                "title": "O Som do Cora\u00e7\u00e3o",
+                "release_date": "2007-11-21",
+                "backdrop_path": "/3hU0tavXwvqydaoV728O6NbNiLP.jpg",
+                "poster_path": "/r9QmZp0oOGS7ouyLoJIc3J91njP.jpg",
+                "overview": "August Rush (Freddie Highmore) \u00e9 resultado do encontro casual entre um guitarrista e uma violoncelista. Crescido em orfanato e dotado de um dom musical impressionante, ele se apresenta nas ruas de Nova York ao lado do divertido Wizard (Robin Williams). Contando apenas com seu talento musical, August decide us\u00e1-lo para tentar reencontrar seus pais.",
+                "vote_average": 7.399,
+                "vote_count": 2580
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Enchanted",
+            "second_label": "So Close in \"Enchanted\" Music by Alan Menken; Lyric by Stephen Schwartz",
+            "category": "Music (Original Song)",
+            "year": 2008,
+            "tmdb": {
+                "id": 4523,
+                "original_title": "Enchanted",
+                "title": "Encantada",
+                "release_date": "2007-11-20",
+                "backdrop_path": "/dOeaWGpouIaONuhRKOj2SrTEWe7.jpg",
+                "poster_path": "/dv3I9Zhn6Y1CGDyyrNEX9KFFdXR.jpg",
+                "overview": "Giselle \u00e9 uma bela princesa que foi recentemente banida por uma rainha malvada de seu mundo m\u00e1gico e musical. Com isso ela agora est\u00e1 na Manhattan dos dias atuais, um local completamente diferente de onde vivia. Logo ela recebe a ajuda de Robert, um advogado divorciado por quem se apaixona. S\u00f3 que Giselle j\u00e1 est\u00e1 prometida em casamento para o pr\u00edncipe Edward, que decide tamb\u00e9m deixar o mundo m\u00e1gico para reencontrar sua amada.",
+                "vote_average": 6.816,
+                "vote_count": 5217
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Enchanted",
+            "second_label": "That's How You Know in \"Enchanted\" Music by Alan Menken; Lyric by Stephen Schwartz",
+            "category": "Music (Original Song)",
+            "year": 2008,
+            "tmdb": {
+                "id": 4523,
+                "original_title": "Enchanted",
+                "title": "Encantada",
+                "release_date": "2007-11-20",
+                "backdrop_path": "/dOeaWGpouIaONuhRKOj2SrTEWe7.jpg",
+                "poster_path": "/dv3I9Zhn6Y1CGDyyrNEX9KFFdXR.jpg",
+                "overview": "Giselle \u00e9 uma bela princesa que foi recentemente banida por uma rainha malvada de seu mundo m\u00e1gico e musical. Com isso ela agora est\u00e1 na Manhattan dos dias atuais, um local completamente diferente de onde vivia. Logo ela recebe a ajuda de Robert, um advogado divorciado por quem se apaixona. S\u00f3 que Giselle j\u00e1 est\u00e1 prometida em casamento para o pr\u00edncipe Edward, que decide tamb\u00e9m deixar o mundo m\u00e1gico para reencontrar sua amada.",
+                "vote_average": 6.816,
+                "vote_count": 5217
+            },
+            "winner": false
+        }
+    ],
+    "Best Picture": [
+        {
+            "first_label": "No Country for Old Men",
+            "second_label": "Scott Rudin, Ethan Coen and Joel Coen, Producers",
+            "category": "Best Picture",
+            "year": 2008,
+            "tmdb": {
+                "id": 6977,
+                "original_title": "No Country for Old Men",
+                "title": "Onde os Fracos N\u00e3o T\u00eam Vez",
+                "release_date": "2007-06-13",
+                "backdrop_path": "/kd9jFTTabg4xJpHDgxY0h8F9BzG.jpg",
+                "poster_path": "/jdlY8Bhcb4Qzfldr1JaexYBgyW3.jpg",
+                "overview": "Quando um homem depara com a sangrenta cena de um crime, uma caminhonete carregada de hero\u00edna e irresist\u00edveis dois milh\u00f5es de d\u00f3lares, sua decis\u00e3o de levar o dinheiro deflagra uma intermin\u00e1vel e violenta rea\u00e7\u00e3o em cadeia, que nem a lei do Oeste do Texas pode deter.",
+                "vote_average": 7.937,
+                "vote_count": 11407
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Atonement",
+            "second_label": "Tim Bevan, Eric Fellner and Paul Webster, Producers",
+            "category": "Best Picture",
+            "year": 2008,
+            "tmdb": {
+                "id": 4347,
+                "original_title": "Atonement",
+                "title": "Desejo e Repara\u00e7\u00e3o",
+                "release_date": "2007-09-07",
+                "backdrop_path": "/sCDWoyRutBPVHzVGB2nmXE8oxaX.jpg",
+                "poster_path": "/sFIHg2JAyOe6ua0WM2IvcVplrZj.jpg",
+                "overview": "Em 1935, no dia mais quente do ano na Inglaterra, Briony Talles e sua fam\u00edlia se re\u00fanem num fim de semana na mans\u00e3o familiar. O momento pol\u00edtico \u00e9 de tens\u00e3o, por conta da 2\u00aa Guerra Mundial. Em meio ao calor opressivo emergem antigos ressentimentos familiares. Cinco anos antes, Briony, ent\u00e3o aos 13 anos, usa sua imagina\u00e7\u00e3o de escritora principiante para acusar Robbie Turner, o filho do caseiro e amante da sua irm\u00e3 mais velha Cec\u00edlia, de um crime que ele n\u00e3o cometeu. A acusa\u00e7\u00e3o na \u00e9poca destruiu o amor da irm\u00e3 e alterou de forma dram\u00e1tica v\u00e1rias vidas.",
+                "vote_average": 7.65,
+                "vote_count": 3997
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Juno",
+            "second_label": "Lianne Halfon, Mason Novick and Russell Smith, Producers",
+            "category": "Best Picture",
+            "year": 2008,
+            "tmdb": {
+                "id": 7326,
+                "original_title": "Juno",
+                "title": "Juno",
+                "release_date": "2007-12-05",
+                "backdrop_path": "/sRXMmeNHTSWRYdDz3zaHNyyPJ0u.jpg",
+                "poster_path": "/jNIn2tVhpvFD6P9IojldI3mNYcn.jpg",
+                "overview": "Diante de uma gravidez n\u00e3o planejada, uma adolescente exc\u00eantrica faz uma decis\u00e3o pouco comum em rela\u00e7\u00e3o ao seu futuro filho.",
+                "vote_average": 7.1,
+                "vote_count": 6914
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Michael Clayton",
+            "second_label": "Sydney Pollack, Jennifer Fox and Kerry Orent, Producers",
+            "category": "Best Picture",
+            "year": 2008,
+            "tmdb": {
+                "id": 4566,
+                "original_title": "Michael Clayton",
+                "title": "Conduta de Risco",
+                "release_date": "2007-09-28",
+                "backdrop_path": "/qyFg7CkPSsCrYhn1Wy2w3BRpUTy.jpg",
+                "poster_path": "/7LLTInSnQfwmuFhcFzWhFII4Xm1.jpg",
+                "overview": "Michael Clayton (George Clooney) trabalha numa das maiores firmas de advocacia de Nova York, com a fun\u00e7\u00e3o de limpar os erros de seus clientes. Apesar de estar cansado e infeliz com o trabalho, Clayton n\u00e3o tem como deixar o emprego, j\u00e1 que o v\u00edcio no jogo e seu div\u00f3rcio o deixaram repleto de d\u00edvidas. Quando Arthur Evans (Tom Wilkinson), o principal advogado da empresa, sofre um colapso e tenta sabotar todos os casos da U/North, uma empresa que \u00e9 cliente da Kenner, Bach & Ledeen, Clayton \u00e9 enviado para solucionar o problema. \u00c9 quando ele nota a pessoa em que se tornou.",
+                "vote_average": 6.781,
+                "vote_count": 1631
+            },
+            "winner": false
+        },
+        {
+            "first_label": "There Will Be Blood",
+            "second_label": "JoAnne Sellar, Paul Thomas Anderson and Daniel Lupi, Producers",
+            "category": "Best Picture",
+            "year": 2008,
+            "tmdb": {
+                "id": 7345,
+                "original_title": "There Will Be Blood",
+                "title": "Sangue Negro",
+                "release_date": "2007-12-26",
+                "backdrop_path": "/8LRcCJjbQI552BMCuGgYqph8USS.jpg",
+                "poster_path": "/cOEbxHAm8CfbpAE9fKv9vTZaWeL.jpg",
+                "overview": "Daniel Plainview e seu filho s\u00e3o ca\u00e7adores de petr\u00f3leo, que perfuram po\u00e7os na Calif\u00f3rnia no in\u00edcio do s\u00e9culo XX. Eles s\u00e3o desafiados por um jovem pastor, Eli Sunday, cuja ambi\u00e7\u00e3o pessoal \u00e9 confrontada por Plainview. A luta entre os dois \u00e9 o centro dessa conflitante, tr\u00e1gica e hist\u00f3rica jornada ao abismo da loucura causada pela corrup\u00e7\u00e3o, fraude e petr\u00f3leo.",
+                "vote_average": 8.081,
+                "vote_count": 6272
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Animated)": [
+        {
+            "first_label": "Peter & the Wolf",
+            "second_label": "Suzie Templeton and Hugh Welchman",
+            "category": "Short Film (Animated)",
+            "year": 2008,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "I Met the Walrus",
+            "second_label": "Josh Raskin",
+            "category": "Short Film (Animated)",
+            "year": 2008,
+            "tmdb": {
+                "id": 159145,
+                "original_title": "I Met the Walrus",
+                "title": "I Met the Walrus",
+                "release_date": "2007-06-13",
+                "backdrop_path": "/4lGA9PvVKFjwhUl2YgFXw31BGCb.jpg",
+                "poster_path": "/j0pawYsvCvIMNRo6801H61ZvAOL.jpg",
+                "overview": "The film is based on an interview of John Lennon by Jerry Levitan in 1969. Levitan, then 14 years old, tracked Lennon to his hotel room at Toronto's King Edward Hotel after hearing a rumour that Lennon had been sighted at the Toronto Airport. Jerry made his way into John Lennon's suite and persuaded John to agree to an interview. The animation is based on Levitan's historic 30 minute recording of the interview, which was edited down to 5 minutes.",
+                "vote_average": 6.9,
+                "vote_count": 22
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Madame Tutli-Putli",
+            "second_label": "Chris Lavis and Maciek Szczerbowski",
+            "category": "Short Film (Animated)",
+            "year": 2008,
+            "tmdb": {
+                "id": 35253,
+                "original_title": "Madame Tutli-Putli",
+                "title": "Madame Tutli-Putli",
+                "release_date": "2007-05-19",
+                "backdrop_path": "/mpFAJWuV7wgkzkSzhDA6W19AHyD.jpg",
+                "poster_path": "/lLEvanzHSpvbTpKpTfKuGAUOl91.jpg",
+                "overview": "Exausta e profundamente melanc\u00f3lica, a anacr\u00f4nica Madame Tutli-Putli quer embarcar em um trem. E, rodeada de pertences pessoais de uma vida, ela espera pacientemente. Ela est\u00e1 fugindo de seu passado?",
+                "vote_average": 6.9,
+                "vote_count": 68
+            },
+            "winner": false
+        },
+        {
+            "first_label": "",
+            "second_label": "Samuel Tourneux and Simon Vanesse",
+            "category": "Short Film (Animated)",
+            "year": 2008,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "My Love (Moya Lyubov)",
+            "second_label": "Alexander Petrov",
+            "category": "Short Film (Animated)",
+            "year": 2008,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Live Action)": [
+        {
+            "first_label": "Le Mozart des Pickpockets (The Mozart of Pickpockets)",
+            "second_label": "Philippe Pollet-Villard",
+            "category": "Short Film (Live Action)",
+            "year": 2008,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "At Night",
+            "second_label": "Christian E. Christiansen and Louise Vesth",
+            "category": "Short Film (Live Action)",
+            "year": 2008,
+            "tmdb": {
+                "id": 1593,
+                "original_title": "Night at the Museum",
+                "title": "Uma Noite no Museu",
+                "release_date": "2006-12-20",
+                "backdrop_path": "/rwcPe582tfTSVLwQzbO25InW3Hi.jpg",
+                "poster_path": "/4b7dG2IHcu4s9BoAqXIMrzf832H.jpg",
+                "overview": "Quando Larry Daley \u00e9 contratado como guarda noturno no museu, ele logo descobre que todos os seres do museu ganham vida ap\u00f3s o p\u00f4r-do-sol. Logo de cara, Larry se v\u00ea frente a frente com um brincalh\u00e3o esqueleto de T. Rex, mas tamb\u00e9m \u00e9 cercado por ex\u00e9rcitos de min\u00fasculos soldados romanos e por caub\u00f3is armados. Para completar, h\u00e1 um macaquinho endiabrado que o deixa maluco! Mas talvez ele consiga descobrir um modo de controlar o caos e tornar-se um her\u00f3i aos olhos de seu filho.",
+                "vote_average": 6.58,
+                "vote_count": 9829
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Il Supplente (The Substitute)",
+            "second_label": "Andrea Jublin",
+            "category": "Short Film (Live Action)",
+            "year": 2008,
+            "tmdb": {
+                "id": 245023,
+                "original_title": "Il Supplente",
+                "title": "The Substitute",
+                "release_date": "2007-01-01",
+                "backdrop_path": null,
+                "poster_path": "/oLgIuXSDlhecGOlPuj2QG4iwcIS.jpg",
+                "overview": "Il Supplente is a 2007 Italian comedy short film directed by and starring Andrea Jublin. He plays a substitute teacher who seems to be more hormonal than his teenage class and instigates a series of crazy games in which students are marked on their ability to mimic animals. The film was nominated for an Oscar for Best Live Action Short Film.",
+                "vote_average": 6.2,
+                "vote_count": 14
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tanghi Argentini",
+            "second_label": "Guido Thys and Anja Daelemans",
+            "category": "Short Film (Live Action)",
+            "year": 2008,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Tonto Woman",
+            "second_label": "Daniel Barber and Matthew Brown",
+            "category": "Short Film (Live Action)",
+            "year": 2008,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Sound Editing": [
+        {
+            "first_label": "The Bourne Ultimatum",
+            "second_label": "Karen Baker Landers and Per Hallberg",
+            "category": "Sound Editing",
+            "year": 2008,
+            "tmdb": {
+                "id": 2503,
+                "original_title": "The Bourne Ultimatum",
+                "title": "O Ultimato Bourne",
+                "release_date": "2007-08-03",
+                "backdrop_path": "/qiBILuWhv7ipF0pxiEqIJdkQzj8.jpg",
+                "poster_path": "/27XjtVdi6zbNni68wtmGdlCODCR.jpg",
+                "overview": "Chegou o fim da linha para Jason Bourne. Agora, ele est\u00e1 decidido que nada o deter\u00e1: nem as promessas vazias de seu chefe nem as mortes dos que perseguem incansavelmente. Com nada mais a perder, ele usar\u00e1 toda habilidade que lhe foi ensinada para ir atr\u00e1s de seus criadores e acabar com tudo. Sua busca o levar\u00e1 de Moscou a Paris, Madri, Londres e Tanger, no Marrocos, enganando agentes federais e pol\u00edcias locais numa busca desesperada para encontrar respostas \u00e0s perguntas que o assombram. Acima de tudo, essa jornada de Bourne o levar\u00e1 ao lugar onde tudo come\u00e7ou e onde deve terminar: as ruas da cidade de Nova York.",
+                "vote_average": 7.428,
+                "vote_count": 7342
+            },
+            "winner": true
+        },
+        {
+            "first_label": "No Country for Old Men",
+            "second_label": "Skip Lievsay",
+            "category": "Sound Editing",
+            "year": 2008,
+            "tmdb": {
+                "id": 6977,
+                "original_title": "No Country for Old Men",
+                "title": "Onde os Fracos N\u00e3o T\u00eam Vez",
+                "release_date": "2007-06-13",
+                "backdrop_path": "/kd9jFTTabg4xJpHDgxY0h8F9BzG.jpg",
+                "poster_path": "/jdlY8Bhcb4Qzfldr1JaexYBgyW3.jpg",
+                "overview": "Quando um homem depara com a sangrenta cena de um crime, uma caminhonete carregada de hero\u00edna e irresist\u00edveis dois milh\u00f5es de d\u00f3lares, sua decis\u00e3o de levar o dinheiro deflagra uma intermin\u00e1vel e violenta rea\u00e7\u00e3o em cadeia, que nem a lei do Oeste do Texas pode deter.",
+                "vote_average": 7.937,
+                "vote_count": 11407
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ratatouille",
+            "second_label": "Randy Thom and Michael Silvers",
+            "category": "Sound Editing",
+            "year": 2008,
+            "tmdb": {
+                "id": 2062,
+                "original_title": "Ratatouille",
+                "title": "Ratatouille",
+                "release_date": "2007-06-28",
+                "backdrop_path": "/xgDj56UWyeWQcxQ44f5A3RTWuSs.jpg",
+                "poster_path": "/lpyqGZXjaPpr2dzkD9XD5DUGMkN.jpg",
+                "overview": "Um rato que sabe cozinhar faz uma alian\u00e7a incomum com um jovem trabalhador de cozinha em um restaurante famoso.",
+                "vote_average": 7.818,
+                "vote_count": 16311
+            },
+            "winner": false
+        },
+        {
+            "first_label": "There Will Be Blood",
+            "second_label": "Christopher Scarabosio and Matthew Wood",
+            "category": "Sound Editing",
+            "year": 2008,
+            "tmdb": {
+                "id": 7345,
+                "original_title": "There Will Be Blood",
+                "title": "Sangue Negro",
+                "release_date": "2007-12-26",
+                "backdrop_path": "/8LRcCJjbQI552BMCuGgYqph8USS.jpg",
+                "poster_path": "/cOEbxHAm8CfbpAE9fKv9vTZaWeL.jpg",
+                "overview": "Daniel Plainview e seu filho s\u00e3o ca\u00e7adores de petr\u00f3leo, que perfuram po\u00e7os na Calif\u00f3rnia no in\u00edcio do s\u00e9culo XX. Eles s\u00e3o desafiados por um jovem pastor, Eli Sunday, cuja ambi\u00e7\u00e3o pessoal \u00e9 confrontada por Plainview. A luta entre os dois \u00e9 o centro dessa conflitante, tr\u00e1gica e hist\u00f3rica jornada ao abismo da loucura causada pela corrup\u00e7\u00e3o, fraude e petr\u00f3leo.",
+                "vote_average": 8.081,
+                "vote_count": 6272
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Transformers",
+            "second_label": "Ethan Van der Ryn and Mike Hopkins",
+            "category": "Sound Editing",
+            "year": 2008,
+            "tmdb": {
+                "id": 1858,
+                "original_title": "Transformers",
+                "title": "Transformers",
+                "release_date": "2007-06-27",
+                "backdrop_path": "/77P56ZcL8M9Cw7FIptMIGjhNJoj.jpg",
+                "poster_path": "/ev7IMfMXRbddGLVw7xPL2PHpkWR.jpg",
+                "overview": "O destino da humanidade est\u00e1 em jogo quando duas ra\u00e7as de rob\u00f4s, os Autobots e os vil\u00f5es Decepticons, chegam \u00e0 Terra. Os rob\u00f4s possuem a capacidade de se transformarem em diferentes objetos mec\u00e2nicos enquanto buscam a chave do poder supremo com a ajuda do jovem Sam.",
+                "vote_average": 6.795,
+                "vote_count": 10798
+            },
+            "winner": false
+        }
+    ],
+    "Sound Mixing": [
+        {
+            "first_label": "The Bourne Ultimatum",
+            "second_label": "Scott Millan, David Parker and Kirk Francis",
+            "category": "Sound Mixing",
+            "year": 2008,
+            "tmdb": {
+                "id": 2503,
+                "original_title": "The Bourne Ultimatum",
+                "title": "O Ultimato Bourne",
+                "release_date": "2007-08-03",
+                "backdrop_path": "/qiBILuWhv7ipF0pxiEqIJdkQzj8.jpg",
+                "poster_path": "/27XjtVdi6zbNni68wtmGdlCODCR.jpg",
+                "overview": "Chegou o fim da linha para Jason Bourne. Agora, ele est\u00e1 decidido que nada o deter\u00e1: nem as promessas vazias de seu chefe nem as mortes dos que perseguem incansavelmente. Com nada mais a perder, ele usar\u00e1 toda habilidade que lhe foi ensinada para ir atr\u00e1s de seus criadores e acabar com tudo. Sua busca o levar\u00e1 de Moscou a Paris, Madri, Londres e Tanger, no Marrocos, enganando agentes federais e pol\u00edcias locais numa busca desesperada para encontrar respostas \u00e0s perguntas que o assombram. Acima de tudo, essa jornada de Bourne o levar\u00e1 ao lugar onde tudo come\u00e7ou e onde deve terminar: as ruas da cidade de Nova York.",
+                "vote_average": 7.428,
+                "vote_count": 7342
+            },
+            "winner": true
+        },
+        {
+            "first_label": "No Country for Old Men",
+            "second_label": "Skip Lievsay, Craig Berkey, Greg Orloff and Peter Kurland",
+            "category": "Sound Mixing",
+            "year": 2008,
+            "tmdb": {
+                "id": 6977,
+                "original_title": "No Country for Old Men",
+                "title": "Onde os Fracos N\u00e3o T\u00eam Vez",
+                "release_date": "2007-06-13",
+                "backdrop_path": "/kd9jFTTabg4xJpHDgxY0h8F9BzG.jpg",
+                "poster_path": "/jdlY8Bhcb4Qzfldr1JaexYBgyW3.jpg",
+                "overview": "Quando um homem depara com a sangrenta cena de um crime, uma caminhonete carregada de hero\u00edna e irresist\u00edveis dois milh\u00f5es de d\u00f3lares, sua decis\u00e3o de levar o dinheiro deflagra uma intermin\u00e1vel e violenta rea\u00e7\u00e3o em cadeia, que nem a lei do Oeste do Texas pode deter.",
+                "vote_average": 7.937,
+                "vote_count": 11407
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ratatouille",
+            "second_label": "Randy Thom, Michael Semanick and Doc Kane",
+            "category": "Sound Mixing",
+            "year": 2008,
+            "tmdb": {
+                "id": 2062,
+                "original_title": "Ratatouille",
+                "title": "Ratatouille",
+                "release_date": "2007-06-28",
+                "backdrop_path": "/xgDj56UWyeWQcxQ44f5A3RTWuSs.jpg",
+                "poster_path": "/lpyqGZXjaPpr2dzkD9XD5DUGMkN.jpg",
+                "overview": "Um rato que sabe cozinhar faz uma alian\u00e7a incomum com um jovem trabalhador de cozinha em um restaurante famoso.",
+                "vote_average": 7.818,
+                "vote_count": 16311
+            },
+            "winner": false
+        },
+        {
+            "first_label": "3:10 to Yuma",
+            "second_label": "Paul Massey, David Giammarco and Jim Stuebe",
+            "category": "Sound Mixing",
+            "year": 2008,
+            "tmdb": {
+                "id": 5176,
+                "original_title": "3:10 to Yuma",
+                "title": "Os Indom\u00e1veis",
+                "release_date": "2007-09-06",
+                "backdrop_path": "/2eznGndOi8s9CGReAvcQ8PEULwm.jpg",
+                "poster_path": "/emXjVhz8LL4ZWahmUsk6YSg5wcU.jpg",
+                "overview": "Dan Evans \u00e9 um jovem rancheiro, que enfrenta dificuldades financeiras e est\u00e1 prestes a perder as terras onde vive com sua fam\u00edlia. Ap\u00f3s realizar mais um assalto a dilig\u00eancia, o perigoso Ben Wade segue para uma pequena cidade do velho oeste. L\u00e1 ele \u00e9 preso e logo \u00e9 organizado um grupo para lev\u00e1-lo at\u00e9 uma cidade distante, onde poder\u00e1 ser enviado \u00e0 pris\u00e3o de Yuma atrav\u00e9s de um trem. Evans se oferece para integrar o grupo, desde que receba uma recompensa financeira que resolva seus problemas. A proposta \u00e9 aceita, mas fazer com que Wade embarque no trem n\u00e3o ser\u00e1 uma tarefa f\u00e1cil, j\u00e1 que os demais integrantes de seu bando est\u00e3o vindo em seu resgate.",
+                "vote_average": 7.2,
+                "vote_count": 3398
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Transformers",
+            "second_label": "Kevin O'Connell, Greg P. Russell and Peter J. Devlin",
+            "category": "Sound Mixing",
+            "year": 2008,
+            "tmdb": {
+                "id": 1858,
+                "original_title": "Transformers",
+                "title": "Transformers",
+                "release_date": "2007-06-27",
+                "backdrop_path": "/77P56ZcL8M9Cw7FIptMIGjhNJoj.jpg",
+                "poster_path": "/ev7IMfMXRbddGLVw7xPL2PHpkWR.jpg",
+                "overview": "O destino da humanidade est\u00e1 em jogo quando duas ra\u00e7as de rob\u00f4s, os Autobots e os vil\u00f5es Decepticons, chegam \u00e0 Terra. Os rob\u00f4s possuem a capacidade de se transformarem em diferentes objetos mec\u00e2nicos enquanto buscam a chave do poder supremo com a ajuda do jovem Sam.",
+                "vote_average": 6.795,
+                "vote_count": 10798
+            },
+            "winner": false
+        }
+    ],
+    "Visual Effects": [
+        {
+            "first_label": "The Golden Compass",
+            "second_label": "Michael Fink, Bill Westenhofer, Ben Morris and Trevor Wood",
+            "category": "Visual Effects",
+            "year": 2008,
+            "tmdb": {
+                "id": 2268,
+                "original_title": "The Golden Compass",
+                "title": "A B\u00fassola de Ouro",
+                "release_date": "2007-12-04",
+                "backdrop_path": "/qifYc5jT4CZxmLH9DfOlipioSPp.jpg",
+                "poster_path": "/A9KqGkas7C6Cp802HhKNGQTDnbw.jpg",
+                "overview": "Lyra Belacqua (Dakota Blue Richards) \u00e9 uma \u00f3rf\u00e3 que foi criada na Universidade Oxford. No mundo em que vive todas as pessoas t\u00eam um \"daemon\", ou seja, uma manifesta\u00e7\u00e3o de sua pr\u00f3pria alma em forma animal. Lyra leva uma vida tranq\u00fcila at\u00e9 ela e seu daemon, Pantalaimon, descobrirem a exist\u00eancia de uma subst\u00e2ncia misteriosa chamada \"p\u00f3\". Isto provoca um estranho efeito nas crian\u00e7as, o que faz com que as autoridades religiosas se conven\u00e7am de que representa o mal. Seguindo o misterioso Lorde Asriel (Daniel Craig), seu protetor, Lyra parte em busca de uma resposta. Em Londres ela descobre que diversas crian\u00e7as est\u00e3o desaparecendo, entre elas Roger (Ben Walker), seu melhor amigo. Com a ajuda de um instrumento ancestral, que se parece com uma b\u00fassola de ouro, ela parte numa jornada que pode alterar o mundo para sempre.",
+                "vote_average": 6.1,
+                "vote_count": 4371
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Pirates of the Caribbean: At World's End",
+            "second_label": "John Knoll, Hal Hickel, Charles Gibson and John Frazier",
+            "category": "Visual Effects",
+            "year": 2008,
+            "tmdb": {
+                "id": 285,
+                "original_title": "Pirates of the Caribbean: At World's End",
+                "title": "Piratas do Caribe: No Fim do Mundo",
+                "release_date": "2007-05-19",
+                "backdrop_path": "/kPcHuPYqzkSo4bmPHtH82GaeEgX.jpg",
+                "poster_path": "/2vgdFnsThB3acNVSUN9TzpUwLg5.jpg",
+                "overview": "Will Turner e Elizabeth Swann unem for\u00e7as com o Capit\u00e3o Barbossa para libertarem Jack Sparrow da pris\u00e3o de Davy Jones. Enquanto isso, a tripula\u00e7\u00e3o do barco fantasma O Holand\u00eas Voador causa estragos nos Sete Mares. Os amigos devem navegar atrav\u00e9s de \u00e1guas perigosas para enfrentarem o pirata chin\u00eas S\u00e3o Feng e, finalmente, eles devem escolher em que lado ficar na batalha, pois a vida do pirata est\u00e1 em jogo.",
+                "vote_average": 7.252,
+                "vote_count": 13765
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Transformers",
+            "second_label": "Scott Farrar, Scott Benza, Russell Earl and John Frazier",
+            "category": "Visual Effects",
+            "year": 2008,
+            "tmdb": {
+                "id": 1858,
+                "original_title": "Transformers",
+                "title": "Transformers",
+                "release_date": "2007-06-27",
+                "backdrop_path": "/77P56ZcL8M9Cw7FIptMIGjhNJoj.jpg",
+                "poster_path": "/ev7IMfMXRbddGLVw7xPL2PHpkWR.jpg",
+                "overview": "O destino da humanidade est\u00e1 em jogo quando duas ra\u00e7as de rob\u00f4s, os Autobots e os vil\u00f5es Decepticons, chegam \u00e0 Terra. Os rob\u00f4s possuem a capacidade de se transformarem em diferentes objetos mec\u00e2nicos enquanto buscam a chave do poder supremo com a ajuda do jovem Sam.",
+                "vote_average": 6.795,
+                "vote_count": 10798
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Adapted Screenplay)": [
+        {
+            "first_label": "No Country for Old Men",
+            "second_label": "Written for the screen by Joel Coen & Ethan Coen",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2008,
+            "tmdb": {
+                "id": 6977,
+                "original_title": "No Country for Old Men",
+                "title": "Onde os Fracos N\u00e3o T\u00eam Vez",
+                "release_date": "2007-06-13",
+                "backdrop_path": "/kd9jFTTabg4xJpHDgxY0h8F9BzG.jpg",
+                "poster_path": "/jdlY8Bhcb4Qzfldr1JaexYBgyW3.jpg",
+                "overview": "Quando um homem depara com a sangrenta cena de um crime, uma caminhonete carregada de hero\u00edna e irresist\u00edveis dois milh\u00f5es de d\u00f3lares, sua decis\u00e3o de levar o dinheiro deflagra uma intermin\u00e1vel e violenta rea\u00e7\u00e3o em cadeia, que nem a lei do Oeste do Texas pode deter.",
+                "vote_average": 7.937,
+                "vote_count": 11407
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Atonement",
+            "second_label": "Screenplay by Christopher Hampton",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2008,
+            "tmdb": {
+                "id": 4347,
+                "original_title": "Atonement",
+                "title": "Desejo e Repara\u00e7\u00e3o",
+                "release_date": "2007-09-07",
+                "backdrop_path": "/sCDWoyRutBPVHzVGB2nmXE8oxaX.jpg",
+                "poster_path": "/sFIHg2JAyOe6ua0WM2IvcVplrZj.jpg",
+                "overview": "Em 1935, no dia mais quente do ano na Inglaterra, Briony Talles e sua fam\u00edlia se re\u00fanem num fim de semana na mans\u00e3o familiar. O momento pol\u00edtico \u00e9 de tens\u00e3o, por conta da 2\u00aa Guerra Mundial. Em meio ao calor opressivo emergem antigos ressentimentos familiares. Cinco anos antes, Briony, ent\u00e3o aos 13 anos, usa sua imagina\u00e7\u00e3o de escritora principiante para acusar Robbie Turner, o filho do caseiro e amante da sua irm\u00e3 mais velha Cec\u00edlia, de um crime que ele n\u00e3o cometeu. A acusa\u00e7\u00e3o na \u00e9poca destruiu o amor da irm\u00e3 e alterou de forma dram\u00e1tica v\u00e1rias vidas.",
+                "vote_average": 7.65,
+                "vote_count": 3997
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Away from Her",
+            "second_label": "Written by Sarah Polley",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2008,
+            "tmdb": {
+                "id": 1919,
+                "original_title": "Away from Her",
+                "title": "Longe Dela",
+                "release_date": "2007-05-04",
+                "backdrop_path": "/zA9G3qYEyGMK1vu9G0s8cwYpFQA.jpg",
+                "poster_path": "/eujMrpG5JSsKbL9LpmSBzHcxgcw.jpg",
+                "overview": "Fiona e Grant est\u00e3o casados h\u00e1 50 anos e precisam enfrentar o fato de que a distra\u00e7\u00e3o constante de Fiona \u00e9 um sintoma do mal de Alzheimer. Ela precisa ser internada em uma casa de repouso especializada, onde se esquece lentamente de Grant e passa a dedicar seu afeto a outro paciente.",
+                "vote_average": 7.0,
+                "vote_count": 208
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Diving Bell and the Butterfly",
+            "second_label": "Screenplay by Ronald Harwood",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2008,
+            "tmdb": {
+                "id": 2013,
+                "original_title": "Le Scaphandre et le Papillon",
+                "title": "O Escafandro e a Borboleta",
+                "release_date": "2007-05-23",
+                "backdrop_path": "/gs9Z5cPauxH9Gml2kO6oUYwkTgK.jpg",
+                "poster_path": "/lL07UboNRO7XMpCzev3349Ig4ri.jpg",
+                "overview": "Jean-Dominique Bauby (Mathieu Amalric) tem 43 anos, \u00e9 editor da revista Elle e um apaixonado pela vida. Mas, subitamente, tem um derrame cerebral. Vinte dias depois, ele acorda. Ainda est\u00e1 l\u00facido, mas sofre de uma rara paralisia: o \u00fanico movimento que lhe resta no corpo \u00e9 o do olho esquerdo. Bauby se recusa a aceitar seu destino. Aprende a se comunicar piscando letras do alfabeto, e forma palavras, frases e at\u00e9 par\u00e1grafos. Cria um mundo pr\u00f3prio, contando com aquilo que n\u00e3o se paralisou: sua imagina\u00e7\u00e3o e sua mem\u00f3ria.",
+                "vote_average": 7.565,
+                "vote_count": 1114
+            },
+            "winner": false
+        },
+        {
+            "first_label": "There Will Be Blood",
+            "second_label": "Written for the Screen by Paul Thomas Anderson",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2008,
+            "tmdb": {
+                "id": 7345,
+                "original_title": "There Will Be Blood",
+                "title": "Sangue Negro",
+                "release_date": "2007-12-26",
+                "backdrop_path": "/8LRcCJjbQI552BMCuGgYqph8USS.jpg",
+                "poster_path": "/cOEbxHAm8CfbpAE9fKv9vTZaWeL.jpg",
+                "overview": "Daniel Plainview e seu filho s\u00e3o ca\u00e7adores de petr\u00f3leo, que perfuram po\u00e7os na Calif\u00f3rnia no in\u00edcio do s\u00e9culo XX. Eles s\u00e3o desafiados por um jovem pastor, Eli Sunday, cuja ambi\u00e7\u00e3o pessoal \u00e9 confrontada por Plainview. A luta entre os dois \u00e9 o centro dessa conflitante, tr\u00e1gica e hist\u00f3rica jornada ao abismo da loucura causada pela corrup\u00e7\u00e3o, fraude e petr\u00f3leo.",
+                "vote_average": 8.081,
+                "vote_count": 6272
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Original Screenplay)": [
+        {
+            "first_label": "Juno",
+            "second_label": "Written by Diablo Cody",
+            "category": "Writing (Original Screenplay)",
+            "year": 2008,
+            "tmdb": {
+                "id": 7326,
+                "original_title": "Juno",
+                "title": "Juno",
+                "release_date": "2007-12-05",
+                "backdrop_path": "/sRXMmeNHTSWRYdDz3zaHNyyPJ0u.jpg",
+                "poster_path": "/jNIn2tVhpvFD6P9IojldI3mNYcn.jpg",
+                "overview": "Diante de uma gravidez n\u00e3o planejada, uma adolescente exc\u00eantrica faz uma decis\u00e3o pouco comum em rela\u00e7\u00e3o ao seu futuro filho.",
+                "vote_average": 7.1,
+                "vote_count": 6914
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Lars and the Real Girl",
+            "second_label": "Written by Nancy Oliver",
+            "category": "Writing (Original Screenplay)",
+            "year": 2008,
+            "tmdb": {
+                "id": 6615,
+                "original_title": "Lars and the Real Girl",
+                "title": "A Garota Ideal",
+                "release_date": "2007-10-12",
+                "backdrop_path": "/qDZp4NfOsRRD3gtWsRTJwbkhmPT.jpg",
+                "poster_path": "/nkAt4a7KIPc7Fi1BhxNHhYYbe2b.jpg",
+                "overview": "Lars Lindstrom (Ryan Gosling) \u00e9 um homem t\u00edmido e introvertido, que vive na garagem de seu irm\u00e3o mais velho, Gus (Paul Schneider), e sua cunhada Karin (Emily Mortimer). Lars apenas acompanha o desenrolar de sua vida, sem se mexer para algo. At\u00e9 que um dia ele encontra Bianca, uma mission\u00e1ria religiosa, atrav\u00e9s da internet. O problema \u00e9 que para as pessoas Bianca n\u00e3o \u00e9 algu\u00e9m real, mas a r\u00e9plica de uma mulher, feita de silicone. S\u00f3 que Lars acredita piamente que ela \u00e9 um ser humano, o que faz com que se torne seu apoio emocional. Preocupados, Gus e Karin decidem procurar o conselho de uma psic\u00f3loga, que recomenda que concordem com Lars enquanto ele lida com seus problemas pessoais.",
+                "vote_average": 7.2,
+                "vote_count": 1715
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Michael Clayton",
+            "second_label": "Written by Tony Gilroy",
+            "category": "Writing (Original Screenplay)",
+            "year": 2008,
+            "tmdb": {
+                "id": 4566,
+                "original_title": "Michael Clayton",
+                "title": "Conduta de Risco",
+                "release_date": "2007-09-28",
+                "backdrop_path": "/qyFg7CkPSsCrYhn1Wy2w3BRpUTy.jpg",
+                "poster_path": "/7LLTInSnQfwmuFhcFzWhFII4Xm1.jpg",
+                "overview": "Michael Clayton (George Clooney) trabalha numa das maiores firmas de advocacia de Nova York, com a fun\u00e7\u00e3o de limpar os erros de seus clientes. Apesar de estar cansado e infeliz com o trabalho, Clayton n\u00e3o tem como deixar o emprego, j\u00e1 que o v\u00edcio no jogo e seu div\u00f3rcio o deixaram repleto de d\u00edvidas. Quando Arthur Evans (Tom Wilkinson), o principal advogado da empresa, sofre um colapso e tenta sabotar todos os casos da U/North, uma empresa que \u00e9 cliente da Kenner, Bach & Ledeen, Clayton \u00e9 enviado para solucionar o problema. \u00c9 quando ele nota a pessoa em que se tornou.",
+                "vote_average": 6.781,
+                "vote_count": 1631
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ratatouille",
+            "second_label": "Screenplay by Brad Bird; Story by Jan Pinkava, Jim Capobianco, Brad Bird",
+            "category": "Writing (Original Screenplay)",
+            "year": 2008,
+            "tmdb": {
+                "id": 2062,
+                "original_title": "Ratatouille",
+                "title": "Ratatouille",
+                "release_date": "2007-06-28",
+                "backdrop_path": "/xgDj56UWyeWQcxQ44f5A3RTWuSs.jpg",
+                "poster_path": "/lpyqGZXjaPpr2dzkD9XD5DUGMkN.jpg",
+                "overview": "Um rato que sabe cozinhar faz uma alian\u00e7a incomum com um jovem trabalhador de cozinha em um restaurante famoso.",
+                "vote_average": 7.818,
+                "vote_count": 16311
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Savages",
+            "second_label": "Written by Tamara Jenkins",
+            "category": "Writing (Original Screenplay)",
+            "year": 2008,
+            "tmdb": {
+                "id": 8272,
+                "original_title": "The Savages",
+                "title": "A Fam\u00edlia Savage",
+                "release_date": "2007-11-28",
+                "backdrop_path": "/yVPh752fONYobIRZfbVg4Tk7TjO.jpg",
+                "poster_path": "/xoNCf5O6yLvftR4SVaZrXoekdO7.jpg",
+                "overview": "Wendy (Laura Linney) e Jon Savage (Philip Seymour Hoffman) sempre buscaram escapar do jeito dominador de seu pai (Philip Bosco), sendo que agora lidam apenas com suas pr\u00f3prias vidas. Wendy uma dramaturga no East Village e Jon trabalha como professor universit\u00e1rio em Buffalo.  Um dia eles recebem um telefonema que os informa que seu pai, Lenny, est\u00e1 aos poucos sendo consumido pela dem\u00eancia e que apenas eles podem ajud\u00e1-lo. Isto faz com que Jon e Wendy voltem a morar juntos, o que n\u00e3o ocorria desde a inf\u00e2ncia. Apesar do ressentimento com o pai e entre si, os dois irm\u00e3os tentam se adaptar \u00e0 nova situa\u00e7\u00e3o.",
+                "vote_average": 6.8,
+                "vote_count": 358
+            },
+            "winner": false
+        }
+    ]
+}

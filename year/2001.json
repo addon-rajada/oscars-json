@@ -1,0 +1,1768 @@
+{
+    "Actor in a Leading Role": [
+        {
+            "first_label": "Russell Crowe",
+            "second_label": "Gladiator",
+            "category": "Actor in a Leading Role",
+            "year": 2001,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Javier Bardem",
+            "second_label": "Before Night Falls",
+            "category": "Actor in a Leading Role",
+            "year": 2001,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tom Hanks",
+            "second_label": "Cast Away",
+            "category": "Actor in a Leading Role",
+            "year": 2001,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ed Harris",
+            "second_label": "Pollock",
+            "category": "Actor in a Leading Role",
+            "year": 2001,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Geoffrey Rush",
+            "second_label": "Quills",
+            "category": "Actor in a Leading Role",
+            "year": 2001,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Benicio Del Toro",
+            "second_label": "Traffic",
+            "category": "Actor in a Supporting Role",
+            "year": 2001,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Jeff Bridges",
+            "second_label": "The Contender",
+            "category": "Actor in a Supporting Role",
+            "year": 2001,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Willem Dafoe",
+            "second_label": "Shadow of the Vampire",
+            "category": "Actor in a Supporting Role",
+            "year": 2001,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Albert Finney",
+            "second_label": "Erin Brockovich",
+            "category": "Actor in a Supporting Role",
+            "year": 2001,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Joaquin Phoenix",
+            "second_label": "Gladiator",
+            "category": "Actor in a Supporting Role",
+            "year": 2001,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Leading Role": [
+        {
+            "first_label": "Julia Roberts",
+            "second_label": "Erin Brockovich",
+            "category": "Actress in a Leading Role",
+            "year": 2001,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Joan Allen",
+            "second_label": "The Contender",
+            "category": "Actress in a Leading Role",
+            "year": 2001,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Juliette Binoche",
+            "second_label": "Chocolat",
+            "category": "Actress in a Leading Role",
+            "year": 2001,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ellen Burstyn",
+            "second_label": "Requiem for a Dream",
+            "category": "Actress in a Leading Role",
+            "year": 2001,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Laura Linney",
+            "second_label": "You Can Count on Me",
+            "category": "Actress in a Leading Role",
+            "year": 2001,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Marcia Gay Harden",
+            "second_label": "Pollock",
+            "category": "Actress in a Supporting Role",
+            "year": 2001,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Judi Dench",
+            "second_label": "Chocolat",
+            "category": "Actress in a Supporting Role",
+            "year": 2001,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Kate Hudson",
+            "second_label": "Almost Famous",
+            "category": "Actress in a Supporting Role",
+            "year": 2001,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Frances McDormand",
+            "second_label": "Almost Famous",
+            "category": "Actress in a Supporting Role",
+            "year": 2001,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Julie Walters",
+            "second_label": "Billy Elliot",
+            "category": "Actress in a Supporting Role",
+            "year": 2001,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction": [
+        {
+            "first_label": "Crouching Tiger, Hidden Dragon",
+            "second_label": "Tim Yip",
+            "category": "Art Direction",
+            "year": 2001,
+            "tmdb": {
+                "id": 146,
+                "original_title": "\u5367\u864e\u85cf\u9f8d",
+                "title": "O Tigre e o Drag\u00e3o",
+                "release_date": "2000-07-06",
+                "backdrop_path": "/3fmdCISiTXmRdZMdGd6b0GemRUa.jpg",
+                "poster_path": "/6ZPfaWGAir5qgGK0VfBOzOqB3yF.jpg",
+                "overview": "A hist\u00f3ria de duas mulheres, ambas ex\u00edmias lutadoras, cujos destinos se tocam em meio a Dinastia Ching. Uma tenta se ver livre do constrangimento imposto pela sociedade local, mesmo que isso a obrigue a deixar uma vida aristocr\u00e1tica por outra de crimes e paix\u00e3o. A outra, em sua cruzada de honra e justi\u00e7a, apenas descobre as consequ\u00eancias do amor tarde demais. Os destinos de ambas as conduzir\u00e3o uma violenta e surpreendente jornada, que ir\u00e1 for\u00e7\u00e1-las a fazer uma escolha que poder\u00e1 mudar suas vidas.",
+                "vote_average": 7.4,
+                "vote_count": 3037
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Dr. Seuss' How the Grinch Stole Christmas",
+            "second_label": "Art Direction: Michael Corenblith; Set Decoration: Merideth Boswell",
+            "category": "Art Direction",
+            "year": 2001,
+            "tmdb": {
+                "id": 8871,
+                "original_title": "How the Grinch Stole Christmas",
+                "title": "O Grinch",
+                "release_date": "2000-11-17",
+                "backdrop_path": "/sy0vo1cmpKqwPRiMUiJ45jyLsX7.jpg",
+                "poster_path": "/vDtJA6DdwLpwoV60rKLWOCt63gK.jpg",
+                "overview": "Um Grinch que odeia o Natal resolve criar um plano para impedir que os habitantes da pequena cidade de Queml\u00e2ndia possam comemorar a data festiva. Para tanto, na v\u00e9spera do grande dia, o Grinch resolve invadir as casas das pessoas e furtivamente roubar delas tudo o que esteja relacionado ao Natal.",
+                "vote_average": 6.77,
+                "vote_count": 7143
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gladiator",
+            "second_label": "Art Direction: Arthur Max; Set Decoration: Crispian Sallis",
+            "category": "Art Direction",
+            "year": 2001,
+            "tmdb": {
+                "id": 98,
+                "original_title": "Gladiator",
+                "title": "Gladiador",
+                "release_date": "2000-05-04",
+                "backdrop_path": "/4I14RDX6gZPpXkHmbcqvAKpn3Dw.jpg",
+                "poster_path": "/R1ieKOdGHYL7BRpl0iRgNV1uXw.jpg",
+                "overview": "Nos dias finais do reinado de Marcus Aurelius, o imperador desperta a ira de seu filho Commodus ao tornar p\u00fablica sua predile\u00e7\u00e3o em deixar o trono para Maximus, o comandante do ex\u00e9rcito romano. Sedento pelo poder, Commodus mata seu pai, assume a coroa e ordena a morte de Maximus, que consegue fugir antes de ser pego e passa a se esconder sob a identidade de um escravo e gladiador do Imp\u00e9rio Romano.",
+                "vote_average": 8.216,
+                "vote_count": 17659
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Quills",
+            "second_label": "Art Direction: Martin Childs; Set Decoration: Jill Quertier",
+            "category": "Art Direction",
+            "year": 2001,
+            "tmdb": {
+                "id": 10876,
+                "original_title": "Quills",
+                "title": "Contos Proibidos do Marqu\u00eas de Sade",
+                "release_date": "2000-11-22",
+                "backdrop_path": "/hjA7kpsb1g2MyCfHJfPhjI0k03n.jpg",
+                "poster_path": "/hqQdy3vJCciH6YgnSUk8xqeAs4W.jpg",
+                "overview": "Vivendo em um asilo ao t\u00e9rmino de sua vida, o Marqu\u00eas de Sade (Geoffrey Rush) torna-se amigo do diretor do asilo em que reside, Abbe Coulmier (Joaquin Phoenix). Com ele o Marqu\u00eas troca confid\u00eancias a respeito da afei\u00e7\u00e3o de ambos para com a lavadeira do asilo, Madeleine (Kate Winslet). A amizade de ambos cresce cada vez mais, at\u00e9 que Napole\u00e3o Bonaparte envia ao asilo um conceituado m\u00e9dico (Michael Caine), no intuito de curar o Marqu\u00eas de sua suposta loucura. Entretanto, a vinda do m\u00e9dico apenas faz com que o car\u00e1ter rebelde do Marqu\u00eas fique cada vez mais forte.",
+                "vote_average": 7.1,
+                "vote_count": 610
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Vatel",
+            "second_label": "Vatel",
+            "category": "Art Direction",
+            "year": 2001,
+            "tmdb": {
+                "id": 7093,
+                "original_title": "Vatel",
+                "title": "Vatel - Um Banquete Para o Rei",
+                "release_date": "2000-05-01",
+                "backdrop_path": "/vRFZivvKQ22JTlxkqVgGLC7Uw0f.jpg",
+                "poster_path": "/zku4Ik4awwKPOyC2WYZpNUZg7or.jpg",
+                "overview": "O ano \u00e9 1671 e o rei Lu\u00eds XIV (Julian Sands) vive em Versailles. No norte da Fran\u00e7a, o Pr\u00edncipe de Cond\u00e9 (Julian Glover), enterrado em d\u00edvidas, planeja uma solu\u00e7\u00e3o para fazer com que n\u00e3o s\u00f3 ele mas toda a prov\u00edncia fique livre das d\u00edvidas: ele decide convidar o rei para passar um final de semana recheado de iguarias e entretenimento. Se o Pr\u00edncipe conseguir cair nas gra\u00e7as do rei, toda a regi\u00e3o ser\u00e1 salva do desastre econ\u00f4nico. Por\u00e9m, apenas um homem poder\u00e1 preparar um banquete suntuoso e ainda cuidar da divers\u00e3o real: Fran\u00e7ois Vatel, o mordomo do Pr\u00edncipe. Mas em meio a todo o trabalho resultante da prepara\u00e7\u00e3o para a visita real, Vatel conhece a bela Anne de Montausier (Uma Thurman), uma candidata \u00e0 dama da corte, e passa a disput\u00e1-la com Luis XIV. Ao mesmo tempo, Vatel se depara com a conflitante exarceba\u00e7\u00e3o do luxo pela corte, enquanto seu povo d\u00e1 a vida para para sustent\u00e1-la.",
+                "vote_average": 6.1,
+                "vote_count": 158
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "Crouching Tiger, Hidden Dragon",
+            "second_label": "Peter Pau",
+            "category": "Cinematography",
+            "year": 2001,
+            "tmdb": {
+                "id": 146,
+                "original_title": "\u5367\u864e\u85cf\u9f8d",
+                "title": "O Tigre e o Drag\u00e3o",
+                "release_date": "2000-07-06",
+                "backdrop_path": "/3fmdCISiTXmRdZMdGd6b0GemRUa.jpg",
+                "poster_path": "/6ZPfaWGAir5qgGK0VfBOzOqB3yF.jpg",
+                "overview": "A hist\u00f3ria de duas mulheres, ambas ex\u00edmias lutadoras, cujos destinos se tocam em meio a Dinastia Ching. Uma tenta se ver livre do constrangimento imposto pela sociedade local, mesmo que isso a obrigue a deixar uma vida aristocr\u00e1tica por outra de crimes e paix\u00e3o. A outra, em sua cruzada de honra e justi\u00e7a, apenas descobre as consequ\u00eancias do amor tarde demais. Os destinos de ambas as conduzir\u00e3o uma violenta e surpreendente jornada, que ir\u00e1 for\u00e7\u00e1-las a fazer uma escolha que poder\u00e1 mudar suas vidas.",
+                "vote_average": 7.4,
+                "vote_count": 3037
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Gladiator",
+            "second_label": "John Mathieson",
+            "category": "Cinematography",
+            "year": 2001,
+            "tmdb": {
+                "id": 98,
+                "original_title": "Gladiator",
+                "title": "Gladiador",
+                "release_date": "2000-05-04",
+                "backdrop_path": "/4I14RDX6gZPpXkHmbcqvAKpn3Dw.jpg",
+                "poster_path": "/R1ieKOdGHYL7BRpl0iRgNV1uXw.jpg",
+                "overview": "Nos dias finais do reinado de Marcus Aurelius, o imperador desperta a ira de seu filho Commodus ao tornar p\u00fablica sua predile\u00e7\u00e3o em deixar o trono para Maximus, o comandante do ex\u00e9rcito romano. Sedento pelo poder, Commodus mata seu pai, assume a coroa e ordena a morte de Maximus, que consegue fugir antes de ser pego e passa a se esconder sob a identidade de um escravo e gladiador do Imp\u00e9rio Romano.",
+                "vote_average": 8.216,
+                "vote_count": 17659
+            },
+            "winner": false
+        },
+        {
+            "first_label": "",
+            "second_label": "Lajos Koltai",
+            "category": "Cinematography",
+            "year": 2001,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "O Brother, Where Art Thou?",
+            "second_label": "Roger Deakins",
+            "category": "Cinematography",
+            "year": 2001,
+            "tmdb": {
+                "id": 134,
+                "original_title": "O Brother, Where Art Thou?",
+                "title": "E A\u00ed, Meu Irm\u00e3o, Cad\u00ea Voc\u00ea?",
+                "release_date": "2000-08-30",
+                "backdrop_path": "/3U98a4AWjRRptUSbNdxtM9cp3dd.jpg",
+                "poster_path": "/aZ9YMtRcTZg0CBsqD2Abr9Up0He.jpg",
+                "overview": "Ulysses Everett McGill est\u00e1 tendo dificuldade para se ajustar a sua pena de trabalhos for\u00e7ados no Mississippi. Ele consegue fugir da cadeia junto com Delmar e o desajustado Pete. O trio prepara-se, ent\u00e3o, para ir atr\u00e1s de uma fortuna em tesouros enterrados. Sem nada a perder e ainda com as algemas, eles vivem uma incr\u00edvel aventura.",
+                "vote_average": 7.3,
+                "vote_count": 3954
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Patriot",
+            "second_label": "Caleb Deschanel",
+            "category": "Cinematography",
+            "year": 2001,
+            "tmdb": {
+                "id": 2024,
+                "original_title": "The Patriot",
+                "title": "O Patriota",
+                "release_date": "2000-06-28",
+                "backdrop_path": "/c9xSFZQtC4c16Vn5CMOaB1pGk9J.jpg",
+                "poster_path": "/oe26GVJTIEFLW8WjGMj1K0MbWUJ.jpg",
+                "overview": "Benjamin Martin \u00e9 um veterano de guerra que renunciou \u00e0s armas e decidiu viver em paz com sua fam\u00edlia. Mas, quando os ingleses trazerem a Guerra da Independ\u00eancia at\u00e9 o seu quintal, Benjamin n\u00e3o v\u00ea outra sa\u00edda a n\u00e3o ser pegar nas armas novamente, desta vez acompanhado de seu filho idealista, liderando uma rebeli\u00e3o contra o implac\u00e1vel e equipado ex\u00e9rcito brit\u00e2nico. No processo, ele descobre que s\u00f3 pode proteger sua fam\u00edlia lutando pela liberdade da jovem na\u00e7\u00e3o.",
+                "vote_average": 7.2,
+                "vote_count": 3716
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design": [
+        {
+            "first_label": "Gladiator",
+            "second_label": "Janty Yates",
+            "category": "Costume Design",
+            "year": 2001,
+            "tmdb": {
+                "id": 98,
+                "original_title": "Gladiator",
+                "title": "Gladiador",
+                "release_date": "2000-05-04",
+                "backdrop_path": "/4I14RDX6gZPpXkHmbcqvAKpn3Dw.jpg",
+                "poster_path": "/R1ieKOdGHYL7BRpl0iRgNV1uXw.jpg",
+                "overview": "Nos dias finais do reinado de Marcus Aurelius, o imperador desperta a ira de seu filho Commodus ao tornar p\u00fablica sua predile\u00e7\u00e3o em deixar o trono para Maximus, o comandante do ex\u00e9rcito romano. Sedento pelo poder, Commodus mata seu pai, assume a coroa e ordena a morte de Maximus, que consegue fugir antes de ser pego e passa a se esconder sob a identidade de um escravo e gladiador do Imp\u00e9rio Romano.",
+                "vote_average": 8.216,
+                "vote_count": 17659
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Crouching Tiger, Hidden Dragon",
+            "second_label": "Tim Yip",
+            "category": "Costume Design",
+            "year": 2001,
+            "tmdb": {
+                "id": 146,
+                "original_title": "\u5367\u864e\u85cf\u9f8d",
+                "title": "O Tigre e o Drag\u00e3o",
+                "release_date": "2000-07-06",
+                "backdrop_path": "/3fmdCISiTXmRdZMdGd6b0GemRUa.jpg",
+                "poster_path": "/6ZPfaWGAir5qgGK0VfBOzOqB3yF.jpg",
+                "overview": "A hist\u00f3ria de duas mulheres, ambas ex\u00edmias lutadoras, cujos destinos se tocam em meio a Dinastia Ching. Uma tenta se ver livre do constrangimento imposto pela sociedade local, mesmo que isso a obrigue a deixar uma vida aristocr\u00e1tica por outra de crimes e paix\u00e3o. A outra, em sua cruzada de honra e justi\u00e7a, apenas descobre as consequ\u00eancias do amor tarde demais. Os destinos de ambas as conduzir\u00e3o uma violenta e surpreendente jornada, que ir\u00e1 for\u00e7\u00e1-las a fazer uma escolha que poder\u00e1 mudar suas vidas.",
+                "vote_average": 7.4,
+                "vote_count": 3037
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dr. Seuss' How the Grinch Stole Christmas",
+            "second_label": "Rita Ryack",
+            "category": "Costume Design",
+            "year": 2001,
+            "tmdb": {
+                "id": 8871,
+                "original_title": "How the Grinch Stole Christmas",
+                "title": "O Grinch",
+                "release_date": "2000-11-17",
+                "backdrop_path": "/sy0vo1cmpKqwPRiMUiJ45jyLsX7.jpg",
+                "poster_path": "/vDtJA6DdwLpwoV60rKLWOCt63gK.jpg",
+                "overview": "Um Grinch que odeia o Natal resolve criar um plano para impedir que os habitantes da pequena cidade de Queml\u00e2ndia possam comemorar a data festiva. Para tanto, na v\u00e9spera do grande dia, o Grinch resolve invadir as casas das pessoas e furtivamente roubar delas tudo o que esteja relacionado ao Natal.",
+                "vote_average": 6.77,
+                "vote_count": 7143
+            },
+            "winner": false
+        },
+        {
+            "first_label": "102 Dalmatians",
+            "second_label": "Anthony Powell",
+            "category": "Costume Design",
+            "year": 2001,
+            "tmdb": {
+                "id": 10481,
+                "original_title": "102 Dalmatians",
+                "title": "102 D\u00e1lmatas",
+                "release_date": "2000-10-07",
+                "backdrop_path": "/eqZ5t82asfprFcNS56eVruNT5G5.jpg",
+                "poster_path": "/yOiw3ssvgWkc9Kp1v4onuIIuE0a.jpg",
+                "overview": "Ap\u00f3s uma terapia por hipnose e acreditando estar curada, Cruella de Vil \u00e9 libertada da pris\u00e3o e se prop\u00f5e a come\u00e7ar uma nova vida. As coisas est\u00e3o indo bem para Cruella que est\u00e1 ocupada ajudando c\u00e3es desabrigados da rua. Porem, quando o rel\u00f3gio Big Ben bate as horas, as coisas ficam ruins. A cura hipn\u00f3tica \u00e9 revertida e Cruella est\u00e1 de volta. E desta vez ela est\u00e1 determinada a fazer seu casaco com pele malhada que ela sempre quis.",
+                "vote_average": 5.5,
+                "vote_count": 1294
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Quills",
+            "second_label": "Jacqueline West",
+            "category": "Costume Design",
+            "year": 2001,
+            "tmdb": {
+                "id": 10876,
+                "original_title": "Quills",
+                "title": "Contos Proibidos do Marqu\u00eas de Sade",
+                "release_date": "2000-11-22",
+                "backdrop_path": "/hjA7kpsb1g2MyCfHJfPhjI0k03n.jpg",
+                "poster_path": "/hqQdy3vJCciH6YgnSUk8xqeAs4W.jpg",
+                "overview": "Vivendo em um asilo ao t\u00e9rmino de sua vida, o Marqu\u00eas de Sade (Geoffrey Rush) torna-se amigo do diretor do asilo em que reside, Abbe Coulmier (Joaquin Phoenix). Com ele o Marqu\u00eas troca confid\u00eancias a respeito da afei\u00e7\u00e3o de ambos para com a lavadeira do asilo, Madeleine (Kate Winslet). A amizade de ambos cresce cada vez mais, at\u00e9 que Napole\u00e3o Bonaparte envia ao asilo um conceituado m\u00e9dico (Michael Caine), no intuito de curar o Marqu\u00eas de sua suposta loucura. Entretanto, a vinda do m\u00e9dico apenas faz com que o car\u00e1ter rebelde do Marqu\u00eas fique cada vez mais forte.",
+                "vote_average": 7.1,
+                "vote_count": 610
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "Traffic",
+            "second_label": "Steven Soderbergh",
+            "category": "Directing",
+            "year": 2001,
+            "tmdb": {
+                "id": 1900,
+                "original_title": "Traffic",
+                "title": "Traffic: Ningu\u00e9m Sai Limpo",
+                "release_date": "2000-12-27",
+                "backdrop_path": "/syapU4X3vYBCdARyAOtz3g90hMt.jpg",
+                "poster_path": "/fkk54pyjkeQJB03wBybpisG1RCB.jpg",
+                "overview": "Uma s\u00e9rie de hist\u00f3rias interligadas d\u00e3o um panorama sobre o alto escal\u00e3o do tr\u00e1fico de drogas, envolvendo um policial mexicano preso numa teia de corrup\u00e7\u00e3o, uma dupla de agentes do DEA (departamento antidrogas), infiltrada no perigoso mundo dos negociantes de San Diego, um bar\u00e3o da droga que ap\u00f3s ser preso, explica como sua mulher tomou seu neg\u00f3cio ilegal e ainda um juiz da Suprema Corte de Justi\u00e7a de Ohio, conhecido pela sua posi\u00e7\u00e3o anti-drogas, que precisa lidar com sua filha viciada.",
+                "vote_average": 7.049,
+                "vote_count": 2029
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Billy Elliot",
+            "second_label": "Stephen Daldry",
+            "category": "Directing",
+            "year": 2001,
+            "tmdb": {
+                "id": 71,
+                "original_title": "Billy Elliot",
+                "title": "Billy Elliot",
+                "release_date": "2000-09-28",
+                "backdrop_path": "/urzflyf41uySpgciGHdQzpcaMOY.jpg",
+                "poster_path": "/nOr5diUZxphmAD3li9aiILyI28F.jpg",
+                "overview": "Billy Elliot  \u00e9 um garoto de 11 anos que vive numa pequena cidade da Inglaterra, onde o principal meio de sustento s\u00e3o as minas da cidade. Obrigado pelo pai a treinar boxe, Billy fica fascinado com a magia do bal\u00e9, ao qual tem contato atrav\u00e9s de aulas de dan\u00e7a cl\u00e1ssica que s\u00e3o realizadas na mesma academia onde pratica boxe. Incentivado pela professora de bal\u00e9, que v\u00ea em Billy um talento nato para a dan\u00e7a, ele resolve ent\u00e3o pendurar as luvas de boxe e se dedicar de corpo e alma \u00e0 dan\u00e7a, mesmo tendo que enfrentar a contrariedade de seu irm\u00e3o e seu pai \u00e0 sua nova atividade.",
+                "vote_average": 7.596,
+                "vote_count": 3671
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Crouching Tiger, Hidden Dragon",
+            "second_label": "Ang Lee",
+            "category": "Directing",
+            "year": 2001,
+            "tmdb": {
+                "id": 146,
+                "original_title": "\u5367\u864e\u85cf\u9f8d",
+                "title": "O Tigre e o Drag\u00e3o",
+                "release_date": "2000-07-06",
+                "backdrop_path": "/3fmdCISiTXmRdZMdGd6b0GemRUa.jpg",
+                "poster_path": "/6ZPfaWGAir5qgGK0VfBOzOqB3yF.jpg",
+                "overview": "A hist\u00f3ria de duas mulheres, ambas ex\u00edmias lutadoras, cujos destinos se tocam em meio a Dinastia Ching. Uma tenta se ver livre do constrangimento imposto pela sociedade local, mesmo que isso a obrigue a deixar uma vida aristocr\u00e1tica por outra de crimes e paix\u00e3o. A outra, em sua cruzada de honra e justi\u00e7a, apenas descobre as consequ\u00eancias do amor tarde demais. Os destinos de ambas as conduzir\u00e3o uma violenta e surpreendente jornada, que ir\u00e1 for\u00e7\u00e1-las a fazer uma escolha que poder\u00e1 mudar suas vidas.",
+                "vote_average": 7.4,
+                "vote_count": 3037
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Erin Brockovich",
+            "second_label": "Steven Soderbergh",
+            "category": "Directing",
+            "year": 2001,
+            "tmdb": {
+                "id": 462,
+                "original_title": "Erin Brockovich",
+                "title": "Erin Brockovich: Uma Mulher de Talento",
+                "release_date": "2000-03-17",
+                "backdrop_path": "/5kCmdJVhox9vFjhL9wTN9VgER5.jpg",
+                "poster_path": "/xX9QIj2dgfQVCq2C4VdEubfGJHI.jpg",
+                "overview": "Uma mulher de verdade. Uma hist\u00f3ria real. Uma vit\u00f3ria de fato. Julia Roberts estrela como Erin Brockovich, uma decidida e jovem m\u00e3e que luta por justi\u00e7a de todas as maneiras que conhece. Desesperada por um trabalho que sustente suas tr\u00eas crian\u00e7as, ela convence o advogado Ed Masry a contrat\u00e1-la e descobre espontaneamente um caso legal contra uma corpora\u00e7\u00e3o gigante. Agora, Erin est\u00e1 determinada a encarar uma luta contra um poderoso advers\u00e1rio que nenhuma firma de advocacia havia ousado antes. E, diferente do patr\u00e3o, Erin nunca espera um \"n\u00e3o\" como resposta. Assim os dois come\u00e7am uma luta dif\u00edcil e hilariante que ir\u00e1 p\u00f4r uma cidadezinha a seus p\u00e9s e uma grande companhia de joelhos.",
+                "vote_average": 7.4,
+                "vote_count": 2995
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gladiator",
+            "second_label": "Ridley Scott",
+            "category": "Directing",
+            "year": 2001,
+            "tmdb": {
+                "id": 98,
+                "original_title": "Gladiator",
+                "title": "Gladiador",
+                "release_date": "2000-05-04",
+                "backdrop_path": "/4I14RDX6gZPpXkHmbcqvAKpn3Dw.jpg",
+                "poster_path": "/R1ieKOdGHYL7BRpl0iRgNV1uXw.jpg",
+                "overview": "Nos dias finais do reinado de Marcus Aurelius, o imperador desperta a ira de seu filho Commodus ao tornar p\u00fablica sua predile\u00e7\u00e3o em deixar o trono para Maximus, o comandante do ex\u00e9rcito romano. Sedento pelo poder, Commodus mata seu pai, assume a coroa e ordena a morte de Maximus, que consegue fugir antes de ser pego e passa a se esconder sob a identidade de um escravo e gladiador do Imp\u00e9rio Romano.",
+                "vote_average": 8.216,
+                "vote_count": 17659
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "Into the Arms of Strangers: Stories of the Kindertransport",
+            "second_label": "Mark Jonathan Harris, Deborah Oppenheimer",
+            "category": "Documentary (Feature)",
+            "year": 2001,
+            "tmdb": {
+                "id": 58062,
+                "original_title": "Into the Arms of Strangers: Stories of the Kindertransport",
+                "title": "Nos Bra\u00e7os de Estranhos: Hist\u00f3rias do Kindertransport",
+                "release_date": "2000-09-15",
+                "backdrop_path": "/lFDx7wwrHqWEabJvAy5yPiHETZm.jpg",
+                "poster_path": "/4ECP8ntp49Wd2PosbJyEuv0zfsz.jpg",
+                "overview": "In the nine months prior to World War II, 10.000 innocent children left behind their families, their homes, their childhood, and took the journey... to Britain to escape the Nazi Holocaust.",
+                "vote_average": 7.4,
+                "vote_count": 30
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Legacy",
+            "second_label": "Tod Lending",
+            "category": "Documentary (Feature)",
+            "year": 2001,
+            "tmdb": {
+                "id": 26779,
+                "original_title": "Legacy",
+                "title": "Legacy",
+                "release_date": "2000-01-20",
+                "backdrop_path": null,
+                "poster_path": "/pBu8Z6Uq2AY4yCjvo1RKlXBndji.jpg",
+                "overview": "The unflinching chronicle of one family\u2019s triumphant journey out of povery and despair. Touchingly narrated by Nickcole Collins, a teenage girl wise beyond her years, the film follows the Collins family over five years as they slowly pull themselves out of a haze of poverty, drug addiction, and violence that plagues their public housing project in Chicago.",
+                "vote_average": 6.2,
+                "vote_count": 6
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Long Night's Journey into Day",
+            "second_label": "Frances Reid, Deborah Hoffmann",
+            "category": "Documentary (Feature)",
+            "year": 2001,
+            "tmdb": {
+                "id": 95682,
+                "original_title": "Long Night's Journey Into Day",
+                "title": "Long Night's Journey Into Day",
+                "release_date": "2000-01-29",
+                "backdrop_path": null,
+                "poster_path": "/iC80ZNpFRuaL8BwzjoD1Zm02Inm.jpg",
+                "overview": "This documentary tells four stories of Apartheid in South Africa, as seen through the eyes of the Truth and Reconciliation commission",
+                "vote_average": 6.2,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Scottsboro: An American Tragedy",
+            "second_label": "Barak Goodman, Daniel Anker",
+            "category": "Documentary (Feature)",
+            "year": 2001,
+            "tmdb": {
+                "id": 70564,
+                "original_title": "Scottsboro: An American Tragedy",
+                "title": "Scottsboro: An American Tragedy",
+                "release_date": "2000-01-31",
+                "backdrop_path": null,
+                "poster_path": "/exQOXVvbzbtqDnAcTlEr45lFFK7.jpg",
+                "overview": "A look at the infamous \"Scottsboro Boys\" case that occurred in Alabama in 1931, in which nine young black men were arrested, tried and quickly convicted in the rape of two white women, despite overwhelming evidence that showed their accusers had falsely accused them and the fact that one of the women later admitted that no rape had in fact occurred (although both had had sexual relations with their boyfriends on the day prior to the \"rape\"). The case was one of the first that shined a spotlight on what many called the \"legal lynchings\" that occurred in the South whenever blacks were accused of crimes, especially against whites and most especially against white women.",
+                "vote_average": 7.8,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sound and Fury",
+            "second_label": "Josh Aronson, Roger Weisberg",
+            "category": "Documentary (Feature)",
+            "year": 2001,
+            "tmdb": {
+                "id": 62529,
+                "original_title": "Sound and Fury",
+                "title": "Sound and Fury",
+                "release_date": "2000-10-25",
+                "backdrop_path": null,
+                "poster_path": "/lajJXqTI1qM55BxiLzi1RdnjObt.jpg",
+                "overview": "A documentary film released in 2000 about two American families with young deaf children and their conflict over whether or not to give their children cochlear implants, surgically implanted devices that may improve their ability to hear but may threaten their deaf identity.",
+                "vote_average": 7.0,
+                "vote_count": 13
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "Big Mama",
+            "second_label": "Tracy Seretean",
+            "category": "Documentary (Short Subject)",
+            "year": 2001,
+            "tmdb": {
+                "id": 244965,
+                "original_title": "Big Mama",
+                "title": "Big Mama",
+                "release_date": "2000-12-31",
+                "backdrop_path": null,
+                "poster_path": "/mWsKjQ84yYIjUWdgwf7XsY0feSw.jpg",
+                "overview": "Eighteen months in the life of 89 years old Viola Dees as she tries of persuade Los Angeles authorities that she can care for her grandson, 9-year-old Walter.",
+                "vote_average": 6.3,
+                "vote_count": 6
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Curtain Call",
+            "second_label": "Chuck Braverman, Steve Kalafer",
+            "category": "Documentary (Short Subject)",
+            "year": 2001,
+            "tmdb": {
+                "id": 244969,
+                "original_title": "Curtain Call",
+                "title": "Curtain Call",
+                "release_date": "2000-06-13",
+                "backdrop_path": null,
+                "poster_path": "/jeH5Kqa7eS5tyifn8mFuMRoH7Hf.jpg",
+                "overview": "Curtain Call is the unforgettable story of eight remarkable residents of the Actors' Fund Retirement Home. No ordinary nursing home, these residents are still full of vitality as they recall tales of Broadway's golden age, and what they have done with their lives. Dramatically told by award winning director Chuck Braverman, the film was nominated for an Academy Award.",
+                "vote_average": 7.0,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dolphins",
+            "second_label": "Greg MacGillivray, Alec Lorimore",
+            "category": "Documentary (Short Subject)",
+            "year": 2001,
+            "tmdb": {
+                "id": 19356,
+                "original_title": "Dolphins",
+                "title": "Dolphins",
+                "release_date": "2000-04-14",
+                "backdrop_path": "/wzKoLtJjyhiv62S11c6szYoWaQ1.jpg",
+                "poster_path": "/iGeyikHXVMHy1kTT9FwmNSB7Tah.jpg",
+                "overview": "Diretamente das Bahamas ao oceano da Argentina, vamos adentrar as \u00e1guas para conhecer os seus golfinhos. Dois cientistas v\u00e3o estudar a comunica\u00e7\u00e3o entre os golfinhos e entende-la. Nomeado ao Academy Award\u00ae na categoria melhor Document\u00e1rio.",
+                "vote_average": 5.5,
+                "vote_count": 13
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Man on Lincoln's Nose",
+            "second_label": "Daniel Raim",
+            "category": "Documentary (Short Subject)",
+            "year": 2001,
+            "tmdb": {
+                "id": 136955,
+                "original_title": "The Man on Lincoln's Nose",
+                "title": "The Man on Lincoln's Nose",
+                "release_date": "2000-10-20",
+                "backdrop_path": null,
+                "poster_path": "/fpFukZ30H2XPPDAqinVZ1OwUrEF.jpg",
+                "overview": "Set design has been one of the most overlooked jobs in film, receiving little critical attention until recently. In this Oscar-nominated documentary short, director Daniel Raim puts the spotlight on one of the best in the field, creating a witty, informative inside view of the filmmaking process.",
+                "vote_average": 7.8,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "On Tiptoe: Gentle Steps to Freedom",
+            "second_label": "Eric Simonson, Leelai Demoz",
+            "category": "Documentary (Short Subject)",
+            "year": 2001,
+            "tmdb": {
+                "id": 244972,
+                "original_title": "On Tiptoe: Gentle Steps to Freedom",
+                "title": "On Tiptoe: Gentle Steps to Freedom",
+                "release_date": "2000-06-09",
+                "backdrop_path": null,
+                "poster_path": "/vN5QrVkfBYZTJ65x0bzdcAIN9F5.jpg",
+                "overview": "A profile of South African singing group Ladysmith Black Mambazo. They are best known for backing Paul Simon on his \"Graceland\" album.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "Traffic",
+            "second_label": "Stephen Mirrione",
+            "category": "Film Editing",
+            "year": 2001,
+            "tmdb": {
+                "id": 1900,
+                "original_title": "Traffic",
+                "title": "Traffic: Ningu\u00e9m Sai Limpo",
+                "release_date": "2000-12-27",
+                "backdrop_path": "/syapU4X3vYBCdARyAOtz3g90hMt.jpg",
+                "poster_path": "/fkk54pyjkeQJB03wBybpisG1RCB.jpg",
+                "overview": "Uma s\u00e9rie de hist\u00f3rias interligadas d\u00e3o um panorama sobre o alto escal\u00e3o do tr\u00e1fico de drogas, envolvendo um policial mexicano preso numa teia de corrup\u00e7\u00e3o, uma dupla de agentes do DEA (departamento antidrogas), infiltrada no perigoso mundo dos negociantes de San Diego, um bar\u00e3o da droga que ap\u00f3s ser preso, explica como sua mulher tomou seu neg\u00f3cio ilegal e ainda um juiz da Suprema Corte de Justi\u00e7a de Ohio, conhecido pela sua posi\u00e7\u00e3o anti-drogas, que precisa lidar com sua filha viciada.",
+                "vote_average": 7.049,
+                "vote_count": 2029
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Almost Famous",
+            "second_label": "Joe Hutshing, Saar Klein",
+            "category": "Film Editing",
+            "year": 2001,
+            "tmdb": {
+                "id": 786,
+                "original_title": "Almost Famous",
+                "title": "Quase Famosos",
+                "release_date": "2000-09-15",
+                "backdrop_path": "/AqLtFRKVX2G0ghMnMnQoSGan4pY.jpg",
+                "poster_path": "/mgHxgT0TKaFBv3cAIMxAxe8lR6z.jpg",
+                "overview": "Um f\u00e3 \u00e1vido por rock'n'roll consegue um trabalho na revista americana Rolling Stone, para acompanhar a banda Stillwater em sua primeira excurs\u00e3o pelos Estados Unidos. Por\u00e9m, quanto mais ele vai se envolvendo com a banda, mais vai perdendo a objetividade de seu trabalho e logo estar\u00e1 fazendo parte do cen\u00e1rio rock dos anos 70.",
+                "vote_average": 7.508,
+                "vote_count": 2568
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Crouching Tiger, Hidden Dragon",
+            "second_label": "Tim Squyres",
+            "category": "Film Editing",
+            "year": 2001,
+            "tmdb": {
+                "id": 146,
+                "original_title": "\u5367\u864e\u85cf\u9f8d",
+                "title": "O Tigre e o Drag\u00e3o",
+                "release_date": "2000-07-06",
+                "backdrop_path": "/3fmdCISiTXmRdZMdGd6b0GemRUa.jpg",
+                "poster_path": "/6ZPfaWGAir5qgGK0VfBOzOqB3yF.jpg",
+                "overview": "A hist\u00f3ria de duas mulheres, ambas ex\u00edmias lutadoras, cujos destinos se tocam em meio a Dinastia Ching. Uma tenta se ver livre do constrangimento imposto pela sociedade local, mesmo que isso a obrigue a deixar uma vida aristocr\u00e1tica por outra de crimes e paix\u00e3o. A outra, em sua cruzada de honra e justi\u00e7a, apenas descobre as consequ\u00eancias do amor tarde demais. Os destinos de ambas as conduzir\u00e3o uma violenta e surpreendente jornada, que ir\u00e1 for\u00e7\u00e1-las a fazer uma escolha que poder\u00e1 mudar suas vidas.",
+                "vote_average": 7.4,
+                "vote_count": 3037
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gladiator",
+            "second_label": "Pietro Scalia",
+            "category": "Film Editing",
+            "year": 2001,
+            "tmdb": {
+                "id": 98,
+                "original_title": "Gladiator",
+                "title": "Gladiador",
+                "release_date": "2000-05-04",
+                "backdrop_path": "/4I14RDX6gZPpXkHmbcqvAKpn3Dw.jpg",
+                "poster_path": "/R1ieKOdGHYL7BRpl0iRgNV1uXw.jpg",
+                "overview": "Nos dias finais do reinado de Marcus Aurelius, o imperador desperta a ira de seu filho Commodus ao tornar p\u00fablica sua predile\u00e7\u00e3o em deixar o trono para Maximus, o comandante do ex\u00e9rcito romano. Sedento pelo poder, Commodus mata seu pai, assume a coroa e ordena a morte de Maximus, que consegue fugir antes de ser pego e passa a se esconder sob a identidade de um escravo e gladiador do Imp\u00e9rio Romano.",
+                "vote_average": 8.216,
+                "vote_count": 17659
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Wonder Boys",
+            "second_label": "Dede Allen",
+            "category": "Film Editing",
+            "year": 2001,
+            "tmdb": {
+                "id": 11004,
+                "original_title": "Wonder Boys",
+                "title": "Garotos Incr\u00edveis",
+                "release_date": "2000-02-22",
+                "backdrop_path": "/f6axPiSzkPa2ErTtTxBUGfCLFPd.jpg",
+                "poster_path": "/iuNnPHA9oySqVnuMaewDNBoX7A6.jpg",
+                "overview": "O Professor Grady Tripp n\u00e3o podia come\u00e7ar pior o fim-de-semana: N\u00e3o consegue terminar o romance em que trabalha h\u00e1 v\u00e1rios anos; A sua jovem esposa o abandona; A amante se confessa gr\u00e1vida dele; O seu editor chega de Nova Iorque disposto a pression\u00e1-lo; E o seu aluno mais dotado mata acidentalmente o cachorro do Diretor do Departamento de Ingl\u00eas.",
+                "vote_average": 6.8,
+                "vote_count": 565
+            },
+            "winner": false
+        }
+    ],
+    "Foreign Language Film": [
+        {
+            "first_label": "Crouching Tiger, Hidden Dragon",
+            "second_label": "Taiwan",
+            "category": "Foreign Language Film",
+            "year": 2001,
+            "tmdb": {
+                "id": 146,
+                "original_title": "\u5367\u864e\u85cf\u9f8d",
+                "title": "O Tigre e o Drag\u00e3o",
+                "release_date": "2000-07-06",
+                "backdrop_path": "/3fmdCISiTXmRdZMdGd6b0GemRUa.jpg",
+                "poster_path": "/6ZPfaWGAir5qgGK0VfBOzOqB3yF.jpg",
+                "overview": "A hist\u00f3ria de duas mulheres, ambas ex\u00edmias lutadoras, cujos destinos se tocam em meio a Dinastia Ching. Uma tenta se ver livre do constrangimento imposto pela sociedade local, mesmo que isso a obrigue a deixar uma vida aristocr\u00e1tica por outra de crimes e paix\u00e3o. A outra, em sua cruzada de honra e justi\u00e7a, apenas descobre as consequ\u00eancias do amor tarde demais. Os destinos de ambas as conduzir\u00e3o uma violenta e surpreendente jornada, que ir\u00e1 for\u00e7\u00e1-las a fazer uma escolha que poder\u00e1 mudar suas vidas.",
+                "vote_average": 7.4,
+                "vote_count": 3037
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Amores Perros",
+            "second_label": "Mexico",
+            "category": "Foreign Language Film",
+            "year": 2001,
+            "tmdb": {
+                "id": 55,
+                "original_title": "Amores perros",
+                "title": "Amores Brutos",
+                "release_date": "2000-06-16",
+                "backdrop_path": "/qNQOEzm6xJ2hgWDImzkIox27aiV.jpg",
+                "poster_path": "/tw6q0EFcpr2SbPJAbfQK69ZUk0O.jpg",
+                "overview": "Em plena Cidade do M\u00e9xico, um terr\u00edvel acidente automobil\u00edstico ocorre. A partir deste momento, tr\u00eas pessoas envolvidas no acidente se encontram e t\u00eam suas vidas mudadas para sempre. Um deles \u00e9 o adolescente Octavio (Gael Garc\u00eda Bernal), que decidiu fugir com a mulher de seu irm\u00e3o, Susana (Vanessa Bauche), usando seu cachorro Cofi como ve\u00edculo para conseguir o dinheiro para a fuga. Ao mesmo tempo, Daniel (\u00c1lvaro Guerrero) resolve abandonar sua esposa e filhas para ir viver com Valeria (Goya Toledo), uma bela modelo por quem est\u00e1 apaixonado. Tamb\u00e9m se envolve no acidente Chivo (Emilio Echevarr\u00eda), um ex-guerrilheiro comunista que agora atua como matador de aluguel, ap\u00f3s passar v\u00e1rios anos preso. Ali, em meio ao caos, ele encontra Cofi e v\u00ea a possibilidade de sua reden\u00e7\u00e3o.",
+                "vote_average": 7.63,
+                "vote_count": 2457
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Divided We Fall",
+            "second_label": "Czech Republic",
+            "category": "Foreign Language Film",
+            "year": 2001,
+            "tmdb": {
+                "id": 29937,
+                "original_title": "Mus\u00edme si pom\u00e1hat",
+                "title": "Divided We Fall",
+                "release_date": "2000-03-15",
+                "backdrop_path": "/4tIqGGCrzpot7qCAHnw7sd9F806.jpg",
+                "poster_path": "/6mKiT1zyUHHSCUm1hfZVe4RUhjV.jpg",
+                "overview": "In 1943, a childless couple, the \u010c\u00ed\u017eeks, decide to hide a Jewish refugee, David Wiener, the son of \u010c\u00ed\u017eek's former employer, in the secret pantry of their apartment. \u010c\u00ed\u017eek is aware of the danger into which he has brought his household and his neighbours, but he takes helping his fellow man in need for granted. But at the same time, as a largely unheroic hero, he is dying of fear. His personal situation is greatly complicated by the approaching end of the war, when he faces danger from both the Germans and his \"honest\" fellow Czechs...",
+                "vote_average": 7.3,
+                "vote_count": 45
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Everybody Famous!",
+            "second_label": "Belgium",
+            "category": "Foreign Language Film",
+            "year": 2001,
+            "tmdb": {
+                "id": 58886,
+                "original_title": "Iedereen beroemd!",
+                "title": "Everybody's Famous!",
+                "release_date": "2000-04-12",
+                "backdrop_path": "/t6tLfIFUEWRaqi1lR5ETeNXFf7c.jpg",
+                "poster_path": "/iPVRGoOQ6N9sMYYJW8OLT2CqDnO.jpg",
+                "overview": "Jean is a family man and factory worker who dreams of becoming a songwriter. Pinning his hopes on his teenage daughter, Marva, he takes her to singing contests in which the awkward and overweight girl struggles to belt out a tune. When Jean is suddenly fired because of cut backs, he is ashamed and even more desperate to have his daughter succeed. In a chance meeting Jean kidnaps the most famous pop star in the country and holds her hostage demanding to be heard by the music industry. Catching the attention of the media and the eyes of the nation, Jean and Marva realize that the show must go on until everyone is famous.",
+                "vote_average": 5.6,
+                "vote_count": 28
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Taste of Others",
+            "second_label": "France",
+            "category": "Foreign Language Film",
+            "year": 2001,
+            "tmdb": {
+                "id": 10697,
+                "original_title": "Le Go\u00fbt des autres",
+                "title": "The Taste of Others",
+                "release_date": "2000-03-01",
+                "backdrop_path": "/9X2LRZpznxU6tTbKcMyILAvVkNs.jpg",
+                "poster_path": "/vvJYa9wEO5kbmnaEZgNon2LV1SU.jpg",
+                "overview": "Unpolished and ultra-pragmatic industrialist Jean-Jacques Castella reluctantly attends Racine's tragedy \"Berenice\" in order to see his niece play a bit part. He is taken with the play's strangely familiar-looking leading lady Clara Devaux. During the course of the show, Castella soon remembers that he once hired and then promptly fired the actress as an English language tutor. He immediately goes out and signs up for language lessons. Thinking that he is nothing but an ill-tempered philistine with bad taste, Clara rejects him until Castella charms her off her feet.",
+                "vote_average": 6.9,
+                "vote_count": 276
+            },
+            "winner": false
+        }
+    ],
+    "Irving G. Thalberg Memorial Award": [
+        {
+            "first_label": "",
+            "second_label": "Dino De Laurentiis",
+            "category": "Irving G. Thalberg Memorial Award",
+            "year": 2001,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        }
+    ],
+    "Makeup": [
+        {
+            "first_label": "Dr. Seuss' How the Grinch Stole Christmas",
+            "second_label": "Rick Baker, Gail Ryan",
+            "category": "Makeup",
+            "year": 2001,
+            "tmdb": {
+                "id": 8871,
+                "original_title": "How the Grinch Stole Christmas",
+                "title": "O Grinch",
+                "release_date": "2000-11-17",
+                "backdrop_path": "/sy0vo1cmpKqwPRiMUiJ45jyLsX7.jpg",
+                "poster_path": "/vDtJA6DdwLpwoV60rKLWOCt63gK.jpg",
+                "overview": "Um Grinch que odeia o Natal resolve criar um plano para impedir que os habitantes da pequena cidade de Queml\u00e2ndia possam comemorar a data festiva. Para tanto, na v\u00e9spera do grande dia, o Grinch resolve invadir as casas das pessoas e furtivamente roubar delas tudo o que esteja relacionado ao Natal.",
+                "vote_average": 6.77,
+                "vote_count": 7143
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Cell",
+            "second_label": "\"The Cell\" Michle Burke, Edouard Henriques",
+            "category": "Makeup",
+            "year": 2001,
+            "tmdb": {
+                "id": 8843,
+                "original_title": "The Cell",
+                "title": "A Cela",
+                "release_date": "2000-08-17",
+                "backdrop_path": "/2G20ecZ4HrWWmxn2gBdN2gxcxTy.jpg",
+                "poster_path": "/yw4zCsJ7iJBdiRlg9Qgznu6irzt.jpg",
+                "overview": "Dentro dos confins de uma fazenda abandonada, Carl Stargher, um assassino cruel e psicologicamente inst\u00e1vel, construiu \u201cA Cela\u201d, uma c\u00e2mara para onde ele leva suas jovens e inocentes v\u00edtimas, antes de dar in\u00edcio a um s\u00e1dico ritual p\u00f3s-morte com seus corpos. Quando o FBI finalmente consegue capturar Stargher, ele sofre um violento ataque apopl\u00e9tico e entra em coma, sem dar nenhuma pista sobre a localiza\u00e7\u00e3o da Cela. Com uma jovem presa na c\u00e2mara e tendo apenas mais 40 horas de vida, o FBI decide ent\u00e3o procurar a Dra. Catherine Deane, uma terapeuta infantil que utiliza um avan\u00e7ado estudo neurol\u00f3gico que, misturado com habilidades emp\u00e1ticas e tecnologia de ponta, permite que algu\u00e9m entre na mente de pessoas catat\u00f4nicas, no intuito de ajud\u00e1-las a voltar \u00e0 realidade. Com a vida de uma jovem em perigo, Catherine concorda em usar o avan\u00e7ado m\u00e9todo no pr\u00f3prio Carl Stargher, no intuito de descobrir qual \u00e9 a localiza\u00e7\u00e3o da Cela, com a pr\u00f3pria terapeuta entrando na mente do assassino.",
+                "vote_average": 6.3,
+                "vote_count": 1454
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Shadow of the Vampire",
+            "second_label": "Ann Buchanan, Amber Sibley",
+            "category": "Makeup",
+            "year": 2001,
+            "tmdb": {
+                "id": 10873,
+                "original_title": "Shadow of the Vampire",
+                "title": "A Sombra do Vampiro",
+                "release_date": "2000-05-15",
+                "backdrop_path": "/cKKhk85c1TZSYy6ZF94QpUH8bRw.jpg",
+                "poster_path": "/nUsjnFwHpsAgeJnr0fVOQIkkNjs.jpg",
+                "overview": "F. W. Murnau (John Malkovich) \u00e9 o diretor de Nosferatu; e para fazer um filme extremamente fiel, ele contrata um vampiro real para fazer o papel de Dr\u00e1cula. Ningu\u00e9m da equipe conhecia Max Schreck (Willem Dafoe), achando-o exc\u00eantrico e estranho. Mas o filme come\u00e7a a ser rodado, at\u00e9 que surgem alguns sintomas diferentes nas pessoas da equipe...",
+                "vote_average": 6.7,
+                "vote_count": 543
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Score)": [
+        {
+            "first_label": "Crouching Tiger, Hidden Dragon",
+            "second_label": "Tan Dun",
+            "category": "Music (Original Score)",
+            "year": 2001,
+            "tmdb": {
+                "id": 146,
+                "original_title": "\u5367\u864e\u85cf\u9f8d",
+                "title": "O Tigre e o Drag\u00e3o",
+                "release_date": "2000-07-06",
+                "backdrop_path": "/3fmdCISiTXmRdZMdGd6b0GemRUa.jpg",
+                "poster_path": "/6ZPfaWGAir5qgGK0VfBOzOqB3yF.jpg",
+                "overview": "A hist\u00f3ria de duas mulheres, ambas ex\u00edmias lutadoras, cujos destinos se tocam em meio a Dinastia Ching. Uma tenta se ver livre do constrangimento imposto pela sociedade local, mesmo que isso a obrigue a deixar uma vida aristocr\u00e1tica por outra de crimes e paix\u00e3o. A outra, em sua cruzada de honra e justi\u00e7a, apenas descobre as consequ\u00eancias do amor tarde demais. Os destinos de ambas as conduzir\u00e3o uma violenta e surpreendente jornada, que ir\u00e1 for\u00e7\u00e1-las a fazer uma escolha que poder\u00e1 mudar suas vidas.",
+                "vote_average": 7.4,
+                "vote_count": 3037
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Chocolat",
+            "second_label": "Rachel Portman",
+            "category": "Music (Original Score)",
+            "year": 2001,
+            "tmdb": {
+                "id": 392,
+                "original_title": "Chocolat",
+                "title": "Chocolate",
+                "release_date": "2000-12-22",
+                "backdrop_path": "/63ItW5WInTWZkRdyTfCZIn6ZvbH.jpg",
+                "poster_path": "/99p3dL5jO202aQ5LfRx8PtGtLUD.jpg",
+                "overview": "Vianne Rocher, uma jovem m\u00e3e solteira, e sua filha de seis anos resolvem se mudar para uma cidade rural da Fran\u00e7a. L\u00e1 decidem abrir uma loja de chocolates que funciona todos os dias da semana, bem em frente \u00e0 igreja local, o que atrai a certeza da popula\u00e7\u00e3o de que o neg\u00f3cio n\u00e3o v\u00e1 durar muito tempo. Por\u00e9m, aos poucos Vianne consegue persuadir os moradores da cidade em que agora vive a desfrutar seus deliciosos produtos, transformando o ceticismo inicial em uma calorosa recep\u00e7\u00e3o.",
+                "vote_average": 7.0,
+                "vote_count": 3140
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gladiator",
+            "second_label": "Hans Zimmer",
+            "category": "Music (Original Score)",
+            "year": 2001,
+            "tmdb": {
+                "id": 98,
+                "original_title": "Gladiator",
+                "title": "Gladiador",
+                "release_date": "2000-05-04",
+                "backdrop_path": "/4I14RDX6gZPpXkHmbcqvAKpn3Dw.jpg",
+                "poster_path": "/R1ieKOdGHYL7BRpl0iRgNV1uXw.jpg",
+                "overview": "Nos dias finais do reinado de Marcus Aurelius, o imperador desperta a ira de seu filho Commodus ao tornar p\u00fablica sua predile\u00e7\u00e3o em deixar o trono para Maximus, o comandante do ex\u00e9rcito romano. Sedento pelo poder, Commodus mata seu pai, assume a coroa e ordena a morte de Maximus, que consegue fugir antes de ser pego e passa a se esconder sob a identidade de um escravo e gladiador do Imp\u00e9rio Romano.",
+                "vote_average": 8.216,
+                "vote_count": 17659
+            },
+            "winner": false
+        },
+        {
+            "first_label": "",
+            "second_label": "Ennio Morricone",
+            "category": "Music (Original Score)",
+            "year": 2001,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Patriot",
+            "second_label": "John Williams",
+            "category": "Music (Original Score)",
+            "year": 2001,
+            "tmdb": {
+                "id": 2024,
+                "original_title": "The Patriot",
+                "title": "O Patriota",
+                "release_date": "2000-06-28",
+                "backdrop_path": "/c9xSFZQtC4c16Vn5CMOaB1pGk9J.jpg",
+                "poster_path": "/oe26GVJTIEFLW8WjGMj1K0MbWUJ.jpg",
+                "overview": "Benjamin Martin \u00e9 um veterano de guerra que renunciou \u00e0s armas e decidiu viver em paz com sua fam\u00edlia. Mas, quando os ingleses trazerem a Guerra da Independ\u00eancia at\u00e9 o seu quintal, Benjamin n\u00e3o v\u00ea outra sa\u00edda a n\u00e3o ser pegar nas armas novamente, desta vez acompanhado de seu filho idealista, liderando uma rebeli\u00e3o contra o implac\u00e1vel e equipado ex\u00e9rcito brit\u00e2nico. No processo, ele descobre que s\u00f3 pode proteger sua fam\u00edlia lutando pela liberdade da jovem na\u00e7\u00e3o.",
+                "vote_average": 7.2,
+                "vote_count": 3716
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Song)": [
+        {
+            "first_label": "Wonder Boys",
+            "second_label": "Things Have Changed in \"Wonder Boys\" Music and Lyric by Bob Dylan",
+            "category": "Music (Original Song)",
+            "year": 2001,
+            "tmdb": {
+                "id": 11004,
+                "original_title": "Wonder Boys",
+                "title": "Garotos Incr\u00edveis",
+                "release_date": "2000-02-22",
+                "backdrop_path": "/f6axPiSzkPa2ErTtTxBUGfCLFPd.jpg",
+                "poster_path": "/iuNnPHA9oySqVnuMaewDNBoX7A6.jpg",
+                "overview": "O Professor Grady Tripp n\u00e3o podia come\u00e7ar pior o fim-de-semana: N\u00e3o consegue terminar o romance em que trabalha h\u00e1 v\u00e1rios anos; A sua jovem esposa o abandona; A amante se confessa gr\u00e1vida dele; O seu editor chega de Nova Iorque disposto a pression\u00e1-lo; E o seu aluno mais dotado mata acidentalmente o cachorro do Diretor do Departamento de Ingl\u00eas.",
+                "vote_average": 6.8,
+                "vote_count": 565
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Meet the Parents",
+            "second_label": "A Fool In Love in \"Meet the Parents\" Music and Lyric by Randy Newman",
+            "category": "Music (Original Song)",
+            "year": 2001,
+            "tmdb": {
+                "id": 1597,
+                "original_title": "Meet the Parents",
+                "title": "Entrando Numa Fria",
+                "release_date": "2000-10-06",
+                "backdrop_path": "/qcVrlyPFlPgCsmzorvELvpJN9Be.jpg",
+                "poster_path": "/reRrNOxZkjPUi7CeyQuHqNdWMqk.jpg",
+                "overview": "A bela e apaixonada Pam, resolve levar seu namorado Greg para conhecer seus pais. S\u00f3 que, ao chegar, o paiz\u00e3o da mo\u00e7a n\u00e3o se impressiona nem um pouco com o rapaz, e decide tornar seu final de semana insuport\u00e1vel. O objetivo \u00e9 simples e cruel: se Greg aguentar at\u00e9 o fim, ele \u00e9 o homem certo para se casar com sua filha. Mas ser\u00e1 que ele aguenta?",
+                "vote_average": 6.7,
+                "vote_count": 5692
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dancer in the Dark",
+            "second_label": "I've Seen It All in \"Dancer in the Dark\" Music by Bjrk; Lyric by Lars von Trier and Sjon Sigurdsson",
+            "category": "Music (Original Song)",
+            "year": 2001,
+            "tmdb": {
+                "id": 16,
+                "original_title": "Dancer in the Dark",
+                "title": "Dan\u00e7ando no Escuro",
+                "release_date": "2000-09-01",
+                "backdrop_path": "/gs70htixF6j1oqrrwsM4lVfcgNN.jpg",
+                "poster_path": "/AdjjyLA4IpTi3xhw2Ygd0XzqsLm.jpg",
+                "overview": "Uma imigrante tcheca (interpretada por Bj\u00f6rk, que ganhou o pr\u00eamio de Melhor Atriz em Cannes por sua interpreta\u00e7\u00e3o devastadora) lida com sua cegueira progressiva se refugiando em suas fantasias musicais.",
+                "vote_average": 7.9,
+                "vote_count": 1691
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Crouching Tiger, Hidden Dragon",
+            "second_label": "A Love Before Time in \"Crouching Tiger, Hidden Dragon\" Music by Jorge Calandrelli and Tan Dun; Lyric by James Schamus",
+            "category": "Music (Original Song)",
+            "year": 2001,
+            "tmdb": {
+                "id": 146,
+                "original_title": "\u5367\u864e\u85cf\u9f8d",
+                "title": "O Tigre e o Drag\u00e3o",
+                "release_date": "2000-07-06",
+                "backdrop_path": "/3fmdCISiTXmRdZMdGd6b0GemRUa.jpg",
+                "poster_path": "/6ZPfaWGAir5qgGK0VfBOzOqB3yF.jpg",
+                "overview": "A hist\u00f3ria de duas mulheres, ambas ex\u00edmias lutadoras, cujos destinos se tocam em meio a Dinastia Ching. Uma tenta se ver livre do constrangimento imposto pela sociedade local, mesmo que isso a obrigue a deixar uma vida aristocr\u00e1tica por outra de crimes e paix\u00e3o. A outra, em sua cruzada de honra e justi\u00e7a, apenas descobre as consequ\u00eancias do amor tarde demais. Os destinos de ambas as conduzir\u00e3o uma violenta e surpreendente jornada, que ir\u00e1 for\u00e7\u00e1-las a fazer uma escolha que poder\u00e1 mudar suas vidas.",
+                "vote_average": 7.4,
+                "vote_count": 3037
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Emperor's New Groove",
+            "second_label": "My Funny Friend And Me in \"The Emperor's New Groove\" Music by Sting and David Hartley; Lyric by Sting",
+            "category": "Music (Original Song)",
+            "year": 2001,
+            "tmdb": {
+                "id": 11688,
+                "original_title": "The Emperor's New Groove",
+                "title": "A Nova Onda do Imperador",
+                "release_date": "2000-12-15",
+                "backdrop_path": "/gGxXXbiaivFvuMhBRmA14tuJiRe.jpg",
+                "poster_path": "/wLeHgN6zdW1rfKP3KXJwa4AbJx.jpg",
+                "overview": "Divirta-se com o arrogante imperador Kuzco que \u00e9 transformado em Ihama pela malvada conselheira Yzma e seu capanga bonit\u00e3o Kronk, para governar o reino. Agora o imperador, que sempre teve o mundo a seus p\u00e9s, tem de se aliar a um caipira simp\u00e1tico chamado Pacha. Mas ser\u00e1 que essa realeza t\u00e3o antip\u00e1tica conseguir\u00e1 mudar, tornando-se uma pessoa mais bondosa e gentil?",
+                "vote_average": 7.6,
+                "vote_count": 6381
+            },
+            "winner": false
+        }
+    ],
+    "Best Picture": [
+        {
+            "first_label": "Gladiator",
+            "second_label": "Douglas Wick, David Franzoni and Branko Lustig, Producers",
+            "category": "Best Picture",
+            "year": 2001,
+            "tmdb": {
+                "id": 98,
+                "original_title": "Gladiator",
+                "title": "Gladiador",
+                "release_date": "2000-05-04",
+                "backdrop_path": "/4I14RDX6gZPpXkHmbcqvAKpn3Dw.jpg",
+                "poster_path": "/R1ieKOdGHYL7BRpl0iRgNV1uXw.jpg",
+                "overview": "Nos dias finais do reinado de Marcus Aurelius, o imperador desperta a ira de seu filho Commodus ao tornar p\u00fablica sua predile\u00e7\u00e3o em deixar o trono para Maximus, o comandante do ex\u00e9rcito romano. Sedento pelo poder, Commodus mata seu pai, assume a coroa e ordena a morte de Maximus, que consegue fugir antes de ser pego e passa a se esconder sob a identidade de um escravo e gladiador do Imp\u00e9rio Romano.",
+                "vote_average": 8.216,
+                "vote_count": 17659
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Chocolat",
+            "second_label": "David Brown, Kit Golden and Leslie Holleran, Producers",
+            "category": "Best Picture",
+            "year": 2001,
+            "tmdb": {
+                "id": 392,
+                "original_title": "Chocolat",
+                "title": "Chocolate",
+                "release_date": "2000-12-22",
+                "backdrop_path": "/63ItW5WInTWZkRdyTfCZIn6ZvbH.jpg",
+                "poster_path": "/99p3dL5jO202aQ5LfRx8PtGtLUD.jpg",
+                "overview": "Vianne Rocher, uma jovem m\u00e3e solteira, e sua filha de seis anos resolvem se mudar para uma cidade rural da Fran\u00e7a. L\u00e1 decidem abrir uma loja de chocolates que funciona todos os dias da semana, bem em frente \u00e0 igreja local, o que atrai a certeza da popula\u00e7\u00e3o de que o neg\u00f3cio n\u00e3o v\u00e1 durar muito tempo. Por\u00e9m, aos poucos Vianne consegue persuadir os moradores da cidade em que agora vive a desfrutar seus deliciosos produtos, transformando o ceticismo inicial em uma calorosa recep\u00e7\u00e3o.",
+                "vote_average": 7.0,
+                "vote_count": 3140
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Crouching Tiger, Hidden Dragon",
+            "second_label": "Bill Kong, Hsu Li Kong and Ang Lee, Producers",
+            "category": "Best Picture",
+            "year": 2001,
+            "tmdb": {
+                "id": 146,
+                "original_title": "\u5367\u864e\u85cf\u9f8d",
+                "title": "O Tigre e o Drag\u00e3o",
+                "release_date": "2000-07-06",
+                "backdrop_path": "/3fmdCISiTXmRdZMdGd6b0GemRUa.jpg",
+                "poster_path": "/6ZPfaWGAir5qgGK0VfBOzOqB3yF.jpg",
+                "overview": "A hist\u00f3ria de duas mulheres, ambas ex\u00edmias lutadoras, cujos destinos se tocam em meio a Dinastia Ching. Uma tenta se ver livre do constrangimento imposto pela sociedade local, mesmo que isso a obrigue a deixar uma vida aristocr\u00e1tica por outra de crimes e paix\u00e3o. A outra, em sua cruzada de honra e justi\u00e7a, apenas descobre as consequ\u00eancias do amor tarde demais. Os destinos de ambas as conduzir\u00e3o uma violenta e surpreendente jornada, que ir\u00e1 for\u00e7\u00e1-las a fazer uma escolha que poder\u00e1 mudar suas vidas.",
+                "vote_average": 7.4,
+                "vote_count": 3037
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Erin Brockovich",
+            "second_label": "Danny DeVito, Michael Shamberg and Stacey Sher, Producers",
+            "category": "Best Picture",
+            "year": 2001,
+            "tmdb": {
+                "id": 462,
+                "original_title": "Erin Brockovich",
+                "title": "Erin Brockovich: Uma Mulher de Talento",
+                "release_date": "2000-03-17",
+                "backdrop_path": "/5kCmdJVhox9vFjhL9wTN9VgER5.jpg",
+                "poster_path": "/xX9QIj2dgfQVCq2C4VdEubfGJHI.jpg",
+                "overview": "Uma mulher de verdade. Uma hist\u00f3ria real. Uma vit\u00f3ria de fato. Julia Roberts estrela como Erin Brockovich, uma decidida e jovem m\u00e3e que luta por justi\u00e7a de todas as maneiras que conhece. Desesperada por um trabalho que sustente suas tr\u00eas crian\u00e7as, ela convence o advogado Ed Masry a contrat\u00e1-la e descobre espontaneamente um caso legal contra uma corpora\u00e7\u00e3o gigante. Agora, Erin est\u00e1 determinada a encarar uma luta contra um poderoso advers\u00e1rio que nenhuma firma de advocacia havia ousado antes. E, diferente do patr\u00e3o, Erin nunca espera um \"n\u00e3o\" como resposta. Assim os dois come\u00e7am uma luta dif\u00edcil e hilariante que ir\u00e1 p\u00f4r uma cidadezinha a seus p\u00e9s e uma grande companhia de joelhos.",
+                "vote_average": 7.4,
+                "vote_count": 2995
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Traffic",
+            "second_label": "Edward Zwick, Marshall Herskovitz and Laura Bickford, Producers",
+            "category": "Best Picture",
+            "year": 2001,
+            "tmdb": {
+                "id": 1900,
+                "original_title": "Traffic",
+                "title": "Traffic: Ningu\u00e9m Sai Limpo",
+                "release_date": "2000-12-27",
+                "backdrop_path": "/syapU4X3vYBCdARyAOtz3g90hMt.jpg",
+                "poster_path": "/fkk54pyjkeQJB03wBybpisG1RCB.jpg",
+                "overview": "Uma s\u00e9rie de hist\u00f3rias interligadas d\u00e3o um panorama sobre o alto escal\u00e3o do tr\u00e1fico de drogas, envolvendo um policial mexicano preso numa teia de corrup\u00e7\u00e3o, uma dupla de agentes do DEA (departamento antidrogas), infiltrada no perigoso mundo dos negociantes de San Diego, um bar\u00e3o da droga que ap\u00f3s ser preso, explica como sua mulher tomou seu neg\u00f3cio ilegal e ainda um juiz da Suprema Corte de Justi\u00e7a de Ohio, conhecido pela sua posi\u00e7\u00e3o anti-drogas, que precisa lidar com sua filha viciada.",
+                "vote_average": 7.049,
+                "vote_count": 2029
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Animated)": [
+        {
+            "first_label": "Father and Daughter",
+            "second_label": "Michael Dudok de Wit",
+            "category": "Short Film (Animated)",
+            "year": 2001,
+            "tmdb": {
+                "id": 48617,
+                "original_title": "Father and Daughter",
+                "title": "Pais & Filhas",
+                "release_date": "2001-04-19",
+                "backdrop_path": "/7LJDiAeEK5FFHR7kOIYmFPgNKNf.jpg",
+                "poster_path": "/dQOSA51phS7zqRqSHMXo67irfxo.jpg",
+                "overview": "Nova York, 1988. Novelista mentalmente inst\u00e1vel e vi\u00favo (Russel Crowe) tenta criar sozinho a filha de cinco anos. Vinte anos depois a garota, j\u00e1 adulta (Amanda Seyfried), cuida de crian\u00e7as com problemas psicol\u00f3gicos e ainda tenta entender sua complicada inf\u00e2ncia.",
+                "vote_average": 7.5,
+                "vote_count": 160
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Periwig-Maker",
+            "second_label": "Steffen Schffler, Annette Schffler",
+            "category": "Short Film (Animated)",
+            "year": 2001,
+            "tmdb": {
+                "id": 48522,
+                "original_title": "Der Per\u00fcckenmacher",
+                "title": "The Periwig-Maker",
+                "release_date": "1999-11-13",
+                "backdrop_path": "/fSYatJ9ouZImSDh6reBt8d5rQX3.jpg",
+                "poster_path": "/bn2YcZTISnBms6j8UvhDX8UGA9x.jpg",
+                "overview": "Europe; the plague years. A wigmaker, locked in his shop, observes the events and writes about them in his journal. Mostly, we see shrouded bodies, and a young girl who lives in the tavern across the way that gets progressively sicker.",
+                "vote_average": 7.5,
+                "vote_count": 15
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rejected",
+            "second_label": "Don Hertzfeldt",
+            "category": "Short Film (Animated)",
+            "year": 2001,
+            "tmdb": {
+                "id": 32536,
+                "original_title": "Rejected",
+                "title": "Rejected",
+                "release_date": "2000-07-25",
+                "backdrop_path": "/qRgpl30lxdWfhJfd1YFJhpZJYVk.jpg",
+                "poster_path": "/646x9w4UZtZ3aWVFSCAAaKqHBvW.jpg",
+                "overview": "Uma cole\u00e7\u00e3o hil\u00e1ria de comerciais de televis\u00e3o animados que foram rejeitados por causa da falta de sanidade de seu criador...",
+                "vote_average": 7.4,
+                "vote_count": 191
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Live Action)": [
+        {
+            "first_label": "Quiero Ser (I want to be...)",
+            "second_label": "Florian Gallenberger",
+            "category": "Short Film (Live Action)",
+            "year": 2001,
+            "tmdb": {
+                "id": 244954,
+                "original_title": "Quiero ser",
+                "title": "I Want to Be",
+                "release_date": "2000-06-24",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "The short drama film follows the daily life of the Juan and Jorge, two brothers living on the streets of Mexico City. It won an Academy Award in 2001 for Best Live Action Short Film.",
+                "vote_average": 7.3,
+                "vote_count": 6
+            },
+            "winner": true
+        },
+        {
+            "first_label": "By Courier",
+            "second_label": "Peter Riegert, Ericka Frederick",
+            "category": "Short Film (Live Action)",
+            "year": 2001,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "One Day Crossing",
+            "second_label": "Joan Stein, Christina Lazaridi",
+            "category": "Short Film (Live Action)",
+            "year": 2001,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Seraglio",
+            "second_label": "Gail Lerner, Colin Campbell",
+            "category": "Short Film (Live Action)",
+            "year": 2001,
+            "tmdb": {
+                "id": 244960,
+                "original_title": "Seraglio",
+                "title": "Seraglio",
+                "release_date": "2000-11-07",
+                "backdrop_path": null,
+                "poster_path": "/9k4AnP9gRTKaoBq3EzjfDVamxNq.jpg",
+                "overview": "Seraglio is a 2000 English language comedy/romance film written and directed by Colin Campbell and Gail Lerner, and starring Debra Christofferson, Joseph Grimm, Dean Nolen, and Gary Kelley. In the film, a bored housewife named Georgia discovers a love note in her garden with the mysterious word \"seraglio.\" The film was nominated for an Oscar for Best Live Action Short Film.",
+                "vote_average": 6.3,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Soccer Story (Uma Historia de Futebol)",
+            "second_label": "Paulo Machline",
+            "category": "Short Film (Live Action)",
+            "year": 2001,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Sound": [
+        {
+            "first_label": "Gladiator",
+            "second_label": "Scott Millan, Bob Beemer, Ken Weston",
+            "category": "Sound",
+            "year": 2001,
+            "tmdb": {
+                "id": 98,
+                "original_title": "Gladiator",
+                "title": "Gladiador",
+                "release_date": "2000-05-04",
+                "backdrop_path": "/4I14RDX6gZPpXkHmbcqvAKpn3Dw.jpg",
+                "poster_path": "/R1ieKOdGHYL7BRpl0iRgNV1uXw.jpg",
+                "overview": "Nos dias finais do reinado de Marcus Aurelius, o imperador desperta a ira de seu filho Commodus ao tornar p\u00fablica sua predile\u00e7\u00e3o em deixar o trono para Maximus, o comandante do ex\u00e9rcito romano. Sedento pelo poder, Commodus mata seu pai, assume a coroa e ordena a morte de Maximus, que consegue fugir antes de ser pego e passa a se esconder sob a identidade de um escravo e gladiador do Imp\u00e9rio Romano.",
+                "vote_average": 8.216,
+                "vote_count": 17659
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Cast Away",
+            "second_label": "Randy Thom, Tom Johnson, Dennis Sands, William B. Kaplan",
+            "category": "Sound",
+            "year": 2001,
+            "tmdb": {
+                "id": 8358,
+                "original_title": "Cast Away",
+                "title": "N\u00e1ufrago",
+                "release_date": "2000-12-22",
+                "backdrop_path": "/ioqaIhJSkwa9DGRHGtOOUTiGRs2.jpg",
+                "poster_path": "/eaJRnsUIxOeMgpY81iIgGr372vp.jpg",
+                "overview": "Chuck Noland (Tom Hanks) um inspetor da Federal Express (FedEx), multinacional encarregada de enviar cargas e correspond\u00eancias, que tem por fun\u00e7\u00e3o checar v\u00e1rios escrit\u00f3rios da empresa pelo planeta. Por\u00e9m, em uma de suas costumeiras viagens ocorre um acidente, que o deixa preso em uma ilha completamente deserta por 4 anos. Com sua noiva (Helen Hunt) e seus amigos imaginando que ele morrera no acidente, Chuck precisa lutar para sobreviver, tanto fisicamente quanto emocionalmente, a fim de que um dia consiga retornar civiliza\u00e7\u00e3o.",
+                "vote_average": 7.7,
+                "vote_count": 10895
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Patriot",
+            "second_label": "Kevin O'Connell, Greg P. Russell, Lee Orloff",
+            "category": "Sound",
+            "year": 2001,
+            "tmdb": {
+                "id": 2024,
+                "original_title": "The Patriot",
+                "title": "O Patriota",
+                "release_date": "2000-06-28",
+                "backdrop_path": "/c9xSFZQtC4c16Vn5CMOaB1pGk9J.jpg",
+                "poster_path": "/oe26GVJTIEFLW8WjGMj1K0MbWUJ.jpg",
+                "overview": "Benjamin Martin \u00e9 um veterano de guerra que renunciou \u00e0s armas e decidiu viver em paz com sua fam\u00edlia. Mas, quando os ingleses trazerem a Guerra da Independ\u00eancia at\u00e9 o seu quintal, Benjamin n\u00e3o v\u00ea outra sa\u00edda a n\u00e3o ser pegar nas armas novamente, desta vez acompanhado de seu filho idealista, liderando uma rebeli\u00e3o contra o implac\u00e1vel e equipado ex\u00e9rcito brit\u00e2nico. No processo, ele descobre que s\u00f3 pode proteger sua fam\u00edlia lutando pela liberdade da jovem na\u00e7\u00e3o.",
+                "vote_average": 7.2,
+                "vote_count": 3716
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Perfect Storm",
+            "second_label": "John Reitz, Gregg Rudloff, David Campbell, Keith A. Wester",
+            "category": "Sound",
+            "year": 2001,
+            "tmdb": {
+                "id": 2133,
+                "original_title": "The Perfect Storm",
+                "title": "Mar em F\u00faria",
+                "release_date": "2000-06-29",
+                "backdrop_path": "/cmOWlfDvBSMyLaeZ85M87GmkH8v.jpg",
+                "poster_path": "/uFwxmphIAqnX8oDKhf3EOrvtW11.jpg",
+                "overview": "Pessoas corajosas arriscam suas vidas colocando seus barcos de pesca e navios de resgate contra as for\u00e7as da natureza. Seus piores temores se tornam realidade no Halloween de 1991, quando s\u00e3o confrontados pela maior tempestade da hist\u00f3ria.",
+                "vote_average": 6.5,
+                "vote_count": 2168
+            },
+            "winner": false
+        },
+        {
+            "first_label": "U-571",
+            "second_label": "Steve Maslow, Gregg Landaker, Rick Kline, Ivan Sharrock",
+            "category": "Sound",
+            "year": 2001,
+            "tmdb": {
+                "id": 3536,
+                "original_title": "U-571",
+                "title": "U-571 - A Batalha do Atl\u00e2ntico",
+                "release_date": "2000-04-20",
+                "backdrop_path": "/rH5iGrkU1crJRY9Jmi7UDHG2x2h.jpg",
+                "poster_path": "/yeUhRSrlFcXhsuUai2ozWH6rNnK.jpg",
+                "overview": "Logo no in\u00edcio da Segunda Guerra Mundial, os navios aliados eram afundados diariamente pelos submarinos U alem\u00e3es. A bordo do submarino S-33, o tenente Andrew Tyler (Matthew McConaughey) e seu superior, o comandante Mike Dahlgren (Bill Paxton), recebem ordens para se aproximar de forma camuflada de um destes submarinos no intuito de conseguir uma m\u00e1quina de escrever que permitir\u00e1 decifrar os c\u00f3digos alem\u00e3es utilizados na guerra. Entretanto, um ataque surpresa faz com que oito integrantes da tripula\u00e7\u00e3o do S-33 tenham que seguir viagem no submarino alem\u00e3o U-571.",
+                "vote_average": 6.463,
+                "vote_count": 1147
+            },
+            "winner": false
+        }
+    ],
+    "Sound Editing": [
+        {
+            "first_label": "U-571",
+            "second_label": "Jon Johnson",
+            "category": "Sound Editing",
+            "year": 2001,
+            "tmdb": {
+                "id": 3536,
+                "original_title": "U-571",
+                "title": "U-571 - A Batalha do Atl\u00e2ntico",
+                "release_date": "2000-04-20",
+                "backdrop_path": "/rH5iGrkU1crJRY9Jmi7UDHG2x2h.jpg",
+                "poster_path": "/yeUhRSrlFcXhsuUai2ozWH6rNnK.jpg",
+                "overview": "Logo no in\u00edcio da Segunda Guerra Mundial, os navios aliados eram afundados diariamente pelos submarinos U alem\u00e3es. A bordo do submarino S-33, o tenente Andrew Tyler (Matthew McConaughey) e seu superior, o comandante Mike Dahlgren (Bill Paxton), recebem ordens para se aproximar de forma camuflada de um destes submarinos no intuito de conseguir uma m\u00e1quina de escrever que permitir\u00e1 decifrar os c\u00f3digos alem\u00e3es utilizados na guerra. Entretanto, um ataque surpresa faz com que oito integrantes da tripula\u00e7\u00e3o do S-33 tenham que seguir viagem no submarino alem\u00e3o U-571.",
+                "vote_average": 6.463,
+                "vote_count": 1147
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Space Cowboys",
+            "second_label": "Alan Robert Murray, Bub Asman",
+            "category": "Sound Editing",
+            "year": 2001,
+            "tmdb": {
+                "id": 5551,
+                "original_title": "Space Cowboys",
+                "title": "Cowboys do Espa\u00e7o",
+                "release_date": "2000-08-04",
+                "backdrop_path": "/ppzqcIVHCjSM9rKZf4gUPmq8CYf.jpg",
+                "poster_path": "/404i5MudhZwElz8XogmkCvngbKo.jpg",
+                "overview": "Um piloto da For\u00e7a A\u00e9rea Americana aposentado (Clint Eastwood), que chegou a trabalhar na NASA durante certo per\u00edodo de sua carreira, \u00e9 chamado \u00e0s pressas para consertar no espa\u00e7o um antigo sat\u00e9lite que est\u00e1 com problemas em seu funcionamento. Ele \u00e9 a \u00fanica pessoa com a experi\u00eancia necess\u00e1ria para realizar esta miss\u00e3o, mas para aceit\u00e1-la imp\u00f5e apenas uma condi\u00e7\u00e3o: que possa levar consigo tr\u00eas amigos como parte da tripula\u00e7\u00e3o.",
+                "vote_average": 6.4,
+                "vote_count": 1293
+            },
+            "winner": false
+        }
+    ],
+    "Visual Effects": [
+        {
+            "first_label": "Gladiator",
+            "second_label": "John Nelson, Neil Corbould, Tim Burke, Rob Harvey",
+            "category": "Visual Effects",
+            "year": 2001,
+            "tmdb": {
+                "id": 98,
+                "original_title": "Gladiator",
+                "title": "Gladiador",
+                "release_date": "2000-05-04",
+                "backdrop_path": "/4I14RDX6gZPpXkHmbcqvAKpn3Dw.jpg",
+                "poster_path": "/R1ieKOdGHYL7BRpl0iRgNV1uXw.jpg",
+                "overview": "Nos dias finais do reinado de Marcus Aurelius, o imperador desperta a ira de seu filho Commodus ao tornar p\u00fablica sua predile\u00e7\u00e3o em deixar o trono para Maximus, o comandante do ex\u00e9rcito romano. Sedento pelo poder, Commodus mata seu pai, assume a coroa e ordena a morte de Maximus, que consegue fugir antes de ser pego e passa a se esconder sob a identidade de um escravo e gladiador do Imp\u00e9rio Romano.",
+                "vote_average": 8.216,
+                "vote_count": 17659
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Hollow Man",
+            "second_label": "Scott E. Anderson, Craig Hayes, Scott Stokdyk, Stan Parks",
+            "category": "Visual Effects",
+            "year": 2001,
+            "tmdb": {
+                "id": 9383,
+                "original_title": "Hollow Man",
+                "title": "O Homem Sem Sombra",
+                "release_date": "2000-08-04",
+                "backdrop_path": "/g6UIASElC5M6jwtV4TZlz1sok3h.jpg",
+                "poster_path": "/wmQHFXEQztzcEbR1ap2vmeJuc4R.jpg",
+                "overview": "Em um laborat\u00f3rio militar ultrassecreto, um grupo de cientistas descobre a f\u00f3rmula da invisibilidade. Ansioso por analisar os efeitos em um ser humano, o l\u00edder da equipe, Sebastian Craine, testa em si mesmo. Entretanto, a equipe ainda n\u00e3o tinha descoberto o ant\u00eddoto para a f\u00f3rmula e precisa encontrar algo que impe\u00e7a o cada vez mais r\u00e1pido processo de invisibilidade pelo qual passa o corpo de Craine. Aos poucos a intoxica\u00e7\u00e3o o afeta e ele comece a acreditar que seus colegas s\u00e3o uma amea\u00e7a.",
+                "vote_average": 5.9,
+                "vote_count": 2396
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Perfect Storm",
+            "second_label": "Stefen Fangmeier, Habib Zargarpour, John Frazier, Walt Conti",
+            "category": "Visual Effects",
+            "year": 2001,
+            "tmdb": {
+                "id": 2133,
+                "original_title": "The Perfect Storm",
+                "title": "Mar em F\u00faria",
+                "release_date": "2000-06-29",
+                "backdrop_path": "/cmOWlfDvBSMyLaeZ85M87GmkH8v.jpg",
+                "poster_path": "/uFwxmphIAqnX8oDKhf3EOrvtW11.jpg",
+                "overview": "Pessoas corajosas arriscam suas vidas colocando seus barcos de pesca e navios de resgate contra as for\u00e7as da natureza. Seus piores temores se tornam realidade no Halloween de 1991, quando s\u00e3o confrontados pela maior tempestade da hist\u00f3ria.",
+                "vote_average": 6.5,
+                "vote_count": 2168
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay Based on Material Previously Produced or Published)": [
+        {
+            "first_label": "Traffic",
+            "second_label": "Screenplay by Stephen Gaghan",
+            "category": "Writing (Screenplay Based on Material Previously Produced or Published)",
+            "year": 2001,
+            "tmdb": {
+                "id": 1900,
+                "original_title": "Traffic",
+                "title": "Traffic: Ningu\u00e9m Sai Limpo",
+                "release_date": "2000-12-27",
+                "backdrop_path": "/syapU4X3vYBCdARyAOtz3g90hMt.jpg",
+                "poster_path": "/fkk54pyjkeQJB03wBybpisG1RCB.jpg",
+                "overview": "Uma s\u00e9rie de hist\u00f3rias interligadas d\u00e3o um panorama sobre o alto escal\u00e3o do tr\u00e1fico de drogas, envolvendo um policial mexicano preso numa teia de corrup\u00e7\u00e3o, uma dupla de agentes do DEA (departamento antidrogas), infiltrada no perigoso mundo dos negociantes de San Diego, um bar\u00e3o da droga que ap\u00f3s ser preso, explica como sua mulher tomou seu neg\u00f3cio ilegal e ainda um juiz da Suprema Corte de Justi\u00e7a de Ohio, conhecido pela sua posi\u00e7\u00e3o anti-drogas, que precisa lidar com sua filha viciada.",
+                "vote_average": 7.049,
+                "vote_count": 2029
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Chocolat",
+            "second_label": "Screenplay by Robert Nelson Jacobs",
+            "category": "Writing (Screenplay Based on Material Previously Produced or Published)",
+            "year": 2001,
+            "tmdb": {
+                "id": 392,
+                "original_title": "Chocolat",
+                "title": "Chocolate",
+                "release_date": "2000-12-22",
+                "backdrop_path": "/63ItW5WInTWZkRdyTfCZIn6ZvbH.jpg",
+                "poster_path": "/99p3dL5jO202aQ5LfRx8PtGtLUD.jpg",
+                "overview": "Vianne Rocher, uma jovem m\u00e3e solteira, e sua filha de seis anos resolvem se mudar para uma cidade rural da Fran\u00e7a. L\u00e1 decidem abrir uma loja de chocolates que funciona todos os dias da semana, bem em frente \u00e0 igreja local, o que atrai a certeza da popula\u00e7\u00e3o de que o neg\u00f3cio n\u00e3o v\u00e1 durar muito tempo. Por\u00e9m, aos poucos Vianne consegue persuadir os moradores da cidade em que agora vive a desfrutar seus deliciosos produtos, transformando o ceticismo inicial em uma calorosa recep\u00e7\u00e3o.",
+                "vote_average": 7.0,
+                "vote_count": 3140
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Crouching Tiger, Hidden Dragon",
+            "second_label": "Written by Wang Hui Ling and James Schamus and Tsai Kuo Jung",
+            "category": "Writing (Screenplay Based on Material Previously Produced or Published)",
+            "year": 2001,
+            "tmdb": {
+                "id": 146,
+                "original_title": "\u5367\u864e\u85cf\u9f8d",
+                "title": "O Tigre e o Drag\u00e3o",
+                "release_date": "2000-07-06",
+                "backdrop_path": "/3fmdCISiTXmRdZMdGd6b0GemRUa.jpg",
+                "poster_path": "/6ZPfaWGAir5qgGK0VfBOzOqB3yF.jpg",
+                "overview": "A hist\u00f3ria de duas mulheres, ambas ex\u00edmias lutadoras, cujos destinos se tocam em meio a Dinastia Ching. Uma tenta se ver livre do constrangimento imposto pela sociedade local, mesmo que isso a obrigue a deixar uma vida aristocr\u00e1tica por outra de crimes e paix\u00e3o. A outra, em sua cruzada de honra e justi\u00e7a, apenas descobre as consequ\u00eancias do amor tarde demais. Os destinos de ambas as conduzir\u00e3o uma violenta e surpreendente jornada, que ir\u00e1 for\u00e7\u00e1-las a fazer uma escolha que poder\u00e1 mudar suas vidas.",
+                "vote_average": 7.4,
+                "vote_count": 3037
+            },
+            "winner": false
+        },
+        {
+            "first_label": "O Brother, Where Art Thou?",
+            "second_label": "Written by Ethan Coen & Joel Coen",
+            "category": "Writing (Screenplay Based on Material Previously Produced or Published)",
+            "year": 2001,
+            "tmdb": {
+                "id": 134,
+                "original_title": "O Brother, Where Art Thou?",
+                "title": "E A\u00ed, Meu Irm\u00e3o, Cad\u00ea Voc\u00ea?",
+                "release_date": "2000-08-30",
+                "backdrop_path": "/3U98a4AWjRRptUSbNdxtM9cp3dd.jpg",
+                "poster_path": "/aZ9YMtRcTZg0CBsqD2Abr9Up0He.jpg",
+                "overview": "Ulysses Everett McGill est\u00e1 tendo dificuldade para se ajustar a sua pena de trabalhos for\u00e7ados no Mississippi. Ele consegue fugir da cadeia junto com Delmar e o desajustado Pete. O trio prepara-se, ent\u00e3o, para ir atr\u00e1s de uma fortuna em tesouros enterrados. Sem nada a perder e ainda com as algemas, eles vivem uma incr\u00edvel aventura.",
+                "vote_average": 7.3,
+                "vote_count": 3954
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Wonder Boys",
+            "second_label": "Screenplay by Steve Kloves",
+            "category": "Writing (Screenplay Based on Material Previously Produced or Published)",
+            "year": 2001,
+            "tmdb": {
+                "id": 11004,
+                "original_title": "Wonder Boys",
+                "title": "Garotos Incr\u00edveis",
+                "release_date": "2000-02-22",
+                "backdrop_path": "/f6axPiSzkPa2ErTtTxBUGfCLFPd.jpg",
+                "poster_path": "/iuNnPHA9oySqVnuMaewDNBoX7A6.jpg",
+                "overview": "O Professor Grady Tripp n\u00e3o podia come\u00e7ar pior o fim-de-semana: N\u00e3o consegue terminar o romance em que trabalha h\u00e1 v\u00e1rios anos; A sua jovem esposa o abandona; A amante se confessa gr\u00e1vida dele; O seu editor chega de Nova Iorque disposto a pression\u00e1-lo; E o seu aluno mais dotado mata acidentalmente o cachorro do Diretor do Departamento de Ingl\u00eas.",
+                "vote_average": 6.8,
+                "vote_count": 565
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay Written Directly for the Screen)": [
+        {
+            "first_label": "Almost Famous",
+            "second_label": "Written by Cameron Crowe",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 2001,
+            "tmdb": {
+                "id": 786,
+                "original_title": "Almost Famous",
+                "title": "Quase Famosos",
+                "release_date": "2000-09-15",
+                "backdrop_path": "/AqLtFRKVX2G0ghMnMnQoSGan4pY.jpg",
+                "poster_path": "/mgHxgT0TKaFBv3cAIMxAxe8lR6z.jpg",
+                "overview": "Um f\u00e3 \u00e1vido por rock'n'roll consegue um trabalho na revista americana Rolling Stone, para acompanhar a banda Stillwater em sua primeira excurs\u00e3o pelos Estados Unidos. Por\u00e9m, quanto mais ele vai se envolvendo com a banda, mais vai perdendo a objetividade de seu trabalho e logo estar\u00e1 fazendo parte do cen\u00e1rio rock dos anos 70.",
+                "vote_average": 7.508,
+                "vote_count": 2568
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Billy Elliot",
+            "second_label": "Written by Lee Hall",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 2001,
+            "tmdb": {
+                "id": 71,
+                "original_title": "Billy Elliot",
+                "title": "Billy Elliot",
+                "release_date": "2000-09-28",
+                "backdrop_path": "/urzflyf41uySpgciGHdQzpcaMOY.jpg",
+                "poster_path": "/nOr5diUZxphmAD3li9aiILyI28F.jpg",
+                "overview": "Billy Elliot  \u00e9 um garoto de 11 anos que vive numa pequena cidade da Inglaterra, onde o principal meio de sustento s\u00e3o as minas da cidade. Obrigado pelo pai a treinar boxe, Billy fica fascinado com a magia do bal\u00e9, ao qual tem contato atrav\u00e9s de aulas de dan\u00e7a cl\u00e1ssica que s\u00e3o realizadas na mesma academia onde pratica boxe. Incentivado pela professora de bal\u00e9, que v\u00ea em Billy um talento nato para a dan\u00e7a, ele resolve ent\u00e3o pendurar as luvas de boxe e se dedicar de corpo e alma \u00e0 dan\u00e7a, mesmo tendo que enfrentar a contrariedade de seu irm\u00e3o e seu pai \u00e0 sua nova atividade.",
+                "vote_average": 7.596,
+                "vote_count": 3671
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Erin Brockovich",
+            "second_label": "Written by Susannah Grant",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 2001,
+            "tmdb": {
+                "id": 462,
+                "original_title": "Erin Brockovich",
+                "title": "Erin Brockovich: Uma Mulher de Talento",
+                "release_date": "2000-03-17",
+                "backdrop_path": "/5kCmdJVhox9vFjhL9wTN9VgER5.jpg",
+                "poster_path": "/xX9QIj2dgfQVCq2C4VdEubfGJHI.jpg",
+                "overview": "Uma mulher de verdade. Uma hist\u00f3ria real. Uma vit\u00f3ria de fato. Julia Roberts estrela como Erin Brockovich, uma decidida e jovem m\u00e3e que luta por justi\u00e7a de todas as maneiras que conhece. Desesperada por um trabalho que sustente suas tr\u00eas crian\u00e7as, ela convence o advogado Ed Masry a contrat\u00e1-la e descobre espontaneamente um caso legal contra uma corpora\u00e7\u00e3o gigante. Agora, Erin est\u00e1 determinada a encarar uma luta contra um poderoso advers\u00e1rio que nenhuma firma de advocacia havia ousado antes. E, diferente do patr\u00e3o, Erin nunca espera um \"n\u00e3o\" como resposta. Assim os dois come\u00e7am uma luta dif\u00edcil e hilariante que ir\u00e1 p\u00f4r uma cidadezinha a seus p\u00e9s e uma grande companhia de joelhos.",
+                "vote_average": 7.4,
+                "vote_count": 2995
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gladiator",
+            "second_label": "Screenplay by David Franzoni and John Logan and William Nicholson;  Story by David Franzoni",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 2001,
+            "tmdb": {
+                "id": 98,
+                "original_title": "Gladiator",
+                "title": "Gladiador",
+                "release_date": "2000-05-04",
+                "backdrop_path": "/4I14RDX6gZPpXkHmbcqvAKpn3Dw.jpg",
+                "poster_path": "/R1ieKOdGHYL7BRpl0iRgNV1uXw.jpg",
+                "overview": "Nos dias finais do reinado de Marcus Aurelius, o imperador desperta a ira de seu filho Commodus ao tornar p\u00fablica sua predile\u00e7\u00e3o em deixar o trono para Maximus, o comandante do ex\u00e9rcito romano. Sedento pelo poder, Commodus mata seu pai, assume a coroa e ordena a morte de Maximus, que consegue fugir antes de ser pego e passa a se esconder sob a identidade de um escravo e gladiador do Imp\u00e9rio Romano.",
+                "vote_average": 8.216,
+                "vote_count": 17659
+            },
+            "winner": false
+        },
+        {
+            "first_label": "You Can Count on Me",
+            "second_label": "Written by Kenneth Lonergan",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 2001,
+            "tmdb": {
+                "id": 14295,
+                "original_title": "You Can Count on Me",
+                "title": "Conte Comigo",
+                "release_date": "2000-11-17",
+                "backdrop_path": "/hardcwpNmv4soWzTZWWD6OhzsSX.jpg",
+                "poster_path": "/7mGFmij1FZD5eUnNwvUjmpqrDl6.jpg",
+                "overview": "Dois irm\u00e3os, j\u00e1 adultos e \u00f3rf\u00e3os desde quando eram crian\u00e7as, se re\u00fanem em uma casa deixada por seus pais para eles, em Nova York. Sammy (Laura Linney) \u00e9 uma mulher organizada, que trabalha em um banco e precisa cuidar sozinha de seu filho de 8 anos. J\u00e1 seu irm\u00e3o, Terry (Mark Ruffalo) \u00e9 exatamente o oposto: auto-destrutivo, desorganizado e temperamental. Mas quando eles voltam a morar juntos, precisam aprender a lidar com os defeitos uns dos outros para poder mais uma vez formar uma fam\u00edlia.",
+                "vote_average": 6.8,
+                "vote_count": 280
+            },
+            "winner": false
+        }
+    ]
+}

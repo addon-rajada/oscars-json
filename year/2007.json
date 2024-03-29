@@ -1,0 +1,1896 @@
+{
+    "Actor in a Leading Role": [
+        {
+            "first_label": "Forest Whitaker",
+            "second_label": "The Last King of Scotland",
+            "category": "Actor in a Leading Role",
+            "year": 2007,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Leonardo DiCaprio",
+            "second_label": "Blood Diamond",
+            "category": "Actor in a Leading Role",
+            "year": 2007,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ryan Gosling",
+            "second_label": "Half Nelson",
+            "category": "Actor in a Leading Role",
+            "year": 2007,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Peter O'Toole",
+            "second_label": "Venus",
+            "category": "Actor in a Leading Role",
+            "year": 2007,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Will Smith",
+            "second_label": "The Pursuit of Happyness",
+            "category": "Actor in a Leading Role",
+            "year": 2007,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Alan Arkin",
+            "second_label": "Little Miss Sunshine",
+            "category": "Actor in a Supporting Role",
+            "year": 2007,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Jackie Earle Haley",
+            "second_label": "Little Children",
+            "category": "Actor in a Supporting Role",
+            "year": 2007,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Djimon Hounsou",
+            "second_label": "Blood Diamond",
+            "category": "Actor in a Supporting Role",
+            "year": 2007,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Eddie Murphy",
+            "second_label": "Dreamgirls",
+            "category": "Actor in a Supporting Role",
+            "year": 2007,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mark Wahlberg",
+            "second_label": "The Departed",
+            "category": "Actor in a Supporting Role",
+            "year": 2007,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Leading Role": [
+        {
+            "first_label": "Helen Mirren",
+            "second_label": "The Queen",
+            "category": "Actress in a Leading Role",
+            "year": 2007,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Penlope Cruz",
+            "second_label": "Volver",
+            "category": "Actress in a Leading Role",
+            "year": 2007,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Judi Dench",
+            "second_label": "Notes on a Scandal",
+            "category": "Actress in a Leading Role",
+            "year": 2007,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Meryl Streep",
+            "second_label": "The Devil Wears Prada",
+            "category": "Actress in a Leading Role",
+            "year": 2007,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Kate Winslet",
+            "second_label": "Little Children",
+            "category": "Actress in a Leading Role",
+            "year": 2007,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Jennifer Hudson",
+            "second_label": "Dreamgirls",
+            "category": "Actress in a Supporting Role",
+            "year": 2007,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Adriana Barraza",
+            "second_label": "Babel",
+            "category": "Actress in a Supporting Role",
+            "year": 2007,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Cate Blanchett",
+            "second_label": "Notes on a Scandal",
+            "category": "Actress in a Supporting Role",
+            "year": 2007,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Abigail Breslin",
+            "second_label": "Little Miss Sunshine",
+            "category": "Actress in a Supporting Role",
+            "year": 2007,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rinko Kikuchi",
+            "second_label": "Babel",
+            "category": "Actress in a Supporting Role",
+            "year": 2007,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Animated Feature Film": [
+        {
+            "first_label": "Happy Feet",
+            "second_label": "George Miller",
+            "category": "Animated Feature Film",
+            "year": 2007,
+            "tmdb": {
+                "id": 9836,
+                "original_title": "Happy Feet",
+                "title": "Happy Feet: O Pinguim",
+                "release_date": "2006-11-16",
+                "backdrop_path": "/9DUAR7p4SGqt2ISH2lmSzNx3uni.jpg",
+                "poster_path": "/vd5OoU5rhfKblLoLwaCK5QU0yJS.jpg",
+                "overview": "Os pinguins imperadores nasceram para cantar. Todos eles, a n\u00e3o ser o jovem Mano, que parece ter nascido para sapatear...  Esse comportamento pouco comum para um pinguim acaba cavando a sa\u00edda de Mano da Terra do Imperador e o lan\u00e7a em um mundo enorme e frio. Acompanhado por amigos e por um bando de pinguins diferentes liderados pelo divertido Amoroso. Mano embarca em uma jornada \u00e9pica e definitiva para sua vida, que prova que sendo fiel aquilo que acredita, qualquer pessoa pode fazer diferen\u00e7a no mundo.",
+                "vote_average": 6.2,
+                "vote_count": 4895
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Cars",
+            "second_label": "John Lasseter",
+            "category": "Animated Feature Film",
+            "year": 2007,
+            "tmdb": {
+                "id": 920,
+                "original_title": "Cars",
+                "title": "Carros",
+                "release_date": "2006-06-08",
+                "backdrop_path": "/sd4xN5xi8tKRPrJOWwNiZEile7f.jpg",
+                "poster_path": "/2nM2NRV8wt3n3ffoHQ3KdMkY3vR.jpg",
+                "overview": "Ao viajar para a Calif\u00f3rnia, o famoso carro de corridas Rel\u00e2mpago McQueen se perde e vai parar em Radiator Springs, uma cidadezinha na Rota 66. Ele conhece novos amigos e aprende li\u00e7\u00f5es que mudam sua forma de encarar a vida.",
+                "vote_average": 6.96,
+                "vote_count": 13356
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Monster House",
+            "second_label": "Gil Kenan",
+            "category": "Animated Feature Film",
+            "year": 2007,
+            "tmdb": {
+                "id": 9297,
+                "original_title": "Monster House",
+                "title": "A Casa Monstro",
+                "release_date": "2006-06-30",
+                "backdrop_path": "/aDnCTWpWMHcQxOeGWsITmoLuEGy.jpg",
+                "poster_path": "/qBEpDF693Bql7roL6LY3SsNHg52.jpg",
+                "overview": "DJ Walters (Mitchel Musso) \u00e9 um garoto de 12 anos que acredita que h\u00e1 algo de estranho na casa do velho Nebbercracker (Steve Buscemi), localizada do outro lado da rua. Tudo que passa perto da casa simplesmente desaparece, incluindo triciclos, brinquedos e animais de estima\u00e7\u00e3o. Na v\u00e9spera do Dia das Bruxas, DJ e seu amigo Chowder (Sam Lester) deixam que a bola de basquete com a qual est\u00e3o jogando caia no terreno de Nebbercracker, sumindo misteriosamente. Logo em seguida a casa tenta devorar Jenny (Spencer Locke), uma amiga de ambos, que \u00e9 salva do ataque. Eles tentam avisar a todos do perigo que \u00e9 a casa, mas ningu\u00e9m acredita neles.",
+                "vote_average": 6.679,
+                "vote_count": 3768
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction": [
+        {
+            "first_label": "Pan's Labyrinth",
+            "second_label": "Art Direction: Eugenio Caballero; Set Decoration: Pilar Revuelta",
+            "category": "Art Direction",
+            "year": 2007,
+            "tmdb": {
+                "id": 1417,
+                "original_title": "El laberinto del fauno",
+                "title": "O Labirinto do Fauno",
+                "release_date": "2006-10-10",
+                "backdrop_path": "/o0IWa75BXyXryNDVqw0xoXZzy1J.jpg",
+                "poster_path": "/53ZMT8Y18gwLpInzRLMEebAZxew.jpg",
+                "overview": "Em 1944, na Espanha, a jovem Of\u00e9lia e sua m\u00e3e doente chegam ao posto do novo marido de sua m\u00e3e, um s\u00e1dico oficial do ex\u00e9rcito que est\u00e1 tentando reprimir uma guerrilheira. Enquanto explorava um labirinto antigo, Of\u00e9lia encontra o Pan fauno, que diz que a menina \u00e9 uma lend\u00e1ria princesa perdida e que ela precisa completar tr\u00eas tarefas perigosas a fim de se tornar imortal.",
+                "vote_average": 7.757,
+                "vote_count": 10141
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Dreamgirls",
+            "second_label": "Art Direction: John Myhre; Set Decoration: Nancy Haigh",
+            "category": "Art Direction",
+            "year": 2007,
+            "tmdb": {
+                "id": 1125,
+                "original_title": "Dreamgirls",
+                "title": "Dreamgirls: Em Busca de um Sonho",
+                "release_date": "2006-12-25",
+                "backdrop_path": "/8wYluVq5AVXhnFFMhUYD9D4rTz5.jpg",
+                "poster_path": "/iOnvL3i8yVgFiIe6cLPELp1Yi1K.jpg",
+                "overview": "Effie White, Deena Jones e Lorrell Robinson moram em Chicago e formam um grupo musical, as Dreamettes. As tr\u00eas come\u00e7am a fazer sucesso gra\u00e7as ao manipulador empres\u00e1rio Curtis Taylor Jr., que consegue fazer com que elas acompanhem um cantor de \"soul\". Os conflitos come\u00e7am quando Curtis sonha em transformar as Dreamettes em Dreams. Sua ideia \u00e9 trocar Effie por Deena e fazer dela a vocalista principal do grupo, o que deixa evidente seu interesse rom\u00e2ntico pela jovem.",
+                "vote_average": 6.7,
+                "vote_count": 950
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Good Shepherd",
+            "second_label": "Art Direction: Jeannine Oppewall; Set Decoration: Gretchen Rau and Leslie E. Rollins",
+            "category": "Art Direction",
+            "year": 2007,
+            "tmdb": {
+                "id": 1247,
+                "original_title": "The Good Shepherd",
+                "title": "O Bom Pastor",
+                "release_date": "2006-12-11",
+                "backdrop_path": "/9djPnra3CJs83JAqcyhy9lpvsnI.jpg",
+                "poster_path": "/ApS1M1YQXbz6JfDlLE2W3vpvpiP.jpg",
+                "overview": "Marcado pelo suic\u00eddio do pai, jovem ingressa em sociedade secreta na universidade e depois vira agente de intelig\u00eancia do governo americano. Mas, para obter sucesso no trabalho, acaba sacrificando a vida pessoal e a fam\u00edlia.",
+                "vote_average": 6.3,
+                "vote_count": 1087
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Pirates of the Caribbean: Dead Man's Chest",
+            "second_label": "Art Direction: Rick Heinrichs; Set Decoration: Cheryl Carasik",
+            "category": "Art Direction",
+            "year": 2007,
+            "tmdb": {
+                "id": 58,
+                "original_title": "Pirates of the Caribbean: Dead Man's Chest",
+                "title": "Piratas do Caribe: O Ba\u00fa da Morte",
+                "release_date": "2006-07-06",
+                "backdrop_path": "/vv5a8u6e40kyH0Hp6HuamAgzRai.jpg",
+                "poster_path": "/dCXOveWolVMMbJZQ0cNslpqohPM.jpg",
+                "overview": "Will e Elizabeth est\u00e3o prestes a se casar quando o lend\u00e1rio pirata Davy Jones, comandante do invenc\u00edvel navio assombrado, aparece para cobrar uma d\u00edvida do capit\u00e3o Jack Sparrow, amigo do casal. A \u00fanica chance de Sparrow se livrar de uma maldi\u00e7\u00e3o de Jones \u00e9 encontrando o ba\u00fa da morte.",
+                "vote_average": 7.355,
+                "vote_count": 15317
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Prestige",
+            "second_label": "Art Direction: Nathan Crowley; Set Decoration: Julie Ochipinti",
+            "category": "Art Direction",
+            "year": 2007,
+            "tmdb": {
+                "id": 1124,
+                "original_title": "The Prestige",
+                "title": "O Grande Truque",
+                "release_date": "2006-10-19",
+                "backdrop_path": "/xBDE2d6HM1aBKQRu4IT7SfPD9fs.jpg",
+                "poster_path": "/9QxqZI7ssVzyKEBwdUvOt3AUWzA.jpg",
+                "overview": "No s\u00e9culo 19, em Londres, dois amigos ilusionistas e m\u00e1gicos, Alfred Borden e Rupert Angier, acabam construindo uma rivalidade, uma batalha por supremacia, que se estende ao longo dos anos e que se transforma em obsess\u00e3o, cujos resultados ser\u00e3o inevitavelmente tr\u00e1gicos.",
+                "vote_average": 8.204,
+                "vote_count": 15312
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "Pan's Labyrinth",
+            "second_label": "Guillermo Navarro",
+            "category": "Cinematography",
+            "year": 2007,
+            "tmdb": {
+                "id": 1417,
+                "original_title": "El laberinto del fauno",
+                "title": "O Labirinto do Fauno",
+                "release_date": "2006-10-10",
+                "backdrop_path": "/o0IWa75BXyXryNDVqw0xoXZzy1J.jpg",
+                "poster_path": "/53ZMT8Y18gwLpInzRLMEebAZxew.jpg",
+                "overview": "Em 1944, na Espanha, a jovem Of\u00e9lia e sua m\u00e3e doente chegam ao posto do novo marido de sua m\u00e3e, um s\u00e1dico oficial do ex\u00e9rcito que est\u00e1 tentando reprimir uma guerrilheira. Enquanto explorava um labirinto antigo, Of\u00e9lia encontra o Pan fauno, que diz que a menina \u00e9 uma lend\u00e1ria princesa perdida e que ela precisa completar tr\u00eas tarefas perigosas a fim de se tornar imortal.",
+                "vote_average": 7.757,
+                "vote_count": 10141
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Black Dahlia",
+            "second_label": "Vilmos Zsigmond",
+            "category": "Cinematography",
+            "year": 2007,
+            "tmdb": {
+                "id": 9676,
+                "original_title": "The Black Dahlia",
+                "title": "A D\u00e1lia Negra",
+                "release_date": "2006-09-15",
+                "backdrop_path": "/fDGLPd3bWZHq1PWG9XSHotj82cm.jpg",
+                "poster_path": "/lM09kkf1cdM3nIHz8L14eqg2wQM.jpg",
+                "overview": "Um jovem policial e sua equipe descobre corpos de mulheres dilaceradas na cidade, parecidos com o caso da D\u00e1lia Negra, de 1947. Um serial Killer parece ter copiado o massacre brutal de Betty Short, aspirante \u00e0 estrela de Hollywood dos anos 1940. Suas investiga\u00e7\u00f5es o levaram a um assustador covil de morte e tortura, todas partes de uma terr\u00edvel fantasia que o assassino est\u00e1 tentado trazer a vida.",
+                "vote_average": 5.6,
+                "vote_count": 1043
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Children of Men",
+            "second_label": "Emmanuel Lubezki",
+            "category": "Cinematography",
+            "year": 2007,
+            "tmdb": {
+                "id": 9693,
+                "original_title": "Children of Men",
+                "title": "Filhos da Esperan\u00e7a",
+                "release_date": "2006-09-22",
+                "backdrop_path": "/z8FzomPxfCb2nv827VWLSI6oYiB.jpg",
+                "poster_path": "/BHTzFqP7hrjicDiSYf6wtS8Xb7.jpg",
+                "overview": "No ano de 2027, a infertilidade \u00e9 uma amea\u00e7a real para a civiliza\u00e7\u00e3o, e o \u00faltimo humano a nascer em anos acaba de morrer. Frente a um cen\u00e1rio pessimista sobre o futuro, um burocrata desiludido se torna o her\u00f3i improv\u00e1vel que pode salvar a humanidade. Para isso, ele enfrenta seus pr\u00f3prios dem\u00f4nios e tenta proteger a \u00faltima esperan\u00e7a do planeta: uma jovem mulher milagrosamente gr\u00e1vida, descoberta pela ativista inteligente com quem fora casado.",
+                "vote_average": 7.611,
+                "vote_count": 6765
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Illusionist",
+            "second_label": "Dick Pope",
+            "category": "Cinematography",
+            "year": 2007,
+            "tmdb": {
+                "id": 1491,
+                "original_title": "The Illusionist",
+                "title": "O Ilusionista",
+                "release_date": "2006-08-18",
+                "backdrop_path": "/goBTeGaT42cVNjXRlRVQDnEmCvI.jpg",
+                "poster_path": "/uvHWsmniMfN8vfXerzwQueacv6w.jpg",
+                "overview": "Viena, in\u00edcio dos anos 1900. Um famoso m\u00e1gico chamado Eisenheim se apaixona por uma duquesa comprometida e usa suas habilidades para roub\u00e1-la das garras do noivo, o pr\u00edncipe herdeiro.",
+                "vote_average": 7.296,
+                "vote_count": 4688
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Prestige",
+            "second_label": "Wally Pfister",
+            "category": "Cinematography",
+            "year": 2007,
+            "tmdb": {
+                "id": 1124,
+                "original_title": "The Prestige",
+                "title": "O Grande Truque",
+                "release_date": "2006-10-19",
+                "backdrop_path": "/xBDE2d6HM1aBKQRu4IT7SfPD9fs.jpg",
+                "poster_path": "/9QxqZI7ssVzyKEBwdUvOt3AUWzA.jpg",
+                "overview": "No s\u00e9culo 19, em Londres, dois amigos ilusionistas e m\u00e1gicos, Alfred Borden e Rupert Angier, acabam construindo uma rivalidade, uma batalha por supremacia, que se estende ao longo dos anos e que se transforma em obsess\u00e3o, cujos resultados ser\u00e3o inevitavelmente tr\u00e1gicos.",
+                "vote_average": 8.204,
+                "vote_count": 15312
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design": [
+        {
+            "first_label": "Marie Antoinette",
+            "second_label": "Milena Canonero",
+            "category": "Costume Design",
+            "year": 2007,
+            "tmdb": {
+                "id": 1887,
+                "original_title": "Marie Antoinette",
+                "title": "Maria Antonieta",
+                "release_date": "2006-05-24",
+                "backdrop_path": "/hlbRkinr9YcC3UOc871Df5zu9Ly.jpg",
+                "poster_path": "/vNfj6VugXbMDijw9FGln3SHAyKV.jpg",
+                "overview": "A princesa austr\u00edaca Maria Antonieta (Kirsten Dunst) \u00e9 enviada ainda adolescente \u00e0 Fran\u00e7a para se casar com o pr\u00edncipe Luis XVI (Jason Schwartzman), como parte de um acordo entre os pa\u00edses. Na corte de Versalles ela \u00e9 envolvida em r\u00edgidas regras de etiqueta, ferrenhas disputas familiares e fofocas insuport\u00e1veis, mundo em que nunca se sentiu confort\u00e1vel. Praticamente exilada, decide criar um universo \u00e0 parte dentro daquela corte, no qual pode se divertir e aproveitar sua juventude. S\u00f3 que, fora das paredes do pal\u00e1cio, a revolu\u00e7\u00e3o n\u00e3o pode mais esperar para explodir.",
+                "vote_average": 6.7,
+                "vote_count": 2584
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Curse of the Golden Flower",
+            "second_label": "Yee Chung Man",
+            "category": "Costume Design",
+            "year": 2007,
+            "tmdb": {
+                "id": 1494,
+                "original_title": "\u6eff\u57ce\u76e1\u5e36\u9ec3\u91d1\u7532",
+                "title": "A Maldi\u00e7\u00e3o da Flor Dourada",
+                "release_date": "2006-12-14",
+                "backdrop_path": "/sVakfYqdbBglnIOjOAV6fGkaXfw.jpg",
+                "poster_path": "/ev84VkAxMTrkXDMRXD9mn4ABw1b.jpg",
+                "overview": "Imperador mant\u00e9m rela\u00e7\u00e3o fria com imperatriz que, por sua vez, tem um caso com o pr\u00edncipe, seu enteado. Este \u00e9 secretamente apaixonado pela filha do m\u00e9dico imperial e sonha em fugir do pal\u00e1cio, se livrando de sua pris\u00e3o.",
+                "vote_average": 6.8,
+                "vote_count": 682
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Devil Wears Prada",
+            "second_label": "Patricia Field",
+            "category": "Costume Design",
+            "year": 2007,
+            "tmdb": {
+                "id": 350,
+                "original_title": "The Devil Wears Prada",
+                "title": "O Diabo Veste Prada",
+                "release_date": "2006-06-29",
+                "backdrop_path": "/CpLAfXgSNeNRRbRzPrTuzKmIHO.jpg",
+                "poster_path": "/fwaioeouE89lrcnckfluzIKMwSu.jpg",
+                "overview": "Andrea Sachs \u00e9 uma jovem que conseguiu um emprego na Runaway Magazine, a mais importante revista de moda de Nova York. Ela passa a trabalhar como assistente de Miranda Priestly, principal executiva da revista. Apesar da chance que muitos sonhariam em conseguir, logo Andrea nota que trabalhar com Miranda n\u00e3o \u00e9 t\u00e3o simples assim.",
+                "vote_average": 7.394,
+                "vote_count": 11527
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dreamgirls",
+            "second_label": "Sharen Davis",
+            "category": "Costume Design",
+            "year": 2007,
+            "tmdb": {
+                "id": 1125,
+                "original_title": "Dreamgirls",
+                "title": "Dreamgirls: Em Busca de um Sonho",
+                "release_date": "2006-12-25",
+                "backdrop_path": "/8wYluVq5AVXhnFFMhUYD9D4rTz5.jpg",
+                "poster_path": "/iOnvL3i8yVgFiIe6cLPELp1Yi1K.jpg",
+                "overview": "Effie White, Deena Jones e Lorrell Robinson moram em Chicago e formam um grupo musical, as Dreamettes. As tr\u00eas come\u00e7am a fazer sucesso gra\u00e7as ao manipulador empres\u00e1rio Curtis Taylor Jr., que consegue fazer com que elas acompanhem um cantor de \"soul\". Os conflitos come\u00e7am quando Curtis sonha em transformar as Dreamettes em Dreams. Sua ideia \u00e9 trocar Effie por Deena e fazer dela a vocalista principal do grupo, o que deixa evidente seu interesse rom\u00e2ntico pela jovem.",
+                "vote_average": 6.7,
+                "vote_count": 950
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Queen",
+            "second_label": "Consolata Boyle",
+            "category": "Costume Design",
+            "year": 2007,
+            "tmdb": {
+                "id": 1165,
+                "original_title": "The Queen",
+                "title": "A Rainha",
+                "release_date": "2006-09-15",
+                "backdrop_path": "/7HmIVY3drZ3KSugRcyazn1Wf3U9.jpg",
+                "poster_path": "/kd9rMMLWZRIT00Yiphyjbjm32LH.jpg",
+                "overview": "A not\u00edcia da morte da princesa Diana se espalha rapidamente pelo mundo. Incapaz de compreender a rea\u00e7\u00e3o emocional do p\u00fablico brit\u00e2nico, a rainha Elizabeth II (Helen Mirren) se fecha com a fam\u00edlia real no pal\u00e1cio Balmoral. Tony Blair (Michael Sheen), o rec\u00e9m-apontado primeiro-ministro brit\u00e2nico, percebe que os l\u00edderes do pa\u00eds precisam tomar medidas que os reaproximem da popula\u00e7\u00e3o e \u00e9 com essa miss\u00e3o que ele procura a rainha.",
+                "vote_average": 7.0,
+                "vote_count": 1233
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "The Departed",
+            "second_label": "Martin Scorsese",
+            "category": "Directing",
+            "year": 2007,
+            "tmdb": {
+                "id": 1422,
+                "original_title": "The Departed",
+                "title": "Os Infiltrados",
+                "release_date": "2006-10-04",
+                "backdrop_path": "/6WRrGYalXXveItfpnipYdayFkQB.jpg",
+                "poster_path": "/qtnAwzDapzOML4Q9p7lv2bk5gvz.jpg",
+                "overview": "Billy Costigan, um jovem policial, recebe a miss\u00e3o de se infiltrar na m\u00e1fia, mais especificamente no grupo comandado por Frank Costello. Billy conquista sua confian\u00e7a ao mesmo tempo em que Colin Sullivan, um criminoso que atuou na pol\u00edcia como informante de Costello, tamb\u00e9m ascende dentro da corpora\u00e7\u00e3o. Tanto Billy quanto Colin se sentem aflitos devido \u00e0 vida dupla que levam. Mas quando a m\u00e1fia e a pol\u00edcia descobrem que h\u00e1 um espi\u00e3o entre eles, a vida de ambos passa a correr perigo.",
+                "vote_average": 8.167,
+                "vote_count": 14284
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Babel",
+            "second_label": "Babel",
+            "category": "Directing",
+            "year": 2007,
+            "tmdb": {
+                "id": 1164,
+                "original_title": "Babel",
+                "title": "Babel",
+                "release_date": "2006-10-26",
+                "backdrop_path": "/9YoLdWeBSxAdR6BqQ5uS88d3FWO.jpg",
+                "poster_path": "/oUmiBeGYqp7QFfrXfmXT6YWjx0H.jpg",
+                "overview": "Um \u00f4nibus repleto de turistas atravessa uma regi\u00e3o montanhosa do Marrocos. Entre os viajantes est\u00e3o Richard (Brad Pitt) e Susan (Cate Blanchett), um casal de americanos. Ali perto os meninos Ahmed (Said Tarchani) e Youssef (Boubker At El Caid) manejam um rifle que seu pai lhes deu para proteger a pequena cria\u00e7\u00e3o de cabras da fam\u00edlia. Um tiro atinge o \u00f4nibus, ferindo Susan. A partir da\u00ed o filme mostra como este fato afeta a vida de pessoas em v\u00e1rios pontos diferentes do mundo: nos Estados Unidos, onde Richard e Susan deixaram seus filhos aos cuidados da bab\u00e1 mexicana; no Jap\u00e3o, onde um homem (K\u00f4ji Yakusho) tenta superar a morte tr\u00e1gica de sua mulher e ajudar a filha surda (Rinko Kinkuchi) a aceitar a perda; no M\u00e9xico, para onde a bab\u00e1 (Adriana Barraza) acaba levando as crian\u00e7as; e ali mesmo, no Marrocos, onde a pol\u00edcia passa a procurar suspeitos de um ato terrorista.",
+                "vote_average": 7.2,
+                "vote_count": 3576
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Letters from Iwo Jima",
+            "second_label": "Clint Eastwood",
+            "category": "Directing",
+            "year": 2007,
+            "tmdb": {
+                "id": 1251,
+                "original_title": "Letters from Iwo Jima",
+                "title": "Cartas de Iwo Jima",
+                "release_date": "2006-12-09",
+                "backdrop_path": "/p9V3vD1Ye2zRNfTsE8oY58Fe81S.jpg",
+                "poster_path": "/bePSUYRqxtQrLNGdx3E3BFxqiHT.jpg",
+                "overview": "Junho de 1944. Tadamichi Kuribayashi (Ken Watanabe), o tenente-general do ex\u00e9rcito imperial japon\u00eas, chega na ilha de Iwo Jima. Muito respeitado por ser um h\u00e1bil estrategista, Kuribayashi estudara nos Estados Unidos, onde fizera grandes amigos e conhecia o ex\u00e9rcito ocidental e sua capacidade tecnol\u00f3gica. Por isso, o Jap\u00e3o colocou em suas m\u00e3os o destino de Iwo Jima, considerada a \u00faltima linha defesa do pa\u00eds. Ao contr\u00e1rio dos outros comandantes, Kuribayashi moderniza o modo de agir, alterando a estrat\u00e9gia que era usada. Ele supervisiona a constru\u00e7\u00e3o de uma fortaleza subterr\u00e2nea, feita de t\u00faneis que davam para as suas tropas a estrat\u00e9gia ideal contra as for\u00e7as americanas, que come\u00e7am a desembarcar na ilha em 19 de fevereiro de 1945.",
+                "vote_average": 7.5,
+                "vote_count": 1942
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Queen",
+            "second_label": "Stephen Frears",
+            "category": "Directing",
+            "year": 2007,
+            "tmdb": {
+                "id": 1165,
+                "original_title": "The Queen",
+                "title": "A Rainha",
+                "release_date": "2006-09-15",
+                "backdrop_path": "/7HmIVY3drZ3KSugRcyazn1Wf3U9.jpg",
+                "poster_path": "/kd9rMMLWZRIT00Yiphyjbjm32LH.jpg",
+                "overview": "A not\u00edcia da morte da princesa Diana se espalha rapidamente pelo mundo. Incapaz de compreender a rea\u00e7\u00e3o emocional do p\u00fablico brit\u00e2nico, a rainha Elizabeth II (Helen Mirren) se fecha com a fam\u00edlia real no pal\u00e1cio Balmoral. Tony Blair (Michael Sheen), o rec\u00e9m-apontado primeiro-ministro brit\u00e2nico, percebe que os l\u00edderes do pa\u00eds precisam tomar medidas que os reaproximem da popula\u00e7\u00e3o e \u00e9 com essa miss\u00e3o que ele procura a rainha.",
+                "vote_average": 7.0,
+                "vote_count": 1233
+            },
+            "winner": false
+        },
+        {
+            "first_label": "United 93",
+            "second_label": "Paul Greengrass",
+            "category": "Directing",
+            "year": 2007,
+            "tmdb": {
+                "id": 9829,
+                "original_title": "United 93",
+                "title": "V\u00f4o United 93",
+                "release_date": "2006-04-28",
+                "backdrop_path": "/pbm04tWNa8MkbPqJ33yrGVXTWAl.jpg",
+                "poster_path": "/tPq0oTWflzK0BI1QjhPbsFwxhDp.jpg",
+                "overview": "Em 11 de setembro de 2001 o v\u00f4o 93 da United Airlines \u00e9 sequestrado por terroristas, que t\u00eam por objetivo abat\u00ea-lo junto a algum s\u00edmbolo norte-americano. Durante 90 minutos o avi\u00e3o permanece no ar, sendo que neste per\u00edodo os passageiros decidem reagir para evitar que os planos terroristas sejam conclu\u00eddos.",
+                "vote_average": 7.1,
+                "vote_count": 1403
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "An Inconvenient Truth",
+            "second_label": "Davis Guggenheim",
+            "category": "Documentary (Feature)",
+            "year": 2007,
+            "tmdb": {
+                "id": 1781,
+                "original_title": "An Inconvenient Truth",
+                "title": "Uma Verdade Inconveniente",
+                "release_date": "2006-05-24",
+                "backdrop_path": "/4Nx3XAGPwv5AfdrSq9LFDEACl3T.jpg",
+                "poster_path": "/zrYT5UHE2UIsofwkv6KK2Tsu5a.jpg",
+                "overview": "O ex-vice-presidente dos Estados Unidos Al Gore apresenta uma an\u00e1lise da quest\u00e3o do aquecimento global, mostrando os mitos e equ\u00edvocos existentes em torno do tema e tamb\u00e9m poss\u00edveis sa\u00eddas para que o planeta n\u00e3o passe por uma cat\u00e1strofe clim\u00e1tica nas pr\u00f3ximas d\u00e9cadas.",
+                "vote_average": 7.0,
+                "vote_count": 827
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Deliver Us from Evil",
+            "second_label": "Amy Berg and Frank Donner",
+            "category": "Documentary (Feature)",
+            "year": 2007,
+            "tmdb": {
+                "id": 13364,
+                "original_title": "Deliver Us from Evil",
+                "title": "Livrai-nos Do Mal",
+                "release_date": "2006-06-24",
+                "backdrop_path": "/7YkPt330wYGkQKmF26LTpaDB4R5.jpg",
+                "poster_path": "/iRKU9bayU4nZHzlKYpE1KlcT5KW.jpg",
+                "overview": "Circulando por diversas par\u00f3quias no norte da Calif\u00f3rnia (EUA) nos anos 70, o padre Oliver O'Grady sempre foi muito respeitado por onde passou. No entanto, conforme a Igreja j\u00e1 sabia por 30 anos, ele era um perigoso e ativo ped\u00f3filo, tendo abusado de diversas v\u00edtimas nas par\u00f3quias por onde passou. O document\u00e1rio mistura depoimentos do pr\u00f3prio padre e das v\u00edtimas e seus familiares para tra\u00e7ar o quadro desgastado no qual se encontra a Igreja Cat\u00f3lica, bem como as caracter\u00edsticas problem\u00e1ticas de O'Grady.",
+                "vote_average": 7.2,
+                "vote_count": 184
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Iraq in Fragments",
+            "second_label": "James Longley and John Sinno",
+            "category": "Documentary (Feature)",
+            "year": 2007,
+            "tmdb": {
+                "id": 34389,
+                "original_title": "Iraq in Fragments",
+                "title": "Iraque em Fragmentos",
+                "release_date": "2006-01-21",
+                "backdrop_path": "/zcqL8FoVKxZjuzO4znqvqdvLJtg.jpg",
+                "poster_path": "/snVhUvp5Cq8Vaxr19sPl33eeYX0.jpg",
+                "overview": "An opus in three parts, Iraq In Fragments offers a series of intimate, passionately-felt portraits: A fatherless 11-year-old is apprenticed to the domineering owner of a Baghdad garage; Sadr followers in two Shiite cities rally for regional elections while enforcing Islamic law at the point of a gun; a family of Kurdish farmers welcomes the US presence, which has allowed them a measure of freedom previously denied. American director James Longley spent more than two years filming in Iraq to create this stunningly photographed, poetically rendered documentary of the war-torn country as seen through the eyes of Sunnis, Shiites and Kurds.",
+                "vote_average": 6.6,
+                "vote_count": 16
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jesus Camp",
+            "second_label": "Heidi Ewing and Rachel Grady",
+            "category": "Documentary (Feature)",
+            "year": 2007,
+            "tmdb": {
+                "id": 1776,
+                "original_title": "Jesus Camp",
+                "title": "Jesus Camp",
+                "release_date": "2006-09-15",
+                "backdrop_path": "/8bPFRgV1kdJuta36UsNAbEbfXng.jpg",
+                "poster_path": "/6ueSRBYaicEYvR2sFHVvptKNaxI.jpg",
+                "overview": "Jesus Camp is a Christian summer camp where children hone their \"prophetic gifts\" and are schooled in how to \"take back America for Christ\". The film is a first-ever look into an intense training ground that recruits born-again Christian children to become an active part of America's political future.",
+                "vote_average": 7.0,
+                "vote_count": 337
+            },
+            "winner": false
+        },
+        {
+            "first_label": "My Country, My Country",
+            "second_label": "Laura Poitras and Jocelyn Glatzer",
+            "category": "Documentary (Feature)",
+            "year": 2007,
+            "tmdb": {
+                "id": 50100,
+                "original_title": "My Country, My Country",
+                "title": "My Country, My Country",
+                "release_date": "2006-08-06",
+                "backdrop_path": null,
+                "poster_path": "/eJzKyh1apVWLiDDwPUIfyOBgsIr.jpg",
+                "overview": "The director follows a Sunni Arab doctor as he prepares to run for the early 2005 elections in Iraq.",
+                "vote_average": 7.1,
+                "vote_count": 14
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "The Blood of Yingzhou District",
+            "second_label": "Ruby Yang and Thomas Lennon",
+            "category": "Documentary (Short Subject)",
+            "year": 2007,
+            "tmdb": {
+                "id": 170057,
+                "original_title": "The Blood of Yingzhou District",
+                "title": "The Blood of Yingzhou District",
+                "release_date": "2006-06-13",
+                "backdrop_path": null,
+                "poster_path": "/A55PbLBRgta0uEFcWqCEltZLrvo.jpg",
+                "overview": "A year in the life of children in the Province of Anhui in China, who have lost their parents to AIDS. Traditional obligations to family and village collide with terror of the disease.",
+                "vote_average": 7.1,
+                "vote_count": 10
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Recycled Life",
+            "second_label": "Leslie Iwerks and Mike Glad",
+            "category": "Documentary (Short Subject)",
+            "year": 2007,
+            "tmdb": {
+                "id": 58919,
+                "original_title": "Recycled Life",
+                "title": "Recycled Life",
+                "release_date": "2006-01-01",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "The dramatic and touching story of thousands of adults, children, and generations of families who have been living and working in the largest and most toxic landfill in Central America, the Guatemala City Garbage Dump, over the last sixty years.",
+                "vote_average": 6.8,
+                "vote_count": 6
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rehearsing a Dream",
+            "second_label": "Karen Goodman and Kirk Simon",
+            "category": "Documentary (Short Subject)",
+            "year": 2007,
+            "tmdb": {
+                "id": 245020,
+                "original_title": "Rehearsing a Dream",
+                "title": "Rehearsing a Dream",
+                "release_date": "2006-08-25",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "Support for the arts in America may be dwindling, but talent in our high schools isn't. Every year a group of the country's most gifted 17-year-old performing and visual artists - singled out among thousands of their peers - share a week of dreams as they learn from mentors like Mikhail Baryshnikov, Vanessa Williams, Jacques d'Amboise, Michael Tilson Thomas... and from each other. For seven transformative days, the passionate young artists revel in the support, encouragement and attention they have earned.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Two Hands",
+            "second_label": "Nathaniel Kahn and Susan Rose Behr",
+            "category": "Documentary (Short Subject)",
+            "year": 2007,
+            "tmdb": {
+                "id": 245021,
+                "original_title": "Two Hands: The Leon Fleisher Story",
+                "title": "Two Hands: The Leon Fleisher Story",
+                "release_date": "2006-08-11",
+                "backdrop_path": null,
+                "poster_path": "/bhIX0P5Ls82sT8Qra1bR6MeDd6v.jpg",
+                "overview": "In 1964, Leon Fleisher's career as a concert pianist was thriving. A seemingly minor accident - a cut on his right thumb - led to dystonia, the involuntary curling of his right hand's ring and little fingers. In recent interviews, Fleisher talks about what followed: the end of a marriage, despair and disappointments, surgery in 1983 that led to a brief return to the concert hall, and, finally, with Botox and Rolfing, the ability to play with two hands. In between, Fleisher discovers his ecstasies: conducting, teaching, and playing compositions for one hand commissioned in the early twentieth century for a World War I veteran.",
+                "vote_average": 4.5,
+                "vote_count": 4
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "The Departed",
+            "second_label": "Thelma Schoonmaker",
+            "category": "Film Editing",
+            "year": 2007,
+            "tmdb": {
+                "id": 1422,
+                "original_title": "The Departed",
+                "title": "Os Infiltrados",
+                "release_date": "2006-10-04",
+                "backdrop_path": "/6WRrGYalXXveItfpnipYdayFkQB.jpg",
+                "poster_path": "/qtnAwzDapzOML4Q9p7lv2bk5gvz.jpg",
+                "overview": "Billy Costigan, um jovem policial, recebe a miss\u00e3o de se infiltrar na m\u00e1fia, mais especificamente no grupo comandado por Frank Costello. Billy conquista sua confian\u00e7a ao mesmo tempo em que Colin Sullivan, um criminoso que atuou na pol\u00edcia como informante de Costello, tamb\u00e9m ascende dentro da corpora\u00e7\u00e3o. Tanto Billy quanto Colin se sentem aflitos devido \u00e0 vida dupla que levam. Mas quando a m\u00e1fia e a pol\u00edcia descobrem que h\u00e1 um espi\u00e3o entre eles, a vida de ambos passa a correr perigo.",
+                "vote_average": 8.167,
+                "vote_count": 14284
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Babel",
+            "second_label": "Stephen Mirrione and Douglas Crise",
+            "category": "Film Editing",
+            "year": 2007,
+            "tmdb": {
+                "id": 1164,
+                "original_title": "Babel",
+                "title": "Babel",
+                "release_date": "2006-10-26",
+                "backdrop_path": "/9YoLdWeBSxAdR6BqQ5uS88d3FWO.jpg",
+                "poster_path": "/oUmiBeGYqp7QFfrXfmXT6YWjx0H.jpg",
+                "overview": "Um \u00f4nibus repleto de turistas atravessa uma regi\u00e3o montanhosa do Marrocos. Entre os viajantes est\u00e3o Richard (Brad Pitt) e Susan (Cate Blanchett), um casal de americanos. Ali perto os meninos Ahmed (Said Tarchani) e Youssef (Boubker At El Caid) manejam um rifle que seu pai lhes deu para proteger a pequena cria\u00e7\u00e3o de cabras da fam\u00edlia. Um tiro atinge o \u00f4nibus, ferindo Susan. A partir da\u00ed o filme mostra como este fato afeta a vida de pessoas em v\u00e1rios pontos diferentes do mundo: nos Estados Unidos, onde Richard e Susan deixaram seus filhos aos cuidados da bab\u00e1 mexicana; no Jap\u00e3o, onde um homem (K\u00f4ji Yakusho) tenta superar a morte tr\u00e1gica de sua mulher e ajudar a filha surda (Rinko Kinkuchi) a aceitar a perda; no M\u00e9xico, para onde a bab\u00e1 (Adriana Barraza) acaba levando as crian\u00e7as; e ali mesmo, no Marrocos, onde a pol\u00edcia passa a procurar suspeitos de um ato terrorista.",
+                "vote_average": 7.2,
+                "vote_count": 3576
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Blood Diamond",
+            "second_label": "Steven Rosenblum",
+            "category": "Film Editing",
+            "year": 2007,
+            "tmdb": {
+                "id": 1372,
+                "original_title": "Blood Diamond",
+                "title": "Diamante de Sangue",
+                "release_date": "2006-12-08",
+                "backdrop_path": "/466zklOlxKDXID4ejaIXu3PN5nV.jpg",
+                "poster_path": "/sy2EYPcxGJUBSdJdtMGBBarKG9c.jpg",
+                "overview": "Quando a Guerra Civil se enfurece na d\u00e9cada de 1990 em Serra Leoa, dois homens, um branco sul-africano mercen\u00e1rio e um pescador negro, se juntam em uma busca para recuperar uma joia rara que tem o poder de transformar suas vidas. Com a ajuda de uma jornalista norte-americana, os homens embarcam em uma jornada perigosa atrav\u00e9s do territ\u00f3rio rebelde para conseguir seu objetivo.",
+                "vote_average": 7.542,
+                "vote_count": 7277
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Children of Men",
+            "second_label": "Children of Men",
+            "category": "Film Editing",
+            "year": 2007,
+            "tmdb": {
+                "id": 9693,
+                "original_title": "Children of Men",
+                "title": "Filhos da Esperan\u00e7a",
+                "release_date": "2006-09-22",
+                "backdrop_path": "/z8FzomPxfCb2nv827VWLSI6oYiB.jpg",
+                "poster_path": "/BHTzFqP7hrjicDiSYf6wtS8Xb7.jpg",
+                "overview": "No ano de 2027, a infertilidade \u00e9 uma amea\u00e7a real para a civiliza\u00e7\u00e3o, e o \u00faltimo humano a nascer em anos acaba de morrer. Frente a um cen\u00e1rio pessimista sobre o futuro, um burocrata desiludido se torna o her\u00f3i improv\u00e1vel que pode salvar a humanidade. Para isso, ele enfrenta seus pr\u00f3prios dem\u00f4nios e tenta proteger a \u00faltima esperan\u00e7a do planeta: uma jovem mulher milagrosamente gr\u00e1vida, descoberta pela ativista inteligente com quem fora casado.",
+                "vote_average": 7.611,
+                "vote_count": 6765
+            },
+            "winner": false
+        },
+        {
+            "first_label": "United 93",
+            "second_label": "Clare Douglas, Christopher Rouse and Richard Pearson",
+            "category": "Film Editing",
+            "year": 2007,
+            "tmdb": {
+                "id": 9829,
+                "original_title": "United 93",
+                "title": "V\u00f4o United 93",
+                "release_date": "2006-04-28",
+                "backdrop_path": "/pbm04tWNa8MkbPqJ33yrGVXTWAl.jpg",
+                "poster_path": "/tPq0oTWflzK0BI1QjhPbsFwxhDp.jpg",
+                "overview": "Em 11 de setembro de 2001 o v\u00f4o 93 da United Airlines \u00e9 sequestrado por terroristas, que t\u00eam por objetivo abat\u00ea-lo junto a algum s\u00edmbolo norte-americano. Durante 90 minutos o avi\u00e3o permanece no ar, sendo que neste per\u00edodo os passageiros decidem reagir para evitar que os planos terroristas sejam conclu\u00eddos.",
+                "vote_average": 7.1,
+                "vote_count": 1403
+            },
+            "winner": false
+        }
+    ],
+    "Foreign Language Film": [
+        {
+            "first_label": "The Lives of Others",
+            "second_label": "Germany",
+            "category": "Foreign Language Film",
+            "year": 2007,
+            "tmdb": {
+                "id": 582,
+                "original_title": "Das Leben der Anderen",
+                "title": "A Vida dos Outros",
+                "release_date": "2006-03-23",
+                "backdrop_path": "/3mxteiwtcCPjbYKlyC0WxY1G9J3.jpg",
+                "poster_path": "/fPJBBIZuwmJWMrhSSzYTjF8OR0B.jpg",
+                "overview": "Georg Dreyman \u00e9 o maior dramaturgo da Alemanha Oriental, sendo por muitos considerado o modelo perfeito de cidad\u00e3o para o pa\u00eds, j\u00e1 que n\u00e3o contesta o governo nem seu regime pol\u00edtico. Apesar disto o ministro Bruno Hempf acha por bem acompanhar seus passos, para descobrir se Dreyman tem algo a esconder. Ele passa esta tarefa para Anton Grubitz, que a princ\u00edpio n\u00e3o v\u00ea nada de errado com Dreyman mas \u00e9 alertado por Gerd Wiesler, seu subordinado, de que ele deveria ser vigiado. Grubitz passa a tarefa a Wiesler, que monta uma estrutura em que Dreyman e sua namorada, a atriz Christa-Maria Sieland, s\u00e3o vigiados 24 horas.",
+                "vote_average": 8.0,
+                "vote_count": 3475
+            },
+            "winner": true
+        },
+        {
+            "first_label": "After the Wedding",
+            "second_label": "Denmark",
+            "category": "Foreign Language Film",
+            "year": 2007,
+            "tmdb": {
+                "id": 3549,
+                "original_title": "Efter brylluppet",
+                "title": "Depois do Casamento",
+                "release_date": "2006-02-24",
+                "backdrop_path": "/c2nxaEE0yBcg9qeqrisbkvBxTNh.jpg",
+                "poster_path": "/fLvm1wEPCkTBKUZR1LAT2N05UdE.jpg",
+                "overview": "Jacob mant\u00e9m com dificuldades um orfanato na \u00cdndia. Um empres\u00e1rio dinamarqu\u00eas oferece uma doa\u00e7\u00e3o, mas para obt\u00ea-la, Jacob vai \u00e0 Dinamarca participar do casamento da filha dele. L\u00e1 ele descobre um segredo de fam\u00edlia que pode mudar sua vida.",
+                "vote_average": 7.1,
+                "vote_count": 394
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Days of Glory (Indignes)",
+            "second_label": "Algeria",
+            "category": "Foreign Language Film",
+            "year": 2007,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Pan's Labyrinth",
+            "second_label": "Mexico",
+            "category": "Foreign Language Film",
+            "year": 2007,
+            "tmdb": {
+                "id": 1417,
+                "original_title": "El laberinto del fauno",
+                "title": "O Labirinto do Fauno",
+                "release_date": "2006-10-10",
+                "backdrop_path": "/o0IWa75BXyXryNDVqw0xoXZzy1J.jpg",
+                "poster_path": "/53ZMT8Y18gwLpInzRLMEebAZxew.jpg",
+                "overview": "Em 1944, na Espanha, a jovem Of\u00e9lia e sua m\u00e3e doente chegam ao posto do novo marido de sua m\u00e3e, um s\u00e1dico oficial do ex\u00e9rcito que est\u00e1 tentando reprimir uma guerrilheira. Enquanto explorava um labirinto antigo, Of\u00e9lia encontra o Pan fauno, que diz que a menina \u00e9 uma lend\u00e1ria princesa perdida e que ela precisa completar tr\u00eas tarefas perigosas a fim de se tornar imortal.",
+                "vote_average": 7.757,
+                "vote_count": 10141
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Water",
+            "second_label": "Canada",
+            "category": "Foreign Language Film",
+            "year": 2007,
+            "tmdb": {
+                "id": 9592,
+                "original_title": "Open Water 2: Adrift",
+                "title": "P\u00e2nico em Alto Mar",
+                "release_date": "2006-07-10",
+                "backdrop_path": "/ApgpEdgtU9Y55mehnR9TV9wPyHd.jpg",
+                "poster_path": "/t5VhpASpUwnX3meWPYLSBMORl4e.jpg",
+                "overview": "Grupo de amigos passa um final de semana em alto mar, velejando num luxuoso iate. Quando decidem dar um mergulho, se esquecem de instalar a escada para retornarem \u00e0 embarca\u00e7\u00e3o - que \u00e9 muito alta e imposs\u00edvel de escalar. Eles ficam presos na \u00e1gua, \u00e0 merc\u00ea de todos os perigos poss\u00edveis. A reuni\u00e3o que deveria ser alegre se torna uma luta pela sobreviv\u00eancia. Suposta continua\u00e7\u00e3o de \"Mar Aberto\", feito em 2003.",
+                "vote_average": 5.5,
+                "vote_count": 651
+            },
+            "winner": false
+        }
+    ],
+    "Jean Hersholt Humanitarian Award": [
+        {
+            "first_label": "",
+            "second_label": "Sherry Lansing",
+            "category": "Jean Hersholt Humanitarian Award",
+            "year": 2007,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        }
+    ],
+    "Makeup": [
+        {
+            "first_label": "Pan's Labyrinth",
+            "second_label": "Pan's Labyrinth",
+            "category": "Makeup",
+            "year": 2007,
+            "tmdb": {
+                "id": 1417,
+                "original_title": "El laberinto del fauno",
+                "title": "O Labirinto do Fauno",
+                "release_date": "2006-10-10",
+                "backdrop_path": "/o0IWa75BXyXryNDVqw0xoXZzy1J.jpg",
+                "poster_path": "/53ZMT8Y18gwLpInzRLMEebAZxew.jpg",
+                "overview": "Em 1944, na Espanha, a jovem Of\u00e9lia e sua m\u00e3e doente chegam ao posto do novo marido de sua m\u00e3e, um s\u00e1dico oficial do ex\u00e9rcito que est\u00e1 tentando reprimir uma guerrilheira. Enquanto explorava um labirinto antigo, Of\u00e9lia encontra o Pan fauno, que diz que a menina \u00e9 uma lend\u00e1ria princesa perdida e que ela precisa completar tr\u00eas tarefas perigosas a fim de se tornar imortal.",
+                "vote_average": 7.757,
+                "vote_count": 10141
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Apocalypto",
+            "second_label": "Aldo Signoretti and Vittorio Sodano",
+            "category": "Makeup",
+            "year": 2007,
+            "tmdb": {
+                "id": 1579,
+                "original_title": "Apocalypto",
+                "title": "Apocalypto",
+                "release_date": "2006-12-07",
+                "backdrop_path": "/hMl124Go2Ed9Qu8VsPLiA3nBSMk.jpg",
+                "poster_path": "/cRY25Q32kDNPFDkFkxAs6bgCq3L.jpg",
+                "overview": "Jaguar Paw (Rudy Youngblood) levava uma vida tranquila, que foi interrompida devido \u00e0 uma invas\u00e3o. Os governantes de um imp\u00e9rio maia em decl\u00ednio acreditavam que a chave para a prosperidade seria construir mais templos e realizar mais sacrif\u00edcios humanos. Jaguar \u00e9 capturado para ser um destes sacrif\u00edcios, mas consegue escapar por acaso. Agora, guiado apenas pelo amor que sente por sua esposa e pela filha, ele realiza uma corrida desesperada para chegar em casa e salvar sua fam\u00edlia.",
+                "vote_average": 7.568,
+                "vote_count": 5263
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Click",
+            "second_label": "Kazuhiro Tsuji and Bill Corso",
+            "category": "Makeup",
+            "year": 2007,
+            "tmdb": {
+                "id": 9339,
+                "original_title": "Click",
+                "title": "Click",
+                "release_date": "2006-06-23",
+                "backdrop_path": "/mXBDQ9n2osF0BqBjXY9JDyadyRb.jpg",
+                "poster_path": "/oL0k5JA53PyoHSZqKb3cNkhwBCE.jpg",
+                "overview": "Um arquiteto casado e com filhos est\u00e1 cada vez mais frustrado por passar a maior parte de seu tempo trabalhando. Um dia, ele encontra um inventor exc\u00eantrico que lhe d\u00e1 um controle remoto universal, com capacidade de acelerar o tempo.",
+                "vote_average": 6.282,
+                "vote_count": 6757
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Score)": [
+        {
+            "first_label": "Babel",
+            "second_label": "Gustavo Santaolalla",
+            "category": "Music (Original Score)",
+            "year": 2007,
+            "tmdb": {
+                "id": 1164,
+                "original_title": "Babel",
+                "title": "Babel",
+                "release_date": "2006-10-26",
+                "backdrop_path": "/9YoLdWeBSxAdR6BqQ5uS88d3FWO.jpg",
+                "poster_path": "/oUmiBeGYqp7QFfrXfmXT6YWjx0H.jpg",
+                "overview": "Um \u00f4nibus repleto de turistas atravessa uma regi\u00e3o montanhosa do Marrocos. Entre os viajantes est\u00e3o Richard (Brad Pitt) e Susan (Cate Blanchett), um casal de americanos. Ali perto os meninos Ahmed (Said Tarchani) e Youssef (Boubker At El Caid) manejam um rifle que seu pai lhes deu para proteger a pequena cria\u00e7\u00e3o de cabras da fam\u00edlia. Um tiro atinge o \u00f4nibus, ferindo Susan. A partir da\u00ed o filme mostra como este fato afeta a vida de pessoas em v\u00e1rios pontos diferentes do mundo: nos Estados Unidos, onde Richard e Susan deixaram seus filhos aos cuidados da bab\u00e1 mexicana; no Jap\u00e3o, onde um homem (K\u00f4ji Yakusho) tenta superar a morte tr\u00e1gica de sua mulher e ajudar a filha surda (Rinko Kinkuchi) a aceitar a perda; no M\u00e9xico, para onde a bab\u00e1 (Adriana Barraza) acaba levando as crian\u00e7as; e ali mesmo, no Marrocos, onde a pol\u00edcia passa a procurar suspeitos de um ato terrorista.",
+                "vote_average": 7.2,
+                "vote_count": 3576
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Good German",
+            "second_label": "Thomas Newman",
+            "category": "Music (Original Score)",
+            "year": 2007,
+            "tmdb": {
+                "id": 182,
+                "original_title": "The Good German",
+                "title": "O Segredo de Berlim",
+                "release_date": "2006-12-15",
+                "backdrop_path": "/vr9xAWJeIkYJWAYmIov5WNHEAf6.jpg",
+                "poster_path": "/gCmP8A2Crejq1YDnFQxgD0RAp8N.jpg",
+                "overview": "Quem sabe o que o jornalista americano Jake Geisner (George Clooney) esperava encontrar em uma Berlim p\u00f3s-guerra? Paz, talvez. Ou, ao menos, uma est\u00f3ria. Mas certamente n\u00e3o a bela Lena (Cate Blanchett), seu ex-amor. E tamb\u00e9m n\u00e3o uma trilha de segredo e decep\u00e7\u00e3o que une Lena a um jovem cabo (tobey Maguire), agora seu novo amante... E um assassinato que ningu\u00e9m demostra interesse em resolver. A n\u00e3o ser Jake.",
+                "vote_average": 5.8,
+                "vote_count": 293
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Notes on a Scandal",
+            "second_label": "Philip Glass",
+            "category": "Music (Original Score)",
+            "year": 2007,
+            "tmdb": {
+                "id": 1259,
+                "original_title": "Notes on a Scandal",
+                "title": "Notas Sobre um Esc\u00e2ndalo",
+                "release_date": "2006-12-25",
+                "backdrop_path": "/sp1EIJbzwXRTlzlWiwEA1HGq6ym.jpg",
+                "poster_path": "/tJgksTrMchjLAwpUkuZj6AUKpZF.jpg",
+                "overview": "Barbara Covett \u00e9 uma professora veterena de St. George que fica amiga de Sheba Hart, a nova e carism\u00e1tica professora de artes da escola. Barbara descobre que a amiga est\u00e1 tendo um caso com um aluno e se torna a guardi\u00e3 desse segredo explosivo.",
+                "vote_average": 7.1,
+                "vote_count": 836
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Pan's Labyrinth",
+            "second_label": "Javier Navarrete",
+            "category": "Music (Original Score)",
+            "year": 2007,
+            "tmdb": {
+                "id": 1417,
+                "original_title": "El laberinto del fauno",
+                "title": "O Labirinto do Fauno",
+                "release_date": "2006-10-10",
+                "backdrop_path": "/o0IWa75BXyXryNDVqw0xoXZzy1J.jpg",
+                "poster_path": "/53ZMT8Y18gwLpInzRLMEebAZxew.jpg",
+                "overview": "Em 1944, na Espanha, a jovem Of\u00e9lia e sua m\u00e3e doente chegam ao posto do novo marido de sua m\u00e3e, um s\u00e1dico oficial do ex\u00e9rcito que est\u00e1 tentando reprimir uma guerrilheira. Enquanto explorava um labirinto antigo, Of\u00e9lia encontra o Pan fauno, que diz que a menina \u00e9 uma lend\u00e1ria princesa perdida e que ela precisa completar tr\u00eas tarefas perigosas a fim de se tornar imortal.",
+                "vote_average": 7.757,
+                "vote_count": 10141
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Queen",
+            "second_label": "Alexandre Desplat",
+            "category": "Music (Original Score)",
+            "year": 2007,
+            "tmdb": {
+                "id": 1165,
+                "original_title": "The Queen",
+                "title": "A Rainha",
+                "release_date": "2006-09-15",
+                "backdrop_path": "/7HmIVY3drZ3KSugRcyazn1Wf3U9.jpg",
+                "poster_path": "/kd9rMMLWZRIT00Yiphyjbjm32LH.jpg",
+                "overview": "A not\u00edcia da morte da princesa Diana se espalha rapidamente pelo mundo. Incapaz de compreender a rea\u00e7\u00e3o emocional do p\u00fablico brit\u00e2nico, a rainha Elizabeth II (Helen Mirren) se fecha com a fam\u00edlia real no pal\u00e1cio Balmoral. Tony Blair (Michael Sheen), o rec\u00e9m-apontado primeiro-ministro brit\u00e2nico, percebe que os l\u00edderes do pa\u00eds precisam tomar medidas que os reaproximem da popula\u00e7\u00e3o e \u00e9 com essa miss\u00e3o que ele procura a rainha.",
+                "vote_average": 7.0,
+                "vote_count": 1233
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Song)": [
+        {
+            "first_label": "An Inconvenient Truth",
+            "second_label": "I Need To Wake Up in \"An Inconvenient Truth\" Music and Lyric by Melissa Etheridge",
+            "category": "Music (Original Song)",
+            "year": 2007,
+            "tmdb": {
+                "id": 1781,
+                "original_title": "An Inconvenient Truth",
+                "title": "Uma Verdade Inconveniente",
+                "release_date": "2006-05-24",
+                "backdrop_path": "/4Nx3XAGPwv5AfdrSq9LFDEACl3T.jpg",
+                "poster_path": "/zrYT5UHE2UIsofwkv6KK2Tsu5a.jpg",
+                "overview": "O ex-vice-presidente dos Estados Unidos Al Gore apresenta uma an\u00e1lise da quest\u00e3o do aquecimento global, mostrando os mitos e equ\u00edvocos existentes em torno do tema e tamb\u00e9m poss\u00edveis sa\u00eddas para que o planeta n\u00e3o passe por uma cat\u00e1strofe clim\u00e1tica nas pr\u00f3ximas d\u00e9cadas.",
+                "vote_average": 7.0,
+                "vote_count": 827
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Dreamgirls",
+            "second_label": "Listen in \"Dreamgirls\" Music by Henry Krieger and Scott Cutler; Lyric by Anne Preven",
+            "category": "Music (Original Song)",
+            "year": 2007,
+            "tmdb": {
+                "id": 1125,
+                "original_title": "Dreamgirls",
+                "title": "Dreamgirls: Em Busca de um Sonho",
+                "release_date": "2006-12-25",
+                "backdrop_path": "/8wYluVq5AVXhnFFMhUYD9D4rTz5.jpg",
+                "poster_path": "/iOnvL3i8yVgFiIe6cLPELp1Yi1K.jpg",
+                "overview": "Effie White, Deena Jones e Lorrell Robinson moram em Chicago e formam um grupo musical, as Dreamettes. As tr\u00eas come\u00e7am a fazer sucesso gra\u00e7as ao manipulador empres\u00e1rio Curtis Taylor Jr., que consegue fazer com que elas acompanhem um cantor de \"soul\". Os conflitos come\u00e7am quando Curtis sonha em transformar as Dreamettes em Dreams. Sua ideia \u00e9 trocar Effie por Deena e fazer dela a vocalista principal do grupo, o que deixa evidente seu interesse rom\u00e2ntico pela jovem.",
+                "vote_average": 6.7,
+                "vote_count": 950
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dreamgirls",
+            "second_label": "Love You I Do in \"Dreamgirls\" Music by Henry Krieger; Lyric by Siedah Garrett",
+            "category": "Music (Original Song)",
+            "year": 2007,
+            "tmdb": {
+                "id": 1125,
+                "original_title": "Dreamgirls",
+                "title": "Dreamgirls: Em Busca de um Sonho",
+                "release_date": "2006-12-25",
+                "backdrop_path": "/8wYluVq5AVXhnFFMhUYD9D4rTz5.jpg",
+                "poster_path": "/iOnvL3i8yVgFiIe6cLPELp1Yi1K.jpg",
+                "overview": "Effie White, Deena Jones e Lorrell Robinson moram em Chicago e formam um grupo musical, as Dreamettes. As tr\u00eas come\u00e7am a fazer sucesso gra\u00e7as ao manipulador empres\u00e1rio Curtis Taylor Jr., que consegue fazer com que elas acompanhem um cantor de \"soul\". Os conflitos come\u00e7am quando Curtis sonha em transformar as Dreamettes em Dreams. Sua ideia \u00e9 trocar Effie por Deena e fazer dela a vocalista principal do grupo, o que deixa evidente seu interesse rom\u00e2ntico pela jovem.",
+                "vote_average": 6.7,
+                "vote_count": 950
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Cars",
+            "second_label": "Our Town in \"Cars\" Music and Lyric by Randy Newman",
+            "category": "Music (Original Song)",
+            "year": 2007,
+            "tmdb": {
+                "id": 920,
+                "original_title": "Cars",
+                "title": "Carros",
+                "release_date": "2006-06-08",
+                "backdrop_path": "/sd4xN5xi8tKRPrJOWwNiZEile7f.jpg",
+                "poster_path": "/2nM2NRV8wt3n3ffoHQ3KdMkY3vR.jpg",
+                "overview": "Ao viajar para a Calif\u00f3rnia, o famoso carro de corridas Rel\u00e2mpago McQueen se perde e vai parar em Radiator Springs, uma cidadezinha na Rota 66. Ele conhece novos amigos e aprende li\u00e7\u00f5es que mudam sua forma de encarar a vida.",
+                "vote_average": 6.96,
+                "vote_count": 13356
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dreamgirls",
+            "second_label": "Patience in \"Dreamgirls\" Music by Henry Krieger; Lyric by Willie Reale",
+            "category": "Music (Original Song)",
+            "year": 2007,
+            "tmdb": {
+                "id": 1125,
+                "original_title": "Dreamgirls",
+                "title": "Dreamgirls: Em Busca de um Sonho",
+                "release_date": "2006-12-25",
+                "backdrop_path": "/8wYluVq5AVXhnFFMhUYD9D4rTz5.jpg",
+                "poster_path": "/iOnvL3i8yVgFiIe6cLPELp1Yi1K.jpg",
+                "overview": "Effie White, Deena Jones e Lorrell Robinson moram em Chicago e formam um grupo musical, as Dreamettes. As tr\u00eas come\u00e7am a fazer sucesso gra\u00e7as ao manipulador empres\u00e1rio Curtis Taylor Jr., que consegue fazer com que elas acompanhem um cantor de \"soul\". Os conflitos come\u00e7am quando Curtis sonha em transformar as Dreamettes em Dreams. Sua ideia \u00e9 trocar Effie por Deena e fazer dela a vocalista principal do grupo, o que deixa evidente seu interesse rom\u00e2ntico pela jovem.",
+                "vote_average": 6.7,
+                "vote_count": 950
+            },
+            "winner": false
+        }
+    ],
+    "Best Picture": [
+        {
+            "first_label": "The Departed",
+            "second_label": "Graham King, Producer",
+            "category": "Best Picture",
+            "year": 2007,
+            "tmdb": {
+                "id": 1422,
+                "original_title": "The Departed",
+                "title": "Os Infiltrados",
+                "release_date": "2006-10-04",
+                "backdrop_path": "/6WRrGYalXXveItfpnipYdayFkQB.jpg",
+                "poster_path": "/qtnAwzDapzOML4Q9p7lv2bk5gvz.jpg",
+                "overview": "Billy Costigan, um jovem policial, recebe a miss\u00e3o de se infiltrar na m\u00e1fia, mais especificamente no grupo comandado por Frank Costello. Billy conquista sua confian\u00e7a ao mesmo tempo em que Colin Sullivan, um criminoso que atuou na pol\u00edcia como informante de Costello, tamb\u00e9m ascende dentro da corpora\u00e7\u00e3o. Tanto Billy quanto Colin se sentem aflitos devido \u00e0 vida dupla que levam. Mas quando a m\u00e1fia e a pol\u00edcia descobrem que h\u00e1 um espi\u00e3o entre eles, a vida de ambos passa a correr perigo.",
+                "vote_average": 8.167,
+                "vote_count": 14284
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Babel",
+            "second_label": "Babel",
+            "category": "Best Picture",
+            "year": 2007,
+            "tmdb": {
+                "id": 1164,
+                "original_title": "Babel",
+                "title": "Babel",
+                "release_date": "2006-10-26",
+                "backdrop_path": "/9YoLdWeBSxAdR6BqQ5uS88d3FWO.jpg",
+                "poster_path": "/oUmiBeGYqp7QFfrXfmXT6YWjx0H.jpg",
+                "overview": "Um \u00f4nibus repleto de turistas atravessa uma regi\u00e3o montanhosa do Marrocos. Entre os viajantes est\u00e3o Richard (Brad Pitt) e Susan (Cate Blanchett), um casal de americanos. Ali perto os meninos Ahmed (Said Tarchani) e Youssef (Boubker At El Caid) manejam um rifle que seu pai lhes deu para proteger a pequena cria\u00e7\u00e3o de cabras da fam\u00edlia. Um tiro atinge o \u00f4nibus, ferindo Susan. A partir da\u00ed o filme mostra como este fato afeta a vida de pessoas em v\u00e1rios pontos diferentes do mundo: nos Estados Unidos, onde Richard e Susan deixaram seus filhos aos cuidados da bab\u00e1 mexicana; no Jap\u00e3o, onde um homem (K\u00f4ji Yakusho) tenta superar a morte tr\u00e1gica de sua mulher e ajudar a filha surda (Rinko Kinkuchi) a aceitar a perda; no M\u00e9xico, para onde a bab\u00e1 (Adriana Barraza) acaba levando as crian\u00e7as; e ali mesmo, no Marrocos, onde a pol\u00edcia passa a procurar suspeitos de um ato terrorista.",
+                "vote_average": 7.2,
+                "vote_count": 3576
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Letters from Iwo Jima",
+            "second_label": "Clint Eastwood, Steven Spielberg and Robert Lorenz, Producers",
+            "category": "Best Picture",
+            "year": 2007,
+            "tmdb": {
+                "id": 1251,
+                "original_title": "Letters from Iwo Jima",
+                "title": "Cartas de Iwo Jima",
+                "release_date": "2006-12-09",
+                "backdrop_path": "/p9V3vD1Ye2zRNfTsE8oY58Fe81S.jpg",
+                "poster_path": "/bePSUYRqxtQrLNGdx3E3BFxqiHT.jpg",
+                "overview": "Junho de 1944. Tadamichi Kuribayashi (Ken Watanabe), o tenente-general do ex\u00e9rcito imperial japon\u00eas, chega na ilha de Iwo Jima. Muito respeitado por ser um h\u00e1bil estrategista, Kuribayashi estudara nos Estados Unidos, onde fizera grandes amigos e conhecia o ex\u00e9rcito ocidental e sua capacidade tecnol\u00f3gica. Por isso, o Jap\u00e3o colocou em suas m\u00e3os o destino de Iwo Jima, considerada a \u00faltima linha defesa do pa\u00eds. Ao contr\u00e1rio dos outros comandantes, Kuribayashi moderniza o modo de agir, alterando a estrat\u00e9gia que era usada. Ele supervisiona a constru\u00e7\u00e3o de uma fortaleza subterr\u00e2nea, feita de t\u00faneis que davam para as suas tropas a estrat\u00e9gia ideal contra as for\u00e7as americanas, que come\u00e7am a desembarcar na ilha em 19 de fevereiro de 1945.",
+                "vote_average": 7.5,
+                "vote_count": 1942
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Little Miss Sunshine",
+            "second_label": "David T. Friendly, Peter Saraf and Marc Turtletaub, Producers",
+            "category": "Best Picture",
+            "year": 2007,
+            "tmdb": {
+                "id": 773,
+                "original_title": "Little Miss Sunshine",
+                "title": "Pequena Miss Sunshine",
+                "release_date": "2006-07-26",
+                "backdrop_path": "/4YzGG8IPduUQRVnQ0vN5laHA1rH.jpg",
+                "poster_path": "/gGYiZc8Mjd9nysDUfzw1N0NgqbP.jpg",
+                "overview": "Nenhuma fam\u00edlia \u00e9 verdadeiramente normal, mas a fam\u00edlia Hoover extrapola. O pai desenvolveu um m\u00e9todo de auto-ajuda que \u00e9 um fracasso, o filho mais velho fez voto de sil\u00eancio, o cunhado \u00e9 um professor suicida e o av\u00f4 foi expulso de uma casa de repouso por usar hero\u00edna. Nada funciona para o cl\u00e3, at\u00e9 que a filha ca\u00e7ula, a desajeitada Olive (Abigail Breslin), \u00e9 convidada para participar de um concurso de beleza para meninas pr\u00e9-adolescentes. Durante tr\u00eas dias eles deixam todas as suas diferen\u00e7as de lado e se unem para atravessar o pa\u00eds numa kombi amarela enferrujada.",
+                "vote_average": 7.684,
+                "vote_count": 6771
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Queen",
+            "second_label": "Andy Harries, Christine Langan and Tracey Seaward, Producers",
+            "category": "Best Picture",
+            "year": 2007,
+            "tmdb": {
+                "id": 1165,
+                "original_title": "The Queen",
+                "title": "A Rainha",
+                "release_date": "2006-09-15",
+                "backdrop_path": "/7HmIVY3drZ3KSugRcyazn1Wf3U9.jpg",
+                "poster_path": "/kd9rMMLWZRIT00Yiphyjbjm32LH.jpg",
+                "overview": "A not\u00edcia da morte da princesa Diana se espalha rapidamente pelo mundo. Incapaz de compreender a rea\u00e7\u00e3o emocional do p\u00fablico brit\u00e2nico, a rainha Elizabeth II (Helen Mirren) se fecha com a fam\u00edlia real no pal\u00e1cio Balmoral. Tony Blair (Michael Sheen), o rec\u00e9m-apontado primeiro-ministro brit\u00e2nico, percebe que os l\u00edderes do pa\u00eds precisam tomar medidas que os reaproximem da popula\u00e7\u00e3o e \u00e9 com essa miss\u00e3o que ele procura a rainha.",
+                "vote_average": 7.0,
+                "vote_count": 1233
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Animated)": [
+        {
+            "first_label": "The Danish Poet",
+            "second_label": "Torill Kove",
+            "category": "Short Film (Animated)",
+            "year": 2007,
+            "tmdb": {
+                "id": 38635,
+                "original_title": "Den danske dikteren",
+                "title": "The Danish Poet",
+                "release_date": "2006-02-15",
+                "backdrop_path": null,
+                "poster_path": "/iZ40Z4BAHLiNVjZI28nY0xU9IAG.jpg",
+                "overview": "A woman ponders over the strange coincidences that made her forefathers and -mothers meet and create the premises for her becoming the person that she is.",
+                "vote_average": 7.0,
+                "vote_count": 45
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Lifted",
+            "second_label": "Gary Rydstrom",
+            "category": "Short Film (Animated)",
+            "year": 2007,
+            "tmdb": {
+                "id": 13060,
+                "original_title": "Lifted",
+                "title": "Quase Abduzido",
+                "release_date": "2006-12-28",
+                "backdrop_path": "/13CqQIOwZ0dkAxgzL7W4VcJLDAg.jpg",
+                "poster_path": "/v2MeJBldxDasky2RRO9xH9ocDrE.jpg",
+                "overview": "Um alien\u00edgena adolescente tenta abduzir um humano que est\u00e1 dormindo, mas h\u00e1 tantos controles que a tarefa se torna praticamente imposs\u00edvel. Faz parte da Cole\u00e7\u00e3o Pixar Curtas 01.",
+                "vote_average": 7.4,
+                "vote_count": 718
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Little Matchgirl",
+            "second_label": "Roger Allers and Don Hahn",
+            "category": "Short Film (Animated)",
+            "year": 2007,
+            "tmdb": {
+                "id": 38580,
+                "original_title": "The Little Matchgirl",
+                "title": "A Pequena Vendedora de F\u00f3sforos",
+                "release_date": "2006-09-07",
+                "backdrop_path": "/dcGTfPk5NYqDmCP01ddzwl5m2V1.jpg",
+                "poster_path": "/4rPF4adax3lX8faV8ht8gviyo2C.jpg",
+                "overview": "O curta, baseado no conto de Hans Christian Andersen, conta a hist\u00f3ria de uma pequena garotinha russa, no per\u00edodo pr\u00e9-revolucion\u00e1rio, que tem um ardente desejo de encontrar conforto e felicidade em sua vida. Desesperada para se aquecer, a menina acende os f\u00f3sforos que ela vende e imagina uma vida muito diferente para si mesma, nas chamas impetuosas cheias de imagens de parentes amorosos, comida abundante e um lugar para chamar de lar.",
+                "vote_average": 7.5,
+                "vote_count": 170
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Maestro",
+            "second_label": "Maestro",
+            "category": "Short Film (Animated)",
+            "year": 2007,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "No Time for Nuts",
+            "second_label": "Chris Renaud and Michael Thurmeier",
+            "category": "Short Film (Animated)",
+            "year": 2007,
+            "tmdb": {
+                "id": 46247,
+                "original_title": "No Time for Nuts",
+                "title": "Sem Tempo para Nozes",
+                "release_date": "2006-10-23",
+                "backdrop_path": "/hKtb7inG2FD1EQvvOSzsgP6bHf.jpg",
+                "poster_path": "/kz9FehcBC89SDbg4XU2kWv6MZE.jpg",
+                "overview": "Em \"A Aventura Perdida de Scrat\" somos brindados com uma anima\u00e7\u00e3o do esquilo Scrat, ainda mais engra\u00e7ada do que a abertura do filme (A Era do Gelo).",
+                "vote_average": 7.2,
+                "vote_count": 171
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Live Action)": [
+        {
+            "first_label": "West Bank Story",
+            "second_label": "Ari Sandel",
+            "category": "Short Film (Live Action)",
+            "year": 2007,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Binta and the Great Idea (Binta Y La Gran Idea)",
+            "second_label": "Javier Fesser and Luis Manso",
+            "category": "Short Film (Live Action)",
+            "year": 2007,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "",
+            "second_label": "Borja Cobeaga",
+            "category": "Short Film (Live Action)",
+            "year": 2007,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Helmer & Son",
+            "second_label": "Helmer & Son",
+            "category": "Short Film (Live Action)",
+            "year": 2007,
+            "tmdb": {
+                "id": 118796,
+                "original_title": "Helmer & s\u00f8n",
+                "title": "Helmer and Son",
+                "release_date": "2006-01-01",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "A family is called together in unusual circumstances when a nursing home rings them all for help when there elderly father locks himself in a closet and refuses to come out. Nominated for an Oscar for Best Live Action Short Film.",
+                "vote_average": 5.0,
+                "vote_count": 10
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Saviour",
+            "second_label": "Peter Templeman and Stuart Parkyn",
+            "category": "Short Film (Live Action)",
+            "year": 2007,
+            "tmdb": {
+                "id": 131116,
+                "original_title": "Plac Zbawiciela",
+                "title": "Saviour Square",
+                "release_date": "2006-09-07",
+                "backdrop_path": "/qQHc4QqfWFxKMGUiAiu6Q94csxQ.jpg",
+                "poster_path": "/5aZOkIlf0vQHzofkQ3EwuRfHFAC.jpg",
+                "overview": "A story of a married couple with two children, whose housing problems, the man's infidelity and the woman's fragility lead the family to destruction.",
+                "vote_average": 6.8,
+                "vote_count": 28
+            },
+            "winner": false
+        }
+    ],
+    "Sound Editing": [
+        {
+            "first_label": "Letters from Iwo Jima",
+            "second_label": "Alan Robert Murray and Bub Asman",
+            "category": "Sound Editing",
+            "year": 2007,
+            "tmdb": {
+                "id": 1251,
+                "original_title": "Letters from Iwo Jima",
+                "title": "Cartas de Iwo Jima",
+                "release_date": "2006-12-09",
+                "backdrop_path": "/p9V3vD1Ye2zRNfTsE8oY58Fe81S.jpg",
+                "poster_path": "/bePSUYRqxtQrLNGdx3E3BFxqiHT.jpg",
+                "overview": "Junho de 1944. Tadamichi Kuribayashi (Ken Watanabe), o tenente-general do ex\u00e9rcito imperial japon\u00eas, chega na ilha de Iwo Jima. Muito respeitado por ser um h\u00e1bil estrategista, Kuribayashi estudara nos Estados Unidos, onde fizera grandes amigos e conhecia o ex\u00e9rcito ocidental e sua capacidade tecnol\u00f3gica. Por isso, o Jap\u00e3o colocou em suas m\u00e3os o destino de Iwo Jima, considerada a \u00faltima linha defesa do pa\u00eds. Ao contr\u00e1rio dos outros comandantes, Kuribayashi moderniza o modo de agir, alterando a estrat\u00e9gia que era usada. Ele supervisiona a constru\u00e7\u00e3o de uma fortaleza subterr\u00e2nea, feita de t\u00faneis que davam para as suas tropas a estrat\u00e9gia ideal contra as for\u00e7as americanas, que come\u00e7am a desembarcar na ilha em 19 de fevereiro de 1945.",
+                "vote_average": 7.5,
+                "vote_count": 1942
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Apocalypto",
+            "second_label": "Sean McCormack and Kami Asgar",
+            "category": "Sound Editing",
+            "year": 2007,
+            "tmdb": {
+                "id": 1579,
+                "original_title": "Apocalypto",
+                "title": "Apocalypto",
+                "release_date": "2006-12-07",
+                "backdrop_path": "/hMl124Go2Ed9Qu8VsPLiA3nBSMk.jpg",
+                "poster_path": "/cRY25Q32kDNPFDkFkxAs6bgCq3L.jpg",
+                "overview": "Jaguar Paw (Rudy Youngblood) levava uma vida tranquila, que foi interrompida devido \u00e0 uma invas\u00e3o. Os governantes de um imp\u00e9rio maia em decl\u00ednio acreditavam que a chave para a prosperidade seria construir mais templos e realizar mais sacrif\u00edcios humanos. Jaguar \u00e9 capturado para ser um destes sacrif\u00edcios, mas consegue escapar por acaso. Agora, guiado apenas pelo amor que sente por sua esposa e pela filha, ele realiza uma corrida desesperada para chegar em casa e salvar sua fam\u00edlia.",
+                "vote_average": 7.568,
+                "vote_count": 5263
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Blood Diamond",
+            "second_label": "Lon Bender",
+            "category": "Sound Editing",
+            "year": 2007,
+            "tmdb": {
+                "id": 1372,
+                "original_title": "Blood Diamond",
+                "title": "Diamante de Sangue",
+                "release_date": "2006-12-08",
+                "backdrop_path": "/466zklOlxKDXID4ejaIXu3PN5nV.jpg",
+                "poster_path": "/sy2EYPcxGJUBSdJdtMGBBarKG9c.jpg",
+                "overview": "Quando a Guerra Civil se enfurece na d\u00e9cada de 1990 em Serra Leoa, dois homens, um branco sul-africano mercen\u00e1rio e um pescador negro, se juntam em uma busca para recuperar uma joia rara que tem o poder de transformar suas vidas. Com a ajuda de uma jornalista norte-americana, os homens embarcam em uma jornada perigosa atrav\u00e9s do territ\u00f3rio rebelde para conseguir seu objetivo.",
+                "vote_average": 7.542,
+                "vote_count": 7277
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Flags of Our Fathers",
+            "second_label": "Alan Robert Murray and Bub Asman",
+            "category": "Sound Editing",
+            "year": 2007,
+            "tmdb": {
+                "id": 3683,
+                "original_title": "Flags of Our Fathers",
+                "title": "A Conquista da Honra",
+                "release_date": "2006-10-18",
+                "backdrop_path": "/vscsDExaKK0oKqrYBze9Tm2oitf.jpg",
+                "poster_path": "/9SzJSdodURMSdRsVarnfErBuaDC.jpg",
+                "overview": "Em fevereiro e mar\u00e7o de 1945, soldados lutam e vencem uma das batalhas mais cruciais da guerra de Iwo Jima. A foto de alguns soldados hasteando a bandeira no topo do Monte Suribachic torna-se um s\u00edmbolo hist\u00f3rico da vit\u00f3ria americana.",
+                "vote_average": 6.848,
+                "vote_count": 1741
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Pirates of the Caribbean: Dead Man's Chest",
+            "second_label": "Christopher Boyes and George Watters II",
+            "category": "Sound Editing",
+            "year": 2007,
+            "tmdb": {
+                "id": 58,
+                "original_title": "Pirates of the Caribbean: Dead Man's Chest",
+                "title": "Piratas do Caribe: O Ba\u00fa da Morte",
+                "release_date": "2006-07-06",
+                "backdrop_path": "/vv5a8u6e40kyH0Hp6HuamAgzRai.jpg",
+                "poster_path": "/dCXOveWolVMMbJZQ0cNslpqohPM.jpg",
+                "overview": "Will e Elizabeth est\u00e3o prestes a se casar quando o lend\u00e1rio pirata Davy Jones, comandante do invenc\u00edvel navio assombrado, aparece para cobrar uma d\u00edvida do capit\u00e3o Jack Sparrow, amigo do casal. A \u00fanica chance de Sparrow se livrar de uma maldi\u00e7\u00e3o de Jones \u00e9 encontrando o ba\u00fa da morte.",
+                "vote_average": 7.355,
+                "vote_count": 15317
+            },
+            "winner": false
+        }
+    ],
+    "Sound Mixing": [
+        {
+            "first_label": "Dreamgirls",
+            "second_label": "Michael Minkler, Bob Beemer and Willie Burton",
+            "category": "Sound Mixing",
+            "year": 2007,
+            "tmdb": {
+                "id": 1125,
+                "original_title": "Dreamgirls",
+                "title": "Dreamgirls: Em Busca de um Sonho",
+                "release_date": "2006-12-25",
+                "backdrop_path": "/8wYluVq5AVXhnFFMhUYD9D4rTz5.jpg",
+                "poster_path": "/iOnvL3i8yVgFiIe6cLPELp1Yi1K.jpg",
+                "overview": "Effie White, Deena Jones e Lorrell Robinson moram em Chicago e formam um grupo musical, as Dreamettes. As tr\u00eas come\u00e7am a fazer sucesso gra\u00e7as ao manipulador empres\u00e1rio Curtis Taylor Jr., que consegue fazer com que elas acompanhem um cantor de \"soul\". Os conflitos come\u00e7am quando Curtis sonha em transformar as Dreamettes em Dreams. Sua ideia \u00e9 trocar Effie por Deena e fazer dela a vocalista principal do grupo, o que deixa evidente seu interesse rom\u00e2ntico pela jovem.",
+                "vote_average": 6.7,
+                "vote_count": 950
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Apocalypto",
+            "second_label": "Kevin O\u2019Connell, Greg P. Russell and Fernando Cmara",
+            "category": "Sound Mixing",
+            "year": 2007,
+            "tmdb": {
+                "id": 1579,
+                "original_title": "Apocalypto",
+                "title": "Apocalypto",
+                "release_date": "2006-12-07",
+                "backdrop_path": "/hMl124Go2Ed9Qu8VsPLiA3nBSMk.jpg",
+                "poster_path": "/cRY25Q32kDNPFDkFkxAs6bgCq3L.jpg",
+                "overview": "Jaguar Paw (Rudy Youngblood) levava uma vida tranquila, que foi interrompida devido \u00e0 uma invas\u00e3o. Os governantes de um imp\u00e9rio maia em decl\u00ednio acreditavam que a chave para a prosperidade seria construir mais templos e realizar mais sacrif\u00edcios humanos. Jaguar \u00e9 capturado para ser um destes sacrif\u00edcios, mas consegue escapar por acaso. Agora, guiado apenas pelo amor que sente por sua esposa e pela filha, ele realiza uma corrida desesperada para chegar em casa e salvar sua fam\u00edlia.",
+                "vote_average": 7.568,
+                "vote_count": 5263
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Blood Diamond",
+            "second_label": "Andy Nelson, Anna Behlmer and Ivan Sharrock",
+            "category": "Sound Mixing",
+            "year": 2007,
+            "tmdb": {
+                "id": 1372,
+                "original_title": "Blood Diamond",
+                "title": "Diamante de Sangue",
+                "release_date": "2006-12-08",
+                "backdrop_path": "/466zklOlxKDXID4ejaIXu3PN5nV.jpg",
+                "poster_path": "/sy2EYPcxGJUBSdJdtMGBBarKG9c.jpg",
+                "overview": "Quando a Guerra Civil se enfurece na d\u00e9cada de 1990 em Serra Leoa, dois homens, um branco sul-africano mercen\u00e1rio e um pescador negro, se juntam em uma busca para recuperar uma joia rara que tem o poder de transformar suas vidas. Com a ajuda de uma jornalista norte-americana, os homens embarcam em uma jornada perigosa atrav\u00e9s do territ\u00f3rio rebelde para conseguir seu objetivo.",
+                "vote_average": 7.542,
+                "vote_count": 7277
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Flags of Our Fathers",
+            "second_label": "John Reitz, Dave Campbell, Gregg Rudloff and Walt Martin",
+            "category": "Sound Mixing",
+            "year": 2007,
+            "tmdb": {
+                "id": 3683,
+                "original_title": "Flags of Our Fathers",
+                "title": "A Conquista da Honra",
+                "release_date": "2006-10-18",
+                "backdrop_path": "/vscsDExaKK0oKqrYBze9Tm2oitf.jpg",
+                "poster_path": "/9SzJSdodURMSdRsVarnfErBuaDC.jpg",
+                "overview": "Em fevereiro e mar\u00e7o de 1945, soldados lutam e vencem uma das batalhas mais cruciais da guerra de Iwo Jima. A foto de alguns soldados hasteando a bandeira no topo do Monte Suribachic torna-se um s\u00edmbolo hist\u00f3rico da vit\u00f3ria americana.",
+                "vote_average": 6.848,
+                "vote_count": 1741
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Pirates of the Caribbean: Dead Man's Chest",
+            "second_label": "Paul Massey, Christopher Boyes and Lee Orloff",
+            "category": "Sound Mixing",
+            "year": 2007,
+            "tmdb": {
+                "id": 58,
+                "original_title": "Pirates of the Caribbean: Dead Man's Chest",
+                "title": "Piratas do Caribe: O Ba\u00fa da Morte",
+                "release_date": "2006-07-06",
+                "backdrop_path": "/vv5a8u6e40kyH0Hp6HuamAgzRai.jpg",
+                "poster_path": "/dCXOveWolVMMbJZQ0cNslpqohPM.jpg",
+                "overview": "Will e Elizabeth est\u00e3o prestes a se casar quando o lend\u00e1rio pirata Davy Jones, comandante do invenc\u00edvel navio assombrado, aparece para cobrar uma d\u00edvida do capit\u00e3o Jack Sparrow, amigo do casal. A \u00fanica chance de Sparrow se livrar de uma maldi\u00e7\u00e3o de Jones \u00e9 encontrando o ba\u00fa da morte.",
+                "vote_average": 7.355,
+                "vote_count": 15317
+            },
+            "winner": false
+        }
+    ],
+    "Visual Effects": [
+        {
+            "first_label": "Pirates of the Caribbean: Dead Man's Chest",
+            "second_label": "John Knoll, Hal Hickel, Charles Gibson and Allen Hall",
+            "category": "Visual Effects",
+            "year": 2007,
+            "tmdb": {
+                "id": 58,
+                "original_title": "Pirates of the Caribbean: Dead Man's Chest",
+                "title": "Piratas do Caribe: O Ba\u00fa da Morte",
+                "release_date": "2006-07-06",
+                "backdrop_path": "/vv5a8u6e40kyH0Hp6HuamAgzRai.jpg",
+                "poster_path": "/dCXOveWolVMMbJZQ0cNslpqohPM.jpg",
+                "overview": "Will e Elizabeth est\u00e3o prestes a se casar quando o lend\u00e1rio pirata Davy Jones, comandante do invenc\u00edvel navio assombrado, aparece para cobrar uma d\u00edvida do capit\u00e3o Jack Sparrow, amigo do casal. A \u00fanica chance de Sparrow se livrar de uma maldi\u00e7\u00e3o de Jones \u00e9 encontrando o ba\u00fa da morte.",
+                "vote_average": 7.355,
+                "vote_count": 15317
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Poseidon",
+            "second_label": "Boyd Shermis, Kim Libreri, Chas Jarrett and John Frazier",
+            "category": "Visual Effects",
+            "year": 2007,
+            "tmdb": {
+                "id": 503,
+                "original_title": "Poseidon",
+                "title": "Poseidon",
+                "release_date": "2006-05-10",
+                "backdrop_path": "/r8w0thuHyOLDfMvTTL9R0sPASmc.jpg",
+                "poster_path": "/1ma5b9XLCziCHzQP0Zy1Y1PqNyM.jpg",
+                "overview": "Uma onda gigantesca faz com que um luxuoso transatl\u00e2ntico, chamado Poseidon, tombe e fique de cabe\u00e7a para baixo em alto mar. Poucos s\u00e3o os sobreviventes, que precisam se unir. O capit\u00e3o Michael Bradford (Andre Braugher) sugere que todos aguardem por socorro no local em que est\u00e3o, mas John Dylan (Josh Lucas), um jogador profissional, prefere buscar um lugar que lhe d\u00ea maior seguran\u00e7a. A atitude de Dylan atrai outros sobreviventes, que decidem segui-lo. Entre eles est\u00e1 Robert Ramsey (Kurt Russell), que est\u00e1 desesperado por n\u00e3o conseguir encontrar sua filha, Jennifer (Emmy Rossum), e o noivo dela, Christian (Mike Vogel). Tamb\u00e9m se juntam a eles Maggie James (Jacinda Barrett) e seu filho Conor (Jimmy Bennett), a passageira clandestina Elena Gonzalez (Mia Maestro) e Richard Nelson (Richard Dreyfuss), um homem que embarcou no navio em d\u00favida se queria viver. Desperados em encontrar uma sa\u00edda, o grupo se embrenha no a\u00e7o retorcido enquanto o navio cada vez mais vai se enchendo de \u00e1gua.",
+                "vote_average": 5.8,
+                "vote_count": 2042
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Superman Returns",
+            "second_label": "Mark Stetson, Neil Corbould, Richard R. Hoover and Jon Thum",
+            "category": "Visual Effects",
+            "year": 2007,
+            "tmdb": {
+                "id": 1452,
+                "original_title": "Superman Returns",
+                "title": "Superman: O Retorno",
+                "release_date": "2006-06-28",
+                "backdrop_path": "/8eRscFbRYl681zDfkjv1jjW1KAA.jpg",
+                "poster_path": "/f7RZRxVuxjzX3sfyzjtn4SHmE9G.jpg",
+                "overview": "Um her\u00f3i para o nosso mil\u00eanio. E para a posteridade, apesar de que durante os longos cinco anos (tempo demais para a mem\u00f3ria dos f\u00e3s!) em que Superman quis saber mais sobre seu planeta natal, as coisas mudaram um bocado em seu planeta adotivo. As na\u00e7\u00f5es aprenderam a viver sem ele. Lois Lane agora tem um filho, um noivo e ganhar\u00e1 um Pulitzer por conta de sua mat\u00e9ria \"Por Que o Mundo N\u00e3o Precisa do Superman\". E Lex Luthor tem um plano para destruir bilh\u00f5es de vidas inocentes.",
+                "vote_average": 5.8,
+                "vote_count": 3990
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Adapted Screenplay)": [
+        {
+            "first_label": "The Departed",
+            "second_label": "Screenplay by William Monahan",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2007,
+            "tmdb": {
+                "id": 1422,
+                "original_title": "The Departed",
+                "title": "Os Infiltrados",
+                "release_date": "2006-10-04",
+                "backdrop_path": "/6WRrGYalXXveItfpnipYdayFkQB.jpg",
+                "poster_path": "/qtnAwzDapzOML4Q9p7lv2bk5gvz.jpg",
+                "overview": "Billy Costigan, um jovem policial, recebe a miss\u00e3o de se infiltrar na m\u00e1fia, mais especificamente no grupo comandado por Frank Costello. Billy conquista sua confian\u00e7a ao mesmo tempo em que Colin Sullivan, um criminoso que atuou na pol\u00edcia como informante de Costello, tamb\u00e9m ascende dentro da corpora\u00e7\u00e3o. Tanto Billy quanto Colin se sentem aflitos devido \u00e0 vida dupla que levam. Mas quando a m\u00e1fia e a pol\u00edcia descobrem que h\u00e1 um espi\u00e3o entre eles, a vida de ambos passa a correr perigo.",
+                "vote_average": 8.167,
+                "vote_count": 14284
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Borat Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+            "second_label": "Screenplay by Sacha Baron Cohen, Anthony Hines, Peter Baynham, & Dan Mazer; Story by Sacha Baron Cohen, Peter Baynham, Anthony Hines, & Todd Phillips",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2007,
+            "tmdb": {
+                "id": 496,
+                "original_title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+                "title": "Borat - O Segundo Melhor Rep\u00f3rter do Glorioso Pa\u00eds Cazaquist\u00e3o Viaja \u00e0 Am\u00e9rica",
+                "release_date": "2006-11-01",
+                "backdrop_path": "/kt0Ku4cTQUZe4KyZiWC6HsWCbcS.jpg",
+                "poster_path": "/5egR3ywkiXbaqvrZrkisiF9Llzh.jpg",
+                "overview": "Um famoso rep\u00f3rter do Cazaquist\u00e3o viaja aos Estados Unidos para fazer um document\u00e1rio sobre os h\u00e1bitos dos cidad\u00e3os norte-americanos, provocando situa\u00e7\u00f5es absurdas por onde passa.",
+                "vote_average": 6.778,
+                "vote_count": 5126
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Children of Men",
+            "second_label": "Screenplay by Alfonso Cuarn, Timothy J. Sexton, David Arata, Mark Fergus and Hawk Ostby",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2007,
+            "tmdb": {
+                "id": 9693,
+                "original_title": "Children of Men",
+                "title": "Filhos da Esperan\u00e7a",
+                "release_date": "2006-09-22",
+                "backdrop_path": "/z8FzomPxfCb2nv827VWLSI6oYiB.jpg",
+                "poster_path": "/BHTzFqP7hrjicDiSYf6wtS8Xb7.jpg",
+                "overview": "No ano de 2027, a infertilidade \u00e9 uma amea\u00e7a real para a civiliza\u00e7\u00e3o, e o \u00faltimo humano a nascer em anos acaba de morrer. Frente a um cen\u00e1rio pessimista sobre o futuro, um burocrata desiludido se torna o her\u00f3i improv\u00e1vel que pode salvar a humanidade. Para isso, ele enfrenta seus pr\u00f3prios dem\u00f4nios e tenta proteger a \u00faltima esperan\u00e7a do planeta: uma jovem mulher milagrosamente gr\u00e1vida, descoberta pela ativista inteligente com quem fora casado.",
+                "vote_average": 7.611,
+                "vote_count": 6765
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Little Children",
+            "second_label": "Screenplay by Todd Field & Tom Perrotta",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2007,
+            "tmdb": {
+                "id": 1440,
+                "original_title": "Little Children",
+                "title": "Pecados \u00cdntimos",
+                "release_date": "2006-10-06",
+                "backdrop_path": "/3qxeRRkU6bf7JqiY5umzlSCtHNO.jpg",
+                "poster_path": "/d3cmHZs0J7Cen8N1vVdCjUjew4k.jpg",
+                "overview": "Sarah \u00e9 uma mulher bem educada que n\u00e3o consegue aceitar sua vida como dona de casa e m\u00e3e. Brad \u00e9 um pai que est\u00e1 casado com uma linda cineasta e resolve patinar ao inv\u00e9s de estudar para seu exame. O casal se conhece em um parque, enquanto seus filhos dormem e seus c\u00f4njuges trabalham.",
+                "vote_average": 7.1,
+                "vote_count": 936
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Notes on a Scandal",
+            "second_label": "Screenplay by Patrick Marber",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2007,
+            "tmdb": {
+                "id": 1259,
+                "original_title": "Notes on a Scandal",
+                "title": "Notas Sobre um Esc\u00e2ndalo",
+                "release_date": "2006-12-25",
+                "backdrop_path": "/sp1EIJbzwXRTlzlWiwEA1HGq6ym.jpg",
+                "poster_path": "/tJgksTrMchjLAwpUkuZj6AUKpZF.jpg",
+                "overview": "Barbara Covett \u00e9 uma professora veterena de St. George que fica amiga de Sheba Hart, a nova e carism\u00e1tica professora de artes da escola. Barbara descobre que a amiga est\u00e1 tendo um caso com um aluno e se torna a guardi\u00e3 desse segredo explosivo.",
+                "vote_average": 7.1,
+                "vote_count": 836
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Original Screenplay)": [
+        {
+            "first_label": "Little Miss Sunshine",
+            "second_label": "Written by Michael Arndt",
+            "category": "Writing (Original Screenplay)",
+            "year": 2007,
+            "tmdb": {
+                "id": 773,
+                "original_title": "Little Miss Sunshine",
+                "title": "Pequena Miss Sunshine",
+                "release_date": "2006-07-26",
+                "backdrop_path": "/4YzGG8IPduUQRVnQ0vN5laHA1rH.jpg",
+                "poster_path": "/gGYiZc8Mjd9nysDUfzw1N0NgqbP.jpg",
+                "overview": "Nenhuma fam\u00edlia \u00e9 verdadeiramente normal, mas a fam\u00edlia Hoover extrapola. O pai desenvolveu um m\u00e9todo de auto-ajuda que \u00e9 um fracasso, o filho mais velho fez voto de sil\u00eancio, o cunhado \u00e9 um professor suicida e o av\u00f4 foi expulso de uma casa de repouso por usar hero\u00edna. Nada funciona para o cl\u00e3, at\u00e9 que a filha ca\u00e7ula, a desajeitada Olive (Abigail Breslin), \u00e9 convidada para participar de um concurso de beleza para meninas pr\u00e9-adolescentes. Durante tr\u00eas dias eles deixam todas as suas diferen\u00e7as de lado e se unem para atravessar o pa\u00eds numa kombi amarela enferrujada.",
+                "vote_average": 7.684,
+                "vote_count": 6771
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Babel",
+            "second_label": "Written by Guillermo Arriaga",
+            "category": "Writing (Original Screenplay)",
+            "year": 2007,
+            "tmdb": {
+                "id": 1164,
+                "original_title": "Babel",
+                "title": "Babel",
+                "release_date": "2006-10-26",
+                "backdrop_path": "/9YoLdWeBSxAdR6BqQ5uS88d3FWO.jpg",
+                "poster_path": "/oUmiBeGYqp7QFfrXfmXT6YWjx0H.jpg",
+                "overview": "Um \u00f4nibus repleto de turistas atravessa uma regi\u00e3o montanhosa do Marrocos. Entre os viajantes est\u00e3o Richard (Brad Pitt) e Susan (Cate Blanchett), um casal de americanos. Ali perto os meninos Ahmed (Said Tarchani) e Youssef (Boubker At El Caid) manejam um rifle que seu pai lhes deu para proteger a pequena cria\u00e7\u00e3o de cabras da fam\u00edlia. Um tiro atinge o \u00f4nibus, ferindo Susan. A partir da\u00ed o filme mostra como este fato afeta a vida de pessoas em v\u00e1rios pontos diferentes do mundo: nos Estados Unidos, onde Richard e Susan deixaram seus filhos aos cuidados da bab\u00e1 mexicana; no Jap\u00e3o, onde um homem (K\u00f4ji Yakusho) tenta superar a morte tr\u00e1gica de sua mulher e ajudar a filha surda (Rinko Kinkuchi) a aceitar a perda; no M\u00e9xico, para onde a bab\u00e1 (Adriana Barraza) acaba levando as crian\u00e7as; e ali mesmo, no Marrocos, onde a pol\u00edcia passa a procurar suspeitos de um ato terrorista.",
+                "vote_average": 7.2,
+                "vote_count": 3576
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Letters from Iwo Jima",
+            "second_label": "Screenplay by Iris Yamashita; Story by Iris Yamashita & Paul Haggis",
+            "category": "Writing (Original Screenplay)",
+            "year": 2007,
+            "tmdb": {
+                "id": 1251,
+                "original_title": "Letters from Iwo Jima",
+                "title": "Cartas de Iwo Jima",
+                "release_date": "2006-12-09",
+                "backdrop_path": "/p9V3vD1Ye2zRNfTsE8oY58Fe81S.jpg",
+                "poster_path": "/bePSUYRqxtQrLNGdx3E3BFxqiHT.jpg",
+                "overview": "Junho de 1944. Tadamichi Kuribayashi (Ken Watanabe), o tenente-general do ex\u00e9rcito imperial japon\u00eas, chega na ilha de Iwo Jima. Muito respeitado por ser um h\u00e1bil estrategista, Kuribayashi estudara nos Estados Unidos, onde fizera grandes amigos e conhecia o ex\u00e9rcito ocidental e sua capacidade tecnol\u00f3gica. Por isso, o Jap\u00e3o colocou em suas m\u00e3os o destino de Iwo Jima, considerada a \u00faltima linha defesa do pa\u00eds. Ao contr\u00e1rio dos outros comandantes, Kuribayashi moderniza o modo de agir, alterando a estrat\u00e9gia que era usada. Ele supervisiona a constru\u00e7\u00e3o de uma fortaleza subterr\u00e2nea, feita de t\u00faneis que davam para as suas tropas a estrat\u00e9gia ideal contra as for\u00e7as americanas, que come\u00e7am a desembarcar na ilha em 19 de fevereiro de 1945.",
+                "vote_average": 7.5,
+                "vote_count": 1942
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Pan's Labyrinth",
+            "second_label": "Written by Guillermo del Toro",
+            "category": "Writing (Original Screenplay)",
+            "year": 2007,
+            "tmdb": {
+                "id": 1417,
+                "original_title": "El laberinto del fauno",
+                "title": "O Labirinto do Fauno",
+                "release_date": "2006-10-10",
+                "backdrop_path": "/o0IWa75BXyXryNDVqw0xoXZzy1J.jpg",
+                "poster_path": "/53ZMT8Y18gwLpInzRLMEebAZxew.jpg",
+                "overview": "Em 1944, na Espanha, a jovem Of\u00e9lia e sua m\u00e3e doente chegam ao posto do novo marido de sua m\u00e3e, um s\u00e1dico oficial do ex\u00e9rcito que est\u00e1 tentando reprimir uma guerrilheira. Enquanto explorava um labirinto antigo, Of\u00e9lia encontra o Pan fauno, que diz que a menina \u00e9 uma lend\u00e1ria princesa perdida e que ela precisa completar tr\u00eas tarefas perigosas a fim de se tornar imortal.",
+                "vote_average": 7.757,
+                "vote_count": 10141
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Queen",
+            "second_label": "Written by Peter Morgan",
+            "category": "Writing (Original Screenplay)",
+            "year": 2007,
+            "tmdb": {
+                "id": 1165,
+                "original_title": "The Queen",
+                "title": "A Rainha",
+                "release_date": "2006-09-15",
+                "backdrop_path": "/7HmIVY3drZ3KSugRcyazn1Wf3U9.jpg",
+                "poster_path": "/kd9rMMLWZRIT00Yiphyjbjm32LH.jpg",
+                "overview": "A not\u00edcia da morte da princesa Diana se espalha rapidamente pelo mundo. Incapaz de compreender a rea\u00e7\u00e3o emocional do p\u00fablico brit\u00e2nico, a rainha Elizabeth II (Helen Mirren) se fecha com a fam\u00edlia real no pal\u00e1cio Balmoral. Tony Blair (Michael Sheen), o rec\u00e9m-apontado primeiro-ministro brit\u00e2nico, percebe que os l\u00edderes do pa\u00eds precisam tomar medidas que os reaproximem da popula\u00e7\u00e3o e \u00e9 com essa miss\u00e3o que ele procura a rainha.",
+                "vote_average": 7.0,
+                "vote_count": 1233
+            },
+            "winner": false
+        }
+    ]
+}
