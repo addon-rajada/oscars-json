@@ -1,0 +1,1650 @@
+{
+    "Actor": [
+        {
+            "first_label": "Marlon Brando",
+            "second_label": "The Godfather",
+            "category": "Actor",
+            "year": 1973,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Michael Caine",
+            "second_label": "Sleuth",
+            "category": "Actor",
+            "year": 1973,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Laurence Olivier",
+            "second_label": "Sleuth",
+            "category": "Actor",
+            "year": 1973,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Peter O'Toole",
+            "second_label": "The Ruling Class",
+            "category": "Actor",
+            "year": 1973,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Paul Winfield",
+            "second_label": "Sounder",
+            "category": "Actor",
+            "year": 1973,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Joel Grey",
+            "second_label": "Cabaret",
+            "category": "Actor in a Supporting Role",
+            "year": 1973,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Eddie Albert",
+            "second_label": "The Heartbreak Kid",
+            "category": "Actor in a Supporting Role",
+            "year": 1973,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "James Caan",
+            "second_label": "The Godfather",
+            "category": "Actor in a Supporting Role",
+            "year": 1973,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Robert Duvall",
+            "second_label": "The Godfather",
+            "category": "Actor in a Supporting Role",
+            "year": 1973,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Al Pacino",
+            "second_label": "The Godfather",
+            "category": "Actor in a Supporting Role",
+            "year": 1973,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress": [
+        {
+            "first_label": "Liza Minnelli",
+            "second_label": "Cabaret",
+            "category": "Actress",
+            "year": 1973,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Diana Ross",
+            "second_label": "Lady Sings the Blues",
+            "category": "Actress",
+            "year": 1973,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Maggie Smith",
+            "second_label": "Travels with My Aunt",
+            "category": "Actress",
+            "year": 1973,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Cicely Tyson",
+            "second_label": "Sounder",
+            "category": "Actress",
+            "year": 1973,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Liv Ullmann",
+            "second_label": "The Emigrants",
+            "category": "Actress",
+            "year": 1973,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Eileen Heckart",
+            "second_label": "Butterflies Are Free",
+            "category": "Actress in a Supporting Role",
+            "year": 1973,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Jeannie Berlin",
+            "second_label": "The Heartbreak Kid",
+            "category": "Actress in a Supporting Role",
+            "year": 1973,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Geraldine Page",
+            "second_label": "Pete 'n' Tillie",
+            "category": "Actress in a Supporting Role",
+            "year": 1973,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Susan Tyrrell",
+            "second_label": "Fat City",
+            "category": "Actress in a Supporting Role",
+            "year": 1973,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Shelley Winters",
+            "second_label": "The Poseidon Adventure",
+            "category": "Actress in a Supporting Role",
+            "year": 1973,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction": [
+        {
+            "first_label": "Cabaret",
+            "second_label": "Art Direction: Rolf Zehetbauer, Jurgen Kiebach; Set Decoration: Herbert Strabel",
+            "category": "Art Direction",
+            "year": 1973,
+            "tmdb": {
+                "id": 10784,
+                "original_title": "Cabaret",
+                "title": "Cabaret",
+                "release_date": "1972-02-13",
+                "backdrop_path": "/yInvVRrCmEypIt5hm0WvXkjxsQX.jpg",
+                "poster_path": "/fMhOeJ2TvuY46iYGmsowhgRXfnr.jpg",
+                "overview": "Berlim no in\u00edcio da d\u00e9cada de 30. O nazismo fazia sua ascens\u00e3o mete\u00f3rica, mas a grande maioria das pessoas ainda n\u00e3o tinha no\u00e7\u00e3o do terr\u00edvel poder que aquela for\u00e7a pol\u00edtica se transformaria. Sally Bowles (Liza Minnelli), uma jovem americana que canta em um cabar\u00e9 e sonha em ser tornar uma estrela, se apaixona por Brian Roberts (Michael York), que \u00e9 bissexual. Ambos se envolvem com Maximillian von Heune (Helmut Griem), um rico e nobre alem\u00e3o. Quando Sally fica gr\u00e1vida, Brian diz que quer casar e declara n\u00e3o se importar de quem seja o filho. Mas o futuro lhes reserva outro destino.",
+                "vote_average": 7.4,
+                "vote_count": 835
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Lady Sings the Blues",
+            "second_label": "Art Direction: Carl Anderson; Set Decoration: Reg Allen",
+            "category": "Art Direction",
+            "year": 1973,
+            "tmdb": {
+                "id": 23148,
+                "original_title": "Lady Sings the Blues",
+                "title": "O Ocaso de uma Estrela",
+                "release_date": "1972-10-12",
+                "backdrop_path": "/pr0ZrGrYSGUOny744a8zWFAYvm5.jpg",
+                "poster_path": "/8E2XcZNJaWsJ4DsTycMqEH3ekxi.jpg",
+                "overview": "Chronicles the rise and fall of legendary blues singer Billie Holiday. Her late childhood, stint as a prostitute, early tours, marriages and drug addiction are featured.",
+                "vote_average": 6.9,
+                "vote_count": 58
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Poseidon Adventure",
+            "second_label": "Art Direction: William Creber; Set Decoration: Raphael Bretton",
+            "category": "Art Direction",
+            "year": 1973,
+            "tmdb": {
+                "id": 551,
+                "original_title": "The Poseidon Adventure",
+                "title": "O Destino do Poseidon",
+                "release_date": "1972-12-13",
+                "backdrop_path": "/v1QEIuBM1vvpvfqalahhIyXY0Cm.jpg",
+                "poster_path": "/lZgtbanH0RIMD52azO3mpOGI7ej.jpg",
+                "overview": "Em virtude de um maremoto, um transatl\u00e2ntico de luxo \u00e9 atingido na v\u00e9spera de Ano Novo por uma onda gigantesca, fazendo-o virar totalmente. Os sobreviventes do choque inicial s\u00e3o liderados pelo reverendo Frank Scott e tentam escapar de qualquer maneira da embarca\u00e7\u00e3o.",
+                "vote_average": 7.1,
+                "vote_count": 829
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Travels with My Aunt",
+            "second_label": "Art Direction: John Box, Gil Parrondo, Robert W. Laing",
+            "category": "Art Direction",
+            "year": 1973,
+            "tmdb": {
+                "id": 5183,
+                "original_title": "Travels with My Aunt",
+                "title": "Travels with My Aunt",
+                "release_date": "1972-12-17",
+                "backdrop_path": "/mF2nZkkzsPRgow836ukgHiG4cHL.jpg",
+                "poster_path": "/2bycdsCdZ7oqZsLbViWRp2fnHEg.jpg",
+                "overview": "At his mother's funeral, stuffy bank clerk Henry Pulling meets his Aunt Augusta, an elderly eccentric with more-than-shady dealings who pulls him along on a whirlwind adventure as she attempts to rescue an old lover.",
+                "vote_average": 5.7,
+                "vote_count": 32
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Young Winston",
+            "second_label": "Art Direction: Geoffrey Drake, Don Ashton, John Graysmark, William Hutchinson; Set Decoration: Peter James",
+            "category": "Art Direction",
+            "year": 1973,
+            "tmdb": {
+                "id": 66775,
+                "original_title": "Young Winston",
+                "title": "As Garras do Le\u00e3o",
+                "release_date": "1972-07-20",
+                "backdrop_path": "/iKTeIaZgH8MVkDap5nCQrdfbzW0.jpg",
+                "poster_path": "/pXhZlDL3pmqWNVypX9IalFQAffU.jpg",
+                "overview": "This historical drama is an account of the early life of British politician Winston Churchill, including his childhood years, his time as a war correspondent in Africa, and culminating with his first election to Parliament.",
+                "vote_average": 6.2,
+                "vote_count": 43
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "Cabaret",
+            "second_label": "Geoffrey Unsworth",
+            "category": "Cinematography",
+            "year": 1973,
+            "tmdb": {
+                "id": 10784,
+                "original_title": "Cabaret",
+                "title": "Cabaret",
+                "release_date": "1972-02-13",
+                "backdrop_path": "/yInvVRrCmEypIt5hm0WvXkjxsQX.jpg",
+                "poster_path": "/fMhOeJ2TvuY46iYGmsowhgRXfnr.jpg",
+                "overview": "Berlim no in\u00edcio da d\u00e9cada de 30. O nazismo fazia sua ascens\u00e3o mete\u00f3rica, mas a grande maioria das pessoas ainda n\u00e3o tinha no\u00e7\u00e3o do terr\u00edvel poder que aquela for\u00e7a pol\u00edtica se transformaria. Sally Bowles (Liza Minnelli), uma jovem americana que canta em um cabar\u00e9 e sonha em ser tornar uma estrela, se apaixona por Brian Roberts (Michael York), que \u00e9 bissexual. Ambos se envolvem com Maximillian von Heune (Helmut Griem), um rico e nobre alem\u00e3o. Quando Sally fica gr\u00e1vida, Brian diz que quer casar e declara n\u00e3o se importar de quem seja o filho. Mas o futuro lhes reserva outro destino.",
+                "vote_average": 7.4,
+                "vote_count": 835
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Butterflies Are Free",
+            "second_label": "Charles B. Lang",
+            "category": "Cinematography",
+            "year": 1973,
+            "tmdb": {
+                "id": 55106,
+                "original_title": "Butterflies Are Free",
+                "title": "Butterflies Are Free",
+                "release_date": "1972-07-06",
+                "backdrop_path": "/8R0hA9aFK6g4jPRF83GTv77M5zE.jpg",
+                "poster_path": "/nsx4Rsv8KzP19rCXzl6Mnu09jUp.jpg",
+                "overview": "Striving to be independent, the blind but determined Don Baker moves away from his overprotective mother. After settling into his new San Francisco digs, Don meets kooky neighbor Jill Tanner. Don's quick wit and good looks disarm the free-spirited Jill, and before long they're more than just friends. Will Mrs. Baker's incessant meddling destroy Don and Jill's budding relationship?",
+                "vote_average": 6.8,
+                "vote_count": 72
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Poseidon Adventure",
+            "second_label": "Harold E. Stine",
+            "category": "Cinematography",
+            "year": 1973,
+            "tmdb": {
+                "id": 551,
+                "original_title": "The Poseidon Adventure",
+                "title": "O Destino do Poseidon",
+                "release_date": "1972-12-13",
+                "backdrop_path": "/v1QEIuBM1vvpvfqalahhIyXY0Cm.jpg",
+                "poster_path": "/lZgtbanH0RIMD52azO3mpOGI7ej.jpg",
+                "overview": "Em virtude de um maremoto, um transatl\u00e2ntico de luxo \u00e9 atingido na v\u00e9spera de Ano Novo por uma onda gigantesca, fazendo-o virar totalmente. Os sobreviventes do choque inicial s\u00e3o liderados pelo reverendo Frank Scott e tentam escapar de qualquer maneira da embarca\u00e7\u00e3o.",
+                "vote_average": 7.1,
+                "vote_count": 829
+            },
+            "winner": false
+        },
+        {
+            "first_label": "1776",
+            "second_label": "Harry Stradling, Jr.",
+            "category": "Cinematography",
+            "year": 1973,
+            "tmdb": {
+                "id": 14902,
+                "original_title": "1776",
+                "title": "1776",
+                "release_date": "1972-11-09",
+                "backdrop_path": "/oZvcAb8W23rjAfTGZbztwqbJkEu.jpg",
+                "poster_path": "/o50REDExdajGxTWczsmC3qcawGr.jpg",
+                "overview": "Colonial representatives gather in Philadelphia with the aim of establishing a set of governmental rules for the burgeoning United States. Benjamin Franklin and John Adams charge Thomas Jefferson with the task of writing a statement announcing the new country's emancipation from British rule.",
+                "vote_average": 6.9,
+                "vote_count": 68
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Travels with My Aunt",
+            "second_label": "Douglas Slocombe",
+            "category": "Cinematography",
+            "year": 1973,
+            "tmdb": {
+                "id": 5183,
+                "original_title": "Travels with My Aunt",
+                "title": "Travels with My Aunt",
+                "release_date": "1972-12-17",
+                "backdrop_path": "/mF2nZkkzsPRgow836ukgHiG4cHL.jpg",
+                "poster_path": "/2bycdsCdZ7oqZsLbViWRp2fnHEg.jpg",
+                "overview": "At his mother's funeral, stuffy bank clerk Henry Pulling meets his Aunt Augusta, an elderly eccentric with more-than-shady dealings who pulls him along on a whirlwind adventure as she attempts to rescue an old lover.",
+                "vote_average": 5.7,
+                "vote_count": 32
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design": [
+        {
+            "first_label": "Travels with My Aunt",
+            "second_label": "Anthony Powell",
+            "category": "Costume Design",
+            "year": 1973,
+            "tmdb": {
+                "id": 5183,
+                "original_title": "Travels with My Aunt",
+                "title": "Travels with My Aunt",
+                "release_date": "1972-12-17",
+                "backdrop_path": "/mF2nZkkzsPRgow836ukgHiG4cHL.jpg",
+                "poster_path": "/2bycdsCdZ7oqZsLbViWRp2fnHEg.jpg",
+                "overview": "At his mother's funeral, stuffy bank clerk Henry Pulling meets his Aunt Augusta, an elderly eccentric with more-than-shady dealings who pulls him along on a whirlwind adventure as she attempts to rescue an old lover.",
+                "vote_average": 5.7,
+                "vote_count": 32
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Godfather",
+            "second_label": "Anna Hill Johnstone",
+            "category": "Costume Design",
+            "year": 1973,
+            "tmdb": {
+                "id": 238,
+                "original_title": "The Godfather",
+                "title": "O Poderoso Chef\u00e3o",
+                "release_date": "1972-03-14",
+                "backdrop_path": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+                "poster_path": "/oJagOzBu9Rdd9BrciseCm3U3MCU.jpg",
+                "overview": "Em 1945, Don Corleone \u00e9 o chefe de uma mafiosa fam\u00edlia italiana de Nova York. Ele costuma apadrinhar v\u00e1rias pessoas, realizando importantes favores para elas, em troca de favores futuros. Com a chegada das drogas, as fam\u00edlias come\u00e7am uma disputa pelo promissor mercado. Quando Corleone se recusa a facilitar a entrada dos narc\u00f3ticos na cidade, n\u00e3o oferecendo ajuda pol\u00edtica e policial, sua fam\u00edlia come\u00e7a a sofrer atentados para que mudem de posi\u00e7\u00e3o. \u00c9 nessa complicada \u00e9poca que Michael, um her\u00f3i de guerra nunca envolvido nos neg\u00f3cios da fam\u00edlia, v\u00ea a necessidade de proteger o seu pai e tudo o que ele construiu ao longo dos anos.",
+                "vote_average": 8.695,
+                "vote_count": 19626
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lady Sings the Blues",
+            "second_label": "Bob Mackie, Ray Aghayan, Norma Koch",
+            "category": "Costume Design",
+            "year": 1973,
+            "tmdb": {
+                "id": 23148,
+                "original_title": "Lady Sings the Blues",
+                "title": "O Ocaso de uma Estrela",
+                "release_date": "1972-10-12",
+                "backdrop_path": "/pr0ZrGrYSGUOny744a8zWFAYvm5.jpg",
+                "poster_path": "/8E2XcZNJaWsJ4DsTycMqEH3ekxi.jpg",
+                "overview": "Chronicles the rise and fall of legendary blues singer Billie Holiday. Her late childhood, stint as a prostitute, early tours, marriages and drug addiction are featured.",
+                "vote_average": 6.9,
+                "vote_count": 58
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Poseidon Adventure",
+            "second_label": "Paul Zastupnevich",
+            "category": "Costume Design",
+            "year": 1973,
+            "tmdb": {
+                "id": 551,
+                "original_title": "The Poseidon Adventure",
+                "title": "O Destino do Poseidon",
+                "release_date": "1972-12-13",
+                "backdrop_path": "/v1QEIuBM1vvpvfqalahhIyXY0Cm.jpg",
+                "poster_path": "/lZgtbanH0RIMD52azO3mpOGI7ej.jpg",
+                "overview": "Em virtude de um maremoto, um transatl\u00e2ntico de luxo \u00e9 atingido na v\u00e9spera de Ano Novo por uma onda gigantesca, fazendo-o virar totalmente. Os sobreviventes do choque inicial s\u00e3o liderados pelo reverendo Frank Scott e tentam escapar de qualquer maneira da embarca\u00e7\u00e3o.",
+                "vote_average": 7.1,
+                "vote_count": 829
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Young Winston",
+            "second_label": "Anthony Mendleson",
+            "category": "Costume Design",
+            "year": 1973,
+            "tmdb": {
+                "id": 66775,
+                "original_title": "Young Winston",
+                "title": "As Garras do Le\u00e3o",
+                "release_date": "1972-07-20",
+                "backdrop_path": "/iKTeIaZgH8MVkDap5nCQrdfbzW0.jpg",
+                "poster_path": "/pXhZlDL3pmqWNVypX9IalFQAffU.jpg",
+                "overview": "This historical drama is an account of the early life of British politician Winston Churchill, including his childhood years, his time as a war correspondent in Africa, and culminating with his first election to Parliament.",
+                "vote_average": 6.2,
+                "vote_count": 43
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "Cabaret",
+            "second_label": "Bob Fosse",
+            "category": "Directing",
+            "year": 1973,
+            "tmdb": {
+                "id": 10784,
+                "original_title": "Cabaret",
+                "title": "Cabaret",
+                "release_date": "1972-02-13",
+                "backdrop_path": "/yInvVRrCmEypIt5hm0WvXkjxsQX.jpg",
+                "poster_path": "/fMhOeJ2TvuY46iYGmsowhgRXfnr.jpg",
+                "overview": "Berlim no in\u00edcio da d\u00e9cada de 30. O nazismo fazia sua ascens\u00e3o mete\u00f3rica, mas a grande maioria das pessoas ainda n\u00e3o tinha no\u00e7\u00e3o do terr\u00edvel poder que aquela for\u00e7a pol\u00edtica se transformaria. Sally Bowles (Liza Minnelli), uma jovem americana que canta em um cabar\u00e9 e sonha em ser tornar uma estrela, se apaixona por Brian Roberts (Michael York), que \u00e9 bissexual. Ambos se envolvem com Maximillian von Heune (Helmut Griem), um rico e nobre alem\u00e3o. Quando Sally fica gr\u00e1vida, Brian diz que quer casar e declara n\u00e3o se importar de quem seja o filho. Mas o futuro lhes reserva outro destino.",
+                "vote_average": 7.4,
+                "vote_count": 835
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Deliverance",
+            "second_label": "John Boorman",
+            "category": "Directing",
+            "year": 1973,
+            "tmdb": {
+                "id": 10669,
+                "original_title": "Deliverance",
+                "title": "Amargo Pesadelo",
+                "release_date": "1972-08-18",
+                "backdrop_path": "/aAU15YKA5s64hKzzf12DZyH1DL4.jpg",
+                "poster_path": "/v7AGBQwaXBfromQMrYZkoLL4FiT.jpg",
+                "overview": "O Rio Chatooga nos montes Apalaches vai ser represado e com isso um lindo vale ser\u00e1 destru\u00eddo. Como \u00faltima aventura, quatro amigos: Lewis Medlock, Ed Gentry, Drew Ballinger e Bobby Trippe, homens extremamente urbanos, resolvem fazer uma \u00faltima aventura descendo as corredeiras do rio, em busca de adrenalina, emo\u00e7\u00e3o e maior contato com a natureza. Essa aventura come\u00e7a a se complicar quando dois desses amigos tomam a dianteira no rio, distanciando-se dos outros. Uma s\u00e9rie de amea\u00e7as \u00e0s suas vidas est\u00e3o aparecendo... dif\u00edcil vai ser escapar delas...",
+                "vote_average": 7.3,
+                "vote_count": 1485
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Emigrants",
+            "second_label": "Jan Troell",
+            "category": "Directing",
+            "year": 1973,
+            "tmdb": {
+                "id": 40732,
+                "original_title": "Utvandrarna",
+                "title": "Os Emigrantes",
+                "release_date": "1971-03-08",
+                "backdrop_path": "/oIBvbIj95OUy8MLYdtThVOvMvq9.jpg",
+                "poster_path": "/4R6jkZ0ympdbS9jR7oIurfh6NZy.jpg",
+                "overview": "A Swedish peasant family, ravaged by poverty, privation and misery in mid-19th century Sweden, set out on a perilous journey to America in hope of a better life.",
+                "vote_average": 7.4,
+                "vote_count": 104
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Godfather",
+            "second_label": "Francis Ford Coppola",
+            "category": "Directing",
+            "year": 1973,
+            "tmdb": {
+                "id": 238,
+                "original_title": "The Godfather",
+                "title": "O Poderoso Chef\u00e3o",
+                "release_date": "1972-03-14",
+                "backdrop_path": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+                "poster_path": "/oJagOzBu9Rdd9BrciseCm3U3MCU.jpg",
+                "overview": "Em 1945, Don Corleone \u00e9 o chefe de uma mafiosa fam\u00edlia italiana de Nova York. Ele costuma apadrinhar v\u00e1rias pessoas, realizando importantes favores para elas, em troca de favores futuros. Com a chegada das drogas, as fam\u00edlias come\u00e7am uma disputa pelo promissor mercado. Quando Corleone se recusa a facilitar a entrada dos narc\u00f3ticos na cidade, n\u00e3o oferecendo ajuda pol\u00edtica e policial, sua fam\u00edlia come\u00e7a a sofrer atentados para que mudem de posi\u00e7\u00e3o. \u00c9 nessa complicada \u00e9poca que Michael, um her\u00f3i de guerra nunca envolvido nos neg\u00f3cios da fam\u00edlia, v\u00ea a necessidade de proteger o seu pai e tudo o que ele construiu ao longo dos anos.",
+                "vote_average": 8.695,
+                "vote_count": 19626
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sleuth",
+            "second_label": "Joseph L. Mankiewicz",
+            "category": "Directing",
+            "year": 1973,
+            "tmdb": {
+                "id": 993,
+                "original_title": "Sleuth",
+                "title": "Trama Diab\u00f3lica",
+                "release_date": "1972-12-10",
+                "backdrop_path": "/vIXHzbF0YF7iJUqBmFZPBL8fzM5.jpg",
+                "poster_path": "/jAREYLUnYGwPjbQr0vs1s38QLkH.jpg",
+                "overview": "Um cabeleleiro e um escritor de hist\u00f3rias de mist\u00e9rios t\u00eam algo em comum: a mesma mulher. Enquanto o primeiro \u00e9 um amante apaixonado, que n\u00e3o sabe como sustentar as extravag\u00e2ncias de sua paix\u00e3o, o segundo \u00e9 um marido que est\u00e1 cansado dela e pretende ficar com a amante. O marido prop\u00f5e ao amante da sua mulher que este roube sua j\u00f3ias e as venda para um receptador de confian\u00e7a. O marido n\u00e3o sofreria preju\u00edzo, pois as j\u00f3ias est\u00e3o no seguro, mas existe um problema: um tenta ludibriar o outro em um duelo de intelig\u00eancia.",
+                "vote_average": 7.7,
+                "vote_count": 574
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "Marjoe",
+            "second_label": "Howard Smith and Sarah Kernochan, Producers",
+            "category": "Documentary (Feature)",
+            "year": 1973,
+            "tmdb": {
+                "id": 38616,
+                "original_title": "Marjoe",
+                "title": "Marjoe",
+                "release_date": "1972-07-24",
+                "backdrop_path": "/pkqLvkkRJOPVE1hadZJOvBFtweC.jpg",
+                "poster_path": "/e9OBKdT7fL1NnmSeDaExbGWj0ib.jpg",
+                "overview": "Part documentary, part expose, this film follows one-time child evangelist Marjoe Gortner on the \"church tent\" Revivalist circuit, commenting on the showmanship of Evangelism and \"the religion business\", prior to the start of \"televangelism\".",
+                "vote_average": 7.6,
+                "vote_count": 28
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Ape and Super-Ape",
+            "second_label": "Bert Haanstra, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1973,
+            "tmdb": {
+                "id": 149326,
+                "original_title": "Bij de beesten af",
+                "title": "Ape and Super-Ape",
+                "release_date": "1972-12-21",
+                "backdrop_path": null,
+                "poster_path": "/msWeEmr3ezrkMuJBmAkffv3GGpe.jpg",
+                "overview": "The film is a study of the differences and similarities between human and animal behaviour. The first part of the movie focuses on the behaviour of various animal species. The second half is about humans. In the original Dutch version writer Anton Koolhaas, who also wrote the script, provided the voice-over.",
+                "vote_average": 5.0,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Malcolm X",
+            "second_label": "Marvin Worth and Arnold Perl, Producers",
+            "category": "Documentary (Feature)",
+            "year": 1973,
+            "tmdb": {
+                "id": 46898,
+                "original_title": "Malcolm X",
+                "title": "Malcolm X",
+                "release_date": "1972-05-24",
+                "backdrop_path": null,
+                "poster_path": "/vWTYVyIyNFkNJzDCU5izMHWTNFZ.jpg",
+                "overview": "James Earl Jones narrates this fascinating and moving documentary about the life of the assassinated black leader through various sources.",
+                "vote_average": 6.4,
+                "vote_count": 12
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Manson",
+            "second_label": "Robert Hendrickson and Laurence Merrick, Producers",
+            "category": "Documentary (Feature)",
+            "year": 1973,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Silent Revolution",
+            "second_label": "Eckehard Munck, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1973,
+            "tmdb": {
+                "id": 149327,
+                "original_title": "Die lautlose Revolution",
+                "title": "The Silent Revolution",
+                "release_date": "1971-05-03",
+                "backdrop_path": null,
+                "poster_path": "/xFUYnYXZIBivnSufyrriCd9yG4H.jpg",
+                "overview": "The Silent Revolution is a 1972 German documentary film about molecular biology. The film posits that biologically, man will still be programmed as a hunter and food collector even when there will be nothing to hunt and collect. Evolution is too slow to cope with the rapid changes in our environment, and the countdown of man's survival has already begun. Yet. there may be a chance to influence the steering mechanism of life. It was nominated for an Academy Award for Best Documentary Feature.",
+                "vote_average": 5.0,
+                "vote_count": 1
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "This Tiny World",
+            "second_label": "Charles Huguenot van der Linden and Martina Huguenot van der Linden, Producers",
+            "category": "Documentary (Short Subject)",
+            "year": 1973,
+            "tmdb": {
+                "id": 243368,
+                "original_title": "Deze kleine wereld",
+                "title": "This Tiny World",
+                "release_date": "1972-01-01",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "Oscar Winning documentary short about antique mechanical toys.",
+                "vote_average": 5.3,
+                "vote_count": 6
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Hundertwasser's Rainy Day",
+            "second_label": "Peter Schamoni, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1973,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "K-Z",
+            "second_label": "Giorgio Treves, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1973,
+            "tmdb": {
+                "id": 243369,
+                "original_title": "K-Z",
+                "title": "K-Z",
+                "release_date": "1972-01-01",
+                "backdrop_path": null,
+                "poster_path": "/mmJ7FMmJEVL6RhBtUWjf6jlKiW4.jpg",
+                "overview": "K-Z is a 1972 Italian short documentary film directed by Giorgio Treves, his study of the slaughterhouse in the centre of Turin as an allegory of a German concentration camp. It was nominated for an Academy Award for Best Documentary Short.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Selling Out",
+            "second_label": "Tadeusz Jaworski, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1973,
+            "tmdb": {
+                "id": 243370,
+                "original_title": "Selling Out",
+                "title": "Selling Out",
+                "release_date": "1972-11-01",
+                "backdrop_path": null,
+                "poster_path": "/zWfxvoQOp3LYGSHTboJjpMlKqdj.jpg",
+                "overview": "Selling Out is a 1972 Canadian short film for cinema and TV directed by Tadeusz Jaworski, and written and produced by Jack Winter. The film is a dramatization of a farmer\u2019s last day on his ancestral farm on Prince Edward Island as he is faced with the Public Auction of his family home and possessions. On the one hand, it is a simple, poignant tale of personal loss, alienation and the displacement of the old at the end of life. On the other, it is a political statement about the loss of Canadian Heritage, land and economy to foreign capital. It was nominated for an Academy Award (Short Subject) in 1972. It was named Best Documentary at the 24th Canadian Film Awards.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Tide of Traffic",
+            "second_label": "Humphrey Swingler, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1973,
+            "tmdb": {
+                "id": 243371,
+                "original_title": "The Tide of Traffic",
+                "title": "The Tide of Traffic",
+                "release_date": "1972-01-01",
+                "backdrop_path": null,
+                "poster_path": "/vLvx2B54rOQ1OrmfrB5XJjU32et.jpg",
+                "overview": "The Tide of Traffic is a 1972 British short documentary film directed by Derek Williams, made by British Petroleum as a contribution to the UN Conference on the Human Environment, Stockholm 1972. It was nominated for an Academy Award for Best Documentary Short.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "Cabaret",
+            "second_label": "David Bretherton",
+            "category": "Film Editing",
+            "year": 1973,
+            "tmdb": {
+                "id": 10784,
+                "original_title": "Cabaret",
+                "title": "Cabaret",
+                "release_date": "1972-02-13",
+                "backdrop_path": "/yInvVRrCmEypIt5hm0WvXkjxsQX.jpg",
+                "poster_path": "/fMhOeJ2TvuY46iYGmsowhgRXfnr.jpg",
+                "overview": "Berlim no in\u00edcio da d\u00e9cada de 30. O nazismo fazia sua ascens\u00e3o mete\u00f3rica, mas a grande maioria das pessoas ainda n\u00e3o tinha no\u00e7\u00e3o do terr\u00edvel poder que aquela for\u00e7a pol\u00edtica se transformaria. Sally Bowles (Liza Minnelli), uma jovem americana que canta em um cabar\u00e9 e sonha em ser tornar uma estrela, se apaixona por Brian Roberts (Michael York), que \u00e9 bissexual. Ambos se envolvem com Maximillian von Heune (Helmut Griem), um rico e nobre alem\u00e3o. Quando Sally fica gr\u00e1vida, Brian diz que quer casar e declara n\u00e3o se importar de quem seja o filho. Mas o futuro lhes reserva outro destino.",
+                "vote_average": 7.4,
+                "vote_count": 835
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Deliverance",
+            "second_label": "Tom Priestley",
+            "category": "Film Editing",
+            "year": 1973,
+            "tmdb": {
+                "id": 10669,
+                "original_title": "Deliverance",
+                "title": "Amargo Pesadelo",
+                "release_date": "1972-08-18",
+                "backdrop_path": "/aAU15YKA5s64hKzzf12DZyH1DL4.jpg",
+                "poster_path": "/v7AGBQwaXBfromQMrYZkoLL4FiT.jpg",
+                "overview": "O Rio Chatooga nos montes Apalaches vai ser represado e com isso um lindo vale ser\u00e1 destru\u00eddo. Como \u00faltima aventura, quatro amigos: Lewis Medlock, Ed Gentry, Drew Ballinger e Bobby Trippe, homens extremamente urbanos, resolvem fazer uma \u00faltima aventura descendo as corredeiras do rio, em busca de adrenalina, emo\u00e7\u00e3o e maior contato com a natureza. Essa aventura come\u00e7a a se complicar quando dois desses amigos tomam a dianteira no rio, distanciando-se dos outros. Uma s\u00e9rie de amea\u00e7as \u00e0s suas vidas est\u00e3o aparecendo... dif\u00edcil vai ser escapar delas...",
+                "vote_average": 7.3,
+                "vote_count": 1485
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Godfather",
+            "second_label": "William Reynolds, Peter Zinner",
+            "category": "Film Editing",
+            "year": 1973,
+            "tmdb": {
+                "id": 238,
+                "original_title": "The Godfather",
+                "title": "O Poderoso Chef\u00e3o",
+                "release_date": "1972-03-14",
+                "backdrop_path": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+                "poster_path": "/oJagOzBu9Rdd9BrciseCm3U3MCU.jpg",
+                "overview": "Em 1945, Don Corleone \u00e9 o chefe de uma mafiosa fam\u00edlia italiana de Nova York. Ele costuma apadrinhar v\u00e1rias pessoas, realizando importantes favores para elas, em troca de favores futuros. Com a chegada das drogas, as fam\u00edlias come\u00e7am uma disputa pelo promissor mercado. Quando Corleone se recusa a facilitar a entrada dos narc\u00f3ticos na cidade, n\u00e3o oferecendo ajuda pol\u00edtica e policial, sua fam\u00edlia come\u00e7a a sofrer atentados para que mudem de posi\u00e7\u00e3o. \u00c9 nessa complicada \u00e9poca que Michael, um her\u00f3i de guerra nunca envolvido nos neg\u00f3cios da fam\u00edlia, v\u00ea a necessidade de proteger o seu pai e tudo o que ele construiu ao longo dos anos.",
+                "vote_average": 8.695,
+                "vote_count": 19626
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Hot Rock",
+            "second_label": "Frank P. Keller, Fred W. Berger",
+            "category": "Film Editing",
+            "year": 1973,
+            "tmdb": {
+                "id": 46059,
+                "original_title": "The Hot Rock",
+                "title": "Os Quatro Picaretas",
+                "release_date": "1972-01-26",
+                "backdrop_path": "/aWCVLOsrSOzdbT4zIg4AIpnNopR.jpg",
+                "poster_path": "/jSJIJ1Z5nb6GqgyzSQc8RpxXKFz.jpg",
+                "overview": "O africano Dr. Amusa aproxima-se do americano John Archibald Dortmunder para falar do enorme valor para todos os africanos de uma j\u00f3ia exposta num museu da \u00c1frica. O gatuno Dortmunder ent\u00e3o junta seu bando e elabora um grande plano para roubar a tal j\u00f3ia. Apesar do cuidado e experi\u00eancia, Dortmunder n\u00e3o conseguir\u00e1 o que deseja com tanta facilidade.",
+                "vote_average": 6.5,
+                "vote_count": 98
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Poseidon Adventure",
+            "second_label": "Harold F. Kress",
+            "category": "Film Editing",
+            "year": 1973,
+            "tmdb": {
+                "id": 551,
+                "original_title": "The Poseidon Adventure",
+                "title": "O Destino do Poseidon",
+                "release_date": "1972-12-13",
+                "backdrop_path": "/v1QEIuBM1vvpvfqalahhIyXY0Cm.jpg",
+                "poster_path": "/lZgtbanH0RIMD52azO3mpOGI7ej.jpg",
+                "overview": "Em virtude de um maremoto, um transatl\u00e2ntico de luxo \u00e9 atingido na v\u00e9spera de Ano Novo por uma onda gigantesca, fazendo-o virar totalmente. Os sobreviventes do choque inicial s\u00e3o liderados pelo reverendo Frank Scott e tentam escapar de qualquer maneira da embarca\u00e7\u00e3o.",
+                "vote_average": 7.1,
+                "vote_count": 829
+            },
+            "winner": false
+        }
+    ],
+    "Foreign Language Film": [
+        {
+            "first_label": "The Discreet Charm of the Bourgeoisie",
+            "second_label": "France",
+            "category": "Foreign Language Film",
+            "year": 1973,
+            "tmdb": {
+                "id": 4593,
+                "original_title": "Le Charme discret de la bourgeoisie",
+                "title": "O Discreto Charme da Burguesia",
+                "release_date": "1972-09-15",
+                "backdrop_path": "/ujfVlfO1jhcsUbi8gZssFE8Cmef.jpg",
+                "poster_path": "/hYYV7r236pa5BYBdteFIXD9Xayi.jpg",
+                "overview": "Um grupo de amigos de classe m\u00e9dia/alta tenta v\u00e1rias vezes promover um jantar, mas alguma coisa sempre d\u00e1 errado e lhes impede de conseguir todo o requinte necess\u00e1rio para uma digna refei\u00e7\u00e3o burguesa.",
+                "vote_average": 7.512,
+                "vote_count": 741
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Dawns Here Are Quiet",
+            "second_label": "Union of Soviet Socialist Republics",
+            "category": "Foreign Language Film",
+            "year": 1973,
+            "tmdb": {
+                "id": 49106,
+                "original_title": "...\u0410 \u0437\u043e\u0440\u0438 \u0437\u0434\u0435\u0441\u044c \u0442\u0438\u0445\u0438\u0435",
+                "title": "Auroras Nascem Tranquilas",
+                "release_date": "1972-06-06",
+                "backdrop_path": "/unPih308kkKcRrV4VvPF4GCFill.jpg",
+                "poster_path": "/q3jXq6rahRFqNwvbOWUUN1iPL8v.jpg",
+                "overview": "In a remote village in Karelia, Sergeant Vaskov commands an anti-aircraft unit that protects a rail depot. While his men are transferred to the front line, he is reprimanded for their unruly behavior. He retorts that he wants replacements that aren't drunks or womanizers. In response, he is assigned a unit made up entirely of young women, fresh from training.",
+                "vote_average": 7.0,
+                "vote_count": 132
+            },
+            "winner": false
+        },
+        {
+            "first_label": "I Love You Rosa",
+            "second_label": "Israel",
+            "category": "Foreign Language Film",
+            "year": 1973,
+            "tmdb": {
+                "id": 140423,
+                "original_title": "Ani Ohev Otach Rosa",
+                "title": "I Love You Rosa",
+                "release_date": "1972-02-12",
+                "backdrop_path": "/2A81HKe3eTsFuw1t4DUSnPIbupT.jpg",
+                "poster_path": "/3GShGJJfJErOOQ06IfpjLuWwclF.jpg",
+                "overview": "This story centers on the Jewish practice that requires an unmarried brother to marry the childless widow of his dead brother. In this story the younger brother is only 12 years old when his brother dies. The requirement is avoided by a legal fiction, but as time passes in the story, the situation changes.",
+                "vote_average": 5.8,
+                "vote_count": 12
+            },
+            "winner": false
+        },
+        {
+            "first_label": "My Dearest Seorita",
+            "second_label": "Spain",
+            "category": "Foreign Language Film",
+            "year": 1973,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The New Land",
+            "second_label": "Sweden",
+            "category": "Foreign Language Film",
+            "year": 1973,
+            "tmdb": {
+                "id": 42488,
+                "original_title": "Nybyggarna",
+                "title": "O Pre\u00e7o do Triunfo",
+                "release_date": "1972-02-26",
+                "backdrop_path": "/4CEtNdl70l4v0AcICcNyU6McvjQ.jpg",
+                "poster_path": "/dzs6K3A9ZRXJ31zKLSKy39nlY96.jpg",
+                "overview": "A Swedish immigrant family struggles to adapt to their new life on the American frontier during the second half of the 19th century amidst civil war, native uprising and the lure of gold in California.",
+                "vote_average": 7.6,
+                "vote_count": 87
+            },
+            "winner": false
+        }
+    ],
+    "Jean Hersholt Humanitarian Award": [
+        {
+            "first_label": "",
+            "second_label": "Rosalind Russell",
+            "category": "Jean Hersholt Humanitarian Award",
+            "year": 1973,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        }
+    ],
+    "Music (Original Dramatic Score)": [
+        {
+            "first_label": "Limelight",
+            "second_label": "Charles Chaplin, Raymond Rasch, Larry Russell",
+            "category": "Music (Original Dramatic Score)",
+            "year": 1973,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "images",
+            "second_label": "John Williams",
+            "category": "Music (Original Dramatic Score)",
+            "year": 1973,
+            "tmdb": {
+                "id": 29449,
+                "original_title": "Images",
+                "title": "Imagens",
+                "release_date": "1972-12-18",
+                "backdrop_path": "/yL4nA0MtGqWQdqkquhEdQ3O0tBN.jpg",
+                "poster_path": "/o9qfaNwjnqNBJ1uOLeC53r5eTzB.jpg",
+                "overview": "Uma dona de casa esquizofr\u00eanica, engolfada por apari\u00e7\u00f5es aterrorizantes, mata cada uma delas, sem saber se esses dem\u00f4nios s\u00e3o meras cria\u00e7\u00f5es de sua imagina\u00e7\u00e3o alucinat\u00f3ria ou parte da realidade. (e 16 - Estimado 16 Anos)",
+                "vote_average": 6.9,
+                "vote_count": 119
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Napoleon and Samantha",
+            "second_label": "Buddy Baker",
+            "category": "Music (Original Dramatic Score)",
+            "year": 1973,
+            "tmdb": {
+                "id": 42486,
+                "original_title": "Napoleon and Samantha",
+                "title": "Napole\u00e3o e Samantha",
+                "release_date": "1972-07-05",
+                "backdrop_path": "/hg1C3sptZUPZtlI5bnVaTbyg6wz.jpg",
+                "poster_path": "/mOjTiTeNYPQzUdRiBkQMUB1iRwP.jpg",
+                "overview": "O menino Napole\u00e3o e seu av\u00f4 Seth adotam um velho le\u00e3o manso de um palha\u00e7o que vai embora da cidade. Quando Seth adoece e morre, o menino fica s\u00f3 na companhia do le\u00e3o e da amiga Samantha, e precisa lutar para n\u00e3o ir para um orfanato.",
+                "vote_average": 6.1,
+                "vote_count": 30
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Poseidon Adventure",
+            "second_label": "John Williams",
+            "category": "Music (Original Dramatic Score)",
+            "year": 1973,
+            "tmdb": {
+                "id": 551,
+                "original_title": "The Poseidon Adventure",
+                "title": "O Destino do Poseidon",
+                "release_date": "1972-12-13",
+                "backdrop_path": "/v1QEIuBM1vvpvfqalahhIyXY0Cm.jpg",
+                "poster_path": "/lZgtbanH0RIMD52azO3mpOGI7ej.jpg",
+                "overview": "Em virtude de um maremoto, um transatl\u00e2ntico de luxo \u00e9 atingido na v\u00e9spera de Ano Novo por uma onda gigantesca, fazendo-o virar totalmente. Os sobreviventes do choque inicial s\u00e3o liderados pelo reverendo Frank Scott e tentam escapar de qualquer maneira da embarca\u00e7\u00e3o.",
+                "vote_average": 7.1,
+                "vote_count": 829
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sleuth",
+            "second_label": "John Addison",
+            "category": "Music (Original Dramatic Score)",
+            "year": 1973,
+            "tmdb": {
+                "id": 993,
+                "original_title": "Sleuth",
+                "title": "Trama Diab\u00f3lica",
+                "release_date": "1972-12-10",
+                "backdrop_path": "/vIXHzbF0YF7iJUqBmFZPBL8fzM5.jpg",
+                "poster_path": "/jAREYLUnYGwPjbQr0vs1s38QLkH.jpg",
+                "overview": "Um cabeleleiro e um escritor de hist\u00f3rias de mist\u00e9rios t\u00eam algo em comum: a mesma mulher. Enquanto o primeiro \u00e9 um amante apaixonado, que n\u00e3o sabe como sustentar as extravag\u00e2ncias de sua paix\u00e3o, o segundo \u00e9 um marido que est\u00e1 cansado dela e pretende ficar com a amante. O marido prop\u00f5e ao amante da sua mulher que este roube sua j\u00f3ias e as venda para um receptador de confian\u00e7a. O marido n\u00e3o sofreria preju\u00edzo, pois as j\u00f3ias est\u00e3o no seguro, mas existe um problema: um tenta ludibriar o outro em um duelo de intelig\u00eancia.",
+                "vote_average": 7.7,
+                "vote_count": 574
+            },
+            "winner": false
+        }
+    ],
+    "Music (Scoring: Adaptation and Original Song Score)": [
+        {
+            "first_label": "Cabaret",
+            "second_label": "Adaptation Score by Ralph Burns",
+            "category": "Music (Scoring: Adaptation and Original Song Score)",
+            "year": 1973,
+            "tmdb": {
+                "id": 10784,
+                "original_title": "Cabaret",
+                "title": "Cabaret",
+                "release_date": "1972-02-13",
+                "backdrop_path": "/yInvVRrCmEypIt5hm0WvXkjxsQX.jpg",
+                "poster_path": "/fMhOeJ2TvuY46iYGmsowhgRXfnr.jpg",
+                "overview": "Berlim no in\u00edcio da d\u00e9cada de 30. O nazismo fazia sua ascens\u00e3o mete\u00f3rica, mas a grande maioria das pessoas ainda n\u00e3o tinha no\u00e7\u00e3o do terr\u00edvel poder que aquela for\u00e7a pol\u00edtica se transformaria. Sally Bowles (Liza Minnelli), uma jovem americana que canta em um cabar\u00e9 e sonha em ser tornar uma estrela, se apaixona por Brian Roberts (Michael York), que \u00e9 bissexual. Ambos se envolvem com Maximillian von Heune (Helmut Griem), um rico e nobre alem\u00e3o. Quando Sally fica gr\u00e1vida, Brian diz que quer casar e declara n\u00e3o se importar de quem seja o filho. Mas o futuro lhes reserva outro destino.",
+                "vote_average": 7.4,
+                "vote_count": 835
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Lady Sings the Blues",
+            "second_label": "Adaptation Score by Gil Askey",
+            "category": "Music (Scoring: Adaptation and Original Song Score)",
+            "year": 1973,
+            "tmdb": {
+                "id": 23148,
+                "original_title": "Lady Sings the Blues",
+                "title": "O Ocaso de uma Estrela",
+                "release_date": "1972-10-12",
+                "backdrop_path": "/pr0ZrGrYSGUOny744a8zWFAYvm5.jpg",
+                "poster_path": "/8E2XcZNJaWsJ4DsTycMqEH3ekxi.jpg",
+                "overview": "Chronicles the rise and fall of legendary blues singer Billie Holiday. Her late childhood, stint as a prostitute, early tours, marriages and drug addiction are featured.",
+                "vote_average": 6.9,
+                "vote_count": 58
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Man of La Mancha",
+            "second_label": "Adaptation Score by Laurence Rosenthal",
+            "category": "Music (Scoring: Adaptation and Original Song Score)",
+            "year": 1973,
+            "tmdb": {
+                "id": 45793,
+                "original_title": "Man of La Mancha",
+                "title": "O Homem de La Mancha",
+                "release_date": "1972-12-12",
+                "backdrop_path": "/p4OlXsv2n6odgVedg7a5Fs5uD3u.jpg",
+                "poster_path": "/kKpSHHH6cj8YtciW1SHBGJ6pAOO.jpg",
+                "overview": "In the sixteenth century, Miguel de Cervantes, poet, playwright, and part-time actor, has been arrested, together with his manservant, by the Spanish Inquisition. They are accused of presenting an entertainment offensive to the Inquisition. Inside the huge dungeon into which they have been cast, the other prisoners gang up on Cervantes and his manservant, and begin a mock trial, with the intention of stealing or burning his possessions. Cervantes wishes to desperately save a manuscript he carries with him and stages, with costumes, makeup, and the participation of the other prisoners, an unusual defense--the story of Don Quixote.",
+                "vote_average": 6.6,
+                "vote_count": 53
+            },
+            "winner": false
+        }
+    ],
+    "Music (Song--Original for the Picture)": [
+        {
+            "first_label": "The Poseidon Adventure",
+            "second_label": "The Morning After in \"The Poseidon Adventure\" Music and Lyrics by Al Kasha and Joel Hirschhorn",
+            "category": "Music (Song--Original for the Picture)",
+            "year": 1973,
+            "tmdb": {
+                "id": 551,
+                "original_title": "The Poseidon Adventure",
+                "title": "O Destino do Poseidon",
+                "release_date": "1972-12-13",
+                "backdrop_path": "/v1QEIuBM1vvpvfqalahhIyXY0Cm.jpg",
+                "poster_path": "/lZgtbanH0RIMD52azO3mpOGI7ej.jpg",
+                "overview": "Em virtude de um maremoto, um transatl\u00e2ntico de luxo \u00e9 atingido na v\u00e9spera de Ano Novo por uma onda gigantesca, fazendo-o virar totalmente. Os sobreviventes do choque inicial s\u00e3o liderados pelo reverendo Frank Scott e tentam escapar de qualquer maneira da embarca\u00e7\u00e3o.",
+                "vote_average": 7.1,
+                "vote_count": 829
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Ben",
+            "second_label": "Ben in \"Ben\" Music by Walter Scharf; Lyrics by Don Black",
+            "category": "Music (Song--Original for the Picture)",
+            "year": 1973,
+            "tmdb": {
+                "id": 42476,
+                "original_title": "Ben",
+                "title": "Ben, O Rato Assassino",
+                "release_date": "1972-06-23",
+                "backdrop_path": "/d1tL5FbQq7QfEaIYS2NqGa9Dsnx.jpg",
+                "poster_path": "/e2VCamOh5x1pHChapum5g5uT1s6.jpg",
+                "overview": "Danny (Lee Montgomery) \u00e9 um jovem e solit\u00e1rio garoto que come\u00e7a uma estranha e inusitada amizade com um ratinho chamado Ben. Mas ele n\u00e3o sabe que Ben \u00e9 o l\u00edder de um grupo de ratos assassinos que foi respons\u00e1vel pela morte de v\u00e1rias pessoas. A dire\u00e7\u00e3o \u00e9 de responsabilidade de Phil Karlson.",
+                "vote_average": 5.8,
+                "vote_count": 94
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Little Ark",
+            "second_label": "Come Follow, Follow Me in \"The Little Ark\" Music by Fred Karlin; Lyrics by Marsha Karlin",
+            "category": "Music (Song--Original for the Picture)",
+            "year": 1973,
+            "tmdb": {
+                "id": 216484,
+                "original_title": "The Little Ark",
+                "title": "The Little Ark",
+                "release_date": "1972-03-01",
+                "backdrop_path": null,
+                "poster_path": "/dcCr9NpcJXAIh3UviWL9JK5ezOC.jpg",
+                "overview": "This heart-rending family-oriented drama chronicles the adventure of two Dutch children who temporarily lose their father and mother during the great flood of 1953. Fortunately, they and their animals are taken in by a salty old boatman who helps them reunite with their father.",
+                "vote_average": 6.0,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Life and Times of Judge Roy Bean",
+            "second_label": "Marmalade, Molasses & Honey in \"The Life and Times of Judge Roy Bean\" Music by Maurice Jarre; Lyrics by Marilyn Bergman and Alan Bergman",
+            "category": "Music (Song--Original for the Picture)",
+            "year": 1973,
+            "tmdb": {
+                "id": 33638,
+                "original_title": "The Life and Times of Judge Roy Bean",
+                "title": "Roy Bean - O Homem da Lei!",
+                "release_date": "1972-12-18",
+                "backdrop_path": "/yAGHYGkFzSE6nfLcgBIpiyG9gfr.jpg",
+                "poster_path": "/7iqGYu7bpnRMTJmyomQkl9VTDwP.jpg",
+                "overview": "O legislador fora-da-lei e auto nomeado, juiz Roy Bean, governa um peda\u00e7o vazio do Oeste que gradualmente se desenvolve, sob seu punho de ferro, em uma cidade pr\u00f3spera, enquanto ele distribui sua pr\u00f3pria marca peculiar de justi\u00e7a fronteiri\u00e7a sobre estranhos que passam. (e 16 - Estimado 16 Anos)",
+                "vote_average": 6.5,
+                "vote_count": 137
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Stepmother",
+            "second_label": "Strange Are The Ways Of Love in \"The Stepmother\" Music by Sammy Fain; Lyrics by Paul Francis Webster",
+            "category": "Music (Song--Original for the Picture)",
+            "year": 1973,
+            "tmdb": {
+                "id": 87886,
+                "original_title": "The Stepmother",
+                "title": "The Stepmother",
+                "release_date": "1972-10-26",
+                "backdrop_path": "/nofxOC0Rha1qLispcIE7bGCCJtr.jpg",
+                "poster_path": "/kqYa9WXTOze5N3WC5JcD69T2nlq.jpg",
+                "overview": "Returning home from a business trip, an architect assumes that a client is having an affair with his wife and murders the man. His feelings of guilt and attempts to conceal the crime lead to more complications and death.",
+                "vote_average": 4.0,
+                "vote_count": 10
+            },
+            "winner": false
+        }
+    ],
+    "Best Picture": [
+        {
+            "first_label": "The Godfather",
+            "second_label": "Albert S. Ruddy, Producer",
+            "category": "Best Picture",
+            "year": 1973,
+            "tmdb": {
+                "id": 238,
+                "original_title": "The Godfather",
+                "title": "O Poderoso Chef\u00e3o",
+                "release_date": "1972-03-14",
+                "backdrop_path": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+                "poster_path": "/oJagOzBu9Rdd9BrciseCm3U3MCU.jpg",
+                "overview": "Em 1945, Don Corleone \u00e9 o chefe de uma mafiosa fam\u00edlia italiana de Nova York. Ele costuma apadrinhar v\u00e1rias pessoas, realizando importantes favores para elas, em troca de favores futuros. Com a chegada das drogas, as fam\u00edlias come\u00e7am uma disputa pelo promissor mercado. Quando Corleone se recusa a facilitar a entrada dos narc\u00f3ticos na cidade, n\u00e3o oferecendo ajuda pol\u00edtica e policial, sua fam\u00edlia come\u00e7a a sofrer atentados para que mudem de posi\u00e7\u00e3o. \u00c9 nessa complicada \u00e9poca que Michael, um her\u00f3i de guerra nunca envolvido nos neg\u00f3cios da fam\u00edlia, v\u00ea a necessidade de proteger o seu pai e tudo o que ele construiu ao longo dos anos.",
+                "vote_average": 8.695,
+                "vote_count": 19626
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Cabaret",
+            "second_label": "Cy Feuer, Producer",
+            "category": "Best Picture",
+            "year": 1973,
+            "tmdb": {
+                "id": 10784,
+                "original_title": "Cabaret",
+                "title": "Cabaret",
+                "release_date": "1972-02-13",
+                "backdrop_path": "/yInvVRrCmEypIt5hm0WvXkjxsQX.jpg",
+                "poster_path": "/fMhOeJ2TvuY46iYGmsowhgRXfnr.jpg",
+                "overview": "Berlim no in\u00edcio da d\u00e9cada de 30. O nazismo fazia sua ascens\u00e3o mete\u00f3rica, mas a grande maioria das pessoas ainda n\u00e3o tinha no\u00e7\u00e3o do terr\u00edvel poder que aquela for\u00e7a pol\u00edtica se transformaria. Sally Bowles (Liza Minnelli), uma jovem americana que canta em um cabar\u00e9 e sonha em ser tornar uma estrela, se apaixona por Brian Roberts (Michael York), que \u00e9 bissexual. Ambos se envolvem com Maximillian von Heune (Helmut Griem), um rico e nobre alem\u00e3o. Quando Sally fica gr\u00e1vida, Brian diz que quer casar e declara n\u00e3o se importar de quem seja o filho. Mas o futuro lhes reserva outro destino.",
+                "vote_average": 7.4,
+                "vote_count": 835
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Deliverance",
+            "second_label": "John Boorman, Producer",
+            "category": "Best Picture",
+            "year": 1973,
+            "tmdb": {
+                "id": 10669,
+                "original_title": "Deliverance",
+                "title": "Amargo Pesadelo",
+                "release_date": "1972-08-18",
+                "backdrop_path": "/aAU15YKA5s64hKzzf12DZyH1DL4.jpg",
+                "poster_path": "/v7AGBQwaXBfromQMrYZkoLL4FiT.jpg",
+                "overview": "O Rio Chatooga nos montes Apalaches vai ser represado e com isso um lindo vale ser\u00e1 destru\u00eddo. Como \u00faltima aventura, quatro amigos: Lewis Medlock, Ed Gentry, Drew Ballinger e Bobby Trippe, homens extremamente urbanos, resolvem fazer uma \u00faltima aventura descendo as corredeiras do rio, em busca de adrenalina, emo\u00e7\u00e3o e maior contato com a natureza. Essa aventura come\u00e7a a se complicar quando dois desses amigos tomam a dianteira no rio, distanciando-se dos outros. Uma s\u00e9rie de amea\u00e7as \u00e0s suas vidas est\u00e3o aparecendo... dif\u00edcil vai ser escapar delas...",
+                "vote_average": 7.3,
+                "vote_count": 1485
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Emigrants",
+            "second_label": "Bengt Forslund, Producer",
+            "category": "Best Picture",
+            "year": 1973,
+            "tmdb": {
+                "id": 40732,
+                "original_title": "Utvandrarna",
+                "title": "Os Emigrantes",
+                "release_date": "1971-03-08",
+                "backdrop_path": "/oIBvbIj95OUy8MLYdtThVOvMvq9.jpg",
+                "poster_path": "/4R6jkZ0ympdbS9jR7oIurfh6NZy.jpg",
+                "overview": "A Swedish peasant family, ravaged by poverty, privation and misery in mid-19th century Sweden, set out on a perilous journey to America in hope of a better life.",
+                "vote_average": 7.4,
+                "vote_count": 104
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sounder",
+            "second_label": "Robert B. Radnitz, Producer",
+            "category": "Best Picture",
+            "year": 1973,
+            "tmdb": {
+                "id": 42489,
+                "original_title": "Sounder",
+                "title": "L\u00e1grimas de Esperan\u00e7a",
+                "release_date": "1972-09-24",
+                "backdrop_path": "/xWcLHR41XZ6IYINVWqJWtQUjsRl.jpg",
+                "poster_path": "/e17CcpTgnttCCLVqbZrebOOiXcH.jpg",
+                "overview": "Na d\u00e9cada de 1930, Nathan Lee Morgan, um negro arrendat\u00e1rio do estado da Louisiana, \u00e9 condenado \u00e0 pris\u00e3o por um crime irris\u00f3rio. Ap\u00f3s alguns meses, seu filho \u00e9 enviado para visit\u00e1-lo na cadeia, viagem na qual vive in\u00fameras aventuras.",
+                "vote_average": 7.4,
+                "vote_count": 40
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Animated)": [
+        {
+            "first_label": "A Christmas Carol",
+            "second_label": "Richard Williams, Producer",
+            "category": "Short Subject (Animated)",
+            "year": 1973,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Kama Sutra Rides Again",
+            "second_label": "Bob Godfrey, Producer",
+            "category": "Short Subject (Animated)",
+            "year": 1973,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tup Tup",
+            "second_label": "Nedeljko Dragic, Producer",
+            "category": "Short Subject (Animated)",
+            "year": 1973,
+            "tmdb": {
+                "id": 148037,
+                "original_title": "Tup Tup",
+                "title": "Tup Tup",
+                "release_date": "1972-01-01",
+                "backdrop_path": null,
+                "poster_path": "/fU7CpO5EzVduQHV1lFL5sqh1oD1.jpg",
+                "overview": "The quick tempo of life in polluted cities makes patients out of people. Neurosis is an everyday occurrence.",
+                "vote_average": 5.4,
+                "vote_count": 13
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Live Action)": [
+        {
+            "first_label": "Norman Rockwell's World...An American Dream",
+            "second_label": "Richard Barclay, Producer",
+            "category": "Short Subject (Live Action)",
+            "year": 1973,
+            "tmdb": {
+                "id": 243364,
+                "original_title": "Norman Rockwell's World... An American Dream",
+                "title": "Norman Rockwell's World... An American Dream",
+                "release_date": "1972-06-01",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "A short documentary film about artist Norman Rockwell. The film won an Oscar at the 45th Academy Awards, held in 1973, for Best Short Subject.",
+                "vote_average": 6.4,
+                "vote_count": 5
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Frog Story",
+            "second_label": "Ron Satlof and Ray Gideon, Producers",
+            "category": "Short Subject (Live Action)",
+            "year": 1973,
+            "tmdb": {
+                "id": 243365,
+                "original_title": "Frog Story",
+                "title": "Frog Story",
+                "release_date": "1972-01-01",
+                "backdrop_path": null,
+                "poster_path": "/rZXwfyAcrB6g0fBEWAtmr1dQ0N6.jpg",
+                "overview": "Oscar nominated short film from 1972",
+                "vote_average": 6.3,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Solo",
+            "second_label": "David Adams, Producer",
+            "category": "Short Subject (Live Action)",
+            "year": 1973,
+            "tmdb": {
+                "id": 116048,
+                "original_title": "Solo",
+                "title": "Solo",
+                "release_date": "1970-02-27",
+                "backdrop_path": "/dfwM8xUHcdJBHhqQqhbVAdoWZQC.jpg",
+                "poster_path": "/ootm6ezmACAyK0S6TNPYDJVfC3v.jpg",
+                "overview": "During an orgy, Some old and wealthy notables are being murdered by a small group of leftist young revolutionaries. Very soon the police are tracking down Virgile Cabral, the leader of the group. Meanwhile, Virgile's brother and only relative, Vincent, a violinist (and a thief), comes back to Paris. They have not seen each other for three years. Vincent does not believe in the revolution. He only tries to live as he wishes to live. But by looking for his hunted down brother, he has no other choice than to be involved in a fight that is not his.",
+                "vote_average": 6.1,
+                "vote_count": 31
+            },
+            "winner": false
+        }
+    ],
+    "Sound": [
+        {
+            "first_label": "Cabaret",
+            "second_label": "Robert Knudson, David Hildyard",
+            "category": "Sound",
+            "year": 1973,
+            "tmdb": {
+                "id": 10784,
+                "original_title": "Cabaret",
+                "title": "Cabaret",
+                "release_date": "1972-02-13",
+                "backdrop_path": "/yInvVRrCmEypIt5hm0WvXkjxsQX.jpg",
+                "poster_path": "/fMhOeJ2TvuY46iYGmsowhgRXfnr.jpg",
+                "overview": "Berlim no in\u00edcio da d\u00e9cada de 30. O nazismo fazia sua ascens\u00e3o mete\u00f3rica, mas a grande maioria das pessoas ainda n\u00e3o tinha no\u00e7\u00e3o do terr\u00edvel poder que aquela for\u00e7a pol\u00edtica se transformaria. Sally Bowles (Liza Minnelli), uma jovem americana que canta em um cabar\u00e9 e sonha em ser tornar uma estrela, se apaixona por Brian Roberts (Michael York), que \u00e9 bissexual. Ambos se envolvem com Maximillian von Heune (Helmut Griem), um rico e nobre alem\u00e3o. Quando Sally fica gr\u00e1vida, Brian diz que quer casar e declara n\u00e3o se importar de quem seja o filho. Mas o futuro lhes reserva outro destino.",
+                "vote_average": 7.4,
+                "vote_count": 835
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Butterflies Are Free",
+            "second_label": "Arthur Piantadosi, Charles Knight",
+            "category": "Sound",
+            "year": 1973,
+            "tmdb": {
+                "id": 55106,
+                "original_title": "Butterflies Are Free",
+                "title": "Butterflies Are Free",
+                "release_date": "1972-07-06",
+                "backdrop_path": "/8R0hA9aFK6g4jPRF83GTv77M5zE.jpg",
+                "poster_path": "/nsx4Rsv8KzP19rCXzl6Mnu09jUp.jpg",
+                "overview": "Striving to be independent, the blind but determined Don Baker moves away from his overprotective mother. After settling into his new San Francisco digs, Don meets kooky neighbor Jill Tanner. Don's quick wit and good looks disarm the free-spirited Jill, and before long they're more than just friends. Will Mrs. Baker's incessant meddling destroy Don and Jill's budding relationship?",
+                "vote_average": 6.8,
+                "vote_count": 72
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Candidate",
+            "second_label": "Richard Portman, Gene Cantamessa",
+            "category": "Sound",
+            "year": 1973,
+            "tmdb": {
+                "id": 21711,
+                "original_title": "The Candidate",
+                "title": "O Candidato",
+                "release_date": "1972-06-29",
+                "backdrop_path": "/fubgpre2DxmihYNvqQURPO8LNYK.jpg",
+                "poster_path": "/7g0WEMac9iKlhjmVEslIX8sIxCF.jpg",
+                "overview": "Bill McKay is a candidate for the U.S. Senate from California. He has no hope of winning, so he is willing to tweak the establishment.",
+                "vote_average": 6.5,
+                "vote_count": 140
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Godfather",
+            "second_label": "Bud Grenzbach, Richard Portman, Christopher Newman",
+            "category": "Sound",
+            "year": 1973,
+            "tmdb": {
+                "id": 238,
+                "original_title": "The Godfather",
+                "title": "O Poderoso Chef\u00e3o",
+                "release_date": "1972-03-14",
+                "backdrop_path": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+                "poster_path": "/oJagOzBu9Rdd9BrciseCm3U3MCU.jpg",
+                "overview": "Em 1945, Don Corleone \u00e9 o chefe de uma mafiosa fam\u00edlia italiana de Nova York. Ele costuma apadrinhar v\u00e1rias pessoas, realizando importantes favores para elas, em troca de favores futuros. Com a chegada das drogas, as fam\u00edlias come\u00e7am uma disputa pelo promissor mercado. Quando Corleone se recusa a facilitar a entrada dos narc\u00f3ticos na cidade, n\u00e3o oferecendo ajuda pol\u00edtica e policial, sua fam\u00edlia come\u00e7a a sofrer atentados para que mudem de posi\u00e7\u00e3o. \u00c9 nessa complicada \u00e9poca que Michael, um her\u00f3i de guerra nunca envolvido nos neg\u00f3cios da fam\u00edlia, v\u00ea a necessidade de proteger o seu pai e tudo o que ele construiu ao longo dos anos.",
+                "vote_average": 8.695,
+                "vote_count": 19626
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Poseidon Adventure",
+            "second_label": "Theodore Soderberg, Herman Lewis",
+            "category": "Sound",
+            "year": 1973,
+            "tmdb": {
+                "id": 551,
+                "original_title": "The Poseidon Adventure",
+                "title": "O Destino do Poseidon",
+                "release_date": "1972-12-13",
+                "backdrop_path": "/v1QEIuBM1vvpvfqalahhIyXY0Cm.jpg",
+                "poster_path": "/lZgtbanH0RIMD52azO3mpOGI7ej.jpg",
+                "overview": "Em virtude de um maremoto, um transatl\u00e2ntico de luxo \u00e9 atingido na v\u00e9spera de Ano Novo por uma onda gigantesca, fazendo-o virar totalmente. Os sobreviventes do choque inicial s\u00e3o liderados pelo reverendo Frank Scott e tentam escapar de qualquer maneira da embarca\u00e7\u00e3o.",
+                "vote_average": 7.1,
+                "vote_count": 829
+            },
+            "winner": false
+        }
+    ],
+    "Special Achievement Award (Visual Effects)": [
+        {
+            "first_label": "The Poseidon Adventure",
+            "second_label": "L. B. Abbott, A. D. Flowers",
+            "category": "Special Achievement Award (Visual Effects)",
+            "year": 1973,
+            "tmdb": {
+                "id": 551,
+                "original_title": "The Poseidon Adventure",
+                "title": "O Destino do Poseidon",
+                "release_date": "1972-12-13",
+                "backdrop_path": "/v1QEIuBM1vvpvfqalahhIyXY0Cm.jpg",
+                "poster_path": "/lZgtbanH0RIMD52azO3mpOGI7ej.jpg",
+                "overview": "Em virtude de um maremoto, um transatl\u00e2ntico de luxo \u00e9 atingido na v\u00e9spera de Ano Novo por uma onda gigantesca, fazendo-o virar totalmente. Os sobreviventes do choque inicial s\u00e3o liderados pelo reverendo Frank Scott e tentam escapar de qualquer maneira da embarca\u00e7\u00e3o.",
+                "vote_average": 7.1,
+                "vote_count": 829
+            },
+            "winner": true
+        }
+    ],
+    "Writing (Screenplay--based on material from another medium)": [
+        {
+            "first_label": "The Godfather",
+            "second_label": "Mario Puzo, Francis Ford Coppola",
+            "category": "Writing (Screenplay--based on material from another medium)",
+            "year": 1973,
+            "tmdb": {
+                "id": 238,
+                "original_title": "The Godfather",
+                "title": "O Poderoso Chef\u00e3o",
+                "release_date": "1972-03-14",
+                "backdrop_path": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+                "poster_path": "/oJagOzBu9Rdd9BrciseCm3U3MCU.jpg",
+                "overview": "Em 1945, Don Corleone \u00e9 o chefe de uma mafiosa fam\u00edlia italiana de Nova York. Ele costuma apadrinhar v\u00e1rias pessoas, realizando importantes favores para elas, em troca de favores futuros. Com a chegada das drogas, as fam\u00edlias come\u00e7am uma disputa pelo promissor mercado. Quando Corleone se recusa a facilitar a entrada dos narc\u00f3ticos na cidade, n\u00e3o oferecendo ajuda pol\u00edtica e policial, sua fam\u00edlia come\u00e7a a sofrer atentados para que mudem de posi\u00e7\u00e3o. \u00c9 nessa complicada \u00e9poca que Michael, um her\u00f3i de guerra nunca envolvido nos neg\u00f3cios da fam\u00edlia, v\u00ea a necessidade de proteger o seu pai e tudo o que ele construiu ao longo dos anos.",
+                "vote_average": 8.695,
+                "vote_count": 19626
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Cabaret",
+            "second_label": "Jay Allen",
+            "category": "Writing (Screenplay--based on material from another medium)",
+            "year": 1973,
+            "tmdb": {
+                "id": 10784,
+                "original_title": "Cabaret",
+                "title": "Cabaret",
+                "release_date": "1972-02-13",
+                "backdrop_path": "/yInvVRrCmEypIt5hm0WvXkjxsQX.jpg",
+                "poster_path": "/fMhOeJ2TvuY46iYGmsowhgRXfnr.jpg",
+                "overview": "Berlim no in\u00edcio da d\u00e9cada de 30. O nazismo fazia sua ascens\u00e3o mete\u00f3rica, mas a grande maioria das pessoas ainda n\u00e3o tinha no\u00e7\u00e3o do terr\u00edvel poder que aquela for\u00e7a pol\u00edtica se transformaria. Sally Bowles (Liza Minnelli), uma jovem americana que canta em um cabar\u00e9 e sonha em ser tornar uma estrela, se apaixona por Brian Roberts (Michael York), que \u00e9 bissexual. Ambos se envolvem com Maximillian von Heune (Helmut Griem), um rico e nobre alem\u00e3o. Quando Sally fica gr\u00e1vida, Brian diz que quer casar e declara n\u00e3o se importar de quem seja o filho. Mas o futuro lhes reserva outro destino.",
+                "vote_average": 7.4,
+                "vote_count": 835
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Emigrants",
+            "second_label": "Jan Troell, Bengt Forslund",
+            "category": "Writing (Screenplay--based on material from another medium)",
+            "year": 1973,
+            "tmdb": {
+                "id": 40732,
+                "original_title": "Utvandrarna",
+                "title": "Os Emigrantes",
+                "release_date": "1971-03-08",
+                "backdrop_path": "/oIBvbIj95OUy8MLYdtThVOvMvq9.jpg",
+                "poster_path": "/4R6jkZ0ympdbS9jR7oIurfh6NZy.jpg",
+                "overview": "A Swedish peasant family, ravaged by poverty, privation and misery in mid-19th century Sweden, set out on a perilous journey to America in hope of a better life.",
+                "vote_average": 7.4,
+                "vote_count": 104
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Pete 'n' Tillie",
+            "second_label": "Julius J. Epstein",
+            "category": "Writing (Screenplay--based on material from another medium)",
+            "year": 1973,
+            "tmdb": {
+                "id": 107774,
+                "original_title": "Pete 'n' Tillie",
+                "title": "Pete 'n' Tillie",
+                "release_date": "1972-12-17",
+                "backdrop_path": "/A8gep88dXMu7wjUUhgFDrV8OoH1.jpg",
+                "poster_path": "/ySF4iAKMynUobtjFUWeJuEoduuV.jpg",
+                "overview": "A fun-loving bachelor woos and weds a secretary, but the bonds of this marriage aren't strong enough to stop his philandering from continuing.",
+                "vote_average": 5.6,
+                "vote_count": 16
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sounder",
+            "second_label": "Lonne Elder, III",
+            "category": "Writing (Screenplay--based on material from another medium)",
+            "year": 1973,
+            "tmdb": {
+                "id": 42489,
+                "original_title": "Sounder",
+                "title": "L\u00e1grimas de Esperan\u00e7a",
+                "release_date": "1972-09-24",
+                "backdrop_path": "/xWcLHR41XZ6IYINVWqJWtQUjsRl.jpg",
+                "poster_path": "/e17CcpTgnttCCLVqbZrebOOiXcH.jpg",
+                "overview": "Na d\u00e9cada de 1930, Nathan Lee Morgan, um negro arrendat\u00e1rio do estado da Louisiana, \u00e9 condenado \u00e0 pris\u00e3o por um crime irris\u00f3rio. Ap\u00f3s alguns meses, seu filho \u00e9 enviado para visit\u00e1-lo na cadeia, viagem na qual vive in\u00fameras aventuras.",
+                "vote_average": 7.4,
+                "vote_count": 40
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Story and Screenplay--based on factual material or material not previously published or produced)": [
+        {
+            "first_label": "The Candidate",
+            "second_label": "Jeremy Larner",
+            "category": "Writing (Story and Screenplay--based on factual material or material not previously published or produced)",
+            "year": 1973,
+            "tmdb": {
+                "id": 21711,
+                "original_title": "The Candidate",
+                "title": "O Candidato",
+                "release_date": "1972-06-29",
+                "backdrop_path": "/fubgpre2DxmihYNvqQURPO8LNYK.jpg",
+                "poster_path": "/7g0WEMac9iKlhjmVEslIX8sIxCF.jpg",
+                "overview": "Bill McKay is a candidate for the U.S. Senate from California. He has no hope of winning, so he is willing to tweak the establishment.",
+                "vote_average": 6.5,
+                "vote_count": 140
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Discreet Charm of the Bourgeoisie",
+            "second_label": "\"The Discreet Charm of the Bourgeoisie\" Story and Screenplay by Luis Buuel; in collaboration with Jean-Claude Carrire",
+            "category": "Writing (Story and Screenplay--based on factual material or material not previously published or produced)",
+            "year": 1973,
+            "tmdb": {
+                "id": 4593,
+                "original_title": "Le Charme discret de la bourgeoisie",
+                "title": "O Discreto Charme da Burguesia",
+                "release_date": "1972-09-15",
+                "backdrop_path": "/ujfVlfO1jhcsUbi8gZssFE8Cmef.jpg",
+                "poster_path": "/hYYV7r236pa5BYBdteFIXD9Xayi.jpg",
+                "overview": "Um grupo de amigos de classe m\u00e9dia/alta tenta v\u00e1rias vezes promover um jantar, mas alguma coisa sempre d\u00e1 errado e lhes impede de conseguir todo o requinte necess\u00e1rio para uma digna refei\u00e7\u00e3o burguesa.",
+                "vote_average": 7.512,
+                "vote_count": 741
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lady Sings the Blues",
+            "second_label": "Terence McCloy, Chris Clark, Suzanne de Passe",
+            "category": "Writing (Story and Screenplay--based on factual material or material not previously published or produced)",
+            "year": 1973,
+            "tmdb": {
+                "id": 23148,
+                "original_title": "Lady Sings the Blues",
+                "title": "O Ocaso de uma Estrela",
+                "release_date": "1972-10-12",
+                "backdrop_path": "/pr0ZrGrYSGUOny744a8zWFAYvm5.jpg",
+                "poster_path": "/8E2XcZNJaWsJ4DsTycMqEH3ekxi.jpg",
+                "overview": "Chronicles the rise and fall of legendary blues singer Billie Holiday. Her late childhood, stint as a prostitute, early tours, marriages and drug addiction are featured.",
+                "vote_average": 6.9,
+                "vote_count": 58
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Murmur of the Heart",
+            "second_label": "Louis Malle",
+            "category": "Writing (Story and Screenplay--based on factual material or material not previously published or produced)",
+            "year": 1973,
+            "tmdb": {
+                "id": 42501,
+                "original_title": "Le Souffle au c\u0153ur",
+                "title": "O Sopro Do Cora\u00e7\u00e3o",
+                "release_date": "1971-04-27",
+                "backdrop_path": "/d3u97tjDhvPJjeyYMTIEfodtk9j.jpg",
+                "poster_path": "/grReffxpathZ9PhD0TaQo7sHGbM.jpg",
+                "overview": "Laurent \u00e9 um adolescente de fam\u00edlia burguesa que vive a fase da revolta e das primeiras experi\u00eancias sexuais. Ele contrai um problema no cora\u00e7\u00e3o e vai se tratar em uma cl\u00ednica, acompanhado de sua m\u00e3e, por quem tem verdadeira adora\u00e7\u00e3o.",
+                "vote_average": 7.1,
+                "vote_count": 167
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Young Winston",
+            "second_label": "Carl Foreman",
+            "category": "Writing (Story and Screenplay--based on factual material or material not previously published or produced)",
+            "year": 1973,
+            "tmdb": {
+                "id": 66775,
+                "original_title": "Young Winston",
+                "title": "As Garras do Le\u00e3o",
+                "release_date": "1972-07-20",
+                "backdrop_path": "/iKTeIaZgH8MVkDap5nCQrdfbzW0.jpg",
+                "poster_path": "/pXhZlDL3pmqWNVypX9IalFQAffU.jpg",
+                "overview": "This historical drama is an account of the early life of British politician Winston Churchill, including his childhood years, his time as a war correspondent in Africa, and culminating with his first election to Parliament.",
+                "vote_average": 6.2,
+                "vote_count": 43
+            },
+            "winner": false
+        }
+    ]
+}

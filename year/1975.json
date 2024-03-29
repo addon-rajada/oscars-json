@@ -1,0 +1,1754 @@
+{
+    "Actor": [
+        {
+            "first_label": "Art Carney",
+            "second_label": "Harry and Tonto",
+            "category": "Actor",
+            "year": 1975,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Albert Finney",
+            "second_label": "Murder on the Orient Express",
+            "category": "Actor",
+            "year": 1975,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dustin Hoffman",
+            "second_label": "Lenny",
+            "category": "Actor",
+            "year": 1975,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jack Nicholson",
+            "second_label": "Chinatown",
+            "category": "Actor",
+            "year": 1975,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Al Pacino",
+            "second_label": "The Godfather Part II",
+            "category": "Actor",
+            "year": 1975,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Robert De Niro",
+            "second_label": "The Godfather Part II",
+            "category": "Actor in a Supporting Role",
+            "year": 1975,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Fred Astaire",
+            "second_label": "The Towering Inferno",
+            "category": "Actor in a Supporting Role",
+            "year": 1975,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jeff Bridges",
+            "second_label": "Thunderbolt and Lightfoot",
+            "category": "Actor in a Supporting Role",
+            "year": 1975,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Michael V. Gazzo",
+            "second_label": "The Godfather Part II",
+            "category": "Actor in a Supporting Role",
+            "year": 1975,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lee Strasberg",
+            "second_label": "The Godfather Part II",
+            "category": "Actor in a Supporting Role",
+            "year": 1975,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress": [
+        {
+            "first_label": "Ellen Burstyn",
+            "second_label": "Alice Doesn't Live Here Anymore",
+            "category": "Actress",
+            "year": 1975,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Diahann Carroll",
+            "second_label": "Claudine",
+            "category": "Actress",
+            "year": 1975,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Faye Dunaway",
+            "second_label": "Chinatown",
+            "category": "Actress",
+            "year": 1975,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Valerie Perrine",
+            "second_label": "Lenny",
+            "category": "Actress",
+            "year": 1975,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gena Rowlands",
+            "second_label": "A Woman under the Influence",
+            "category": "Actress",
+            "year": 1975,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Ingrid Bergman",
+            "second_label": "Murder on the Orient Express",
+            "category": "Actress in a Supporting Role",
+            "year": 1975,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Valentina Cortese",
+            "second_label": "Day for Night",
+            "category": "Actress in a Supporting Role",
+            "year": 1975,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Madeline Kahn",
+            "second_label": "Blazing Saddles",
+            "category": "Actress in a Supporting Role",
+            "year": 1975,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Diane Ladd",
+            "second_label": "Alice Doesn't Live Here Anymore",
+            "category": "Actress in a Supporting Role",
+            "year": 1975,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Talia Shire",
+            "second_label": "The Godfather Part II",
+            "category": "Actress in a Supporting Role",
+            "year": 1975,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction": [
+        {
+            "first_label": "The Godfather Part II",
+            "second_label": "Art Direction: Dean Tavoularis, Angelo Graham; Set Decoration: George R. Nelson",
+            "category": "Art Direction",
+            "year": 1975,
+            "tmdb": {
+                "id": 240,
+                "original_title": "The Godfather Part II",
+                "title": "O Poderoso Chef\u00e3o: Parte II",
+                "release_date": "1974-12-20",
+                "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+                "poster_path": "/7g6wvsWHxBQujUcSXvZLhdFpDUy.jpg",
+                "overview": "Ap\u00f3s a m\u00e1fia matar sua fam\u00edlia, o jovem Vito foge da sua cidade na Sic\u00edlia e vai para a Am\u00e9rica. Vito luta para manter sua fam\u00edlia. Ele mata Black Hand Fanucci, que exigia dos comerciantes uma parte dos seus ganhos. Com a morte de Fanucci, o poderio de Vito cresce, mas sua fam\u00edlia \u00e9 o que mais importa para ele. Agora baseado no Lago Tahoe, Michael planeja fazer incurs\u00f5es em Las Vegas e Havana instalando neg\u00f3cios ligados ao lazer, mas descobre que aliados como Hyman Roth est\u00e3o tentando mat\u00e1-lo.",
+                "vote_average": 8.575,
+                "vote_count": 11862
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Chinatown",
+            "second_label": "Art Direction: Richard Sylbert, W. Stewart Campbell; Set Decoration: Ruby Levitt",
+            "category": "Art Direction",
+            "year": 1975,
+            "tmdb": {
+                "id": 829,
+                "original_title": "Chinatown",
+                "title": "Chinatown",
+                "release_date": "1974-06-20",
+                "backdrop_path": "/bsoAg22remHKL5O0xJH0m9DX6Pu.jpg",
+                "poster_path": "/mQJz8J4naOA7RmCtypTPjgXZIMY.jpg",
+                "overview": "Contratado por uma bela socialite para investigar o caso extra-conjugal do marido dela, o detetive particular Jake Gittes \u00e9 arrastado para um furac\u00e3o de falsidades e enganos mortais, descobrindo uma rede de esc\u00e2ndalos pessoais e pol\u00edticos que colidem entre si.",
+                "vote_average": 7.916,
+                "vote_count": 3591
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Earthquake",
+            "second_label": "Art Direction: Alexander Golitzen, E. Preston Ames; Set Decoration: Frank McKelvy",
+            "category": "Art Direction",
+            "year": 1975,
+            "tmdb": {
+                "id": 11123,
+                "original_title": "Earthquake",
+                "title": "Terremoto",
+                "release_date": "1974-11-15",
+                "backdrop_path": "/vPPF44KWsL1DzAxnjvvabJUJ75O.jpg",
+                "poster_path": "/h5SyLrK2e6pPxgnDGW5p3T92cz1.jpg",
+                "overview": "Um jovem sismologista, usando os ensinamentos de um especialista, prev\u00ea um tremor de ampla magnitude em Los Angeles, mas ningu\u00e9m lhe d\u00e1 a devida aten\u00e7\u00e3o. A vida das pessoas e de todos os moradores da cidade ser\u00e1 tragicamente atingida pelo maior terremoto que a cidade j\u00e1 viu e, apesar de pequenos tremores prenunciarem a cat\u00e1strofe, a popula\u00e7\u00e3o n\u00e3o pressente a trag\u00e9dia que est\u00e1 para acontecer.",
+                "vote_average": 6.109,
+                "vote_count": 302
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Island at the Top of the World",
+            "second_label": "Art Direction: Peter Ellenshaw, John B. Mansbridge, Walter Tyler, Al Roelofs; Set Decoration: Hal Gausman",
+            "category": "Art Direction",
+            "year": 1975,
+            "tmdb": {
+                "id": 42453,
+                "original_title": "The Island at the Top of the World",
+                "title": "A Ilha no Topo do Mundo",
+                "release_date": "1974-12-16",
+                "backdrop_path": "/u5uBdmMztudhylbM8ufMasEcC76.jpg",
+                "poster_path": "/oGKpRh9a08Vbpv7EirRaSViuumF.jpg",
+                "overview": "Um arque\u00f3logo americano junta-se a um rico empres\u00e1rio ingl\u00eas, a um exc\u00eantrico inventor franc\u00eas e a um ca\u00e7ador esquim\u00f3 para uma grande expedi\u00e7\u00e3o ao \u00c1rtico. Eles procuram por um filho desaparecido, mas descobrem um mundo esquecido pelo tempo. Um mundo dos Vikings do s\u00e9culo X, vulc\u00f5es em erup\u00e7\u00e3o e o lend\u00e1rio cemit\u00e9rio de baleias. \"A Ilha do Topo do Mundo\" \u00e9 uma aventura fant\u00e1stica na tradi\u00e7\u00e3o de J\u00falio Verne e H.G. Wells, com todo o espet\u00e1culo e beleza, romance e com\u00e9dia, que faz este um dos maiores filmes cl\u00e1ssicos da Disney de todos os tempos e adorados por todo o p\u00fablico.",
+                "vote_average": 6.5,
+                "vote_count": 72
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Towering Inferno",
+            "second_label": "Art Direction: William Creber, Ward Preston; Set Decoration: Raphael Bretton",
+            "category": "Art Direction",
+            "year": 1975,
+            "tmdb": {
+                "id": 5919,
+                "original_title": "The Towering Inferno",
+                "title": "Inferno na torre",
+                "release_date": "1974-12-14",
+                "backdrop_path": "/jKEQoKWXvRcZfBd1GkcuK2n1KQG.jpg",
+                "poster_path": "/tBewsMiv27bTDlVMbz1OIDedBSV.jpg",
+                "overview": "O arquiteto Doug Roberts retorna de suas longas f\u00e9rias para encontrar quase conclu\u00eddo o trabalho de constru\u00e7\u00e3o de seu arranha-c\u00e9u. Ele vai para a festa de pr\u00e9 inaugura\u00e7\u00e3o naquela noite e descobre que suas especifica\u00e7\u00f5es de fia\u00e7\u00e3o el\u00e9trica n\u00e3o foram seguidas e que o edif\u00edcio continua a apresentar curtos-circuitos. Quando o fogo come\u00e7a, Michael O'Halleran \u00e9 o chefe de bombeiros de plant\u00e3o e comanda uma s\u00e9rie de resgates ousados que \u200b\u200bpontuam o terror de um edif\u00edcio muito alto para ter um inc\u00eandio combatido com sucesso a partir do solo.",
+                "vote_average": 7.0,
+                "vote_count": 865
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "The Towering Inferno",
+            "second_label": "Fred Koenekamp, Joseph Biroc",
+            "category": "Cinematography",
+            "year": 1975,
+            "tmdb": {
+                "id": 5919,
+                "original_title": "The Towering Inferno",
+                "title": "Inferno na torre",
+                "release_date": "1974-12-14",
+                "backdrop_path": "/jKEQoKWXvRcZfBd1GkcuK2n1KQG.jpg",
+                "poster_path": "/tBewsMiv27bTDlVMbz1OIDedBSV.jpg",
+                "overview": "O arquiteto Doug Roberts retorna de suas longas f\u00e9rias para encontrar quase conclu\u00eddo o trabalho de constru\u00e7\u00e3o de seu arranha-c\u00e9u. Ele vai para a festa de pr\u00e9 inaugura\u00e7\u00e3o naquela noite e descobre que suas especifica\u00e7\u00f5es de fia\u00e7\u00e3o el\u00e9trica n\u00e3o foram seguidas e que o edif\u00edcio continua a apresentar curtos-circuitos. Quando o fogo come\u00e7a, Michael O'Halleran \u00e9 o chefe de bombeiros de plant\u00e3o e comanda uma s\u00e9rie de resgates ousados que \u200b\u200bpontuam o terror de um edif\u00edcio muito alto para ter um inc\u00eandio combatido com sucesso a partir do solo.",
+                "vote_average": 7.0,
+                "vote_count": 865
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Chinatown",
+            "second_label": "John A. Alonzo",
+            "category": "Cinematography",
+            "year": 1975,
+            "tmdb": {
+                "id": 829,
+                "original_title": "Chinatown",
+                "title": "Chinatown",
+                "release_date": "1974-06-20",
+                "backdrop_path": "/bsoAg22remHKL5O0xJH0m9DX6Pu.jpg",
+                "poster_path": "/mQJz8J4naOA7RmCtypTPjgXZIMY.jpg",
+                "overview": "Contratado por uma bela socialite para investigar o caso extra-conjugal do marido dela, o detetive particular Jake Gittes \u00e9 arrastado para um furac\u00e3o de falsidades e enganos mortais, descobrindo uma rede de esc\u00e2ndalos pessoais e pol\u00edticos que colidem entre si.",
+                "vote_average": 7.916,
+                "vote_count": 3591
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Earthquake",
+            "second_label": "Philip Lathrop",
+            "category": "Cinematography",
+            "year": 1975,
+            "tmdb": {
+                "id": 11123,
+                "original_title": "Earthquake",
+                "title": "Terremoto",
+                "release_date": "1974-11-15",
+                "backdrop_path": "/vPPF44KWsL1DzAxnjvvabJUJ75O.jpg",
+                "poster_path": "/h5SyLrK2e6pPxgnDGW5p3T92cz1.jpg",
+                "overview": "Um jovem sismologista, usando os ensinamentos de um especialista, prev\u00ea um tremor de ampla magnitude em Los Angeles, mas ningu\u00e9m lhe d\u00e1 a devida aten\u00e7\u00e3o. A vida das pessoas e de todos os moradores da cidade ser\u00e1 tragicamente atingida pelo maior terremoto que a cidade j\u00e1 viu e, apesar de pequenos tremores prenunciarem a cat\u00e1strofe, a popula\u00e7\u00e3o n\u00e3o pressente a trag\u00e9dia que est\u00e1 para acontecer.",
+                "vote_average": 6.109,
+                "vote_count": 302
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lenny",
+            "second_label": "Bruce Surtees",
+            "category": "Cinematography",
+            "year": 1975,
+            "tmdb": {
+                "id": 27094,
+                "original_title": "Lenny",
+                "title": "Lenny",
+                "release_date": "1974-11-10",
+                "backdrop_path": "/6zqFDzIKPKyGX1jwYAiJTGvYyXz.jpg",
+                "poster_path": "/Avhk4pGdz3YQrzqLU65icjnE6vn.jpg",
+                "overview": "The story of acerbic 1960s comic Lenny Bruce, whose groundbreaking, no-holds-barred style and social commentary was often deemed by the establishment as too obscene for the public.",
+                "vote_average": 7.3,
+                "vote_count": 234
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Murder on the Orient Express",
+            "second_label": "Geoffrey Unsworth",
+            "category": "Cinematography",
+            "year": 1975,
+            "tmdb": {
+                "id": 4176,
+                "original_title": "Murder on the Orient Express",
+                "title": "Assassinato no Expresso Oriente",
+                "release_date": "1974-11-22",
+                "backdrop_path": "/tAXK5R0ytrN2l2qgGfyxums5J0w.jpg",
+                "poster_path": "/lzFu9AxTeuAKACHnJjflOQpNRjb.jpg",
+                "overview": "O detetive Hercule Poirot est\u00e1 a bordo do Expresso do Oriente quando um passageiro \u00e9 encontrado morto. Amplamente desprezada, a v\u00edtima tinha muitos inimigos, e Poirot tem que peneirar um grupo exc\u00eantrico de suspeitos para encontrar o assassino.",
+                "vote_average": 7.2,
+                "vote_count": 1329
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design": [
+        {
+            "first_label": "The Great Gatsby",
+            "second_label": "Theoni V. Aldredge",
+            "category": "Costume Design",
+            "year": 1975,
+            "tmdb": {
+                "id": 11034,
+                "original_title": "The Great Gatsby",
+                "title": "O Grande Gatsby",
+                "release_date": "1974-03-27",
+                "backdrop_path": "/m7wY4OyJ6Q7o89lgDgt0GKGxaJz.jpg",
+                "poster_path": "/mNt9nyoJL4Gdv1McDIfypL6lo1o.jpg",
+                "overview": "Nick Carraway, um jovem do Meio-Oeste agora vivendo em Long Island, fica fascinado pelo passado misterioso e estilo de vida pr\u00f3digo de seu vizinho, o novo-rico Jay Gatsby. Ele \u00e9 atra\u00eddo para o c\u00edrculo de amizades de Gatsby, tornando-se uma testemunha da obsess\u00e3o e trag\u00e9dia.",
+                "vote_average": 6.3,
+                "vote_count": 451
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Chinatown",
+            "second_label": "Anthea Sylbert",
+            "category": "Costume Design",
+            "year": 1975,
+            "tmdb": {
+                "id": 829,
+                "original_title": "Chinatown",
+                "title": "Chinatown",
+                "release_date": "1974-06-20",
+                "backdrop_path": "/bsoAg22remHKL5O0xJH0m9DX6Pu.jpg",
+                "poster_path": "/mQJz8J4naOA7RmCtypTPjgXZIMY.jpg",
+                "overview": "Contratado por uma bela socialite para investigar o caso extra-conjugal do marido dela, o detetive particular Jake Gittes \u00e9 arrastado para um furac\u00e3o de falsidades e enganos mortais, descobrindo uma rede de esc\u00e2ndalos pessoais e pol\u00edticos que colidem entre si.",
+                "vote_average": 7.916,
+                "vote_count": 3591
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Daisy Miller",
+            "second_label": "John Furness",
+            "category": "Costume Design",
+            "year": 1975,
+            "tmdb": {
+                "id": 4703,
+                "original_title": "Daisy Miller",
+                "title": "Daisy Miller",
+                "release_date": "1974-05-22",
+                "backdrop_path": "/jy9lr7WLqZC4iT6P13PMqtnUpuK.jpg",
+                "poster_path": "/b2AFT1i8N1QxMiH4uNLyozBpxR0.jpg",
+                "overview": "Uma adapta\u00e7\u00e3o da novela cl\u00e1ssica de Henry James sobre uma americana expatriada vivendo na Europa com a m\u00e3e e o irm\u00e3o mais novo. Daisy \u00e9 muito liberal e est\u00e1 muito \u00e0 frente do seu tempo, e o seu comportamento escandaliza a alta sociedade vitoriana de 1878.",
+                "vote_average": 6.0,
+                "vote_count": 22
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Godfather Part II",
+            "second_label": "Theadora Van Runkle",
+            "category": "Costume Design",
+            "year": 1975,
+            "tmdb": {
+                "id": 240,
+                "original_title": "The Godfather Part II",
+                "title": "O Poderoso Chef\u00e3o: Parte II",
+                "release_date": "1974-12-20",
+                "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+                "poster_path": "/7g6wvsWHxBQujUcSXvZLhdFpDUy.jpg",
+                "overview": "Ap\u00f3s a m\u00e1fia matar sua fam\u00edlia, o jovem Vito foge da sua cidade na Sic\u00edlia e vai para a Am\u00e9rica. Vito luta para manter sua fam\u00edlia. Ele mata Black Hand Fanucci, que exigia dos comerciantes uma parte dos seus ganhos. Com a morte de Fanucci, o poderio de Vito cresce, mas sua fam\u00edlia \u00e9 o que mais importa para ele. Agora baseado no Lago Tahoe, Michael planeja fazer incurs\u00f5es em Las Vegas e Havana instalando neg\u00f3cios ligados ao lazer, mas descobre que aliados como Hyman Roth est\u00e3o tentando mat\u00e1-lo.",
+                "vote_average": 8.575,
+                "vote_count": 11862
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Murder on the Orient Express",
+            "second_label": "Tony Walton",
+            "category": "Costume Design",
+            "year": 1975,
+            "tmdb": {
+                "id": 4176,
+                "original_title": "Murder on the Orient Express",
+                "title": "Assassinato no Expresso Oriente",
+                "release_date": "1974-11-22",
+                "backdrop_path": "/tAXK5R0ytrN2l2qgGfyxums5J0w.jpg",
+                "poster_path": "/lzFu9AxTeuAKACHnJjflOQpNRjb.jpg",
+                "overview": "O detetive Hercule Poirot est\u00e1 a bordo do Expresso do Oriente quando um passageiro \u00e9 encontrado morto. Amplamente desprezada, a v\u00edtima tinha muitos inimigos, e Poirot tem que peneirar um grupo exc\u00eantrico de suspeitos para encontrar o assassino.",
+                "vote_average": 7.2,
+                "vote_count": 1329
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "The Godfather Part II",
+            "second_label": "Francis Ford Coppola",
+            "category": "Directing",
+            "year": 1975,
+            "tmdb": {
+                "id": 240,
+                "original_title": "The Godfather Part II",
+                "title": "O Poderoso Chef\u00e3o: Parte II",
+                "release_date": "1974-12-20",
+                "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+                "poster_path": "/7g6wvsWHxBQujUcSXvZLhdFpDUy.jpg",
+                "overview": "Ap\u00f3s a m\u00e1fia matar sua fam\u00edlia, o jovem Vito foge da sua cidade na Sic\u00edlia e vai para a Am\u00e9rica. Vito luta para manter sua fam\u00edlia. Ele mata Black Hand Fanucci, que exigia dos comerciantes uma parte dos seus ganhos. Com a morte de Fanucci, o poderio de Vito cresce, mas sua fam\u00edlia \u00e9 o que mais importa para ele. Agora baseado no Lago Tahoe, Michael planeja fazer incurs\u00f5es em Las Vegas e Havana instalando neg\u00f3cios ligados ao lazer, mas descobre que aliados como Hyman Roth est\u00e3o tentando mat\u00e1-lo.",
+                "vote_average": 8.575,
+                "vote_count": 11862
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Chinatown",
+            "second_label": "Roman Polanski",
+            "category": "Directing",
+            "year": 1975,
+            "tmdb": {
+                "id": 829,
+                "original_title": "Chinatown",
+                "title": "Chinatown",
+                "release_date": "1974-06-20",
+                "backdrop_path": "/bsoAg22remHKL5O0xJH0m9DX6Pu.jpg",
+                "poster_path": "/mQJz8J4naOA7RmCtypTPjgXZIMY.jpg",
+                "overview": "Contratado por uma bela socialite para investigar o caso extra-conjugal do marido dela, o detetive particular Jake Gittes \u00e9 arrastado para um furac\u00e3o de falsidades e enganos mortais, descobrindo uma rede de esc\u00e2ndalos pessoais e pol\u00edticos que colidem entre si.",
+                "vote_average": 7.916,
+                "vote_count": 3591
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Day for Night",
+            "second_label": "Francois Truffaut",
+            "category": "Directing",
+            "year": 1975,
+            "tmdb": {
+                "id": 1675,
+                "original_title": "La Nuit am\u00e9ricaine",
+                "title": "A Noite Americana",
+                "release_date": "1973-05-24",
+                "backdrop_path": "/6MbFN88F27WvGC9WhAXq5KUIgTj.jpg",
+                "poster_path": "/6jk8HNf4R0h1ap3O0ygXq8MB3e7.jpg",
+                "overview": "Um dos filmes que melhor representa as loucuras que se passam em um set de filmagem. Um ator que fica deprimido porque sua noiva sai com um dubl\u00ea, uma atriz que se entregou \u00e0s bebidas e n\u00e3o consegue lembrar de suas falas e muitas outras confus\u00f5es, que o diretor deve fazer de tudo para contornar, at\u00e9 gravarem uma das cenas mais importantes do filme: a que o dia deve ser transformado em noite artificialmente.",
+                "vote_average": 7.8,
+                "vote_count": 569
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lenny",
+            "second_label": "Bob Fosse",
+            "category": "Directing",
+            "year": 1975,
+            "tmdb": {
+                "id": 27094,
+                "original_title": "Lenny",
+                "title": "Lenny",
+                "release_date": "1974-11-10",
+                "backdrop_path": "/6zqFDzIKPKyGX1jwYAiJTGvYyXz.jpg",
+                "poster_path": "/Avhk4pGdz3YQrzqLU65icjnE6vn.jpg",
+                "overview": "The story of acerbic 1960s comic Lenny Bruce, whose groundbreaking, no-holds-barred style and social commentary was often deemed by the establishment as too obscene for the public.",
+                "vote_average": 7.3,
+                "vote_count": 234
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Woman under the Influence",
+            "second_label": "John Cassavetes",
+            "category": "Directing",
+            "year": 1975,
+            "tmdb": {
+                "id": 29845,
+                "original_title": "A Woman Under the Influence",
+                "title": "Uma Mulher Sob Influ\u00eancia",
+                "release_date": "1974-11-18",
+                "backdrop_path": "/uOLcJJYZ3hbFSrKQPDaLhrYnjUv.jpg",
+                "poster_path": "/o7NTTvCAEYqMisb7qrIKvrAiZnr.jpg",
+                "overview": "Peter Falk \u00e9 Nick Longhetti, chefe de fam\u00edlia que precisa lidar com a instabilidade mental de sua esposa Mabel (Gena Rowlands). Ele luta de todas as formas para manter uma aparente normalidade diante do comportamento bizarro da mulher. Mas quando as a\u00e7\u00f5es de Mabel come\u00e7am a afetar os pr\u00f3prios filhos, Nick \u00e9 obrigado a tomar medidas dr\u00e1sticas.",
+                "vote_average": 7.788,
+                "vote_count": 445
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "Hearts and Minds",
+            "second_label": "Peter Davis and Bert Schneider, Producers",
+            "category": "Documentary (Feature)",
+            "year": 1975,
+            "tmdb": {
+                "id": 42449,
+                "original_title": "Hearts and Minds",
+                "title": "Cora\u00e7\u00f5es e Mentes",
+                "release_date": "1974-12-20",
+                "backdrop_path": "/t5dzF5wHcra6cBsqMC8n5KeR25R.jpg",
+                "poster_path": "/yXnpP2RAZbG3DQufUGcOM5hU4cF.jpg",
+                "overview": "Document\u00e1rio analisa as raz\u00f5es da Guerra do Vietn\u00e3, mostrando imagens de bombardeios, destrui\u00e7\u00e3o de aldeias, depoimentos de ex-soldados, pol\u00edticos e generais respons\u00e1veis pelas opera\u00e7\u00f5es militares. Contrapondo vers\u00f5es contra e a favor do conflito, o filme criou condi\u00e7\u00f5es para uma dolorosa autocr\u00edtica sobre a a\u00e7\u00e3o americana no Vietn\u00e3, que custou milh\u00f5es de vidas dos dois lados.",
+                "vote_average": 7.8,
+                "vote_count": 80
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Antonia: A Portrait of the Woman",
+            "second_label": "Judy Collins and Jill Godmilow, Producers",
+            "category": "Documentary (Feature)",
+            "year": 1975,
+            "tmdb": {
+                "id": 149335,
+                "original_title": "Antonia: A Portrait of the Woman",
+                "title": "Antonia: A Portrait of the Woman",
+                "release_date": "1974-09-18",
+                "backdrop_path": null,
+                "poster_path": "/fD3xrYK93tvWqAhrKE3inSCwIzF.jpg",
+                "overview": "1974 documentary about symphony conductor Antonia Brico, including her struggle against gender bias in her profession.",
+                "vote_average": 6.4,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Challenge...A Tribute to Modern Art",
+            "second_label": "Herbert Kline, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1975,
+            "tmdb": {
+                "id": 149336,
+                "original_title": "The Challenge... A Tribute to Modern Art",
+                "title": "The Challenge... A Tribute to Modern Art",
+                "release_date": "1974-12-05",
+                "backdrop_path": null,
+                "poster_path": "/nllzJtnjnltbOSzBXhwy4aYI0H9.jpg",
+                "overview": "The Challenge... A Tribute to Modern Art is a 1974 American documentary film directed by Herbert Kline. The film shows footage of great modern artists in their studios creating and commenting on their work, with narration and commentary by Orson Welles. It was nominated for an Academy Award for Best Documentary Feature.",
+                "vote_average": 5.8,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The 81st Blow",
+            "second_label": "Jacquot Ehrlich, David Bergman and Haim Gouri, Producers",
+            "category": "Documentary (Feature)",
+            "year": 1975,
+            "tmdb": {
+                "id": 149337,
+                "original_title": "\u05d4\u05de\u05db\u05d4 \u05d4-81",
+                "title": "The 81st Blow",
+                "release_date": "1974-08-29",
+                "backdrop_path": null,
+                "poster_path": "/WJKIrWtiXOK6r8ZDpYEEmsE1KO.jpg",
+                "overview": "The film covers the oppression of Jews under the Nazis and features rare historical footage of concentration camps. The title is derived from a comment by a witness at Adolf Eichmann's trial. According to his testimony, he was whipped 80 times by the Nazis, but was not believed by Israelis after the war; this final doubt of his own people was the \"81st blow\". The 81st Blow is the first film in the Israeli Holocaust Trilogy by Bergman, Ehrlich and Gouri. It was followed by The Last Sea (1980) and Flames in the Ashes (1985).",
+                "vote_average": 5.0,
+                "vote_count": 1
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Wild and the Brave",
+            "second_label": "Natalie R. Jones and Eugene S. Jones, Producers",
+            "category": "Documentary (Feature)",
+            "year": 1975,
+            "tmdb": {
+                "id": 149339,
+                "original_title": "The Wild and the Brave",
+                "title": "The Wild and the Brave",
+                "release_date": "1974-05-15",
+                "backdrop_path": null,
+                "poster_path": "/1YrFns618umv2P59OcFs3zZ1vkO.jpg",
+                "overview": "The Wild and the Brave is a 1974 documentary film directed by Eugene S. Jones. The film portrays the relationship between Iain Ross, the outgoing British Chief Warden of Kidepo Valley National Park and his Ugandan replacement Paul Ssali. It portrays the racial and cultural tensions and amity of the postcolonial handover from 1970 to 1972.",
+                "vote_average": 5.0,
+                "vote_count": 3
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "Don't",
+            "second_label": "Robin Lehman, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1975,
+            "tmdb": {
+                "id": 931,
+                "original_title": "Don't Look Now",
+                "title": "Inverno de Sangue em Veneza",
+                "release_date": "1973-01-18",
+                "backdrop_path": "/ncR3qobdIDYEAI1DqKmJQbHE8YA.jpg",
+                "poster_path": "/9rOCKHdxeiMRlCH1lrNl0HYBaam.jpg",
+                "overview": "Ap\u00f3s um tr\u00e1gico acidente que matou sua filha, o casal Laura (Julie Christie) e John Baxter (Donald Sutherland) muda-se para Veneza, afim de esquecer a trag\u00e9dia. Por\u00e9m, quando chegam l\u00e1, uma estranha mulher come\u00e7a a dizer que sua filha est\u00e1 enviando mensagens do mundo dos mortos, e os dois iniciam uma perigosa rela\u00e7\u00e3o de curiosidade sobre o outro lado da vida.",
+                "vote_average": 6.9,
+                "vote_count": 958
+            },
+            "winner": true
+        },
+        {
+            "first_label": "City Out of Wilderness",
+            "second_label": "Francis Thompson, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1975,
+            "tmdb": {
+                "id": 243397,
+                "original_title": "City Out of Wilderness",
+                "title": "City Out of Wilderness",
+                "release_date": "1974-01-01",
+                "backdrop_path": null,
+                "poster_path": "/cByqKLqN8qYL1EMzV9IG3iftcYx.jpg",
+                "overview": "City Out of Wilderness is a 1974 American short documentary film produced by Francis Thompson. Produced by the United States Capitol Historical Society, it chronicles the history and evolution of Washington, D.C., from its very beginnings to the then-modern era of the 1970s. It was nominated for an Academy Award for Best Documentary Short Subject.",
+                "vote_average": 4.0,
+                "vote_count": 1
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Exploratorium",
+            "second_label": "Jon Boorstin, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1975,
+            "tmdb": {
+                "id": 243398,
+                "original_title": "Exploratorium",
+                "title": "Exploratorium",
+                "release_date": "1974-01-01",
+                "backdrop_path": null,
+                "poster_path": "/iEONWJPLwlqFzfKo91Zl9UxtgIk.jpg",
+                "overview": "An Oscar-nominated film with no narration showing the Exploratorium (The Palace of Arts and Science) in San Francisco. It shows many of the exhibits and the reaction of visitors to many of these.  Preserved by the Academy Film Archive.",
+                "vote_average": 5.8,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "John Muir's High Sierra",
+            "second_label": "Dewitt Jones and Lesley Foster, Producers",
+            "category": "Documentary (Short Subject)",
+            "year": 1975,
+            "tmdb": {
+                "id": 243399,
+                "original_title": "John Muir's High Sierra",
+                "title": "John Muir's High Sierra",
+                "release_date": "1974-10-01",
+                "backdrop_path": null,
+                "poster_path": "/xk62n4JONHkhG6u9dyMK7FhiTof.jpg",
+                "overview": "John Muir's High Sierra is a 1974 American short documentary film directed by Dewitt Jones produced by Dewitt Jones and Lesley Foster. This film provides a brief geologic explanation of the development of the Sierras. It visualizes selected passages from John Muir's journal of his first trip into the Sierras in 1869 and discusses his role in conserving national parks. Muir was a Scottish-American naturalist, author, and early advocate of preservation of wilderness in the United States. It was nominated for an Oscar for Best Documentary Short Subject.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Naked Yoga",
+            "second_label": "Ronald S. Kass and Mervyn Lloyd, Producers",
+            "category": "Documentary (Short Subject)",
+            "year": 1975,
+            "tmdb": {
+                "id": 243400,
+                "original_title": "Naked Yoga",
+                "title": "Naked Yoga",
+                "release_date": "1974-01-01",
+                "backdrop_path": null,
+                "poster_path": "/wOM6fhptxocUVAPkzhjpdG5nGrF.jpg",
+                "overview": "Three young ladies perform yoga without clothes in the open air of Cyprus. Another does the same in a studio. These visuals are interspersed with images of Eastern art, processed for \"psychedelic\" effect. The narrator relates the practice of yoga to Buddhist philosophy.",
+                "vote_average": 5.2,
+                "vote_count": 5
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "The Towering Inferno",
+            "second_label": "Harold F. Kress, Carl Kress",
+            "category": "Film Editing",
+            "year": 1975,
+            "tmdb": {
+                "id": 5919,
+                "original_title": "The Towering Inferno",
+                "title": "Inferno na torre",
+                "release_date": "1974-12-14",
+                "backdrop_path": "/jKEQoKWXvRcZfBd1GkcuK2n1KQG.jpg",
+                "poster_path": "/tBewsMiv27bTDlVMbz1OIDedBSV.jpg",
+                "overview": "O arquiteto Doug Roberts retorna de suas longas f\u00e9rias para encontrar quase conclu\u00eddo o trabalho de constru\u00e7\u00e3o de seu arranha-c\u00e9u. Ele vai para a festa de pr\u00e9 inaugura\u00e7\u00e3o naquela noite e descobre que suas especifica\u00e7\u00f5es de fia\u00e7\u00e3o el\u00e9trica n\u00e3o foram seguidas e que o edif\u00edcio continua a apresentar curtos-circuitos. Quando o fogo come\u00e7a, Michael O'Halleran \u00e9 o chefe de bombeiros de plant\u00e3o e comanda uma s\u00e9rie de resgates ousados que \u200b\u200bpontuam o terror de um edif\u00edcio muito alto para ter um inc\u00eandio combatido com sucesso a partir do solo.",
+                "vote_average": 7.0,
+                "vote_count": 865
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Blazing Saddles",
+            "second_label": "John C. Howard, Danford Greene",
+            "category": "Film Editing",
+            "year": 1975,
+            "tmdb": {
+                "id": 11072,
+                "original_title": "Blazing Saddles",
+                "title": "Banz\u00e9 no Oeste",
+                "release_date": "1974-02-07",
+                "backdrop_path": "/rNux3fw0jC9wOi3oIxJH2X1Sbap.jpg",
+                "poster_path": "/tgPPqdMgOutIGmUnnhJi4uXgtrg.jpg",
+                "overview": "Rock Ridge \u00e9 uma pequena cidade do oeste americano onde todos os seus moradores se chamam Johnson. A estrada de ferro est\u00e1 prestes a passar pelo local, o que faz com que Hedley Lamarr (Harvey Korman) aterrorize os moradores. Sua inten\u00e7\u00e3o \u00e9 obter as terras da cidade, que ser\u00e3o bastante valorizadas ap\u00f3s a conclus\u00e3o das obras. Para controlar a situa\u00e7\u00e3o, o governador William J. Lepetomane (Mel Brooks) contrata um novo xerife, Bart (Cleavon Little). S\u00f3 que Bart \u00e9 negro e passa a ser hostilizado pela popula\u00e7\u00e3o racista. Ele recebe apenas a ajuda de Jim (Gene Wilder), conhecido como The Waco Kid, o pistoleiro b\u00eabado mais r\u00e1pido da regi\u00e3o.",
+                "vote_average": 7.256,
+                "vote_count": 1754
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Chinatown",
+            "second_label": "Sam O'Steen",
+            "category": "Film Editing",
+            "year": 1975,
+            "tmdb": {
+                "id": 829,
+                "original_title": "Chinatown",
+                "title": "Chinatown",
+                "release_date": "1974-06-20",
+                "backdrop_path": "/bsoAg22remHKL5O0xJH0m9DX6Pu.jpg",
+                "poster_path": "/mQJz8J4naOA7RmCtypTPjgXZIMY.jpg",
+                "overview": "Contratado por uma bela socialite para investigar o caso extra-conjugal do marido dela, o detetive particular Jake Gittes \u00e9 arrastado para um furac\u00e3o de falsidades e enganos mortais, descobrindo uma rede de esc\u00e2ndalos pessoais e pol\u00edticos que colidem entre si.",
+                "vote_average": 7.916,
+                "vote_count": 3591
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Earthquake",
+            "second_label": "Dorothy Spencer",
+            "category": "Film Editing",
+            "year": 1975,
+            "tmdb": {
+                "id": 11123,
+                "original_title": "Earthquake",
+                "title": "Terremoto",
+                "release_date": "1974-11-15",
+                "backdrop_path": "/vPPF44KWsL1DzAxnjvvabJUJ75O.jpg",
+                "poster_path": "/h5SyLrK2e6pPxgnDGW5p3T92cz1.jpg",
+                "overview": "Um jovem sismologista, usando os ensinamentos de um especialista, prev\u00ea um tremor de ampla magnitude em Los Angeles, mas ningu\u00e9m lhe d\u00e1 a devida aten\u00e7\u00e3o. A vida das pessoas e de todos os moradores da cidade ser\u00e1 tragicamente atingida pelo maior terremoto que a cidade j\u00e1 viu e, apesar de pequenos tremores prenunciarem a cat\u00e1strofe, a popula\u00e7\u00e3o n\u00e3o pressente a trag\u00e9dia que est\u00e1 para acontecer.",
+                "vote_average": 6.109,
+                "vote_count": 302
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Longest Yard",
+            "second_label": "Michael Luciano",
+            "category": "Film Editing",
+            "year": 1975,
+            "tmdb": {
+                "id": 4985,
+                "original_title": "The Longest Yard",
+                "title": "Golpe Baixo",
+                "release_date": "1974-08-21",
+                "backdrop_path": "/f2YjOcISgr6JVZC4c6TOVcUPfE2.jpg",
+                "poster_path": "/h8Jrhr2pZowu8CO5lXXEdhkRQ76.jpg",
+                "overview": "Nesta grande confus\u00e3o, na verdade filmada na Pris\u00e3o Estadual da Ge\u00f3rgia, os condenados s\u00e3o os her\u00f3is e os guardas s\u00e3o os vil\u00f5es. Eddie Albert \u00e9 o diretor s\u00e1dico que de bom grado far\u00e1 qualquer sacrif\u00edcio para levar o time de futebol de seus guardas a um campeonato nacional.",
+                "vote_average": 6.7,
+                "vote_count": 269
+            },
+            "winner": false
+        }
+    ],
+    "Foreign Language Film": [
+        {
+            "first_label": "Amarcord",
+            "second_label": "Italy",
+            "category": "Foreign Language Film",
+            "year": 1975,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Cats' Play",
+            "second_label": "Hungary",
+            "category": "Foreign Language Film",
+            "year": 1975,
+            "tmdb": {
+                "id": 42485,
+                "original_title": "Macskaj\u00e1t\u00e9k",
+                "title": "Cat's Play",
+                "release_date": "1974-05-10",
+                "backdrop_path": null,
+                "poster_path": "/6g7xBnACIA4RHHEw0dbUUOrPbGJ.jpg",
+                "overview": "Karoly Makk's heartbreaking story of two unmarried sisters who cast wistful glances back at their lives, but still believe in hope and love, earned an Academy Award Nomination for Best Foreign Language Film in 1974. In this follow-up to the director's internationally acclaimed Love, Makk once again exhibits his extraordinary skills at drawing emotionally compelling performances from his talented female leads. Makk's film opposes the bleakness of the outside world with passion, love, and loyalty.",
+                "vote_average": 4.7,
+                "vote_count": 9
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Deluge",
+            "second_label": "Poland",
+            "category": "Foreign Language Film",
+            "year": 1975,
+            "tmdb": {
+                "id": 36627,
+                "original_title": "Potop",
+                "title": "The Deluge",
+                "release_date": "1974-09-02",
+                "backdrop_path": "/s89eDfWVe1Jlb8WSNpwAhvQWaNM.jpg",
+                "poster_path": "/vCariYegIocnhtwOegdRMByCQUB.jpg",
+                "overview": "During the Swedish invasion of Poland, the brave warrior Andrzej Kmicic, considered a traitor to the nation, fights for a country, redemption and love across the 17th-century Polish territories.",
+                "vote_average": 7.2,
+                "vote_count": 67
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lacombe, Lucien",
+            "second_label": "France",
+            "category": "Foreign Language Film",
+            "year": 1975,
+            "tmdb": {
+                "id": 55368,
+                "original_title": "Lacombe Lucien",
+                "title": "Lacombe Lucien",
+                "release_date": "1974-01-30",
+                "backdrop_path": "/ikO0koqdi0V7Z9CJXwwKf5tiTrs.jpg",
+                "poster_path": "/gHlorDyJrigxzcuZaQ5p4mseAPC.jpg",
+                "overview": "Ver\u00e3o de 1944, interior da Fran\u00e7a. Sem conseguir ingressar na resist\u00eancia, o jovem Lucien Lacombe passa a trabalhar para a pol\u00edcia alem\u00e3, mesmo sabendo que o pai est\u00e1 sendo mantido prisioneiro na Alemanha. Sua vida muda quando ao conhecer France Horn, filha de um rico alfaiate judeu.",
+                "vote_average": 7.0,
+                "vote_count": 125
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Truce",
+            "second_label": "Argentina",
+            "category": "Foreign Language Film",
+            "year": 1975,
+            "tmdb": {
+                "id": 127449,
+                "original_title": "La tregua",
+                "title": "The Truce",
+                "release_date": "1974-08-01",
+                "backdrop_path": "/oJDuXOSfoQlNW4N9QXz6s8gOFfh.jpg",
+                "poster_path": "/1R0I3Jm91smJnt84HEJTg61cAKP.jpg",
+                "overview": "A man has to come to terms with his wasted youth, estranged family and grim prospects for the future.",
+                "vote_average": 7.1,
+                "vote_count": 15
+            },
+            "winner": false
+        }
+    ],
+    "Jean Hersholt Humanitarian Award": [
+        {
+            "first_label": "",
+            "second_label": "Arthur B. Krim",
+            "category": "Jean Hersholt Humanitarian Award",
+            "year": 1975,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        }
+    ],
+    "Music (Original Dramatic Score)": [
+        {
+            "first_label": "The Godfather Part II",
+            "second_label": "Nino Rota, Carmine Coppola",
+            "category": "Music (Original Dramatic Score)",
+            "year": 1975,
+            "tmdb": {
+                "id": 240,
+                "original_title": "The Godfather Part II",
+                "title": "O Poderoso Chef\u00e3o: Parte II",
+                "release_date": "1974-12-20",
+                "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+                "poster_path": "/7g6wvsWHxBQujUcSXvZLhdFpDUy.jpg",
+                "overview": "Ap\u00f3s a m\u00e1fia matar sua fam\u00edlia, o jovem Vito foge da sua cidade na Sic\u00edlia e vai para a Am\u00e9rica. Vito luta para manter sua fam\u00edlia. Ele mata Black Hand Fanucci, que exigia dos comerciantes uma parte dos seus ganhos. Com a morte de Fanucci, o poderio de Vito cresce, mas sua fam\u00edlia \u00e9 o que mais importa para ele. Agora baseado no Lago Tahoe, Michael planeja fazer incurs\u00f5es em Las Vegas e Havana instalando neg\u00f3cios ligados ao lazer, mas descobre que aliados como Hyman Roth est\u00e3o tentando mat\u00e1-lo.",
+                "vote_average": 8.575,
+                "vote_count": 11862
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Chinatown",
+            "second_label": "Jerry Goldsmith",
+            "category": "Music (Original Dramatic Score)",
+            "year": 1975,
+            "tmdb": {
+                "id": 829,
+                "original_title": "Chinatown",
+                "title": "Chinatown",
+                "release_date": "1974-06-20",
+                "backdrop_path": "/bsoAg22remHKL5O0xJH0m9DX6Pu.jpg",
+                "poster_path": "/mQJz8J4naOA7RmCtypTPjgXZIMY.jpg",
+                "overview": "Contratado por uma bela socialite para investigar o caso extra-conjugal do marido dela, o detetive particular Jake Gittes \u00e9 arrastado para um furac\u00e3o de falsidades e enganos mortais, descobrindo uma rede de esc\u00e2ndalos pessoais e pol\u00edticos que colidem entre si.",
+                "vote_average": 7.916,
+                "vote_count": 3591
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Murder on the Orient Express",
+            "second_label": "Richard Rodney Bennett",
+            "category": "Music (Original Dramatic Score)",
+            "year": 1975,
+            "tmdb": {
+                "id": 4176,
+                "original_title": "Murder on the Orient Express",
+                "title": "Assassinato no Expresso Oriente",
+                "release_date": "1974-11-22",
+                "backdrop_path": "/tAXK5R0ytrN2l2qgGfyxums5J0w.jpg",
+                "poster_path": "/lzFu9AxTeuAKACHnJjflOQpNRjb.jpg",
+                "overview": "O detetive Hercule Poirot est\u00e1 a bordo do Expresso do Oriente quando um passageiro \u00e9 encontrado morto. Amplamente desprezada, a v\u00edtima tinha muitos inimigos, e Poirot tem que peneirar um grupo exc\u00eantrico de suspeitos para encontrar o assassino.",
+                "vote_average": 7.2,
+                "vote_count": 1329
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Shanks",
+            "second_label": "Alex North",
+            "category": "Music (Original Dramatic Score)",
+            "year": 1975,
+            "tmdb": {
+                "id": 29399,
+                "original_title": "Shanks",
+                "title": "Shanks",
+                "release_date": "1974-10-09",
+                "backdrop_path": "/zplEz4STz5Ss0TgFdETi4QO0ETN.jpg",
+                "poster_path": "/7QlcNEGeEXp5ixtCaOuQyGlEb7S.jpg",
+                "overview": "Malcolm Shanks is a sad and lonely man, deaf, mute and living with his cruel sister and her husband, who delight in making him miserable. His only pleasure, it seems, is in making and controlling puppets. Thanks to his skill, he is offered a job as a lab assistant to Dr. Walker, who is working on ways to re-animate dead bodies by inserting electrodes at key nerve points and manipulating the bodies as if they were on strings. When the professor suddenly dies one night, Shanks gets the idea to apply their experimental results to a human body, and then to start exacting some revenge.",
+                "vote_average": 5.0,
+                "vote_count": 16
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Towering Inferno",
+            "second_label": "John Williams",
+            "category": "Music (Original Dramatic Score)",
+            "year": 1975,
+            "tmdb": {
+                "id": 5919,
+                "original_title": "The Towering Inferno",
+                "title": "Inferno na torre",
+                "release_date": "1974-12-14",
+                "backdrop_path": "/jKEQoKWXvRcZfBd1GkcuK2n1KQG.jpg",
+                "poster_path": "/tBewsMiv27bTDlVMbz1OIDedBSV.jpg",
+                "overview": "O arquiteto Doug Roberts retorna de suas longas f\u00e9rias para encontrar quase conclu\u00eddo o trabalho de constru\u00e7\u00e3o de seu arranha-c\u00e9u. Ele vai para a festa de pr\u00e9 inaugura\u00e7\u00e3o naquela noite e descobre que suas especifica\u00e7\u00f5es de fia\u00e7\u00e3o el\u00e9trica n\u00e3o foram seguidas e que o edif\u00edcio continua a apresentar curtos-circuitos. Quando o fogo come\u00e7a, Michael O'Halleran \u00e9 o chefe de bombeiros de plant\u00e3o e comanda uma s\u00e9rie de resgates ousados que \u200b\u200bpontuam o terror de um edif\u00edcio muito alto para ter um inc\u00eandio combatido com sucesso a partir do solo.",
+                "vote_average": 7.0,
+                "vote_count": 865
+            },
+            "winner": false
+        }
+    ],
+    "Music (Scoring: Original Song Score and Adaptation -or- Scoring: Adaptation)": [
+        {
+            "first_label": "The Great Gatsby",
+            "second_label": "Adaptation Score by Nelson Riddle",
+            "category": "Music (Scoring: Original Song Score and Adaptation -or- Scoring: Adaptation)",
+            "year": 1975,
+            "tmdb": {
+                "id": 11034,
+                "original_title": "The Great Gatsby",
+                "title": "O Grande Gatsby",
+                "release_date": "1974-03-27",
+                "backdrop_path": "/m7wY4OyJ6Q7o89lgDgt0GKGxaJz.jpg",
+                "poster_path": "/mNt9nyoJL4Gdv1McDIfypL6lo1o.jpg",
+                "overview": "Nick Carraway, um jovem do Meio-Oeste agora vivendo em Long Island, fica fascinado pelo passado misterioso e estilo de vida pr\u00f3digo de seu vizinho, o novo-rico Jay Gatsby. Ele \u00e9 atra\u00eddo para o c\u00edrculo de amizades de Gatsby, tornando-se uma testemunha da obsess\u00e3o e trag\u00e9dia.",
+                "vote_average": 6.3,
+                "vote_count": 451
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Little Prince",
+            "second_label": "Song Score by Alan Jay Lerner and Frederick Loewe; Adaptation Score by Angela Morley and Douglas Gamley",
+            "category": "Music (Scoring: Original Song Score and Adaptation -or- Scoring: Adaptation)",
+            "year": 1975,
+            "tmdb": {
+                "id": 37627,
+                "original_title": "The Little Prince",
+                "title": "O Pequeno Pr\u00edncipe",
+                "release_date": "1974-11-06",
+                "backdrop_path": "/hhxoxYmmx92dKfyibeeBMU2GbC2.jpg",
+                "poster_path": "/4utMOX0GJJqUjJphLSsDlOr89zT.jpg",
+                "overview": "Um menino cai na Terra vendo de outro planeta. Trata-se de um pequeno pr\u00edncipe, que vaga pelo deserto do Saara at\u00e9 encontrar um piloto que acaba de sofrer um acidente com seu avi\u00e3o. Os dois desenvolvem uma grande amizade, nutrida por hist\u00f3rias fantasiosas e muitas mensagens de solidariedade e companheirismo.",
+                "vote_average": 6.7,
+                "vote_count": 109
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Phantom of the Paradise",
+            "second_label": "Song Score by Paul Williams; Adaptation Score by Paul Williams and George Aliceson Tipton",
+            "category": "Music (Scoring: Original Song Score and Adaptation -or- Scoring: Adaptation)",
+            "year": 1975,
+            "tmdb": {
+                "id": 27327,
+                "original_title": "Phantom of the Paradise",
+                "title": "O Fantasma do Para\u00edso",
+                "release_date": "1974-10-31",
+                "backdrop_path": "/mO5rgg8mr4fUIMrZykwP2MjPVmZ.jpg",
+                "poster_path": "/qDOtGWeSQNwB3dG7Amt1K0JW0az.jpg",
+                "overview": "Depois que o produtor fonogr\u00e1fico Swan rouba a m\u00fasica do compositor Winslow Leach e o entrega para uma de suas bandas, Leach entra no escrit\u00f3rio de Swan. Mas Swan pega Leach e o acusa de comercializar drogas, o que o leva \u00e0 pris\u00e3o. Leach foge e tenta novamente sabotar o imp\u00e9rio de Swan, mas um acidente desfigura sua face. Leach se transforma no \"Fantasma\" para arruinar Swan enquanto salva a cantora Phoenix de uma terr\u00edvel trag\u00e9dia",
+                "vote_average": 7.5,
+                "vote_count": 613
+            },
+            "winner": false
+        }
+    ],
+    "Music (Song)": [
+        {
+            "first_label": "The Towering Inferno",
+            "second_label": "We May Never Love Like This Again in \"The Towering Inferno\" Music and Lyrics by Al Kasha and Joel Hirschhorn",
+            "category": "Music (Song)",
+            "year": 1975,
+            "tmdb": {
+                "id": 5919,
+                "original_title": "The Towering Inferno",
+                "title": "Inferno na torre",
+                "release_date": "1974-12-14",
+                "backdrop_path": "/jKEQoKWXvRcZfBd1GkcuK2n1KQG.jpg",
+                "poster_path": "/tBewsMiv27bTDlVMbz1OIDedBSV.jpg",
+                "overview": "O arquiteto Doug Roberts retorna de suas longas f\u00e9rias para encontrar quase conclu\u00eddo o trabalho de constru\u00e7\u00e3o de seu arranha-c\u00e9u. Ele vai para a festa de pr\u00e9 inaugura\u00e7\u00e3o naquela noite e descobre que suas especifica\u00e7\u00f5es de fia\u00e7\u00e3o el\u00e9trica n\u00e3o foram seguidas e que o edif\u00edcio continua a apresentar curtos-circuitos. Quando o fogo come\u00e7a, Michael O'Halleran \u00e9 o chefe de bombeiros de plant\u00e3o e comanda uma s\u00e9rie de resgates ousados que \u200b\u200bpontuam o terror de um edif\u00edcio muito alto para ter um inc\u00eandio combatido com sucesso a partir do solo.",
+                "vote_average": 7.0,
+                "vote_count": 865
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Benji",
+            "second_label": "Benji's Theme (I Feel Love) in \"Benji\" Music by Euel Box; Lyrics by Betty Box",
+            "category": "Music (Song)",
+            "year": 1975,
+            "tmdb": {
+                "id": 23069,
+                "original_title": "Benji",
+                "title": "Benji",
+                "release_date": "1974-10-17",
+                "backdrop_path": "/pJK178eWhEanZ6nrxdlNZmoktbK.jpg",
+                "poster_path": "/8DNVBUPIgJcbCZ7gChShAGgJb5H.jpg",
+                "overview": "Em sua primeira aventura, o c\u00e3ozinho Benji, ajuda a resgatar duas crian\u00e7as das m\u00e3os de cru\u00e9is raptores.",
+                "vote_average": 6.2,
+                "vote_count": 135
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Blazing Saddles",
+            "second_label": "Blazing Saddles in \"Blazing Saddles\" Music by John Morris; Lyrics by Mel Brooks",
+            "category": "Music (Song)",
+            "year": 1975,
+            "tmdb": {
+                "id": 11072,
+                "original_title": "Blazing Saddles",
+                "title": "Banz\u00e9 no Oeste",
+                "release_date": "1974-02-07",
+                "backdrop_path": "/rNux3fw0jC9wOi3oIxJH2X1Sbap.jpg",
+                "poster_path": "/tgPPqdMgOutIGmUnnhJi4uXgtrg.jpg",
+                "overview": "Rock Ridge \u00e9 uma pequena cidade do oeste americano onde todos os seus moradores se chamam Johnson. A estrada de ferro est\u00e1 prestes a passar pelo local, o que faz com que Hedley Lamarr (Harvey Korman) aterrorize os moradores. Sua inten\u00e7\u00e3o \u00e9 obter as terras da cidade, que ser\u00e3o bastante valorizadas ap\u00f3s a conclus\u00e3o das obras. Para controlar a situa\u00e7\u00e3o, o governador William J. Lepetomane (Mel Brooks) contrata um novo xerife, Bart (Cleavon Little). S\u00f3 que Bart \u00e9 negro e passa a ser hostilizado pela popula\u00e7\u00e3o racista. Ele recebe apenas a ajuda de Jim (Gene Wilder), conhecido como The Waco Kid, o pistoleiro b\u00eabado mais r\u00e1pido da regi\u00e3o.",
+                "vote_average": 7.256,
+                "vote_count": 1754
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Little Prince",
+            "second_label": "Little Prince in \"The Little Prince\" Music by Frederick Loewe; Lyrics by Alan Jay Lerner",
+            "category": "Music (Song)",
+            "year": 1975,
+            "tmdb": {
+                "id": 37627,
+                "original_title": "The Little Prince",
+                "title": "O Pequeno Pr\u00edncipe",
+                "release_date": "1974-11-06",
+                "backdrop_path": "/hhxoxYmmx92dKfyibeeBMU2GbC2.jpg",
+                "poster_path": "/4utMOX0GJJqUjJphLSsDlOr89zT.jpg",
+                "overview": "Um menino cai na Terra vendo de outro planeta. Trata-se de um pequeno pr\u00edncipe, que vaga pelo deserto do Saara at\u00e9 encontrar um piloto que acaba de sofrer um acidente com seu avi\u00e3o. Os dois desenvolvem uma grande amizade, nutrida por hist\u00f3rias fantasiosas e muitas mensagens de solidariedade e companheirismo.",
+                "vote_average": 6.7,
+                "vote_count": 109
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gold",
+            "second_label": "Wherever Love Takes Me in \"Gold\" Music by Elmer Bernstein; Lyrics by Don Black",
+            "category": "Music (Song)",
+            "year": 1975,
+            "tmdb": {
+                "id": 47737,
+                "original_title": "Gold",
+                "title": "Gold",
+                "release_date": "1974-06-08",
+                "backdrop_path": "/7glMgj3pLgxP4N3CNNPKHdGHolV.jpg",
+                "poster_path": "/2HncdDCSSeJQLIz3bAOocigqDqN.jpg",
+                "overview": "Rod Slater is the newly appointed general manager of the Sonderditch gold mine, but he stumbles across an ingenious plot to flood the mine, by drilling into an underground lake, so the unscrupulous owners can make a killing in the international gold market.",
+                "vote_average": 5.6,
+                "vote_count": 45
+            },
+            "winner": false
+        }
+    ],
+    "Best Picture": [
+        {
+            "first_label": "The Godfather Part II",
+            "second_label": "Francis Ford Coppola, Producer;  Gray Frederickson and Fred Roos, Co-Producers",
+            "category": "Best Picture",
+            "year": 1975,
+            "tmdb": {
+                "id": 240,
+                "original_title": "The Godfather Part II",
+                "title": "O Poderoso Chef\u00e3o: Parte II",
+                "release_date": "1974-12-20",
+                "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+                "poster_path": "/7g6wvsWHxBQujUcSXvZLhdFpDUy.jpg",
+                "overview": "Ap\u00f3s a m\u00e1fia matar sua fam\u00edlia, o jovem Vito foge da sua cidade na Sic\u00edlia e vai para a Am\u00e9rica. Vito luta para manter sua fam\u00edlia. Ele mata Black Hand Fanucci, que exigia dos comerciantes uma parte dos seus ganhos. Com a morte de Fanucci, o poderio de Vito cresce, mas sua fam\u00edlia \u00e9 o que mais importa para ele. Agora baseado no Lago Tahoe, Michael planeja fazer incurs\u00f5es em Las Vegas e Havana instalando neg\u00f3cios ligados ao lazer, mas descobre que aliados como Hyman Roth est\u00e3o tentando mat\u00e1-lo.",
+                "vote_average": 8.575,
+                "vote_count": 11862
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Chinatown",
+            "second_label": "Robert Evans, Producer",
+            "category": "Best Picture",
+            "year": 1975,
+            "tmdb": {
+                "id": 829,
+                "original_title": "Chinatown",
+                "title": "Chinatown",
+                "release_date": "1974-06-20",
+                "backdrop_path": "/bsoAg22remHKL5O0xJH0m9DX6Pu.jpg",
+                "poster_path": "/mQJz8J4naOA7RmCtypTPjgXZIMY.jpg",
+                "overview": "Contratado por uma bela socialite para investigar o caso extra-conjugal do marido dela, o detetive particular Jake Gittes \u00e9 arrastado para um furac\u00e3o de falsidades e enganos mortais, descobrindo uma rede de esc\u00e2ndalos pessoais e pol\u00edticos que colidem entre si.",
+                "vote_average": 7.916,
+                "vote_count": 3591
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Conversation",
+            "second_label": "Francis Ford Coppola, Producer;  Fred Roos, Co-Producer",
+            "category": "Best Picture",
+            "year": 1975,
+            "tmdb": {
+                "id": 592,
+                "original_title": "The Conversation",
+                "title": "A Conversa\u00e7\u00e3o",
+                "release_date": "1974-04-07",
+                "backdrop_path": "/fVJZYpzVTKo0vXmar9NnRMV0Qcn.jpg",
+                "poster_path": "/dfqeK099SpqFhLSUWwkbO8gXWkp.jpg",
+                "overview": "O expert em vigil\u00e2ncia Harry Caul \u00e9 contratado por um cliente misterioso para perseguir um jovem casal. Harry Caul, \u00e9 um expert em vigil\u00e2ncia, conhecido nacionalmente por seu profissionalismo. Ele \u00e9 contratado pelo diretor de uma grande empresa para vigiar e gravar as conversas de um casal de amantes. Por\u00e9m, no passado um trabalho dele provocou a morte de tr\u00eas pessoas, diante desse novo trabalho ele teme que algo parecido aconte\u00e7a.",
+                "vote_average": 7.5,
+                "vote_count": 1597
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lenny",
+            "second_label": "Marvin Worth, Producer",
+            "category": "Best Picture",
+            "year": 1975,
+            "tmdb": {
+                "id": 27094,
+                "original_title": "Lenny",
+                "title": "Lenny",
+                "release_date": "1974-11-10",
+                "backdrop_path": "/6zqFDzIKPKyGX1jwYAiJTGvYyXz.jpg",
+                "poster_path": "/Avhk4pGdz3YQrzqLU65icjnE6vn.jpg",
+                "overview": "The story of acerbic 1960s comic Lenny Bruce, whose groundbreaking, no-holds-barred style and social commentary was often deemed by the establishment as too obscene for the public.",
+                "vote_average": 7.3,
+                "vote_count": 234
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Towering Inferno",
+            "second_label": "Irwin Allen, Producer",
+            "category": "Best Picture",
+            "year": 1975,
+            "tmdb": {
+                "id": 5919,
+                "original_title": "The Towering Inferno",
+                "title": "Inferno na torre",
+                "release_date": "1974-12-14",
+                "backdrop_path": "/jKEQoKWXvRcZfBd1GkcuK2n1KQG.jpg",
+                "poster_path": "/tBewsMiv27bTDlVMbz1OIDedBSV.jpg",
+                "overview": "O arquiteto Doug Roberts retorna de suas longas f\u00e9rias para encontrar quase conclu\u00eddo o trabalho de constru\u00e7\u00e3o de seu arranha-c\u00e9u. Ele vai para a festa de pr\u00e9 inaugura\u00e7\u00e3o naquela noite e descobre que suas especifica\u00e7\u00f5es de fia\u00e7\u00e3o el\u00e9trica n\u00e3o foram seguidas e que o edif\u00edcio continua a apresentar curtos-circuitos. Quando o fogo come\u00e7a, Michael O'Halleran \u00e9 o chefe de bombeiros de plant\u00e3o e comanda uma s\u00e9rie de resgates ousados que \u200b\u200bpontuam o terror de um edif\u00edcio muito alto para ter um inc\u00eandio combatido com sucesso a partir do solo.",
+                "vote_average": 7.0,
+                "vote_count": 865
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Animated)": [
+        {
+            "first_label": "Closed Mondays",
+            "second_label": "Will Vinton and Bob Gardiner, Producers",
+            "category": "Short Film (Animated)",
+            "year": 1975,
+            "tmdb": {
+                "id": 48277,
+                "original_title": "Closed Mondays",
+                "title": "Closed Mondays",
+                "release_date": "1974-10-01",
+                "backdrop_path": null,
+                "poster_path": "/rfPcTFY6eBW6zuRZH9aAELQU0IZ.jpg",
+                "overview": "A man visiting a museum sees the works of art come to life.",
+                "vote_average": 6.1,
+                "vote_count": 26
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Family That Dwelt Apart",
+            "second_label": "Yvon Mallette and Robert Verrall, Producers",
+            "category": "Short Film (Animated)",
+            "year": 1975,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hunger",
+            "second_label": "Peter Foldes and Ren Jodoin, Producers",
+            "category": "Short Film (Animated)",
+            "year": 1975,
+            "tmdb": {
+                "id": 129067,
+                "original_title": "La Faim",
+                "title": "Hunger",
+                "release_date": "1974-10-01",
+                "backdrop_path": null,
+                "poster_path": "/tzSptjbmGumpeE6eJdcmKrPIW5K.jpg",
+                "overview": "In one of the first films to use computer animation, director Peter Fold\u00e8s depicts one man\u2019s descent into greed and gluttony.",
+                "vote_average": 6.1,
+                "vote_count": 29
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Voyage to Next",
+            "second_label": "Faith Hubley and John Hubley, Producers",
+            "category": "Short Film (Animated)",
+            "year": 1975,
+            "tmdb": {
+                "id": 162770,
+                "original_title": "Voyage to Next",
+                "title": "Voyage to Next",
+                "release_date": "1974-10-01",
+                "backdrop_path": null,
+                "poster_path": "/8BwJBwryoqCMabz6nk0Gk4nRlwU.jpg",
+                "overview": "Mother Earth and Father Time converse about the choices humans make.",
+                "vote_average": 4.6,
+                "vote_count": 7
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Winnie the Pooh and Tigger Too",
+            "second_label": "Wolfgang Reitherman, Producer",
+            "category": "Short Film (Animated)",
+            "year": 1975,
+            "tmdb": {
+                "id": 72185,
+                "original_title": "Winnie the Pooh and Tigger Too",
+                "title": "Winnie the Pooh and Tigger Too",
+                "release_date": "1974-09-20",
+                "backdrop_path": "/1WNt0pZDl9Vwb66LXXuJKDknybN.jpg",
+                "poster_path": "/331cCojxS1JJhPmit4wsOebBPGF.jpg",
+                "overview": "Rabbit is tired of Tigger always bouncing him, so he gets Pooh and Piglet together to come up with an idea to get the bounce out of Tigger. Then, Tigger and little Roo go out for a bounce and get caught in a tree.",
+                "vote_average": 8.0,
+                "vote_count": 48
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Live Action)": [
+        {
+            "first_label": "One-Eyed Men Are Kings",
+            "second_label": "Paul Claudon and Edmond Sechan, Producers",
+            "category": "Short Film (Live Action)",
+            "year": 1975,
+            "tmdb": {
+                "id": 243386,
+                "original_title": "Les... borgnes sont rois",
+                "title": "One-Eyed Men Are Kings",
+                "release_date": "1974-10-01",
+                "backdrop_path": null,
+                "poster_path": "/hCq1QxskGfUeLVdsilxEGoEUvYf.jpg",
+                "overview": "One-Eyed Men Are Kings [Les... borgnes sont rois] is a 1974 French short film directed by Michel Leroy and Edmond S\u00e9chan. In the film, a sad middle-aged man in Paris man and his dog go for a walk, which turns into an ordeal. The film won an Oscar for Best Live Action Short Film.",
+                "vote_average": 6.5,
+                "vote_count": 6
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Climb",
+            "second_label": "Dewitt Jones, Producer",
+            "category": "Short Film (Live Action)",
+            "year": 1975,
+            "tmdb": {
+                "id": 243388,
+                "original_title": "Climb",
+                "title": "Climb",
+                "release_date": "1974-10-01",
+                "backdrop_path": null,
+                "poster_path": "/eN1fsDerZoYvTHqa3Zg6g1JOtqj.jpg",
+                "overview": "Climb is a 1974 short documentary directed by DeWitt Jones featuring Michael Farrell and Russell Mclean. It is about rock climbing that takes place in Washington Column. The film was nominated for an Oscar for Best Live Action Short Film.  Preserved by the Academy Film Archive in 2013.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Concert",
+            "second_label": "Julian Chagrin and Claude Chagrin, Producers",
+            "category": "Short Film (Live Action)",
+            "year": 1975,
+            "tmdb": {
+                "id": 243390,
+                "original_title": "The Concert",
+                "title": "The Concert",
+                "release_date": "1974-10-01",
+                "backdrop_path": null,
+                "poster_path": "/62yqoqTEONM3Q70Jf2AervpshlW.jpg",
+                "overview": "In this Oscar nominated short film punctuated by cartoonlike sight gags, a self styled soloist performs a concert outside The Royal Albert Hall in London by \"playing\" the black &amp; white stripes of a crosswalk which resembles a piano keyboard; he wins over passersby, including a constable and a group of more traditional musicians.",
+                "vote_average": 5.0,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Planet Ocean",
+            "second_label": "George V. Casey, Producer",
+            "category": "Short Film (Live Action)",
+            "year": 1975,
+            "tmdb": {
+                "id": 243392,
+                "original_title": "Planet Ocean",
+                "title": "Planet Ocean",
+                "release_date": "1974-01-01",
+                "backdrop_path": null,
+                "poster_path": "/3eLIlBTMmnjAsyHdFI8qM5eSuSE.jpg",
+                "overview": "Planet Ocean is a 1974 short documentary. It takes us on a beautiful adventure into the strangest domains of our planet \u2013 the oceans. The documentary pivots around the relationship between the Earth\u2019s oceans and the entire planet\u2019s ecosystem. The film was nominated for an Oscar for Best Live Action Short Film.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Violin",
+            "second_label": "Andrew Welsh and George Pastic, Producers",
+            "category": "Short Film (Live Action)",
+            "year": 1975,
+            "tmdb": {
+                "id": 243394,
+                "original_title": "The Violin",
+                "title": "The Violin",
+                "release_date": "1974-01-01",
+                "backdrop_path": null,
+                "poster_path": "/w0eae5N2TfNeaCpSvk9pg1A05yq.jpg",
+                "overview": "The Violin is a 1974 short film by Andrew Welsh and George Pastic, featuring Maurice Solway. Solway also wrote the original music. The film promotes peace and understanding through the power of music and the exchange of knowledge and friendship between the old and the young. In 1975, it was nominated for an Academy Award for Best Live Action Short.",
+                "vote_average": 5.7,
+                "vote_count": 3
+            },
+            "winner": false
+        }
+    ],
+    "Sound": [
+        {
+            "first_label": "Earthquake",
+            "second_label": "Ronald Pierce, Melvin Metcalfe, Sr.",
+            "category": "Sound",
+            "year": 1975,
+            "tmdb": {
+                "id": 11123,
+                "original_title": "Earthquake",
+                "title": "Terremoto",
+                "release_date": "1974-11-15",
+                "backdrop_path": "/vPPF44KWsL1DzAxnjvvabJUJ75O.jpg",
+                "poster_path": "/h5SyLrK2e6pPxgnDGW5p3T92cz1.jpg",
+                "overview": "Um jovem sismologista, usando os ensinamentos de um especialista, prev\u00ea um tremor de ampla magnitude em Los Angeles, mas ningu\u00e9m lhe d\u00e1 a devida aten\u00e7\u00e3o. A vida das pessoas e de todos os moradores da cidade ser\u00e1 tragicamente atingida pelo maior terremoto que a cidade j\u00e1 viu e, apesar de pequenos tremores prenunciarem a cat\u00e1strofe, a popula\u00e7\u00e3o n\u00e3o pressente a trag\u00e9dia que est\u00e1 para acontecer.",
+                "vote_average": 6.109,
+                "vote_count": 302
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Chinatown",
+            "second_label": "Bud Grenzbach, Larry Jost",
+            "category": "Sound",
+            "year": 1975,
+            "tmdb": {
+                "id": 829,
+                "original_title": "Chinatown",
+                "title": "Chinatown",
+                "release_date": "1974-06-20",
+                "backdrop_path": "/bsoAg22remHKL5O0xJH0m9DX6Pu.jpg",
+                "poster_path": "/mQJz8J4naOA7RmCtypTPjgXZIMY.jpg",
+                "overview": "Contratado por uma bela socialite para investigar o caso extra-conjugal do marido dela, o detetive particular Jake Gittes \u00e9 arrastado para um furac\u00e3o de falsidades e enganos mortais, descobrindo uma rede de esc\u00e2ndalos pessoais e pol\u00edticos que colidem entre si.",
+                "vote_average": 7.916,
+                "vote_count": 3591
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Conversation",
+            "second_label": "Walter Murch, Arthur Rochester",
+            "category": "Sound",
+            "year": 1975,
+            "tmdb": {
+                "id": 592,
+                "original_title": "The Conversation",
+                "title": "A Conversa\u00e7\u00e3o",
+                "release_date": "1974-04-07",
+                "backdrop_path": "/fVJZYpzVTKo0vXmar9NnRMV0Qcn.jpg",
+                "poster_path": "/dfqeK099SpqFhLSUWwkbO8gXWkp.jpg",
+                "overview": "O expert em vigil\u00e2ncia Harry Caul \u00e9 contratado por um cliente misterioso para perseguir um jovem casal. Harry Caul, \u00e9 um expert em vigil\u00e2ncia, conhecido nacionalmente por seu profissionalismo. Ele \u00e9 contratado pelo diretor de uma grande empresa para vigiar e gravar as conversas de um casal de amantes. Por\u00e9m, no passado um trabalho dele provocou a morte de tr\u00eas pessoas, diante desse novo trabalho ele teme que algo parecido aconte\u00e7a.",
+                "vote_average": 7.5,
+                "vote_count": 1597
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Towering Inferno",
+            "second_label": "Theodore Soderberg, Herman Lewis",
+            "category": "Sound",
+            "year": 1975,
+            "tmdb": {
+                "id": 5919,
+                "original_title": "The Towering Inferno",
+                "title": "Inferno na torre",
+                "release_date": "1974-12-14",
+                "backdrop_path": "/jKEQoKWXvRcZfBd1GkcuK2n1KQG.jpg",
+                "poster_path": "/tBewsMiv27bTDlVMbz1OIDedBSV.jpg",
+                "overview": "O arquiteto Doug Roberts retorna de suas longas f\u00e9rias para encontrar quase conclu\u00eddo o trabalho de constru\u00e7\u00e3o de seu arranha-c\u00e9u. Ele vai para a festa de pr\u00e9 inaugura\u00e7\u00e3o naquela noite e descobre que suas especifica\u00e7\u00f5es de fia\u00e7\u00e3o el\u00e9trica n\u00e3o foram seguidas e que o edif\u00edcio continua a apresentar curtos-circuitos. Quando o fogo come\u00e7a, Michael O'Halleran \u00e9 o chefe de bombeiros de plant\u00e3o e comanda uma s\u00e9rie de resgates ousados que \u200b\u200bpontuam o terror de um edif\u00edcio muito alto para ter um inc\u00eandio combatido com sucesso a partir do solo.",
+                "vote_average": 7.0,
+                "vote_count": 865
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Young Frankenstein",
+            "second_label": "Richard Portman, Gene Cantamessa",
+            "category": "Sound",
+            "year": 1975,
+            "tmdb": {
+                "id": 3034,
+                "original_title": "Young Frankenstein",
+                "title": "O Jovem Frankenstein",
+                "release_date": "1974-12-15",
+                "backdrop_path": "/hTvCGwbrpSgZ5QCZnYHM12bv7DH.jpg",
+                "poster_path": "/wRsAheC7wPp77UlQD8oC87kERut.jpg",
+                "overview": "Chamado ao castelo de seu finado av\u00f4 na Transilv\u00e2nia, o jovem Dr. Frankestein logo descobre um manual descrevendo passo a passo como trazer um cad\u00e1ver de volta \u00e0 vida. Auxiliado pelo corcunda Igor e pela curvil\u00ednea Inga, ele cria um monstro que s\u00f3 deseja ser amado.",
+                "vote_average": 7.9,
+                "vote_count": 3002
+            },
+            "winner": false
+        }
+    ],
+    "Special Achievement Award (Visual Effects)": [
+        {
+            "first_label": "Earthquake",
+            "second_label": "Frank Brendel, Glen Robinson, Albert Whitlock",
+            "category": "Special Achievement Award (Visual Effects)",
+            "year": 1975,
+            "tmdb": {
+                "id": 11123,
+                "original_title": "Earthquake",
+                "title": "Terremoto",
+                "release_date": "1974-11-15",
+                "backdrop_path": "/vPPF44KWsL1DzAxnjvvabJUJ75O.jpg",
+                "poster_path": "/h5SyLrK2e6pPxgnDGW5p3T92cz1.jpg",
+                "overview": "Um jovem sismologista, usando os ensinamentos de um especialista, prev\u00ea um tremor de ampla magnitude em Los Angeles, mas ningu\u00e9m lhe d\u00e1 a devida aten\u00e7\u00e3o. A vida das pessoas e de todos os moradores da cidade ser\u00e1 tragicamente atingida pelo maior terremoto que a cidade j\u00e1 viu e, apesar de pequenos tremores prenunciarem a cat\u00e1strofe, a popula\u00e7\u00e3o n\u00e3o pressente a trag\u00e9dia que est\u00e1 para acontecer.",
+                "vote_average": 6.109,
+                "vote_count": 302
+            },
+            "winner": true
+        }
+    ],
+    "Writing (Original Screenplay)": [
+        {
+            "first_label": "Chinatown",
+            "second_label": "Robert Towne",
+            "category": "Writing (Original Screenplay)",
+            "year": 1975,
+            "tmdb": {
+                "id": 829,
+                "original_title": "Chinatown",
+                "title": "Chinatown",
+                "release_date": "1974-06-20",
+                "backdrop_path": "/bsoAg22remHKL5O0xJH0m9DX6Pu.jpg",
+                "poster_path": "/mQJz8J4naOA7RmCtypTPjgXZIMY.jpg",
+                "overview": "Contratado por uma bela socialite para investigar o caso extra-conjugal do marido dela, o detetive particular Jake Gittes \u00e9 arrastado para um furac\u00e3o de falsidades e enganos mortais, descobrindo uma rede de esc\u00e2ndalos pessoais e pol\u00edticos que colidem entre si.",
+                "vote_average": 7.916,
+                "vote_count": 3591
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Alice Doesn't Live Here Anymore",
+            "second_label": "Robert Getchell",
+            "category": "Writing (Original Screenplay)",
+            "year": 1975,
+            "tmdb": {
+                "id": 16153,
+                "original_title": "Alice Doesn't Live Here Anymore",
+                "title": "Alice N\u00e3o Mora Mais Aqui",
+                "release_date": "1974-12-09",
+                "backdrop_path": "/5AibuYyzAlJesXvZVjW4vFeqKpj.jpg",
+                "poster_path": "/64LGxgK9FUOQySuivgKLNUth5zt.jpg",
+                "overview": "Depois de perder o marido caminhoneiro num acidente, Alice come\u00e7a a trabalhar como cantora para sustentar o filho Tommy, mas acaba se envolvendo com um homem casado e agressivo e precisar\u00e1 ir embora da cidade se quiser refazer sua vida.",
+                "vote_average": 7.0,
+                "vote_count": 425
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Conversation",
+            "second_label": "Francis Ford Coppola",
+            "category": "Writing (Original Screenplay)",
+            "year": 1975,
+            "tmdb": {
+                "id": 592,
+                "original_title": "The Conversation",
+                "title": "A Conversa\u00e7\u00e3o",
+                "release_date": "1974-04-07",
+                "backdrop_path": "/fVJZYpzVTKo0vXmar9NnRMV0Qcn.jpg",
+                "poster_path": "/dfqeK099SpqFhLSUWwkbO8gXWkp.jpg",
+                "overview": "O expert em vigil\u00e2ncia Harry Caul \u00e9 contratado por um cliente misterioso para perseguir um jovem casal. Harry Caul, \u00e9 um expert em vigil\u00e2ncia, conhecido nacionalmente por seu profissionalismo. Ele \u00e9 contratado pelo diretor de uma grande empresa para vigiar e gravar as conversas de um casal de amantes. Por\u00e9m, no passado um trabalho dele provocou a morte de tr\u00eas pessoas, diante desse novo trabalho ele teme que algo parecido aconte\u00e7a.",
+                "vote_average": 7.5,
+                "vote_count": 1597
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Day for Night",
+            "second_label": "Francois Truffaut, Jean-Louis Richard, Suzanne Schiffman",
+            "category": "Writing (Original Screenplay)",
+            "year": 1975,
+            "tmdb": {
+                "id": 1675,
+                "original_title": "La Nuit am\u00e9ricaine",
+                "title": "A Noite Americana",
+                "release_date": "1973-05-24",
+                "backdrop_path": "/6MbFN88F27WvGC9WhAXq5KUIgTj.jpg",
+                "poster_path": "/6jk8HNf4R0h1ap3O0ygXq8MB3e7.jpg",
+                "overview": "Um dos filmes que melhor representa as loucuras que se passam em um set de filmagem. Um ator que fica deprimido porque sua noiva sai com um dubl\u00ea, uma atriz que se entregou \u00e0s bebidas e n\u00e3o consegue lembrar de suas falas e muitas outras confus\u00f5es, que o diretor deve fazer de tudo para contornar, at\u00e9 gravarem uma das cenas mais importantes do filme: a que o dia deve ser transformado em noite artificialmente.",
+                "vote_average": 7.8,
+                "vote_count": 569
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Harry and Tonto",
+            "second_label": "Paul Mazursky, Josh Greenfeld",
+            "category": "Writing (Original Screenplay)",
+            "year": 1975,
+            "tmdb": {
+                "id": 42448,
+                "original_title": "Harry and Tonto",
+                "title": "Harry, o Amigo de Tonto",
+                "release_date": "1974-08-12",
+                "backdrop_path": "/eAPj43jprYqhQvqzaP7B1LL7B0N.jpg",
+                "poster_path": "/2JIy2g5UoHBnmNnFpSU7oq5xdTG.jpg",
+                "overview": "Ap\u00f3s utilizar todos os meios legais Harry Combes (Art Carney), um professor aposentado com 70 anos, \u00e9 for\u00e7ado a deixar seu velho apartamento em Manhattan, que \u00e9 demolido para dar lugar para um estacionamento. Harry sente muito isto, pois foi l\u00e1 que, com sua falecida esposa, criou seus filhos e viveu toda sua vida. Acompanhado por Tonto, seu gato de estima\u00e7\u00e3o, ele inicia uma viagem ap\u00f3s sentir que \u00e9 um estorvo para sua enteada. Tenta viajar de avi\u00e3o, mas n\u00e3o embarca por causa de Tonto. Ao viajar de \u00f4nibus para Chicago tem de abandonar o ve\u00edculo por causa do seu mascote, assim compra um carro. Harry acaba dando carona para Ginger (Melanie Mayron), uma jovem de 16 anos que acaba se envolvendo com Norman (Josh Mostel), o neto de Harry.",
+                "vote_average": 7.0,
+                "vote_count": 75
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay Adapted from Other Material)": [
+        {
+            "first_label": "The Godfather Part II",
+            "second_label": "Francis Ford Coppola, Mario Puzo",
+            "category": "Writing (Screenplay Adapted from Other Material)",
+            "year": 1975,
+            "tmdb": {
+                "id": 240,
+                "original_title": "The Godfather Part II",
+                "title": "O Poderoso Chef\u00e3o: Parte II",
+                "release_date": "1974-12-20",
+                "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+                "poster_path": "/7g6wvsWHxBQujUcSXvZLhdFpDUy.jpg",
+                "overview": "Ap\u00f3s a m\u00e1fia matar sua fam\u00edlia, o jovem Vito foge da sua cidade na Sic\u00edlia e vai para a Am\u00e9rica. Vito luta para manter sua fam\u00edlia. Ele mata Black Hand Fanucci, que exigia dos comerciantes uma parte dos seus ganhos. Com a morte de Fanucci, o poderio de Vito cresce, mas sua fam\u00edlia \u00e9 o que mais importa para ele. Agora baseado no Lago Tahoe, Michael planeja fazer incurs\u00f5es em Las Vegas e Havana instalando neg\u00f3cios ligados ao lazer, mas descobre que aliados como Hyman Roth est\u00e3o tentando mat\u00e1-lo.",
+                "vote_average": 8.575,
+                "vote_count": 11862
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Apprenticeship of Duddy Kravitz",
+            "second_label": "Screenplay by Mordecai Richler;  Adaptation by Lionel Chetwynd",
+            "category": "Writing (Screenplay Adapted from Other Material)",
+            "year": 1975,
+            "tmdb": {
+                "id": 42451,
+                "original_title": "The Apprenticeship of Duddy Kravitz",
+                "title": "The Apprenticeship of Duddy Kravitz",
+                "release_date": "1974-04-11",
+                "backdrop_path": "/1g3iKmcloaiHCuyOPKY85FUqCi1.jpg",
+                "poster_path": "/wizmy0hFKs7lsn2ljHMctj86KEN.jpg",
+                "overview": "The younger son of a working-class Jewish family in Montreal, Duddy Kravitz yearns to make a name for himself in society. This film chronicles his short and dubious rise to power, as well as his changing relationships with family and friends. Along the way the film explores the themes of anti-semitism and the responsibilities which come with adulthood.",
+                "vote_average": 5.8,
+                "vote_count": 21
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lenny",
+            "second_label": "Julian Barry",
+            "category": "Writing (Screenplay Adapted from Other Material)",
+            "year": 1975,
+            "tmdb": {
+                "id": 27094,
+                "original_title": "Lenny",
+                "title": "Lenny",
+                "release_date": "1974-11-10",
+                "backdrop_path": "/6zqFDzIKPKyGX1jwYAiJTGvYyXz.jpg",
+                "poster_path": "/Avhk4pGdz3YQrzqLU65icjnE6vn.jpg",
+                "overview": "The story of acerbic 1960s comic Lenny Bruce, whose groundbreaking, no-holds-barred style and social commentary was often deemed by the establishment as too obscene for the public.",
+                "vote_average": 7.3,
+                "vote_count": 234
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Murder on the Orient Express",
+            "second_label": "Paul Dehn",
+            "category": "Writing (Screenplay Adapted from Other Material)",
+            "year": 1975,
+            "tmdb": {
+                "id": 4176,
+                "original_title": "Murder on the Orient Express",
+                "title": "Assassinato no Expresso Oriente",
+                "release_date": "1974-11-22",
+                "backdrop_path": "/tAXK5R0ytrN2l2qgGfyxums5J0w.jpg",
+                "poster_path": "/lzFu9AxTeuAKACHnJjflOQpNRjb.jpg",
+                "overview": "O detetive Hercule Poirot est\u00e1 a bordo do Expresso do Oriente quando um passageiro \u00e9 encontrado morto. Amplamente desprezada, a v\u00edtima tinha muitos inimigos, e Poirot tem que peneirar um grupo exc\u00eantrico de suspeitos para encontrar o assassino.",
+                "vote_average": 7.2,
+                "vote_count": 1329
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Young Frankenstein",
+            "second_label": "Gene Wilder, Mel Brooks",
+            "category": "Writing (Screenplay Adapted from Other Material)",
+            "year": 1975,
+            "tmdb": {
+                "id": 3034,
+                "original_title": "Young Frankenstein",
+                "title": "O Jovem Frankenstein",
+                "release_date": "1974-12-15",
+                "backdrop_path": "/hTvCGwbrpSgZ5QCZnYHM12bv7DH.jpg",
+                "poster_path": "/wRsAheC7wPp77UlQD8oC87kERut.jpg",
+                "overview": "Chamado ao castelo de seu finado av\u00f4 na Transilv\u00e2nia, o jovem Dr. Frankestein logo descobre um manual descrevendo passo a passo como trazer um cad\u00e1ver de volta \u00e0 vida. Auxiliado pelo corcunda Igor e pela curvil\u00ednea Inga, ele cria um monstro que s\u00f3 deseja ser amado.",
+                "vote_average": 7.9,
+                "vote_count": 3002
+            },
+            "winner": false
+        }
+    ]
+}

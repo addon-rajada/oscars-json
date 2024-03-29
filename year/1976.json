@@ -1,0 +1,1744 @@
+{
+    "Actor": [
+        {
+            "first_label": "Jack Nicholson",
+            "second_label": "One Flew over the Cuckoo's Nest",
+            "category": "Actor",
+            "year": 1976,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Walter Matthau",
+            "second_label": "The Sunshine Boys",
+            "category": "Actor",
+            "year": 1976,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Al Pacino",
+            "second_label": "Dog Day Afternoon",
+            "category": "Actor",
+            "year": 1976,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Maximilian Schell",
+            "second_label": "The Man in the Glass Booth",
+            "category": "Actor",
+            "year": 1976,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "James Whitmore",
+            "second_label": "Give 'em Hell, Harry!",
+            "category": "Actor",
+            "year": 1976,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "George Burns",
+            "second_label": "The Sunshine Boys",
+            "category": "Actor in a Supporting Role",
+            "year": 1976,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Brad Dourif",
+            "second_label": "One Flew over the Cuckoo's Nest",
+            "category": "Actor in a Supporting Role",
+            "year": 1976,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Burgess Meredith",
+            "second_label": "The Day of the Locust",
+            "category": "Actor in a Supporting Role",
+            "year": 1976,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Chris Sarandon",
+            "second_label": "Dog Day Afternoon",
+            "category": "Actor in a Supporting Role",
+            "year": 1976,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jack Warden",
+            "second_label": "Shampoo",
+            "category": "Actor in a Supporting Role",
+            "year": 1976,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress": [
+        {
+            "first_label": "Louise Fletcher",
+            "second_label": "One Flew over the Cuckoo's Nest",
+            "category": "Actress",
+            "year": 1976,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Isabelle Adjani",
+            "second_label": "The Story of Adele H.",
+            "category": "Actress",
+            "year": 1976,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ann-Margret",
+            "second_label": "Tommy",
+            "category": "Actress",
+            "year": 1976,
+            "tmdb": {
+                "id": 538964,
+                "original_title": "Ann-Margret Smith",
+                "title": "Ann-Margret Smith",
+                "release_date": "1975-11-20",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "Book-ending the year 1975 with two big budget TV Specials, Ann -Margret also earned her second Oscar nomination that year, for Tommy.  In January, \"Ann-Margret Olssen\" premiered and was titled with the star's maiden name.  This second special premiered late in the year and was titled with the star's married name. Her husband Roger Smith also appears in the opening sequences. Presented by the Bell System's Family Theatre,  the program was filmed at the ATV Studios at BBC Elstree Centre, Borehamwood, England.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Glenda Jackson",
+            "second_label": "Hedda",
+            "category": "Actress",
+            "year": 1976,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Carol Kane",
+            "second_label": "Hester Street",
+            "category": "Actress",
+            "year": 1976,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Lee Grant",
+            "second_label": "Shampoo",
+            "category": "Actress in a Supporting Role",
+            "year": 1976,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Ronee Blakley",
+            "second_label": "Nashville",
+            "category": "Actress in a Supporting Role",
+            "year": 1976,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sylvia Miles",
+            "second_label": "Farewell, My Lovely",
+            "category": "Actress in a Supporting Role",
+            "year": 1976,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lily Tomlin",
+            "second_label": "Nashville",
+            "category": "Actress in a Supporting Role",
+            "year": 1976,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Brenda Vaccaro",
+            "second_label": "Jacqueline Susann's Once Is Not Enough",
+            "category": "Actress in a Supporting Role",
+            "year": 1976,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction": [
+        {
+            "first_label": "Barry Lyndon",
+            "second_label": "Art Direction: Ken Adam, Roy Walker; Set Decoration: Vernon Dixon",
+            "category": "Art Direction",
+            "year": 1976,
+            "tmdb": {
+                "id": 3175,
+                "original_title": "Barry Lyndon",
+                "title": "Barry Lyndon",
+                "release_date": "1975-12-18",
+                "backdrop_path": "/ef6SvWbSfCFlKodJZqpIaTvsRRP.jpg",
+                "poster_path": "/dOJtBSyI30wWc08UmyEKLsu4Rfk.jpg",
+                "overview": "Um trapaceiro irland\u00eas conquista o cora\u00e7\u00e3o de uma vi\u00fava rica e assume a posi\u00e7\u00e3o aristocr\u00e1rica do seu falecido marido na Inglaterra do s\u00e9culo 18.",
+                "vote_average": 8.001,
+                "vote_count": 2666
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Hindenburg",
+            "second_label": "Art Direction: Edward Carfagno; Set Decoration: Frank McKelvy",
+            "category": "Art Direction",
+            "year": 1976,
+            "tmdb": {
+                "id": 17599,
+                "original_title": "The Hindenburg",
+                "title": "O Dirig\u00edvel Hindenburg",
+                "release_date": "1975-12-25",
+                "backdrop_path": "/1daFkLpphDVzTyjBDw7rrHJajij.jpg",
+                "poster_path": "/sCCi7FqEGITMJVCs0LV5Z7qnRJu.jpg",
+                "overview": "Uma vidente americana afirma pouco antes do dirig\u00edvel Hindenburg, um verdadeiro hotel no c\u00e9u e um dos s\u00edmbolos do poderio nazista, deixar a Alemanha, que ele ser\u00e1 destru\u00eddo em sua viagem at\u00e9 Nova York e que o desastre acontecer\u00e1 quando ele estiver chegando nos Estados Unidos. Apesar de nada suspeito ter sido encontrado, na Alemanha e nos Estados Unidos circulam rumores sobre a poss\u00edvel destrui\u00e7\u00e3o do dirig\u00edvel. Assim o coronel Franz Ritter (George C. Scott), um her\u00f3i de guerra que opera para a intelig\u00eancia militar, \u00e9 designado para voar no Hindenburg como chefe da seguran\u00e7a. Nesta miss\u00e3o ele \u00e9 ajudado pelo agente da Gestapo Martin Vogel (Roy Thinnes), que nem de longe tem a educa\u00e7\u00e3o e a discri\u00e7\u00e3o de Ritter, que gradativamente cria sua lista de suspeitos. Vai ficando cada vez mais certo que os rumores de sabotagem t\u00eam muito fundamento, mas Ritter n\u00e3o est\u00e1 preocupado em proteger um s\u00edmbolo do poderio nazista e sim evitar que dezenas de pessoas morram num atentado.",
+                "vote_average": 6.3,
+                "vote_count": 119
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Man Who Would Be King",
+            "second_label": "Art Direction: Alexander Trauner, Tony Inglis; Set Decoration: Peter James",
+            "category": "Art Direction",
+            "year": 1976,
+            "tmdb": {
+                "id": 983,
+                "original_title": "The Man Who Would Be King",
+                "title": "O Homem Que Queria Ser Rei",
+                "release_date": "1975-12-03",
+                "backdrop_path": "/1Jgefbg5cKfCrppNbP0nPJm2TdR.jpg",
+                "poster_path": "/21BANIzXEKyZDUFOr9NdUEgP4EA.jpg",
+                "overview": "Uma aventura sobre dois aventureiros brit\u00e2nicos que assumem o Kafirist\u00e3o primitivo como governantes \"semelhantes a deuses\", encontrando um final tr\u00e1gico atrav\u00e9s de seu desejo por uma garota nativa. Baseado em um conto de Rudyard Kipling.",
+                "vote_average": 7.5,
+                "vote_count": 587
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Shampoo",
+            "second_label": "Art Direction: Richard Sylbert, W. Stewart Campbell; Set Decoration: George Gaines",
+            "category": "Art Direction",
+            "year": 1976,
+            "tmdb": {
+                "id": 31121,
+                "original_title": "Shampoo",
+                "title": "Shampoo",
+                "release_date": "1975-02-11",
+                "backdrop_path": "/2sDMMLK2A1aHh52abYRnzlTBy6t.jpg",
+                "poster_path": "/6jmFvXPV6OhtX3AkAVnH7rwdeUJ.jpg",
+                "overview": "Darrell REm um per\u00edodo de mudan\u00e7as comportamentais (1968) um cabeleleiro popular entre as mulheres corre atr\u00e1s de sua independ\u00eancia financeira enquanto vive v\u00e1rios casos amorosos (alguns perigosos) ao mesmo tempooodt  Um cabeleireiro mulherengo e sedutor de Beverly Hills se envolve facilmente com v\u00e1rias mulheres pois, em virtude da sua profiss\u00e3o, muitos homens o consideram homossexual. Ele tenta convencer um rico empres\u00e1rio que est\u00e1 tendo um caso com uma de suas amantes a lhe fornecer capital para montar um sal\u00e3o de beleza. Ao mesmo tempo, ele \u00e9 pressionado pela noiva para se casar o mais r\u00e1pido poss\u00edvel, o que pode prejudicar seus planos.",
+                "vote_average": 6.0,
+                "vote_count": 197
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Sunshine Boys",
+            "second_label": "Art Direction: Albert Brenner; Set Decoration: Marvin March",
+            "category": "Art Direction",
+            "year": 1976,
+            "tmdb": {
+                "id": 16561,
+                "original_title": "The Sunshine Boys",
+                "title": "Uma Dupla Desajustada",
+                "release_date": "1975-11-06",
+                "backdrop_path": "/i5CKsYWx3eKbwSokg0qouLpHfqo.jpg",
+                "poster_path": "/ma1oPWkfBOtXLgfL9PSSK6TCocL.jpg",
+                "overview": "Uma dupla de vaudeville aceita se reunir para um especial de televis\u00e3o, mas acontece que eles n\u00e3o se suportam.  Lewis e Clark foram comediantes famosos durante a era do vaudeville. Fora do palco, por\u00e9m, eles n\u00e3o se suportavam e n\u00e3o se falavam h\u00e1 mais de vinte anos. Ben, sobrinho de Willy Clark, \u00e9 o produtor de um show de variedades que quer apresentar uma reuni\u00e3o da dupla cl\u00e1ssica. Como Ben convencer\u00e1 os velhos comediantes a deixar de lado suas diferen\u00e7as antes do grande espet\u00e1culo? (e 12 - Estimado 12 Anos)",
+                "vote_average": 6.8,
+                "vote_count": 92
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "Barry Lyndon",
+            "second_label": "John Alcott",
+            "category": "Cinematography",
+            "year": 1976,
+            "tmdb": {
+                "id": 3175,
+                "original_title": "Barry Lyndon",
+                "title": "Barry Lyndon",
+                "release_date": "1975-12-18",
+                "backdrop_path": "/ef6SvWbSfCFlKodJZqpIaTvsRRP.jpg",
+                "poster_path": "/dOJtBSyI30wWc08UmyEKLsu4Rfk.jpg",
+                "overview": "Um trapaceiro irland\u00eas conquista o cora\u00e7\u00e3o de uma vi\u00fava rica e assume a posi\u00e7\u00e3o aristocr\u00e1rica do seu falecido marido na Inglaterra do s\u00e9culo 18.",
+                "vote_average": 8.001,
+                "vote_count": 2666
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Day of the Locust",
+            "second_label": "Conrad Hall",
+            "category": "Cinematography",
+            "year": 1976,
+            "tmdb": {
+                "id": 5122,
+                "original_title": "The Day of the Locust",
+                "title": "The Day of the Locust",
+                "release_date": "1975-05-07",
+                "backdrop_path": "/q7t4M8pEXcboOLeOaCeC1ztS35l.jpg",
+                "poster_path": "/m4T7R448djzbDbURK4eQgo5TllF.jpg",
+                "overview": "Hollywood, 1930s. Tod Hackett, a young painter who tries to make his way as an art director in the lurid world of film industry, gets infatuated with his neighbor Faye Greener, an aspiring actress who prefers the life that Homer Simpson, a lone accountant, can offer her.",
+                "vote_average": 6.4,
+                "vote_count": 81
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Funny Lady",
+            "second_label": "James Wong Howe",
+            "category": "Cinematography",
+            "year": 1976,
+            "tmdb": {
+                "id": 39282,
+                "original_title": "Funny Lady",
+                "title": "Funny Lady - A Garota Genial",
+                "release_date": "1975-03-15",
+                "backdrop_path": "/wuZn3zmyYJISfxa3FyevEkVSwtN.jpg",
+                "poster_path": "/8uhOcR4CQuEZJDt7DEOfxs86R2a.jpg",
+                "overview": "Na Nova York dos anos 1930, em pleno per\u00edodo da Depress\u00e3o, a entertainer Fanny Brice divorcia-se do jogador Nick para se casar com o compositor Billy Rose. Juntos, eles se esfor\u00e7am para manter o sucesso tanto no palco quanto na vida privada. Continua\u00e7\u00e3o de \"Funny Girl - A Garota Genial\".",
+                "vote_average": 5.2,
+                "vote_count": 61
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Hindenburg",
+            "second_label": "Robert Surtees",
+            "category": "Cinematography",
+            "year": 1976,
+            "tmdb": {
+                "id": 17599,
+                "original_title": "The Hindenburg",
+                "title": "O Dirig\u00edvel Hindenburg",
+                "release_date": "1975-12-25",
+                "backdrop_path": "/1daFkLpphDVzTyjBDw7rrHJajij.jpg",
+                "poster_path": "/sCCi7FqEGITMJVCs0LV5Z7qnRJu.jpg",
+                "overview": "Uma vidente americana afirma pouco antes do dirig\u00edvel Hindenburg, um verdadeiro hotel no c\u00e9u e um dos s\u00edmbolos do poderio nazista, deixar a Alemanha, que ele ser\u00e1 destru\u00eddo em sua viagem at\u00e9 Nova York e que o desastre acontecer\u00e1 quando ele estiver chegando nos Estados Unidos. Apesar de nada suspeito ter sido encontrado, na Alemanha e nos Estados Unidos circulam rumores sobre a poss\u00edvel destrui\u00e7\u00e3o do dirig\u00edvel. Assim o coronel Franz Ritter (George C. Scott), um her\u00f3i de guerra que opera para a intelig\u00eancia militar, \u00e9 designado para voar no Hindenburg como chefe da seguran\u00e7a. Nesta miss\u00e3o ele \u00e9 ajudado pelo agente da Gestapo Martin Vogel (Roy Thinnes), que nem de longe tem a educa\u00e7\u00e3o e a discri\u00e7\u00e3o de Ritter, que gradativamente cria sua lista de suspeitos. Vai ficando cada vez mais certo que os rumores de sabotagem t\u00eam muito fundamento, mas Ritter n\u00e3o est\u00e1 preocupado em proteger um s\u00edmbolo do poderio nazista e sim evitar que dezenas de pessoas morram num atentado.",
+                "vote_average": 6.3,
+                "vote_count": 119
+            },
+            "winner": false
+        },
+        {
+            "first_label": "One Flew over the Cuckoo's Nest",
+            "second_label": "Haskell Wexler, Bill Butler",
+            "category": "Cinematography",
+            "year": 1976,
+            "tmdb": {
+                "id": 510,
+                "original_title": "One Flew Over the Cuckoo's Nest",
+                "title": "Um Estranho no Ninho",
+                "release_date": "1975-11-19",
+                "backdrop_path": "/oje9d0EXQyQcxsqHQor4xFVGjrd.jpg",
+                "poster_path": "/nqz0NHRmbc57HZdZxi66shMzGKO.jpg",
+                "overview": "Randle Patrick McMurphy \u00e9 um malandro que, ap\u00f3s ser preso, se finge de louco para ir a um hospital psiqui\u00e1trico e assim esquivar-se a uma por\u00e7\u00e3o de trabalhos for\u00e7ados na pris\u00e3o. L\u00e1 ele come\u00e7a a influenciar os outros internos e come\u00e7a a sofrer oposi\u00e7\u00e3o da cruel e s\u00e1dica enfermeira Mildred Ratched. Com forte poder persuasivo, McMurphy instaura uma reviravolta na cl\u00ednica, n\u00e3o sabendo o que isto pode lhe custar.",
+                "vote_average": 8.423,
+                "vote_count": 10016
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design": [
+        {
+            "first_label": "Barry Lyndon",
+            "second_label": "Ulla-Britt Soderlund, Milena Canonero",
+            "category": "Costume Design",
+            "year": 1976,
+            "tmdb": {
+                "id": 3175,
+                "original_title": "Barry Lyndon",
+                "title": "Barry Lyndon",
+                "release_date": "1975-12-18",
+                "backdrop_path": "/ef6SvWbSfCFlKodJZqpIaTvsRRP.jpg",
+                "poster_path": "/dOJtBSyI30wWc08UmyEKLsu4Rfk.jpg",
+                "overview": "Um trapaceiro irland\u00eas conquista o cora\u00e7\u00e3o de uma vi\u00fava rica e assume a posi\u00e7\u00e3o aristocr\u00e1rica do seu falecido marido na Inglaterra do s\u00e9culo 18.",
+                "vote_average": 8.001,
+                "vote_count": 2666
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Four Musketeers",
+            "second_label": "Yvonne Blake, Ron Talsky",
+            "category": "Costume Design",
+            "year": 1976,
+            "tmdb": {
+                "id": 12310,
+                "original_title": "The Four Musketeers",
+                "title": "A Vingan\u00e7a de Milady",
+                "release_date": "1974-10-31",
+                "backdrop_path": "/AfJOMJMiOqtCIPbLwa62XM2Nn9I.jpg",
+                "poster_path": "/dm0ArEYWrrfyOkMUbKOE8ZnCc92.jpg",
+                "overview": "Continua\u00e7\u00e3o da saga \"Os Tr\u00eas Mosqueteiros\", que agora s\u00e3o quatro! Depois de recuperar as j\u00f3ias da Rainha, D\u2019Artagnan (Michael York) tornou-se um mosqueteiro. Os protestantes ocupam La Rochelle e a Rainha (Geraldine Chaplin) est\u00e1 apaixonada pelo Duke de Buckingham (Simon Ward), que logo enviar\u00e1 navios de apoio aos rebeldes. O Cardeal Richelieu (Charlton Heston) recruta Rochefort (Christopher Lee) para sequestrar Constance (Raquel Welch), mensageira secreta da Rainha e amor de D\u00b4Artagnan. E para distrair o mosqueteiro, o Cardeal convoca a esperta e amoral Milady de Winter (Faye Dunaway). Mas logo, eles se tornam arque inimigos. Milady vai \u00e0 Inglaterra para liquidar Buckingham e destronar a Rainha Anne, enquanto os quatro Mosqueteiros lutam contra os rebeldes. Conseguir\u00e1 D\u00b4Artagnan salvar Constance, defender Rochefort, escapar da ira de Winter e se manter livre do Cardeal? Um por todos e todos por um!",
+                "vote_average": 6.4,
+                "vote_count": 173
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Funny Lady",
+            "second_label": "Ray Aghayan, Bob Mackie",
+            "category": "Costume Design",
+            "year": 1976,
+            "tmdb": {
+                "id": 39282,
+                "original_title": "Funny Lady",
+                "title": "Funny Lady - A Garota Genial",
+                "release_date": "1975-03-15",
+                "backdrop_path": "/wuZn3zmyYJISfxa3FyevEkVSwtN.jpg",
+                "poster_path": "/8uhOcR4CQuEZJDt7DEOfxs86R2a.jpg",
+                "overview": "Na Nova York dos anos 1930, em pleno per\u00edodo da Depress\u00e3o, a entertainer Fanny Brice divorcia-se do jogador Nick para se casar com o compositor Billy Rose. Juntos, eles se esfor\u00e7am para manter o sucesso tanto no palco quanto na vida privada. Continua\u00e7\u00e3o de \"Funny Girl - A Garota Genial\".",
+                "vote_average": 5.2,
+                "vote_count": 61
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Magic Flute",
+            "second_label": "Henny Noremark, Karin Erskine",
+            "category": "Costume Design",
+            "year": 1976,
+            "tmdb": {
+                "id": 44864,
+                "original_title": "Trollfl\u00f6jten",
+                "title": "A Flauta M\u00e1gica",
+                "release_date": "1975-10-04",
+                "backdrop_path": "/30VFInw6IUlMgKCYTxI3LgrNTqs.jpg",
+                "poster_path": "/3N0L2ijwcVjRLJRSXbv3AKT2Vnt.jpg",
+                "overview": "Neste filme m\u00e1gico, Bergman filma a \u00f3pera \"A Flauta M\u00e1gica\" de Mozart em Estocolmo, no belo teatro de Drottningholm do s\u00e9culo XVIII numa conjuga\u00e7\u00e3o perfeita entre drama, m\u00fasica e cinema. O olhar de Bergman transforma \"A Flauta M\u00e1gica\" num espet\u00e1culo completo com uma simbologia sutil mas poderosa, tornando a \u00f3pera de Mozart, se \u00e9 que isso \u00e9 poss\u00edvel, numa obra ainda mais bela.",
+                "vote_average": 7.3,
+                "vote_count": 82
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Man Who Would Be King",
+            "second_label": "Edith Head",
+            "category": "Costume Design",
+            "year": 1976,
+            "tmdb": {
+                "id": 983,
+                "original_title": "The Man Who Would Be King",
+                "title": "O Homem Que Queria Ser Rei",
+                "release_date": "1975-12-03",
+                "backdrop_path": "/1Jgefbg5cKfCrppNbP0nPJm2TdR.jpg",
+                "poster_path": "/21BANIzXEKyZDUFOr9NdUEgP4EA.jpg",
+                "overview": "Uma aventura sobre dois aventureiros brit\u00e2nicos que assumem o Kafirist\u00e3o primitivo como governantes \"semelhantes a deuses\", encontrando um final tr\u00e1gico atrav\u00e9s de seu desejo por uma garota nativa. Baseado em um conto de Rudyard Kipling.",
+                "vote_average": 7.5,
+                "vote_count": 587
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "One Flew over the Cuckoo's Nest",
+            "second_label": "Milos Forman",
+            "category": "Directing",
+            "year": 1976,
+            "tmdb": {
+                "id": 510,
+                "original_title": "One Flew Over the Cuckoo's Nest",
+                "title": "Um Estranho no Ninho",
+                "release_date": "1975-11-19",
+                "backdrop_path": "/oje9d0EXQyQcxsqHQor4xFVGjrd.jpg",
+                "poster_path": "/nqz0NHRmbc57HZdZxi66shMzGKO.jpg",
+                "overview": "Randle Patrick McMurphy \u00e9 um malandro que, ap\u00f3s ser preso, se finge de louco para ir a um hospital psiqui\u00e1trico e assim esquivar-se a uma por\u00e7\u00e3o de trabalhos for\u00e7ados na pris\u00e3o. L\u00e1 ele come\u00e7a a influenciar os outros internos e come\u00e7a a sofrer oposi\u00e7\u00e3o da cruel e s\u00e1dica enfermeira Mildred Ratched. Com forte poder persuasivo, McMurphy instaura uma reviravolta na cl\u00ednica, n\u00e3o sabendo o que isto pode lhe custar.",
+                "vote_average": 8.423,
+                "vote_count": 10016
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Amarcord",
+            "second_label": "Federico Fellini",
+            "category": "Directing",
+            "year": 1976,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Barry Lyndon",
+            "second_label": "Stanley Kubrick",
+            "category": "Directing",
+            "year": 1976,
+            "tmdb": {
+                "id": 3175,
+                "original_title": "Barry Lyndon",
+                "title": "Barry Lyndon",
+                "release_date": "1975-12-18",
+                "backdrop_path": "/ef6SvWbSfCFlKodJZqpIaTvsRRP.jpg",
+                "poster_path": "/dOJtBSyI30wWc08UmyEKLsu4Rfk.jpg",
+                "overview": "Um trapaceiro irland\u00eas conquista o cora\u00e7\u00e3o de uma vi\u00fava rica e assume a posi\u00e7\u00e3o aristocr\u00e1rica do seu falecido marido na Inglaterra do s\u00e9culo 18.",
+                "vote_average": 8.001,
+                "vote_count": 2666
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dog Day Afternoon",
+            "second_label": "Sidney Lumet",
+            "category": "Directing",
+            "year": 1976,
+            "tmdb": {
+                "id": 968,
+                "original_title": "Dog Day Afternoon",
+                "title": "Um Dia de C\u00e3o",
+                "release_date": "1975-09-21",
+                "backdrop_path": "/m10uqk0HI5JcITAbxNJIIiGA8HP.jpg",
+                "poster_path": "/zuYY9iD3d1sGg3883oET2UN13ZL.jpg",
+                "overview": "Quando o inexperiente criminoso Sonny Wortzik lidera um assalto a um banco em Brooklyn, as coisas rapidamente d\u00e3o errado e uma situa\u00e7\u00e3o de ref\u00e9m se desenvolve. Sonny e seu c\u00famplice, Sal Naturile, tentam desesperadamente permanecer em controle, mas a m\u00eddia vai \u00e0 loucura e o FBI chega, criando uma tens\u00e3o ainda maior. Gradualmente, os verdadeiros motivos para o roubo s\u00e3o revelados.",
+                "vote_average": 7.8,
+                "vote_count": 2801
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Nashville",
+            "second_label": "Robert Altman",
+            "category": "Directing",
+            "year": 1976,
+            "tmdb": {
+                "id": 3121,
+                "original_title": "Nashville",
+                "title": "Nashville",
+                "release_date": "1975-06-11",
+                "backdrop_path": "/2mSkRoxHisjTgh6NPZfkp1IeZ2Y.jpg",
+                "poster_path": "/twl4ovyjb8muFKvZmcCDzPR0hy1.jpg",
+                "overview": "A hist\u00f3ria de v\u00e1rios personagens ligados ao mundo da m\u00fasica se cruza na cidade de Nashville, capital do Tennessee. Barbara Jean \u00e9 considerada a rainha do local, mas est\u00e1 \u00e0 beira de um colapso; Linnea e Delbert Reese mant\u00e9m um casamento inst\u00e1vel e possuem filho deficiente; Opal \u00e9 um jornalista brit\u00e2nico a trabalho na cidade. Cl\u00e1ssico dirigido por Altman, indicado em cinco categorias do Oscar e ganhador da estatueta de melhor can\u00e7\u00e3o - \"I'm Easy\", de Keith Carradine.",
+                "vote_average": 7.2,
+                "vote_count": 371
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "The Man Who Skied down Everest",
+            "second_label": "F. R. Crawley, James Hager and Dale Hartleben, Producers",
+            "category": "Documentary (Feature)",
+            "year": 1976,
+            "tmdb": {
+                "id": 37339,
+                "original_title": "The Man Who Skied Down Everest",
+                "title": "The Man Who Skied Down Everest",
+                "release_date": "1975-09-19",
+                "backdrop_path": "/mJRt43ihCqFBZ5K92Z4UGiBjBRm.jpg",
+                "poster_path": "/zFAPCLyT2zK0XbYGAnu4diMRejJ.jpg",
+                "overview": "This Oscar-winning documentary tells the story behind Japanese daredevil Yuichiro Miura's 1970 effort to ski down the world's tallest mountain.",
+                "vote_average": 6.6,
+                "vote_count": 17
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The California Reich",
+            "second_label": "Walter F. Parkes and Keith F. Critchlow, Producers",
+            "category": "Documentary (Feature)",
+            "year": 1976,
+            "tmdb": {
+                "id": 42265,
+                "original_title": "The California Reich",
+                "title": "The California Reich",
+                "release_date": "1975-01-01",
+                "backdrop_path": "/2q6AybLYcIKeOFA8KbKRJgSe3Yh.jpg",
+                "poster_path": "/cIhCsTY35nPmzd6QYeW0mjOMZa.jpg",
+                "overview": "A documentary on the roots of nazism In America.",
+                "vote_average": 6.2,
+                "vote_count": 6
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Fighting for Our Lives",
+            "second_label": "Glen Pearcy, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1976,
+            "tmdb": {
+                "id": 149340,
+                "original_title": "Fighting for Our Lives",
+                "title": "Fighting for Our Lives",
+                "release_date": "1975-01-01",
+                "backdrop_path": null,
+                "poster_path": "/fnk3FQwYjxn08g8UceM6I5zQOKV.jpg",
+                "overview": "Fighting for Our Lives is a 1975 documentary film produced and directed by Glen Pearcy. The film documents the striking of California grape workers from Coachella to Fresno as they negotiate for a United Farm Workers (UFW) contract in 1973. The film also depicts their non-violent struggle against police brutality on the picket lines. It was nominated for the 1976 Academy Award for Best Documentary Feature.",
+                "vote_average": 5.5,
+                "vote_count": 2
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Incredible Machine",
+            "second_label": "Irwin Rosten, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1976,
+            "tmdb": {
+                "id": 149342,
+                "original_title": "The Incredible Machine",
+                "title": "The Incredible Machine",
+                "release_date": "1975-01-01",
+                "backdrop_path": null,
+                "poster_path": "/xCp5od0xDr3mmxnOVhzbniNTMtk.jpg",
+                "overview": "The Incredible Machine [also known as Man: The Incredible Machine] is a 1975 American documentary film directed by Irwin Rosten and Ed Spiegel. It follows a \"ourney\" inside the human body, using advanced technology of microscopic photography and sound, including scenes of heat radiation, color x-rays, and camera exploration of a living human heart. The film is famous for including some of the first pictures ever taken inside the human body and presented on film, using some of the earliest film that medical researchers had taken inside the human digestive tract and bloodstream. It ranked as the most-watched program in Public Broadcasting Service until 1982. It was nominated for an Academy Award for Best Documentary Feature.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Other Half of the Sky: A China Memoir",
+            "second_label": "Shirley MacLaine, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1976,
+            "tmdb": {
+                "id": 149343,
+                "original_title": "The Other Half of the Sky: A China Memoir",
+                "title": "The Other Half of the Sky: A China Memoir",
+                "release_date": "1975-01-01",
+                "backdrop_path": null,
+                "poster_path": "/5m0OZhSTIAGnd4CNOtURjcQKl3X.jpg",
+                "overview": "Documentary on mainland Chinese life. Directed, produced, written, and narrated by Shirley MacLaine, the film follows her First American Women\u2019s Friendship Delegation to China. The delegation consisted of all women, including a four-woman film crew.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "The End of the Game",
+            "second_label": "Claire Wilbur and Robin Lehman, Producers",
+            "category": "Documentary (Short Subject)",
+            "year": 1976,
+            "tmdb": {
+                "id": 72494,
+                "original_title": "Der Richter und sein Henker",
+                "title": "Aposta Fatal",
+                "release_date": "1975-09-21",
+                "backdrop_path": "/8GzX5egahS7tdo7gjIUROtRQFt9.jpg",
+                "poster_path": "/sjNU6HtiFsrhsFWpFD8hpdQkOzS.jpg",
+                "overview": "Hans Baerlach is a Swiss police detective who has dedicated much of his career to pursuing powerful and allegedly murderous businessman Richard Gastmann. Though Baerlach's partner meets his demise while investigating Gastmann, his replacement, Walter Tschanz, is undaunted. Meanwhile, the lovely Anna Crawley becomes involved in the case, which proceeds to take many twists and turns.",
+                "vote_average": 4.9,
+                "vote_count": 19
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Arthur and Lillie",
+            "second_label": "Jon Else, Steven Kovacs and Kristine Samuelson, Producers",
+            "category": "Documentary (Short Subject)",
+            "year": 1976,
+            "tmdb": {
+                "id": 243410,
+                "original_title": "Arthur and Lillie",
+                "title": "Arthur and Lillie",
+                "release_date": "1975-01-01",
+                "backdrop_path": null,
+                "poster_path": "/jivzfZAqp6T6AH22OIXUzZhFx9A.jpg",
+                "overview": "A film about Arthur and Lillie Mayer, 89 and 86 years old and still young. Arthur can remember being taken to the first movie show in America, in 1895; Lillie was among the first American suffragettes. Arthur Mayer reminisces about his famous publicity stunts for Paramount, his Broadway horror film theatre, and beginning the importation of great European films with Rossellini's Open City.  It was nominated for an Academy Award for Best Documentary Short.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Millions of Years Ahead of Man",
+            "second_label": "Manfred Baier, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1976,
+            "tmdb": {
+                "id": 243413,
+                "original_title": "Millions of Years Ahead of Man",
+                "title": "Millions of Years Ahead of Man",
+                "release_date": "1975-01-01",
+                "backdrop_path": null,
+                "poster_path": "/2vHJjPZcwlFr2OkAFv0Yg0WWXbt.jpg",
+                "overview": "Millions of Years Ahead of Man is a 1975 West German short documentary film about Leafcutter ants, produced by Manfred Baier for BASF.It was nominated for an Academy Award for Best Documentary Short.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Probes in Space",
+            "second_label": "George V. Casey, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1976,
+            "tmdb": {
+                "id": 243414,
+                "original_title": "Probes in Space",
+                "title": "Probes in Space",
+                "release_date": "1975-01-01",
+                "backdrop_path": null,
+                "poster_path": "/giP1kmH0aAMQ2kHzeQsLSlVk2Dk.jpg",
+                "overview": "Probes in Space is a 1975 American short documentary film produced by George Casey. It was nominated for an Academy Award for Best Documentary Short.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Whistling Smith",
+            "second_label": "Barrie Howells and Michael Scott, Producers",
+            "category": "Documentary (Short Subject)",
+            "year": 1976,
+            "tmdb": {
+                "id": 243409,
+                "original_title": "Whistling Smith",
+                "title": "Whistling Smith",
+                "release_date": "1975-01-29",
+                "backdrop_path": null,
+                "poster_path": "/dOwV3XbsbfXhtK1e04aW2EDLSS2.jpg",
+                "overview": "This film is a revealing portrait of a tough cop with a big heart. Sergeant Bernie \"Whistling\" Smith walks the beat on Vancouver's Eastside, the hangout of petty criminals, down-and-outs and a variety of characters. His policing is unorthodox. To many drug users, petty thieves and prostitutes in this economically depressed area he is more than the iron hand of the law, he is also a counsellor and a friend.",
+                "vote_average": 6.2,
+                "vote_count": 4
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "Jaws",
+            "second_label": "Verna Fields",
+            "category": "Film Editing",
+            "year": 1976,
+            "tmdb": {
+                "id": 578,
+                "original_title": "Jaws",
+                "title": "Tubar\u00e3o",
+                "release_date": "1975-06-20",
+                "backdrop_path": "/Ugn7ekAwY8FtaBjRBlbkt0zom2.jpg",
+                "poster_path": "/iD2XVowFgHngYGamCAdq2T44gMr.jpg",
+                "overview": "Um terr\u00edvel ataque a banhistas \u00e9 o sinal de que a praia da pequena cidade de Amity virou refeit\u00f3rio de um gigantesco tubar\u00e3o branco, que come\u00e7a a se alimentar dos turistas. Embora o prefeito queira esconder os fatos da m\u00eddia, o xerife local pede ajuda a um ictiologista e a um pescador veterano para ca\u00e7ar o animal. Mas a miss\u00e3o vai ser mais complicada do que eles imaginavam.",
+                "vote_average": 7.7,
+                "vote_count": 9911
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Dog Day Afternoon",
+            "second_label": "Dede Allen",
+            "category": "Film Editing",
+            "year": 1976,
+            "tmdb": {
+                "id": 968,
+                "original_title": "Dog Day Afternoon",
+                "title": "Um Dia de C\u00e3o",
+                "release_date": "1975-09-21",
+                "backdrop_path": "/m10uqk0HI5JcITAbxNJIIiGA8HP.jpg",
+                "poster_path": "/zuYY9iD3d1sGg3883oET2UN13ZL.jpg",
+                "overview": "Quando o inexperiente criminoso Sonny Wortzik lidera um assalto a um banco em Brooklyn, as coisas rapidamente d\u00e3o errado e uma situa\u00e7\u00e3o de ref\u00e9m se desenvolve. Sonny e seu c\u00famplice, Sal Naturile, tentam desesperadamente permanecer em controle, mas a m\u00eddia vai \u00e0 loucura e o FBI chega, criando uma tens\u00e3o ainda maior. Gradualmente, os verdadeiros motivos para o roubo s\u00e3o revelados.",
+                "vote_average": 7.8,
+                "vote_count": 2801
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Man Who Would Be King",
+            "second_label": "Russell Lloyd",
+            "category": "Film Editing",
+            "year": 1976,
+            "tmdb": {
+                "id": 983,
+                "original_title": "The Man Who Would Be King",
+                "title": "O Homem Que Queria Ser Rei",
+                "release_date": "1975-12-03",
+                "backdrop_path": "/1Jgefbg5cKfCrppNbP0nPJm2TdR.jpg",
+                "poster_path": "/21BANIzXEKyZDUFOr9NdUEgP4EA.jpg",
+                "overview": "Uma aventura sobre dois aventureiros brit\u00e2nicos que assumem o Kafirist\u00e3o primitivo como governantes \"semelhantes a deuses\", encontrando um final tr\u00e1gico atrav\u00e9s de seu desejo por uma garota nativa. Baseado em um conto de Rudyard Kipling.",
+                "vote_average": 7.5,
+                "vote_count": 587
+            },
+            "winner": false
+        },
+        {
+            "first_label": "One Flew over the Cuckoo's Nest",
+            "second_label": "Richard Chew, Lynzee Klingman, Sheldon Kahn",
+            "category": "Film Editing",
+            "year": 1976,
+            "tmdb": {
+                "id": 510,
+                "original_title": "One Flew Over the Cuckoo's Nest",
+                "title": "Um Estranho no Ninho",
+                "release_date": "1975-11-19",
+                "backdrop_path": "/oje9d0EXQyQcxsqHQor4xFVGjrd.jpg",
+                "poster_path": "/nqz0NHRmbc57HZdZxi66shMzGKO.jpg",
+                "overview": "Randle Patrick McMurphy \u00e9 um malandro que, ap\u00f3s ser preso, se finge de louco para ir a um hospital psiqui\u00e1trico e assim esquivar-se a uma por\u00e7\u00e3o de trabalhos for\u00e7ados na pris\u00e3o. L\u00e1 ele come\u00e7a a influenciar os outros internos e come\u00e7a a sofrer oposi\u00e7\u00e3o da cruel e s\u00e1dica enfermeira Mildred Ratched. Com forte poder persuasivo, McMurphy instaura uma reviravolta na cl\u00ednica, n\u00e3o sabendo o que isto pode lhe custar.",
+                "vote_average": 8.423,
+                "vote_count": 10016
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Three Days of the Condor",
+            "second_label": "Fredric Steinkamp, Don Guidice",
+            "category": "Film Editing",
+            "year": 1976,
+            "tmdb": {
+                "id": 11963,
+                "original_title": "Three Days of the Condor",
+                "title": "Tr\u00eas Dias do Condor",
+                "release_date": "1975-08-01",
+                "backdrop_path": "/b10PufqGIpg5zFNOhkmbTUwQh94.jpg",
+                "poster_path": "/soyvonXYpZeuGsz0ZeakBzsyUAo.jpg",
+                "overview": "O agente da C.I.A. Joseph Turner (Robert Redford), codinome Condor, e a equipe a qual faz parte apenas l\u00ea livros e imagina poss\u00edveis situa\u00e7\u00f5es que podem ser usadas pela C.I.A. Um dia ele vai comprar comida, mas como chovia sai por uma \"sa\u00edda secreta\" em vez de sair pela porta da frente. Ao retornar, v\u00ea que todos os seus colegas de trabalho tinham sido mortos. Apavorado, pois n\u00e3o \u00e9 um agente de campo, liga para seu chefe, que diz que logo v\u00e3o resgat\u00e1-lo. Por\u00e9m na hora tentam mat\u00e1-lo, mas Turner escapa ileso. Sem saber o que fazer, acaba seq\u00fcestrando Kathy Hale (Faye Dunaway), uma fot\u00f3grafa, e vai para o apartamento dela, pois precisa de um lugar que ningu\u00e9m da C.I.A. conhe\u00e7a enquanto tenta entender por qual raz\u00e3o querem v\u00ea-lo morto.",
+                "vote_average": 7.3,
+                "vote_count": 1079
+            },
+            "winner": false
+        }
+    ],
+    "Foreign Language Film": [
+        {
+            "first_label": "Dersu Uzala",
+            "second_label": "Union of Soviet Socialist Republics",
+            "category": "Foreign Language Film",
+            "year": 1976,
+            "tmdb": {
+                "id": 9764,
+                "original_title": "\u0414\u0435\u0440\u0441\u0443 \u0423\u0437\u0430\u043b\u0430",
+                "title": "Dersu Uzala",
+                "release_date": "1975-08-02",
+                "backdrop_path": "/gLA1cUHcGGDO8pXYxhSljLId5wq.jpg",
+                "poster_path": "/9Bggg2bios1LsGUAYXuqd6BuVJl.jpg",
+                "overview": "Em 1902, uma expedi\u00e7\u00e3o do ex\u00e9rcito russo vai explorar a Sib\u00e9ria sob o comando do capit\u00e3o Vladimir Arseniev. Ele faz amizade com Dersu Uzala, um ca\u00e7ador Goldi (Nanai), e o convida para ser o guia da  expedi\u00e7\u00e3o atrav\u00e9s da floresta at\u00e9 chegar no Lago Khanka. Ao longo da jornada, Arsentiev descobre que Dersu \u00e9 um homem com uma alma bonita, e eles se tornam amigos \u00edntimos. Quando termina a sua miss\u00e3o, Dersu diz adeus a Arseniev. Em 1907, o capit\u00e3o Arseniev vai em outra expedi\u00e7\u00e3o no rio Ussuri. Quando ele reencontra Dersu na floresta, o ca\u00e7ador solit\u00e1rio se junta a sua equipe e orienta o grupo. No entanto, ele est\u00e1 mais velho e tem problemas com sua vis\u00e3o, e o capit\u00e3o Arseniev convida Dersu Uzala para viver com sua fam\u00edlia em Khabarovsk. Mas o velho n\u00e3o se adapta ao estilo de vida urbano e decide voltar para a floresta. Em 1910, o capit\u00e3o Arseniev \u00e9 chamado para Korfovska\u00efa para identificar o corpo de um homem que tem seu cart\u00e3o de visitas e pode ser Dersu Uzala.",
+                "vote_average": 8.0,
+                "vote_count": 491
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Land of Promise",
+            "second_label": "Poland",
+            "category": "Foreign Language Film",
+            "year": 1976,
+            "tmdb": {
+                "id": 511,
+                "original_title": "Ziemia obiecana",
+                "title": "Terra Prometida",
+                "release_date": "1975-02-21",
+                "backdrop_path": "/xQa198uEb8DLwQntDwO9jlilXcC.jpg",
+                "poster_path": "/pjk8K5MpQJX0XczTC2KOVWNj0lC.jpg",
+                "overview": "The Polish film based on the book of the same name by W\u0142adys\u0142aw Reymont. Taking place in the nineteenth century town of \u0141\u00f3d\u017a, Poland, three friends want to make a lot of money by building and investing in a textile factory. An exceptional portrait of rapid industrial expansion shown through the eyes of one Polish town.",
+                "vote_average": 7.2,
+                "vote_count": 64
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Letters from Marusia",
+            "second_label": "Mexico",
+            "category": "Foreign Language Film",
+            "year": 1976,
+            "tmdb": {
+                "id": 198518,
+                "original_title": "Actas de Marusia",
+                "title": "Atas de Marusia",
+                "release_date": "1975-12-26",
+                "backdrop_path": "/mQLivLSEaMmDqV44Lo35AQbaFrg.jpg",
+                "poster_path": "/etB3EZK0BnzMiW97XxROYZQmFaz.jpg",
+                "overview": "Chronicle of the repression that a foreign company exerts on the miners of a small nitrate town in Chile, whose workers decide to claim their most essential rights. A reflection of the historic union struggles in the northern Chile that ended with terrible repressive acts.",
+                "vote_average": 5.3,
+                "vote_count": 13
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sandakan No. 8",
+            "second_label": "Japan",
+            "category": "Foreign Language Film",
+            "year": 1976,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Scent of a Woman",
+            "second_label": "Italy",
+            "category": "Foreign Language Film",
+            "year": 1976,
+            "tmdb": {
+                "id": 47848,
+                "original_title": "Profumo di donna",
+                "title": "Perfume de Mulher",
+                "release_date": "1974-12-20",
+                "backdrop_path": "/oLaLKKzlgPUtp9CCjF3wQgI98TL.jpg",
+                "poster_path": "/wEJotKZDpdHiWLQ463vqh7qA4Sz.jpg",
+                "overview": "Em uma viagem de uma semana, um cadete do ex\u00e9rcito acompanha Fausto, um irritado capit\u00e3o cego, de Turim at\u00e9 N\u00e1poles. Sem paci\u00eancia para piedade, o capit\u00e3o n\u00e3o aceita discord\u00e2ncias e se comporta mal em p\u00fablico, sabendo apenas dar ordens. Em N\u00e1poles, ele encontra um tenente cego com o qual conversa sobre seguir em frente.",
+                "vote_average": 7.4,
+                "vote_count": 232
+            },
+            "winner": false
+        }
+    ],
+    "Irving G. Thalberg Memorial Award": [
+        {
+            "first_label": "",
+            "second_label": "Mervyn LeRoy",
+            "category": "Irving G. Thalberg Memorial Award",
+            "year": 1976,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        }
+    ],
+    "Jean Hersholt Humanitarian Award": [
+        {
+            "first_label": "",
+            "second_label": "Dr. Jules C. Stein",
+            "category": "Jean Hersholt Humanitarian Award",
+            "year": 1976,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        }
+    ],
+    "Music (Original Score)": [
+        {
+            "first_label": "Jaws",
+            "second_label": "John Williams",
+            "category": "Music (Original Score)",
+            "year": 1976,
+            "tmdb": {
+                "id": 578,
+                "original_title": "Jaws",
+                "title": "Tubar\u00e3o",
+                "release_date": "1975-06-20",
+                "backdrop_path": "/Ugn7ekAwY8FtaBjRBlbkt0zom2.jpg",
+                "poster_path": "/iD2XVowFgHngYGamCAdq2T44gMr.jpg",
+                "overview": "Um terr\u00edvel ataque a banhistas \u00e9 o sinal de que a praia da pequena cidade de Amity virou refeit\u00f3rio de um gigantesco tubar\u00e3o branco, que come\u00e7a a se alimentar dos turistas. Embora o prefeito queira esconder os fatos da m\u00eddia, o xerife local pede ajuda a um ictiologista e a um pescador veterano para ca\u00e7ar o animal. Mas a miss\u00e3o vai ser mais complicada do que eles imaginavam.",
+                "vote_average": 7.7,
+                "vote_count": 9911
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Birds Do It, Bees Do It",
+            "second_label": "Gerald Fried",
+            "category": "Music (Original Score)",
+            "year": 1976,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Bite the Bullet",
+            "second_label": "Alex North",
+            "category": "Music (Original Score)",
+            "year": 1976,
+            "tmdb": {
+                "id": 32617,
+                "original_title": "Bite the Bullet",
+                "title": "Bite the Bullet",
+                "release_date": "1975-09-26",
+                "backdrop_path": "/7uVY8w2iSjURPyv7Q0Eb8vhaWZE.jpg",
+                "poster_path": "/2tg8EWatD9mwuKTsTJJ5A96oy5G.jpg",
+                "overview": "At the beginning of the 20th century, a newspaper organizes an endurance horse race : 700 miles to run in a few days. 9 adventurers are competing, among them a woman, Miss Jones, a Mexican, an Englishman, a young cow-boy, an old one and two friends, Sam Clayton and Luke Matthews. All those individualists will learn to respect each other.",
+                "vote_average": 6.3,
+                "vote_count": 103
+            },
+            "winner": false
+        },
+        {
+            "first_label": "One Flew over the Cuckoo's Nest",
+            "second_label": "Jack Nitzsche",
+            "category": "Music (Original Score)",
+            "year": 1976,
+            "tmdb": {
+                "id": 510,
+                "original_title": "One Flew Over the Cuckoo's Nest",
+                "title": "Um Estranho no Ninho",
+                "release_date": "1975-11-19",
+                "backdrop_path": "/oje9d0EXQyQcxsqHQor4xFVGjrd.jpg",
+                "poster_path": "/nqz0NHRmbc57HZdZxi66shMzGKO.jpg",
+                "overview": "Randle Patrick McMurphy \u00e9 um malandro que, ap\u00f3s ser preso, se finge de louco para ir a um hospital psiqui\u00e1trico e assim esquivar-se a uma por\u00e7\u00e3o de trabalhos for\u00e7ados na pris\u00e3o. L\u00e1 ele come\u00e7a a influenciar os outros internos e come\u00e7a a sofrer oposi\u00e7\u00e3o da cruel e s\u00e1dica enfermeira Mildred Ratched. Com forte poder persuasivo, McMurphy instaura uma reviravolta na cl\u00ednica, n\u00e3o sabendo o que isto pode lhe custar.",
+                "vote_average": 8.423,
+                "vote_count": 10016
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Wind and the Lion",
+            "second_label": "Jerry Goldsmith",
+            "category": "Music (Original Score)",
+            "year": 1976,
+            "tmdb": {
+                "id": 14815,
+                "original_title": "The Wind and the Lion",
+                "title": "O Vento e o Le\u00e3o",
+                "release_date": "1975-05-22",
+                "backdrop_path": "/4rw8hb8Idl48PXLss01sXbYnwDf.jpg",
+                "poster_path": "/53k9mTyEirFrKXWtKLtDyrUuvYL.jpg",
+                "overview": "Tanger, Marrocos, outubro de 1904. Uma bela e refinada americana, Eden Pedecaris (Candice Bergen), \u00e9 sequestrada juntamente com seu casal de filhos por Mulay Achmed Mohammed el-Raisuli, o Magn\u00edfico (Sean Connery), um l\u00edder Berbere que fez isto com o objetivo de constranger o sult\u00e3o do Marrocos (Marc Zuber), que est\u00e1 fazendo v\u00e1rias concess\u00f5es para os estrangeiros. Sabendo disto Theodore Roosevelt (Brian Keith), o presidente dos Estados Unidos, declarou que se necess\u00e1rio faria uma interven\u00e7\u00e3o armada no Marrocos, para proteger os americanos (na verdade era mais um discurso pol\u00edtico, visando as pr\u00f3ximas elei\u00e7\u00f5es, que qualquer outra coisa). Eden fica apavorada com os costumes que Raisuli segue e teme por sua vida e de seus filhos, mas aos poucos surge entre ela e Raisuli uma demonstra\u00e7\u00e3o m\u00fatua de respeito e admira\u00e7\u00e3o.",
+                "vote_average": 6.6,
+                "vote_count": 166
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Song)": [
+        {
+            "first_label": "Nashville",
+            "second_label": "I'm Easy in \"Nashville\" Music and Lyrics by Keith Carradine",
+            "category": "Music (Original Song)",
+            "year": 1976,
+            "tmdb": {
+                "id": 3121,
+                "original_title": "Nashville",
+                "title": "Nashville",
+                "release_date": "1975-06-11",
+                "backdrop_path": "/2mSkRoxHisjTgh6NPZfkp1IeZ2Y.jpg",
+                "poster_path": "/twl4ovyjb8muFKvZmcCDzPR0hy1.jpg",
+                "overview": "A hist\u00f3ria de v\u00e1rios personagens ligados ao mundo da m\u00fasica se cruza na cidade de Nashville, capital do Tennessee. Barbara Jean \u00e9 considerada a rainha do local, mas est\u00e1 \u00e0 beira de um colapso; Linnea e Delbert Reese mant\u00e9m um casamento inst\u00e1vel e possuem filho deficiente; Opal \u00e9 um jornalista brit\u00e2nico a trabalho na cidade. Cl\u00e1ssico dirigido por Altman, indicado em cinco categorias do Oscar e ganhador da estatueta de melhor can\u00e7\u00e3o - \"I'm Easy\", de Keith Carradine.",
+                "vote_average": 7.2,
+                "vote_count": 371
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Funny Lady",
+            "second_label": "How Lucky Can You Get in \"Funny Lady\" Music and Lyrics by Fred Ebb and John Kander",
+            "category": "Music (Original Song)",
+            "year": 1976,
+            "tmdb": {
+                "id": 39282,
+                "original_title": "Funny Lady",
+                "title": "Funny Lady - A Garota Genial",
+                "release_date": "1975-03-15",
+                "backdrop_path": "/wuZn3zmyYJISfxa3FyevEkVSwtN.jpg",
+                "poster_path": "/8uhOcR4CQuEZJDt7DEOfxs86R2a.jpg",
+                "overview": "Na Nova York dos anos 1930, em pleno per\u00edodo da Depress\u00e3o, a entertainer Fanny Brice divorcia-se do jogador Nick para se casar com o compositor Billy Rose. Juntos, eles se esfor\u00e7am para manter o sucesso tanto no palco quanto na vida privada. Continua\u00e7\u00e3o de \"Funny Girl - A Garota Genial\".",
+                "vote_average": 5.2,
+                "vote_count": 61
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Whiffs",
+            "second_label": "Now That We're In Love in \"Whiffs\" Music by George Barrie; Lyrics by Sammy Cahn",
+            "category": "Music (Original Song)",
+            "year": 1976,
+            "tmdb": {
+                "id": 180929,
+                "original_title": "Whiffs",
+                "title": "Whiffs",
+                "release_date": "1975-10-15",
+                "backdrop_path": "/xasfaugCfhrnwLnqF90hn7iPhyr.jpg",
+                "poster_path": "/b8q4BBhKLIgqtxfnGktQ92vcO3z.jpg",
+                "overview": "Elliott Gould steals Army nerve gas to help him rob banks when he\u2019s kicked out of the military after 15 years of service as a human guinea pig in its chemical warfare experiments.",
+                "vote_average": 7.1,
+                "vote_count": 7
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Other Side of the Mountain",
+            "second_label": "Richard's Window in \"The Other Side of the Mountain\" Music by Charles Fox; Lyrics by Norman Gimbel",
+            "category": "Music (Original Song)",
+            "year": 1976,
+            "tmdb": {
+                "id": 86233,
+                "original_title": "The Other Side of the Mountain",
+                "title": "Uma Janela Para o Alto",
+                "release_date": "1975-11-14",
+                "backdrop_path": "/3mhAnhy4AGizr6oQ3m6vtful9hN.jpg",
+                "poster_path": "/lpt1qr8l3HvAcL31PyQ3Van16nW.jpg",
+                "overview": "Jill Kinmont (Marilyn Hassett) \u00e9 uma jovem de 18 anos que vive nos Estados Unidos de 1955. Ela se revela como um grande talento no esqui, e todos apostam que a menina ganhar\u00e1 os Jogos Ol\u00edmpicos de Inverno de 1956. Mas acontece um acidente, e Jill quase morre depois de uma perigosa queda na neve.",
+                "vote_average": 6.3,
+                "vote_count": 27
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mahogany",
+            "second_label": "Theme From Mahogany (Do You Know Where You're Going To) in \"Mahogany\" Music by Michael Masser; Lyrics by Gerry Goffin",
+            "category": "Music (Original Song)",
+            "year": 1976,
+            "tmdb": {
+                "id": 3554,
+                "original_title": "Mahogany",
+                "title": "Mahogany",
+                "release_date": "1975-10-08",
+                "backdrop_path": "/kVzP2Hju0sjNCROGHk11bGpKhfc.jpg",
+                "poster_path": "/rHnquMeqgzXOkk2qckWPY1cyvuL.jpg",
+                "overview": "Tracy, an aspiring designer from the slums of Chicago puts herself through fashion school in the hopes of becoming one of the world's top designers. Her ambition leads her to Rome spurring a choice between the man she loves or her newfound success.",
+                "vote_average": 5.8,
+                "vote_count": 20
+            },
+            "winner": false
+        }
+    ],
+    "Music (Scoring: Original Song Score and Adaptation -or- Scoring: Adaptation)": [
+        {
+            "first_label": "Barry Lyndon",
+            "second_label": "Adaptation Score by Leonard Rosenman",
+            "category": "Music (Scoring: Original Song Score and Adaptation -or- Scoring: Adaptation)",
+            "year": 1976,
+            "tmdb": {
+                "id": 3175,
+                "original_title": "Barry Lyndon",
+                "title": "Barry Lyndon",
+                "release_date": "1975-12-18",
+                "backdrop_path": "/ef6SvWbSfCFlKodJZqpIaTvsRRP.jpg",
+                "poster_path": "/dOJtBSyI30wWc08UmyEKLsu4Rfk.jpg",
+                "overview": "Um trapaceiro irland\u00eas conquista o cora\u00e7\u00e3o de uma vi\u00fava rica e assume a posi\u00e7\u00e3o aristocr\u00e1rica do seu falecido marido na Inglaterra do s\u00e9culo 18.",
+                "vote_average": 8.001,
+                "vote_count": 2666
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Funny Lady",
+            "second_label": "Adaptation Score by Peter Matz",
+            "category": "Music (Scoring: Original Song Score and Adaptation -or- Scoring: Adaptation)",
+            "year": 1976,
+            "tmdb": {
+                "id": 39282,
+                "original_title": "Funny Lady",
+                "title": "Funny Lady - A Garota Genial",
+                "release_date": "1975-03-15",
+                "backdrop_path": "/wuZn3zmyYJISfxa3FyevEkVSwtN.jpg",
+                "poster_path": "/8uhOcR4CQuEZJDt7DEOfxs86R2a.jpg",
+                "overview": "Na Nova York dos anos 1930, em pleno per\u00edodo da Depress\u00e3o, a entertainer Fanny Brice divorcia-se do jogador Nick para se casar com o compositor Billy Rose. Juntos, eles se esfor\u00e7am para manter o sucesso tanto no palco quanto na vida privada. Continua\u00e7\u00e3o de \"Funny Girl - A Garota Genial\".",
+                "vote_average": 5.2,
+                "vote_count": 61
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tommy",
+            "second_label": "Adaptation Score by Peter Townshend",
+            "category": "Music (Scoring: Original Song Score and Adaptation -or- Scoring: Adaptation)",
+            "year": 1976,
+            "tmdb": {
+                "id": 11326,
+                "original_title": "Tommy",
+                "title": "Tommy",
+                "release_date": "1975-03-19",
+                "backdrop_path": "/5XSitXno6yxYkNppwP5gOhC7SfA.jpg",
+                "poster_path": "/oSYGPIhLcwL0RrU0DVY7TM6O4QA.jpg",
+                "overview": "Um jovem surdo, mudo e cego torna-se mestre no fliperama e conquista seguidores, o que cria uma aparente religi\u00e3o.",
+                "vote_average": 6.4,
+                "vote_count": 302
+            },
+            "winner": false
+        }
+    ],
+    "Best Picture": [
+        {
+            "first_label": "One Flew over the Cuckoo's Nest",
+            "second_label": "Saul Zaentz and Michael Douglas, Producers",
+            "category": "Best Picture",
+            "year": 1976,
+            "tmdb": {
+                "id": 510,
+                "original_title": "One Flew Over the Cuckoo's Nest",
+                "title": "Um Estranho no Ninho",
+                "release_date": "1975-11-19",
+                "backdrop_path": "/oje9d0EXQyQcxsqHQor4xFVGjrd.jpg",
+                "poster_path": "/nqz0NHRmbc57HZdZxi66shMzGKO.jpg",
+                "overview": "Randle Patrick McMurphy \u00e9 um malandro que, ap\u00f3s ser preso, se finge de louco para ir a um hospital psiqui\u00e1trico e assim esquivar-se a uma por\u00e7\u00e3o de trabalhos for\u00e7ados na pris\u00e3o. L\u00e1 ele come\u00e7a a influenciar os outros internos e come\u00e7a a sofrer oposi\u00e7\u00e3o da cruel e s\u00e1dica enfermeira Mildred Ratched. Com forte poder persuasivo, McMurphy instaura uma reviravolta na cl\u00ednica, n\u00e3o sabendo o que isto pode lhe custar.",
+                "vote_average": 8.423,
+                "vote_count": 10016
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Barry Lyndon",
+            "second_label": "Stanley Kubrick, Producer",
+            "category": "Best Picture",
+            "year": 1976,
+            "tmdb": {
+                "id": 3175,
+                "original_title": "Barry Lyndon",
+                "title": "Barry Lyndon",
+                "release_date": "1975-12-18",
+                "backdrop_path": "/ef6SvWbSfCFlKodJZqpIaTvsRRP.jpg",
+                "poster_path": "/dOJtBSyI30wWc08UmyEKLsu4Rfk.jpg",
+                "overview": "Um trapaceiro irland\u00eas conquista o cora\u00e7\u00e3o de uma vi\u00fava rica e assume a posi\u00e7\u00e3o aristocr\u00e1rica do seu falecido marido na Inglaterra do s\u00e9culo 18.",
+                "vote_average": 8.001,
+                "vote_count": 2666
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dog Day Afternoon",
+            "second_label": "Martin Bregman and Martin Elfand, Producers",
+            "category": "Best Picture",
+            "year": 1976,
+            "tmdb": {
+                "id": 968,
+                "original_title": "Dog Day Afternoon",
+                "title": "Um Dia de C\u00e3o",
+                "release_date": "1975-09-21",
+                "backdrop_path": "/m10uqk0HI5JcITAbxNJIIiGA8HP.jpg",
+                "poster_path": "/zuYY9iD3d1sGg3883oET2UN13ZL.jpg",
+                "overview": "Quando o inexperiente criminoso Sonny Wortzik lidera um assalto a um banco em Brooklyn, as coisas rapidamente d\u00e3o errado e uma situa\u00e7\u00e3o de ref\u00e9m se desenvolve. Sonny e seu c\u00famplice, Sal Naturile, tentam desesperadamente permanecer em controle, mas a m\u00eddia vai \u00e0 loucura e o FBI chega, criando uma tens\u00e3o ainda maior. Gradualmente, os verdadeiros motivos para o roubo s\u00e3o revelados.",
+                "vote_average": 7.8,
+                "vote_count": 2801
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jaws",
+            "second_label": "Richard D. Zanuck and David Brown, Producers",
+            "category": "Best Picture",
+            "year": 1976,
+            "tmdb": {
+                "id": 578,
+                "original_title": "Jaws",
+                "title": "Tubar\u00e3o",
+                "release_date": "1975-06-20",
+                "backdrop_path": "/Ugn7ekAwY8FtaBjRBlbkt0zom2.jpg",
+                "poster_path": "/iD2XVowFgHngYGamCAdq2T44gMr.jpg",
+                "overview": "Um terr\u00edvel ataque a banhistas \u00e9 o sinal de que a praia da pequena cidade de Amity virou refeit\u00f3rio de um gigantesco tubar\u00e3o branco, que come\u00e7a a se alimentar dos turistas. Embora o prefeito queira esconder os fatos da m\u00eddia, o xerife local pede ajuda a um ictiologista e a um pescador veterano para ca\u00e7ar o animal. Mas a miss\u00e3o vai ser mais complicada do que eles imaginavam.",
+                "vote_average": 7.7,
+                "vote_count": 9911
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Nashville",
+            "second_label": "Robert Altman, Producer",
+            "category": "Best Picture",
+            "year": 1976,
+            "tmdb": {
+                "id": 3121,
+                "original_title": "Nashville",
+                "title": "Nashville",
+                "release_date": "1975-06-11",
+                "backdrop_path": "/2mSkRoxHisjTgh6NPZfkp1IeZ2Y.jpg",
+                "poster_path": "/twl4ovyjb8muFKvZmcCDzPR0hy1.jpg",
+                "overview": "A hist\u00f3ria de v\u00e1rios personagens ligados ao mundo da m\u00fasica se cruza na cidade de Nashville, capital do Tennessee. Barbara Jean \u00e9 considerada a rainha do local, mas est\u00e1 \u00e0 beira de um colapso; Linnea e Delbert Reese mant\u00e9m um casamento inst\u00e1vel e possuem filho deficiente; Opal \u00e9 um jornalista brit\u00e2nico a trabalho na cidade. Cl\u00e1ssico dirigido por Altman, indicado em cinco categorias do Oscar e ganhador da estatueta de melhor can\u00e7\u00e3o - \"I'm Easy\", de Keith Carradine.",
+                "vote_average": 7.2,
+                "vote_count": 371
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Animated)": [
+        {
+            "first_label": "Great",
+            "second_label": "Bob Godfrey, Producer",
+            "category": "Short Film (Animated)",
+            "year": 1976,
+            "tmdb": {
+                "id": 208561,
+                "original_title": "Great",
+                "title": "Great",
+                "release_date": "1975-03-17",
+                "backdrop_path": null,
+                "poster_path": "/xn7pcWqkXjfUtDNIzWjPq6On2ZP.jpg",
+                "overview": "An animated film about the British engineer Isambard Kingdom Brunel, who spearheaded numerous engineering marvels of the early 19th century - including the Thames Tunnel, the Great Western Railway, and the Great Eastern steamship (for 40 years the world's largest steamship). Various styles of animation are used to depict events in his colorful life.",
+                "vote_average": 5.6,
+                "vote_count": 74
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Kick Me",
+            "second_label": "Robert Swarthe, Producer",
+            "category": "Short Film (Animated)",
+            "year": 1976,
+            "tmdb": {
+                "id": 210672,
+                "original_title": "Kick Me",
+                "title": "Kick Me",
+                "release_date": "1975-01-01",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "An Oscar Nominated short film about a red pair of legs.",
+                "vote_average": 5.5,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Monsieur Pointu",
+            "second_label": "Monsieur Pointu",
+            "category": "Short Film (Animated)",
+            "year": 1976,
+            "tmdb": {
+                "id": 243401,
+                "original_title": "Monsieur Pointu",
+                "title": "Monsieur Pointu",
+                "release_date": "1976-06-01",
+                "backdrop_path": null,
+                "poster_path": "/3i9hD0wfLF51amY6xUnvyzRZ9hw.jpg",
+                "overview": "Monsieur Pointu would like to play his fiddle. But the fiddle has other ideas.",
+                "vote_average": 6.5,
+                "vote_count": 6
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sisyphus",
+            "second_label": "Marcell Jankovics, Producer",
+            "category": "Short Film (Animated)",
+            "year": 1976,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Live Action)": [
+        {
+            "first_label": "Angel and Big Joe",
+            "second_label": "Bert Salzman, Producer",
+            "category": "Short Film (Live Action)",
+            "year": 1976,
+            "tmdb": {
+                "id": 243402,
+                "original_title": "Angel and Big Joe",
+                "title": "Angel and Big Joe",
+                "release_date": "1975-01-01",
+                "backdrop_path": null,
+                "poster_path": "/vRKOfhb4pKhhOChyPfkGna1Yxka.jpg",
+                "overview": "Angel and Big Joe is a 1975 American short drama film directed by Bert Salzman and starring Paul Sorvino and Dadi Pinero. It tells the story of a friendship between a migrant boy and an electrician who has greater ambitions. The film won an Oscar at the 48th Academy Awards in 1976 for Best Short Subject.",
+                "vote_average": 5.8,
+                "vote_count": 4
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Conquest of Light",
+            "second_label": "Louis Marcus, Producer",
+            "category": "Short Film (Live Action)",
+            "year": 1976,
+            "tmdb": {
+                "id": 243403,
+                "original_title": "Conquest of Light",
+                "title": "Conquest of Light",
+                "release_date": "1975-01-01",
+                "backdrop_path": "/kVycvhXr04ZNYVyePWN9dM0yoN8.jpg",
+                "poster_path": "/mGAXsFDV2iRPWo8qSF23bxkdWhW.jpg",
+                "overview": "Conquest of Light is a 1975 short documentary directed and produced by Louis Marcus. It is an examination of the processes used to make Waterford crystal in Ireland. The clear crystal shapes of glass created by the craftsmen of Waterford are designed to capture the iridescence of light. From the intense heat of the furnace at the glass works in the Irish city of Waterford comes the crystal, blown by mouth and cut by hand, that is treasured over most of the world. The camera follows the liquid glass as it is blown into the shape of bowls, goblets, vases and many other forms, then cut and etched with great deftness and precision, producing the splendid examples of glass art for which the craftsmen at Waterford are famous. The film was nominated for an Oscar for Best Live Action Short Film.  Preserved by the Academy Film Archive in 2011.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dawn Flight",
+            "second_label": "Lawrence M. Lansburgh and Brian Lansburgh, Producers",
+            "category": "Short Film (Live Action)",
+            "year": 1976,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Day in the Life of Bonnie Consolo",
+            "second_label": "Barry Spinello, Producer",
+            "category": "Short Film (Live Action)",
+            "year": 1976,
+            "tmdb": {
+                "id": 243405,
+                "original_title": "A Day in the Life of Bonnie Consolo",
+                "title": "A Day in the Life of Bonnie Consolo",
+                "release_date": "1975-01-01",
+                "backdrop_path": null,
+                "poster_path": "/jmaoFoyamGIRbIhdBytt6QorZvZ.jpg",
+                "overview": "A Day in the Life of Bonnie Consolo is a 1975 short documentary directed by Barry J. Spinello which presents the daily challenges faced by Bonnie Consolo, an armless woman, and her determination to overcome them. The film shows her driving, cooking, and shopping like anybody else. The film was nominated for an Oscar for Best Live Action Short Film.",
+                "vote_average": 5.7,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Doubletalk",
+            "second_label": "Alan Beattie, Producer",
+            "category": "Short Film (Live Action)",
+            "year": 1976,
+            "tmdb": {
+                "id": 243406,
+                "original_title": "Doubletalk",
+                "title": "Doubletalk",
+                "release_date": "1975-01-01",
+                "backdrop_path": null,
+                "poster_path": "/ex8jjGV5WLBpqq4I3FRHlrKHBAU.jpg",
+                "overview": "Doubletalk is a 1975 short film directed by  Alan Beattie. The film follows a young man who picks his girlfriend up at her family home and meets her parents -- and the audience is privy to their private thoughts and impressions. The film was nominated for an Oscar for Best Live Action Short Film.  Preserved by the Academy Film Archive in 2012.",
+                "vote_average": 6.0,
+                "vote_count": 3
+            },
+            "winner": false
+        }
+    ],
+    "Sound": [
+        {
+            "first_label": "Jaws",
+            "second_label": "Robert L. Hoyt, Roger Heman, Earl Madery, John Carter",
+            "category": "Sound",
+            "year": 1976,
+            "tmdb": {
+                "id": 578,
+                "original_title": "Jaws",
+                "title": "Tubar\u00e3o",
+                "release_date": "1975-06-20",
+                "backdrop_path": "/Ugn7ekAwY8FtaBjRBlbkt0zom2.jpg",
+                "poster_path": "/iD2XVowFgHngYGamCAdq2T44gMr.jpg",
+                "overview": "Um terr\u00edvel ataque a banhistas \u00e9 o sinal de que a praia da pequena cidade de Amity virou refeit\u00f3rio de um gigantesco tubar\u00e3o branco, que come\u00e7a a se alimentar dos turistas. Embora o prefeito queira esconder os fatos da m\u00eddia, o xerife local pede ajuda a um ictiologista e a um pescador veterano para ca\u00e7ar o animal. Mas a miss\u00e3o vai ser mais complicada do que eles imaginavam.",
+                "vote_average": 7.7,
+                "vote_count": 9911
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Bite the Bullet",
+            "second_label": "Arthur Piantadosi, Les Fresholtz, Richard Tyler, Al Overton, Jr.",
+            "category": "Sound",
+            "year": 1976,
+            "tmdb": {
+                "id": 32617,
+                "original_title": "Bite the Bullet",
+                "title": "Bite the Bullet",
+                "release_date": "1975-09-26",
+                "backdrop_path": "/7uVY8w2iSjURPyv7Q0Eb8vhaWZE.jpg",
+                "poster_path": "/2tg8EWatD9mwuKTsTJJ5A96oy5G.jpg",
+                "overview": "At the beginning of the 20th century, a newspaper organizes an endurance horse race : 700 miles to run in a few days. 9 adventurers are competing, among them a woman, Miss Jones, a Mexican, an Englishman, a young cow-boy, an old one and two friends, Sam Clayton and Luke Matthews. All those individualists will learn to respect each other.",
+                "vote_average": 6.3,
+                "vote_count": 103
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Funny Lady",
+            "second_label": "Richard Portman, Don MacDougall, Curly Thirlwell, Jack Solomon",
+            "category": "Sound",
+            "year": 1976,
+            "tmdb": {
+                "id": 39282,
+                "original_title": "Funny Lady",
+                "title": "Funny Lady - A Garota Genial",
+                "release_date": "1975-03-15",
+                "backdrop_path": "/wuZn3zmyYJISfxa3FyevEkVSwtN.jpg",
+                "poster_path": "/8uhOcR4CQuEZJDt7DEOfxs86R2a.jpg",
+                "overview": "Na Nova York dos anos 1930, em pleno per\u00edodo da Depress\u00e3o, a entertainer Fanny Brice divorcia-se do jogador Nick para se casar com o compositor Billy Rose. Juntos, eles se esfor\u00e7am para manter o sucesso tanto no palco quanto na vida privada. Continua\u00e7\u00e3o de \"Funny Girl - A Garota Genial\".",
+                "vote_average": 5.2,
+                "vote_count": 61
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Hindenburg",
+            "second_label": "Leonard Peterson, John A. Bolger, Jr., John Mack, Don K. Sharpless",
+            "category": "Sound",
+            "year": 1976,
+            "tmdb": {
+                "id": 17599,
+                "original_title": "The Hindenburg",
+                "title": "O Dirig\u00edvel Hindenburg",
+                "release_date": "1975-12-25",
+                "backdrop_path": "/1daFkLpphDVzTyjBDw7rrHJajij.jpg",
+                "poster_path": "/sCCi7FqEGITMJVCs0LV5Z7qnRJu.jpg",
+                "overview": "Uma vidente americana afirma pouco antes do dirig\u00edvel Hindenburg, um verdadeiro hotel no c\u00e9u e um dos s\u00edmbolos do poderio nazista, deixar a Alemanha, que ele ser\u00e1 destru\u00eddo em sua viagem at\u00e9 Nova York e que o desastre acontecer\u00e1 quando ele estiver chegando nos Estados Unidos. Apesar de nada suspeito ter sido encontrado, na Alemanha e nos Estados Unidos circulam rumores sobre a poss\u00edvel destrui\u00e7\u00e3o do dirig\u00edvel. Assim o coronel Franz Ritter (George C. Scott), um her\u00f3i de guerra que opera para a intelig\u00eancia militar, \u00e9 designado para voar no Hindenburg como chefe da seguran\u00e7a. Nesta miss\u00e3o ele \u00e9 ajudado pelo agente da Gestapo Martin Vogel (Roy Thinnes), que nem de longe tem a educa\u00e7\u00e3o e a discri\u00e7\u00e3o de Ritter, que gradativamente cria sua lista de suspeitos. Vai ficando cada vez mais certo que os rumores de sabotagem t\u00eam muito fundamento, mas Ritter n\u00e3o est\u00e1 preocupado em proteger um s\u00edmbolo do poderio nazista e sim evitar que dezenas de pessoas morram num atentado.",
+                "vote_average": 6.3,
+                "vote_count": 119
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Wind and the Lion",
+            "second_label": "Harry W. Tetrick, Aaron Rochin, William McCaughey, Roy Charman",
+            "category": "Sound",
+            "year": 1976,
+            "tmdb": {
+                "id": 14815,
+                "original_title": "The Wind and the Lion",
+                "title": "O Vento e o Le\u00e3o",
+                "release_date": "1975-05-22",
+                "backdrop_path": "/4rw8hb8Idl48PXLss01sXbYnwDf.jpg",
+                "poster_path": "/53k9mTyEirFrKXWtKLtDyrUuvYL.jpg",
+                "overview": "Tanger, Marrocos, outubro de 1904. Uma bela e refinada americana, Eden Pedecaris (Candice Bergen), \u00e9 sequestrada juntamente com seu casal de filhos por Mulay Achmed Mohammed el-Raisuli, o Magn\u00edfico (Sean Connery), um l\u00edder Berbere que fez isto com o objetivo de constranger o sult\u00e3o do Marrocos (Marc Zuber), que est\u00e1 fazendo v\u00e1rias concess\u00f5es para os estrangeiros. Sabendo disto Theodore Roosevelt (Brian Keith), o presidente dos Estados Unidos, declarou que se necess\u00e1rio faria uma interven\u00e7\u00e3o armada no Marrocos, para proteger os americanos (na verdade era mais um discurso pol\u00edtico, visando as pr\u00f3ximas elei\u00e7\u00f5es, que qualquer outra coisa). Eden fica apavorada com os costumes que Raisuli segue e teme por sua vida e de seus filhos, mas aos poucos surge entre ela e Raisuli uma demonstra\u00e7\u00e3o m\u00fatua de respeito e admira\u00e7\u00e3o.",
+                "vote_average": 6.6,
+                "vote_count": 166
+            },
+            "winner": false
+        }
+    ],
+    "Special Achievement Award (Sound Effects)": [
+        {
+            "first_label": "The Hindenburg",
+            "second_label": "Peter Berkos",
+            "category": "Special Achievement Award (Sound Effects)",
+            "year": 1976,
+            "tmdb": {
+                "id": 17599,
+                "original_title": "The Hindenburg",
+                "title": "O Dirig\u00edvel Hindenburg",
+                "release_date": "1975-12-25",
+                "backdrop_path": "/1daFkLpphDVzTyjBDw7rrHJajij.jpg",
+                "poster_path": "/sCCi7FqEGITMJVCs0LV5Z7qnRJu.jpg",
+                "overview": "Uma vidente americana afirma pouco antes do dirig\u00edvel Hindenburg, um verdadeiro hotel no c\u00e9u e um dos s\u00edmbolos do poderio nazista, deixar a Alemanha, que ele ser\u00e1 destru\u00eddo em sua viagem at\u00e9 Nova York e que o desastre acontecer\u00e1 quando ele estiver chegando nos Estados Unidos. Apesar de nada suspeito ter sido encontrado, na Alemanha e nos Estados Unidos circulam rumores sobre a poss\u00edvel destrui\u00e7\u00e3o do dirig\u00edvel. Assim o coronel Franz Ritter (George C. Scott), um her\u00f3i de guerra que opera para a intelig\u00eancia militar, \u00e9 designado para voar no Hindenburg como chefe da seguran\u00e7a. Nesta miss\u00e3o ele \u00e9 ajudado pelo agente da Gestapo Martin Vogel (Roy Thinnes), que nem de longe tem a educa\u00e7\u00e3o e a discri\u00e7\u00e3o de Ritter, que gradativamente cria sua lista de suspeitos. Vai ficando cada vez mais certo que os rumores de sabotagem t\u00eam muito fundamento, mas Ritter n\u00e3o est\u00e1 preocupado em proteger um s\u00edmbolo do poderio nazista e sim evitar que dezenas de pessoas morram num atentado.",
+                "vote_average": 6.3,
+                "vote_count": 119
+            },
+            "winner": true
+        }
+    ],
+    "Special Achievement Award (Visual Effects)": [
+        {
+            "first_label": "The Hindenburg",
+            "second_label": "Albert Whitlock, Glen Robinson",
+            "category": "Special Achievement Award (Visual Effects)",
+            "year": 1976,
+            "tmdb": {
+                "id": 17599,
+                "original_title": "The Hindenburg",
+                "title": "O Dirig\u00edvel Hindenburg",
+                "release_date": "1975-12-25",
+                "backdrop_path": "/1daFkLpphDVzTyjBDw7rrHJajij.jpg",
+                "poster_path": "/sCCi7FqEGITMJVCs0LV5Z7qnRJu.jpg",
+                "overview": "Uma vidente americana afirma pouco antes do dirig\u00edvel Hindenburg, um verdadeiro hotel no c\u00e9u e um dos s\u00edmbolos do poderio nazista, deixar a Alemanha, que ele ser\u00e1 destru\u00eddo em sua viagem at\u00e9 Nova York e que o desastre acontecer\u00e1 quando ele estiver chegando nos Estados Unidos. Apesar de nada suspeito ter sido encontrado, na Alemanha e nos Estados Unidos circulam rumores sobre a poss\u00edvel destrui\u00e7\u00e3o do dirig\u00edvel. Assim o coronel Franz Ritter (George C. Scott), um her\u00f3i de guerra que opera para a intelig\u00eancia militar, \u00e9 designado para voar no Hindenburg como chefe da seguran\u00e7a. Nesta miss\u00e3o ele \u00e9 ajudado pelo agente da Gestapo Martin Vogel (Roy Thinnes), que nem de longe tem a educa\u00e7\u00e3o e a discri\u00e7\u00e3o de Ritter, que gradativamente cria sua lista de suspeitos. Vai ficando cada vez mais certo que os rumores de sabotagem t\u00eam muito fundamento, mas Ritter n\u00e3o est\u00e1 preocupado em proteger um s\u00edmbolo do poderio nazista e sim evitar que dezenas de pessoas morram num atentado.",
+                "vote_average": 6.3,
+                "vote_count": 119
+            },
+            "winner": true
+        }
+    ],
+    "Writing (Original Screenplay)": [
+        {
+            "first_label": "Dog Day Afternoon",
+            "second_label": "Frank Pierson",
+            "category": "Writing (Original Screenplay)",
+            "year": 1976,
+            "tmdb": {
+                "id": 968,
+                "original_title": "Dog Day Afternoon",
+                "title": "Um Dia de C\u00e3o",
+                "release_date": "1975-09-21",
+                "backdrop_path": "/m10uqk0HI5JcITAbxNJIIiGA8HP.jpg",
+                "poster_path": "/zuYY9iD3d1sGg3883oET2UN13ZL.jpg",
+                "overview": "Quando o inexperiente criminoso Sonny Wortzik lidera um assalto a um banco em Brooklyn, as coisas rapidamente d\u00e3o errado e uma situa\u00e7\u00e3o de ref\u00e9m se desenvolve. Sonny e seu c\u00famplice, Sal Naturile, tentam desesperadamente permanecer em controle, mas a m\u00eddia vai \u00e0 loucura e o FBI chega, criando uma tens\u00e3o ainda maior. Gradualmente, os verdadeiros motivos para o roubo s\u00e3o revelados.",
+                "vote_average": 7.8,
+                "vote_count": 2801
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Amarcord",
+            "second_label": "Federico Fellini, Tonino Guerra",
+            "category": "Writing (Original Screenplay)",
+            "year": 1976,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "And Now My Love",
+            "second_label": "Claude Lelouch, Pierre Uytterhoeven",
+            "category": "Writing (Original Screenplay)",
+            "year": 1976,
+            "tmdb": {
+                "id": 139851,
+                "original_title": "Toute une vie",
+                "title": "Toda Uma Vida",
+                "release_date": "1974-05-15",
+                "backdrop_path": "/eXQX4fi2AzPMskGCVgV7l5yfJnm.jpg",
+                "poster_path": "/3TbOqP4weWzXz09By3qQ6oWy4K7.jpg",
+                "overview": "The movie follows the lives of a woman and a man starting from several generations earlier. The story spans a whole century and several continents.",
+                "vote_average": 5.7,
+                "vote_count": 15
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lies My Father Told Me",
+            "second_label": "Ted Allan",
+            "category": "Writing (Original Screenplay)",
+            "year": 1976,
+            "tmdb": {
+                "id": 92285,
+                "original_title": "Lies My Father Told Me",
+                "title": "Lies My Father Told Me",
+                "release_date": "1975-09-26",
+                "backdrop_path": "/4vCHa6Ko8PMepe14B5JRfeEIlLN.jpg",
+                "poster_path": "/jQHLqnkIzZi1OmN09WK1iJZlv7s.jpg",
+                "overview": "A Jewish boy grows up in 1920s Montreal with a grandfather who tells stories and a father who won't work.",
+                "vote_average": 4.0,
+                "vote_count": 6
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Shampoo",
+            "second_label": "Robert Towne, Warren Beatty",
+            "category": "Writing (Original Screenplay)",
+            "year": 1976,
+            "tmdb": {
+                "id": 31121,
+                "original_title": "Shampoo",
+                "title": "Shampoo",
+                "release_date": "1975-02-11",
+                "backdrop_path": "/2sDMMLK2A1aHh52abYRnzlTBy6t.jpg",
+                "poster_path": "/6jmFvXPV6OhtX3AkAVnH7rwdeUJ.jpg",
+                "overview": "Darrell REm um per\u00edodo de mudan\u00e7as comportamentais (1968) um cabeleleiro popular entre as mulheres corre atr\u00e1s de sua independ\u00eancia financeira enquanto vive v\u00e1rios casos amorosos (alguns perigosos) ao mesmo tempooodt  Um cabeleireiro mulherengo e sedutor de Beverly Hills se envolve facilmente com v\u00e1rias mulheres pois, em virtude da sua profiss\u00e3o, muitos homens o consideram homossexual. Ele tenta convencer um rico empres\u00e1rio que est\u00e1 tendo um caso com uma de suas amantes a lhe fornecer capital para montar um sal\u00e3o de beleza. Ao mesmo tempo, ele \u00e9 pressionado pela noiva para se casar o mais r\u00e1pido poss\u00edvel, o que pode prejudicar seus planos.",
+                "vote_average": 6.0,
+                "vote_count": 197
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay Adapted from Other Material)": [
+        {
+            "first_label": "One Flew over the Cuckoo's Nest",
+            "second_label": "Lawrence Hauben, Bo Goldman",
+            "category": "Writing (Screenplay Adapted from Other Material)",
+            "year": 1976,
+            "tmdb": {
+                "id": 510,
+                "original_title": "One Flew Over the Cuckoo's Nest",
+                "title": "Um Estranho no Ninho",
+                "release_date": "1975-11-19",
+                "backdrop_path": "/oje9d0EXQyQcxsqHQor4xFVGjrd.jpg",
+                "poster_path": "/nqz0NHRmbc57HZdZxi66shMzGKO.jpg",
+                "overview": "Randle Patrick McMurphy \u00e9 um malandro que, ap\u00f3s ser preso, se finge de louco para ir a um hospital psiqui\u00e1trico e assim esquivar-se a uma por\u00e7\u00e3o de trabalhos for\u00e7ados na pris\u00e3o. L\u00e1 ele come\u00e7a a influenciar os outros internos e come\u00e7a a sofrer oposi\u00e7\u00e3o da cruel e s\u00e1dica enfermeira Mildred Ratched. Com forte poder persuasivo, McMurphy instaura uma reviravolta na cl\u00ednica, n\u00e3o sabendo o que isto pode lhe custar.",
+                "vote_average": 8.423,
+                "vote_count": 10016
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Barry Lyndon",
+            "second_label": "Stanley Kubrick",
+            "category": "Writing (Screenplay Adapted from Other Material)",
+            "year": 1976,
+            "tmdb": {
+                "id": 3175,
+                "original_title": "Barry Lyndon",
+                "title": "Barry Lyndon",
+                "release_date": "1975-12-18",
+                "backdrop_path": "/ef6SvWbSfCFlKodJZqpIaTvsRRP.jpg",
+                "poster_path": "/dOJtBSyI30wWc08UmyEKLsu4Rfk.jpg",
+                "overview": "Um trapaceiro irland\u00eas conquista o cora\u00e7\u00e3o de uma vi\u00fava rica e assume a posi\u00e7\u00e3o aristocr\u00e1rica do seu falecido marido na Inglaterra do s\u00e9culo 18.",
+                "vote_average": 8.001,
+                "vote_count": 2666
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Man Who Would Be King",
+            "second_label": "John Huston, Gladys Hill",
+            "category": "Writing (Screenplay Adapted from Other Material)",
+            "year": 1976,
+            "tmdb": {
+                "id": 983,
+                "original_title": "The Man Who Would Be King",
+                "title": "O Homem Que Queria Ser Rei",
+                "release_date": "1975-12-03",
+                "backdrop_path": "/1Jgefbg5cKfCrppNbP0nPJm2TdR.jpg",
+                "poster_path": "/21BANIzXEKyZDUFOr9NdUEgP4EA.jpg",
+                "overview": "Uma aventura sobre dois aventureiros brit\u00e2nicos que assumem o Kafirist\u00e3o primitivo como governantes \"semelhantes a deuses\", encontrando um final tr\u00e1gico atrav\u00e9s de seu desejo por uma garota nativa. Baseado em um conto de Rudyard Kipling.",
+                "vote_average": 7.5,
+                "vote_count": 587
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Scent of a Woman",
+            "second_label": "Ruggero Maccari, Dino Risi",
+            "category": "Writing (Screenplay Adapted from Other Material)",
+            "year": 1976,
+            "tmdb": {
+                "id": 47848,
+                "original_title": "Profumo di donna",
+                "title": "Perfume de Mulher",
+                "release_date": "1974-12-20",
+                "backdrop_path": "/oLaLKKzlgPUtp9CCjF3wQgI98TL.jpg",
+                "poster_path": "/wEJotKZDpdHiWLQ463vqh7qA4Sz.jpg",
+                "overview": "Em uma viagem de uma semana, um cadete do ex\u00e9rcito acompanha Fausto, um irritado capit\u00e3o cego, de Turim at\u00e9 N\u00e1poles. Sem paci\u00eancia para piedade, o capit\u00e3o n\u00e3o aceita discord\u00e2ncias e se comporta mal em p\u00fablico, sabendo apenas dar ordens. Em N\u00e1poles, ele encontra um tenente cego com o qual conversa sobre seguir em frente.",
+                "vote_average": 7.4,
+                "vote_count": 232
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Sunshine Boys",
+            "second_label": "Neil Simon",
+            "category": "Writing (Screenplay Adapted from Other Material)",
+            "year": 1976,
+            "tmdb": {
+                "id": 16561,
+                "original_title": "The Sunshine Boys",
+                "title": "Uma Dupla Desajustada",
+                "release_date": "1975-11-06",
+                "backdrop_path": "/i5CKsYWx3eKbwSokg0qouLpHfqo.jpg",
+                "poster_path": "/ma1oPWkfBOtXLgfL9PSSK6TCocL.jpg",
+                "overview": "Uma dupla de vaudeville aceita se reunir para um especial de televis\u00e3o, mas acontece que eles n\u00e3o se suportam.  Lewis e Clark foram comediantes famosos durante a era do vaudeville. Fora do palco, por\u00e9m, eles n\u00e3o se suportavam e n\u00e3o se falavam h\u00e1 mais de vinte anos. Ben, sobrinho de Willy Clark, \u00e9 o produtor de um show de variedades que quer apresentar uma reuni\u00e3o da dupla cl\u00e1ssica. Como Ben convencer\u00e1 os velhos comediantes a deixar de lado suas diferen\u00e7as antes do grande espet\u00e1culo? (e 12 - Estimado 12 Anos)",
+                "vote_average": 6.8,
+                "vote_count": 92
+            },
+            "winner": false
+        }
+    ]
+}

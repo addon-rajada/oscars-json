@@ -1,0 +1,1728 @@
+{
+    "Actor in a Leading Role": [
+        {
+            "first_label": "Peter Finch",
+            "second_label": "Network",
+            "category": "Actor in a Leading Role",
+            "year": 1977,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Robert De Niro",
+            "second_label": "Taxi Driver",
+            "category": "Actor in a Leading Role",
+            "year": 1977,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Giancarlo Giannini",
+            "second_label": "Seven Beauties",
+            "category": "Actor in a Leading Role",
+            "year": 1977,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "William Holden",
+            "second_label": "Network",
+            "category": "Actor in a Leading Role",
+            "year": 1977,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sylvester Stallone",
+            "second_label": "Rocky",
+            "category": "Actor in a Leading Role",
+            "year": 1977,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Jason Robards",
+            "second_label": "All the President's Men",
+            "category": "Actor in a Supporting Role",
+            "year": 1977,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Ned Beatty",
+            "second_label": "Network",
+            "category": "Actor in a Supporting Role",
+            "year": 1977,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Burgess Meredith",
+            "second_label": "Rocky",
+            "category": "Actor in a Supporting Role",
+            "year": 1977,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Laurence Olivier",
+            "second_label": "Marathon Man",
+            "category": "Actor in a Supporting Role",
+            "year": 1977,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Burt Young",
+            "second_label": "Rocky",
+            "category": "Actor in a Supporting Role",
+            "year": 1977,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Leading Role": [
+        {
+            "first_label": "Faye Dunaway",
+            "second_label": "Network",
+            "category": "Actress in a Leading Role",
+            "year": 1977,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Marie-Christine Barrault",
+            "second_label": "Cousin, Cousine",
+            "category": "Actress in a Leading Role",
+            "year": 1977,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Talia Shire",
+            "second_label": "Rocky",
+            "category": "Actress in a Leading Role",
+            "year": 1977,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sissy Spacek",
+            "second_label": "Carrie",
+            "category": "Actress in a Leading Role",
+            "year": 1977,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Liv Ullmann",
+            "second_label": "Face to Face",
+            "category": "Actress in a Leading Role",
+            "year": 1977,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Beatrice Straight",
+            "second_label": "Network",
+            "category": "Actress in a Supporting Role",
+            "year": 1977,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Jane Alexander",
+            "second_label": "All the President's Men",
+            "category": "Actress in a Supporting Role",
+            "year": 1977,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jodie Foster",
+            "second_label": "Taxi Driver",
+            "category": "Actress in a Supporting Role",
+            "year": 1977,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lee Grant",
+            "second_label": "Voyage of the Damned",
+            "category": "Actress in a Supporting Role",
+            "year": 1977,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Piper Laurie",
+            "second_label": "Carrie",
+            "category": "Actress in a Supporting Role",
+            "year": 1977,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction": [
+        {
+            "first_label": "All the President's Men",
+            "second_label": "Art Direction: George Jenkins; Set Decoration: George Gaines",
+            "category": "Art Direction",
+            "year": 1977,
+            "tmdb": {
+                "id": 891,
+                "original_title": "All the President's Men",
+                "title": "Todos os Homens do Presidente",
+                "release_date": "1976-04-09",
+                "backdrop_path": "/qvLjTAwwQTcAiYXxnGaXctlqUJ6.jpg",
+                "poster_path": "/90qnmoejjeDjnkWW7T11upffJg6.jpg",
+                "overview": "Em 1972, sem ter a menor no\u00e7\u00e3o da gravidade dos fatos, um rep\u00f3rter do Washington Post, inicia uma investiga\u00e7\u00e3o sobre a invas\u00e3o de cinco homens na sede do Partido Democrata, que d\u00e1 origem ao esc\u00e2ndalo Watergate e que teve como conseq\u00fc\u00eancia a queda do presidente Richard Nixon.",
+                "vote_average": 7.7,
+                "vote_count": 1705
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Incredible Sarah",
+            "second_label": "Art Direction: Elliot Scott, Norman Reynolds; Set Decoration: Peter Howitt",
+            "category": "Art Direction",
+            "year": 1977,
+            "tmdb": {
+                "id": 147362,
+                "original_title": "The Incredible Sarah",
+                "title": "The Incredible Sarah",
+                "release_date": "1976-11-05",
+                "backdrop_path": "/jS2qUTxoUQAr2VDCtjLqHal0jTg.jpg",
+                "poster_path": "/7XFKuSYDSO12ZywtHiiBumz8ON.jpg",
+                "overview": "The legendary actress Sarah Bernhardt's unconventional life and career are examined in this biopic. At an audition in 1860, the teenage Bernhardt proclaims herself the greatest actress of her time. Her career blossoms, as does her private life. But art and life don't stay balanced, much to the frustration of her lovers. The eccentric Bernhardt eventually does marry another actor, but it's her life on stage that ultimately gives her the most satisfaction.",
+                "vote_average": 5.0,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Last Tycoon",
+            "second_label": "Art Direction: Gene Callahan, Jack Collis; Set Decoration: Jerry Wunderlich",
+            "category": "Art Direction",
+            "year": 1977,
+            "tmdb": {
+                "id": 37774,
+                "original_title": "The Last Tycoon",
+                "title": "O \u00daltimo Magnata",
+                "release_date": "1976-11-18",
+                "backdrop_path": "/1UlPJGaBZrZVqAwbNq09fvtwuHt.jpg",
+                "poster_path": "/sETEj1ieRCH4suyaW7D3q4XfFWJ.jpg",
+                "overview": "O romance de F.Scott Fitzgerald \u00e9 trazido \u00e0 tela nesta hist\u00f3ria de um produtor de cinema lentamente trabalhando at\u00e9 a morte. Ele tem o poder de fazer o sonho de qualquer pessoa se tornar realidade... exceto o seu pr\u00f3prio.",
+                "vote_average": 6.4,
+                "vote_count": 134
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Logan's Run",
+            "second_label": "Art Direction: Dale Hennesy; Set Decoration: Robert de Vestel",
+            "category": "Art Direction",
+            "year": 1977,
+            "tmdb": {
+                "id": 10803,
+                "original_title": "Logan's Run",
+                "title": "Fuga no S\u00e9culo 23",
+                "release_date": "1976-06-23",
+                "backdrop_path": "/cCLR0sTF8OixOiRLEesoQqOfc29.jpg",
+                "poster_path": "/v3ILN8ROPcrNRJ8S7GH24JyihH8.jpg",
+                "overview": "No s\u00e9culo XXIII, os sobreviventes de um Holocausto vivem numa cidade condenada isolada do resto do mundo. Ali, apenas podem viver at\u00e9 os 30 anos por causa do controle populacional e dos recursos escassos. Por isso, t\u00eam duas escolhas: ou participam numa cerim\u00f4nia de extermina\u00e7\u00e3o onde lhes \u00e9 prometido o renascimento ou podem tentar fugir e sobreviver fora da cidade.",
+                "vote_average": 6.6,
+                "vote_count": 871
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Shootist",
+            "second_label": "Art Direction: Robert F. Boyle; Set Decoration: Arthur Jeph Parker",
+            "category": "Art Direction",
+            "year": 1977,
+            "tmdb": {
+                "id": 12584,
+                "original_title": "The Shootist",
+                "title": "O \u00daltimo Pistoleiro",
+                "release_date": "1976-07-21",
+                "backdrop_path": "/r4hrvxb7qVlNtNpkK9QWfDzypKh.jpg",
+                "poster_path": "/5yIHwCroj35oQXfppNKCKaEZcLL.jpg",
+                "overview": "O filme conta o final da vida de John Bernard (J.B.) Books, um veterano pistoleiro apelidado de \"shootist\", que no passado j\u00e1 havia matado mais de trinta homens. Em 1901, ele sofre de uma doen\u00e7a terminal (c\u00e2ncer na pr\u00f3stata) e vai \u00e0 Carson City, (Nevada), (no livro era El Paso (Texas)). Sua inten\u00e7\u00e3o \u00e9 visitar um m\u00e9dico, seu velho amigo Doc E.W. Hostetler, em busca de uma segunda opini\u00e3o. Depois de confirmado o diagn\u00f3stico, Books aluga um quarto da vi\u00fava 'Bond' (apelido que significa \"mulher\") Rogers, que mora com o filho, Gillom Rogers. A presen\u00e7a de Books vira not\u00edcia, pois ele \u00e9 muito famoso. E logo come\u00e7am a chegar antigos inimigos \u00e0 cidade. Mesmo debilitado, Books resolve confront\u00e1-los, sabendo que esse ser\u00e1 seu \u00faltimo desafio.",
+                "vote_average": 7.1,
+                "vote_count": 322
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "Bound for Glory",
+            "second_label": "Haskell Wexler",
+            "category": "Cinematography",
+            "year": 1977,
+            "tmdb": {
+                "id": 42232,
+                "original_title": "Bound for Glory",
+                "title": "Esta Terra \u00e9 Minha Terra",
+                "release_date": "1976-12-05",
+                "backdrop_path": "/tI0Tn4XsWiCRfgAPEhxYWMcrFN8.jpg",
+                "poster_path": "/wMSR2CSPruCPkZDEQ5xjv5xqc05.jpg",
+                "overview": "Biografia de Woody Guthrie, cantor country durante os anos da Grande Depress\u00e3o americana. Assim como muitos m\u00fasicos e trabalhadores da \u00e9poca, Woody largou sua terra natal para tentar uma vida melhor, apesar das adversidades vividas por esse grupo da sociedade por todo o pa\u00eds. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.8,
+                "vote_count": 63
+            },
+            "winner": true
+        },
+        {
+            "first_label": "King Kong",
+            "second_label": "Richard H. Kline",
+            "category": "Cinematography",
+            "year": 1977,
+            "tmdb": {
+                "id": 10730,
+                "original_title": "King Kong",
+                "title": "King Kong",
+                "release_date": "1976-09-08",
+                "backdrop_path": "/iRSRs1RRIXzYt7geifmSeg7qCdr.jpg",
+                "poster_path": "/paYKhEwUaxKA05vmOfU7FlleTln.jpg",
+                "overview": "Uma expedi\u00e7\u00e3o de explora\u00e7\u00e3o de petr\u00f3leo chega a uma ilha isolada e encontra um colossal gorila gigante.",
+                "vote_average": 6.2,
+                "vote_count": 788
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Logan's Run",
+            "second_label": "Ernest Laszlo",
+            "category": "Cinematography",
+            "year": 1977,
+            "tmdb": {
+                "id": 10803,
+                "original_title": "Logan's Run",
+                "title": "Fuga no S\u00e9culo 23",
+                "release_date": "1976-06-23",
+                "backdrop_path": "/cCLR0sTF8OixOiRLEesoQqOfc29.jpg",
+                "poster_path": "/v3ILN8ROPcrNRJ8S7GH24JyihH8.jpg",
+                "overview": "No s\u00e9culo XXIII, os sobreviventes de um Holocausto vivem numa cidade condenada isolada do resto do mundo. Ali, apenas podem viver at\u00e9 os 30 anos por causa do controle populacional e dos recursos escassos. Por isso, t\u00eam duas escolhas: ou participam numa cerim\u00f4nia de extermina\u00e7\u00e3o onde lhes \u00e9 prometido o renascimento ou podem tentar fugir e sobreviver fora da cidade.",
+                "vote_average": 6.6,
+                "vote_count": 871
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Network",
+            "second_label": "Owen Roizman",
+            "category": "Cinematography",
+            "year": 1977,
+            "tmdb": {
+                "id": 10774,
+                "original_title": "Network",
+                "title": "Rede de Intrigas",
+                "release_date": "1976-11-14",
+                "backdrop_path": "/bODIl4B857k20AhrHylKzpLprk4.jpg",
+                "poster_path": "/qL1VbNxo7QNmd7FGe31OryavhCq.jpg",
+                "overview": "Um locutor de notici\u00e1rio de uma rede de televis\u00e3o americana \u00e9 demitido em raz\u00e3o da baixa audi\u00eancia do programa. Ele ent\u00e3o anuncia que ir\u00e1 cometer suic\u00eddio no ar. Por esta raz\u00e3o, os \u00edndices de audi\u00eancia do programa voltam a crescer, ele passa a ser conhecido como o Profeta Louco, e \u00e9 readmitido. Mas seu comportamento insano faz com que os respons\u00e1veis pela sua ascens\u00e3o decidam det\u00ea-lo.",
+                "vote_average": 7.8,
+                "vote_count": 1607
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Star Is Born",
+            "second_label": "Robert Surtees",
+            "category": "Cinematography",
+            "year": 1977,
+            "tmdb": {
+                "id": 19610,
+                "original_title": "A Star Is Born",
+                "title": "Nasce Uma Estrela",
+                "release_date": "1976-12-17",
+                "backdrop_path": "/kPn4M9dw7raRVQt2UPOWY0j2k0o.jpg",
+                "poster_path": "/hfLPNqDfoa4iGKYw3jJmO94fR6f.jpg",
+                "overview": "Um astro do rock se envolve rom\u00e2nticamente com cantora iniciante. Ele a ajuda a subir na carreira, mas a medida que ela vai se tornando tamb\u00e9m uma estrela, o cantor come\u00e7a seu r\u00e1pido decl\u00ednio em fun\u00e7\u00e3o do abuso de alc\u00f3ol e drogas. Ela tenta retribuir a ajuda, mas o cantor a rejeita, prejudicando definitivamente o relacionamento. Mesmo estando os dois apaixonados.",
+                "vote_average": 6.0,
+                "vote_count": 213
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design": [
+        {
+            "first_label": "Fellini's Casanova",
+            "second_label": "Danilo Donati",
+            "category": "Costume Design",
+            "year": 1977,
+            "tmdb": {
+                "id": 42236,
+                "original_title": "Il Casanova di Federico Fellini",
+                "title": "Casanova de Fellini",
+                "release_date": "1976-12-10",
+                "backdrop_path": "/uVzxBMstlQbW6JCTfBHzefqWf3s.jpg",
+                "poster_path": "/ygTsnjWEUY8fbXzFWIh07eEHf3w.jpg",
+                "overview": "Casanova is a libertine, collecting seductions and sexual feats. But he is really interested in someone, and is he really an interesting person? Is he really alive?",
+                "vote_average": 7.0,
+                "vote_count": 215
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Bound for Glory",
+            "second_label": "William Theiss",
+            "category": "Costume Design",
+            "year": 1977,
+            "tmdb": {
+                "id": 42232,
+                "original_title": "Bound for Glory",
+                "title": "Esta Terra \u00e9 Minha Terra",
+                "release_date": "1976-12-05",
+                "backdrop_path": "/tI0Tn4XsWiCRfgAPEhxYWMcrFN8.jpg",
+                "poster_path": "/wMSR2CSPruCPkZDEQ5xjv5xqc05.jpg",
+                "overview": "Biografia de Woody Guthrie, cantor country durante os anos da Grande Depress\u00e3o americana. Assim como muitos m\u00fasicos e trabalhadores da \u00e9poca, Woody largou sua terra natal para tentar uma vida melhor, apesar das adversidades vividas por esse grupo da sociedade por todo o pa\u00eds. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.8,
+                "vote_count": 63
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Incredible Sarah",
+            "second_label": "Anthony Mendleson",
+            "category": "Costume Design",
+            "year": 1977,
+            "tmdb": {
+                "id": 147362,
+                "original_title": "The Incredible Sarah",
+                "title": "The Incredible Sarah",
+                "release_date": "1976-11-05",
+                "backdrop_path": "/jS2qUTxoUQAr2VDCtjLqHal0jTg.jpg",
+                "poster_path": "/7XFKuSYDSO12ZywtHiiBumz8ON.jpg",
+                "overview": "The legendary actress Sarah Bernhardt's unconventional life and career are examined in this biopic. At an audition in 1860, the teenage Bernhardt proclaims herself the greatest actress of her time. Her career blossoms, as does her private life. But art and life don't stay balanced, much to the frustration of her lovers. The eccentric Bernhardt eventually does marry another actor, but it's her life on stage that ultimately gives her the most satisfaction.",
+                "vote_average": 5.0,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Passover Plot",
+            "second_label": "Mary Wills",
+            "category": "Costume Design",
+            "year": 1977,
+            "tmdb": {
+                "id": 152256,
+                "original_title": "The Passover Plot",
+                "title": "The Passover Plot",
+                "release_date": "1976-10-29",
+                "backdrop_path": "/uPjy35HAdPBummkJgVA3Q49LLfK.jpg",
+                "poster_path": "/iT7CdYetTJB0qIyJXMkenzPbZQe.jpg",
+                "overview": "Yeshua of Nazareth carefully plans his own crucifixion \u2014 and subsequent resurrection \u2014 to strengthen his political position against the Roman occupation of Palestine.",
+                "vote_average": 3.8,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Seven-per-cent Solution",
+            "second_label": "Alan Barrett",
+            "category": "Costume Design",
+            "year": 1977,
+            "tmdb": {
+                "id": 29578,
+                "original_title": "The Seven-Per-Cent Solution",
+                "title": "Vis\u00f5es de Sherlock Holmes",
+                "release_date": "1976-10-24",
+                "backdrop_path": "/yDGr3OUD5eEE6NBc7HXh3mLiUXI.jpg",
+                "poster_path": "/2TtKfPmyI0Y3yR4v8qZnBFiF1vs.jpg",
+                "overview": "Quando Dr. Watson (Robert Duvall) descobre que Sherlock Holmes (Nicol Williamson) est\u00e1 perturbado mentalmente devido ao seu v\u00edcio em coca\u00edna, organiza para ele uma viagem para Viena e uma sess\u00e3o de tratamento com o famoso fil\u00f3sofo Sigmund Freud (Alan Arkin). O psic\u00f3logo espera resolver os mist\u00e9rios do subconsciente de Holmes enquanto este se dedica \u00e0 resolu\u00e7\u00e3o de outro mist\u00e9rio: o sequestro de Lola Deveraux (Vanessa Redgrave).",
+                "vote_average": 6.2,
+                "vote_count": 89
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "Rocky",
+            "second_label": "John G. Avildsen",
+            "category": "Directing",
+            "year": 1977,
+            "tmdb": {
+                "id": 1366,
+                "original_title": "Rocky",
+                "title": "Rocky: Um Lutador",
+                "release_date": "1976-11-21",
+                "backdrop_path": "/kK9v1wclQxug6ZUJucD4DTaHgVF.jpg",
+                "poster_path": "/b9B1DXcPNsJfTtc4x2LKA3bykoJ.jpg",
+                "overview": "Rocky Balboa, um pequeno boxeador da classe trabalhadora da Filad\u00e9lfia, \u00e9 arbitrariamente escolhido para lutar contra o campe\u00e3o dos pesos pesados, Apollo Creed, quando o advers\u00e1rio do invicto lutador agendado para a luta \u00e9 ferido. Durante o treinamento com o mal-humorado Mickey Goldmill, Rocky timidamente come\u00e7a um relacionamento com Adrian, a invis\u00edvel irm\u00e3 de Paulie, seu amigo empacotador de carne.",
+                "vote_average": 7.786,
+                "vote_count": 7460
+            },
+            "winner": true
+        },
+        {
+            "first_label": "All the President's Men",
+            "second_label": "Alan J. Pakula",
+            "category": "Directing",
+            "year": 1977,
+            "tmdb": {
+                "id": 891,
+                "original_title": "All the President's Men",
+                "title": "Todos os Homens do Presidente",
+                "release_date": "1976-04-09",
+                "backdrop_path": "/qvLjTAwwQTcAiYXxnGaXctlqUJ6.jpg",
+                "poster_path": "/90qnmoejjeDjnkWW7T11upffJg6.jpg",
+                "overview": "Em 1972, sem ter a menor no\u00e7\u00e3o da gravidade dos fatos, um rep\u00f3rter do Washington Post, inicia uma investiga\u00e7\u00e3o sobre a invas\u00e3o de cinco homens na sede do Partido Democrata, que d\u00e1 origem ao esc\u00e2ndalo Watergate e que teve como conseq\u00fc\u00eancia a queda do presidente Richard Nixon.",
+                "vote_average": 7.7,
+                "vote_count": 1705
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Face to Face",
+            "second_label": "Ingmar Bergman",
+            "category": "Directing",
+            "year": 1977,
+            "tmdb": {
+                "id": 29454,
+                "original_title": "Ansikte mot Ansikte",
+                "title": "Face a Face",
+                "release_date": "1976-04-05",
+                "backdrop_path": "/q5v8QM7QXcEAWIkwOV76M7JiP9t.jpg",
+                "poster_path": "/ulh7ILYfvSZExCXENEhySvuZLLl.jpg",
+                "overview": "A psiquiatra Jenny Isaksson tem o casamento e a sa\u00fade mental abalados por vis\u00f5es de uma mulher idosa. Para tentar fugir das alucina\u00e7\u00f5es, ela come\u00e7a um caso com o m\u00e9dico Tomas. Ainda atormentada, por\u00e9m, a mulher entra em uma jornada de autoconhecimento enquanto sua sanidade deteriora.",
+                "vote_average": 7.3,
+                "vote_count": 109
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Network",
+            "second_label": "Sidney Lumet",
+            "category": "Directing",
+            "year": 1977,
+            "tmdb": {
+                "id": 10774,
+                "original_title": "Network",
+                "title": "Rede de Intrigas",
+                "release_date": "1976-11-14",
+                "backdrop_path": "/bODIl4B857k20AhrHylKzpLprk4.jpg",
+                "poster_path": "/qL1VbNxo7QNmd7FGe31OryavhCq.jpg",
+                "overview": "Um locutor de notici\u00e1rio de uma rede de televis\u00e3o americana \u00e9 demitido em raz\u00e3o da baixa audi\u00eancia do programa. Ele ent\u00e3o anuncia que ir\u00e1 cometer suic\u00eddio no ar. Por esta raz\u00e3o, os \u00edndices de audi\u00eancia do programa voltam a crescer, ele passa a ser conhecido como o Profeta Louco, e \u00e9 readmitido. Mas seu comportamento insano faz com que os respons\u00e1veis pela sua ascens\u00e3o decidam det\u00ea-lo.",
+                "vote_average": 7.8,
+                "vote_count": 1607
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Seven Beauties",
+            "second_label": "Lina Wertmuller",
+            "category": "Directing",
+            "year": 1977,
+            "tmdb": {
+                "id": 37550,
+                "original_title": "Pasqualino Settebellezze",
+                "title": "Pasqualino Sete Belezas",
+                "release_date": "1975-12-20",
+                "backdrop_path": "/4ilXtC261Kzam3DxriDAlPQJH2K.jpg",
+                "poster_path": "/i0ZLApe4mIQWopELhEPxOQziDBh.jpg",
+                "overview": "Pasqualino, um homem comum italiano, abandona o ex\u00e9rcito durante a Segunda Guerra Mundial. Os Alem\u00e3es o capturam e mandam para um campo de prisioneiros, onde ele faz qualquer coisa para sobreviver. Em longos flashbacks, vemos ele e sua fam\u00edlia de sete irm\u00e3s sem atrativos (as sete belezas), seu assassinato acidental do amante de uma irm\u00e3, sua confiss\u00e3o e pris\u00e3o, sua entrada calculada para um asilo, o estupro de uma paciente, e seu trabalho volunt\u00e1rio para ser um soldado e escapar do confinamento. Para desgosto de seu obeso captor alem\u00e3o, seu car\u00e1ter fraco e covarde lhe permite sobreviver \u00e0 guerra e voltar para N\u00e1poles, onde ele tem um plano para sobreviver a pr\u00f3xima cat\u00e1strofe mundial. A defesa da honra, um forte valor na sociedade napolitana, e seus efeitos sobre a vida do homem comum Pasquale Frafuso.",
+                "vote_average": 7.5,
+                "vote_count": 124
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "Harlan County, U.S.A.",
+            "second_label": "Barbara Kopple, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1977,
+            "tmdb": {
+                "id": 33324,
+                "original_title": "Harlan County U.S.A.",
+                "title": "Harlan County U.S.A.",
+                "release_date": "1977-01-23",
+                "backdrop_path": "/pVspyFNl8uE8jAoY3C973XkjTgB.jpg",
+                "poster_path": "/ellKxaweJC09DShpyvMESZZW9cO.jpg",
+                "overview": "This film documents the coal miners' strike against the Brookside Mine of the Eastover Mining Company in Harlan County, Kentucky in June, 1973. Eastovers refusal to sign a contract (when the miners joined with the United Mine Workers of America) led to the strike, which lasted more than a year and included violent battles between gun-toting company thugs/scabs and the picketing miners and their supportive women-folk. Director Barbara Kopple puts the strike into perspective by giving us some background on the historical plight of the miners and some history of the UMWA.  Preserved by the Academy Film Archive in partnership with New York Women in Film & Television in 2004.",
+                "vote_average": 7.5,
+                "vote_count": 90
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Hollywood on Trial",
+            "second_label": "James Gutman and David Helpern, Jr., Producers",
+            "category": "Documentary (Feature)",
+            "year": 1977,
+            "tmdb": {
+                "id": 136716,
+                "original_title": "Hollywood on Trial",
+                "title": "Hollywood on Trial",
+                "release_date": "1976-11-01",
+                "backdrop_path": null,
+                "poster_path": "/pPKOI85gFDoUwZi28gnBgpIqMfz.jpg",
+                "overview": "A detailed look at the events leading up to the blacklisting of Hollywood writers and artists. In October 1947 nineteen Hollywood personalities were subpoenaed by the House Committee on Un-American Activities to testify about their knowledge or possible involvement in the American Communist Party. The first ten to be called refused to cooperate, claiming their first amendment rights, were cited for contempt of Congress and sent to prison. They became known as the \"Hollywood Ten\" and this is their story.",
+                "vote_average": 5.5,
+                "vote_count": 6
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Off the Edge",
+            "second_label": "Michael Firth, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1977,
+            "tmdb": {
+                "id": 149344,
+                "original_title": "Off the Edge",
+                "title": "Off the Edge",
+                "release_date": "1976-01-01",
+                "backdrop_path": null,
+                "poster_path": "/eS1u4WwUhxZoerEX9Ae7bFe4YXG.jpg",
+                "overview": "Documentary featuring backcountry skiing, extreme skiing and hang gliding in the Southern Alps.",
+                "vote_average": 5.0,
+                "vote_count": 1
+            },
+            "winner": false
+        },
+        {
+            "first_label": "People of the Wind",
+            "second_label": "Anthony Howarth and David Koff, Producers",
+            "category": "Documentary (Feature)",
+            "year": 1977,
+            "tmdb": {
+                "id": 149347,
+                "original_title": "People of the Wind",
+                "title": "People of the Wind",
+                "release_date": "1976-10-29",
+                "backdrop_path": "/sU0T51XZfnM9epefk3QMFlK1ZsC.jpg",
+                "poster_path": "/lh3aIm9EchZ1BgoYc4R0gP5iJNM.jpg",
+                "overview": "1976 American documentary film about the Bakhtiari people.",
+                "vote_average": 5.0,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Volcano: An Inquiry into the Life and Death of Malcolm Lowry",
+            "second_label": "Donald Brittain and Robert Duncan, Producers",
+            "category": "Documentary (Feature)",
+            "year": 1977,
+            "tmdb": {
+                "id": 149348,
+                "original_title": "Volcano: An Inquiry into the Life and Death of Malcolm Lowry",
+                "title": "Volcano: An Inquiry into the Life and Death of Malcolm Lowry",
+                "release_date": "1976-01-01",
+                "backdrop_path": null,
+                "poster_path": "/stXw1nWAUmmdoELqe4GADiHAzoR.jpg",
+                "overview": "This feature-length Oscar\u00ae-nominated documentary focuses on Malcolm Lowry, author of one of the major novels of the 20th century, Under the Volcano. But while Lowry fought a winning battle with words, he lost his battle with alcohol. Shot on location in four countries, the film combines photographs, readings by Richard Burton from the novel and interviews with the people who loved and hated Lowry, to create a vivid portrait of the man.",
+                "vote_average": 5.4,
+                "vote_count": 7
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "Number Our Days",
+            "second_label": "Lynne Littman, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1977,
+            "tmdb": {
+                "id": 243586,
+                "original_title": "Number Our Days",
+                "title": "Number Our Days",
+                "release_date": "1976-01-01",
+                "backdrop_path": null,
+                "poster_path": "/toHcmJ3em04Vfijf2eLgWegTrLa.jpg",
+                "overview": "Based on the book by anthropologist Barbara Myerhoff, this Academy Award-winning short documentary offers a tender portrait of a community of elderly yet resilient Jews living, loving, and at times struggling, in Venice, California. From everyday trials to traditional celebrations, this compassionate portrayal of Eastern European survivors cuts straight to the heart of every viewer and reminds us of the joys and realities of long life.",
+                "vote_average": 7.2,
+                "vote_count": 5
+            },
+            "winner": true
+        },
+        {
+            "first_label": "American Shoeshine",
+            "second_label": "Sparky Greene, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1977,
+            "tmdb": {
+                "id": 243587,
+                "original_title": "American Shoeshine",
+                "title": "American Shoeshine",
+                "release_date": "1976-11-01",
+                "backdrop_path": null,
+                "poster_path": "/tB3joMEG9lkmuUW6QEmpnPqxWSX.jpg",
+                "overview": "American Shoeshine is a 1975 American short documentary film directed by Sparky Greene. It covers the history of shoe shining in the United States, interviews current shoe shiner, and describes rag popping, a form of music made with a shoeshine rag. It was nominated for an Academy Award for Best Documentary Short.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Blackwood",
+            "second_label": "Tony Ianzelo and Andy Thomson, Producers",
+            "category": "Documentary (Short Subject)",
+            "year": 1977,
+            "tmdb": {
+                "id": 243589,
+                "original_title": "Blackwood",
+                "title": "Blackwood",
+                "release_date": "1976-01-01",
+                "backdrop_path": null,
+                "poster_path": "/44JHPfri6Hd589mUYDeJE6LrY4F.jpg",
+                "overview": "This short film studies the works of one of Canada's greatest contemporary etchers - Newfoundland-born David Blackwood. The artist himself guides viewers through a step-by-step explanation of the etching process. Scenes of his hometown, examples of his own work and vivid tales of an old mariner recall the tragic seal hunts and a way of life that has now vanished.",
+                "vote_average": 5.3,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The End of the Road",
+            "second_label": "John Armstrong, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1977,
+            "tmdb": {
+                "id": 243591,
+                "original_title": "The End of the Road",
+                "title": "The End of the Road",
+                "release_date": "1976-01-01",
+                "backdrop_path": null,
+                "poster_path": "/lSo0b7XGuw9MN4IkZC7v511LS2o.jpg",
+                "overview": "The End of the Road (also known as Alaska: The End of the Road) is a 1976 British short documentary film directed by John Armstrong. The film is about British Petroleum's Alaska operations, including the construction of the Trans-Alaska Pipeline System. It was nominated for an Academy Award for Best Documentary Short.",
+                "vote_average": 5.3,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Universe",
+            "second_label": "Lester Novros, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1977,
+            "tmdb": {
+                "id": 243593,
+                "original_title": "Universe",
+                "title": "Universe",
+                "release_date": "1976-01-01",
+                "backdrop_path": null,
+                "poster_path": "/34nQikUJab2pUIMbSnbr2F4SV0e.jpg",
+                "overview": "Oscar nominated documentary short from 1976",
+                "vote_average": 6.0,
+                "vote_count": 5
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "Rocky",
+            "second_label": "Richard Halsey, Scott Conrad",
+            "category": "Film Editing",
+            "year": 1977,
+            "tmdb": {
+                "id": 1366,
+                "original_title": "Rocky",
+                "title": "Rocky: Um Lutador",
+                "release_date": "1976-11-21",
+                "backdrop_path": "/kK9v1wclQxug6ZUJucD4DTaHgVF.jpg",
+                "poster_path": "/b9B1DXcPNsJfTtc4x2LKA3bykoJ.jpg",
+                "overview": "Rocky Balboa, um pequeno boxeador da classe trabalhadora da Filad\u00e9lfia, \u00e9 arbitrariamente escolhido para lutar contra o campe\u00e3o dos pesos pesados, Apollo Creed, quando o advers\u00e1rio do invicto lutador agendado para a luta \u00e9 ferido. Durante o treinamento com o mal-humorado Mickey Goldmill, Rocky timidamente come\u00e7a um relacionamento com Adrian, a invis\u00edvel irm\u00e3 de Paulie, seu amigo empacotador de carne.",
+                "vote_average": 7.786,
+                "vote_count": 7460
+            },
+            "winner": true
+        },
+        {
+            "first_label": "All the President's Men",
+            "second_label": "Robert L. Wolfe",
+            "category": "Film Editing",
+            "year": 1977,
+            "tmdb": {
+                "id": 891,
+                "original_title": "All the President's Men",
+                "title": "Todos os Homens do Presidente",
+                "release_date": "1976-04-09",
+                "backdrop_path": "/qvLjTAwwQTcAiYXxnGaXctlqUJ6.jpg",
+                "poster_path": "/90qnmoejjeDjnkWW7T11upffJg6.jpg",
+                "overview": "Em 1972, sem ter a menor no\u00e7\u00e3o da gravidade dos fatos, um rep\u00f3rter do Washington Post, inicia uma investiga\u00e7\u00e3o sobre a invas\u00e3o de cinco homens na sede do Partido Democrata, que d\u00e1 origem ao esc\u00e2ndalo Watergate e que teve como conseq\u00fc\u00eancia a queda do presidente Richard Nixon.",
+                "vote_average": 7.7,
+                "vote_count": 1705
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Bound for Glory",
+            "second_label": "Robert Jones, Pembroke J. Herring",
+            "category": "Film Editing",
+            "year": 1977,
+            "tmdb": {
+                "id": 42232,
+                "original_title": "Bound for Glory",
+                "title": "Esta Terra \u00e9 Minha Terra",
+                "release_date": "1976-12-05",
+                "backdrop_path": "/tI0Tn4XsWiCRfgAPEhxYWMcrFN8.jpg",
+                "poster_path": "/wMSR2CSPruCPkZDEQ5xjv5xqc05.jpg",
+                "overview": "Biografia de Woody Guthrie, cantor country durante os anos da Grande Depress\u00e3o americana. Assim como muitos m\u00fasicos e trabalhadores da \u00e9poca, Woody largou sua terra natal para tentar uma vida melhor, apesar das adversidades vividas por esse grupo da sociedade por todo o pa\u00eds. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.8,
+                "vote_count": 63
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Network",
+            "second_label": "Alan Heim",
+            "category": "Film Editing",
+            "year": 1977,
+            "tmdb": {
+                "id": 10774,
+                "original_title": "Network",
+                "title": "Rede de Intrigas",
+                "release_date": "1976-11-14",
+                "backdrop_path": "/bODIl4B857k20AhrHylKzpLprk4.jpg",
+                "poster_path": "/qL1VbNxo7QNmd7FGe31OryavhCq.jpg",
+                "overview": "Um locutor de notici\u00e1rio de uma rede de televis\u00e3o americana \u00e9 demitido em raz\u00e3o da baixa audi\u00eancia do programa. Ele ent\u00e3o anuncia que ir\u00e1 cometer suic\u00eddio no ar. Por esta raz\u00e3o, os \u00edndices de audi\u00eancia do programa voltam a crescer, ele passa a ser conhecido como o Profeta Louco, e \u00e9 readmitido. Mas seu comportamento insano faz com que os respons\u00e1veis pela sua ascens\u00e3o decidam det\u00ea-lo.",
+                "vote_average": 7.8,
+                "vote_count": 1607
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Two-Minute Warning",
+            "second_label": "Eve Newman, Walter Hannemann",
+            "category": "Film Editing",
+            "year": 1977,
+            "tmdb": {
+                "id": 6883,
+                "original_title": "Two-Minute Warning",
+                "title": "P\u00e2nico na Multid\u00e3o",
+                "release_date": "1976-11-12",
+                "backdrop_path": "/nrkkg5T2fvNUHT0jk23rZz6NLUB.jpg",
+                "poster_path": "/bPa1OZLOAOA60kZe4mWpLV7Ru14.jpg",
+                "overview": "Psicopata armado com rifle parte para uma ca\u00e7ada humana apenas por divers\u00e3o num est\u00e1dio lotado com 100 mil espectadores. Logo equipes da pol\u00edcia e da SWAT est\u00e3o atr\u00e1s do psic\u00f3tico assassino. Faltam dois minutos para a partida acabar e a multid\u00e3o entra em p\u00e2nico.",
+                "vote_average": 6.1,
+                "vote_count": 81
+            },
+            "winner": false
+        }
+    ],
+    "Foreign Language Film": [
+        {
+            "first_label": "Black and White in Color",
+            "second_label": "Ivory Coast",
+            "category": "Foreign Language Film",
+            "year": 1977,
+            "tmdb": {
+                "id": 42238,
+                "original_title": "La Victoire en chantant",
+                "title": "Preto e Branco em Cores",
+                "release_date": "1976-09-22",
+                "backdrop_path": "/jldqANKBNQyomhcBXLLIMsNzXtt.jpg",
+                "poster_path": "/8G86Ow4Qcm7FEcHsJoR3pFIBCaj.jpg",
+                "overview": "Colonos franceses na \u00c1frica de repente se veem em meio a uma guerra contra os alem\u00e3es. Certos de que precisam cumprir com o dever e ao mesmo tempo lutar contra os inimigos, eles imediatamente recrutam a popula\u00e7\u00e3o nativa. E d\u00e3o a eles botas e armamentos, a fim de transform\u00e1-los em soldados. Diante do caos que se instala, surge um jovem e idealista ge\u00f3grafo franc\u00eas, o \u00fanico mais racional, que decide controlar a guerra quando v\u00ea o fracasso daqueles inexperientes combatentes.",
+                "vote_average": 6.4,
+                "vote_count": 36
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Cousin, Cousine",
+            "second_label": "France",
+            "category": "Foreign Language Film",
+            "year": 1977,
+            "tmdb": {
+                "id": 5618,
+                "original_title": "Cousin, Cousine",
+                "title": "Cousin, Cousine",
+                "release_date": "1975-11-19",
+                "backdrop_path": "/c4dD7QrZ0LOQKqQxF51qUnGhVge.jpg",
+                "poster_path": "/y8k2k8TIjKaBCHu2f6I2HbSCPD7.jpg",
+                "overview": "Two distant cousins meet at a wedding banquet for an elderly couple. Over time, a close friendship develops between them, but their spouses begin to think that they are more than just friends.",
+                "vote_average": 6.1,
+                "vote_count": 30
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jacob, the Liar",
+            "second_label": "German Democratic Republic",
+            "category": "Foreign Language Film",
+            "year": 1977,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Nights and Days",
+            "second_label": "Poland",
+            "category": "Foreign Language Film",
+            "year": 1977,
+            "tmdb": {
+                "id": 628393,
+                "original_title": "Trei zile \u0219i trei nop\u021bi",
+                "title": "Three Days and Three Nights",
+                "release_date": "1976-01-01",
+                "backdrop_path": null,
+                "poster_path": "/Y8yVoFjsEBkFQkuJ0Hen19hphz.jpg",
+                "overview": "In 1946, Northern Transylvania, an armed band is annihilated by the local communist organization, which manages to rally the locals on they side.",
+                "vote_average": 6.5,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Seven Beauties",
+            "second_label": "Italy",
+            "category": "Foreign Language Film",
+            "year": 1977,
+            "tmdb": {
+                "id": 37550,
+                "original_title": "Pasqualino Settebellezze",
+                "title": "Pasqualino Sete Belezas",
+                "release_date": "1975-12-20",
+                "backdrop_path": "/4ilXtC261Kzam3DxriDAlPQJH2K.jpg",
+                "poster_path": "/i0ZLApe4mIQWopELhEPxOQziDBh.jpg",
+                "overview": "Pasqualino, um homem comum italiano, abandona o ex\u00e9rcito durante a Segunda Guerra Mundial. Os Alem\u00e3es o capturam e mandam para um campo de prisioneiros, onde ele faz qualquer coisa para sobreviver. Em longos flashbacks, vemos ele e sua fam\u00edlia de sete irm\u00e3s sem atrativos (as sete belezas), seu assassinato acidental do amante de uma irm\u00e3, sua confiss\u00e3o e pris\u00e3o, sua entrada calculada para um asilo, o estupro de uma paciente, e seu trabalho volunt\u00e1rio para ser um soldado e escapar do confinamento. Para desgosto de seu obeso captor alem\u00e3o, seu car\u00e1ter fraco e covarde lhe permite sobreviver \u00e0 guerra e voltar para N\u00e1poles, onde ele tem um plano para sobreviver a pr\u00f3xima cat\u00e1strofe mundial. A defesa da honra, um forte valor na sociedade napolitana, e seus efeitos sobre a vida do homem comum Pasquale Frafuso.",
+                "vote_average": 7.5,
+                "vote_count": 124
+            },
+            "winner": false
+        }
+    ],
+    "Irving G. Thalberg Memorial Award": [
+        {
+            "first_label": "",
+            "second_label": "Pandro S. Berman",
+            "category": "Irving G. Thalberg Memorial Award",
+            "year": 1977,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        }
+    ],
+    "Music (Original Score)": [
+        {
+            "first_label": "The Omen",
+            "second_label": "Jerry Goldsmith",
+            "category": "Music (Original Score)",
+            "year": 1977,
+            "tmdb": {
+                "id": 794,
+                "original_title": "The Omen",
+                "title": "A Profecia",
+                "release_date": "1976-06-25",
+                "backdrop_path": "/5sfbPsenSrbH8pzVMjEd0LUu50Y.jpg",
+                "poster_path": "/uHemQhtg5n5jPYMLeFFTPfMsvFE.jpg",
+                "overview": "O embaixador americano e a esposa querem muito ter filhos. Quando ela d\u00e1 \u00e0 luz um beb\u00ea morto e um padre sugere que adotem um rec\u00e9m-nascido saud\u00e1vel e \u00f3rf\u00e3o, ele aceita sem contar \u00e0 mulher. O que ele n\u00e3o sabe \u00e9 que o beb\u00ea \u00e9 o anticristo.",
+                "vote_average": 7.4,
+                "vote_count": 1915
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Obsession",
+            "second_label": "Bernard Herrmann",
+            "category": "Music (Original Score)",
+            "year": 1977,
+            "tmdb": {
+                "id": 4780,
+                "original_title": "Obsession",
+                "title": "Tr\u00e1gica Obsess\u00e3o",
+                "release_date": "1976-08-01",
+                "backdrop_path": "/349LVvwSGlzJZaYZrs83HkWBi7R.jpg",
+                "poster_path": "/cOdYlDKVZ4kjqmcNfKXoCYUtndn.jpg",
+                "overview": "Michael Courtland \u00e9 um importante homem de neg\u00f3cios em New Orleans. Mas sua feliz rotina familiar \u00e9 interrompida quando a mulher e a filha s\u00e3o sequestradas e tragicamente mortas durante o resgate. Muitos anos depois, o empres\u00e1rio est\u00e1 na It\u00e1lia a neg\u00f3cios quando conhece e se apaixona por uma mulher que guarda incr\u00edvel semelhan\u00e7a com sua falecida esposa.",
+                "vote_average": 6.6,
+                "vote_count": 264
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Outlaw Josey Wales",
+            "second_label": "Jerry Fielding",
+            "category": "Music (Original Score)",
+            "year": 1977,
+            "tmdb": {
+                "id": 10747,
+                "original_title": "The Outlaw Josey Wales",
+                "title": "Josey Wales: O Fora da Lei",
+                "release_date": "1976-06-30",
+                "backdrop_path": "/gyaWP5k6JbxTcaqQQFDF09cF9s9.jpg",
+                "poster_path": "/7qhPffMpzmXQKcShsnlf0aln1ej.jpg",
+                "overview": "Clint interpreta Josey Wales, um fazendeiro cujas terras no Missouri s\u00e3o atacadas por soldados da Uni\u00e3o, que tamb\u00e9m matam sua mulher e filho. Buscando vingan\u00e7a, Wales inicia uma solit\u00e1ria e violenta ca\u00e7ada combatendo soldados, bandidos e renegados.",
+                "vote_average": 7.4,
+                "vote_count": 1074
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Taxi Driver",
+            "second_label": "Bernard Herrmann",
+            "category": "Music (Original Score)",
+            "year": 1977,
+            "tmdb": {
+                "id": 103,
+                "original_title": "Taxi Driver",
+                "title": "Taxi Driver: Motorista de T\u00e1xi",
+                "release_date": "1976-02-09",
+                "backdrop_path": "/6aoyUbvu0419XLKLIMoH0TkEicH.jpg",
+                "poster_path": "/kd27BfqPpqyssAVnpASJ8oYtG3i.jpg",
+                "overview": "O motorista de t\u00e1xi de Nova York Travis Bickle (Robert De Niro), veterano da Guerra do Vietn\u00e3, reflete constantemente sobre a corrup\u00e7\u00e3o da vida ao seu redor e sente-se cada vez mais perturbado com a pr\u00f3pria solid\u00e3o e aliena\u00e7\u00e3o. Apesar de n\u00e3o conseguir fazer contato emocional com ningu\u00e9m e viver uma vida question\u00e1vel em busca de divers\u00e3o, ele se torna obcecado em ajudar uma prostituta de 12 anos que entra em seu t\u00e1xi para fugir de um cafet\u00e3o.",
+                "vote_average": 8.153,
+                "vote_count": 11637
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Voyage of the Damned",
+            "second_label": "Lalo Schifrin",
+            "category": "Music (Original Score)",
+            "year": 1977,
+            "tmdb": {
+                "id": 75641,
+                "original_title": "Voyage of the Damned",
+                "title": "A Viagem dos Condenados",
+                "release_date": "1976-12-22",
+                "backdrop_path": "/BGuZ49lKLHPh7tcFXmmLzp4M7X.jpg",
+                "poster_path": "/zXIAI4nLLHyFzLJz3fTmtd4yErF.jpg",
+                "overview": "Em 1939, um grupo de judeus alem\u00e3es tenta fugir para Cuba afim de escapar das persegui\u00e7\u00f5es nazistas. Contudo seus vistos s\u00e3o invalidados por um ditador local assim que eles desembarcam em Havanna, for\u00e7ando-os a retornar ao navio e vagar pelo mar na esperan\u00e7a cada vez mais remota de ref\u00fagio.",
+                "vote_average": 5.9,
+                "vote_count": 60
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Song Score and Its Adaptation or Adaptation Score)": [
+        {
+            "first_label": "Bound for Glory",
+            "second_label": "Adaptation Score by Leonard Rosenman",
+            "category": "Music (Original Song Score and Its Adaptation or Adaptation Score)",
+            "year": 1977,
+            "tmdb": {
+                "id": 42232,
+                "original_title": "Bound for Glory",
+                "title": "Esta Terra \u00e9 Minha Terra",
+                "release_date": "1976-12-05",
+                "backdrop_path": "/tI0Tn4XsWiCRfgAPEhxYWMcrFN8.jpg",
+                "poster_path": "/wMSR2CSPruCPkZDEQ5xjv5xqc05.jpg",
+                "overview": "Biografia de Woody Guthrie, cantor country durante os anos da Grande Depress\u00e3o americana. Assim como muitos m\u00fasicos e trabalhadores da \u00e9poca, Woody largou sua terra natal para tentar uma vida melhor, apesar das adversidades vividas por esse grupo da sociedade por todo o pa\u00eds. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.8,
+                "vote_count": 63
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Bugsy Malone",
+            "second_label": "Song Score and Adaptation Score by Paul Williams",
+            "category": "Music (Original Song Score and Its Adaptation or Adaptation Score)",
+            "year": 1977,
+            "tmdb": {
+                "id": 8446,
+                "original_title": "Bugsy Malone",
+                "title": "Quando as Metralhadoras Cospem",
+                "release_date": "1976-07-22",
+                "backdrop_path": "/vF6HsyBdaJAZIYNUVs2hyY5itBy.jpg",
+                "poster_path": "/3J3yL1PGIIppDg80hsYzmVis6Zs.jpg",
+                "overview": "S\u00e1tira aos filmes de g\u00e2ngsteres. Conta a hist\u00f3ria da ascens\u00e3o de Bugsy Malone (Scott Baio) e sua companheira Tallulah (Jodie Foster), em meio \u00e0 luta pelo poder entre Fat Sam (John Cassisi) e Dandy Dan (Martin Lev). As brigas s\u00e3o resolvidas com 'Torta na Cara' e as metralhadoras cospem Chantilly.",
+                "vote_average": 6.6,
+                "vote_count": 266
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Star Is Born",
+            "second_label": "Adaptation Score by Roger Kellaway",
+            "category": "Music (Original Song Score and Its Adaptation or Adaptation Score)",
+            "year": 1977,
+            "tmdb": {
+                "id": 19610,
+                "original_title": "A Star Is Born",
+                "title": "Nasce Uma Estrela",
+                "release_date": "1976-12-17",
+                "backdrop_path": "/kPn4M9dw7raRVQt2UPOWY0j2k0o.jpg",
+                "poster_path": "/hfLPNqDfoa4iGKYw3jJmO94fR6f.jpg",
+                "overview": "Um astro do rock se envolve rom\u00e2nticamente com cantora iniciante. Ele a ajuda a subir na carreira, mas a medida que ela vai se tornando tamb\u00e9m uma estrela, o cantor come\u00e7a seu r\u00e1pido decl\u00ednio em fun\u00e7\u00e3o do abuso de alc\u00f3ol e drogas. Ela tenta retribuir a ajuda, mas o cantor a rejeita, prejudicando definitivamente o relacionamento. Mesmo estando os dois apaixonados.",
+                "vote_average": 6.0,
+                "vote_count": 213
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Song)": [
+        {
+            "first_label": "A Star Is Born",
+            "second_label": "Evergreen (Love Theme From A Star Is Born) in \"A Star Is Born\" Music by Barbra Streisand; Lyrics by Paul Williams",
+            "category": "Music (Original Song)",
+            "year": 1977,
+            "tmdb": {
+                "id": 19610,
+                "original_title": "A Star Is Born",
+                "title": "Nasce Uma Estrela",
+                "release_date": "1976-12-17",
+                "backdrop_path": "/kPn4M9dw7raRVQt2UPOWY0j2k0o.jpg",
+                "poster_path": "/hfLPNqDfoa4iGKYw3jJmO94fR6f.jpg",
+                "overview": "Um astro do rock se envolve rom\u00e2nticamente com cantora iniciante. Ele a ajuda a subir na carreira, mas a medida que ela vai se tornando tamb\u00e9m uma estrela, o cantor come\u00e7a seu r\u00e1pido decl\u00ednio em fun\u00e7\u00e3o do abuso de alc\u00f3ol e drogas. Ela tenta retribuir a ajuda, mas o cantor a rejeita, prejudicando definitivamente o relacionamento. Mesmo estando os dois apaixonados.",
+                "vote_average": 6.0,
+                "vote_count": 213
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Omen",
+            "second_label": "Ave Satani in \"The Omen\" Music and Lyrics by Jerry Goldsmith",
+            "category": "Music (Original Song)",
+            "year": 1977,
+            "tmdb": {
+                "id": 794,
+                "original_title": "The Omen",
+                "title": "A Profecia",
+                "release_date": "1976-06-25",
+                "backdrop_path": "/5sfbPsenSrbH8pzVMjEd0LUu50Y.jpg",
+                "poster_path": "/uHemQhtg5n5jPYMLeFFTPfMsvFE.jpg",
+                "overview": "O embaixador americano e a esposa querem muito ter filhos. Quando ela d\u00e1 \u00e0 luz um beb\u00ea morto e um padre sugere que adotem um rec\u00e9m-nascido saud\u00e1vel e \u00f3rf\u00e3o, ele aceita sem contar \u00e0 mulher. O que ele n\u00e3o sabe \u00e9 que o beb\u00ea \u00e9 o anticristo.",
+                "vote_average": 7.4,
+                "vote_count": 1915
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Pink Panther Strikes Again",
+            "second_label": "Come To Me in \"The Pink Panther Strikes Again\" Music by Henry Mancini; Lyrics by Don Black",
+            "category": "Music (Original Song)",
+            "year": 1977,
+            "tmdb": {
+                "id": 12268,
+                "original_title": "The Pink Panther Strikes Again",
+                "title": "A Nova Transa da Pantera Cor-de-Rosa",
+                "release_date": "1976-12-15",
+                "backdrop_path": "/nh5WiNjlTannDuWy6b41nqfATPp.jpg",
+                "poster_path": "/fmwLvBiZ9zLt109VbYQpwiHDymI.jpg",
+                "overview": "O inspetor-chefe Dreyfus captura um cientista e faz com que ele crie uma arma de destrui\u00e7\u00e3o em massa. Ent\u00e3o, ele imp\u00f5e uma \u00fanica condi\u00e7\u00e3o para n\u00e3o destruir o planeta: Que o inspetor Clouseau seja exterminado.",
+                "vote_average": 6.8,
+                "vote_count": 497
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rocky",
+            "second_label": "Gonna Fly Now in \"Rocky\" Music by Bill Conti; Lyrics by Carol Connors and Ayn Robbins",
+            "category": "Music (Original Song)",
+            "year": 1977,
+            "tmdb": {
+                "id": 1366,
+                "original_title": "Rocky",
+                "title": "Rocky: Um Lutador",
+                "release_date": "1976-11-21",
+                "backdrop_path": "/kK9v1wclQxug6ZUJucD4DTaHgVF.jpg",
+                "poster_path": "/b9B1DXcPNsJfTtc4x2LKA3bykoJ.jpg",
+                "overview": "Rocky Balboa, um pequeno boxeador da classe trabalhadora da Filad\u00e9lfia, \u00e9 arbitrariamente escolhido para lutar contra o campe\u00e3o dos pesos pesados, Apollo Creed, quando o advers\u00e1rio do invicto lutador agendado para a luta \u00e9 ferido. Durante o treinamento com o mal-humorado Mickey Goldmill, Rocky timidamente come\u00e7a um relacionamento com Adrian, a invis\u00edvel irm\u00e3 de Paulie, seu amigo empacotador de carne.",
+                "vote_average": 7.786,
+                "vote_count": 7460
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Half a House",
+            "second_label": "A World That Never Was in \"Half a House\" Music by Sammy Fain; Lyrics by Paul Francis Webster",
+            "category": "Music (Original Song)",
+            "year": 1977,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Best Picture": [
+        {
+            "first_label": "Rocky",
+            "second_label": "Irwin Winkler and Robert Chartoff, Producers",
+            "category": "Best Picture",
+            "year": 1977,
+            "tmdb": {
+                "id": 1366,
+                "original_title": "Rocky",
+                "title": "Rocky: Um Lutador",
+                "release_date": "1976-11-21",
+                "backdrop_path": "/kK9v1wclQxug6ZUJucD4DTaHgVF.jpg",
+                "poster_path": "/b9B1DXcPNsJfTtc4x2LKA3bykoJ.jpg",
+                "overview": "Rocky Balboa, um pequeno boxeador da classe trabalhadora da Filad\u00e9lfia, \u00e9 arbitrariamente escolhido para lutar contra o campe\u00e3o dos pesos pesados, Apollo Creed, quando o advers\u00e1rio do invicto lutador agendado para a luta \u00e9 ferido. Durante o treinamento com o mal-humorado Mickey Goldmill, Rocky timidamente come\u00e7a um relacionamento com Adrian, a invis\u00edvel irm\u00e3 de Paulie, seu amigo empacotador de carne.",
+                "vote_average": 7.786,
+                "vote_count": 7460
+            },
+            "winner": true
+        },
+        {
+            "first_label": "All the President's Men",
+            "second_label": "Walter Coblenz, Producer",
+            "category": "Best Picture",
+            "year": 1977,
+            "tmdb": {
+                "id": 891,
+                "original_title": "All the President's Men",
+                "title": "Todos os Homens do Presidente",
+                "release_date": "1976-04-09",
+                "backdrop_path": "/qvLjTAwwQTcAiYXxnGaXctlqUJ6.jpg",
+                "poster_path": "/90qnmoejjeDjnkWW7T11upffJg6.jpg",
+                "overview": "Em 1972, sem ter a menor no\u00e7\u00e3o da gravidade dos fatos, um rep\u00f3rter do Washington Post, inicia uma investiga\u00e7\u00e3o sobre a invas\u00e3o de cinco homens na sede do Partido Democrata, que d\u00e1 origem ao esc\u00e2ndalo Watergate e que teve como conseq\u00fc\u00eancia a queda do presidente Richard Nixon.",
+                "vote_average": 7.7,
+                "vote_count": 1705
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Bound for Glory",
+            "second_label": "Robert F. Blumofe and Harold Leventhal, Producers",
+            "category": "Best Picture",
+            "year": 1977,
+            "tmdb": {
+                "id": 42232,
+                "original_title": "Bound for Glory",
+                "title": "Esta Terra \u00e9 Minha Terra",
+                "release_date": "1976-12-05",
+                "backdrop_path": "/tI0Tn4XsWiCRfgAPEhxYWMcrFN8.jpg",
+                "poster_path": "/wMSR2CSPruCPkZDEQ5xjv5xqc05.jpg",
+                "overview": "Biografia de Woody Guthrie, cantor country durante os anos da Grande Depress\u00e3o americana. Assim como muitos m\u00fasicos e trabalhadores da \u00e9poca, Woody largou sua terra natal para tentar uma vida melhor, apesar das adversidades vividas por esse grupo da sociedade por todo o pa\u00eds. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.8,
+                "vote_count": 63
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Network",
+            "second_label": "Howard Gottfried, Producer",
+            "category": "Best Picture",
+            "year": 1977,
+            "tmdb": {
+                "id": 10774,
+                "original_title": "Network",
+                "title": "Rede de Intrigas",
+                "release_date": "1976-11-14",
+                "backdrop_path": "/bODIl4B857k20AhrHylKzpLprk4.jpg",
+                "poster_path": "/qL1VbNxo7QNmd7FGe31OryavhCq.jpg",
+                "overview": "Um locutor de notici\u00e1rio de uma rede de televis\u00e3o americana \u00e9 demitido em raz\u00e3o da baixa audi\u00eancia do programa. Ele ent\u00e3o anuncia que ir\u00e1 cometer suic\u00eddio no ar. Por esta raz\u00e3o, os \u00edndices de audi\u00eancia do programa voltam a crescer, ele passa a ser conhecido como o Profeta Louco, e \u00e9 readmitido. Mas seu comportamento insano faz com que os respons\u00e1veis pela sua ascens\u00e3o decidam det\u00ea-lo.",
+                "vote_average": 7.8,
+                "vote_count": 1607
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Taxi Driver",
+            "second_label": "Michael Phillips and Julia Phillips, Producers",
+            "category": "Best Picture",
+            "year": 1977,
+            "tmdb": {
+                "id": 103,
+                "original_title": "Taxi Driver",
+                "title": "Taxi Driver: Motorista de T\u00e1xi",
+                "release_date": "1976-02-09",
+                "backdrop_path": "/6aoyUbvu0419XLKLIMoH0TkEicH.jpg",
+                "poster_path": "/kd27BfqPpqyssAVnpASJ8oYtG3i.jpg",
+                "overview": "O motorista de t\u00e1xi de Nova York Travis Bickle (Robert De Niro), veterano da Guerra do Vietn\u00e3, reflete constantemente sobre a corrup\u00e7\u00e3o da vida ao seu redor e sente-se cada vez mais perturbado com a pr\u00f3pria solid\u00e3o e aliena\u00e7\u00e3o. Apesar de n\u00e3o conseguir fazer contato emocional com ningu\u00e9m e viver uma vida question\u00e1vel em busca de divers\u00e3o, ele se torna obcecado em ajudar uma prostituta de 12 anos que entra em seu t\u00e1xi para fugir de um cafet\u00e3o.",
+                "vote_average": 8.153,
+                "vote_count": 11637
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Animated)": [
+        {
+            "first_label": "Leisure",
+            "second_label": "Suzanne Baker, Producer",
+            "category": "Short Film (Animated)",
+            "year": 1977,
+            "tmdb": {
+                "id": 207437,
+                "original_title": "Leisure",
+                "title": "Leisure",
+                "release_date": "1976-06-04",
+                "backdrop_path": "/z1LtteKKHAkzYymfikVh9u63hl6.jpg",
+                "poster_path": "/uiZxQQF3qQNh0Kb29OBqPm7wqQH.jpg",
+                "overview": "The animated history of leisure: that concept most commonly known as free time.",
+                "vote_average": 6.1,
+                "vote_count": 11
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Dedalo",
+            "second_label": "Manfredo Manfredi, Producer",
+            "category": "Short Film (Animated)",
+            "year": 1977,
+            "tmdb": {
+                "id": 243418,
+                "original_title": "Dedalo",
+                "title": "Labyrinth",
+                "release_date": "1976-12-31",
+                "backdrop_path": null,
+                "poster_path": "/8kEdus5pIieGLBwSgNuY6rxQVxo.jpg",
+                "overview": "A man and a woman sit in a room and when the wind blows the window open, the man imagines what would happen if he kills the woman and the following drama blurs the boundaries between reality and fiction.",
+                "vote_average": 6.2,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Street",
+            "second_label": "Caroline Leaf and Guy Glover, Producers",
+            "category": "Short Film (Animated)",
+            "year": 1977,
+            "tmdb": {
+                "id": 95380,
+                "original_title": "The Street",
+                "title": "The Street",
+                "release_date": "1976-01-01",
+                "backdrop_path": "/vKVwfjEHo7uk3kYN4ElYZjsG3Gl.jpg",
+                "poster_path": "/uT7noLBm6yw55UiqFgG74txkaCo.jpg",
+                "overview": "This film deals with a Jewish family in Montreal, Canada as they care for a dying grandmother and the young boy who is impatient to get the room he was promised as soon as she kicks the bucket.",
+                "vote_average": 5.6,
+                "vote_count": 22
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Live Action)": [
+        {
+            "first_label": "In the Region of Ice",
+            "second_label": "Andre Guttfreund and Peter Werner, Producers",
+            "category": "Short Film (Live Action)",
+            "year": 1977,
+            "tmdb": {
+                "id": 243579,
+                "original_title": "In the Region of Ice",
+                "title": "In the Region of Ice",
+                "release_date": "1976-10-06",
+                "backdrop_path": null,
+                "poster_path": "/roxTokS4waHcLFK1dzxhPG6MwAp.jpg",
+                "overview": "In this American Film Institute-subsidized short subject, Fionnula Flanagan plays a sharp-tongued but compassionate nun, while Peter Lempert is cast as a sullen, emotionally disturbed boy. The title refers to the \"thawing\" process that occurs when the nun attempts to break through Lempert's wall of silence. Winner of the Oscar for \"Best Short Film, Live Action\".",
+                "vote_average": 6.2,
+                "vote_count": 4
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Kudzu",
+            "second_label": "Marjorie Anne Short, Producer",
+            "category": "Short Film (Live Action)",
+            "year": 1977,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Morning Spider",
+            "second_label": "Julian Chagrin and Claude Chagrin, Producers",
+            "category": "Short Film (Live Action)",
+            "year": 1977,
+            "tmdb": {
+                "id": 243581,
+                "original_title": "The Morning Spider",
+                "title": "The Morning Spider",
+                "release_date": "1976-01-01",
+                "backdrop_path": null,
+                "poster_path": "/nCRqNiia5JXZvsdchByUJ2mdG2q.jpg",
+                "overview": "The Morning Spider is a 1976 comedy/fantasy film directed by Claude Chagrin, starring Julian Chagrin, Lucy Fawcett, and James Hayes. It follows a spider and his travails in a garden. The film was nominated for an Oscar for Best Live Action Short Film.",
+                "vote_average": 6.6,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Nightlife",
+            "second_label": "Claire Wilbur and Robin Lehman, Producers",
+            "category": "Short Film (Live Action)",
+            "year": 1977,
+            "tmdb": {
+                "id": 243583,
+                "original_title": "Nightlife",
+                "title": "Nightlife",
+                "release_date": "1976-10-01",
+                "backdrop_path": "/2WdHqD0ucSi49n1XzXTmBkFhQyH.jpg",
+                "poster_path": "/elT4duDWR4s920l31lcBTgrthmN.jpg",
+                "overview": "Documentary depicting the science-fiction shapes and colors of life in the cold seas of Ireland. Nominated for the Academy Award, Best Live Action Short Film, for 1977.",
+                "vote_average": 6.2,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Number One",
+            "second_label": "Dyan Cannon and Vince Cannon, Producers",
+            "category": "Short Film (Live Action)",
+            "year": 1977,
+            "tmdb": {
+                "id": 243585,
+                "original_title": "Number One",
+                "title": "Number One",
+                "release_date": "1976-12-01",
+                "backdrop_path": null,
+                "poster_path": "/dDg7moDYpYOvaZJSTgIZPfMY7dW.jpg",
+                "overview": "Two little girls hide in the boys' bathroom at school so they can find out what happens there. When two boys come in, the four gradually talk each other into taking off their clothes. The principal catches them, and angrily berates them for what they've been up to, warning them that he'll have to tell their parents about the incident. Later repercussions are seen as parents of three of them separately discuss and fight about what has happened, with some taking a winking attitude of their child's discovery and others battling about how to react. Returning to school poses an additional challenge, as everyone has found out what has gone on.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        }
+    ],
+    "Sound": [
+        {
+            "first_label": "All the President's Men",
+            "second_label": "Arthur Piantadosi, Les Fresholtz, Dick Alexander, Jim Webb",
+            "category": "Sound",
+            "year": 1977,
+            "tmdb": {
+                "id": 891,
+                "original_title": "All the President's Men",
+                "title": "Todos os Homens do Presidente",
+                "release_date": "1976-04-09",
+                "backdrop_path": "/qvLjTAwwQTcAiYXxnGaXctlqUJ6.jpg",
+                "poster_path": "/90qnmoejjeDjnkWW7T11upffJg6.jpg",
+                "overview": "Em 1972, sem ter a menor no\u00e7\u00e3o da gravidade dos fatos, um rep\u00f3rter do Washington Post, inicia uma investiga\u00e7\u00e3o sobre a invas\u00e3o de cinco homens na sede do Partido Democrata, que d\u00e1 origem ao esc\u00e2ndalo Watergate e que teve como conseq\u00fc\u00eancia a queda do presidente Richard Nixon.",
+                "vote_average": 7.7,
+                "vote_count": 1705
+            },
+            "winner": true
+        },
+        {
+            "first_label": "King Kong",
+            "second_label": "Harry Warren Tetrick, William McCaughey, Aaron Rochin, Jack Solomon",
+            "category": "Sound",
+            "year": 1977,
+            "tmdb": {
+                "id": 10730,
+                "original_title": "King Kong",
+                "title": "King Kong",
+                "release_date": "1976-09-08",
+                "backdrop_path": "/iRSRs1RRIXzYt7geifmSeg7qCdr.jpg",
+                "poster_path": "/paYKhEwUaxKA05vmOfU7FlleTln.jpg",
+                "overview": "Uma expedi\u00e7\u00e3o de explora\u00e7\u00e3o de petr\u00f3leo chega a uma ilha isolada e encontra um colossal gorila gigante.",
+                "vote_average": 6.2,
+                "vote_count": 788
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rocky",
+            "second_label": "Harry Warren Tetrick, William McCaughey, Lyle Burbridge, Bud Alper",
+            "category": "Sound",
+            "year": 1977,
+            "tmdb": {
+                "id": 1366,
+                "original_title": "Rocky",
+                "title": "Rocky: Um Lutador",
+                "release_date": "1976-11-21",
+                "backdrop_path": "/kK9v1wclQxug6ZUJucD4DTaHgVF.jpg",
+                "poster_path": "/b9B1DXcPNsJfTtc4x2LKA3bykoJ.jpg",
+                "overview": "Rocky Balboa, um pequeno boxeador da classe trabalhadora da Filad\u00e9lfia, \u00e9 arbitrariamente escolhido para lutar contra o campe\u00e3o dos pesos pesados, Apollo Creed, quando o advers\u00e1rio do invicto lutador agendado para a luta \u00e9 ferido. Durante o treinamento com o mal-humorado Mickey Goldmill, Rocky timidamente come\u00e7a um relacionamento com Adrian, a invis\u00edvel irm\u00e3 de Paulie, seu amigo empacotador de carne.",
+                "vote_average": 7.786,
+                "vote_count": 7460
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Silver Streak",
+            "second_label": "Donald Mitchell, Douglas Williams, Richard Tyler, Hal Etherington",
+            "category": "Sound",
+            "year": 1977,
+            "tmdb": {
+                "id": 11558,
+                "original_title": "Silver Streak",
+                "title": "O Expresso de Chicago",
+                "release_date": "1976-12-03",
+                "backdrop_path": "/yLEvFfGVXsStEkNQwi9OxAcCDaa.jpg",
+                "poster_path": "/uDQhbuAJ7H5QXFTjyJhNcv7GL2b.jpg",
+                "overview": "George Caldwell (Gene Wilder), t\u00edmido executivo do ramos de livros, toma o trem com destino a Chicago, na expectativa de uma viagem sossegada e relaxante. Ele inicia um romance com Hilly Burns (Jill Clayburgh), secret\u00e1ria de um especialista em arte, e as coisas come\u00e7am a ficar estranhas quando presencia o especialista ser expelido do comboio. Ao que tudo indica, o sujeito possu\u00eda provas que exporiam uma quadrilha de falsificadores, liderada pelo gentil criminoso Roger Devereau (Patrick McGoohan). Testemunha do crime, George \u00e9 atirado para fora do trem, mas consegue persegui-lo ora por autom\u00f3vel ora por avi\u00e3o, tendo por companhia o vigarista Grover Muldon (Richard Pryor), que o tirara da pris\u00e3o onde fora parar gra\u00e7as a um xerife caipira.",
+                "vote_average": 6.7,
+                "vote_count": 301
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Star Is Born",
+            "second_label": "Robert Knudson, Dan Wallin, Robert Glass, Tom Overton",
+            "category": "Sound",
+            "year": 1977,
+            "tmdb": {
+                "id": 19610,
+                "original_title": "A Star Is Born",
+                "title": "Nasce Uma Estrela",
+                "release_date": "1976-12-17",
+                "backdrop_path": "/kPn4M9dw7raRVQt2UPOWY0j2k0o.jpg",
+                "poster_path": "/hfLPNqDfoa4iGKYw3jJmO94fR6f.jpg",
+                "overview": "Um astro do rock se envolve rom\u00e2nticamente com cantora iniciante. Ele a ajuda a subir na carreira, mas a medida que ela vai se tornando tamb\u00e9m uma estrela, o cantor come\u00e7a seu r\u00e1pido decl\u00ednio em fun\u00e7\u00e3o do abuso de alc\u00f3ol e drogas. Ela tenta retribuir a ajuda, mas o cantor a rejeita, prejudicando definitivamente o relacionamento. Mesmo estando os dois apaixonados.",
+                "vote_average": 6.0,
+                "vote_count": 213
+            },
+            "winner": false
+        }
+    ],
+    "Special Achievement Award (Visual Effects)": [
+        {
+            "first_label": "King Kong",
+            "second_label": "Carlo Rambaldi, Glen Robinson, Frank Van der Veer",
+            "category": "Special Achievement Award (Visual Effects)",
+            "year": 1977,
+            "tmdb": {
+                "id": 10730,
+                "original_title": "King Kong",
+                "title": "King Kong",
+                "release_date": "1976-09-08",
+                "backdrop_path": "/iRSRs1RRIXzYt7geifmSeg7qCdr.jpg",
+                "poster_path": "/paYKhEwUaxKA05vmOfU7FlleTln.jpg",
+                "overview": "Uma expedi\u00e7\u00e3o de explora\u00e7\u00e3o de petr\u00f3leo chega a uma ilha isolada e encontra um colossal gorila gigante.",
+                "vote_average": 6.2,
+                "vote_count": 788
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Logan's Run",
+            "second_label": "L. B. Abbott, Glen Robinson, Matthew Yuricich",
+            "category": "Special Achievement Award (Visual Effects)",
+            "year": 1977,
+            "tmdb": {
+                "id": 10803,
+                "original_title": "Logan's Run",
+                "title": "Fuga no S\u00e9culo 23",
+                "release_date": "1976-06-23",
+                "backdrop_path": "/cCLR0sTF8OixOiRLEesoQqOfc29.jpg",
+                "poster_path": "/v3ILN8ROPcrNRJ8S7GH24JyihH8.jpg",
+                "overview": "No s\u00e9culo XXIII, os sobreviventes de um Holocausto vivem numa cidade condenada isolada do resto do mundo. Ali, apenas podem viver at\u00e9 os 30 anos por causa do controle populacional e dos recursos escassos. Por isso, t\u00eam duas escolhas: ou participam numa cerim\u00f4nia de extermina\u00e7\u00e3o onde lhes \u00e9 prometido o renascimento ou podem tentar fugir e sobreviver fora da cidade.",
+                "vote_average": 6.6,
+                "vote_count": 871
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay Written Directly for the Screen--based on factual material or on story material not previously published or produced)": [
+        {
+            "first_label": "Network",
+            "second_label": "Paddy Chayefsky",
+            "category": "Writing (Screenplay Written Directly for the Screen--based on factual material or on story material not previously published or produced)",
+            "year": 1977,
+            "tmdb": {
+                "id": 10774,
+                "original_title": "Network",
+                "title": "Rede de Intrigas",
+                "release_date": "1976-11-14",
+                "backdrop_path": "/bODIl4B857k20AhrHylKzpLprk4.jpg",
+                "poster_path": "/qL1VbNxo7QNmd7FGe31OryavhCq.jpg",
+                "overview": "Um locutor de notici\u00e1rio de uma rede de televis\u00e3o americana \u00e9 demitido em raz\u00e3o da baixa audi\u00eancia do programa. Ele ent\u00e3o anuncia que ir\u00e1 cometer suic\u00eddio no ar. Por esta raz\u00e3o, os \u00edndices de audi\u00eancia do programa voltam a crescer, ele passa a ser conhecido como o Profeta Louco, e \u00e9 readmitido. Mas seu comportamento insano faz com que os respons\u00e1veis pela sua ascens\u00e3o decidam det\u00ea-lo.",
+                "vote_average": 7.8,
+                "vote_count": 1607
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Cousin, Cousine",
+            "second_label": "Story and Screenplay by Jean-Charles Tacchella;  Adaptation by Daniele Thompson",
+            "category": "Writing (Screenplay Written Directly for the Screen--based on factual material or on story material not previously published or produced)",
+            "year": 1977,
+            "tmdb": {
+                "id": 5618,
+                "original_title": "Cousin, Cousine",
+                "title": "Cousin, Cousine",
+                "release_date": "1975-11-19",
+                "backdrop_path": "/c4dD7QrZ0LOQKqQxF51qUnGhVge.jpg",
+                "poster_path": "/y8k2k8TIjKaBCHu2f6I2HbSCPD7.jpg",
+                "overview": "Two distant cousins meet at a wedding banquet for an elderly couple. Over time, a close friendship develops between them, but their spouses begin to think that they are more than just friends.",
+                "vote_average": 6.1,
+                "vote_count": 30
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Front",
+            "second_label": "Walter Bernstein",
+            "category": "Writing (Screenplay Written Directly for the Screen--based on factual material or on story material not previously published or produced)",
+            "year": 1977,
+            "tmdb": {
+                "id": 1723,
+                "original_title": "The Front",
+                "title": "Testa-de-Ferro Por Acaso",
+                "release_date": "1976-09-17",
+                "backdrop_path": "/f87CrE40sszI5BOBlObHwbvVprn.jpg",
+                "poster_path": "/3h39YWLBuFd4SGi2eqNazEQlPv7.jpg",
+                "overview": "Um caixa de restaurante se finge de escritor, para ajudar seus amigos que est\u00e3o na lista negra, e apresenta o roteiro como sendo seu trabalho, mas a persegui\u00e7\u00e3o do Macarthismo o obriga a tomar uma posi\u00e7\u00e3o.  No in\u00edcio de 1950 Howard Prince, que trabalha como caixa em um restaurante, ajuda a um amigo escritor na lista negra com a venda para uma emissora de TV de um script em seu pr\u00f3prio nome. O dinheiro \u00e9 \u00fatil para pagar suas d\u00edvidas de jogo, ent\u00e3o ele assume mais tr\u00eas desses \"clientes\". Howard \u00e9 politicamente muito inocente, mas o envolvimento com Florence - que deixa de TV por desgosto com essas persegui\u00e7\u00f5es - e a amizade com a ex-estrela do show - agora ele pr\u00f3prio na lista negra - fazem com que Howard comece a pensar sobre o que realmente est\u00e1 acontecendo.",
+                "vote_average": 6.9,
+                "vote_count": 152
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rocky",
+            "second_label": "Sylvester Stallone",
+            "category": "Writing (Screenplay Written Directly for the Screen--based on factual material or on story material not previously published or produced)",
+            "year": 1977,
+            "tmdb": {
+                "id": 1366,
+                "original_title": "Rocky",
+                "title": "Rocky: Um Lutador",
+                "release_date": "1976-11-21",
+                "backdrop_path": "/kK9v1wclQxug6ZUJucD4DTaHgVF.jpg",
+                "poster_path": "/b9B1DXcPNsJfTtc4x2LKA3bykoJ.jpg",
+                "overview": "Rocky Balboa, um pequeno boxeador da classe trabalhadora da Filad\u00e9lfia, \u00e9 arbitrariamente escolhido para lutar contra o campe\u00e3o dos pesos pesados, Apollo Creed, quando o advers\u00e1rio do invicto lutador agendado para a luta \u00e9 ferido. Durante o treinamento com o mal-humorado Mickey Goldmill, Rocky timidamente come\u00e7a um relacionamento com Adrian, a invis\u00edvel irm\u00e3 de Paulie, seu amigo empacotador de carne.",
+                "vote_average": 7.786,
+                "vote_count": 7460
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Seven Beauties",
+            "second_label": "Lina Wertmller",
+            "category": "Writing (Screenplay Written Directly for the Screen--based on factual material or on story material not previously published or produced)",
+            "year": 1977,
+            "tmdb": {
+                "id": 37550,
+                "original_title": "Pasqualino Settebellezze",
+                "title": "Pasqualino Sete Belezas",
+                "release_date": "1975-12-20",
+                "backdrop_path": "/4ilXtC261Kzam3DxriDAlPQJH2K.jpg",
+                "poster_path": "/i0ZLApe4mIQWopELhEPxOQziDBh.jpg",
+                "overview": "Pasqualino, um homem comum italiano, abandona o ex\u00e9rcito durante a Segunda Guerra Mundial. Os Alem\u00e3es o capturam e mandam para um campo de prisioneiros, onde ele faz qualquer coisa para sobreviver. Em longos flashbacks, vemos ele e sua fam\u00edlia de sete irm\u00e3s sem atrativos (as sete belezas), seu assassinato acidental do amante de uma irm\u00e3, sua confiss\u00e3o e pris\u00e3o, sua entrada calculada para um asilo, o estupro de uma paciente, e seu trabalho volunt\u00e1rio para ser um soldado e escapar do confinamento. Para desgosto de seu obeso captor alem\u00e3o, seu car\u00e1ter fraco e covarde lhe permite sobreviver \u00e0 guerra e voltar para N\u00e1poles, onde ele tem um plano para sobreviver a pr\u00f3xima cat\u00e1strofe mundial. A defesa da honra, um forte valor na sociedade napolitana, e seus efeitos sobre a vida do homem comum Pasquale Frafuso.",
+                "vote_average": 7.5,
+                "vote_count": 124
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay--based on material from another medium)": [
+        {
+            "first_label": "All the President's Men",
+            "second_label": "William Goldman",
+            "category": "Writing (Screenplay--based on material from another medium)",
+            "year": 1977,
+            "tmdb": {
+                "id": 891,
+                "original_title": "All the President's Men",
+                "title": "Todos os Homens do Presidente",
+                "release_date": "1976-04-09",
+                "backdrop_path": "/qvLjTAwwQTcAiYXxnGaXctlqUJ6.jpg",
+                "poster_path": "/90qnmoejjeDjnkWW7T11upffJg6.jpg",
+                "overview": "Em 1972, sem ter a menor no\u00e7\u00e3o da gravidade dos fatos, um rep\u00f3rter do Washington Post, inicia uma investiga\u00e7\u00e3o sobre a invas\u00e3o de cinco homens na sede do Partido Democrata, que d\u00e1 origem ao esc\u00e2ndalo Watergate e que teve como conseq\u00fc\u00eancia a queda do presidente Richard Nixon.",
+                "vote_average": 7.7,
+                "vote_count": 1705
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Bound for Glory",
+            "second_label": "Robert Getchell",
+            "category": "Writing (Screenplay--based on material from another medium)",
+            "year": 1977,
+            "tmdb": {
+                "id": 42232,
+                "original_title": "Bound for Glory",
+                "title": "Esta Terra \u00e9 Minha Terra",
+                "release_date": "1976-12-05",
+                "backdrop_path": "/tI0Tn4XsWiCRfgAPEhxYWMcrFN8.jpg",
+                "poster_path": "/wMSR2CSPruCPkZDEQ5xjv5xqc05.jpg",
+                "overview": "Biografia de Woody Guthrie, cantor country durante os anos da Grande Depress\u00e3o americana. Assim como muitos m\u00fasicos e trabalhadores da \u00e9poca, Woody largou sua terra natal para tentar uma vida melhor, apesar das adversidades vividas por esse grupo da sociedade por todo o pa\u00eds. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.8,
+                "vote_count": 63
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Fellini's Casanova",
+            "second_label": "Federico Fellini, Bernardino Zapponi",
+            "category": "Writing (Screenplay--based on material from another medium)",
+            "year": 1977,
+            "tmdb": {
+                "id": 42236,
+                "original_title": "Il Casanova di Federico Fellini",
+                "title": "Casanova de Fellini",
+                "release_date": "1976-12-10",
+                "backdrop_path": "/uVzxBMstlQbW6JCTfBHzefqWf3s.jpg",
+                "poster_path": "/ygTsnjWEUY8fbXzFWIh07eEHf3w.jpg",
+                "overview": "Casanova is a libertine, collecting seductions and sexual feats. But he is really interested in someone, and is he really an interesting person? Is he really alive?",
+                "vote_average": 7.0,
+                "vote_count": 215
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Seven-per-cent Solution",
+            "second_label": "Nicholas Meyer",
+            "category": "Writing (Screenplay--based on material from another medium)",
+            "year": 1977,
+            "tmdb": {
+                "id": 29578,
+                "original_title": "The Seven-Per-Cent Solution",
+                "title": "Vis\u00f5es de Sherlock Holmes",
+                "release_date": "1976-10-24",
+                "backdrop_path": "/yDGr3OUD5eEE6NBc7HXh3mLiUXI.jpg",
+                "poster_path": "/2TtKfPmyI0Y3yR4v8qZnBFiF1vs.jpg",
+                "overview": "Quando Dr. Watson (Robert Duvall) descobre que Sherlock Holmes (Nicol Williamson) est\u00e1 perturbado mentalmente devido ao seu v\u00edcio em coca\u00edna, organiza para ele uma viagem para Viena e uma sess\u00e3o de tratamento com o famoso fil\u00f3sofo Sigmund Freud (Alan Arkin). O psic\u00f3logo espera resolver os mist\u00e9rios do subconsciente de Holmes enquanto este se dedica \u00e0 resolu\u00e7\u00e3o de outro mist\u00e9rio: o sequestro de Lola Deveraux (Vanessa Redgrave).",
+                "vote_average": 6.2,
+                "vote_count": 89
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Voyage of the Damned",
+            "second_label": "Steve Shagan, David Butler",
+            "category": "Writing (Screenplay--based on material from another medium)",
+            "year": 1977,
+            "tmdb": {
+                "id": 75641,
+                "original_title": "Voyage of the Damned",
+                "title": "A Viagem dos Condenados",
+                "release_date": "1976-12-22",
+                "backdrop_path": "/BGuZ49lKLHPh7tcFXmmLzp4M7X.jpg",
+                "poster_path": "/zXIAI4nLLHyFzLJz3fTmtd4yErF.jpg",
+                "overview": "Em 1939, um grupo de judeus alem\u00e3es tenta fugir para Cuba afim de escapar das persegui\u00e7\u00f5es nazistas. Contudo seus vistos s\u00e3o invalidados por um ditador local assim que eles desembarcam em Havanna, for\u00e7ando-os a retornar ao navio e vagar pelo mar na esperan\u00e7a cada vez mais remota de ref\u00fagio.",
+                "vote_average": 5.9,
+                "vote_count": 60
+            },
+            "winner": false
+        }
+    ]
+}

@@ -1,0 +1,1650 @@
+{
+    "Actor": [
+        {
+            "first_label": "Jack Lemmon",
+            "second_label": "Save the Tiger",
+            "category": "Actor",
+            "year": 1974,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Marlon Brando",
+            "second_label": "Last Tango in Paris",
+            "category": "Actor",
+            "year": 1974,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jack Nicholson",
+            "second_label": "The Last Detail",
+            "category": "Actor",
+            "year": 1974,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Al Pacino",
+            "second_label": "Serpico",
+            "category": "Actor",
+            "year": 1974,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Robert Redford",
+            "second_label": "The Sting",
+            "category": "Actor",
+            "year": 1974,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "John Houseman",
+            "second_label": "The Paper Chase",
+            "category": "Actor in a Supporting Role",
+            "year": 1974,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Vincent Gardenia",
+            "second_label": "Bang the Drum Slowly",
+            "category": "Actor in a Supporting Role",
+            "year": 1974,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jack Gilford",
+            "second_label": "Save the Tiger",
+            "category": "Actor in a Supporting Role",
+            "year": 1974,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jason Miller",
+            "second_label": "The Exorcist",
+            "category": "Actor in a Supporting Role",
+            "year": 1974,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Randy Quaid",
+            "second_label": "The Last Detail",
+            "category": "Actor in a Supporting Role",
+            "year": 1974,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress": [
+        {
+            "first_label": "Glenda Jackson",
+            "second_label": "A Touch of Class",
+            "category": "Actress",
+            "year": 1974,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Ellen Burstyn",
+            "second_label": "The Exorcist",
+            "category": "Actress",
+            "year": 1974,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Marsha Mason",
+            "second_label": "Cinderella Liberty",
+            "category": "Actress",
+            "year": 1974,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Barbra Streisand",
+            "second_label": "The Way We Were",
+            "category": "Actress",
+            "year": 1974,
+            "tmdb": {
+                "id": 378292,
+                "original_title": "Barbra Streisand... and Other Musical Instruments",
+                "title": "Barbra Streisand... and Other Musical Instruments",
+                "release_date": "1973-02-10",
+                "backdrop_path": "/p2ZMZt5JkOcdSF22alIyO1LJRtP.jpg",
+                "poster_path": "/tKGyKAXZGCYz4PVzNZRJZ3TFubf.jpg",
+                "overview": "A mulitcultural musical potpourri, Barbra's fifth television spectacular is her most adventurous. Performing a startling array of new songs and classic hits, with genre-bending arrangements, Barbra Streisand... and Other Musical Instruments is a feast for the eyes and ears. Featuring an extended sequence with Ray Charles and The Ralettes",
+                "vote_average": 8.0,
+                "vote_count": 7
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Joanne Woodward",
+            "second_label": "Summer Wishes, Winter Dreams",
+            "category": "Actress",
+            "year": 1974,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Tatum O'Neal",
+            "second_label": "Paper Moon",
+            "category": "Actress in a Supporting Role",
+            "year": 1974,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Linda Blair",
+            "second_label": "The Exorcist",
+            "category": "Actress in a Supporting Role",
+            "year": 1974,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Candy Clark",
+            "second_label": "American Graffiti",
+            "category": "Actress in a Supporting Role",
+            "year": 1974,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Madeline Kahn",
+            "second_label": "Paper Moon",
+            "category": "Actress in a Supporting Role",
+            "year": 1974,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sylvia Sidney",
+            "second_label": "Summer Wishes, Winter Dreams",
+            "category": "Actress in a Supporting Role",
+            "year": 1974,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction": [
+        {
+            "first_label": "The Sting",
+            "second_label": "Art Direction: Henry Bumstead; Set Decoration: James Payne",
+            "category": "Art Direction",
+            "year": 1974,
+            "tmdb": {
+                "id": 9277,
+                "original_title": "The Sting",
+                "title": "Golpe de Mestre",
+                "release_date": "1973-12-25",
+                "backdrop_path": "/tQcbNXoYU7zy1dz96npOlbDgtbq.jpg",
+                "poster_path": "/jEJ0ZucEdSe2nk6OSHFVQkxYZXG.jpg",
+                "overview": "Ap\u00f3s o assassinato de um amigo em comum, o aspirante a vigarista Johnny Hooker junta-se ao velho Henry Gondorff para se vingar de Doyle Lonnega, o cruel chefe respons\u00e1vel pelo crime. Hooker e Gondorff implementam um plano elaborado para que Lonnegan n\u00e3o descubra que est\u00e1 sendo enganado. O grande golpe come\u00e7a a se desenrolar, mas as coisas n\u00e3o saem como planejaram e a destemida dupla faz improvisa\u00e7\u00f5es de \u00faltima hora.",
+                "vote_average": 8.0,
+                "vote_count": 2460
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Brother Sun Sister Moon",
+            "second_label": "Art Direction: Lorenzo Mongiardino, Gianni Quaranta; Set Decoration: Carmelo Patrono",
+            "category": "Art Direction",
+            "year": 1974,
+            "tmdb": {
+                "id": 2587,
+                "original_title": "Fratello sole, sorella luna",
+                "title": "Irm\u00e3o Sol, Irm\u00e3 Lua",
+                "release_date": "1972-03-03",
+                "backdrop_path": "/s3h57HUNewjGiX2kCXaTzg5DAXr.jpg",
+                "poster_path": "/ckce80A0JOFC1DNfmwnZ2SDwhkL.jpg",
+                "overview": "A trajet\u00f3ria da vida de S\u00e3o Francisco de Assis (Graham Faulkner), que quando jovem era filho de comerciantes ricos e desfrutava de vinho, mulheres e can\u00e7\u00f5es sem ter nenhuma preocupa\u00e7\u00e3o. Quando a guerra e a doen\u00e7a assolam a regi\u00e3o onde vive, ele sofre uma grande transforma\u00e7\u00e3o. Ao aparecer diante do bispo local e tirar suas roupas renuncia sua vida pr\u00e9via para se dedicar a Deus. Mas sua prega\u00e7\u00e3o s\u00f3 iria chegar ao \u00e1pice ao ir para Roma, para ter uma audi\u00eancia com o papa Inoc\u00eancio III (Alec Guinness).",
+                "vote_average": 7.0,
+                "vote_count": 116
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Exorcist",
+            "second_label": "Art Direction: Bill Malley; Set Decoration: Jerry Wunderlich",
+            "category": "Art Direction",
+            "year": 1974,
+            "tmdb": {
+                "id": 9552,
+                "original_title": "The Exorcist",
+                "title": "O Exorcista",
+                "release_date": "1973-12-26",
+                "backdrop_path": "/huC0x1don81NMreSGx4ITkrv9aG.jpg",
+                "poster_path": "/bYTMDg3eGFuO7emXbQip02a8zvQ.jpg",
+                "overview": "Em Georgetown, Washington, uma atriz vai gradativamente tomando consci\u00eancia que a sua filha de doze anos est\u00e1 tendo um comportamento completamente assustador. Deste modo, ela pede ajuda a um padre, que tamb\u00e9m um psiquiatra, e este chega a conclus\u00e3o de que a garota est\u00e1 possu\u00edda pelo dem\u00f4nio. Ele solicita ent\u00e3o a ajuda de um segundo sacerdote, especialista em exorcismo, para tentar livrar a menina desta terr\u00edvel possess\u00e3o.",
+                "vote_average": 7.7,
+                "vote_count": 7619
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tom Sawyer",
+            "second_label": "Art Direction: Philip Jefferies; Set Decoration: Robert de Vestel",
+            "category": "Art Direction",
+            "year": 1974,
+            "tmdb": {
+                "id": 42473,
+                "original_title": "Tom Sawyer",
+                "title": "As Aventuras de Tom Sawyer",
+                "release_date": "1973-03-15",
+                "backdrop_path": "/nvrnKTnMchR2aBDfygWhbMgMXSO.jpg",
+                "poster_path": "/In4e2cLbkemK8t2bBfisgT0iqU.jpg",
+                "overview": "No Missouri de 1850, Tom Sawyer \u00e9 um menino que vive com a Tia Polly, e seu meio irm\u00e3o Sid. Tom faz todas as estrepolias que se espera de uma crian\u00e7a e at\u00e9 se apaixona por Betty Thatcher, que acabou de chegar \u00e0 cidade. Depois, junto com Huck Finn, filho do vagabundo Pap Finn, ele testemunha Injun Joe matar o Doutor Robinson no cemit\u00e9rio. Com medo de Injun Joe, os dois fogem para uma ilha, mas retornam quando s\u00e3o dados como mortos. Quando tem in\u00edcio o julgamento pelo assassinato do doutor, em que o r\u00e9u \u00e9 Muff Potter, eles incriminam Injun Joe. Em seguida, Tom resolve fazer um piquenique com Betty nas famosas Cavernas McDougal, onde s\u00e3o perseguidos por Injun Joe, que fugira da corte...",
+                "vote_average": 6.2,
+                "vote_count": 51
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Way We Were",
+            "second_label": "Art Direction: Stephen Grimes; Set Decoration: William Kiernan",
+            "category": "Art Direction",
+            "year": 1974,
+            "tmdb": {
+                "id": 10236,
+                "original_title": "The Way We Were",
+                "title": "Nosso Amor de Ontem",
+                "release_date": "1973-10-17",
+                "backdrop_path": "/ttckKqxzFRtHcHQbR1H07T5PvN4.jpg",
+                "poster_path": "/o5x563ze56iI4iNsCBxTnDkt28i.jpg",
+                "overview": "Em 1937, Katie Morosky (Barbra Streisand), uma judia comunista, desperta a aten\u00e7\u00e3o de Hubbell Gardiner (Robert Redford), um protestante de uma rica fam\u00edlia, em virtude de ser uma pacifista convicta. Cada um segue seu caminho, ele se dedicando a escrever e ela trabalhando em uma r\u00e1dio. Quase oito anos depois os dois se encontram por acaso em Nova York, quando Katie v\u00ea Hubbell, que cochila em uma boate. Provavelmente por serem bem diferentes e os opostos se atraem os dois se apaixonam. Por\u00e9m Katie sente-se pouco \u00e0 vontade com os amigos de Gardiner, sendo que quando algo n\u00e3o a agrada, o que acontece freq\u00fcentemente, \u00e9 motivo para um acalorado protesto. Ap\u00f3s discuss\u00f5es e o fracasso do primeiro livro de Hubbell, eles v\u00e3o para Hollywood, onde Gardiner escrever\u00e1 o roteiro de um filme para J.J. (Bradford Dillman), um amigo de Hubbell que se tornou produtor.",
+                "vote_average": 6.9,
+                "vote_count": 428
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "Cries and Whispers",
+            "second_label": "Sven Nykvist",
+            "category": "Cinematography",
+            "year": 1974,
+            "tmdb": {
+                "id": 10238,
+                "original_title": "Viskningar och rop",
+                "title": "Gritos e Sussurros",
+                "release_date": "1972-12-21",
+                "backdrop_path": "/xmLgdb0yDBXa7Dlo3aCzjhjCkuE.jpg",
+                "poster_path": "/4Sk198bnw1VH68mUwr5meJinJOW.jpg",
+                "overview": "Em uma casa no campo uma mulher est\u00e1 bastante enferma e recebe cuidados de suas duas irm\u00e3s e de uma empregada da fam\u00edlia, que precocemente perdeu sua filha e por isso extravaza seu amor de m\u00e3e dando o maior carinho poss\u00edvel para aquela mo\u00e7a t\u00e3o debilitada. Dentro deste contexto lembran\u00e7as, frustra\u00e7\u00f5es e imagina\u00e7\u00f5es em um misto de amor e \u00f3dio surgem no interior de cada pessoa.",
+                "vote_average": 7.9,
+                "vote_count": 643
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Exorcist",
+            "second_label": "Owen Roizman",
+            "category": "Cinematography",
+            "year": 1974,
+            "tmdb": {
+                "id": 9552,
+                "original_title": "The Exorcist",
+                "title": "O Exorcista",
+                "release_date": "1973-12-26",
+                "backdrop_path": "/huC0x1don81NMreSGx4ITkrv9aG.jpg",
+                "poster_path": "/bYTMDg3eGFuO7emXbQip02a8zvQ.jpg",
+                "overview": "Em Georgetown, Washington, uma atriz vai gradativamente tomando consci\u00eancia que a sua filha de doze anos est\u00e1 tendo um comportamento completamente assustador. Deste modo, ela pede ajuda a um padre, que tamb\u00e9m um psiquiatra, e este chega a conclus\u00e3o de que a garota est\u00e1 possu\u00edda pelo dem\u00f4nio. Ele solicita ent\u00e3o a ajuda de um segundo sacerdote, especialista em exorcismo, para tentar livrar a menina desta terr\u00edvel possess\u00e3o.",
+                "vote_average": 7.7,
+                "vote_count": 7619
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jonathan Livingston Seagull",
+            "second_label": "Jack Couffer",
+            "category": "Cinematography",
+            "year": 1974,
+            "tmdb": {
+                "id": 56150,
+                "original_title": "Jonathan Livingston Seagull",
+                "title": "Fern\u00e3o Capelo Gaivota",
+                "release_date": "1973-10-23",
+                "backdrop_path": "/jhgzp5WdUPHydvykQEp0sDRprDo.jpg",
+                "poster_path": "/vnVuowG4KYAncx035suhkxxf4O.jpg",
+                "overview": "Filme que marcou uma gera\u00e7\u00e3o e transformou o livro de Richard Bach num best-seller que vendeu 40 milh\u00f5es de c\u00f3pias e viajou por 70 pa\u00edses do mundo. Fern\u00e3o Capelo Gaivota \u00e9 uma ave que n\u00e3o se contenta em voar apenas para comer. Ele tem prazer em voar e esfor\u00e7a-se em aprender tudo sobre v\u00f4o. Por ser diferente do bando, \u00e9 expulso. Com excelente trilha sonora de Neil Diamond e magn\u00edfica fotografia, o filme \u00e9 uma par\u00e1bola. Faz uma analogia entre o homem e a gaivota, no sentido de mostrar as dificuldades de supera\u00e7\u00e3o dos limites, do encontro com a liberdade verdadeira, pautada no amor e na compreens\u00e3o do outro.",
+                "vote_average": 6.0,
+                "vote_count": 43
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Sting",
+            "second_label": "Robert Surtees",
+            "category": "Cinematography",
+            "year": 1974,
+            "tmdb": {
+                "id": 9277,
+                "original_title": "The Sting",
+                "title": "Golpe de Mestre",
+                "release_date": "1973-12-25",
+                "backdrop_path": "/tQcbNXoYU7zy1dz96npOlbDgtbq.jpg",
+                "poster_path": "/jEJ0ZucEdSe2nk6OSHFVQkxYZXG.jpg",
+                "overview": "Ap\u00f3s o assassinato de um amigo em comum, o aspirante a vigarista Johnny Hooker junta-se ao velho Henry Gondorff para se vingar de Doyle Lonnega, o cruel chefe respons\u00e1vel pelo crime. Hooker e Gondorff implementam um plano elaborado para que Lonnegan n\u00e3o descubra que est\u00e1 sendo enganado. O grande golpe come\u00e7a a se desenrolar, mas as coisas n\u00e3o saem como planejaram e a destemida dupla faz improvisa\u00e7\u00f5es de \u00faltima hora.",
+                "vote_average": 8.0,
+                "vote_count": 2460
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Way We Were",
+            "second_label": "Harry Stradling, Jr.",
+            "category": "Cinematography",
+            "year": 1974,
+            "tmdb": {
+                "id": 10236,
+                "original_title": "The Way We Were",
+                "title": "Nosso Amor de Ontem",
+                "release_date": "1973-10-17",
+                "backdrop_path": "/ttckKqxzFRtHcHQbR1H07T5PvN4.jpg",
+                "poster_path": "/o5x563ze56iI4iNsCBxTnDkt28i.jpg",
+                "overview": "Em 1937, Katie Morosky (Barbra Streisand), uma judia comunista, desperta a aten\u00e7\u00e3o de Hubbell Gardiner (Robert Redford), um protestante de uma rica fam\u00edlia, em virtude de ser uma pacifista convicta. Cada um segue seu caminho, ele se dedicando a escrever e ela trabalhando em uma r\u00e1dio. Quase oito anos depois os dois se encontram por acaso em Nova York, quando Katie v\u00ea Hubbell, que cochila em uma boate. Provavelmente por serem bem diferentes e os opostos se atraem os dois se apaixonam. Por\u00e9m Katie sente-se pouco \u00e0 vontade com os amigos de Gardiner, sendo que quando algo n\u00e3o a agrada, o que acontece freq\u00fcentemente, \u00e9 motivo para um acalorado protesto. Ap\u00f3s discuss\u00f5es e o fracasso do primeiro livro de Hubbell, eles v\u00e3o para Hollywood, onde Gardiner escrever\u00e1 o roteiro de um filme para J.J. (Bradford Dillman), um amigo de Hubbell que se tornou produtor.",
+                "vote_average": 6.9,
+                "vote_count": 428
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design": [
+        {
+            "first_label": "The Sting",
+            "second_label": "Edith Head",
+            "category": "Costume Design",
+            "year": 1974,
+            "tmdb": {
+                "id": 9277,
+                "original_title": "The Sting",
+                "title": "Golpe de Mestre",
+                "release_date": "1973-12-25",
+                "backdrop_path": "/tQcbNXoYU7zy1dz96npOlbDgtbq.jpg",
+                "poster_path": "/jEJ0ZucEdSe2nk6OSHFVQkxYZXG.jpg",
+                "overview": "Ap\u00f3s o assassinato de um amigo em comum, o aspirante a vigarista Johnny Hooker junta-se ao velho Henry Gondorff para se vingar de Doyle Lonnega, o cruel chefe respons\u00e1vel pelo crime. Hooker e Gondorff implementam um plano elaborado para que Lonnegan n\u00e3o descubra que est\u00e1 sendo enganado. O grande golpe come\u00e7a a se desenrolar, mas as coisas n\u00e3o saem como planejaram e a destemida dupla faz improvisa\u00e7\u00f5es de \u00faltima hora.",
+                "vote_average": 8.0,
+                "vote_count": 2460
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Cries and Whispers",
+            "second_label": "Marik Vos",
+            "category": "Costume Design",
+            "year": 1974,
+            "tmdb": {
+                "id": 10238,
+                "original_title": "Viskningar och rop",
+                "title": "Gritos e Sussurros",
+                "release_date": "1972-12-21",
+                "backdrop_path": "/xmLgdb0yDBXa7Dlo3aCzjhjCkuE.jpg",
+                "poster_path": "/4Sk198bnw1VH68mUwr5meJinJOW.jpg",
+                "overview": "Em uma casa no campo uma mulher est\u00e1 bastante enferma e recebe cuidados de suas duas irm\u00e3s e de uma empregada da fam\u00edlia, que precocemente perdeu sua filha e por isso extravaza seu amor de m\u00e3e dando o maior carinho poss\u00edvel para aquela mo\u00e7a t\u00e3o debilitada. Dentro deste contexto lembran\u00e7as, frustra\u00e7\u00f5es e imagina\u00e7\u00f5es em um misto de amor e \u00f3dio surgem no interior de cada pessoa.",
+                "vote_average": 7.9,
+                "vote_count": 643
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ludwig",
+            "second_label": "Piero Tosi",
+            "category": "Costume Design",
+            "year": 1974,
+            "tmdb": {
+                "id": 3478,
+                "original_title": "Ludwig",
+                "title": "Ludwig: A Paix\u00e3o de um Rei",
+                "release_date": "1973-01-18",
+                "backdrop_path": "/ckjdJWo77l9j3nSagUJLcYNCSw3.jpg",
+                "poster_path": "/exZ1smbnOqQmJ399ZQGDxy5REBs.jpg",
+                "overview": "Este filme retrata a conturbada hist\u00f3rica de vida de Ludwig, rei da Baviera, desde sua coroa\u00e7\u00e3o em 1864 at\u00e9 sua morte em 1886 como um her\u00f3i rom\u00e2ntico. F\u00e3 de Richard Wagner, tra\u00eddo por ele, apaixonado por sua prima Elisabeth da \u00c1ustria, abandonada por ela, ele experimentou uma sucess\u00e3o de derrotas pessoais. E, al\u00e9m disso, foi atormentado por sua homossexualidade e pouco a pouco foi aceitando a loucura.",
+                "vote_average": 7.5,
+                "vote_count": 149
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tom Sawyer",
+            "second_label": "Donfeld",
+            "category": "Costume Design",
+            "year": 1974,
+            "tmdb": {
+                "id": 42473,
+                "original_title": "Tom Sawyer",
+                "title": "As Aventuras de Tom Sawyer",
+                "release_date": "1973-03-15",
+                "backdrop_path": "/nvrnKTnMchR2aBDfygWhbMgMXSO.jpg",
+                "poster_path": "/In4e2cLbkemK8t2bBfisgT0iqU.jpg",
+                "overview": "No Missouri de 1850, Tom Sawyer \u00e9 um menino que vive com a Tia Polly, e seu meio irm\u00e3o Sid. Tom faz todas as estrepolias que se espera de uma crian\u00e7a e at\u00e9 se apaixona por Betty Thatcher, que acabou de chegar \u00e0 cidade. Depois, junto com Huck Finn, filho do vagabundo Pap Finn, ele testemunha Injun Joe matar o Doutor Robinson no cemit\u00e9rio. Com medo de Injun Joe, os dois fogem para uma ilha, mas retornam quando s\u00e3o dados como mortos. Quando tem in\u00edcio o julgamento pelo assassinato do doutor, em que o r\u00e9u \u00e9 Muff Potter, eles incriminam Injun Joe. Em seguida, Tom resolve fazer um piquenique com Betty nas famosas Cavernas McDougal, onde s\u00e3o perseguidos por Injun Joe, que fugira da corte...",
+                "vote_average": 6.2,
+                "vote_count": 51
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Way We Were",
+            "second_label": "Dorothy Jeakins, Moss Mabry",
+            "category": "Costume Design",
+            "year": 1974,
+            "tmdb": {
+                "id": 10236,
+                "original_title": "The Way We Were",
+                "title": "Nosso Amor de Ontem",
+                "release_date": "1973-10-17",
+                "backdrop_path": "/ttckKqxzFRtHcHQbR1H07T5PvN4.jpg",
+                "poster_path": "/o5x563ze56iI4iNsCBxTnDkt28i.jpg",
+                "overview": "Em 1937, Katie Morosky (Barbra Streisand), uma judia comunista, desperta a aten\u00e7\u00e3o de Hubbell Gardiner (Robert Redford), um protestante de uma rica fam\u00edlia, em virtude de ser uma pacifista convicta. Cada um segue seu caminho, ele se dedicando a escrever e ela trabalhando em uma r\u00e1dio. Quase oito anos depois os dois se encontram por acaso em Nova York, quando Katie v\u00ea Hubbell, que cochila em uma boate. Provavelmente por serem bem diferentes e os opostos se atraem os dois se apaixonam. Por\u00e9m Katie sente-se pouco \u00e0 vontade com os amigos de Gardiner, sendo que quando algo n\u00e3o a agrada, o que acontece freq\u00fcentemente, \u00e9 motivo para um acalorado protesto. Ap\u00f3s discuss\u00f5es e o fracasso do primeiro livro de Hubbell, eles v\u00e3o para Hollywood, onde Gardiner escrever\u00e1 o roteiro de um filme para J.J. (Bradford Dillman), um amigo de Hubbell que se tornou produtor.",
+                "vote_average": 6.9,
+                "vote_count": 428
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "The Sting",
+            "second_label": "George Roy Hill",
+            "category": "Directing",
+            "year": 1974,
+            "tmdb": {
+                "id": 9277,
+                "original_title": "The Sting",
+                "title": "Golpe de Mestre",
+                "release_date": "1973-12-25",
+                "backdrop_path": "/tQcbNXoYU7zy1dz96npOlbDgtbq.jpg",
+                "poster_path": "/jEJ0ZucEdSe2nk6OSHFVQkxYZXG.jpg",
+                "overview": "Ap\u00f3s o assassinato de um amigo em comum, o aspirante a vigarista Johnny Hooker junta-se ao velho Henry Gondorff para se vingar de Doyle Lonnega, o cruel chefe respons\u00e1vel pelo crime. Hooker e Gondorff implementam um plano elaborado para que Lonnegan n\u00e3o descubra que est\u00e1 sendo enganado. O grande golpe come\u00e7a a se desenrolar, mas as coisas n\u00e3o saem como planejaram e a destemida dupla faz improvisa\u00e7\u00f5es de \u00faltima hora.",
+                "vote_average": 8.0,
+                "vote_count": 2460
+            },
+            "winner": true
+        },
+        {
+            "first_label": "American Graffiti",
+            "second_label": "George Lucas",
+            "category": "Directing",
+            "year": 1974,
+            "tmdb": {
+                "id": 838,
+                "original_title": "American Graffiti",
+                "title": "Loucuras de Ver\u00e3o",
+                "release_date": "1973-08-11",
+                "backdrop_path": "/6kzYm1u9DOVhKZ2DyqZNUZ9yLdy.jpg",
+                "poster_path": "/nuTqifFwXdGeTOzpWQwFtzDw5KF.jpg",
+                "overview": "Anos 60, interior dos Estados Unidos, no final de ver\u00e3o, um grupo de jovens tenta curtir ao m\u00e1ximo a \u00faltima noite de f\u00e9rias. Curt e Steve conseguiram entrar numa das universidade mais conceituadas do pa\u00eds, e agora ter\u00e3o de mudar de cidade. Enquanto Curt tenta fazer sua \"despedida\", o amigo Steve faz de tudo para convencer sua namorada de que eles devem continuar juntos. Enquanto isso, seus outros amigos t\u00eam uma noite de aventuras, envolvendo descobertas sobre o amor, a amizade, a fam\u00edlia e a vida.",
+                "vote_average": 7.0,
+                "vote_count": 1341
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Cries and Whispers",
+            "second_label": "Ingmar Bergman",
+            "category": "Directing",
+            "year": 1974,
+            "tmdb": {
+                "id": 10238,
+                "original_title": "Viskningar och rop",
+                "title": "Gritos e Sussurros",
+                "release_date": "1972-12-21",
+                "backdrop_path": "/xmLgdb0yDBXa7Dlo3aCzjhjCkuE.jpg",
+                "poster_path": "/4Sk198bnw1VH68mUwr5meJinJOW.jpg",
+                "overview": "Em uma casa no campo uma mulher est\u00e1 bastante enferma e recebe cuidados de suas duas irm\u00e3s e de uma empregada da fam\u00edlia, que precocemente perdeu sua filha e por isso extravaza seu amor de m\u00e3e dando o maior carinho poss\u00edvel para aquela mo\u00e7a t\u00e3o debilitada. Dentro deste contexto lembran\u00e7as, frustra\u00e7\u00f5es e imagina\u00e7\u00f5es em um misto de amor e \u00f3dio surgem no interior de cada pessoa.",
+                "vote_average": 7.9,
+                "vote_count": 643
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Exorcist",
+            "second_label": "William Friedkin",
+            "category": "Directing",
+            "year": 1974,
+            "tmdb": {
+                "id": 9552,
+                "original_title": "The Exorcist",
+                "title": "O Exorcista",
+                "release_date": "1973-12-26",
+                "backdrop_path": "/huC0x1don81NMreSGx4ITkrv9aG.jpg",
+                "poster_path": "/bYTMDg3eGFuO7emXbQip02a8zvQ.jpg",
+                "overview": "Em Georgetown, Washington, uma atriz vai gradativamente tomando consci\u00eancia que a sua filha de doze anos est\u00e1 tendo um comportamento completamente assustador. Deste modo, ela pede ajuda a um padre, que tamb\u00e9m um psiquiatra, e este chega a conclus\u00e3o de que a garota est\u00e1 possu\u00edda pelo dem\u00f4nio. Ele solicita ent\u00e3o a ajuda de um segundo sacerdote, especialista em exorcismo, para tentar livrar a menina desta terr\u00edvel possess\u00e3o.",
+                "vote_average": 7.7,
+                "vote_count": 7619
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Last Tango in Paris",
+            "second_label": "Bernardo Bertolucci",
+            "category": "Directing",
+            "year": 1974,
+            "tmdb": {
+                "id": 1643,
+                "original_title": "Ultimo tango a Parigi",
+                "title": "\u00daltimo Tango em Paris",
+                "release_date": "1972-10-14",
+                "backdrop_path": "/hExTiLbfB93HwEwkeQxb3q4nHtQ.jpg",
+                "poster_path": "/7v22tVmKzmj4MU9IJ1xqFgK1R2L.jpg",
+                "overview": "Enquanto procura um apartamento em Paris, uma bela jovem (Maria Schneider) conhece um americano (Marlon Brando), cuja esposa cometeu suic\u00eddio recentemente. Instantaneamente um deseja o outro ardentemente e iniciam naquele momento um t\u00f3rrido affair. Eles combinam que n\u00e3o revelariam nada de suas vidas, nem mesmo seus nomes, sendo que o objetivo dos encontros seria basicamente sexo. Mas, gradativamente, os acontecimentos v\u00e3o fugindo do controle de ambos.",
+                "vote_average": 7.0,
+                "vote_count": 1151
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "The Great American Cowboy",
+            "second_label": "Kieth Merrill, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1974,
+            "tmdb": {
+                "id": 114513,
+                "original_title": "The Great American Cowboy",
+                "title": "The Great American Cowboy",
+                "release_date": "1973-12-01",
+                "backdrop_path": "/6An417sxdFHYIS6JKP17shFCKxf.jpg",
+                "poster_path": "/tlIvcZaWTyBi6IMAb7lpGfXY7Pr.jpg",
+                "overview": "The battle between two rodeo stars for the world championship: veteran Larry Mahan and newcomer Phil Lyne. Narrated by Cowboy Hall of Fame actor Joel Mc Crea, this Academy Award-winning documentary takes the viewer inside the rodeo arena with today's cowboys. Features incredible \"in-the-saddle\" photography.",
+                "vote_average": 6.0,
+                "vote_count": 4
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Always a New Beginning",
+            "second_label": "John D. Goodell, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1974,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Battle of Berlin",
+            "second_label": "Bengt von zur Muehlen, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1974,
+            "tmdb": {
+                "id": 149331,
+                "original_title": "Schlacht um Berlin",
+                "title": "Battle of Berlin",
+                "release_date": "1973-01-01",
+                "backdrop_path": "/7lJdszyWzoZAgZwzLdtr28hSvte.jpg",
+                "poster_path": "/w4J1rcrpRuE6LRdnhQxkBkhNILt.jpg",
+                "overview": "The final major battle of the Second World War in Europe.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Journey to the Outer Limits",
+            "second_label": "Alex Grasshoff, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1974,
+            "tmdb": {
+                "id": 149330,
+                "original_title": "Journey to the Outer Limits",
+                "title": "Journey to the Outer Limits",
+                "release_date": "1973-01-01",
+                "backdrop_path": "/zzmnKpa7OGPZhYAiFGxq4wTDrSG.jpg",
+                "poster_path": "/hUgfpHY3wU2241hsbuemBA7MO4i.jpg",
+                "overview": "Journey to the Outer Limits is a 1973 American documentary film directed by Alexander Grasshoff. The fillm is  a National Geographic documentary about students in the Outward Bound program as they confront themselves while training to climb the Santa Rosa Peak in the Peruvian Andes. It was nominated for an Academy Award for Best Documentary Feature.",
+                "vote_average": 6.2,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Walls of Fire",
+            "second_label": "Gertrude Ross Marks and Edmund F. Penney, Producers",
+            "category": "Documentary (Feature)",
+            "year": 1974,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "Princeton: A Search for Answers",
+            "second_label": "Julian Krainin and DeWitt L. Sage, Jr., Producers",
+            "category": "Documentary (Short Subject)",
+            "year": 1974,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Background",
+            "second_label": "Carmen D'Avino, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1974,
+            "tmdb": {
+                "id": 243382,
+                "original_title": "Background",
+                "title": "Background",
+                "release_date": "1973-01-01",
+                "backdrop_path": null,
+                "poster_path": "/2AdSLb1Uj3rOIGm3acPYjiJml4B.jpg",
+                "overview": "Background is a 1973 American short documentary film directed by Carmen D'Avino. It was nominated for an Academy Award for Best Documentary Short.  The original version was preserved by the Academy Film Archive in 2012.",
+                "vote_average": 6.0,
+                "vote_count": 1
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Children at Work (Paisti Ag Obair)",
+            "second_label": "Louis Marcus, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1974,
+            "tmdb": {
+                "id": 243384,
+                "original_title": "Paisti ag Obair",
+                "title": "Children at Work",
+                "release_date": "1973-01-01",
+                "backdrop_path": null,
+                "poster_path": "/gRHOpxHlEo1GEjfGtB5ihXhQmJN.jpg",
+                "overview": "Children at Work is a 1973 Irish short documentary film produced by Louis Marcus. It was nominated for an Academy Award for Best Documentary Short.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Christo's Valley Curtain",
+            "second_label": "Albert Maysles and David Maysles, Producers",
+            "category": "Documentary (Short Subject)",
+            "year": 1974,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Four Stones for Kanemitsu",
+            "second_label": "Terry Sanders and June Wayne, Producers",
+            "category": "Documentary (Short Subject)",
+            "year": 1974,
+            "tmdb": {
+                "id": 243385,
+                "original_title": "Four Stones for Kanemitsu",
+                "title": "Four Stones for Kanemitsu",
+                "release_date": "1973-01-01",
+                "backdrop_path": null,
+                "poster_path": "/u56wUc8zzKjHvGhGsG7nU8qu71m.jpg",
+                "overview": "Four Stones for Kanemitsu is a 1973 American short documentary film, written and produced by June Wayne and filmed by Terry Sanders. It was nominated for an Academy Award for Best Documentary Short. The film is educational and records in details each of the steps in making of a color lithograph by artist, Matsumi Kanemitsu.",
+                "vote_average": 5.7,
+                "vote_count": 3
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "The Sting",
+            "second_label": "William Reynolds",
+            "category": "Film Editing",
+            "year": 1974,
+            "tmdb": {
+                "id": 9277,
+                "original_title": "The Sting",
+                "title": "Golpe de Mestre",
+                "release_date": "1973-12-25",
+                "backdrop_path": "/tQcbNXoYU7zy1dz96npOlbDgtbq.jpg",
+                "poster_path": "/jEJ0ZucEdSe2nk6OSHFVQkxYZXG.jpg",
+                "overview": "Ap\u00f3s o assassinato de um amigo em comum, o aspirante a vigarista Johnny Hooker junta-se ao velho Henry Gondorff para se vingar de Doyle Lonnega, o cruel chefe respons\u00e1vel pelo crime. Hooker e Gondorff implementam um plano elaborado para que Lonnegan n\u00e3o descubra que est\u00e1 sendo enganado. O grande golpe come\u00e7a a se desenrolar, mas as coisas n\u00e3o saem como planejaram e a destemida dupla faz improvisa\u00e7\u00f5es de \u00faltima hora.",
+                "vote_average": 8.0,
+                "vote_count": 2460
+            },
+            "winner": true
+        },
+        {
+            "first_label": "American Graffiti",
+            "second_label": "Verna Fields, Marcia Lucas",
+            "category": "Film Editing",
+            "year": 1974,
+            "tmdb": {
+                "id": 838,
+                "original_title": "American Graffiti",
+                "title": "Loucuras de Ver\u00e3o",
+                "release_date": "1973-08-11",
+                "backdrop_path": "/6kzYm1u9DOVhKZ2DyqZNUZ9yLdy.jpg",
+                "poster_path": "/nuTqifFwXdGeTOzpWQwFtzDw5KF.jpg",
+                "overview": "Anos 60, interior dos Estados Unidos, no final de ver\u00e3o, um grupo de jovens tenta curtir ao m\u00e1ximo a \u00faltima noite de f\u00e9rias. Curt e Steve conseguiram entrar numa das universidade mais conceituadas do pa\u00eds, e agora ter\u00e3o de mudar de cidade. Enquanto Curt tenta fazer sua \"despedida\", o amigo Steve faz de tudo para convencer sua namorada de que eles devem continuar juntos. Enquanto isso, seus outros amigos t\u00eam uma noite de aventuras, envolvendo descobertas sobre o amor, a amizade, a fam\u00edlia e a vida.",
+                "vote_average": 7.0,
+                "vote_count": 1341
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Day of the Jackal",
+            "second_label": "Ralph Kemplen",
+            "category": "Film Editing",
+            "year": 1974,
+            "tmdb": {
+                "id": 4909,
+                "original_title": "The Day of the Jackal",
+                "title": "O Dia do Chacal",
+                "release_date": "1973-05-15",
+                "backdrop_path": "/eCnT1kEg8uAOyoQLhxoIbqfS0xQ.jpg",
+                "poster_path": "/gV2TBSkuNC8nKSgv2awbjaQSM1g.jpg",
+                "overview": "Um assassino profissional conhecido pelo codinome \"Chacal\" \u00e9 contratado para matar Charles de Gaulle, presidente da Fran\u00e7a.  \u00c9 o in\u00edcio dos anos 60 na Fran\u00e7a. Os sobreviventes restantes da extinta Legi\u00e3o Estrangeira Francesa, agora numa organiza\u00e7\u00e3o terrorista, a OAS, fizeram repetidas tentativas de matar o presidente franc\u00eas Charles De Gaulle. O resultado \u00e9 que ele se tornou o homem mais bem protegido do mundo. Em um ato de desespero eles contratam O Chacal, o codinome  do assassino de aluguel que se compromete a matar De Gaulle em troca de meio milh\u00e3o de d\u00f3lares. Ele come\u00e7a ent\u00e3o a planejar a morte do famoso presidente franc\u00eas para o dia 25 de agosto de 1963. Veremos os preparativos do assassino que s\u00e3o t\u00e3o minuciosos que nos perguntaremos como ele poderia falhar, mesmo quando vemos a tentativa da pol\u00edcia francesa de achar seu rastro. A situa\u00e7\u00e3o \u00e9 historicamente precisa. Houveram muitos desses atentados e o filme segue de perto o enredo do livro. (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.5,
+                "vote_count": 509
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Exorcist",
+            "second_label": "Jordan Leondopoulos, Bud Smith, Evan Lottman, Norman Gay",
+            "category": "Film Editing",
+            "year": 1974,
+            "tmdb": {
+                "id": 9552,
+                "original_title": "The Exorcist",
+                "title": "O Exorcista",
+                "release_date": "1973-12-26",
+                "backdrop_path": "/huC0x1don81NMreSGx4ITkrv9aG.jpg",
+                "poster_path": "/bYTMDg3eGFuO7emXbQip02a8zvQ.jpg",
+                "overview": "Em Georgetown, Washington, uma atriz vai gradativamente tomando consci\u00eancia que a sua filha de doze anos est\u00e1 tendo um comportamento completamente assustador. Deste modo, ela pede ajuda a um padre, que tamb\u00e9m um psiquiatra, e este chega a conclus\u00e3o de que a garota est\u00e1 possu\u00edda pelo dem\u00f4nio. Ele solicita ent\u00e3o a ajuda de um segundo sacerdote, especialista em exorcismo, para tentar livrar a menina desta terr\u00edvel possess\u00e3o.",
+                "vote_average": 7.7,
+                "vote_count": 7619
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jonathan Livingston Seagull",
+            "second_label": "Frank P. Keller, James Galloway",
+            "category": "Film Editing",
+            "year": 1974,
+            "tmdb": {
+                "id": 56150,
+                "original_title": "Jonathan Livingston Seagull",
+                "title": "Fern\u00e3o Capelo Gaivota",
+                "release_date": "1973-10-23",
+                "backdrop_path": "/jhgzp5WdUPHydvykQEp0sDRprDo.jpg",
+                "poster_path": "/vnVuowG4KYAncx035suhkxxf4O.jpg",
+                "overview": "Filme que marcou uma gera\u00e7\u00e3o e transformou o livro de Richard Bach num best-seller que vendeu 40 milh\u00f5es de c\u00f3pias e viajou por 70 pa\u00edses do mundo. Fern\u00e3o Capelo Gaivota \u00e9 uma ave que n\u00e3o se contenta em voar apenas para comer. Ele tem prazer em voar e esfor\u00e7a-se em aprender tudo sobre v\u00f4o. Por ser diferente do bando, \u00e9 expulso. Com excelente trilha sonora de Neil Diamond e magn\u00edfica fotografia, o filme \u00e9 uma par\u00e1bola. Faz uma analogia entre o homem e a gaivota, no sentido de mostrar as dificuldades de supera\u00e7\u00e3o dos limites, do encontro com a liberdade verdadeira, pautada no amor e na compreens\u00e3o do outro.",
+                "vote_average": 6.0,
+                "vote_count": 43
+            },
+            "winner": false
+        }
+    ],
+    "Foreign Language Film": [
+        {
+            "first_label": "Day for Night",
+            "second_label": "France",
+            "category": "Foreign Language Film",
+            "year": 1974,
+            "tmdb": {
+                "id": 1675,
+                "original_title": "La Nuit am\u00e9ricaine",
+                "title": "A Noite Americana",
+                "release_date": "1973-05-24",
+                "backdrop_path": "/6MbFN88F27WvGC9WhAXq5KUIgTj.jpg",
+                "poster_path": "/6jk8HNf4R0h1ap3O0ygXq8MB3e7.jpg",
+                "overview": "Um dos filmes que melhor representa as loucuras que se passam em um set de filmagem. Um ator que fica deprimido porque sua noiva sai com um dubl\u00ea, uma atriz que se entregou \u00e0s bebidas e n\u00e3o consegue lembrar de suas falas e muitas outras confus\u00f5es, que o diretor deve fazer de tudo para contornar, at\u00e9 gravarem uma das cenas mais importantes do filme: a que o dia deve ser transformado em noite artificialmente.",
+                "vote_average": 7.8,
+                "vote_count": 569
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The House on Chelouche Street",
+            "second_label": "Israel",
+            "category": "Foreign Language Film",
+            "year": 1974,
+            "tmdb": {
+                "id": 117486,
+                "original_title": "\u05d4\u05d1\u05d9\u05ea \u05d1\u05e8\u05d7\u05d5\u05d1 \u05e9\u05dc\u05d5\u05e9",
+                "title": "The House on Chelouche Street",
+                "release_date": "1973-01-01",
+                "backdrop_path": "/kDOshmCotf7DCi87KuBEdIZfKxC.jpg",
+                "poster_path": "/99S0mEqil0fqQAB8uiTmVjBokOH.jpg",
+                "overview": "A fatherless family immigrates to Israel from Egypt during the British Mandate period. The film traces the hardships the family suffers in the politically unstable country.",
+                "vote_average": 6.8,
+                "vote_count": 10
+            },
+            "winner": false
+        },
+        {
+            "first_label": "L'Invitation",
+            "second_label": "Switzerland",
+            "category": "Foreign Language Film",
+            "year": 1974,
+            "tmdb": {
+                "id": 109815,
+                "original_title": "L'invitation",
+                "title": "The Invitation",
+                "release_date": "1973-09-13",
+                "backdrop_path": "/sAPVaVIrJdF5w3MQfpsnUz7Xm5P.jpg",
+                "poster_path": "/galxiHlgfZTCM4xDv4lEU2Toyz7.jpg",
+                "overview": "After the death of his mother, middle-aged insurance employee inherits her small cottage surrounded by a garden. Selling the cottage which is situated on unexploited ground near the center of a big city makes him a rich man and he buys a big house in the countryside. He takes some time off and decides to throw a big garden party at the house and invite all his colleagues from the office. Aided by alcohol, the guests gradually lose all their inhibitions and reveal personality traits and frustrations that they normally keep hidden.",
+                "vote_average": 6.1,
+                "vote_count": 15
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Pedestrian",
+            "second_label": "West Germany",
+            "category": "Foreign Language Film",
+            "year": 1974,
+            "tmdb": {
+                "id": 42460,
+                "original_title": "Der Fu\u00dfg\u00e4nger",
+                "title": "The Pedestrian",
+                "release_date": "1973-09-05",
+                "backdrop_path": null,
+                "poster_path": "/a2x1m5VDigvWqPeofTqP9smlELn.jpg",
+                "overview": "When a German businessman causes a car accident with deadly consequences, the papers start digging into his past to find scandals. What they find causes him to reevaluate his own past during WW2 when he was in Greece.",
+                "vote_average": 6.4,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Turkish Delight",
+            "second_label": "The Netherlands",
+            "category": "Foreign Language Film",
+            "year": 1974,
+            "tmdb": {
+                "id": 21035,
+                "original_title": "Turks Fruit",
+                "title": "Louca Paix\u00e3o",
+                "release_date": "1973-02-22",
+                "backdrop_path": "/2YtfWnpSGfy1vIskzpl24ZOzIBS.jpg",
+                "poster_path": "/eqnlXShKgQbF3prxU6XYrC53z6F.jpg",
+                "overview": "O encontro casual de Olga e Eric acaba se tornando uma paix\u00e3o incontrol\u00e1vel, que os atira contra todas as conven\u00e7\u00f5es sociais.",
+                "vote_average": 6.964,
+                "vote_count": 168
+            },
+            "winner": false
+        }
+    ],
+    "Irving G. Thalberg Memorial Award": [
+        {
+            "first_label": "",
+            "second_label": "Lawrence Weingarten",
+            "category": "Irving G. Thalberg Memorial Award",
+            "year": 1974,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        }
+    ],
+    "Jean Hersholt Humanitarian Award": [
+        {
+            "first_label": "",
+            "second_label": "Lew Wasserman",
+            "category": "Jean Hersholt Humanitarian Award",
+            "year": 1974,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        }
+    ],
+    "Music (Original Dramatic Score)": [
+        {
+            "first_label": "The Way We Were",
+            "second_label": "Marvin Hamlisch",
+            "category": "Music (Original Dramatic Score)",
+            "year": 1974,
+            "tmdb": {
+                "id": 10236,
+                "original_title": "The Way We Were",
+                "title": "Nosso Amor de Ontem",
+                "release_date": "1973-10-17",
+                "backdrop_path": "/ttckKqxzFRtHcHQbR1H07T5PvN4.jpg",
+                "poster_path": "/o5x563ze56iI4iNsCBxTnDkt28i.jpg",
+                "overview": "Em 1937, Katie Morosky (Barbra Streisand), uma judia comunista, desperta a aten\u00e7\u00e3o de Hubbell Gardiner (Robert Redford), um protestante de uma rica fam\u00edlia, em virtude de ser uma pacifista convicta. Cada um segue seu caminho, ele se dedicando a escrever e ela trabalhando em uma r\u00e1dio. Quase oito anos depois os dois se encontram por acaso em Nova York, quando Katie v\u00ea Hubbell, que cochila em uma boate. Provavelmente por serem bem diferentes e os opostos se atraem os dois se apaixonam. Por\u00e9m Katie sente-se pouco \u00e0 vontade com os amigos de Gardiner, sendo que quando algo n\u00e3o a agrada, o que acontece freq\u00fcentemente, \u00e9 motivo para um acalorado protesto. Ap\u00f3s discuss\u00f5es e o fracasso do primeiro livro de Hubbell, eles v\u00e3o para Hollywood, onde Gardiner escrever\u00e1 o roteiro de um filme para J.J. (Bradford Dillman), um amigo de Hubbell que se tornou produtor.",
+                "vote_average": 6.9,
+                "vote_count": 428
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Cinderella Liberty",
+            "second_label": "John Williams",
+            "category": "Music (Original Dramatic Score)",
+            "year": 1974,
+            "tmdb": {
+                "id": 84847,
+                "original_title": "Cinderella Liberty",
+                "title": "Licen\u00e7a para Amar at\u00e9 a Meia-Noite",
+                "release_date": "1973-12-18",
+                "backdrop_path": "/5CmrF7EqhYINcKh5uoS66GVOQyw.jpg",
+                "poster_path": "/6bWZ5rzpbrGZ90zg6KNmx7XKuK2.jpg",
+                "overview": "Marinheiro aproveita folga em Seattle para se divertir. Em jogo de sinuca com uma prostituta, ele vence e ganha o direito de passar a noite com ela. E se apaixona pela mulher e se afei\u00e7oa por seu filho de 10 anos, de quem se torna pai substituto.",
+                "vote_average": 6.9,
+                "vote_count": 24
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Day of the Dolphin",
+            "second_label": "Georges Delerue",
+            "category": "Music (Original Dramatic Score)",
+            "year": 1974,
+            "tmdb": {
+                "id": 42470,
+                "original_title": "The Day of the Dolphin",
+                "title": "O Dia do Golfinho",
+                "release_date": "1973-12-19",
+                "backdrop_path": "/8MrWcsw5HqwRLvvNJS7doDq6xh0.jpg",
+                "poster_path": "/vLztqesi2Dj5Ny74u33GufVzKR6.jpg",
+                "overview": "Dr. Jake Terrell, who has been training a pair of dolphins for many years, has had a breakthrough. He has taught his dolphins to speak and understand English, although they do have a limited vocabulary. When the dolphins are stolen, he discovers they're to be used in an assassination attempt. Now he is in a race to discover who is the target, and where the dolphins are, before the attempt is carried out.",
+                "vote_average": 5.8,
+                "vote_count": 46
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Papillon",
+            "second_label": "Jerry Goldsmith",
+            "category": "Music (Original Dramatic Score)",
+            "year": 1974,
+            "tmdb": {
+                "id": 5924,
+                "original_title": "Papillon",
+                "title": "Papillon",
+                "release_date": "1973-12-13",
+                "backdrop_path": "/1xTUtI25j3TpKtJ7dyFvqCP2qaO.jpg",
+                "poster_path": "/356oqQpug682OERsWV0bGZ0YxwQ.jpg",
+                "overview": "Na d\u00e9cada de 1930, Papillon foi acusado de assassinato e mandado para cumprir pris\u00e3o perp\u00e9tua na Guiana Francesa. As regras da pris\u00e3o s\u00e3o claras: Qualquer um que tentar fugir ganhar\u00e1 como puni\u00e7\u00e3o dois anos de solit\u00e1ria. Isso n\u00e3o \u00e9 o bastante para assustar Papillon, que vai tentar fugir de qualquer maneira com a ajuda de Louis Dega. Em uma das vezes ele quase consegue e vai parar incialmente em uma col\u00f4nia de hansenianos e depois em uma tribo de \u00edndios caribenhos, at\u00e9 chegar na Ilha do Diabo.",
+                "vote_average": 7.8,
+                "vote_count": 1804
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Touch of Class",
+            "second_label": "John Cameron",
+            "category": "Music (Original Dramatic Score)",
+            "year": 1974,
+            "tmdb": {
+                "id": 42458,
+                "original_title": "A Touch of Class",
+                "title": "Um Toque de Classe",
+                "release_date": "1973-05-25",
+                "backdrop_path": "/5RRoVs6zFYD7i1ikn3JyemLWL8v.jpg",
+                "poster_path": "/zWBVZGYyNLwhTAl7h9hpIATmp4m.jpg",
+                "overview": "Steve, a happily married American man living in London meets Vicki, an English divorc\u00e9e and run off to Marbella for a rollicking week of sex. They then return to London to set up a cozy menage, despite the fact that he loves his wife and children, and now realize that he and Vicki have also fallen in love.",
+                "vote_average": 6.1,
+                "vote_count": 51
+            },
+            "winner": false
+        }
+    ],
+    "Music (Scoring: Original Song Score and Adaptation -or- Scoring: Adaptation)": [
+        {
+            "first_label": "The Sting",
+            "second_label": "Adaptation Score by Marvin Hamlisch",
+            "category": "Music (Scoring: Original Song Score and Adaptation -or- Scoring: Adaptation)",
+            "year": 1974,
+            "tmdb": {
+                "id": 9277,
+                "original_title": "The Sting",
+                "title": "Golpe de Mestre",
+                "release_date": "1973-12-25",
+                "backdrop_path": "/tQcbNXoYU7zy1dz96npOlbDgtbq.jpg",
+                "poster_path": "/jEJ0ZucEdSe2nk6OSHFVQkxYZXG.jpg",
+                "overview": "Ap\u00f3s o assassinato de um amigo em comum, o aspirante a vigarista Johnny Hooker junta-se ao velho Henry Gondorff para se vingar de Doyle Lonnega, o cruel chefe respons\u00e1vel pelo crime. Hooker e Gondorff implementam um plano elaborado para que Lonnegan n\u00e3o descubra que est\u00e1 sendo enganado. O grande golpe come\u00e7a a se desenrolar, mas as coisas n\u00e3o saem como planejaram e a destemida dupla faz improvisa\u00e7\u00f5es de \u00faltima hora.",
+                "vote_average": 8.0,
+                "vote_count": 2460
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Jesus Christ Superstar",
+            "second_label": "Adaptation Score by Andre Previn, Herbert Spencer and Andrew Lloyd Webber",
+            "category": "Music (Scoring: Original Song Score and Adaptation -or- Scoring: Adaptation)",
+            "year": 1974,
+            "tmdb": {
+                "id": 12545,
+                "original_title": "Jesus Christ Superstar",
+                "title": "Jesus Cristo Superstar",
+                "release_date": "1973-08-15",
+                "backdrop_path": "/6xB23vOk2EpYDK2CSIen1RAlxYV.jpg",
+                "poster_path": "/2NQgIjHxYyMJZWeUFH5cuKhN4nh.jpg",
+                "overview": "Sob a vis\u00e3o atormentada de Judas Iscariotes (Carl Anderson), conhecemos os sete \u00faltimos dias de Jesus (Ted Neely) na Terra, terminando com a sua crucifica\u00e7\u00e3o, mas sem contar a ressurei\u00e7\u00e3o. A narrativa \u00e9 uma mistura de passado e presente, apresentando soldados romanos que usam metralhadora e perseguem um Cristo hippie. Musical dirigido por Norman Jewison.",
+                "vote_average": 7.029,
+                "vote_count": 524
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tom Sawyer",
+            "second_label": "Song Score by Richard M. Sherman and Robert B. Sherman; Adaptation Score by John Williams",
+            "category": "Music (Scoring: Original Song Score and Adaptation -or- Scoring: Adaptation)",
+            "year": 1974,
+            "tmdb": {
+                "id": 42473,
+                "original_title": "Tom Sawyer",
+                "title": "As Aventuras de Tom Sawyer",
+                "release_date": "1973-03-15",
+                "backdrop_path": "/nvrnKTnMchR2aBDfygWhbMgMXSO.jpg",
+                "poster_path": "/In4e2cLbkemK8t2bBfisgT0iqU.jpg",
+                "overview": "No Missouri de 1850, Tom Sawyer \u00e9 um menino que vive com a Tia Polly, e seu meio irm\u00e3o Sid. Tom faz todas as estrepolias que se espera de uma crian\u00e7a e at\u00e9 se apaixona por Betty Thatcher, que acabou de chegar \u00e0 cidade. Depois, junto com Huck Finn, filho do vagabundo Pap Finn, ele testemunha Injun Joe matar o Doutor Robinson no cemit\u00e9rio. Com medo de Injun Joe, os dois fogem para uma ilha, mas retornam quando s\u00e3o dados como mortos. Quando tem in\u00edcio o julgamento pelo assassinato do doutor, em que o r\u00e9u \u00e9 Muff Potter, eles incriminam Injun Joe. Em seguida, Tom resolve fazer um piquenique com Betty nas famosas Cavernas McDougal, onde s\u00e3o perseguidos por Injun Joe, que fugira da corte...",
+                "vote_average": 6.2,
+                "vote_count": 51
+            },
+            "winner": false
+        }
+    ],
+    "Music (Song)": [
+        {
+            "first_label": "The Way We Were",
+            "second_label": "The Way We Were in \"The Way We Were\" Music by Marvin Hamlisch; Lyrics by Alan Bergman and Marilyn Bergman",
+            "category": "Music (Song)",
+            "year": 1974,
+            "tmdb": {
+                "id": 10236,
+                "original_title": "The Way We Were",
+                "title": "Nosso Amor de Ontem",
+                "release_date": "1973-10-17",
+                "backdrop_path": "/ttckKqxzFRtHcHQbR1H07T5PvN4.jpg",
+                "poster_path": "/o5x563ze56iI4iNsCBxTnDkt28i.jpg",
+                "overview": "Em 1937, Katie Morosky (Barbra Streisand), uma judia comunista, desperta a aten\u00e7\u00e3o de Hubbell Gardiner (Robert Redford), um protestante de uma rica fam\u00edlia, em virtude de ser uma pacifista convicta. Cada um segue seu caminho, ele se dedicando a escrever e ela trabalhando em uma r\u00e1dio. Quase oito anos depois os dois se encontram por acaso em Nova York, quando Katie v\u00ea Hubbell, que cochila em uma boate. Provavelmente por serem bem diferentes e os opostos se atraem os dois se apaixonam. Por\u00e9m Katie sente-se pouco \u00e0 vontade com os amigos de Gardiner, sendo que quando algo n\u00e3o a agrada, o que acontece freq\u00fcentemente, \u00e9 motivo para um acalorado protesto. Ap\u00f3s discuss\u00f5es e o fracasso do primeiro livro de Hubbell, eles v\u00e3o para Hollywood, onde Gardiner escrever\u00e1 o roteiro de um filme para J.J. (Bradford Dillman), um amigo de Hubbell que se tornou produtor.",
+                "vote_average": 6.9,
+                "vote_count": 428
+            },
+            "winner": true
+        },
+        {
+            "first_label": "A Touch of Class",
+            "second_label": "All That Love Went To Waste in \"A Touch of Class\" Music by George Barrie; Lyrics by Sammy Cahn",
+            "category": "Music (Song)",
+            "year": 1974,
+            "tmdb": {
+                "id": 42458,
+                "original_title": "A Touch of Class",
+                "title": "Um Toque de Classe",
+                "release_date": "1973-05-25",
+                "backdrop_path": "/5RRoVs6zFYD7i1ikn3JyemLWL8v.jpg",
+                "poster_path": "/zWBVZGYyNLwhTAl7h9hpIATmp4m.jpg",
+                "overview": "Steve, a happily married American man living in London meets Vicki, an English divorc\u00e9e and run off to Marbella for a rollicking week of sex. They then return to London to set up a cozy menage, despite the fact that he loves his wife and children, and now realize that he and Vicki have also fallen in love.",
+                "vote_average": 6.1,
+                "vote_count": 51
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Live and Let Die",
+            "second_label": "Live And Let Die in \"Live and Let Die\" Music and Lyrics by Paul McCartney and Linda McCartney",
+            "category": "Music (Song)",
+            "year": 1974,
+            "tmdb": {
+                "id": 253,
+                "original_title": "Live and Let Die",
+                "title": "Com 007 Viva e Deixe Morrer",
+                "release_date": "1973-06-27",
+                "backdrop_path": "/v28YYcN5p9hD8PKGAeWLz0ugsfX.jpg",
+                "poster_path": "/uz2oenTkYwKuaXgHkdb15UT7c3o.jpg",
+                "overview": "O tr\u00e1fico de hero\u00edna e a morte de agentes secretos colocam frente a frente James Bond (Roger Moore) e Mr. Big (Yaphet Kotto), o chef\u00e3o do crime em Nova York. Sua organiza\u00e7\u00e3o age impulsionada pelas vis\u00f5es de Solitaire (Jane Seymour), uma cartomante com poderes especiais. Quando conhece Bond, Solitaire perde os seus poderes e \u00e9 condenada a morte em um ritual vudu.",
+                "vote_average": 6.5,
+                "vote_count": 1920
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Robin Hood",
+            "second_label": "Love in \"Robin Hood\" Music by George Bruns; Lyrics by Floyd Huddleston",
+            "category": "Music (Song)",
+            "year": 1974,
+            "tmdb": {
+                "id": 11886,
+                "original_title": "Robin Hood",
+                "title": "Robin Hood",
+                "release_date": "1973-11-08",
+                "backdrop_path": "/b1JNEmsm73g16gR0U20D12pBR3w.jpg",
+                "poster_path": "/ueby0ItqnT53Llu1Z6995Bps8UO.jpg",
+                "overview": "Vers\u00e3o do cl\u00e1ssico Robin Hood com animais silvestres.  Robin Hood \u00e9 um fora-da-lei que decide formar uma gangue na floresta de Sherwood para lutar contra as injusti\u00e7as e tiranias do Pr\u00edncipe Jo\u00e3o e do Xerife de Nottingham.",
+                "vote_average": 7.3,
+                "vote_count": 4169
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Cinderella Liberty",
+            "second_label": "Nice To Be Around in \"Cinderella Liberty\" Music by John Williams; Lyrics by Paul Williams",
+            "category": "Music (Song)",
+            "year": 1974,
+            "tmdb": {
+                "id": 84847,
+                "original_title": "Cinderella Liberty",
+                "title": "Licen\u00e7a para Amar at\u00e9 a Meia-Noite",
+                "release_date": "1973-12-18",
+                "backdrop_path": "/5CmrF7EqhYINcKh5uoS66GVOQyw.jpg",
+                "poster_path": "/6bWZ5rzpbrGZ90zg6KNmx7XKuK2.jpg",
+                "overview": "Marinheiro aproveita folga em Seattle para se divertir. Em jogo de sinuca com uma prostituta, ele vence e ganha o direito de passar a noite com ela. E se apaixona pela mulher e se afei\u00e7oa por seu filho de 10 anos, de quem se torna pai substituto.",
+                "vote_average": 6.9,
+                "vote_count": 24
+            },
+            "winner": false
+        }
+    ],
+    "Best Picture": [
+        {
+            "first_label": "The Sting",
+            "second_label": "Tony Bill, Michael Phillips and Julia Phillips, Producers",
+            "category": "Best Picture",
+            "year": 1974,
+            "tmdb": {
+                "id": 9277,
+                "original_title": "The Sting",
+                "title": "Golpe de Mestre",
+                "release_date": "1973-12-25",
+                "backdrop_path": "/tQcbNXoYU7zy1dz96npOlbDgtbq.jpg",
+                "poster_path": "/jEJ0ZucEdSe2nk6OSHFVQkxYZXG.jpg",
+                "overview": "Ap\u00f3s o assassinato de um amigo em comum, o aspirante a vigarista Johnny Hooker junta-se ao velho Henry Gondorff para se vingar de Doyle Lonnega, o cruel chefe respons\u00e1vel pelo crime. Hooker e Gondorff implementam um plano elaborado para que Lonnegan n\u00e3o descubra que est\u00e1 sendo enganado. O grande golpe come\u00e7a a se desenrolar, mas as coisas n\u00e3o saem como planejaram e a destemida dupla faz improvisa\u00e7\u00f5es de \u00faltima hora.",
+                "vote_average": 8.0,
+                "vote_count": 2460
+            },
+            "winner": true
+        },
+        {
+            "first_label": "American Graffiti",
+            "second_label": "Francis Ford Coppola, Producer;  Gary Kurtz, Co-Producer",
+            "category": "Best Picture",
+            "year": 1974,
+            "tmdb": {
+                "id": 838,
+                "original_title": "American Graffiti",
+                "title": "Loucuras de Ver\u00e3o",
+                "release_date": "1973-08-11",
+                "backdrop_path": "/6kzYm1u9DOVhKZ2DyqZNUZ9yLdy.jpg",
+                "poster_path": "/nuTqifFwXdGeTOzpWQwFtzDw5KF.jpg",
+                "overview": "Anos 60, interior dos Estados Unidos, no final de ver\u00e3o, um grupo de jovens tenta curtir ao m\u00e1ximo a \u00faltima noite de f\u00e9rias. Curt e Steve conseguiram entrar numa das universidade mais conceituadas do pa\u00eds, e agora ter\u00e3o de mudar de cidade. Enquanto Curt tenta fazer sua \"despedida\", o amigo Steve faz de tudo para convencer sua namorada de que eles devem continuar juntos. Enquanto isso, seus outros amigos t\u00eam uma noite de aventuras, envolvendo descobertas sobre o amor, a amizade, a fam\u00edlia e a vida.",
+                "vote_average": 7.0,
+                "vote_count": 1341
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Cries and Whispers",
+            "second_label": "Ingmar Bergman, Producer",
+            "category": "Best Picture",
+            "year": 1974,
+            "tmdb": {
+                "id": 10238,
+                "original_title": "Viskningar och rop",
+                "title": "Gritos e Sussurros",
+                "release_date": "1972-12-21",
+                "backdrop_path": "/xmLgdb0yDBXa7Dlo3aCzjhjCkuE.jpg",
+                "poster_path": "/4Sk198bnw1VH68mUwr5meJinJOW.jpg",
+                "overview": "Em uma casa no campo uma mulher est\u00e1 bastante enferma e recebe cuidados de suas duas irm\u00e3s e de uma empregada da fam\u00edlia, que precocemente perdeu sua filha e por isso extravaza seu amor de m\u00e3e dando o maior carinho poss\u00edvel para aquela mo\u00e7a t\u00e3o debilitada. Dentro deste contexto lembran\u00e7as, frustra\u00e7\u00f5es e imagina\u00e7\u00f5es em um misto de amor e \u00f3dio surgem no interior de cada pessoa.",
+                "vote_average": 7.9,
+                "vote_count": 643
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Exorcist",
+            "second_label": "William Peter Blatty, Producer",
+            "category": "Best Picture",
+            "year": 1974,
+            "tmdb": {
+                "id": 9552,
+                "original_title": "The Exorcist",
+                "title": "O Exorcista",
+                "release_date": "1973-12-26",
+                "backdrop_path": "/huC0x1don81NMreSGx4ITkrv9aG.jpg",
+                "poster_path": "/bYTMDg3eGFuO7emXbQip02a8zvQ.jpg",
+                "overview": "Em Georgetown, Washington, uma atriz vai gradativamente tomando consci\u00eancia que a sua filha de doze anos est\u00e1 tendo um comportamento completamente assustador. Deste modo, ela pede ajuda a um padre, que tamb\u00e9m um psiquiatra, e este chega a conclus\u00e3o de que a garota est\u00e1 possu\u00edda pelo dem\u00f4nio. Ele solicita ent\u00e3o a ajuda de um segundo sacerdote, especialista em exorcismo, para tentar livrar a menina desta terr\u00edvel possess\u00e3o.",
+                "vote_average": 7.7,
+                "vote_count": 7619
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Touch of Class",
+            "second_label": "Melvin Frank, Producer",
+            "category": "Best Picture",
+            "year": 1974,
+            "tmdb": {
+                "id": 42458,
+                "original_title": "A Touch of Class",
+                "title": "Um Toque de Classe",
+                "release_date": "1973-05-25",
+                "backdrop_path": "/5RRoVs6zFYD7i1ikn3JyemLWL8v.jpg",
+                "poster_path": "/zWBVZGYyNLwhTAl7h9hpIATmp4m.jpg",
+                "overview": "Steve, a happily married American man living in London meets Vicki, an English divorc\u00e9e and run off to Marbella for a rollicking week of sex. They then return to London to set up a cozy menage, despite the fact that he loves his wife and children, and now realize that he and Vicki have also fallen in love.",
+                "vote_average": 6.1,
+                "vote_count": 51
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Animated)": [
+        {
+            "first_label": "Frank Film",
+            "second_label": "Frank Mouris, Producer",
+            "category": "Short Subject (Animated)",
+            "year": 1974,
+            "tmdb": {
+                "id": 147199,
+                "original_title": "Frank Film",
+                "title": "Frank Film",
+                "release_date": "1973-04-13",
+                "backdrop_path": null,
+                "poster_path": "/9HwTuIINMo619CKzRFe53l6VG4W.jpg",
+                "overview": "A compilation of images co-creator Frank Mouris had collected from magazines interwoven with two narrations, one giving a mostly linear autobiography and the other stating words having to do with the images, the story the first voice is relating, or neither.  Preserved by the Academy Film Archive.",
+                "vote_average": 5.8,
+                "vote_count": 28
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Legend of John Henry",
+            "second_label": "Nick Bosustow and David Adams, Producers",
+            "category": "Short Subject (Animated)",
+            "year": 1974,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Pulcinella",
+            "second_label": "Emanuele Luzzati and Giulio Gianini, Producers",
+            "category": "Short Subject (Animated)",
+            "year": 1974,
+            "tmdb": {
+                "id": 243373,
+                "original_title": "Pulcinella",
+                "title": "Pulcinella",
+                "release_date": "1973-01-01",
+                "backdrop_path": "/iWcFOgqPRL8MqqiwXexeN66JuC7.jpg",
+                "poster_path": "/5z3oBFnZwtuPudtNKvpLEIMYYax.jpg",
+                "overview": "Oscar nominated animated short from 1973. Pulcinella dreams himself into a wild nightmare of a dream that leads us through an abstract world.",
+                "vote_average": 6.0,
+                "vote_count": 4
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Live Action)": [
+        {
+            "first_label": "The Bolero",
+            "second_label": "Allan Miller and William Fertik, Producers",
+            "category": "Short Subject (Live Action)",
+            "year": 1974,
+            "tmdb": {
+                "id": 243375,
+                "original_title": "The Bolero",
+                "title": "The Bolero",
+                "release_date": "1973-10-01",
+                "backdrop_path": null,
+                "poster_path": "/1WhLyiYCenpHNuVjKrOiBpE3xNK.jpg",
+                "overview": "The first part of this Academy Award-winning short consists of a behind-the-scenes look at the Los Angeles Philharmonic Orchestra as it prepares to perform Ravel's \"Bolero.\" Individual musicians offer their thoughts as workers set up chairs and music stands; there are also comments by conductor Zubin Mehta and scenes of Mehta and the orchestra rehearsing. The rest of the film features a complete performance of \"Bolero\" with striking images of the orchestra as the music relentlessly approaches its climax.",
+                "vote_average": 5.7,
+                "vote_count": 6
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Clockmaker",
+            "second_label": "Richard Gayer, Producer",
+            "category": "Short Subject (Live Action)",
+            "year": 1974,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Life Times Nine",
+            "second_label": "Pen Densham and John Watson, Producers",
+            "category": "Short Subject (Live Action)",
+            "year": 1974,
+            "tmdb": {
+                "id": 243378,
+                "original_title": "Life Times Nine",
+                "title": "Life Times Nine",
+                "release_date": "1973-10-01",
+                "backdrop_path": null,
+                "poster_path": "/7yfPKtqXhPqglb3iNswyPYQ2Fy3.jpg",
+                "overview": "Oscar nominated short film from 1973.\r Life Times Nine is a Canadian short film produced by Insight Productions in conjunction with a group of nine students from Toronto, Ontario\u2019s SEED Alternative School, the film\u2019s concept was for each student to produce and direct their own short film on the concept of life.",
+                "vote_average": 5.0,
+                "vote_count": 3
+            },
+            "winner": false
+        }
+    ],
+    "Sound": [
+        {
+            "first_label": "The Exorcist",
+            "second_label": "Robert Knudson, Chris Newman",
+            "category": "Sound",
+            "year": 1974,
+            "tmdb": {
+                "id": 9552,
+                "original_title": "The Exorcist",
+                "title": "O Exorcista",
+                "release_date": "1973-12-26",
+                "backdrop_path": "/huC0x1don81NMreSGx4ITkrv9aG.jpg",
+                "poster_path": "/bYTMDg3eGFuO7emXbQip02a8zvQ.jpg",
+                "overview": "Em Georgetown, Washington, uma atriz vai gradativamente tomando consci\u00eancia que a sua filha de doze anos est\u00e1 tendo um comportamento completamente assustador. Deste modo, ela pede ajuda a um padre, que tamb\u00e9m um psiquiatra, e este chega a conclus\u00e3o de que a garota est\u00e1 possu\u00edda pelo dem\u00f4nio. Ele solicita ent\u00e3o a ajuda de um segundo sacerdote, especialista em exorcismo, para tentar livrar a menina desta terr\u00edvel possess\u00e3o.",
+                "vote_average": 7.7,
+                "vote_count": 7619
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Day of the Dolphin",
+            "second_label": "Richard Portman, Lawrence O. Jost",
+            "category": "Sound",
+            "year": 1974,
+            "tmdb": {
+                "id": 42470,
+                "original_title": "The Day of the Dolphin",
+                "title": "O Dia do Golfinho",
+                "release_date": "1973-12-19",
+                "backdrop_path": "/8MrWcsw5HqwRLvvNJS7doDq6xh0.jpg",
+                "poster_path": "/vLztqesi2Dj5Ny74u33GufVzKR6.jpg",
+                "overview": "Dr. Jake Terrell, who has been training a pair of dolphins for many years, has had a breakthrough. He has taught his dolphins to speak and understand English, although they do have a limited vocabulary. When the dolphins are stolen, he discovers they're to be used in an assassination attempt. Now he is in a race to discover who is the target, and where the dolphins are, before the attempt is carried out.",
+                "vote_average": 5.8,
+                "vote_count": 46
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Paper Chase",
+            "second_label": "Donald O. Mitchell, Lawrence O. Jost",
+            "category": "Sound",
+            "year": 1974,
+            "tmdb": {
+                "id": 14328,
+                "original_title": "The Paper Chase",
+                "title": "The Paper Chase",
+                "release_date": "1973-10-16",
+                "backdrop_path": "/28Jz3kUpJ2v0GzbrzcC6lRd6sWH.jpg",
+                "poster_path": "/xqdGdasqPEV1mtWGIA1x8mrWOAe.jpg",
+                "overview": "A first-year law student struggles with balancing his coursework and his relationship with the daughter of a stern professor.",
+                "vote_average": 6.8,
+                "vote_count": 99
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Paper Moon",
+            "second_label": "Richard Portman, Les Fresholtz",
+            "category": "Sound",
+            "year": 1974,
+            "tmdb": {
+                "id": 11293,
+                "original_title": "Paper Moon",
+                "title": "Lua de Papel",
+                "release_date": "1973-05-09",
+                "backdrop_path": "/uT4kkHCNZvvFBA5Xdx7JTF3GuCH.jpg",
+                "poster_path": "/zmUU5bh5vBqInapjnQSHpsaLWTG.jpg",
+                "overview": "Addie Loggins (Tatum O'Neal) \u00e9 uma jovem de apenas nove anos que se torna \u00f3rf\u00e3. Ela ent\u00e3o passa aos cuidados de Moses Pray (Ryan O'Neal), vigarista disfar\u00e7ado de vendedor de b\u00edblias, que a levar\u00e1 a uma aventura inesquec\u00edvel. Tatum O'Neal com 9 anos ganhou o Oscar de Melhor Atriz Coadjuvante em 1973. \u00c9 a atriz mais jovem a ganhar um Oscar at\u00e9 hoje.",
+                "vote_average": 7.8,
+                "vote_count": 667
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Sting",
+            "second_label": "Ronald K. Pierce, Robert Bertrand",
+            "category": "Sound",
+            "year": 1974,
+            "tmdb": {
+                "id": 9277,
+                "original_title": "The Sting",
+                "title": "Golpe de Mestre",
+                "release_date": "1973-12-25",
+                "backdrop_path": "/tQcbNXoYU7zy1dz96npOlbDgtbq.jpg",
+                "poster_path": "/jEJ0ZucEdSe2nk6OSHFVQkxYZXG.jpg",
+                "overview": "Ap\u00f3s o assassinato de um amigo em comum, o aspirante a vigarista Johnny Hooker junta-se ao velho Henry Gondorff para se vingar de Doyle Lonnega, o cruel chefe respons\u00e1vel pelo crime. Hooker e Gondorff implementam um plano elaborado para que Lonnegan n\u00e3o descubra que est\u00e1 sendo enganado. O grande golpe come\u00e7a a se desenrolar, mas as coisas n\u00e3o saem como planejaram e a destemida dupla faz improvisa\u00e7\u00f5es de \u00faltima hora.",
+                "vote_average": 8.0,
+                "vote_count": 2460
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay--based on material from another medium)": [
+        {
+            "first_label": "The Exorcist",
+            "second_label": "William Peter Blatty",
+            "category": "Writing (Screenplay--based on material from another medium)",
+            "year": 1974,
+            "tmdb": {
+                "id": 9552,
+                "original_title": "The Exorcist",
+                "title": "O Exorcista",
+                "release_date": "1973-12-26",
+                "backdrop_path": "/huC0x1don81NMreSGx4ITkrv9aG.jpg",
+                "poster_path": "/bYTMDg3eGFuO7emXbQip02a8zvQ.jpg",
+                "overview": "Em Georgetown, Washington, uma atriz vai gradativamente tomando consci\u00eancia que a sua filha de doze anos est\u00e1 tendo um comportamento completamente assustador. Deste modo, ela pede ajuda a um padre, que tamb\u00e9m um psiquiatra, e este chega a conclus\u00e3o de que a garota est\u00e1 possu\u00edda pelo dem\u00f4nio. Ele solicita ent\u00e3o a ajuda de um segundo sacerdote, especialista em exorcismo, para tentar livrar a menina desta terr\u00edvel possess\u00e3o.",
+                "vote_average": 7.7,
+                "vote_count": 7619
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Last Detail",
+            "second_label": "Robert Towne",
+            "category": "Writing (Screenplay--based on material from another medium)",
+            "year": 1974,
+            "tmdb": {
+                "id": 14886,
+                "original_title": "The Last Detail",
+                "title": "A \u00daltima Miss\u00e3o",
+                "release_date": "1973-12-11",
+                "backdrop_path": "/kyDesXA3VEx74ua1ZGAoYmzvjCc.jpg",
+                "poster_path": "/zQoNkO99qfaBjh5aoA0pKau1prp.jpg",
+                "overview": "Buddusky (Jack Nicholson) e Mulhall (Otis Young), dois veteranos da marinha, s\u00e3o encarregados de escoltar o jovem Meadows (Randy Quaid) para a pris\u00e3o em Portsmouth. Durante essa viagem, o rapaz vai aprender importantes li\u00e7\u00f5es sobre a vida.",
+                "vote_average": 7.0,
+                "vote_count": 333
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Paper Chase",
+            "second_label": "James Bridges",
+            "category": "Writing (Screenplay--based on material from another medium)",
+            "year": 1974,
+            "tmdb": {
+                "id": 14328,
+                "original_title": "The Paper Chase",
+                "title": "The Paper Chase",
+                "release_date": "1973-10-16",
+                "backdrop_path": "/28Jz3kUpJ2v0GzbrzcC6lRd6sWH.jpg",
+                "poster_path": "/xqdGdasqPEV1mtWGIA1x8mrWOAe.jpg",
+                "overview": "A first-year law student struggles with balancing his coursework and his relationship with the daughter of a stern professor.",
+                "vote_average": 6.8,
+                "vote_count": 99
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Paper Moon",
+            "second_label": "Alvin Sargent",
+            "category": "Writing (Screenplay--based on material from another medium)",
+            "year": 1974,
+            "tmdb": {
+                "id": 11293,
+                "original_title": "Paper Moon",
+                "title": "Lua de Papel",
+                "release_date": "1973-05-09",
+                "backdrop_path": "/uT4kkHCNZvvFBA5Xdx7JTF3GuCH.jpg",
+                "poster_path": "/zmUU5bh5vBqInapjnQSHpsaLWTG.jpg",
+                "overview": "Addie Loggins (Tatum O'Neal) \u00e9 uma jovem de apenas nove anos que se torna \u00f3rf\u00e3. Ela ent\u00e3o passa aos cuidados de Moses Pray (Ryan O'Neal), vigarista disfar\u00e7ado de vendedor de b\u00edblias, que a levar\u00e1 a uma aventura inesquec\u00edvel. Tatum O'Neal com 9 anos ganhou o Oscar de Melhor Atriz Coadjuvante em 1973. \u00c9 a atriz mais jovem a ganhar um Oscar at\u00e9 hoje.",
+                "vote_average": 7.8,
+                "vote_count": 667
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Serpico",
+            "second_label": "Waldo Salt, Norman Wexler",
+            "category": "Writing (Screenplay--based on material from another medium)",
+            "year": 1974,
+            "tmdb": {
+                "id": 9040,
+                "original_title": "Serpico",
+                "title": "Serpico",
+                "release_date": "1973-12-18",
+                "backdrop_path": "/jQbebNCnS4Dqv8jGulLfSEmjuE7.jpg",
+                "poster_path": "/c7fENg2o6SBBtL3z4V9xTAnEoDJ.jpg",
+                "overview": "A hist\u00f3ria real de um policial honesto de Nova York que denunciou a corrup\u00e7\u00e3o na pol\u00edcia, e como consequ\u00eancia seus colegas se voltaram contra ele.",
+                "vote_average": 7.5,
+                "vote_count": 1805
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Story and Screenplay--based on factual material or material not previously published or produced)": [
+        {
+            "first_label": "The Sting",
+            "second_label": "David S. Ward",
+            "category": "Writing (Story and Screenplay--based on factual material or material not previously published or produced)",
+            "year": 1974,
+            "tmdb": {
+                "id": 9277,
+                "original_title": "The Sting",
+                "title": "Golpe de Mestre",
+                "release_date": "1973-12-25",
+                "backdrop_path": "/tQcbNXoYU7zy1dz96npOlbDgtbq.jpg",
+                "poster_path": "/jEJ0ZucEdSe2nk6OSHFVQkxYZXG.jpg",
+                "overview": "Ap\u00f3s o assassinato de um amigo em comum, o aspirante a vigarista Johnny Hooker junta-se ao velho Henry Gondorff para se vingar de Doyle Lonnega, o cruel chefe respons\u00e1vel pelo crime. Hooker e Gondorff implementam um plano elaborado para que Lonnegan n\u00e3o descubra que est\u00e1 sendo enganado. O grande golpe come\u00e7a a se desenrolar, mas as coisas n\u00e3o saem como planejaram e a destemida dupla faz improvisa\u00e7\u00f5es de \u00faltima hora.",
+                "vote_average": 8.0,
+                "vote_count": 2460
+            },
+            "winner": true
+        },
+        {
+            "first_label": "American Graffiti",
+            "second_label": "George Lucas, Gloria Katz, Willard Huyck",
+            "category": "Writing (Story and Screenplay--based on factual material or material not previously published or produced)",
+            "year": 1974,
+            "tmdb": {
+                "id": 838,
+                "original_title": "American Graffiti",
+                "title": "Loucuras de Ver\u00e3o",
+                "release_date": "1973-08-11",
+                "backdrop_path": "/6kzYm1u9DOVhKZ2DyqZNUZ9yLdy.jpg",
+                "poster_path": "/nuTqifFwXdGeTOzpWQwFtzDw5KF.jpg",
+                "overview": "Anos 60, interior dos Estados Unidos, no final de ver\u00e3o, um grupo de jovens tenta curtir ao m\u00e1ximo a \u00faltima noite de f\u00e9rias. Curt e Steve conseguiram entrar numa das universidade mais conceituadas do pa\u00eds, e agora ter\u00e3o de mudar de cidade. Enquanto Curt tenta fazer sua \"despedida\", o amigo Steve faz de tudo para convencer sua namorada de que eles devem continuar juntos. Enquanto isso, seus outros amigos t\u00eam uma noite de aventuras, envolvendo descobertas sobre o amor, a amizade, a fam\u00edlia e a vida.",
+                "vote_average": 7.0,
+                "vote_count": 1341
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Cries and Whispers",
+            "second_label": "Ingmar Bergman",
+            "category": "Writing (Story and Screenplay--based on factual material or material not previously published or produced)",
+            "year": 1974,
+            "tmdb": {
+                "id": 10238,
+                "original_title": "Viskningar och rop",
+                "title": "Gritos e Sussurros",
+                "release_date": "1972-12-21",
+                "backdrop_path": "/xmLgdb0yDBXa7Dlo3aCzjhjCkuE.jpg",
+                "poster_path": "/4Sk198bnw1VH68mUwr5meJinJOW.jpg",
+                "overview": "Em uma casa no campo uma mulher est\u00e1 bastante enferma e recebe cuidados de suas duas irm\u00e3s e de uma empregada da fam\u00edlia, que precocemente perdeu sua filha e por isso extravaza seu amor de m\u00e3e dando o maior carinho poss\u00edvel para aquela mo\u00e7a t\u00e3o debilitada. Dentro deste contexto lembran\u00e7as, frustra\u00e7\u00f5es e imagina\u00e7\u00f5es em um misto de amor e \u00f3dio surgem no interior de cada pessoa.",
+                "vote_average": 7.9,
+                "vote_count": 643
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Save the Tiger",
+            "second_label": "Steve Shagan",
+            "category": "Writing (Story and Screenplay--based on factual material or material not previously published or produced)",
+            "year": 1974,
+            "tmdb": {
+                "id": 38714,
+                "original_title": "Save the Tiger",
+                "title": "Sonhos do Passado",
+                "release_date": "1973-02-14",
+                "backdrop_path": "/iKRUOex2tI0fZ1kDUdOE3K0ej22.jpg",
+                "poster_path": "/zPSKNhUaAPAmaLvpG9bhMWAdLcu.jpg",
+                "overview": "Harry Stoner (Jack Lemmon) est\u00e1 em crise com sua vida pessoal e profissional. Ele come\u00e7a a ultrapassar sua conduta moral oferecendo prostitutas a clientes e, at\u00e9 mesmo, arma um plano para tentar incendiar a f\u00e1brica onde trabalha para faturar o dinheiro do seguro. Oscar de Melhor Ator para Jack Lemmon.",
+                "vote_average": 6.6,
+                "vote_count": 76
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Touch of Class",
+            "second_label": "Melvin Frank, Jack Rose",
+            "category": "Writing (Story and Screenplay--based on factual material or material not previously published or produced)",
+            "year": 1974,
+            "tmdb": {
+                "id": 42458,
+                "original_title": "A Touch of Class",
+                "title": "Um Toque de Classe",
+                "release_date": "1973-05-25",
+                "backdrop_path": "/5RRoVs6zFYD7i1ikn3JyemLWL8v.jpg",
+                "poster_path": "/zWBVZGYyNLwhTAl7h9hpIATmp4m.jpg",
+                "overview": "Steve, a happily married American man living in London meets Vicki, an English divorc\u00e9e and run off to Marbella for a rollicking week of sex. They then return to London to set up a cozy menage, despite the fact that he loves his wife and children, and now realize that he and Vicki have also fallen in love.",
+                "vote_average": 6.1,
+                "vote_count": 51
+            },
+            "winner": false
+        }
+    ]
+}
