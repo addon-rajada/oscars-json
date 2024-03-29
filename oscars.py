@@ -52,7 +52,7 @@ def get_ids(title, year):
 		}
 		total_found += 1
 
-		if release_year not in [int(year) + 1, int(year), int(year) - 1, int(year) - 2]: # check if is a valid movie result for given year. may occur outliers
+		if release_year not in [int(year) + 1, int(year), int(year) - 1, int(year) - 2, int(year) - 3]: # check if is a valid movie result for given year. may occur outliers
 			invalid_year_results.append({
 				'title': title,
 				'year': year,
@@ -115,8 +115,8 @@ def main():
 
 	global cached_hits, total_searches, invalid_year_results, total_found, total_not_found
 
-	start_year = 1948
-	end_year = 1951 #datetime.now().year + 1
+	start_year = 1951
+	end_year = 1971 #datetime.now().year + 1
 	years = [[y] for y in range(start_year, end_year)]
 
 	#final_result = {}

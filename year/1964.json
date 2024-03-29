@@ -1,0 +1,2070 @@
+{
+    "Actor": [
+        {
+            "first_label": "Sidney Poitier",
+            "second_label": "Lilies of the Field",
+            "category": "Actor",
+            "year": 1964,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Albert Finney",
+            "second_label": "Tom Jones",
+            "category": "Actor",
+            "year": 1964,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Richard Harris",
+            "second_label": "This Sporting Life",
+            "category": "Actor",
+            "year": 1964,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rex Harrison",
+            "second_label": "Cleopatra",
+            "category": "Actor",
+            "year": 1964,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Paul Newman",
+            "second_label": "Hud",
+            "category": "Actor",
+            "year": 1964,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Melvyn Douglas",
+            "second_label": "Hud",
+            "category": "Actor in a Supporting Role",
+            "year": 1964,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Nick Adams",
+            "second_label": "Twilight of Honor",
+            "category": "Actor in a Supporting Role",
+            "year": 1964,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Bobby Darin",
+            "second_label": "Captain Newman, M.D.",
+            "category": "Actor in a Supporting Role",
+            "year": 1964,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hugh Griffith",
+            "second_label": "Tom Jones",
+            "category": "Actor in a Supporting Role",
+            "year": 1964,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "John Huston",
+            "second_label": "The Cardinal",
+            "category": "Actor in a Supporting Role",
+            "year": 1964,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress": [
+        {
+            "first_label": "Patricia Neal",
+            "second_label": "Hud",
+            "category": "Actress",
+            "year": 1964,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Leslie Caron",
+            "second_label": "The L-Shaped Room",
+            "category": "Actress",
+            "year": 1964,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Shirley MacLaine",
+            "second_label": "Irma La Douce",
+            "category": "Actress",
+            "year": 1964,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rachel Roberts",
+            "second_label": "This Sporting Life",
+            "category": "Actress",
+            "year": 1964,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Natalie Wood",
+            "second_label": "Love with the Proper Stranger",
+            "category": "Actress",
+            "year": 1964,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Margaret Rutherford",
+            "second_label": "The V.I.P.s",
+            "category": "Actress in a Supporting Role",
+            "year": 1964,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Diane Cilento",
+            "second_label": "Tom Jones",
+            "category": "Actress in a Supporting Role",
+            "year": 1964,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dame Edith Evans",
+            "second_label": "Tom Jones",
+            "category": "Actress in a Supporting Role",
+            "year": 1964,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Joyce Redman",
+            "second_label": "Tom Jones",
+            "category": "Actress in a Supporting Role",
+            "year": 1964,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lilia Skala",
+            "second_label": "Lilies of the Field",
+            "category": "Actress in a Supporting Role",
+            "year": 1964,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction (Black-and-White)": [
+        {
+            "first_label": "America America",
+            "second_label": "Gene Callahan",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1964,
+            "tmdb": {
+                "id": 47249,
+                "original_title": "America America",
+                "title": "America America",
+                "release_date": "1963-12-15",
+                "backdrop_path": "/igFjSTMsZOPDcY54utYWxvgM96Q.jpg",
+                "poster_path": "/76RffKrNPrfA4TWYkx5wIIOzOlV.jpg",
+                "overview": "A young Anatolian Greek, entrusted with his family's fortune, loses it en route to Istanbul and dreams of going to America.",
+                "vote_average": 6.9,
+                "vote_count": 79
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Federico Fellini's 8-1/2",
+            "second_label": "Piero Gherardi",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1964,
+            "tmdb": {
+                "id": 422,
+                "original_title": "8\u00bd",
+                "title": "8\u00bd",
+                "release_date": "1963-02-14",
+                "backdrop_path": "/hiXMQiwpa0fqPJxWLSMWTbpiWn8.jpg",
+                "poster_path": "/kblgLW8fVPChohNxUbkfBQ94It0.jpg",
+                "overview": "Prestes a rodar sua pr\u00f3xima obra, o cineasta Guido Anselmi (Marcello Mastroianni) ainda n\u00e3o tem id\u00e9ia de como ser\u00e1 o filme. Mergulhado em uma crise existencial e pressionado pelo produtor, pela mulher, pela amante e pelos amigos, ele se interna em uma esta\u00e7\u00e3o de \u00e1guas e passa a misturar o passado com o presente, fic\u00e7\u00e3o com realidade.",
+                "vote_average": 8.2,
+                "vote_count": 2155
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hud",
+            "second_label": "Art Direction: Hal Pereira, Tambi Larsen; Set Decoration: Sam Comer, Robert Benton",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1964,
+            "tmdb": {
+                "id": 24748,
+                "original_title": "Hud",
+                "title": "O Indomado",
+                "release_date": "1963-05-28",
+                "backdrop_path": "/lFZKCyfqqCaK94TftFVKcXcSIOw.jpg",
+                "poster_path": "/A168bF52vmAIGkC2Qafj7M2EmaE.jpg",
+                "overview": "Hud Bannon \u00e9 um jovem implac\u00e1vel que mancha tudo e todos os que ele toca. Hud representa a encarna\u00e7\u00e3o perfeita da juventude alienada, pronto para brigar sem levar em conta as consequ\u00eancias. H\u00e1 um amargo conflito entre o insens\u00edvel Hud e seu severo e cheio de princ\u00edpios pai, Homer. Lon, seu sobrinho, admira os truques e trapa\u00e7as de Hud, embora logo se perceba que a amoralidade imprudente de Hud n\u00e3o o sustentaria. No mundo dos ganhadores e perdedores  Hud \u00e9 um vencedor. Ele \u00e9 um trapaceiro, mas, ele explica: \"Eu sempre digo que a lei deveria ser interpretada de maneira indulgente\". (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.2,
+                "vote_count": 282
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Love with the Proper Stranger",
+            "second_label": "Art Direction: Hal Pereira, Roland Anderson; Set Decoration: Sam Comer, Grace Gregory",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1964,
+            "tmdb": {
+                "id": 39495,
+                "original_title": "Love with the Proper Stranger",
+                "title": "O Pre\u00e7o de um Prazer",
+                "release_date": "1963-12-25",
+                "backdrop_path": "/3uxGjhSt2uXA1GZ3sZ05SG08SiN.jpg",
+                "poster_path": "/1Dzre2aAiLZhAW03FlJ1n6YwQSN.jpg",
+                "overview": "Angie Rossini \u00e9 uma jovem e inocente (Cat\u00f3lica Italiana) vendedora da Macy, que descobre que est\u00e1 gr\u00e1vida de Rocky, um m\u00fasico. Angie encontra Rocky (que em um primeiro momento n\u00e3o se lembra dela) para dizer-lhe que est\u00e1 gr\u00e1vida e precisa de um m\u00e9dico para fazer um aborto. Ele acha um m\u00e9dico e eles trabalham juntos para levantar o dinheiro. Ser\u00e1 que esses dois estranhos encontrar\u00e3o o amor um no outro antes que seja tarde demais?",
+                "vote_average": 6.7,
+                "vote_count": 56
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Twilight of Honor",
+            "second_label": "Art Direction: George W. Davis, Paul Groesse; Set Decoration: Henry Grace, Hugh Hunt",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1964,
+            "tmdb": {
+                "id": 138990,
+                "original_title": "Twilight of Honor",
+                "title": "Twilight of Honor",
+                "release_date": "1963-11-13",
+                "backdrop_path": null,
+                "poster_path": "/fPDLLkGllhpderQf9YWZ9Le6utm.jpg",
+                "overview": "A young lawyer defends a drifter accused of murder that he has already confessed to. He asks a retired, legendary lawyer for help.",
+                "vote_average": 6.7,
+                "vote_count": 7
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction (Color)": [
+        {
+            "first_label": "Cleopatra",
+            "second_label": "Art Direction: John DeCuir, Jack Martin Smith, Hilyard Brown, Herman Blumenthal, Elven Webb, Maurice Pelling, Boris Juraga; Set Decoration: Walter M. Scott, Paul S. Fox, Ray Moyer",
+            "category": "Art Direction (Color)",
+            "year": 1964,
+            "tmdb": {
+                "id": 8095,
+                "original_title": "Cleopatra",
+                "title": "Cle\u00f3patra",
+                "release_date": "1963-06-12",
+                "backdrop_path": "/qQGHkmLWPcMGkKws78pFh14SzUo.jpg",
+                "poster_path": "/zGz6N0Gj9LWvrRrUTgkGqmxqr5s.jpg",
+                "overview": "O filme narra a ascens\u00e3o e o decl\u00ednio de Cle\u00f3patra, rainha do Egito, sua luta para defender o imp\u00e9rio das ambi\u00e7\u00f5es pol\u00edticas e territoriais de Roma e seu relacionamento com J\u00falio C\u00e9sar e Marco Ant\u00f4nio.",
+                "vote_average": 7.1,
+                "vote_count": 698
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Cardinal",
+            "second_label": "Art Direction: Lyle Wheeler; Set Decoration: Gene Callahan",
+            "category": "Art Direction (Color)",
+            "year": 1964,
+            "tmdb": {
+                "id": 3010,
+                "original_title": "The Cardinal",
+                "title": "O Cardeal",
+                "release_date": "1963-12-12",
+                "backdrop_path": "/qmSndmoRi5s3F4zTZpVvBIYcmTc.jpg",
+                "poster_path": "/alXyPH1AZEdNP9vlbcCo3rlOJhq.jpg",
+                "overview": "Um jovem padre cat\u00f3lico de Boston enfrenta o fanatismo, o nazismo e seus pr\u00f3prios conflitos pessoais ao subir ao cargo de cardeal. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.5,
+                "vote_count": 41
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Come Blow Your Horn",
+            "second_label": "Art Direction: Hal Pereira, Roland Anderson; Set Decoration: Sam Comer, James Payne",
+            "category": "Art Direction (Color)",
+            "year": 1964,
+            "tmdb": {
+                "id": 33729,
+                "original_title": "Come Blow Your Horn",
+                "title": "O Bem Amado",
+                "release_date": "1963-06-05",
+                "backdrop_path": "/4h91n6QBOAuTxFzUmOCtfsUARpz.jpg",
+                "poster_path": "/b5YVP5Kncb6colRZoMwe5EtnT2t.jpg",
+                "overview": "The story of a young man's decision to leave the home of his parents for the bachelor pad of his older brother who leads a swinging '60s lifestyle.",
+                "vote_average": 4.8,
+                "vote_count": 17
+            },
+            "winner": false
+        },
+        {
+            "first_label": "How the West Was Won",
+            "second_label": "Art Direction: George W. Davis, William Ferrari, Addison Hehr; Set Decoration: Henry Grace, Don Greenwood, Jr., Jack Mills",
+            "category": "Art Direction (Color)",
+            "year": 1964,
+            "tmdb": {
+                "id": 11897,
+                "original_title": "How the West Was Won",
+                "title": "A Conquista do Oeste",
+                "release_date": "1962-11-02",
+                "backdrop_path": "/4hK1fDFO2u4MmvMK2isOAzyweTL.jpg",
+                "poster_path": "/A6Jnu6ViAsI42VF0Qv8XtNbtxx5.jpg",
+                "overview": "Um western panor\u00e2mico, t\u00e9cnica e tematicamente, que acompanha a viagem de uma fam\u00edlia de pioneiros do Oeste, a fam\u00edlia Prescott. \u00c9, na verdade, um belo, heroico e grandioso \u00e9pico que descreve a g\u00eanese da Am\u00e9rica em sua expans\u00e3o at\u00e9 \u00e0s \u00faltimas fronteiras.",
+                "vote_average": 7.0,
+                "vote_count": 412
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tom Jones",
+            "second_label": "Art Direction: Ralph Brinton, Ted Marshall, Jocelyn Herbert; Set Decoration: Josie MacAvin",
+            "category": "Art Direction (Color)",
+            "year": 1964,
+            "tmdb": {
+                "id": 5769,
+                "original_title": "Tom Jones",
+                "title": "As Aventuras de Tom Jones",
+                "release_date": "1963-08-24",
+                "backdrop_path": "/3O4Ge9qNKmYGVjG6BKBC2HfSMg1.jpg",
+                "poster_path": "/bX6t9s00uaQvj3onicwgIgEEbmn.jpg",
+                "overview": "No s\u00e9culo XVIII, uma crian\u00e7a abandonada \u00e9 criada por um nobre ingl\u00eas. Quando adulto, Tom Jones torna-se um playboy mulherengo. Mas quando seu tutor morre e ele se apaixona por Sophie, v\u00ea-se obrigado a mudar o seu comportamento. O roteiro \u00e9 baseado no romance The History of Tom Jones, a Foundling, de Henry Fielding, publicado em 1749.",
+                "vote_average": 6.0,
+                "vote_count": 190
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography (Black-and-White)": [
+        {
+            "first_label": "Hud",
+            "second_label": "James Wong Howe",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1964,
+            "tmdb": {
+                "id": 24748,
+                "original_title": "Hud",
+                "title": "O Indomado",
+                "release_date": "1963-05-28",
+                "backdrop_path": "/lFZKCyfqqCaK94TftFVKcXcSIOw.jpg",
+                "poster_path": "/A168bF52vmAIGkC2Qafj7M2EmaE.jpg",
+                "overview": "Hud Bannon \u00e9 um jovem implac\u00e1vel que mancha tudo e todos os que ele toca. Hud representa a encarna\u00e7\u00e3o perfeita da juventude alienada, pronto para brigar sem levar em conta as consequ\u00eancias. H\u00e1 um amargo conflito entre o insens\u00edvel Hud e seu severo e cheio de princ\u00edpios pai, Homer. Lon, seu sobrinho, admira os truques e trapa\u00e7as de Hud, embora logo se perceba que a amoralidade imprudente de Hud n\u00e3o o sustentaria. No mundo dos ganhadores e perdedores  Hud \u00e9 um vencedor. Ele \u00e9 um trapaceiro, mas, ele explica: \"Eu sempre digo que a lei deveria ser interpretada de maneira indulgente\". (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.2,
+                "vote_count": 282
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Balcony",
+            "second_label": "George Folsey",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1964,
+            "tmdb": {
+                "id": 134288,
+                "original_title": "The Balcony",
+                "title": "The Balcony",
+                "release_date": "1963-03-21",
+                "backdrop_path": "/sHWRIHXtLCzoKMQcgkNNldXRm4z.jpg",
+                "poster_path": "/9zcfRaj2nwNPKAJs4tiFh3DXWXs.jpg",
+                "overview": "The Madam of a brothel satisfies the erotic fantasies of her customers, while a revolution is sweeping the nation.  Preserved by the Academy Film Archive in 2010.",
+                "vote_average": 5.3,
+                "vote_count": 15
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Caretakers",
+            "second_label": "Lucien Ballard",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1964,
+            "tmdb": {
+                "id": 85640,
+                "original_title": "The Caretakers",
+                "title": "Almas nas Trevas",
+                "release_date": "1963-08-21",
+                "backdrop_path": "/9M6pHRo7iaC9nWmgZlxsw55ywQ4.jpg",
+                "poster_path": "/qd0SkHF65f6xowVz8MFbHLN7mZX.jpg",
+                "overview": "Narra as prova\u00e7\u00f5es dos doentes mentais e seus cuidadores em uma enfermaria superlotada de um hospital. (e 16 - Estimado 16 Anos)",
+                "vote_average": 6.2,
+                "vote_count": 11
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lilies of the Field",
+            "second_label": "Ernest Haller",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1964,
+            "tmdb": {
+                "id": 38805,
+                "original_title": "Lilies of the Field",
+                "title": "Uma Voz na Sombras",
+                "release_date": "1963-06-04",
+                "backdrop_path": "/5107YjuW65wugo9IGrKGkZNIgIQ.jpg",
+                "poster_path": "/oCiKoBxseUqvR6sqSFuFjbV3iHX.jpg",
+                "overview": "Homer Smith, um trabalhador da constru\u00e7\u00e3o civil desempregado, dirigindo-se a oeste para em uma fazenda remota no deserto para conseguir um pouco de \u00e1gua quando seu carro superaquece. A fazenda est\u00e1 sendo cuidada por um grupo de freiras cat\u00f3licas do Leste Europeu, chefiada pela r\u00edgida Madre Maria, que acredita que Homer foi enviado por Deus para construir uma capela muito necess\u00e1ria no deserto.",
+                "vote_average": 7.2,
+                "vote_count": 153
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Love with the Proper Stranger",
+            "second_label": "Milton Krasner",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1964,
+            "tmdb": {
+                "id": 39495,
+                "original_title": "Love with the Proper Stranger",
+                "title": "O Pre\u00e7o de um Prazer",
+                "release_date": "1963-12-25",
+                "backdrop_path": "/3uxGjhSt2uXA1GZ3sZ05SG08SiN.jpg",
+                "poster_path": "/1Dzre2aAiLZhAW03FlJ1n6YwQSN.jpg",
+                "overview": "Angie Rossini \u00e9 uma jovem e inocente (Cat\u00f3lica Italiana) vendedora da Macy, que descobre que est\u00e1 gr\u00e1vida de Rocky, um m\u00fasico. Angie encontra Rocky (que em um primeiro momento n\u00e3o se lembra dela) para dizer-lhe que est\u00e1 gr\u00e1vida e precisa de um m\u00e9dico para fazer um aborto. Ele acha um m\u00e9dico e eles trabalham juntos para levantar o dinheiro. Ser\u00e1 que esses dois estranhos encontrar\u00e3o o amor um no outro antes que seja tarde demais?",
+                "vote_average": 6.7,
+                "vote_count": 56
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography (Color)": [
+        {
+            "first_label": "Cleopatra",
+            "second_label": "Leon Shamroy",
+            "category": "Cinematography (Color)",
+            "year": 1964,
+            "tmdb": {
+                "id": 8095,
+                "original_title": "Cleopatra",
+                "title": "Cle\u00f3patra",
+                "release_date": "1963-06-12",
+                "backdrop_path": "/qQGHkmLWPcMGkKws78pFh14SzUo.jpg",
+                "poster_path": "/zGz6N0Gj9LWvrRrUTgkGqmxqr5s.jpg",
+                "overview": "O filme narra a ascens\u00e3o e o decl\u00ednio de Cle\u00f3patra, rainha do Egito, sua luta para defender o imp\u00e9rio das ambi\u00e7\u00f5es pol\u00edticas e territoriais de Roma e seu relacionamento com J\u00falio C\u00e9sar e Marco Ant\u00f4nio.",
+                "vote_average": 7.1,
+                "vote_count": 698
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Cardinal",
+            "second_label": "Leon Shamroy",
+            "category": "Cinematography (Color)",
+            "year": 1964,
+            "tmdb": {
+                "id": 3010,
+                "original_title": "The Cardinal",
+                "title": "O Cardeal",
+                "release_date": "1963-12-12",
+                "backdrop_path": "/qmSndmoRi5s3F4zTZpVvBIYcmTc.jpg",
+                "poster_path": "/alXyPH1AZEdNP9vlbcCo3rlOJhq.jpg",
+                "overview": "Um jovem padre cat\u00f3lico de Boston enfrenta o fanatismo, o nazismo e seus pr\u00f3prios conflitos pessoais ao subir ao cargo de cardeal. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.5,
+                "vote_count": 41
+            },
+            "winner": false
+        },
+        {
+            "first_label": "How the West Was Won",
+            "second_label": "William H. Daniels, Milton Krasner, Charles Lang, Jr., Joseph LaShelle",
+            "category": "Cinematography (Color)",
+            "year": 1964,
+            "tmdb": {
+                "id": 11897,
+                "original_title": "How the West Was Won",
+                "title": "A Conquista do Oeste",
+                "release_date": "1962-11-02",
+                "backdrop_path": "/4hK1fDFO2u4MmvMK2isOAzyweTL.jpg",
+                "poster_path": "/A6Jnu6ViAsI42VF0Qv8XtNbtxx5.jpg",
+                "overview": "Um western panor\u00e2mico, t\u00e9cnica e tematicamente, que acompanha a viagem de uma fam\u00edlia de pioneiros do Oeste, a fam\u00edlia Prescott. \u00c9, na verdade, um belo, heroico e grandioso \u00e9pico que descreve a g\u00eanese da Am\u00e9rica em sua expans\u00e3o at\u00e9 \u00e0s \u00faltimas fronteiras.",
+                "vote_average": 7.0,
+                "vote_count": 412
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Irma La Douce",
+            "second_label": "Joseph LaShelle",
+            "category": "Cinematography (Color)",
+            "year": 1964,
+            "tmdb": {
+                "id": 2690,
+                "original_title": "Irma la Douce",
+                "title": "Irma la Douce",
+                "release_date": "1963-06-05",
+                "backdrop_path": "/vZDOZB3FCAHnjYrdoJPbhWfBuot.jpg",
+                "poster_path": "/8lK5voP0N4NFEgGgk77zFjHqUaj.jpg",
+                "overview": "Policial \u00e9 demitido depois de liderar uma desastrosa batida em um bordel atrapalhando os esquemas da corpora\u00e7\u00e3o. Ele se apaixona por uma prostituta, enfrenta seu cafet\u00e3o e se torna seu protetor, mas tem ci\u00fames dos outros clientes dela.",
+                "vote_average": 7.4,
+                "vote_count": 387
+            },
+            "winner": false
+        },
+        {
+            "first_label": "It's a Mad, Mad, Mad, Mad World",
+            "second_label": "Ernest Laszlo",
+            "category": "Cinematography (Color)",
+            "year": 1964,
+            "tmdb": {
+                "id": 11576,
+                "original_title": "It's a Mad, Mad, Mad, Mad World",
+                "title": "Deu a Louca no Mundo",
+                "release_date": "1963-11-07",
+                "backdrop_path": "/so48b1wCFRDkd4uXMM5eDlCzkt4.jpg",
+                "poster_path": "/2AsNyGepP93MnCJTi9q6cmZil7a.jpg",
+                "overview": "Ap\u00f3s um longo tempo na pris\u00e3o, homem cai de carro num precip\u00edcio. Antes de morrer, ele conta \u00e0s pessoas que tentam socorr\u00ea-lo onde escondera uma grande fortuna. Inicia-se ent\u00e3o uma louca corrida ao tesouro. Oscar de Efeitos Sonoros.",
+                "vote_average": 6.9,
+                "vote_count": 548
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design (Black-and-White)": [
+        {
+            "first_label": "Federico Fellini's 8-1/2",
+            "second_label": "Piero Gherardi",
+            "category": "Costume Design (Black-and-White)",
+            "year": 1964,
+            "tmdb": {
+                "id": 422,
+                "original_title": "8\u00bd",
+                "title": "8\u00bd",
+                "release_date": "1963-02-14",
+                "backdrop_path": "/hiXMQiwpa0fqPJxWLSMWTbpiWn8.jpg",
+                "poster_path": "/kblgLW8fVPChohNxUbkfBQ94It0.jpg",
+                "overview": "Prestes a rodar sua pr\u00f3xima obra, o cineasta Guido Anselmi (Marcello Mastroianni) ainda n\u00e3o tem id\u00e9ia de como ser\u00e1 o filme. Mergulhado em uma crise existencial e pressionado pelo produtor, pela mulher, pela amante e pelos amigos, ele se interna em uma esta\u00e7\u00e3o de \u00e1guas e passa a misturar o passado com o presente, fic\u00e7\u00e3o com realidade.",
+                "vote_average": 8.2,
+                "vote_count": 2155
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Love with the Proper Stranger",
+            "second_label": "Edith Head",
+            "category": "Costume Design (Black-and-White)",
+            "year": 1964,
+            "tmdb": {
+                "id": 39495,
+                "original_title": "Love with the Proper Stranger",
+                "title": "O Pre\u00e7o de um Prazer",
+                "release_date": "1963-12-25",
+                "backdrop_path": "/3uxGjhSt2uXA1GZ3sZ05SG08SiN.jpg",
+                "poster_path": "/1Dzre2aAiLZhAW03FlJ1n6YwQSN.jpg",
+                "overview": "Angie Rossini \u00e9 uma jovem e inocente (Cat\u00f3lica Italiana) vendedora da Macy, que descobre que est\u00e1 gr\u00e1vida de Rocky, um m\u00fasico. Angie encontra Rocky (que em um primeiro momento n\u00e3o se lembra dela) para dizer-lhe que est\u00e1 gr\u00e1vida e precisa de um m\u00e9dico para fazer um aborto. Ele acha um m\u00e9dico e eles trabalham juntos para levantar o dinheiro. Ser\u00e1 que esses dois estranhos encontrar\u00e3o o amor um no outro antes que seja tarde demais?",
+                "vote_average": 6.7,
+                "vote_count": 56
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Stripper",
+            "second_label": "Travilla",
+            "category": "Costume Design (Black-and-White)",
+            "year": 1964,
+            "tmdb": {
+                "id": 170343,
+                "original_title": "The Stripper",
+                "title": "The Stripper",
+                "release_date": "1963-06-19",
+                "backdrop_path": "/tlMzF7nVOL4hz26pv0R2T6vVcpu.jpg",
+                "poster_path": "/nhv2uRFJ4z86lHyjMmZOAc9VYdR.jpg",
+                "overview": "An aging former movie starlet whose Hollywood career went nowhere, now reduced to dancing with a third-rate touring show, finds herself stranded in a small town where she's courted by an infatuated and naive local teenager.",
+                "vote_average": 4.5,
+                "vote_count": 10
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Toys in the Attic",
+            "second_label": "Bill Thomas",
+            "category": "Costume Design (Black-and-White)",
+            "year": 1964,
+            "tmdb": {
+                "id": 108869,
+                "original_title": "Toys in the Attic",
+                "title": "Toys in the Attic",
+                "release_date": "1963-07-31",
+                "backdrop_path": "/u0WvmWYfNiFePdsYWyUVuWEod4I.jpg",
+                "poster_path": "/aOHcs1gn6DBoz2QIEb1uVBFEMdS.jpg",
+                "overview": "Julian Berniers returns from Illinois with his young bride Lily Prine to the family in New Orleans. His spinster sisters Carrie and Anna welcome the couple, who arrive with expensive gifts. The sisters hope Julian will help with their expenses, and he tells them that while his profitable factory went out of business, he did manage to save money.\r It turns out that Julian pulled off a real estate scam and took off with the money. Carrie is obsessed with her brother. Her jealousy of Lily pushes her to discover the shady land deal for herself and she does everything she can to wreck their marriage.",
+                "vote_average": 5.9,
+                "vote_count": 19
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Wives and Lovers",
+            "second_label": "Edith Head",
+            "category": "Costume Design (Black-and-White)",
+            "year": 1964,
+            "tmdb": {
+                "id": 169788,
+                "original_title": "Wives and Lovers",
+                "title": "Wives and Lovers",
+                "release_date": "1963-08-29",
+                "backdrop_path": "/mD3SEn10SzRqSRcFi2bEAWS0Nuw.jpg",
+                "poster_path": "/2egwbC5g9CyBFyF3jcOK1AQJUKs.jpg",
+                "overview": "Husband and wife Bill and Bertie Austin and their daughter live in a low-rent apartment. He's a struggling writer, at least until agent Lucinda Ford breaks the news that she's sold his book to a publisher, including the rights to turn it into a Broadway play.  A new house in Connecticut is the first way to celebrate. But during the long hours Bill is away working on the play, Bertie befriends hard-drinking neighbor Fran Cabrell and her boyfriend Wylie, who plant seeds of suspicion in Bertie's mind that Bill and his beautiful agent might be more than just business partners.  Bertie jealously retaliates by flirting with Gar Aldrich, an actor who will be in her husband's play. Bill goes to Connecticut for a heart-to-heart talk, finds Gar there and punches him.",
+                "vote_average": 4.6,
+                "vote_count": 7
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design (Color)": [
+        {
+            "first_label": "Cleopatra",
+            "second_label": "Irene Sharaff, Vittorio Nino Novarese, Renie",
+            "category": "Costume Design (Color)",
+            "year": 1964,
+            "tmdb": {
+                "id": 8095,
+                "original_title": "Cleopatra",
+                "title": "Cle\u00f3patra",
+                "release_date": "1963-06-12",
+                "backdrop_path": "/qQGHkmLWPcMGkKws78pFh14SzUo.jpg",
+                "poster_path": "/zGz6N0Gj9LWvrRrUTgkGqmxqr5s.jpg",
+                "overview": "O filme narra a ascens\u00e3o e o decl\u00ednio de Cle\u00f3patra, rainha do Egito, sua luta para defender o imp\u00e9rio das ambi\u00e7\u00f5es pol\u00edticas e territoriais de Roma e seu relacionamento com J\u00falio C\u00e9sar e Marco Ant\u00f4nio.",
+                "vote_average": 7.1,
+                "vote_count": 698
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Cardinal",
+            "second_label": "Donald Brooks",
+            "category": "Costume Design (Color)",
+            "year": 1964,
+            "tmdb": {
+                "id": 3010,
+                "original_title": "The Cardinal",
+                "title": "O Cardeal",
+                "release_date": "1963-12-12",
+                "backdrop_path": "/qmSndmoRi5s3F4zTZpVvBIYcmTc.jpg",
+                "poster_path": "/alXyPH1AZEdNP9vlbcCo3rlOJhq.jpg",
+                "overview": "Um jovem padre cat\u00f3lico de Boston enfrenta o fanatismo, o nazismo e seus pr\u00f3prios conflitos pessoais ao subir ao cargo de cardeal. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.5,
+                "vote_count": 41
+            },
+            "winner": false
+        },
+        {
+            "first_label": "How the West Was Won",
+            "second_label": "Walter Plunkett",
+            "category": "Costume Design (Color)",
+            "year": 1964,
+            "tmdb": {
+                "id": 11897,
+                "original_title": "How the West Was Won",
+                "title": "A Conquista do Oeste",
+                "release_date": "1962-11-02",
+                "backdrop_path": "/4hK1fDFO2u4MmvMK2isOAzyweTL.jpg",
+                "poster_path": "/A6Jnu6ViAsI42VF0Qv8XtNbtxx5.jpg",
+                "overview": "Um western panor\u00e2mico, t\u00e9cnica e tematicamente, que acompanha a viagem de uma fam\u00edlia de pioneiros do Oeste, a fam\u00edlia Prescott. \u00c9, na verdade, um belo, heroico e grandioso \u00e9pico que descreve a g\u00eanese da Am\u00e9rica em sua expans\u00e3o at\u00e9 \u00e0s \u00faltimas fronteiras.",
+                "vote_average": 7.0,
+                "vote_count": 412
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Leopard",
+            "second_label": "Piero Tosi",
+            "category": "Costume Design (Color)",
+            "year": 1964,
+            "tmdb": {
+                "id": 1040,
+                "original_title": "Il gattopardo",
+                "title": "O Leopardo",
+                "release_date": "1963-03-27",
+                "backdrop_path": "/myikoqu8Z2gtE7TaBgk9r6fB9MF.jpg",
+                "poster_path": "/cjy8Gsd0SswcLo6AA3oW6ibGDvi.jpg",
+                "overview": "Durante o conturbado processo de unifica\u00e7\u00e3o italiana na Sic\u00edlia, o pr\u00edncipe Don Fabrizio passa a simpatizar com os ideais socialistas, mas n\u00e3o gosta da ideia de perder seu prest\u00edgio e privil\u00e9gios.",
+                "vote_average": 7.7,
+                "vote_count": 754
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A New Kind of Love",
+            "second_label": "Edith Head",
+            "category": "Costume Design (Color)",
+            "year": 1964,
+            "tmdb": {
+                "id": 42798,
+                "original_title": "A New Kind of Love",
+                "title": "Amor Daquele Jeito",
+                "release_date": "1963-10-10",
+                "backdrop_path": "/vHOmZXyPhUacV5BsxxmD4BmV8E4.jpg",
+                "poster_path": "/9VsPciuwXuK0EpQAiOffEummYlq.jpg",
+                "overview": "A down-and-out reporter and a fashion designer fall in love in Paris.",
+                "vote_average": 6.3,
+                "vote_count": 27
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "Tom Jones",
+            "second_label": "Tony Richardson",
+            "category": "Directing",
+            "year": 1964,
+            "tmdb": {
+                "id": 5769,
+                "original_title": "Tom Jones",
+                "title": "As Aventuras de Tom Jones",
+                "release_date": "1963-08-24",
+                "backdrop_path": "/3O4Ge9qNKmYGVjG6BKBC2HfSMg1.jpg",
+                "poster_path": "/bX6t9s00uaQvj3onicwgIgEEbmn.jpg",
+                "overview": "No s\u00e9culo XVIII, uma crian\u00e7a abandonada \u00e9 criada por um nobre ingl\u00eas. Quando adulto, Tom Jones torna-se um playboy mulherengo. Mas quando seu tutor morre e ele se apaixona por Sophie, v\u00ea-se obrigado a mudar o seu comportamento. O roteiro \u00e9 baseado no romance The History of Tom Jones, a Foundling, de Henry Fielding, publicado em 1749.",
+                "vote_average": 6.0,
+                "vote_count": 190
+            },
+            "winner": true
+        },
+        {
+            "first_label": "America America",
+            "second_label": "Elia Kazan",
+            "category": "Directing",
+            "year": 1964,
+            "tmdb": {
+                "id": 47249,
+                "original_title": "America America",
+                "title": "America America",
+                "release_date": "1963-12-15",
+                "backdrop_path": "/igFjSTMsZOPDcY54utYWxvgM96Q.jpg",
+                "poster_path": "/76RffKrNPrfA4TWYkx5wIIOzOlV.jpg",
+                "overview": "A young Anatolian Greek, entrusted with his family's fortune, loses it en route to Istanbul and dreams of going to America.",
+                "vote_average": 6.9,
+                "vote_count": 79
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Cardinal",
+            "second_label": "Otto Preminger",
+            "category": "Directing",
+            "year": 1964,
+            "tmdb": {
+                "id": 3010,
+                "original_title": "The Cardinal",
+                "title": "O Cardeal",
+                "release_date": "1963-12-12",
+                "backdrop_path": "/qmSndmoRi5s3F4zTZpVvBIYcmTc.jpg",
+                "poster_path": "/alXyPH1AZEdNP9vlbcCo3rlOJhq.jpg",
+                "overview": "Um jovem padre cat\u00f3lico de Boston enfrenta o fanatismo, o nazismo e seus pr\u00f3prios conflitos pessoais ao subir ao cargo de cardeal. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.5,
+                "vote_count": 41
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Federico Fellini's 8-1/2",
+            "second_label": "Federico Fellini",
+            "category": "Directing",
+            "year": 1964,
+            "tmdb": {
+                "id": 422,
+                "original_title": "8\u00bd",
+                "title": "8\u00bd",
+                "release_date": "1963-02-14",
+                "backdrop_path": "/hiXMQiwpa0fqPJxWLSMWTbpiWn8.jpg",
+                "poster_path": "/kblgLW8fVPChohNxUbkfBQ94It0.jpg",
+                "overview": "Prestes a rodar sua pr\u00f3xima obra, o cineasta Guido Anselmi (Marcello Mastroianni) ainda n\u00e3o tem id\u00e9ia de como ser\u00e1 o filme. Mergulhado em uma crise existencial e pressionado pelo produtor, pela mulher, pela amante e pelos amigos, ele se interna em uma esta\u00e7\u00e3o de \u00e1guas e passa a misturar o passado com o presente, fic\u00e7\u00e3o com realidade.",
+                "vote_average": 8.2,
+                "vote_count": 2155
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hud",
+            "second_label": "Martin Ritt",
+            "category": "Directing",
+            "year": 1964,
+            "tmdb": {
+                "id": 24748,
+                "original_title": "Hud",
+                "title": "O Indomado",
+                "release_date": "1963-05-28",
+                "backdrop_path": "/lFZKCyfqqCaK94TftFVKcXcSIOw.jpg",
+                "poster_path": "/A168bF52vmAIGkC2Qafj7M2EmaE.jpg",
+                "overview": "Hud Bannon \u00e9 um jovem implac\u00e1vel que mancha tudo e todos os que ele toca. Hud representa a encarna\u00e7\u00e3o perfeita da juventude alienada, pronto para brigar sem levar em conta as consequ\u00eancias. H\u00e1 um amargo conflito entre o insens\u00edvel Hud e seu severo e cheio de princ\u00edpios pai, Homer. Lon, seu sobrinho, admira os truques e trapa\u00e7as de Hud, embora logo se perceba que a amoralidade imprudente de Hud n\u00e3o o sustentaria. No mundo dos ganhadores e perdedores  Hud \u00e9 um vencedor. Ele \u00e9 um trapaceiro, mas, ele explica: \"Eu sempre digo que a lei deveria ser interpretada de maneira indulgente\". (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.2,
+                "vote_count": 282
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "Robert Frost: A Lover's Quarrel with the World",
+            "second_label": "Robert Hughes, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1964,
+            "tmdb": {
+                "id": 114509,
+                "original_title": "Robert Frost: A Lover's Quarrel with the World",
+                "title": "Robert Frost: A Lover's Quarrel with the World",
+                "release_date": "1963-01-01",
+                "backdrop_path": "/p1WeyhgKHwsVJWinDbX4vhZyIr2.jpg",
+                "poster_path": "/pwoB7EPhWijPW59XvMOaFJsg6ZX.jpg",
+                "overview": "The acclaimed poet is examined in this film completed just prior to his death at age 88, with his speaking engagements at Amherst and Sarah Lawrence Colleges intercut with studies of his work, as well as with scenes of his life in rural Vermont and personal reminiscences about his career. He is also seen receiving an award from President Kennedy and touring an aircraft carrier.",
+                "vote_average": 6.0,
+                "vote_count": 7
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Le Maillon et la Chaine (The Link and the Chain)",
+            "second_label": "Paul de Roubaix, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1964,
+            "tmdb": {
+                "id": 149285,
+                "original_title": "Le Maillon et la cha\u00eene",
+                "title": "The Link and the Chain",
+                "release_date": "1963-01-01",
+                "backdrop_path": null,
+                "poster_path": "/fTs8RmbeNIL4fDjzAOGyaBR9PM6.jpg",
+                "overview": "A 1963 French documentary film directed by Jacques Ertaud.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Yanks Are Coming",
+            "second_label": "Marshall Flaum, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1964,
+            "tmdb": {
+                "id": 149284,
+                "original_title": "The Yanks Are Coming",
+                "title": "The Yanks Are Coming",
+                "release_date": "1963-11-04",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "The Yanks Are Coming is a 1963 documentary film produced by Marshall Flaum and narrated by Richard Basehart. It was nominated for an Academy Award for Best Documentary Feature.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "Chagall",
+            "second_label": "Simon Schiffrin, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1964,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Five Cities of June",
+            "second_label": "George Stevens, Jr., Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1964,
+            "tmdb": {
+                "id": 243249,
+                "original_title": "The Five Cities of June",
+                "title": "The Five Cities of June",
+                "release_date": "1963-06-30",
+                "backdrop_path": null,
+                "poster_path": "/evQK9nNUV8LmKI0bPN7GQkjEKWS.jpg",
+                "overview": "The Five Cities of June is a 1963 American short documentary film directed by Bruce Herschensohn. This United States Information Agency-sponsored film details the events of June 1963 in five different cities. In the Vatican, the election and coronation of Pope Paul VI; in the Soviet Union, the launch of a Soviet rocket as part of the Space Race with the United States; in South Vietnam, fighting between Communists and South Vietnamese soldiers; in Tuscaloosa, Alabama, United States, the racial integration of the University of Alabama opposed by Governor George Wallace; and in Berlin, President John F. Kennedy's visit to Germany and Rudolph Wilde Platz. It was nominated for an Academy Award for Best Documentary Short.",
+                "vote_average": 6.3,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Spirit of America",
+            "second_label": "Algernon G. Walker, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1964,
+            "tmdb": {
+                "id": 243250,
+                "original_title": "The Spirit of America",
+                "title": "The Spirit of America",
+                "release_date": "1963-01-01",
+                "backdrop_path": null,
+                "poster_path": "/zu3PMGOQ8toYZvtdbMuKmTsugM4.jpg",
+                "overview": "The Spirit of America is a 1963 American short documentary film produced by Algernon G. Walker about the Spirit of America, the trademarked name used by Craig Breedlove for his land speed record-setting vehicles.. It was nominated for an Academy Award for Best Documentary Short.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Thirty Million Letters",
+            "second_label": "Edgar Anstey, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1964,
+            "tmdb": {
+                "id": 243251,
+                "original_title": "Thirty Million Letters",
+                "title": "Thirty Million Letters",
+                "release_date": "1963-01-01",
+                "backdrop_path": null,
+                "poster_path": "/690bm0qBvrRZzTkykjlenaeqkFr.jpg",
+                "overview": "Thirty Million Letters is a 1963 short documentary film directed by James Ritchie and made by British Transport Films. It was nominated for an Academy Award for Best Documentary Short.",
+                "vote_average": 5.8,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "To Live Again",
+            "second_label": "Mel London, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1964,
+            "tmdb": {
+                "id": 243252,
+                "original_title": "To Live Again",
+                "title": "To Live Again",
+                "release_date": "1963-07-10",
+                "backdrop_path": null,
+                "poster_path": "/bdyPS39ijQvPmh1IVmrVyOXDqp6.jpg",
+                "overview": "To Live Again is a 1963 short documentary film produced by Mel London. It was nominated for an Academy Award for Best Documentary Short.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "How the West Was Won",
+            "second_label": "Harold F. Kress",
+            "category": "Film Editing",
+            "year": 1964,
+            "tmdb": {
+                "id": 11897,
+                "original_title": "How the West Was Won",
+                "title": "A Conquista do Oeste",
+                "release_date": "1962-11-02",
+                "backdrop_path": "/4hK1fDFO2u4MmvMK2isOAzyweTL.jpg",
+                "poster_path": "/A6Jnu6ViAsI42VF0Qv8XtNbtxx5.jpg",
+                "overview": "Um western panor\u00e2mico, t\u00e9cnica e tematicamente, que acompanha a viagem de uma fam\u00edlia de pioneiros do Oeste, a fam\u00edlia Prescott. \u00c9, na verdade, um belo, heroico e grandioso \u00e9pico que descreve a g\u00eanese da Am\u00e9rica em sua expans\u00e3o at\u00e9 \u00e0s \u00faltimas fronteiras.",
+                "vote_average": 7.0,
+                "vote_count": 412
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Cardinal",
+            "second_label": "Louis R. Loeffler",
+            "category": "Film Editing",
+            "year": 1964,
+            "tmdb": {
+                "id": 3010,
+                "original_title": "The Cardinal",
+                "title": "O Cardeal",
+                "release_date": "1963-12-12",
+                "backdrop_path": "/qmSndmoRi5s3F4zTZpVvBIYcmTc.jpg",
+                "poster_path": "/alXyPH1AZEdNP9vlbcCo3rlOJhq.jpg",
+                "overview": "Um jovem padre cat\u00f3lico de Boston enfrenta o fanatismo, o nazismo e seus pr\u00f3prios conflitos pessoais ao subir ao cargo de cardeal. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.5,
+                "vote_count": 41
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Cleopatra",
+            "second_label": "Dorothy Spencer",
+            "category": "Film Editing",
+            "year": 1964,
+            "tmdb": {
+                "id": 8095,
+                "original_title": "Cleopatra",
+                "title": "Cle\u00f3patra",
+                "release_date": "1963-06-12",
+                "backdrop_path": "/qQGHkmLWPcMGkKws78pFh14SzUo.jpg",
+                "poster_path": "/zGz6N0Gj9LWvrRrUTgkGqmxqr5s.jpg",
+                "overview": "O filme narra a ascens\u00e3o e o decl\u00ednio de Cle\u00f3patra, rainha do Egito, sua luta para defender o imp\u00e9rio das ambi\u00e7\u00f5es pol\u00edticas e territoriais de Roma e seu relacionamento com J\u00falio C\u00e9sar e Marco Ant\u00f4nio.",
+                "vote_average": 7.1,
+                "vote_count": 698
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Great Escape",
+            "second_label": "Ferris Webster",
+            "category": "Film Editing",
+            "year": 1964,
+            "tmdb": {
+                "id": 5925,
+                "original_title": "The Great Escape",
+                "title": "Fugindo do Inferno",
+                "release_date": "1963-07-03",
+                "backdrop_path": "/zlg0d4pnq1xDOU4cQxqGG8bX5l0.jpg",
+                "poster_path": "/iTh8thzuxiM5FwCaxsSTpaix27L.jpg",
+                "overview": "Em 1943 os nazistas decidem transferir os prisioneiros de guerra militares, que t\u00eam maior incid\u00eancia em tentativas de fugas, para o mesmo campo, que foi projetado para impedir qualquer tipo de evas\u00e3o. Mas isto foi um erro, pois apesar dos prisioneiros gozarem de certos privil\u00e9gios, cada um era o melhor na sua \"especialidade\" e n\u00e3o pretendiam ficar presos at\u00e9 o final da guerra. Logo idealizam um audacioso plano de fuga, que previa a constru\u00e7\u00e3o de tr\u00eas t\u00faneis, mas a id\u00e9ia n\u00e3o era retirar do campo alguns prisioneiros mas sim duzentos e cinq\u00fcenta.",
+                "vote_average": 7.9,
+                "vote_count": 2394
+            },
+            "winner": false
+        },
+        {
+            "first_label": "It's a Mad, Mad, Mad, Mad World",
+            "second_label": "Frederic Knudtson, Robert C. Jones, Gene Fowler, Jr.",
+            "category": "Film Editing",
+            "year": 1964,
+            "tmdb": {
+                "id": 11576,
+                "original_title": "It's a Mad, Mad, Mad, Mad World",
+                "title": "Deu a Louca no Mundo",
+                "release_date": "1963-11-07",
+                "backdrop_path": "/so48b1wCFRDkd4uXMM5eDlCzkt4.jpg",
+                "poster_path": "/2AsNyGepP93MnCJTi9q6cmZil7a.jpg",
+                "overview": "Ap\u00f3s um longo tempo na pris\u00e3o, homem cai de carro num precip\u00edcio. Antes de morrer, ele conta \u00e0s pessoas que tentam socorr\u00ea-lo onde escondera uma grande fortuna. Inicia-se ent\u00e3o uma louca corrida ao tesouro. Oscar de Efeitos Sonoros.",
+                "vote_average": 6.9,
+                "vote_count": 548
+            },
+            "winner": false
+        }
+    ],
+    "Foreign Language Film": [
+        {
+            "first_label": "Federico Fellini's 8-1/2",
+            "second_label": "Italy",
+            "category": "Foreign Language Film",
+            "year": 1964,
+            "tmdb": {
+                "id": 422,
+                "original_title": "8\u00bd",
+                "title": "8\u00bd",
+                "release_date": "1963-02-14",
+                "backdrop_path": "/hiXMQiwpa0fqPJxWLSMWTbpiWn8.jpg",
+                "poster_path": "/kblgLW8fVPChohNxUbkfBQ94It0.jpg",
+                "overview": "Prestes a rodar sua pr\u00f3xima obra, o cineasta Guido Anselmi (Marcello Mastroianni) ainda n\u00e3o tem id\u00e9ia de como ser\u00e1 o filme. Mergulhado em uma crise existencial e pressionado pelo produtor, pela mulher, pela amante e pelos amigos, ele se interna em uma esta\u00e7\u00e3o de \u00e1guas e passa a misturar o passado com o presente, fic\u00e7\u00e3o com realidade.",
+                "vote_average": 8.2,
+                "vote_count": 2155
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Knife in the Water",
+            "second_label": "Poland",
+            "category": "Foreign Language Film",
+            "year": 1964,
+            "tmdb": {
+                "id": 11502,
+                "original_title": "N\u00f3\u017c w wodzie",
+                "title": "A Faca na \u00c1gua",
+                "release_date": "1962-03-09",
+                "backdrop_path": "/hlS23ABq7d8BwAeB9LKfZ2Xum8L.jpg",
+                "poster_path": "/tkdeCwZhy9hzzVjZFjw0RPGWUIg.jpg",
+                "overview": "Um casal quase atropela um jovem de 19 anos numa estrada e acaba oferecendo uma carona para o rapaz, convidando-o tamb\u00e9m a passar o dia velejando. A partir da\u00ed, estabelece-se uma disputa entre os dois homens, mediada pela mulher.",
+                "vote_average": 7.3,
+                "vote_count": 404
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Los Tarantos",
+            "second_label": "Spain",
+            "category": "Foreign Language Film",
+            "year": 1964,
+            "tmdb": {
+                "id": 183819,
+                "original_title": "Los Tarantos",
+                "title": "Los Tarantos",
+                "release_date": "1963-11-04",
+                "backdrop_path": "/pJab3RFSZISrYP5PLUPCxCRf2t2.jpg",
+                "poster_path": "/xQOqgA9NReu2HFNG1s71rKJjJ3k.jpg",
+                "overview": "Gypsy Romeo and Juliet: A boy and a girl from rival families fall in love.",
+                "vote_average": 6.0,
+                "vote_count": 12
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Red Lanterns",
+            "second_label": "Greece",
+            "category": "Foreign Language Film",
+            "year": 1964,
+            "tmdb": {
+                "id": 47790,
+                "original_title": "\u03a4\u03b1 \u039a\u03cc\u03ba\u03ba\u03b9\u03bd\u03b1 \u03a6\u03b1\u03bd\u03ac\u03c1\u03b9\u03b1",
+                "title": "The Red Lanterns",
+                "release_date": "1963-12-02",
+                "backdrop_path": "/aF2ANPNfqHpjBIXlpD0RyhqrOM.jpg",
+                "poster_path": "/v1nYMzMEpTtyzUo1ghG5GlIflxa.jpg",
+                "overview": "The inextricably intertwined stories of five sex workers who live in a brothel at Pireas harbor.",
+                "vote_average": 7.2,
+                "vote_count": 24
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Twin Sisters of Kyoto",
+            "second_label": "Japan",
+            "category": "Foreign Language Film",
+            "year": 1964,
+            "tmdb": {
+                "id": 202763,
+                "original_title": "\u53e4\u90fd",
+                "title": "Twin Sisters of Kyoto",
+                "release_date": "1963-01-13",
+                "backdrop_path": "/zH0bURS17rSkCcgMY9irsp3KQzG.jpg",
+                "poster_path": "/zSVTNNYUR9YWQTVkInWBBxSjiog.jpg",
+                "overview": "In this Japanese drama, a dry goods merchant's daughter is surprised to discover that she has a twin sister. In rural Japan it was thought that twins bring bad luck, so the sister was abandoned at birth. Later her parents tell her that her sister was kidnapped. The woman doesn't believe this and when she eventually meets her twin, both women are involved in love affairs. The merchant's daughter is seeing an educated fellow. Trouble ensues when she begins suspecting that he may be more interested in her sister.",
+                "vote_average": 6.6,
+                "vote_count": 9
+            },
+            "winner": false
+        }
+    ],
+    "Irving G. Thalberg Memorial Award": [
+        {
+            "first_label": "",
+            "second_label": "Sam Spiegel",
+            "category": "Irving G. Thalberg Memorial Award",
+            "year": 1964,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        }
+    ],
+    "Music (Music Score--substantially original)": [
+        {
+            "first_label": "Tom Jones",
+            "second_label": "John Addison",
+            "category": "Music (Music Score--substantially original)",
+            "year": 1964,
+            "tmdb": {
+                "id": 5769,
+                "original_title": "Tom Jones",
+                "title": "As Aventuras de Tom Jones",
+                "release_date": "1963-08-24",
+                "backdrop_path": "/3O4Ge9qNKmYGVjG6BKBC2HfSMg1.jpg",
+                "poster_path": "/bX6t9s00uaQvj3onicwgIgEEbmn.jpg",
+                "overview": "No s\u00e9culo XVIII, uma crian\u00e7a abandonada \u00e9 criada por um nobre ingl\u00eas. Quando adulto, Tom Jones torna-se um playboy mulherengo. Mas quando seu tutor morre e ele se apaixona por Sophie, v\u00ea-se obrigado a mudar o seu comportamento. O roteiro \u00e9 baseado no romance The History of Tom Jones, a Foundling, de Henry Fielding, publicado em 1749.",
+                "vote_average": 6.0,
+                "vote_count": 190
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Cleopatra",
+            "second_label": "Alex North",
+            "category": "Music (Music Score--substantially original)",
+            "year": 1964,
+            "tmdb": {
+                "id": 8095,
+                "original_title": "Cleopatra",
+                "title": "Cle\u00f3patra",
+                "release_date": "1963-06-12",
+                "backdrop_path": "/qQGHkmLWPcMGkKws78pFh14SzUo.jpg",
+                "poster_path": "/zGz6N0Gj9LWvrRrUTgkGqmxqr5s.jpg",
+                "overview": "O filme narra a ascens\u00e3o e o decl\u00ednio de Cle\u00f3patra, rainha do Egito, sua luta para defender o imp\u00e9rio das ambi\u00e7\u00f5es pol\u00edticas e territoriais de Roma e seu relacionamento com J\u00falio C\u00e9sar e Marco Ant\u00f4nio.",
+                "vote_average": 7.1,
+                "vote_count": 698
+            },
+            "winner": false
+        },
+        {
+            "first_label": "55 Days at Peking",
+            "second_label": "Dimitri Tiomkin",
+            "category": "Music (Music Score--substantially original)",
+            "year": 1964,
+            "tmdb": {
+                "id": 27759,
+                "original_title": "55 Days at Peking",
+                "title": "55 Dias em Pequim",
+                "release_date": "1963-05-06",
+                "backdrop_path": "/rZDhSH1PqMuQ9uO9lP6ljUVg0nc.jpg",
+                "poster_path": "/uR0xaqmqlbhatf9014mHuwV1Uly.jpg",
+                "overview": "Na Pequim de 1900, durante a rebeli\u00e3o dos Boxers (revolta de uma fac\u00e7\u00e3o do povo chin\u00eas contra a presen\u00e7a ocidental na China), \u00e9 organizada uma comiss\u00e3o que re\u00fane diplomatas, ministros do ex\u00e9rcito e outros representantes de dezenas de na\u00e7\u00f5es. A id\u00e9ia \u00e9 encontrar uma solu\u00e7\u00e3o amig\u00e1vel e diplom\u00e1tica, mas h\u00e1 o evidente conflito de interesses entre os pa\u00edses presentes e o Imp\u00e9rio Chin\u00eas.",
+                "vote_average": 7.0,
+                "vote_count": 150
+            },
+            "winner": false
+        },
+        {
+            "first_label": "How the West Was Won",
+            "second_label": "Alfred Newman, Ken Darby",
+            "category": "Music (Music Score--substantially original)",
+            "year": 1964,
+            "tmdb": {
+                "id": 11897,
+                "original_title": "How the West Was Won",
+                "title": "A Conquista do Oeste",
+                "release_date": "1962-11-02",
+                "backdrop_path": "/4hK1fDFO2u4MmvMK2isOAzyweTL.jpg",
+                "poster_path": "/A6Jnu6ViAsI42VF0Qv8XtNbtxx5.jpg",
+                "overview": "Um western panor\u00e2mico, t\u00e9cnica e tematicamente, que acompanha a viagem de uma fam\u00edlia de pioneiros do Oeste, a fam\u00edlia Prescott. \u00c9, na verdade, um belo, heroico e grandioso \u00e9pico que descreve a g\u00eanese da Am\u00e9rica em sua expans\u00e3o at\u00e9 \u00e0s \u00faltimas fronteiras.",
+                "vote_average": 7.0,
+                "vote_count": 412
+            },
+            "winner": false
+        },
+        {
+            "first_label": "It's a Mad, Mad, Mad, Mad World",
+            "second_label": "Ernest Gold",
+            "category": "Music (Music Score--substantially original)",
+            "year": 1964,
+            "tmdb": {
+                "id": 11576,
+                "original_title": "It's a Mad, Mad, Mad, Mad World",
+                "title": "Deu a Louca no Mundo",
+                "release_date": "1963-11-07",
+                "backdrop_path": "/so48b1wCFRDkd4uXMM5eDlCzkt4.jpg",
+                "poster_path": "/2AsNyGepP93MnCJTi9q6cmZil7a.jpg",
+                "overview": "Ap\u00f3s um longo tempo na pris\u00e3o, homem cai de carro num precip\u00edcio. Antes de morrer, ele conta \u00e0s pessoas que tentam socorr\u00ea-lo onde escondera uma grande fortuna. Inicia-se ent\u00e3o uma louca corrida ao tesouro. Oscar de Efeitos Sonoros.",
+                "vote_average": 6.9,
+                "vote_count": 548
+            },
+            "winner": false
+        }
+    ],
+    "Music (Scoring of Music--adaptation or treatment)": [
+        {
+            "first_label": "Irma La Douce",
+            "second_label": "Andre Previn",
+            "category": "Music (Scoring of Music--adaptation or treatment)",
+            "year": 1964,
+            "tmdb": {
+                "id": 2690,
+                "original_title": "Irma la Douce",
+                "title": "Irma la Douce",
+                "release_date": "1963-06-05",
+                "backdrop_path": "/vZDOZB3FCAHnjYrdoJPbhWfBuot.jpg",
+                "poster_path": "/8lK5voP0N4NFEgGgk77zFjHqUaj.jpg",
+                "overview": "Policial \u00e9 demitido depois de liderar uma desastrosa batida em um bordel atrapalhando os esquemas da corpora\u00e7\u00e3o. Ele se apaixona por uma prostituta, enfrenta seu cafet\u00e3o e se torna seu protetor, mas tem ci\u00fames dos outros clientes dela.",
+                "vote_average": 7.4,
+                "vote_count": 387
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Bye Bye Birdie",
+            "second_label": "John Green",
+            "category": "Music (Scoring of Music--adaptation or treatment)",
+            "year": 1964,
+            "tmdb": {
+                "id": 25167,
+                "original_title": "Bye Bye Birdie",
+                "title": "Adeus, Amor",
+                "release_date": "1963-04-04",
+                "backdrop_path": "/6RGQ7bPlJtOEw28iHDxK4MFvgDX.jpg",
+                "poster_path": "/aLoPW4ZIPUIfP0hpB3gBWZwf3kI.jpg",
+                "overview": "Muitas gargalhadas e grandes can\u00e7\u00f5es tornaram este filme, baseado em um show de sucesso da Broadway, num dos inesquec\u00edveis musicais de todos os tempos. Quando o astro do rock e paix\u00e3o das adolescentes Conrad Birdie \u00e9 recrutado, as garotas do pa\u00eds v\u00e3o \u00e0 loucura e o compositor de Conrad, Albert (Dick Van Dyke), fica desempregado. Assim, Albert e sua namorada (Janet Leigh) organizam um concurso nacional no qual uma felizarda ganhar\u00e1 um beijo de adeus de Conrad no programa de TV de Ed Sullivan. Kim McAfee (Ann-Margret) \u00e9 a ganhadora e toda a comitiva de Conrad se dirige at\u00e9 a pequena cidade\u2014para desgosto do sempre irritado pai da garota (Paul Lynde) e do ciumento namorado (o cantor Bobby Rydell) O resultado \u00e9 o caos e uma s\u00e9rie hilariante de complica\u00e7\u00f5es rom\u00e2nticas.",
+                "vote_average": 5.8,
+                "vote_count": 93
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A New Kind of Love",
+            "second_label": "Leith Stevens",
+            "category": "Music (Scoring of Music--adaptation or treatment)",
+            "year": 1964,
+            "tmdb": {
+                "id": 42798,
+                "original_title": "A New Kind of Love",
+                "title": "Amor Daquele Jeito",
+                "release_date": "1963-10-10",
+                "backdrop_path": "/vHOmZXyPhUacV5BsxxmD4BmV8E4.jpg",
+                "poster_path": "/9VsPciuwXuK0EpQAiOffEummYlq.jpg",
+                "overview": "A down-and-out reporter and a fashion designer fall in love in Paris.",
+                "vote_average": 6.3,
+                "vote_count": 27
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sundays and Cybele",
+            "second_label": "Maurice Jarre",
+            "category": "Music (Scoring of Music--adaptation or treatment)",
+            "year": 1964,
+            "tmdb": {
+                "id": 43001,
+                "original_title": "Cyb\u00e8le ou les dimanches de ville d'Avray",
+                "title": "Sempre aos Domingos",
+                "release_date": "1962-11-12",
+                "backdrop_path": "/dMQcHcEMDLuCjtrIY1nfuktoLW8.jpg",
+                "poster_path": "/9L5DtYYlO3yrg2qtTCxROLnLl2V.jpg",
+                "overview": "Sofrendo de amn\u00e9sia, um ex-combatente vive atormentado por ter matado uma crian\u00e7a na guerra. Sua vida come\u00e7a a mudar quando encontra uma menina abandonada pelo pr\u00f3prio pai e passa a se encontrar todo domingo com ela para brincar e, ao mesmo tempo, tentar lembrar de seu passado. Aos poucos, a rela\u00e7\u00e3o entre os dois come\u00e7a a ser mal interpretada, at\u00e9 mesmo pelos amigos de Pierre.",
+                "vote_average": 7.1,
+                "vote_count": 55
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Sword in the Stone",
+            "second_label": "George Bruns",
+            "category": "Music (Scoring of Music--adaptation or treatment)",
+            "year": 1964,
+            "tmdb": {
+                "id": 9078,
+                "original_title": "The Sword in the Stone",
+                "title": "A Espada Era a Lei",
+                "release_date": "1963-12-25",
+                "backdrop_path": "/m1TOfgljbT3jOez3b4l1I1tm82W.jpg",
+                "poster_path": "/d5rtXHSx4sXJKMJsLR7OUjryCHl.jpg",
+                "overview": "Um jovem garoto desajeitado, protegido e aprendiz do Mago Merlim, ouve dizer que aquele que conseguisse retirar uma espada m\u00e1gica de uma pedra, seria declarado Rei da Inglaterra, e resolve aceitar o desafio, o que provoca risos dos outros interessados. Mas para surpresa de todos, o garoto, obt\u00eam \u00eaxito tornando-se o lend\u00e1rio Rei Arthur.",
+                "vote_average": 7.257,
+                "vote_count": 3673
+            },
+            "winner": false
+        }
+    ],
+    "Music (Song)": [
+        {
+            "first_label": "Papa's Delicate Condition",
+            "second_label": "Call Me Irresponsible in \"Papa's Delicate Condition\" Music by James Van Heusen; Lyrics by Sammy Cahn",
+            "category": "Music (Song)",
+            "year": 1964,
+            "tmdb": {
+                "id": 74088,
+                "original_title": "Papa's Delicate Condition",
+                "title": "O Estado Interessante de Papai",
+                "release_date": "1963-03-06",
+                "backdrop_path": "/mqxlV2lgtTQ7vYUuZtfU3Y73TKP.jpg",
+                "poster_path": "/rSnZkNJXmftJi6uxD8TyumHzbcu.jpg",
+                "overview": "A jolly, family-oriented railroad superintendent tries to get his act together when his love for the bottle starts to alienate him from his wife and oldest daughter.  His younger daughter, however, still remains unflinchingly loyal to him, and they share many fun misadventures over the course of the movie.",
+                "vote_average": 5.4,
+                "vote_count": 14
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Charade",
+            "second_label": "Charade in \"Charade\" Music by Henry Mancini; Lyrics by Johnny Mercer",
+            "category": "Music (Song)",
+            "year": 1964,
+            "tmdb": {
+                "id": 4808,
+                "original_title": "Charade",
+                "title": "Charada",
+                "release_date": "1963-12-05",
+                "backdrop_path": "/gj2TBYmOIy4E2GjMIpnbAEZNCQx.jpg",
+                "poster_path": "/7z6sVZyLX9RVHRn6IkIYiiEEE2x.jpg",
+                "overview": "Em Paris a americana Regina Lambert (Audrey Hepburn), que recentemente ficou vi\u00fava, tenta entender que tipo de vida o marido levava e onde podem estar escondidos os US$ 250 mil que muitos acreditam estar com ela.",
+                "vote_average": 7.7,
+                "vote_count": 1302
+            },
+            "winner": false
+        },
+        {
+            "first_label": "It's a Mad, Mad, Mad, Mad World",
+            "second_label": "It's A Mad, Mad, Mad, Mad World in \"It's a Mad, Mad, Mad, Mad World\" Music by Ernest Gold; Lyrics by Mack David",
+            "category": "Music (Song)",
+            "year": 1964,
+            "tmdb": {
+                "id": 11576,
+                "original_title": "It's a Mad, Mad, Mad, Mad World",
+                "title": "Deu a Louca no Mundo",
+                "release_date": "1963-11-07",
+                "backdrop_path": "/so48b1wCFRDkd4uXMM5eDlCzkt4.jpg",
+                "poster_path": "/2AsNyGepP93MnCJTi9q6cmZil7a.jpg",
+                "overview": "Ap\u00f3s um longo tempo na pris\u00e3o, homem cai de carro num precip\u00edcio. Antes de morrer, ele conta \u00e0s pessoas que tentam socorr\u00ea-lo onde escondera uma grande fortuna. Inicia-se ent\u00e3o uma louca corrida ao tesouro. Oscar de Efeitos Sonoros.",
+                "vote_average": 6.9,
+                "vote_count": 548
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mondo Cane",
+            "second_label": "More in \"Mondo Cane\" Music by Riz Ortolani and Nino Oliviero; Lyrics by Norman Newell",
+            "category": "Music (Song)",
+            "year": 1964,
+            "tmdb": {
+                "id": 87524,
+                "original_title": "Mondo cane n. 2",
+                "title": "Mondo Cane 2",
+                "release_date": "1963-11-30",
+                "backdrop_path": "/13L0Jre17cmRKn7jneiwi5ii9I9.jpg",
+                "poster_path": "/sHWqahepue7O2HMQImMRCAyc3uh.jpg",
+                "overview": "The official sequel to the original shockumentary, presenting new and bizarre behavior from around the world, including cruelty, graphic gore, and strange rituals.",
+                "vote_average": 5.6,
+                "vote_count": 25
+            },
+            "winner": false
+        },
+        {
+            "first_label": "55 Days at Peking",
+            "second_label": "So Little Time in \"55 Days at Peking\" Music by Dimitri Tiomkin; Lyrics by Paul Francis Webster",
+            "category": "Music (Song)",
+            "year": 1964,
+            "tmdb": {
+                "id": 27759,
+                "original_title": "55 Days at Peking",
+                "title": "55 Dias em Pequim",
+                "release_date": "1963-05-06",
+                "backdrop_path": "/rZDhSH1PqMuQ9uO9lP6ljUVg0nc.jpg",
+                "poster_path": "/uR0xaqmqlbhatf9014mHuwV1Uly.jpg",
+                "overview": "Na Pequim de 1900, durante a rebeli\u00e3o dos Boxers (revolta de uma fac\u00e7\u00e3o do povo chin\u00eas contra a presen\u00e7a ocidental na China), \u00e9 organizada uma comiss\u00e3o que re\u00fane diplomatas, ministros do ex\u00e9rcito e outros representantes de dezenas de na\u00e7\u00f5es. A id\u00e9ia \u00e9 encontrar uma solu\u00e7\u00e3o amig\u00e1vel e diplom\u00e1tica, mas h\u00e1 o evidente conflito de interesses entre os pa\u00edses presentes e o Imp\u00e9rio Chin\u00eas.",
+                "vote_average": 7.0,
+                "vote_count": 150
+            },
+            "winner": false
+        }
+    ],
+    "Best Picture": [
+        {
+            "first_label": "Tom Jones",
+            "second_label": "Tony Richardson, Producer",
+            "category": "Best Picture",
+            "year": 1964,
+            "tmdb": {
+                "id": 5769,
+                "original_title": "Tom Jones",
+                "title": "As Aventuras de Tom Jones",
+                "release_date": "1963-08-24",
+                "backdrop_path": "/3O4Ge9qNKmYGVjG6BKBC2HfSMg1.jpg",
+                "poster_path": "/bX6t9s00uaQvj3onicwgIgEEbmn.jpg",
+                "overview": "No s\u00e9culo XVIII, uma crian\u00e7a abandonada \u00e9 criada por um nobre ingl\u00eas. Quando adulto, Tom Jones torna-se um playboy mulherengo. Mas quando seu tutor morre e ele se apaixona por Sophie, v\u00ea-se obrigado a mudar o seu comportamento. O roteiro \u00e9 baseado no romance The History of Tom Jones, a Foundling, de Henry Fielding, publicado em 1749.",
+                "vote_average": 6.0,
+                "vote_count": 190
+            },
+            "winner": true
+        },
+        {
+            "first_label": "America America",
+            "second_label": "Elia Kazan, Producer",
+            "category": "Best Picture",
+            "year": 1964,
+            "tmdb": {
+                "id": 47249,
+                "original_title": "America America",
+                "title": "America America",
+                "release_date": "1963-12-15",
+                "backdrop_path": "/igFjSTMsZOPDcY54utYWxvgM96Q.jpg",
+                "poster_path": "/76RffKrNPrfA4TWYkx5wIIOzOlV.jpg",
+                "overview": "A young Anatolian Greek, entrusted with his family's fortune, loses it en route to Istanbul and dreams of going to America.",
+                "vote_average": 6.9,
+                "vote_count": 79
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Cleopatra",
+            "second_label": "Walter Wanger, Producer",
+            "category": "Best Picture",
+            "year": 1964,
+            "tmdb": {
+                "id": 8095,
+                "original_title": "Cleopatra",
+                "title": "Cle\u00f3patra",
+                "release_date": "1963-06-12",
+                "backdrop_path": "/qQGHkmLWPcMGkKws78pFh14SzUo.jpg",
+                "poster_path": "/zGz6N0Gj9LWvrRrUTgkGqmxqr5s.jpg",
+                "overview": "O filme narra a ascens\u00e3o e o decl\u00ednio de Cle\u00f3patra, rainha do Egito, sua luta para defender o imp\u00e9rio das ambi\u00e7\u00f5es pol\u00edticas e territoriais de Roma e seu relacionamento com J\u00falio C\u00e9sar e Marco Ant\u00f4nio.",
+                "vote_average": 7.1,
+                "vote_count": 698
+            },
+            "winner": false
+        },
+        {
+            "first_label": "How the West Was Won",
+            "second_label": "Bernard Smith, Producer",
+            "category": "Best Picture",
+            "year": 1964,
+            "tmdb": {
+                "id": 11897,
+                "original_title": "How the West Was Won",
+                "title": "A Conquista do Oeste",
+                "release_date": "1962-11-02",
+                "backdrop_path": "/4hK1fDFO2u4MmvMK2isOAzyweTL.jpg",
+                "poster_path": "/A6Jnu6ViAsI42VF0Qv8XtNbtxx5.jpg",
+                "overview": "Um western panor\u00e2mico, t\u00e9cnica e tematicamente, que acompanha a viagem de uma fam\u00edlia de pioneiros do Oeste, a fam\u00edlia Prescott. \u00c9, na verdade, um belo, heroico e grandioso \u00e9pico que descreve a g\u00eanese da Am\u00e9rica em sua expans\u00e3o at\u00e9 \u00e0s \u00faltimas fronteiras.",
+                "vote_average": 7.0,
+                "vote_count": 412
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lilies of the Field",
+            "second_label": "Ralph Nelson, Producer",
+            "category": "Best Picture",
+            "year": 1964,
+            "tmdb": {
+                "id": 38805,
+                "original_title": "Lilies of the Field",
+                "title": "Uma Voz na Sombras",
+                "release_date": "1963-06-04",
+                "backdrop_path": "/5107YjuW65wugo9IGrKGkZNIgIQ.jpg",
+                "poster_path": "/oCiKoBxseUqvR6sqSFuFjbV3iHX.jpg",
+                "overview": "Homer Smith, um trabalhador da constru\u00e7\u00e3o civil desempregado, dirigindo-se a oeste para em uma fazenda remota no deserto para conseguir um pouco de \u00e1gua quando seu carro superaquece. A fazenda est\u00e1 sendo cuidada por um grupo de freiras cat\u00f3licas do Leste Europeu, chefiada pela r\u00edgida Madre Maria, que acredita que Homer foi enviado por Deus para construir uma capela muito necess\u00e1ria no deserto.",
+                "vote_average": 7.2,
+                "vote_count": 153
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Cartoon)": [
+        {
+            "first_label": "The Critic",
+            "second_label": "Ernest Pintoff, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1964,
+            "tmdb": {
+                "id": 146320,
+                "original_title": "The Critic",
+                "title": "The Critic",
+                "release_date": "1963-05-20",
+                "backdrop_path": null,
+                "poster_path": "/jHGRWGg3dGC37o2UBO1ecCjv6Q5.jpg",
+                "overview": "Mel Brooks is an old man watching abstract animations.",
+                "vote_average": 6.3,
+                "vote_count": 34
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Automania 2000",
+            "second_label": "John Halas, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1964,
+            "tmdb": {
+                "id": 206998,
+                "original_title": "Automania 2000",
+                "title": "Automania 2000",
+                "release_date": "1964-06-12",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "An animated, dark satire of America's automobile-obsessed, consumerist culture. An anonymous, brilliant scientist toils tirelessly in his ivory tower satisfying the public's ever-increasing demands for novelty and status consciousness, with predictable environmental consequences.",
+                "vote_average": 6.8,
+                "vote_count": 11
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Game (Igra)",
+            "second_label": "Dusan Vukotic, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1964,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "My Financial Career",
+            "second_label": "Colin Low and Tom Daly, Producers",
+            "category": "Short Subject (Cartoon)",
+            "year": 1964,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Pianissimo",
+            "second_label": "Carmen D'Avino, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1964,
+            "tmdb": {
+                "id": 147793,
+                "original_title": "Pianissimo",
+                "title": "Pianissimo",
+                "release_date": "1963-12-28",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "An experimental animated short film in which a piano plays a song and the keys, hammers, and various other parts of the piano are different colors.",
+                "vote_average": 5.5,
+                "vote_count": 16
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Live Action)": [
+        {
+            "first_label": "An Occurrence at Owl Creek Bridge",
+            "second_label": "Paul de Roubaix and Marcel Ichac, Producers",
+            "category": "Short Subject (Live Action)",
+            "year": 1964,
+            "tmdb": {
+                "id": 53218,
+                "original_title": "La Rivi\u00e8re du hibou",
+                "title": "An Occurrence at Owl Creek Bridge",
+                "release_date": "1961-12-14",
+                "backdrop_path": null,
+                "poster_path": "/5sxSZCNtG57ahBlXKkfB43e4bMe.jpg",
+                "overview": "A southerner in the American Civil War is about to be hanged from a bridge for sabotage when the noose suddenly breaks. After he plunges into the water below, he must find a way to free himself, evade enemy forces and flee to safety.",
+                "vote_average": 7.6,
+                "vote_count": 83
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Concert",
+            "second_label": "Ezra Baker, Producer",
+            "category": "Short Subject (Live Action)",
+            "year": 1964,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Home-Made Car",
+            "second_label": "James Hill, Producer",
+            "category": "Short Subject (Live Action)",
+            "year": 1964,
+            "tmdb": {
+                "id": 71986,
+                "original_title": "The Home-Made Car",
+                "title": "The Home-Made Car",
+                "release_date": "1963-06-01",
+                "backdrop_path": null,
+                "poster_path": "/d5zrPs1XNf27g93J4P2tWk9DU1u.jpg",
+                "overview": "The Home-Made Car is a 1963 short film directed by James Hill about a young man who rebuilds a vintage car and finds love. Made in and around Farnborough, Hampshire, it became a cult success when regularly broadcast as a trade test colour transmission on the run up to the start of BBC2 colour transmissions. The film was nominated for an Oscar for Best Live Action Short Film.",
+                "vote_average": 7.7,
+                "vote_count": 6
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Six-Sided Triangle",
+            "second_label": "Christopher Miles, Producer",
+            "category": "Short Subject (Live Action)",
+            "year": 1964,
+            "tmdb": {
+                "id": 243240,
+                "original_title": "The Six-Sided Triangle",
+                "title": "The Six-Sided Triangle",
+                "release_date": "1963-11-27",
+                "backdrop_path": null,
+                "poster_path": "/6NYQHdDZnKZkJy4Y5QWDria2eR2.jpg",
+                "overview": "The Six-Sided Triangle is a 1963 short film directed by Christopher Miles, starring his younger sister Sarah Miles, Nicol Williamson, and Bill Meilen. It is about a  husband who comes home and finds his wife with her lover - told from the perspectives of six different countries (the US, England, Japan, Sweden, Italy and France). The film was nominated for an Oscar for Best Live Action Short Film.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "That's Me",
+            "second_label": "Walker Stuart, Producer",
+            "category": "Short Subject (Live Action)",
+            "year": 1964,
+            "tmdb": {
+                "id": 243242,
+                "original_title": "That's Me",
+                "title": "That's Me",
+                "release_date": "1963-01-01",
+                "backdrop_path": null,
+                "poster_path": "/zZ4JdoA9wRPRMPkbjOPnJmO0Tol.jpg",
+                "overview": "That's Me is a 1963 American short comedy film directed by Walker Stuart. It's written by and stars Alan Arkin and Andrew Duncan. The film was nominated for an Oscar for Best Live Action Short Film.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        }
+    ],
+    "Sound": [
+        {
+            "first_label": "How the West Was Won",
+            "second_label": "Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director",
+            "category": "Sound",
+            "year": 1964,
+            "tmdb": {
+                "id": 11897,
+                "original_title": "How the West Was Won",
+                "title": "A Conquista do Oeste",
+                "release_date": "1962-11-02",
+                "backdrop_path": "/4hK1fDFO2u4MmvMK2isOAzyweTL.jpg",
+                "poster_path": "/A6Jnu6ViAsI42VF0Qv8XtNbtxx5.jpg",
+                "overview": "Um western panor\u00e2mico, t\u00e9cnica e tematicamente, que acompanha a viagem de uma fam\u00edlia de pioneiros do Oeste, a fam\u00edlia Prescott. \u00c9, na verdade, um belo, heroico e grandioso \u00e9pico que descreve a g\u00eanese da Am\u00e9rica em sua expans\u00e3o at\u00e9 \u00e0s \u00faltimas fronteiras.",
+                "vote_average": 7.0,
+                "vote_count": 412
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Bye Bye Birdie",
+            "second_label": "Columbia Studio Sound Department, Charles Rice, Sound Director",
+            "category": "Sound",
+            "year": 1964,
+            "tmdb": {
+                "id": 25167,
+                "original_title": "Bye Bye Birdie",
+                "title": "Adeus, Amor",
+                "release_date": "1963-04-04",
+                "backdrop_path": "/6RGQ7bPlJtOEw28iHDxK4MFvgDX.jpg",
+                "poster_path": "/aLoPW4ZIPUIfP0hpB3gBWZwf3kI.jpg",
+                "overview": "Muitas gargalhadas e grandes can\u00e7\u00f5es tornaram este filme, baseado em um show de sucesso da Broadway, num dos inesquec\u00edveis musicais de todos os tempos. Quando o astro do rock e paix\u00e3o das adolescentes Conrad Birdie \u00e9 recrutado, as garotas do pa\u00eds v\u00e3o \u00e0 loucura e o compositor de Conrad, Albert (Dick Van Dyke), fica desempregado. Assim, Albert e sua namorada (Janet Leigh) organizam um concurso nacional no qual uma felizarda ganhar\u00e1 um beijo de adeus de Conrad no programa de TV de Ed Sullivan. Kim McAfee (Ann-Margret) \u00e9 a ganhadora e toda a comitiva de Conrad se dirige at\u00e9 a pequena cidade\u2014para desgosto do sempre irritado pai da garota (Paul Lynde) e do ciumento namorado (o cantor Bobby Rydell) O resultado \u00e9 o caos e uma s\u00e9rie hilariante de complica\u00e7\u00f5es rom\u00e2nticas.",
+                "vote_average": 5.8,
+                "vote_count": 93
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Captain Newman, M.D.",
+            "second_label": "Universal City Studio Sound Department, Waldon O. Watson, Sound Director",
+            "category": "Sound",
+            "year": 1964,
+            "tmdb": {
+                "id": 33728,
+                "original_title": "Captain Newman, M.D.",
+                "title": "Pavilh\u00e3o 7",
+                "release_date": "1963-12-25",
+                "backdrop_path": "/1gd2sQlTZ1SzLyVDnUMgEVQj9Oa.jpg",
+                "poster_path": "/ovXBWbk3YjOZB5cmiTvdNaDYGKu.jpg",
+                "overview": "Em 1944, o capit\u00e3o. Josiah J. Newman \u00e9 o m\u00e9dico respons\u00e1vel pelo Pavilh\u00e3o 7, a ala neuropsiqui\u00e1trica, em um hospital da For\u00e7a A\u00e9rea Americana, no Arizona. O hospital est\u00e1 com poucos recursos e Newman surrupia o que precisa com a ajuda de sua equipe criativa, especialmente o Cabo Jake Leibowitz. Os militares, em geral, est\u00e3o apenas come\u00e7ando a aceitar transtornos psiqui\u00e1tricos como uma doen\u00e7a leg\u00edtima e Newman geralmente tem 6 semanas para cur\u00e1-los ou envi\u00e1-los para outra unidade. H\u00e1 muitos pacientes na enfermaria e seus mais recentes incluem o coronel Norville Bliss que est\u00e1 dissociado do seu passado; o Cap. Paul Winston, que ficou quase catat\u00f4nico depois de passar 13 meses escondidos em um por\u00e3o por tr\u00e1s das linhas inimigas; e o Cabo de 20 anos de idade. Jim Tompkins que ficou severamente traumatizado ap\u00f3s seu avi\u00e3o ser abatido.",
+                "vote_average": 6.5,
+                "vote_count": 24
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Cleopatra",
+            "second_label": "20th Century-Fox Studio Sound Department, James P. Corcoran, Sound Director; and Todd-AO Sound Department, Fred Hynes, Sound Director",
+            "category": "Sound",
+            "year": 1964,
+            "tmdb": {
+                "id": 8095,
+                "original_title": "Cleopatra",
+                "title": "Cle\u00f3patra",
+                "release_date": "1963-06-12",
+                "backdrop_path": "/qQGHkmLWPcMGkKws78pFh14SzUo.jpg",
+                "poster_path": "/zGz6N0Gj9LWvrRrUTgkGqmxqr5s.jpg",
+                "overview": "O filme narra a ascens\u00e3o e o decl\u00ednio de Cle\u00f3patra, rainha do Egito, sua luta para defender o imp\u00e9rio das ambi\u00e7\u00f5es pol\u00edticas e territoriais de Roma e seu relacionamento com J\u00falio C\u00e9sar e Marco Ant\u00f4nio.",
+                "vote_average": 7.1,
+                "vote_count": 698
+            },
+            "winner": false
+        },
+        {
+            "first_label": "It's a Mad, Mad, Mad, Mad World",
+            "second_label": "Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director",
+            "category": "Sound",
+            "year": 1964,
+            "tmdb": {
+                "id": 11576,
+                "original_title": "It's a Mad, Mad, Mad, Mad World",
+                "title": "Deu a Louca no Mundo",
+                "release_date": "1963-11-07",
+                "backdrop_path": "/so48b1wCFRDkd4uXMM5eDlCzkt4.jpg",
+                "poster_path": "/2AsNyGepP93MnCJTi9q6cmZil7a.jpg",
+                "overview": "Ap\u00f3s um longo tempo na pris\u00e3o, homem cai de carro num precip\u00edcio. Antes de morrer, ele conta \u00e0s pessoas que tentam socorr\u00ea-lo onde escondera uma grande fortuna. Inicia-se ent\u00e3o uma louca corrida ao tesouro. Oscar de Efeitos Sonoros.",
+                "vote_average": 6.9,
+                "vote_count": 548
+            },
+            "winner": false
+        }
+    ],
+    "Sound Effects": [
+        {
+            "first_label": "It's a Mad, Mad, Mad, Mad World",
+            "second_label": "Walter G. Elliott",
+            "category": "Sound Effects",
+            "year": 1964,
+            "tmdb": {
+                "id": 11576,
+                "original_title": "It's a Mad, Mad, Mad, Mad World",
+                "title": "Deu a Louca no Mundo",
+                "release_date": "1963-11-07",
+                "backdrop_path": "/so48b1wCFRDkd4uXMM5eDlCzkt4.jpg",
+                "poster_path": "/2AsNyGepP93MnCJTi9q6cmZil7a.jpg",
+                "overview": "Ap\u00f3s um longo tempo na pris\u00e3o, homem cai de carro num precip\u00edcio. Antes de morrer, ele conta \u00e0s pessoas que tentam socorr\u00ea-lo onde escondera uma grande fortuna. Inicia-se ent\u00e3o uma louca corrida ao tesouro. Oscar de Efeitos Sonoros.",
+                "vote_average": 6.9,
+                "vote_count": 548
+            },
+            "winner": true
+        },
+        {
+            "first_label": "A Gathering of Eagles",
+            "second_label": "Robert L. Bratton",
+            "category": "Sound Effects",
+            "year": 1964,
+            "tmdb": {
+                "id": 124058,
+                "original_title": "A Gathering of Eagles",
+                "title": "\u00c1guias em Alerta",
+                "release_date": "1963-06-21",
+                "backdrop_path": "/x2b3zkbxAKNWROsyMarlU8Z2QnC.jpg",
+                "poster_path": "/aMhdBWKwRKdfrx5OJ0mXIc5mwHW.jpg",
+                "overview": "Coronel da For\u00e7a A\u00e9rea Americana \u00e9 designado como comandante de um B-52 depois que o respons\u00e1vel anterior foi afastado por falhar na inspe\u00e7\u00e3o da aeronave. O Coronel s\u00f3 ter\u00e1 um grande problema: a esposa, que n\u00e3o contava que o marido fosse destacado para nova miss\u00e3o.",
+                "vote_average": 5.4,
+                "vote_count": 22
+            },
+            "winner": false
+        }
+    ],
+    "Special Effects": [
+        {
+            "first_label": "Cleopatra",
+            "second_label": "Emil Kosa, Jr.",
+            "category": "Special Effects",
+            "year": 1964,
+            "tmdb": {
+                "id": 8095,
+                "original_title": "Cleopatra",
+                "title": "Cle\u00f3patra",
+                "release_date": "1963-06-12",
+                "backdrop_path": "/qQGHkmLWPcMGkKws78pFh14SzUo.jpg",
+                "poster_path": "/zGz6N0Gj9LWvrRrUTgkGqmxqr5s.jpg",
+                "overview": "O filme narra a ascens\u00e3o e o decl\u00ednio de Cle\u00f3patra, rainha do Egito, sua luta para defender o imp\u00e9rio das ambi\u00e7\u00f5es pol\u00edticas e territoriais de Roma e seu relacionamento com J\u00falio C\u00e9sar e Marco Ant\u00f4nio.",
+                "vote_average": 7.1,
+                "vote_count": 698
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Birds",
+            "second_label": "Ub Iwerks",
+            "category": "Special Effects",
+            "year": 1964,
+            "tmdb": {
+                "id": 571,
+                "original_title": "The Birds",
+                "title": "Os P\u00e1ssaros",
+                "release_date": "1963-03-28",
+                "backdrop_path": "/nBPdQlSC8xp6LwtJl3skRucnd2z.jpg",
+                "poster_path": "/2jTzJ7jUrbabB03JdNwk2D00OMB.jpg",
+                "overview": "Melanie Daniels, uma jovem da cidade de S\u00e3o Francisco, vai at\u00e9 uma pequena cidade isolada da Calif\u00f3rnia, chamada Bodega Bay, atr\u00e1s de um potencial namorado: Mitch Brenner. Mas na cidade come\u00e7a de repente a acontecer fatos estranhos: p\u00e1ssaros de todas as esp\u00e9cies passam a atacar a popula\u00e7\u00e3o, em n\u00famero cada vez maior e com mais viol\u00eancia, deixando todos aterrorizados.",
+                "vote_average": 7.523,
+                "vote_count": 3866
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay--based on material from another medium)": [
+        {
+            "first_label": "Tom Jones",
+            "second_label": "John Osborne",
+            "category": "Writing (Screenplay--based on material from another medium)",
+            "year": 1964,
+            "tmdb": {
+                "id": 5769,
+                "original_title": "Tom Jones",
+                "title": "As Aventuras de Tom Jones",
+                "release_date": "1963-08-24",
+                "backdrop_path": "/3O4Ge9qNKmYGVjG6BKBC2HfSMg1.jpg",
+                "poster_path": "/bX6t9s00uaQvj3onicwgIgEEbmn.jpg",
+                "overview": "No s\u00e9culo XVIII, uma crian\u00e7a abandonada \u00e9 criada por um nobre ingl\u00eas. Quando adulto, Tom Jones torna-se um playboy mulherengo. Mas quando seu tutor morre e ele se apaixona por Sophie, v\u00ea-se obrigado a mudar o seu comportamento. O roteiro \u00e9 baseado no romance The History of Tom Jones, a Foundling, de Henry Fielding, publicado em 1749.",
+                "vote_average": 6.0,
+                "vote_count": 190
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Captain Newman, M.D.",
+            "second_label": "Richard L. Breen, Phoebe Ephron, Henry Ephron",
+            "category": "Writing (Screenplay--based on material from another medium)",
+            "year": 1964,
+            "tmdb": {
+                "id": 33728,
+                "original_title": "Captain Newman, M.D.",
+                "title": "Pavilh\u00e3o 7",
+                "release_date": "1963-12-25",
+                "backdrop_path": "/1gd2sQlTZ1SzLyVDnUMgEVQj9Oa.jpg",
+                "poster_path": "/ovXBWbk3YjOZB5cmiTvdNaDYGKu.jpg",
+                "overview": "Em 1944, o capit\u00e3o. Josiah J. Newman \u00e9 o m\u00e9dico respons\u00e1vel pelo Pavilh\u00e3o 7, a ala neuropsiqui\u00e1trica, em um hospital da For\u00e7a A\u00e9rea Americana, no Arizona. O hospital est\u00e1 com poucos recursos e Newman surrupia o que precisa com a ajuda de sua equipe criativa, especialmente o Cabo Jake Leibowitz. Os militares, em geral, est\u00e3o apenas come\u00e7ando a aceitar transtornos psiqui\u00e1tricos como uma doen\u00e7a leg\u00edtima e Newman geralmente tem 6 semanas para cur\u00e1-los ou envi\u00e1-los para outra unidade. H\u00e1 muitos pacientes na enfermaria e seus mais recentes incluem o coronel Norville Bliss que est\u00e1 dissociado do seu passado; o Cap. Paul Winston, que ficou quase catat\u00f4nico depois de passar 13 meses escondidos em um por\u00e3o por tr\u00e1s das linhas inimigas; e o Cabo de 20 anos de idade. Jim Tompkins que ficou severamente traumatizado ap\u00f3s seu avi\u00e3o ser abatido.",
+                "vote_average": 6.5,
+                "vote_count": 24
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hud",
+            "second_label": "Irving Ravetch, Harriet Frank, Jr.",
+            "category": "Writing (Screenplay--based on material from another medium)",
+            "year": 1964,
+            "tmdb": {
+                "id": 24748,
+                "original_title": "Hud",
+                "title": "O Indomado",
+                "release_date": "1963-05-28",
+                "backdrop_path": "/lFZKCyfqqCaK94TftFVKcXcSIOw.jpg",
+                "poster_path": "/A168bF52vmAIGkC2Qafj7M2EmaE.jpg",
+                "overview": "Hud Bannon \u00e9 um jovem implac\u00e1vel que mancha tudo e todos os que ele toca. Hud representa a encarna\u00e7\u00e3o perfeita da juventude alienada, pronto para brigar sem levar em conta as consequ\u00eancias. H\u00e1 um amargo conflito entre o insens\u00edvel Hud e seu severo e cheio de princ\u00edpios pai, Homer. Lon, seu sobrinho, admira os truques e trapa\u00e7as de Hud, embora logo se perceba que a amoralidade imprudente de Hud n\u00e3o o sustentaria. No mundo dos ganhadores e perdedores  Hud \u00e9 um vencedor. Ele \u00e9 um trapaceiro, mas, ele explica: \"Eu sempre digo que a lei deveria ser interpretada de maneira indulgente\". (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.2,
+                "vote_count": 282
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lilies of the Field",
+            "second_label": "James Poe",
+            "category": "Writing (Screenplay--based on material from another medium)",
+            "year": 1964,
+            "tmdb": {
+                "id": 38805,
+                "original_title": "Lilies of the Field",
+                "title": "Uma Voz na Sombras",
+                "release_date": "1963-06-04",
+                "backdrop_path": "/5107YjuW65wugo9IGrKGkZNIgIQ.jpg",
+                "poster_path": "/oCiKoBxseUqvR6sqSFuFjbV3iHX.jpg",
+                "overview": "Homer Smith, um trabalhador da constru\u00e7\u00e3o civil desempregado, dirigindo-se a oeste para em uma fazenda remota no deserto para conseguir um pouco de \u00e1gua quando seu carro superaquece. A fazenda est\u00e1 sendo cuidada por um grupo de freiras cat\u00f3licas do Leste Europeu, chefiada pela r\u00edgida Madre Maria, que acredita que Homer foi enviado por Deus para construir uma capela muito necess\u00e1ria no deserto.",
+                "vote_average": 7.2,
+                "vote_count": 153
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sundays and Cybele",
+            "second_label": "Serge Bourguignon, Antoine Tudal",
+            "category": "Writing (Screenplay--based on material from another medium)",
+            "year": 1964,
+            "tmdb": {
+                "id": 43001,
+                "original_title": "Cyb\u00e8le ou les dimanches de ville d'Avray",
+                "title": "Sempre aos Domingos",
+                "release_date": "1962-11-12",
+                "backdrop_path": "/dMQcHcEMDLuCjtrIY1nfuktoLW8.jpg",
+                "poster_path": "/9L5DtYYlO3yrg2qtTCxROLnLl2V.jpg",
+                "overview": "Sofrendo de amn\u00e9sia, um ex-combatente vive atormentado por ter matado uma crian\u00e7a na guerra. Sua vida come\u00e7a a mudar quando encontra uma menina abandonada pelo pr\u00f3prio pai e passa a se encontrar todo domingo com ela para brincar e, ao mesmo tempo, tentar lembrar de seu passado. Aos poucos, a rela\u00e7\u00e3o entre os dois come\u00e7a a ser mal interpretada, at\u00e9 mesmo pelos amigos de Pierre.",
+                "vote_average": 7.1,
+                "vote_count": 55
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Story and Screenplay--written directly for the screen)": [
+        {
+            "first_label": "How the West Was Won",
+            "second_label": "James R. Webb",
+            "category": "Writing (Story and Screenplay--written directly for the screen)",
+            "year": 1964,
+            "tmdb": {
+                "id": 11897,
+                "original_title": "How the West Was Won",
+                "title": "A Conquista do Oeste",
+                "release_date": "1962-11-02",
+                "backdrop_path": "/4hK1fDFO2u4MmvMK2isOAzyweTL.jpg",
+                "poster_path": "/A6Jnu6ViAsI42VF0Qv8XtNbtxx5.jpg",
+                "overview": "Um western panor\u00e2mico, t\u00e9cnica e tematicamente, que acompanha a viagem de uma fam\u00edlia de pioneiros do Oeste, a fam\u00edlia Prescott. \u00c9, na verdade, um belo, heroico e grandioso \u00e9pico que descreve a g\u00eanese da Am\u00e9rica em sua expans\u00e3o at\u00e9 \u00e0s \u00faltimas fronteiras.",
+                "vote_average": 7.0,
+                "vote_count": 412
+            },
+            "winner": true
+        },
+        {
+            "first_label": "America America",
+            "second_label": "Elia Kazan",
+            "category": "Writing (Story and Screenplay--written directly for the screen)",
+            "year": 1964,
+            "tmdb": {
+                "id": 47249,
+                "original_title": "America America",
+                "title": "America America",
+                "release_date": "1963-12-15",
+                "backdrop_path": "/igFjSTMsZOPDcY54utYWxvgM96Q.jpg",
+                "poster_path": "/76RffKrNPrfA4TWYkx5wIIOzOlV.jpg",
+                "overview": "A young Anatolian Greek, entrusted with his family's fortune, loses it en route to Istanbul and dreams of going to America.",
+                "vote_average": 6.9,
+                "vote_count": 79
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Federico Fellini's 8-1/2",
+            "second_label": "Federico Fellini, Ennio Flaiano, Tullio Pinelli, Brunello Rondi",
+            "category": "Writing (Story and Screenplay--written directly for the screen)",
+            "year": 1964,
+            "tmdb": {
+                "id": 422,
+                "original_title": "8\u00bd",
+                "title": "8\u00bd",
+                "release_date": "1963-02-14",
+                "backdrop_path": "/hiXMQiwpa0fqPJxWLSMWTbpiWn8.jpg",
+                "poster_path": "/kblgLW8fVPChohNxUbkfBQ94It0.jpg",
+                "overview": "Prestes a rodar sua pr\u00f3xima obra, o cineasta Guido Anselmi (Marcello Mastroianni) ainda n\u00e3o tem id\u00e9ia de como ser\u00e1 o filme. Mergulhado em uma crise existencial e pressionado pelo produtor, pela mulher, pela amante e pelos amigos, ele se interna em uma esta\u00e7\u00e3o de \u00e1guas e passa a misturar o passado com o presente, fic\u00e7\u00e3o com realidade.",
+                "vote_average": 8.2,
+                "vote_count": 2155
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Four Days of Naples",
+            "second_label": "Story by Pasquale Festa Campanile, Massimo Franciosa, Nanni Loy, Vasco Pratolini;  Screenplay by Carlo Bernari, Pasquale Festa Campanile, Massimo Franciosa, Nanni Loy",
+            "category": "Writing (Story and Screenplay--written directly for the screen)",
+            "year": 1964,
+            "tmdb": {
+                "id": 65048,
+                "original_title": "Le quattro giornate di Napoli",
+                "title": "The Four Days of Naples",
+                "release_date": "1962-11-16",
+                "backdrop_path": "/lugVUlwpvVP7wnuvZCMoZBgUW2i.jpg",
+                "poster_path": "/kTaSb8eTHl0rIHuLrH6G45DGPXL.jpg",
+                "overview": "September 1943. After Italy surrenders to the Allies, most people in Naples believe the war is finally over, but soon realize Germans are still in control\u2014and as ruthless as ever. Armed with makeshift weapons, the Neapolitan civilians spontaneously rise up en masse against their occupants\u2014and overwhelming odds, driving them from the city after four days of fighting.",
+                "vote_average": 7.5,
+                "vote_count": 41
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Love with the Proper Stranger",
+            "second_label": "Arnold Schulman",
+            "category": "Writing (Story and Screenplay--written directly for the screen)",
+            "year": 1964,
+            "tmdb": {
+                "id": 39495,
+                "original_title": "Love with the Proper Stranger",
+                "title": "O Pre\u00e7o de um Prazer",
+                "release_date": "1963-12-25",
+                "backdrop_path": "/3uxGjhSt2uXA1GZ3sZ05SG08SiN.jpg",
+                "poster_path": "/1Dzre2aAiLZhAW03FlJ1n6YwQSN.jpg",
+                "overview": "Angie Rossini \u00e9 uma jovem e inocente (Cat\u00f3lica Italiana) vendedora da Macy, que descobre que est\u00e1 gr\u00e1vida de Rocky, um m\u00fasico. Angie encontra Rocky (que em um primeiro momento n\u00e3o se lembra dela) para dizer-lhe que est\u00e1 gr\u00e1vida e precisa de um m\u00e9dico para fazer um aborto. Ele acha um m\u00e9dico e eles trabalham juntos para levantar o dinheiro. Ser\u00e1 que esses dois estranhos encontrar\u00e3o o amor um no outro antes que seja tarde demais?",
+                "vote_average": 6.7,
+                "vote_count": 56
+            },
+            "winner": false
+        }
+    ]
+}

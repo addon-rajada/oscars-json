@@ -1,0 +1,2050 @@
+{
+    "Actor": [
+        {
+            "first_label": "Lee Marvin",
+            "second_label": "Cat Ballou",
+            "category": "Actor",
+            "year": 1966,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Richard Burton",
+            "second_label": "The Spy Who Came In from the Cold",
+            "category": "Actor",
+            "year": 1966,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Laurence Olivier",
+            "second_label": "Othello",
+            "category": "Actor",
+            "year": 1966,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rod Steiger",
+            "second_label": "The Pawnbroker",
+            "category": "Actor",
+            "year": 1966,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Oskar Werner",
+            "second_label": "Ship of Fools",
+            "category": "Actor",
+            "year": 1966,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Martin Balsam",
+            "second_label": "A Thousand Clowns",
+            "category": "Actor in a Supporting Role",
+            "year": 1966,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Ian Bannen",
+            "second_label": "The Flight of the Phoenix",
+            "category": "Actor in a Supporting Role",
+            "year": 1966,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tom Courtenay",
+            "second_label": "Doctor Zhivago",
+            "category": "Actor in a Supporting Role",
+            "year": 1966,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Michael Dunn",
+            "second_label": "Ship of Fools",
+            "category": "Actor in a Supporting Role",
+            "year": 1966,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Frank Finlay",
+            "second_label": "Othello",
+            "category": "Actor in a Supporting Role",
+            "year": 1966,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress": [
+        {
+            "first_label": "Julie Christie",
+            "second_label": "Darling",
+            "category": "Actress",
+            "year": 1966,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Julie Andrews",
+            "second_label": "The Sound of Music",
+            "category": "Actress",
+            "year": 1966,
+            "tmdb": {
+                "id": 534043,
+                "original_title": "The Julie Andrews Show",
+                "title": "The Julie Andrews Show",
+                "release_date": "1965-12-24",
+                "backdrop_path": null,
+                "poster_path": "/r6EL22u6VySyLH1UDIp462DmXYk.jpg",
+                "overview": "The Julie Andrews Show is a television special that was broadcast by NBC in November 1965.  This was Andrews' first solo American TV Special, although she had previously starred in several dramatic television works (High Tor, Cinderella) and co-starred with Carol Burnett in a major special.  However by November 1965 Andrews was now a major movie star with both Mary Poppins and Sound of Music still in cinemas and an Oscar already sitting on her mantelpiece. Julie's guests included Gene Kelly and The New Christy Minstrels.",
+                "vote_average": 7.0,
+                "vote_count": 1
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Samantha Eggar",
+            "second_label": "The Collector",
+            "category": "Actress",
+            "year": 1966,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Elizabeth Hartman",
+            "second_label": "A Patch of Blue",
+            "category": "Actress",
+            "year": 1966,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Simone Signoret",
+            "second_label": "Ship of Fools",
+            "category": "Actress",
+            "year": 1966,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Shelley Winters",
+            "second_label": "A Patch of Blue",
+            "category": "Actress in a Supporting Role",
+            "year": 1966,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Ruth Gordon",
+            "second_label": "Inside Daisy Clover",
+            "category": "Actress in a Supporting Role",
+            "year": 1966,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Joyce Redman",
+            "second_label": "Othello",
+            "category": "Actress in a Supporting Role",
+            "year": 1966,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Maggie Smith",
+            "second_label": "Othello",
+            "category": "Actress in a Supporting Role",
+            "year": 1966,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Peggy Wood",
+            "second_label": "The Sound of Music",
+            "category": "Actress in a Supporting Role",
+            "year": 1966,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction (Black-and-White)": [
+        {
+            "first_label": "Ship of Fools",
+            "second_label": "Art Direction: Robert Clatworthy; Set Decoration: Joseph Kish",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1966,
+            "tmdb": {
+                "id": 30080,
+                "original_title": "Ship of Fools",
+                "title": "A Nau dos Insensatos",
+                "release_date": "1965-07-29",
+                "backdrop_path": "/t3bXP5pUnckfoJ8WonlvAGovCun.jpg",
+                "poster_path": "/2LOe4Hu6Gxw6k76hLWhS8JVVILa.jpg",
+                "overview": "1933: Um transatl\u00e2ntico pertencente a uma empresa alem\u00e3 de segunda categoria est\u00e1 fazendo uma viagem de 26 dias partindo de Veracruz, M\u00e9xico, para Bremerhaven, Alemanha. Ao longo do caminho ele vai parar em Cuba para pegar um grande grupo de trabalhadores agr\u00edcolas espanh\u00f3is que est\u00e3o sendo enviados para casa e que ser\u00e3o alojadas como gado na terceira classe. V\u00e3o tamb\u00e9m pegar La Condesa, uma condessa espanhola. V\u00e3o parar em Tenerife, onde os trabalhadores agr\u00edcolas ir\u00e3o desembarcar e onde La Condesa ser\u00e1 enviado para uma pris\u00e3o alem\u00e3 por suas atividades \"traidoras\" em Cuba. Esta viagem ser\u00e1 a \u00faltima de tr\u00eas para o m\u00e9dico do navio, Willi Schumann, que tem uma doen\u00e7a card\u00edaca grave e que pensou que poderia encontrar algum sentido para sua vida atrav\u00e9s deste trabalho. Willi e La Condesa se apaixonam e o capit\u00e3o do navio Thiele, que \u00e9 o melhor amigo de Willie a bordo, acreditando que a viciada em drogas La Condesa est\u00e1 apenas usando-o para obter suas doses.",
+                "vote_average": 6.5,
+                "vote_count": 83
+            },
+            "winner": true
+        },
+        {
+            "first_label": "King Rat",
+            "second_label": "Art Direction: Robert Emmet Smith; Set Decoration: Frank Tuttle",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1966,
+            "tmdb": {
+                "id": 29586,
+                "original_title": "King Rat",
+                "title": "King Rat",
+                "release_date": "1965-10-27",
+                "backdrop_path": "/d7yXQaZzKUEV49cCJ7yllYslkpF.jpg",
+                "poster_path": "/dqcr3i6ii47LajYziZiJj7xkLsr.jpg",
+                "overview": "When Singapore surrendered to the Japanese in 1942, the Allied POWs, mostly British but including a few Americans, were incarcerated in Changi prison. Among the American prisoners is Cpl. King, a wheeler-dealer who has managed to establish a pretty good life for himself in the camp. King soon forms a friendship with an upper-class British officer who is fascinated with King's enthusiastic approach to life.",
+                "vote_average": 7.1,
+                "vote_count": 67
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Patch of Blue",
+            "second_label": "Art Direction: George W. Davis, Urie McCleary; Set Decoration: Henry Grace, Charles S. Thompson",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1966,
+            "tmdb": {
+                "id": 33364,
+                "original_title": "A Patch of Blue",
+                "title": "Quando S\u00f3 o Cora\u00e7\u00e3o V\u00ea",
+                "release_date": "1965-12-10",
+                "backdrop_path": "/fzBSF2bLRhquIaPfthb1rbngMPw.jpg",
+                "poster_path": "/cBb4SvP8kCVb4jtN4qWnis8ihj6.jpg",
+                "overview": "Homem negro e experiente passeia pelo parque quando encontra uma jovem linda, branca e cega. Eles ficam amigos e passam a se encontrar todos os dias. Aos poucos eles v\u00e3o se tornando cada vez mais \u00edntimos, mas a m\u00e3e da mo\u00e7a est\u00e1 convencida de que qualquer homem se interessaria pela filha apenas por sexo.",
+                "vote_average": 7.5,
+                "vote_count": 97
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Slender Thread",
+            "second_label": "Art Direction: Hal Pereira, Jack Poplin; Set Decoration: Robert Benton, Joseph Kish",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1966,
+            "tmdb": {
+                "id": 51054,
+                "original_title": "The Slender Thread",
+                "title": "Uma Vida em Suspense",
+                "release_date": "1965-12-15",
+                "backdrop_path": "/uFtP4UK0e7kNmm7x1V39SLrpay1.jpg",
+                "poster_path": "/bVJ9p6nTX2nvzAviASuvtMSQ6Jp.jpg",
+                "overview": "Alan \u00e9 um estudante universit\u00e1rio de Seattle, voluntario em um centro de crise. Uma noite, quando a cl\u00ednica est\u00e1 vazia, uma mulher liga para o n\u00famero e diz a Alan que ela precisa falar com algu\u00e9m. Informa a Alan que tomou um monte de p\u00edlulas, e ele tenta conseguir ajuda sem que ela perceba. Durante esse tempo, ele aprende mais sobre a mulher, sua vida familiar e por que ela quer morrer. Alan vai conseguir a ajuda para salv\u00e1-la a tempo antes que seja tarde demais? (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.2,
+                "vote_count": 45
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Spy Who Came In from the Cold",
+            "second_label": "Art Direction: Hal Pereira, Tambi Larsen, Edward Marshall; Set Decoration: Josie MacAvin",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1966,
+            "tmdb": {
+                "id": 13580,
+                "original_title": "The Spy Who Came in from the Cold",
+                "title": "O Espi\u00e3o que Veio do Frio",
+                "release_date": "1965-12-16",
+                "backdrop_path": "/llwusQFdHmHCWS7jySP2r6bbAIm.jpg",
+                "poster_path": "/xroW2SrAAHwnel6yazC99xRW9R2.jpg",
+                "overview": "Alec Leamas, um espi\u00e3o brit\u00e2nico vai para a Alemanha Oriental supostamente para desertar, mas na verdade, vai para semear a desinforma\u00e7\u00e3o. \u00c0 medida que surgem mais reviravoltas na trama, Leamas fica mais convencido de que seu pr\u00f3prio lado o v\u00ea apenas como mais uma engrenagem. Sua luta contra a desumaniza\u00e7\u00e3o torna-se o foco final da hist\u00f3ria.",
+                "vote_average": 7.0,
+                "vote_count": 266
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction (Color)": [
+        {
+            "first_label": "Doctor Zhivago",
+            "second_label": "Art Direction: John Box, Terry Marsh; Set Decoration: Dario Simoni",
+            "category": "Art Direction (Color)",
+            "year": 1966,
+            "tmdb": {
+                "id": 907,
+                "original_title": "Doctor Zhivago",
+                "title": "Doutor Jivago",
+                "release_date": "1965-12-22",
+                "backdrop_path": "/y3sPNxqVBIt97EZX568OpAWBpcl.jpg",
+                "poster_path": "/xG9sb3Hq8SUy6hOq3AYHbBzVFKf.jpg",
+                "overview": "Ambientado antes e durante a Revolu\u00e7\u00e3o Bolchevique na R\u00fassia, conhe\u00e7a a hist\u00f3ria do doutor Yury Zhivago, que em plena guerra se viu apaixonado pela bela Lara Antipova, o amor imposs\u00edvel que move toda a hist\u00f3ria. Baseado na obra de Boris Pasternak, vencedor de 5 Oscar, incluindo Fotografia e Roteiro Adaptado.",
+                "vote_average": 7.5,
+                "vote_count": 1075
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Agony and the Ecstasy",
+            "second_label": "Art Direction: John DeCuir, Jack Martin Smith; Set Decoration: Dario Simoni",
+            "category": "Art Direction (Color)",
+            "year": 1966,
+            "tmdb": {
+                "id": 36815,
+                "original_title": "The Agony and the Ecstasy",
+                "title": "Agonia e \u00caxtase",
+                "release_date": "1965-09-16",
+                "backdrop_path": "/4l5LtMuBS6syAxv2WJhJV1phsDr.jpg",
+                "poster_path": "/jHCLHAZV5PMvGuhIItjy2J67P0I.jpg",
+                "overview": "Charlton Heston e Rex Harrison interpretam duas das personalidades mais marcantes da Renascen\u00e7a neste drama hist\u00f3rico baseado no best-seller de Irving Stone ambientado no in\u00edcio do S\u00e9culo XVI. Quando o Papa J\u00falio II encomenda a Michelangelo a pintura do teto da Capela Sistina, o artista recusa a princ\u00edpio. Virtualmente for\u00e7ado por J\u00falio a fazer o trabalho, ele acaba por destruir sua obra e foge de Roma. Quando recome\u00e7a a pintura, o projeto se torna uma batalha de vontades alimentada pelas diferen\u00e7as art\u00edsticas e de temperamento que s\u00e3o o ponto central deste filme. Indicado ao OSCAR\u00ae de Melhor Fotografia e tamb\u00e9m citado como um dos melhores filmes do ano pelo National Board of Review, AGONIA E \u00caXTASE \u00e9 uma fant\u00e1stica dramatiza\u00e7\u00e3o da luta por tr\u00e1s de uma das maiores obras-primas do mundo. Tanto a hist\u00f3ria quanto o filme s\u00e3o tocantes e fascinantes.",
+                "vote_average": 7.0,
+                "vote_count": 126
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Greatest Story Ever Told",
+            "second_label": "Art Direction: Richard Day, William Creber, David Hall; Set Decoration: Ray Moyer, Fred MacLean, Norman Rockett",
+            "category": "Art Direction (Color)",
+            "year": 1966,
+            "tmdb": {
+                "id": 2428,
+                "original_title": "The Greatest Story Ever Told",
+                "title": "A Maior Hist\u00f3ria de Todos os Tempos",
+                "release_date": "1965-04-09",
+                "backdrop_path": "/f6JjKDXn66XgNnYjBcKiwO4h3A7.jpg",
+                "poster_path": "/sCrp4hm4JnWKPzdJtGACKMA6cys.jpg",
+                "overview": "A vida de Jesus de Nazar\u00e9 (Max von Sydow). Seu nascimento, as prega\u00e7\u00f5es, milagres, julgamento, crucifica\u00e7\u00e3o e ressurrei\u00e7\u00e3o.",
+                "vote_average": 6.4,
+                "vote_count": 167
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Inside Daisy Clover",
+            "second_label": "Art Direction: Robert Clatworthy; Set Decoration: George James Hopkins",
+            "category": "Art Direction (Color)",
+            "year": 1966,
+            "tmdb": {
+                "id": 49683,
+                "original_title": "Inside Daisy Clover",
+                "title": "\u00c0 Procura do Destino",
+                "release_date": "1965-12-22",
+                "backdrop_path": "/8WNTsc7l8JctV6nTPvMfW0eoFEw.jpg",
+                "poster_path": "/p8DwRjNLrmw37x8w3qckMdAHbl2.jpg",
+                "overview": "A girl on the road to stardom fights the dehumanizing effects of Hollywood life.",
+                "vote_average": 5.7,
+                "vote_count": 48
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Sound of Music",
+            "second_label": "Art Direction: Boris Leven; Set Decoration: Walter M. Scott, Ruby Levitt",
+            "category": "Art Direction (Color)",
+            "year": 1966,
+            "tmdb": {
+                "id": 15121,
+                "original_title": "The Sound of Music",
+                "title": "A Novi\u00e7a Rebelde",
+                "release_date": "1965-03-29",
+                "backdrop_path": "/m5n1nguLC3pTJLPKhN5Ek0aNT6E.jpg",
+                "poster_path": "/nF9wgSkAvjzJi6fF4oa8GcojTof.jpg",
+                "overview": "No final da d\u00e9cada de 1930, na \u00c1ustria, quando o pesadelo nazista estava prestes a se instaurar no pa\u00eds, uma novi\u00e7a (Julie Andrews) que vive em um convento, mas n\u00e3o consegue seguir as r\u00edgidas normas de conduta das religiosas, vai trabalhar como governanta na casa do capit\u00e3o Von Trapp (Christopher Plummer), que \u00e9 vi\u00favo, tem sete filhos e os educa como se fizessem parte de um regimento. Sua chegada modifica drasticamente o padr\u00e3o da fam\u00edlia, trazendo alegria novamente ao lar da fam\u00edlia Von Trapp e conquistando o carinho e o respeito das crian\u00e7as. Mas ela termina se apaixonando pelo capit\u00e3o, que est\u00e1 comprometido com uma rica baronesa.",
+                "vote_average": 7.72,
+                "vote_count": 3098
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography (Black-and-White)": [
+        {
+            "first_label": "Ship of Fools",
+            "second_label": "Ernest Laszlo",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1966,
+            "tmdb": {
+                "id": 30080,
+                "original_title": "Ship of Fools",
+                "title": "A Nau dos Insensatos",
+                "release_date": "1965-07-29",
+                "backdrop_path": "/t3bXP5pUnckfoJ8WonlvAGovCun.jpg",
+                "poster_path": "/2LOe4Hu6Gxw6k76hLWhS8JVVILa.jpg",
+                "overview": "1933: Um transatl\u00e2ntico pertencente a uma empresa alem\u00e3 de segunda categoria est\u00e1 fazendo uma viagem de 26 dias partindo de Veracruz, M\u00e9xico, para Bremerhaven, Alemanha. Ao longo do caminho ele vai parar em Cuba para pegar um grande grupo de trabalhadores agr\u00edcolas espanh\u00f3is que est\u00e3o sendo enviados para casa e que ser\u00e3o alojadas como gado na terceira classe. V\u00e3o tamb\u00e9m pegar La Condesa, uma condessa espanhola. V\u00e3o parar em Tenerife, onde os trabalhadores agr\u00edcolas ir\u00e3o desembarcar e onde La Condesa ser\u00e1 enviado para uma pris\u00e3o alem\u00e3 por suas atividades \"traidoras\" em Cuba. Esta viagem ser\u00e1 a \u00faltima de tr\u00eas para o m\u00e9dico do navio, Willi Schumann, que tem uma doen\u00e7a card\u00edaca grave e que pensou que poderia encontrar algum sentido para sua vida atrav\u00e9s deste trabalho. Willi e La Condesa se apaixonam e o capit\u00e3o do navio Thiele, que \u00e9 o melhor amigo de Willie a bordo, acreditando que a viciada em drogas La Condesa est\u00e1 apenas usando-o para obter suas doses.",
+                "vote_average": 6.5,
+                "vote_count": 83
+            },
+            "winner": true
+        },
+        {
+            "first_label": "In Harm's Way",
+            "second_label": "Loyal Griggs",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1966,
+            "tmdb": {
+                "id": 37921,
+                "original_title": "In Harm's Way",
+                "title": "A Primeira Vit\u00f3ria",
+                "release_date": "1965-04-06",
+                "backdrop_path": "/rVL6ZMDOOajNxElpRw4qF40jvUq.jpg",
+                "poster_path": "/4NrxQVGjIfGdPJdG4RJggAgs4vW.jpg",
+                "overview": "O Capit\u00e3o Rockwell Torrey (John Wayne) e o Comandante Paul Eddington (Kirk Douglas) planejam uma retalia\u00e7\u00e3o ao ataque de Pearl Harbor. Torrey, envolvido romanticamente com a enfermeira Maggie Haynes (Patricia Neal), ainda tem de lidar com Jeremiah (Brandon De Wilde), seu filho rec\u00e9m-chegado \u00e0 Marinha, com quem nunca teve muito contato.\r O filme conta a hist\u00f3ria de tr\u00eas fam\u00edlias durante o in\u00edcio da II Guerra Mundial.",
+                "vote_average": 6.6,
+                "vote_count": 134
+            },
+            "winner": false
+        },
+        {
+            "first_label": "King Rat",
+            "second_label": "Burnett Guffey",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1966,
+            "tmdb": {
+                "id": 29586,
+                "original_title": "King Rat",
+                "title": "King Rat",
+                "release_date": "1965-10-27",
+                "backdrop_path": "/d7yXQaZzKUEV49cCJ7yllYslkpF.jpg",
+                "poster_path": "/dqcr3i6ii47LajYziZiJj7xkLsr.jpg",
+                "overview": "When Singapore surrendered to the Japanese in 1942, the Allied POWs, mostly British but including a few Americans, were incarcerated in Changi prison. Among the American prisoners is Cpl. King, a wheeler-dealer who has managed to establish a pretty good life for himself in the camp. King soon forms a friendship with an upper-class British officer who is fascinated with King's enthusiastic approach to life.",
+                "vote_average": 7.1,
+                "vote_count": 67
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Morituri",
+            "second_label": "Conrad Hall",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1966,
+            "tmdb": {
+                "id": 42737,
+                "original_title": "Morituri",
+                "title": "Morituri",
+                "release_date": "1965-08-24",
+                "backdrop_path": "/Ahqwt4xvQIkaYGEvqM65k5ptkp2.jpg",
+                "poster_path": "/3kuHqYsVY7WFiB7duA3POVDUHG7.jpg",
+                "overview": "Robert Crain, um alem\u00e3o residente na \u00cdndia na Segunda Guerra Mundial, sofre chantagem dos Aliados para, usando seu conhecimento, salvar a carga de borracha de navio japon\u00eas, desativando os explosivos usados para destru\u00ed-lo, se capturado pelo inimigo.",
+                "vote_average": 6.7,
+                "vote_count": 67
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Patch of Blue",
+            "second_label": "Robert Burks",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1966,
+            "tmdb": {
+                "id": 33364,
+                "original_title": "A Patch of Blue",
+                "title": "Quando S\u00f3 o Cora\u00e7\u00e3o V\u00ea",
+                "release_date": "1965-12-10",
+                "backdrop_path": "/fzBSF2bLRhquIaPfthb1rbngMPw.jpg",
+                "poster_path": "/cBb4SvP8kCVb4jtN4qWnis8ihj6.jpg",
+                "overview": "Homem negro e experiente passeia pelo parque quando encontra uma jovem linda, branca e cega. Eles ficam amigos e passam a se encontrar todos os dias. Aos poucos eles v\u00e3o se tornando cada vez mais \u00edntimos, mas a m\u00e3e da mo\u00e7a est\u00e1 convencida de que qualquer homem se interessaria pela filha apenas por sexo.",
+                "vote_average": 7.5,
+                "vote_count": 97
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography (Color)": [
+        {
+            "first_label": "Doctor Zhivago",
+            "second_label": "Freddie Young",
+            "category": "Cinematography (Color)",
+            "year": 1966,
+            "tmdb": {
+                "id": 907,
+                "original_title": "Doctor Zhivago",
+                "title": "Doutor Jivago",
+                "release_date": "1965-12-22",
+                "backdrop_path": "/y3sPNxqVBIt97EZX568OpAWBpcl.jpg",
+                "poster_path": "/xG9sb3Hq8SUy6hOq3AYHbBzVFKf.jpg",
+                "overview": "Ambientado antes e durante a Revolu\u00e7\u00e3o Bolchevique na R\u00fassia, conhe\u00e7a a hist\u00f3ria do doutor Yury Zhivago, que em plena guerra se viu apaixonado pela bela Lara Antipova, o amor imposs\u00edvel que move toda a hist\u00f3ria. Baseado na obra de Boris Pasternak, vencedor de 5 Oscar, incluindo Fotografia e Roteiro Adaptado.",
+                "vote_average": 7.5,
+                "vote_count": 1075
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Agony and the Ecstasy",
+            "second_label": "Leon Shamroy",
+            "category": "Cinematography (Color)",
+            "year": 1966,
+            "tmdb": {
+                "id": 36815,
+                "original_title": "The Agony and the Ecstasy",
+                "title": "Agonia e \u00caxtase",
+                "release_date": "1965-09-16",
+                "backdrop_path": "/4l5LtMuBS6syAxv2WJhJV1phsDr.jpg",
+                "poster_path": "/jHCLHAZV5PMvGuhIItjy2J67P0I.jpg",
+                "overview": "Charlton Heston e Rex Harrison interpretam duas das personalidades mais marcantes da Renascen\u00e7a neste drama hist\u00f3rico baseado no best-seller de Irving Stone ambientado no in\u00edcio do S\u00e9culo XVI. Quando o Papa J\u00falio II encomenda a Michelangelo a pintura do teto da Capela Sistina, o artista recusa a princ\u00edpio. Virtualmente for\u00e7ado por J\u00falio a fazer o trabalho, ele acaba por destruir sua obra e foge de Roma. Quando recome\u00e7a a pintura, o projeto se torna uma batalha de vontades alimentada pelas diferen\u00e7as art\u00edsticas e de temperamento que s\u00e3o o ponto central deste filme. Indicado ao OSCAR\u00ae de Melhor Fotografia e tamb\u00e9m citado como um dos melhores filmes do ano pelo National Board of Review, AGONIA E \u00caXTASE \u00e9 uma fant\u00e1stica dramatiza\u00e7\u00e3o da luta por tr\u00e1s de uma das maiores obras-primas do mundo. Tanto a hist\u00f3ria quanto o filme s\u00e3o tocantes e fascinantes.",
+                "vote_average": 7.0,
+                "vote_count": 126
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Great Race",
+            "second_label": "Russell Harlan",
+            "category": "Cinematography (Color)",
+            "year": 1966,
+            "tmdb": {
+                "id": 11575,
+                "original_title": "The Great Race",
+                "title": "A Corrida do S\u00e9culo",
+                "release_date": "1965-07-01",
+                "backdrop_path": "/vga7453tBLXDqxeTV2IGUpVgIgk.jpg",
+                "poster_path": "/dOcIAwdOqMRBXIyEDRNspZjj3A6.jpg",
+                "overview": "O audacioso profissional Professor Fate e o her\u00f3i branco Great Leslie convencem os fabricantes de autom\u00f3veis do in\u00edcio do s\u00e9culo de que uma corrida de Nova York a Paris (pelo oeste por todo os EUA, estreito de Bering.  R\u00fassia, Alemanha e Fran\u00e7a) ajudar\u00e1 a promover as vendas de autom\u00f3veis. O arquirrival de Leslie, o professor Fate, amarfanhado e vestido de preto, prometeu chegar antes de Leslie na linha de chegada em um carro da pr\u00f3pria inven\u00e7\u00e3o. V\u00e3o percorrer v\u00e1rios quil\u00f4metros, encarar muitas desaven\u00e7as e enfrentar um imenso iceberg na corrida mais divertida de todos os tempos.",
+                "vote_average": 7.1,
+                "vote_count": 297
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Greatest Story Ever Told",
+            "second_label": "William C. Mellor, Loyal Griggs",
+            "category": "Cinematography (Color)",
+            "year": 1966,
+            "tmdb": {
+                "id": 2428,
+                "original_title": "The Greatest Story Ever Told",
+                "title": "A Maior Hist\u00f3ria de Todos os Tempos",
+                "release_date": "1965-04-09",
+                "backdrop_path": "/f6JjKDXn66XgNnYjBcKiwO4h3A7.jpg",
+                "poster_path": "/sCrp4hm4JnWKPzdJtGACKMA6cys.jpg",
+                "overview": "A vida de Jesus de Nazar\u00e9 (Max von Sydow). Seu nascimento, as prega\u00e7\u00f5es, milagres, julgamento, crucifica\u00e7\u00e3o e ressurrei\u00e7\u00e3o.",
+                "vote_average": 6.4,
+                "vote_count": 167
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Sound of Music",
+            "second_label": "Ted McCord",
+            "category": "Cinematography (Color)",
+            "year": 1966,
+            "tmdb": {
+                "id": 15121,
+                "original_title": "The Sound of Music",
+                "title": "A Novi\u00e7a Rebelde",
+                "release_date": "1965-03-29",
+                "backdrop_path": "/m5n1nguLC3pTJLPKhN5Ek0aNT6E.jpg",
+                "poster_path": "/nF9wgSkAvjzJi6fF4oa8GcojTof.jpg",
+                "overview": "No final da d\u00e9cada de 1930, na \u00c1ustria, quando o pesadelo nazista estava prestes a se instaurar no pa\u00eds, uma novi\u00e7a (Julie Andrews) que vive em um convento, mas n\u00e3o consegue seguir as r\u00edgidas normas de conduta das religiosas, vai trabalhar como governanta na casa do capit\u00e3o Von Trapp (Christopher Plummer), que \u00e9 vi\u00favo, tem sete filhos e os educa como se fizessem parte de um regimento. Sua chegada modifica drasticamente o padr\u00e3o da fam\u00edlia, trazendo alegria novamente ao lar da fam\u00edlia Von Trapp e conquistando o carinho e o respeito das crian\u00e7as. Mas ela termina se apaixonando pelo capit\u00e3o, que est\u00e1 comprometido com uma rica baronesa.",
+                "vote_average": 7.72,
+                "vote_count": 3098
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design (Black-and-White)": [
+        {
+            "first_label": "Darling",
+            "second_label": "Julie Harris",
+            "category": "Costume Design (Black-and-White)",
+            "year": 1966,
+            "tmdb": {
+                "id": 24134,
+                "original_title": "Darling",
+                "title": "Darling: A Que Amou Demais",
+                "release_date": "1965-08-03",
+                "backdrop_path": "/8b6j2HY159XwnLn6Qh9HxrtYeR0.jpg",
+                "poster_path": "/cBd5YO9xG7VmRuC8Q27uR3PV9mn.jpg",
+                "overview": "Diana Scott \u00e9 uma modelo ambiciosa determinada a chegar ao topo. Usando sua sexualidade, ela controla os homens poderosos \u00e0 sua volta, mas acaba se tornando prisioneira do estilo de vida que tanto desejava.",
+                "vote_average": 6.7,
+                "vote_count": 122
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Morituri",
+            "second_label": "Moss Mabry",
+            "category": "Costume Design (Black-and-White)",
+            "year": 1966,
+            "tmdb": {
+                "id": 42737,
+                "original_title": "Morituri",
+                "title": "Morituri",
+                "release_date": "1965-08-24",
+                "backdrop_path": "/Ahqwt4xvQIkaYGEvqM65k5ptkp2.jpg",
+                "poster_path": "/3kuHqYsVY7WFiB7duA3POVDUHG7.jpg",
+                "overview": "Robert Crain, um alem\u00e3o residente na \u00cdndia na Segunda Guerra Mundial, sofre chantagem dos Aliados para, usando seu conhecimento, salvar a carga de borracha de navio japon\u00eas, desativando os explosivos usados para destru\u00ed-lo, se capturado pelo inimigo.",
+                "vote_average": 6.7,
+                "vote_count": 67
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Rage to Live",
+            "second_label": "Howard Shoup",
+            "category": "Costume Design (Black-and-White)",
+            "year": 1966,
+            "tmdb": {
+                "id": 104759,
+                "original_title": "A Rage to Live",
+                "title": "A Rage to Live",
+                "release_date": "1965-10-20",
+                "backdrop_path": "/hpaDyX6CQCBIlqKWW6rRivtlH4c.jpg",
+                "poster_path": "/uZR2F8jqZ1x10ODpGxRJxspJHtg.jpg",
+                "overview": "Grace Caldwell, a young Pennsylvania newspaper heiress living with her widowed mother, has trouble restraining herself when it comes to the amorous attentions of young men. As word starts to spread about her behavior, Grace becomes a major source of heartache for her mother and a big source of concern to her brother.",
+                "vote_average": 4.6,
+                "vote_count": 9
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ship of Fools",
+            "second_label": "Bill Thomas, Jean Louis",
+            "category": "Costume Design (Black-and-White)",
+            "year": 1966,
+            "tmdb": {
+                "id": 30080,
+                "original_title": "Ship of Fools",
+                "title": "A Nau dos Insensatos",
+                "release_date": "1965-07-29",
+                "backdrop_path": "/t3bXP5pUnckfoJ8WonlvAGovCun.jpg",
+                "poster_path": "/2LOe4Hu6Gxw6k76hLWhS8JVVILa.jpg",
+                "overview": "1933: Um transatl\u00e2ntico pertencente a uma empresa alem\u00e3 de segunda categoria est\u00e1 fazendo uma viagem de 26 dias partindo de Veracruz, M\u00e9xico, para Bremerhaven, Alemanha. Ao longo do caminho ele vai parar em Cuba para pegar um grande grupo de trabalhadores agr\u00edcolas espanh\u00f3is que est\u00e3o sendo enviados para casa e que ser\u00e3o alojadas como gado na terceira classe. V\u00e3o tamb\u00e9m pegar La Condesa, uma condessa espanhola. V\u00e3o parar em Tenerife, onde os trabalhadores agr\u00edcolas ir\u00e3o desembarcar e onde La Condesa ser\u00e1 enviado para uma pris\u00e3o alem\u00e3 por suas atividades \"traidoras\" em Cuba. Esta viagem ser\u00e1 a \u00faltima de tr\u00eas para o m\u00e9dico do navio, Willi Schumann, que tem uma doen\u00e7a card\u00edaca grave e que pensou que poderia encontrar algum sentido para sua vida atrav\u00e9s deste trabalho. Willi e La Condesa se apaixonam e o capit\u00e3o do navio Thiele, que \u00e9 o melhor amigo de Willie a bordo, acreditando que a viciada em drogas La Condesa est\u00e1 apenas usando-o para obter suas doses.",
+                "vote_average": 6.5,
+                "vote_count": 83
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Slender Thread",
+            "second_label": "Edith Head",
+            "category": "Costume Design (Black-and-White)",
+            "year": 1966,
+            "tmdb": {
+                "id": 51054,
+                "original_title": "The Slender Thread",
+                "title": "Uma Vida em Suspense",
+                "release_date": "1965-12-15",
+                "backdrop_path": "/uFtP4UK0e7kNmm7x1V39SLrpay1.jpg",
+                "poster_path": "/bVJ9p6nTX2nvzAviASuvtMSQ6Jp.jpg",
+                "overview": "Alan \u00e9 um estudante universit\u00e1rio de Seattle, voluntario em um centro de crise. Uma noite, quando a cl\u00ednica est\u00e1 vazia, uma mulher liga para o n\u00famero e diz a Alan que ela precisa falar com algu\u00e9m. Informa a Alan que tomou um monte de p\u00edlulas, e ele tenta conseguir ajuda sem que ela perceba. Durante esse tempo, ele aprende mais sobre a mulher, sua vida familiar e por que ela quer morrer. Alan vai conseguir a ajuda para salv\u00e1-la a tempo antes que seja tarde demais? (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.2,
+                "vote_count": 45
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design (Color)": [
+        {
+            "first_label": "Doctor Zhivago",
+            "second_label": "Phyllis Dalton",
+            "category": "Costume Design (Color)",
+            "year": 1966,
+            "tmdb": {
+                "id": 907,
+                "original_title": "Doctor Zhivago",
+                "title": "Doutor Jivago",
+                "release_date": "1965-12-22",
+                "backdrop_path": "/y3sPNxqVBIt97EZX568OpAWBpcl.jpg",
+                "poster_path": "/xG9sb3Hq8SUy6hOq3AYHbBzVFKf.jpg",
+                "overview": "Ambientado antes e durante a Revolu\u00e7\u00e3o Bolchevique na R\u00fassia, conhe\u00e7a a hist\u00f3ria do doutor Yury Zhivago, que em plena guerra se viu apaixonado pela bela Lara Antipova, o amor imposs\u00edvel que move toda a hist\u00f3ria. Baseado na obra de Boris Pasternak, vencedor de 5 Oscar, incluindo Fotografia e Roteiro Adaptado.",
+                "vote_average": 7.5,
+                "vote_count": 1075
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Agony and the Ecstasy",
+            "second_label": "Vittorio Nino Novarese",
+            "category": "Costume Design (Color)",
+            "year": 1966,
+            "tmdb": {
+                "id": 36815,
+                "original_title": "The Agony and the Ecstasy",
+                "title": "Agonia e \u00caxtase",
+                "release_date": "1965-09-16",
+                "backdrop_path": "/4l5LtMuBS6syAxv2WJhJV1phsDr.jpg",
+                "poster_path": "/jHCLHAZV5PMvGuhIItjy2J67P0I.jpg",
+                "overview": "Charlton Heston e Rex Harrison interpretam duas das personalidades mais marcantes da Renascen\u00e7a neste drama hist\u00f3rico baseado no best-seller de Irving Stone ambientado no in\u00edcio do S\u00e9culo XVI. Quando o Papa J\u00falio II encomenda a Michelangelo a pintura do teto da Capela Sistina, o artista recusa a princ\u00edpio. Virtualmente for\u00e7ado por J\u00falio a fazer o trabalho, ele acaba por destruir sua obra e foge de Roma. Quando recome\u00e7a a pintura, o projeto se torna uma batalha de vontades alimentada pelas diferen\u00e7as art\u00edsticas e de temperamento que s\u00e3o o ponto central deste filme. Indicado ao OSCAR\u00ae de Melhor Fotografia e tamb\u00e9m citado como um dos melhores filmes do ano pelo National Board of Review, AGONIA E \u00caXTASE \u00e9 uma fant\u00e1stica dramatiza\u00e7\u00e3o da luta por tr\u00e1s de uma das maiores obras-primas do mundo. Tanto a hist\u00f3ria quanto o filme s\u00e3o tocantes e fascinantes.",
+                "vote_average": 7.0,
+                "vote_count": 126
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Greatest Story Ever Told",
+            "second_label": "Vittorio Nino Novarese, Marjorie Best",
+            "category": "Costume Design (Color)",
+            "year": 1966,
+            "tmdb": {
+                "id": 2428,
+                "original_title": "The Greatest Story Ever Told",
+                "title": "A Maior Hist\u00f3ria de Todos os Tempos",
+                "release_date": "1965-04-09",
+                "backdrop_path": "/f6JjKDXn66XgNnYjBcKiwO4h3A7.jpg",
+                "poster_path": "/sCrp4hm4JnWKPzdJtGACKMA6cys.jpg",
+                "overview": "A vida de Jesus de Nazar\u00e9 (Max von Sydow). Seu nascimento, as prega\u00e7\u00f5es, milagres, julgamento, crucifica\u00e7\u00e3o e ressurrei\u00e7\u00e3o.",
+                "vote_average": 6.4,
+                "vote_count": 167
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Inside Daisy Clover",
+            "second_label": "Edith Head, Bill Thomas",
+            "category": "Costume Design (Color)",
+            "year": 1966,
+            "tmdb": {
+                "id": 49683,
+                "original_title": "Inside Daisy Clover",
+                "title": "\u00c0 Procura do Destino",
+                "release_date": "1965-12-22",
+                "backdrop_path": "/8WNTsc7l8JctV6nTPvMfW0eoFEw.jpg",
+                "poster_path": "/p8DwRjNLrmw37x8w3qckMdAHbl2.jpg",
+                "overview": "A girl on the road to stardom fights the dehumanizing effects of Hollywood life.",
+                "vote_average": 5.7,
+                "vote_count": 48
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Sound of Music",
+            "second_label": "Dorothy Jeakins",
+            "category": "Costume Design (Color)",
+            "year": 1966,
+            "tmdb": {
+                "id": 15121,
+                "original_title": "The Sound of Music",
+                "title": "A Novi\u00e7a Rebelde",
+                "release_date": "1965-03-29",
+                "backdrop_path": "/m5n1nguLC3pTJLPKhN5Ek0aNT6E.jpg",
+                "poster_path": "/nF9wgSkAvjzJi6fF4oa8GcojTof.jpg",
+                "overview": "No final da d\u00e9cada de 1930, na \u00c1ustria, quando o pesadelo nazista estava prestes a se instaurar no pa\u00eds, uma novi\u00e7a (Julie Andrews) que vive em um convento, mas n\u00e3o consegue seguir as r\u00edgidas normas de conduta das religiosas, vai trabalhar como governanta na casa do capit\u00e3o Von Trapp (Christopher Plummer), que \u00e9 vi\u00favo, tem sete filhos e os educa como se fizessem parte de um regimento. Sua chegada modifica drasticamente o padr\u00e3o da fam\u00edlia, trazendo alegria novamente ao lar da fam\u00edlia Von Trapp e conquistando o carinho e o respeito das crian\u00e7as. Mas ela termina se apaixonando pelo capit\u00e3o, que est\u00e1 comprometido com uma rica baronesa.",
+                "vote_average": 7.72,
+                "vote_count": 3098
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "The Sound of Music",
+            "second_label": "Robert Wise",
+            "category": "Directing",
+            "year": 1966,
+            "tmdb": {
+                "id": 15121,
+                "original_title": "The Sound of Music",
+                "title": "A Novi\u00e7a Rebelde",
+                "release_date": "1965-03-29",
+                "backdrop_path": "/m5n1nguLC3pTJLPKhN5Ek0aNT6E.jpg",
+                "poster_path": "/nF9wgSkAvjzJi6fF4oa8GcojTof.jpg",
+                "overview": "No final da d\u00e9cada de 1930, na \u00c1ustria, quando o pesadelo nazista estava prestes a se instaurar no pa\u00eds, uma novi\u00e7a (Julie Andrews) que vive em um convento, mas n\u00e3o consegue seguir as r\u00edgidas normas de conduta das religiosas, vai trabalhar como governanta na casa do capit\u00e3o Von Trapp (Christopher Plummer), que \u00e9 vi\u00favo, tem sete filhos e os educa como se fizessem parte de um regimento. Sua chegada modifica drasticamente o padr\u00e3o da fam\u00edlia, trazendo alegria novamente ao lar da fam\u00edlia Von Trapp e conquistando o carinho e o respeito das crian\u00e7as. Mas ela termina se apaixonando pelo capit\u00e3o, que est\u00e1 comprometido com uma rica baronesa.",
+                "vote_average": 7.72,
+                "vote_count": 3098
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Collector",
+            "second_label": "William Wyler",
+            "category": "Directing",
+            "year": 1966,
+            "tmdb": {
+                "id": 42740,
+                "original_title": "The Collector",
+                "title": "O Colecionador",
+                "release_date": "1965-06-17",
+                "backdrop_path": "/nAo72ildPf5q5nSQXZ98iC84kFc.jpg",
+                "poster_path": "/iMiih5FGHwpUCAaJAIkYKl5Hffi.jpg",
+                "overview": "Freddy, um rapaz solit\u00e1rio, em sua obsess\u00e3o por uma mulher, aprisiona-a no por\u00e3o de sua casa. Ele quer criar v\u00ednculo afetivo com a mo\u00e7a, demonstrando seu amor por ela e querendo ser correspondido. Mas s\u00f3 o sequestro em si ser\u00e1 o primeiro de uma s\u00e9rie de obst\u00e1culos \u00e0 reciprocidade desejada por Freddy.\r Adapta\u00e7\u00e3o do best-seller de John Fowles.",
+                "vote_average": 7.3,
+                "vote_count": 180
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Darling",
+            "second_label": "John Schlesinger",
+            "category": "Directing",
+            "year": 1966,
+            "tmdb": {
+                "id": 24134,
+                "original_title": "Darling",
+                "title": "Darling: A Que Amou Demais",
+                "release_date": "1965-08-03",
+                "backdrop_path": "/8b6j2HY159XwnLn6Qh9HxrtYeR0.jpg",
+                "poster_path": "/cBd5YO9xG7VmRuC8Q27uR3PV9mn.jpg",
+                "overview": "Diana Scott \u00e9 uma modelo ambiciosa determinada a chegar ao topo. Usando sua sexualidade, ela controla os homens poderosos \u00e0 sua volta, mas acaba se tornando prisioneira do estilo de vida que tanto desejava.",
+                "vote_average": 6.7,
+                "vote_count": 122
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Doctor Zhivago",
+            "second_label": "David Lean",
+            "category": "Directing",
+            "year": 1966,
+            "tmdb": {
+                "id": 907,
+                "original_title": "Doctor Zhivago",
+                "title": "Doutor Jivago",
+                "release_date": "1965-12-22",
+                "backdrop_path": "/y3sPNxqVBIt97EZX568OpAWBpcl.jpg",
+                "poster_path": "/xG9sb3Hq8SUy6hOq3AYHbBzVFKf.jpg",
+                "overview": "Ambientado antes e durante a Revolu\u00e7\u00e3o Bolchevique na R\u00fassia, conhe\u00e7a a hist\u00f3ria do doutor Yury Zhivago, que em plena guerra se viu apaixonado pela bela Lara Antipova, o amor imposs\u00edvel que move toda a hist\u00f3ria. Baseado na obra de Boris Pasternak, vencedor de 5 Oscar, incluindo Fotografia e Roteiro Adaptado.",
+                "vote_average": 7.5,
+                "vote_count": 1075
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Woman in the Dunes",
+            "second_label": "Hiroshi Teshigahara",
+            "category": "Directing",
+            "year": 1966,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "The Eleanor Roosevelt Story",
+            "second_label": "Sidney Glazier, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1966,
+            "tmdb": {
+                "id": 114510,
+                "original_title": "The Eleanor Roosevelt Story",
+                "title": "The Eleanor Roosevelt Story",
+                "release_date": "1965-11-08",
+                "backdrop_path": "/dSdvoVfsndbqryv5Swh8RGlbCKO.jpg",
+                "poster_path": "/lMO0xStAEaDe5QAJezwhrjrodxG.jpg",
+                "overview": "An intimate and moving portrait of one of the most remarkable women in American history. It is the story of a lonely, unhappy child who became the most admired and respected woman in the world. Richard Kaplan's lively documentary reveals the human face behind the American icon, beginning with the emotional deprivation suffered by this plain, awkward little girl born into a socially prominent and powerful family. Though she would eventually marry a man who would look beyond her awkwardness, Eleanor was not content to be the proper, silent wife to her husband Franklin's extraordinary political career. Instead, she began a lifelong crusade to speak out about injustice and oppression in any form.  Preserved by the Academy Film Archive in 2006.",
+                "vote_average": 5.8,
+                "vote_count": 9
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Battle of the Bulge...The Brave Rifles",
+            "second_label": "Laurence E. Mascott, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1966,
+            "tmdb": {
+                "id": 149293,
+                "original_title": "The Battle of the Bulge... The Brave Rifles",
+                "title": "The Battle of the Bulge... The Brave Rifles",
+                "release_date": "1965-01-01",
+                "backdrop_path": null,
+                "poster_path": "/gQgnGDGQG1paRxT414BG1wiJKeB.jpg",
+                "overview": "Hitler's last offensive in 1944 in the Ardennes, with which he desperately tried to stop the allies thereof, to reach Antwerp.",
+                "vote_average": 5.7,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Forth Road Bridge",
+            "second_label": "Peter Mills, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1966,
+            "tmdb": {
+                "id": 149294,
+                "original_title": "The Forth Road Bridge",
+                "title": "The Forth Road Bridge",
+                "release_date": "1965-01-01",
+                "backdrop_path": null,
+                "poster_path": "/vKzC6Pm8zWupdLLBEKgYFM3yGNv.jpg",
+                "overview": "The Forth Road Bridge is a 1965 British documentary film directed by Gordon Lang about the construction of the Forth Road Bridge, from the initial survey to the official opening. It was nominated for an Academy Award for Best Documentary Feature.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Let My People Go",
+            "second_label": "Marshall Flaum, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1966,
+            "tmdb": {
+                "id": 149295,
+                "original_title": "Let My People Go: The Story of Israel",
+                "title": "Let My People Go: The Story of Israel",
+                "release_date": "1965-01-01",
+                "backdrop_path": null,
+                "poster_path": "/9nO4Jcq9ZzhFb0AzbGZIHKu9GJB.jpg",
+                "overview": "Survey of Zionist history: Theodor Herzl's idea of creating a Jewish state; the return to Palestine; Allenby entering Jerusalem; Tel Aviv, 1933; the growth of Nazism in Europe and immigration to Mandatory Palestine; Arab riots in Mandatory Palestine; illegal immigration; Cyprus detention camps; Warsaw Ghetto; UNSCOP 1947; UN partition vote in 1947; the end of British mandate; Declaration and War of Independence 1948.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "To Die in Madrid",
+            "second_label": "To Die in Madrid",
+            "category": "Documentary (Feature)",
+            "year": 1966,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "To Be Alive!",
+            "second_label": "Francis Thompson, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1966,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Mural on Our Street",
+            "second_label": "Kirk Smallman, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1966,
+            "tmdb": {
+                "id": 243284,
+                "original_title": "Mural on Our Street",
+                "title": "Mural on Our Street",
+                "release_date": "1965-01-18",
+                "backdrop_path": null,
+                "poster_path": "/dFe50qp0Aq3j1cHuQ4PypSDk1hg.jpg",
+                "overview": "Oscar nominated documentary short from 1965",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ouverture",
+            "second_label": "Mafilm Productions",
+            "category": "Documentary (Short Subject)",
+            "year": 1966,
+            "tmdb": {
+                "id": 220573,
+                "original_title": "Nyitany",
+                "title": "Ouverture",
+                "release_date": "1965-04-22",
+                "backdrop_path": null,
+                "poster_path": "/yhb0o65Im8hda5HNWJRCF4o7FJK.jpg",
+                "overview": "Short film about the creation of one single life.",
+                "vote_average": 6.8,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Point of View",
+            "second_label": "Vision Associates Productions",
+            "category": "Documentary (Short Subject)",
+            "year": 1966,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Yeats Country",
+            "second_label": "Patrick Carey and Joe Mendoza, Producers",
+            "category": "Documentary (Short Subject)",
+            "year": 1966,
+            "tmdb": {
+                "id": 243287,
+                "original_title": "Yeats Country",
+                "title": "Yeats Country",
+                "release_date": "1965-06-01",
+                "backdrop_path": null,
+                "poster_path": "/4Tkpul0vAxe3GKnNGweOoHezVQW.jpg",
+                "overview": "Yeats Country is a lyrical film commissioned by the Department of Foreign Affairs to commemorate the centenary of the birth of William Butler Yeats. The first Irish film by cinematographer and director Patrick Carey celebrates the landscape of Yeats\u2019 poetry through stunning photography, narrated by Tom St. John Barry. Evocative images of the west of Ireland illustrate the poet\u2019s life including Thoor Ballylee Castle where he lived, Coole Park, home of Lady Gregory where literary figures of the period socialised, Lissadell House, Knocknarea Mountain, the slopes of Ben Bulben, the waterfall at Glencar and finally Yeats\u2019 grave at Drumcliffe. It was nominated for an Academy Award for Best Documentary Short in 1966.",
+                "vote_average": 7.0,
+                "vote_count": 2
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "The Sound of Music",
+            "second_label": "William Reynolds",
+            "category": "Film Editing",
+            "year": 1966,
+            "tmdb": {
+                "id": 15121,
+                "original_title": "The Sound of Music",
+                "title": "A Novi\u00e7a Rebelde",
+                "release_date": "1965-03-29",
+                "backdrop_path": "/m5n1nguLC3pTJLPKhN5Ek0aNT6E.jpg",
+                "poster_path": "/nF9wgSkAvjzJi6fF4oa8GcojTof.jpg",
+                "overview": "No final da d\u00e9cada de 1930, na \u00c1ustria, quando o pesadelo nazista estava prestes a se instaurar no pa\u00eds, uma novi\u00e7a (Julie Andrews) que vive em um convento, mas n\u00e3o consegue seguir as r\u00edgidas normas de conduta das religiosas, vai trabalhar como governanta na casa do capit\u00e3o Von Trapp (Christopher Plummer), que \u00e9 vi\u00favo, tem sete filhos e os educa como se fizessem parte de um regimento. Sua chegada modifica drasticamente o padr\u00e3o da fam\u00edlia, trazendo alegria novamente ao lar da fam\u00edlia Von Trapp e conquistando o carinho e o respeito das crian\u00e7as. Mas ela termina se apaixonando pelo capit\u00e3o, que est\u00e1 comprometido com uma rica baronesa.",
+                "vote_average": 7.72,
+                "vote_count": 3098
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Cat Ballou",
+            "second_label": "Charles Nelson",
+            "category": "Film Editing",
+            "year": 1966,
+            "tmdb": {
+                "id": 11694,
+                "original_title": "Cat Ballou",
+                "title": "D\u00edvida de Sangue",
+                "release_date": "1965-06-24",
+                "backdrop_path": "/vITHhBDV2t4QIT9UBcLl4zEa7Zy.jpg",
+                "poster_path": "/6FFbb0W56A0uEd7n5RtoCx1DmEJ.jpg",
+                "overview": "A fazenda da fam\u00edlia de Catherine \"Cat\" Ballou (Jane Fonda) est\u00e1 sendo amea\u00e7ada pela estrada de ferro. Quando seu pai \u00e9 morto pelo pistoleiro do magnata da ferrovia, ela resolve para lutar. Contrata o pistoleiro Kid Shelleen (Lee Marvin), e descobre que ele \u00e9 o pistoleiro mais \"pingu\u00e7o\" do oeste. Shelleen consegue montar \u00e0 cavalo de forma tosca em v\u00e1rias cenas, enquanto os menestr\u00e9is Sunrise Kid (Nat King Cole) e Sam the Shade (Stubby Kaye) narram a hist\u00f3ria cantando a balada de Cat Ballou.",
+                "vote_average": 6.4,
+                "vote_count": 226
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Doctor Zhivago",
+            "second_label": "Norman Savage",
+            "category": "Film Editing",
+            "year": 1966,
+            "tmdb": {
+                "id": 907,
+                "original_title": "Doctor Zhivago",
+                "title": "Doutor Jivago",
+                "release_date": "1965-12-22",
+                "backdrop_path": "/y3sPNxqVBIt97EZX568OpAWBpcl.jpg",
+                "poster_path": "/xG9sb3Hq8SUy6hOq3AYHbBzVFKf.jpg",
+                "overview": "Ambientado antes e durante a Revolu\u00e7\u00e3o Bolchevique na R\u00fassia, conhe\u00e7a a hist\u00f3ria do doutor Yury Zhivago, que em plena guerra se viu apaixonado pela bela Lara Antipova, o amor imposs\u00edvel que move toda a hist\u00f3ria. Baseado na obra de Boris Pasternak, vencedor de 5 Oscar, incluindo Fotografia e Roteiro Adaptado.",
+                "vote_average": 7.5,
+                "vote_count": 1075
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Flight of the Phoenix",
+            "second_label": "Michael Luciano",
+            "category": "Film Editing",
+            "year": 1966,
+            "tmdb": {
+                "id": 10243,
+                "original_title": "The Flight of the Phoenix",
+                "title": "O V\u00f4o da F\u00eanix",
+                "release_date": "1965-12-15",
+                "backdrop_path": "/61cz8dZkyIo9m5bVwwfrYcvVZiK.jpg",
+                "poster_path": "/xyDYE8nr1GxIjfjjT8MNkMAHwVS.jpg",
+                "overview": "Depois de um acidente de avi\u00e3o no deserto do Saara, um dos sobreviventes diz ser um projetista de avi\u00e3o e que eles podem refazer um avi\u00e3o a partir dos destro\u00e7os.  Um avi\u00e3o de carga, no meio de uma tempestade de areia no Saara, cai com menos de uma d\u00fazia de homens a bordo. Um dos passageiros \u00e9 um projetista de avi\u00e3o que prop\u00f5e arrancar as partes n\u00e3o danificadas das asas e us\u00e1-las como base para um avi\u00e3o que eles v\u00e3o construir para escapar, antes que sua comida e \u00e1gua acabem. Foi refilmado em O V\u00f4o da F\u00eanix (2004). (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.2,
+                "vote_count": 301
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Great Race",
+            "second_label": "Ralph E. Winters",
+            "category": "Film Editing",
+            "year": 1966,
+            "tmdb": {
+                "id": 11575,
+                "original_title": "The Great Race",
+                "title": "A Corrida do S\u00e9culo",
+                "release_date": "1965-07-01",
+                "backdrop_path": "/vga7453tBLXDqxeTV2IGUpVgIgk.jpg",
+                "poster_path": "/dOcIAwdOqMRBXIyEDRNspZjj3A6.jpg",
+                "overview": "O audacioso profissional Professor Fate e o her\u00f3i branco Great Leslie convencem os fabricantes de autom\u00f3veis do in\u00edcio do s\u00e9culo de que uma corrida de Nova York a Paris (pelo oeste por todo os EUA, estreito de Bering.  R\u00fassia, Alemanha e Fran\u00e7a) ajudar\u00e1 a promover as vendas de autom\u00f3veis. O arquirrival de Leslie, o professor Fate, amarfanhado e vestido de preto, prometeu chegar antes de Leslie na linha de chegada em um carro da pr\u00f3pria inven\u00e7\u00e3o. V\u00e3o percorrer v\u00e1rios quil\u00f4metros, encarar muitas desaven\u00e7as e enfrentar um imenso iceberg na corrida mais divertida de todos os tempos.",
+                "vote_average": 7.1,
+                "vote_count": 297
+            },
+            "winner": false
+        }
+    ],
+    "Foreign Language Film": [
+        {
+            "first_label": "The Shop on Main Street",
+            "second_label": "Czechoslovakia",
+            "category": "Foreign Language Film",
+            "year": 1966,
+            "tmdb": {
+                "id": 25905,
+                "original_title": "Obchod na korze",
+                "title": "A Pequena Loja da Rua Principal",
+                "release_date": "1965-09-09",
+                "backdrop_path": "/2Yu3AqZ57817uDr51ZgRRTxnFtf.jpg",
+                "poster_path": "/o8YFVCX4qGj3kYXJMKepZkRNF52.jpg",
+                "overview": "Um inepto campon\u00eas Tcheco divide-se entre a gan\u00e2ncia e a culpa quando um chefe da base nazista de sua cidade o nomeia \"Supervisor Ariano\" de uma loja de bot\u00f5es de uma idosa vi\u00fava judia. Humor e trag\u00e9dia fundem-se na sarc\u00e1stica explora\u00e7\u00e3o da cordialidade de um homem comprometido com o horror do regime totalit\u00e1rio.",
+                "vote_average": 7.724,
+                "vote_count": 127
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Blood on the Land",
+            "second_label": "Greece",
+            "category": "Foreign Language Film",
+            "year": 1966,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dear John",
+            "second_label": "Sweden",
+            "category": "Foreign Language Film",
+            "year": 1966,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Kwaidan",
+            "second_label": "Japan",
+            "category": "Foreign Language Film",
+            "year": 1966,
+            "tmdb": {
+                "id": 30959,
+                "original_title": "\u602a\u8ac7",
+                "title": "Kwaidan: As Quatro Faces do Medo",
+                "release_date": "1965-01-06",
+                "backdrop_path": "/y8G11KP4qNY2251ufNezKF92EAR.jpg",
+                "poster_path": "/cfcIjq4V8GxtMN6GU3WnufTM9cD.jpg",
+                "overview": "Produ\u00e7\u00e3o japonesa contada em quatro hist\u00f3rias. Em \"Black Hair\", samurai div\u00f3rcia-se da mulher que ama para se casar com outra pelo dinheiro; em \"The Woman in the Snow\", lenhador encontra mulher congelada e o esp\u00edrito dela aparece para revelar detalhes de sua vida, pedindo a ele que jamais conte a ningu\u00e9m - mas dez anos depois ele esquece a promessa; em \"Hoichi the Earless\", o jovem e cego Hoichi vive num monast\u00e9rio e passa a cantar para fantasmas do imp\u00e9rio; e \"In a Cup of Tea\" fala de um escritor que v\u00ea uma misteriosa face refletida numa x\u00edcara de ch\u00e1.",
+                "vote_average": 7.7,
+                "vote_count": 348
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Marriage Italian Style",
+            "second_label": "Italy",
+            "category": "Foreign Language Film",
+            "year": 1966,
+            "tmdb": {
+                "id": 49687,
+                "original_title": "Matrimonio all'italiana",
+                "title": "Matrim\u00f4nio \u00e0 Italiana",
+                "release_date": "1964-12-18",
+                "backdrop_path": "/yw898RboPq7qg6hnw4ACDhilncg.jpg",
+                "poster_path": "/qGG9HA5aCS3YTvPSHSW2H9d6T8r.jpg",
+                "overview": "O rico Domenico e Filumena, uma prostituta sem dinheiro, compartilham grande parte de suas vidas no p\u00f3s-Segunda Guerra Mundial na It\u00e1lia.  Domenico, um empres\u00e1rio de sucesso, de olho nas meninas, inicia um caso com Filumena aos 17 anos. Ela se torna prostituta, mas tamb\u00e9m se torna amante de Domenico. Ele finalmente a instala em um apartamento, e ela trabalha para ele em seus v\u00e1rios neg\u00f3cios. Mas ela secretamente tem tr\u00eas filhos, que s\u00e3o criados por bab\u00e1s. (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.7,
+                "vote_count": 477
+            },
+            "winner": false
+        }
+    ],
+    "Irving G. Thalberg Memorial Award": [
+        {
+            "first_label": "",
+            "second_label": "William Wyler",
+            "category": "Irving G. Thalberg Memorial Award",
+            "year": 1966,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        }
+    ],
+    "Jean Hersholt Humanitarian Award": [
+        {
+            "first_label": "",
+            "second_label": "Edmond L. DePatie",
+            "category": "Jean Hersholt Humanitarian Award",
+            "year": 1966,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        }
+    ],
+    "Music (Music Score--substantially original)": [
+        {
+            "first_label": "Doctor Zhivago",
+            "second_label": "Maurice Jarre",
+            "category": "Music (Music Score--substantially original)",
+            "year": 1966,
+            "tmdb": {
+                "id": 907,
+                "original_title": "Doctor Zhivago",
+                "title": "Doutor Jivago",
+                "release_date": "1965-12-22",
+                "backdrop_path": "/y3sPNxqVBIt97EZX568OpAWBpcl.jpg",
+                "poster_path": "/xG9sb3Hq8SUy6hOq3AYHbBzVFKf.jpg",
+                "overview": "Ambientado antes e durante a Revolu\u00e7\u00e3o Bolchevique na R\u00fassia, conhe\u00e7a a hist\u00f3ria do doutor Yury Zhivago, que em plena guerra se viu apaixonado pela bela Lara Antipova, o amor imposs\u00edvel que move toda a hist\u00f3ria. Baseado na obra de Boris Pasternak, vencedor de 5 Oscar, incluindo Fotografia e Roteiro Adaptado.",
+                "vote_average": 7.5,
+                "vote_count": 1075
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Agony and the Ecstasy",
+            "second_label": "Alex North",
+            "category": "Music (Music Score--substantially original)",
+            "year": 1966,
+            "tmdb": {
+                "id": 36815,
+                "original_title": "The Agony and the Ecstasy",
+                "title": "Agonia e \u00caxtase",
+                "release_date": "1965-09-16",
+                "backdrop_path": "/4l5LtMuBS6syAxv2WJhJV1phsDr.jpg",
+                "poster_path": "/jHCLHAZV5PMvGuhIItjy2J67P0I.jpg",
+                "overview": "Charlton Heston e Rex Harrison interpretam duas das personalidades mais marcantes da Renascen\u00e7a neste drama hist\u00f3rico baseado no best-seller de Irving Stone ambientado no in\u00edcio do S\u00e9culo XVI. Quando o Papa J\u00falio II encomenda a Michelangelo a pintura do teto da Capela Sistina, o artista recusa a princ\u00edpio. Virtualmente for\u00e7ado por J\u00falio a fazer o trabalho, ele acaba por destruir sua obra e foge de Roma. Quando recome\u00e7a a pintura, o projeto se torna uma batalha de vontades alimentada pelas diferen\u00e7as art\u00edsticas e de temperamento que s\u00e3o o ponto central deste filme. Indicado ao OSCAR\u00ae de Melhor Fotografia e tamb\u00e9m citado como um dos melhores filmes do ano pelo National Board of Review, AGONIA E \u00caXTASE \u00e9 uma fant\u00e1stica dramatiza\u00e7\u00e3o da luta por tr\u00e1s de uma das maiores obras-primas do mundo. Tanto a hist\u00f3ria quanto o filme s\u00e3o tocantes e fascinantes.",
+                "vote_average": 7.0,
+                "vote_count": 126
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Greatest Story Ever Told",
+            "second_label": "Alfred Newman",
+            "category": "Music (Music Score--substantially original)",
+            "year": 1966,
+            "tmdb": {
+                "id": 2428,
+                "original_title": "The Greatest Story Ever Told",
+                "title": "A Maior Hist\u00f3ria de Todos os Tempos",
+                "release_date": "1965-04-09",
+                "backdrop_path": "/f6JjKDXn66XgNnYjBcKiwO4h3A7.jpg",
+                "poster_path": "/sCrp4hm4JnWKPzdJtGACKMA6cys.jpg",
+                "overview": "A vida de Jesus de Nazar\u00e9 (Max von Sydow). Seu nascimento, as prega\u00e7\u00f5es, milagres, julgamento, crucifica\u00e7\u00e3o e ressurrei\u00e7\u00e3o.",
+                "vote_average": 6.4,
+                "vote_count": 167
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Patch of Blue",
+            "second_label": "Jerry Goldsmith",
+            "category": "Music (Music Score--substantially original)",
+            "year": 1966,
+            "tmdb": {
+                "id": 33364,
+                "original_title": "A Patch of Blue",
+                "title": "Quando S\u00f3 o Cora\u00e7\u00e3o V\u00ea",
+                "release_date": "1965-12-10",
+                "backdrop_path": "/fzBSF2bLRhquIaPfthb1rbngMPw.jpg",
+                "poster_path": "/cBb4SvP8kCVb4jtN4qWnis8ihj6.jpg",
+                "overview": "Homem negro e experiente passeia pelo parque quando encontra uma jovem linda, branca e cega. Eles ficam amigos e passam a se encontrar todos os dias. Aos poucos eles v\u00e3o se tornando cada vez mais \u00edntimos, mas a m\u00e3e da mo\u00e7a est\u00e1 convencida de que qualquer homem se interessaria pela filha apenas por sexo.",
+                "vote_average": 7.5,
+                "vote_count": 97
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Umbrellas of Cherbourg",
+            "second_label": "Michel Legrand, Jacques Demy",
+            "category": "Music (Music Score--substantially original)",
+            "year": 1966,
+            "tmdb": {
+                "id": 5967,
+                "original_title": "Les Parapluies de Cherbourg",
+                "title": "Os Guarda-Chuvas do Amor",
+                "release_date": "1964-02-19",
+                "backdrop_path": "/czfbhgM0cjFqPt4ARofDKgRHCyj.jpg",
+                "poster_path": "/n8H5cKQhn0mGehfj3HrO6vJ4aQf.jpg",
+                "overview": "Cherbourg, 1957. Guy Foucher \u00e9 um jovem de 20 anos que foi criado pela madrinha e trabalha como mec\u00e2nico de carros. Ele \u00e9 apaixonado por Genevi\u00e8ve Emery, uma adolescente de 17 anos que ajuda sua m\u00e3e vi\u00fava no neg\u00f3cio da fam\u00edlia: uma loja de guarda-chuvas, que \u00e9 elegante mas pouco lucrativa. Genevi\u00e8ve tamb\u00e9m o ama, mas sua m\u00e3e acha que ela \u00e9 muito nova para casar e n\u00e3o v\u00ea como Guy pode manter uma fam\u00edlia. Ele \u00e9 convocado para o servi\u00e7o militar, mas antes de partir Guy e Genevi\u00e8ve fazem amor e ela engravida. Assim ela tem que escolher entre esperar pelo retorno de Guy ou aceitar uma proposta de casamento de Roland Cassard, comerciante de diamantes, que se prop\u00f5e a criar o beb\u00ea como se fosse seu.",
+                "vote_average": 7.384,
+                "vote_count": 720
+            },
+            "winner": false
+        }
+    ],
+    "Music (Scoring of Music--adaptation or treatment)": [
+        {
+            "first_label": "The Sound of Music",
+            "second_label": "Irwin Kostal",
+            "category": "Music (Scoring of Music--adaptation or treatment)",
+            "year": 1966,
+            "tmdb": {
+                "id": 15121,
+                "original_title": "The Sound of Music",
+                "title": "A Novi\u00e7a Rebelde",
+                "release_date": "1965-03-29",
+                "backdrop_path": "/m5n1nguLC3pTJLPKhN5Ek0aNT6E.jpg",
+                "poster_path": "/nF9wgSkAvjzJi6fF4oa8GcojTof.jpg",
+                "overview": "No final da d\u00e9cada de 1930, na \u00c1ustria, quando o pesadelo nazista estava prestes a se instaurar no pa\u00eds, uma novi\u00e7a (Julie Andrews) que vive em um convento, mas n\u00e3o consegue seguir as r\u00edgidas normas de conduta das religiosas, vai trabalhar como governanta na casa do capit\u00e3o Von Trapp (Christopher Plummer), que \u00e9 vi\u00favo, tem sete filhos e os educa como se fizessem parte de um regimento. Sua chegada modifica drasticamente o padr\u00e3o da fam\u00edlia, trazendo alegria novamente ao lar da fam\u00edlia Von Trapp e conquistando o carinho e o respeito das crian\u00e7as. Mas ela termina se apaixonando pelo capit\u00e3o, que est\u00e1 comprometido com uma rica baronesa.",
+                "vote_average": 7.72,
+                "vote_count": 3098
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Cat Ballou",
+            "second_label": "DeVol",
+            "category": "Music (Scoring of Music--adaptation or treatment)",
+            "year": 1966,
+            "tmdb": {
+                "id": 11694,
+                "original_title": "Cat Ballou",
+                "title": "D\u00edvida de Sangue",
+                "release_date": "1965-06-24",
+                "backdrop_path": "/vITHhBDV2t4QIT9UBcLl4zEa7Zy.jpg",
+                "poster_path": "/6FFbb0W56A0uEd7n5RtoCx1DmEJ.jpg",
+                "overview": "A fazenda da fam\u00edlia de Catherine \"Cat\" Ballou (Jane Fonda) est\u00e1 sendo amea\u00e7ada pela estrada de ferro. Quando seu pai \u00e9 morto pelo pistoleiro do magnata da ferrovia, ela resolve para lutar. Contrata o pistoleiro Kid Shelleen (Lee Marvin), e descobre que ele \u00e9 o pistoleiro mais \"pingu\u00e7o\" do oeste. Shelleen consegue montar \u00e0 cavalo de forma tosca em v\u00e1rias cenas, enquanto os menestr\u00e9is Sunrise Kid (Nat King Cole) e Sam the Shade (Stubby Kaye) narram a hist\u00f3ria cantando a balada de Cat Ballou.",
+                "vote_average": 6.4,
+                "vote_count": 226
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Pleasure Seekers",
+            "second_label": "Lionel Newman, Alexander Courage",
+            "category": "Music (Scoring of Music--adaptation or treatment)",
+            "year": 1966,
+            "tmdb": {
+                "id": 95358,
+                "original_title": "The Pleasure Seekers",
+                "title": "Em Busca do Prazer",
+                "release_date": "1964-12-25",
+                "backdrop_path": "/s7GadWV8qLdzm3lFnjMOdlZFrzz.jpg",
+                "poster_path": "/kdur0njZcdnIlE6T1HPlYH0iQxo.jpg",
+                "overview": "A trio of gorgeous American tourists hope to find love while vacationing in Spain. Secretary Maggie Williams falls hard for a married newsman named Paul Barton while fighting off the advances of one of his employees. Singer Fran Hobson sets her sights on a handsome European doctor. And coed Susie Higgins receives an unexpected proposal from smooth-talking womanizer Emilio Lacaya.",
+                "vote_average": 5.1,
+                "vote_count": 7
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Thousand Clowns",
+            "second_label": "Don Walker",
+            "category": "Music (Scoring of Music--adaptation or treatment)",
+            "year": 1966,
+            "tmdb": {
+                "id": 42731,
+                "original_title": "A Thousand Clowns",
+                "title": "A Thousand Clowns",
+                "release_date": "1965-12-13",
+                "backdrop_path": "/brYujqSBuefAyHBL42nyM0GJtFw.jpg",
+                "poster_path": "/tXPsmtVy3T5Whz20LwiscprCdCT.jpg",
+                "overview": "Twelve-year-old Nick lives with his Uncle Murray, a Mr.Micawber-like Dickensian character who keeps hoping something won't turn up. What turns up is a social worker, who falls in love with Murray and a bit in love with Nick. As the child welfare people try to force Murray to become a conventional man (as the price they demand for allowing him to keep Nick), the nephew, who until now has gloried in his Uncle's iconoclastic approach to life, tries to play mediator. But when he succeeds, he is alarmed by the uncle's willingness to cave in to society in order to save the relationship.",
+                "vote_average": 6.9,
+                "vote_count": 25
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Umbrellas of Cherbourg",
+            "second_label": "Michel Legrand",
+            "category": "Music (Scoring of Music--adaptation or treatment)",
+            "year": 1966,
+            "tmdb": {
+                "id": 5967,
+                "original_title": "Les Parapluies de Cherbourg",
+                "title": "Os Guarda-Chuvas do Amor",
+                "release_date": "1964-02-19",
+                "backdrop_path": "/czfbhgM0cjFqPt4ARofDKgRHCyj.jpg",
+                "poster_path": "/n8H5cKQhn0mGehfj3HrO6vJ4aQf.jpg",
+                "overview": "Cherbourg, 1957. Guy Foucher \u00e9 um jovem de 20 anos que foi criado pela madrinha e trabalha como mec\u00e2nico de carros. Ele \u00e9 apaixonado por Genevi\u00e8ve Emery, uma adolescente de 17 anos que ajuda sua m\u00e3e vi\u00fava no neg\u00f3cio da fam\u00edlia: uma loja de guarda-chuvas, que \u00e9 elegante mas pouco lucrativa. Genevi\u00e8ve tamb\u00e9m o ama, mas sua m\u00e3e acha que ela \u00e9 muito nova para casar e n\u00e3o v\u00ea como Guy pode manter uma fam\u00edlia. Ele \u00e9 convocado para o servi\u00e7o militar, mas antes de partir Guy e Genevi\u00e8ve fazem amor e ela engravida. Assim ela tem que escolher entre esperar pelo retorno de Guy ou aceitar uma proposta de casamento de Roland Cassard, comerciante de diamantes, que se prop\u00f5e a criar o beb\u00ea como se fosse seu.",
+                "vote_average": 7.384,
+                "vote_count": 720
+            },
+            "winner": false
+        }
+    ],
+    "Music (Song)": [
+        {
+            "first_label": "The Sandpiper",
+            "second_label": "The Shadow Of Your Smile in \"The Sandpiper\" Music by Johnny Mandel; Lyrics by Paul Francis Webster",
+            "category": "Music (Song)",
+            "year": 1966,
+            "tmdb": {
+                "id": 77915,
+                "original_title": "The Sandpiper",
+                "title": "Adeus \u00e0s Ilus\u00f5es",
+                "release_date": "1965-06-23",
+                "backdrop_path": "/x2dgbGQr4MAt6ljJHIsW0ObqwWD.jpg",
+                "poster_path": "/uae2jhgzB8XeDPyqJkvoKqP8o65.jpg",
+                "overview": "Em uma pequena cidade da Calif\u00f3rnia Laura Reynolds (Elizabeth Taylor), uma artista com um jeito muito livre de viver, cria Danny (Morgan Mason), seu filho adolescente. Ela gostaria de educ\u00e1-lo em casa mas as autoridades n\u00e3o permitem, ent\u00e3o ela manda Danny para uma escola dirigida por Edward Hewitt (Richard Burton), um sacerdote episcopal que \u00e9 casado com Claire (Eva Marie Saint). Por\u00e9m, quando vai visitar o filho, Laura se apaixona por Edward e \u00e9 correspondida.",
+                "vote_average": 6.3,
+                "vote_count": 44
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Cat Ballou",
+            "second_label": "The Ballad Of Cat Ballou in \"Cat Ballou\" Music by Jerry Livingston; Lyrics by Mack David",
+            "category": "Music (Song)",
+            "year": 1966,
+            "tmdb": {
+                "id": 11694,
+                "original_title": "Cat Ballou",
+                "title": "D\u00edvida de Sangue",
+                "release_date": "1965-06-24",
+                "backdrop_path": "/vITHhBDV2t4QIT9UBcLl4zEa7Zy.jpg",
+                "poster_path": "/6FFbb0W56A0uEd7n5RtoCx1DmEJ.jpg",
+                "overview": "A fazenda da fam\u00edlia de Catherine \"Cat\" Ballou (Jane Fonda) est\u00e1 sendo amea\u00e7ada pela estrada de ferro. Quando seu pai \u00e9 morto pelo pistoleiro do magnata da ferrovia, ela resolve para lutar. Contrata o pistoleiro Kid Shelleen (Lee Marvin), e descobre que ele \u00e9 o pistoleiro mais \"pingu\u00e7o\" do oeste. Shelleen consegue montar \u00e0 cavalo de forma tosca em v\u00e1rias cenas, enquanto os menestr\u00e9is Sunrise Kid (Nat King Cole) e Sam the Shade (Stubby Kaye) narram a hist\u00f3ria cantando a balada de Cat Ballou.",
+                "vote_average": 6.4,
+                "vote_count": 226
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Umbrellas of Cherbourg",
+            "second_label": "I Will Wait For You in \"The Umbrellas of Cherbourg\" Music by Michel Legrand; Lyrics by Jacques Demy; English Lyrics by Norman Gimbel",
+            "category": "Music (Song)",
+            "year": 1966,
+            "tmdb": {
+                "id": 5967,
+                "original_title": "Les Parapluies de Cherbourg",
+                "title": "Os Guarda-Chuvas do Amor",
+                "release_date": "1964-02-19",
+                "backdrop_path": "/czfbhgM0cjFqPt4ARofDKgRHCyj.jpg",
+                "poster_path": "/n8H5cKQhn0mGehfj3HrO6vJ4aQf.jpg",
+                "overview": "Cherbourg, 1957. Guy Foucher \u00e9 um jovem de 20 anos que foi criado pela madrinha e trabalha como mec\u00e2nico de carros. Ele \u00e9 apaixonado por Genevi\u00e8ve Emery, uma adolescente de 17 anos que ajuda sua m\u00e3e vi\u00fava no neg\u00f3cio da fam\u00edlia: uma loja de guarda-chuvas, que \u00e9 elegante mas pouco lucrativa. Genevi\u00e8ve tamb\u00e9m o ama, mas sua m\u00e3e acha que ela \u00e9 muito nova para casar e n\u00e3o v\u00ea como Guy pode manter uma fam\u00edlia. Ele \u00e9 convocado para o servi\u00e7o militar, mas antes de partir Guy e Genevi\u00e8ve fazem amor e ela engravida. Assim ela tem que escolher entre esperar pelo retorno de Guy ou aceitar uma proposta de casamento de Roland Cassard, comerciante de diamantes, que se prop\u00f5e a criar o beb\u00ea como se fosse seu.",
+                "vote_average": 7.384,
+                "vote_count": 720
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Great Race",
+            "second_label": "The Sweetheart Tree in \"The Great Race\" Music by Henry Mancini; Lyrics by Johnny Mercer",
+            "category": "Music (Song)",
+            "year": 1966,
+            "tmdb": {
+                "id": 11575,
+                "original_title": "The Great Race",
+                "title": "A Corrida do S\u00e9culo",
+                "release_date": "1965-07-01",
+                "backdrop_path": "/vga7453tBLXDqxeTV2IGUpVgIgk.jpg",
+                "poster_path": "/dOcIAwdOqMRBXIyEDRNspZjj3A6.jpg",
+                "overview": "O audacioso profissional Professor Fate e o her\u00f3i branco Great Leslie convencem os fabricantes de autom\u00f3veis do in\u00edcio do s\u00e9culo de que uma corrida de Nova York a Paris (pelo oeste por todo os EUA, estreito de Bering.  R\u00fassia, Alemanha e Fran\u00e7a) ajudar\u00e1 a promover as vendas de autom\u00f3veis. O arquirrival de Leslie, o professor Fate, amarfanhado e vestido de preto, prometeu chegar antes de Leslie na linha de chegada em um carro da pr\u00f3pria inven\u00e7\u00e3o. V\u00e3o percorrer v\u00e1rios quil\u00f4metros, encarar muitas desaven\u00e7as e enfrentar um imenso iceberg na corrida mais divertida de todos os tempos.",
+                "vote_average": 7.1,
+                "vote_count": 297
+            },
+            "winner": false
+        },
+        {
+            "first_label": "What's New Pussycat?",
+            "second_label": "What's New Pussycat? in \"What's New Pussycat?\" Music by Burt Bacharach; Lyrics by Hal David",
+            "category": "Music (Song)",
+            "year": 1966,
+            "tmdb": {
+                "id": 3681,
+                "original_title": "What's New Pussycat?",
+                "title": "O Que \u00c9 Que H\u00e1 Gatinha?",
+                "release_date": "1965-06-22",
+                "backdrop_path": "/rq8908sDqtyEGiRagGtPYuWSwFb.jpg",
+                "poster_path": "/seKbiGx8mjF04Bx4LVBQk741Eqv.jpg",
+                "overview": "Um playboy que se recusa a desistir de seu estilo de vida hedonista para se estabelecer e se casar com seu verdadeiro amor busca ajuda de um psicanalista demente que, por sua vez, est\u00e1 tendo seus pr\u00f3prios problemas rom\u00e2nticos.",
+                "vote_average": 6.0,
+                "vote_count": 144
+            },
+            "winner": false
+        }
+    ],
+    "Best Picture": [
+        {
+            "first_label": "The Sound of Music",
+            "second_label": "Robert Wise, Producer",
+            "category": "Best Picture",
+            "year": 1966,
+            "tmdb": {
+                "id": 15121,
+                "original_title": "The Sound of Music",
+                "title": "A Novi\u00e7a Rebelde",
+                "release_date": "1965-03-29",
+                "backdrop_path": "/m5n1nguLC3pTJLPKhN5Ek0aNT6E.jpg",
+                "poster_path": "/nF9wgSkAvjzJi6fF4oa8GcojTof.jpg",
+                "overview": "No final da d\u00e9cada de 1930, na \u00c1ustria, quando o pesadelo nazista estava prestes a se instaurar no pa\u00eds, uma novi\u00e7a (Julie Andrews) que vive em um convento, mas n\u00e3o consegue seguir as r\u00edgidas normas de conduta das religiosas, vai trabalhar como governanta na casa do capit\u00e3o Von Trapp (Christopher Plummer), que \u00e9 vi\u00favo, tem sete filhos e os educa como se fizessem parte de um regimento. Sua chegada modifica drasticamente o padr\u00e3o da fam\u00edlia, trazendo alegria novamente ao lar da fam\u00edlia Von Trapp e conquistando o carinho e o respeito das crian\u00e7as. Mas ela termina se apaixonando pelo capit\u00e3o, que est\u00e1 comprometido com uma rica baronesa.",
+                "vote_average": 7.72,
+                "vote_count": 3098
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Darling",
+            "second_label": "Joseph Janni, Producer",
+            "category": "Best Picture",
+            "year": 1966,
+            "tmdb": {
+                "id": 24134,
+                "original_title": "Darling",
+                "title": "Darling: A Que Amou Demais",
+                "release_date": "1965-08-03",
+                "backdrop_path": "/8b6j2HY159XwnLn6Qh9HxrtYeR0.jpg",
+                "poster_path": "/cBd5YO9xG7VmRuC8Q27uR3PV9mn.jpg",
+                "overview": "Diana Scott \u00e9 uma modelo ambiciosa determinada a chegar ao topo. Usando sua sexualidade, ela controla os homens poderosos \u00e0 sua volta, mas acaba se tornando prisioneira do estilo de vida que tanto desejava.",
+                "vote_average": 6.7,
+                "vote_count": 122
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Doctor Zhivago",
+            "second_label": "Carlo Ponti, Producer",
+            "category": "Best Picture",
+            "year": 1966,
+            "tmdb": {
+                "id": 907,
+                "original_title": "Doctor Zhivago",
+                "title": "Doutor Jivago",
+                "release_date": "1965-12-22",
+                "backdrop_path": "/y3sPNxqVBIt97EZX568OpAWBpcl.jpg",
+                "poster_path": "/xG9sb3Hq8SUy6hOq3AYHbBzVFKf.jpg",
+                "overview": "Ambientado antes e durante a Revolu\u00e7\u00e3o Bolchevique na R\u00fassia, conhe\u00e7a a hist\u00f3ria do doutor Yury Zhivago, que em plena guerra se viu apaixonado pela bela Lara Antipova, o amor imposs\u00edvel que move toda a hist\u00f3ria. Baseado na obra de Boris Pasternak, vencedor de 5 Oscar, incluindo Fotografia e Roteiro Adaptado.",
+                "vote_average": 7.5,
+                "vote_count": 1075
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ship of Fools",
+            "second_label": "Stanley Kramer, Producer",
+            "category": "Best Picture",
+            "year": 1966,
+            "tmdb": {
+                "id": 30080,
+                "original_title": "Ship of Fools",
+                "title": "A Nau dos Insensatos",
+                "release_date": "1965-07-29",
+                "backdrop_path": "/t3bXP5pUnckfoJ8WonlvAGovCun.jpg",
+                "poster_path": "/2LOe4Hu6Gxw6k76hLWhS8JVVILa.jpg",
+                "overview": "1933: Um transatl\u00e2ntico pertencente a uma empresa alem\u00e3 de segunda categoria est\u00e1 fazendo uma viagem de 26 dias partindo de Veracruz, M\u00e9xico, para Bremerhaven, Alemanha. Ao longo do caminho ele vai parar em Cuba para pegar um grande grupo de trabalhadores agr\u00edcolas espanh\u00f3is que est\u00e3o sendo enviados para casa e que ser\u00e3o alojadas como gado na terceira classe. V\u00e3o tamb\u00e9m pegar La Condesa, uma condessa espanhola. V\u00e3o parar em Tenerife, onde os trabalhadores agr\u00edcolas ir\u00e3o desembarcar e onde La Condesa ser\u00e1 enviado para uma pris\u00e3o alem\u00e3 por suas atividades \"traidoras\" em Cuba. Esta viagem ser\u00e1 a \u00faltima de tr\u00eas para o m\u00e9dico do navio, Willi Schumann, que tem uma doen\u00e7a card\u00edaca grave e que pensou que poderia encontrar algum sentido para sua vida atrav\u00e9s deste trabalho. Willi e La Condesa se apaixonam e o capit\u00e3o do navio Thiele, que \u00e9 o melhor amigo de Willie a bordo, acreditando que a viciada em drogas La Condesa est\u00e1 apenas usando-o para obter suas doses.",
+                "vote_average": 6.5,
+                "vote_count": 83
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Thousand Clowns",
+            "second_label": "Fred Coe, Producer",
+            "category": "Best Picture",
+            "year": 1966,
+            "tmdb": {
+                "id": 42731,
+                "original_title": "A Thousand Clowns",
+                "title": "A Thousand Clowns",
+                "release_date": "1965-12-13",
+                "backdrop_path": "/brYujqSBuefAyHBL42nyM0GJtFw.jpg",
+                "poster_path": "/tXPsmtVy3T5Whz20LwiscprCdCT.jpg",
+                "overview": "Twelve-year-old Nick lives with his Uncle Murray, a Mr.Micawber-like Dickensian character who keeps hoping something won't turn up. What turns up is a social worker, who falls in love with Murray and a bit in love with Nick. As the child welfare people try to force Murray to become a conventional man (as the price they demand for allowing him to keep Nick), the nephew, who until now has gloried in his Uncle's iconoclastic approach to life, tries to play mediator. But when he succeeds, he is alarmed by the uncle's willingness to cave in to society in order to save the relationship.",
+                "vote_average": 6.9,
+                "vote_count": 25
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Cartoon)": [
+        {
+            "first_label": "The Dot and the Line",
+            "second_label": "Chuck Jones and Les Goldman, Producers",
+            "category": "Short Subject (Cartoon)",
+            "year": 1966,
+            "tmdb": {
+                "id": 84617,
+                "original_title": "The Dot and the Line: A Romance in Lower Mathematics",
+                "title": "The Dot and the Line: A Romance in Lower Mathematics",
+                "release_date": "1965-12-15",
+                "backdrop_path": "/ypTAWoJx2kMSOW4SFukF5t6B0aJ.jpg",
+                "poster_path": "/2omBQEwNr1GrJkE4jeiqSHjSDdb.jpg",
+                "overview": "Animated work detailing the unrequited love that a line has for a dot, and the heartbreak that results due to the dot's feelings for a lively squiggle.",
+                "vote_average": 7.3,
+                "vote_count": 40
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Clay or The Origin of Species",
+            "second_label": "Eliot Noyes, Jr., Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1966,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Thieving Magpie (La Gazza Ladra)",
+            "second_label": "Emanuele Luzzati, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1966,
+            "tmdb": {
+                "id": 129979,
+                "original_title": "La gazza ladra",
+                "title": "The Thieving Magpie",
+                "release_date": "1964-01-01",
+                "backdrop_path": "/nap2faM8x4bgYjzE4MuAu2QAYqf.jpg",
+                "poster_path": "/l3vvLdvHP7RQs3HZSmYwhfmOqek.jpg",
+                "overview": "A king and his hunting party shoot down birds. A magpie escapes the onslaught of arrows and wreaks havoc on the hunting party.",
+                "vote_average": 6.3,
+                "vote_count": 16
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Live Action)": [
+        {
+            "first_label": "The Chicken (Le Poulet)",
+            "second_label": "Claude Berri, Producer",
+            "category": "Short Subject (Live Action)",
+            "year": 1966,
+            "tmdb": {
+                "id": 34063,
+                "original_title": "Le Poulet",
+                "title": "The Chicken",
+                "release_date": "1965-07-19",
+                "backdrop_path": null,
+                "poster_path": "/4dGsTYQOJU9YbBHPQFC3Nb1jp2x.jpg",
+                "overview": "The Chicken [Le Poulet] is a 1965 French short comedy film directed by Claude Berri. The film follows a father, mother, and son who go to visit a chicken farm. The son catches and brings home a chicken. The father plans to eat it if the chicken doesn't lay eggs. The boy aims to save the chicken and comedy ensues. It won an Oscar in 1966 for Best Short Subject.",
+                "vote_average": 6.5,
+                "vote_count": 15
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Fortress of Peace",
+            "second_label": "Lothar Wolff, Producer",
+            "category": "Short Subject (Live Action)",
+            "year": 1966,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Skaterdater",
+            "second_label": "Marshal Backlar and Noel Black, Producers",
+            "category": "Short Subject (Live Action)",
+            "year": 1966,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Snow",
+            "second_label": "Edgar Anstey, Producer",
+            "category": "Short Subject (Live Action)",
+            "year": 1966,
+            "tmdb": {
+                "id": 995290,
+                "original_title": "Snow",
+                "title": "Snow",
+                "release_date": "1965-07-03",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "SNOW (that fluffy white stuff that falls in the winter) which is beautiful and winter too somewhat since snow comes then and winter is a kind of pseudo-death so maybe the movie about a beautiful kind of pseudo-death...\" \u2013S. E.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Time Piece",
+            "second_label": "Jim Henson, Producer",
+            "category": "Short Subject (Live Action)",
+            "year": 1966,
+            "tmdb": {
+                "id": 48441,
+                "original_title": "Time Piece",
+                "title": "Time Piece",
+                "release_date": "1965-05-07",
+                "backdrop_path": "/23wDHYmJdULyaEAFvzD1NFs6nKH.jpg",
+                "poster_path": "/7a4wesc1fdaHQ4DpfsdWy9WuuTs.jpg",
+                "overview": "Dislocation in time, time signatures, time as a philosophical concept, and slavery to time are some of the themes touched upon in this 9-minute experimental film, which was written, directed, and produced by Jim Henson. Screened for the first time at the Museum of Modern Art in May of 1965, \"Time Piece\" enjoyed an eighteen-month run at one Manhattan movie theater and was nominated for an Academy Award for Outstanding Short Subject.",
+                "vote_average": 7.3,
+                "vote_count": 31
+            },
+            "winner": false
+        }
+    ],
+    "Sound": [
+        {
+            "first_label": "The Sound of Music",
+            "second_label": "20th Century-Fox Studio Sound Department, James P. Corcoran, Sound Director; and Todd-AO Sound Department, Fred Hynes, Sound Director",
+            "category": "Sound",
+            "year": 1966,
+            "tmdb": {
+                "id": 15121,
+                "original_title": "The Sound of Music",
+                "title": "A Novi\u00e7a Rebelde",
+                "release_date": "1965-03-29",
+                "backdrop_path": "/m5n1nguLC3pTJLPKhN5Ek0aNT6E.jpg",
+                "poster_path": "/nF9wgSkAvjzJi6fF4oa8GcojTof.jpg",
+                "overview": "No final da d\u00e9cada de 1930, na \u00c1ustria, quando o pesadelo nazista estava prestes a se instaurar no pa\u00eds, uma novi\u00e7a (Julie Andrews) que vive em um convento, mas n\u00e3o consegue seguir as r\u00edgidas normas de conduta das religiosas, vai trabalhar como governanta na casa do capit\u00e3o Von Trapp (Christopher Plummer), que \u00e9 vi\u00favo, tem sete filhos e os educa como se fizessem parte de um regimento. Sua chegada modifica drasticamente o padr\u00e3o da fam\u00edlia, trazendo alegria novamente ao lar da fam\u00edlia Von Trapp e conquistando o carinho e o respeito das crian\u00e7as. Mas ela termina se apaixonando pelo capit\u00e3o, que est\u00e1 comprometido com uma rica baronesa.",
+                "vote_average": 7.72,
+                "vote_count": 3098
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Agony and the Ecstasy",
+            "second_label": "20th Century-Fox Studio Sound Department, James P. Corcoran, Sound Director",
+            "category": "Sound",
+            "year": 1966,
+            "tmdb": {
+                "id": 36815,
+                "original_title": "The Agony and the Ecstasy",
+                "title": "Agonia e \u00caxtase",
+                "release_date": "1965-09-16",
+                "backdrop_path": "/4l5LtMuBS6syAxv2WJhJV1phsDr.jpg",
+                "poster_path": "/jHCLHAZV5PMvGuhIItjy2J67P0I.jpg",
+                "overview": "Charlton Heston e Rex Harrison interpretam duas das personalidades mais marcantes da Renascen\u00e7a neste drama hist\u00f3rico baseado no best-seller de Irving Stone ambientado no in\u00edcio do S\u00e9culo XVI. Quando o Papa J\u00falio II encomenda a Michelangelo a pintura do teto da Capela Sistina, o artista recusa a princ\u00edpio. Virtualmente for\u00e7ado por J\u00falio a fazer o trabalho, ele acaba por destruir sua obra e foge de Roma. Quando recome\u00e7a a pintura, o projeto se torna uma batalha de vontades alimentada pelas diferen\u00e7as art\u00edsticas e de temperamento que s\u00e3o o ponto central deste filme. Indicado ao OSCAR\u00ae de Melhor Fotografia e tamb\u00e9m citado como um dos melhores filmes do ano pelo National Board of Review, AGONIA E \u00caXTASE \u00e9 uma fant\u00e1stica dramatiza\u00e7\u00e3o da luta por tr\u00e1s de uma das maiores obras-primas do mundo. Tanto a hist\u00f3ria quanto o filme s\u00e3o tocantes e fascinantes.",
+                "vote_average": 7.0,
+                "vote_count": 126
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Doctor Zhivago",
+            "second_label": "Metro-Goldwyn-Mayer British Studio Sound Department, A. W. Watkins, Sound Director; and Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director",
+            "category": "Sound",
+            "year": 1966,
+            "tmdb": {
+                "id": 907,
+                "original_title": "Doctor Zhivago",
+                "title": "Doutor Jivago",
+                "release_date": "1965-12-22",
+                "backdrop_path": "/y3sPNxqVBIt97EZX568OpAWBpcl.jpg",
+                "poster_path": "/xG9sb3Hq8SUy6hOq3AYHbBzVFKf.jpg",
+                "overview": "Ambientado antes e durante a Revolu\u00e7\u00e3o Bolchevique na R\u00fassia, conhe\u00e7a a hist\u00f3ria do doutor Yury Zhivago, que em plena guerra se viu apaixonado pela bela Lara Antipova, o amor imposs\u00edvel que move toda a hist\u00f3ria. Baseado na obra de Boris Pasternak, vencedor de 5 Oscar, incluindo Fotografia e Roteiro Adaptado.",
+                "vote_average": 7.5,
+                "vote_count": 1075
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Great Race",
+            "second_label": "Warner Bros. Studio Sound Department, George R. Groves, Sound Director",
+            "category": "Sound",
+            "year": 1966,
+            "tmdb": {
+                "id": 11575,
+                "original_title": "The Great Race",
+                "title": "A Corrida do S\u00e9culo",
+                "release_date": "1965-07-01",
+                "backdrop_path": "/vga7453tBLXDqxeTV2IGUpVgIgk.jpg",
+                "poster_path": "/dOcIAwdOqMRBXIyEDRNspZjj3A6.jpg",
+                "overview": "O audacioso profissional Professor Fate e o her\u00f3i branco Great Leslie convencem os fabricantes de autom\u00f3veis do in\u00edcio do s\u00e9culo de que uma corrida de Nova York a Paris (pelo oeste por todo os EUA, estreito de Bering.  R\u00fassia, Alemanha e Fran\u00e7a) ajudar\u00e1 a promover as vendas de autom\u00f3veis. O arquirrival de Leslie, o professor Fate, amarfanhado e vestido de preto, prometeu chegar antes de Leslie na linha de chegada em um carro da pr\u00f3pria inven\u00e7\u00e3o. V\u00e3o percorrer v\u00e1rios quil\u00f4metros, encarar muitas desaven\u00e7as e enfrentar um imenso iceberg na corrida mais divertida de todos os tempos.",
+                "vote_average": 7.1,
+                "vote_count": 297
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Shenandoah",
+            "second_label": "Universal City Studio Sound Department, Waldon O. Watson, Sound Director",
+            "category": "Sound",
+            "year": 1966,
+            "tmdb": {
+                "id": 21027,
+                "original_title": "Shenandoah",
+                "title": "O Vale da Honra",
+                "release_date": "1965-06-03",
+                "backdrop_path": "/e6615TUkrhQvOyCYM60SQLPTVAL.jpg",
+                "poster_path": "/jAB8UFwpoKPdgJlCuYZiF1hyn9E.jpg",
+                "overview": "Charlie Anderson \u00e9 um rico fazendeiro que mant\u00e9m sua fazenda com a ajuda de sua fam\u00edlia em Shenandoah, Virg\u00ednia. Ele tenta manter sua mulher a salvo da Guerra Civil Americana mantendo-se em paz e isolamento. Apesar de fortemente contr\u00e1rio \u00e0 escravid\u00e3o, sua relut\u00e2ncia em rela\u00e7\u00e3o \u00e0 batalha o impede de se aliar a qualquer um dos lados. Mas quando seu filho \u00e9 sequestrado pelas for\u00e7as do Norte, ele ter\u00e1 de repensar todas as suas cren\u00e7as se quiser t\u00ea-lo de volta vivo...",
+                "vote_average": 6.8,
+                "vote_count": 131
+            },
+            "winner": false
+        }
+    ],
+    "Sound Effects": [
+        {
+            "first_label": "The Great Race",
+            "second_label": "Tregoweth Brown",
+            "category": "Sound Effects",
+            "year": 1966,
+            "tmdb": {
+                "id": 11575,
+                "original_title": "The Great Race",
+                "title": "A Corrida do S\u00e9culo",
+                "release_date": "1965-07-01",
+                "backdrop_path": "/vga7453tBLXDqxeTV2IGUpVgIgk.jpg",
+                "poster_path": "/dOcIAwdOqMRBXIyEDRNspZjj3A6.jpg",
+                "overview": "O audacioso profissional Professor Fate e o her\u00f3i branco Great Leslie convencem os fabricantes de autom\u00f3veis do in\u00edcio do s\u00e9culo de que uma corrida de Nova York a Paris (pelo oeste por todo os EUA, estreito de Bering.  R\u00fassia, Alemanha e Fran\u00e7a) ajudar\u00e1 a promover as vendas de autom\u00f3veis. O arquirrival de Leslie, o professor Fate, amarfanhado e vestido de preto, prometeu chegar antes de Leslie na linha de chegada em um carro da pr\u00f3pria inven\u00e7\u00e3o. V\u00e3o percorrer v\u00e1rios quil\u00f4metros, encarar muitas desaven\u00e7as e enfrentar um imenso iceberg na corrida mais divertida de todos os tempos.",
+                "vote_average": 7.1,
+                "vote_count": 297
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Von Ryan's Express",
+            "second_label": "Walter A. Rossi",
+            "category": "Sound Effects",
+            "year": 1966,
+            "tmdb": {
+                "id": 21876,
+                "original_title": "Von Ryan's Express",
+                "title": "O Expresso de Von Ryan",
+                "release_date": "1965-06-23",
+                "backdrop_path": "/4nIEoIesbcW85iwgneg92a9xU2P.jpg",
+                "poster_path": "/7hJTsF46FCJwp3feBDTCmYGYtg7.jpg",
+                "overview": "Os Aliados est\u00e3o levando vantagem sobre os nazistas durante a 2\u00aa Guerra Mundial, empurrando-os cada vez mais de volta \u00e0 Alemanha. Em uma de suas batalhas o coronel Joseph L. Ryan, um piloto de combate americano, \u00e9 abatido, feito prisioneiro e levado a um campo de concentra\u00e7\u00e3o. Inicialmente ele est\u00e1 mais preocupado em sobreviver do que escapar, recebendo um apelido que o insulta: Von Ryan. Com o tempo Ryan assume do major Eric Fincham, um oficial brit\u00e2nico, a posi\u00e7\u00e3o de comando entre os prisioneiros do campo de concentra\u00e7\u00e3o e passa a planejar uma ousada fuga. O plano \u00e9 tomar um trem e faz\u00ea-lo atravessar a It\u00e1lia em dire\u00e7\u00e3o \u00e0 Su\u00ed\u00e7a, enfrentando uma forte persegui\u00e7\u00e3o nazista.",
+                "vote_average": 7.1,
+                "vote_count": 195
+            },
+            "winner": false
+        }
+    ],
+    "Special Visual Effects": [
+        {
+            "first_label": "Thunderball",
+            "second_label": "John Stears",
+            "category": "Special Visual Effects",
+            "year": 1966,
+            "tmdb": {
+                "id": 660,
+                "original_title": "Thunderball",
+                "title": "007: Contra a Chantagem At\u00f4mica",
+                "release_date": "1965-12-11",
+                "backdrop_path": "/yQCaNJpqPtfMMvKt51rHghG1J2w.jpg",
+                "poster_path": "/ot8pEGo9Mljwkz7Ak8hv4qjBmsu.jpg",
+                "overview": "James Bond (Sean Connery) tenta evitar a destrui\u00e7\u00e3o de Miami por meio de uma super bomba, roubada pela SPECTRE. A organiza\u00e7\u00e3o est\u00e1 exigindo um pagamento de 100 milh\u00f5es de d\u00f3lares em diamantes para n\u00e3o cumprir a amea\u00e7a de explodir a cidade. Para isso, ele vai correr contra o tempo para encontrar as armas roubadas e impedir a morte de milh\u00f5es de inocentes.",
+                "vote_average": 6.656,
+                "vote_count": 2179
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Greatest Story Ever Told",
+            "second_label": "J. McMillan Johnson",
+            "category": "Special Visual Effects",
+            "year": 1966,
+            "tmdb": {
+                "id": 2428,
+                "original_title": "The Greatest Story Ever Told",
+                "title": "A Maior Hist\u00f3ria de Todos os Tempos",
+                "release_date": "1965-04-09",
+                "backdrop_path": "/f6JjKDXn66XgNnYjBcKiwO4h3A7.jpg",
+                "poster_path": "/sCrp4hm4JnWKPzdJtGACKMA6cys.jpg",
+                "overview": "A vida de Jesus de Nazar\u00e9 (Max von Sydow). Seu nascimento, as prega\u00e7\u00f5es, milagres, julgamento, crucifica\u00e7\u00e3o e ressurrei\u00e7\u00e3o.",
+                "vote_average": 6.4,
+                "vote_count": 167
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay--based on material from another medium)": [
+        {
+            "first_label": "Doctor Zhivago",
+            "second_label": "Robert Bolt",
+            "category": "Writing (Screenplay--based on material from another medium)",
+            "year": 1966,
+            "tmdb": {
+                "id": 907,
+                "original_title": "Doctor Zhivago",
+                "title": "Doutor Jivago",
+                "release_date": "1965-12-22",
+                "backdrop_path": "/y3sPNxqVBIt97EZX568OpAWBpcl.jpg",
+                "poster_path": "/xG9sb3Hq8SUy6hOq3AYHbBzVFKf.jpg",
+                "overview": "Ambientado antes e durante a Revolu\u00e7\u00e3o Bolchevique na R\u00fassia, conhe\u00e7a a hist\u00f3ria do doutor Yury Zhivago, que em plena guerra se viu apaixonado pela bela Lara Antipova, o amor imposs\u00edvel que move toda a hist\u00f3ria. Baseado na obra de Boris Pasternak, vencedor de 5 Oscar, incluindo Fotografia e Roteiro Adaptado.",
+                "vote_average": 7.5,
+                "vote_count": 1075
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Cat Ballou",
+            "second_label": "Walter Newman, Frank R. Pierson",
+            "category": "Writing (Screenplay--based on material from another medium)",
+            "year": 1966,
+            "tmdb": {
+                "id": 11694,
+                "original_title": "Cat Ballou",
+                "title": "D\u00edvida de Sangue",
+                "release_date": "1965-06-24",
+                "backdrop_path": "/vITHhBDV2t4QIT9UBcLl4zEa7Zy.jpg",
+                "poster_path": "/6FFbb0W56A0uEd7n5RtoCx1DmEJ.jpg",
+                "overview": "A fazenda da fam\u00edlia de Catherine \"Cat\" Ballou (Jane Fonda) est\u00e1 sendo amea\u00e7ada pela estrada de ferro. Quando seu pai \u00e9 morto pelo pistoleiro do magnata da ferrovia, ela resolve para lutar. Contrata o pistoleiro Kid Shelleen (Lee Marvin), e descobre que ele \u00e9 o pistoleiro mais \"pingu\u00e7o\" do oeste. Shelleen consegue montar \u00e0 cavalo de forma tosca em v\u00e1rias cenas, enquanto os menestr\u00e9is Sunrise Kid (Nat King Cole) e Sam the Shade (Stubby Kaye) narram a hist\u00f3ria cantando a balada de Cat Ballou.",
+                "vote_average": 6.4,
+                "vote_count": 226
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Collector",
+            "second_label": "Stanley Mann, John Kohn",
+            "category": "Writing (Screenplay--based on material from another medium)",
+            "year": 1966,
+            "tmdb": {
+                "id": 42740,
+                "original_title": "The Collector",
+                "title": "O Colecionador",
+                "release_date": "1965-06-17",
+                "backdrop_path": "/nAo72ildPf5q5nSQXZ98iC84kFc.jpg",
+                "poster_path": "/iMiih5FGHwpUCAaJAIkYKl5Hffi.jpg",
+                "overview": "Freddy, um rapaz solit\u00e1rio, em sua obsess\u00e3o por uma mulher, aprisiona-a no por\u00e3o de sua casa. Ele quer criar v\u00ednculo afetivo com a mo\u00e7a, demonstrando seu amor por ela e querendo ser correspondido. Mas s\u00f3 o sequestro em si ser\u00e1 o primeiro de uma s\u00e9rie de obst\u00e1culos \u00e0 reciprocidade desejada por Freddy.\r Adapta\u00e7\u00e3o do best-seller de John Fowles.",
+                "vote_average": 7.3,
+                "vote_count": 180
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ship of Fools",
+            "second_label": "Abby Mann",
+            "category": "Writing (Screenplay--based on material from another medium)",
+            "year": 1966,
+            "tmdb": {
+                "id": 30080,
+                "original_title": "Ship of Fools",
+                "title": "A Nau dos Insensatos",
+                "release_date": "1965-07-29",
+                "backdrop_path": "/t3bXP5pUnckfoJ8WonlvAGovCun.jpg",
+                "poster_path": "/2LOe4Hu6Gxw6k76hLWhS8JVVILa.jpg",
+                "overview": "1933: Um transatl\u00e2ntico pertencente a uma empresa alem\u00e3 de segunda categoria est\u00e1 fazendo uma viagem de 26 dias partindo de Veracruz, M\u00e9xico, para Bremerhaven, Alemanha. Ao longo do caminho ele vai parar em Cuba para pegar um grande grupo de trabalhadores agr\u00edcolas espanh\u00f3is que est\u00e3o sendo enviados para casa e que ser\u00e3o alojadas como gado na terceira classe. V\u00e3o tamb\u00e9m pegar La Condesa, uma condessa espanhola. V\u00e3o parar em Tenerife, onde os trabalhadores agr\u00edcolas ir\u00e3o desembarcar e onde La Condesa ser\u00e1 enviado para uma pris\u00e3o alem\u00e3 por suas atividades \"traidoras\" em Cuba. Esta viagem ser\u00e1 a \u00faltima de tr\u00eas para o m\u00e9dico do navio, Willi Schumann, que tem uma doen\u00e7a card\u00edaca grave e que pensou que poderia encontrar algum sentido para sua vida atrav\u00e9s deste trabalho. Willi e La Condesa se apaixonam e o capit\u00e3o do navio Thiele, que \u00e9 o melhor amigo de Willie a bordo, acreditando que a viciada em drogas La Condesa est\u00e1 apenas usando-o para obter suas doses.",
+                "vote_average": 6.5,
+                "vote_count": 83
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Thousand Clowns",
+            "second_label": "Herb Gardner",
+            "category": "Writing (Screenplay--based on material from another medium)",
+            "year": 1966,
+            "tmdb": {
+                "id": 42731,
+                "original_title": "A Thousand Clowns",
+                "title": "A Thousand Clowns",
+                "release_date": "1965-12-13",
+                "backdrop_path": "/brYujqSBuefAyHBL42nyM0GJtFw.jpg",
+                "poster_path": "/tXPsmtVy3T5Whz20LwiscprCdCT.jpg",
+                "overview": "Twelve-year-old Nick lives with his Uncle Murray, a Mr.Micawber-like Dickensian character who keeps hoping something won't turn up. What turns up is a social worker, who falls in love with Murray and a bit in love with Nick. As the child welfare people try to force Murray to become a conventional man (as the price they demand for allowing him to keep Nick), the nephew, who until now has gloried in his Uncle's iconoclastic approach to life, tries to play mediator. But when he succeeds, he is alarmed by the uncle's willingness to cave in to society in order to save the relationship.",
+                "vote_average": 6.9,
+                "vote_count": 25
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Story and Screenplay--written directly for the screen)": [
+        {
+            "first_label": "Darling",
+            "second_label": "Frederic Raphael",
+            "category": "Writing (Story and Screenplay--written directly for the screen)",
+            "year": 1966,
+            "tmdb": {
+                "id": 24134,
+                "original_title": "Darling",
+                "title": "Darling: A Que Amou Demais",
+                "release_date": "1965-08-03",
+                "backdrop_path": "/8b6j2HY159XwnLn6Qh9HxrtYeR0.jpg",
+                "poster_path": "/cBd5YO9xG7VmRuC8Q27uR3PV9mn.jpg",
+                "overview": "Diana Scott \u00e9 uma modelo ambiciosa determinada a chegar ao topo. Usando sua sexualidade, ela controla os homens poderosos \u00e0 sua volta, mas acaba se tornando prisioneira do estilo de vida que tanto desejava.",
+                "vote_average": 6.7,
+                "vote_count": 122
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Casanova '70",
+            "second_label": "Age, Scarpelli, Mario Monicelli, Tonino Guerra, Giorgio Salvioni, Suso Cecchi D'Amico",
+            "category": "Writing (Story and Screenplay--written directly for the screen)",
+            "year": 1966,
+            "tmdb": {
+                "id": 3520,
+                "original_title": "Casanova '70",
+                "title": "Casanova 70",
+                "release_date": "1965-06-15",
+                "backdrop_path": "/bB8OQAE9KumhiaQfdUYsq8otHdN.jpg",
+                "poster_path": "/vfAHnp60w7qUywbw4gGGADubZeI.jpg",
+                "overview": "Andrea Rossi-Colombotti, oficial da ONU e um Casanova moderno, n\u00e3o se sente estimulado a menos que haja sexo perigoso, mas as mulheres e a sociedade s\u00e3o muito complacentes, ent\u00e3o ele fica frequentemente impotente. Um psiquiatra avisa que isso vai piorar e que ele deve ser celibat\u00e1rio. Andrea tenta e falha com isso, abandona sua noiva, encontra uma liga\u00e7\u00e3o ocasional com risco de vida e persegue uma mulher amarrada a um marido sem gra\u00e7a, mas assassino. Andrea encontrar\u00e1 prazer e satisfa\u00e7\u00e3o, ou ele est\u00e1 fadado a perseguir e depois negar\u00e1 fogo quando a busca for bem-sucedida? (e 16 - Estimado 16 Anos)",
+                "vote_average": 6.4,
+                "vote_count": 45
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Those Magnificent Men in Their Flying Machines",
+            "second_label": "Jack Davies, Ken Annakin",
+            "category": "Writing (Story and Screenplay--written directly for the screen)",
+            "year": 1966,
+            "tmdb": {
+                "id": 10338,
+                "original_title": "Those Magnificent Men in Their Flying Machines or How I Flew from London to Paris in 25 Hours 11 Minutes",
+                "title": "Esses Maravilhosos Homens e suas M\u00e1quinas Voadoras",
+                "release_date": "1965-06-16",
+                "backdrop_path": "/o5KcVdnsUqxbguqftul3dPlfuON.jpg",
+                "poster_path": "/oTYzUkXkeLdWygM6Z7YF5L43Mw7.jpg",
+                "overview": "Uma corrida a\u00e9rea internacional \u00e9 sin\u00f4nimo de aventura nas alturas e fant\u00e1stica divers\u00e3o! Esta vers\u00e3o extraordinariamente hil\u00e1ria da hist\u00f3rica corrida a\u00e9rea Londres-Paris de 1910 apresenta os maiores aviadores de todo o mundo. Eles se re\u00fanem quando um editor jornal\u00edstico pedante, mas muito rico, decide patrocinar uma corrida a\u00e9rea atrav\u00e9s do Canal da Mancha, oferecendo o pr\u00eamio de 10 mil libras ao vencedor. As proezas das equipes americana, brit\u00e2nica, francesa, alem\u00e3, italiana e japonesa d\u00e3o origem \u00e0s mais ousadas e hil\u00e1rias acrobacias a\u00e9reas j\u00e1 registradas em filme.",
+                "vote_average": 6.7,
+                "vote_count": 156
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Train",
+            "second_label": "Franklin Coen, Frank Davis",
+            "category": "Writing (Story and Screenplay--written directly for the screen)",
+            "year": 1966,
+            "tmdb": {
+                "id": 3482,
+                "original_title": "The Train",
+                "title": "O Trem",
+                "release_date": "1964-09-24",
+                "backdrop_path": "/JnukHKeQNTaCCpsXiCk1VYtVTH.jpg",
+                "poster_path": "/bzgPLB7efMohled42PIn6CcOTnO.jpg",
+                "overview": "Em 1944, um coronel alem\u00e3o carrega um trem com tesouros de arte francesa para enviar para a Alemanha. A resist\u00eancia deve par\u00e1-lo sem danificar a carga.  Quando as for\u00e7as aliadas se aproximam de Paris em agosto de 1944, o coronel alem\u00e3o von Waldheim est\u00e1 desesperado para levar todas as maiores pinturas da Fran\u00e7a para a Alemanha. Ele consegue um trem para transportar as valiosas obras de arte, mesmo com o caos da retirada. A resist\u00eancia francesa, no entanto, quer impedi-los de roubar seus tesouros nacionais, mas receberam ordens de Londres de que n\u00e3o devem ser destru\u00eddas. O chefe da esta\u00e7\u00e3o, Labiche, tem a tarefa de agendar o trem e fazer tudo acontecer sem problemas, mas ele tamb\u00e9m faz parte de um grupo cada vez menor de combatentes da resist\u00eancia encarregados de impedir o roubo. Ele e outros armam um estratagema elaborado para impedir que o trem saia do territ\u00f3rio franc\u00eas.",
+                "vote_average": 7.5,
+                "vote_count": 297
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Umbrellas of Cherbourg",
+            "second_label": "Jacques Demy",
+            "category": "Writing (Story and Screenplay--written directly for the screen)",
+            "year": 1966,
+            "tmdb": {
+                "id": 5967,
+                "original_title": "Les Parapluies de Cherbourg",
+                "title": "Os Guarda-Chuvas do Amor",
+                "release_date": "1964-02-19",
+                "backdrop_path": "/czfbhgM0cjFqPt4ARofDKgRHCyj.jpg",
+                "poster_path": "/n8H5cKQhn0mGehfj3HrO6vJ4aQf.jpg",
+                "overview": "Cherbourg, 1957. Guy Foucher \u00e9 um jovem de 20 anos que foi criado pela madrinha e trabalha como mec\u00e2nico de carros. Ele \u00e9 apaixonado por Genevi\u00e8ve Emery, uma adolescente de 17 anos que ajuda sua m\u00e3e vi\u00fava no neg\u00f3cio da fam\u00edlia: uma loja de guarda-chuvas, que \u00e9 elegante mas pouco lucrativa. Genevi\u00e8ve tamb\u00e9m o ama, mas sua m\u00e3e acha que ela \u00e9 muito nova para casar e n\u00e3o v\u00ea como Guy pode manter uma fam\u00edlia. Ele \u00e9 convocado para o servi\u00e7o militar, mas antes de partir Guy e Genevi\u00e8ve fazem amor e ela engravida. Assim ela tem que escolher entre esperar pelo retorno de Guy ou aceitar uma proposta de casamento de Roland Cassard, comerciante de diamantes, que se prop\u00f5e a criar o beb\u00ea como se fosse seu.",
+                "vote_average": 7.384,
+                "vote_count": 720
+            },
+            "winner": false
+        }
+    ]
+}

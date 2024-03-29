@@ -1,0 +1,2020 @@
+{
+    "Actor": [
+        {
+            "first_label": "Rex Harrison",
+            "second_label": "My Fair Lady",
+            "category": "Actor",
+            "year": 1965,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Richard Burton",
+            "second_label": "Becket",
+            "category": "Actor",
+            "year": 1965,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Peter O'Toole",
+            "second_label": "Becket",
+            "category": "Actor",
+            "year": 1965,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Anthony Quinn",
+            "second_label": "Zorba the Greek",
+            "category": "Actor",
+            "year": 1965,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Peter Sellers",
+            "second_label": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+            "category": "Actor",
+            "year": 1965,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Peter Ustinov",
+            "second_label": "Topkapi",
+            "category": "Actor in a Supporting Role",
+            "year": 1965,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "John Gielgud",
+            "second_label": "Becket",
+            "category": "Actor in a Supporting Role",
+            "year": 1965,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Stanley Holloway",
+            "second_label": "My Fair Lady",
+            "category": "Actor in a Supporting Role",
+            "year": 1965,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Edmond O'Brien",
+            "second_label": "Seven Days in May",
+            "category": "Actor in a Supporting Role",
+            "year": 1965,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lee Tracy",
+            "second_label": "The Best Man",
+            "category": "Actor in a Supporting Role",
+            "year": 1965,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress": [
+        {
+            "first_label": "Julie Andrews",
+            "second_label": "Mary Poppins",
+            "category": "Actress",
+            "year": 1965,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Anne Bancroft",
+            "second_label": "The Pumpkin Eater",
+            "category": "Actress",
+            "year": 1965,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sophia Loren",
+            "second_label": "Marriage Italian Style",
+            "category": "Actress",
+            "year": 1965,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Debbie Reynolds",
+            "second_label": "The Unsinkable Molly Brown",
+            "category": "Actress",
+            "year": 1965,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Kim Stanley",
+            "second_label": "Seance on a Wet Afternoon",
+            "category": "Actress",
+            "year": 1965,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Lila Kedrova",
+            "second_label": "Zorba the Greek",
+            "category": "Actress in a Supporting Role",
+            "year": 1965,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Gladys Cooper",
+            "second_label": "My Fair Lady",
+            "category": "Actress in a Supporting Role",
+            "year": 1965,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dame Edith Evans",
+            "second_label": "The Chalk Garden",
+            "category": "Actress in a Supporting Role",
+            "year": 1965,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Grayson Hall",
+            "second_label": "The Night of the Iguana",
+            "category": "Actress in a Supporting Role",
+            "year": 1965,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Agnes Moorehead",
+            "second_label": "Hush...Hush, Sweet Charlotte",
+            "category": "Actress in a Supporting Role",
+            "year": 1965,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction (Black-and-White)": [
+        {
+            "first_label": "Zorba the Greek",
+            "second_label": "Vassilis Fotopoulos",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1965,
+            "tmdb": {
+                "id": 10604,
+                "original_title": "\u0391\u03bb\u03ad\u03be\u03b7\u03c2 \u0396\u03bf\u03c1\u03bc\u03c0\u03ac\u03c2",
+                "title": "Zorba, O Grego",
+                "release_date": "1964-12-14",
+                "backdrop_path": "/rK22M6yVJgVTQSj91a8ILDJvwhM.jpg",
+                "poster_path": "/dJ2Tw1b0vSXy6EImkicDlslXAZG.jpg",
+                "overview": "Um escritor ingl\u00eas vai a Creta para trabalhar em uma mina que herdou do pai, um grego de nascen\u00e7a. Logo ele conhece Alexis Zorba (Anthony Quinn), um determinado campon\u00eas grego que tamb\u00e9m quer trabalhar na mina. Os dois acabam indo se hospedar em um pequeno hotel administrado por uma velha prostituta francesa.",
+                "vote_average": 7.5,
+                "vote_count": 318
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Americanization of Emily",
+            "second_label": "Art Direction: George W. Davis, Hans Peters, Elliot Scott; Set Decoration: Henry Grace, Robert R. Benton",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1965,
+            "tmdb": {
+                "id": 42791,
+                "original_title": "The Americanization of Emily",
+                "title": "N\u00e3o Podes Comprar Meu Amor",
+                "release_date": "1964-10-27",
+                "backdrop_path": "/fO3x6euB6hWmGTYfxkqbnD7s7Sw.jpg",
+                "poster_path": "/zA9254usF2X0m0P5CeEXft7uzSe.jpg",
+                "overview": "Durante a prepara\u00e7\u00e3o para o Dia D em 1944, os brit\u00e2nicos estavam com sua ilha hospedando muitos milhares de soldados americanos que \"ansiavam por garotas, tinham muita grana e estavam por aqui\". Assim exatamente \u00e9 Charlie Madison; ele conhece todas as formas de tornar a vida mais suave para si mesmo e se poss\u00edvel livre de risco. Mas as coisas se complicam quando ele se apaixona por uma Mulher Inglesa e seu comandante t\u00eam um colapso nervoso o que leva Charlie a ser enviado em uma miss\u00e3o insensata e perigosa.",
+                "vote_average": 6.7,
+                "vote_count": 66
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hush...Hush, Sweet Charlotte",
+            "second_label": "Art Direction: William Glasgow; Set Decoration: Raphael Bretton",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1965,
+            "tmdb": {
+                "id": 10299,
+                "original_title": "Hush... Hush, Sweet Charlotte",
+                "title": "Com a Maldade na Alma",
+                "release_date": "1964-12-15",
+                "backdrop_path": "/oe9YRZv9FTtOJ9IKbJxyh23MYO1.jpg",
+                "poster_path": "/hwVGNaVXFblluLwUjGcJ7RgW1rV.jpg",
+                "overview": "A rica solteirona Charlotte Hollis vive com sua exc\u00eantrica empregada em uma mans\u00e3o decadente no sul dos EUA. Evitada pelos moradores da cidade por causa da morte violenta de seu ex-marido, Charlotte recebe a visita de uma prima invejosa e seu marido.",
+                "vote_average": 7.2,
+                "vote_count": 235
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Night of the Iguana",
+            "second_label": "Stephen Grimes",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1965,
+            "tmdb": {
+                "id": 14703,
+                "original_title": "The Night of the Iguana",
+                "title": "A Noite do Iguana",
+                "release_date": "1964-08-06",
+                "backdrop_path": "/4v27m8CCm7t8P8E5KLfvXtSBYmK.jpg",
+                "poster_path": "/nlrb3KFG9nTAWUBS8mptBVPsNKF.jpg",
+                "overview": "Padre com a f\u00e9 abalada ganha a vida conduzindo excurs\u00f5es de senhoras pelo M\u00e9xico. Numa delas, ele se envolve com a sobrinha de uma das passageiras e vai parar em uma pousada onde, junto com a dona do lugar e uma estranha viajante, passa por situa\u00e7\u00f5es que v\u00e3o testar o seu limite.",
+                "vote_average": 7.1,
+                "vote_count": 140
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Seven Days in May",
+            "second_label": "Art Direction: Cary Odell; Set Decoration: Edward G. Boyle",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1965,
+            "tmdb": {
+                "id": 23518,
+                "original_title": "Seven Days in May",
+                "title": "Sete Dias de Maio",
+                "release_date": "1964-02-01",
+                "backdrop_path": "/jV9CT4UOpPkvMzoVkkMYFeMAI35.jpg",
+                "poster_path": "/5yontTNBt3vcnMOd2pU51bqEysl.jpg",
+                "overview": "O impopular presidente (Fredric March) dos Estados Unidos consegue um tratado de desarmamento nuclear atrav\u00e9s do Senado, mas descobre que a na\u00e7\u00e3o est\u00e1 se voltando contra ele. Jiggs Casey (Kirk Douglas), um coronel da Marinha, encontra provas de que o general Scott (Burt Lancaster), o chefe popular do 'Joint Chiefs', e determinado candidato presidencial, em 2 anos, n\u00e3o est\u00e1 planejando esperar. Casey vai at\u00e9 o presidente com tal informa\u00e7\u00e3o e uma rede de intrigas come\u00e7a.",
+                "vote_average": 7.2,
+                "vote_count": 179
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction (Color)": [
+        {
+            "first_label": "My Fair Lady",
+            "second_label": "Art Direction: Gene Allen, Cecil Beaton; Set Decoration: George James Hopkins",
+            "category": "Art Direction (Color)",
+            "year": 1965,
+            "tmdb": {
+                "id": 11113,
+                "original_title": "My Fair Lady",
+                "title": "Minha Bela Dama",
+                "release_date": "1964-10-21",
+                "backdrop_path": "/xMoQjqa3JUc2unO4nF9PmM1JTQu.jpg",
+                "poster_path": "/iWJFnvGmiZE3DTvbabadhOULyo.jpg",
+                "overview": "Henry Higgins (Rex Harrison), um intelectual e professor de fon\u00e9tica, aposta que conseguir\u00e1, no per\u00edodo m\u00e1ximo de seis meses, transformar Eliza Doolittle (Audrey Hepburn), uma simples florista de rua que n\u00e3o sabe falar direito, em uma dama. Mas a tarefa se mostra muito mais dif\u00edcil do que tinha sido imaginada originalmente.",
+                "vote_average": 7.5,
+                "vote_count": 1225
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Becket",
+            "second_label": "Art Direction: John Bryan, Maurice Carter; Set Decoration: Patrick McLoughlin, Robert Cartwright",
+            "category": "Art Direction (Color)",
+            "year": 1965,
+            "tmdb": {
+                "id": 15421,
+                "original_title": "Becket",
+                "title": "Becket",
+                "release_date": "1964-03-11",
+                "backdrop_path": "/sEzvKkFiHlscYQcCOx49t6S7B6q.jpg",
+                "poster_path": "/swWmxVbq0pXv4wwsc2O803PiXR7.jpg",
+                "overview": "O Arcebisto de Canterbury (Felix Aylmer), grande opositor do Estado ingl\u00eas, morre, e o Rei Henrique II nomeia um seu antigo amigo de festas para o cargo tentando evitar qualquer tipo de oposi\u00e7\u00e3o. Mas o que Henrique II n\u00e3o contava era que Becket, seu antigo amigo, fosse ser mais r\u00edgido que qualquer outro antecessor. (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.2,
+                "vote_count": 170
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mary Poppins",
+            "second_label": "Art Direction: Carroll Clark, William H. Tuntke; Set Decoration: Emile Kuri, Hal Gausman",
+            "category": "Art Direction (Color)",
+            "year": 1965,
+            "tmdb": {
+                "id": 433,
+                "original_title": "Mary Poppins",
+                "title": "Mary Poppins",
+                "release_date": "1964-12-17",
+                "backdrop_path": "/prVH6SyQ6yDmzVxxkcr57zhLM5C.jpg",
+                "poster_path": "/sqmcdguxgCBPI3IkI7FfZBroxxW.jpg",
+                "overview": "Na Londres de 1910, o banqueiro Mr. Banks, um homem frio que trata com rigidez Jane e Michael, seus filhos sapecas, n\u00e3o consegue contratar uma bab\u00e1, pois elas desistem facilmente do emprego. Em uma noite, enquanto redige com sua esposa um an\u00fancio de jornal procurando uma bab\u00e1, sua filha Jane aparece com uma carta mostrando como seria uma bab\u00e1 perfeita. Esta carta acaba chegando nas m\u00e3os de Mary Poppins, que \u00e9 tudo aquilo que est\u00e1 descrito na carta. Mary Poppins possui poderes m\u00e1gicos e, com seu amigo faz-tudo Bert, transforma a vida daquela fam\u00edlia, com muita m\u00fasica, magia e divers\u00e3o.",
+                "vote_average": 7.6,
+                "vote_count": 4481
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Unsinkable Molly Brown",
+            "second_label": "Art Direction: George W. Davis, Preston Ames; Set Decoration: Henry Grace, Hugh Hunt",
+            "category": "Art Direction (Color)",
+            "year": 1965,
+            "tmdb": {
+                "id": 42797,
+                "original_title": "The Unsinkable Molly Brown",
+                "title": "A Inconquist\u00e1vel Molly Brown",
+                "release_date": "1964-06-11",
+                "backdrop_path": "/sh8pZiuUEEnUL40t5Vom15O7aSY.jpg",
+                "poster_path": "/f0hd12ajjQprxP3V90xfy0iqOvb.jpg",
+                "overview": "Adapta\u00e7\u00e3o do musical escrito por Meredith Willson e Richard Morris, exibido no teatro, que conta a hist\u00f3ria baseada em fatos reais de uma jovem simples que se casa com mineirador. Este encontra uma fortuna em ouro, e a garota, antes miser\u00e1vel, passa a viver no luxo e na riqueza.",
+                "vote_average": 5.6,
+                "vote_count": 40
+            },
+            "winner": false
+        },
+        {
+            "first_label": "What a Way to Go!",
+            "second_label": "Art Direction: Jack Martin Smith, Ted Haworth; Set Decoration: Walter M. Scott, Stuart A. Reiss",
+            "category": "Art Direction (Color)",
+            "year": 1965,
+            "tmdb": {
+                "id": 23574,
+                "original_title": "What a Way to Go!",
+                "title": "A Senhora e Seus Maridos",
+                "release_date": "1964-10-12",
+                "backdrop_path": "/pRkYHE3bHXuhYhs1OZQ4cQ9WtL3.jpg",
+                "poster_path": "/6fuRkL3OhoeubEOULCMVJsUTaAU.jpg",
+                "overview": "A four-time widow discusses her four marriages, in which all of her husbands became incredibly rich and died prematurely because of their drive to be rich.",
+                "vote_average": 6.9,
+                "vote_count": 71
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography (Black-and-White)": [
+        {
+            "first_label": "Zorba the Greek",
+            "second_label": "Walter Lassally",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1965,
+            "tmdb": {
+                "id": 10604,
+                "original_title": "\u0391\u03bb\u03ad\u03be\u03b7\u03c2 \u0396\u03bf\u03c1\u03bc\u03c0\u03ac\u03c2",
+                "title": "Zorba, O Grego",
+                "release_date": "1964-12-14",
+                "backdrop_path": "/rK22M6yVJgVTQSj91a8ILDJvwhM.jpg",
+                "poster_path": "/dJ2Tw1b0vSXy6EImkicDlslXAZG.jpg",
+                "overview": "Um escritor ingl\u00eas vai a Creta para trabalhar em uma mina que herdou do pai, um grego de nascen\u00e7a. Logo ele conhece Alexis Zorba (Anthony Quinn), um determinado campon\u00eas grego que tamb\u00e9m quer trabalhar na mina. Os dois acabam indo se hospedar em um pequeno hotel administrado por uma velha prostituta francesa.",
+                "vote_average": 7.5,
+                "vote_count": 318
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Americanization of Emily",
+            "second_label": "Philip H. Lathrop",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1965,
+            "tmdb": {
+                "id": 42791,
+                "original_title": "The Americanization of Emily",
+                "title": "N\u00e3o Podes Comprar Meu Amor",
+                "release_date": "1964-10-27",
+                "backdrop_path": "/fO3x6euB6hWmGTYfxkqbnD7s7Sw.jpg",
+                "poster_path": "/zA9254usF2X0m0P5CeEXft7uzSe.jpg",
+                "overview": "Durante a prepara\u00e7\u00e3o para o Dia D em 1944, os brit\u00e2nicos estavam com sua ilha hospedando muitos milhares de soldados americanos que \"ansiavam por garotas, tinham muita grana e estavam por aqui\". Assim exatamente \u00e9 Charlie Madison; ele conhece todas as formas de tornar a vida mais suave para si mesmo e se poss\u00edvel livre de risco. Mas as coisas se complicam quando ele se apaixona por uma Mulher Inglesa e seu comandante t\u00eam um colapso nervoso o que leva Charlie a ser enviado em uma miss\u00e3o insensata e perigosa.",
+                "vote_average": 6.7,
+                "vote_count": 66
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Fate Is the Hunter",
+            "second_label": "Milton Krasner",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1965,
+            "tmdb": {
+                "id": 102286,
+                "original_title": "Fate Is the Hunter",
+                "title": "O Destino \u00e9 o Ca\u00e7ador",
+                "release_date": "1964-11-08",
+                "backdrop_path": "/ngVXUpFEIhJYQwN5fpdNpXJ2du.jpg",
+                "poster_path": "/faDAYcBU0dboJ8QpYSSSCtKUwud.jpg",
+                "overview": "A man refuses to believe that pilot error caused a fatal crash, and persists in looking for another reason. Airliner crashes near Los Angeles due to unusual string of coincidences. Stewardess, who is sole survivor, joins airline executives in discovering the causes of the crash.",
+                "vote_average": 6.4,
+                "vote_count": 34
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hush...Hush, Sweet Charlotte",
+            "second_label": "Joseph Biroc",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1965,
+            "tmdb": {
+                "id": 10299,
+                "original_title": "Hush... Hush, Sweet Charlotte",
+                "title": "Com a Maldade na Alma",
+                "release_date": "1964-12-15",
+                "backdrop_path": "/oe9YRZv9FTtOJ9IKbJxyh23MYO1.jpg",
+                "poster_path": "/hwVGNaVXFblluLwUjGcJ7RgW1rV.jpg",
+                "overview": "A rica solteirona Charlotte Hollis vive com sua exc\u00eantrica empregada em uma mans\u00e3o decadente no sul dos EUA. Evitada pelos moradores da cidade por causa da morte violenta de seu ex-marido, Charlotte recebe a visita de uma prima invejosa e seu marido.",
+                "vote_average": 7.2,
+                "vote_count": 235
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Night of the Iguana",
+            "second_label": "Gabriel Figueroa",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1965,
+            "tmdb": {
+                "id": 14703,
+                "original_title": "The Night of the Iguana",
+                "title": "A Noite do Iguana",
+                "release_date": "1964-08-06",
+                "backdrop_path": "/4v27m8CCm7t8P8E5KLfvXtSBYmK.jpg",
+                "poster_path": "/nlrb3KFG9nTAWUBS8mptBVPsNKF.jpg",
+                "overview": "Padre com a f\u00e9 abalada ganha a vida conduzindo excurs\u00f5es de senhoras pelo M\u00e9xico. Numa delas, ele se envolve com a sobrinha de uma das passageiras e vai parar em uma pousada onde, junto com a dona do lugar e uma estranha viajante, passa por situa\u00e7\u00f5es que v\u00e3o testar o seu limite.",
+                "vote_average": 7.1,
+                "vote_count": 140
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography (Color)": [
+        {
+            "first_label": "My Fair Lady",
+            "second_label": "Harry Stradling",
+            "category": "Cinematography (Color)",
+            "year": 1965,
+            "tmdb": {
+                "id": 11113,
+                "original_title": "My Fair Lady",
+                "title": "Minha Bela Dama",
+                "release_date": "1964-10-21",
+                "backdrop_path": "/xMoQjqa3JUc2unO4nF9PmM1JTQu.jpg",
+                "poster_path": "/iWJFnvGmiZE3DTvbabadhOULyo.jpg",
+                "overview": "Henry Higgins (Rex Harrison), um intelectual e professor de fon\u00e9tica, aposta que conseguir\u00e1, no per\u00edodo m\u00e1ximo de seis meses, transformar Eliza Doolittle (Audrey Hepburn), uma simples florista de rua que n\u00e3o sabe falar direito, em uma dama. Mas a tarefa se mostra muito mais dif\u00edcil do que tinha sido imaginada originalmente.",
+                "vote_average": 7.5,
+                "vote_count": 1225
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Becket",
+            "second_label": "Geoffrey Unsworth",
+            "category": "Cinematography (Color)",
+            "year": 1965,
+            "tmdb": {
+                "id": 15421,
+                "original_title": "Becket",
+                "title": "Becket",
+                "release_date": "1964-03-11",
+                "backdrop_path": "/sEzvKkFiHlscYQcCOx49t6S7B6q.jpg",
+                "poster_path": "/swWmxVbq0pXv4wwsc2O803PiXR7.jpg",
+                "overview": "O Arcebisto de Canterbury (Felix Aylmer), grande opositor do Estado ingl\u00eas, morre, e o Rei Henrique II nomeia um seu antigo amigo de festas para o cargo tentando evitar qualquer tipo de oposi\u00e7\u00e3o. Mas o que Henrique II n\u00e3o contava era que Becket, seu antigo amigo, fosse ser mais r\u00edgido que qualquer outro antecessor. (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.2,
+                "vote_count": 170
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Cheyenne Autumn",
+            "second_label": "William H. Clothier",
+            "category": "Cinematography (Color)",
+            "year": 1965,
+            "tmdb": {
+                "id": 40630,
+                "original_title": "Cheyenne Autumn",
+                "title": "Crep\u00fasculo de Uma Ra\u00e7a",
+                "release_date": "1964-10-15",
+                "backdrop_path": "/iNAOupG7L1Z9zeDQh8aBBlfQacN.jpg",
+                "poster_path": "/jA3kZWXIAhxDYHZmPNpSWMtMNIS.jpg",
+                "overview": "Quando a ag\u00eancia do governo encarregada dos \u00edndios n\u00e3o entrega os escassos suprimentos, devidos por tratado, para a orgulhosa tribo Cheyenne em sua est\u00e9ril reserva no deserto, os \u00edndios famintos entendem que foram mais abusados do que vale a pena tolerar. Mais de 300 cheyennes abandonam a reserva destinada a eles, partindo em uma travessia de 2.400 km rumo \u00e0 sua ancestral \u00e1rea de ca\u00e7a. Isso \u00e9 encarado pelo governo como um ato de rebeli\u00e3o, que ent\u00e3o tenta impedir a jornada. O Capit\u00e3o de Cavalaria Thomas Archer \u00e9 encarregado de sua captura, mas durante a busca cresce seu respeito pela sua nobre coragem, e decide ajud\u00e1-los.",
+                "vote_average": 6.7,
+                "vote_count": 126
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mary Poppins",
+            "second_label": "Edward Colman",
+            "category": "Cinematography (Color)",
+            "year": 1965,
+            "tmdb": {
+                "id": 433,
+                "original_title": "Mary Poppins",
+                "title": "Mary Poppins",
+                "release_date": "1964-12-17",
+                "backdrop_path": "/prVH6SyQ6yDmzVxxkcr57zhLM5C.jpg",
+                "poster_path": "/sqmcdguxgCBPI3IkI7FfZBroxxW.jpg",
+                "overview": "Na Londres de 1910, o banqueiro Mr. Banks, um homem frio que trata com rigidez Jane e Michael, seus filhos sapecas, n\u00e3o consegue contratar uma bab\u00e1, pois elas desistem facilmente do emprego. Em uma noite, enquanto redige com sua esposa um an\u00fancio de jornal procurando uma bab\u00e1, sua filha Jane aparece com uma carta mostrando como seria uma bab\u00e1 perfeita. Esta carta acaba chegando nas m\u00e3os de Mary Poppins, que \u00e9 tudo aquilo que est\u00e1 descrito na carta. Mary Poppins possui poderes m\u00e1gicos e, com seu amigo faz-tudo Bert, transforma a vida daquela fam\u00edlia, com muita m\u00fasica, magia e divers\u00e3o.",
+                "vote_average": 7.6,
+                "vote_count": 4481
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Unsinkable Molly Brown",
+            "second_label": "Daniel L. Fapp",
+            "category": "Cinematography (Color)",
+            "year": 1965,
+            "tmdb": {
+                "id": 42797,
+                "original_title": "The Unsinkable Molly Brown",
+                "title": "A Inconquist\u00e1vel Molly Brown",
+                "release_date": "1964-06-11",
+                "backdrop_path": "/sh8pZiuUEEnUL40t5Vom15O7aSY.jpg",
+                "poster_path": "/f0hd12ajjQprxP3V90xfy0iqOvb.jpg",
+                "overview": "Adapta\u00e7\u00e3o do musical escrito por Meredith Willson e Richard Morris, exibido no teatro, que conta a hist\u00f3ria baseada em fatos reais de uma jovem simples que se casa com mineirador. Este encontra uma fortuna em ouro, e a garota, antes miser\u00e1vel, passa a viver no luxo e na riqueza.",
+                "vote_average": 5.6,
+                "vote_count": 40
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design (Black-and-White)": [
+        {
+            "first_label": "The Night of the Iguana",
+            "second_label": "Dorothy Jeakins",
+            "category": "Costume Design (Black-and-White)",
+            "year": 1965,
+            "tmdb": {
+                "id": 14703,
+                "original_title": "The Night of the Iguana",
+                "title": "A Noite do Iguana",
+                "release_date": "1964-08-06",
+                "backdrop_path": "/4v27m8CCm7t8P8E5KLfvXtSBYmK.jpg",
+                "poster_path": "/nlrb3KFG9nTAWUBS8mptBVPsNKF.jpg",
+                "overview": "Padre com a f\u00e9 abalada ganha a vida conduzindo excurs\u00f5es de senhoras pelo M\u00e9xico. Numa delas, ele se envolve com a sobrinha de uma das passageiras e vai parar em uma pousada onde, junto com a dona do lugar e uma estranha viajante, passa por situa\u00e7\u00f5es que v\u00e3o testar o seu limite.",
+                "vote_average": 7.1,
+                "vote_count": 140
+            },
+            "winner": true
+        },
+        {
+            "first_label": "A House Is Not a Home",
+            "second_label": "Edith Head",
+            "category": "Costume Design (Black-and-White)",
+            "year": 1965,
+            "tmdb": {
+                "id": 216661,
+                "original_title": "A House Is Not a Home",
+                "title": "Uma Certa Casa Suspeita",
+                "release_date": "1964-08-12",
+                "backdrop_path": "/2wjVNOwk6FgVKMnZJO9UcOSHHB4.jpg",
+                "poster_path": "/uDV0xCZkESGs20euqjFDjUBYUrp.jpg",
+                "overview": "Story follows the life of Polly Adler, who grew to become one of New York's most successful bordello madams of the 1920s.",
+                "vote_average": 4.5,
+                "vote_count": 6
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hush...Hush, Sweet Charlotte",
+            "second_label": "Norma Koch",
+            "category": "Costume Design (Black-and-White)",
+            "year": 1965,
+            "tmdb": {
+                "id": 10299,
+                "original_title": "Hush... Hush, Sweet Charlotte",
+                "title": "Com a Maldade na Alma",
+                "release_date": "1964-12-15",
+                "backdrop_path": "/oe9YRZv9FTtOJ9IKbJxyh23MYO1.jpg",
+                "poster_path": "/hwVGNaVXFblluLwUjGcJ7RgW1rV.jpg",
+                "overview": "A rica solteirona Charlotte Hollis vive com sua exc\u00eantrica empregada em uma mans\u00e3o decadente no sul dos EUA. Evitada pelos moradores da cidade por causa da morte violenta de seu ex-marido, Charlotte recebe a visita de uma prima invejosa e seu marido.",
+                "vote_average": 7.2,
+                "vote_count": 235
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Kisses for My President",
+            "second_label": "Howard Shoup",
+            "category": "Costume Design (Black-and-White)",
+            "year": 1965,
+            "tmdb": {
+                "id": 212713,
+                "original_title": "Kisses for My President",
+                "title": "Kisses for My President",
+                "release_date": "1964-08-21",
+                "backdrop_path": "/pOaQyqlDnmEqlv9SAMGWgtk58XY.jpg",
+                "poster_path": "/UmmtmPg4OxomqxpurJ4xcLqbKZ.jpg",
+                "overview": "A hapless husband takes a back seat to his wife, the first female president of the United States.",
+                "vote_average": 7.0,
+                "vote_count": 6
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Visit",
+            "second_label": "\"The Visit\" Ren Hubert",
+            "category": "Costume Design (Black-and-White)",
+            "year": 1965,
+            "tmdb": {
+                "id": 151138,
+                "original_title": "The Visit",
+                "title": "A Visita",
+                "release_date": "1964-05-06",
+                "backdrop_path": "/uxMRuoay5PYW8tsJp2igzFW2qHx.jpg",
+                "poster_path": "/aZAfLgWqXQd42uvBfQvvpB946PP.jpg",
+                "overview": "Carla Zachanassian had a child by Serge Miller as a teenager. When Serge refused to marry her, she was driven out of town. By her own wit and cunning, she has returned as a multi-millionaire for a visit. The town lays out the red carpet expecting big things from Carla, only to learn that her sole purpose is to see Serge Miller killed...",
+                "vote_average": 7.0,
+                "vote_count": 32
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design (Color)": [
+        {
+            "first_label": "My Fair Lady",
+            "second_label": "Cecil Beaton",
+            "category": "Costume Design (Color)",
+            "year": 1965,
+            "tmdb": {
+                "id": 11113,
+                "original_title": "My Fair Lady",
+                "title": "Minha Bela Dama",
+                "release_date": "1964-10-21",
+                "backdrop_path": "/xMoQjqa3JUc2unO4nF9PmM1JTQu.jpg",
+                "poster_path": "/iWJFnvGmiZE3DTvbabadhOULyo.jpg",
+                "overview": "Henry Higgins (Rex Harrison), um intelectual e professor de fon\u00e9tica, aposta que conseguir\u00e1, no per\u00edodo m\u00e1ximo de seis meses, transformar Eliza Doolittle (Audrey Hepburn), uma simples florista de rua que n\u00e3o sabe falar direito, em uma dama. Mas a tarefa se mostra muito mais dif\u00edcil do que tinha sido imaginada originalmente.",
+                "vote_average": 7.5,
+                "vote_count": 1225
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Becket",
+            "second_label": "Margaret Furse",
+            "category": "Costume Design (Color)",
+            "year": 1965,
+            "tmdb": {
+                "id": 15421,
+                "original_title": "Becket",
+                "title": "Becket",
+                "release_date": "1964-03-11",
+                "backdrop_path": "/sEzvKkFiHlscYQcCOx49t6S7B6q.jpg",
+                "poster_path": "/swWmxVbq0pXv4wwsc2O803PiXR7.jpg",
+                "overview": "O Arcebisto de Canterbury (Felix Aylmer), grande opositor do Estado ingl\u00eas, morre, e o Rei Henrique II nomeia um seu antigo amigo de festas para o cargo tentando evitar qualquer tipo de oposi\u00e7\u00e3o. Mas o que Henrique II n\u00e3o contava era que Becket, seu antigo amigo, fosse ser mais r\u00edgido que qualquer outro antecessor. (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.2,
+                "vote_count": 170
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mary Poppins",
+            "second_label": "Tony Walton",
+            "category": "Costume Design (Color)",
+            "year": 1965,
+            "tmdb": {
+                "id": 433,
+                "original_title": "Mary Poppins",
+                "title": "Mary Poppins",
+                "release_date": "1964-12-17",
+                "backdrop_path": "/prVH6SyQ6yDmzVxxkcr57zhLM5C.jpg",
+                "poster_path": "/sqmcdguxgCBPI3IkI7FfZBroxxW.jpg",
+                "overview": "Na Londres de 1910, o banqueiro Mr. Banks, um homem frio que trata com rigidez Jane e Michael, seus filhos sapecas, n\u00e3o consegue contratar uma bab\u00e1, pois elas desistem facilmente do emprego. Em uma noite, enquanto redige com sua esposa um an\u00fancio de jornal procurando uma bab\u00e1, sua filha Jane aparece com uma carta mostrando como seria uma bab\u00e1 perfeita. Esta carta acaba chegando nas m\u00e3os de Mary Poppins, que \u00e9 tudo aquilo que est\u00e1 descrito na carta. Mary Poppins possui poderes m\u00e1gicos e, com seu amigo faz-tudo Bert, transforma a vida daquela fam\u00edlia, com muita m\u00fasica, magia e divers\u00e3o.",
+                "vote_average": 7.6,
+                "vote_count": 4481
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Unsinkable Molly Brown",
+            "second_label": "Morton Haack",
+            "category": "Costume Design (Color)",
+            "year": 1965,
+            "tmdb": {
+                "id": 42797,
+                "original_title": "The Unsinkable Molly Brown",
+                "title": "A Inconquist\u00e1vel Molly Brown",
+                "release_date": "1964-06-11",
+                "backdrop_path": "/sh8pZiuUEEnUL40t5Vom15O7aSY.jpg",
+                "poster_path": "/f0hd12ajjQprxP3V90xfy0iqOvb.jpg",
+                "overview": "Adapta\u00e7\u00e3o do musical escrito por Meredith Willson e Richard Morris, exibido no teatro, que conta a hist\u00f3ria baseada em fatos reais de uma jovem simples que se casa com mineirador. Este encontra uma fortuna em ouro, e a garota, antes miser\u00e1vel, passa a viver no luxo e na riqueza.",
+                "vote_average": 5.6,
+                "vote_count": 40
+            },
+            "winner": false
+        },
+        {
+            "first_label": "What a Way to Go!",
+            "second_label": "Edith Head, Moss Mabry",
+            "category": "Costume Design (Color)",
+            "year": 1965,
+            "tmdb": {
+                "id": 23574,
+                "original_title": "What a Way to Go!",
+                "title": "A Senhora e Seus Maridos",
+                "release_date": "1964-10-12",
+                "backdrop_path": "/pRkYHE3bHXuhYhs1OZQ4cQ9WtL3.jpg",
+                "poster_path": "/6fuRkL3OhoeubEOULCMVJsUTaAU.jpg",
+                "overview": "A four-time widow discusses her four marriages, in which all of her husbands became incredibly rich and died prematurely because of their drive to be rich.",
+                "vote_average": 6.9,
+                "vote_count": 71
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "My Fair Lady",
+            "second_label": "George Cukor",
+            "category": "Directing",
+            "year": 1965,
+            "tmdb": {
+                "id": 11113,
+                "original_title": "My Fair Lady",
+                "title": "Minha Bela Dama",
+                "release_date": "1964-10-21",
+                "backdrop_path": "/xMoQjqa3JUc2unO4nF9PmM1JTQu.jpg",
+                "poster_path": "/iWJFnvGmiZE3DTvbabadhOULyo.jpg",
+                "overview": "Henry Higgins (Rex Harrison), um intelectual e professor de fon\u00e9tica, aposta que conseguir\u00e1, no per\u00edodo m\u00e1ximo de seis meses, transformar Eliza Doolittle (Audrey Hepburn), uma simples florista de rua que n\u00e3o sabe falar direito, em uma dama. Mas a tarefa se mostra muito mais dif\u00edcil do que tinha sido imaginada originalmente.",
+                "vote_average": 7.5,
+                "vote_count": 1225
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Becket",
+            "second_label": "Peter Glenville",
+            "category": "Directing",
+            "year": 1965,
+            "tmdb": {
+                "id": 15421,
+                "original_title": "Becket",
+                "title": "Becket",
+                "release_date": "1964-03-11",
+                "backdrop_path": "/sEzvKkFiHlscYQcCOx49t6S7B6q.jpg",
+                "poster_path": "/swWmxVbq0pXv4wwsc2O803PiXR7.jpg",
+                "overview": "O Arcebisto de Canterbury (Felix Aylmer), grande opositor do Estado ingl\u00eas, morre, e o Rei Henrique II nomeia um seu antigo amigo de festas para o cargo tentando evitar qualquer tipo de oposi\u00e7\u00e3o. Mas o que Henrique II n\u00e3o contava era que Becket, seu antigo amigo, fosse ser mais r\u00edgido que qualquer outro antecessor. (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.2,
+                "vote_count": 170
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+            "second_label": "Stanley Kubrick",
+            "category": "Directing",
+            "year": 1965,
+            "tmdb": {
+                "id": 935,
+                "original_title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+                "title": "Dr. Fant\u00e1stico",
+                "release_date": "1964-01-29",
+                "backdrop_path": "/sTp8K0SfcC2RQef1Tu160z3niHO.jpg",
+                "poster_path": "/gSTwvjt8BmZ3IwlpsltNzasamgt.jpg",
+                "overview": "Um general americano meio louco, Jack D. Ripper, acredita que os sovi\u00e9ticos est\u00e3o sabotando os reservat\u00f3rios de \u00e1gua dos Estados Unidos e resolve fazer um ataque anticomunista, bombardeando a Uni\u00e3o Sovi\u00e9tica para se livrar dos \"vermelhos\". Com as comunica\u00e7\u00f5es interrompidas, ele \u00e9 o \u00fanico que possui os c\u00f3digos para parar os bombardeiros e evitar o que provavelmente seria o in\u00edcio da Terceira Guerra Mundial.",
+                "vote_average": 8.1,
+                "vote_count": 5333
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mary Poppins",
+            "second_label": "Robert Stevenson",
+            "category": "Directing",
+            "year": 1965,
+            "tmdb": {
+                "id": 433,
+                "original_title": "Mary Poppins",
+                "title": "Mary Poppins",
+                "release_date": "1964-12-17",
+                "backdrop_path": "/prVH6SyQ6yDmzVxxkcr57zhLM5C.jpg",
+                "poster_path": "/sqmcdguxgCBPI3IkI7FfZBroxxW.jpg",
+                "overview": "Na Londres de 1910, o banqueiro Mr. Banks, um homem frio que trata com rigidez Jane e Michael, seus filhos sapecas, n\u00e3o consegue contratar uma bab\u00e1, pois elas desistem facilmente do emprego. Em uma noite, enquanto redige com sua esposa um an\u00fancio de jornal procurando uma bab\u00e1, sua filha Jane aparece com uma carta mostrando como seria uma bab\u00e1 perfeita. Esta carta acaba chegando nas m\u00e3os de Mary Poppins, que \u00e9 tudo aquilo que est\u00e1 descrito na carta. Mary Poppins possui poderes m\u00e1gicos e, com seu amigo faz-tudo Bert, transforma a vida daquela fam\u00edlia, com muita m\u00fasica, magia e divers\u00e3o.",
+                "vote_average": 7.6,
+                "vote_count": 4481
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Zorba the Greek",
+            "second_label": "Michael Cacoyannis",
+            "category": "Directing",
+            "year": 1965,
+            "tmdb": {
+                "id": 10604,
+                "original_title": "\u0391\u03bb\u03ad\u03be\u03b7\u03c2 \u0396\u03bf\u03c1\u03bc\u03c0\u03ac\u03c2",
+                "title": "Zorba, O Grego",
+                "release_date": "1964-12-14",
+                "backdrop_path": "/rK22M6yVJgVTQSj91a8ILDJvwhM.jpg",
+                "poster_path": "/dJ2Tw1b0vSXy6EImkicDlslXAZG.jpg",
+                "overview": "Um escritor ingl\u00eas vai a Creta para trabalhar em uma mina que herdou do pai, um grego de nascen\u00e7a. Logo ele conhece Alexis Zorba (Anthony Quinn), um determinado campon\u00eas grego que tamb\u00e9m quer trabalhar na mina. Os dois acabam indo se hospedar em um pequeno hotel administrado por uma velha prostituta francesa.",
+                "vote_average": 7.5,
+                "vote_count": 318
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "Jacques-Yves Cousteau's World without Sun",
+            "second_label": "Jacques-Yves Cousteau, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1965,
+            "tmdb": {
+                "id": 91288,
+                "original_title": "Le monde sans soleil",
+                "title": "World Without Sun",
+                "release_date": "1964-09-30",
+                "backdrop_path": "/dzJPkdl5B3m4qthk2zyZgSafTvM.jpg",
+                "poster_path": "/fvgkry9Nnp9vmLjDvCssMHdV0J4.jpg",
+                "overview": "Fascinating underwater documentary filmed with hand-held cameras by frogmen and mostly filmed in deep-water seas from within a special designed batiscaff, by the Cousteau family of sea explorers.",
+                "vote_average": 6.2,
+                "vote_count": 14
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Finest Hours",
+            "second_label": "Jack Le Vien, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1965,
+            "tmdb": {
+                "id": 149291,
+                "original_title": "The Finest Hours",
+                "title": "The Finest Hours",
+                "release_date": "1964-09-29",
+                "backdrop_path": null,
+                "poster_path": "/250YNnD82wcR7MDcML4Nt4Bz4pQ.jpg",
+                "overview": "A biography of Winston Churchill, shown through re-creations and actual film footage and told by Orson Welles.",
+                "vote_average": 6.3,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Four Days in November",
+            "second_label": "Mel Stuart, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1965,
+            "tmdb": {
+                "id": 139226,
+                "original_title": "Four Days In November",
+                "title": "Four Days In November",
+                "release_date": "1964-10-07",
+                "backdrop_path": "/A2Q8Ie9j4yJgssz7QFFyzGohF0b.jpg",
+                "poster_path": "/k0khNu7qbOn211UArU5xbi1EMat.jpg",
+                "overview": "1964 American documentary film about the assassination of John F. Kennedy.",
+                "vote_average": 6.0,
+                "vote_count": 7
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Human Dutch",
+            "second_label": "Bert Haanstra, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1965,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Over There, 1914-18",
+            "second_label": "Jean Aurel, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1965,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "Nine from Little Rock",
+            "second_label": "Charles Guggenheim, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1965,
+            "tmdb": {
+                "id": 243260,
+                "original_title": "Nine from Little Rock",
+                "title": "Nine from Little Rock",
+                "release_date": "1964-01-01",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "The Arkansas school integration crisis and the changes wrought in subsequent years. This film profiles the lives of the nine African-American students who integrated Central High in Little Rock, Arkansas, during the fall of 1957. The film documents the perspective of Jefferson Thomas and his fellow students seven years after their historic achievement. Central to this story is their quiet but brave entrance into Little Rock High, escorted by armed troops under the intense pressure of the on looking crowd. We learn first hand their impressions of the past and present and their hopes for the future. Their selfless heroism broke the integration crisis and pioneered a new era. This film went on to win an Academy Award\u00ae for Best Documentary Short in 1964.",
+                "vote_average": 6.0,
+                "vote_count": 5
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Breaking the Habit",
+            "second_label": "Henry Jacobs and John Korty, Producers",
+            "category": "Documentary (Short Subject)",
+            "year": 1965,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Children Without",
+            "second_label": "Charles Guggenheim, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1965,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Kenojuak",
+            "second_label": "National Film Board of Canada",
+            "category": "Documentary (Short Subject)",
+            "year": 1965,
+            "tmdb": {
+                "id": 243268,
+                "original_title": "Eskimo Artist: Kenojuak",
+                "title": "Eskimo Artist: Kenojuak",
+                "release_date": "1964-01-01",
+                "backdrop_path": null,
+                "poster_path": "/1nGbSRTFW03y4rToXFSKOKemFot.jpg",
+                "overview": "This documentary shows how an Inuit artist's drawings are transferred to stone, printed and sold. Kenojuak Ashevak became the first woman involved with the printmaking co-operative in Cape Dorset. This film was nominated for the 1963 Documentary Short Subject Oscar.",
+                "vote_average": 5.4,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "140 Days under the World",
+            "second_label": "Geoffrey Scott and Oxley Hughan, Producers",
+            "category": "Documentary (Short Subject)",
+            "year": 1965,
+            "tmdb": {
+                "id": 243271,
+                "original_title": "140 Days Under the World",
+                "title": "140 Days Under the World",
+                "release_date": "1964-01-01",
+                "backdrop_path": null,
+                "poster_path": "/cf2PbyxHbumffj4Yewp6YucUEe4.jpg",
+                "overview": "140 Days Under the World is a 1964 New Zealand short documentary film about Antarctica. It depicts one summer's work by New Zealand scientists in the Ross Dependency in the Antarctic and the exploration of some of the last unmapped regions. It was nominated for an Academy Award for Best Documentary Short.",
+                "vote_average": 5.3,
+                "vote_count": 3
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "Mary Poppins",
+            "second_label": "Cotton Warburton",
+            "category": "Film Editing",
+            "year": 1965,
+            "tmdb": {
+                "id": 433,
+                "original_title": "Mary Poppins",
+                "title": "Mary Poppins",
+                "release_date": "1964-12-17",
+                "backdrop_path": "/prVH6SyQ6yDmzVxxkcr57zhLM5C.jpg",
+                "poster_path": "/sqmcdguxgCBPI3IkI7FfZBroxxW.jpg",
+                "overview": "Na Londres de 1910, o banqueiro Mr. Banks, um homem frio que trata com rigidez Jane e Michael, seus filhos sapecas, n\u00e3o consegue contratar uma bab\u00e1, pois elas desistem facilmente do emprego. Em uma noite, enquanto redige com sua esposa um an\u00fancio de jornal procurando uma bab\u00e1, sua filha Jane aparece com uma carta mostrando como seria uma bab\u00e1 perfeita. Esta carta acaba chegando nas m\u00e3os de Mary Poppins, que \u00e9 tudo aquilo que est\u00e1 descrito na carta. Mary Poppins possui poderes m\u00e1gicos e, com seu amigo faz-tudo Bert, transforma a vida daquela fam\u00edlia, com muita m\u00fasica, magia e divers\u00e3o.",
+                "vote_average": 7.6,
+                "vote_count": 4481
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Becket",
+            "second_label": "Anne Coates",
+            "category": "Film Editing",
+            "year": 1965,
+            "tmdb": {
+                "id": 15421,
+                "original_title": "Becket",
+                "title": "Becket",
+                "release_date": "1964-03-11",
+                "backdrop_path": "/sEzvKkFiHlscYQcCOx49t6S7B6q.jpg",
+                "poster_path": "/swWmxVbq0pXv4wwsc2O803PiXR7.jpg",
+                "overview": "O Arcebisto de Canterbury (Felix Aylmer), grande opositor do Estado ingl\u00eas, morre, e o Rei Henrique II nomeia um seu antigo amigo de festas para o cargo tentando evitar qualquer tipo de oposi\u00e7\u00e3o. Mas o que Henrique II n\u00e3o contava era que Becket, seu antigo amigo, fosse ser mais r\u00edgido que qualquer outro antecessor. (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.2,
+                "vote_count": 170
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Father Goose",
+            "second_label": "Ted J. Kent",
+            "category": "Film Editing",
+            "year": 1965,
+            "tmdb": {
+                "id": 30295,
+                "original_title": "Father Goose",
+                "title": "Papai Ganso",
+                "release_date": "1964-12-10",
+                "backdrop_path": "/qxfuWn03LIk8FFT85gIoFQmPB3.jpg",
+                "poster_path": "/n7PEqxqLg1d7R28ca0JY91J4D64.jpg",
+                "overview": "During World War II, South Sea beachcomber Walter Eckland is persuaded to spy on planes passing over his island. He gets more than he bargained for as schoolteacher Catherine Frenau arrives on the run from the Japanese with her pupils in tow!",
+                "vote_average": 6.9,
+                "vote_count": 159
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hush...Hush, Sweet Charlotte",
+            "second_label": "Michael Luciano",
+            "category": "Film Editing",
+            "year": 1965,
+            "tmdb": {
+                "id": 10299,
+                "original_title": "Hush... Hush, Sweet Charlotte",
+                "title": "Com a Maldade na Alma",
+                "release_date": "1964-12-15",
+                "backdrop_path": "/oe9YRZv9FTtOJ9IKbJxyh23MYO1.jpg",
+                "poster_path": "/hwVGNaVXFblluLwUjGcJ7RgW1rV.jpg",
+                "overview": "A rica solteirona Charlotte Hollis vive com sua exc\u00eantrica empregada em uma mans\u00e3o decadente no sul dos EUA. Evitada pelos moradores da cidade por causa da morte violenta de seu ex-marido, Charlotte recebe a visita de uma prima invejosa e seu marido.",
+                "vote_average": 7.2,
+                "vote_count": 235
+            },
+            "winner": false
+        },
+        {
+            "first_label": "My Fair Lady",
+            "second_label": "William Ziegler",
+            "category": "Film Editing",
+            "year": 1965,
+            "tmdb": {
+                "id": 11113,
+                "original_title": "My Fair Lady",
+                "title": "Minha Bela Dama",
+                "release_date": "1964-10-21",
+                "backdrop_path": "/xMoQjqa3JUc2unO4nF9PmM1JTQu.jpg",
+                "poster_path": "/iWJFnvGmiZE3DTvbabadhOULyo.jpg",
+                "overview": "Henry Higgins (Rex Harrison), um intelectual e professor de fon\u00e9tica, aposta que conseguir\u00e1, no per\u00edodo m\u00e1ximo de seis meses, transformar Eliza Doolittle (Audrey Hepburn), uma simples florista de rua que n\u00e3o sabe falar direito, em uma dama. Mas a tarefa se mostra muito mais dif\u00edcil do que tinha sido imaginada originalmente.",
+                "vote_average": 7.5,
+                "vote_count": 1225
+            },
+            "winner": false
+        }
+    ],
+    "Foreign Language Film": [
+        {
+            "first_label": "Yesterday, Today and Tomorrow",
+            "second_label": "Italy",
+            "category": "Foreign Language Film",
+            "year": 1965,
+            "tmdb": {
+                "id": 42801,
+                "original_title": "Ieri, oggi, domani",
+                "title": "Ontem, Hoje e Amanh\u00e3",
+                "release_date": "1963-12-21",
+                "backdrop_path": "/zoTBBd0WnbtZV2DXqOdLOAuYIjR.jpg",
+                "poster_path": "/dTYi1VK6ROM9tBiyIijFTHjuRnL.jpg",
+                "overview": "Hist\u00f3rias sobre tr\u00eas mulheres, interpretadas por Sophia Loren, todas muito diferentes e os homens que elas atraem. 1 - Adelina vende cigarros no mercado negro e \u00e9 casada com o desempregado Carmine (Marcello Mastroianni). Ela \u00e9 sentenciada a pris\u00e3o, mas pode escapar enquanto estiver gr\u00e1vida. Sete anos e sete filhos depois, o marido esta exausto e a pris\u00e3o parece algo inevit\u00e1vel, assim como o desprezo de Adelina por Carmine. 2 - Em Mil\u00e3o, Anna esta entediada e resolve dar carona a um escritor. Ela fala com um ar sonhador em fugir dali, e ele d\u00e1 a aten\u00e7\u00e3o que ela precisa. 3 -  Enquanto isso, Mara chama a aten\u00e7\u00e3o de um ing\u00eanuo seminarista, fazendo com que ela brigue com sua av\u00f3 e fa\u00e7a um voto de castidade. (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.5,
+                "vote_count": 398
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Raven's End",
+            "second_label": "Sweden",
+            "category": "Foreign Language Film",
+            "year": 1965,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sallah",
+            "second_label": "Israel",
+            "category": "Foreign Language Film",
+            "year": 1965,
+            "tmdb": {
+                "id": 116762,
+                "original_title": "\u05e1\u05d0\u05dc\u05d7 \u05e9\u05d1\u05ea\u05d9",
+                "title": "Sallah",
+                "release_date": "1964-06-02",
+                "backdrop_path": null,
+                "poster_path": "/lLLcR8vsbT5EwGfzEoLtuQkp25p.jpg",
+                "overview": "Sallah Shabati, the patriarch of the big family recently arrived to Israel from Yemen, tries to make money and get better housing, in a country that can barely provide for its own and is in the midst of absorbing hundreds of thousands of Jewish refugees from Arab countries.",
+                "vote_average": 6.8,
+                "vote_count": 13
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Umbrellas of Cherbourg",
+            "second_label": "France",
+            "category": "Foreign Language Film",
+            "year": 1965,
+            "tmdb": {
+                "id": 5967,
+                "original_title": "Les Parapluies de Cherbourg",
+                "title": "Os Guarda-Chuvas do Amor",
+                "release_date": "1964-02-19",
+                "backdrop_path": "/czfbhgM0cjFqPt4ARofDKgRHCyj.jpg",
+                "poster_path": "/n8H5cKQhn0mGehfj3HrO6vJ4aQf.jpg",
+                "overview": "Cherbourg, 1957. Guy Foucher \u00e9 um jovem de 20 anos que foi criado pela madrinha e trabalha como mec\u00e2nico de carros. Ele \u00e9 apaixonado por Genevi\u00e8ve Emery, uma adolescente de 17 anos que ajuda sua m\u00e3e vi\u00fava no neg\u00f3cio da fam\u00edlia: uma loja de guarda-chuvas, que \u00e9 elegante mas pouco lucrativa. Genevi\u00e8ve tamb\u00e9m o ama, mas sua m\u00e3e acha que ela \u00e9 muito nova para casar e n\u00e3o v\u00ea como Guy pode manter uma fam\u00edlia. Ele \u00e9 convocado para o servi\u00e7o militar, mas antes de partir Guy e Genevi\u00e8ve fazem amor e ela engravida. Assim ela tem que escolher entre esperar pelo retorno de Guy ou aceitar uma proposta de casamento de Roland Cassard, comerciante de diamantes, que se prop\u00f5e a criar o beb\u00ea como se fosse seu.",
+                "vote_average": 7.384,
+                "vote_count": 720
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Woman in the Dunes",
+            "second_label": "Japan",
+            "category": "Foreign Language Film",
+            "year": 1965,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Honorary Award": [
+        {
+            "first_label": "7 Faces of Dr. Lao",
+            "second_label": "Special Award",
+            "category": "Honorary Award",
+            "year": 1965,
+            "tmdb": {
+                "id": 14241,
+                "original_title": "7 Faces of Dr. Lao",
+                "title": "As 7 Faces do Dr. Lao",
+                "release_date": "1964-03-18",
+                "backdrop_path": "/1CYIvjmkhVYJblOYPucgfF9EXQQ.jpg",
+                "poster_path": "/iLiSUuejkSXNWhQlRjIJUlF44s1.jpg",
+                "overview": "Um chin\u00eas gentil e idoso de 7322 anos, Dr. Lao chega a Abalone, Arizona, com um circo \u00fanico repleto de atra\u00e7\u00f5es extraordin\u00e1rias. A cidade enfrenta uma crise de \u00e1gua devido a um aqueduto danificado, com o rico rancheiro Clint Stark propondo comprar a cidade. Apenas Ed Cunningham, dono do jornal, se op\u00f5e. Dr. Lao, em breve, transformar\u00e1 Abalone de maneira surpreendente.",
+                "vote_average": 6.9,
+                "vote_count": 84
+            },
+            "winner": true
+        }
+    ],
+    "Music (Music Score--substantially original)": [
+        {
+            "first_label": "Mary Poppins",
+            "second_label": "Richard M. Sherman, Robert B. Sherman",
+            "category": "Music (Music Score--substantially original)",
+            "year": 1965,
+            "tmdb": {
+                "id": 433,
+                "original_title": "Mary Poppins",
+                "title": "Mary Poppins",
+                "release_date": "1964-12-17",
+                "backdrop_path": "/prVH6SyQ6yDmzVxxkcr57zhLM5C.jpg",
+                "poster_path": "/sqmcdguxgCBPI3IkI7FfZBroxxW.jpg",
+                "overview": "Na Londres de 1910, o banqueiro Mr. Banks, um homem frio que trata com rigidez Jane e Michael, seus filhos sapecas, n\u00e3o consegue contratar uma bab\u00e1, pois elas desistem facilmente do emprego. Em uma noite, enquanto redige com sua esposa um an\u00fancio de jornal procurando uma bab\u00e1, sua filha Jane aparece com uma carta mostrando como seria uma bab\u00e1 perfeita. Esta carta acaba chegando nas m\u00e3os de Mary Poppins, que \u00e9 tudo aquilo que est\u00e1 descrito na carta. Mary Poppins possui poderes m\u00e1gicos e, com seu amigo faz-tudo Bert, transforma a vida daquela fam\u00edlia, com muita m\u00fasica, magia e divers\u00e3o.",
+                "vote_average": 7.6,
+                "vote_count": 4481
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Becket",
+            "second_label": "Laurence Rosenthal",
+            "category": "Music (Music Score--substantially original)",
+            "year": 1965,
+            "tmdb": {
+                "id": 15421,
+                "original_title": "Becket",
+                "title": "Becket",
+                "release_date": "1964-03-11",
+                "backdrop_path": "/sEzvKkFiHlscYQcCOx49t6S7B6q.jpg",
+                "poster_path": "/swWmxVbq0pXv4wwsc2O803PiXR7.jpg",
+                "overview": "O Arcebisto de Canterbury (Felix Aylmer), grande opositor do Estado ingl\u00eas, morre, e o Rei Henrique II nomeia um seu antigo amigo de festas para o cargo tentando evitar qualquer tipo de oposi\u00e7\u00e3o. Mas o que Henrique II n\u00e3o contava era que Becket, seu antigo amigo, fosse ser mais r\u00edgido que qualquer outro antecessor. (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.2,
+                "vote_count": 170
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Fall of the Roman Empire",
+            "second_label": "Dimitri Tiomkin",
+            "category": "Music (Music Score--substantially original)",
+            "year": 1965,
+            "tmdb": {
+                "id": 17277,
+                "original_title": "The Fall of the Roman Empire",
+                "title": "A Queda do Imp\u00e9rio Romano",
+                "release_date": "1964-03-24",
+                "backdrop_path": "/wpTgHZCCfM3SffZvq6tCFdkkMz0.jpg",
+                "poster_path": "/7bLJSoBxrqgPHJ8uRIwrjO1Crz5.jpg",
+                "overview": "No auge da expans\u00e3o geogr\u00e1fica do imp\u00e9rio romano, o general L\u00edvio (Stephen Boyd) comanda a nova pol\u00edtica do imperador Marco Aur\u00e9lio (Alec Guinness), que quer a pacifica\u00e7\u00e3o de fronteiras e a ado\u00e7\u00e3o para os povos conquistados uma certa autonomia. Mas Marco Aur\u00e9lio acaba envenenado por Commodus (Christopher Plummer), filho ileg\u00edtimo que assume o trono e mergulha Roma no caos pol\u00edtico e administrativo, o que d\u00e1 origem \u00e0 queda do Imp\u00e9rio Romano.",
+                "vote_average": 6.5,
+                "vote_count": 176
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hush...Hush, Sweet Charlotte",
+            "second_label": "Frank DeVol",
+            "category": "Music (Music Score--substantially original)",
+            "year": 1965,
+            "tmdb": {
+                "id": 10299,
+                "original_title": "Hush... Hush, Sweet Charlotte",
+                "title": "Com a Maldade na Alma",
+                "release_date": "1964-12-15",
+                "backdrop_path": "/oe9YRZv9FTtOJ9IKbJxyh23MYO1.jpg",
+                "poster_path": "/hwVGNaVXFblluLwUjGcJ7RgW1rV.jpg",
+                "overview": "A rica solteirona Charlotte Hollis vive com sua exc\u00eantrica empregada em uma mans\u00e3o decadente no sul dos EUA. Evitada pelos moradores da cidade por causa da morte violenta de seu ex-marido, Charlotte recebe a visita de uma prima invejosa e seu marido.",
+                "vote_average": 7.2,
+                "vote_count": 235
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Pink Panther",
+            "second_label": "Henry Mancini",
+            "category": "Music (Music Score--substantially original)",
+            "year": 1965,
+            "tmdb": {
+                "id": 936,
+                "original_title": "The Pink Panther",
+                "title": "A Pantera Cor-de-Rosa",
+                "release_date": "1963-12-18",
+                "backdrop_path": "/f2vuyrC0c742QZm8njzZVTPbN5L.jpg",
+                "poster_path": "/pKhlWmmISex6UeuBXjudZFs0vql.jpg",
+                "overview": "O diamante conhecido como Pantera Cor-de-Rosa est\u00e1 na mira de um ousado ladr\u00e3o europeu e seu sobrinho, que tem a inten\u00e7\u00e3o de colocar a culpa do roubo no tio. S\u00f3 que para isso, eles ter\u00e3o que despistar o desajeitado inspetor franc\u00eas Jacques Clouseau.",
+                "vote_average": 6.9,
+                "vote_count": 958
+            },
+            "winner": false
+        }
+    ],
+    "Music (Scoring of Music--adaptation or treatment)": [
+        {
+            "first_label": "My Fair Lady",
+            "second_label": "Andre Previn",
+            "category": "Music (Scoring of Music--adaptation or treatment)",
+            "year": 1965,
+            "tmdb": {
+                "id": 11113,
+                "original_title": "My Fair Lady",
+                "title": "Minha Bela Dama",
+                "release_date": "1964-10-21",
+                "backdrop_path": "/xMoQjqa3JUc2unO4nF9PmM1JTQu.jpg",
+                "poster_path": "/iWJFnvGmiZE3DTvbabadhOULyo.jpg",
+                "overview": "Henry Higgins (Rex Harrison), um intelectual e professor de fon\u00e9tica, aposta que conseguir\u00e1, no per\u00edodo m\u00e1ximo de seis meses, transformar Eliza Doolittle (Audrey Hepburn), uma simples florista de rua que n\u00e3o sabe falar direito, em uma dama. Mas a tarefa se mostra muito mais dif\u00edcil do que tinha sido imaginada originalmente.",
+                "vote_average": 7.5,
+                "vote_count": 1225
+            },
+            "winner": true
+        },
+        {
+            "first_label": "A Hard Day's Night",
+            "second_label": "George Martin",
+            "category": "Music (Scoring of Music--adaptation or treatment)",
+            "year": 1965,
+            "tmdb": {
+                "id": 704,
+                "original_title": "A Hard Day's Night",
+                "title": "Beatles: Os Reis do i\u00ea i\u00ea i\u00ea",
+                "release_date": "1964-07-07",
+                "backdrop_path": "/9hWiNbvLR3nPDanTdEWOc4EeBGp.jpg",
+                "poster_path": "/7ZKn8R4Wqvz9zx4Q4dDO30l5jXQ.jpg",
+                "overview": "Os Beatles est\u00e3o no auge de seu sucesso. Ao mesmo tempo em que trabalham, John, Paul, Jorge e Ringo fazem de tudo para se divertirem em meio ao ass\u00e9dio dos f\u00e3s e estresse dos produtores. Um dia da vida dos garotos de Liverpool. Filme indicado a 2 Oscar.",
+                "vote_average": 7.4,
+                "vote_count": 631
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mary Poppins",
+            "second_label": "Irwin Kostal",
+            "category": "Music (Scoring of Music--adaptation or treatment)",
+            "year": 1965,
+            "tmdb": {
+                "id": 433,
+                "original_title": "Mary Poppins",
+                "title": "Mary Poppins",
+                "release_date": "1964-12-17",
+                "backdrop_path": "/prVH6SyQ6yDmzVxxkcr57zhLM5C.jpg",
+                "poster_path": "/sqmcdguxgCBPI3IkI7FfZBroxxW.jpg",
+                "overview": "Na Londres de 1910, o banqueiro Mr. Banks, um homem frio que trata com rigidez Jane e Michael, seus filhos sapecas, n\u00e3o consegue contratar uma bab\u00e1, pois elas desistem facilmente do emprego. Em uma noite, enquanto redige com sua esposa um an\u00fancio de jornal procurando uma bab\u00e1, sua filha Jane aparece com uma carta mostrando como seria uma bab\u00e1 perfeita. Esta carta acaba chegando nas m\u00e3os de Mary Poppins, que \u00e9 tudo aquilo que est\u00e1 descrito na carta. Mary Poppins possui poderes m\u00e1gicos e, com seu amigo faz-tudo Bert, transforma a vida daquela fam\u00edlia, com muita m\u00fasica, magia e divers\u00e3o.",
+                "vote_average": 7.6,
+                "vote_count": 4481
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Robin and the 7 Hoods",
+            "second_label": "Nelson Riddle",
+            "category": "Music (Scoring of Music--adaptation or treatment)",
+            "year": 1965,
+            "tmdb": {
+                "id": 17696,
+                "original_title": "Robin and the 7 Hoods",
+                "title": "Robin Hood de Chicago",
+                "release_date": "1964-06-24",
+                "backdrop_path": "/6JijGxHHlByxPGTtMEHHx2Ctuiq.jpg",
+                "poster_path": "/1jqQdHnuIDaHB3owOb3BcD5xZgX.jpg",
+                "overview": "Big Jim \u00e9 morto durante a festa de seu anivers\u00e1rio. Imediatamente, o rival Guy Gisbourne declara-se chefe dos g\u00e2ngsteres. Robbo, chefe da gangue do outro lado da cidade, est\u00e1 disposto a apoiar Guy, desde que este abandone seu territ\u00f3rio. Guy n\u00e3o aceita e quando Little John junta-se a Robbo, explode a guerra entre os dois bandos, o que resulta na destrui\u00e7\u00e3o dos nightclubs de ambos os lados. Ao mesmo tempo, Marian, filha de Big Jim, oferece 50 mil d\u00f3lares a Robbo para que ele encontre quem matou seu pai. Robbo pede ao capanga Will que se livre do dinheiro, ent\u00e3o Will o repassa a Allen A. Dale, diretor de um orfanato. Allen chama a imprensa e transforma Robbo em celebridade, o Robin Hood de Chicago. Robbo, apaixonado por Marian, manda ela abandonar a cidade depois que descobre que ela e Little John usam uma entidade filantr\u00f3pica como fachada para falsifica\u00e7\u00f5es. Marian, ao inv\u00e9s de cair fora, junta-se a Guy e prop\u00f5e a ele liquidar tanto Robbo quanto Little Joe.",
+                "vote_average": 6.0,
+                "vote_count": 63
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Unsinkable Molly Brown",
+            "second_label": "Robert Armbruster, Leo Arnaud, Jack Elliott, Jack Hayes, Calvin Jackson, Leo Shuken",
+            "category": "Music (Scoring of Music--adaptation or treatment)",
+            "year": 1965,
+            "tmdb": {
+                "id": 42797,
+                "original_title": "The Unsinkable Molly Brown",
+                "title": "A Inconquist\u00e1vel Molly Brown",
+                "release_date": "1964-06-11",
+                "backdrop_path": "/sh8pZiuUEEnUL40t5Vom15O7aSY.jpg",
+                "poster_path": "/f0hd12ajjQprxP3V90xfy0iqOvb.jpg",
+                "overview": "Adapta\u00e7\u00e3o do musical escrito por Meredith Willson e Richard Morris, exibido no teatro, que conta a hist\u00f3ria baseada em fatos reais de uma jovem simples que se casa com mineirador. Este encontra uma fortuna em ouro, e a garota, antes miser\u00e1vel, passa a viver no luxo e na riqueza.",
+                "vote_average": 5.6,
+                "vote_count": 40
+            },
+            "winner": false
+        }
+    ],
+    "Music (Song)": [
+        {
+            "first_label": "Mary Poppins",
+            "second_label": "Chim Chim Cher-ee in \"Mary Poppins\" Music and Lyrics by Richard M. Sherman and Robert B. Sherman",
+            "category": "Music (Song)",
+            "year": 1965,
+            "tmdb": {
+                "id": 433,
+                "original_title": "Mary Poppins",
+                "title": "Mary Poppins",
+                "release_date": "1964-12-17",
+                "backdrop_path": "/prVH6SyQ6yDmzVxxkcr57zhLM5C.jpg",
+                "poster_path": "/sqmcdguxgCBPI3IkI7FfZBroxxW.jpg",
+                "overview": "Na Londres de 1910, o banqueiro Mr. Banks, um homem frio que trata com rigidez Jane e Michael, seus filhos sapecas, n\u00e3o consegue contratar uma bab\u00e1, pois elas desistem facilmente do emprego. Em uma noite, enquanto redige com sua esposa um an\u00fancio de jornal procurando uma bab\u00e1, sua filha Jane aparece com uma carta mostrando como seria uma bab\u00e1 perfeita. Esta carta acaba chegando nas m\u00e3os de Mary Poppins, que \u00e9 tudo aquilo que est\u00e1 descrito na carta. Mary Poppins possui poderes m\u00e1gicos e, com seu amigo faz-tudo Bert, transforma a vida daquela fam\u00edlia, com muita m\u00fasica, magia e divers\u00e3o.",
+                "vote_average": 7.6,
+                "vote_count": 4481
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Dear Heart",
+            "second_label": "Dear Heart in \"Dear Heart\" Music by Henry Mancini; Lyrics by Jay Livingston and Ray Evans",
+            "category": "Music (Song)",
+            "year": 1965,
+            "tmdb": {
+                "id": 101226,
+                "original_title": "Dear Heart",
+                "title": "Cora\u00e7\u00e3o Querido",
+                "release_date": "1965-03-07",
+                "backdrop_path": "/nu644MCQoQJVWYE28bjrdRNznI9.jpg",
+                "poster_path": "/8rRzxfPsztNhgac81KJk3tphCME.jpg",
+                "overview": "A lonely Ohio spinster hopes to find romance when she travels to New York City for a postmasters' convention.",
+                "vote_average": 6.6,
+                "vote_count": 14
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hush...Hush, Sweet Charlotte",
+            "second_label": "Hush...Hush, Sweet Charlotte in \"Hush...Hush, Sweet Charlotte\" Music by Frank DeVol; Lyrics by Mack David",
+            "category": "Music (Song)",
+            "year": 1965,
+            "tmdb": {
+                "id": 10299,
+                "original_title": "Hush... Hush, Sweet Charlotte",
+                "title": "Com a Maldade na Alma",
+                "release_date": "1964-12-15",
+                "backdrop_path": "/oe9YRZv9FTtOJ9IKbJxyh23MYO1.jpg",
+                "poster_path": "/hwVGNaVXFblluLwUjGcJ7RgW1rV.jpg",
+                "overview": "A rica solteirona Charlotte Hollis vive com sua exc\u00eantrica empregada em uma mans\u00e3o decadente no sul dos EUA. Evitada pelos moradores da cidade por causa da morte violenta de seu ex-marido, Charlotte recebe a visita de uma prima invejosa e seu marido.",
+                "vote_average": 7.2,
+                "vote_count": 235
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Robin and the 7 Hoods",
+            "second_label": "My Kind Of Town in \"Robin and the 7 Hoods\" Music by James Van Heusen; Lyrics by Sammy Cahn",
+            "category": "Music (Song)",
+            "year": 1965,
+            "tmdb": {
+                "id": 17696,
+                "original_title": "Robin and the 7 Hoods",
+                "title": "Robin Hood de Chicago",
+                "release_date": "1964-06-24",
+                "backdrop_path": "/6JijGxHHlByxPGTtMEHHx2Ctuiq.jpg",
+                "poster_path": "/1jqQdHnuIDaHB3owOb3BcD5xZgX.jpg",
+                "overview": "Big Jim \u00e9 morto durante a festa de seu anivers\u00e1rio. Imediatamente, o rival Guy Gisbourne declara-se chefe dos g\u00e2ngsteres. Robbo, chefe da gangue do outro lado da cidade, est\u00e1 disposto a apoiar Guy, desde que este abandone seu territ\u00f3rio. Guy n\u00e3o aceita e quando Little John junta-se a Robbo, explode a guerra entre os dois bandos, o que resulta na destrui\u00e7\u00e3o dos nightclubs de ambos os lados. Ao mesmo tempo, Marian, filha de Big Jim, oferece 50 mil d\u00f3lares a Robbo para que ele encontre quem matou seu pai. Robbo pede ao capanga Will que se livre do dinheiro, ent\u00e3o Will o repassa a Allen A. Dale, diretor de um orfanato. Allen chama a imprensa e transforma Robbo em celebridade, o Robin Hood de Chicago. Robbo, apaixonado por Marian, manda ela abandonar a cidade depois que descobre que ela e Little John usam uma entidade filantr\u00f3pica como fachada para falsifica\u00e7\u00f5es. Marian, ao inv\u00e9s de cair fora, junta-se a Guy e prop\u00f5e a ele liquidar tanto Robbo quanto Little Joe.",
+                "vote_average": 6.0,
+                "vote_count": 63
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Where Love Has Gone",
+            "second_label": "Where Love Has Gone in \"Where Love Has Gone\" Music by James Van Heusen; Lyrics by Sammy Cahn",
+            "category": "Music (Song)",
+            "year": 1965,
+            "tmdb": {
+                "id": 73348,
+                "original_title": "Where Love Has Gone",
+                "title": "Esc\u00e2ndalo na Sociedade",
+                "release_date": "1964-11-02",
+                "backdrop_path": "/jQIpYLNbQFB6gZGPAuTQlLlPrlD.jpg",
+                "poster_path": "/voNUPWsQNx3lZG4DGJaHUIA7p33.jpg",
+                "overview": "A divorced couple's teen-age daughter stands trial for stabbing her mother's latest lover.",
+                "vote_average": 6.1,
+                "vote_count": 18
+            },
+            "winner": false
+        }
+    ],
+    "Best Picture": [
+        {
+            "first_label": "My Fair Lady",
+            "second_label": "Jack L. Warner, Producer",
+            "category": "Best Picture",
+            "year": 1965,
+            "tmdb": {
+                "id": 11113,
+                "original_title": "My Fair Lady",
+                "title": "Minha Bela Dama",
+                "release_date": "1964-10-21",
+                "backdrop_path": "/xMoQjqa3JUc2unO4nF9PmM1JTQu.jpg",
+                "poster_path": "/iWJFnvGmiZE3DTvbabadhOULyo.jpg",
+                "overview": "Henry Higgins (Rex Harrison), um intelectual e professor de fon\u00e9tica, aposta que conseguir\u00e1, no per\u00edodo m\u00e1ximo de seis meses, transformar Eliza Doolittle (Audrey Hepburn), uma simples florista de rua que n\u00e3o sabe falar direito, em uma dama. Mas a tarefa se mostra muito mais dif\u00edcil do que tinha sido imaginada originalmente.",
+                "vote_average": 7.5,
+                "vote_count": 1225
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Becket",
+            "second_label": "Hal B. Wallis, Producer",
+            "category": "Best Picture",
+            "year": 1965,
+            "tmdb": {
+                "id": 15421,
+                "original_title": "Becket",
+                "title": "Becket",
+                "release_date": "1964-03-11",
+                "backdrop_path": "/sEzvKkFiHlscYQcCOx49t6S7B6q.jpg",
+                "poster_path": "/swWmxVbq0pXv4wwsc2O803PiXR7.jpg",
+                "overview": "O Arcebisto de Canterbury (Felix Aylmer), grande opositor do Estado ingl\u00eas, morre, e o Rei Henrique II nomeia um seu antigo amigo de festas para o cargo tentando evitar qualquer tipo de oposi\u00e7\u00e3o. Mas o que Henrique II n\u00e3o contava era que Becket, seu antigo amigo, fosse ser mais r\u00edgido que qualquer outro antecessor. (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.2,
+                "vote_count": 170
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+            "second_label": "Stanley Kubrick, Producer",
+            "category": "Best Picture",
+            "year": 1965,
+            "tmdb": {
+                "id": 935,
+                "original_title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+                "title": "Dr. Fant\u00e1stico",
+                "release_date": "1964-01-29",
+                "backdrop_path": "/sTp8K0SfcC2RQef1Tu160z3niHO.jpg",
+                "poster_path": "/gSTwvjt8BmZ3IwlpsltNzasamgt.jpg",
+                "overview": "Um general americano meio louco, Jack D. Ripper, acredita que os sovi\u00e9ticos est\u00e3o sabotando os reservat\u00f3rios de \u00e1gua dos Estados Unidos e resolve fazer um ataque anticomunista, bombardeando a Uni\u00e3o Sovi\u00e9tica para se livrar dos \"vermelhos\". Com as comunica\u00e7\u00f5es interrompidas, ele \u00e9 o \u00fanico que possui os c\u00f3digos para parar os bombardeiros e evitar o que provavelmente seria o in\u00edcio da Terceira Guerra Mundial.",
+                "vote_average": 8.1,
+                "vote_count": 5333
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mary Poppins",
+            "second_label": "Walt Disney and Bill Walsh, Producers",
+            "category": "Best Picture",
+            "year": 1965,
+            "tmdb": {
+                "id": 433,
+                "original_title": "Mary Poppins",
+                "title": "Mary Poppins",
+                "release_date": "1964-12-17",
+                "backdrop_path": "/prVH6SyQ6yDmzVxxkcr57zhLM5C.jpg",
+                "poster_path": "/sqmcdguxgCBPI3IkI7FfZBroxxW.jpg",
+                "overview": "Na Londres de 1910, o banqueiro Mr. Banks, um homem frio que trata com rigidez Jane e Michael, seus filhos sapecas, n\u00e3o consegue contratar uma bab\u00e1, pois elas desistem facilmente do emprego. Em uma noite, enquanto redige com sua esposa um an\u00fancio de jornal procurando uma bab\u00e1, sua filha Jane aparece com uma carta mostrando como seria uma bab\u00e1 perfeita. Esta carta acaba chegando nas m\u00e3os de Mary Poppins, que \u00e9 tudo aquilo que est\u00e1 descrito na carta. Mary Poppins possui poderes m\u00e1gicos e, com seu amigo faz-tudo Bert, transforma a vida daquela fam\u00edlia, com muita m\u00fasica, magia e divers\u00e3o.",
+                "vote_average": 7.6,
+                "vote_count": 4481
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Zorba the Greek",
+            "second_label": "Michael Cacoyannis, Producer",
+            "category": "Best Picture",
+            "year": 1965,
+            "tmdb": {
+                "id": 10604,
+                "original_title": "\u0391\u03bb\u03ad\u03be\u03b7\u03c2 \u0396\u03bf\u03c1\u03bc\u03c0\u03ac\u03c2",
+                "title": "Zorba, O Grego",
+                "release_date": "1964-12-14",
+                "backdrop_path": "/rK22M6yVJgVTQSj91a8ILDJvwhM.jpg",
+                "poster_path": "/dJ2Tw1b0vSXy6EImkicDlslXAZG.jpg",
+                "overview": "Um escritor ingl\u00eas vai a Creta para trabalhar em uma mina que herdou do pai, um grego de nascen\u00e7a. Logo ele conhece Alexis Zorba (Anthony Quinn), um determinado campon\u00eas grego que tamb\u00e9m quer trabalhar na mina. Os dois acabam indo se hospedar em um pequeno hotel administrado por uma velha prostituta francesa.",
+                "vote_average": 7.5,
+                "vote_count": 318
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Cartoon)": [
+        {
+            "first_label": "The Pink Phink",
+            "second_label": "David H. DePatie and Friz Freleng, Producers",
+            "category": "Short Subject (Cartoon)",
+            "year": 1965,
+            "tmdb": {
+                "id": 149193,
+                "original_title": "The Pink Phink",
+                "title": "A Pantera Pinta o Sete",
+                "release_date": "1964-12-18",
+                "backdrop_path": "/mXjHT9C5k0xjqMnwX4VZe3LGTtc.jpg",
+                "poster_path": "/kL0y9I2pYc0RFJCSHnFOEX9YLJ7.jpg",
+                "overview": "Um pintor de casas n\u00e3o percebe por que tudo o que ele pinta de azul fica cor-de-rosa. Mal ele sabe que a Pantera Cor-de-Rosa est\u00e1 repintando todo o seu trabalho.",
+                "vote_average": 7.0,
+                "vote_count": 54
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Christmas Cracker",
+            "second_label": "National Film Board of Canada",
+            "category": "Short Subject (Cartoon)",
+            "year": 1965,
+            "tmdb": {
+                "id": 143198,
+                "original_title": "Caprice de No\u00ebl",
+                "title": "Christmas Cracker",
+                "release_date": "1963-01-01",
+                "backdrop_path": "/lfRH9YlEehQ55b11RX1aQG1NNsI.jpg",
+                "poster_path": null,
+                "overview": "Three separate sequences related to Christmas, animated in different styles: cutout animation of children dancing in the snow to \"Jingle Bells,\" stop-motion animation of toys come to life, and cel animation of a man who seeks the ideal star to top his Christmas tree.",
+                "vote_average": 6.0,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "How to Avoid Friendship",
+            "second_label": "William L. Snyder, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1965,
+            "tmdb": {
+                "id": 243257,
+                "original_title": "How to Avoid Friendship",
+                "title": "How to Avoid Friendship",
+                "release_date": "1964-01-01",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "The Independent League of Loners, known as the ILL, has studied the problem of excess camaraderie and has formulated this happy guide to solitude. A case study of person types to avoid.",
+                "vote_average": 6.0,
+                "vote_count": 1
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Nudnik #2",
+            "second_label": "William L. Snyder, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1965,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Live Action)": [
+        {
+            "first_label": "Casals Conducts: 1964",
+            "second_label": "Edward Schreiber, Producer",
+            "category": "Short Subject (Live Action)",
+            "year": 1965,
+            "tmdb": {
+                "id": 243253,
+                "original_title": "Casals Conducts: 1964",
+                "title": "Casals Conducts: 1964",
+                "release_date": "1964-01-01",
+                "backdrop_path": null,
+                "poster_path": "/9zyr7uKZ227PzF8HNdgLtOC93wx.jpg",
+                "overview": "While at his workshop in Puerto Rico, Pablo Casals prepares to conduct a Bach suite for a concert performance. Oscar Winner for the category \"Best Short Subject, Live Action Subjects\".  Preserved by the Academy Film Archive in 2013.",
+                "vote_average": 5.0,
+                "vote_count": 1
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Help! My Snowman's Burning Down",
+            "second_label": "Carson Davidson, Producer",
+            "category": "Short Subject (Live Action)",
+            "year": 1965,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Legend of Jimmy Blue Eyes",
+            "second_label": "Robert Clouse, Producer",
+            "category": "Short Subject (Live Action)",
+            "year": 1965,
+            "tmdb": {
+                "id": 243256,
+                "original_title": "The Legend of Jimmy Blue Eyes",
+                "title": "The Legend of Jimmy Blue Eyes",
+                "release_date": "1964-01-01",
+                "backdrop_path": null,
+                "poster_path": "/elBGaPdtGVqOuFMoAq6mJPAmnKK.jpg",
+                "overview": "The Legend of Jimmy Blue Eyes is a 1964 short film directed by Robert Clouse. In Storyville, New Orleans, jazz trumpeter Jimmy Blue Eyes is occupied by a series of high-stakes games. The film was nominated for an Oscar for Best Live Action Short Film.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        }
+    ],
+    "Sound": [
+        {
+            "first_label": "My Fair Lady",
+            "second_label": "Warner Bros. Studio Sound Department, George R. Groves, Sound Director",
+            "category": "Sound",
+            "year": 1965,
+            "tmdb": {
+                "id": 11113,
+                "original_title": "My Fair Lady",
+                "title": "Minha Bela Dama",
+                "release_date": "1964-10-21",
+                "backdrop_path": "/xMoQjqa3JUc2unO4nF9PmM1JTQu.jpg",
+                "poster_path": "/iWJFnvGmiZE3DTvbabadhOULyo.jpg",
+                "overview": "Henry Higgins (Rex Harrison), um intelectual e professor de fon\u00e9tica, aposta que conseguir\u00e1, no per\u00edodo m\u00e1ximo de seis meses, transformar Eliza Doolittle (Audrey Hepburn), uma simples florista de rua que n\u00e3o sabe falar direito, em uma dama. Mas a tarefa se mostra muito mais dif\u00edcil do que tinha sido imaginada originalmente.",
+                "vote_average": 7.5,
+                "vote_count": 1225
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Becket",
+            "second_label": "Shepperton Studio Sound Department, John Cox, Sound Director",
+            "category": "Sound",
+            "year": 1965,
+            "tmdb": {
+                "id": 15421,
+                "original_title": "Becket",
+                "title": "Becket",
+                "release_date": "1964-03-11",
+                "backdrop_path": "/sEzvKkFiHlscYQcCOx49t6S7B6q.jpg",
+                "poster_path": "/swWmxVbq0pXv4wwsc2O803PiXR7.jpg",
+                "overview": "O Arcebisto de Canterbury (Felix Aylmer), grande opositor do Estado ingl\u00eas, morre, e o Rei Henrique II nomeia um seu antigo amigo de festas para o cargo tentando evitar qualquer tipo de oposi\u00e7\u00e3o. Mas o que Henrique II n\u00e3o contava era que Becket, seu antigo amigo, fosse ser mais r\u00edgido que qualquer outro antecessor. (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.2,
+                "vote_count": 170
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Father Goose",
+            "second_label": "Universal City Studio Sound Department, Waldon O. Watson, Sound Director",
+            "category": "Sound",
+            "year": 1965,
+            "tmdb": {
+                "id": 30295,
+                "original_title": "Father Goose",
+                "title": "Papai Ganso",
+                "release_date": "1964-12-10",
+                "backdrop_path": "/qxfuWn03LIk8FFT85gIoFQmPB3.jpg",
+                "poster_path": "/n7PEqxqLg1d7R28ca0JY91J4D64.jpg",
+                "overview": "During World War II, South Sea beachcomber Walter Eckland is persuaded to spy on planes passing over his island. He gets more than he bargained for as schoolteacher Catherine Frenau arrives on the run from the Japanese with her pupils in tow!",
+                "vote_average": 6.9,
+                "vote_count": 159
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mary Poppins",
+            "second_label": "Walt Disney Studio Sound Department, Robert O. Cook, Sound Director",
+            "category": "Sound",
+            "year": 1965,
+            "tmdb": {
+                "id": 433,
+                "original_title": "Mary Poppins",
+                "title": "Mary Poppins",
+                "release_date": "1964-12-17",
+                "backdrop_path": "/prVH6SyQ6yDmzVxxkcr57zhLM5C.jpg",
+                "poster_path": "/sqmcdguxgCBPI3IkI7FfZBroxxW.jpg",
+                "overview": "Na Londres de 1910, o banqueiro Mr. Banks, um homem frio que trata com rigidez Jane e Michael, seus filhos sapecas, n\u00e3o consegue contratar uma bab\u00e1, pois elas desistem facilmente do emprego. Em uma noite, enquanto redige com sua esposa um an\u00fancio de jornal procurando uma bab\u00e1, sua filha Jane aparece com uma carta mostrando como seria uma bab\u00e1 perfeita. Esta carta acaba chegando nas m\u00e3os de Mary Poppins, que \u00e9 tudo aquilo que est\u00e1 descrito na carta. Mary Poppins possui poderes m\u00e1gicos e, com seu amigo faz-tudo Bert, transforma a vida daquela fam\u00edlia, com muita m\u00fasica, magia e divers\u00e3o.",
+                "vote_average": 7.6,
+                "vote_count": 4481
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Unsinkable Molly Brown",
+            "second_label": "Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director",
+            "category": "Sound",
+            "year": 1965,
+            "tmdb": {
+                "id": 42797,
+                "original_title": "The Unsinkable Molly Brown",
+                "title": "A Inconquist\u00e1vel Molly Brown",
+                "release_date": "1964-06-11",
+                "backdrop_path": "/sh8pZiuUEEnUL40t5Vom15O7aSY.jpg",
+                "poster_path": "/f0hd12ajjQprxP3V90xfy0iqOvb.jpg",
+                "overview": "Adapta\u00e7\u00e3o do musical escrito por Meredith Willson e Richard Morris, exibido no teatro, que conta a hist\u00f3ria baseada em fatos reais de uma jovem simples que se casa com mineirador. Este encontra uma fortuna em ouro, e a garota, antes miser\u00e1vel, passa a viver no luxo e na riqueza.",
+                "vote_average": 5.6,
+                "vote_count": 40
+            },
+            "winner": false
+        }
+    ],
+    "Sound Effects": [
+        {
+            "first_label": "Goldfinger",
+            "second_label": "Norman Wanstall",
+            "category": "Sound Effects",
+            "year": 1965,
+            "tmdb": {
+                "id": 658,
+                "original_title": "Goldfinger",
+                "title": "007 Contra Goldfinger",
+                "release_date": "1964-09-20",
+                "backdrop_path": "/mM4WeXqJd2tu1gCF5GYyAZf2Npl.jpg",
+                "poster_path": "/hi8vxhCM1EzLvfF6VI7GYiGgMBH.jpg",
+                "overview": "James Bond \u00e9 encarregado de espionar Goldfinger, um poderoso milion\u00e1rio cujas remessas de ouro espalhadas por diversos pa\u00edses podem esconder a\u00e7\u00f5es criminosas. Ap\u00f3s ser capturado, Bond descobre que o plano de Goldfinger \u00e9 bem maior do que ele imaginava: Goldfinger pretende roubar nada mais nada menos do que as reservas americanas de ouro, guardadas no Forte Knox.",
+                "vote_average": 7.349,
+                "vote_count": 3384
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Lively Set",
+            "second_label": "Robert L. Bratton",
+            "category": "Sound Effects",
+            "year": 1965,
+            "tmdb": {
+                "id": 138411,
+                "original_title": "The Lively Set",
+                "title": "The Lively Set",
+                "release_date": "1964-10-24",
+                "backdrop_path": "/hvT3i9lFweRkWf9tjjgixBJYdZJ.jpg",
+                "poster_path": "/78XbmQXmbWllKjCQt61AiX1Db9A.jpg",
+                "overview": "A college student drops out to build a race car and falls for his buddy's sister.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        }
+    ],
+    "Special Visual Effects": [
+        {
+            "first_label": "Mary Poppins",
+            "second_label": "Peter Ellenshaw, Eustace Lycett, Hamilton Luske",
+            "category": "Special Visual Effects",
+            "year": 1965,
+            "tmdb": {
+                "id": 433,
+                "original_title": "Mary Poppins",
+                "title": "Mary Poppins",
+                "release_date": "1964-12-17",
+                "backdrop_path": "/prVH6SyQ6yDmzVxxkcr57zhLM5C.jpg",
+                "poster_path": "/sqmcdguxgCBPI3IkI7FfZBroxxW.jpg",
+                "overview": "Na Londres de 1910, o banqueiro Mr. Banks, um homem frio que trata com rigidez Jane e Michael, seus filhos sapecas, n\u00e3o consegue contratar uma bab\u00e1, pois elas desistem facilmente do emprego. Em uma noite, enquanto redige com sua esposa um an\u00fancio de jornal procurando uma bab\u00e1, sua filha Jane aparece com uma carta mostrando como seria uma bab\u00e1 perfeita. Esta carta acaba chegando nas m\u00e3os de Mary Poppins, que \u00e9 tudo aquilo que est\u00e1 descrito na carta. Mary Poppins possui poderes m\u00e1gicos e, com seu amigo faz-tudo Bert, transforma a vida daquela fam\u00edlia, com muita m\u00fasica, magia e divers\u00e3o.",
+                "vote_average": 7.6,
+                "vote_count": 4481
+            },
+            "winner": true
+        },
+        {
+            "first_label": "7 Faces of Dr. Lao",
+            "second_label": "Jim Danforth",
+            "category": "Special Visual Effects",
+            "year": 1965,
+            "tmdb": {
+                "id": 14241,
+                "original_title": "7 Faces of Dr. Lao",
+                "title": "As 7 Faces do Dr. Lao",
+                "release_date": "1964-03-18",
+                "backdrop_path": "/1CYIvjmkhVYJblOYPucgfF9EXQQ.jpg",
+                "poster_path": "/iLiSUuejkSXNWhQlRjIJUlF44s1.jpg",
+                "overview": "Um chin\u00eas gentil e idoso de 7322 anos, Dr. Lao chega a Abalone, Arizona, com um circo \u00fanico repleto de atra\u00e7\u00f5es extraordin\u00e1rias. A cidade enfrenta uma crise de \u00e1gua devido a um aqueduto danificado, com o rico rancheiro Clint Stark propondo comprar a cidade. Apenas Ed Cunningham, dono do jornal, se op\u00f5e. Dr. Lao, em breve, transformar\u00e1 Abalone de maneira surpreendente.",
+                "vote_average": 6.9,
+                "vote_count": 84
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay--based on material from another medium)": [
+        {
+            "first_label": "Becket",
+            "second_label": "Edward Anhalt",
+            "category": "Writing (Screenplay--based on material from another medium)",
+            "year": 1965,
+            "tmdb": {
+                "id": 15421,
+                "original_title": "Becket",
+                "title": "Becket",
+                "release_date": "1964-03-11",
+                "backdrop_path": "/sEzvKkFiHlscYQcCOx49t6S7B6q.jpg",
+                "poster_path": "/swWmxVbq0pXv4wwsc2O803PiXR7.jpg",
+                "overview": "O Arcebisto de Canterbury (Felix Aylmer), grande opositor do Estado ingl\u00eas, morre, e o Rei Henrique II nomeia um seu antigo amigo de festas para o cargo tentando evitar qualquer tipo de oposi\u00e7\u00e3o. Mas o que Henrique II n\u00e3o contava era que Becket, seu antigo amigo, fosse ser mais r\u00edgido que qualquer outro antecessor. (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.2,
+                "vote_count": 170
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+            "second_label": "Stanley Kubrick, Peter George, Terry Southern",
+            "category": "Writing (Screenplay--based on material from another medium)",
+            "year": 1965,
+            "tmdb": {
+                "id": 935,
+                "original_title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+                "title": "Dr. Fant\u00e1stico",
+                "release_date": "1964-01-29",
+                "backdrop_path": "/sTp8K0SfcC2RQef1Tu160z3niHO.jpg",
+                "poster_path": "/gSTwvjt8BmZ3IwlpsltNzasamgt.jpg",
+                "overview": "Um general americano meio louco, Jack D. Ripper, acredita que os sovi\u00e9ticos est\u00e3o sabotando os reservat\u00f3rios de \u00e1gua dos Estados Unidos e resolve fazer um ataque anticomunista, bombardeando a Uni\u00e3o Sovi\u00e9tica para se livrar dos \"vermelhos\". Com as comunica\u00e7\u00f5es interrompidas, ele \u00e9 o \u00fanico que possui os c\u00f3digos para parar os bombardeiros e evitar o que provavelmente seria o in\u00edcio da Terceira Guerra Mundial.",
+                "vote_average": 8.1,
+                "vote_count": 5333
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mary Poppins",
+            "second_label": "Bill Walsh, Don DaGradi",
+            "category": "Writing (Screenplay--based on material from another medium)",
+            "year": 1965,
+            "tmdb": {
+                "id": 433,
+                "original_title": "Mary Poppins",
+                "title": "Mary Poppins",
+                "release_date": "1964-12-17",
+                "backdrop_path": "/prVH6SyQ6yDmzVxxkcr57zhLM5C.jpg",
+                "poster_path": "/sqmcdguxgCBPI3IkI7FfZBroxxW.jpg",
+                "overview": "Na Londres de 1910, o banqueiro Mr. Banks, um homem frio que trata com rigidez Jane e Michael, seus filhos sapecas, n\u00e3o consegue contratar uma bab\u00e1, pois elas desistem facilmente do emprego. Em uma noite, enquanto redige com sua esposa um an\u00fancio de jornal procurando uma bab\u00e1, sua filha Jane aparece com uma carta mostrando como seria uma bab\u00e1 perfeita. Esta carta acaba chegando nas m\u00e3os de Mary Poppins, que \u00e9 tudo aquilo que est\u00e1 descrito na carta. Mary Poppins possui poderes m\u00e1gicos e, com seu amigo faz-tudo Bert, transforma a vida daquela fam\u00edlia, com muita m\u00fasica, magia e divers\u00e3o.",
+                "vote_average": 7.6,
+                "vote_count": 4481
+            },
+            "winner": false
+        },
+        {
+            "first_label": "My Fair Lady",
+            "second_label": "Alan Jay Lerner",
+            "category": "Writing (Screenplay--based on material from another medium)",
+            "year": 1965,
+            "tmdb": {
+                "id": 11113,
+                "original_title": "My Fair Lady",
+                "title": "Minha Bela Dama",
+                "release_date": "1964-10-21",
+                "backdrop_path": "/xMoQjqa3JUc2unO4nF9PmM1JTQu.jpg",
+                "poster_path": "/iWJFnvGmiZE3DTvbabadhOULyo.jpg",
+                "overview": "Henry Higgins (Rex Harrison), um intelectual e professor de fon\u00e9tica, aposta que conseguir\u00e1, no per\u00edodo m\u00e1ximo de seis meses, transformar Eliza Doolittle (Audrey Hepburn), uma simples florista de rua que n\u00e3o sabe falar direito, em uma dama. Mas a tarefa se mostra muito mais dif\u00edcil do que tinha sido imaginada originalmente.",
+                "vote_average": 7.5,
+                "vote_count": 1225
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Zorba the Greek",
+            "second_label": "Michael Cacoyannis",
+            "category": "Writing (Screenplay--based on material from another medium)",
+            "year": 1965,
+            "tmdb": {
+                "id": 10604,
+                "original_title": "\u0391\u03bb\u03ad\u03be\u03b7\u03c2 \u0396\u03bf\u03c1\u03bc\u03c0\u03ac\u03c2",
+                "title": "Zorba, O Grego",
+                "release_date": "1964-12-14",
+                "backdrop_path": "/rK22M6yVJgVTQSj91a8ILDJvwhM.jpg",
+                "poster_path": "/dJ2Tw1b0vSXy6EImkicDlslXAZG.jpg",
+                "overview": "Um escritor ingl\u00eas vai a Creta para trabalhar em uma mina que herdou do pai, um grego de nascen\u00e7a. Logo ele conhece Alexis Zorba (Anthony Quinn), um determinado campon\u00eas grego que tamb\u00e9m quer trabalhar na mina. Os dois acabam indo se hospedar em um pequeno hotel administrado por uma velha prostituta francesa.",
+                "vote_average": 7.5,
+                "vote_count": 318
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Story and Screenplay--written directly for the screen)": [
+        {
+            "first_label": "Father Goose",
+            "second_label": "Story by S. H. Barnett;  Screenplay by Peter Stone, Frank Tarloff",
+            "category": "Writing (Story and Screenplay--written directly for the screen)",
+            "year": 1965,
+            "tmdb": {
+                "id": 30295,
+                "original_title": "Father Goose",
+                "title": "Papai Ganso",
+                "release_date": "1964-12-10",
+                "backdrop_path": "/qxfuWn03LIk8FFT85gIoFQmPB3.jpg",
+                "poster_path": "/n7PEqxqLg1d7R28ca0JY91J4D64.jpg",
+                "overview": "During World War II, South Sea beachcomber Walter Eckland is persuaded to spy on planes passing over his island. He gets more than he bargained for as schoolteacher Catherine Frenau arrives on the run from the Japanese with her pupils in tow!",
+                "vote_average": 6.9,
+                "vote_count": 159
+            },
+            "winner": true
+        },
+        {
+            "first_label": "A Hard Day's Night",
+            "second_label": "Alun Owen",
+            "category": "Writing (Story and Screenplay--written directly for the screen)",
+            "year": 1965,
+            "tmdb": {
+                "id": 704,
+                "original_title": "A Hard Day's Night",
+                "title": "Beatles: Os Reis do i\u00ea i\u00ea i\u00ea",
+                "release_date": "1964-07-07",
+                "backdrop_path": "/9hWiNbvLR3nPDanTdEWOc4EeBGp.jpg",
+                "poster_path": "/7ZKn8R4Wqvz9zx4Q4dDO30l5jXQ.jpg",
+                "overview": "Os Beatles est\u00e3o no auge de seu sucesso. Ao mesmo tempo em que trabalham, John, Paul, Jorge e Ringo fazem de tudo para se divertirem em meio ao ass\u00e9dio dos f\u00e3s e estresse dos produtores. Um dia da vida dos garotos de Liverpool. Filme indicado a 2 Oscar.",
+                "vote_average": 7.4,
+                "vote_count": 631
+            },
+            "winner": false
+        },
+        {
+            "first_label": "One Potato, Two Potato",
+            "second_label": "Story by Orville H. Hampton;  Screenplay by Raphael Hayes, Orville H. Hampton",
+            "category": "Writing (Story and Screenplay--written directly for the screen)",
+            "year": 1965,
+            "tmdb": {
+                "id": 143841,
+                "original_title": "One Potato, Two Potato",
+                "title": "One Potato, Two Potato",
+                "release_date": "1964-07-29",
+                "backdrop_path": "/jV6Q2xEXuSW8eYfCD1I7loBzeVZ.jpg",
+                "poster_path": "/e11qlc4rPaYzIigaEfV8XuVtKo3.jpg",
+                "overview": "Study of interracial marriage in the 1960s. A white divorc\u00e9e falls in love with and marries an African-American man. When her ex-husband sues for custody of her child, arguing that a mixed household is an improper place to raise the girl, the new husband fights for his parental rights in court, fighting against a judge who represents the prejudices of the era.",
+                "vote_average": 6.8,
+                "vote_count": 14
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Organizer",
+            "second_label": "Age, Scarpelli, Mario Monicelli",
+            "category": "Writing (Story and Screenplay--written directly for the screen)",
+            "year": 1965,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "That Man from Rio",
+            "second_label": "Jean-Paul Rappeneau, Ariane Mnouchkine, Daniel Boulanger, Philippe De Broca",
+            "category": "Writing (Story and Screenplay--written directly for the screen)",
+            "year": 1965,
+            "tmdb": {
+                "id": 4034,
+                "original_title": "L'Homme de Rio",
+                "title": "O Homem do Rio",
+                "release_date": "1964-02-05",
+                "backdrop_path": "/1oziVuVtJc7BgHRCVLhVJ53u9u3.jpg",
+                "poster_path": "/rYagiP1TfTpHITL5tXTFiqfsyQl.jpg",
+                "overview": "French military man Adrien Dufourquet gets an eight-day furlough to visit his fianc\u00e9e, Agn\u00e8s. But when he arrives in Paris, he learns that her late father's partner, museum curator Professor Catalan, has just been kidnapped by a group of Amazon tribesmen who have also stolen a priceless statue from the museum. Adrien and Agn\u00e8s pursue the kidnappers to Brazil, where they learn that the statue is the key to a hidden Amazon treasure.",
+                "vote_average": 7.4,
+                "vote_count": 292
+            },
+            "winner": false
+        }
+    ]
+}

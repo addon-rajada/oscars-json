@@ -1,0 +1,1736 @@
+{
+    "Actor": [
+        {
+            "first_label": "John Wayne",
+            "second_label": "True Grit",
+            "category": "Actor",
+            "year": 1970,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Richard Burton",
+            "second_label": "Anne of the Thousand Days",
+            "category": "Actor",
+            "year": 1970,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dustin Hoffman",
+            "second_label": "Midnight Cowboy",
+            "category": "Actor",
+            "year": 1970,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Peter O'Toole",
+            "second_label": "Goodbye, Mr. Chips",
+            "category": "Actor",
+            "year": 1970,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jon Voight",
+            "second_label": "Midnight Cowboy",
+            "category": "Actor",
+            "year": 1970,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Gig Young",
+            "second_label": "They Shoot Horses, Don't They?",
+            "category": "Actor in a Supporting Role",
+            "year": 1970,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Rupert Crosse",
+            "second_label": "The Reivers",
+            "category": "Actor in a Supporting Role",
+            "year": 1970,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Elliott Gould",
+            "second_label": "Bob & Carol & Ted & Alice",
+            "category": "Actor in a Supporting Role",
+            "year": 1970,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jack Nicholson",
+            "second_label": "Easy Rider",
+            "category": "Actor in a Supporting Role",
+            "year": 1970,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Anthony Quayle",
+            "second_label": "Anne of the Thousand Days",
+            "category": "Actor in a Supporting Role",
+            "year": 1970,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress": [
+        {
+            "first_label": "Maggie Smith",
+            "second_label": "The Prime of Miss Jean Brodie",
+            "category": "Actress",
+            "year": 1970,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Genevieve Bujold",
+            "second_label": "Anne of the Thousand Days",
+            "category": "Actress",
+            "year": 1970,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jane Fonda",
+            "second_label": "They Shoot Horses, Don't They?",
+            "category": "Actress",
+            "year": 1970,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Liza Minnelli",
+            "second_label": "The Sterile Cuckoo",
+            "category": "Actress",
+            "year": 1970,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jean Simmons",
+            "second_label": "The Happy Ending",
+            "category": "Actress",
+            "year": 1970,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Goldie Hawn",
+            "second_label": "Cactus Flower",
+            "category": "Actress in a Supporting Role",
+            "year": 1970,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Catherine Burns",
+            "second_label": "Last Summer",
+            "category": "Actress in a Supporting Role",
+            "year": 1970,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dyan Cannon",
+            "second_label": "Bob & Carol & Ted & Alice",
+            "category": "Actress in a Supporting Role",
+            "year": 1970,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sylvia Miles",
+            "second_label": "Midnight Cowboy",
+            "category": "Actress in a Supporting Role",
+            "year": 1970,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Susannah York",
+            "second_label": "They Shoot Horses, Don't They?",
+            "category": "Actress in a Supporting Role",
+            "year": 1970,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction": [
+        {
+            "first_label": "Hello, Dolly!",
+            "second_label": "Art Direction: John DeCuir, Jack Martin Smith, Herman Blumenthal; Set Decoration: Walter M. Scott, George Hopkins, Raphael Bretton",
+            "category": "Art Direction",
+            "year": 1970,
+            "tmdb": {
+                "id": 14030,
+                "original_title": "Hello, Dolly!",
+                "title": "Al\u00f4, Dolly!",
+                "release_date": "1969-12-12",
+                "backdrop_path": "/rvsPkUYhWZkAKMb2fnWHw5pNAjZ.jpg",
+                "poster_path": "/rgU3UEoVfFmYE6xBGQj0D52THd2.jpg",
+                "overview": "Dolly Levy \u00e9 uma vi\u00fava socialite que trabalha como casamenteira. Ela viaja para Yonkers para encontrar uma parceira para o \"meio-milion\u00e1rio\" Horace Vandergelder. Dory insentiva os dois funcion\u00e1rio de Vangergelder a viajar para Nova Yorque para procurar garotas onde acaba se metendo em grandes confus\u00f5es.",
+                "vote_average": 6.9,
+                "vote_count": 337
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Anne of the Thousand Days",
+            "second_label": "Art Direction: Maurice Carter, Lionel Couch; Set Decoration: Patrick McLoughlin",
+            "category": "Art Direction",
+            "year": 1970,
+            "tmdb": {
+                "id": 22522,
+                "original_title": "Anne of the Thousand Days",
+                "title": "Ana dos Mil Dias",
+                "release_date": "1969-12-18",
+                "backdrop_path": "/zyLU9jHFS2IInPagitMfasDwss.jpg",
+                "poster_path": "/u2p5SspAs1GqeuHXNXywryU3k37.jpg",
+                "overview": "O rei Henrique VIII (Richard Burton) apaixona-se pela jovem Anna Bolena (Genevi\u00e8ve Bujold). Casado com Catarina de Arag\u00e3o, que n\u00e3o lhe deu um herdeiro homem, n\u00e3o mede esfor\u00e7os para ficar com Anna, rompendo com a Igreja Cat\u00f3lica e criando a Igreja Anglicana. Mas Anna tamb\u00e9m n\u00e3o consegue lhe dar seu t\u00e3o esperado filho homem. (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.0,
+                "vote_count": 113
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gaily, Gaily",
+            "second_label": "Art Direction: Robert Boyle, George B. Chan; Set Decoration: Edward Boyle, Carl Biddiscombe",
+            "category": "Art Direction",
+            "year": 1970,
+            "tmdb": {
+                "id": 147357,
+                "original_title": "Gaily, Gaily",
+                "title": "Gaily, Gaily",
+                "release_date": "1969-12-16",
+                "backdrop_path": "/ljacmdDqcNMaZ9rXXD4v7zbpYZM.jpg",
+                "poster_path": "/gpRCXPaIR7VAyahpQqW8aCERjJI.jpg",
+                "overview": "After runaway Ben Young is robbed and left on his own, he is taken in by Lil, the head of a Chicago brothel. Acting as a surrogate mother for Ben, who thinks she runs a boardinghouse, Lil gets him a job with Francis Sullivan at the local newspaper. As Ben is exposed to the workings of the big city, he realizes the extent of government corruption and sets out on the daunting task of reforming Chicago politics, finding several allies along the way.",
+                "vote_average": 4.0,
+                "vote_count": 6
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sweet Charity",
+            "second_label": "Art Direction: Alexander Golitzen, George C. Webb; Set Decoration: Jack D. Moore",
+            "category": "Art Direction",
+            "year": 1970,
+            "tmdb": {
+                "id": 42618,
+                "original_title": "Sweet Charity",
+                "title": "Charity, Meu Amor",
+                "release_date": "1969-02-25",
+                "backdrop_path": "/1Cg7SxigeI3IwbSFjmJ0d1gMPye.jpg",
+                "poster_path": "/brwDwtckSCp2t4Hz3JU3vwCv83h.jpg",
+                "overview": "A T\u00e1xi-Girl Charity continua a ter f\u00e9 na ra\u00e7a humana, apesar das decep\u00e7\u00f5es aparentemente intermin\u00e1veis que vivencia, e a ter esperan\u00e7a de que finalmente ela encontrar\u00e1 o jovem simp\u00e1tico para afast\u00e1-la de sua vida desprez\u00edvel. Talvez, apenas talvez, o belo Oscar seja o \u00fanico capaz de fazer isso.",
+                "vote_average": 6.7,
+                "vote_count": 67
+            },
+            "winner": false
+        },
+        {
+            "first_label": "They Shoot Horses, Don't They?",
+            "second_label": "Art Direction: Harry Horner; Set Decoration: Frank McKelvy",
+            "category": "Art Direction",
+            "year": 1970,
+            "tmdb": {
+                "id": 28145,
+                "original_title": "They Shoot Horses, Don't They?",
+                "title": "A Noite dos Desesperados",
+                "release_date": "1969-12-10",
+                "backdrop_path": "/7WdvQjsRorlIlI8itYb371ZUET1.jpg",
+                "poster_path": "/gzzJDBx66nTk60jhME5OwRAefQ0.jpg",
+                "overview": "Durante a Grande Depress\u00e3o as vidas de um grupo heterog\u00eaneo de competidores se entrela\u00e7am numa maratona de dan\u00e7a desumana e esgotante. Gloria \u00e9 uma jovem mulher. Ela parece mais velha do que \u00e9 e sente que sua vida n\u00e3o tem mais jeito, depois de ter sido enganada e tra\u00edda muitas vezes no passado. Enquanto se recupera de uma tentativa de suic\u00eddio, tem a ideia fixa de que uma revista de cinema para Hollywood vai torn\u00e1-la uma atriz. Robert \u00e9 um morador de Hollywood desesperado tentando se tornar diretor. Robert e Gloria se encontram e decidem entrar na maratona de dan\u00e7a, uma das manias dos anos trinta. A dan\u00e7a esgotante cobra seu ped\u00e1gio no esp\u00edrito j\u00e1 enfraquecido da Gloria, e ela diz ao Robert que estaria melhor morta, que sua vida n\u00e3o tem mais jeito - o tempo todo agindo com crueldade e amargura, alienando as pessoas ao seu redor, tentando convenc\u00ea-lo a atirar a deixando livre de sua mis\u00e9ria. Afinal de contas, eles atiram cavalos, n\u00e3o \u00e9 mesmo? (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.6,
+                "vote_count": 290
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "Butch Cassidy and the Sundance Kid",
+            "second_label": "Conrad Hall",
+            "category": "Cinematography",
+            "year": 1970,
+            "tmdb": {
+                "id": 642,
+                "original_title": "Butch Cassidy and the Sundance Kid",
+                "title": "Butch Cassidy",
+                "release_date": "1969-01-15",
+                "backdrop_path": "/C6jcUqld8M6hZQmzBxgwHuQ4qT.jpg",
+                "poster_path": "/s36qmgkFYtlb634moF05KgrybHm.jpg",
+                "overview": "Dois amigos insepar\u00e1veis, Butch Cassidy e Sundance Kid, lideram o Bando do Buraco na Parede e vivem de assaltar trens e bancos. Quando s\u00e3o ca\u00e7ados por todo o pa\u00eds resolvem ir para a Bol\u00edvia e juntamente com Etta, a namorada de Sundance, rumam para a Am\u00e9rica do Sul. Mas esta decis\u00e3o n\u00e3o lhes proporcionar\u00e1 grandes assaltos ou uma vida mais tranq\u00fcila.",
+                "vote_average": 7.6,
+                "vote_count": 2074
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Anne of the Thousand Days",
+            "second_label": "Arthur Ibbetson",
+            "category": "Cinematography",
+            "year": 1970,
+            "tmdb": {
+                "id": 22522,
+                "original_title": "Anne of the Thousand Days",
+                "title": "Ana dos Mil Dias",
+                "release_date": "1969-12-18",
+                "backdrop_path": "/zyLU9jHFS2IInPagitMfasDwss.jpg",
+                "poster_path": "/u2p5SspAs1GqeuHXNXywryU3k37.jpg",
+                "overview": "O rei Henrique VIII (Richard Burton) apaixona-se pela jovem Anna Bolena (Genevi\u00e8ve Bujold). Casado com Catarina de Arag\u00e3o, que n\u00e3o lhe deu um herdeiro homem, n\u00e3o mede esfor\u00e7os para ficar com Anna, rompendo com a Igreja Cat\u00f3lica e criando a Igreja Anglicana. Mas Anna tamb\u00e9m n\u00e3o consegue lhe dar seu t\u00e3o esperado filho homem. (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.0,
+                "vote_count": 113
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Bob & Carol & Ted & Alice",
+            "second_label": "Charles B. Lang",
+            "category": "Cinematography",
+            "year": 1970,
+            "tmdb": {
+                "id": 26520,
+                "original_title": "Bob & Carol & Ted & Alice",
+                "title": "Bob, Carol, Ted e Alice",
+                "release_date": "1969-09-17",
+                "backdrop_path": "/abWke008aC7M7nAUrij9JTWPEXk.jpg",
+                "poster_path": "/8fDLuB1q3JycYJPK0F65OYO3lAX.jpg",
+                "overview": "After returning to Los Angeles from a group therapy session, documentary filmmaker Bob Sanders and his wife, Carol, find themselves becoming vigilante couples counselors, offering unsolicited advice to their best friends, Ted and Alice Henderson. Not wanting to be rude, the Hendersons play along, but some latent sexual tension among the four soon comes bubbling to the surface, and long-buried desires don't stay buried for long.",
+                "vote_average": 6.2,
+                "vote_count": 91
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hello, Dolly!",
+            "second_label": "Harry Stradling",
+            "category": "Cinematography",
+            "year": 1970,
+            "tmdb": {
+                "id": 14030,
+                "original_title": "Hello, Dolly!",
+                "title": "Al\u00f4, Dolly!",
+                "release_date": "1969-12-12",
+                "backdrop_path": "/rvsPkUYhWZkAKMb2fnWHw5pNAjZ.jpg",
+                "poster_path": "/rgU3UEoVfFmYE6xBGQj0D52THd2.jpg",
+                "overview": "Dolly Levy \u00e9 uma vi\u00fava socialite que trabalha como casamenteira. Ela viaja para Yonkers para encontrar uma parceira para o \"meio-milion\u00e1rio\" Horace Vandergelder. Dory insentiva os dois funcion\u00e1rio de Vangergelder a viajar para Nova Yorque para procurar garotas onde acaba se metendo em grandes confus\u00f5es.",
+                "vote_average": 6.9,
+                "vote_count": 337
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Marooned",
+            "second_label": "Daniel Fapp",
+            "category": "Cinematography",
+            "year": 1970,
+            "tmdb": {
+                "id": 40140,
+                "original_title": "Marooned",
+                "title": "Sem Rumo no Espa\u00e7o",
+                "release_date": "1969-12-11",
+                "backdrop_path": "/d5agxNrduE1LdnXmgN8QNRiSlL9.jpg",
+                "poster_path": "/lFnHHKGzTXg4TND5YiS2KYs8AMJ.jpg",
+                "overview": "Tr\u00eas astronautas ficam presos no espa\u00e7o quando sua nave tentava retornar por onde vieram. Eles v\u00e3o ser resgatados a tempo, antes que o oxig\u00eanio acabe?",
+                "vote_average": 5.9,
+                "vote_count": 88
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design": [
+        {
+            "first_label": "Anne of the Thousand Days",
+            "second_label": "Margaret Furse",
+            "category": "Costume Design",
+            "year": 1970,
+            "tmdb": {
+                "id": 22522,
+                "original_title": "Anne of the Thousand Days",
+                "title": "Ana dos Mil Dias",
+                "release_date": "1969-12-18",
+                "backdrop_path": "/zyLU9jHFS2IInPagitMfasDwss.jpg",
+                "poster_path": "/u2p5SspAs1GqeuHXNXywryU3k37.jpg",
+                "overview": "O rei Henrique VIII (Richard Burton) apaixona-se pela jovem Anna Bolena (Genevi\u00e8ve Bujold). Casado com Catarina de Arag\u00e3o, que n\u00e3o lhe deu um herdeiro homem, n\u00e3o mede esfor\u00e7os para ficar com Anna, rompendo com a Igreja Cat\u00f3lica e criando a Igreja Anglicana. Mas Anna tamb\u00e9m n\u00e3o consegue lhe dar seu t\u00e3o esperado filho homem. (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.0,
+                "vote_count": 113
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Gaily, Gaily",
+            "second_label": "Ray Aghayan",
+            "category": "Costume Design",
+            "year": 1970,
+            "tmdb": {
+                "id": 147357,
+                "original_title": "Gaily, Gaily",
+                "title": "Gaily, Gaily",
+                "release_date": "1969-12-16",
+                "backdrop_path": "/ljacmdDqcNMaZ9rXXD4v7zbpYZM.jpg",
+                "poster_path": "/gpRCXPaIR7VAyahpQqW8aCERjJI.jpg",
+                "overview": "After runaway Ben Young is robbed and left on his own, he is taken in by Lil, the head of a Chicago brothel. Acting as a surrogate mother for Ben, who thinks she runs a boardinghouse, Lil gets him a job with Francis Sullivan at the local newspaper. As Ben is exposed to the workings of the big city, he realizes the extent of government corruption and sets out on the daunting task of reforming Chicago politics, finding several allies along the way.",
+                "vote_average": 4.0,
+                "vote_count": 6
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hello, Dolly!",
+            "second_label": "Irene Sharaff",
+            "category": "Costume Design",
+            "year": 1970,
+            "tmdb": {
+                "id": 14030,
+                "original_title": "Hello, Dolly!",
+                "title": "Al\u00f4, Dolly!",
+                "release_date": "1969-12-12",
+                "backdrop_path": "/rvsPkUYhWZkAKMb2fnWHw5pNAjZ.jpg",
+                "poster_path": "/rgU3UEoVfFmYE6xBGQj0D52THd2.jpg",
+                "overview": "Dolly Levy \u00e9 uma vi\u00fava socialite que trabalha como casamenteira. Ela viaja para Yonkers para encontrar uma parceira para o \"meio-milion\u00e1rio\" Horace Vandergelder. Dory insentiva os dois funcion\u00e1rio de Vangergelder a viajar para Nova Yorque para procurar garotas onde acaba se metendo em grandes confus\u00f5es.",
+                "vote_average": 6.9,
+                "vote_count": 337
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sweet Charity",
+            "second_label": "Edith Head",
+            "category": "Costume Design",
+            "year": 1970,
+            "tmdb": {
+                "id": 42618,
+                "original_title": "Sweet Charity",
+                "title": "Charity, Meu Amor",
+                "release_date": "1969-02-25",
+                "backdrop_path": "/1Cg7SxigeI3IwbSFjmJ0d1gMPye.jpg",
+                "poster_path": "/brwDwtckSCp2t4Hz3JU3vwCv83h.jpg",
+                "overview": "A T\u00e1xi-Girl Charity continua a ter f\u00e9 na ra\u00e7a humana, apesar das decep\u00e7\u00f5es aparentemente intermin\u00e1veis que vivencia, e a ter esperan\u00e7a de que finalmente ela encontrar\u00e1 o jovem simp\u00e1tico para afast\u00e1-la de sua vida desprez\u00edvel. Talvez, apenas talvez, o belo Oscar seja o \u00fanico capaz de fazer isso.",
+                "vote_average": 6.7,
+                "vote_count": 67
+            },
+            "winner": false
+        },
+        {
+            "first_label": "They Shoot Horses, Don't They?",
+            "second_label": "Donfeld",
+            "category": "Costume Design",
+            "year": 1970,
+            "tmdb": {
+                "id": 28145,
+                "original_title": "They Shoot Horses, Don't They?",
+                "title": "A Noite dos Desesperados",
+                "release_date": "1969-12-10",
+                "backdrop_path": "/7WdvQjsRorlIlI8itYb371ZUET1.jpg",
+                "poster_path": "/gzzJDBx66nTk60jhME5OwRAefQ0.jpg",
+                "overview": "Durante a Grande Depress\u00e3o as vidas de um grupo heterog\u00eaneo de competidores se entrela\u00e7am numa maratona de dan\u00e7a desumana e esgotante. Gloria \u00e9 uma jovem mulher. Ela parece mais velha do que \u00e9 e sente que sua vida n\u00e3o tem mais jeito, depois de ter sido enganada e tra\u00edda muitas vezes no passado. Enquanto se recupera de uma tentativa de suic\u00eddio, tem a ideia fixa de que uma revista de cinema para Hollywood vai torn\u00e1-la uma atriz. Robert \u00e9 um morador de Hollywood desesperado tentando se tornar diretor. Robert e Gloria se encontram e decidem entrar na maratona de dan\u00e7a, uma das manias dos anos trinta. A dan\u00e7a esgotante cobra seu ped\u00e1gio no esp\u00edrito j\u00e1 enfraquecido da Gloria, e ela diz ao Robert que estaria melhor morta, que sua vida n\u00e3o tem mais jeito - o tempo todo agindo com crueldade e amargura, alienando as pessoas ao seu redor, tentando convenc\u00ea-lo a atirar a deixando livre de sua mis\u00e9ria. Afinal de contas, eles atiram cavalos, n\u00e3o \u00e9 mesmo? (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.6,
+                "vote_count": 290
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "Midnight Cowboy",
+            "second_label": "John Schlesinger",
+            "category": "Directing",
+            "year": 1970,
+            "tmdb": {
+                "id": 3116,
+                "original_title": "Midnight Cowboy",
+                "title": "Perdidos na Noite",
+                "release_date": "1969-05-25",
+                "backdrop_path": "/cQv1NptKgJNN7x40YUt0FFacO2C.jpg",
+                "poster_path": "/xSekr6Dhor6hRDBpnTsr08wdCJd.jpg",
+                "overview": "Joe Buck \u00e9 um simpl\u00f3rio jovem texano que decide abandonar seu passado conturbado e se muda para Nova Iorque, onde tentar\u00e1 ganhar a vida como garoto de programa para mulheres ricas. Mas sua excessiva ingenuidade o impedir\u00e1 de ganhar dinheiro se prostituindo. Em uma de suas caminhadas, encontra Rizzo, um aleijado que sobrevive de pequenos golpes e furtos e com quem ter\u00e1 um la\u00e7o de amizade. Filme baseado no romance hom\u00f4nimo de James Leo Herlihy, lan\u00e7ado em 1965.",
+                "vote_average": 7.5,
+                "vote_count": 1304
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Alice's Restaurant",
+            "second_label": "Arthur Penn",
+            "category": "Directing",
+            "year": 1970,
+            "tmdb": {
+                "id": 5638,
+                "original_title": "Alice's Restaurant",
+                "title": "Deixem-nos Viver",
+                "release_date": "1969-08-20",
+                "backdrop_path": "/7TuP1K77CLnqWlmomz39GQREcfR.jpg",
+                "poster_path": "/a4X2zGrcohmBmwtIoijbD5ywF5N.jpg",
+                "overview": "After getting kicked out of college, Arlo decides to visit his friend Alice for Thanksgiving dinner. After dinner is over, Arlo volunteers to take the trash to the dump, but finds it closed for the holiday, so he just dumps the trash in the bottom of a ravine. This act of littering gets him arrested, and sends him on a bizarre journey that ends with him in front of the draft board.",
+                "vote_average": 6.2,
+                "vote_count": 62
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Butch Cassidy and the Sundance Kid",
+            "second_label": "George Roy Hill",
+            "category": "Directing",
+            "year": 1970,
+            "tmdb": {
+                "id": 642,
+                "original_title": "Butch Cassidy and the Sundance Kid",
+                "title": "Butch Cassidy",
+                "release_date": "1969-01-15",
+                "backdrop_path": "/C6jcUqld8M6hZQmzBxgwHuQ4qT.jpg",
+                "poster_path": "/s36qmgkFYtlb634moF05KgrybHm.jpg",
+                "overview": "Dois amigos insepar\u00e1veis, Butch Cassidy e Sundance Kid, lideram o Bando do Buraco na Parede e vivem de assaltar trens e bancos. Quando s\u00e3o ca\u00e7ados por todo o pa\u00eds resolvem ir para a Bol\u00edvia e juntamente com Etta, a namorada de Sundance, rumam para a Am\u00e9rica do Sul. Mas esta decis\u00e3o n\u00e3o lhes proporcionar\u00e1 grandes assaltos ou uma vida mais tranq\u00fcila.",
+                "vote_average": 7.6,
+                "vote_count": 2074
+            },
+            "winner": false
+        },
+        {
+            "first_label": "They Shoot Horses, Don't They?",
+            "second_label": "Sydney Pollack",
+            "category": "Directing",
+            "year": 1970,
+            "tmdb": {
+                "id": 28145,
+                "original_title": "They Shoot Horses, Don't They?",
+                "title": "A Noite dos Desesperados",
+                "release_date": "1969-12-10",
+                "backdrop_path": "/7WdvQjsRorlIlI8itYb371ZUET1.jpg",
+                "poster_path": "/gzzJDBx66nTk60jhME5OwRAefQ0.jpg",
+                "overview": "Durante a Grande Depress\u00e3o as vidas de um grupo heterog\u00eaneo de competidores se entrela\u00e7am numa maratona de dan\u00e7a desumana e esgotante. Gloria \u00e9 uma jovem mulher. Ela parece mais velha do que \u00e9 e sente que sua vida n\u00e3o tem mais jeito, depois de ter sido enganada e tra\u00edda muitas vezes no passado. Enquanto se recupera de uma tentativa de suic\u00eddio, tem a ideia fixa de que uma revista de cinema para Hollywood vai torn\u00e1-la uma atriz. Robert \u00e9 um morador de Hollywood desesperado tentando se tornar diretor. Robert e Gloria se encontram e decidem entrar na maratona de dan\u00e7a, uma das manias dos anos trinta. A dan\u00e7a esgotante cobra seu ped\u00e1gio no esp\u00edrito j\u00e1 enfraquecido da Gloria, e ela diz ao Robert que estaria melhor morta, que sua vida n\u00e3o tem mais jeito - o tempo todo agindo com crueldade e amargura, alienando as pessoas ao seu redor, tentando convenc\u00ea-lo a atirar a deixando livre de sua mis\u00e9ria. Afinal de contas, eles atiram cavalos, n\u00e3o \u00e9 mesmo? (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.6,
+                "vote_count": 290
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Z",
+            "second_label": "Costa-Gavras",
+            "category": "Directing",
+            "year": 1970,
+            "tmdb": {
+                "id": 2721,
+                "original_title": "Z",
+                "title": "Z",
+                "release_date": "1969-02-26",
+                "backdrop_path": "/Ru4YeA6BpROEJkIwayqfBHkQ7O.jpg",
+                "poster_path": "/nuLQQG4kfwzcZnF4yH9TyDZ49my.jpg",
+                "overview": "Conhe\u00e7a o caso Lambrakis, onde a morte de um pol\u00edtico foi encoberta vergonhosamente por pol\u00edticos e policiais, na Gr\u00e9cia dos anos 60. Vencedor dos Oscar de Melhor Filme Estrangeiro e Edi\u00e7\u00e3o, foi o primeiro filme a ser indicado tamb\u00e9m na categoria Melhor Filme. (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.9,
+                "vote_count": 484
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "Arthur Rubinstein - The Love of Life",
+            "second_label": "Bernard Chevry, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1970,
+            "tmdb": {
+                "id": 114512,
+                "original_title": "L\u2019Amour de la vie \u2013 Artur Rubinstein",
+                "title": "Arthur Rubinstein: The Love of Life",
+                "release_date": "1969-06-17",
+                "backdrop_path": null,
+                "poster_path": "/4z09smta9OVYWDlCz5MomD9Lg0b.jpg",
+                "overview": "Documentary about Polish-American pianist, Arthur Rubinstein.",
+                "vote_average": 6.0,
+                "vote_count": 4
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Before the Mountain Was Moved",
+            "second_label": "Robert K. Sharpe, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1970,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "In the Year of the Pig",
+            "second_label": "Emile de Antonio, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1970,
+            "tmdb": {
+                "id": 63951,
+                "original_title": "In the Year of the Pig",
+                "title": "No Ano do Porco",
+                "release_date": "1969-02-26",
+                "backdrop_path": "/xERm1ZTUJPzd07D01nh4UQciWaf.jpg",
+                "poster_path": "/iXAeDRmDguZAl2QxaHv1YQ7G1u6.jpg",
+                "overview": "Atrav\u00e9s de entrevistas e pesquisas, o cineasta contextualiza e critica a participa\u00e7\u00e3o americana na Guerra do Vietn\u00e3.",
+                "vote_average": 7.0,
+                "vote_count": 23
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Olympics in Mexico",
+            "second_label": "Comite Organizador de los Juegos de la XIX Olimpiada",
+            "category": "Documentary (Feature)",
+            "year": 1970,
+            "tmdb": {
+                "id": 118881,
+                "original_title": "Olimpiada en M\u00e9xico",
+                "title": "The Olympics in Mexico",
+                "release_date": "1969-08-29",
+                "backdrop_path": null,
+                "poster_path": "/jSJAGlzauXYsrEzU6sPgyM9kbnj.jpg",
+                "overview": "Documentary about the XIX Olympic Games in Mexico City in 1968",
+                "vote_average": 5.7,
+                "vote_count": 6
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Wolf Men",
+            "second_label": "Irwin Rosten, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1970,
+            "tmdb": {
+                "id": 149317,
+                "original_title": "The Wolf Men",
+                "title": "The Wolf Men",
+                "release_date": "1969-01-01",
+                "backdrop_path": null,
+                "poster_path": "/jYyjU33jhURNmElEj07Z38RhnT8.jpg",
+                "overview": "The Wolf Men [also known as Wolves and the Wolf Men) is a 1969 documentary film produced by Irwin Rosten. It was produced for the GE Monogram documentary series on NBC. The film follows naturalists as they fight to save rapidly vanishing species of  wolves. It was nominated for an Academy Award for Best Documentary Feature.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "Czechoslovakia 1968",
+            "second_label": "Denis Sanders and Robert M. Fresco, Producers",
+            "category": "Documentary (Short Subject)",
+            "year": 1970,
+            "tmdb": {
+                "id": 154645,
+                "original_title": "Czechoslovakia 1968",
+                "title": "Czechoslovakia 1968",
+                "release_date": "1969-12-31",
+                "backdrop_path": null,
+                "poster_path": "/aPGWGNfzh6QIhu2FwSPz5ynp31F.jpg",
+                "overview": "Short documentary about 50 years of history of Czechoslovakia, with archive images.",
+                "vote_average": 6.1,
+                "vote_count": 12
+            },
+            "winner": true
+        },
+        {
+            "first_label": "An Impression of John Steinbeck: Writer",
+            "second_label": "Donald Wrye, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1970,
+            "tmdb": {
+                "id": 243333,
+                "original_title": "An Impression of John Steinbeck: Writer",
+                "title": "An Impression of John Steinbeck: Writer",
+                "release_date": "1969-01-01",
+                "backdrop_path": null,
+                "poster_path": "/6iXYqzpegLQq8I3DcXwUswvu0Bp.jpg",
+                "overview": "Oscar nominated documentary short from 1969",
+                "vote_average": 5.0,
+                "vote_count": 1
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jenny Is a Good Thing",
+            "second_label": "Joan Horvath, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1970,
+            "tmdb": {
+                "id": 243335,
+                "original_title": "Jenny is a Good Thing",
+                "title": "Jenny is a Good Thing",
+                "release_date": "1969-01-01",
+                "backdrop_path": null,
+                "poster_path": "/ery7j9cUFffdlYzK8kwb4x7MC3B.jpg",
+                "overview": "Jenny is a Good Thing is a 1969 American short documentary film about children and poverty, directed by Joan Horvath. Produced by Project Head Start, it shows the importance of good nutrition for underprivileged nursery school children. The film was nominated for an Academy Award for Best Documentary Short.",
+                "vote_average": 5.5,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Leo Beuerman",
+            "second_label": "Arthur H. Wolf and Russell A. Mosser, Producers",
+            "category": "Documentary (Short Subject)",
+            "year": 1970,
+            "tmdb": {
+                "id": 243336,
+                "original_title": "Leo Beuerman",
+                "title": "Leo Beuerman",
+                "release_date": "1969-10-01",
+                "backdrop_path": null,
+                "poster_path": "/1mMK13jjWWHa4f2X2x0NtOcskHb.jpg",
+                "overview": "Leo Beuerman is a 1969 American short documentary film directed by Gene Boomer. It tells the story of Leo Beuerman (1902\u20131974), a diminutive, disabled man who sold pencils and became a fixture on the downtown sidewalks of Lawrence, Kansas in the 1950s and 1960s thanks to his determination. It was nominated for an Academy Award for Best Documentary Short.",
+                "vote_average": 7.7,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Magic Machines",
+            "second_label": "Joan Keller Stern, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1970,
+            "tmdb": {
+                "id": 243329,
+                "original_title": "The Magic Machines",
+                "title": "The Magic Machines",
+                "release_date": "1969-01-01",
+                "backdrop_path": null,
+                "poster_path": "/u1kyZ4j2ZX3yUnOktoJz7QKIQKa.jpg",
+                "overview": "The Magic Machines is a 1969 American short documentary film directed by Bob Curtis about kinetic artist Robert Gilbert, a young hippie sculptor who makes bright-colored, motor-driven machines from metal trash and spare parts. It won an Oscar at the 42nd Academy Awards in 1970 for Academy Award for Best Live Action Short Film and was nominated for Academy Award for Best Documentary Short Subject.",
+                "vote_average": 6.5,
+                "vote_count": 4
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "Z",
+            "second_label": "\"Z\" Franoise Bonnot",
+            "category": "Film Editing",
+            "year": 1970,
+            "tmdb": {
+                "id": 2721,
+                "original_title": "Z",
+                "title": "Z",
+                "release_date": "1969-02-26",
+                "backdrop_path": "/Ru4YeA6BpROEJkIwayqfBHkQ7O.jpg",
+                "poster_path": "/nuLQQG4kfwzcZnF4yH9TyDZ49my.jpg",
+                "overview": "Conhe\u00e7a o caso Lambrakis, onde a morte de um pol\u00edtico foi encoberta vergonhosamente por pol\u00edticos e policiais, na Gr\u00e9cia dos anos 60. Vencedor dos Oscar de Melhor Filme Estrangeiro e Edi\u00e7\u00e3o, foi o primeiro filme a ser indicado tamb\u00e9m na categoria Melhor Filme. (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.9,
+                "vote_count": 484
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Hello, Dolly!",
+            "second_label": "William Reynolds",
+            "category": "Film Editing",
+            "year": 1970,
+            "tmdb": {
+                "id": 14030,
+                "original_title": "Hello, Dolly!",
+                "title": "Al\u00f4, Dolly!",
+                "release_date": "1969-12-12",
+                "backdrop_path": "/rvsPkUYhWZkAKMb2fnWHw5pNAjZ.jpg",
+                "poster_path": "/rgU3UEoVfFmYE6xBGQj0D52THd2.jpg",
+                "overview": "Dolly Levy \u00e9 uma vi\u00fava socialite que trabalha como casamenteira. Ela viaja para Yonkers para encontrar uma parceira para o \"meio-milion\u00e1rio\" Horace Vandergelder. Dory insentiva os dois funcion\u00e1rio de Vangergelder a viajar para Nova Yorque para procurar garotas onde acaba se metendo em grandes confus\u00f5es.",
+                "vote_average": 6.9,
+                "vote_count": 337
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Midnight Cowboy",
+            "second_label": "Hugh A. Robertson",
+            "category": "Film Editing",
+            "year": 1970,
+            "tmdb": {
+                "id": 3116,
+                "original_title": "Midnight Cowboy",
+                "title": "Perdidos na Noite",
+                "release_date": "1969-05-25",
+                "backdrop_path": "/cQv1NptKgJNN7x40YUt0FFacO2C.jpg",
+                "poster_path": "/xSekr6Dhor6hRDBpnTsr08wdCJd.jpg",
+                "overview": "Joe Buck \u00e9 um simpl\u00f3rio jovem texano que decide abandonar seu passado conturbado e se muda para Nova Iorque, onde tentar\u00e1 ganhar a vida como garoto de programa para mulheres ricas. Mas sua excessiva ingenuidade o impedir\u00e1 de ganhar dinheiro se prostituindo. Em uma de suas caminhadas, encontra Rizzo, um aleijado que sobrevive de pequenos golpes e furtos e com quem ter\u00e1 um la\u00e7o de amizade. Filme baseado no romance hom\u00f4nimo de James Leo Herlihy, lan\u00e7ado em 1965.",
+                "vote_average": 7.5,
+                "vote_count": 1304
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Secret of Santa Vittoria",
+            "second_label": "William Lyon, Earle Herdan",
+            "category": "Film Editing",
+            "year": 1970,
+            "tmdb": {
+                "id": 30298,
+                "original_title": "The Secret of Santa Vittoria",
+                "title": "O Segredo de Santa Vit\u00f3ria",
+                "release_date": "1970-01-02",
+                "backdrop_path": "/eGUdHfchC6lS28OxECnNl1IHLUd.jpg",
+                "poster_path": "/uX4xHo8GptvEbkch6i7OpWiM1L0.jpg",
+                "overview": "Bombolini \u00e9 um b\u00eabado bastante in\u00fatil na pequena cidade italiana de Santa Vittoria nos \u00faltimos dias da Segunda Guerra Mundial. Quando chega a not\u00edcia de que o governo fascista se rendeu, ele sobe na torre de \u00e1gua para derrubar a bandeira. Depois que subiu fica com medo da altura e n\u00e3o consegue descer. Ent\u00e3o algu\u00e9m da multid\u00e3o come\u00e7a a gritar o seu nome para lhe dar confian\u00e7a. O conselho fascista da cidade ouve isso e acredita que ele \u00e9 o novo l\u00edder da cidade. Eles se rendem a ele e o transformam no novo prefeito. Ele assume o cargo e quando descobre que os alem\u00e3es planejam ocupar sua cidade e tomar seu vinho (mais de um milh\u00e3o de garrafas), ele cria um plano para esconder todas as garrafas.",
+                "vote_average": 6.8,
+                "vote_count": 51
+            },
+            "winner": false
+        },
+        {
+            "first_label": "They Shoot Horses, Don't They?",
+            "second_label": "Fredric Steinkamp",
+            "category": "Film Editing",
+            "year": 1970,
+            "tmdb": {
+                "id": 28145,
+                "original_title": "They Shoot Horses, Don't They?",
+                "title": "A Noite dos Desesperados",
+                "release_date": "1969-12-10",
+                "backdrop_path": "/7WdvQjsRorlIlI8itYb371ZUET1.jpg",
+                "poster_path": "/gzzJDBx66nTk60jhME5OwRAefQ0.jpg",
+                "overview": "Durante a Grande Depress\u00e3o as vidas de um grupo heterog\u00eaneo de competidores se entrela\u00e7am numa maratona de dan\u00e7a desumana e esgotante. Gloria \u00e9 uma jovem mulher. Ela parece mais velha do que \u00e9 e sente que sua vida n\u00e3o tem mais jeito, depois de ter sido enganada e tra\u00edda muitas vezes no passado. Enquanto se recupera de uma tentativa de suic\u00eddio, tem a ideia fixa de que uma revista de cinema para Hollywood vai torn\u00e1-la uma atriz. Robert \u00e9 um morador de Hollywood desesperado tentando se tornar diretor. Robert e Gloria se encontram e decidem entrar na maratona de dan\u00e7a, uma das manias dos anos trinta. A dan\u00e7a esgotante cobra seu ped\u00e1gio no esp\u00edrito j\u00e1 enfraquecido da Gloria, e ela diz ao Robert que estaria melhor morta, que sua vida n\u00e3o tem mais jeito - o tempo todo agindo com crueldade e amargura, alienando as pessoas ao seu redor, tentando convenc\u00ea-lo a atirar a deixando livre de sua mis\u00e9ria. Afinal de contas, eles atiram cavalos, n\u00e3o \u00e9 mesmo? (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.6,
+                "vote_count": 290
+            },
+            "winner": false
+        }
+    ],
+    "Foreign Language Film": [
+        {
+            "first_label": "Z",
+            "second_label": "Algeria",
+            "category": "Foreign Language Film",
+            "year": 1970,
+            "tmdb": {
+                "id": 2721,
+                "original_title": "Z",
+                "title": "Z",
+                "release_date": "1969-02-26",
+                "backdrop_path": "/Ru4YeA6BpROEJkIwayqfBHkQ7O.jpg",
+                "poster_path": "/nuLQQG4kfwzcZnF4yH9TyDZ49my.jpg",
+                "overview": "Conhe\u00e7a o caso Lambrakis, onde a morte de um pol\u00edtico foi encoberta vergonhosamente por pol\u00edticos e policiais, na Gr\u00e9cia dos anos 60. Vencedor dos Oscar de Melhor Filme Estrangeiro e Edi\u00e7\u00e3o, foi o primeiro filme a ser indicado tamb\u00e9m na categoria Melhor Filme. (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.9,
+                "vote_count": 484
+            },
+            "winner": true
+        },
+        {
+            "first_label": "dalen '31",
+            "second_label": "Sweden",
+            "category": "Foreign Language Film",
+            "year": 1970,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Battle of Neretva",
+            "second_label": "Yugoslavia",
+            "category": "Foreign Language Film",
+            "year": 1970,
+            "tmdb": {
+                "id": 34449,
+                "original_title": "Bitka na Neretvi",
+                "title": "The Battle of Neretva",
+                "release_date": "1969-10-07",
+                "backdrop_path": "/3tFBMBgzMXQDBrxnhfK6UBLMZNq.jpg",
+                "poster_path": "/wNgBGWnlfkXHAH06dcTCW5QVxm6.jpg",
+                "overview": "In January 1943 the German army, afraid of an Allied invasion of the Balkans, launched a great offensive against Yugoslav Partisans in Western Bosnia. The only way out for Partisan forces and thousands of refugees was the bridge on the river Neretva.",
+                "vote_average": 6.6,
+                "vote_count": 42
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Brothers Karamazov",
+            "second_label": "Union of Soviet Socialist Republics",
+            "category": "Foreign Language Film",
+            "year": 1970,
+            "tmdb": {
+                "id": 173962,
+                "original_title": "\u0411\u0440\u0430\u0442\u044c\u044f \u041a\u0430\u0440\u0430\u043c\u0430\u0437\u043e\u0432\u044b",
+                "title": "Os Irm\u00e3os Karamazov",
+                "release_date": "1969-01-10",
+                "backdrop_path": "/rmaKAUi7fY6RolmmDKYZola5kdV.jpg",
+                "poster_path": "/tbfwVJCGRy5hkB4NMeu4cS5PCNK.jpg",
+                "overview": "Tr\u00eas irm\u00e3os, um espiritual e vivendo num monast\u00e9rio, um viciado em jogo, e um intelectual, tentam resolver seus problemas na R\u00fassia do s\u00e9culo dezenove.",
+                "vote_average": 6.5,
+                "vote_count": 20
+            },
+            "winner": false
+        },
+        {
+            "first_label": "My Night at Maud's",
+            "second_label": "France",
+            "category": "Foreign Language Film",
+            "year": 1970,
+            "tmdb": {
+                "id": 48831,
+                "original_title": "Ma nuit chez Maud",
+                "title": "Minha Noite Com Ela",
+                "release_date": "1969-06-04",
+                "backdrop_path": "/5oSKt8BiMqly8SGcTI2u9fLR2GS.jpg",
+                "poster_path": "/tLWmWnfKTnOegr0jf8zZ0Cdiyqu.jpg",
+                "overview": "O narrador (Jean-Louis), um cat\u00f3lico devoto, se muda para uma cidade provinciana e se apaixona por uma linda loira que ele v\u00ea na rua. Vidal, um velho amigo de escola, convida-o a visitar Maud, uma mulher divorciada com uma personalidade descomunal. Os princ\u00edpios r\u00edgidos de um homem cat\u00f3lico devoto s\u00e3o desafiados durante uma estadia de uma noite com Maud, tendo discuss\u00f5es filos\u00f3ficas em seu quarto. Na manh\u00e3 seguinte, o engenheiro narrador encontra a linda loira Fran\u00e7oise e consegue marcar um jantar com ela.",
+                "vote_average": 7.7,
+                "vote_count": 276
+            },
+            "winner": false
+        }
+    ],
+    "Jean Hersholt Humanitarian Award": [
+        {
+            "first_label": "",
+            "second_label": "George Jessel",
+            "category": "Jean Hersholt Humanitarian Award",
+            "year": 1970,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        }
+    ],
+    "Music (Original Score--for a motion picture [not a musical])": [
+        {
+            "first_label": "Butch Cassidy and the Sundance Kid",
+            "second_label": "Burt Bacharach",
+            "category": "Music (Original Score--for a motion picture [not a musical])",
+            "year": 1970,
+            "tmdb": {
+                "id": 642,
+                "original_title": "Butch Cassidy and the Sundance Kid",
+                "title": "Butch Cassidy",
+                "release_date": "1969-01-15",
+                "backdrop_path": "/C6jcUqld8M6hZQmzBxgwHuQ4qT.jpg",
+                "poster_path": "/s36qmgkFYtlb634moF05KgrybHm.jpg",
+                "overview": "Dois amigos insepar\u00e1veis, Butch Cassidy e Sundance Kid, lideram o Bando do Buraco na Parede e vivem de assaltar trens e bancos. Quando s\u00e3o ca\u00e7ados por todo o pa\u00eds resolvem ir para a Bol\u00edvia e juntamente com Etta, a namorada de Sundance, rumam para a Am\u00e9rica do Sul. Mas esta decis\u00e3o n\u00e3o lhes proporcionar\u00e1 grandes assaltos ou uma vida mais tranq\u00fcila.",
+                "vote_average": 7.6,
+                "vote_count": 2074
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Anne of the Thousand Days",
+            "second_label": "Georges Delerue",
+            "category": "Music (Original Score--for a motion picture [not a musical])",
+            "year": 1970,
+            "tmdb": {
+                "id": 22522,
+                "original_title": "Anne of the Thousand Days",
+                "title": "Ana dos Mil Dias",
+                "release_date": "1969-12-18",
+                "backdrop_path": "/zyLU9jHFS2IInPagitMfasDwss.jpg",
+                "poster_path": "/u2p5SspAs1GqeuHXNXywryU3k37.jpg",
+                "overview": "O rei Henrique VIII (Richard Burton) apaixona-se pela jovem Anna Bolena (Genevi\u00e8ve Bujold). Casado com Catarina de Arag\u00e3o, que n\u00e3o lhe deu um herdeiro homem, n\u00e3o mede esfor\u00e7os para ficar com Anna, rompendo com a Igreja Cat\u00f3lica e criando a Igreja Anglicana. Mas Anna tamb\u00e9m n\u00e3o consegue lhe dar seu t\u00e3o esperado filho homem. (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.0,
+                "vote_count": 113
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Reivers",
+            "second_label": "John Williams",
+            "category": "Music (Original Score--for a motion picture [not a musical])",
+            "year": 1970,
+            "tmdb": {
+                "id": 5928,
+                "original_title": "The Reivers",
+                "title": "Os Rebeldes",
+                "release_date": "1969-12-25",
+                "backdrop_path": "/45FeNqUhg5mP4faq6b6FJjDY0y9.jpg",
+                "poster_path": "/s0XZmvjbS4meN86Jf1Retbo7GlB.jpg",
+                "overview": "Um velho homem recorda 60 anos atr\u00e1s de uma viagem de carro a partir do Mississippi rural para Memphis, uma corrida de cavalos e seu pr\u00f3prio crescimento. O av\u00f4 de Lucius recebeu o primeiro autom\u00f3vel na \u00e1rea, um Winton Flyer amarelo brilhante. Enquanto ele est\u00e1 fora, o empregado da planta\u00e7\u00e3o, Boon Hogganbeck, trama para emprestar o carro, levando L\u00facio com ele para a aventura. Levam tamb\u00e9m o Ned, um mulato e primo de L\u00facio. Os tr\u00eas v\u00e3o para Memphis onde a namorada da Boon trabalha em um bordel, onde Ned troca o carr\u00e3o por um cavalo de corrida, e onde Lucius descobre o mundo dos adultos - do racismo ao vicio e tamb\u00e9m as possibilidades de honra e coragem. Existe reden\u00e7\u00e3o para pilantras, malandros e rebeldes?",
+                "vote_average": 6.4,
+                "vote_count": 39
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Secret of Santa Vittoria",
+            "second_label": "Ernest Gold",
+            "category": "Music (Original Score--for a motion picture [not a musical])",
+            "year": 1970,
+            "tmdb": {
+                "id": 30298,
+                "original_title": "The Secret of Santa Vittoria",
+                "title": "O Segredo de Santa Vit\u00f3ria",
+                "release_date": "1970-01-02",
+                "backdrop_path": "/eGUdHfchC6lS28OxECnNl1IHLUd.jpg",
+                "poster_path": "/uX4xHo8GptvEbkch6i7OpWiM1L0.jpg",
+                "overview": "Bombolini \u00e9 um b\u00eabado bastante in\u00fatil na pequena cidade italiana de Santa Vittoria nos \u00faltimos dias da Segunda Guerra Mundial. Quando chega a not\u00edcia de que o governo fascista se rendeu, ele sobe na torre de \u00e1gua para derrubar a bandeira. Depois que subiu fica com medo da altura e n\u00e3o consegue descer. Ent\u00e3o algu\u00e9m da multid\u00e3o come\u00e7a a gritar o seu nome para lhe dar confian\u00e7a. O conselho fascista da cidade ouve isso e acredita que ele \u00e9 o novo l\u00edder da cidade. Eles se rendem a ele e o transformam no novo prefeito. Ele assume o cargo e quando descobre que os alem\u00e3es planejam ocupar sua cidade e tomar seu vinho (mais de um milh\u00e3o de garrafas), ele cria um plano para esconder todas as garrafas.",
+                "vote_average": 6.8,
+                "vote_count": 51
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Wild Bunch",
+            "second_label": "Jerry Fielding",
+            "category": "Music (Original Score--for a motion picture [not a musical])",
+            "year": 1970,
+            "tmdb": {
+                "id": 576,
+                "original_title": "The Wild Bunch",
+                "title": "Meu \u00d3dio Ser\u00e1 Sua Heran\u00e7a",
+                "release_date": "1969-06-19",
+                "backdrop_path": "/8D0tbahTduvTkSo1Aqn3dVVg9mk.jpg",
+                "poster_path": "/ibkP7TzPFZ3s8YlJAjzQEonDOEb.jpg",
+                "overview": "Perigosos fora-da-lei decidem se aposentar, mas s\u00e3o tentados por um trem carregado de armas com valiosa remessa. Eles j\u00e1 foram os mais perigosos \"fora da lei\" da fronteira, seguindo seus pr\u00f3prios c\u00f3digos de honra e lealdade. Realizaram diversos assaltos pelas plan\u00edcies do oeste, sempre colocando suas cabe\u00e7as a pr\u00eamio. Mas os tempos mudaram. O lucro estava cada vez menor e o risco cada vez maior. Era hora de parar, mas a gan\u00e2ncia falou mais alto. Dez mil d\u00f3lares para roubar o carregamento de armas de um trem para um poderoso bandoleiro mexicano. Nada poderia det\u00ea-los, a n\u00e3o ser a morte. William Holden (Inferno na Torre), Ernest Borgnine (Os Doze Condenados) e grande elenco atuam na vers\u00e3o original do diretor Sam Peckinpah.",
+                "vote_average": 7.6,
+                "vote_count": 1110
+            },
+            "winner": false
+        }
+    ],
+    "Music (Score of a Musical Picture--original or adaptation)": [
+        {
+            "first_label": "Hello, Dolly!",
+            "second_label": "Adaptation score by Lennie Hayton and Lionel Newman",
+            "category": "Music (Score of a Musical Picture--original or adaptation)",
+            "year": 1970,
+            "tmdb": {
+                "id": 14030,
+                "original_title": "Hello, Dolly!",
+                "title": "Al\u00f4, Dolly!",
+                "release_date": "1969-12-12",
+                "backdrop_path": "/rvsPkUYhWZkAKMb2fnWHw5pNAjZ.jpg",
+                "poster_path": "/rgU3UEoVfFmYE6xBGQj0D52THd2.jpg",
+                "overview": "Dolly Levy \u00e9 uma vi\u00fava socialite que trabalha como casamenteira. Ela viaja para Yonkers para encontrar uma parceira para o \"meio-milion\u00e1rio\" Horace Vandergelder. Dory insentiva os dois funcion\u00e1rio de Vangergelder a viajar para Nova Yorque para procurar garotas onde acaba se metendo em grandes confus\u00f5es.",
+                "vote_average": 6.9,
+                "vote_count": 337
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Goodbye, Mr. Chips",
+            "second_label": "Music and lyrics by Leslie Bricusse; adaptation score by John Williams",
+            "category": "Music (Score of a Musical Picture--original or adaptation)",
+            "year": 1970,
+            "tmdb": {
+                "id": 42607,
+                "original_title": "Goodbye, Mr. Chips",
+                "title": "Adeus, Mr. Chips",
+                "release_date": "1969-11-05",
+                "backdrop_path": "/xOUAsYByQImHAjs9QXyoE4xhfvV.jpg",
+                "poster_path": "/iQIHF8rfLbcYtzp8ssolAEKSIKp.jpg",
+                "overview": "Arthur \"Chips\" Chipping (Peter O'Toole) \u00e9 um dedicado e experiente professor de latim em uma escola inglesa. Ap\u00f3s o casamento com a ador\u00e1vel Katherine Bridges (Petula Clark), uma jovem atriz que deixou os palcos para se dedicar ao casamento, Chips passa a ser admirado por seus alunos.",
+                "vote_average": 6.7,
+                "vote_count": 37
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Paint Your Wagon",
+            "second_label": "Adaptation score by Nelson Riddle",
+            "category": "Music (Score of a Musical Picture--original or adaptation)",
+            "year": 1970,
+            "tmdb": {
+                "id": 20391,
+                "original_title": "Paint Your Wagon",
+                "title": "Os Aventureiros do Ouro",
+                "release_date": "1969-10-15",
+                "backdrop_path": "/5HfY4YoMDwbPSrvKOoO9FPr9t0j.jpg",
+                "poster_path": "/fwnYGuba3ZSM2bXwBZZs4DqqKTl.jpg",
+                "overview": "Um fazendeiro e um minerador formam uma parceria e v\u00e3o se aventurar na terra do ouro, a Calif\u00f3rnia. Durante a viagem, eles compartilham a mesma mulher e sequestram uma carruagem repleta de prostitutas a caminho da nova cidade mineradora.",
+                "vote_average": 6.4,
+                "vote_count": 227
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sweet Charity",
+            "second_label": "Adaptation score by Cy Coleman",
+            "category": "Music (Score of a Musical Picture--original or adaptation)",
+            "year": 1970,
+            "tmdb": {
+                "id": 42618,
+                "original_title": "Sweet Charity",
+                "title": "Charity, Meu Amor",
+                "release_date": "1969-02-25",
+                "backdrop_path": "/1Cg7SxigeI3IwbSFjmJ0d1gMPye.jpg",
+                "poster_path": "/brwDwtckSCp2t4Hz3JU3vwCv83h.jpg",
+                "overview": "A T\u00e1xi-Girl Charity continua a ter f\u00e9 na ra\u00e7a humana, apesar das decep\u00e7\u00f5es aparentemente intermin\u00e1veis que vivencia, e a ter esperan\u00e7a de que finalmente ela encontrar\u00e1 o jovem simp\u00e1tico para afast\u00e1-la de sua vida desprez\u00edvel. Talvez, apenas talvez, o belo Oscar seja o \u00fanico capaz de fazer isso.",
+                "vote_average": 6.7,
+                "vote_count": 67
+            },
+            "winner": false
+        },
+        {
+            "first_label": "They Shoot Horses, Don't They?",
+            "second_label": "Adaptation score by John Green and Albert Woodbury",
+            "category": "Music (Score of a Musical Picture--original or adaptation)",
+            "year": 1970,
+            "tmdb": {
+                "id": 28145,
+                "original_title": "They Shoot Horses, Don't They?",
+                "title": "A Noite dos Desesperados",
+                "release_date": "1969-12-10",
+                "backdrop_path": "/7WdvQjsRorlIlI8itYb371ZUET1.jpg",
+                "poster_path": "/gzzJDBx66nTk60jhME5OwRAefQ0.jpg",
+                "overview": "Durante a Grande Depress\u00e3o as vidas de um grupo heterog\u00eaneo de competidores se entrela\u00e7am numa maratona de dan\u00e7a desumana e esgotante. Gloria \u00e9 uma jovem mulher. Ela parece mais velha do que \u00e9 e sente que sua vida n\u00e3o tem mais jeito, depois de ter sido enganada e tra\u00edda muitas vezes no passado. Enquanto se recupera de uma tentativa de suic\u00eddio, tem a ideia fixa de que uma revista de cinema para Hollywood vai torn\u00e1-la uma atriz. Robert \u00e9 um morador de Hollywood desesperado tentando se tornar diretor. Robert e Gloria se encontram e decidem entrar na maratona de dan\u00e7a, uma das manias dos anos trinta. A dan\u00e7a esgotante cobra seu ped\u00e1gio no esp\u00edrito j\u00e1 enfraquecido da Gloria, e ela diz ao Robert que estaria melhor morta, que sua vida n\u00e3o tem mais jeito - o tempo todo agindo com crueldade e amargura, alienando as pessoas ao seu redor, tentando convenc\u00ea-lo a atirar a deixando livre de sua mis\u00e9ria. Afinal de contas, eles atiram cavalos, n\u00e3o \u00e9 mesmo? (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.6,
+                "vote_count": 290
+            },
+            "winner": false
+        }
+    ],
+    "Music (Song--Original for the Picture)": [
+        {
+            "first_label": "Butch Cassidy and the Sundance Kid",
+            "second_label": "Raindrops Keep Fallin' On My Head in \"Butch Cassidy and the Sundance Kid\" Music by Burt Bacharach; Lyrics by Hal David",
+            "category": "Music (Song--Original for the Picture)",
+            "year": 1970,
+            "tmdb": {
+                "id": 642,
+                "original_title": "Butch Cassidy and the Sundance Kid",
+                "title": "Butch Cassidy",
+                "release_date": "1969-01-15",
+                "backdrop_path": "/C6jcUqld8M6hZQmzBxgwHuQ4qT.jpg",
+                "poster_path": "/s36qmgkFYtlb634moF05KgrybHm.jpg",
+                "overview": "Dois amigos insepar\u00e1veis, Butch Cassidy e Sundance Kid, lideram o Bando do Buraco na Parede e vivem de assaltar trens e bancos. Quando s\u00e3o ca\u00e7ados por todo o pa\u00eds resolvem ir para a Bol\u00edvia e juntamente com Etta, a namorada de Sundance, rumam para a Am\u00e9rica do Sul. Mas esta decis\u00e3o n\u00e3o lhes proporcionar\u00e1 grandes assaltos ou uma vida mais tranq\u00fcila.",
+                "vote_average": 7.6,
+                "vote_count": 2074
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Sterile Cuckoo",
+            "second_label": "Come Saturday Morning in \"The Sterile Cuckoo\" Music by Fred Karlin; Lyrics by Dory Previn",
+            "category": "Music (Song--Original for the Picture)",
+            "year": 1970,
+            "tmdb": {
+                "id": 54494,
+                "original_title": "The Sterile Cuckoo",
+                "title": "Os Anos Verdes",
+                "release_date": "1969-10-22",
+                "backdrop_path": "/51CGGUbTzs5lRxmPRNLOHeC3GPB.jpg",
+                "poster_path": "/8IP6hkHhmyVvgKPL8V37yjDMiAp.jpg",
+                "overview": "Two students at neighboring colleges get swept up in first love. Pookie Adams, a kooky misfit with no family or friends, clings to the quiet and studious Jerry, who has the ability to make a choice of living in Pookie's private world or be accepted by the society that Pookie rejects. Unwittingly, it is through their awkward relationship that Pookie prepares Jerry for the world of \"weirdos\" that she doesn't fit into.",
+                "vote_average": 5.3,
+                "vote_count": 24
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Prime of Miss Jean Brodie",
+            "second_label": "Jean in \"The Prime of Miss Jean Brodie\" Music and Lyrics by Rod McKuen",
+            "category": "Music (Song--Original for the Picture)",
+            "year": 1970,
+            "tmdb": {
+                "id": 5179,
+                "original_title": "The Prime of Miss Jean Brodie",
+                "title": "A Primavera de uma Solteirona",
+                "release_date": "1969-02-24",
+                "backdrop_path": "/hBSQbL2VZV8BmH8wbzbFn3x8PFg.jpg",
+                "poster_path": "/lEZdKL17yneFK4dbbWPKcbkRbqM.jpg",
+                "overview": "Edinburgh, 1932. Jean Brodie (Maggie Smith) \u00e9 uma professora em uma escola para meninas, que inspira suas estudantes com suas id\u00e9ias sobre arte, m\u00fasica e pol\u00edtica, sendo que a \u00faltima \u00e9 baseada em no\u00e7\u00f5es rom\u00e2nticas, que a levam a expressar sua admira\u00e7\u00e3o pelo fascismo na It\u00e1lia.",
+                "vote_average": 6.9,
+                "vote_count": 97
+            },
+            "winner": false
+        },
+        {
+            "first_label": "True Grit",
+            "second_label": "True Grit in \"True Grit\" Music by Elmer Bernstein; Lyrics by Don Black",
+            "category": "Music (Song--Original for the Picture)",
+            "year": 1970,
+            "tmdb": {
+                "id": 17529,
+                "original_title": "True Grit",
+                "title": "Bravura Ind\u00f4mita",
+                "release_date": "1969-06-11",
+                "backdrop_path": "/oejOWx7dtW35LlaLYzm0sBVpSbw.jpg",
+                "poster_path": "/3unRxrwRr1yKvN0GKgsftoYajiK.jpg",
+                "overview": "Rooster Cogburn \u00e9 um ex-xerife alco\u00f3latra contratado por uma menina de 14 anos para vingar a morte de seu pai. Para pegar o criminoso, eles ter\u00e3o de entrar em um territ\u00f3rio ind\u00edgena e enfrentar os comparsas do assassino que est\u00e3o ca\u00e7ando, homens que n\u00e3o veem problema em matar uma adolescente.",
+                "vote_average": 7.4,
+                "vote_count": 734
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Happy Ending",
+            "second_label": "What Are You Doing The Rest Of Your Life? in \"The Happy Ending\" Music by Michel Legrand; Lyrics by Alan Bergman and Marilyn Bergman",
+            "category": "Music (Song--Original for the Picture)",
+            "year": 1970,
+            "tmdb": {
+                "id": 94608,
+                "original_title": "The Happy Ending",
+                "title": "Tempo Para Amar, Tempo Para Esquecer",
+                "release_date": "1969-12-21",
+                "backdrop_path": "/mFqcNHXIUFCSrBoT4gedzP9c4dL.jpg",
+                "poster_path": "/a2tiH7Dl81IrDVOHgH3myamvhgv.jpg",
+                "overview": "The triumphs and failures of middle age as seen through the eyes of runaway American housewife Mary Wilson, a woman who believes that ultimate reality exists above and beyond the routine procedures of conscious, uninspired, everyday life. She feels cheated by an older generation that taught her to settle for nothing less than storybook finales, people who are disillusioned and restless and don't know why, people for whom life holds no easy answers.",
+                "vote_average": 6.0,
+                "vote_count": 21
+            },
+            "winner": false
+        }
+    ],
+    "Best Picture": [
+        {
+            "first_label": "Midnight Cowboy",
+            "second_label": "Jerome Hellman, Producer",
+            "category": "Best Picture",
+            "year": 1970,
+            "tmdb": {
+                "id": 3116,
+                "original_title": "Midnight Cowboy",
+                "title": "Perdidos na Noite",
+                "release_date": "1969-05-25",
+                "backdrop_path": "/cQv1NptKgJNN7x40YUt0FFacO2C.jpg",
+                "poster_path": "/xSekr6Dhor6hRDBpnTsr08wdCJd.jpg",
+                "overview": "Joe Buck \u00e9 um simpl\u00f3rio jovem texano que decide abandonar seu passado conturbado e se muda para Nova Iorque, onde tentar\u00e1 ganhar a vida como garoto de programa para mulheres ricas. Mas sua excessiva ingenuidade o impedir\u00e1 de ganhar dinheiro se prostituindo. Em uma de suas caminhadas, encontra Rizzo, um aleijado que sobrevive de pequenos golpes e furtos e com quem ter\u00e1 um la\u00e7o de amizade. Filme baseado no romance hom\u00f4nimo de James Leo Herlihy, lan\u00e7ado em 1965.",
+                "vote_average": 7.5,
+                "vote_count": 1304
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Anne of the Thousand Days",
+            "second_label": "Hal B. Wallis, Producer",
+            "category": "Best Picture",
+            "year": 1970,
+            "tmdb": {
+                "id": 22522,
+                "original_title": "Anne of the Thousand Days",
+                "title": "Ana dos Mil Dias",
+                "release_date": "1969-12-18",
+                "backdrop_path": "/zyLU9jHFS2IInPagitMfasDwss.jpg",
+                "poster_path": "/u2p5SspAs1GqeuHXNXywryU3k37.jpg",
+                "overview": "O rei Henrique VIII (Richard Burton) apaixona-se pela jovem Anna Bolena (Genevi\u00e8ve Bujold). Casado com Catarina de Arag\u00e3o, que n\u00e3o lhe deu um herdeiro homem, n\u00e3o mede esfor\u00e7os para ficar com Anna, rompendo com a Igreja Cat\u00f3lica e criando a Igreja Anglicana. Mas Anna tamb\u00e9m n\u00e3o consegue lhe dar seu t\u00e3o esperado filho homem. (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.0,
+                "vote_count": 113
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Butch Cassidy and the Sundance Kid",
+            "second_label": "John Foreman, Producer",
+            "category": "Best Picture",
+            "year": 1970,
+            "tmdb": {
+                "id": 642,
+                "original_title": "Butch Cassidy and the Sundance Kid",
+                "title": "Butch Cassidy",
+                "release_date": "1969-01-15",
+                "backdrop_path": "/C6jcUqld8M6hZQmzBxgwHuQ4qT.jpg",
+                "poster_path": "/s36qmgkFYtlb634moF05KgrybHm.jpg",
+                "overview": "Dois amigos insepar\u00e1veis, Butch Cassidy e Sundance Kid, lideram o Bando do Buraco na Parede e vivem de assaltar trens e bancos. Quando s\u00e3o ca\u00e7ados por todo o pa\u00eds resolvem ir para a Bol\u00edvia e juntamente com Etta, a namorada de Sundance, rumam para a Am\u00e9rica do Sul. Mas esta decis\u00e3o n\u00e3o lhes proporcionar\u00e1 grandes assaltos ou uma vida mais tranq\u00fcila.",
+                "vote_average": 7.6,
+                "vote_count": 2074
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hello, Dolly!",
+            "second_label": "Ernest Lehman, Producer",
+            "category": "Best Picture",
+            "year": 1970,
+            "tmdb": {
+                "id": 14030,
+                "original_title": "Hello, Dolly!",
+                "title": "Al\u00f4, Dolly!",
+                "release_date": "1969-12-12",
+                "backdrop_path": "/rvsPkUYhWZkAKMb2fnWHw5pNAjZ.jpg",
+                "poster_path": "/rgU3UEoVfFmYE6xBGQj0D52THd2.jpg",
+                "overview": "Dolly Levy \u00e9 uma vi\u00fava socialite que trabalha como casamenteira. Ela viaja para Yonkers para encontrar uma parceira para o \"meio-milion\u00e1rio\" Horace Vandergelder. Dory insentiva os dois funcion\u00e1rio de Vangergelder a viajar para Nova Yorque para procurar garotas onde acaba se metendo em grandes confus\u00f5es.",
+                "vote_average": 6.9,
+                "vote_count": 337
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Z",
+            "second_label": "Jacques Perrin and Hamed Rachedi, Producers",
+            "category": "Best Picture",
+            "year": 1970,
+            "tmdb": {
+                "id": 2721,
+                "original_title": "Z",
+                "title": "Z",
+                "release_date": "1969-02-26",
+                "backdrop_path": "/Ru4YeA6BpROEJkIwayqfBHkQ7O.jpg",
+                "poster_path": "/nuLQQG4kfwzcZnF4yH9TyDZ49my.jpg",
+                "overview": "Conhe\u00e7a o caso Lambrakis, onde a morte de um pol\u00edtico foi encoberta vergonhosamente por pol\u00edticos e policiais, na Gr\u00e9cia dos anos 60. Vencedor dos Oscar de Melhor Filme Estrangeiro e Edi\u00e7\u00e3o, foi o primeiro filme a ser indicado tamb\u00e9m na categoria Melhor Filme. (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.9,
+                "vote_count": 484
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Cartoon)": [
+        {
+            "first_label": "It's Tough to Be a Bird",
+            "second_label": "Ward Kimball, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1970,
+            "tmdb": {
+                "id": 58143,
+                "original_title": "It's Tough to Be a Bird",
+                "title": "It's Tough to Be a Bird",
+                "release_date": "1969-12-10",
+                "backdrop_path": "/cIoynwRfqEINRFtCeR1zD27X3za.jpg",
+                "poster_path": "/2GIYxLd28lFJRCvIOukV2wqYwxw.jpg",
+                "overview": "Part cartoon and part documentary, this film offers a humorous look at birds and the ways people perceive them.",
+                "vote_average": 5.9,
+                "vote_count": 12
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Of Men and Demons",
+            "second_label": "John Hubley and Faith Hubley, Producers",
+            "category": "Short Subject (Cartoon)",
+            "year": 1970,
+            "tmdb": {
+                "id": 209508,
+                "original_title": "Of Men and Demons",
+                "title": "Of Men and Demons",
+                "release_date": "1969-01-01",
+                "backdrop_path": "/sNcSQbRDONBuTf3i1Qbq8cqtqNZ.jpg",
+                "poster_path": "/aYKFnfqvtUT1g27Gi7zAsKOeT1N.jpg",
+                "overview": "A man lives in peace and harmony. But one day his quiet life is interrupted by demons.",
+                "vote_average": 6.0,
+                "vote_count": 1
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Walking",
+            "second_label": "Ryan Larkin, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1970,
+            "tmdb": {
+                "id": 604931,
+                "original_title": "Walking Man",
+                "title": "Walking Man",
+                "release_date": "1969-01-01",
+                "backdrop_path": null,
+                "poster_path": "/rIPE53RDPfIXjSTwPR6VYIPCESn.jpg",
+                "overview": "A man, from the Zero Jegen group, walks through the streets of Nagoya.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Live Action)": [
+        {
+            "first_label": "The Magic Machines",
+            "second_label": "Joan Keller Stern, Producer",
+            "category": "Short Subject (Live Action)",
+            "year": 1970,
+            "tmdb": {
+                "id": 243329,
+                "original_title": "The Magic Machines",
+                "title": "The Magic Machines",
+                "release_date": "1969-01-01",
+                "backdrop_path": null,
+                "poster_path": "/u1kyZ4j2ZX3yUnOktoJz7QKIQKa.jpg",
+                "overview": "The Magic Machines is a 1969 American short documentary film directed by Bob Curtis about kinetic artist Robert Gilbert, a young hippie sculptor who makes bright-colored, motor-driven machines from metal trash and spare parts. It won an Oscar at the 42nd Academy Awards in 1970 for Academy Award for Best Live Action Short Film and was nominated for Academy Award for Best Documentary Short Subject.",
+                "vote_average": 6.5,
+                "vote_count": 4
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Blake",
+            "second_label": "Doug Jackson, Producer",
+            "category": "Short Subject (Live Action)",
+            "year": 1970,
+            "tmdb": {
+                "id": 243331,
+                "original_title": "Blake",
+                "title": "Blake",
+                "release_date": "1969-01-01",
+                "backdrop_path": "/nZGJjl6dX9PvV70scTHwhn54vTb.jpg",
+                "poster_path": "/s5wSFIhlcn2nu0SnTNvIKRyfEbn.jpg",
+                "overview": "An eccentric history buff lives in a cabin in the woods but spends most of his time flying his biplane.",
+                "vote_average": 5.8,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "People Soup",
+            "second_label": "Marc Merson, Producer",
+            "category": "Short Subject (Live Action)",
+            "year": 1970,
+            "tmdb": {
+                "id": 243332,
+                "original_title": "People Soup",
+                "title": "People Soup",
+                "release_date": "1969-01-01",
+                "backdrop_path": null,
+                "poster_path": "/8DCyHh3cZi7p7ED8iZuXpBOWDmu.jpg",
+                "overview": "People Soup is a 1969 short film written and directed by Alan Arkin, with Adam Arkin and Matthew Arkin. The film was nominated for an Oscar for Best Live Action Short Film.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        }
+    ],
+    "Sound": [
+        {
+            "first_label": "Hello, Dolly!",
+            "second_label": "Jack Solomon, Murray Spivack",
+            "category": "Sound",
+            "year": 1970,
+            "tmdb": {
+                "id": 14030,
+                "original_title": "Hello, Dolly!",
+                "title": "Al\u00f4, Dolly!",
+                "release_date": "1969-12-12",
+                "backdrop_path": "/rvsPkUYhWZkAKMb2fnWHw5pNAjZ.jpg",
+                "poster_path": "/rgU3UEoVfFmYE6xBGQj0D52THd2.jpg",
+                "overview": "Dolly Levy \u00e9 uma vi\u00fava socialite que trabalha como casamenteira. Ela viaja para Yonkers para encontrar uma parceira para o \"meio-milion\u00e1rio\" Horace Vandergelder. Dory insentiva os dois funcion\u00e1rio de Vangergelder a viajar para Nova Yorque para procurar garotas onde acaba se metendo em grandes confus\u00f5es.",
+                "vote_average": 6.9,
+                "vote_count": 337
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Anne of the Thousand Days",
+            "second_label": "John Aldred",
+            "category": "Sound",
+            "year": 1970,
+            "tmdb": {
+                "id": 22522,
+                "original_title": "Anne of the Thousand Days",
+                "title": "Ana dos Mil Dias",
+                "release_date": "1969-12-18",
+                "backdrop_path": "/zyLU9jHFS2IInPagitMfasDwss.jpg",
+                "poster_path": "/u2p5SspAs1GqeuHXNXywryU3k37.jpg",
+                "overview": "O rei Henrique VIII (Richard Burton) apaixona-se pela jovem Anna Bolena (Genevi\u00e8ve Bujold). Casado com Catarina de Arag\u00e3o, que n\u00e3o lhe deu um herdeiro homem, n\u00e3o mede esfor\u00e7os para ficar com Anna, rompendo com a Igreja Cat\u00f3lica e criando a Igreja Anglicana. Mas Anna tamb\u00e9m n\u00e3o consegue lhe dar seu t\u00e3o esperado filho homem. (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.0,
+                "vote_count": 113
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Butch Cassidy and the Sundance Kid",
+            "second_label": "William Edmondson, David Dockendorf",
+            "category": "Sound",
+            "year": 1970,
+            "tmdb": {
+                "id": 642,
+                "original_title": "Butch Cassidy and the Sundance Kid",
+                "title": "Butch Cassidy",
+                "release_date": "1969-01-15",
+                "backdrop_path": "/C6jcUqld8M6hZQmzBxgwHuQ4qT.jpg",
+                "poster_path": "/s36qmgkFYtlb634moF05KgrybHm.jpg",
+                "overview": "Dois amigos insepar\u00e1veis, Butch Cassidy e Sundance Kid, lideram o Bando do Buraco na Parede e vivem de assaltar trens e bancos. Quando s\u00e3o ca\u00e7ados por todo o pa\u00eds resolvem ir para a Bol\u00edvia e juntamente com Etta, a namorada de Sundance, rumam para a Am\u00e9rica do Sul. Mas esta decis\u00e3o n\u00e3o lhes proporcionar\u00e1 grandes assaltos ou uma vida mais tranq\u00fcila.",
+                "vote_average": 7.6,
+                "vote_count": 2074
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gaily, Gaily",
+            "second_label": "Robert Martin, Clem Portman",
+            "category": "Sound",
+            "year": 1970,
+            "tmdb": {
+                "id": 147357,
+                "original_title": "Gaily, Gaily",
+                "title": "Gaily, Gaily",
+                "release_date": "1969-12-16",
+                "backdrop_path": "/ljacmdDqcNMaZ9rXXD4v7zbpYZM.jpg",
+                "poster_path": "/gpRCXPaIR7VAyahpQqW8aCERjJI.jpg",
+                "overview": "After runaway Ben Young is robbed and left on his own, he is taken in by Lil, the head of a Chicago brothel. Acting as a surrogate mother for Ben, who thinks she runs a boardinghouse, Lil gets him a job with Francis Sullivan at the local newspaper. As Ben is exposed to the workings of the big city, he realizes the extent of government corruption and sets out on the daunting task of reforming Chicago politics, finding several allies along the way.",
+                "vote_average": 4.0,
+                "vote_count": 6
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Marooned",
+            "second_label": "Les Fresholtz, Arthur Piantadosi",
+            "category": "Sound",
+            "year": 1970,
+            "tmdb": {
+                "id": 40140,
+                "original_title": "Marooned",
+                "title": "Sem Rumo no Espa\u00e7o",
+                "release_date": "1969-12-11",
+                "backdrop_path": "/d5agxNrduE1LdnXmgN8QNRiSlL9.jpg",
+                "poster_path": "/lFnHHKGzTXg4TND5YiS2KYs8AMJ.jpg",
+                "overview": "Tr\u00eas astronautas ficam presos no espa\u00e7o quando sua nave tentava retornar por onde vieram. Eles v\u00e3o ser resgatados a tempo, antes que o oxig\u00eanio acabe?",
+                "vote_average": 5.9,
+                "vote_count": 88
+            },
+            "winner": false
+        }
+    ],
+    "Special Visual Effects": [
+        {
+            "first_label": "Marooned",
+            "second_label": "Robbie Robertson",
+            "category": "Special Visual Effects",
+            "year": 1970,
+            "tmdb": {
+                "id": 40140,
+                "original_title": "Marooned",
+                "title": "Sem Rumo no Espa\u00e7o",
+                "release_date": "1969-12-11",
+                "backdrop_path": "/d5agxNrduE1LdnXmgN8QNRiSlL9.jpg",
+                "poster_path": "/lFnHHKGzTXg4TND5YiS2KYs8AMJ.jpg",
+                "overview": "Tr\u00eas astronautas ficam presos no espa\u00e7o quando sua nave tentava retornar por onde vieram. Eles v\u00e3o ser resgatados a tempo, antes que o oxig\u00eanio acabe?",
+                "vote_average": 5.9,
+                "vote_count": 88
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Krakatoa, East of Java",
+            "second_label": "Eugene Lourie, Alex Weldon",
+            "category": "Special Visual Effects",
+            "year": 1970,
+            "tmdb": {
+                "id": 51104,
+                "original_title": "Krakatoa, East of Java",
+                "title": "Krakatoa, O Inferno de Java",
+                "release_date": "1968-12-26",
+                "backdrop_path": "/vgnhNeV2gf9FZnvOiW9VRYHQ3NX.jpg",
+                "poster_path": "/4c5Z9DkivG1JrpWuO3y4ILloG2U.jpg",
+                "overview": "No fim do s\u00e9culo 19, no Pac\u00edfico, na regi\u00e3o conhecida com \u00cdndias Ocidentais Holandesas, o navio Batavia Queen, comandado pelo capit\u00e3o Hanson, est\u00e1 saindo para procurar uma fortuna que est\u00e1 num navio afundado. Mas tem problemas ao levar condenados e depois com a explos\u00e3o do vulc\u00e3o Krakatoa, que provoca um Tsunami, uma onda gigantesca e mortal. (e 12 - Estimado 12 Anos)",
+                "vote_average": 5.8,
+                "vote_count": 34
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay--based on material from another medium)": [
+        {
+            "first_label": "Midnight Cowboy",
+            "second_label": "Waldo Salt",
+            "category": "Writing (Screenplay--based on material from another medium)",
+            "year": 1970,
+            "tmdb": {
+                "id": 3116,
+                "original_title": "Midnight Cowboy",
+                "title": "Perdidos na Noite",
+                "release_date": "1969-05-25",
+                "backdrop_path": "/cQv1NptKgJNN7x40YUt0FFacO2C.jpg",
+                "poster_path": "/xSekr6Dhor6hRDBpnTsr08wdCJd.jpg",
+                "overview": "Joe Buck \u00e9 um simpl\u00f3rio jovem texano que decide abandonar seu passado conturbado e se muda para Nova Iorque, onde tentar\u00e1 ganhar a vida como garoto de programa para mulheres ricas. Mas sua excessiva ingenuidade o impedir\u00e1 de ganhar dinheiro se prostituindo. Em uma de suas caminhadas, encontra Rizzo, um aleijado que sobrevive de pequenos golpes e furtos e com quem ter\u00e1 um la\u00e7o de amizade. Filme baseado no romance hom\u00f4nimo de James Leo Herlihy, lan\u00e7ado em 1965.",
+                "vote_average": 7.5,
+                "vote_count": 1304
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Anne of the Thousand Days",
+            "second_label": "Screenplay by John Hale, Bridget Boland;  Adaptation by Richard Sokolove",
+            "category": "Writing (Screenplay--based on material from another medium)",
+            "year": 1970,
+            "tmdb": {
+                "id": 22522,
+                "original_title": "Anne of the Thousand Days",
+                "title": "Ana dos Mil Dias",
+                "release_date": "1969-12-18",
+                "backdrop_path": "/zyLU9jHFS2IInPagitMfasDwss.jpg",
+                "poster_path": "/u2p5SspAs1GqeuHXNXywryU3k37.jpg",
+                "overview": "O rei Henrique VIII (Richard Burton) apaixona-se pela jovem Anna Bolena (Genevi\u00e8ve Bujold). Casado com Catarina de Arag\u00e3o, que n\u00e3o lhe deu um herdeiro homem, n\u00e3o mede esfor\u00e7os para ficar com Anna, rompendo com a Igreja Cat\u00f3lica e criando a Igreja Anglicana. Mas Anna tamb\u00e9m n\u00e3o consegue lhe dar seu t\u00e3o esperado filho homem. (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.0,
+                "vote_count": 113
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Goodbye, Columbus",
+            "second_label": "Arnold Schulman",
+            "category": "Writing (Screenplay--based on material from another medium)",
+            "year": 1970,
+            "tmdb": {
+                "id": 42604,
+                "original_title": "Goodbye, Columbus",
+                "title": "Goodbye, Columbus",
+                "release_date": "1969-04-03",
+                "backdrop_path": "/jhGXjmPqRW6V1Sv3rXGVb5A0QvY.jpg",
+                "poster_path": "/sbL9RzE4Udc7HFYWvKDPKedAqkT.jpg",
+                "overview": "A Jewish man and a Jewish woman meet, and while attracted to each other, find that their worlds are very different. She is the archetypal Jewish American Princess \u2014 very emotionally involved with her parents' world and the world they have created for her, while he is much less dependent on his family. They begin an affair which brings more differences to the surface.",
+                "vote_average": 5.5,
+                "vote_count": 25
+            },
+            "winner": false
+        },
+        {
+            "first_label": "They Shoot Horses, Don't They?",
+            "second_label": "James Poe, Robert E. Thompson",
+            "category": "Writing (Screenplay--based on material from another medium)",
+            "year": 1970,
+            "tmdb": {
+                "id": 28145,
+                "original_title": "They Shoot Horses, Don't They?",
+                "title": "A Noite dos Desesperados",
+                "release_date": "1969-12-10",
+                "backdrop_path": "/7WdvQjsRorlIlI8itYb371ZUET1.jpg",
+                "poster_path": "/gzzJDBx66nTk60jhME5OwRAefQ0.jpg",
+                "overview": "Durante a Grande Depress\u00e3o as vidas de um grupo heterog\u00eaneo de competidores se entrela\u00e7am numa maratona de dan\u00e7a desumana e esgotante. Gloria \u00e9 uma jovem mulher. Ela parece mais velha do que \u00e9 e sente que sua vida n\u00e3o tem mais jeito, depois de ter sido enganada e tra\u00edda muitas vezes no passado. Enquanto se recupera de uma tentativa de suic\u00eddio, tem a ideia fixa de que uma revista de cinema para Hollywood vai torn\u00e1-la uma atriz. Robert \u00e9 um morador de Hollywood desesperado tentando se tornar diretor. Robert e Gloria se encontram e decidem entrar na maratona de dan\u00e7a, uma das manias dos anos trinta. A dan\u00e7a esgotante cobra seu ped\u00e1gio no esp\u00edrito j\u00e1 enfraquecido da Gloria, e ela diz ao Robert que estaria melhor morta, que sua vida n\u00e3o tem mais jeito - o tempo todo agindo com crueldade e amargura, alienando as pessoas ao seu redor, tentando convenc\u00ea-lo a atirar a deixando livre de sua mis\u00e9ria. Afinal de contas, eles atiram cavalos, n\u00e3o \u00e9 mesmo? (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.6,
+                "vote_count": 290
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Z",
+            "second_label": "Jorge Semprun, Costa-Gavras",
+            "category": "Writing (Screenplay--based on material from another medium)",
+            "year": 1970,
+            "tmdb": {
+                "id": 2721,
+                "original_title": "Z",
+                "title": "Z",
+                "release_date": "1969-02-26",
+                "backdrop_path": "/Ru4YeA6BpROEJkIwayqfBHkQ7O.jpg",
+                "poster_path": "/nuLQQG4kfwzcZnF4yH9TyDZ49my.jpg",
+                "overview": "Conhe\u00e7a o caso Lambrakis, onde a morte de um pol\u00edtico foi encoberta vergonhosamente por pol\u00edticos e policiais, na Gr\u00e9cia dos anos 60. Vencedor dos Oscar de Melhor Filme Estrangeiro e Edi\u00e7\u00e3o, foi o primeiro filme a ser indicado tamb\u00e9m na categoria Melhor Filme. (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.9,
+                "vote_count": 484
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Story and Screenplay--based on material not previously published or produced)": [
+        {
+            "first_label": "Butch Cassidy and the Sundance Kid",
+            "second_label": "William Goldman",
+            "category": "Writing (Story and Screenplay--based on material not previously published or produced)",
+            "year": 1970,
+            "tmdb": {
+                "id": 642,
+                "original_title": "Butch Cassidy and the Sundance Kid",
+                "title": "Butch Cassidy",
+                "release_date": "1969-01-15",
+                "backdrop_path": "/C6jcUqld8M6hZQmzBxgwHuQ4qT.jpg",
+                "poster_path": "/s36qmgkFYtlb634moF05KgrybHm.jpg",
+                "overview": "Dois amigos insepar\u00e1veis, Butch Cassidy e Sundance Kid, lideram o Bando do Buraco na Parede e vivem de assaltar trens e bancos. Quando s\u00e3o ca\u00e7ados por todo o pa\u00eds resolvem ir para a Bol\u00edvia e juntamente com Etta, a namorada de Sundance, rumam para a Am\u00e9rica do Sul. Mas esta decis\u00e3o n\u00e3o lhes proporcionar\u00e1 grandes assaltos ou uma vida mais tranq\u00fcila.",
+                "vote_average": 7.6,
+                "vote_count": 2074
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Bob & Carol & Ted & Alice",
+            "second_label": "Paul Mazursky, Larry Tucker",
+            "category": "Writing (Story and Screenplay--based on material not previously published or produced)",
+            "year": 1970,
+            "tmdb": {
+                "id": 26520,
+                "original_title": "Bob & Carol & Ted & Alice",
+                "title": "Bob, Carol, Ted e Alice",
+                "release_date": "1969-09-17",
+                "backdrop_path": "/abWke008aC7M7nAUrij9JTWPEXk.jpg",
+                "poster_path": "/8fDLuB1q3JycYJPK0F65OYO3lAX.jpg",
+                "overview": "After returning to Los Angeles from a group therapy session, documentary filmmaker Bob Sanders and his wife, Carol, find themselves becoming vigilante couples counselors, offering unsolicited advice to their best friends, Ted and Alice Henderson. Not wanting to be rude, the Hendersons play along, but some latent sexual tension among the four soon comes bubbling to the surface, and long-buried desires don't stay buried for long.",
+                "vote_average": 6.2,
+                "vote_count": 91
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Damned",
+            "second_label": "Story by Nicola Badalucco;   Screenplay by Nicola Badalucco, Enrico Medioli, Luchino Visconti",
+            "category": "Writing (Story and Screenplay--based on material not previously published or produced)",
+            "year": 1970,
+            "tmdb": {
+                "id": 41876,
+                "original_title": "La caduta degli dei",
+                "title": "Os Deuses Malditos",
+                "release_date": "1969-10-30",
+                "backdrop_path": "/cM5Uevzpju12Vu4Hx3fOQpfBRR7.jpg",
+                "poster_path": "/hgUw52rwePsQ5oU7ahbYZySGrrO.jpg",
+                "overview": "O dram\u00e1tico colapso de uma fam\u00edlia rica, industrial e nobre durante o reinado do Terceiro Reich.\r Nos primeiros dias da Alemanha nazista, uma poderosa fam\u00edlia de nobres deve se adaptar \u00e0 vida sob o novo regime de ditadura. A transi\u00e7\u00e3o da democracia para a ditadura \u00e9 assim dramatizada atrav\u00e9s da vida da fam\u00edlia, que tamb\u00e9m possui uma poderosa empresa industrial alem\u00e3. Atrav\u00e9s de personagens como um bar\u00e3o alem\u00e3o, um molestador de crian\u00e7as, um soldado de Tempestade Nazista, um homem inocente preso por assassinato, e um capit\u00e3o na SS alem\u00e3, o filme mostra como a assim chamada \"alta classe da nobreza alem\u00e3\" se ressentia com Adolf Hitler. Ent\u00e3o o aceitou, e finalmente o abra\u00e7ou. (e 16 - Estimado 16 Anos)",
+                "vote_average": 7.3,
+                "vote_count": 193
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Easy Rider",
+            "second_label": "Peter Fonda, Dennis Hopper, Terry Southern",
+            "category": "Writing (Story and Screenplay--based on material not previously published or produced)",
+            "year": 1970,
+            "tmdb": {
+                "id": 624,
+                "original_title": "Easy Rider",
+                "title": "Sem Destino",
+                "release_date": "1969-06-26",
+                "backdrop_path": "/66nV6EJgNpGeNQ5Ad2yXtkAtE4D.jpg",
+                "poster_path": "/1BiyKm5OYFYd9fTP6Llj8GLE90S.jpg",
+                "overview": "Ap\u00f3s vender uma quantidade razo\u00e1vel de coca\u00edna, os integrantes da contracultura hippie Wyatt e Billy compram duas motos e partem numa viagem de Los Angeles at\u00e9 Nova Orleans, para ver um festival conhecido como Mardi Gras. Enquanto atravessam o pa\u00eds, os dois encarnam o esp\u00edrito libert\u00e1rio dos anos 1960, mas se deparam com uma sociedade preconceituosa em seu caminho.",
+                "vote_average": 7.1,
+                "vote_count": 1862
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Wild Bunch",
+            "second_label": "Story by Walon Green, Roy N. Sickner;  Screenplay by Walon Green, Sam Peckinpah",
+            "category": "Writing (Story and Screenplay--based on material not previously published or produced)",
+            "year": 1970,
+            "tmdb": {
+                "id": 576,
+                "original_title": "The Wild Bunch",
+                "title": "Meu \u00d3dio Ser\u00e1 Sua Heran\u00e7a",
+                "release_date": "1969-06-19",
+                "backdrop_path": "/8D0tbahTduvTkSo1Aqn3dVVg9mk.jpg",
+                "poster_path": "/ibkP7TzPFZ3s8YlJAjzQEonDOEb.jpg",
+                "overview": "Perigosos fora-da-lei decidem se aposentar, mas s\u00e3o tentados por um trem carregado de armas com valiosa remessa. Eles j\u00e1 foram os mais perigosos \"fora da lei\" da fronteira, seguindo seus pr\u00f3prios c\u00f3digos de honra e lealdade. Realizaram diversos assaltos pelas plan\u00edcies do oeste, sempre colocando suas cabe\u00e7as a pr\u00eamio. Mas os tempos mudaram. O lucro estava cada vez menor e o risco cada vez maior. Era hora de parar, mas a gan\u00e2ncia falou mais alto. Dez mil d\u00f3lares para roubar o carregamento de armas de um trem para um poderoso bandoleiro mexicano. Nada poderia det\u00ea-los, a n\u00e3o ser a morte. William Holden (Inferno na Torre), Ernest Borgnine (Os Doze Condenados) e grande elenco atuam na vers\u00e3o original do diretor Sam Peckinpah.",
+                "vote_average": 7.6,
+                "vote_count": 1110
+            },
+            "winner": false
+        }
+    ]
+}

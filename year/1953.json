@@ -1,0 +1,2074 @@
+{
+    "Actor": [
+        {
+            "first_label": "Gary Cooper",
+            "second_label": "High Noon",
+            "category": "Actor",
+            "year": 1953,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Marlon Brando",
+            "second_label": "Viva Zapata!",
+            "category": "Actor",
+            "year": 1953,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Kirk Douglas",
+            "second_label": "The Bad and the Beautiful",
+            "category": "Actor",
+            "year": 1953,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jos Ferrer",
+            "second_label": "Moulin Rouge",
+            "category": "Actor",
+            "year": 1953,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Alec Guinness",
+            "second_label": "The Lavender Hill Mob",
+            "category": "Actor",
+            "year": 1953,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Anthony Quinn",
+            "second_label": "Viva Zapata!",
+            "category": "Actor in a Supporting Role",
+            "year": 1953,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Richard Burton",
+            "second_label": "My Cousin Rachel",
+            "category": "Actor in a Supporting Role",
+            "year": 1953,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Arthur Hunnicutt",
+            "second_label": "The Big Sky",
+            "category": "Actor in a Supporting Role",
+            "year": 1953,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Victor McLaglen",
+            "second_label": "The Quiet Man",
+            "category": "Actor in a Supporting Role",
+            "year": 1953,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jack Palance",
+            "second_label": "Sudden Fear",
+            "category": "Actor in a Supporting Role",
+            "year": 1953,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress": [
+        {
+            "first_label": "Shirley Booth",
+            "second_label": "Come Back, Little Sheba",
+            "category": "Actress",
+            "year": 1953,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Joan Crawford",
+            "second_label": "Sudden Fear",
+            "category": "Actress",
+            "year": 1953,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Bette Davis",
+            "second_label": "The Star",
+            "category": "Actress",
+            "year": 1953,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Julie Harris",
+            "second_label": "The Member of the Wedding",
+            "category": "Actress",
+            "year": 1953,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Susan Hayward",
+            "second_label": "With a Song in My Heart",
+            "category": "Actress",
+            "year": 1953,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Gloria Grahame",
+            "second_label": "The Bad and the Beautiful",
+            "category": "Actress in a Supporting Role",
+            "year": 1953,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Jean Hagen",
+            "second_label": "Singin' in the Rain",
+            "category": "Actress in a Supporting Role",
+            "year": 1953,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Colette Marchand",
+            "second_label": "Moulin Rouge",
+            "category": "Actress in a Supporting Role",
+            "year": 1953,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Terry Moore",
+            "second_label": "Come Back, Little Sheba",
+            "category": "Actress in a Supporting Role",
+            "year": 1953,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Thelma Ritter",
+            "second_label": "With a Song in My Heart",
+            "category": "Actress in a Supporting Role",
+            "year": 1953,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction (Black-and-White)": [
+        {
+            "first_label": "The Bad and the Beautiful",
+            "second_label": "Art Direction: Cedric Gibbons, Edward Carfagno; Set Decoration: Edwin B. Willis, Keogh Gleason",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1953,
+            "tmdb": {
+                "id": 32499,
+                "original_title": "The Bad and the Beautiful",
+                "title": "Assim Estava Escrito",
+                "release_date": "1952-12-25",
+                "backdrop_path": "/omvyf5m1RKkZq7w8obrOEDhY5E0.jpg",
+                "poster_path": "/orvve8x5WZJ2t5oBBrelm69qNX7.jpg",
+                "overview": "Narrado em flashback, o filme tra\u00e7a a ascens\u00e3o e a queda de um produtor de Hollywood duro e ambicioso, Jonathan Shields, visto pelos olhos de v\u00e1rios conhecidos, incluindo o escritor James Lee Bartlow, a estrela Georgia Lorrison e o diretor Fred Amiel. Ele \u00e9 um homem dif\u00edcil e ambicioso que impiedosamente usa todos - incluindo o escritor, estrela e diretor - na escalada para se tornar um dos maiores de Hollywood. (e 16 - Estimado 16 Anos)",
+                "vote_average": 7.3,
+                "vote_count": 224
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Carrie",
+            "second_label": "Art Direction: Hal Pereira, Roland Anderson; Set Decoration: Emile Kuri",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1953,
+            "tmdb": {
+                "id": 43358,
+                "original_title": "Carrie",
+                "title": "Perdi\u00e7\u00e3o por Amor",
+                "release_date": "1952-07-17",
+                "backdrop_path": "/8A7Xmpsaph7xOlcsqtXs53ieYWM.jpg",
+                "poster_path": "/hif1GraUbvlocgqtrwYMaybsGcJ.jpg",
+                "overview": "A jovem Carrie (Jennifer Jones) viaja do Meio-Oeste dos Estados Unidos para Chicago em busca de crescimento na vida. No trem, ela conhece George Hurstwood (Laurence Olivier), um respeit\u00e1vel homem de fam\u00edlia e de boa situa\u00e7\u00e3o financeira. O rapaz se apaixona por ela e se disp\u00f5e a largar tudo por seu amor.",
+                "vote_average": 6.5,
+                "vote_count": 34
+            },
+            "winner": false
+        },
+        {
+            "first_label": "My Cousin Rachel",
+            "second_label": "Art Direction: Lyle Wheeler, John DeCuir; Set Decoration: Walter M. Scott",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1953,
+            "tmdb": {
+                "id": 94529,
+                "original_title": "My Cousin Rachel",
+                "title": "Eu Te Matarei, Querida!",
+                "release_date": "1952-12-25",
+                "backdrop_path": "/tny9NXQGi84BeXuo6Ms1bN9icav.jpg",
+                "poster_path": "/2Ki5RsrRByusjYOBFM6cK6SAo12.jpg",
+                "overview": "Um jovem planeja se vingar da mulher que acredita ter assassinado seu primo, mas seus planos s\u00e3o abalados quando ele se v\u00ea frente a frente com uma beleza enigm\u00e1tica.  Quando o amado (e rico) primo de Philip Ashley, Ambrose, morre, ele est\u00e1 convencido de que Ambrose foi assassinado por sua nova esposa Rachel para herdar sua fortuna. Mas quando ele conhece Rachel e se apaixona por ela, ele acha que suas suspeitas devem ter sido infundadas. Mas ser\u00e1 que eram infundadas? Ou Rachel est\u00e1 apenas tentando usar Philip para assumir a propriedade que Ambrose deixou para ele em vez de para ela? E ser\u00e1 que ela vai mat\u00e1-lo em seguida?",
+                "vote_average": 6.8,
+                "vote_count": 36
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rashomon",
+            "second_label": "Art Direction: Matsuyama; Set Decoration: H. Motsumoto",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1953,
+            "tmdb": {
+                "id": 548,
+                "original_title": "\u7f85\u751f\u9580",
+                "title": "Rashomon",
+                "release_date": "1950-08-26",
+                "backdrop_path": "/zyO6j74DKMWfp5snWg6Hwo0T3Mz.jpg",
+                "poster_path": "/moA41Cxu1ExsYg7Dp8oUxGeGO6P.jpg",
+                "overview": "No Jap\u00e3o do s\u00e9culo XI, um lenhador, um sacerdote e um campon\u00eas procuram ref\u00fagio de uma tempestade nas ru\u00ednas de pedra do Port\u00e3o de Rashomon. O sacerdote conta detalhes de um julgamento que testemunhou, envolvendo o estupro de Masako e o assassinato do marido dela, Takehiro, um samurai. Em flashback \u00e9 mostrado o julgamento do bandido Tajomaru, onde acontecem quatro testemunhos, inclusive de Takehiro atrav\u00e9s de um m\u00e9dium. Cada um \u00e9 uma \"verdade\", que entra em conflito com as outras.",
+                "vote_average": 8.1,
+                "vote_count": 2057
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Viva Zapata!",
+            "second_label": "Art Direction: Lyle Wheeler, Leland Fuller; Set Decoration: Thomas Little, Claude Carpenter",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1953,
+            "tmdb": {
+                "id": 1810,
+                "original_title": "Viva Zapata!",
+                "title": "Viva Zapata",
+                "release_date": "1952-02-07",
+                "backdrop_path": "/7aX2mfTcQArKS9PufnngjexnaQY.jpg",
+                "poster_path": "/vfarxn9ddiaZpRDml8FGhB46Qrc.jpg",
+                "overview": "Em 1909, no M\u00e9xico, um grupo de lavradores vai at\u00e9 o presidente, afirmando que suas terras foram roubadas, e um deles deixa claro que o governo n\u00e3o pretende fazer nada por eles. Este lavrador acaba se tornando um guerrilheiro, que por v\u00e1rios anos teve import\u00e2ncia pol\u00edtica na vida do pa\u00eds.",
+                "vote_average": 6.9,
+                "vote_count": 198
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction (Color)": [
+        {
+            "first_label": "Moulin Rouge",
+            "second_label": "Art Direction: Paul Sheriff; Set Decoration: Marcel Vertes",
+            "category": "Art Direction (Color)",
+            "year": 1953,
+            "tmdb": {
+                "id": 10910,
+                "original_title": "Moulin Rouge",
+                "title": "Moulin Rouge",
+                "release_date": "1952-12-23",
+                "backdrop_path": "/66I1cHGQdFuXhKwh4PsQGQlYSXa.jpg",
+                "poster_path": "/eNly1s5DXQUTyjvfmopJPwwPiMH.jpg",
+                "overview": "Born into aristocracy, Toulouse-Lautrec moves to Paris to pursue his art as he hangs out at the Moulin Rouge where he feels like he fits in being a misfit among other misfits. Yet, because of the deformity of his legs from an accident, he believes he is never destined to experience the true love of a woman. But that lack of love in his life may change as he meets two women",
+                "vote_average": 6.7,
+                "vote_count": 91
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Hans Christian Andersen",
+            "second_label": "Art Direction: Richard Day, Clave; Set Decoration: Howard Bristol",
+            "category": "Art Direction (Color)",
+            "year": 1953,
+            "tmdb": {
+                "id": 16618,
+                "original_title": "Hans Christian Andersen",
+                "title": "Hans Christian Andersen",
+                "release_date": "1952-12-19",
+                "backdrop_path": "/b7JozC8zQE9P5Uj485EuqwhAics.jpg",
+                "poster_path": "/auHA8xsD452GDCY2KdHGgYPmDPf.jpg",
+                "overview": "A small-town shoemaker with a knack for spinning yarns, Hans encounters happiness and heartbreak on his road to becoming a full-fledged writer.",
+                "vote_average": 6.2,
+                "vote_count": 61
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Merry Widow",
+            "second_label": "Art Direction: Cedric Gibbons, Paul Groesse; Set Decoration: Edwin B. Willis, Arthur Krams",
+            "category": "Art Direction (Color)",
+            "year": 1953,
+            "tmdb": {
+                "id": 185197,
+                "original_title": "The Merry Widow",
+                "title": "A Vi\u00fava Alegre",
+                "release_date": "1952-09-05",
+                "backdrop_path": "/clio53Iv7OdBEo5agDOZlsMrKLQ.jpg",
+                "poster_path": "/7Uu7F30ZnQVY6f6JuotYLjFhyPh.jpg",
+                "overview": "Marshovia, a small European kingdom, is on the brink of bankruptcy but the country may be saved if the wealthy American Crystal Radek, widow of a Marshovian, can be convinced to part with her money and marry the king's nephew count Danilo. Arriving to Marshovia on a visit, Crystal Radek change places with her secretary Kitty. Following them to Paris, Danilo has a hard time wooing the widow after meeting an attractive young woman at a nightclub, the same Crystal Radek who presents herself as Fifi the chorus girl. Plot by Mattias Thuresson.",
+                "vote_average": 5.2,
+                "vote_count": 7
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Quiet Man",
+            "second_label": "Art Direction: Frank Hotaling; Set Decoration: John McCarthy, Jr., Charles Thompson",
+            "category": "Art Direction (Color)",
+            "year": 1953,
+            "tmdb": {
+                "id": 3109,
+                "original_title": "The Quiet Man",
+                "title": "Depois do Vendaval",
+                "release_date": "1952-07-21",
+                "backdrop_path": "/wUETmGLEmVT00iAIjAeZwSdjMxH.jpg",
+                "poster_path": "/le3B0Bg4bCTDfQyAwah7Mt2e93H.jpg",
+                "overview": "Sean Thornton voltou da Am\u00e9rica para a Irlanda onde pretende recuperar sua herdade e escapar de seu passado. Mas a aten\u00e7\u00e3o de Sean \u00e9 capturada por Mary Kate Danaher, uma bela mas pobre donzela, e irm\u00e3 mais nova do mal-humorado \"Red\" Will Danaher. O relacionamento turbulento que se forma entre Sean e Mary Kate, pontuado por tentativas belicosas de Will para mant\u00ea-los separados formam a trama principal, com o passado de Sean como boxeador atrapalhando um pouco.",
+                "vote_average": 7.3,
+                "vote_count": 488
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Snows of Kilimanjaro",
+            "second_label": "Art Direction: Lyle Wheeler, John DeCuir; Set Decoration: Thomas Little, Paul S. Fox",
+            "category": "Art Direction (Color)",
+            "year": 1953,
+            "tmdb": {
+                "id": 4460,
+                "original_title": "The Snows of Kilimanjaro",
+                "title": "As Neves do Kilimanjaro",
+                "release_date": "1952-10-08",
+                "backdrop_path": "/nCti5gQlYntnXVV9CoxrkNGYgUZ.jpg",
+                "poster_path": "/qyacg8is64T8b7ujrSyhDF19LSg.jpg",
+                "overview": "O escritor Harry Street (Gregory Peck), ferido gravemente durante um saf\u00e1ri na \u00c1frica, aguarda a chegada de ajuda m\u00e9dica aos p\u00e9s da montanha de Kilimanjaro, na \u00c1frica. Enquanto o aux\u00edlio n\u00e3o vem, ele relembra \u00e0 esposa Helen (Susan Hayward) suas frustradas aventuras amorosas e seus fracassos como escritor. Em estado delirante, ele revive seu \u00fanico romance verdadeiro, com Cynthia Green (Ava Gardner), cuja paix\u00e3o ele deixou escapar devido \u00e0 obsess\u00e3o em viajar pelo mundo em busca de temas para seus livros.",
+                "vote_average": 5.9,
+                "vote_count": 87
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography (Black-and-White)": [
+        {
+            "first_label": "The Bad and the Beautiful",
+            "second_label": "Robert Surtees",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1953,
+            "tmdb": {
+                "id": 32499,
+                "original_title": "The Bad and the Beautiful",
+                "title": "Assim Estava Escrito",
+                "release_date": "1952-12-25",
+                "backdrop_path": "/omvyf5m1RKkZq7w8obrOEDhY5E0.jpg",
+                "poster_path": "/orvve8x5WZJ2t5oBBrelm69qNX7.jpg",
+                "overview": "Narrado em flashback, o filme tra\u00e7a a ascens\u00e3o e a queda de um produtor de Hollywood duro e ambicioso, Jonathan Shields, visto pelos olhos de v\u00e1rios conhecidos, incluindo o escritor James Lee Bartlow, a estrela Georgia Lorrison e o diretor Fred Amiel. Ele \u00e9 um homem dif\u00edcil e ambicioso que impiedosamente usa todos - incluindo o escritor, estrela e diretor - na escalada para se tornar um dos maiores de Hollywood. (e 16 - Estimado 16 Anos)",
+                "vote_average": 7.3,
+                "vote_count": 224
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Big Sky",
+            "second_label": "Russell Harlan",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1953,
+            "tmdb": {
+                "id": 43367,
+                "original_title": "The Big Sky",
+                "title": "O Rio da Aventura",
+                "release_date": "1952-08-19",
+                "backdrop_path": "/yEd5NKs9Nnrjf3ha8cA58bL0qKS.jpg",
+                "poster_path": "/38j31YEpiw33a85zOBn51d0CfMx.jpg",
+                "overview": "Two tough Kentucky mountaineers join a trading expedition from St. Louis up the Missouri River to trade whisky for furs with the Blackfoot Indians. They soon discover that there is much more than the elements to contend with.",
+                "vote_average": 6.5,
+                "vote_count": 83
+            },
+            "winner": false
+        },
+        {
+            "first_label": "My Cousin Rachel",
+            "second_label": "Joseph LaShelle",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1953,
+            "tmdb": {
+                "id": 94529,
+                "original_title": "My Cousin Rachel",
+                "title": "Eu Te Matarei, Querida!",
+                "release_date": "1952-12-25",
+                "backdrop_path": "/tny9NXQGi84BeXuo6Ms1bN9icav.jpg",
+                "poster_path": "/2Ki5RsrRByusjYOBFM6cK6SAo12.jpg",
+                "overview": "Um jovem planeja se vingar da mulher que acredita ter assassinado seu primo, mas seus planos s\u00e3o abalados quando ele se v\u00ea frente a frente com uma beleza enigm\u00e1tica.  Quando o amado (e rico) primo de Philip Ashley, Ambrose, morre, ele est\u00e1 convencido de que Ambrose foi assassinado por sua nova esposa Rachel para herdar sua fortuna. Mas quando ele conhece Rachel e se apaixona por ela, ele acha que suas suspeitas devem ter sido infundadas. Mas ser\u00e1 que eram infundadas? Ou Rachel est\u00e1 apenas tentando usar Philip para assumir a propriedade que Ambrose deixou para ele em vez de para ela? E ser\u00e1 que ela vai mat\u00e1-lo em seguida?",
+                "vote_average": 6.8,
+                "vote_count": 36
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Navajo",
+            "second_label": "Virgil E. Miller",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1953,
+            "tmdb": {
+                "id": 149258,
+                "original_title": "Navajo",
+                "title": "Navajo",
+                "release_date": "1952-02-12",
+                "backdrop_path": null,
+                "poster_path": "/lFwaO3ujj2K0vZnaBfQMzWsQgSD.jpg",
+                "overview": "A young Navajo Indian boy is caught up in the conflict of cultures when he rejects the white man's school. Told in semi-documentary style.",
+                "vote_average": 5.0,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sudden Fear",
+            "second_label": "Charles B. Lang, Jr.",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1953,
+            "tmdb": {
+                "id": 19171,
+                "original_title": "Sudden Fear",
+                "title": "Precip\u00edcios D'Alma",
+                "release_date": "1952-08-07",
+                "backdrop_path": "/sdiSlc86WlzhozqkWnQn73Wq5UW.jpg",
+                "poster_path": "/xDDRhGX99c7smveM3UelCVmi6xi.jpg",
+                "overview": "Actor Lester Blaine has all but landed the lead in Myra Hudson's new play when Myra vetoes him because, to her, he doesn't look like a romantic leading man. On a train from New York to San Francisco, Blaine sets out to prove Myra wrong...by romancing her. Is he sincere, or does he have a dark ulterior motive?",
+                "vote_average": 7.3,
+                "vote_count": 121
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography (Color)": [
+        {
+            "first_label": "The Quiet Man",
+            "second_label": "Winton C. Hoch, Archie Stout",
+            "category": "Cinematography (Color)",
+            "year": 1953,
+            "tmdb": {
+                "id": 3109,
+                "original_title": "The Quiet Man",
+                "title": "Depois do Vendaval",
+                "release_date": "1952-07-21",
+                "backdrop_path": "/wUETmGLEmVT00iAIjAeZwSdjMxH.jpg",
+                "poster_path": "/le3B0Bg4bCTDfQyAwah7Mt2e93H.jpg",
+                "overview": "Sean Thornton voltou da Am\u00e9rica para a Irlanda onde pretende recuperar sua herdade e escapar de seu passado. Mas a aten\u00e7\u00e3o de Sean \u00e9 capturada por Mary Kate Danaher, uma bela mas pobre donzela, e irm\u00e3 mais nova do mal-humorado \"Red\" Will Danaher. O relacionamento turbulento que se forma entre Sean e Mary Kate, pontuado por tentativas belicosas de Will para mant\u00ea-los separados formam a trama principal, com o passado de Sean como boxeador atrapalhando um pouco.",
+                "vote_average": 7.3,
+                "vote_count": 488
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Hans Christian Andersen",
+            "second_label": "Harry Stradling",
+            "category": "Cinematography (Color)",
+            "year": 1953,
+            "tmdb": {
+                "id": 16618,
+                "original_title": "Hans Christian Andersen",
+                "title": "Hans Christian Andersen",
+                "release_date": "1952-12-19",
+                "backdrop_path": "/b7JozC8zQE9P5Uj485EuqwhAics.jpg",
+                "poster_path": "/auHA8xsD452GDCY2KdHGgYPmDPf.jpg",
+                "overview": "A small-town shoemaker with a knack for spinning yarns, Hans encounters happiness and heartbreak on his road to becoming a full-fledged writer.",
+                "vote_average": 6.2,
+                "vote_count": 61
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ivanhoe",
+            "second_label": "F. A. Young",
+            "category": "Cinematography (Color)",
+            "year": 1953,
+            "tmdb": {
+                "id": 26175,
+                "original_title": "Ivanhoe",
+                "title": "Ivanho\u00e9, o Vingador do Rei",
+                "release_date": "1952-07-31",
+                "backdrop_path": "/pKAq05IpPBoO6B6xmhiLoCvPCGD.jpg",
+                "poster_path": "/dyiTvcl8z5MhiVnMbDLMCHqLJuN.jpg",
+                "overview": "O leal cavaleiro brit\u00e2nico Wilfred de Ivanhoe sai em uma miss\u00e3o para libertar o rei sequestrado da Inglaterra, Ricardo Cora\u00e7\u00e3o de Le\u00e3o, nesta aventura empolgante. O bravo Ivanhoe deve, eventualmente, enfrentar o perverso pr\u00edncipe John e o feroz guerreiro normando Brian de Bois-Guilbert, al\u00e9m das afei\u00e7\u00f5es das lindas donzelas Rowena e Rebecca.",
+                "vote_average": 6.8,
+                "vote_count": 163
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Million Dollar Mermaid",
+            "second_label": "George J. Folsey",
+            "category": "Cinematography (Color)",
+            "year": 1953,
+            "tmdb": {
+                "id": 43189,
+                "original_title": "Million Dollar Mermaid",
+                "title": "A Rainha do Mar",
+                "release_date": "1952-12-04",
+                "backdrop_path": "/wWO1oD6O1ytXKNQEBOsjRGyscvu.jpg",
+                "poster_path": "/gAlf70ugFbhFfwAyF2LYoohFFTv.jpg",
+                "overview": "Filme biogr\u00e1fico da campe\u00e3 australiana de nata\u00e7\u00e3o e artista Annette Kellerman. Depois de superar a p\u00f3lio Kellerman alcan\u00e7a a fama e cria um esc\u00e2ndalo quando seu mai\u00f4 de uma pe\u00e7a \u00e9 considerado indecente.\r Conta a hist\u00f3ria da sensa\u00e7\u00e3o da nata\u00e7\u00e3o australiana Annette Kellerman, que superou a p\u00f3lio infantil para continuar e conquistar a fama como nadadora profissional e estrela de cinema nas primeiras d\u00e9cadas do s\u00e9culo XX. Ao mesmo tempo, ela escandalizou o mundo vestindo uma roupa de banho de uma pe\u00e7a s\u00f3, em praias p\u00fablicas, muito antes desse modelo ser aceito pela sociedade educada, e causou outras pol\u00eamicas tamb\u00e9m. A hist\u00f3ria foi um ve\u00edculo perfeito, d\u00e9cadas depois, para mostrar o talento da estrela Esther Williams na d\u00e9cada de 1950, e o apelido de Kellerman foi usado pela revista Life para a Sra. Williams quando a chamou de \"Sereia de Milh\u00f5es de D\u00f3lares\". (e Livre - Estimado Livre)",
+                "vote_average": 6.4,
+                "vote_count": 22
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Snows of Kilimanjaro",
+            "second_label": "Leon Shamroy",
+            "category": "Cinematography (Color)",
+            "year": 1953,
+            "tmdb": {
+                "id": 4460,
+                "original_title": "The Snows of Kilimanjaro",
+                "title": "As Neves do Kilimanjaro",
+                "release_date": "1952-10-08",
+                "backdrop_path": "/nCti5gQlYntnXVV9CoxrkNGYgUZ.jpg",
+                "poster_path": "/qyacg8is64T8b7ujrSyhDF19LSg.jpg",
+                "overview": "O escritor Harry Street (Gregory Peck), ferido gravemente durante um saf\u00e1ri na \u00c1frica, aguarda a chegada de ajuda m\u00e9dica aos p\u00e9s da montanha de Kilimanjaro, na \u00c1frica. Enquanto o aux\u00edlio n\u00e3o vem, ele relembra \u00e0 esposa Helen (Susan Hayward) suas frustradas aventuras amorosas e seus fracassos como escritor. Em estado delirante, ele revive seu \u00fanico romance verdadeiro, com Cynthia Green (Ava Gardner), cuja paix\u00e3o ele deixou escapar devido \u00e0 obsess\u00e3o em viajar pelo mundo em busca de temas para seus livros.",
+                "vote_average": 5.9,
+                "vote_count": 87
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design (Black-and-White)": [
+        {
+            "first_label": "The Bad and the Beautiful",
+            "second_label": "Helen Rose",
+            "category": "Costume Design (Black-and-White)",
+            "year": 1953,
+            "tmdb": {
+                "id": 32499,
+                "original_title": "The Bad and the Beautiful",
+                "title": "Assim Estava Escrito",
+                "release_date": "1952-12-25",
+                "backdrop_path": "/omvyf5m1RKkZq7w8obrOEDhY5E0.jpg",
+                "poster_path": "/orvve8x5WZJ2t5oBBrelm69qNX7.jpg",
+                "overview": "Narrado em flashback, o filme tra\u00e7a a ascens\u00e3o e a queda de um produtor de Hollywood duro e ambicioso, Jonathan Shields, visto pelos olhos de v\u00e1rios conhecidos, incluindo o escritor James Lee Bartlow, a estrela Georgia Lorrison e o diretor Fred Amiel. Ele \u00e9 um homem dif\u00edcil e ambicioso que impiedosamente usa todos - incluindo o escritor, estrela e diretor - na escalada para se tornar um dos maiores de Hollywood. (e 16 - Estimado 16 Anos)",
+                "vote_average": 7.3,
+                "vote_count": 224
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Affair in Trinidad",
+            "second_label": "Jean Louis",
+            "category": "Costume Design (Black-and-White)",
+            "year": 1953,
+            "tmdb": {
+                "id": 61430,
+                "original_title": "Affair in Trinidad",
+                "title": "Uma Vi\u00fava em Trinidad",
+                "release_date": "1952-07-29",
+                "backdrop_path": "/tBJc9qiB5wAV071VJYaOirA7mdB.jpg",
+                "poster_path": "/osRNszY1Adrq28K06mWQID9EnLC.jpg",
+                "overview": "Cantora de boate e seu cunhado tentam encontrar o assassino de seu marido.  Quando Steve Emery chega a Trinidad a pedido urgente de seu irm\u00e3o, ele fica surpreso ao descobrir que seu irm\u00e3o n\u00e3o s\u00f3 foi assassinado, mas que a esposa de seu irm\u00e3o, Chris, est\u00e1 sucumbindo \u00e0s tentativas de sedu\u00e7\u00e3o do homem que possivelmente \u00e9 o assassino. Seus sentimentos ficam ainda mais exacerbados quando ele descobre que tamb\u00e9m est\u00e1 se sentindo fortemente atra\u00eddo por Chris, que \u00e9 uma apaixonada cantora de cabar\u00e9. Ela, por sua vez, joga um contra o outro enquanto trai os segredos dos dois homens para a pol\u00edcia, para quem trabalha secretamente. (e 14 - Estimado 14 Anos)  O filme marca o retorno de Rita Hayworth ao cinema depois de quatro anos longe da Columbia.",
+                "vote_average": 6.3,
+                "vote_count": 47
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Carrie",
+            "second_label": "Edith Head",
+            "category": "Costume Design (Black-and-White)",
+            "year": 1953,
+            "tmdb": {
+                "id": 43358,
+                "original_title": "Carrie",
+                "title": "Perdi\u00e7\u00e3o por Amor",
+                "release_date": "1952-07-17",
+                "backdrop_path": "/8A7Xmpsaph7xOlcsqtXs53ieYWM.jpg",
+                "poster_path": "/hif1GraUbvlocgqtrwYMaybsGcJ.jpg",
+                "overview": "A jovem Carrie (Jennifer Jones) viaja do Meio-Oeste dos Estados Unidos para Chicago em busca de crescimento na vida. No trem, ela conhece George Hurstwood (Laurence Olivier), um respeit\u00e1vel homem de fam\u00edlia e de boa situa\u00e7\u00e3o financeira. O rapaz se apaixona por ela e se disp\u00f5e a largar tudo por seu amor.",
+                "vote_average": 6.5,
+                "vote_count": 34
+            },
+            "winner": false
+        },
+        {
+            "first_label": "My Cousin Rachel",
+            "second_label": "Charles LeMaire, Dorothy Jeakins",
+            "category": "Costume Design (Black-and-White)",
+            "year": 1953,
+            "tmdb": {
+                "id": 94529,
+                "original_title": "My Cousin Rachel",
+                "title": "Eu Te Matarei, Querida!",
+                "release_date": "1952-12-25",
+                "backdrop_path": "/tny9NXQGi84BeXuo6Ms1bN9icav.jpg",
+                "poster_path": "/2Ki5RsrRByusjYOBFM6cK6SAo12.jpg",
+                "overview": "Um jovem planeja se vingar da mulher que acredita ter assassinado seu primo, mas seus planos s\u00e3o abalados quando ele se v\u00ea frente a frente com uma beleza enigm\u00e1tica.  Quando o amado (e rico) primo de Philip Ashley, Ambrose, morre, ele est\u00e1 convencido de que Ambrose foi assassinado por sua nova esposa Rachel para herdar sua fortuna. Mas quando ele conhece Rachel e se apaixona por ela, ele acha que suas suspeitas devem ter sido infundadas. Mas ser\u00e1 que eram infundadas? Ou Rachel est\u00e1 apenas tentando usar Philip para assumir a propriedade que Ambrose deixou para ele em vez de para ela? E ser\u00e1 que ela vai mat\u00e1-lo em seguida?",
+                "vote_average": 6.8,
+                "vote_count": 36
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sudden Fear",
+            "second_label": "Sheila O'Brien",
+            "category": "Costume Design (Black-and-White)",
+            "year": 1953,
+            "tmdb": {
+                "id": 19171,
+                "original_title": "Sudden Fear",
+                "title": "Precip\u00edcios D'Alma",
+                "release_date": "1952-08-07",
+                "backdrop_path": "/sdiSlc86WlzhozqkWnQn73Wq5UW.jpg",
+                "poster_path": "/xDDRhGX99c7smveM3UelCVmi6xi.jpg",
+                "overview": "Actor Lester Blaine has all but landed the lead in Myra Hudson's new play when Myra vetoes him because, to her, he doesn't look like a romantic leading man. On a train from New York to San Francisco, Blaine sets out to prove Myra wrong...by romancing her. Is he sincere, or does he have a dark ulterior motive?",
+                "vote_average": 7.3,
+                "vote_count": 121
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design (Color)": [
+        {
+            "first_label": "Moulin Rouge",
+            "second_label": "Marcel Vertes",
+            "category": "Costume Design (Color)",
+            "year": 1953,
+            "tmdb": {
+                "id": 10910,
+                "original_title": "Moulin Rouge",
+                "title": "Moulin Rouge",
+                "release_date": "1952-12-23",
+                "backdrop_path": "/66I1cHGQdFuXhKwh4PsQGQlYSXa.jpg",
+                "poster_path": "/eNly1s5DXQUTyjvfmopJPwwPiMH.jpg",
+                "overview": "Born into aristocracy, Toulouse-Lautrec moves to Paris to pursue his art as he hangs out at the Moulin Rouge where he feels like he fits in being a misfit among other misfits. Yet, because of the deformity of his legs from an accident, he believes he is never destined to experience the true love of a woman. But that lack of love in his life may change as he meets two women",
+                "vote_average": 6.7,
+                "vote_count": 91
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Greatest Show on Earth",
+            "second_label": "Edith Head, Dorothy Jeakins, Miles White",
+            "category": "Costume Design (Color)",
+            "year": 1953,
+            "tmdb": {
+                "id": 27191,
+                "original_title": "The Greatest Show on Earth",
+                "title": "O Maior Espet\u00e1culo da Terra",
+                "release_date": "1952-02-16",
+                "backdrop_path": "/qSzk59lcblHMxd4OqRAZB2qdroL.jpg",
+                "poster_path": "/3ZCqDLfa9uegCuHCm4rbgkgNbA2.jpg",
+                "overview": "Um filme espetacular, bem \u00e0 maneira de DeMille, que \u00e9 tamb\u00e9m a maior homenagem que o cinema prestou ao mundo do circo. O grande circo que \u00e9 o pano de fundo deste drama humano \u00e9 o famoso Ringling Bros-Barnum & Bailey, e James Stewart \u00e9 o palha\u00e7o que esconde um passado misterioso. Entre os convidados especiais encontramos Bing Crosby, Bob Hope e William Boyd. Oscar de melhor filme em 1952.",
+                "vote_average": 6.3,
+                "vote_count": 219
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hans Christian Andersen",
+            "second_label": "Clave, Mary Wills, Madame Karinska",
+            "category": "Costume Design (Color)",
+            "year": 1953,
+            "tmdb": {
+                "id": 16618,
+                "original_title": "Hans Christian Andersen",
+                "title": "Hans Christian Andersen",
+                "release_date": "1952-12-19",
+                "backdrop_path": "/b7JozC8zQE9P5Uj485EuqwhAics.jpg",
+                "poster_path": "/auHA8xsD452GDCY2KdHGgYPmDPf.jpg",
+                "overview": "A small-town shoemaker with a knack for spinning yarns, Hans encounters happiness and heartbreak on his road to becoming a full-fledged writer.",
+                "vote_average": 6.2,
+                "vote_count": 61
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Merry Widow",
+            "second_label": "Helen Rose, Gile Steele",
+            "category": "Costume Design (Color)",
+            "year": 1953,
+            "tmdb": {
+                "id": 185197,
+                "original_title": "The Merry Widow",
+                "title": "A Vi\u00fava Alegre",
+                "release_date": "1952-09-05",
+                "backdrop_path": "/clio53Iv7OdBEo5agDOZlsMrKLQ.jpg",
+                "poster_path": "/7Uu7F30ZnQVY6f6JuotYLjFhyPh.jpg",
+                "overview": "Marshovia, a small European kingdom, is on the brink of bankruptcy but the country may be saved if the wealthy American Crystal Radek, widow of a Marshovian, can be convinced to part with her money and marry the king's nephew count Danilo. Arriving to Marshovia on a visit, Crystal Radek change places with her secretary Kitty. Following them to Paris, Danilo has a hard time wooing the widow after meeting an attractive young woman at a nightclub, the same Crystal Radek who presents herself as Fifi the chorus girl. Plot by Mattias Thuresson.",
+                "vote_average": 5.2,
+                "vote_count": 7
+            },
+            "winner": false
+        },
+        {
+            "first_label": "With a Song in My Heart",
+            "second_label": "Charles LeMaire",
+            "category": "Costume Design (Color)",
+            "year": 1953,
+            "tmdb": {
+                "id": 65787,
+                "original_title": "With a Song in My Heart",
+                "title": "Meu Cora\u00e7\u00e3o Canta",
+                "release_date": "1952-04-03",
+                "backdrop_path": "/jliwdbenSCvfkAJiXmNGJ25NRpa.jpg",
+                "poster_path": "/ukUDE4agso8WDjGeTKkjH6FqS6V.jpg",
+                "overview": "Depois de conseguir um emprego cantando no r\u00e1dio, Jane Froman se casa com o acompanhante musical Don Ross. Sob a administra\u00e7\u00e3o de Don, Jane sobe ao estrelato e \u00e9 convidada a se apresentar para as tropas durante a Segunda Guerra Mundial. No caminho, seu avi\u00e3o cai, deixando Jane com ferimentos graves nas pernas. Em recupera\u00e7\u00e3o, Jane come\u00e7a um romance com John Burn, um piloto militar ferido. Ela pretende voltar a cantar, mas com dois homens em seu cora\u00e7\u00e3o, a vida \u00e9 cada vez mais complicada. (e 10 - Estimado 10 Anos)",
+                "vote_average": 6.1,
+                "vote_count": 14
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "The Quiet Man",
+            "second_label": "John Ford",
+            "category": "Directing",
+            "year": 1953,
+            "tmdb": {
+                "id": 3109,
+                "original_title": "The Quiet Man",
+                "title": "Depois do Vendaval",
+                "release_date": "1952-07-21",
+                "backdrop_path": "/wUETmGLEmVT00iAIjAeZwSdjMxH.jpg",
+                "poster_path": "/le3B0Bg4bCTDfQyAwah7Mt2e93H.jpg",
+                "overview": "Sean Thornton voltou da Am\u00e9rica para a Irlanda onde pretende recuperar sua herdade e escapar de seu passado. Mas a aten\u00e7\u00e3o de Sean \u00e9 capturada por Mary Kate Danaher, uma bela mas pobre donzela, e irm\u00e3 mais nova do mal-humorado \"Red\" Will Danaher. O relacionamento turbulento que se forma entre Sean e Mary Kate, pontuado por tentativas belicosas de Will para mant\u00ea-los separados formam a trama principal, com o passado de Sean como boxeador atrapalhando um pouco.",
+                "vote_average": 7.3,
+                "vote_count": 488
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Five Fingers",
+            "second_label": "Joseph L. Mankiewicz",
+            "category": "Directing",
+            "year": 1953,
+            "tmdb": {
+                "id": 59087,
+                "original_title": "5 Fingers",
+                "title": "Cinco Dedos",
+                "release_date": "1952-02-22",
+                "backdrop_path": "/e0MsKelKuPRh4kSTmmnrsxRk1iT.jpg",
+                "poster_path": "/7TEaTue2a3SvC54TjxSy1DFAMtl.jpg",
+                "overview": "Durante a Segunda Guerra Mundial, o manobrista do embaixador brit\u00e2nico em Ancara vende segredos brit\u00e2nicos aos alem\u00e3es, enquanto tenta namorar uma condessa polonesa refugiada. (e 12 - Estimado 12 Anos)",
+                "vote_average": 7.6,
+                "vote_count": 80
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Greatest Show on Earth",
+            "second_label": "Cecil B. DeMille",
+            "category": "Directing",
+            "year": 1953,
+            "tmdb": {
+                "id": 27191,
+                "original_title": "The Greatest Show on Earth",
+                "title": "O Maior Espet\u00e1culo da Terra",
+                "release_date": "1952-02-16",
+                "backdrop_path": "/qSzk59lcblHMxd4OqRAZB2qdroL.jpg",
+                "poster_path": "/3ZCqDLfa9uegCuHCm4rbgkgNbA2.jpg",
+                "overview": "Um filme espetacular, bem \u00e0 maneira de DeMille, que \u00e9 tamb\u00e9m a maior homenagem que o cinema prestou ao mundo do circo. O grande circo que \u00e9 o pano de fundo deste drama humano \u00e9 o famoso Ringling Bros-Barnum & Bailey, e James Stewart \u00e9 o palha\u00e7o que esconde um passado misterioso. Entre os convidados especiais encontramos Bing Crosby, Bob Hope e William Boyd. Oscar de melhor filme em 1952.",
+                "vote_average": 6.3,
+                "vote_count": 219
+            },
+            "winner": false
+        },
+        {
+            "first_label": "High Noon",
+            "second_label": "Fred Zinnemann",
+            "category": "Directing",
+            "year": 1953,
+            "tmdb": {
+                "id": 288,
+                "original_title": "High Noon",
+                "title": "Matar ou Morrer",
+                "release_date": "1952-06-09",
+                "backdrop_path": "/jyUcUMvLdUon3HPjbUdAsm754G6.jpg",
+                "poster_path": "/x1Mx2CnUJDb1N4LcxuR4eM70zPB.jpg",
+                "overview": "Para o xerife Will Kane (Gary Cooper), o dia do seu casamento ser\u00e1 marcado n\u00e3o pela emo\u00e7\u00e3o, mas pela adrenalina e a persegui\u00e7\u00e3o com o perigoso bandido Frank Miller. Miller fugiu atr\u00e1s de vingan\u00e7a, j\u00e1 que Kane o colocou na pris\u00e3o. Mas, agora, nem a popula\u00e7\u00e3o local ir\u00e1 ajud\u00e1-lo.",
+                "vote_average": 7.7,
+                "vote_count": 1338
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Moulin Rouge",
+            "second_label": "John Huston",
+            "category": "Directing",
+            "year": 1953,
+            "tmdb": {
+                "id": 10910,
+                "original_title": "Moulin Rouge",
+                "title": "Moulin Rouge",
+                "release_date": "1952-12-23",
+                "backdrop_path": "/66I1cHGQdFuXhKwh4PsQGQlYSXa.jpg",
+                "poster_path": "/eNly1s5DXQUTyjvfmopJPwwPiMH.jpg",
+                "overview": "Born into aristocracy, Toulouse-Lautrec moves to Paris to pursue his art as he hangs out at the Moulin Rouge where he feels like he fits in being a misfit among other misfits. Yet, because of the deformity of his legs from an accident, he believes he is never destined to experience the true love of a woman. But that lack of love in his life may change as he meets two women",
+                "vote_average": 6.7,
+                "vote_count": 91
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "The Sea around Us",
+            "second_label": "Irwin Allen, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1953,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Hoaxters",
+            "second_label": "Dore Schary, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1953,
+            "tmdb": {
+                "id": 149256,
+                "original_title": "The Hoaxters",
+                "title": "The Hoaxters",
+                "release_date": "1952-12-05",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "A 1952 American documentary film written by Herman Hoffman, about the threat posed by communism to the American way of life.",
+                "vote_average": 4.2,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Navajo",
+            "second_label": "Hall Bartlett, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1953,
+            "tmdb": {
+                "id": 149258,
+                "original_title": "Navajo",
+                "title": "Navajo",
+                "release_date": "1952-02-12",
+                "backdrop_path": null,
+                "poster_path": "/lFwaO3ujj2K0vZnaBfQMzWsQgSD.jpg",
+                "overview": "A young Navajo Indian boy is caught up in the conflict of cultures when he rejects the white man's school. Told in semi-documentary style.",
+                "vote_average": 5.0,
+                "vote_count": 3
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "Neighbours",
+            "second_label": "Norman McLaren, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1953,
+            "tmdb": {
+                "id": 51406,
+                "original_title": "Neighbours",
+                "title": "Neighbours",
+                "release_date": "1952-01-01",
+                "backdrop_path": "/2dCoRMN3PU7UjZpjfnaSAghLrVM.jpg",
+                "poster_path": "/ccpiARQxBBWaL2Ik8ke9yjq7qrM.jpg",
+                "overview": "In this Oscar-winning short film, Norman McLaren employs the principles normally used to put drawings or puppets into motion to animate live actors. The story is a parable about two people who come to blows over the possession of a flower.",
+                "vote_average": 7.4,
+                "vote_count": 100
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Devil Take Us",
+            "second_label": "Herbert Morgan, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1953,
+            "tmdb": {
+                "id": 242985,
+                "original_title": "Devil Take Us",
+                "title": "Devil Take Us",
+                "release_date": "1952-02-22",
+                "backdrop_path": null,
+                "poster_path": "/h7rtn82fndgSRSiVv4OjEIZoyix.jpg",
+                "overview": "A motorcycle cop buys a used car to take his family on vacation to the East Coast. Minor car trouble along the way causes him to meet first a reckless driver, and then a highway patrolman who shares stories of bad drivers with him. Various dangers of careless driving - both fictional and real - are depicted as the patrolman continues on the job, later crossing paths with the reckless driver again. When the police officer makes the return trip from his vacation, he finds that the situation has changed in a surprising way.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Garden Spider (Epeira Diadema)",
+            "second_label": "Alberto Ancilotto, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1953,
+            "tmdb": {
+                "id": 242997,
+                "original_title": "Epeira Diadema",
+                "title": "The Garden Spider",
+                "release_date": "1952-01-01",
+                "backdrop_path": null,
+                "poster_path": "/qXCvuAZ6nGXuuOoyD9HjQXPSOzM.jpg",
+                "overview": "A close-up study of a spider at work.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Man Alive!",
+            "second_label": "Stephen Bosustow, Executive Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1953,
+            "tmdb": {
+                "id": 243000,
+                "original_title": "Man Alive!",
+                "title": "Man Alive!",
+                "release_date": "1952-02-27",
+                "backdrop_path": null,
+                "poster_path": "/idLhdQKpI7t5hVSkps6stnNmLxI.jpg",
+                "overview": "This Oscar-nominated documentary short is from the American Cancer Society. Ed ignores his car problems and then fixes it without using a good mechanic. He also ignores stomach problems. Will he go to a doctor? Is it cancer?",
+                "vote_average": 5.0,
+                "vote_count": 4
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "High Noon",
+            "second_label": "Elmo Williams, Harry Gerstad",
+            "category": "Film Editing",
+            "year": 1953,
+            "tmdb": {
+                "id": 288,
+                "original_title": "High Noon",
+                "title": "Matar ou Morrer",
+                "release_date": "1952-06-09",
+                "backdrop_path": "/jyUcUMvLdUon3HPjbUdAsm754G6.jpg",
+                "poster_path": "/x1Mx2CnUJDb1N4LcxuR4eM70zPB.jpg",
+                "overview": "Para o xerife Will Kane (Gary Cooper), o dia do seu casamento ser\u00e1 marcado n\u00e3o pela emo\u00e7\u00e3o, mas pela adrenalina e a persegui\u00e7\u00e3o com o perigoso bandido Frank Miller. Miller fugiu atr\u00e1s de vingan\u00e7a, j\u00e1 que Kane o colocou na pris\u00e3o. Mas, agora, nem a popula\u00e7\u00e3o local ir\u00e1 ajud\u00e1-lo.",
+                "vote_average": 7.7,
+                "vote_count": 1338
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Come Back, Little Sheba",
+            "second_label": "Warren Low",
+            "category": "Film Editing",
+            "year": 1953,
+            "tmdb": {
+                "id": 84214,
+                "original_title": "Come Back, Little Sheba",
+                "title": "A Cruz da Minha Vida",
+                "release_date": "1952-12-24",
+                "backdrop_path": "/x0IMkJayrCl014Jyar0sRxlZFs6.jpg",
+                "poster_path": "/g26npVWGZLLp67vDd7q5aiSFXCE.jpg",
+                "overview": "Lola e Doc vivem uma rela\u00e7\u00e3o problem\u00e1tica h\u00e1 anos. Doc largou a medicina quando Lola engravidou e a culpa por n\u00e3o ter realizado seu sonho. Lola nunca se recuperou emocionalmente de um aborto e ainda sofre pela perda da cadela Sheba.",
+                "vote_average": 7.2,
+                "vote_count": 30
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Flat Top",
+            "second_label": "William Austin",
+            "category": "Film Editing",
+            "year": 1953,
+            "tmdb": {
+                "id": 71243,
+                "original_title": "Flat Top",
+                "title": "\u00c1guias da Armada",
+                "release_date": "1952-10-26",
+                "backdrop_path": "/obpWJjQL7E8XEC68eLy8lE5USLr.jpg",
+                "poster_path": "/qJx8KBHJaTfPbH9hdFVrFZzV4Nb.jpg",
+                "overview": "A rock hard commander trains Navy Carrier Pilots during the Second World War",
+                "vote_average": 4.0,
+                "vote_count": 10
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Greatest Show on Earth",
+            "second_label": "Anne Bauchens",
+            "category": "Film Editing",
+            "year": 1953,
+            "tmdb": {
+                "id": 27191,
+                "original_title": "The Greatest Show on Earth",
+                "title": "O Maior Espet\u00e1culo da Terra",
+                "release_date": "1952-02-16",
+                "backdrop_path": "/qSzk59lcblHMxd4OqRAZB2qdroL.jpg",
+                "poster_path": "/3ZCqDLfa9uegCuHCm4rbgkgNbA2.jpg",
+                "overview": "Um filme espetacular, bem \u00e0 maneira de DeMille, que \u00e9 tamb\u00e9m a maior homenagem que o cinema prestou ao mundo do circo. O grande circo que \u00e9 o pano de fundo deste drama humano \u00e9 o famoso Ringling Bros-Barnum & Bailey, e James Stewart \u00e9 o palha\u00e7o que esconde um passado misterioso. Entre os convidados especiais encontramos Bing Crosby, Bob Hope e William Boyd. Oscar de melhor filme em 1952.",
+                "vote_average": 6.3,
+                "vote_count": 219
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Moulin Rouge",
+            "second_label": "Ralph Kemplen",
+            "category": "Film Editing",
+            "year": 1953,
+            "tmdb": {
+                "id": 10910,
+                "original_title": "Moulin Rouge",
+                "title": "Moulin Rouge",
+                "release_date": "1952-12-23",
+                "backdrop_path": "/66I1cHGQdFuXhKwh4PsQGQlYSXa.jpg",
+                "poster_path": "/eNly1s5DXQUTyjvfmopJPwwPiMH.jpg",
+                "overview": "Born into aristocracy, Toulouse-Lautrec moves to Paris to pursue his art as he hangs out at the Moulin Rouge where he feels like he fits in being a misfit among other misfits. Yet, because of the deformity of his legs from an accident, he believes he is never destined to experience the true love of a woman. But that lack of love in his life may change as he meets two women",
+                "vote_average": 6.7,
+                "vote_count": 91
+            },
+            "winner": false
+        }
+    ],
+    "Honorary Foreign Language Film Award": [
+        {
+            "first_label": "Forbidden Games",
+            "second_label": "Special Award",
+            "category": "Honorary Foreign Language Film Award",
+            "year": 1953,
+            "tmdb": {
+                "id": 5000,
+                "original_title": "Jeux interdits",
+                "title": "Brinquedo Proibido",
+                "release_date": "1952-05-09",
+                "backdrop_path": "/iNkgF4uBzcFTrY3NN6JrlCD5Ho.jpg",
+                "poster_path": "/nby91GNVXQAv1NmKvqlpEEdhcMQ.jpg",
+                "overview": "O filme conta a hist\u00f3ria de Paulette (Brigitte Fossey), uma menina de cinco anos de idade que perde os pais e o cachorro em um ataque a\u00e9reo quando eles fugiam de uma Paris ocupada pelos nazistas. Ao se perder do grupo de refugiados, Paulette \u00e9 recolhida por Michel Doll\u00e9 (Georges Poujouly), um menino de onze anos. Eles logo se tornam os melhores amigos. E enquanto os pais dele est\u00e3o ocupados querendo dar uma de benfeitores e em luta com os vizinhos Gouard, Paulette e Michel criam um universo s\u00f3 deles. As crian\u00e7as enterram o c\u00e3o de Paulette num cemit\u00e9rio criado por eles dentro de um moinho abandonado perto da casa de Michel. Logo, passam a enterrar todo tipo de animais e embarcam em uma odisseia atr\u00e1s de crucifixos para ornamentar os \u201ct\u00famulos\u201d.",
+                "vote_average": 7.8,
+                "vote_count": 282
+            },
+            "winner": true
+        }
+    ],
+    "Irving G. Thalberg Memorial Award": [
+        {
+            "first_label": "",
+            "second_label": "Cecil B. DeMille",
+            "category": "Irving G. Thalberg Memorial Award",
+            "year": 1953,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        }
+    ],
+    "Music (Music Score of a Dramatic or Comedy Picture)": [
+        {
+            "first_label": "High Noon",
+            "second_label": "Dimitri Tiomkin",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1953,
+            "tmdb": {
+                "id": 288,
+                "original_title": "High Noon",
+                "title": "Matar ou Morrer",
+                "release_date": "1952-06-09",
+                "backdrop_path": "/jyUcUMvLdUon3HPjbUdAsm754G6.jpg",
+                "poster_path": "/x1Mx2CnUJDb1N4LcxuR4eM70zPB.jpg",
+                "overview": "Para o xerife Will Kane (Gary Cooper), o dia do seu casamento ser\u00e1 marcado n\u00e3o pela emo\u00e7\u00e3o, mas pela adrenalina e a persegui\u00e7\u00e3o com o perigoso bandido Frank Miller. Miller fugiu atr\u00e1s de vingan\u00e7a, j\u00e1 que Kane o colocou na pris\u00e3o. Mas, agora, nem a popula\u00e7\u00e3o local ir\u00e1 ajud\u00e1-lo.",
+                "vote_average": 7.7,
+                "vote_count": 1338
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Ivanhoe",
+            "second_label": "Miklos Rozsa",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1953,
+            "tmdb": {
+                "id": 26175,
+                "original_title": "Ivanhoe",
+                "title": "Ivanho\u00e9, o Vingador do Rei",
+                "release_date": "1952-07-31",
+                "backdrop_path": "/pKAq05IpPBoO6B6xmhiLoCvPCGD.jpg",
+                "poster_path": "/dyiTvcl8z5MhiVnMbDLMCHqLJuN.jpg",
+                "overview": "O leal cavaleiro brit\u00e2nico Wilfred de Ivanhoe sai em uma miss\u00e3o para libertar o rei sequestrado da Inglaterra, Ricardo Cora\u00e7\u00e3o de Le\u00e3o, nesta aventura empolgante. O bravo Ivanhoe deve, eventualmente, enfrentar o perverso pr\u00edncipe John e o feroz guerreiro normando Brian de Bois-Guilbert, al\u00e9m das afei\u00e7\u00f5es das lindas donzelas Rowena e Rebecca.",
+                "vote_average": 6.8,
+                "vote_count": 163
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Miracle of Fatima",
+            "second_label": "Max Steiner",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1953,
+            "tmdb": {
+                "id": 49616,
+                "original_title": "The Miracle of Our Lady of Fatima",
+                "title": "O Milagre de F\u00e1tima",
+                "release_date": "1952-08-20",
+                "backdrop_path": "/2dQPQ6MXsVUkFNR0iVoHEZajBDN.jpg",
+                "poster_path": "/iMouQ2eWh24IXVsNr4Zj1MukXDL.jpg",
+                "overview": "A hist\u00f3ria emocionante de sua apari\u00e7\u00e3o aos tr\u00eas pastores na aldeia de Leiria, regi\u00e3o de F\u00e1tima, Portugal, espalhou muito rapidamente a sua devo\u00e7\u00e3o pelo mundo. No dia 13 de maio de 1917, em um dia claro, as tr\u00eas crian\u00e7as, L\u00facia, Jacinto e Francisca, estavam pastoreando nas colinas, quando sobre uma pequena azinheira, surge um clar\u00e3o ap\u00f3s um rel\u00e2mpago, e a figura \"de uma Senhora vestida de branco, mais brilhante que o sol, reluzindo mais clara e intensa que um copo de cristal cheio de \u00e1gua cristalina, atravessado pelos raios de sol mais ardente\". Ela dirige-se \u00e0s crian\u00e7as e lhes pede que rezem o ter\u00e7o todos os dias pela paz do mundo, que pe\u00e7am pela convers\u00e3o dos pecadores, e pelo fim da guerra. As apari\u00e7\u00f5es continuam, e sempre a Virgem repete que se ore pela paz e pela convers\u00e3o dos pecadores e que se reze o ter\u00e7o diariamente.",
+                "vote_average": 5.8,
+                "vote_count": 22
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Thief",
+            "second_label": "Herschel Burke Gilbert",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1953,
+            "tmdb": {
+                "id": 38417,
+                "original_title": "The Thief",
+                "title": "The Thief",
+                "release_date": "1952-10-15",
+                "backdrop_path": "/xbOOFeRfhsFwjSpKVQnyxciIuy0.jpg",
+                "poster_path": "/1jXvDY9pqIQu2Y986PoVFm2sDDj.jpg",
+                "overview": "A chance accident causes a nuclear physicist, who's selling top secret material to the Russians, to fall under FBI scrutiny and go on the run.",
+                "vote_average": 6.1,
+                "vote_count": 29
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Viva Zapata!",
+            "second_label": "Alex North",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1953,
+            "tmdb": {
+                "id": 1810,
+                "original_title": "Viva Zapata!",
+                "title": "Viva Zapata",
+                "release_date": "1952-02-07",
+                "backdrop_path": "/7aX2mfTcQArKS9PufnngjexnaQY.jpg",
+                "poster_path": "/vfarxn9ddiaZpRDml8FGhB46Qrc.jpg",
+                "overview": "Em 1909, no M\u00e9xico, um grupo de lavradores vai at\u00e9 o presidente, afirmando que suas terras foram roubadas, e um deles deixa claro que o governo n\u00e3o pretende fazer nada por eles. Este lavrador acaba se tornando um guerrilheiro, que por v\u00e1rios anos teve import\u00e2ncia pol\u00edtica na vida do pa\u00eds.",
+                "vote_average": 6.9,
+                "vote_count": 198
+            },
+            "winner": false
+        }
+    ],
+    "Music (Scoring of a Musical Picture)": [
+        {
+            "first_label": "With a Song in My Heart",
+            "second_label": "Alfred Newman",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1953,
+            "tmdb": {
+                "id": 65787,
+                "original_title": "With a Song in My Heart",
+                "title": "Meu Cora\u00e7\u00e3o Canta",
+                "release_date": "1952-04-03",
+                "backdrop_path": "/jliwdbenSCvfkAJiXmNGJ25NRpa.jpg",
+                "poster_path": "/ukUDE4agso8WDjGeTKkjH6FqS6V.jpg",
+                "overview": "Depois de conseguir um emprego cantando no r\u00e1dio, Jane Froman se casa com o acompanhante musical Don Ross. Sob a administra\u00e7\u00e3o de Don, Jane sobe ao estrelato e \u00e9 convidada a se apresentar para as tropas durante a Segunda Guerra Mundial. No caminho, seu avi\u00e3o cai, deixando Jane com ferimentos graves nas pernas. Em recupera\u00e7\u00e3o, Jane come\u00e7a um romance com John Burn, um piloto militar ferido. Ela pretende voltar a cantar, mas com dois homens em seu cora\u00e7\u00e3o, a vida \u00e9 cada vez mais complicada. (e 10 - Estimado 10 Anos)",
+                "vote_average": 6.1,
+                "vote_count": 14
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Hans Christian Andersen",
+            "second_label": "Walter Scharf",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1953,
+            "tmdb": {
+                "id": 16618,
+                "original_title": "Hans Christian Andersen",
+                "title": "Hans Christian Andersen",
+                "release_date": "1952-12-19",
+                "backdrop_path": "/b7JozC8zQE9P5Uj485EuqwhAics.jpg",
+                "poster_path": "/auHA8xsD452GDCY2KdHGgYPmDPf.jpg",
+                "overview": "A small-town shoemaker with a knack for spinning yarns, Hans encounters happiness and heartbreak on his road to becoming a full-fledged writer.",
+                "vote_average": 6.2,
+                "vote_count": 61
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Jazz Singer",
+            "second_label": "Ray Heindorf, Max Steiner",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1953,
+            "tmdb": {
+                "id": 216925,
+                "original_title": "The Jazz Singer",
+                "title": "O Cantor de Jazz",
+                "release_date": "1953-02-14",
+                "backdrop_path": "/nNbzEIl7CtSpeNcL9PpOfBgyyYD.jpg",
+                "poster_path": "/u1ybrnSgK5XT1HRiB5ieRyLTXrg.jpg",
+                "overview": "As Jerry Golding scales the heights of show business, he breaks the heart of his father, who'd hoped that Jerry would follow in his footsteps. Sorrowfully, Cantor Golding reads the Kaddish service, indicating that, so far as he is concerned, his son is dead. A tearful reconciliation occurs when Jerry dutifully returns to sing the \"Kol Nidre\" in his ailing father's absence.",
+                "vote_average": 5.5,
+                "vote_count": 6
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Medium",
+            "second_label": "Gian-Carlo Menotti",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1953,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Singin' in the Rain",
+            "second_label": "Lennie Hayton",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1953,
+            "tmdb": {
+                "id": 872,
+                "original_title": "Singin' in the Rain",
+                "title": "Cantando na Chuva",
+                "release_date": "1952-04-09",
+                "backdrop_path": "/mxf8hJJkHTCqZP3m4o8E1TtwHHs.jpg",
+                "poster_path": "/tLUOxyl1myKTQGMTCnuA9RRArHS.jpg",
+                "overview": "Em 1927, Hollywood, est\u00e1 um verdadeiro rebuli\u00e7o com a transi\u00e7\u00e3o do cinema mudo para o falado. Don Lockwood e Lina Lamont, o casal mais querido do cinema mudo, se prepara para rodar um musical. Mas, infelizmente, Lina n\u00e3o s\u00f3 n\u00e3o sabe cantar como tem uma voz horr\u00edvel. A estreante, Kathy Selden, \u00e9 chamada a emprestar sua voz \u00e0 estrela. As grava\u00e7\u00f5es s\u00e3o uma confus\u00e3o, mas tudo piora quando Don se apaixona pela doce Kathy. Ao lado de seu insepar\u00e1vel amigo, o compositor Cosmo Brown, ele tenta mostrar ao mundo o talento de Kathy.",
+                "vote_average": 8.162,
+                "vote_count": 2975
+            },
+            "winner": false
+        }
+    ],
+    "Music (Song)": [
+        {
+            "first_label": "High Noon",
+            "second_label": "High Noon (Do Not Forsake Me, Oh My Darlin') in \"High Noon\" Music by Dimitri Tiomkin; Lyrics by Ned Washington",
+            "category": "Music (Song)",
+            "year": 1953,
+            "tmdb": {
+                "id": 288,
+                "original_title": "High Noon",
+                "title": "Matar ou Morrer",
+                "release_date": "1952-06-09",
+                "backdrop_path": "/jyUcUMvLdUon3HPjbUdAsm754G6.jpg",
+                "poster_path": "/x1Mx2CnUJDb1N4LcxuR4eM70zPB.jpg",
+                "overview": "Para o xerife Will Kane (Gary Cooper), o dia do seu casamento ser\u00e1 marcado n\u00e3o pela emo\u00e7\u00e3o, mas pela adrenalina e a persegui\u00e7\u00e3o com o perigoso bandido Frank Miller. Miller fugiu atr\u00e1s de vingan\u00e7a, j\u00e1 que Kane o colocou na pris\u00e3o. Mas, agora, nem a popula\u00e7\u00e3o local ir\u00e1 ajud\u00e1-lo.",
+                "vote_average": 7.7,
+                "vote_count": 1338
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Son of Paleface",
+            "second_label": "Am I In Love in \"Son of Paleface\" Music and Lyrics by Jack Brooks",
+            "category": "Music (Song)",
+            "year": 1953,
+            "tmdb": {
+                "id": 30801,
+                "original_title": "Son of Paleface",
+                "title": "O Filho do Treme-Treme",
+                "release_date": "1952-07-14",
+                "backdrop_path": "/pQqUZCEH9YOvBEWMadqJV8m3nHd.jpg",
+                "poster_path": "/caCpFT0SjltDb0uy29LWv2MRvr7.jpg",
+                "overview": "Peter Potter Jr. returns to claim his father's gold, which is nowhere to be found.",
+                "vote_average": 6.3,
+                "vote_count": 31
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Because You're Mine",
+            "second_label": "Because You're Mine in \"Because You're Mine\" Music by Nicholas Brodszky; Lyrics by Sammy Cahn",
+            "category": "Music (Song)",
+            "year": 1953,
+            "tmdb": {
+                "id": 184802,
+                "original_title": "Because You're Mine",
+                "title": "Tu \u00c9s Minha Paix\u00e3o",
+                "release_date": "1952-10-01",
+                "backdrop_path": "/vBcOATmfj7ubImAhYMZmzqpKRrc.jpg",
+                "poster_path": "/7hqqJHg13fidcV20f4oGd25Be5c.jpg",
+                "overview": "A famous opera singer falls for his sergeant's sister at boot camp.",
+                "vote_average": 6.7,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hans Christian Andersen",
+            "second_label": "Thumbelina in \"Hans Christian Andersen\" Music and Lyrics by Frank Loesser",
+            "category": "Music (Song)",
+            "year": 1953,
+            "tmdb": {
+                "id": 16618,
+                "original_title": "Hans Christian Andersen",
+                "title": "Hans Christian Andersen",
+                "release_date": "1952-12-19",
+                "backdrop_path": "/b7JozC8zQE9P5Uj485EuqwhAics.jpg",
+                "poster_path": "/auHA8xsD452GDCY2KdHGgYPmDPf.jpg",
+                "overview": "A small-town shoemaker with a knack for spinning yarns, Hans encounters happiness and heartbreak on his road to becoming a full-fledged writer.",
+                "vote_average": 6.2,
+                "vote_count": 61
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Just for You",
+            "second_label": "Zing A Little Zong in \"Just for You\" Music by Harry Warren; Lyrics by Leo Robin",
+            "category": "Music (Song)",
+            "year": 1953,
+            "tmdb": {
+                "id": 46014,
+                "original_title": "Just for You",
+                "title": "Filhos Esquecidos",
+                "release_date": "1952-09-27",
+                "backdrop_path": "/8WeKC8rnfI3NvmgZKrLp9ONVBUe.jpg",
+                "poster_path": "/l0jKVfRTyWYE9EJcIpwaqPdr5WF.jpg",
+                "overview": "Jordan Blake (a widower) is a successful Broadway Producer who has always been to busy for his children, Barbara and Jerry. Girlfriend, Carolina a musical comedy star, urges Jordan to take his kids on a vacation and get to know them before they are all grown up. Is Jordan already too late?",
+                "vote_average": 4.8,
+                "vote_count": 3
+            },
+            "winner": false
+        }
+    ],
+    "Best Motion Picture": [
+        {
+            "first_label": "The Greatest Show on Earth",
+            "second_label": "Cecil B. DeMille, Producer",
+            "category": "Best Motion Picture",
+            "year": 1953,
+            "tmdb": {
+                "id": 27191,
+                "original_title": "The Greatest Show on Earth",
+                "title": "O Maior Espet\u00e1culo da Terra",
+                "release_date": "1952-02-16",
+                "backdrop_path": "/qSzk59lcblHMxd4OqRAZB2qdroL.jpg",
+                "poster_path": "/3ZCqDLfa9uegCuHCm4rbgkgNbA2.jpg",
+                "overview": "Um filme espetacular, bem \u00e0 maneira de DeMille, que \u00e9 tamb\u00e9m a maior homenagem que o cinema prestou ao mundo do circo. O grande circo que \u00e9 o pano de fundo deste drama humano \u00e9 o famoso Ringling Bros-Barnum & Bailey, e James Stewart \u00e9 o palha\u00e7o que esconde um passado misterioso. Entre os convidados especiais encontramos Bing Crosby, Bob Hope e William Boyd. Oscar de melhor filme em 1952.",
+                "vote_average": 6.3,
+                "vote_count": 219
+            },
+            "winner": true
+        },
+        {
+            "first_label": "High Noon",
+            "second_label": "Stanley Kramer, Producer",
+            "category": "Best Motion Picture",
+            "year": 1953,
+            "tmdb": {
+                "id": 288,
+                "original_title": "High Noon",
+                "title": "Matar ou Morrer",
+                "release_date": "1952-06-09",
+                "backdrop_path": "/jyUcUMvLdUon3HPjbUdAsm754G6.jpg",
+                "poster_path": "/x1Mx2CnUJDb1N4LcxuR4eM70zPB.jpg",
+                "overview": "Para o xerife Will Kane (Gary Cooper), o dia do seu casamento ser\u00e1 marcado n\u00e3o pela emo\u00e7\u00e3o, mas pela adrenalina e a persegui\u00e7\u00e3o com o perigoso bandido Frank Miller. Miller fugiu atr\u00e1s de vingan\u00e7a, j\u00e1 que Kane o colocou na pris\u00e3o. Mas, agora, nem a popula\u00e7\u00e3o local ir\u00e1 ajud\u00e1-lo.",
+                "vote_average": 7.7,
+                "vote_count": 1338
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ivanhoe",
+            "second_label": "Pandro S. Berman, Producer",
+            "category": "Best Motion Picture",
+            "year": 1953,
+            "tmdb": {
+                "id": 26175,
+                "original_title": "Ivanhoe",
+                "title": "Ivanho\u00e9, o Vingador do Rei",
+                "release_date": "1952-07-31",
+                "backdrop_path": "/pKAq05IpPBoO6B6xmhiLoCvPCGD.jpg",
+                "poster_path": "/dyiTvcl8z5MhiVnMbDLMCHqLJuN.jpg",
+                "overview": "O leal cavaleiro brit\u00e2nico Wilfred de Ivanhoe sai em uma miss\u00e3o para libertar o rei sequestrado da Inglaterra, Ricardo Cora\u00e7\u00e3o de Le\u00e3o, nesta aventura empolgante. O bravo Ivanhoe deve, eventualmente, enfrentar o perverso pr\u00edncipe John e o feroz guerreiro normando Brian de Bois-Guilbert, al\u00e9m das afei\u00e7\u00f5es das lindas donzelas Rowena e Rebecca.",
+                "vote_average": 6.8,
+                "vote_count": 163
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Moulin Rouge",
+            "second_label": "Romulus Films",
+            "category": "Best Motion Picture",
+            "year": 1953,
+            "tmdb": {
+                "id": 10910,
+                "original_title": "Moulin Rouge",
+                "title": "Moulin Rouge",
+                "release_date": "1952-12-23",
+                "backdrop_path": "/66I1cHGQdFuXhKwh4PsQGQlYSXa.jpg",
+                "poster_path": "/eNly1s5DXQUTyjvfmopJPwwPiMH.jpg",
+                "overview": "Born into aristocracy, Toulouse-Lautrec moves to Paris to pursue his art as he hangs out at the Moulin Rouge where he feels like he fits in being a misfit among other misfits. Yet, because of the deformity of his legs from an accident, he believes he is never destined to experience the true love of a woman. But that lack of love in his life may change as he meets two women",
+                "vote_average": 6.7,
+                "vote_count": 91
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Quiet Man",
+            "second_label": "John Ford and Merian C. Cooper, Producers",
+            "category": "Best Motion Picture",
+            "year": 1953,
+            "tmdb": {
+                "id": 3109,
+                "original_title": "The Quiet Man",
+                "title": "Depois do Vendaval",
+                "release_date": "1952-07-21",
+                "backdrop_path": "/wUETmGLEmVT00iAIjAeZwSdjMxH.jpg",
+                "poster_path": "/le3B0Bg4bCTDfQyAwah7Mt2e93H.jpg",
+                "overview": "Sean Thornton voltou da Am\u00e9rica para a Irlanda onde pretende recuperar sua herdade e escapar de seu passado. Mas a aten\u00e7\u00e3o de Sean \u00e9 capturada por Mary Kate Danaher, uma bela mas pobre donzela, e irm\u00e3 mais nova do mal-humorado \"Red\" Will Danaher. O relacionamento turbulento que se forma entre Sean e Mary Kate, pontuado por tentativas belicosas de Will para mant\u00ea-los separados formam a trama principal, com o passado de Sean como boxeador atrapalhando um pouco.",
+                "vote_average": 7.3,
+                "vote_count": 488
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Cartoon)": [
+        {
+            "first_label": "Johann Mouse",
+            "second_label": "Fred Quimby, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1953,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Little Johnny Jet",
+            "second_label": "Fred Quimby, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1953,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Madeline",
+            "second_label": "Stephen Bosustow, Executive Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1953,
+            "tmdb": {
+                "id": 242994,
+                "original_title": "Madeline",
+                "title": "Madeline",
+                "release_date": "1952-11-27",
+                "backdrop_path": "/oq5svQNISKtEIYokYcB9zQJAvY.jpg",
+                "poster_path": "/g2yFPAeFjlLswdgAKSjhoxzjJsC.jpg",
+                "overview": "This short from the UPA studio was nominated for the 1952 Oscars. Based on the Madeline series of children's books.",
+                "vote_average": 6.2,
+                "vote_count": 11
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Pink and Blue Blues",
+            "second_label": "Stephen Bosustow, Executive Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1953,
+            "tmdb": {
+                "id": 242995,
+                "original_title": "Pink and Blue Blues",
+                "title": "Pink and Blue Blues",
+                "release_date": "1952-08-18",
+                "backdrop_path": "/dfQBnAdAnuAzLZ4awRLU5dnvf25.jpg",
+                "poster_path": null,
+                "overview": "Mr. Magoo is hired by his neighbors to babysit their little son, Homer. Magoo is delighted to accept but, unfortunately, a notorious cat burglar is intent on entering and robbing the house Magoo is babysitting it. To make matters worse, Magoo is constantly confusing Homer with the family dog and vice versa. When the thief finally breaks in, all chaos breaks loose but everything turns out all right in the end when the thief is apprehended thanks to the dog who is more alert than Magoo was.",
+                "vote_average": 5.2,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Romance of Transportation",
+            "second_label": "Tom Daly, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1953,
+            "tmdb": {
+                "id": 242996,
+                "original_title": "The Romance of Transportation in Canada",
+                "title": "The Romance of Transportation in Canada",
+                "release_date": "1952-01-01",
+                "backdrop_path": "/pfAgq548g7ETAF6uNB2D9U6uxEd.jpg",
+                "poster_path": "/h6YeEkL7CLspoCWj2nsLCFiwwQ1.jpg",
+                "overview": "A humorous survey of the history of the development of transportation technology in Canada.",
+                "vote_average": 6.1,
+                "vote_count": 7
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (One-reel)": [
+        {
+            "first_label": "Light in the Window: The Art of Vermeer",
+            "second_label": "Boris Vermont, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1953,
+            "tmdb": {
+                "id": 242989,
+                "original_title": "Light in the Window: The Art of Vermeer",
+                "title": "Light in the Window: The Art of Vermeer",
+                "release_date": "1952-09-01",
+                "backdrop_path": null,
+                "poster_path": "/ysYPPQ4DRBddcg2pdKRdNoT1stF.jpg",
+                "overview": "Light in the Window is a 1952 short documentary film directed by Jean Oser. It is an innovative profile of the painter Johannes Vermeer. The film won an Oscar in 1953 for Best Short Subject, One-Reel.",
+                "vote_average": 6.5,
+                "vote_count": 2
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Athletes of the Saddle",
+            "second_label": "Jack Eaton, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1953,
+            "tmdb": {
+                "id": 242990,
+                "original_title": "Athletes of the Saddle",
+                "title": "Athletes of the Saddle",
+                "release_date": "1952-08-01",
+                "backdrop_path": null,
+                "poster_path": "/1z5dvBbuYDXUNqOFJ95Z53Z0mRN.jpg",
+                "overview": "This Grantland Rice Sportlight directed by Jack Eaton visits the internationally famous Mexican Army Equestrian Teams as it puts on a demonstration if the finest in horsemanship. The film was nominated for an Oscar for Best Short Subject, One-Reel.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Desert Killer",
+            "second_label": "Gordon Hollingshead, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1953,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Neighbours",
+            "second_label": "Norman McLaren, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1953,
+            "tmdb": {
+                "id": 51406,
+                "original_title": "Neighbours",
+                "title": "Neighbours",
+                "release_date": "1952-01-01",
+                "backdrop_path": "/2dCoRMN3PU7UjZpjfnaSAghLrVM.jpg",
+                "poster_path": "/ccpiARQxBBWaL2Ik8ke9yjq7qrM.jpg",
+                "overview": "In this Oscar-winning short film, Norman McLaren employs the principles normally used to put drawings or puppets into motion to animate live actors. The story is a parable about two people who come to blows over the possession of a flower.",
+                "vote_average": 7.4,
+                "vote_count": 100
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Royal Scotland",
+            "second_label": "Crown Film Unit",
+            "category": "Short Subject (One-reel)",
+            "year": 1953,
+            "tmdb": {
+                "id": 242991,
+                "original_title": "Royal Scotland",
+                "title": "Royal Scotland",
+                "release_date": "1952-01-01",
+                "backdrop_path": null,
+                "poster_path": "/ufUKwqBs7VI6pLaqjQAIjqDNLpF.jpg",
+                "overview": "Royal Scotland is a 1952 short documentary film directed by Gerard Bryant. It was nominated for an Oscar for Best Short Subject, One-Reel.",
+                "vote_average": 6.2,
+                "vote_count": 5
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Two-reel)": [
+        {
+            "first_label": "Water Birds",
+            "second_label": "Walt Disney, Producer",
+            "category": "Short Subject (Two-reel)",
+            "year": 1953,
+            "tmdb": {
+                "id": 179184,
+                "original_title": "Water Birds",
+                "title": "Aves Aqu\u00e1ticas",
+                "release_date": "1952-06-26",
+                "backdrop_path": "/aQBfokxpXZVzXfajE1DgIkGWYVX.jpg",
+                "poster_path": "/jd2nJgTmB5iJx1Bu44UlEKcAOvc.jpg",
+                "overview": "Das \u00e1guas tranquilas de lagoas e p\u00e2ntanos at\u00e9 o azul selvagem dos vastos oceanos, experimente a beleza e a variedade desses p\u00e1ssaros majestosos, cada um perfeitamente projetado para seu habitat.",
+                "vote_average": 6.5,
+                "vote_count": 11
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Bridge of Time",
+            "second_label": "London Film Production",
+            "category": "Short Subject (Two-reel)",
+            "year": 1953,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Devil Take Us",
+            "second_label": "Herbert Morgan, Producer",
+            "category": "Short Subject (Two-reel)",
+            "year": 1953,
+            "tmdb": {
+                "id": 242985,
+                "original_title": "Devil Take Us",
+                "title": "Devil Take Us",
+                "release_date": "1952-02-22",
+                "backdrop_path": null,
+                "poster_path": "/h7rtn82fndgSRSiVv4OjEIZoyix.jpg",
+                "overview": "A motorcycle cop buys a used car to take his family on vacation to the East Coast. Minor car trouble along the way causes him to meet first a reckless driver, and then a highway patrolman who shares stories of bad drivers with him. Various dangers of careless driving - both fictional and real - are depicted as the patrolman continues on the job, later crossing paths with the reckless driver again. When the police officer makes the return trip from his vacation, he finds that the situation has changed in a surprising way.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Thar She Blows!",
+            "second_label": "Gordon Hollingshead, Producer",
+            "category": "Short Subject (Two-reel)",
+            "year": 1953,
+            "tmdb": {
+                "id": 242988,
+                "original_title": "Thar She Blows!",
+                "title": "Thar She Blows!",
+                "release_date": "1952-12-01",
+                "backdrop_path": null,
+                "poster_path": "/m14wM21ldPyZMTtEVOODTfzRwuY.jpg",
+                "overview": "Thar She Blows! is a 1952 short documentary directed by Richard Statile, composed of color footage of a whale hunt, filmed in a five month period near Antarctica. The film was nominated for an Oscar for Best Short Subject, Two-Reel.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        }
+    ],
+    "Sound Recording": [
+        {
+            "first_label": "Breaking the Sound Barrier",
+            "second_label": "London Film Sound Department",
+            "category": "Sound Recording",
+            "year": 1953,
+            "tmdb": {
+                "id": 51619,
+                "original_title": "The Sound Barrier",
+                "title": "Sem Barreira no C\u00e9u",
+                "release_date": "1952-10-10",
+                "backdrop_path": "/ycw1LTBimIrYIKegutP0SGULZG8.jpg",
+                "poster_path": "/mRnvfT0GFUwQS2rK8pCrOeWOuzQ.jpg",
+                "overview": "Hist\u00f3ria ficcional dos engenheiros aeroespaciais brit\u00e2nicos que tentam resolver o problema do voo supers\u00f4nico.\r O piloto de ca\u00e7a Tony, bem-sucedido durante a Segunda Guerra Mundial, se casa com Susan, filha de um magnata do petr\u00f3leo que tamb\u00e9m projeta avi\u00f5es. O filme mostra a tentativa da empresa de quebrar a barreira do som, bem como as tens\u00f5es entre pai e filha. Muitas filmagens do in\u00edcio dos anos 50 da avia\u00e7\u00e3o a jato na Gr\u00e3-Bretanha, bem como cenas reais do avi\u00e3o Comet, primeiro avi\u00e3o a jato de passageiros do mundo. e Livre.",
+                "vote_average": 6.5,
+                "vote_count": 50
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Hans Christian Andersen",
+            "second_label": "Samuel Goldwyn Studio Sound Department, Gordon Sawyer, Sound Director",
+            "category": "Sound Recording",
+            "year": 1953,
+            "tmdb": {
+                "id": 16618,
+                "original_title": "Hans Christian Andersen",
+                "title": "Hans Christian Andersen",
+                "release_date": "1952-12-19",
+                "backdrop_path": "/b7JozC8zQE9P5Uj485EuqwhAics.jpg",
+                "poster_path": "/auHA8xsD452GDCY2KdHGgYPmDPf.jpg",
+                "overview": "A small-town shoemaker with a knack for spinning yarns, Hans encounters happiness and heartbreak on his road to becoming a full-fledged writer.",
+                "vote_average": 6.2,
+                "vote_count": 61
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Promoter",
+            "second_label": "Pinewood Studios Sound Department",
+            "category": "Sound Recording",
+            "year": 1953,
+            "tmdb": {
+                "id": 43369,
+                "original_title": "The Card",
+                "title": "\u00c0s Voltas com 3 Mulheres",
+                "release_date": "1952-02-25",
+                "backdrop_path": "/bJ77lq5x7SDzzh4SvA9tiTYZqRH.jpg",
+                "poster_path": "/lFK9EPjJAxSCQcx9jDeF7HplEUx.jpg",
+                "overview": "A charming and ambitious young man finds many ways to raise himself through the ranks in business and social standing - some honest, some not quite so. If he can just manage to avoid a certain very predatory woman...",
+                "vote_average": 6.9,
+                "vote_count": 34
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Quiet Man",
+            "second_label": "Republic Studio Sound Department, Daniel J. Bloomberg, Sound Director",
+            "category": "Sound Recording",
+            "year": 1953,
+            "tmdb": {
+                "id": 3109,
+                "original_title": "The Quiet Man",
+                "title": "Depois do Vendaval",
+                "release_date": "1952-07-21",
+                "backdrop_path": "/wUETmGLEmVT00iAIjAeZwSdjMxH.jpg",
+                "poster_path": "/le3B0Bg4bCTDfQyAwah7Mt2e93H.jpg",
+                "overview": "Sean Thornton voltou da Am\u00e9rica para a Irlanda onde pretende recuperar sua herdade e escapar de seu passado. Mas a aten\u00e7\u00e3o de Sean \u00e9 capturada por Mary Kate Danaher, uma bela mas pobre donzela, e irm\u00e3 mais nova do mal-humorado \"Red\" Will Danaher. O relacionamento turbulento que se forma entre Sean e Mary Kate, pontuado por tentativas belicosas de Will para mant\u00ea-los separados formam a trama principal, com o passado de Sean como boxeador atrapalhando um pouco.",
+                "vote_average": 7.3,
+                "vote_count": 488
+            },
+            "winner": false
+        },
+        {
+            "first_label": "With a Song in My Heart",
+            "second_label": "20th Century-Fox Studio Sound Department, Thomas T. Moulton, Sound Director",
+            "category": "Sound Recording",
+            "year": 1953,
+            "tmdb": {
+                "id": 65787,
+                "original_title": "With a Song in My Heart",
+                "title": "Meu Cora\u00e7\u00e3o Canta",
+                "release_date": "1952-04-03",
+                "backdrop_path": "/jliwdbenSCvfkAJiXmNGJ25NRpa.jpg",
+                "poster_path": "/ukUDE4agso8WDjGeTKkjH6FqS6V.jpg",
+                "overview": "Depois de conseguir um emprego cantando no r\u00e1dio, Jane Froman se casa com o acompanhante musical Don Ross. Sob a administra\u00e7\u00e3o de Don, Jane sobe ao estrelato e \u00e9 convidada a se apresentar para as tropas durante a Segunda Guerra Mundial. No caminho, seu avi\u00e3o cai, deixando Jane com ferimentos graves nas pernas. Em recupera\u00e7\u00e3o, Jane come\u00e7a um romance com John Burn, um piloto militar ferido. Ela pretende voltar a cantar, mas com dois homens em seu cora\u00e7\u00e3o, a vida \u00e9 cada vez mais complicada. (e 10 - Estimado 10 Anos)",
+                "vote_average": 6.1,
+                "vote_count": 14
+            },
+            "winner": false
+        }
+    ],
+    "Special Effects": [
+        {
+            "first_label": "Plymouth Adventure",
+            "second_label": "Metro-Goldwyn-Mayer",
+            "category": "Special Effects",
+            "year": 1953,
+            "tmdb": {
+                "id": 90968,
+                "original_title": "Plymouth Adventure",
+                "title": "O Veleiro da Aventura",
+                "release_date": "1952-11-28",
+                "backdrop_path": "/1WTSYJQEHh1PsZqnuzmxWQyWXB2.jpg",
+                "poster_path": "/p1bBvxJ4hD8MnLRlpH11wIOYyvA.jpg",
+                "overview": "Christopher Jones \u00e9 o turr\u00e3o, tenaz capit\u00e3o cujo objetivo \u00e9 levar um punhado de calvinistas de Plymouth, na Inglaterra, at\u00e9 as terras da Am\u00e9rica, do outro lado do Atl\u00e2ntico. Entre perigos variados, tempestades e diversos obst\u00e1culos, nasce um romance entre John Alden e Priscilla Mullins. Outra passageira importante \u00e9 Dorothy Bradford, a noiva do futuro governador William Bradford. O capit\u00e3o se apaixona por ela, que n\u00e3o lhe \u00e9 indiferente.",
+                "vote_average": 5.4,
+                "vote_count": 18
+            },
+            "winner": true
+        }
+    ],
+    "Writing (Motion Picture Story)": [
+        {
+            "first_label": "The Greatest Show on Earth",
+            "second_label": "Fredric M. Frank, Theodore St. John, Frank Cavett",
+            "category": "Writing (Motion Picture Story)",
+            "year": 1953,
+            "tmdb": {
+                "id": 27191,
+                "original_title": "The Greatest Show on Earth",
+                "title": "O Maior Espet\u00e1culo da Terra",
+                "release_date": "1952-02-16",
+                "backdrop_path": "/qSzk59lcblHMxd4OqRAZB2qdroL.jpg",
+                "poster_path": "/3ZCqDLfa9uegCuHCm4rbgkgNbA2.jpg",
+                "overview": "Um filme espetacular, bem \u00e0 maneira de DeMille, que \u00e9 tamb\u00e9m a maior homenagem que o cinema prestou ao mundo do circo. O grande circo que \u00e9 o pano de fundo deste drama humano \u00e9 o famoso Ringling Bros-Barnum & Bailey, e James Stewart \u00e9 o palha\u00e7o que esconde um passado misterioso. Entre os convidados especiais encontramos Bing Crosby, Bob Hope e William Boyd. Oscar de melhor filme em 1952.",
+                "vote_average": 6.3,
+                "vote_count": 219
+            },
+            "winner": true
+        },
+        {
+            "first_label": "My Son John",
+            "second_label": "Leo McCarey",
+            "category": "Writing (Motion Picture Story)",
+            "year": 1953,
+            "tmdb": {
+                "id": 52991,
+                "original_title": "My Son John",
+                "title": "N\u00e3o Desonres o Seu Sangue",
+                "release_date": "1952-04-08",
+                "backdrop_path": "/hIYZMjRnkbgBJlOONmYCD3wAQBP.jpg",
+                "poster_path": "/ljWPm1ELgpHXxvidOFQhff0cD8O.jpg",
+                "overview": "In this Cold War drama, a woman suspects her son is a Communist spy.",
+                "vote_average": 5.2,
+                "vote_count": 8
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Narrow Margin",
+            "second_label": "Martin Goldsmith, Jack Leonard",
+            "category": "Writing (Motion Picture Story)",
+            "year": 1953,
+            "tmdb": {
+                "id": 31713,
+                "original_title": "The Narrow Margin",
+                "title": "Rumo ao Inferno",
+                "release_date": "1952-05-03",
+                "backdrop_path": "/tlQGmVcRFa9VN58cpoCtmfKNgr5.jpg",
+                "poster_path": "/kdlCfBmTZ7CoJoCvS1b56Xj1qJi.jpg",
+                "overview": "Uma mulher que vai testemunhar contra um chef\u00e3o da M\u00e1fia deve ser protegida contra seus assassinos na viagem de trem de Chicago para Los Angeles.",
+                "vote_average": 7.3,
+                "vote_count": 138
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Pride of St. Louis",
+            "second_label": "Guy Trosper",
+            "category": "Writing (Motion Picture Story)",
+            "year": 1953,
+            "tmdb": {
+                "id": 43188,
+                "original_title": "The Pride of St. Louis",
+                "title": "O Homem do Dia",
+                "release_date": "1952-05-02",
+                "backdrop_path": "/bzJLhKLenRtFMuK43O28dOnRtQL.jpg",
+                "poster_path": "/9oy3KV2wE1RYG3AvXJDrmVzSf7R.jpg",
+                "overview": "The story of Jerome \"Dizzy\" Dean, a major-league baseball pitcher for the St. Louis Cardinals and Chicago Cubs in the 1930s and 1940s.",
+                "vote_average": 6.7,
+                "vote_count": 7
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Sniper",
+            "second_label": "Edna Anhalt, Edward Anhalt",
+            "category": "Writing (Motion Picture Story)",
+            "year": 1953,
+            "tmdb": {
+                "id": 25551,
+                "original_title": "The Sniper",
+                "title": "Vol\u00fapia de Matar",
+                "release_date": "1952-05-09",
+                "backdrop_path": "/8TJGc1HH4ZgAYvr7WoywuRS4yG8.jpg",
+                "poster_path": "/upYwLa9rKoejM79p9DRXuLjYXN7.jpg",
+                "overview": "Eddie Miller struggles with his hatred of women, he's especially bothered by seeing women with their lovers. He starts a killing spree as a sniper by shooting women from far distances. In an attempt to get caught, he writes an anonymous letter to the police begging them to stop him.",
+                "vote_average": 6.7,
+                "vote_count": 64
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay)": [
+        {
+            "first_label": "The Bad and the Beautiful",
+            "second_label": "Charles Schnee",
+            "category": "Writing (Screenplay)",
+            "year": 1953,
+            "tmdb": {
+                "id": 32499,
+                "original_title": "The Bad and the Beautiful",
+                "title": "Assim Estava Escrito",
+                "release_date": "1952-12-25",
+                "backdrop_path": "/omvyf5m1RKkZq7w8obrOEDhY5E0.jpg",
+                "poster_path": "/orvve8x5WZJ2t5oBBrelm69qNX7.jpg",
+                "overview": "Narrado em flashback, o filme tra\u00e7a a ascens\u00e3o e a queda de um produtor de Hollywood duro e ambicioso, Jonathan Shields, visto pelos olhos de v\u00e1rios conhecidos, incluindo o escritor James Lee Bartlow, a estrela Georgia Lorrison e o diretor Fred Amiel. Ele \u00e9 um homem dif\u00edcil e ambicioso que impiedosamente usa todos - incluindo o escritor, estrela e diretor - na escalada para se tornar um dos maiores de Hollywood. (e 16 - Estimado 16 Anos)",
+                "vote_average": 7.3,
+                "vote_count": 224
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Five Fingers",
+            "second_label": "Michael Wilson",
+            "category": "Writing (Screenplay)",
+            "year": 1953,
+            "tmdb": {
+                "id": 59087,
+                "original_title": "5 Fingers",
+                "title": "Cinco Dedos",
+                "release_date": "1952-02-22",
+                "backdrop_path": "/e0MsKelKuPRh4kSTmmnrsxRk1iT.jpg",
+                "poster_path": "/7TEaTue2a3SvC54TjxSy1DFAMtl.jpg",
+                "overview": "Durante a Segunda Guerra Mundial, o manobrista do embaixador brit\u00e2nico em Ancara vende segredos brit\u00e2nicos aos alem\u00e3es, enquanto tenta namorar uma condessa polonesa refugiada. (e 12 - Estimado 12 Anos)",
+                "vote_average": 7.6,
+                "vote_count": 80
+            },
+            "winner": false
+        },
+        {
+            "first_label": "High Noon",
+            "second_label": "Carl Foreman",
+            "category": "Writing (Screenplay)",
+            "year": 1953,
+            "tmdb": {
+                "id": 288,
+                "original_title": "High Noon",
+                "title": "Matar ou Morrer",
+                "release_date": "1952-06-09",
+                "backdrop_path": "/jyUcUMvLdUon3HPjbUdAsm754G6.jpg",
+                "poster_path": "/x1Mx2CnUJDb1N4LcxuR4eM70zPB.jpg",
+                "overview": "Para o xerife Will Kane (Gary Cooper), o dia do seu casamento ser\u00e1 marcado n\u00e3o pela emo\u00e7\u00e3o, mas pela adrenalina e a persegui\u00e7\u00e3o com o perigoso bandido Frank Miller. Miller fugiu atr\u00e1s de vingan\u00e7a, j\u00e1 que Kane o colocou na pris\u00e3o. Mas, agora, nem a popula\u00e7\u00e3o local ir\u00e1 ajud\u00e1-lo.",
+                "vote_average": 7.7,
+                "vote_count": 1338
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Man in the White Suit",
+            "second_label": "Roger MacDougall, John Dighton, Alexander Mackendrick",
+            "category": "Writing (Screenplay)",
+            "year": 1953,
+            "tmdb": {
+                "id": 32568,
+                "original_title": "The Man in the White Suit",
+                "title": "O Homem do Terno Branco",
+                "release_date": "1951-08-07",
+                "backdrop_path": "/eSxcby3f435Dq5yE3kPdLLj0oi7.jpg",
+                "poster_path": "/laTLoNZB7Ar3ZDoQmspBDVa5mbC.jpg",
+                "overview": "Linda s\u00e1tira sobre inventor que descobre um tecido que nunca se desgasta ou suja. Naturalmente \u00e9 um desastre para a ind\u00fastria de tecidos. (e 12 - Estimado 12 Anos)",
+                "vote_average": 6.8,
+                "vote_count": 170
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Quiet Man",
+            "second_label": "Frank S. Nugent",
+            "category": "Writing (Screenplay)",
+            "year": 1953,
+            "tmdb": {
+                "id": 3109,
+                "original_title": "The Quiet Man",
+                "title": "Depois do Vendaval",
+                "release_date": "1952-07-21",
+                "backdrop_path": "/wUETmGLEmVT00iAIjAeZwSdjMxH.jpg",
+                "poster_path": "/le3B0Bg4bCTDfQyAwah7Mt2e93H.jpg",
+                "overview": "Sean Thornton voltou da Am\u00e9rica para a Irlanda onde pretende recuperar sua herdade e escapar de seu passado. Mas a aten\u00e7\u00e3o de Sean \u00e9 capturada por Mary Kate Danaher, uma bela mas pobre donzela, e irm\u00e3 mais nova do mal-humorado \"Red\" Will Danaher. O relacionamento turbulento que se forma entre Sean e Mary Kate, pontuado por tentativas belicosas de Will para mant\u00ea-los separados formam a trama principal, com o passado de Sean como boxeador atrapalhando um pouco.",
+                "vote_average": 7.3,
+                "vote_count": 488
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Story and Screenplay)": [
+        {
+            "first_label": "The Lavender Hill Mob",
+            "second_label": "T. E. B. Clarke",
+            "category": "Writing (Story and Screenplay)",
+            "year": 1953,
+            "tmdb": {
+                "id": 32961,
+                "original_title": "The Lavender Hill Mob",
+                "title": "O Mist\u00e9rio da Torre",
+                "release_date": "1951-06-28",
+                "backdrop_path": "/scZbkCgTWAKo5Hq1XD8UML822YJ.jpg",
+                "poster_path": "/k0MfdrAshO2247Z9xu1FyulK5i9.jpg",
+                "overview": "O t\u00edmido Holland, um quase aposentado, sonha em ser rico e viver a boa vida. Fielmente, por 20 anos, ele tem trabalhado como um agente de transfer\u00eancia banc\u00e1ria para a entrega de barras de ouro. Um dia ele se torna amigo de Pendlebury, fabricante de souvenirs. Holland observa que, com o equipamento de fundi\u00e7\u00e3o de Pendlebury, pode-se fundir o ouro em Torres Eiffel como um brinquedo de apar\u00eancia inofensiva e contrabandear o ouro da Inglaterra para a Fran\u00e7a. Em seguida os dois contam uma hist\u00f3ria para conseguir a ajuda dos criminosos profissional Lackery e Shorty (Baixinho). Juntos, os quatro executam seu planos, o que os leva a inesperadas reviravoltas.",
+                "vote_average": 7.2,
+                "vote_count": 217
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Atomic City",
+            "second_label": "Sydney Boehm",
+            "category": "Writing (Story and Screenplay)",
+            "year": 1953,
+            "tmdb": {
+                "id": 86769,
+                "original_title": "The Atomic City",
+                "title": "A Cidade At\u00f4mica",
+                "release_date": "1952-05-01",
+                "backdrop_path": "/8bzEFhDFBul5K5hUm8zHFhnG8XY.jpg",
+                "poster_path": "/lZnHknRVKywJEw6gwd315o90RZl.jpg",
+                "overview": "Spies hold the son of a nuclear physicist (Gene Barry) hostage in exchange for the Los Alamos bomb formula.",
+                "vote_average": 5.2,
+                "vote_count": 14
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Breaking the Sound Barrier",
+            "second_label": "Terence Rattigan",
+            "category": "Writing (Story and Screenplay)",
+            "year": 1953,
+            "tmdb": {
+                "id": 51619,
+                "original_title": "The Sound Barrier",
+                "title": "Sem Barreira no C\u00e9u",
+                "release_date": "1952-10-10",
+                "backdrop_path": "/ycw1LTBimIrYIKegutP0SGULZG8.jpg",
+                "poster_path": "/mRnvfT0GFUwQS2rK8pCrOeWOuzQ.jpg",
+                "overview": "Hist\u00f3ria ficcional dos engenheiros aeroespaciais brit\u00e2nicos que tentam resolver o problema do voo supers\u00f4nico.\r O piloto de ca\u00e7a Tony, bem-sucedido durante a Segunda Guerra Mundial, se casa com Susan, filha de um magnata do petr\u00f3leo que tamb\u00e9m projeta avi\u00f5es. O filme mostra a tentativa da empresa de quebrar a barreira do som, bem como as tens\u00f5es entre pai e filha. Muitas filmagens do in\u00edcio dos anos 50 da avia\u00e7\u00e3o a jato na Gr\u00e3-Bretanha, bem como cenas reais do avi\u00e3o Comet, primeiro avi\u00e3o a jato de passageiros do mundo. e Livre.",
+                "vote_average": 6.5,
+                "vote_count": 50
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Pat and Mike",
+            "second_label": "Ruth Gordon, Garson Kanin",
+            "category": "Writing (Story and Screenplay)",
+            "year": 1953,
+            "tmdb": {
+                "id": 33575,
+                "original_title": "Pat and Mike",
+                "title": "A Mulher Absoluta",
+                "release_date": "1952-06-13",
+                "backdrop_path": "/7KN8wJbBylX6tB8E8DFYYYOJdhF.jpg",
+                "poster_path": "/6hSJWY1ygsOVAtPEz9Nb5q5FeyA.jpg",
+                "overview": "Pat \u00e9 uma atleta brilhante, exceto quando seu noivo dominador est\u00e1 por perto. Ela est\u00e1 quase ganhando o Campeonato de Golfe das Senhoras at\u00e9 que fica perturbada com a presen\u00e7a do noivo nos \u00faltimos buracos. Ele quer que eles se casem e esque\u00e7am essa coisa toda de golfe, mas ela n\u00e3o pode se render t\u00e3o facilmente. E pede a ajuda de Mike, um promotor de esportes um pouco sombrio. Juntos, eles enfrentam mafiosos, um boxer com ci\u00fames, e uma crescente atra\u00e7\u00e3o m\u00fatua.",
+                "vote_average": 6.3,
+                "vote_count": 60
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Viva Zapata!",
+            "second_label": "John Steinbeck",
+            "category": "Writing (Story and Screenplay)",
+            "year": 1953,
+            "tmdb": {
+                "id": 1810,
+                "original_title": "Viva Zapata!",
+                "title": "Viva Zapata",
+                "release_date": "1952-02-07",
+                "backdrop_path": "/7aX2mfTcQArKS9PufnngjexnaQY.jpg",
+                "poster_path": "/vfarxn9ddiaZpRDml8FGhB46Qrc.jpg",
+                "overview": "Em 1909, no M\u00e9xico, um grupo de lavradores vai at\u00e9 o presidente, afirmando que suas terras foram roubadas, e um deles deixa claro que o governo n\u00e3o pretende fazer nada por eles. Este lavrador acaba se tornando um guerrilheiro, que por v\u00e1rios anos teve import\u00e2ncia pol\u00edtica na vida do pa\u00eds.",
+                "vote_average": 6.9,
+                "vote_count": 198
+            },
+            "winner": false
+        }
+    ]
+}

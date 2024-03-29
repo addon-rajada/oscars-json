@@ -1,0 +1,1964 @@
+{
+    "Actor": [
+        {
+            "first_label": "Humphrey Bogart",
+            "second_label": "The African Queen",
+            "category": "Actor",
+            "year": 1952,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Marlon Brando",
+            "second_label": "A Streetcar Named Desire",
+            "category": "Actor",
+            "year": 1952,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Montgomery Clift",
+            "second_label": "A Place in the Sun",
+            "category": "Actor",
+            "year": 1952,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Arthur Kennedy",
+            "second_label": "Bright Victory",
+            "category": "Actor",
+            "year": 1952,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Fredric March",
+            "second_label": "Death of a Salesman",
+            "category": "Actor",
+            "year": 1952,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Karl Malden",
+            "second_label": "A Streetcar Named Desire",
+            "category": "Actor in a Supporting Role",
+            "year": 1952,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Leo Genn",
+            "second_label": "Quo Vadis",
+            "category": "Actor in a Supporting Role",
+            "year": 1952,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Kevin McCarthy",
+            "second_label": "Death of a Salesman",
+            "category": "Actor in a Supporting Role",
+            "year": 1952,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Peter Ustinov",
+            "second_label": "Quo Vadis",
+            "category": "Actor in a Supporting Role",
+            "year": 1952,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gig Young",
+            "second_label": "Come Fill the Cup",
+            "category": "Actor in a Supporting Role",
+            "year": 1952,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress": [
+        {
+            "first_label": "Vivien Leigh",
+            "second_label": "A Streetcar Named Desire",
+            "category": "Actress",
+            "year": 1952,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Katharine Hepburn",
+            "second_label": "The African Queen",
+            "category": "Actress",
+            "year": 1952,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Eleanor Parker",
+            "second_label": "Detective Story",
+            "category": "Actress",
+            "year": 1952,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Shelley Winters",
+            "second_label": "A Place in the Sun",
+            "category": "Actress",
+            "year": 1952,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jane Wyman",
+            "second_label": "The Blue Veil",
+            "category": "Actress",
+            "year": 1952,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Kim Hunter",
+            "second_label": "A Streetcar Named Desire",
+            "category": "Actress in a Supporting Role",
+            "year": 1952,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Joan Blondell",
+            "second_label": "The Blue Veil",
+            "category": "Actress in a Supporting Role",
+            "year": 1952,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mildred Dunnock",
+            "second_label": "Death of a Salesman",
+            "category": "Actress in a Supporting Role",
+            "year": 1952,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lee Grant",
+            "second_label": "Detective Story",
+            "category": "Actress in a Supporting Role",
+            "year": 1952,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Thelma Ritter",
+            "second_label": "The Mating Season",
+            "category": "Actress in a Supporting Role",
+            "year": 1952,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction (Black-and-White)": [
+        {
+            "first_label": "A Streetcar Named Desire",
+            "second_label": "Art Direction: Richard Day; Set Decoration: George James Hopkins",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1952,
+            "tmdb": {
+                "id": 702,
+                "original_title": "A Streetcar Named Desire",
+                "title": "Uma Rua Chamada Pecado",
+                "release_date": "1951-09-19",
+                "backdrop_path": "/or90vNrOVnYwi07fYYpQ3pbnjxP.jpg",
+                "poster_path": "/vwNvNjuOW9OCBOdPy32B7QYy5un.jpg",
+                "overview": "Blanche vai visitar sua irm\u00e3 gr\u00e1vida e o marido dela, Stanley, que n\u00e3o gosta dela e come\u00e7a a for\u00e7\u00e1-la a falar sobre uma propriedade que sabe que foi deixada para as duas. Aos poucos o clima entre Stanley e Blanche vai ficando cada vez mais pesado.",
+                "vote_average": 7.6,
+                "vote_count": 1287
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Fourteen Hours",
+            "second_label": "Art Direction: Lyle Wheeler, Leland Fuller; Set Decoration: Thomas Little, Fred J. Rode",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1952,
+            "tmdb": {
+                "id": 54139,
+                "original_title": "Fourteen Hours",
+                "title": "Horas Intermin\u00e1veis",
+                "release_date": "1951-04-01",
+                "backdrop_path": "/lX0PAZCmHk6TrTwf8QaR8y1REIH.jpg",
+                "poster_path": "/a7cqnsX5v2Oei4iACM8nUSnYxS0.jpg",
+                "overview": "A young man, morally destroyed by his parents not loving him and by the fear of being not capable to make his girlfriend happy, rises on the ledge of a building with the intention of committing suicide. A policeman makes every effort to argue him out of it.",
+                "vote_average": 7.1,
+                "vote_count": 40
+            },
+            "winner": false
+        },
+        {
+            "first_label": "House on Telegraph Hill",
+            "second_label": "Art Direction: Lyle Wheeler, John DeCuir; Set Decoration: Thomas Little, Paul S. Fox",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1952,
+            "tmdb": {
+                "id": 28434,
+                "original_title": "The House on Telegraph Hill",
+                "title": "Terr\u00edvel Suspeita",
+                "release_date": "1951-05-12",
+                "backdrop_path": "/ofGwfK8ZzMeJUzCOk4EbIN44oHP.jpg",
+                "poster_path": "/vjKabI7snDt6yym62ARh5MtBbw8.jpg",
+                "overview": "Concentration camp survivor Victoria Kowelska finds herself involved in mystery, greed, and murder when she assumes the identity of a dead friend in order to gain passage to America.",
+                "vote_average": 6.4,
+                "vote_count": 54
+            },
+            "winner": false
+        },
+        {
+            "first_label": "La Ronde",
+            "second_label": "D'Eaubonne",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1952,
+            "tmdb": {
+                "id": 50030,
+                "original_title": "La Ronde",
+                "title": "Conflitos de Amor",
+                "release_date": "1950-09-27",
+                "backdrop_path": "/2P2dPScfPA50pI4F69W7OUhGisT.jpg",
+                "poster_path": "/yLons2MAiRXKHWqUGcLd4AlkNa6.jpg",
+                "overview": "Em Paris, durante o ver\u00e3o de 1914, uma sucess\u00e3o de liga\u00e7\u00f5es amorosas come\u00e7am e terminam com um soldado, Georges. Um c\u00edrculo de encontros entre uma prostituta, a doce Rose e a casada Sophie, atrav\u00e9s de um fascinante panorama da sociedade e as atitudes de amor.",
+                "vote_average": 7.5,
+                "vote_count": 110
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Too Young to Kiss",
+            "second_label": "Art Direction: Cedric Gibbons, Paul Groesse; Set Decoration: Edwin B. Willis, Jack D. Moore",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1952,
+            "tmdb": {
+                "id": 103934,
+                "original_title": "Too Young to Kiss",
+                "title": "Too Young to Kiss",
+                "release_date": "1951-11-22",
+                "backdrop_path": "/kTgOHcK5p1EK17SLbBukS2PNlhc.jpg",
+                "poster_path": "/9fmmmjYJ2HvqdZA8wp0wysZB6yS.jpg",
+                "overview": "Eric Wainwright, a busy impresario, is besieged by hordes of wannabe concert stars, eager for their big break. One of them is Cynthia Potter, a talented pianist... but she can't get in to see him. When she learns that Wainwright is auditioning young musicians for a children's concert tour, Cynthia dons braces and bobby sox and passes herself off as a child prodigy.",
+                "vote_average": 5.0,
+                "vote_count": 8
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction (Color)": [
+        {
+            "first_label": "An American in Paris",
+            "second_label": "Art Direction: Cedric Gibbons, Preston Ames; Set Decoration: Edwin B. Willis, Keogh Gleason",
+            "category": "Art Direction (Color)",
+            "year": 1952,
+            "tmdb": {
+                "id": 2769,
+                "original_title": "An American in Paris",
+                "title": "Sinfonia de Paris",
+                "release_date": "1951-09-26",
+                "backdrop_path": "/k6Unnx1OCgVteDDzWJLXTw05VGZ.jpg",
+                "poster_path": "/7YM95QXNeupbjOyYCacHWm1Dwnb.jpg",
+                "overview": "O veterano da Segunda Guerra Mundial, Jerry, vive em Paris tentando se firmar como pintor. Ele conhece a milion\u00e1ria Milo que o apoia e tenta ajud\u00e1-lo a subir na carreira, mesmo estando mais interessada em Jerry do que na sua arte. Mas ele acaba se apaixonando por Lise que est\u00e1 noiva de Henri, por quem ela tem uma d\u00edvida de gratid\u00e3o por ter salvado sua fam\u00edlia e ela durante a guerra.",
+                "vote_average": 7.0,
+                "vote_count": 539
+            },
+            "winner": true
+        },
+        {
+            "first_label": "David and Bathsheba",
+            "second_label": "Art Direction: Lyle Wheeler, George Davis; Set Decoration: Thomas Little, Paul S. Fox",
+            "category": "Art Direction (Color)",
+            "year": 1952,
+            "tmdb": {
+                "id": 42567,
+                "original_title": "David and Bathsheba",
+                "title": "David e Betsab\u00e1",
+                "release_date": "1951-08-10",
+                "backdrop_path": "/7zpZMpIddthzGuopoI1eTJv9F3.jpg",
+                "poster_path": "/kDXrKLWJZ02f6hECLakvqFehmTB.jpg",
+                "overview": "Ap\u00f3s ver a linda Betsab\u00e1 se banhar, o rei David se apaixona e descobre que ela \u00e9 casada com Uriah, um destemido soldado. David manda Uriah para uma batalha perdida e, ao negligenciar seu reino e sua f\u00e9, provoca a ira de Deus.",
+                "vote_average": 5.9,
+                "vote_count": 56
+            },
+            "winner": false
+        },
+        {
+            "first_label": "On the Riviera",
+            "second_label": "Art Direction: Lyle Wheeler, Leland Fuller; Musical Settings: Joseph C. Wright; Set Decoration: Thomas Little, Walter M. Scott",
+            "category": "Art Direction (Color)",
+            "year": 1952,
+            "tmdb": {
+                "id": 29577,
+                "original_title": "On the Riviera",
+                "title": "Esc\u00e2ndalos na Riviera",
+                "release_date": "1951-04-20",
+                "backdrop_path": "/c5GAlcfuAGAghO0L1pxuQT94bOW.jpg",
+                "poster_path": "/sShuzL7KOaLoTLV0ZzEpD0Z1QFL.jpg",
+                "overview": "Nesta homenagem ao Folies Bergere de  Maurice Chevalier, o talentoso Danny Kaye desempenha dois papeis. Tanto um artista quanto um heroico piloto militar franc\u00eas.\r Jack Martin (Danny Kaye), um artista americano que trabalha com cabarets na Riviera Francesa, faz uma personifica\u00e7\u00e3o do industrialista Henri Duran (Kaye, de novo) de forma t\u00e3o convincente que at\u00e9 a bela esposa de Duran (Gene Tierney) \u00e9 enganada por ela. Quando os interesses empresariais de Duran o obrigam a estar em Londres quando ele deveria estar hospedando um grande soiree em sua casa, Martin \u00e9 persuadido a personificar Duran na festa. Mas as coisas amea\u00e7am sair de controle quando Martin (como Duran) \u00e9 confrontado por v\u00e1rias mulheres do empres\u00e1rio namorador Duran, e pelo implac\u00e1vel rival de Duran, M. Periton (Jean Murat). e Livre.",
+                "vote_average": 5.9,
+                "vote_count": 18
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Quo Vadis",
+            "second_label": "Art Direction: William A. Horning, Cedric Gibbons, Edward Carfagno; Set Decoration: Hugh Hunt",
+            "category": "Art Direction (Color)",
+            "year": 1952,
+            "tmdb": {
+                "id": 11620,
+                "original_title": "Quo Vadis",
+                "title": "Quo Vadis",
+                "release_date": "1951-11-08",
+                "backdrop_path": "/goyLlBUlfZwbKIJFvPbRmpkKYZ.jpg",
+                "poster_path": "/205q2KznSETw5MeUHupvusQGXDC.jpg",
+                "overview": "Ap\u00f3s tr\u00eas anos em campanha, o general Marcus Vinicius (Robert Taylor) retorna \u00e0 Roma e encontra Lygia (Deborah Kerr), por quem se apaixona. Ela \u00e9 uma crist\u00e3 e n\u00e3o quer nenhum envolvimento com um guerreiro. Mas, apesar de ter sido criada como romana, Lygia \u00e9 a filha adotiva de um general aposentado e, teoricamente, uma ref\u00e9m de Roma. Marcus procura o imperador Nero (Peter Ustinov), para que ela lhe seja dada pelos servi\u00e7os que ele fez. Lygia se ressente, mas de alguma forma se apaixona por Marcus. Enquanto isso, as atrocidades de Nero s\u00e3o cada vez mais ultrajantes e, quando ele queima Roma e culpa os crist\u00e3os, Marcus salva Lygia e a fam\u00edlia dela. Nero captura todos os crist\u00e3os e os atira aos le\u00f5es mas, no final, Marcus, Lygia e o cristianismo prevalecer\u00e3o. Na filmagem da obra de Sienkiewicz, foram utilizados cerca de 32 mil figurinos e milhares de figurantes, dentre eles ent\u00e3o os 'desconhecidos' Bud Spencer, Sophia Loren (ent\u00e3o com 17 anos) e Elizabeth Taylor.",
+                "vote_average": 7.065,
+                "vote_count": 379
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tales of Hoffmann",
+            "second_label": "Hein Heckroth",
+            "category": "Art Direction (Color)",
+            "year": 1952,
+            "tmdb": {
+                "id": 44334,
+                "original_title": "The Tales of Hoffmann",
+                "title": "Contos de Hoffmann",
+                "release_date": "1951-04-04",
+                "backdrop_path": "/42ySUQ98lpKKOMmQtfhB5DJU9ow.jpg",
+                "poster_path": "/3rqMnYSLjFa9OYwoLhXLVacwhQ7.jpg",
+                "overview": "Um poeta melanc\u00f3lico relembra as tr\u00eas mulheres que amou e perdeu no passado \u2013 uma boneca mec\u00e2nica de teatro, uma cortes\u00e3 veneziana e a filha t\u00edsica de um compositor famoso. Cada uma partiu seu cora\u00e7\u00e3o de uma forma diferente.",
+                "vote_average": 7.1,
+                "vote_count": 71
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography (Black-and-White)": [
+        {
+            "first_label": "A Place in the Sun",
+            "second_label": "William C. Mellor",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1952,
+            "tmdb": {
+                "id": 25673,
+                "original_title": "A Place in the Sun",
+                "title": "Um Lugar ao Sol",
+                "release_date": "1951-06-12",
+                "backdrop_path": "/ahiyCLIyFQ57xNuDQaxqQQ48X9u.jpg",
+                "poster_path": "/3tKYbChwIRYCwFrMUDBkbZyDIoN.jpg",
+                "overview": "Um jovem ambicioso ganha o cora\u00e7\u00e3o de uma herdeira, mas tem que lidar com a gravidez de sua ex-namorada.\r O jovem e pobre George Eastman (Montgomery Clift) deixa sua m\u00e3e religiosa em Chicago e vai para a Calif\u00f3rnia esperando encontrar um emprego melhor nos neg\u00f3cios de seu tio rico, Charles Eastman. Seu primo Earl Eastman avisa que h\u00e1 muitas mulheres na f\u00e1brica e a regra b\u00e1sica \u00e9 que ele n\u00e3o deve paquerar qualquer uma delas. George encontra a oper\u00e1ria Alice Tripp no cinema e eles come\u00e7am a namorar. No entanto o marginalizado George \u00e9 promovido e encontra a linda Angela Vickers numa festa na casa de seu tio. Angela o apresenta \u00e0 alta sociedade local e eles se apaixonam. Mas Alice est\u00e1 gr\u00e1vida e ela quer se casar com George.",
+                "vote_average": 7.3,
+                "vote_count": 353
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Death of a Salesman",
+            "second_label": "Frank Planer",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1952,
+            "tmdb": {
+                "id": 104394,
+                "original_title": "Death of a Salesman",
+                "title": "Death of a Salesman",
+                "release_date": "1951-12-20",
+                "backdrop_path": "/kyclVGdxYT67UGSxrVtXdHjSZNb.jpg",
+                "poster_path": "/xnyRkG1LMQX0NUpROq61GiKW7eJ.jpg",
+                "overview": "Willy Loman is an aging salesman who was recently fired from his job. Dealing with feelings of failure, Willy begins to relive events from the past that involve his older son, Biff, and his wife, Linda. Willy tries to learn from past mistakes and works to make amends with his family, but his biggest struggle is to make peace with himself over a failed dream of financial success.",
+                "vote_average": 6.7,
+                "vote_count": 13
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Frogmen",
+            "second_label": "Norbert Brodine",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1952,
+            "tmdb": {
+                "id": 44890,
+                "original_title": "The Frogmen",
+                "title": "Homens-R\u00e3s",
+                "release_date": "1951-01-25",
+                "backdrop_path": "/ra8SsXTWUfRUVqQoKo7t4pTJT6x.jpg",
+                "poster_path": "/nFdHsoCgCr1bhDWtRokdkZhp3af.jpg",
+                "overview": "The new commander of a Navy Underwater Demolition Team--nicknamed \"Frogmen\"--must earn the respect of the men in his unit, who are still grieving over the death of their former commander and resentful of the new one.",
+                "vote_average": 5.9,
+                "vote_count": 22
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Strangers on a Train",
+            "second_label": "Robert Burks",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1952,
+            "tmdb": {
+                "id": 845,
+                "original_title": "Strangers on a Train",
+                "title": "Pacto Sinistro",
+                "release_date": "1951-06-27",
+                "backdrop_path": "/hAoTBCNBVafAoiilh4gtqqyhi8V.jpg",
+                "poster_path": "/3mFX7RqJ48O9hPJmp1LDsWxLtRZ.jpg",
+                "overview": "Haines \u00e9 um tenista famoso, casado, que gostaria de se divorciar para casar novamente com Anne Morton, a mulher que ama, e que \u00e9 filha de um senador estadunidense. Para isso Haines viaja at\u00e9 Metcalf, sua cidade natal, com o intuito de conseguir a assinatura do div\u00f3rcio de sua infiel mulher, Miriam, e fica furioso quando n\u00e3o consegue. Encontra no trem um psicopata chamado Bruno Antony, que o reconhece dos jornais e sabe de toda sua hist\u00f3ria. A certa altura, durante a viagem, Bruno prop\u00f5e um pacto: ele mataria a mulher de Haines e em troca Haines mataria o pai dele. Embora Haines n\u00e3o tenha aceitado, Bruno realiza a sua parte e insiste em cobrar o pacto de Haines.",
+                "vote_average": 7.673,
+                "vote_count": 1574
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Streetcar Named Desire",
+            "second_label": "Harry Stradling",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1952,
+            "tmdb": {
+                "id": 702,
+                "original_title": "A Streetcar Named Desire",
+                "title": "Uma Rua Chamada Pecado",
+                "release_date": "1951-09-19",
+                "backdrop_path": "/or90vNrOVnYwi07fYYpQ3pbnjxP.jpg",
+                "poster_path": "/vwNvNjuOW9OCBOdPy32B7QYy5un.jpg",
+                "overview": "Blanche vai visitar sua irm\u00e3 gr\u00e1vida e o marido dela, Stanley, que n\u00e3o gosta dela e come\u00e7a a for\u00e7\u00e1-la a falar sobre uma propriedade que sabe que foi deixada para as duas. Aos poucos o clima entre Stanley e Blanche vai ficando cada vez mais pesado.",
+                "vote_average": 7.6,
+                "vote_count": 1287
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography (Color)": [
+        {
+            "first_label": "An American in Paris",
+            "second_label": "Alfred Gilks; Ballet Photography by John Alton",
+            "category": "Cinematography (Color)",
+            "year": 1952,
+            "tmdb": {
+                "id": 2769,
+                "original_title": "An American in Paris",
+                "title": "Sinfonia de Paris",
+                "release_date": "1951-09-26",
+                "backdrop_path": "/k6Unnx1OCgVteDDzWJLXTw05VGZ.jpg",
+                "poster_path": "/7YM95QXNeupbjOyYCacHWm1Dwnb.jpg",
+                "overview": "O veterano da Segunda Guerra Mundial, Jerry, vive em Paris tentando se firmar como pintor. Ele conhece a milion\u00e1ria Milo que o apoia e tenta ajud\u00e1-lo a subir na carreira, mesmo estando mais interessada em Jerry do que na sua arte. Mas ele acaba se apaixonando por Lise que est\u00e1 noiva de Henri, por quem ela tem uma d\u00edvida de gratid\u00e3o por ter salvado sua fam\u00edlia e ela durante a guerra.",
+                "vote_average": 7.0,
+                "vote_count": 539
+            },
+            "winner": true
+        },
+        {
+            "first_label": "David and Bathsheba",
+            "second_label": "Leon Shamroy",
+            "category": "Cinematography (Color)",
+            "year": 1952,
+            "tmdb": {
+                "id": 42567,
+                "original_title": "David and Bathsheba",
+                "title": "David e Betsab\u00e1",
+                "release_date": "1951-08-10",
+                "backdrop_path": "/7zpZMpIddthzGuopoI1eTJv9F3.jpg",
+                "poster_path": "/kDXrKLWJZ02f6hECLakvqFehmTB.jpg",
+                "overview": "Ap\u00f3s ver a linda Betsab\u00e1 se banhar, o rei David se apaixona e descobre que ela \u00e9 casada com Uriah, um destemido soldado. David manda Uriah para uma batalha perdida e, ao negligenciar seu reino e sua f\u00e9, provoca a ira de Deus.",
+                "vote_average": 5.9,
+                "vote_count": 56
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Quo Vadis",
+            "second_label": "Robert Surtees, William V. Skall",
+            "category": "Cinematography (Color)",
+            "year": 1952,
+            "tmdb": {
+                "id": 11620,
+                "original_title": "Quo Vadis",
+                "title": "Quo Vadis",
+                "release_date": "1951-11-08",
+                "backdrop_path": "/goyLlBUlfZwbKIJFvPbRmpkKYZ.jpg",
+                "poster_path": "/205q2KznSETw5MeUHupvusQGXDC.jpg",
+                "overview": "Ap\u00f3s tr\u00eas anos em campanha, o general Marcus Vinicius (Robert Taylor) retorna \u00e0 Roma e encontra Lygia (Deborah Kerr), por quem se apaixona. Ela \u00e9 uma crist\u00e3 e n\u00e3o quer nenhum envolvimento com um guerreiro. Mas, apesar de ter sido criada como romana, Lygia \u00e9 a filha adotiva de um general aposentado e, teoricamente, uma ref\u00e9m de Roma. Marcus procura o imperador Nero (Peter Ustinov), para que ela lhe seja dada pelos servi\u00e7os que ele fez. Lygia se ressente, mas de alguma forma se apaixona por Marcus. Enquanto isso, as atrocidades de Nero s\u00e3o cada vez mais ultrajantes e, quando ele queima Roma e culpa os crist\u00e3os, Marcus salva Lygia e a fam\u00edlia dela. Nero captura todos os crist\u00e3os e os atira aos le\u00f5es mas, no final, Marcus, Lygia e o cristianismo prevalecer\u00e3o. Na filmagem da obra de Sienkiewicz, foram utilizados cerca de 32 mil figurinos e milhares de figurantes, dentre eles ent\u00e3o os 'desconhecidos' Bud Spencer, Sophia Loren (ent\u00e3o com 17 anos) e Elizabeth Taylor.",
+                "vote_average": 7.065,
+                "vote_count": 379
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Show Boat",
+            "second_label": "Charles Rosher",
+            "category": "Cinematography (Color)",
+            "year": 1952,
+            "tmdb": {
+                "id": 17820,
+                "original_title": "Show Boat",
+                "title": "O Barco das Ilus\u00f5es",
+                "release_date": "1951-07-19",
+                "backdrop_path": "/ArRVe2TdaSgXaTWM8N6P4lUGDms.jpg",
+                "poster_path": "/sk7s574pI9QAi6uVqbTg0bnLEUC.jpg",
+                "overview": "Magnolia Hawks vive no Cotton Blossom, barco de shows de seu pai, o Capit\u00e3o Andy. Ela conhece o jogador Gaylord Ravenal na cidade \u00e0 beira do rio, e se apaixona por ele. Na mesma tarde, durante o ensaio para o show daquele dia, a estrela Julie e seu marido e co-estrela Steve s\u00e3o for\u00e7ados a deixar a companhia. Gaylord \u00e9 contratado para ocupar o lugar de Steve, enquanto Magnolia ocupa o lugar de Julie. Eles se apaixonam e casam. Deixando o barco de shows, 'Nola, Gay e sua pequena filha, Kim, se mudam para Chicago, onde sua fortuna cresce ou mingua dependendo da sorte de Gay. Enfim, ele abandona sua esposa e filha, e ela \u00e9 for\u00e7ada a retornar aos palcos, onde ela se torna uma estrela.",
+                "vote_average": 6.0,
+                "vote_count": 68
+            },
+            "winner": false
+        },
+        {
+            "first_label": "When Worlds Collide",
+            "second_label": "John F. Seitz, W. Howard Greene",
+            "category": "Cinematography (Color)",
+            "year": 1952,
+            "tmdb": {
+                "id": 16380,
+                "original_title": "When Worlds Collide",
+                "title": "O Fim do Mundo",
+                "release_date": "1951-09-14",
+                "backdrop_path": "/ws8eX1paKpgEVetOTg6OUlKtLXw.jpg",
+                "poster_path": "/xUd6NOABGlU3TSNP42toxWhmMQ3.jpg",
+                "overview": "Cole Henderson (Larry Keating) \u00e9 um cientista que alerta que um planeta est\u00e1 em um rota de colis\u00e3o com a Terra. Ningu\u00e9m cr\u00ea na hist\u00f3ria de Henderson, com exce\u00e7\u00e3o de Sydney Stanton (John Hoyt), um milion\u00e1rio que financia a constru\u00e7\u00e3o de uma astronave gigantesca, constru\u00edda para transportar sobreviventes selecionados da Terra para outro planeta. Logo fica claro que as predi\u00e7\u00f5es de Cole se tornar\u00e3o realidade, assim uma loteria mundial \u00e9 feita para selecionar as pessoas que ser\u00e3o salvas do cat\u00e1strofe pela astronave de Stanton.",
+                "vote_average": 6.3,
+                "vote_count": 165
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design (Black-and-White)": [
+        {
+            "first_label": "A Place in the Sun",
+            "second_label": "Edith Head",
+            "category": "Costume Design (Black-and-White)",
+            "year": 1952,
+            "tmdb": {
+                "id": 25673,
+                "original_title": "A Place in the Sun",
+                "title": "Um Lugar ao Sol",
+                "release_date": "1951-06-12",
+                "backdrop_path": "/ahiyCLIyFQ57xNuDQaxqQQ48X9u.jpg",
+                "poster_path": "/3tKYbChwIRYCwFrMUDBkbZyDIoN.jpg",
+                "overview": "Um jovem ambicioso ganha o cora\u00e7\u00e3o de uma herdeira, mas tem que lidar com a gravidez de sua ex-namorada.\r O jovem e pobre George Eastman (Montgomery Clift) deixa sua m\u00e3e religiosa em Chicago e vai para a Calif\u00f3rnia esperando encontrar um emprego melhor nos neg\u00f3cios de seu tio rico, Charles Eastman. Seu primo Earl Eastman avisa que h\u00e1 muitas mulheres na f\u00e1brica e a regra b\u00e1sica \u00e9 que ele n\u00e3o deve paquerar qualquer uma delas. George encontra a oper\u00e1ria Alice Tripp no cinema e eles come\u00e7am a namorar. No entanto o marginalizado George \u00e9 promovido e encontra a linda Angela Vickers numa festa na casa de seu tio. Angela o apresenta \u00e0 alta sociedade local e eles se apaixonam. Mas Alice est\u00e1 gr\u00e1vida e ela quer se casar com George.",
+                "vote_average": 7.3,
+                "vote_count": 353
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Kind Lady",
+            "second_label": "Walter Plunkett, Gile Steele",
+            "category": "Costume Design (Black-and-White)",
+            "year": 1952,
+            "tmdb": {
+                "id": 193547,
+                "original_title": "Kind Lady",
+                "title": "Bondade Fatal",
+                "release_date": "1951-06-20",
+                "backdrop_path": "/l9ZP7VBeqIhH4Y9frBEPPoqHDsI.jpg",
+                "poster_path": "/2PF1QlzwSWP9UGVcelC9eJF2OAX.jpg",
+                "overview": "Mary Herries has a passion for art and fine furniture. Even though she is getting on in years, she enjoys being around these priceless articles. One day she meets a strange young painter named Elcott, who uses his painting skill to enter into her life. Little does she expect that his only interest in Mary is to covet everything she has.",
+                "vote_average": 7.0,
+                "vote_count": 10
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Model and the Marriage Broker",
+            "second_label": "Charles LeMaire, Renie",
+            "category": "Costume Design (Black-and-White)",
+            "year": 1952,
+            "tmdb": {
+                "id": 132094,
+                "original_title": "The Model and the Marriage Broker",
+                "title": "A Modelo e a Casamenteira",
+                "release_date": "1951-11-01",
+                "backdrop_path": "/8kg5nSI3px7QEOHMpDwm0yi39xx.jpg",
+                "poster_path": "/bL00Xs7GYV1ofGJk4YPWqusNWMz.jpg",
+                "overview": "A marriage broker can't resist meddling in the life of a model, with disastrous results.",
+                "vote_average": 6.0,
+                "vote_count": 11
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Mudlark",
+            "second_label": "Edward Stevenson, Margaret Furse",
+            "category": "Costume Design (Black-and-White)",
+            "year": 1952,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Streetcar Named Desire",
+            "second_label": "Lucinda Ballard",
+            "category": "Costume Design (Black-and-White)",
+            "year": 1952,
+            "tmdb": {
+                "id": 702,
+                "original_title": "A Streetcar Named Desire",
+                "title": "Uma Rua Chamada Pecado",
+                "release_date": "1951-09-19",
+                "backdrop_path": "/or90vNrOVnYwi07fYYpQ3pbnjxP.jpg",
+                "poster_path": "/vwNvNjuOW9OCBOdPy32B7QYy5un.jpg",
+                "overview": "Blanche vai visitar sua irm\u00e3 gr\u00e1vida e o marido dela, Stanley, que n\u00e3o gosta dela e come\u00e7a a for\u00e7\u00e1-la a falar sobre uma propriedade que sabe que foi deixada para as duas. Aos poucos o clima entre Stanley e Blanche vai ficando cada vez mais pesado.",
+                "vote_average": 7.6,
+                "vote_count": 1287
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design (Color)": [
+        {
+            "first_label": "An American in Paris",
+            "second_label": "Orry-Kelly, Walter Plunkett, Irene Sharaff",
+            "category": "Costume Design (Color)",
+            "year": 1952,
+            "tmdb": {
+                "id": 2769,
+                "original_title": "An American in Paris",
+                "title": "Sinfonia de Paris",
+                "release_date": "1951-09-26",
+                "backdrop_path": "/k6Unnx1OCgVteDDzWJLXTw05VGZ.jpg",
+                "poster_path": "/7YM95QXNeupbjOyYCacHWm1Dwnb.jpg",
+                "overview": "O veterano da Segunda Guerra Mundial, Jerry, vive em Paris tentando se firmar como pintor. Ele conhece a milion\u00e1ria Milo que o apoia e tenta ajud\u00e1-lo a subir na carreira, mesmo estando mais interessada em Jerry do que na sua arte. Mas ele acaba se apaixonando por Lise que est\u00e1 noiva de Henri, por quem ela tem uma d\u00edvida de gratid\u00e3o por ter salvado sua fam\u00edlia e ela durante a guerra.",
+                "vote_average": 7.0,
+                "vote_count": 539
+            },
+            "winner": true
+        },
+        {
+            "first_label": "David and Bathsheba",
+            "second_label": "Charles LeMaire, Edward Stevenson",
+            "category": "Costume Design (Color)",
+            "year": 1952,
+            "tmdb": {
+                "id": 42567,
+                "original_title": "David and Bathsheba",
+                "title": "David e Betsab\u00e1",
+                "release_date": "1951-08-10",
+                "backdrop_path": "/7zpZMpIddthzGuopoI1eTJv9F3.jpg",
+                "poster_path": "/kDXrKLWJZ02f6hECLakvqFehmTB.jpg",
+                "overview": "Ap\u00f3s ver a linda Betsab\u00e1 se banhar, o rei David se apaixona e descobre que ela \u00e9 casada com Uriah, um destemido soldado. David manda Uriah para uma batalha perdida e, ao negligenciar seu reino e sua f\u00e9, provoca a ira de Deus.",
+                "vote_average": 5.9,
+                "vote_count": 56
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Great Caruso",
+            "second_label": "Helen Rose, Gile Steele",
+            "category": "Costume Design (Color)",
+            "year": 1952,
+            "tmdb": {
+                "id": 98328,
+                "original_title": "The Great Caruso",
+                "title": "O Grande Caruso",
+                "release_date": "1951-04-16",
+                "backdrop_path": "/ugh4Bivk6dcLXz2bkwuotm9feYT.jpg",
+                "poster_path": "/mKqAEKW8GzO98xlQ0JWrXAFnutS.jpg",
+                "overview": "Tra\u00e7a vagamente a vida do tenor Enrico Caruso (1873-1921). Ele ama Musetta, em sua cidade natal, N\u00e1poles, e depois Dorothy, filha de um dos patronos do Metropolitan Opera. Caruso \u00e9 inaceit\u00e1vel para os pais de ambas as mulheres: para uma, porque canta; para Dorothy, porque ele \u00e9 um campon\u00eas. Para os patr\u00edcios de Nova York, Caruso \u00e9 baixo, peito largo, barulhento, emotivo, n\u00e3o refinado. Sua aprecia\u00e7\u00e3o vem lentamente. O filme retrata o lamento de Caruso de que \"o homem n\u00e3o tem voz, a voz tem o homem\": ele n\u00e3o pode estar nos lugares que quer, porque deve estar em outro lugar cantando, inclusive no dia da morte de sua m\u00e3e. Ao longo do filme, Mario Lanza e estrelas do Met cantam, inclusive com o 'menino' Luciano Pavarotti.",
+                "vote_average": 5.6,
+                "vote_count": 15
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Quo Vadis",
+            "second_label": "Herschel McCoy",
+            "category": "Costume Design (Color)",
+            "year": 1952,
+            "tmdb": {
+                "id": 11620,
+                "original_title": "Quo Vadis",
+                "title": "Quo Vadis",
+                "release_date": "1951-11-08",
+                "backdrop_path": "/goyLlBUlfZwbKIJFvPbRmpkKYZ.jpg",
+                "poster_path": "/205q2KznSETw5MeUHupvusQGXDC.jpg",
+                "overview": "Ap\u00f3s tr\u00eas anos em campanha, o general Marcus Vinicius (Robert Taylor) retorna \u00e0 Roma e encontra Lygia (Deborah Kerr), por quem se apaixona. Ela \u00e9 uma crist\u00e3 e n\u00e3o quer nenhum envolvimento com um guerreiro. Mas, apesar de ter sido criada como romana, Lygia \u00e9 a filha adotiva de um general aposentado e, teoricamente, uma ref\u00e9m de Roma. Marcus procura o imperador Nero (Peter Ustinov), para que ela lhe seja dada pelos servi\u00e7os que ele fez. Lygia se ressente, mas de alguma forma se apaixona por Marcus. Enquanto isso, as atrocidades de Nero s\u00e3o cada vez mais ultrajantes e, quando ele queima Roma e culpa os crist\u00e3os, Marcus salva Lygia e a fam\u00edlia dela. Nero captura todos os crist\u00e3os e os atira aos le\u00f5es mas, no final, Marcus, Lygia e o cristianismo prevalecer\u00e3o. Na filmagem da obra de Sienkiewicz, foram utilizados cerca de 32 mil figurinos e milhares de figurantes, dentre eles ent\u00e3o os 'desconhecidos' Bud Spencer, Sophia Loren (ent\u00e3o com 17 anos) e Elizabeth Taylor.",
+                "vote_average": 7.065,
+                "vote_count": 379
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tales of Hoffmann",
+            "second_label": "Hein Heckroth",
+            "category": "Costume Design (Color)",
+            "year": 1952,
+            "tmdb": {
+                "id": 44334,
+                "original_title": "The Tales of Hoffmann",
+                "title": "Contos de Hoffmann",
+                "release_date": "1951-04-04",
+                "backdrop_path": "/42ySUQ98lpKKOMmQtfhB5DJU9ow.jpg",
+                "poster_path": "/3rqMnYSLjFa9OYwoLhXLVacwhQ7.jpg",
+                "overview": "Um poeta melanc\u00f3lico relembra as tr\u00eas mulheres que amou e perdeu no passado \u2013 uma boneca mec\u00e2nica de teatro, uma cortes\u00e3 veneziana e a filha t\u00edsica de um compositor famoso. Cada uma partiu seu cora\u00e7\u00e3o de uma forma diferente.",
+                "vote_average": 7.1,
+                "vote_count": 71
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "A Place in the Sun",
+            "second_label": "George Stevens",
+            "category": "Directing",
+            "year": 1952,
+            "tmdb": {
+                "id": 25673,
+                "original_title": "A Place in the Sun",
+                "title": "Um Lugar ao Sol",
+                "release_date": "1951-06-12",
+                "backdrop_path": "/ahiyCLIyFQ57xNuDQaxqQQ48X9u.jpg",
+                "poster_path": "/3tKYbChwIRYCwFrMUDBkbZyDIoN.jpg",
+                "overview": "Um jovem ambicioso ganha o cora\u00e7\u00e3o de uma herdeira, mas tem que lidar com a gravidez de sua ex-namorada.\r O jovem e pobre George Eastman (Montgomery Clift) deixa sua m\u00e3e religiosa em Chicago e vai para a Calif\u00f3rnia esperando encontrar um emprego melhor nos neg\u00f3cios de seu tio rico, Charles Eastman. Seu primo Earl Eastman avisa que h\u00e1 muitas mulheres na f\u00e1brica e a regra b\u00e1sica \u00e9 que ele n\u00e3o deve paquerar qualquer uma delas. George encontra a oper\u00e1ria Alice Tripp no cinema e eles come\u00e7am a namorar. No entanto o marginalizado George \u00e9 promovido e encontra a linda Angela Vickers numa festa na casa de seu tio. Angela o apresenta \u00e0 alta sociedade local e eles se apaixonam. Mas Alice est\u00e1 gr\u00e1vida e ela quer se casar com George.",
+                "vote_average": 7.3,
+                "vote_count": 353
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The African Queen",
+            "second_label": "John Huston",
+            "category": "Directing",
+            "year": 1952,
+            "tmdb": {
+                "id": 488,
+                "original_title": "The African Queen",
+                "title": "Uma Aventura na Africa",
+                "release_date": "1952-01-07",
+                "backdrop_path": "/eE01BWyY5jjchTIbHwRLjRgOQHD.jpg",
+                "poster_path": "/eNwc3qLpZkg5WtIHYiyxS8KBbNv.jpg",
+                "overview": "O African Queen \u00e9 o pequeno, mas estimado, barco de Charlie (Humphrey Bogart). Durante a Primeira Guerra, na selvagem \u00c1frica, ele assume a responsabilidade de levar a irm\u00e3 do rec\u00e9m-falecido reverendo Samuel, Rose (Katharine Hepburn), para a civiliza\u00e7\u00e3o, atrav\u00e9s do rio, utilizando o barco. Mas existem dois problemas: Rose e Charlie n\u00e3o combinam em nada e as margens do rio est\u00e3o cheias de alem\u00e3es.",
+                "vote_average": 7.348,
+                "vote_count": 900
+            },
+            "winner": false
+        },
+        {
+            "first_label": "An American in Paris",
+            "second_label": "Vincente Minnelli",
+            "category": "Directing",
+            "year": 1952,
+            "tmdb": {
+                "id": 2769,
+                "original_title": "An American in Paris",
+                "title": "Sinfonia de Paris",
+                "release_date": "1951-09-26",
+                "backdrop_path": "/k6Unnx1OCgVteDDzWJLXTw05VGZ.jpg",
+                "poster_path": "/7YM95QXNeupbjOyYCacHWm1Dwnb.jpg",
+                "overview": "O veterano da Segunda Guerra Mundial, Jerry, vive em Paris tentando se firmar como pintor. Ele conhece a milion\u00e1ria Milo que o apoia e tenta ajud\u00e1-lo a subir na carreira, mesmo estando mais interessada em Jerry do que na sua arte. Mas ele acaba se apaixonando por Lise que est\u00e1 noiva de Henri, por quem ela tem uma d\u00edvida de gratid\u00e3o por ter salvado sua fam\u00edlia e ela durante a guerra.",
+                "vote_average": 7.0,
+                "vote_count": 539
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Detective Story",
+            "second_label": "William Wyler",
+            "category": "Directing",
+            "year": 1952,
+            "tmdb": {
+                "id": 20853,
+                "original_title": "Detective Story",
+                "title": "Chaga de Fogo",
+                "release_date": "1951-11-01",
+                "backdrop_path": "/6BXP1XEWP31Tvm8wADiONAUs4uL.jpg",
+                "poster_path": "/uXfkupU1a0gePncfdEV7STgsYtU.jpg",
+                "overview": "Conta a hist\u00f3ria de um dia na vida de v\u00e1rias pessoas que passam por um esquadr\u00e3o de detetives da pol\u00edcia. Um policial amargurado, Det. Jim McLeod (Douglas) lidera uma s\u00e9rie de personagens em sua sombria batalha di\u00e1ria com a baixa qualidade da cidade. Os personagens que passam pela delegacia ao longo do dia incluem um jovem trapaceiro, um par de ladr\u00f5es e um ing\u00eanuo ladr\u00e3o de lojas.",
+                "vote_average": 6.9,
+                "vote_count": 132
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Streetcar Named Desire",
+            "second_label": "Elia Kazan",
+            "category": "Directing",
+            "year": 1952,
+            "tmdb": {
+                "id": 702,
+                "original_title": "A Streetcar Named Desire",
+                "title": "Uma Rua Chamada Pecado",
+                "release_date": "1951-09-19",
+                "backdrop_path": "/or90vNrOVnYwi07fYYpQ3pbnjxP.jpg",
+                "poster_path": "/vwNvNjuOW9OCBOdPy32B7QYy5un.jpg",
+                "overview": "Blanche vai visitar sua irm\u00e3 gr\u00e1vida e o marido dela, Stanley, que n\u00e3o gosta dela e come\u00e7a a for\u00e7\u00e1-la a falar sobre uma propriedade que sabe que foi deixada para as duas. Aos poucos o clima entre Stanley e Blanche vai ficando cada vez mais pesado.",
+                "vote_average": 7.6,
+                "vote_count": 1287
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "Kon-Tiki",
+            "second_label": "Olle Nordemar, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1952,
+            "tmdb": {
+                "id": 20088,
+                "original_title": "Kon-Tiki",
+                "title": "Kon-Tiki",
+                "release_date": "1950-01-13",
+                "backdrop_path": "/hqHqRxP2fBnIPFK7TfnmjEHyxmZ.jpg",
+                "poster_path": "/oGdy7EkyQ9LCpuLptEII5kwjB5r.jpg",
+                "overview": "\"Kon-Tiki\" was the name of a wooden raft used by six Scandinavian scientists, led by Thor Heyerdahl, to make a 101-day journey from South America to the Polynesian Islands. The purpose of the expedition was to prove Heyerdal's theory that the Polynesian Islands were populated from the east- specifically Peru- rather than from the west (Asia) as had been the theory for hundreds of years. Heyerdahl made a study of the winds and tides in the Pacific, and by simulating conditions as closely as possible to those he theorized the Peruvians encountered, set out on the voyage.",
+                "vote_average": 7.5,
+                "vote_count": 50
+            },
+            "winner": true
+        },
+        {
+            "first_label": "I Was a Communist for the F.B.I.",
+            "second_label": "Bryan Foy, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1952,
+            "tmdb": {
+                "id": 49508,
+                "original_title": "I Was a Communist for the FBI",
+                "title": "Fui Comunista para o F.B.I.",
+                "release_date": "1951-05-02",
+                "backdrop_path": "/4jnfjUZ8W8ka25xl7HkHgY0DijT.jpg",
+                "poster_path": "/fC8JWi0Sp13O5VDukp8wf5lcxa4.jpg",
+                "overview": "Em Pittsburgh um agente do F.B.I. trabalha infiltrado no Partido Comunista por nove anos, mas sua fam\u00edlia acha que ele \u00e9 um comunista de verdade.  (Os comunistas s\u00e3o retratados no filme como oportunistas c\u00ednicos, racistas e bandidos violentos e somente interessados em tomar poder em nome dos sovi\u00e9ticos. Imagem fortemente influenciada pela Guerra Fria.)",
+                "vote_average": 5.3,
+                "vote_count": 13
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "Benjy",
+            "second_label": "Made by Fred Zinnemann with the cooperation of Paramount Pictures Corporation for the Los Angeles Orthopaedic Hospital",
+            "category": "Documentary (Short Subject)",
+            "year": 1952,
+            "tmdb": {
+                "id": 242980,
+                "original_title": "Benjy",
+                "title": "Benjy",
+                "release_date": "1951-01-01",
+                "backdrop_path": null,
+                "poster_path": "/jQOoCTJmvkFNnolcHIFuanQRdct.jpg",
+                "overview": "Benjy is a 1951 American short documentary film directed by Fred Zinnemann. It won an Oscar in 1952 for Documentary Short Subject. Henry Fonda narrates this short film about a boy who was handicapped from birth. An orthopedic pediatrician wants to provide a therapeutic regimen that could cure the child, a scoliosis patient, but first he needs to convince the boy's parents, who have rejected the child because of his disabilities.",
+                "vote_average": 7.0,
+                "vote_count": 2
+            },
+            "winner": true
+        },
+        {
+            "first_label": "One Who Came Back",
+            "second_label": "Owen Crump, Producer.  (Film sponsored by the Disabled American Veterans, in cooperation with the United States Department of Defense and the Association of Motion Picture Producers)",
+            "category": "Documentary (Short Subject)",
+            "year": 1952,
+            "tmdb": {
+                "id": 242981,
+                "original_title": "One Who Came Back",
+                "title": "One Who Came Back",
+                "release_date": "1951-01-01",
+                "backdrop_path": null,
+                "poster_path": "/ep8UvEsZFvj70enFAaxcWKPfhKU.jpg",
+                "overview": "US Army Corporal George Kritzman recounts the aftermath of what was his third combat wounding in the Korean War. A former LA police officer, Kritzman was under heavy sedation due to the severity of his leg injury, which was initially operated on at the 8055 MASH unit. Unaware of what would happen to him and what his long term prognosis was and would be, he, along with many of his fellow wounded, was transferred from hospital to hospital, each a little better equipped to deal with his injury. However, his ultimate goal was to make it back home to his wife and son, from who his thoughts were never far.",
+                "vote_average": 6.3,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Seeing Eye",
+            "second_label": "Gordon Hollingshead, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1952,
+            "tmdb": {
+                "id": 242982,
+                "original_title": "The Seeing Eye",
+                "title": "The Seeing Eye",
+                "release_date": "1951-12-01",
+                "backdrop_path": null,
+                "poster_path": "/au3Iuq1I3u4PEAdSTpnEic0EhUL.jpg",
+                "overview": "An updated Technicolor followup to a black &amp; white Broadway Brevity (1941) tour of the Morristown, New Jersey seeing eye dog training program. Much of the narration comes from the canine's point of view.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "A Place in the Sun",
+            "second_label": "William Hornbeck",
+            "category": "Film Editing",
+            "year": 1952,
+            "tmdb": {
+                "id": 25673,
+                "original_title": "A Place in the Sun",
+                "title": "Um Lugar ao Sol",
+                "release_date": "1951-06-12",
+                "backdrop_path": "/ahiyCLIyFQ57xNuDQaxqQQ48X9u.jpg",
+                "poster_path": "/3tKYbChwIRYCwFrMUDBkbZyDIoN.jpg",
+                "overview": "Um jovem ambicioso ganha o cora\u00e7\u00e3o de uma herdeira, mas tem que lidar com a gravidez de sua ex-namorada.\r O jovem e pobre George Eastman (Montgomery Clift) deixa sua m\u00e3e religiosa em Chicago e vai para a Calif\u00f3rnia esperando encontrar um emprego melhor nos neg\u00f3cios de seu tio rico, Charles Eastman. Seu primo Earl Eastman avisa que h\u00e1 muitas mulheres na f\u00e1brica e a regra b\u00e1sica \u00e9 que ele n\u00e3o deve paquerar qualquer uma delas. George encontra a oper\u00e1ria Alice Tripp no cinema e eles come\u00e7am a namorar. No entanto o marginalizado George \u00e9 promovido e encontra a linda Angela Vickers numa festa na casa de seu tio. Angela o apresenta \u00e0 alta sociedade local e eles se apaixonam. Mas Alice est\u00e1 gr\u00e1vida e ela quer se casar com George.",
+                "vote_average": 7.3,
+                "vote_count": 353
+            },
+            "winner": true
+        },
+        {
+            "first_label": "An American in Paris",
+            "second_label": "Adrienne Fazan",
+            "category": "Film Editing",
+            "year": 1952,
+            "tmdb": {
+                "id": 2769,
+                "original_title": "An American in Paris",
+                "title": "Sinfonia de Paris",
+                "release_date": "1951-09-26",
+                "backdrop_path": "/k6Unnx1OCgVteDDzWJLXTw05VGZ.jpg",
+                "poster_path": "/7YM95QXNeupbjOyYCacHWm1Dwnb.jpg",
+                "overview": "O veterano da Segunda Guerra Mundial, Jerry, vive em Paris tentando se firmar como pintor. Ele conhece a milion\u00e1ria Milo que o apoia e tenta ajud\u00e1-lo a subir na carreira, mesmo estando mais interessada em Jerry do que na sua arte. Mas ele acaba se apaixonando por Lise que est\u00e1 noiva de Henri, por quem ela tem uma d\u00edvida de gratid\u00e3o por ter salvado sua fam\u00edlia e ela durante a guerra.",
+                "vote_average": 7.0,
+                "vote_count": 539
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Decision before Dawn",
+            "second_label": "Dorothy Spencer",
+            "category": "Film Editing",
+            "year": 1952,
+            "tmdb": {
+                "id": 4461,
+                "original_title": "Decision Before Dawn",
+                "title": "Decis\u00e3o Antes do Amanhecer",
+                "release_date": "1951-12-21",
+                "backdrop_path": "/wih0esrlvzqX5lU8BMvHeJMkhT7.jpg",
+                "poster_path": "/wOrzwxmEvPIiD9VDSuN1utgMAxX.jpg",
+                "overview": "\u00c0 medida que o ex\u00e9rcito dos EUA se aproxima da Alemanha nazista, prisioneiros alem\u00e3es s\u00e3o recrutados para espionar atr\u00e1s das linhas alem\u00e3s.\r A Segunda Guerra Mundial est\u00e1 entrando em sua \u00faltima fase: a Alemanha est\u00e1 em ru\u00ednas, mas n\u00e3o cede. O ex\u00e9rcito dos EUA n\u00e3o tem conhecimento crucial sobre as unidades alem\u00e3s que operam no lado oposto do Reno e decide enviar dois prisioneiros alem\u00e3es para coletar informa\u00e7\u00f5es. O esquema \u00e9 arriscado: a Gestapo mant\u00e9m uma rede terrivelmente eficiente para identificar e capturar espi\u00f5es e desertores. Al\u00e9m disso, n\u00e3o est\u00e1 claro se o \"Tiger\", que topa qualquer trabalho sujo desde que o pre\u00e7o seja bom, e o \"Happy\" cansado de guerra, que pode ser facilmente tra\u00eddo por seus sentimentos, s\u00e3o agentes confi\u00e1veis. Depois que Tiger e outro agente americano s\u00e3o infiltrados com sucesso, Happy \u00e9 lan\u00e7ado de para-quedas na Baviera. Seu dever: descobrir o paradeiro de uma poderosa unidade blindada alem\u00e3 que se move em dire\u00e7\u00e3o \u00e0 frente ocidental.",
+                "vote_average": 6.7,
+                "vote_count": 42
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Quo Vadis",
+            "second_label": "Ralph E. Winters",
+            "category": "Film Editing",
+            "year": 1952,
+            "tmdb": {
+                "id": 11620,
+                "original_title": "Quo Vadis",
+                "title": "Quo Vadis",
+                "release_date": "1951-11-08",
+                "backdrop_path": "/goyLlBUlfZwbKIJFvPbRmpkKYZ.jpg",
+                "poster_path": "/205q2KznSETw5MeUHupvusQGXDC.jpg",
+                "overview": "Ap\u00f3s tr\u00eas anos em campanha, o general Marcus Vinicius (Robert Taylor) retorna \u00e0 Roma e encontra Lygia (Deborah Kerr), por quem se apaixona. Ela \u00e9 uma crist\u00e3 e n\u00e3o quer nenhum envolvimento com um guerreiro. Mas, apesar de ter sido criada como romana, Lygia \u00e9 a filha adotiva de um general aposentado e, teoricamente, uma ref\u00e9m de Roma. Marcus procura o imperador Nero (Peter Ustinov), para que ela lhe seja dada pelos servi\u00e7os que ele fez. Lygia se ressente, mas de alguma forma se apaixona por Marcus. Enquanto isso, as atrocidades de Nero s\u00e3o cada vez mais ultrajantes e, quando ele queima Roma e culpa os crist\u00e3os, Marcus salva Lygia e a fam\u00edlia dela. Nero captura todos os crist\u00e3os e os atira aos le\u00f5es mas, no final, Marcus, Lygia e o cristianismo prevalecer\u00e3o. Na filmagem da obra de Sienkiewicz, foram utilizados cerca de 32 mil figurinos e milhares de figurantes, dentre eles ent\u00e3o os 'desconhecidos' Bud Spencer, Sophia Loren (ent\u00e3o com 17 anos) e Elizabeth Taylor.",
+                "vote_average": 7.065,
+                "vote_count": 379
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Well",
+            "second_label": "Chester Schaeffer",
+            "category": "Film Editing",
+            "year": 1952,
+            "tmdb": {
+                "id": 29112,
+                "original_title": "The Well",
+                "title": "The Well",
+                "release_date": "1951-09-24",
+                "backdrop_path": "/fFoKUdSCINv0gfekSLnPJKDXRcO.jpg",
+                "poster_path": "/spCIIPdOgW5NIMA4evLFBmw1prB.jpg",
+                "overview": "In a racially mixed American town, a five-year-old black girl falls unnoticed into a hidden, forgotten well on her way to school. Having nothing better to go on, the police follow up a report that the child was seen with a white stranger, and rumors run wild. Before hapless, innocent Claude Packard is even found, popular hysteria has him tried and convicted. But is he guilty?",
+                "vote_average": 7.1,
+                "vote_count": 13
+            },
+            "winner": false
+        }
+    ],
+    "Honorary Foreign Language Film Award": [
+        {
+            "first_label": "Rashomon",
+            "second_label": "Special Award",
+            "category": "Honorary Foreign Language Film Award",
+            "year": 1952,
+            "tmdb": {
+                "id": 548,
+                "original_title": "\u7f85\u751f\u9580",
+                "title": "Rashomon",
+                "release_date": "1950-08-26",
+                "backdrop_path": "/zyO6j74DKMWfp5snWg6Hwo0T3Mz.jpg",
+                "poster_path": "/moA41Cxu1ExsYg7Dp8oUxGeGO6P.jpg",
+                "overview": "No Jap\u00e3o do s\u00e9culo XI, um lenhador, um sacerdote e um campon\u00eas procuram ref\u00fagio de uma tempestade nas ru\u00ednas de pedra do Port\u00e3o de Rashomon. O sacerdote conta detalhes de um julgamento que testemunhou, envolvendo o estupro de Masako e o assassinato do marido dela, Takehiro, um samurai. Em flashback \u00e9 mostrado o julgamento do bandido Tajomaru, onde acontecem quatro testemunhos, inclusive de Takehiro atrav\u00e9s de um m\u00e9dium. Cada um \u00e9 uma \"verdade\", que entra em conflito com as outras.",
+                "vote_average": 8.1,
+                "vote_count": 2057
+            },
+            "winner": true
+        }
+    ],
+    "Irving G. Thalberg Memorial Award": [
+        {
+            "first_label": "",
+            "second_label": "Arthur Freed",
+            "category": "Irving G. Thalberg Memorial Award",
+            "year": 1952,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        }
+    ],
+    "Music (Music Score of a Dramatic or Comedy Picture)": [
+        {
+            "first_label": "A Place in the Sun",
+            "second_label": "Franz Waxman",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1952,
+            "tmdb": {
+                "id": 25673,
+                "original_title": "A Place in the Sun",
+                "title": "Um Lugar ao Sol",
+                "release_date": "1951-06-12",
+                "backdrop_path": "/ahiyCLIyFQ57xNuDQaxqQQ48X9u.jpg",
+                "poster_path": "/3tKYbChwIRYCwFrMUDBkbZyDIoN.jpg",
+                "overview": "Um jovem ambicioso ganha o cora\u00e7\u00e3o de uma herdeira, mas tem que lidar com a gravidez de sua ex-namorada.\r O jovem e pobre George Eastman (Montgomery Clift) deixa sua m\u00e3e religiosa em Chicago e vai para a Calif\u00f3rnia esperando encontrar um emprego melhor nos neg\u00f3cios de seu tio rico, Charles Eastman. Seu primo Earl Eastman avisa que h\u00e1 muitas mulheres na f\u00e1brica e a regra b\u00e1sica \u00e9 que ele n\u00e3o deve paquerar qualquer uma delas. George encontra a oper\u00e1ria Alice Tripp no cinema e eles come\u00e7am a namorar. No entanto o marginalizado George \u00e9 promovido e encontra a linda Angela Vickers numa festa na casa de seu tio. Angela o apresenta \u00e0 alta sociedade local e eles se apaixonam. Mas Alice est\u00e1 gr\u00e1vida e ela quer se casar com George.",
+                "vote_average": 7.3,
+                "vote_count": 353
+            },
+            "winner": true
+        },
+        {
+            "first_label": "David and Bathsheba",
+            "second_label": "Alfred Newman",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1952,
+            "tmdb": {
+                "id": 42567,
+                "original_title": "David and Bathsheba",
+                "title": "David e Betsab\u00e1",
+                "release_date": "1951-08-10",
+                "backdrop_path": "/7zpZMpIddthzGuopoI1eTJv9F3.jpg",
+                "poster_path": "/kDXrKLWJZ02f6hECLakvqFehmTB.jpg",
+                "overview": "Ap\u00f3s ver a linda Betsab\u00e1 se banhar, o rei David se apaixona e descobre que ela \u00e9 casada com Uriah, um destemido soldado. David manda Uriah para uma batalha perdida e, ao negligenciar seu reino e sua f\u00e9, provoca a ira de Deus.",
+                "vote_average": 5.9,
+                "vote_count": 56
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Death of a Salesman",
+            "second_label": "Alex North",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1952,
+            "tmdb": {
+                "id": 104394,
+                "original_title": "Death of a Salesman",
+                "title": "Death of a Salesman",
+                "release_date": "1951-12-20",
+                "backdrop_path": "/kyclVGdxYT67UGSxrVtXdHjSZNb.jpg",
+                "poster_path": "/xnyRkG1LMQX0NUpROq61GiKW7eJ.jpg",
+                "overview": "Willy Loman is an aging salesman who was recently fired from his job. Dealing with feelings of failure, Willy begins to relive events from the past that involve his older son, Biff, and his wife, Linda. Willy tries to learn from past mistakes and works to make amends with his family, but his biggest struggle is to make peace with himself over a failed dream of financial success.",
+                "vote_average": 6.7,
+                "vote_count": 13
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Quo Vadis",
+            "second_label": "Miklos Rozsa",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1952,
+            "tmdb": {
+                "id": 11620,
+                "original_title": "Quo Vadis",
+                "title": "Quo Vadis",
+                "release_date": "1951-11-08",
+                "backdrop_path": "/goyLlBUlfZwbKIJFvPbRmpkKYZ.jpg",
+                "poster_path": "/205q2KznSETw5MeUHupvusQGXDC.jpg",
+                "overview": "Ap\u00f3s tr\u00eas anos em campanha, o general Marcus Vinicius (Robert Taylor) retorna \u00e0 Roma e encontra Lygia (Deborah Kerr), por quem se apaixona. Ela \u00e9 uma crist\u00e3 e n\u00e3o quer nenhum envolvimento com um guerreiro. Mas, apesar de ter sido criada como romana, Lygia \u00e9 a filha adotiva de um general aposentado e, teoricamente, uma ref\u00e9m de Roma. Marcus procura o imperador Nero (Peter Ustinov), para que ela lhe seja dada pelos servi\u00e7os que ele fez. Lygia se ressente, mas de alguma forma se apaixona por Marcus. Enquanto isso, as atrocidades de Nero s\u00e3o cada vez mais ultrajantes e, quando ele queima Roma e culpa os crist\u00e3os, Marcus salva Lygia e a fam\u00edlia dela. Nero captura todos os crist\u00e3os e os atira aos le\u00f5es mas, no final, Marcus, Lygia e o cristianismo prevalecer\u00e3o. Na filmagem da obra de Sienkiewicz, foram utilizados cerca de 32 mil figurinos e milhares de figurantes, dentre eles ent\u00e3o os 'desconhecidos' Bud Spencer, Sophia Loren (ent\u00e3o com 17 anos) e Elizabeth Taylor.",
+                "vote_average": 7.065,
+                "vote_count": 379
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Streetcar Named Desire",
+            "second_label": "Alex North",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1952,
+            "tmdb": {
+                "id": 702,
+                "original_title": "A Streetcar Named Desire",
+                "title": "Uma Rua Chamada Pecado",
+                "release_date": "1951-09-19",
+                "backdrop_path": "/or90vNrOVnYwi07fYYpQ3pbnjxP.jpg",
+                "poster_path": "/vwNvNjuOW9OCBOdPy32B7QYy5un.jpg",
+                "overview": "Blanche vai visitar sua irm\u00e3 gr\u00e1vida e o marido dela, Stanley, que n\u00e3o gosta dela e come\u00e7a a for\u00e7\u00e1-la a falar sobre uma propriedade que sabe que foi deixada para as duas. Aos poucos o clima entre Stanley e Blanche vai ficando cada vez mais pesado.",
+                "vote_average": 7.6,
+                "vote_count": 1287
+            },
+            "winner": false
+        }
+    ],
+    "Music (Scoring of a Musical Picture)": [
+        {
+            "first_label": "An American in Paris",
+            "second_label": "Johnny Green, Saul Chaplin",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1952,
+            "tmdb": {
+                "id": 2769,
+                "original_title": "An American in Paris",
+                "title": "Sinfonia de Paris",
+                "release_date": "1951-09-26",
+                "backdrop_path": "/k6Unnx1OCgVteDDzWJLXTw05VGZ.jpg",
+                "poster_path": "/7YM95QXNeupbjOyYCacHWm1Dwnb.jpg",
+                "overview": "O veterano da Segunda Guerra Mundial, Jerry, vive em Paris tentando se firmar como pintor. Ele conhece a milion\u00e1ria Milo que o apoia e tenta ajud\u00e1-lo a subir na carreira, mesmo estando mais interessada em Jerry do que na sua arte. Mas ele acaba se apaixonando por Lise que est\u00e1 noiva de Henri, por quem ela tem uma d\u00edvida de gratid\u00e3o por ter salvado sua fam\u00edlia e ela durante a guerra.",
+                "vote_average": 7.0,
+                "vote_count": 539
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Alice in Wonderland",
+            "second_label": "Oliver Wallace",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1952,
+            "tmdb": {
+                "id": 12092,
+                "original_title": "Alice in Wonderland",
+                "title": "Alice no Pa\u00eds das Maravilhas",
+                "release_date": "1951-07-28",
+                "backdrop_path": "/b4yiLlIFuiULuuLTxT0Pt1QyT6J.jpg",
+                "poster_path": "/lgnBkVe1PNLgFRgaeBeB2Vgb63M.jpg",
+                "overview": "Alice \u00e9 uma garota curiosa e cansada da monotonia de sua vida. Um dia, ao seguir o apressado e misterioso Coelho Branco at\u00e9 uma toca, ela acaba entrando no Pa\u00eds das Maravilhas. L\u00e1, ela conhece diversos seres incr\u00edveis, como o peculiar Chapeleiro Maluco, o misterioso Mestre Gato, a Lagarta e a tirana Rainha de Copas.",
+                "vote_average": 7.19,
+                "vote_count": 5629
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Great Caruso",
+            "second_label": "Peter Herman Adler, Johnny Green",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1952,
+            "tmdb": {
+                "id": 98328,
+                "original_title": "The Great Caruso",
+                "title": "O Grande Caruso",
+                "release_date": "1951-04-16",
+                "backdrop_path": "/ugh4Bivk6dcLXz2bkwuotm9feYT.jpg",
+                "poster_path": "/mKqAEKW8GzO98xlQ0JWrXAFnutS.jpg",
+                "overview": "Tra\u00e7a vagamente a vida do tenor Enrico Caruso (1873-1921). Ele ama Musetta, em sua cidade natal, N\u00e1poles, e depois Dorothy, filha de um dos patronos do Metropolitan Opera. Caruso \u00e9 inaceit\u00e1vel para os pais de ambas as mulheres: para uma, porque canta; para Dorothy, porque ele \u00e9 um campon\u00eas. Para os patr\u00edcios de Nova York, Caruso \u00e9 baixo, peito largo, barulhento, emotivo, n\u00e3o refinado. Sua aprecia\u00e7\u00e3o vem lentamente. O filme retrata o lamento de Caruso de que \"o homem n\u00e3o tem voz, a voz tem o homem\": ele n\u00e3o pode estar nos lugares que quer, porque deve estar em outro lugar cantando, inclusive no dia da morte de sua m\u00e3e. Ao longo do filme, Mario Lanza e estrelas do Met cantam, inclusive com o 'menino' Luciano Pavarotti.",
+                "vote_average": 5.6,
+                "vote_count": 15
+            },
+            "winner": false
+        },
+        {
+            "first_label": "On the Riviera",
+            "second_label": "Alfred Newman",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1952,
+            "tmdb": {
+                "id": 29577,
+                "original_title": "On the Riviera",
+                "title": "Esc\u00e2ndalos na Riviera",
+                "release_date": "1951-04-20",
+                "backdrop_path": "/c5GAlcfuAGAghO0L1pxuQT94bOW.jpg",
+                "poster_path": "/sShuzL7KOaLoTLV0ZzEpD0Z1QFL.jpg",
+                "overview": "Nesta homenagem ao Folies Bergere de  Maurice Chevalier, o talentoso Danny Kaye desempenha dois papeis. Tanto um artista quanto um heroico piloto militar franc\u00eas.\r Jack Martin (Danny Kaye), um artista americano que trabalha com cabarets na Riviera Francesa, faz uma personifica\u00e7\u00e3o do industrialista Henri Duran (Kaye, de novo) de forma t\u00e3o convincente que at\u00e9 a bela esposa de Duran (Gene Tierney) \u00e9 enganada por ela. Quando os interesses empresariais de Duran o obrigam a estar em Londres quando ele deveria estar hospedando um grande soiree em sua casa, Martin \u00e9 persuadido a personificar Duran na festa. Mas as coisas amea\u00e7am sair de controle quando Martin (como Duran) \u00e9 confrontado por v\u00e1rias mulheres do empres\u00e1rio namorador Duran, e pelo implac\u00e1vel rival de Duran, M. Periton (Jean Murat). e Livre.",
+                "vote_average": 5.9,
+                "vote_count": 18
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Show Boat",
+            "second_label": "Adolph Deutsch, Conrad Salinger",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1952,
+            "tmdb": {
+                "id": 17820,
+                "original_title": "Show Boat",
+                "title": "O Barco das Ilus\u00f5es",
+                "release_date": "1951-07-19",
+                "backdrop_path": "/ArRVe2TdaSgXaTWM8N6P4lUGDms.jpg",
+                "poster_path": "/sk7s574pI9QAi6uVqbTg0bnLEUC.jpg",
+                "overview": "Magnolia Hawks vive no Cotton Blossom, barco de shows de seu pai, o Capit\u00e3o Andy. Ela conhece o jogador Gaylord Ravenal na cidade \u00e0 beira do rio, e se apaixona por ele. Na mesma tarde, durante o ensaio para o show daquele dia, a estrela Julie e seu marido e co-estrela Steve s\u00e3o for\u00e7ados a deixar a companhia. Gaylord \u00e9 contratado para ocupar o lugar de Steve, enquanto Magnolia ocupa o lugar de Julie. Eles se apaixonam e casam. Deixando o barco de shows, 'Nola, Gay e sua pequena filha, Kim, se mudam para Chicago, onde sua fortuna cresce ou mingua dependendo da sorte de Gay. Enfim, ele abandona sua esposa e filha, e ela \u00e9 for\u00e7ada a retornar aos palcos, onde ela se torna uma estrela.",
+                "vote_average": 6.0,
+                "vote_count": 68
+            },
+            "winner": false
+        }
+    ],
+    "Music (Song)": [
+        {
+            "first_label": "Here Comes the Groom",
+            "second_label": "In The Cool, Cool, Cool Of The Evening in \"Here Comes the Groom\" Music by Hoagy Carmichael; Lyrics by Johnny Mercer",
+            "category": "Music (Song)",
+            "year": 1952,
+            "tmdb": {
+                "id": 27629,
+                "original_title": "Here Comes the Groom",
+                "title": "\u00d3rf\u00e3os da Tempestade",
+                "release_date": "1951-09-20",
+                "backdrop_path": "/1oQavPqCmNKN4LBW5mGh3RYYKId.jpg",
+                "poster_path": "/aUYArCEFcQOehraSYlyPm8CoyQ4.jpg",
+                "overview": "Pete Garvey improvisa uma ag\u00eancia de ado\u00e7\u00e3o de \u00f3rf\u00e3os de guerra, em Paris, quando um ultimato de sua antiga noiva chama-o de volta para Boston, com dois \u00f3rf\u00e3os adotados para derreter o cora\u00e7\u00e3o dela.",
+                "vote_average": 5.0,
+                "vote_count": 15
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Strip",
+            "second_label": "A Kiss To Build A Dream On in \"The Strip\" Music and Lyrics by Bert Kalmar, Harry Ruby and Oscar Hammerstein II",
+            "category": "Music (Song)",
+            "year": 1952,
+            "tmdb": {
+                "id": 95949,
+                "original_title": "The Strip",
+                "title": "Amei e Errei",
+                "release_date": "1951-08-31",
+                "backdrop_path": "/rwWoomRKLefd8d14pGUiMOrtUMj.jpg",
+                "poster_path": "/4HWJzoOHciLeRRgAeLRfadC6ycB.jpg",
+                "overview": "Drummer Stanley Maxton moves to Los Angeles with dreams of opening his own club, but falls in with a gangster and a nightclub dancer and ends up accused of murder.",
+                "vote_average": 5.7,
+                "vote_count": 12
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Golden Girl",
+            "second_label": "Never in \"Golden Girl\" Music by Lionel Newman; Lyrics by Eliot Daniel",
+            "category": "Music (Song)",
+            "year": 1952,
+            "tmdb": {
+                "id": 188520,
+                "original_title": "Golden Girl",
+                "title": "Golden Girl",
+                "release_date": "1951-11-01",
+                "backdrop_path": "/2GjiuKZoqfOPKkJUuAbp5m9gniC.jpg",
+                "poster_path": "/suOgERQHi5LtYej9RpEIhrHaveF.jpg",
+                "overview": "Against the background of the Civil War, sixteen-year-old song-and-dance artiste Lotta Crabtree works her way across America, becoming ever more popular.",
+                "vote_average": 5.5,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Royal Wedding",
+            "second_label": "Too Late Now in \"Royal Wedding\" Music by Burton Lane; Lyrics by Alan Jay Lerner",
+            "category": "Music (Song)",
+            "year": 1952,
+            "tmdb": {
+                "id": 18646,
+                "original_title": "Royal Wedding",
+                "title": "N\u00fapcias Reais",
+                "release_date": "1951-03-08",
+                "backdrop_path": "/iBVKjk68mfOZNW0TtymZj00g7Qv.jpg",
+                "poster_path": "/5hOyBgsmSApFl10ZfaYxUTQu5Ze.jpg",
+                "overview": "Tom (Fred Astaire) e Ellen Bowen (Jane Powell) s\u00e3o dois irm\u00e3os que apresentam um ato musical e de dan\u00e7a na cidade de NY. Quando sua temporada de shows se encerra, seu agente marca apresenta\u00e7\u00f5es em Londres no per\u00edodo do Casamento Real. Eles embarcam em um cruzeiro para chegar \u00e0 Inglaterra, onde a apar\u00eancia de inocente de Ellen ( que na verdade \u00e9 a vers\u00e3o feminina de Don Juan )encanta o Lorde John Brindale (Peter Lawford) e os dois acabam se envolvendo. O affair de Ellen e John faz com que ela perca ensaios com o irm\u00e3o Tom, que percebe que a garota n\u00e3o leva a vida de dan\u00e7arina t\u00e3o a s\u00e9rio. Chegando a Londres, al\u00e9m de participar de diversas audi\u00e7\u00f5es, Tom acaba conhecendo Ann (Sarah Churchill), por quem acaba se apaixonando.Agora os irm\u00e3os encontram-se completamente indecisos entre suas paix\u00f5es e a vida de dan\u00e7arinos.",
+                "vote_average": 6.4,
+                "vote_count": 90
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rich, Young and Pretty",
+            "second_label": "Wonder Why in \"Rich, Young and Pretty\" Music by Nicholas Brodszky; Lyrics by Sammy Cahn",
+            "category": "Music (Song)",
+            "year": 1952,
+            "tmdb": {
+                "id": 131781,
+                "original_title": "Rich, Young and Pretty",
+                "title": "Rich, Young and Pretty",
+                "release_date": "1951-07-09",
+                "backdrop_path": "/lzf83FUv6Rl0AG8Niv2cFiRFOoj.jpg",
+                "poster_path": "/tOara0gI1IObtZYkwabjCbv5iTX.jpg",
+                "overview": "A rancher's daughter visits Paris to meet her mother and find love.",
+                "vote_average": 5.6,
+                "vote_count": 8
+            },
+            "winner": false
+        }
+    ],
+    "Best Motion Picture": [
+        {
+            "first_label": "An American in Paris",
+            "second_label": "Arthur Freed, Producer",
+            "category": "Best Motion Picture",
+            "year": 1952,
+            "tmdb": {
+                "id": 2769,
+                "original_title": "An American in Paris",
+                "title": "Sinfonia de Paris",
+                "release_date": "1951-09-26",
+                "backdrop_path": "/k6Unnx1OCgVteDDzWJLXTw05VGZ.jpg",
+                "poster_path": "/7YM95QXNeupbjOyYCacHWm1Dwnb.jpg",
+                "overview": "O veterano da Segunda Guerra Mundial, Jerry, vive em Paris tentando se firmar como pintor. Ele conhece a milion\u00e1ria Milo que o apoia e tenta ajud\u00e1-lo a subir na carreira, mesmo estando mais interessada em Jerry do que na sua arte. Mas ele acaba se apaixonando por Lise que est\u00e1 noiva de Henri, por quem ela tem uma d\u00edvida de gratid\u00e3o por ter salvado sua fam\u00edlia e ela durante a guerra.",
+                "vote_average": 7.0,
+                "vote_count": 539
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Decision before Dawn",
+            "second_label": "Anatole Litvak and Frank McCarthy, Producers",
+            "category": "Best Motion Picture",
+            "year": 1952,
+            "tmdb": {
+                "id": 4461,
+                "original_title": "Decision Before Dawn",
+                "title": "Decis\u00e3o Antes do Amanhecer",
+                "release_date": "1951-12-21",
+                "backdrop_path": "/wih0esrlvzqX5lU8BMvHeJMkhT7.jpg",
+                "poster_path": "/wOrzwxmEvPIiD9VDSuN1utgMAxX.jpg",
+                "overview": "\u00c0 medida que o ex\u00e9rcito dos EUA se aproxima da Alemanha nazista, prisioneiros alem\u00e3es s\u00e3o recrutados para espionar atr\u00e1s das linhas alem\u00e3s.\r A Segunda Guerra Mundial est\u00e1 entrando em sua \u00faltima fase: a Alemanha est\u00e1 em ru\u00ednas, mas n\u00e3o cede. O ex\u00e9rcito dos EUA n\u00e3o tem conhecimento crucial sobre as unidades alem\u00e3s que operam no lado oposto do Reno e decide enviar dois prisioneiros alem\u00e3es para coletar informa\u00e7\u00f5es. O esquema \u00e9 arriscado: a Gestapo mant\u00e9m uma rede terrivelmente eficiente para identificar e capturar espi\u00f5es e desertores. Al\u00e9m disso, n\u00e3o est\u00e1 claro se o \"Tiger\", que topa qualquer trabalho sujo desde que o pre\u00e7o seja bom, e o \"Happy\" cansado de guerra, que pode ser facilmente tra\u00eddo por seus sentimentos, s\u00e3o agentes confi\u00e1veis. Depois que Tiger e outro agente americano s\u00e3o infiltrados com sucesso, Happy \u00e9 lan\u00e7ado de para-quedas na Baviera. Seu dever: descobrir o paradeiro de uma poderosa unidade blindada alem\u00e3 que se move em dire\u00e7\u00e3o \u00e0 frente ocidental.",
+                "vote_average": 6.7,
+                "vote_count": 42
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Place in the Sun",
+            "second_label": "George Stevens, Producer",
+            "category": "Best Motion Picture",
+            "year": 1952,
+            "tmdb": {
+                "id": 25673,
+                "original_title": "A Place in the Sun",
+                "title": "Um Lugar ao Sol",
+                "release_date": "1951-06-12",
+                "backdrop_path": "/ahiyCLIyFQ57xNuDQaxqQQ48X9u.jpg",
+                "poster_path": "/3tKYbChwIRYCwFrMUDBkbZyDIoN.jpg",
+                "overview": "Um jovem ambicioso ganha o cora\u00e7\u00e3o de uma herdeira, mas tem que lidar com a gravidez de sua ex-namorada.\r O jovem e pobre George Eastman (Montgomery Clift) deixa sua m\u00e3e religiosa em Chicago e vai para a Calif\u00f3rnia esperando encontrar um emprego melhor nos neg\u00f3cios de seu tio rico, Charles Eastman. Seu primo Earl Eastman avisa que h\u00e1 muitas mulheres na f\u00e1brica e a regra b\u00e1sica \u00e9 que ele n\u00e3o deve paquerar qualquer uma delas. George encontra a oper\u00e1ria Alice Tripp no cinema e eles come\u00e7am a namorar. No entanto o marginalizado George \u00e9 promovido e encontra a linda Angela Vickers numa festa na casa de seu tio. Angela o apresenta \u00e0 alta sociedade local e eles se apaixonam. Mas Alice est\u00e1 gr\u00e1vida e ela quer se casar com George.",
+                "vote_average": 7.3,
+                "vote_count": 353
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Quo Vadis",
+            "second_label": "Sam Zimbalist, Producer",
+            "category": "Best Motion Picture",
+            "year": 1952,
+            "tmdb": {
+                "id": 11620,
+                "original_title": "Quo Vadis",
+                "title": "Quo Vadis",
+                "release_date": "1951-11-08",
+                "backdrop_path": "/goyLlBUlfZwbKIJFvPbRmpkKYZ.jpg",
+                "poster_path": "/205q2KznSETw5MeUHupvusQGXDC.jpg",
+                "overview": "Ap\u00f3s tr\u00eas anos em campanha, o general Marcus Vinicius (Robert Taylor) retorna \u00e0 Roma e encontra Lygia (Deborah Kerr), por quem se apaixona. Ela \u00e9 uma crist\u00e3 e n\u00e3o quer nenhum envolvimento com um guerreiro. Mas, apesar de ter sido criada como romana, Lygia \u00e9 a filha adotiva de um general aposentado e, teoricamente, uma ref\u00e9m de Roma. Marcus procura o imperador Nero (Peter Ustinov), para que ela lhe seja dada pelos servi\u00e7os que ele fez. Lygia se ressente, mas de alguma forma se apaixona por Marcus. Enquanto isso, as atrocidades de Nero s\u00e3o cada vez mais ultrajantes e, quando ele queima Roma e culpa os crist\u00e3os, Marcus salva Lygia e a fam\u00edlia dela. Nero captura todos os crist\u00e3os e os atira aos le\u00f5es mas, no final, Marcus, Lygia e o cristianismo prevalecer\u00e3o. Na filmagem da obra de Sienkiewicz, foram utilizados cerca de 32 mil figurinos e milhares de figurantes, dentre eles ent\u00e3o os 'desconhecidos' Bud Spencer, Sophia Loren (ent\u00e3o com 17 anos) e Elizabeth Taylor.",
+                "vote_average": 7.065,
+                "vote_count": 379
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Streetcar Named Desire",
+            "second_label": "Charles K. Feldman, Producer",
+            "category": "Best Motion Picture",
+            "year": 1952,
+            "tmdb": {
+                "id": 702,
+                "original_title": "A Streetcar Named Desire",
+                "title": "Uma Rua Chamada Pecado",
+                "release_date": "1951-09-19",
+                "backdrop_path": "/or90vNrOVnYwi07fYYpQ3pbnjxP.jpg",
+                "poster_path": "/vwNvNjuOW9OCBOdPy32B7QYy5un.jpg",
+                "overview": "Blanche vai visitar sua irm\u00e3 gr\u00e1vida e o marido dela, Stanley, que n\u00e3o gosta dela e come\u00e7a a for\u00e7\u00e1-la a falar sobre uma propriedade que sabe que foi deixada para as duas. Aos poucos o clima entre Stanley e Blanche vai ficando cada vez mais pesado.",
+                "vote_average": 7.6,
+                "vote_count": 1287
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Cartoon)": [
+        {
+            "first_label": "The Two Mouseketeers",
+            "second_label": "Fred Quimby, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1952,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Lambert, the Sheepish Lion",
+            "second_label": "Walt Disney, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1952,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rooty Toot Toot",
+            "second_label": "Stephen Bosustow, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1952,
+            "tmdb": {
+                "id": 103956,
+                "original_title": "Rooty Toot Toot",
+                "title": "Rooty Toot Toot",
+                "release_date": "1951-11-15",
+                "backdrop_path": "/dl8zIgPIowJA7TQeUS5uLnhVE0o.jpg",
+                "poster_path": "/1LXJD042SEw18ZoGzEDMOF9nGuM.jpg",
+                "overview": "Rooty Toot Toot (1951) \u00e9 um dos pontos altos da produ\u00e7\u00e3o da UPA e um dos desenhos animados de sete minutos mais elogiados de todos os tempos. N\u00e3o \u00e9 de forma alguma um filme infantil; lida com personagens e situa\u00e7\u00f5es estritamente adultas....",
+                "vote_average": 6.7,
+                "vote_count": 35
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (One-reel)": [
+        {
+            "first_label": "World of Kids",
+            "second_label": "Robert Youngson, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1952,
+            "tmdb": {
+                "id": 242975,
+                "original_title": "World of Kids",
+                "title": "World of Kids",
+                "release_date": "1951-06-23",
+                "backdrop_path": null,
+                "poster_path": "/4cQTf0Bz1rUCpwDpjXTZGyD17CU.jpg",
+                "overview": "World of Kids is a 1951 American short documentary film directed by Robert Youngson. In 1952, it won an Oscar for Best Short Subject at the 24th Academy Awards.",
+                "vote_average": 4.5,
+                "vote_count": 2
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Ridin' the Rails",
+            "second_label": "Jack Eaton, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1952,
+            "tmdb": {
+                "id": 242976,
+                "original_title": "Ridin' the Rails",
+                "title": "Ridin' the Rails",
+                "release_date": "1951-11-02",
+                "backdrop_path": null,
+                "poster_path": "/oV8KgghSc23XVrpevkfesW5N4Rv.jpg",
+                "overview": "Ridin' the Rails is a 1951 short documentary film directed by Jack Eaton. This is a Grantland Rice Sportscope from Paramount about hobbyists building steam locomotives, scaled one inch to the foot, by members of the Southern California branch of the Live Steam Model Locomotives Club. The models are powerful enough for the hobbyists to ride over the expensive-and-expansive tracks they also build to scale. Many of these models are perfect working replicas of of the locomotives used on the United States railway system. This short features Walt Disney, one of the experts on model-train building, working on his scaled-down 'Diamond Slacker\", and taking kids to ride on his elaborate miniature system. The film was nominated for an Oscar for Best Short Subject, One-Reel.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Story of Time",
+            "second_label": "Robert G. Leffingwell, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1952,
+            "tmdb": {
+                "id": 242979,
+                "original_title": "The Story of Time",
+                "title": "The Story of Time",
+                "release_date": "1951-06-06",
+                "backdrop_path": null,
+                "poster_path": "/lqH0Bw9WADaXaA5mLDQoNOwBEln.jpg",
+                "overview": "Mankind's numerous ways of measuring the passage of time through history are depicted through stop-motion animation, from ancient sundials to simple mechanical devices, up through complex modern timepieces.",
+                "vote_average": 6.1,
+                "vote_count": 7
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Two-reel)": [
+        {
+            "first_label": "Nature's Half Acre",
+            "second_label": "Walt Disney, Producer",
+            "category": "Short Subject (Two-reel)",
+            "year": 1952,
+            "tmdb": {
+                "id": 179182,
+                "original_title": "Nature's Half Acre",
+                "title": "Sinfonia da Primavera",
+                "release_date": "1951-07-28",
+                "backdrop_path": "/ncOi1K2z4N3Nr3YCuhaAR7PJ4Yr.jpg",
+                "poster_path": "/2ewTSvooqXkopM9kf19UtDaAziU.jpg",
+                "overview": "O estranho e maravilhoso mundo que est\u00e1 sob nossos p\u00e9s, sob as folhas, troncos e pedras, povoado por milh\u00f5es de criaturas estranhas e fascinantes.",
+                "vote_average": 6.8,
+                "vote_count": 8
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Balzac",
+            "second_label": "Les Films du Compass",
+            "category": "Short Subject (Two-reel)",
+            "year": 1952,
+            "tmdb": {
+                "id": 242973,
+                "original_title": "Balzac",
+                "title": "Balzac",
+                "release_date": "1951-01-01",
+                "backdrop_path": null,
+                "poster_path": "/mVhvwM6y3zQW2jUGS6loCAkFc62.jpg",
+                "overview": "Balzac is a 1951 short documentary film by French director Jean Vidal. It is a biopic on the work, life, and loves of the French playwright and novelist Honor\u00e9 de Balzac, his evolution as a writer and how his individual works fit into the design of La Comedie Humaine. The film was nominated for an Academy Award in 1952 and won first prize for best director at the Mannheim-Heidelberg International Film Festival the same year.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Danger under the Sea",
+            "second_label": "Tom Mead, Producer",
+            "category": "Short Subject (Two-reel)",
+            "year": 1952,
+            "tmdb": {
+                "id": 242974,
+                "original_title": "Danger Under the Sea",
+                "title": "Danger Under the Sea",
+                "release_date": "1951-01-01",
+                "backdrop_path": null,
+                "poster_path": "/lRCECoU3x4d1RPCoendyGy2HR80.jpg",
+                "overview": "Danger Under the Sea is a 1951 short documentary directed by Jacques-Yves Cousteau: The film was nominated for an Oscar for Best Short Subject, Two-Reel.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        }
+    ],
+    "Sound Recording": [
+        {
+            "first_label": "The Great Caruso",
+            "second_label": "Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",
+            "category": "Sound Recording",
+            "year": 1952,
+            "tmdb": {
+                "id": 98328,
+                "original_title": "The Great Caruso",
+                "title": "O Grande Caruso",
+                "release_date": "1951-04-16",
+                "backdrop_path": "/ugh4Bivk6dcLXz2bkwuotm9feYT.jpg",
+                "poster_path": "/mKqAEKW8GzO98xlQ0JWrXAFnutS.jpg",
+                "overview": "Tra\u00e7a vagamente a vida do tenor Enrico Caruso (1873-1921). Ele ama Musetta, em sua cidade natal, N\u00e1poles, e depois Dorothy, filha de um dos patronos do Metropolitan Opera. Caruso \u00e9 inaceit\u00e1vel para os pais de ambas as mulheres: para uma, porque canta; para Dorothy, porque ele \u00e9 um campon\u00eas. Para os patr\u00edcios de Nova York, Caruso \u00e9 baixo, peito largo, barulhento, emotivo, n\u00e3o refinado. Sua aprecia\u00e7\u00e3o vem lentamente. O filme retrata o lamento de Caruso de que \"o homem n\u00e3o tem voz, a voz tem o homem\": ele n\u00e3o pode estar nos lugares que quer, porque deve estar em outro lugar cantando, inclusive no dia da morte de sua m\u00e3e. Ao longo do filme, Mario Lanza e estrelas do Met cantam, inclusive com o 'menino' Luciano Pavarotti.",
+                "vote_average": 5.6,
+                "vote_count": 15
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Bright Victory",
+            "second_label": "Universal-International Studio Sound Department, Leslie I. Carey, Sound Director",
+            "category": "Sound Recording",
+            "year": 1952,
+            "tmdb": {
+                "id": 109258,
+                "original_title": "Bright Victory",
+                "title": "S\u00f3 Resta a Lembran\u00e7a",
+                "release_date": "1951-08-01",
+                "backdrop_path": "/A9wEoYGqzurGSuAD0ocxBnSN9wj.jpg",
+                "poster_path": "/hLWLDciSgrmYlNIxGjehl5qOTTy.jpg",
+                "overview": "A soldier blinded in war returns home and attempts to adjust to civilian life.",
+                "vote_average": 6.9,
+                "vote_count": 16
+            },
+            "winner": false
+        },
+        {
+            "first_label": "I Want You",
+            "second_label": "Samuel Goldwyn Studio Sound Department, Gordon Sawyer, Sound Director",
+            "category": "Sound Recording",
+            "year": 1952,
+            "tmdb": {
+                "id": 216953,
+                "original_title": "I Want You",
+                "title": "N\u00e3o Quero Dizer-te Adeus",
+                "release_date": "1951-12-22",
+                "backdrop_path": "/rlrmd5vRRKHb5U4vimVpIVOCiKb.jpg",
+                "poster_path": "/pFIDwXs6YjtItnvEasOXOQks3Ih.jpg",
+                "overview": "The scene is a small town in the Eastern United States, where the outbreak of hostilities in Korea has a profound effect on several people. WWII veteran Martin Greer wants to re-enlist, much to the dismay of his wife Nancy.",
+                "vote_average": 5.2,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Streetcar Named Desire",
+            "second_label": "Warner Bros. Studio Sound Department, Col. Nathan Levinson, Sound Director",
+            "category": "Sound Recording",
+            "year": 1952,
+            "tmdb": {
+                "id": 702,
+                "original_title": "A Streetcar Named Desire",
+                "title": "Uma Rua Chamada Pecado",
+                "release_date": "1951-09-19",
+                "backdrop_path": "/or90vNrOVnYwi07fYYpQ3pbnjxP.jpg",
+                "poster_path": "/vwNvNjuOW9OCBOdPy32B7QYy5un.jpg",
+                "overview": "Blanche vai visitar sua irm\u00e3 gr\u00e1vida e o marido dela, Stanley, que n\u00e3o gosta dela e come\u00e7a a for\u00e7\u00e1-la a falar sobre uma propriedade que sabe que foi deixada para as duas. Aos poucos o clima entre Stanley e Blanche vai ficando cada vez mais pesado.",
+                "vote_average": 7.6,
+                "vote_count": 1287
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Two Tickets to Broadway",
+            "second_label": "RKO Radio Studio Sound Department, John O. Aalberg, Sound Director",
+            "category": "Sound Recording",
+            "year": 1952,
+            "tmdb": {
+                "id": 131491,
+                "original_title": "Two Tickets to Broadway",
+                "title": "Two Tickets to Broadway",
+                "release_date": "1951-11-20",
+                "backdrop_path": "/s3ouYnI2bwf7s5tR8lSYXEpMwAm.jpg",
+                "poster_path": "/7RPl8ZS3rAmC3v66qMgalq7gbcG.jpg",
+                "overview": "A young woman (Janet Leigh) leaves her small hometown in Vermont and travels to New York City with hopes of becoming a Broadway star.",
+                "vote_average": 4.3,
+                "vote_count": 10
+            },
+            "winner": false
+        }
+    ],
+    "Special Effects": [
+        {
+            "first_label": "When Worlds Collide",
+            "second_label": "Paramount",
+            "category": "Special Effects",
+            "year": 1952,
+            "tmdb": {
+                "id": 16380,
+                "original_title": "When Worlds Collide",
+                "title": "O Fim do Mundo",
+                "release_date": "1951-09-14",
+                "backdrop_path": "/ws8eX1paKpgEVetOTg6OUlKtLXw.jpg",
+                "poster_path": "/xUd6NOABGlU3TSNP42toxWhmMQ3.jpg",
+                "overview": "Cole Henderson (Larry Keating) \u00e9 um cientista que alerta que um planeta est\u00e1 em um rota de colis\u00e3o com a Terra. Ningu\u00e9m cr\u00ea na hist\u00f3ria de Henderson, com exce\u00e7\u00e3o de Sydney Stanton (John Hoyt), um milion\u00e1rio que financia a constru\u00e7\u00e3o de uma astronave gigantesca, constru\u00edda para transportar sobreviventes selecionados da Terra para outro planeta. Logo fica claro que as predi\u00e7\u00f5es de Cole se tornar\u00e3o realidade, assim uma loteria mundial \u00e9 feita para selecionar as pessoas que ser\u00e3o salvas do cat\u00e1strofe pela astronave de Stanton.",
+                "vote_average": 6.3,
+                "vote_count": 165
+            },
+            "winner": true
+        }
+    ],
+    "Writing (Motion Picture Story)": [
+        {
+            "first_label": "Seven Days to Noon",
+            "second_label": "Paul Dehn, James Bernard",
+            "category": "Writing (Motion Picture Story)",
+            "year": 1952,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Bullfighter and the Lady",
+            "second_label": "Budd Boetticher, Ray Nazarro",
+            "category": "Writing (Motion Picture Story)",
+            "year": 1952,
+            "tmdb": {
+                "id": 77650,
+                "original_title": "Bullfighter and the Lady",
+                "title": "Paix\u00e3o de Toureiro",
+                "release_date": "1951-04-26",
+                "backdrop_path": "/74f8uFRPaBnLulqmM5izPBOiqm1.jpg",
+                "poster_path": "/rmPuPvdFbBfeIn51DO7j7YyIZ5c.jpg",
+                "overview": "An American takes up bullfighting to impress the ladies but learns to respect the sport.",
+                "vote_average": 5.9,
+                "vote_count": 11
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Frogmen",
+            "second_label": "Oscar Millard",
+            "category": "Writing (Motion Picture Story)",
+            "year": 1952,
+            "tmdb": {
+                "id": 44890,
+                "original_title": "The Frogmen",
+                "title": "Homens-R\u00e3s",
+                "release_date": "1951-01-25",
+                "backdrop_path": "/ra8SsXTWUfRUVqQoKo7t4pTJT6x.jpg",
+                "poster_path": "/nFdHsoCgCr1bhDWtRokdkZhp3af.jpg",
+                "overview": "The new commander of a Navy Underwater Demolition Team--nicknamed \"Frogmen\"--must earn the respect of the men in his unit, who are still grieving over the death of their former commander and resentful of the new one.",
+                "vote_average": 5.9,
+                "vote_count": 22
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Here Comes the Groom",
+            "second_label": "Robert Riskin, Liam O'Brien",
+            "category": "Writing (Motion Picture Story)",
+            "year": 1952,
+            "tmdb": {
+                "id": 27629,
+                "original_title": "Here Comes the Groom",
+                "title": "\u00d3rf\u00e3os da Tempestade",
+                "release_date": "1951-09-20",
+                "backdrop_path": "/1oQavPqCmNKN4LBW5mGh3RYYKId.jpg",
+                "poster_path": "/aUYArCEFcQOehraSYlyPm8CoyQ4.jpg",
+                "overview": "Pete Garvey improvisa uma ag\u00eancia de ado\u00e7\u00e3o de \u00f3rf\u00e3os de guerra, em Paris, quando um ultimato de sua antiga noiva chama-o de volta para Boston, com dois \u00f3rf\u00e3os adotados para derreter o cora\u00e7\u00e3o dela.",
+                "vote_average": 5.0,
+                "vote_count": 15
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Teresa",
+            "second_label": "Alfred Hayes, Stewart Stern",
+            "category": "Writing (Motion Picture Story)",
+            "year": 1952,
+            "tmdb": {
+                "id": 217948,
+                "original_title": "Teresa",
+                "title": "Teresa",
+                "release_date": "1951-04-05",
+                "backdrop_path": "/9fvJht1tTvoPRop1TWqDrCt7WTf.jpg",
+                "poster_path": "/vim04uV3E61MJR62FvhIm1wkMIJ.jpg",
+                "overview": "An Italian war bride has problems dealing with her husband's possessive mother.",
+                "vote_average": 5.8,
+                "vote_count": 8
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay)": [
+        {
+            "first_label": "A Place in the Sun",
+            "second_label": "Michael Wilson, Harry Brown",
+            "category": "Writing (Screenplay)",
+            "year": 1952,
+            "tmdb": {
+                "id": 25673,
+                "original_title": "A Place in the Sun",
+                "title": "Um Lugar ao Sol",
+                "release_date": "1951-06-12",
+                "backdrop_path": "/ahiyCLIyFQ57xNuDQaxqQQ48X9u.jpg",
+                "poster_path": "/3tKYbChwIRYCwFrMUDBkbZyDIoN.jpg",
+                "overview": "Um jovem ambicioso ganha o cora\u00e7\u00e3o de uma herdeira, mas tem que lidar com a gravidez de sua ex-namorada.\r O jovem e pobre George Eastman (Montgomery Clift) deixa sua m\u00e3e religiosa em Chicago e vai para a Calif\u00f3rnia esperando encontrar um emprego melhor nos neg\u00f3cios de seu tio rico, Charles Eastman. Seu primo Earl Eastman avisa que h\u00e1 muitas mulheres na f\u00e1brica e a regra b\u00e1sica \u00e9 que ele n\u00e3o deve paquerar qualquer uma delas. George encontra a oper\u00e1ria Alice Tripp no cinema e eles come\u00e7am a namorar. No entanto o marginalizado George \u00e9 promovido e encontra a linda Angela Vickers numa festa na casa de seu tio. Angela o apresenta \u00e0 alta sociedade local e eles se apaixonam. Mas Alice est\u00e1 gr\u00e1vida e ela quer se casar com George.",
+                "vote_average": 7.3,
+                "vote_count": 353
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The African Queen",
+            "second_label": "James Agee, John Huston",
+            "category": "Writing (Screenplay)",
+            "year": 1952,
+            "tmdb": {
+                "id": 488,
+                "original_title": "The African Queen",
+                "title": "Uma Aventura na Africa",
+                "release_date": "1952-01-07",
+                "backdrop_path": "/eE01BWyY5jjchTIbHwRLjRgOQHD.jpg",
+                "poster_path": "/eNwc3qLpZkg5WtIHYiyxS8KBbNv.jpg",
+                "overview": "O African Queen \u00e9 o pequeno, mas estimado, barco de Charlie (Humphrey Bogart). Durante a Primeira Guerra, na selvagem \u00c1frica, ele assume a responsabilidade de levar a irm\u00e3 do rec\u00e9m-falecido reverendo Samuel, Rose (Katharine Hepburn), para a civiliza\u00e7\u00e3o, atrav\u00e9s do rio, utilizando o barco. Mas existem dois problemas: Rose e Charlie n\u00e3o combinam em nada e as margens do rio est\u00e3o cheias de alem\u00e3es.",
+                "vote_average": 7.348,
+                "vote_count": 900
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Detective Story",
+            "second_label": "Philip Yordan, Robert Wyler",
+            "category": "Writing (Screenplay)",
+            "year": 1952,
+            "tmdb": {
+                "id": 20853,
+                "original_title": "Detective Story",
+                "title": "Chaga de Fogo",
+                "release_date": "1951-11-01",
+                "backdrop_path": "/6BXP1XEWP31Tvm8wADiONAUs4uL.jpg",
+                "poster_path": "/uXfkupU1a0gePncfdEV7STgsYtU.jpg",
+                "overview": "Conta a hist\u00f3ria de um dia na vida de v\u00e1rias pessoas que passam por um esquadr\u00e3o de detetives da pol\u00edcia. Um policial amargurado, Det. Jim McLeod (Douglas) lidera uma s\u00e9rie de personagens em sua sombria batalha di\u00e1ria com a baixa qualidade da cidade. Os personagens que passam pela delegacia ao longo do dia incluem um jovem trapaceiro, um par de ladr\u00f5es e um ing\u00eanuo ladr\u00e3o de lojas.",
+                "vote_average": 6.9,
+                "vote_count": 132
+            },
+            "winner": false
+        },
+        {
+            "first_label": "La Ronde",
+            "second_label": "Max Ophuls, Jacques Natanson",
+            "category": "Writing (Screenplay)",
+            "year": 1952,
+            "tmdb": {
+                "id": 50030,
+                "original_title": "La Ronde",
+                "title": "Conflitos de Amor",
+                "release_date": "1950-09-27",
+                "backdrop_path": "/2P2dPScfPA50pI4F69W7OUhGisT.jpg",
+                "poster_path": "/yLons2MAiRXKHWqUGcLd4AlkNa6.jpg",
+                "overview": "Em Paris, durante o ver\u00e3o de 1914, uma sucess\u00e3o de liga\u00e7\u00f5es amorosas come\u00e7am e terminam com um soldado, Georges. Um c\u00edrculo de encontros entre uma prostituta, a doce Rose e a casada Sophie, atrav\u00e9s de um fascinante panorama da sociedade e as atitudes de amor.",
+                "vote_average": 7.5,
+                "vote_count": 110
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Streetcar Named Desire",
+            "second_label": "Tennessee Williams",
+            "category": "Writing (Screenplay)",
+            "year": 1952,
+            "tmdb": {
+                "id": 702,
+                "original_title": "A Streetcar Named Desire",
+                "title": "Uma Rua Chamada Pecado",
+                "release_date": "1951-09-19",
+                "backdrop_path": "/or90vNrOVnYwi07fYYpQ3pbnjxP.jpg",
+                "poster_path": "/vwNvNjuOW9OCBOdPy32B7QYy5un.jpg",
+                "overview": "Blanche vai visitar sua irm\u00e3 gr\u00e1vida e o marido dela, Stanley, que n\u00e3o gosta dela e come\u00e7a a for\u00e7\u00e1-la a falar sobre uma propriedade que sabe que foi deixada para as duas. Aos poucos o clima entre Stanley e Blanche vai ficando cada vez mais pesado.",
+                "vote_average": 7.6,
+                "vote_count": 1287
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Story and Screenplay)": [
+        {
+            "first_label": "An American in Paris",
+            "second_label": "Alan Jay Lerner",
+            "category": "Writing (Story and Screenplay)",
+            "year": 1952,
+            "tmdb": {
+                "id": 2769,
+                "original_title": "An American in Paris",
+                "title": "Sinfonia de Paris",
+                "release_date": "1951-09-26",
+                "backdrop_path": "/k6Unnx1OCgVteDDzWJLXTw05VGZ.jpg",
+                "poster_path": "/7YM95QXNeupbjOyYCacHWm1Dwnb.jpg",
+                "overview": "O veterano da Segunda Guerra Mundial, Jerry, vive em Paris tentando se firmar como pintor. Ele conhece a milion\u00e1ria Milo que o apoia e tenta ajud\u00e1-lo a subir na carreira, mesmo estando mais interessada em Jerry do que na sua arte. Mas ele acaba se apaixonando por Lise que est\u00e1 noiva de Henri, por quem ela tem uma d\u00edvida de gratid\u00e3o por ter salvado sua fam\u00edlia e ela durante a guerra.",
+                "vote_average": 7.0,
+                "vote_count": 539
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Big Carnival",
+            "second_label": "Billy Wilder, Lesser Samuels, Walter Newman",
+            "category": "Writing (Story and Screenplay)",
+            "year": 1952,
+            "tmdb": {
+                "id": 25364,
+                "original_title": "Ace in the Hole",
+                "title": "A Montanha dos Sete Abutres",
+                "release_date": "1951-06-29",
+                "backdrop_path": "/4GvEem97VxMtuhhwOZ4RtGXP37T.jpg",
+                "poster_path": "/yPoShXDWrVcdpgpWD6rqyyRhVPb.jpg",
+                "overview": "Charles Tatum (Kirk Douglas), \u00e9 um rep\u00f3rter que aceita um emprego num pequeno jornal do Novo M\u00e9xico. O trabalho \u00e9 bastante mon\u00f3tono, at\u00e9 que ele encontra um homem preso numa mina. Ele vislumbra a possibilidade de, ao prolongar a perman\u00eancia do mineiro dentro dos escombros, a chance de se tornar famoso.",
+                "vote_average": 7.841,
+                "vote_count": 621
+            },
+            "winner": false
+        },
+        {
+            "first_label": "David and Bathsheba",
+            "second_label": "Philip Dunne",
+            "category": "Writing (Story and Screenplay)",
+            "year": 1952,
+            "tmdb": {
+                "id": 42567,
+                "original_title": "David and Bathsheba",
+                "title": "David e Betsab\u00e1",
+                "release_date": "1951-08-10",
+                "backdrop_path": "/7zpZMpIddthzGuopoI1eTJv9F3.jpg",
+                "poster_path": "/kDXrKLWJZ02f6hECLakvqFehmTB.jpg",
+                "overview": "Ap\u00f3s ver a linda Betsab\u00e1 se banhar, o rei David se apaixona e descobre que ela \u00e9 casada com Uriah, um destemido soldado. David manda Uriah para uma batalha perdida e, ao negligenciar seu reino e sua f\u00e9, provoca a ira de Deus.",
+                "vote_average": 5.9,
+                "vote_count": 56
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Go for Broke!",
+            "second_label": "Robert Pirosh",
+            "category": "Writing (Story and Screenplay)",
+            "year": 1952,
+            "tmdb": {
+                "id": 37214,
+                "original_title": "Go for Broke!",
+                "title": "Todos S\u00e3o Valentes",
+                "release_date": "1951-05-04",
+                "backdrop_path": "/z3YncSFgNTUfFm6cDOzHaS6wPMv.jpg",
+                "poster_path": "/1GPB0qO9GJ9HYDGXwPBX20jgInJ.jpg",
+                "overview": "Belo filme de guerra baseado em fatos reais, que foi indicado ao Oscar de melhor roteiro de 1952. Esta produ\u00e7\u00e3o magistralmente dirigida por Robert Parsh, retrata o sofrido cotidiano do 442\u00ba Batalh\u00e3o americano, que foi formado em 1943, por um decreto do presidente dos EUA, integrado por volunt\u00e1rios japoneses e americanos, que lutaram na Fran\u00e7a e na It\u00e1lia, durante a Segunda Guerra Mundial. Com efeitos especiais perfeitos, acompanharemos os combates de um pelot\u00e3o sob o comando de Ten Mike Grauson, que mostra todos os horrores da Segunda Grande Guerra, no meio do s\u00e9culo passado.",
+                "vote_average": 5.7,
+                "vote_count": 22
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Well",
+            "second_label": "Clarence Greene, Russell Rouse",
+            "category": "Writing (Story and Screenplay)",
+            "year": 1952,
+            "tmdb": {
+                "id": 29112,
+                "original_title": "The Well",
+                "title": "The Well",
+                "release_date": "1951-09-24",
+                "backdrop_path": "/fFoKUdSCINv0gfekSLnPJKDXRcO.jpg",
+                "poster_path": "/spCIIPdOgW5NIMA4evLFBmw1prB.jpg",
+                "overview": "In a racially mixed American town, a five-year-old black girl falls unnoticed into a hidden, forgotten well on her way to school. Having nothing better to go on, the police follow up a report that the child was seen with a white stranger, and rumors run wild. Before hapless, innocent Claude Packard is even found, popular hysteria has him tried and convicted. But is he guilty?",
+                "vote_average": 7.1,
+                "vote_count": 13
+            },
+            "winner": false
+        }
+    ]
+}

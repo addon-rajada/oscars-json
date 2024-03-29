@@ -1,0 +1,2054 @@
+{
+    "Actor": [
+        {
+            "first_label": "Marlon Brando",
+            "second_label": "On the Waterfront",
+            "category": "Actor",
+            "year": 1955,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Humphrey Bogart",
+            "second_label": "The Caine Mutiny",
+            "category": "Actor",
+            "year": 1955,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Bing Crosby",
+            "second_label": "The Country Girl",
+            "category": "Actor",
+            "year": 1955,
+            "tmdb": {
+                "id": 1110332,
+                "original_title": "The Bing Crosby Show",
+                "title": "The Bing Crosby Show",
+                "release_date": "1954-01-03",
+                "backdrop_path": null,
+                "poster_path": "/uPZfT2b9HGmsbEMM5DXSkJeTkSZ.jpg",
+                "overview": "Bing Crosby's first television special with Jack Benny, Sheree North dropping by to provide a few pointers. Bing sings five tunes, starting with the big production number \"Y'all Come!\" backed by The Cass County Boys and Jud Conlon's Rhythmaires.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "James Mason",
+            "second_label": "A Star Is Born",
+            "category": "Actor",
+            "year": 1955,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dan O'Herlihy",
+            "second_label": "Adventures of Robinson Crusoe",
+            "category": "Actor",
+            "year": 1955,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Edmond O'Brien",
+            "second_label": "The Barefoot Contessa",
+            "category": "Actor in a Supporting Role",
+            "year": 1955,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Lee J. Cobb",
+            "second_label": "On the Waterfront",
+            "category": "Actor in a Supporting Role",
+            "year": 1955,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Karl Malden",
+            "second_label": "On the Waterfront",
+            "category": "Actor in a Supporting Role",
+            "year": 1955,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rod Steiger",
+            "second_label": "On the Waterfront",
+            "category": "Actor in a Supporting Role",
+            "year": 1955,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tom Tully",
+            "second_label": "The Caine Mutiny",
+            "category": "Actor in a Supporting Role",
+            "year": 1955,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress": [
+        {
+            "first_label": "Grace Kelly",
+            "second_label": "The Country Girl",
+            "category": "Actress",
+            "year": 1955,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Dorothy Dandridge",
+            "second_label": "Carmen Jones",
+            "category": "Actress",
+            "year": 1955,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Judy Garland",
+            "second_label": "A Star Is Born",
+            "category": "Actress",
+            "year": 1955,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Audrey Hepburn",
+            "second_label": "Sabrina",
+            "category": "Actress",
+            "year": 1955,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jane Wyman",
+            "second_label": "Magnificent Obsession",
+            "category": "Actress",
+            "year": 1955,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Eva Marie Saint",
+            "second_label": "On the Waterfront",
+            "category": "Actress in a Supporting Role",
+            "year": 1955,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Nina Foch",
+            "second_label": "Executive Suite",
+            "category": "Actress in a Supporting Role",
+            "year": 1955,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Katy Jurado",
+            "second_label": "Broken Lance",
+            "category": "Actress in a Supporting Role",
+            "year": 1955,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jan Sterling",
+            "second_label": "The High and the Mighty",
+            "category": "Actress in a Supporting Role",
+            "year": 1955,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Claire Trevor",
+            "second_label": "The High and the Mighty",
+            "category": "Actress in a Supporting Role",
+            "year": 1955,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction (Black-and-White)": [
+        {
+            "first_label": "On the Waterfront",
+            "second_label": "Richard Day",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1955,
+            "tmdb": {
+                "id": 654,
+                "original_title": "On the Waterfront",
+                "title": "Sindicato de Ladr\u00f5es",
+                "release_date": "1954-06-22",
+                "backdrop_path": "/pxkQAIhC7LXN5s5B23lnvCMgva5.jpg",
+                "poster_path": "/kH8g3tJmIGLuJXxxdCYydjfX0gy.jpg",
+                "overview": "Terry Malloy sonha com as gl\u00f3rias do boxe, mas foi convencido pelo corrupto mafioso Johnny Friendly, para quem trabalha, a perder uma luta. Quando Terry presencia um assassinato cometido pelos capangas do chefe, ele se sente respons\u00e1vel pelo crime.",
+                "vote_average": 7.9,
+                "vote_count": 1475
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Country Girl",
+            "second_label": "Art Direction: Hal Pereira, Roland Anderson; Set Decoration: Sam Comer, Grace Gregory",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1955,
+            "tmdb": {
+                "id": 2438,
+                "original_title": "The Country Girl",
+                "title": "Amar \u00e9 Sofrer",
+                "release_date": "1954-12-15",
+                "backdrop_path": "/ssPh7tZwDtSurPf8rFPINIWkNvd.jpg",
+                "poster_path": "/7LdXybdZcTdZo7lkkrFQKf7byZf.jpg",
+                "overview": "Um diretor contrata um alco\u00f3latra e inicia um relacionamento tempestuoso com a esposa do ator, que ele acredita ser a causa de todos os problemas do homem.",
+                "vote_average": 6.9,
+                "vote_count": 76
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Executive Suite",
+            "second_label": "Art Direction: Cedric Gibbons, Edward Carfagno; Set Decoration: Edwin B. Willis, Emile Kuri",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1955,
+            "tmdb": {
+                "id": 43336,
+                "original_title": "Executive Suite",
+                "title": "Um Homem e Dez Destinos",
+                "release_date": "1954-04-30",
+                "backdrop_path": "/uDe7FgcFPhJJFcXUiRfLAGPSKh5.jpg",
+                "poster_path": "/qDjtq41mQUun5ZhsIALYDNfRNRQ.jpg",
+                "overview": "Avery Bullard (Raoul Freeman), o presidente da Tredway Corporation, uma conhecida f\u00e1brica de m\u00f3veis, morre repentinamente. Como ele n\u00e3o deixou claro quem seria o seu sucessor, o conselho executivo, formado por 7 pessoas, precisa se reunir rapidamente para encontrar um sucessor, pois como Avery faleceu na tarde de sexta-feira \u00e9 importante que na segunda o mercado encontre a Tredway com novo presidente, para n\u00e3o desvalorizar as a\u00e7\u00f5es da empresa. O prov\u00e1vel sucessor \u00e9 Loren Phineas Shaw (Fredric Marsh), um frio homem de neg\u00f3cios que s\u00f3 pensa no lucro dos acionistas, sem se preocupar com a qualidade. Para impedi-lo de chegar \u00e0 presid\u00eancia\u00e9 preciso encontrar logo algu\u00e9m com id\u00e9ias bem inovadoras, mas esta pessoa tem de ser uma das outras seis do conselho executivo, que se mostra dividido sobre qual o melhor caminho. Enquanto isso Shaw s\u00f3 precisa do seu voto e de mais tr\u00eas para se eleger.",
+                "vote_average": 7.0,
+                "vote_count": 48
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Le Plaisir",
+            "second_label": "Max Ophuls",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1955,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sabrina",
+            "second_label": "Art Direction: Hal Pereira, Walter Tyler; Set Decoration: Sam Comer, Ray Moyer",
+            "category": "Art Direction (Black-and-White)",
+            "year": 1955,
+            "tmdb": {
+                "id": 6620,
+                "original_title": "Sabrina",
+                "title": "Sabrina",
+                "release_date": "1954-09-10",
+                "backdrop_path": "/ftNimlo6fP4WKRMWnF1ghX4fPUy.jpg",
+                "poster_path": "/8vvgKw3DbEPNlJAdHe7xXzhb2gN.jpg",
+                "overview": "Sabrina \u00e9 a jovem filha do motorista da fam\u00edlia Larrabee, que foi apaixonado por David Larrabee a vida toda. David \u00e9 muito mimado e louco por mulheres, e ignorou a Sabrina durante anos. Sabrina vai para Paris por alguns anos e quando ela retorna \u00e9 uma mulher muito atraente e sofisticada, e David fica rapidamente atra\u00eddo por ela. Linus, o irm\u00e3o de David, v\u00ea isso e teme que o casamento iminente de Davi com uma mulher muito rica pode estar amea\u00e7ado. Se o casamento for cancelado um grande neg\u00f3cio corporativo com a fam\u00edlia da noiva tamb\u00e9m ser\u00e1 cancelado. Ent\u00e3o, Linus tenta manter Sabrina fora da vista de seu irm\u00e3o, e a melhor maneira de fazer isso \u00e9 ele mesmo cortejar Sabrina.",
+                "vote_average": 7.5,
+                "vote_count": 1171
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction (Color)": [
+        {
+            "first_label": "20,000 Leagues under the Sea",
+            "second_label": "Art Direction: John Meehan; Set Decoration: Emile Kuri",
+            "category": "Art Direction (Color)",
+            "year": 1955,
+            "tmdb": {
+                "id": 173,
+                "original_title": "20,000 Leagues Under the Sea",
+                "title": "20.000 L\u00e9guas Submarinas",
+                "release_date": "1954-12-23",
+                "backdrop_path": "/pIBZpX9H6U6Nk6gbyWTD4rFKEqq.jpg",
+                "poster_path": "/t6IkR2Ol5vVbMIJm9r2BJmhOkW1.jpg",
+                "overview": "Em 1866, o Professor Pierre M. Aronnax e seu assistente Conseil, que est\u00e3o em S\u00e3o Francisco para pesquisar relatos de um monstro marinho gigante atacando navios no Oceano Pac\u00edfico, s\u00e3o convidados a participar de uma expedi\u00e7\u00e3o para procurar tal criatura. Durante a busca, eles e o arpoador Ned Land s\u00e3o lan\u00e7ados ao mar durante um ataque, acabando por descobrir que o monstro \u00e9 na verdade um submarino pilotado pelo brilhante, mas assombrado, Capit\u00e3o Nemo.",
+                "vote_average": 7.0,
+                "vote_count": 821
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Brigadoon",
+            "second_label": "Art Direction: Cedric Gibbons, Preston Ames; Set Decoration: Edwin B. Willis, Keogh Gleason",
+            "category": "Art Direction (Color)",
+            "year": 1955,
+            "tmdb": {
+                "id": 18283,
+                "original_title": "Brigadoon",
+                "title": "A Lenda dos Beijos Perdidos",
+                "release_date": "1954-09-08",
+                "backdrop_path": "/eGzQPFy6VTR3r72mTOIOXoQYuHc.jpg",
+                "poster_path": "/va3DcpyZDnnWdRB0FTPKzObo3Uz.jpg",
+                "overview": "Dois americanos em uma viagem de ca\u00e7a pela Esc\u00f3cia se perdem. Acabam chegando numa pequena aldeia, que n\u00e3o est\u00e1 no mapa, chamada Brigadoon, na qual as pessoas abrigam um segredo misterioso, e se comportam como se ainda estivessem vivendo duzentos anos no passado.",
+                "vote_average": 6.5,
+                "vote_count": 135
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Desiree",
+            "second_label": "Art Direction: Lyle Wheeler, Leland Fuller; Set Decoration: Walter M. Scott, Paul S. Fox",
+            "category": "Art Direction (Color)",
+            "year": 1955,
+            "tmdb": {
+                "id": 43333,
+                "original_title": "D\u00e9sir\u00e9e",
+                "title": "D\u00e9sir\u00e9e: O Amor de Napole\u00e3o",
+                "release_date": "1954-11-16",
+                "backdrop_path": "/chQ1wU7ZDHrdtN9vjvrxlUXsDfk.jpg",
+                "poster_path": "/mNqzIprcsVRdlYsHNP7rHPFgUAK.jpg",
+                "overview": "Uma vis\u00e3o cronol\u00f3gica do reinado de Napole\u00e3o, onde \u00e9 mostrado o amor dele por D\u00e9sir\u00e9e, com quem ele quis casar quando ainda era um jovem general, tendo abandonado sua grande paix\u00e3o por causa da carreira. Napole\u00e3o e D\u00e9sir\u00e9e seguem caminhos diferentes, ele para se tornar Imperador da Fran\u00e7a e casar-se com Josephine, apesar de n\u00e3o am\u00e1-la. D\u00e9sir\u00e9e por sua vez se casa com Bernadotte, general franc\u00eas.",
+                "vote_average": 6.5,
+                "vote_count": 40
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Red Garters",
+            "second_label": "Art Direction: Hal Pereira, Roland Anderson; Set Decoration: Sam Comer, Ray Moyer",
+            "category": "Art Direction (Color)",
+            "year": 1955,
+            "tmdb": {
+                "id": 156566,
+                "original_title": "Red Garters",
+                "title": "Ligas Encarnadas",
+                "release_date": "1954-02-09",
+                "backdrop_path": "/dSsMzNxklFqSEwx60Q8458UeYgH.jpg",
+                "poster_path": "/zgsJb84W6FYVr3IwZfk54nmKwYd.jpg",
+                "overview": "Com o intuito de vingar a morte de seu irm\u00e3o Robin, Reb vai at\u00e9 uma pequena cidade na Calif\u00f3rnia. L\u00e1, ele conhece Calaveras Kate, dona de um saloon, e se envolve com a bela Susan. As novas rela\u00e7\u00f5es levam a um poss\u00edvel duelo com o prefeito da cidade, Jason Carberry, que \u00e9 pr\u00f3ximo das duas garotas.",
+                "vote_average": 5.0,
+                "vote_count": 9
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Star Is Born",
+            "second_label": "Art Direction: Malcolm Bert, Gene Allen, Irene Sharaff; Set Decoration: George James Hopkins",
+            "category": "Art Direction (Color)",
+            "year": 1955,
+            "tmdb": {
+                "id": 3111,
+                "original_title": "A Star Is Born",
+                "title": "Nasce uma Estrela",
+                "release_date": "1954-10-01",
+                "backdrop_path": "/AlvKqnxlkWWYE6ngRLOWfYY3QuI.jpg",
+                "poster_path": "/7Qw50rvebaqn4Eew3oOLOGNf0f2.jpg",
+                "overview": "Esther Blodgett (Judy Garland) \u00e9 uma sonhadora artista que deseja se tornar uma grande estrela do cinema americano. Seu sonho se torna realidade quando ela conhece o astro de Hollywood Norman Maine, e os dois se apaixonam. Depois de um tempo, eles se casam, e a carreira de Esther come\u00e7a realmente a decolar, e ela passa a ser chamada pelo nome art\u00edstico de Vicky Lester. S\u00f3 que enquanto sua fama aumenta, seu marido est\u00e1 cada vez mais decadente e afundado no \u00e1lcool, o que come\u00e7a a abalar a carreira da esposa.  Segunda vers\u00e3o da cl\u00e1ssica hist\u00f3ria e primeiro filme colorido do diretor George Cukor.",
+                "vote_average": 7.1,
+                "vote_count": 281
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography (Black-and-White)": [
+        {
+            "first_label": "On the Waterfront",
+            "second_label": "Boris Kaufman",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1955,
+            "tmdb": {
+                "id": 654,
+                "original_title": "On the Waterfront",
+                "title": "Sindicato de Ladr\u00f5es",
+                "release_date": "1954-06-22",
+                "backdrop_path": "/pxkQAIhC7LXN5s5B23lnvCMgva5.jpg",
+                "poster_path": "/kH8g3tJmIGLuJXxxdCYydjfX0gy.jpg",
+                "overview": "Terry Malloy sonha com as gl\u00f3rias do boxe, mas foi convencido pelo corrupto mafioso Johnny Friendly, para quem trabalha, a perder uma luta. Quando Terry presencia um assassinato cometido pelos capangas do chefe, ele se sente respons\u00e1vel pelo crime.",
+                "vote_average": 7.9,
+                "vote_count": 1475
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Country Girl",
+            "second_label": "John F. Warren",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1955,
+            "tmdb": {
+                "id": 2438,
+                "original_title": "The Country Girl",
+                "title": "Amar \u00e9 Sofrer",
+                "release_date": "1954-12-15",
+                "backdrop_path": "/ssPh7tZwDtSurPf8rFPINIWkNvd.jpg",
+                "poster_path": "/7LdXybdZcTdZo7lkkrFQKf7byZf.jpg",
+                "overview": "Um diretor contrata um alco\u00f3latra e inicia um relacionamento tempestuoso com a esposa do ator, que ele acredita ser a causa de todos os problemas do homem.",
+                "vote_average": 6.9,
+                "vote_count": 76
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Executive Suite",
+            "second_label": "George Folsey",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1955,
+            "tmdb": {
+                "id": 43336,
+                "original_title": "Executive Suite",
+                "title": "Um Homem e Dez Destinos",
+                "release_date": "1954-04-30",
+                "backdrop_path": "/uDe7FgcFPhJJFcXUiRfLAGPSKh5.jpg",
+                "poster_path": "/qDjtq41mQUun5ZhsIALYDNfRNRQ.jpg",
+                "overview": "Avery Bullard (Raoul Freeman), o presidente da Tredway Corporation, uma conhecida f\u00e1brica de m\u00f3veis, morre repentinamente. Como ele n\u00e3o deixou claro quem seria o seu sucessor, o conselho executivo, formado por 7 pessoas, precisa se reunir rapidamente para encontrar um sucessor, pois como Avery faleceu na tarde de sexta-feira \u00e9 importante que na segunda o mercado encontre a Tredway com novo presidente, para n\u00e3o desvalorizar as a\u00e7\u00f5es da empresa. O prov\u00e1vel sucessor \u00e9 Loren Phineas Shaw (Fredric Marsh), um frio homem de neg\u00f3cios que s\u00f3 pensa no lucro dos acionistas, sem se preocupar com a qualidade. Para impedi-lo de chegar \u00e0 presid\u00eancia\u00e9 preciso encontrar logo algu\u00e9m com id\u00e9ias bem inovadoras, mas esta pessoa tem de ser uma das outras seis do conselho executivo, que se mostra dividido sobre qual o melhor caminho. Enquanto isso Shaw s\u00f3 precisa do seu voto e de mais tr\u00eas para se eleger.",
+                "vote_average": 7.0,
+                "vote_count": 48
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rogue Cop",
+            "second_label": "John Seitz",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1955,
+            "tmdb": {
+                "id": 30036,
+                "original_title": "Rogue Cop",
+                "title": "Pecado e Reden\u00e7\u00e3o",
+                "release_date": "1954-09-17",
+                "backdrop_path": "/jhGkvf0HERYiJ0X4BaM6ADM7LMH.jpg",
+                "poster_path": "/kCYHFg6ke5lOb3buIZ38dj9VkF1.jpg",
+                "overview": "A police detective on the take tries to catch his brother's killer.",
+                "vote_average": 5.3,
+                "vote_count": 12
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sabrina",
+            "second_label": "Charles Lang, Jr.",
+            "category": "Cinematography (Black-and-White)",
+            "year": 1955,
+            "tmdb": {
+                "id": 6620,
+                "original_title": "Sabrina",
+                "title": "Sabrina",
+                "release_date": "1954-09-10",
+                "backdrop_path": "/ftNimlo6fP4WKRMWnF1ghX4fPUy.jpg",
+                "poster_path": "/8vvgKw3DbEPNlJAdHe7xXzhb2gN.jpg",
+                "overview": "Sabrina \u00e9 a jovem filha do motorista da fam\u00edlia Larrabee, que foi apaixonado por David Larrabee a vida toda. David \u00e9 muito mimado e louco por mulheres, e ignorou a Sabrina durante anos. Sabrina vai para Paris por alguns anos e quando ela retorna \u00e9 uma mulher muito atraente e sofisticada, e David fica rapidamente atra\u00eddo por ela. Linus, o irm\u00e3o de David, v\u00ea isso e teme que o casamento iminente de Davi com uma mulher muito rica pode estar amea\u00e7ado. Se o casamento for cancelado um grande neg\u00f3cio corporativo com a fam\u00edlia da noiva tamb\u00e9m ser\u00e1 cancelado. Ent\u00e3o, Linus tenta manter Sabrina fora da vista de seu irm\u00e3o, e a melhor maneira de fazer isso \u00e9 ele mesmo cortejar Sabrina.",
+                "vote_average": 7.5,
+                "vote_count": 1171
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography (Color)": [
+        {
+            "first_label": "Three Coins in the Fountain",
+            "second_label": "Milton Krasner",
+            "category": "Cinematography (Color)",
+            "year": 1955,
+            "tmdb": {
+                "id": 41503,
+                "original_title": "Three Coins in the Fountain",
+                "title": "A Fonte dos Desejos",
+                "release_date": "1954-05-01",
+                "backdrop_path": "/91jVA9ITFrX0Mr6xHhvI1EAz9gC.jpg",
+                "poster_path": "/wYJXPZvj8xJaICMahtbj6gzWh8j.jpg",
+                "overview": "Garotas americanas sonham em encontrar romance em Roma, mas isto n\u00e3o \u00e9 para secret\u00e1rias, diz Anita. Mas Maria logo conhece o pr\u00edncipe Dino de Cessi em uma festa na casa de seu chefe, que a convida a voar para Veneza em seu avi\u00e3o particular. Frances, que est\u00e1 em Roma h\u00e1 15 anos como secret\u00e1ria de um escritor americano de sucesso que fala muito como George Bernard Shaw e \u00e9 t\u00e3o ilus\u00f3ria quanto o professor Henry Higgins em \"My Fair Lady\", diz a ela para dizer \"n\u00e3o\" e depois decide que juntos eles podem lidar com o homem apelidado de pr\u00edncipe predador. Moedas jogadas na Fonte de Trevi podem realmente funcionar como m\u00e1gica.",
+                "vote_average": 5.8,
+                "vote_count": 43
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Egyptian",
+            "second_label": "Leon Shamroy",
+            "category": "Cinematography (Color)",
+            "year": 1955,
+            "tmdb": {
+                "id": 24973,
+                "original_title": "The Egyptian",
+                "title": "O Eg\u00edpcio",
+                "release_date": "1954-08-25",
+                "backdrop_path": "/tpLJQaasSewlEG8lqPHw81mvrIo.jpg",
+                "poster_path": "/bbUENOF8i5yNjMK3rKZTAe8VM9V.jpg",
+                "overview": "No Egito antigo, Sinhue, um \u00f3rf\u00e3o pobre, se torna um m\u00e9dico brilhante e \u00e9 indicado para servir o novo fara\u00f3. Conforme Sinhue descobre as intrigas e segredos da corte da turbulenta 18a. dinastia, ele tem as respostas que procurava h\u00e1 muitos anos.",
+                "vote_average": 6.3,
+                "vote_count": 78
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rear Window",
+            "second_label": "Robert Burks",
+            "category": "Cinematography (Color)",
+            "year": 1955,
+            "tmdb": {
+                "id": 567,
+                "original_title": "Rear Window",
+                "title": "Janela Indiscreta",
+                "release_date": "1954-08-01",
+                "backdrop_path": "/zGs5tZOlvc9cprdcU6kDOVNpujf.jpg",
+                "poster_path": "/izzCtF4J2ti4uW65w3UDxd7fneI.jpg",
+                "overview": "Em Greenwich Village, Nova York, L.B. Jeffries, um fot\u00f3grafo profissional, est\u00e1 de molho em seu apartamento por ter quebrado a perna enquanto trabalhava. Como n\u00e3o tem muito o que fazer, fica bisbilhotando a vida dos seus vizinhos com um bin\u00f3culo. Por\u00e9m v\u00ea algumas coisas que o fazem suspeitar que um assassinato foi cometido.",
+                "vote_average": 8.352,
+                "vote_count": 6187
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Seven Brides for Seven Brothers",
+            "second_label": "George Folsey",
+            "category": "Cinematography (Color)",
+            "year": 1955,
+            "tmdb": {
+                "id": 16563,
+                "original_title": "Seven Brides for Seven Brothers",
+                "title": "Sete Noivas Para Sete Irm\u00e3os",
+                "release_date": "1954-07-22",
+                "backdrop_path": "/cqzTJvj82vsh4JPYxCw6MSvdoFC.jpg",
+                "poster_path": "/eExiNiIMAQ6ArzudNG3G3ehPTc.jpg",
+                "overview": "Depois que Adam (Howard Keel), o irm\u00e3o mais velho de uma fam\u00edlia de caipiras, volta para sua fazenda com uma noiva, seus outros seis irm\u00e3os solteir\u00f5es decidem ir para a cidade e arrumar seis noivas para morarem com eles na fazenda tamb\u00e9m.",
+                "vote_average": 7.2,
+                "vote_count": 513
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Silver Chalice",
+            "second_label": "William V. Skall",
+            "category": "Cinematography (Color)",
+            "year": 1955,
+            "tmdb": {
+                "id": 65212,
+                "original_title": "The Silver Chalice",
+                "title": "O C\u00e1lice Sagrado",
+                "release_date": "1954-12-20",
+                "backdrop_path": "/i4fGmfpUG6DrUn8PkKTTiHaguwl.jpg",
+                "poster_path": "/dwcpH7EX5glxxAvRmuiCVtBNBDN.jpg",
+                "overview": "Um artes\u00e3o grego \u00e9 contratado para fundir a ta\u00e7a de Cristo em prata e esculpir em torno de sua borda os rostos dos disc\u00edpulos e de Jesus. Ele viaja para Jerusal\u00e9m e eventualmente para Roma para completar a tarefa. Enquanto isso, um intruso nefasto tenta convencer as multid\u00f5es de que ele \u00e9 o novo Messias, usando nada mais do que truques baratos de sal\u00e3o.",
+                "vote_average": 4.5,
+                "vote_count": 31
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design (Black-and-White)": [
+        {
+            "first_label": "Sabrina",
+            "second_label": "Edith Head",
+            "category": "Costume Design (Black-and-White)",
+            "year": 1955,
+            "tmdb": {
+                "id": 6620,
+                "original_title": "Sabrina",
+                "title": "Sabrina",
+                "release_date": "1954-09-10",
+                "backdrop_path": "/ftNimlo6fP4WKRMWnF1ghX4fPUy.jpg",
+                "poster_path": "/8vvgKw3DbEPNlJAdHe7xXzhb2gN.jpg",
+                "overview": "Sabrina \u00e9 a jovem filha do motorista da fam\u00edlia Larrabee, que foi apaixonado por David Larrabee a vida toda. David \u00e9 muito mimado e louco por mulheres, e ignorou a Sabrina durante anos. Sabrina vai para Paris por alguns anos e quando ela retorna \u00e9 uma mulher muito atraente e sofisticada, e David fica rapidamente atra\u00eddo por ela. Linus, o irm\u00e3o de David, v\u00ea isso e teme que o casamento iminente de Davi com uma mulher muito rica pode estar amea\u00e7ado. Se o casamento for cancelado um grande neg\u00f3cio corporativo com a fam\u00edlia da noiva tamb\u00e9m ser\u00e1 cancelado. Ent\u00e3o, Linus tenta manter Sabrina fora da vista de seu irm\u00e3o, e a melhor maneira de fazer isso \u00e9 ele mesmo cortejar Sabrina.",
+                "vote_average": 7.5,
+                "vote_count": 1171
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Earrings of Madame de...",
+            "second_label": "Georges Annenkov, Rosine Delamare",
+            "category": "Costume Design (Black-and-White)",
+            "year": 1955,
+            "tmdb": {
+                "id": 27030,
+                "original_title": "Madame de\u2026",
+                "title": "Desejos Proibidos",
+                "release_date": "1953-09-16",
+                "backdrop_path": "/msQMXYEBHQ7zPVu0TPEm7wUSGHQ.jpg",
+                "poster_path": "/hwjrojY8NEkWNvS9AIQKSlhGNrU.jpg",
+                "overview": "In France of the late 19th century, the wife of a wealthy general, the Countess Louise, sells the earrings her husband gave her on their wedding day to pay off debts; she claims to have lost them. Her husband quickly learns of the deceit, which is the beginning of many tragic misunderstandings, all involving the earrings, the general, the countess, & her new lover, the Italian Baron Donati.",
+                "vote_average": 7.6,
+                "vote_count": 206
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Executive Suite",
+            "second_label": "Helen Rose",
+            "category": "Costume Design (Black-and-White)",
+            "year": 1955,
+            "tmdb": {
+                "id": 43336,
+                "original_title": "Executive Suite",
+                "title": "Um Homem e Dez Destinos",
+                "release_date": "1954-04-30",
+                "backdrop_path": "/uDe7FgcFPhJJFcXUiRfLAGPSKh5.jpg",
+                "poster_path": "/qDjtq41mQUun5ZhsIALYDNfRNRQ.jpg",
+                "overview": "Avery Bullard (Raoul Freeman), o presidente da Tredway Corporation, uma conhecida f\u00e1brica de m\u00f3veis, morre repentinamente. Como ele n\u00e3o deixou claro quem seria o seu sucessor, o conselho executivo, formado por 7 pessoas, precisa se reunir rapidamente para encontrar um sucessor, pois como Avery faleceu na tarde de sexta-feira \u00e9 importante que na segunda o mercado encontre a Tredway com novo presidente, para n\u00e3o desvalorizar as a\u00e7\u00f5es da empresa. O prov\u00e1vel sucessor \u00e9 Loren Phineas Shaw (Fredric Marsh), um frio homem de neg\u00f3cios que s\u00f3 pensa no lucro dos acionistas, sem se preocupar com a qualidade. Para impedi-lo de chegar \u00e0 presid\u00eancia\u00e9 preciso encontrar logo algu\u00e9m com id\u00e9ias bem inovadoras, mas esta pessoa tem de ser uma das outras seis do conselho executivo, que se mostra dividido sobre qual o melhor caminho. Enquanto isso Shaw s\u00f3 precisa do seu voto e de mais tr\u00eas para se eleger.",
+                "vote_average": 7.0,
+                "vote_count": 48
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Indiscretion of an American Wife",
+            "second_label": "Christian Dior",
+            "category": "Costume Design (Black-and-White)",
+            "year": 1955,
+            "tmdb": {
+                "id": 74585,
+                "original_title": "Stazione Termini",
+                "title": "Indiscretion of an American Wife",
+                "release_date": "1953-04-02",
+                "backdrop_path": "/pFIKYogV7g3kjGGiS8TQRJfwDeM.jpg",
+                "poster_path": "/wvv892G09s9o0N1Mg5QkKZKBRNR.jpg",
+                "overview": "While on vacation in Rome, married American Mary Forbes becomes entangled in an affair with an Italian man, Giovanni Doria. As she prepares to leave Italy, Giovanni confesses his love for her; he doesn't want her to go. Together they wander the railroad station where Mary is to take the train to Paris, then ultimately reunite with her husband and daughter in Philadelphia. Will she throw away her old life for this passionate new romance?",
+                "vote_average": 5.9,
+                "vote_count": 44
+            },
+            "winner": false
+        },
+        {
+            "first_label": "It Should Happen to You",
+            "second_label": "Jean Louis",
+            "category": "Costume Design (Black-and-White)",
+            "year": 1955,
+            "tmdb": {
+                "id": 20127,
+                "original_title": "It Should Happen to You",
+                "title": "Dem\u00f4nio de Mulher",
+                "release_date": "1954-01-15",
+                "backdrop_path": "/5tEI9qnusNGIrgrxuGtc8fH34hT.jpg",
+                "poster_path": "/pX8geXN3vjvkgi6zNgtxheFpPXg.jpg",
+                "overview": "Gladys Glover has just lost her modeling job when she meets filmmaker Pete Sheppard shooting a documentary in Central Park. For Pete it's love at first sight, but Gladys has her mind on other things, making a name for herself. Through a fluke of advertising she winds up with her name plastered over 10 billboards throughout city.",
+                "vote_average": 6.9,
+                "vote_count": 52
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design (Color)": [
+        {
+            "first_label": "Gate of Hell",
+            "second_label": "Sanzo Wada",
+            "category": "Costume Design (Color)",
+            "year": 1955,
+            "tmdb": {
+                "id": 43349,
+                "original_title": "\u5730\u7344\u9580",
+                "title": "Portal do Inferno",
+                "release_date": "1953-10-30",
+                "backdrop_path": "/kM4CZjzaanlg0wCvfmpQKMxNzXd.jpg",
+                "poster_path": "/6ceVYhhcIgEauUKdrYoIUWyAqfy.jpg",
+                "overview": "Em 1159, durante uma tentativa de golpe contra a realeza, arma-se um plano para que a fam\u00edlia real possa fugir. Uma senhora da corte aproveita a situa\u00e7\u00e3o e se faz passar de esposa de um Lorde para sair da cidade. Ela conta com a ajuda de um samurai, que a escolta com seguran\u00e7a. Mais tarde, o samurai pede ao Lorde como recompensa a m\u00e3o desta mulher em casamento. Mas ele descobre que ela j\u00e1 \u00e9 casada. O samurai n\u00e3o ir\u00e1 desistir e chegar\u00e1 a desafiar o marido de sua amada para que a deixe, o que ir\u00e1 gerar tr\u00e1gicas consequ\u00eancias.",
+                "vote_average": 7.2,
+                "vote_count": 75
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Brigadoon",
+            "second_label": "Irene Sharaff",
+            "category": "Costume Design (Color)",
+            "year": 1955,
+            "tmdb": {
+                "id": 18283,
+                "original_title": "Brigadoon",
+                "title": "A Lenda dos Beijos Perdidos",
+                "release_date": "1954-09-08",
+                "backdrop_path": "/eGzQPFy6VTR3r72mTOIOXoQYuHc.jpg",
+                "poster_path": "/va3DcpyZDnnWdRB0FTPKzObo3Uz.jpg",
+                "overview": "Dois americanos em uma viagem de ca\u00e7a pela Esc\u00f3cia se perdem. Acabam chegando numa pequena aldeia, que n\u00e3o est\u00e1 no mapa, chamada Brigadoon, na qual as pessoas abrigam um segredo misterioso, e se comportam como se ainda estivessem vivendo duzentos anos no passado.",
+                "vote_average": 6.5,
+                "vote_count": 135
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Desiree",
+            "second_label": "Desiree",
+            "category": "Costume Design (Color)",
+            "year": 1955,
+            "tmdb": {
+                "id": 43333,
+                "original_title": "D\u00e9sir\u00e9e",
+                "title": "D\u00e9sir\u00e9e: O Amor de Napole\u00e3o",
+                "release_date": "1954-11-16",
+                "backdrop_path": "/chQ1wU7ZDHrdtN9vjvrxlUXsDfk.jpg",
+                "poster_path": "/mNqzIprcsVRdlYsHNP7rHPFgUAK.jpg",
+                "overview": "Uma vis\u00e3o cronol\u00f3gica do reinado de Napole\u00e3o, onde \u00e9 mostrado o amor dele por D\u00e9sir\u00e9e, com quem ele quis casar quando ainda era um jovem general, tendo abandonado sua grande paix\u00e3o por causa da carreira. Napole\u00e3o e D\u00e9sir\u00e9e seguem caminhos diferentes, ele para se tornar Imperador da Fran\u00e7a e casar-se com Josephine, apesar de n\u00e3o am\u00e1-la. D\u00e9sir\u00e9e por sua vez se casa com Bernadotte, general franc\u00eas.",
+                "vote_average": 6.5,
+                "vote_count": 40
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Star Is Born",
+            "second_label": "Jean Louis, Mary Ann Nyberg, Irene Sharaff",
+            "category": "Costume Design (Color)",
+            "year": 1955,
+            "tmdb": {
+                "id": 3111,
+                "original_title": "A Star Is Born",
+                "title": "Nasce uma Estrela",
+                "release_date": "1954-10-01",
+                "backdrop_path": "/AlvKqnxlkWWYE6ngRLOWfYY3QuI.jpg",
+                "poster_path": "/7Qw50rvebaqn4Eew3oOLOGNf0f2.jpg",
+                "overview": "Esther Blodgett (Judy Garland) \u00e9 uma sonhadora artista que deseja se tornar uma grande estrela do cinema americano. Seu sonho se torna realidade quando ela conhece o astro de Hollywood Norman Maine, e os dois se apaixonam. Depois de um tempo, eles se casam, e a carreira de Esther come\u00e7a realmente a decolar, e ela passa a ser chamada pelo nome art\u00edstico de Vicky Lester. S\u00f3 que enquanto sua fama aumenta, seu marido est\u00e1 cada vez mais decadente e afundado no \u00e1lcool, o que come\u00e7a a abalar a carreira da esposa.  Segunda vers\u00e3o da cl\u00e1ssica hist\u00f3ria e primeiro filme colorido do diretor George Cukor.",
+                "vote_average": 7.1,
+                "vote_count": 281
+            },
+            "winner": false
+        },
+        {
+            "first_label": "There's No Business Like Show Business",
+            "second_label": "Charles LeMaire, Travilla, Miles White",
+            "category": "Costume Design (Color)",
+            "year": 1955,
+            "tmdb": {
+                "id": 21468,
+                "original_title": "There's No Business Like Show Business",
+                "title": "O Mundo da Fantasia",
+                "release_date": "1954-12-16",
+                "backdrop_path": "/apvOK2WdTGvvp3KGaaiS5YPFnE.jpg",
+                "poster_path": "/iUIJwIDzFfpV7vHykpmJ5IMcF2k.jpg",
+                "overview": "A saga da fam\u00edlia Donahue, que sempre se dedicou ao mundo dos espet\u00e1culos. A filha deseja ser uma grande estrela, um dos filhos decidiu ser padre, mas o outro, um dan\u00e7arino, se apaixona por uma jovem que sonha ardentemente em ser cantora e n\u00e3o est\u00e1 disposta a perder nenhuma oportunidade que possa ajudar seu grande objetivo.",
+                "vote_average": 5.9,
+                "vote_count": 90
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "On the Waterfront",
+            "second_label": "Elia Kazan",
+            "category": "Directing",
+            "year": 1955,
+            "tmdb": {
+                "id": 654,
+                "original_title": "On the Waterfront",
+                "title": "Sindicato de Ladr\u00f5es",
+                "release_date": "1954-06-22",
+                "backdrop_path": "/pxkQAIhC7LXN5s5B23lnvCMgva5.jpg",
+                "poster_path": "/kH8g3tJmIGLuJXxxdCYydjfX0gy.jpg",
+                "overview": "Terry Malloy sonha com as gl\u00f3rias do boxe, mas foi convencido pelo corrupto mafioso Johnny Friendly, para quem trabalha, a perder uma luta. Quando Terry presencia um assassinato cometido pelos capangas do chefe, ele se sente respons\u00e1vel pelo crime.",
+                "vote_average": 7.9,
+                "vote_count": 1475
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Country Girl",
+            "second_label": "George Seaton",
+            "category": "Directing",
+            "year": 1955,
+            "tmdb": {
+                "id": 2438,
+                "original_title": "The Country Girl",
+                "title": "Amar \u00e9 Sofrer",
+                "release_date": "1954-12-15",
+                "backdrop_path": "/ssPh7tZwDtSurPf8rFPINIWkNvd.jpg",
+                "poster_path": "/7LdXybdZcTdZo7lkkrFQKf7byZf.jpg",
+                "overview": "Um diretor contrata um alco\u00f3latra e inicia um relacionamento tempestuoso com a esposa do ator, que ele acredita ser a causa de todos os problemas do homem.",
+                "vote_average": 6.9,
+                "vote_count": 76
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The High and the Mighty",
+            "second_label": "William Wellman",
+            "category": "Directing",
+            "year": 1955,
+            "tmdb": {
+                "id": 17761,
+                "original_title": "The High and the Mighty",
+                "title": "Um Fio de Esperan\u00e7a",
+                "release_date": "1954-07-03",
+                "backdrop_path": "/xgzMiezZQ3NEVXxlb2nlBTPKYg4.jpg",
+                "poster_path": "/ypsUUWZqVXY2vGdJYdvUyBHhuGI.jpg",
+                "overview": "Quando um avi\u00e3o comercial passa por problemas de motor durante um voo Transpac\u00edfico e o piloto perde o controle, \u00e9 o copiloto veterano mas decadente Dan Roman (John Wayne) que consegue trazer o avi\u00e3o em seguran\u00e7a.  Um problema atr\u00e1s do outro acontece neste voo Transpac\u00edfico. Voc\u00ea tem o piloto que perde o controle! O copiloto decadente. O engenheiro de voo inseguro. O jovem segundo oficial atrevido. E uma lotada cabine de passageiros com toda a gama de problemas e personalidades poss\u00edvel. Aqui voc\u00ea tem o Duke em um papel que ele n\u00e3o queria, e um filme com o t\u00edtulo da can\u00e7\u00e3o que se tornou tema de Duke. O que mais poderia qualquer f\u00e3 de John Wayne querer? Est\u00e1 tudo aqui, e mais algumas coisas.",
+                "vote_average": 5.9,
+                "vote_count": 65
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rear Window",
+            "second_label": "Alfred Hitchcock",
+            "category": "Directing",
+            "year": 1955,
+            "tmdb": {
+                "id": 567,
+                "original_title": "Rear Window",
+                "title": "Janela Indiscreta",
+                "release_date": "1954-08-01",
+                "backdrop_path": "/zGs5tZOlvc9cprdcU6kDOVNpujf.jpg",
+                "poster_path": "/izzCtF4J2ti4uW65w3UDxd7fneI.jpg",
+                "overview": "Em Greenwich Village, Nova York, L.B. Jeffries, um fot\u00f3grafo profissional, est\u00e1 de molho em seu apartamento por ter quebrado a perna enquanto trabalhava. Como n\u00e3o tem muito o que fazer, fica bisbilhotando a vida dos seus vizinhos com um bin\u00f3culo. Por\u00e9m v\u00ea algumas coisas que o fazem suspeitar que um assassinato foi cometido.",
+                "vote_average": 8.352,
+                "vote_count": 6187
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sabrina",
+            "second_label": "Billy Wilder",
+            "category": "Directing",
+            "year": 1955,
+            "tmdb": {
+                "id": 6620,
+                "original_title": "Sabrina",
+                "title": "Sabrina",
+                "release_date": "1954-09-10",
+                "backdrop_path": "/ftNimlo6fP4WKRMWnF1ghX4fPUy.jpg",
+                "poster_path": "/8vvgKw3DbEPNlJAdHe7xXzhb2gN.jpg",
+                "overview": "Sabrina \u00e9 a jovem filha do motorista da fam\u00edlia Larrabee, que foi apaixonado por David Larrabee a vida toda. David \u00e9 muito mimado e louco por mulheres, e ignorou a Sabrina durante anos. Sabrina vai para Paris por alguns anos e quando ela retorna \u00e9 uma mulher muito atraente e sofisticada, e David fica rapidamente atra\u00eddo por ela. Linus, o irm\u00e3o de David, v\u00ea isso e teme que o casamento iminente de Davi com uma mulher muito rica pode estar amea\u00e7ado. Se o casamento for cancelado um grande neg\u00f3cio corporativo com a fam\u00edlia da noiva tamb\u00e9m ser\u00e1 cancelado. Ent\u00e3o, Linus tenta manter Sabrina fora da vista de seu irm\u00e3o, e a melhor maneira de fazer isso \u00e9 ele mesmo cortejar Sabrina.",
+                "vote_average": 7.5,
+                "vote_count": 1171
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "The Vanishing Prairie",
+            "second_label": "Walt Disney, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1955,
+            "tmdb": {
+                "id": 114499,
+                "original_title": "The Vanishing Prairie",
+                "title": "A Plan\u00edcie Imensa",
+                "release_date": "1954-08-16",
+                "backdrop_path": "/3dE86vQ88WPDM0Mp7Vf3Z5E2WtC.jpg",
+                "poster_path": "/xuRZqU1N5mCrF9O0LwT2Ca8vo8O.jpg",
+                "overview": "Segundo filme de longa-metragem da s\u00e9rie \"True Life Adventures\", concentra-se na por\u00e7\u00e3o dos Estados Unidos cercada pelas Montanhas Rochosas e pelo rio Mississippi. Ap\u00f3s uma breve apresenta\u00e7\u00e3o de animais j\u00e1 extintos, o filme apresenta diversas esp\u00e9cies em vias de extin\u00e7\u00e3o. Vencedor do Oscar de Melhor Document\u00e1rio Longa-Metragem.",
+                "vote_average": 7.2,
+                "vote_count": 28
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Stratford Adventure",
+            "second_label": "Guy Glover, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1955,
+            "tmdb": {
+                "id": 149261,
+                "original_title": "The Stratford Adventure",
+                "title": "The Stratford Adventure",
+                "release_date": "1954-08-02",
+                "backdrop_path": null,
+                "poster_path": "/uyriM0dwuygABPlF6R2pdlAvlTa.jpg",
+                "overview": "This short film depicts how a small Canadian city, bearing the name of Stratford and by a river Avon, created its own renowned Shakespearean theatre. The film tells how the idea grew, how a famous British director, international stars and Canadian talent were recruited, and how the Stratford Shakespearean Festival finally became a triumphant reality.",
+                "vote_average": 6.0,
+                "vote_count": 3
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "Thursday's Children",
+            "second_label": "World Wide Pictures and Morse Films",
+            "category": "Documentary (Short Subject)",
+            "year": 1955,
+            "tmdb": {
+                "id": 243023,
+                "original_title": "Thursday's Children",
+                "title": "Thursday's Children",
+                "release_date": "1954-05-01",
+                "backdrop_path": null,
+                "poster_path": "/3c74Bn54lpp7Tiv5gZPBQDpg8pe.jpg",
+                "overview": "Won the Academy Award for the Best Documentary Short of 1954. The subject deals with the children at The Royal School for the Deaf in Margate, Kent. The hearing-handicapped children are shown painstakingly learning what words are through exercises and games, practicing lip-reading and finally speech. Richard Burton's calm and sometimes-poetic narration adds to the heartwarming cheerfulness and courage of the children.",
+                "vote_average": 6.6,
+                "vote_count": 10
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Jet Carrier",
+            "second_label": "Otto Lang, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1955,
+            "tmdb": {
+                "id": 243017,
+                "original_title": "Jet Carrier",
+                "title": "Jet Carrier",
+                "release_date": "1954-08-01",
+                "backdrop_path": null,
+                "poster_path": "/wDIEc9RxqbDJWJFwnACwSFMmoWK.jpg",
+                "overview": "Jet Carrier is a 1954 American short documentary film produced by Otto Lang as a CinemaScope Special. It was nominated for two Academy Awards - one for Best Documentary Short, and the other for Best Two-Reel Short. It was filmed aboard the aircraft carrier USS Yorktown.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rembrandt: A Self-Portrait",
+            "second_label": "Morrie Roizman, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1955,
+            "tmdb": {
+                "id": 243024,
+                "original_title": "Rembrandt: A Self-Portrait",
+                "title": "Rembrandt: A Self-Portrait",
+                "release_date": "1954-01-01",
+                "backdrop_path": null,
+                "poster_path": "/z6msdQNotDhZgz1qss7PlN6m63P.jpg",
+                "overview": "Paintings and etchings of Rembrandt are used in revealing his life and career. Describes Rembrandt's early success as a fashionable portrait painter in Amsterdam and explains how his uncompromising devotion to realism cost him his reputation. Discusses the many personal disappointments of Rembrandt's later years, including failure of his contemporaries to acclaim his greatest masterpieces.",
+                "vote_average": 5.8,
+                "vote_count": 4
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "On the Waterfront",
+            "second_label": "Gene Milford",
+            "category": "Film Editing",
+            "year": 1955,
+            "tmdb": {
+                "id": 654,
+                "original_title": "On the Waterfront",
+                "title": "Sindicato de Ladr\u00f5es",
+                "release_date": "1954-06-22",
+                "backdrop_path": "/pxkQAIhC7LXN5s5B23lnvCMgva5.jpg",
+                "poster_path": "/kH8g3tJmIGLuJXxxdCYydjfX0gy.jpg",
+                "overview": "Terry Malloy sonha com as gl\u00f3rias do boxe, mas foi convencido pelo corrupto mafioso Johnny Friendly, para quem trabalha, a perder uma luta. Quando Terry presencia um assassinato cometido pelos capangas do chefe, ele se sente respons\u00e1vel pelo crime.",
+                "vote_average": 7.9,
+                "vote_count": 1475
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Caine Mutiny",
+            "second_label": "William A. Lyon, Henry Batista",
+            "category": "Film Editing",
+            "year": 1955,
+            "tmdb": {
+                "id": 10178,
+                "original_title": "The Caine Mutiny",
+                "title": "A Nave da Revolta",
+                "release_date": "1954-06-24",
+                "backdrop_path": "/xSN7sVwIC6ExQZVMIUMjm4Tl2TN.jpg",
+                "poster_path": "/vuO4Z3wOWVlhq35MS9asZeT9rVp.jpg",
+                "overview": "Durante a 2\u00aa Guerra Mundial Willie Keith (Robert Francis), um jovem oficial, se incorpora \u00e0 tripula\u00e7\u00e3o do Caine, um navio de menor porte que funciona como ca\u00e7a-minas. O imediato Steve Maryk (Van Johnson) e o tenente Tom Keefer (Fred MacMurray) tamb\u00e9m fazem parte do staff. Logo depois da chegada de Willie, o capit\u00e3o DeVriess (Tom Tully) \u00e9 substitu\u00eddo pelo capit\u00e3o Philip Francis Queeg (Humphrey Bogart), que logo imp\u00f5e sua autoridade e sua neurose acerca de limpeza, pois \u00e9 de seu intento comandar um navio imaculado, onde at\u00e9 uma camisa fora de cal\u00e7a \u00e9 motivo de s\u00e9ria advert\u00eancia. Esta neurose faz com que ele se distraia e navegue em c\u00edrculos, al\u00e9m de cortar seu pr\u00f3prio cabo de reboque. Incidentes adicionais indicam que Queeg est\u00e1 sofrendo de stress. Maryk acha estranho o comportamento do capit\u00e3o e Keefer insidiosamente planta a semente, dizendo que Queeg est\u00e1 pr\u00f3ximo de um colapso nervoso. e 10.",
+                "vote_average": 7.1,
+                "vote_count": 309
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The High and the Mighty",
+            "second_label": "Ralph Dawson",
+            "category": "Film Editing",
+            "year": 1955,
+            "tmdb": {
+                "id": 17761,
+                "original_title": "The High and the Mighty",
+                "title": "Um Fio de Esperan\u00e7a",
+                "release_date": "1954-07-03",
+                "backdrop_path": "/xgzMiezZQ3NEVXxlb2nlBTPKYg4.jpg",
+                "poster_path": "/ypsUUWZqVXY2vGdJYdvUyBHhuGI.jpg",
+                "overview": "Quando um avi\u00e3o comercial passa por problemas de motor durante um voo Transpac\u00edfico e o piloto perde o controle, \u00e9 o copiloto veterano mas decadente Dan Roman (John Wayne) que consegue trazer o avi\u00e3o em seguran\u00e7a.  Um problema atr\u00e1s do outro acontece neste voo Transpac\u00edfico. Voc\u00ea tem o piloto que perde o controle! O copiloto decadente. O engenheiro de voo inseguro. O jovem segundo oficial atrevido. E uma lotada cabine de passageiros com toda a gama de problemas e personalidades poss\u00edvel. Aqui voc\u00ea tem o Duke em um papel que ele n\u00e3o queria, e um filme com o t\u00edtulo da can\u00e7\u00e3o que se tornou tema de Duke. O que mais poderia qualquer f\u00e3 de John Wayne querer? Est\u00e1 tudo aqui, e mais algumas coisas.",
+                "vote_average": 5.9,
+                "vote_count": 65
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Seven Brides for Seven Brothers",
+            "second_label": "Ralph E. Winters",
+            "category": "Film Editing",
+            "year": 1955,
+            "tmdb": {
+                "id": 16563,
+                "original_title": "Seven Brides for Seven Brothers",
+                "title": "Sete Noivas Para Sete Irm\u00e3os",
+                "release_date": "1954-07-22",
+                "backdrop_path": "/cqzTJvj82vsh4JPYxCw6MSvdoFC.jpg",
+                "poster_path": "/eExiNiIMAQ6ArzudNG3G3ehPTc.jpg",
+                "overview": "Depois que Adam (Howard Keel), o irm\u00e3o mais velho de uma fam\u00edlia de caipiras, volta para sua fazenda com uma noiva, seus outros seis irm\u00e3os solteir\u00f5es decidem ir para a cidade e arrumar seis noivas para morarem com eles na fazenda tamb\u00e9m.",
+                "vote_average": 7.2,
+                "vote_count": 513
+            },
+            "winner": false
+        },
+        {
+            "first_label": "20,000 Leagues under the Sea",
+            "second_label": "Elmo Williams",
+            "category": "Film Editing",
+            "year": 1955,
+            "tmdb": {
+                "id": 173,
+                "original_title": "20,000 Leagues Under the Sea",
+                "title": "20.000 L\u00e9guas Submarinas",
+                "release_date": "1954-12-23",
+                "backdrop_path": "/pIBZpX9H6U6Nk6gbyWTD4rFKEqq.jpg",
+                "poster_path": "/t6IkR2Ol5vVbMIJm9r2BJmhOkW1.jpg",
+                "overview": "Em 1866, o Professor Pierre M. Aronnax e seu assistente Conseil, que est\u00e3o em S\u00e3o Francisco para pesquisar relatos de um monstro marinho gigante atacando navios no Oceano Pac\u00edfico, s\u00e3o convidados a participar de uma expedi\u00e7\u00e3o para procurar tal criatura. Durante a busca, eles e o arpoador Ned Land s\u00e3o lan\u00e7ados ao mar durante um ataque, acabando por descobrir que o monstro \u00e9 na verdade um submarino pilotado pelo brilhante, mas assombrado, Capit\u00e3o Nemo.",
+                "vote_average": 7.0,
+                "vote_count": 821
+            },
+            "winner": false
+        }
+    ],
+    "Honorary Award": [
+        {
+            "first_label": "The Little Kidnappers",
+            "second_label": "Special Award",
+            "category": "Honorary Award",
+            "year": 1955,
+            "tmdb": {
+                "id": 47675,
+                "original_title": "The Kidnappers",
+                "title": "The Kidnappers",
+                "release_date": "1953-12-01",
+                "backdrop_path": "/y3bNlUYmHu6b6AiUsaRuaXKl4wN.jpg",
+                "poster_path": "/uDbOvpyDyd4A7ScgJ4tmz7D3qwb.jpg",
+                "overview": "After losing their father in the Boer War, orphaned brothers Harry and Davy must leave their home in Scotland to live with their grandmother and cantankerous grandfather in Nova Scotia. The boys want nothing more than a pet dog, but their grandfather refuses to get them one. Then, when the brothers find an abandoned baby, they decide to keep it \u2013 but the foundling may not have been abandoned after all.",
+                "vote_average": 6.7,
+                "vote_count": 13
+            },
+            "winner": true
+        }
+    ],
+    "Honorary Foreign Language Film Award": [
+        {
+            "first_label": "Gate of Hell",
+            "second_label": "Special Award",
+            "category": "Honorary Foreign Language Film Award",
+            "year": 1955,
+            "tmdb": {
+                "id": 43349,
+                "original_title": "\u5730\u7344\u9580",
+                "title": "Portal do Inferno",
+                "release_date": "1953-10-30",
+                "backdrop_path": "/kM4CZjzaanlg0wCvfmpQKMxNzXd.jpg",
+                "poster_path": "/6ceVYhhcIgEauUKdrYoIUWyAqfy.jpg",
+                "overview": "Em 1159, durante uma tentativa de golpe contra a realeza, arma-se um plano para que a fam\u00edlia real possa fugir. Uma senhora da corte aproveita a situa\u00e7\u00e3o e se faz passar de esposa de um Lorde para sair da cidade. Ela conta com a ajuda de um samurai, que a escolta com seguran\u00e7a. Mais tarde, o samurai pede ao Lorde como recompensa a m\u00e3o desta mulher em casamento. Mas ele descobre que ela j\u00e1 \u00e9 casada. O samurai n\u00e3o ir\u00e1 desistir e chegar\u00e1 a desafiar o marido de sua amada para que a deixe, o que ir\u00e1 gerar tr\u00e1gicas consequ\u00eancias.",
+                "vote_average": 7.2,
+                "vote_count": 75
+            },
+            "winner": true
+        }
+    ],
+    "Music (Music Score of a Dramatic or Comedy Picture)": [
+        {
+            "first_label": "The High and the Mighty",
+            "second_label": "Dimitri Tiomkin",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1955,
+            "tmdb": {
+                "id": 17761,
+                "original_title": "The High and the Mighty",
+                "title": "Um Fio de Esperan\u00e7a",
+                "release_date": "1954-07-03",
+                "backdrop_path": "/xgzMiezZQ3NEVXxlb2nlBTPKYg4.jpg",
+                "poster_path": "/ypsUUWZqVXY2vGdJYdvUyBHhuGI.jpg",
+                "overview": "Quando um avi\u00e3o comercial passa por problemas de motor durante um voo Transpac\u00edfico e o piloto perde o controle, \u00e9 o copiloto veterano mas decadente Dan Roman (John Wayne) que consegue trazer o avi\u00e3o em seguran\u00e7a.  Um problema atr\u00e1s do outro acontece neste voo Transpac\u00edfico. Voc\u00ea tem o piloto que perde o controle! O copiloto decadente. O engenheiro de voo inseguro. O jovem segundo oficial atrevido. E uma lotada cabine de passageiros com toda a gama de problemas e personalidades poss\u00edvel. Aqui voc\u00ea tem o Duke em um papel que ele n\u00e3o queria, e um filme com o t\u00edtulo da can\u00e7\u00e3o que se tornou tema de Duke. O que mais poderia qualquer f\u00e3 de John Wayne querer? Est\u00e1 tudo aqui, e mais algumas coisas.",
+                "vote_average": 5.9,
+                "vote_count": 65
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Caine Mutiny",
+            "second_label": "Max Steiner",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1955,
+            "tmdb": {
+                "id": 10178,
+                "original_title": "The Caine Mutiny",
+                "title": "A Nave da Revolta",
+                "release_date": "1954-06-24",
+                "backdrop_path": "/xSN7sVwIC6ExQZVMIUMjm4Tl2TN.jpg",
+                "poster_path": "/vuO4Z3wOWVlhq35MS9asZeT9rVp.jpg",
+                "overview": "Durante a 2\u00aa Guerra Mundial Willie Keith (Robert Francis), um jovem oficial, se incorpora \u00e0 tripula\u00e7\u00e3o do Caine, um navio de menor porte que funciona como ca\u00e7a-minas. O imediato Steve Maryk (Van Johnson) e o tenente Tom Keefer (Fred MacMurray) tamb\u00e9m fazem parte do staff. Logo depois da chegada de Willie, o capit\u00e3o DeVriess (Tom Tully) \u00e9 substitu\u00eddo pelo capit\u00e3o Philip Francis Queeg (Humphrey Bogart), que logo imp\u00f5e sua autoridade e sua neurose acerca de limpeza, pois \u00e9 de seu intento comandar um navio imaculado, onde at\u00e9 uma camisa fora de cal\u00e7a \u00e9 motivo de s\u00e9ria advert\u00eancia. Esta neurose faz com que ele se distraia e navegue em c\u00edrculos, al\u00e9m de cortar seu pr\u00f3prio cabo de reboque. Incidentes adicionais indicam que Queeg est\u00e1 sofrendo de stress. Maryk acha estranho o comportamento do capit\u00e3o e Keefer insidiosamente planta a semente, dizendo que Queeg est\u00e1 pr\u00f3ximo de um colapso nervoso. e 10.",
+                "vote_average": 7.1,
+                "vote_count": 309
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Genevieve",
+            "second_label": "Larry Adler",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1955,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "On the Waterfront",
+            "second_label": "Leonard Bernstein",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1955,
+            "tmdb": {
+                "id": 654,
+                "original_title": "On the Waterfront",
+                "title": "Sindicato de Ladr\u00f5es",
+                "release_date": "1954-06-22",
+                "backdrop_path": "/pxkQAIhC7LXN5s5B23lnvCMgva5.jpg",
+                "poster_path": "/kH8g3tJmIGLuJXxxdCYydjfX0gy.jpg",
+                "overview": "Terry Malloy sonha com as gl\u00f3rias do boxe, mas foi convencido pelo corrupto mafioso Johnny Friendly, para quem trabalha, a perder uma luta. Quando Terry presencia um assassinato cometido pelos capangas do chefe, ele se sente respons\u00e1vel pelo crime.",
+                "vote_average": 7.9,
+                "vote_count": 1475
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Silver Chalice",
+            "second_label": "Franz Waxman",
+            "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+            "year": 1955,
+            "tmdb": {
+                "id": 65212,
+                "original_title": "The Silver Chalice",
+                "title": "O C\u00e1lice Sagrado",
+                "release_date": "1954-12-20",
+                "backdrop_path": "/i4fGmfpUG6DrUn8PkKTTiHaguwl.jpg",
+                "poster_path": "/dwcpH7EX5glxxAvRmuiCVtBNBDN.jpg",
+                "overview": "Um artes\u00e3o grego \u00e9 contratado para fundir a ta\u00e7a de Cristo em prata e esculpir em torno de sua borda os rostos dos disc\u00edpulos e de Jesus. Ele viaja para Jerusal\u00e9m e eventualmente para Roma para completar a tarefa. Enquanto isso, um intruso nefasto tenta convencer as multid\u00f5es de que ele \u00e9 o novo Messias, usando nada mais do que truques baratos de sal\u00e3o.",
+                "vote_average": 4.5,
+                "vote_count": 31
+            },
+            "winner": false
+        }
+    ],
+    "Music (Scoring of a Musical Picture)": [
+        {
+            "first_label": "Seven Brides for Seven Brothers",
+            "second_label": "Adolph Deutsch, Saul Chaplin",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1955,
+            "tmdb": {
+                "id": 16563,
+                "original_title": "Seven Brides for Seven Brothers",
+                "title": "Sete Noivas Para Sete Irm\u00e3os",
+                "release_date": "1954-07-22",
+                "backdrop_path": "/cqzTJvj82vsh4JPYxCw6MSvdoFC.jpg",
+                "poster_path": "/eExiNiIMAQ6ArzudNG3G3ehPTc.jpg",
+                "overview": "Depois que Adam (Howard Keel), o irm\u00e3o mais velho de uma fam\u00edlia de caipiras, volta para sua fazenda com uma noiva, seus outros seis irm\u00e3os solteir\u00f5es decidem ir para a cidade e arrumar seis noivas para morarem com eles na fazenda tamb\u00e9m.",
+                "vote_average": 7.2,
+                "vote_count": 513
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Carmen Jones",
+            "second_label": "Herschel Burke Gilbert",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1955,
+            "tmdb": {
+                "id": 51044,
+                "original_title": "Carmen Jones",
+                "title": "Carmen Jones",
+                "release_date": "1954-10-28",
+                "backdrop_path": "/nhbeAwC5NcvPIOVDkamICjdKIFN.jpg",
+                "poster_path": "/5Vo4NeE7dlXBUaikbGnUOmUNHJ3.jpg",
+                "overview": "Vers\u00e3o contempor\u00e2nea da \u00f3pera de Bizet, com novas letras e um elenco afro-americano.  A hist\u00f3ria da produtora de cigarros Carmen e do soldado espanhol da cavalaria Don Jose \u00e9 transposta na hist\u00f3ria moderna de uma oper\u00e1ria de p\u00e1ra-quedas e um soldado robusto chamado Joe, que est\u00e1 prestes a ir para a escola de v\u00f4o. O conflito surge quando um campe\u00e3o do ringue captura o cora\u00e7\u00e3o de Carmen depois que ela seduziu Joe e o levou a ficar inoperante.",
+                "vote_average": 5.9,
+                "vote_count": 74
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Glenn Miller Story",
+            "second_label": "Joseph Gershenson, Henry Mancini",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1955,
+            "tmdb": {
+                "id": 17729,
+                "original_title": "The Glenn Miller Story",
+                "title": "M\u00fasica e L\u00e1grimas",
+                "release_date": "1954-01-04",
+                "backdrop_path": "/weRJkZn65fHWFVhF4BLadU2TXkB.jpg",
+                "poster_path": "/d1HzoqKWqlpKfTAZmJ2yd9Rag8z.jpg",
+                "overview": "O famoso artista Glenn Miller (James Stewart) come\u00e7a cedo a escrever sua hist\u00f3ria. Nos anos 30, ele entra nos neg\u00f3cios musicais e enfrenta algumas dificuldades iniciais como o fracasso de sua primeira banda de estrada. No entanto, ele n\u00e3o desiste e mais tarde casa-se com Helen Burger (June Allyson), que o acompanhar\u00e1 na sua trilha para o sucesso.",
+                "vote_average": 6.9,
+                "vote_count": 140
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Star Is Born",
+            "second_label": "Ray Heindorf",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1955,
+            "tmdb": {
+                "id": 3111,
+                "original_title": "A Star Is Born",
+                "title": "Nasce uma Estrela",
+                "release_date": "1954-10-01",
+                "backdrop_path": "/AlvKqnxlkWWYE6ngRLOWfYY3QuI.jpg",
+                "poster_path": "/7Qw50rvebaqn4Eew3oOLOGNf0f2.jpg",
+                "overview": "Esther Blodgett (Judy Garland) \u00e9 uma sonhadora artista que deseja se tornar uma grande estrela do cinema americano. Seu sonho se torna realidade quando ela conhece o astro de Hollywood Norman Maine, e os dois se apaixonam. Depois de um tempo, eles se casam, e a carreira de Esther come\u00e7a realmente a decolar, e ela passa a ser chamada pelo nome art\u00edstico de Vicky Lester. S\u00f3 que enquanto sua fama aumenta, seu marido est\u00e1 cada vez mais decadente e afundado no \u00e1lcool, o que come\u00e7a a abalar a carreira da esposa.  Segunda vers\u00e3o da cl\u00e1ssica hist\u00f3ria e primeiro filme colorido do diretor George Cukor.",
+                "vote_average": 7.1,
+                "vote_count": 281
+            },
+            "winner": false
+        },
+        {
+            "first_label": "There's No Business Like Show Business",
+            "second_label": "Alfred Newman, Lionel Newman",
+            "category": "Music (Scoring of a Musical Picture)",
+            "year": 1955,
+            "tmdb": {
+                "id": 21468,
+                "original_title": "There's No Business Like Show Business",
+                "title": "O Mundo da Fantasia",
+                "release_date": "1954-12-16",
+                "backdrop_path": "/apvOK2WdTGvvp3KGaaiS5YPFnE.jpg",
+                "poster_path": "/iUIJwIDzFfpV7vHykpmJ5IMcF2k.jpg",
+                "overview": "A saga da fam\u00edlia Donahue, que sempre se dedicou ao mundo dos espet\u00e1culos. A filha deseja ser uma grande estrela, um dos filhos decidiu ser padre, mas o outro, um dan\u00e7arino, se apaixona por uma jovem que sonha ardentemente em ser cantora e n\u00e3o est\u00e1 disposta a perder nenhuma oportunidade que possa ajudar seu grande objetivo.",
+                "vote_average": 5.9,
+                "vote_count": 90
+            },
+            "winner": false
+        }
+    ],
+    "Music (Song)": [
+        {
+            "first_label": "Three Coins in the Fountain",
+            "second_label": "Three Coins In The Fountain in \"Three Coins in the Fountain\" Music by Jule Styne; Lyrics by Sammy Cahn",
+            "category": "Music (Song)",
+            "year": 1955,
+            "tmdb": {
+                "id": 41503,
+                "original_title": "Three Coins in the Fountain",
+                "title": "A Fonte dos Desejos",
+                "release_date": "1954-05-01",
+                "backdrop_path": "/91jVA9ITFrX0Mr6xHhvI1EAz9gC.jpg",
+                "poster_path": "/wYJXPZvj8xJaICMahtbj6gzWh8j.jpg",
+                "overview": "Garotas americanas sonham em encontrar romance em Roma, mas isto n\u00e3o \u00e9 para secret\u00e1rias, diz Anita. Mas Maria logo conhece o pr\u00edncipe Dino de Cessi em uma festa na casa de seu chefe, que a convida a voar para Veneza em seu avi\u00e3o particular. Frances, que est\u00e1 em Roma h\u00e1 15 anos como secret\u00e1ria de um escritor americano de sucesso que fala muito como George Bernard Shaw e \u00e9 t\u00e3o ilus\u00f3ria quanto o professor Henry Higgins em \"My Fair Lady\", diz a ela para dizer \"n\u00e3o\" e depois decide que juntos eles podem lidar com o homem apelidado de pr\u00edncipe predador. Moedas jogadas na Fonte de Trevi podem realmente funcionar como m\u00e1gica.",
+                "vote_average": 5.8,
+                "vote_count": 43
+            },
+            "winner": true
+        },
+        {
+            "first_label": "White Christmas",
+            "second_label": "Count Your Blessings Instead Of Sheep in \"White Christmas\" Music and Lyrics by Irving Berlin",
+            "category": "Music (Song)",
+            "year": 1955,
+            "tmdb": {
+                "id": 13368,
+                "original_title": "White Christmas",
+                "title": "Natal Branco",
+                "release_date": "1954-10-14",
+                "backdrop_path": "/97eLP7iJTCE03LhwtXfXRcLbg5H.jpg",
+                "poster_path": "/A5kBQsHKbIptxJyELEpHQJROCRj.jpg",
+                "overview": "Um dos cl\u00e1ssicos absolutos do Natal, este musical conta com os insuper\u00e1veis Bing Crosby, Danny Kaye, Vera-Ellen e Rosemary Clooney que cantam temas de Irving Berlin como Count Your Blessings Instead of Sheep ou o lend\u00e1rio White Christmas. O filme, sobre dois ex-soldados que tentam montar um espet\u00e1culo de Natal na est\u00e2ncia de f\u00e9rias de um antigo general, \u00e9 um semi-remake de Michael Curtiz do tamb\u00e9m natal\u00edcio Holiday Inn, de 1942, para o qual foi criado o tema do t\u00edtulo e que ganhou ent\u00e3o o \u00d3scar de Melhor Can\u00e7\u00e3o.",
+                "vote_average": 7.2,
+                "vote_count": 475
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The High and the Mighty",
+            "second_label": "The High And The Mighty in \"The High and the Mighty\" Music by Dimitri Tiomkin; Lyrics by Ned Washington",
+            "category": "Music (Song)",
+            "year": 1955,
+            "tmdb": {
+                "id": 17761,
+                "original_title": "The High and the Mighty",
+                "title": "Um Fio de Esperan\u00e7a",
+                "release_date": "1954-07-03",
+                "backdrop_path": "/xgzMiezZQ3NEVXxlb2nlBTPKYg4.jpg",
+                "poster_path": "/ypsUUWZqVXY2vGdJYdvUyBHhuGI.jpg",
+                "overview": "Quando um avi\u00e3o comercial passa por problemas de motor durante um voo Transpac\u00edfico e o piloto perde o controle, \u00e9 o copiloto veterano mas decadente Dan Roman (John Wayne) que consegue trazer o avi\u00e3o em seguran\u00e7a.  Um problema atr\u00e1s do outro acontece neste voo Transpac\u00edfico. Voc\u00ea tem o piloto que perde o controle! O copiloto decadente. O engenheiro de voo inseguro. O jovem segundo oficial atrevido. E uma lotada cabine de passageiros com toda a gama de problemas e personalidades poss\u00edvel. Aqui voc\u00ea tem o Duke em um papel que ele n\u00e3o queria, e um filme com o t\u00edtulo da can\u00e7\u00e3o que se tornou tema de Duke. O que mais poderia qualquer f\u00e3 de John Wayne querer? Est\u00e1 tudo aqui, e mais algumas coisas.",
+                "vote_average": 5.9,
+                "vote_count": 65
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Susan Slept Here",
+            "second_label": "Hold My Hand in \"Susan Slept Here\" Music and Lyrics by Jack Lawrence and Richard Myers",
+            "category": "Music (Song)",
+            "year": 1955,
+            "tmdb": {
+                "id": 50356,
+                "original_title": "Susan Slept Here",
+                "title": "Romance de Minha Vida",
+                "release_date": "1954-07-28",
+                "backdrop_path": "/wzXGuw434Ab0PiCmM2y4v0OrBvc.jpg",
+                "poster_path": "/gdS7eU6DPxeWwdcW1B5R1o7mtX0.jpg",
+                "overview": "On Christmas Eve, suffering from a case of writer's block, screenwriter Mark Christopher and his gofer Virgil get an unexpected visit from Sergeant Maizel. Knowing Christopher is working on a juvenile delinquent script, the sergeant brings by delinquent Susan thinking she will inspire Christopher while providing a place for her to spend the holidays outside of juvenile hall.",
+                "vote_average": 6.1,
+                "vote_count": 24
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Star Is Born",
+            "second_label": "The Man That Got Away in \"A Star Is Born\" Music by Harold Arlen; Lyrics by Ira Gershwin",
+            "category": "Music (Song)",
+            "year": 1955,
+            "tmdb": {
+                "id": 3111,
+                "original_title": "A Star Is Born",
+                "title": "Nasce uma Estrela",
+                "release_date": "1954-10-01",
+                "backdrop_path": "/AlvKqnxlkWWYE6ngRLOWfYY3QuI.jpg",
+                "poster_path": "/7Qw50rvebaqn4Eew3oOLOGNf0f2.jpg",
+                "overview": "Esther Blodgett (Judy Garland) \u00e9 uma sonhadora artista que deseja se tornar uma grande estrela do cinema americano. Seu sonho se torna realidade quando ela conhece o astro de Hollywood Norman Maine, e os dois se apaixonam. Depois de um tempo, eles se casam, e a carreira de Esther come\u00e7a realmente a decolar, e ela passa a ser chamada pelo nome art\u00edstico de Vicky Lester. S\u00f3 que enquanto sua fama aumenta, seu marido est\u00e1 cada vez mais decadente e afundado no \u00e1lcool, o que come\u00e7a a abalar a carreira da esposa.  Segunda vers\u00e3o da cl\u00e1ssica hist\u00f3ria e primeiro filme colorido do diretor George Cukor.",
+                "vote_average": 7.1,
+                "vote_count": 281
+            },
+            "winner": false
+        }
+    ],
+    "Best Motion Picture": [
+        {
+            "first_label": "On the Waterfront",
+            "second_label": "Sam Spiegel, Producer",
+            "category": "Best Motion Picture",
+            "year": 1955,
+            "tmdb": {
+                "id": 654,
+                "original_title": "On the Waterfront",
+                "title": "Sindicato de Ladr\u00f5es",
+                "release_date": "1954-06-22",
+                "backdrop_path": "/pxkQAIhC7LXN5s5B23lnvCMgva5.jpg",
+                "poster_path": "/kH8g3tJmIGLuJXxxdCYydjfX0gy.jpg",
+                "overview": "Terry Malloy sonha com as gl\u00f3rias do boxe, mas foi convencido pelo corrupto mafioso Johnny Friendly, para quem trabalha, a perder uma luta. Quando Terry presencia um assassinato cometido pelos capangas do chefe, ele se sente respons\u00e1vel pelo crime.",
+                "vote_average": 7.9,
+                "vote_count": 1475
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Caine Mutiny",
+            "second_label": "Stanley Kramer, Producer",
+            "category": "Best Motion Picture",
+            "year": 1955,
+            "tmdb": {
+                "id": 10178,
+                "original_title": "The Caine Mutiny",
+                "title": "A Nave da Revolta",
+                "release_date": "1954-06-24",
+                "backdrop_path": "/xSN7sVwIC6ExQZVMIUMjm4Tl2TN.jpg",
+                "poster_path": "/vuO4Z3wOWVlhq35MS9asZeT9rVp.jpg",
+                "overview": "Durante a 2\u00aa Guerra Mundial Willie Keith (Robert Francis), um jovem oficial, se incorpora \u00e0 tripula\u00e7\u00e3o do Caine, um navio de menor porte que funciona como ca\u00e7a-minas. O imediato Steve Maryk (Van Johnson) e o tenente Tom Keefer (Fred MacMurray) tamb\u00e9m fazem parte do staff. Logo depois da chegada de Willie, o capit\u00e3o DeVriess (Tom Tully) \u00e9 substitu\u00eddo pelo capit\u00e3o Philip Francis Queeg (Humphrey Bogart), que logo imp\u00f5e sua autoridade e sua neurose acerca de limpeza, pois \u00e9 de seu intento comandar um navio imaculado, onde at\u00e9 uma camisa fora de cal\u00e7a \u00e9 motivo de s\u00e9ria advert\u00eancia. Esta neurose faz com que ele se distraia e navegue em c\u00edrculos, al\u00e9m de cortar seu pr\u00f3prio cabo de reboque. Incidentes adicionais indicam que Queeg est\u00e1 sofrendo de stress. Maryk acha estranho o comportamento do capit\u00e3o e Keefer insidiosamente planta a semente, dizendo que Queeg est\u00e1 pr\u00f3ximo de um colapso nervoso. e 10.",
+                "vote_average": 7.1,
+                "vote_count": 309
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Country Girl",
+            "second_label": "William Perlberg, Producer",
+            "category": "Best Motion Picture",
+            "year": 1955,
+            "tmdb": {
+                "id": 2438,
+                "original_title": "The Country Girl",
+                "title": "Amar \u00e9 Sofrer",
+                "release_date": "1954-12-15",
+                "backdrop_path": "/ssPh7tZwDtSurPf8rFPINIWkNvd.jpg",
+                "poster_path": "/7LdXybdZcTdZo7lkkrFQKf7byZf.jpg",
+                "overview": "Um diretor contrata um alco\u00f3latra e inicia um relacionamento tempestuoso com a esposa do ator, que ele acredita ser a causa de todos os problemas do homem.",
+                "vote_average": 6.9,
+                "vote_count": 76
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Seven Brides for Seven Brothers",
+            "second_label": "Jack Cummings, Producer",
+            "category": "Best Motion Picture",
+            "year": 1955,
+            "tmdb": {
+                "id": 16563,
+                "original_title": "Seven Brides for Seven Brothers",
+                "title": "Sete Noivas Para Sete Irm\u00e3os",
+                "release_date": "1954-07-22",
+                "backdrop_path": "/cqzTJvj82vsh4JPYxCw6MSvdoFC.jpg",
+                "poster_path": "/eExiNiIMAQ6ArzudNG3G3ehPTc.jpg",
+                "overview": "Depois que Adam (Howard Keel), o irm\u00e3o mais velho de uma fam\u00edlia de caipiras, volta para sua fazenda com uma noiva, seus outros seis irm\u00e3os solteir\u00f5es decidem ir para a cidade e arrumar seis noivas para morarem com eles na fazenda tamb\u00e9m.",
+                "vote_average": 7.2,
+                "vote_count": 513
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Three Coins in the Fountain",
+            "second_label": "Sol C. Siegel, Producer",
+            "category": "Best Motion Picture",
+            "year": 1955,
+            "tmdb": {
+                "id": 41503,
+                "original_title": "Three Coins in the Fountain",
+                "title": "A Fonte dos Desejos",
+                "release_date": "1954-05-01",
+                "backdrop_path": "/91jVA9ITFrX0Mr6xHhvI1EAz9gC.jpg",
+                "poster_path": "/wYJXPZvj8xJaICMahtbj6gzWh8j.jpg",
+                "overview": "Garotas americanas sonham em encontrar romance em Roma, mas isto n\u00e3o \u00e9 para secret\u00e1rias, diz Anita. Mas Maria logo conhece o pr\u00edncipe Dino de Cessi em uma festa na casa de seu chefe, que a convida a voar para Veneza em seu avi\u00e3o particular. Frances, que est\u00e1 em Roma h\u00e1 15 anos como secret\u00e1ria de um escritor americano de sucesso que fala muito como George Bernard Shaw e \u00e9 t\u00e3o ilus\u00f3ria quanto o professor Henry Higgins em \"My Fair Lady\", diz a ela para dizer \"n\u00e3o\" e depois decide que juntos eles podem lidar com o homem apelidado de pr\u00edncipe predador. Moedas jogadas na Fonte de Trevi podem realmente funcionar como m\u00e1gica.",
+                "vote_average": 5.8,
+                "vote_count": 43
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Cartoon)": [
+        {
+            "first_label": "When Magoo Flew",
+            "second_label": "Stephen Bosustow, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1955,
+            "tmdb": {
+                "id": 205712,
+                "original_title": "When Magoo Flew",
+                "title": "When Magoo Flew",
+                "release_date": "1954-01-06",
+                "backdrop_path": "/dRXdoh5G7I0OEo7uKmm3HFEq26I.jpg",
+                "poster_path": "/fQXCUAy69aKsdpNs0gQut8wloSk.jpg",
+                "overview": "Mr. Magoo sets off to go to the movies but goes to an airport by mistake and gets on a plane thinking it to be a theater. Little does Magoo know the man he is sitting next to is actually a thief and when a detective appears on the plane to track the thief down, Magoo thinks it's all part of the movie. After doing some wing walking, Magoo reenters the plane and exposes the thief to the detective. When the plane lands, Magoo remarks that they should have shown a cartoon particularly one with that \"delightful near sighted fellow\".",
+                "vote_average": 6.2,
+                "vote_count": 18
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Crazy Mixed Up Pup",
+            "second_label": "Walter Lantz, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1955,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Pigs Is Pigs",
+            "second_label": "Walt Disney, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1955,
+            "tmdb": {
+                "id": 56011,
+                "original_title": "Pigs Is Pigs",
+                "title": "Pigs Is Pigs",
+                "release_date": "1954-05-21",
+                "backdrop_path": "/zilShz9dAEDBZnUMrKPuHjIeSh7.jpg",
+                "poster_path": "/4JxuMr30JsP6NxCelB0HdgjqmfP.jpg",
+                "overview": "Flannery, a railway agent does everything by the book. He gets into a scrape with a customer, McMorehouse, who wants to pay 44 cents freight for two guinea pigs which he considers pets. Flannery, however, considers them pigs (freight 48 cents), a decision he begins to regret when the animals begin to reproduce.",
+                "vote_average": 7.4,
+                "vote_count": 18
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sandy Claws",
+            "second_label": "Edward Selzer, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1955,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Touch, Pussy Cat",
+            "second_label": "Fred Quimby, Producer",
+            "category": "Short Subject (Cartoon)",
+            "year": 1955,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (One-reel)": [
+        {
+            "first_label": "This Mechanical Age",
+            "second_label": "Robert Youngson, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1955,
+            "tmdb": {
+                "id": 243020,
+                "original_title": "This Mechanical Age",
+                "title": "This Mechanical Age",
+                "release_date": "1954-08-28",
+                "backdrop_path": null,
+                "poster_path": "/3AL2rnKe3ATscGoFTMFd3348pG.jpg",
+                "overview": "This Mechanical Age is a 1954 American short documentary film about the early days of aviation, produced by Robert Youngson. In 1955, it won an Oscar for Best Short Subject [One-Reel] at the 27th Academy Awards",
+                "vote_average": 6.0,
+                "vote_count": 4
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The First Piano Quartette",
+            "second_label": "Otto Lang, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1955,
+            "tmdb": {
+                "id": 243021,
+                "original_title": "The First Piano Quartette",
+                "title": "The First Piano Quartette",
+                "release_date": "1954-05-04",
+                "backdrop_path": null,
+                "poster_path": "/agDow5VOneijKvXGb32f635yxqm.jpg",
+                "overview": "The First Piano Quartette is a 1954 short documentary film directed by Otto Lang. It shows the First Piano Quartette composed of Adan Garner, Edward Edson, Frank Mittler and Glauco D'Attilli as they play Lecuona's \"Malaguena,\" Debussy's \"Clair de Lune,\" and John Phillip Sousa's \"The Stars and Stripes Forever.\" The film was nominated for an Oscar for Best Short Subject, One-Reel.",
+                "vote_average": 4.6,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Strauss Fantasy",
+            "second_label": "Johnny Green, Producer",
+            "category": "Short Subject (One-reel)",
+            "year": 1955,
+            "tmdb": {
+                "id": 243022,
+                "original_title": "Strauss Fantasy",
+                "title": "The Strauss Fantasy",
+                "release_date": "1954-06-15",
+                "backdrop_path": null,
+                "poster_path": "/abWYI3Aosy3zysEHimId15HxRe1.jpg",
+                "overview": "Johnny Green leads the MGM Symphony Orchestra in a medley of waltzes and other familiar pieces by three members of the Strauss family.",
+                "vote_average": 4.8,
+                "vote_count": 5
+            },
+            "winner": false
+        }
+    ],
+    "Short Subject (Two-reel)": [
+        {
+            "first_label": "A Time Out of War",
+            "second_label": "Denis Sanders and Terry Sanders, Producers",
+            "category": "Short Subject (Two-reel)",
+            "year": 1955,
+            "tmdb": {
+                "id": 163370,
+                "original_title": "A Time Out of War",
+                "title": "A Time Out of War",
+                "release_date": "1954-09-26",
+                "backdrop_path": null,
+                "poster_path": "/jgEWmmciOmNTgyXCky4NlorTtv5.jpg",
+                "overview": "Two Union soldiers maintaining a position on a riverbank negotiate a one-hour truce with the Confederate soldier manning the opposite bank. During the hour, they gain respect for one another as they trade tobacco, enjoy some fishing and make an unsettling discovery.",
+                "vote_average": 6.3,
+                "vote_count": 12
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Beauty and the Bull",
+            "second_label": "Cedric Francis, Producer",
+            "category": "Short Subject (Two-reel)",
+            "year": 1955,
+            "tmdb": {
+                "id": 243016,
+                "original_title": "Beauty and the Bull",
+                "title": "Beauty and the Bull",
+                "release_date": "1954-12-24",
+                "backdrop_path": null,
+                "poster_path": "/o6RcKGBvMZSUPlya009eSQekznB.jpg",
+                "overview": "Beauty and the Bull is  a 1954 short documentary directed by Larry Lansburgh. It revolves around model Bette Ford, who accompanies a friend to a bullfight and decides to take it up as a career. She travels to Mexico to take formal training and fight bulls on ranches. The film was nominated for an Oscar for Best Short Subject, Two-Reel.",
+                "vote_average": 5.0,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jet Carrier",
+            "second_label": "Otto Lang, Producer",
+            "category": "Short Subject (Two-reel)",
+            "year": 1955,
+            "tmdb": {
+                "id": 243017,
+                "original_title": "Jet Carrier",
+                "title": "Jet Carrier",
+                "release_date": "1954-08-01",
+                "backdrop_path": null,
+                "poster_path": "/wDIEc9RxqbDJWJFwnACwSFMmoWK.jpg",
+                "overview": "Jet Carrier is a 1954 American short documentary film produced by Otto Lang as a CinemaScope Special. It was nominated for two Academy Awards - one for Best Documentary Short, and the other for Best Two-Reel Short. It was filmed aboard the aircraft carrier USS Yorktown.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Siam",
+            "second_label": "Walt Disney, Producer",
+            "category": "Short Subject (Two-reel)",
+            "year": 1955,
+            "tmdb": {
+                "id": 243019,
+                "original_title": "Siam",
+                "title": "Siam",
+                "release_date": "1954-12-24",
+                "backdrop_path": null,
+                "poster_path": "/ucpw9d8jDOXyX3777H6zOzc8m3p.jpg",
+                "overview": "Part of the Walt Disney \"People and Places\" series visiting Siam.",
+                "vote_average": 5.7,
+                "vote_count": 3
+            },
+            "winner": false
+        }
+    ],
+    "Sound Recording": [
+        {
+            "first_label": "The Glenn Miller Story",
+            "second_label": "Universal-International Studio Sound Department, Leslie I. Carey, Sound Director",
+            "category": "Sound Recording",
+            "year": 1955,
+            "tmdb": {
+                "id": 17729,
+                "original_title": "The Glenn Miller Story",
+                "title": "M\u00fasica e L\u00e1grimas",
+                "release_date": "1954-01-04",
+                "backdrop_path": "/weRJkZn65fHWFVhF4BLadU2TXkB.jpg",
+                "poster_path": "/d1HzoqKWqlpKfTAZmJ2yd9Rag8z.jpg",
+                "overview": "O famoso artista Glenn Miller (James Stewart) come\u00e7a cedo a escrever sua hist\u00f3ria. Nos anos 30, ele entra nos neg\u00f3cios musicais e enfrenta algumas dificuldades iniciais como o fracasso de sua primeira banda de estrada. No entanto, ele n\u00e3o desiste e mais tarde casa-se com Helen Burger (June Allyson), que o acompanhar\u00e1 na sua trilha para o sucesso.",
+                "vote_average": 6.9,
+                "vote_count": 140
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Brigadoon",
+            "second_label": "Metro-Goldwyn-Mayer Studio Sound Department, Wesley C. Miller, Sound Director",
+            "category": "Sound Recording",
+            "year": 1955,
+            "tmdb": {
+                "id": 18283,
+                "original_title": "Brigadoon",
+                "title": "A Lenda dos Beijos Perdidos",
+                "release_date": "1954-09-08",
+                "backdrop_path": "/eGzQPFy6VTR3r72mTOIOXoQYuHc.jpg",
+                "poster_path": "/va3DcpyZDnnWdRB0FTPKzObo3Uz.jpg",
+                "overview": "Dois americanos em uma viagem de ca\u00e7a pela Esc\u00f3cia se perdem. Acabam chegando numa pequena aldeia, que n\u00e3o est\u00e1 no mapa, chamada Brigadoon, na qual as pessoas abrigam um segredo misterioso, e se comportam como se ainda estivessem vivendo duzentos anos no passado.",
+                "vote_average": 6.5,
+                "vote_count": 135
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Caine Mutiny",
+            "second_label": "Columbia Studio Sound Department, John P. Livadary, Sound Director",
+            "category": "Sound Recording",
+            "year": 1955,
+            "tmdb": {
+                "id": 10178,
+                "original_title": "The Caine Mutiny",
+                "title": "A Nave da Revolta",
+                "release_date": "1954-06-24",
+                "backdrop_path": "/xSN7sVwIC6ExQZVMIUMjm4Tl2TN.jpg",
+                "poster_path": "/vuO4Z3wOWVlhq35MS9asZeT9rVp.jpg",
+                "overview": "Durante a 2\u00aa Guerra Mundial Willie Keith (Robert Francis), um jovem oficial, se incorpora \u00e0 tripula\u00e7\u00e3o do Caine, um navio de menor porte que funciona como ca\u00e7a-minas. O imediato Steve Maryk (Van Johnson) e o tenente Tom Keefer (Fred MacMurray) tamb\u00e9m fazem parte do staff. Logo depois da chegada de Willie, o capit\u00e3o DeVriess (Tom Tully) \u00e9 substitu\u00eddo pelo capit\u00e3o Philip Francis Queeg (Humphrey Bogart), que logo imp\u00f5e sua autoridade e sua neurose acerca de limpeza, pois \u00e9 de seu intento comandar um navio imaculado, onde at\u00e9 uma camisa fora de cal\u00e7a \u00e9 motivo de s\u00e9ria advert\u00eancia. Esta neurose faz com que ele se distraia e navegue em c\u00edrculos, al\u00e9m de cortar seu pr\u00f3prio cabo de reboque. Incidentes adicionais indicam que Queeg est\u00e1 sofrendo de stress. Maryk acha estranho o comportamento do capit\u00e3o e Keefer insidiosamente planta a semente, dizendo que Queeg est\u00e1 pr\u00f3ximo de um colapso nervoso. e 10.",
+                "vote_average": 7.1,
+                "vote_count": 309
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rear Window",
+            "second_label": "Paramount Studio Sound Department, Loren L. Ryder, Sound Director",
+            "category": "Sound Recording",
+            "year": 1955,
+            "tmdb": {
+                "id": 567,
+                "original_title": "Rear Window",
+                "title": "Janela Indiscreta",
+                "release_date": "1954-08-01",
+                "backdrop_path": "/zGs5tZOlvc9cprdcU6kDOVNpujf.jpg",
+                "poster_path": "/izzCtF4J2ti4uW65w3UDxd7fneI.jpg",
+                "overview": "Em Greenwich Village, Nova York, L.B. Jeffries, um fot\u00f3grafo profissional, est\u00e1 de molho em seu apartamento por ter quebrado a perna enquanto trabalhava. Como n\u00e3o tem muito o que fazer, fica bisbilhotando a vida dos seus vizinhos com um bin\u00f3culo. Por\u00e9m v\u00ea algumas coisas que o fazem suspeitar que um assassinato foi cometido.",
+                "vote_average": 8.352,
+                "vote_count": 6187
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Susan Slept Here",
+            "second_label": "RKO Radio Studio Sound Department, John O. Aalberg, Sound Director",
+            "category": "Sound Recording",
+            "year": 1955,
+            "tmdb": {
+                "id": 50356,
+                "original_title": "Susan Slept Here",
+                "title": "Romance de Minha Vida",
+                "release_date": "1954-07-28",
+                "backdrop_path": "/wzXGuw434Ab0PiCmM2y4v0OrBvc.jpg",
+                "poster_path": "/gdS7eU6DPxeWwdcW1B5R1o7mtX0.jpg",
+                "overview": "On Christmas Eve, suffering from a case of writer's block, screenwriter Mark Christopher and his gofer Virgil get an unexpected visit from Sergeant Maizel. Knowing Christopher is working on a juvenile delinquent script, the sergeant brings by delinquent Susan thinking she will inspire Christopher while providing a place for her to spend the holidays outside of juvenile hall.",
+                "vote_average": 6.1,
+                "vote_count": 24
+            },
+            "winner": false
+        }
+    ],
+    "Special Effects": [
+        {
+            "first_label": "20,000 Leagues under the Sea",
+            "second_label": "Walt Disney Studios",
+            "category": "Special Effects",
+            "year": 1955,
+            "tmdb": {
+                "id": 173,
+                "original_title": "20,000 Leagues Under the Sea",
+                "title": "20.000 L\u00e9guas Submarinas",
+                "release_date": "1954-12-23",
+                "backdrop_path": "/pIBZpX9H6U6Nk6gbyWTD4rFKEqq.jpg",
+                "poster_path": "/t6IkR2Ol5vVbMIJm9r2BJmhOkW1.jpg",
+                "overview": "Em 1866, o Professor Pierre M. Aronnax e seu assistente Conseil, que est\u00e3o em S\u00e3o Francisco para pesquisar relatos de um monstro marinho gigante atacando navios no Oceano Pac\u00edfico, s\u00e3o convidados a participar de uma expedi\u00e7\u00e3o para procurar tal criatura. Durante a busca, eles e o arpoador Ned Land s\u00e3o lan\u00e7ados ao mar durante um ataque, acabando por descobrir que o monstro \u00e9 na verdade um submarino pilotado pelo brilhante, mas assombrado, Capit\u00e3o Nemo.",
+                "vote_average": 7.0,
+                "vote_count": 821
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Hell and High Water",
+            "second_label": "20th Century-Fox Studio",
+            "category": "Special Effects",
+            "year": 1955,
+            "tmdb": {
+                "id": 23097,
+                "original_title": "Hell and High Water",
+                "title": "Tormenta Sob os Mares",
+                "release_date": "1954-02-06",
+                "backdrop_path": "/yG9GolC1y7UwR2T9ryHn82bnHlY.jpg",
+                "poster_path": "/5bzQcnnFivUJw9sP4J04MRT2ukT.jpg",
+                "overview": "Um cientista com financiamento privado e seus colegas contratam um ex-oficial da Marinha para realizar uma expedi\u00e7\u00e3o submarina ao Alasca a fim de impedir uma conspira\u00e7\u00e3o anti-americana da China Vermelha que pode levar \u00e0 Terceira Guerra Mundial. Mistura trama adolescente com espet\u00e1culo submarino e hero\u00edsmo da guerra fria.",
+                "vote_average": 6.2,
+                "vote_count": 48
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Them!",
+            "second_label": "Warner Bros. Studio",
+            "category": "Special Effects",
+            "year": 1955,
+            "tmdb": {
+                "id": 11071,
+                "original_title": "Them!",
+                "title": "O Mundo em Perigo",
+                "release_date": "1954-06-16",
+                "backdrop_path": "/bW83NQMHtgFIkDSoZBer4eEnc9V.jpg",
+                "poster_path": "/tAiYU131J4HNh7YaYRrMii9248V.jpg",
+                "overview": "Testes nucleares no deserto resultam no crescimento de formigas gigantes que amea\u00e7am o sudoeste dos Estados Unidos , uma equipe de investigadores e o ex\u00e9rcito procuram uma maneira de controlar  a dispers\u00e3o das formigas.",
+                "vote_average": 6.8,
+                "vote_count": 390
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Motion Picture Story)": [
+        {
+            "first_label": "Broken Lance",
+            "second_label": "Philip Yordan",
+            "category": "Writing (Motion Picture Story)",
+            "year": 1955,
+            "tmdb": {
+                "id": 42328,
+                "original_title": "Broken Lance",
+                "title": "A Lan\u00e7a Partida",
+                "release_date": "1954-09-25",
+                "backdrop_path": "/umeiWt50SAVnwbgqqPFSH0Kho7C.jpg",
+                "poster_path": "/qOf7yWjTAhUE72u3PV6ij4Wy9lJ.jpg",
+                "overview": "Spencer Tracy, \u00e9 o patriarca de uma fam\u00edlia de criadores de gado que v\u00ea tudo desmoronar quando seu filho mais novo \u00e9 preso por defender as terras da fam\u00edlia contra um grupo de mineiros que polui a regi\u00e3o.",
+                "vote_average": 6.4,
+                "vote_count": 66
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Bread, Love and Dreams",
+            "second_label": "Ettore Margadonna",
+            "category": "Writing (Motion Picture Story)",
+            "year": 1955,
+            "tmdb": {
+                "id": 56402,
+                "original_title": "Pane, amore e fantasia",
+                "title": "P\u00e3o, Amor e Fantasia",
+                "release_date": "1953-12-22",
+                "backdrop_path": "/yoMZa1YzFxtI08ot99rdsGwBK5y.jpg",
+                "poster_path": "/9gFhVKDafLc2A0LSQgFC4lxJPbU.jpg",
+                "overview": "When a veteran marshal is sent to a small town, he quickly falls for two women: a midwife and an earthy young woman nicknamed \"Frisky\".",
+                "vote_average": 7.0,
+                "vote_count": 155
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Forbidden Games",
+            "second_label": "Franois Boyer",
+            "category": "Writing (Motion Picture Story)",
+            "year": 1955,
+            "tmdb": {
+                "id": 5000,
+                "original_title": "Jeux interdits",
+                "title": "Brinquedo Proibido",
+                "release_date": "1952-05-09",
+                "backdrop_path": "/iNkgF4uBzcFTrY3NN6JrlCD5Ho.jpg",
+                "poster_path": "/nby91GNVXQAv1NmKvqlpEEdhcMQ.jpg",
+                "overview": "O filme conta a hist\u00f3ria de Paulette (Brigitte Fossey), uma menina de cinco anos de idade que perde os pais e o cachorro em um ataque a\u00e9reo quando eles fugiam de uma Paris ocupada pelos nazistas. Ao se perder do grupo de refugiados, Paulette \u00e9 recolhida por Michel Doll\u00e9 (Georges Poujouly), um menino de onze anos. Eles logo se tornam os melhores amigos. E enquanto os pais dele est\u00e3o ocupados querendo dar uma de benfeitores e em luta com os vizinhos Gouard, Paulette e Michel criam um universo s\u00f3 deles. As crian\u00e7as enterram o c\u00e3o de Paulette num cemit\u00e9rio criado por eles dentro de um moinho abandonado perto da casa de Michel. Logo, passam a enterrar todo tipo de animais e embarcam em uma odisseia atr\u00e1s de crucifixos para ornamentar os \u201ct\u00famulos\u201d.",
+                "vote_average": 7.8,
+                "vote_count": 282
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Night People",
+            "second_label": "Jed Harris, Tom Reed",
+            "category": "Writing (Motion Picture Story)",
+            "year": 1955,
+            "tmdb": {
+                "id": 76372,
+                "original_title": "Night People",
+                "title": "A Sombra da Noite",
+                "release_date": "1954-03-11",
+                "backdrop_path": "/vsC3bSPQh6BhVV25QCF3ClShHMu.jpg",
+                "poster_path": "/vUYgPJDrSmET6DLVCoUxnsxCfil.jpg",
+                "overview": "Um soldado americano \u00e9 sequestrado pelos russos em Berlim Ocidental e seu pai, o industrial Charles Leatherby, exige que as autoridades se mexam. Sua f\u00faria \u00e9 aplacada pelo Coronel Steve Van Dyke, respons\u00e1vel pelo caso. Van Dyke explica a ele que para ter o filho de volta, seria preciso troc\u00e1-lo por um idoso casal alem\u00e3o antinazista, que certamente seria morto pelos comunistas. Enquanto investiga, Van Dyke descobre que um de seus agentes mais importantes, a jovem \u2018Hoffy\u2019 Hoffmeier, trabalha para os Vermelhos. Com isso, ele vislumbra a possibilidade dela substituir o casal na troca.",
+                "vote_average": 5.9,
+                "vote_count": 31
+            },
+            "winner": false
+        },
+        {
+            "first_label": "There's No Business Like Show Business",
+            "second_label": "Lamar Trotti",
+            "category": "Writing (Motion Picture Story)",
+            "year": 1955,
+            "tmdb": {
+                "id": 21468,
+                "original_title": "There's No Business Like Show Business",
+                "title": "O Mundo da Fantasia",
+                "release_date": "1954-12-16",
+                "backdrop_path": "/apvOK2WdTGvvp3KGaaiS5YPFnE.jpg",
+                "poster_path": "/iUIJwIDzFfpV7vHykpmJ5IMcF2k.jpg",
+                "overview": "A saga da fam\u00edlia Donahue, que sempre se dedicou ao mundo dos espet\u00e1culos. A filha deseja ser uma grande estrela, um dos filhos decidiu ser padre, mas o outro, um dan\u00e7arino, se apaixona por uma jovem que sonha ardentemente em ser cantora e n\u00e3o est\u00e1 disposta a perder nenhuma oportunidade que possa ajudar seu grande objetivo.",
+                "vote_average": 5.9,
+                "vote_count": 90
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay)": [
+        {
+            "first_label": "The Country Girl",
+            "second_label": "George Seaton",
+            "category": "Writing (Screenplay)",
+            "year": 1955,
+            "tmdb": {
+                "id": 2438,
+                "original_title": "The Country Girl",
+                "title": "Amar \u00e9 Sofrer",
+                "release_date": "1954-12-15",
+                "backdrop_path": "/ssPh7tZwDtSurPf8rFPINIWkNvd.jpg",
+                "poster_path": "/7LdXybdZcTdZo7lkkrFQKf7byZf.jpg",
+                "overview": "Um diretor contrata um alco\u00f3latra e inicia um relacionamento tempestuoso com a esposa do ator, que ele acredita ser a causa de todos os problemas do homem.",
+                "vote_average": 6.9,
+                "vote_count": 76
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Caine Mutiny",
+            "second_label": "Stanley Roberts",
+            "category": "Writing (Screenplay)",
+            "year": 1955,
+            "tmdb": {
+                "id": 10178,
+                "original_title": "The Caine Mutiny",
+                "title": "A Nave da Revolta",
+                "release_date": "1954-06-24",
+                "backdrop_path": "/xSN7sVwIC6ExQZVMIUMjm4Tl2TN.jpg",
+                "poster_path": "/vuO4Z3wOWVlhq35MS9asZeT9rVp.jpg",
+                "overview": "Durante a 2\u00aa Guerra Mundial Willie Keith (Robert Francis), um jovem oficial, se incorpora \u00e0 tripula\u00e7\u00e3o do Caine, um navio de menor porte que funciona como ca\u00e7a-minas. O imediato Steve Maryk (Van Johnson) e o tenente Tom Keefer (Fred MacMurray) tamb\u00e9m fazem parte do staff. Logo depois da chegada de Willie, o capit\u00e3o DeVriess (Tom Tully) \u00e9 substitu\u00eddo pelo capit\u00e3o Philip Francis Queeg (Humphrey Bogart), que logo imp\u00f5e sua autoridade e sua neurose acerca de limpeza, pois \u00e9 de seu intento comandar um navio imaculado, onde at\u00e9 uma camisa fora de cal\u00e7a \u00e9 motivo de s\u00e9ria advert\u00eancia. Esta neurose faz com que ele se distraia e navegue em c\u00edrculos, al\u00e9m de cortar seu pr\u00f3prio cabo de reboque. Incidentes adicionais indicam que Queeg est\u00e1 sofrendo de stress. Maryk acha estranho o comportamento do capit\u00e3o e Keefer insidiosamente planta a semente, dizendo que Queeg est\u00e1 pr\u00f3ximo de um colapso nervoso. e 10.",
+                "vote_average": 7.1,
+                "vote_count": 309
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rear Window",
+            "second_label": "John Michael Hayes",
+            "category": "Writing (Screenplay)",
+            "year": 1955,
+            "tmdb": {
+                "id": 567,
+                "original_title": "Rear Window",
+                "title": "Janela Indiscreta",
+                "release_date": "1954-08-01",
+                "backdrop_path": "/zGs5tZOlvc9cprdcU6kDOVNpujf.jpg",
+                "poster_path": "/izzCtF4J2ti4uW65w3UDxd7fneI.jpg",
+                "overview": "Em Greenwich Village, Nova York, L.B. Jeffries, um fot\u00f3grafo profissional, est\u00e1 de molho em seu apartamento por ter quebrado a perna enquanto trabalhava. Como n\u00e3o tem muito o que fazer, fica bisbilhotando a vida dos seus vizinhos com um bin\u00f3culo. Por\u00e9m v\u00ea algumas coisas que o fazem suspeitar que um assassinato foi cometido.",
+                "vote_average": 8.352,
+                "vote_count": 6187
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sabrina",
+            "second_label": "Billy Wilder, Samuel Taylor, Ernest Lehman",
+            "category": "Writing (Screenplay)",
+            "year": 1955,
+            "tmdb": {
+                "id": 6620,
+                "original_title": "Sabrina",
+                "title": "Sabrina",
+                "release_date": "1954-09-10",
+                "backdrop_path": "/ftNimlo6fP4WKRMWnF1ghX4fPUy.jpg",
+                "poster_path": "/8vvgKw3DbEPNlJAdHe7xXzhb2gN.jpg",
+                "overview": "Sabrina \u00e9 a jovem filha do motorista da fam\u00edlia Larrabee, que foi apaixonado por David Larrabee a vida toda. David \u00e9 muito mimado e louco por mulheres, e ignorou a Sabrina durante anos. Sabrina vai para Paris por alguns anos e quando ela retorna \u00e9 uma mulher muito atraente e sofisticada, e David fica rapidamente atra\u00eddo por ela. Linus, o irm\u00e3o de David, v\u00ea isso e teme que o casamento iminente de Davi com uma mulher muito rica pode estar amea\u00e7ado. Se o casamento for cancelado um grande neg\u00f3cio corporativo com a fam\u00edlia da noiva tamb\u00e9m ser\u00e1 cancelado. Ent\u00e3o, Linus tenta manter Sabrina fora da vista de seu irm\u00e3o, e a melhor maneira de fazer isso \u00e9 ele mesmo cortejar Sabrina.",
+                "vote_average": 7.5,
+                "vote_count": 1171
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Seven Brides for Seven Brothers",
+            "second_label": "Albert Hackett, Frances Goodrich, Dorothy Kingsley",
+            "category": "Writing (Screenplay)",
+            "year": 1955,
+            "tmdb": {
+                "id": 16563,
+                "original_title": "Seven Brides for Seven Brothers",
+                "title": "Sete Noivas Para Sete Irm\u00e3os",
+                "release_date": "1954-07-22",
+                "backdrop_path": "/cqzTJvj82vsh4JPYxCw6MSvdoFC.jpg",
+                "poster_path": "/eExiNiIMAQ6ArzudNG3G3ehPTc.jpg",
+                "overview": "Depois que Adam (Howard Keel), o irm\u00e3o mais velho de uma fam\u00edlia de caipiras, volta para sua fazenda com uma noiva, seus outros seis irm\u00e3os solteir\u00f5es decidem ir para a cidade e arrumar seis noivas para morarem com eles na fazenda tamb\u00e9m.",
+                "vote_average": 7.2,
+                "vote_count": 513
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Story and Screenplay)": [
+        {
+            "first_label": "On the Waterfront",
+            "second_label": "Budd Schulberg",
+            "category": "Writing (Story and Screenplay)",
+            "year": 1955,
+            "tmdb": {
+                "id": 654,
+                "original_title": "On the Waterfront",
+                "title": "Sindicato de Ladr\u00f5es",
+                "release_date": "1954-06-22",
+                "backdrop_path": "/pxkQAIhC7LXN5s5B23lnvCMgva5.jpg",
+                "poster_path": "/kH8g3tJmIGLuJXxxdCYydjfX0gy.jpg",
+                "overview": "Terry Malloy sonha com as gl\u00f3rias do boxe, mas foi convencido pelo corrupto mafioso Johnny Friendly, para quem trabalha, a perder uma luta. Quando Terry presencia um assassinato cometido pelos capangas do chefe, ele se sente respons\u00e1vel pelo crime.",
+                "vote_average": 7.9,
+                "vote_count": 1475
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Barefoot Contessa",
+            "second_label": "Joseph L. Mankiewicz",
+            "category": "Writing (Story and Screenplay)",
+            "year": 1955,
+            "tmdb": {
+                "id": 34689,
+                "original_title": "The Barefoot Contessa",
+                "title": "A Condessa Descal\u00e7a",
+                "release_date": "1954-09-29",
+                "backdrop_path": "/2yK59yDiP4P5hsENbGYSPc3YA5I.jpg",
+                "poster_path": "/5K83SyWx7M2ubyp44AM4xGhLyki.jpg",
+                "overview": "No funeral de Maria Vargas, v\u00e1rias pessoas se lembram de quem ela era e o impacto que ela causou sobre eles. Harry Dawes era um n\u00e3o muito bem sucedido escritor/diretor quando ele e produtor de cinema Kirk Edwards descobriram ela em uma boate de segunda, onde ela trabalhava como dan\u00e7arina de flamenco. Ele a convenceu a aceitar a chance de atua\u00e7\u00e3o e seu primeiro filme foi um enorme sucesso. O Rela\u00e7\u00f5es P\u00fablicas Oscar Muldoon se lembra de quando Maria estava no tribunal apoiando seu pai, que foi acusado de assassinar sua m\u00e3e. Foi o testemunho de Maria que o livrou e ela foi uma estrela maior do que nunca. Alberto Bravano, um dos homens mais ricos da Am\u00e9rica do Sul, lan\u00e7a seu olhar sobre Maria e ela sai com ele - mais para irritar Edwards do que outra coisa - mas ele a trata mal. Quando ela conhece o Conde Vincenzo Torlato-Favrini ficam profundamente apaixonados. Eles se casam, mas eles n\u00e3o t\u00eam uma vida feliz.",
+                "vote_average": 6.8,
+                "vote_count": 208
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Genevieve",
+            "second_label": "William Rose",
+            "category": "Writing (Story and Screenplay)",
+            "year": 1955,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Glenn Miller Story",
+            "second_label": "Valentine Davies, Oscar Brodney",
+            "category": "Writing (Story and Screenplay)",
+            "year": 1955,
+            "tmdb": {
+                "id": 17729,
+                "original_title": "The Glenn Miller Story",
+                "title": "M\u00fasica e L\u00e1grimas",
+                "release_date": "1954-01-04",
+                "backdrop_path": "/weRJkZn65fHWFVhF4BLadU2TXkB.jpg",
+                "poster_path": "/d1HzoqKWqlpKfTAZmJ2yd9Rag8z.jpg",
+                "overview": "O famoso artista Glenn Miller (James Stewart) come\u00e7a cedo a escrever sua hist\u00f3ria. Nos anos 30, ele entra nos neg\u00f3cios musicais e enfrenta algumas dificuldades iniciais como o fracasso de sua primeira banda de estrada. No entanto, ele n\u00e3o desiste e mais tarde casa-se com Helen Burger (June Allyson), que o acompanhar\u00e1 na sua trilha para o sucesso.",
+                "vote_average": 6.9,
+                "vote_count": 140
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Knock on Wood",
+            "second_label": "Norman Panama, Melvin Frank",
+            "category": "Writing (Story and Screenplay)",
+            "year": 1955,
+            "tmdb": {
+                "id": 55859,
+                "original_title": "Knock On Wood",
+                "title": "Cabe\u00e7a de Pau",
+                "release_date": "1954-04-06",
+                "backdrop_path": "/zeIbItfG8cPFNawVc94yETafi9i.jpg",
+                "poster_path": "/mSoZzEcqJl0g3kLGPH4rvvHWiaM.jpg",
+                "overview": "O Ventr\u00edloquo Jerry Morgan v\u00ea um outro caso de amor falhar. O motivo: quando o relacionamento chega ao ponto em que \u00e9 hora de falar sobre o matrim\u00f4nio, seu boneco Clarence torna-se desprez\u00edvel e ciumento. Sua noiva Audrey o abandona e Jerry quebra seus dois bonecos, Clarence e Terrence. O fabricante dos bonecos de Morgan \u00e9 o Sr. Papinek  que \u00e9 membro de uma rede de espionagem que roubou planos secretos para a produ\u00e7\u00e3o do avi\u00e3o secreto Lafayette. Como Morgan est\u00e1 indo para Zurique, na mesma noite, Papinek decide usar os bonecos de Morgan como correio e esconde os planos secretos nas cabe\u00e7as dos bonecos. Outra rede de espionagem secreta tamb\u00e9m quer ter em suas m\u00e3os a bagagem de Jerry e eles \"tamb\u00e9m\" o perseguem. Al\u00e9m destas duas organiza\u00e7\u00f5es Jerry tamb\u00e9m \u00e9 perseguido pela pol\u00edcia, que suspeita que ele cometeu um assassinato.  O C\u00f4mico N\u00ba 1 da Can\u00e7\u00e3o e da Dan\u00e7a em seu melhor!",
+                "vote_average": 6.6,
+                "vote_count": 28
+            },
+            "winner": false
+        }
+    ]
+}
