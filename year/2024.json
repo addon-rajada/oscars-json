@@ -1,0 +1,2016 @@
+{
+    "Actor in a Leading Role": [
+        {
+            "first_label": "Cillian Murphy",
+            "second_label": "Oppenheimer",
+            "category": "Actor in a Leading Role",
+            "year": 2024,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Bradley Cooper",
+            "second_label": "Maestro",
+            "category": "Actor in a Leading Role",
+            "year": 2024,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Colman Domingo",
+            "second_label": "Rustin",
+            "category": "Actor in a Leading Role",
+            "year": 2024,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Paul Giamatti",
+            "second_label": "The Holdovers",
+            "category": "Actor in a Leading Role",
+            "year": 2024,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jeffrey Wright",
+            "second_label": "American Fiction",
+            "category": "Actor in a Leading Role",
+            "year": 2024,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Robert Downey Jr.",
+            "second_label": "Oppenheimer",
+            "category": "Actor in a Supporting Role",
+            "year": 2024,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Sterling K. Brown",
+            "second_label": "American Fiction",
+            "category": "Actor in a Supporting Role",
+            "year": 2024,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Robert De Niro",
+            "second_label": "Killers of the Flower Moon",
+            "category": "Actor in a Supporting Role",
+            "year": 2024,
+            "tmdb": {
+                "id": 1171401,
+                "original_title": "Robert De Niro, l'arme du silence",
+                "title": "Robert De Niro: Hiding in the Spotlight",
+                "release_date": "2023-08-14",
+                "backdrop_path": "/1T2fwCw4YJU768Kb2xUc810WiZG.jpg",
+                "poster_path": "/2JNpfVv6NIC2XWrRYDNGsC1IwyY.jpg",
+                "overview": "Robert De Niro is famous for his award-winning portrayals of gangsters, criminals and socially disturbed men who show surprising traces of vulnerability. By analyzing his astonishing roles in iconic films through the years, the documentary reveal the complex actor behind these extreme characters. Because the public knows little about the man who is largely silent about his own life and emotions, this film tries to unwraps one of the most fascinating and enigmatic American actors of all time for the audience. For this the filmakers use clips from his feature films, archive footage of his sparse interviews and probe into his background to illustrate De Niro\u2019s methods for becoming the characters he plays and the reasons he\u2019s able to do so. All of this culminates in a rare expos\u00e9 of the genesis of the hidden pain that enables the masterful actor to bring such intensity to the big screen.",
+                "vote_average": 8.1,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ryan Gosling",
+            "second_label": "Barbie",
+            "category": "Actor in a Supporting Role",
+            "year": 2024,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mark Ruffalo",
+            "second_label": "Poor Things",
+            "category": "Actor in a Supporting Role",
+            "year": 2024,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Leading Role": [
+        {
+            "first_label": "Emma Stone",
+            "second_label": "Poor Things",
+            "category": "Actress in a Leading Role",
+            "year": 2024,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Annette Bening",
+            "second_label": "Nyad",
+            "category": "Actress in a Leading Role",
+            "year": 2024,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lily Gladstone",
+            "second_label": "Killers of the Flower Moon",
+            "category": "Actress in a Leading Role",
+            "year": 2024,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sandra Hller",
+            "second_label": "Anatomy of a Fall",
+            "category": "Actress in a Leading Role",
+            "year": 2024,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Carey Mulligan",
+            "second_label": "Maestro",
+            "category": "Actress in a Leading Role",
+            "year": 2024,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Da'Vine Joy Randolph",
+            "second_label": "The Holdovers",
+            "category": "Actress in a Supporting Role",
+            "year": 2024,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Emily Blunt",
+            "second_label": "Oppenheimer",
+            "category": "Actress in a Supporting Role",
+            "year": 2024,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Danielle Brooks",
+            "second_label": "The Color Purple",
+            "category": "Actress in a Supporting Role",
+            "year": 2024,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "America Ferrera",
+            "second_label": "Barbie",
+            "category": "Actress in a Supporting Role",
+            "year": 2024,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jodie Foster",
+            "second_label": "Nyad",
+            "category": "Actress in a Supporting Role",
+            "year": 2024,
+            "tmdb": {
+                "id": 1213775,
+                "original_title": "Jodie Foster, une histoire fran\u00e7aise",
+                "title": "Jodie Foster, une histoire fran\u00e7aise",
+                "release_date": "2023-12-05",
+                "backdrop_path": null,
+                "poster_path": "/jYeBsLP6vvz1N0bLSxDpAxTmobB.jpg",
+                "overview": "",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        }
+    ],
+    "Animated Feature Film": [
+        {
+            "first_label": "The Boy and the Heron",
+            "second_label": "Hayao Miyazaki and Toshio Suzuki",
+            "category": "Animated Feature Film",
+            "year": 2024,
+            "tmdb": {
+                "id": 508883,
+                "original_title": "\u541b\u305f\u3061\u306f\u3069\u3046\u751f\u304d\u308b\u304b",
+                "title": "O Menino e a Gar\u00e7a",
+                "release_date": "2023-07-14",
+                "backdrop_path": "/a0GM57AnJtNi7lMOCamniiyV10W.jpg",
+                "poster_path": "/dYwihSnQmCVuIQbuG9n18BK5Iqd.jpg",
+                "overview": "Depois de perder a m\u00e3e durante a guerra, o jovem Mahito muda-se para a propriedade de sua fam\u00edlia no campo. L\u00e1, uma s\u00e9rie de eventos misteriosos o levam a uma torre antiga e isolada, lar de uma travessa gar\u00e7a cinzenta. Quando a nova madrasta de Mahito desaparece, ele segue a gar\u00e7a at\u00e9 a torre e entra num mundo fant\u00e1stico partilhado pelos vivos e pelos mortos. Ao embarcar em uma jornada \u00e9pica com a gar\u00e7a como guia, Mahito deve descobrir os segredos deste mundo e a verdade sobre si mesmo.",
+                "vote_average": 7.4,
+                "vote_count": 1134
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Elemental",
+            "second_label": "Peter Sohn and Denise Ream",
+            "category": "Animated Feature Film",
+            "year": 2024,
+            "tmdb": {
+                "id": 976573,
+                "original_title": "Elemental",
+                "title": "Elementos",
+                "release_date": "2023-06-14",
+                "backdrop_path": "/pA4sNvcohTNPx3AhEEeIu8gSt7h.jpg",
+                "poster_path": "/tsfaRkZfUl5Ve9GMV8oY0UuLH52.jpg",
+                "overview": "Em uma cidade onde moradores do fogo, da \u00e1gua, da terra e do ar vivem juntos, uma jovem impetuosa e um homem tranquilo est\u00e3o prestes a descobrir algo elementar: o quanto realmente t\u00eam em comum.",
+                "vote_average": 7.668,
+                "vote_count": 3868
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Nimona",
+            "second_label": "Nick Bruno, Troy Quane, Karen Ryan and Julie Zackary",
+            "category": "Animated Feature Film",
+            "year": 2024,
+            "tmdb": {
+                "id": 961323,
+                "original_title": "Nimona",
+                "title": "Nimona",
+                "release_date": "2023-06-23",
+                "backdrop_path": "/4QpKxH614YFIsmiIBVUbsnG2H8w.jpg",
+                "poster_path": "/fgxGOLPoqv2e0ENAnVAPwDeMl40.jpg",
+                "overview": "Um cavaleiro acusado de um crime terr\u00edvel recorre a uma adolescente que muda de forma para provar sua inoc\u00eancia.  Mas e se ela for o monstro que ele jurou destruir?",
+                "vote_average": 7.928,
+                "vote_count": 897
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Robot Dreams",
+            "second_label": "Pablo Berger, Ibon Cormenzana, Ignasi Estap and Sandra Tapia Daz",
+            "category": "Animated Feature Film",
+            "year": 2024,
+            "tmdb": {
+                "id": 838240,
+                "original_title": "Robot Dreams",
+                "title": "Meu Amigo Rob\u00f4",
+                "release_date": "2023-10-20",
+                "backdrop_path": "/hIeEpk2w1dnC9ly9ZJwwbunH2Cx.jpg",
+                "poster_path": "/30TUJgAUBbHdq9Rm44Xm6Tlwzwg.jpg",
+                "overview": "Dog mora em Nova York e, cansado de ficar sozinho, um dia ele decide comprar um rob\u00f4 para ser seu amigo. Eles se tornam amigos insepar\u00e1veis, at\u00e9 que Dog \u00e9 obrigado a tomar uma dificil decis\u00e3o.",
+                "vote_average": 7.5,
+                "vote_count": 138
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Spider-Man: Across the Spider-Verse",
+            "second_label": "Kemp Powers, Justin K. Thompson, Phil Lord, Christopher Miller and Amy Pascal",
+            "category": "Animated Feature Film",
+            "year": 2024,
+            "tmdb": {
+                "id": 569094,
+                "original_title": "Spider-Man: Across the Spider-Verse",
+                "title": "Homem-Aranha: Atrav\u00e9s do Aranhaverso",
+                "release_date": "2023-05-31",
+                "backdrop_path": "/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg",
+                "poster_path": "/fUwfsPWEEdnSt29jIwJ5eVtySX6.jpg",
+                "overview": "Miles Morales retorna para o pr\u00f3ximo cap\u00edtulo da saga do Aranhaverso, uma aventura \u00e9pica que transportar\u00e1 o Homem-Aranha em tempo integral e amig\u00e1vel do bairro do Brooklyn atrav\u00e9s do Multiverso para unir for\u00e7as com Gwen Stacy e uma nova equipe de Homens-Aranha para enfrentar com um vil\u00e3o mais poderoso do que qualquer coisa que eles j\u00e1 encontraram.",
+                "vote_average": 8.379,
+                "vote_count": 6043
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "Oppenheimer",
+            "second_label": "Hoyte van Hoytema",
+            "category": "Cinematography",
+            "year": 2024,
+            "tmdb": {
+                "id": 872585,
+                "original_title": "Oppenheimer",
+                "title": "Oppenheimer",
+                "release_date": "2023-07-19",
+                "backdrop_path": "/nb3xI8XI3w4pMVZ38VijbsyBqP4.jpg",
+                "poster_path": "/1OsQJEoSXBjduuCvDOlRhoEUaHu.jpg",
+                "overview": "A hist\u00f3ria do f\u00edsico americano J. Robert Oppenheimer, seu papel no Projeto Manhattan e no desenvolvimento da bomba at\u00f4mica durante a Segunda Guerra Mundial, e o quanto isso mudaria a hist\u00f3ria do mundo para sempre.",
+                "vote_average": 8.11,
+                "vote_count": 7409
+            },
+            "winner": true
+        },
+        {
+            "first_label": "El Conde",
+            "second_label": "Edward Lachman",
+            "category": "Cinematography",
+            "year": 2024,
+            "tmdb": {
+                "id": 991708,
+                "original_title": "El Conde",
+                "title": "O Conde",
+                "release_date": "2023-09-08",
+                "backdrop_path": "/f0oDdvbzZ1qjfggotV1aniJmd6b.jpg",
+                "poster_path": "/xzeWcVsq6olxyoBcKzKlvHF5iST.jpg",
+                "overview": "Augusto Pinochet \u00e9 vampiro e est\u00e1 pronto para morrer, mas os abutres que o rodeiam ainda esperam uma \u00faltima mordida.",
+                "vote_average": 6.2,
+                "vote_count": 213
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Killers of the Flower Moon",
+            "second_label": "Rodrigo Prieto",
+            "category": "Cinematography",
+            "year": 2024,
+            "tmdb": {
+                "id": 466420,
+                "original_title": "Killers of the Flower Moon",
+                "title": "Assassinos da Lua das Flores",
+                "release_date": "2023-10-18",
+                "backdrop_path": "/acvE3RWjDLgvbL2RtcyzkrsAyNV.jpg",
+                "poster_path": "/kBLMPD5BCmcrHKIhjZ86uWHZG5K.jpg",
+                "overview": "Na d\u00e9cada de 1920, em Oklahoma, o povo da tribo Osage come\u00e7a a ser assassinado ap\u00f3s petr\u00f3leo ser descoberto sob suas terras. O mist\u00e9rio come\u00e7a a ser investigado por uma organiza\u00e7\u00e3o que ficaria conhecida como FBI.",
+                "vote_average": 7.498,
+                "vote_count": 2680
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Maestro",
+            "second_label": "Matthew Libatique",
+            "category": "Cinematography",
+            "year": 2024,
+            "tmdb": {
+                "id": 523607,
+                "original_title": "Maestro",
+                "title": "Maestro",
+                "release_date": "2023-11-22",
+                "backdrop_path": "/et0G74BxoBgNQEZBkUcVhsgeRFF.jpg",
+                "poster_path": "/7e1D6Heg9G8RdEzMgDsMjJJX5TD.jpg",
+                "overview": "Uma hist\u00f3ria de amor que narra o relacionamento entre o maestro e compositor Leonard Bernstein e a atriz Felicia Montealegre Cohn Bernstein.",
+                "vote_average": 6.425,
+                "vote_count": 586
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Poor Things",
+            "second_label": "Robbie Ryan",
+            "category": "Cinematography",
+            "year": 2024,
+            "tmdb": {
+                "id": 792307,
+                "original_title": "Poor Things",
+                "title": "Pobres Criaturas",
+                "release_date": "2023-12-07",
+                "backdrop_path": "/bQS43HSLZzMjZkcHJz4fGc7fNdz.jpg",
+                "poster_path": "/iOdcXYSVzBgmBJzNIlIMOZ6fz0F.jpg",
+                "overview": "A jovem Bella Baxter \u00e9 trazida de volta \u00e0 vida pelo cientista Dr. Godwin Baxter. Querendo ver mais do mundo, ela foge com um advogado e viaja pelos continentes. Livre dos preconceitos de sua \u00e9poca, Bella exige igualdade e liberta\u00e7\u00e3o.",
+                "vote_average": 7.844,
+                "vote_count": 2773
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design": [
+        {
+            "first_label": "Poor Things",
+            "second_label": "Holly Waddington",
+            "category": "Costume Design",
+            "year": 2024,
+            "tmdb": {
+                "id": 792307,
+                "original_title": "Poor Things",
+                "title": "Pobres Criaturas",
+                "release_date": "2023-12-07",
+                "backdrop_path": "/bQS43HSLZzMjZkcHJz4fGc7fNdz.jpg",
+                "poster_path": "/iOdcXYSVzBgmBJzNIlIMOZ6fz0F.jpg",
+                "overview": "A jovem Bella Baxter \u00e9 trazida de volta \u00e0 vida pelo cientista Dr. Godwin Baxter. Querendo ver mais do mundo, ela foge com um advogado e viaja pelos continentes. Livre dos preconceitos de sua \u00e9poca, Bella exige igualdade e liberta\u00e7\u00e3o.",
+                "vote_average": 7.844,
+                "vote_count": 2773
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Barbie",
+            "second_label": "Jacqueline Durran",
+            "category": "Costume Design",
+            "year": 2024,
+            "tmdb": {
+                "id": 346698,
+                "original_title": "Barbie",
+                "title": "Barbie",
+                "release_date": "2023-07-19",
+                "backdrop_path": "/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+                "poster_path": "/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg",
+                "overview": "No mundo m\u00e1gico das Barbies, \"Barbieland\", uma das bonecas come\u00e7a a perceber que n\u00e3o se encaixa como as outras. Depois de ser expulsa, ela parte para uma aventura no \"mundo real\", onde descobre que a beleza est\u00e1 no interior de cada um.",
+                "vote_average": 7.1,
+                "vote_count": 7851
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Killers of the Flower Moon",
+            "second_label": "Jacqueline West",
+            "category": "Costume Design",
+            "year": 2024,
+            "tmdb": {
+                "id": 466420,
+                "original_title": "Killers of the Flower Moon",
+                "title": "Assassinos da Lua das Flores",
+                "release_date": "2023-10-18",
+                "backdrop_path": "/acvE3RWjDLgvbL2RtcyzkrsAyNV.jpg",
+                "poster_path": "/kBLMPD5BCmcrHKIhjZ86uWHZG5K.jpg",
+                "overview": "Na d\u00e9cada de 1920, em Oklahoma, o povo da tribo Osage come\u00e7a a ser assassinado ap\u00f3s petr\u00f3leo ser descoberto sob suas terras. O mist\u00e9rio come\u00e7a a ser investigado por uma organiza\u00e7\u00e3o que ficaria conhecida como FBI.",
+                "vote_average": 7.498,
+                "vote_count": 2680
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Napoleon",
+            "second_label": "Janty Yates and Dave Crossman",
+            "category": "Costume Design",
+            "year": 2024,
+            "tmdb": {
+                "id": 753342,
+                "original_title": "Napoleon",
+                "title": "Napole\u00e3o",
+                "release_date": "2023-11-22",
+                "backdrop_path": "/eHMh7kChaNeD4VTdMCXLJbRTzcI.jpg",
+                "poster_path": "/64z8VyPn4mNqaPt0Onx6ykl2Qzg.jpg",
+                "overview": "Um olhar pessoal sobre as origens do l\u00edder militar franc\u00eas e sua r\u00e1pida e implac\u00e1vel ascens\u00e3o a imperador. A hist\u00f3ria \u00e9 vista atrav\u00e9s do prisma do relacionamento dependente e vol\u00e1til de Napole\u00e3o com sua esposa e amor verdadeiro, Josefina.",
+                "vote_average": 6.477,
+                "vote_count": 1917
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Oppenheimer",
+            "second_label": "Ellen Mirojnick",
+            "category": "Costume Design",
+            "year": 2024,
+            "tmdb": {
+                "id": 872585,
+                "original_title": "Oppenheimer",
+                "title": "Oppenheimer",
+                "release_date": "2023-07-19",
+                "backdrop_path": "/nb3xI8XI3w4pMVZ38VijbsyBqP4.jpg",
+                "poster_path": "/1OsQJEoSXBjduuCvDOlRhoEUaHu.jpg",
+                "overview": "A hist\u00f3ria do f\u00edsico americano J. Robert Oppenheimer, seu papel no Projeto Manhattan e no desenvolvimento da bomba at\u00f4mica durante a Segunda Guerra Mundial, e o quanto isso mudaria a hist\u00f3ria do mundo para sempre.",
+                "vote_average": 8.11,
+                "vote_count": 7409
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "Oppenheimer",
+            "second_label": "Christopher Nolan",
+            "category": "Directing",
+            "year": 2024,
+            "tmdb": {
+                "id": 872585,
+                "original_title": "Oppenheimer",
+                "title": "Oppenheimer",
+                "release_date": "2023-07-19",
+                "backdrop_path": "/nb3xI8XI3w4pMVZ38VijbsyBqP4.jpg",
+                "poster_path": "/1OsQJEoSXBjduuCvDOlRhoEUaHu.jpg",
+                "overview": "A hist\u00f3ria do f\u00edsico americano J. Robert Oppenheimer, seu papel no Projeto Manhattan e no desenvolvimento da bomba at\u00f4mica durante a Segunda Guerra Mundial, e o quanto isso mudaria a hist\u00f3ria do mundo para sempre.",
+                "vote_average": 8.11,
+                "vote_count": 7409
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Anatomy of a Fall",
+            "second_label": "Justine Triet",
+            "category": "Directing",
+            "year": 2024,
+            "tmdb": {
+                "id": 915935,
+                "original_title": "Anatomie d'une chute",
+                "title": "Anatomia de uma Queda",
+                "release_date": "2023-08-23",
+                "backdrop_path": "/fGe1ej335XbqN1j9teoDpofpbLX.jpg",
+                "poster_path": "/woXYl0DJTx6TsfYWPkSfNHTsoOx.jpg",
+                "overview": "Uma mulher \u00e9 suspeita do assassinato de seu marido, e seu filho cego enfrenta um dilema moral como \u00fanica testemunha.",
+                "vote_average": 7.641,
+                "vote_count": 1596
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Killers of the Flower Moon",
+            "second_label": "Martin Scorsese",
+            "category": "Directing",
+            "year": 2024,
+            "tmdb": {
+                "id": 466420,
+                "original_title": "Killers of the Flower Moon",
+                "title": "Assassinos da Lua das Flores",
+                "release_date": "2023-10-18",
+                "backdrop_path": "/acvE3RWjDLgvbL2RtcyzkrsAyNV.jpg",
+                "poster_path": "/kBLMPD5BCmcrHKIhjZ86uWHZG5K.jpg",
+                "overview": "Na d\u00e9cada de 1920, em Oklahoma, o povo da tribo Osage come\u00e7a a ser assassinado ap\u00f3s petr\u00f3leo ser descoberto sob suas terras. O mist\u00e9rio come\u00e7a a ser investigado por uma organiza\u00e7\u00e3o que ficaria conhecida como FBI.",
+                "vote_average": 7.498,
+                "vote_count": 2680
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Poor Things",
+            "second_label": "Yorgos Lanthimos",
+            "category": "Directing",
+            "year": 2024,
+            "tmdb": {
+                "id": 792307,
+                "original_title": "Poor Things",
+                "title": "Pobres Criaturas",
+                "release_date": "2023-12-07",
+                "backdrop_path": "/bQS43HSLZzMjZkcHJz4fGc7fNdz.jpg",
+                "poster_path": "/iOdcXYSVzBgmBJzNIlIMOZ6fz0F.jpg",
+                "overview": "A jovem Bella Baxter \u00e9 trazida de volta \u00e0 vida pelo cientista Dr. Godwin Baxter. Querendo ver mais do mundo, ela foge com um advogado e viaja pelos continentes. Livre dos preconceitos de sua \u00e9poca, Bella exige igualdade e liberta\u00e7\u00e3o.",
+                "vote_average": 7.844,
+                "vote_count": 2773
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Zone of Interest",
+            "second_label": "Jonathan Glazer",
+            "category": "Directing",
+            "year": 2024,
+            "tmdb": {
+                "id": 467244,
+                "original_title": "The Zone of Interest",
+                "title": "Zona de Interesse",
+                "release_date": "2023-12-15",
+                "backdrop_path": "/aPQsU3yLDUOhLJYnSqkhKRkQTAw.jpg",
+                "poster_path": "/bZlZ1hcmP6KkZfXxXcNngaFzMcS.jpg",
+                "overview": "O comandante Rudolf H\u00f6ss e sua esposa Hedwig, desfrutam de uma vida aparentemente comum em uma casa com um belo jardim. Mas, por tr\u00e1s da fachada de tranquilidade, a fam\u00edlia feliz vive, na verdade, ao lado do campo de concentra\u00e7\u00e3o de Auschwitz. O dia-a dia destes personagens se desenrola entre os gritos abafados de desespero de um genoc\u00eddio do qual eles tem as m\u00e3os manchadas de sangue.",
+                "vote_average": 7.31,
+                "vote_count": 959
+            },
+            "winner": false
+        }
+    ],
+    "Documentary Feature Film": [
+        {
+            "first_label": "20 Days in Mariupol",
+            "second_label": "Mstyslav Chernov, Michelle Mizner and Raney Aronson-Rath",
+            "category": "Documentary Feature Film",
+            "year": 2024,
+            "tmdb": {
+                "id": 1058616,
+                "original_title": "20 Days in Mariupol",
+                "title": "20 Dias em Mauripol",
+                "release_date": "2023-07-14",
+                "backdrop_path": "/986n9SAXsuxpPJzFAWK3azPknX0.jpg",
+                "poster_path": "/21rFQUyP8SDJhWm6cpAbHdOL5f0.jpg",
+                "overview": "Quando a invas\u00e3o russa come\u00e7a, jornalistas ucranianos presos na cidade de Mariupol lutam para continuar documentando as atrocidades da guerra.",
+                "vote_average": 8.285,
+                "vote_count": 107
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Bobi Wine: The People's President",
+            "second_label": "Moses Bwayo, Christopher Sharp and John Battsek",
+            "category": "Documentary Feature Film",
+            "year": 2024,
+            "tmdb": {
+                "id": 1004683,
+                "original_title": "Bobi Wine: The People's President",
+                "title": "Bobi Wine: The People's President",
+                "release_date": "2023-07-28",
+                "backdrop_path": "/eBWByfYdAY4Gcch07TIJ0WjpTbB.jpg",
+                "poster_path": "/uxDsCY7nxjURRhIh4Epba8tGsKt.jpg",
+                "overview": "O l\u00edder da oposi\u00e7\u00e3o, ativista e estrela musical de Uganda, Bobi Wine, usa sua m\u00fasica para combater o regime liderado por Yoweri Museveni, que liderou o pa\u00eds por 35 anos. O document\u00e1rio acompanha sua corrida \u00e0s elei\u00e7\u00f5es presidenciais de 2021.",
+                "vote_average": 6.7,
+                "vote_count": 17
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Eternal Memory",
+            "second_label": "Maite Alberdi",
+            "category": "Documentary Feature Film",
+            "year": 2024,
+            "tmdb": {
+                "id": 1032760,
+                "original_title": "La memoria infinita",
+                "title": "A Mem\u00f3ria Infinita",
+                "release_date": "2023-08-11",
+                "backdrop_path": "/d0WXOA6pQanoDBc60WtEaF5oM5R.jpg",
+                "poster_path": "/v1Qebin5eJ1xpSycFBbx74ccaME.jpg",
+                "overview": "Conta uma hist\u00f3ria de amor profunda e comovente que equilibra a vibrante mem\u00f3ria individual e coletiva com a longevidade de um v\u00ednculo humano inquebr\u00e1vel.",
+                "vote_average": 8.163,
+                "vote_count": 49
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Four Daughters",
+            "second_label": "Kaouther Ben Hania and Nadim Cheikhrouha",
+            "category": "Documentary Feature Film",
+            "year": 2024,
+            "tmdb": {
+                "id": 1069193,
+                "original_title": "Les filles d'Olfa",
+                "title": "As 4 Filhas de Olfa",
+                "release_date": "2023-07-05",
+                "backdrop_path": "/k7bPM2CFFpJfGgSmY1B9EG9xmnI.jpg",
+                "poster_path": "/oVqzDUHUY7cuTTprVlF8XPbo8Pg.jpg",
+                "overview": "Between light and darkness stands Olfa, a Tunisian woman and the mother of four daughters. One day, her two older daughters disappear. To fill in their absence, the filmmaker Kaouther Ben Hania invites professional actresses and invents a unique cinema experience that will lift the veil on Olfa and her daughters' life stories. An intimate journey of hope, rebellion, violence, transmission and sisterhood that will question the very foundations of our societies.",
+                "vote_average": 7.4,
+                "vote_count": 46
+            },
+            "winner": false
+        },
+        {
+            "first_label": "To Kill a Tiger",
+            "second_label": "Nisha Pahuja, Cornelia Principe and David Oppenheim",
+            "category": "Documentary Feature Film",
+            "year": 2024,
+            "tmdb": {
+                "id": 1015356,
+                "original_title": "To Kill a Tiger",
+                "title": "Matar um Tigre",
+                "release_date": "2023-10-20",
+                "backdrop_path": "/d14tpaz2DlQBRXDk94M4pU2gXvj.jpg",
+                "poster_path": "/954awevQWhHGrtTVlbUJoLX0h5b.jpg",
+                "overview": "Depois que sua filha adolescente sobrevive a um crime terr\u00edvel, um fazendeiro busca incansavelmente por justi\u00e7a, desafiando a intoler\u00e2ncia de seu vilarejo.",
+                "vote_average": 7.4,
+                "vote_count": 15
+            },
+            "winner": false
+        }
+    ],
+    "Documentary Short Film": [
+        {
+            "first_label": "The Last Repair Shop",
+            "second_label": "Ben Proudfoot and Kris Bowers",
+            "category": "Documentary Short Film",
+            "year": 2024,
+            "tmdb": {
+                "id": 1171861,
+                "original_title": "The Last Repair Shop",
+                "title": "A \u00daltima Loja de Consertos",
+                "release_date": "2024-02-16",
+                "backdrop_path": "/kYi7zjmPeetxYPXYbErxwUSK757.jpg",
+                "poster_path": "/uzNuDQvgCEUEDTeH2x65ixHNIRk.jpg",
+                "overview": "Los Angeles \u00e9 uma das \u00faltimas cidades estadunidenses a oferecer consertos gratuitos de instrumentos musicais para alunos de escolas p\u00fablicas, um servi\u00e7o cont\u00ednuo desde 1959. Da dupla de diretores indicados ao Oscar, Ben Proudfoot e Kris Bower, \u201cThe Last Repair Shop\u201d garante livre acesso ao galp\u00e3o onde alguns dedicados artes\u00e3os mant\u00eam mais de 80 mil instrumentos de alunos em boas condi\u00e7\u00f5es.",
+                "vote_average": 7.7,
+                "vote_count": 21
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The ABCs of Book Banning",
+            "second_label": "Sheila Nevins and Trish Adlesic",
+            "category": "Documentary Short Film",
+            "year": 2024,
+            "tmdb": {
+                "id": 1186227,
+                "original_title": "The ABCs of Book Banning",
+                "title": "O ABC da Proibi\u00e7\u00e3o de Livros",
+                "release_date": "2024-02-16",
+                "backdrop_path": "/s7hJk4PnB6fv86vo5hyf1SeGS5h.jpg",
+                "poster_path": "/wcgYS6gv9dA0jBaQQft2eLjPAh0.jpg",
+                "overview": "A centen\u00e1ria Grace Linn e as crian\u00e7as dos Estados Unidos se expressam contra a proibi\u00e7\u00e3o de livros.",
+                "vote_average": 5.8,
+                "vote_count": 10
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Barber of Little Rock",
+            "second_label": "John Hoffman and Christine Turner",
+            "category": "Documentary Short Film",
+            "year": 2024,
+            "tmdb": {
+                "id": 1186247,
+                "original_title": "The Barber of Little Rock",
+                "title": "The Barber of Little Rock",
+                "release_date": "2023-07-21",
+                "backdrop_path": "/vzmuWZzMfcfCXcq1T2qtyZSzblE.jpg",
+                "poster_path": "/eSikhf6EozXT94zCG4uX2eIuE16.jpg",
+                "overview": "Explores the racial wealth gap in America through the story of People Trust, a homegrown community bank in Little Rock, Arkansas, working to uplift a community that has been largely excluded from the financial engines that create wealth.",
+                "vote_average": 6.7,
+                "vote_count": 22
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Island in Between",
+            "second_label": "S. Leo Chiang and Jean Tsien",
+            "category": "Documentary Short Film",
+            "year": 2024,
+            "tmdb": {
+                "id": 1203439,
+                "original_title": "\u91d1\u9580",
+                "title": "Island in Between",
+                "release_date": "2023-09-29",
+                "backdrop_path": "/uGVNGqJUkrCKADZ0Vqe3WyojiTf.jpg",
+                "poster_path": "/yGs3HkMD2pl4fQscxFL4uWI639n.jpg",
+                "overview": "The rural Taiwanese outer islands of Kinmen sit merely 2 miles off the coast of China. Kinmen attracts tourists for its remains from the 1949 Chinese Civil War. It also marks the frontline for Taiwan in its escalating tension with China.",
+                "vote_average": 6.4,
+                "vote_count": 23
+            },
+            "winner": false
+        },
+        {
+            "first_label": "N\u01cei Nai & Wi P",
+            "second_label": "Sean Wang and Sam Davis",
+            "category": "Documentary Short Film",
+            "year": 2024,
+            "tmdb": {
+                "id": 1085779,
+                "original_title": "N\u01cei Nai & W\u00e0i P\u00f3",
+                "title": "Pessoas e Lugares Extraordin\u00e1rios: Vov\u00f3 e Av\u00f3",
+                "release_date": "2024-02-16",
+                "backdrop_path": "/wwkdJ22CRDuZdHO2ccR3h0JErOX.jpg",
+                "poster_path": "/VaarQCpO2CtzLPFUYXD7tIHc9D.jpg",
+                "overview": "Vov\u00f3 & Av\u00f3, dirigido pelo cineasta taiwan\u00eas-americano Sean Wang, mergulha na intimidade di\u00e1ria de duas idosas que vivem juntas e compartilham uma amizade profunda.",
+                "vote_average": 7.8,
+                "vote_count": 15
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "Oppenheimer",
+            "second_label": "Jennifer Lame",
+            "category": "Film Editing",
+            "year": 2024,
+            "tmdb": {
+                "id": 872585,
+                "original_title": "Oppenheimer",
+                "title": "Oppenheimer",
+                "release_date": "2023-07-19",
+                "backdrop_path": "/nb3xI8XI3w4pMVZ38VijbsyBqP4.jpg",
+                "poster_path": "/1OsQJEoSXBjduuCvDOlRhoEUaHu.jpg",
+                "overview": "A hist\u00f3ria do f\u00edsico americano J. Robert Oppenheimer, seu papel no Projeto Manhattan e no desenvolvimento da bomba at\u00f4mica durante a Segunda Guerra Mundial, e o quanto isso mudaria a hist\u00f3ria do mundo para sempre.",
+                "vote_average": 8.11,
+                "vote_count": 7409
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Anatomy of a Fall",
+            "second_label": "Laurent Snchal",
+            "category": "Film Editing",
+            "year": 2024,
+            "tmdb": {
+                "id": 915935,
+                "original_title": "Anatomie d'une chute",
+                "title": "Anatomia de uma Queda",
+                "release_date": "2023-08-23",
+                "backdrop_path": "/fGe1ej335XbqN1j9teoDpofpbLX.jpg",
+                "poster_path": "/woXYl0DJTx6TsfYWPkSfNHTsoOx.jpg",
+                "overview": "Uma mulher \u00e9 suspeita do assassinato de seu marido, e seu filho cego enfrenta um dilema moral como \u00fanica testemunha.",
+                "vote_average": 7.641,
+                "vote_count": 1596
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Holdovers",
+            "second_label": "Kevin Tent",
+            "category": "Film Editing",
+            "year": 2024,
+            "tmdb": {
+                "id": 840430,
+                "original_title": "The Holdovers",
+                "title": "Os Rejeitados",
+                "release_date": "2023-10-27",
+                "backdrop_path": "/57fhbxl9is7W7ur5v6UuvlNsoSg.jpg",
+                "poster_path": "/ek4FmIkKlH30xthKs2ANqrV7SOI.jpg",
+                "overview": "Um professor mal-humorado de uma prestigiada escola americana \u00e9 for\u00e7ado a cuidar de um grupo de alunos que n\u00e3o tem para onde ir durante as f\u00e9rias de Natal. Ele acaba criando um v\u00ednculo com um dos estudantes e com a cozinheira da escola, que acaba de perder seu filho no Vietn\u00e3.",
+                "vote_average": 7.751,
+                "vote_count": 1047
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Killers of the Flower Moon",
+            "second_label": "Thelma Schoonmaker",
+            "category": "Film Editing",
+            "year": 2024,
+            "tmdb": {
+                "id": 466420,
+                "original_title": "Killers of the Flower Moon",
+                "title": "Assassinos da Lua das Flores",
+                "release_date": "2023-10-18",
+                "backdrop_path": "/acvE3RWjDLgvbL2RtcyzkrsAyNV.jpg",
+                "poster_path": "/kBLMPD5BCmcrHKIhjZ86uWHZG5K.jpg",
+                "overview": "Na d\u00e9cada de 1920, em Oklahoma, o povo da tribo Osage come\u00e7a a ser assassinado ap\u00f3s petr\u00f3leo ser descoberto sob suas terras. O mist\u00e9rio come\u00e7a a ser investigado por uma organiza\u00e7\u00e3o que ficaria conhecida como FBI.",
+                "vote_average": 7.498,
+                "vote_count": 2680
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Poor Things",
+            "second_label": "Yorgos Mavropsaridis",
+            "category": "Film Editing",
+            "year": 2024,
+            "tmdb": {
+                "id": 792307,
+                "original_title": "Poor Things",
+                "title": "Pobres Criaturas",
+                "release_date": "2023-12-07",
+                "backdrop_path": "/bQS43HSLZzMjZkcHJz4fGc7fNdz.jpg",
+                "poster_path": "/iOdcXYSVzBgmBJzNIlIMOZ6fz0F.jpg",
+                "overview": "A jovem Bella Baxter \u00e9 trazida de volta \u00e0 vida pelo cientista Dr. Godwin Baxter. Querendo ver mais do mundo, ela foge com um advogado e viaja pelos continentes. Livre dos preconceitos de sua \u00e9poca, Bella exige igualdade e liberta\u00e7\u00e3o.",
+                "vote_average": 7.844,
+                "vote_count": 2773
+            },
+            "winner": false
+        }
+    ],
+    "International Feature Film": [
+        {
+            "first_label": "The Zone of Interest",
+            "second_label": "United Kingdom",
+            "category": "International Feature Film",
+            "year": 2024,
+            "tmdb": {
+                "id": 467244,
+                "original_title": "The Zone of Interest",
+                "title": "Zona de Interesse",
+                "release_date": "2023-12-15",
+                "backdrop_path": "/aPQsU3yLDUOhLJYnSqkhKRkQTAw.jpg",
+                "poster_path": "/bZlZ1hcmP6KkZfXxXcNngaFzMcS.jpg",
+                "overview": "O comandante Rudolf H\u00f6ss e sua esposa Hedwig, desfrutam de uma vida aparentemente comum em uma casa com um belo jardim. Mas, por tr\u00e1s da fachada de tranquilidade, a fam\u00edlia feliz vive, na verdade, ao lado do campo de concentra\u00e7\u00e3o de Auschwitz. O dia-a dia destes personagens se desenrola entre os gritos abafados de desespero de um genoc\u00eddio do qual eles tem as m\u00e3os manchadas de sangue.",
+                "vote_average": 7.31,
+                "vote_count": 959
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Io Capitano",
+            "second_label": "Italy",
+            "category": "International Feature Film",
+            "year": 2024,
+            "tmdb": {
+                "id": 937746,
+                "original_title": "Io capitano",
+                "title": "Eu, Capit\u00e3o",
+                "release_date": "2023-09-07",
+                "backdrop_path": "/xdlAS0BH3aVP74ABH15bDe4KgLi.jpg",
+                "poster_path": "/y6y3E3RWB4z6Pdf4OM0XmtqMqsX.jpg",
+                "overview": "Ansiando por um futuro melhor, dois adolescentes senegaleses embarcam numa viagem da \u00c1frica Ocidental para It\u00e1lia.  No entanto, entre os seus sonhos e a realidade existe um labirinto de postos de controlo, o Deserto do Saara e as vastas \u00e1guas do Mediterr\u00e2neo.",
+                "vote_average": 7.8,
+                "vote_count": 440
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Perfect Days",
+            "second_label": "Japan",
+            "category": "International Feature Film",
+            "year": 2024,
+            "tmdb": {
+                "id": 976893,
+                "original_title": "PERFECT DAYS",
+                "title": "Dias Perfeitos",
+                "release_date": "2023-11-10",
+                "backdrop_path": "/ae48U4187XzjJ7En7YTAIz2QKQC.jpg",
+                "poster_path": "/p4oCDJgtYPg8lWqmeNIsqPwzZ7X.jpg",
+                "overview": "A hist\u00f3ria de Hirayama (Koji Yakusho), um homem de meia idade reflexivo que vive sua vida de forma modesta como zelador e limpando banheiros em T\u00f3quio. Sua vida \u00e9 revelada ao espectador atrav\u00e9s da m\u00fasica que ouve, dos livros que l\u00ea e das fotos que tira das \u00e1rvores, uma vez que s\u00e3o suas tr\u00eas paix\u00f5es. \u00c0 medida que a vida de Hirayama avan\u00e7a, encontros inesperados come\u00e7am a surgir revelando um passado sombrio e n\u00e3o t\u00e3o met\u00f3dico do zelador. O longa explora temas como a solid\u00e3o, fuga e busca de sentido na vida moderna.",
+                "vote_average": 7.912,
+                "vote_count": 599
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Society of the Snow",
+            "second_label": "Spain",
+            "category": "International Feature Film",
+            "year": 2024,
+            "tmdb": {
+                "id": 906126,
+                "original_title": "La sociedad de la nieve",
+                "title": "A Sociedade da Neve",
+                "release_date": "2023-12-15",
+                "backdrop_path": "/vdpE5pjJVql5aD6pnzRqlFmgxXf.jpg",
+                "poster_path": "/7fQTmvKgVGxifieVryqqlxohkoW.jpg",
+                "overview": "Em 13 de outubro de 1972, o voo 571 da For\u00e7a A\u00e9rea Uruguaia, fretado para levar um time de r\u00fagbi ao Chile, cai em uma geleira no cora\u00e7\u00e3o da Cordilheira dos Andes.",
+                "vote_average": 8.07,
+                "vote_count": 2353
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Teachers' Lounge",
+            "second_label": "Germany",
+            "category": "International Feature Film",
+            "year": 2024,
+            "tmdb": {
+                "id": 998022,
+                "original_title": "Das Lehrerzimmer",
+                "title": "A Sala dos Professores",
+                "release_date": "2023-05-04",
+                "backdrop_path": "/8W1DMN4WNvSzHRIn013Deyb4itU.jpg",
+                "poster_path": "/tqoSts6QMQsSDpeuR21OzXUZLSJ.jpg",
+                "overview": "Quando um de seus alunos \u00e9 suspeito de roubo, a professora Carla Nowak acaba se envolvendo na quest\u00e3o. Presa entre seus ideais e o sistema escolar, ela ter\u00e1 de lidar com suas escolhas e com a gravidade da situa\u00e7\u00e3o na escola.",
+                "vote_average": 7.339,
+                "vote_count": 239
+            },
+            "winner": false
+        }
+    ],
+    "Makeup and Hairstyling": [
+        {
+            "first_label": "Poor Things",
+            "second_label": "Nadia Stacey, Mark Coulier and Josh Weston",
+            "category": "Makeup and Hairstyling",
+            "year": 2024,
+            "tmdb": {
+                "id": 792307,
+                "original_title": "Poor Things",
+                "title": "Pobres Criaturas",
+                "release_date": "2023-12-07",
+                "backdrop_path": "/bQS43HSLZzMjZkcHJz4fGc7fNdz.jpg",
+                "poster_path": "/iOdcXYSVzBgmBJzNIlIMOZ6fz0F.jpg",
+                "overview": "A jovem Bella Baxter \u00e9 trazida de volta \u00e0 vida pelo cientista Dr. Godwin Baxter. Querendo ver mais do mundo, ela foge com um advogado e viaja pelos continentes. Livre dos preconceitos de sua \u00e9poca, Bella exige igualdade e liberta\u00e7\u00e3o.",
+                "vote_average": 7.844,
+                "vote_count": 2773
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Golda",
+            "second_label": "Karen Hartley Thomas, Suzi Battersby and Ashra Kelly-Blue",
+            "category": "Makeup and Hairstyling",
+            "year": 2024,
+            "tmdb": {
+                "id": 899524,
+                "original_title": "Golda",
+                "title": "Golda - A Mulher de uma Na\u00e7\u00e3o",
+                "release_date": "2023-08-23",
+                "backdrop_path": "/d1A5OQ4PRYssLilGCTRxqwKSQ8q.jpg",
+                "poster_path": "/sDVD8YkzeRUfvslY7jMwodjDdnD.jpg",
+                "overview": "Ambientado na Guerra do Yom Kippur, em 1973, o drama mostra como a primeira-ministra Golda Meir conhecida como a \u201cDama de Ferro\u201d de Israel enfrenta uma poss\u00edvel destrui\u00e7\u00e3o do Estado, tomando decis\u00f5es de alto risco, enquanto luta contra o c\u00e2ncer.",
+                "vote_average": 6.4,
+                "vote_count": 113
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Maestro",
+            "second_label": "Kazu Hiro, Kay Georgiou and Lori McCoy-Bell",
+            "category": "Makeup and Hairstyling",
+            "year": 2024,
+            "tmdb": {
+                "id": 523607,
+                "original_title": "Maestro",
+                "title": "Maestro",
+                "release_date": "2023-11-22",
+                "backdrop_path": "/et0G74BxoBgNQEZBkUcVhsgeRFF.jpg",
+                "poster_path": "/7e1D6Heg9G8RdEzMgDsMjJJX5TD.jpg",
+                "overview": "Uma hist\u00f3ria de amor que narra o relacionamento entre o maestro e compositor Leonard Bernstein e a atriz Felicia Montealegre Cohn Bernstein.",
+                "vote_average": 6.425,
+                "vote_count": 586
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Oppenheimer",
+            "second_label": "Luisa Abel",
+            "category": "Makeup and Hairstyling",
+            "year": 2024,
+            "tmdb": {
+                "id": 872585,
+                "original_title": "Oppenheimer",
+                "title": "Oppenheimer",
+                "release_date": "2023-07-19",
+                "backdrop_path": "/nb3xI8XI3w4pMVZ38VijbsyBqP4.jpg",
+                "poster_path": "/1OsQJEoSXBjduuCvDOlRhoEUaHu.jpg",
+                "overview": "A hist\u00f3ria do f\u00edsico americano J. Robert Oppenheimer, seu papel no Projeto Manhattan e no desenvolvimento da bomba at\u00f4mica durante a Segunda Guerra Mundial, e o quanto isso mudaria a hist\u00f3ria do mundo para sempre.",
+                "vote_average": 8.11,
+                "vote_count": 7409
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Society of the Snow",
+            "second_label": "Ana Lpez-Puigcerver, David Mart and Montse Rib",
+            "category": "Makeup and Hairstyling",
+            "year": 2024,
+            "tmdb": {
+                "id": 906126,
+                "original_title": "La sociedad de la nieve",
+                "title": "A Sociedade da Neve",
+                "release_date": "2023-12-15",
+                "backdrop_path": "/vdpE5pjJVql5aD6pnzRqlFmgxXf.jpg",
+                "poster_path": "/7fQTmvKgVGxifieVryqqlxohkoW.jpg",
+                "overview": "Em 13 de outubro de 1972, o voo 571 da For\u00e7a A\u00e9rea Uruguaia, fretado para levar um time de r\u00fagbi ao Chile, cai em uma geleira no cora\u00e7\u00e3o da Cordilheira dos Andes.",
+                "vote_average": 8.07,
+                "vote_count": 2353
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Score)": [
+        {
+            "first_label": "Oppenheimer",
+            "second_label": "Ludwig Gransson",
+            "category": "Music (Original Score)",
+            "year": 2024,
+            "tmdb": {
+                "id": 872585,
+                "original_title": "Oppenheimer",
+                "title": "Oppenheimer",
+                "release_date": "2023-07-19",
+                "backdrop_path": "/nb3xI8XI3w4pMVZ38VijbsyBqP4.jpg",
+                "poster_path": "/1OsQJEoSXBjduuCvDOlRhoEUaHu.jpg",
+                "overview": "A hist\u00f3ria do f\u00edsico americano J. Robert Oppenheimer, seu papel no Projeto Manhattan e no desenvolvimento da bomba at\u00f4mica durante a Segunda Guerra Mundial, e o quanto isso mudaria a hist\u00f3ria do mundo para sempre.",
+                "vote_average": 8.11,
+                "vote_count": 7409
+            },
+            "winner": true
+        },
+        {
+            "first_label": "American Fiction",
+            "second_label": "Laura Karpman",
+            "category": "Music (Original Score)",
+            "year": 2024,
+            "tmdb": {
+                "id": 1056360,
+                "original_title": "American Fiction",
+                "title": "Fic\u00e7\u00e3o Americana",
+                "release_date": "2023-11-10",
+                "backdrop_path": "/3mpgltEMgPf8zFtPnAWdDVN8ZT1.jpg",
+                "poster_path": "/bndwT7YCJv9nEHGSXuzvx9PJ013.jpg",
+                "overview": "A carreira do escritor Thelonious \"Monk\" Ellison estagnou porque seu trabalho n\u00e3o \u00e9 \"negro o suficiente\". Sendo assim, Monk publica um livro sat\u00edrico usando um pseud\u00f4nimo, com o objetivo de expor as hipocrisias do mundo editorial. O grande sucesso do livro o obriga a permanecer por mais tempo sob sua nova identidade, o que o faz questionar seus sua vis\u00e3o do mundo.",
+                "vote_average": 7.334,
+                "vote_count": 629
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Indiana Jones and the Dial of Destiny",
+            "second_label": "John Williams",
+            "category": "Music (Original Score)",
+            "year": 2024,
+            "tmdb": {
+                "id": 335977,
+                "original_title": "Indiana Jones and the Dial of Destiny",
+                "title": "Indiana Jones e A Rel\u00edquia do Destino",
+                "release_date": "2023-06-28",
+                "backdrop_path": "/57JocxmicOoAMhkUSmdKBlpZWMT.jpg",
+                "poster_path": "/9EnfMH0nTPCna87Mh3G8Q6W2wze.jpg",
+                "overview": "Encontrando-se em uma nova era, aproximando-se da aposentadoria, Indy luta para se encaixar em um mundo que parece t\u00ea-lo superado. Mas quando os tent\u00e1culos de um mal muito familiar retornam na forma de um antigo rival, Indy deve colocar seu chap\u00e9u e pegar seu chicote mais uma vez para garantir que um antigo e poderoso artefato n\u00e3o caia nas m\u00e3os erradas.",
+                "vote_average": 6.599,
+                "vote_count": 2935
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Killers of the Flower Moon",
+            "second_label": "Robbie Robertson",
+            "category": "Music (Original Score)",
+            "year": 2024,
+            "tmdb": {
+                "id": 466420,
+                "original_title": "Killers of the Flower Moon",
+                "title": "Assassinos da Lua das Flores",
+                "release_date": "2023-10-18",
+                "backdrop_path": "/acvE3RWjDLgvbL2RtcyzkrsAyNV.jpg",
+                "poster_path": "/kBLMPD5BCmcrHKIhjZ86uWHZG5K.jpg",
+                "overview": "Na d\u00e9cada de 1920, em Oklahoma, o povo da tribo Osage come\u00e7a a ser assassinado ap\u00f3s petr\u00f3leo ser descoberto sob suas terras. O mist\u00e9rio come\u00e7a a ser investigado por uma organiza\u00e7\u00e3o que ficaria conhecida como FBI.",
+                "vote_average": 7.498,
+                "vote_count": 2680
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Poor Things",
+            "second_label": "Jerskin Fendrix",
+            "category": "Music (Original Score)",
+            "year": 2024,
+            "tmdb": {
+                "id": 792307,
+                "original_title": "Poor Things",
+                "title": "Pobres Criaturas",
+                "release_date": "2023-12-07",
+                "backdrop_path": "/bQS43HSLZzMjZkcHJz4fGc7fNdz.jpg",
+                "poster_path": "/iOdcXYSVzBgmBJzNIlIMOZ6fz0F.jpg",
+                "overview": "A jovem Bella Baxter \u00e9 trazida de volta \u00e0 vida pelo cientista Dr. Godwin Baxter. Querendo ver mais do mundo, ela foge com um advogado e viaja pelos continentes. Livre dos preconceitos de sua \u00e9poca, Bella exige igualdade e liberta\u00e7\u00e3o.",
+                "vote_average": 7.844,
+                "vote_count": 2773
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Song)": [
+        {
+            "first_label": "What Was I Made For?",
+            "second_label": "from Barbie; Music and Lyric by Billie Eilish and Finneas O'Connell",
+            "category": "Music (Original Song)",
+            "year": 2024,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Fire Inside",
+            "second_label": "from Flamin' Hot; Music and Lyric by Diane Warren",
+            "category": "Music (Original Song)",
+            "year": 2024,
+            "tmdb": {
+                "id": 1211144,
+                "original_title": "Vice News Presents - City Under Fire: Inside the War in Ukraine",
+                "title": "Vice News Presents - City Under Fire: Inside the War in Ukraine",
+                "release_date": "2023-10-01",
+                "backdrop_path": null,
+                "poster_path": "/jRsbc5QnVnt4ukaTCrjLmEn9ZGV.jpg",
+                "overview": "With exclusive access to soldiers and civilians, explore the human cost and decisions made to save Ukraine's most key city in an endless Russian war.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "I'm Just Ken",
+            "second_label": "from Barbie; Music and Lyric by Mark Ronson and Andrew Wyatt",
+            "category": "Music (Original Song)",
+            "year": 2024,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "It Never Went Away",
+            "second_label": "from American Symphony; Music and Lyric by Jon Batiste and Dan Wilson",
+            "category": "Music (Original Song)",
+            "year": 2024,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Wahzhazhe (A Song For My People)",
+            "second_label": "from Killers of the Flower Moon; Music and Lyric by Scott George",
+            "category": "Music (Original Song)",
+            "year": 2024,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Best Picture": [
+        {
+            "first_label": "Oppenheimer",
+            "second_label": "Emma Thomas, Charles Roven and Christopher Nolan, Producers",
+            "category": "Best Picture",
+            "year": 2024,
+            "tmdb": {
+                "id": 872585,
+                "original_title": "Oppenheimer",
+                "title": "Oppenheimer",
+                "release_date": "2023-07-19",
+                "backdrop_path": "/nb3xI8XI3w4pMVZ38VijbsyBqP4.jpg",
+                "poster_path": "/1OsQJEoSXBjduuCvDOlRhoEUaHu.jpg",
+                "overview": "A hist\u00f3ria do f\u00edsico americano J. Robert Oppenheimer, seu papel no Projeto Manhattan e no desenvolvimento da bomba at\u00f4mica durante a Segunda Guerra Mundial, e o quanto isso mudaria a hist\u00f3ria do mundo para sempre.",
+                "vote_average": 8.11,
+                "vote_count": 7409
+            },
+            "winner": true
+        },
+        {
+            "first_label": "American Fiction",
+            "second_label": "Ben LeClair, Nikos Karamigios, Cord Jefferson and Jermaine Johnson, Producers",
+            "category": "Best Picture",
+            "year": 2024,
+            "tmdb": {
+                "id": 1056360,
+                "original_title": "American Fiction",
+                "title": "Fic\u00e7\u00e3o Americana",
+                "release_date": "2023-11-10",
+                "backdrop_path": "/3mpgltEMgPf8zFtPnAWdDVN8ZT1.jpg",
+                "poster_path": "/bndwT7YCJv9nEHGSXuzvx9PJ013.jpg",
+                "overview": "A carreira do escritor Thelonious \"Monk\" Ellison estagnou porque seu trabalho n\u00e3o \u00e9 \"negro o suficiente\". Sendo assim, Monk publica um livro sat\u00edrico usando um pseud\u00f4nimo, com o objetivo de expor as hipocrisias do mundo editorial. O grande sucesso do livro o obriga a permanecer por mais tempo sob sua nova identidade, o que o faz questionar seus sua vis\u00e3o do mundo.",
+                "vote_average": 7.334,
+                "vote_count": 629
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Anatomy of a Fall",
+            "second_label": "Marie-Ange Luciani and David Thion, Producers",
+            "category": "Best Picture",
+            "year": 2024,
+            "tmdb": {
+                "id": 915935,
+                "original_title": "Anatomie d'une chute",
+                "title": "Anatomia de uma Queda",
+                "release_date": "2023-08-23",
+                "backdrop_path": "/fGe1ej335XbqN1j9teoDpofpbLX.jpg",
+                "poster_path": "/woXYl0DJTx6TsfYWPkSfNHTsoOx.jpg",
+                "overview": "Uma mulher \u00e9 suspeita do assassinato de seu marido, e seu filho cego enfrenta um dilema moral como \u00fanica testemunha.",
+                "vote_average": 7.641,
+                "vote_count": 1596
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Barbie",
+            "second_label": "David Heyman, Margot Robbie, Tom Ackerley and Robbie Brenner, Producers",
+            "category": "Best Picture",
+            "year": 2024,
+            "tmdb": {
+                "id": 346698,
+                "original_title": "Barbie",
+                "title": "Barbie",
+                "release_date": "2023-07-19",
+                "backdrop_path": "/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+                "poster_path": "/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg",
+                "overview": "No mundo m\u00e1gico das Barbies, \"Barbieland\", uma das bonecas come\u00e7a a perceber que n\u00e3o se encaixa como as outras. Depois de ser expulsa, ela parte para uma aventura no \"mundo real\", onde descobre que a beleza est\u00e1 no interior de cada um.",
+                "vote_average": 7.1,
+                "vote_count": 7851
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Holdovers",
+            "second_label": "Mark Johnson, Producer",
+            "category": "Best Picture",
+            "year": 2024,
+            "tmdb": {
+                "id": 840430,
+                "original_title": "The Holdovers",
+                "title": "Os Rejeitados",
+                "release_date": "2023-10-27",
+                "backdrop_path": "/57fhbxl9is7W7ur5v6UuvlNsoSg.jpg",
+                "poster_path": "/ek4FmIkKlH30xthKs2ANqrV7SOI.jpg",
+                "overview": "Um professor mal-humorado de uma prestigiada escola americana \u00e9 for\u00e7ado a cuidar de um grupo de alunos que n\u00e3o tem para onde ir durante as f\u00e9rias de Natal. Ele acaba criando um v\u00ednculo com um dos estudantes e com a cozinheira da escola, que acaba de perder seu filho no Vietn\u00e3.",
+                "vote_average": 7.751,
+                "vote_count": 1047
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Killers of the Flower Moon",
+            "second_label": "Dan Friedkin, Bradley Thomas, Martin Scorsese and Daniel Lupi, Producers",
+            "category": "Best Picture",
+            "year": 2024,
+            "tmdb": {
+                "id": 466420,
+                "original_title": "Killers of the Flower Moon",
+                "title": "Assassinos da Lua das Flores",
+                "release_date": "2023-10-18",
+                "backdrop_path": "/acvE3RWjDLgvbL2RtcyzkrsAyNV.jpg",
+                "poster_path": "/kBLMPD5BCmcrHKIhjZ86uWHZG5K.jpg",
+                "overview": "Na d\u00e9cada de 1920, em Oklahoma, o povo da tribo Osage come\u00e7a a ser assassinado ap\u00f3s petr\u00f3leo ser descoberto sob suas terras. O mist\u00e9rio come\u00e7a a ser investigado por uma organiza\u00e7\u00e3o que ficaria conhecida como FBI.",
+                "vote_average": 7.498,
+                "vote_count": 2680
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Maestro",
+            "second_label": "Bradley Cooper, Steven Spielberg, Fred Berner, Amy Durning and Kristie Macosko Krieger, Producers",
+            "category": "Best Picture",
+            "year": 2024,
+            "tmdb": {
+                "id": 523607,
+                "original_title": "Maestro",
+                "title": "Maestro",
+                "release_date": "2023-11-22",
+                "backdrop_path": "/et0G74BxoBgNQEZBkUcVhsgeRFF.jpg",
+                "poster_path": "/7e1D6Heg9G8RdEzMgDsMjJJX5TD.jpg",
+                "overview": "Uma hist\u00f3ria de amor que narra o relacionamento entre o maestro e compositor Leonard Bernstein e a atriz Felicia Montealegre Cohn Bernstein.",
+                "vote_average": 6.425,
+                "vote_count": 586
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Past Lives",
+            "second_label": "David Hinojosa, Christine Vachon and Pamela Koffler, Producers",
+            "category": "Best Picture",
+            "year": 2024,
+            "tmdb": {
+                "id": 666277,
+                "original_title": "Past Lives",
+                "title": "Vidas Passadas",
+                "release_date": "2023-06-02",
+                "backdrop_path": "/rron9HAuS9s7zBF8iCX1tsafxUo.jpg",
+                "poster_path": "/toSI71gFF11VnLfz2uiNx6jjNUF.jpg",
+                "overview": "Nora e Hae Sung s\u00e3o amigos de inf\u00e2ncia profundamente conectados que se separam quando a fam\u00edlia de Nora emigra da Coreia do Sul. Duas d\u00e9cadas depois, se reencontram em Nova York numa semana fat\u00eddica enquanto confrontam no\u00e7\u00f5es de destino, amor e as escolhas que fazem uma vida, neste romance moderno comovente.",
+                "vote_average": 7.796,
+                "vote_count": 1164
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Poor Things",
+            "second_label": "Ed Guiney, Andrew Lowe, Yorgos Lanthimos and Emma Stone, Producers",
+            "category": "Best Picture",
+            "year": 2024,
+            "tmdb": {
+                "id": 792307,
+                "original_title": "Poor Things",
+                "title": "Pobres Criaturas",
+                "release_date": "2023-12-07",
+                "backdrop_path": "/bQS43HSLZzMjZkcHJz4fGc7fNdz.jpg",
+                "poster_path": "/iOdcXYSVzBgmBJzNIlIMOZ6fz0F.jpg",
+                "overview": "A jovem Bella Baxter \u00e9 trazida de volta \u00e0 vida pelo cientista Dr. Godwin Baxter. Querendo ver mais do mundo, ela foge com um advogado e viaja pelos continentes. Livre dos preconceitos de sua \u00e9poca, Bella exige igualdade e liberta\u00e7\u00e3o.",
+                "vote_average": 7.844,
+                "vote_count": 2773
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Zone of Interest",
+            "second_label": "James Wilson, Producer",
+            "category": "Best Picture",
+            "year": 2024,
+            "tmdb": {
+                "id": 467244,
+                "original_title": "The Zone of Interest",
+                "title": "Zona de Interesse",
+                "release_date": "2023-12-15",
+                "backdrop_path": "/aPQsU3yLDUOhLJYnSqkhKRkQTAw.jpg",
+                "poster_path": "/bZlZ1hcmP6KkZfXxXcNngaFzMcS.jpg",
+                "overview": "O comandante Rudolf H\u00f6ss e sua esposa Hedwig, desfrutam de uma vida aparentemente comum em uma casa com um belo jardim. Mas, por tr\u00e1s da fachada de tranquilidade, a fam\u00edlia feliz vive, na verdade, ao lado do campo de concentra\u00e7\u00e3o de Auschwitz. O dia-a dia destes personagens se desenrola entre os gritos abafados de desespero de um genoc\u00eddio do qual eles tem as m\u00e3os manchadas de sangue.",
+                "vote_average": 7.31,
+                "vote_count": 959
+            },
+            "winner": false
+        }
+    ],
+    "Production Design": [
+        {
+            "first_label": "Poor Things",
+            "second_label": "Production Design: James Price and Shona Heath; Set Decoration: Zsuzsa Mihalek",
+            "category": "Production Design",
+            "year": 2024,
+            "tmdb": {
+                "id": 792307,
+                "original_title": "Poor Things",
+                "title": "Pobres Criaturas",
+                "release_date": "2023-12-07",
+                "backdrop_path": "/bQS43HSLZzMjZkcHJz4fGc7fNdz.jpg",
+                "poster_path": "/iOdcXYSVzBgmBJzNIlIMOZ6fz0F.jpg",
+                "overview": "A jovem Bella Baxter \u00e9 trazida de volta \u00e0 vida pelo cientista Dr. Godwin Baxter. Querendo ver mais do mundo, ela foge com um advogado e viaja pelos continentes. Livre dos preconceitos de sua \u00e9poca, Bella exige igualdade e liberta\u00e7\u00e3o.",
+                "vote_average": 7.844,
+                "vote_count": 2773
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Barbie",
+            "second_label": "Production Design: Sarah Greenwood; Set Decoration: Katie Spencer",
+            "category": "Production Design",
+            "year": 2024,
+            "tmdb": {
+                "id": 346698,
+                "original_title": "Barbie",
+                "title": "Barbie",
+                "release_date": "2023-07-19",
+                "backdrop_path": "/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+                "poster_path": "/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg",
+                "overview": "No mundo m\u00e1gico das Barbies, \"Barbieland\", uma das bonecas come\u00e7a a perceber que n\u00e3o se encaixa como as outras. Depois de ser expulsa, ela parte para uma aventura no \"mundo real\", onde descobre que a beleza est\u00e1 no interior de cada um.",
+                "vote_average": 7.1,
+                "vote_count": 7851
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Killers of the Flower Moon",
+            "second_label": "Production Design: Jack Fisk; Set Decoration: Adam Willis",
+            "category": "Production Design",
+            "year": 2024,
+            "tmdb": {
+                "id": 466420,
+                "original_title": "Killers of the Flower Moon",
+                "title": "Assassinos da Lua das Flores",
+                "release_date": "2023-10-18",
+                "backdrop_path": "/acvE3RWjDLgvbL2RtcyzkrsAyNV.jpg",
+                "poster_path": "/kBLMPD5BCmcrHKIhjZ86uWHZG5K.jpg",
+                "overview": "Na d\u00e9cada de 1920, em Oklahoma, o povo da tribo Osage come\u00e7a a ser assassinado ap\u00f3s petr\u00f3leo ser descoberto sob suas terras. O mist\u00e9rio come\u00e7a a ser investigado por uma organiza\u00e7\u00e3o que ficaria conhecida como FBI.",
+                "vote_average": 7.498,
+                "vote_count": 2680
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Napoleon",
+            "second_label": "Production Design: Arthur Max; Set Decoration: Elli Griff",
+            "category": "Production Design",
+            "year": 2024,
+            "tmdb": {
+                "id": 753342,
+                "original_title": "Napoleon",
+                "title": "Napole\u00e3o",
+                "release_date": "2023-11-22",
+                "backdrop_path": "/eHMh7kChaNeD4VTdMCXLJbRTzcI.jpg",
+                "poster_path": "/64z8VyPn4mNqaPt0Onx6ykl2Qzg.jpg",
+                "overview": "Um olhar pessoal sobre as origens do l\u00edder militar franc\u00eas e sua r\u00e1pida e implac\u00e1vel ascens\u00e3o a imperador. A hist\u00f3ria \u00e9 vista atrav\u00e9s do prisma do relacionamento dependente e vol\u00e1til de Napole\u00e3o com sua esposa e amor verdadeiro, Josefina.",
+                "vote_average": 6.477,
+                "vote_count": 1917
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Oppenheimer",
+            "second_label": "Production Design: Ruth De Jong; Set Decoration: Claire Kaufman",
+            "category": "Production Design",
+            "year": 2024,
+            "tmdb": {
+                "id": 872585,
+                "original_title": "Oppenheimer",
+                "title": "Oppenheimer",
+                "release_date": "2023-07-19",
+                "backdrop_path": "/nb3xI8XI3w4pMVZ38VijbsyBqP4.jpg",
+                "poster_path": "/1OsQJEoSXBjduuCvDOlRhoEUaHu.jpg",
+                "overview": "A hist\u00f3ria do f\u00edsico americano J. Robert Oppenheimer, seu papel no Projeto Manhattan e no desenvolvimento da bomba at\u00f4mica durante a Segunda Guerra Mundial, e o quanto isso mudaria a hist\u00f3ria do mundo para sempre.",
+                "vote_average": 8.11,
+                "vote_count": 7409
+            },
+            "winner": false
+        }
+    ],
+    "Animated Short Film": [
+        {
+            "first_label": "WAR IS OVER! Inspired by the Music of John & Yoko",
+            "second_label": "Dave Mullins and Brad Booker",
+            "category": "Animated Short Film",
+            "year": 2024,
+            "tmdb": {
+                "id": 1214020,
+                "original_title": "WAR IS OVER! Inspired by the Music of John & Yoko",
+                "title": "WAR IS OVER! Inspired by the Music of John & Yoko",
+                "release_date": "2023-12-05",
+                "backdrop_path": "/ulKRqaetuOTOLeQu9zj1FLhSoF9.jpg",
+                "poster_path": "/9KYGdXn49rFgjDdVIEc9jKiHDAP.jpg",
+                "overview": "Onde uma guerra sem sentido acontece, dois soldados inimigos jogam uma divertida partida de xadrez. Nenhum dos soldados conhece seu oponente e, \u00e0 medida que o jogo avan\u00e7a, a guerra chega a seu cl\u00edmax.",
+                "vote_average": 6.7,
+                "vote_count": 20
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Letter to a Pig",
+            "second_label": "Tal Kantor and Amit R. Gicelter",
+            "category": "Animated Short Film",
+            "year": 2024,
+            "tmdb": {
+                "id": 950810,
+                "original_title": "Letter to a Pig",
+                "title": "Letter to a Pig",
+                "release_date": "2024-02-16",
+                "backdrop_path": "/9tnjYOnZrcVndFityxR0f4mzmw4.jpg",
+                "poster_path": "/fu5xL4pEFBOt8FhDgCqyeDICTqt.jpg",
+                "overview": "A Holocaust survivor reads a letter he wrote to the pig who saved his life. A young schoolgirl hears his testimony in class and sinks into a twisted dream where she confronts questions of identity, collective trauma, and the extremes of human nature.",
+                "vote_average": 6.5,
+                "vote_count": 10
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ninety-Five Senses",
+            "second_label": "Jerusha Hess and Jared Hess",
+            "category": "Animated Short Film",
+            "year": 2024,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Our Uniform",
+            "second_label": "Yegane Moghaddam",
+            "category": "Animated Short Film",
+            "year": 2024,
+            "tmdb": {
+                "id": 1140605,
+                "original_title": "Our Uniform",
+                "title": "Our Uniform",
+                "release_date": "2023-05-06",
+                "backdrop_path": "/gHaAEy0f6hTQjD61roVWGEzcwvO.jpg",
+                "poster_path": "/rJmwL7Q2AVwyCgrm2TX8GSJa3b9.jpg",
+                "overview": "Uma menina iraniana revela suas mem\u00f3rias escolares atrav\u00e9s das rugas e tecidos de seu antigo uniforme. Ela admite que n\u00e3o passa de uma \u201cmulher\u201d e explora as ra\u00edzes dessa ideia em seus anos escolares.",
+                "vote_average": 6.6,
+                "vote_count": 15
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Pachyderme",
+            "second_label": "Stphanie Clment and Marc Rius",
+            "category": "Animated Short Film",
+            "year": 2024,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Live Action Short Film": [
+        {
+            "first_label": "The Wonderful Story of Henry Sugar",
+            "second_label": "Wes Anderson and Steven Rales",
+            "category": "Live Action Short Film",
+            "year": 2024,
+            "tmdb": {
+                "id": 923939,
+                "original_title": "The Wonderful Story of Henry Sugar",
+                "title": "A Incr\u00edvel Hist\u00f3ria de Henry Sugar",
+                "release_date": "2023-09-20",
+                "backdrop_path": "/dS4JR8gmj8UnamjuLEyAkEFoppy.jpg",
+                "poster_path": "/nfbHWkyrNKFGkOS0FtjiFNgnFS2.jpg",
+                "overview": "Wes Anderson dirige esta adapta\u00e7\u00e3o do conto de Roald Dahl sobre um homem rico determinado a dominar uma t\u00e9cnica extraordin\u00e1ria para trapacear no jogo.",
+                "vote_average": 7.224,
+                "vote_count": 782
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The After",
+            "second_label": "Misan Harriman and Nicky Bentham",
+            "category": "Live Action Short Film",
+            "year": 2024,
+            "tmdb": {
+                "id": 1169455,
+                "original_title": "The After",
+                "title": "E Depois?",
+                "release_date": "2024-02-16",
+                "backdrop_path": "/dUz8n64kOSCpUZYELEfucDisijl.jpg",
+                "poster_path": "/3U75VOurucuDos1pHQTZJDeJr2r.jpg",
+                "overview": "Um ano depois de testemunhar um crime violento, o encontro com uma passageira obriga um motorista a encarar sua jornada de dor.",
+                "vote_average": 5.5,
+                "vote_count": 42
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Invincible",
+            "second_label": "Vincent Ren-Lortie and Samuel Caron",
+            "category": "Live Action Short Film",
+            "year": 2024,
+            "tmdb": {
+                "id": 1084765,
+                "original_title": "Invincible",
+                "title": "Invincible",
+                "release_date": "2024-02-16",
+                "backdrop_path": "/axkeJVvGYeYhBWN2FHh5n8eqVnB.jpg",
+                "poster_path": "/8mVNi6eq2vbtmEK3elBxIxqAAOD.jpg",
+                "overview": "Inspired by a true story, Invincible recounts the last 48 hours in the life of Marc-Antoine Bernier, a 14-year-old boy on a desperate quest for freedom.",
+                "vote_average": 6.3,
+                "vote_count": 13
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Knight of Fortune",
+            "second_label": "Lasse Lyskjr Noer and Christian Norlyk",
+            "category": "Live Action Short Film",
+            "year": 2024,
+            "tmdb": {
+                "id": 971468,
+                "original_title": "Ridder Lykke",
+                "title": "Knight of Fortune",
+                "release_date": "2024-02-16",
+                "backdrop_path": "/l2P0z1ljp7Kwy5OqGOfHIn48TAp.jpg",
+                "poster_path": "/d64iSdrRYuBrEDuKXJpW0XSrhiJ.jpg",
+                "overview": "The loss of a loved one, the grief, the risk of yellow skin, and a coffin, that is too much for Karl to face. Then it's much easier to fix a broken lamp. Karl meets Torben, a destined brother. An absurd, humorous, and melodic meeting between two old men captured by grief.",
+                "vote_average": 6.8,
+                "vote_count": 12
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Red, White and Blue",
+            "second_label": "Nazrin Choudhury and Sara McFarlane",
+            "category": "Live Action Short Film",
+            "year": 2024,
+            "tmdb": {
+                "id": 1194636,
+                "original_title": "Red, White and Blue",
+                "title": "Red, White and Blue",
+                "release_date": "2024-02-16",
+                "backdrop_path": "/o8iExrxPoJaTrMF0dWVNkj7ar1U.jpg",
+                "poster_path": "/4h1fIQ1b5P21N7tt5dZWDNOjYD7.jpg",
+                "overview": "Rachel se v\u00ea sem op\u00e7\u00f5es e precisa atravessar o estado em busca de um aborto urgente junto de sua filha. Logo nos \u00e9 revelado um chocante segredo que mudar\u00e1 a vida delas para sempre.",
+                "vote_average": 8.0,
+                "vote_count": 11
+            },
+            "winner": false
+        }
+    ],
+    "Sound": [
+        {
+            "first_label": "The Zone of Interest",
+            "second_label": "Tarn Willers and Johnnie Burn",
+            "category": "Sound",
+            "year": 2024,
+            "tmdb": {
+                "id": 467244,
+                "original_title": "The Zone of Interest",
+                "title": "Zona de Interesse",
+                "release_date": "2023-12-15",
+                "backdrop_path": "/aPQsU3yLDUOhLJYnSqkhKRkQTAw.jpg",
+                "poster_path": "/bZlZ1hcmP6KkZfXxXcNngaFzMcS.jpg",
+                "overview": "O comandante Rudolf H\u00f6ss e sua esposa Hedwig, desfrutam de uma vida aparentemente comum em uma casa com um belo jardim. Mas, por tr\u00e1s da fachada de tranquilidade, a fam\u00edlia feliz vive, na verdade, ao lado do campo de concentra\u00e7\u00e3o de Auschwitz. O dia-a dia destes personagens se desenrola entre os gritos abafados de desespero de um genoc\u00eddio do qual eles tem as m\u00e3os manchadas de sangue.",
+                "vote_average": 7.31,
+                "vote_count": 959
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Creator",
+            "second_label": "Ian Voigt, Erik Aadahl, Ethan Van der Ryn, Tom Ozanich and Dean Zupancic",
+            "category": "Sound",
+            "year": 2024,
+            "tmdb": {
+                "id": 670292,
+                "original_title": "The Creator",
+                "title": "Resist\u00eancia",
+                "release_date": "2023-09-27",
+                "backdrop_path": "/kjQBrc00fB2RjHZB3PGR4w9ibpz.jpg",
+                "poster_path": "/a2CroeECoXPpvJlbUxtrfDd4Rih.jpg",
+                "overview": "Em meio a uma futura guerra entre a ra\u00e7a humana e as for\u00e7as da intelig\u00eancia artificial, Joshua, um endurecido ex-agente das for\u00e7as especiais que lamenta o desaparecimento de sua esposa, \u00e9 recrutado para ca\u00e7ar e matar o Criador, o indescrit\u00edvel arquiteto da IA avan\u00e7ada que desenvolveu uma arma misteriosa com o poder de acabar com a guerra - e a pr\u00f3pria humanidade.",
+                "vote_average": 7.092,
+                "vote_count": 2462
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Maestro",
+            "second_label": "Steven A. Morrow, Richard King, Jason Ruder, Tom Ozanich and Dean Zupancic",
+            "category": "Sound",
+            "year": 2024,
+            "tmdb": {
+                "id": 523607,
+                "original_title": "Maestro",
+                "title": "Maestro",
+                "release_date": "2023-11-22",
+                "backdrop_path": "/et0G74BxoBgNQEZBkUcVhsgeRFF.jpg",
+                "poster_path": "/7e1D6Heg9G8RdEzMgDsMjJJX5TD.jpg",
+                "overview": "Uma hist\u00f3ria de amor que narra o relacionamento entre o maestro e compositor Leonard Bernstein e a atriz Felicia Montealegre Cohn Bernstein.",
+                "vote_average": 6.425,
+                "vote_count": 586
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mission: Impossible - Dead Reckoning Part One",
+            "second_label": "Chris Munro, James H. Mather, Chris Burdon and Mark Taylor",
+            "category": "Sound",
+            "year": 2024,
+            "tmdb": {
+                "id": 575264,
+                "original_title": "Mission: Impossible - Dead Reckoning Part One",
+                "title": "Miss\u00e3o: Imposs\u00edvel - Acerto de Contas Parte 1",
+                "release_date": "2023-07-08",
+                "backdrop_path": "/628Dep6AxEtDxjZoGP78TsOxYbK.jpg",
+                "poster_path": "/gbPUEuu2MGzbVen3tB1S48HpgDP.jpg",
+                "overview": "Ethan Hunt e sua equipe embarcam em sua miss\u00e3o mais perigosa: rastrear uma nova arma aterrorizante que amea\u00e7a toda a humanidade antes que caia em m\u00e3os erradas. Com o controle do futuro e o destino do mundo em jogo e as for\u00e7as sombrias do passado de Ethan se aproximando, uma corrida mortal ao redor do globo come\u00e7a. Confrontado por um inimigo misterioso e todo-poderoso, Ethan \u00e9 for\u00e7ado a considerar que nada pode importar mais do que sua miss\u00e3o \u2013 nem mesmo a vida daqueles com quem ele mais se importa.",
+                "vote_average": 7.555,
+                "vote_count": 3270
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Oppenheimer",
+            "second_label": "Willie Burton, Richard King, Gary A. Rizzo and Kevin O'Connell",
+            "category": "Sound",
+            "year": 2024,
+            "tmdb": {
+                "id": 872585,
+                "original_title": "Oppenheimer",
+                "title": "Oppenheimer",
+                "release_date": "2023-07-19",
+                "backdrop_path": "/nb3xI8XI3w4pMVZ38VijbsyBqP4.jpg",
+                "poster_path": "/1OsQJEoSXBjduuCvDOlRhoEUaHu.jpg",
+                "overview": "A hist\u00f3ria do f\u00edsico americano J. Robert Oppenheimer, seu papel no Projeto Manhattan e no desenvolvimento da bomba at\u00f4mica durante a Segunda Guerra Mundial, e o quanto isso mudaria a hist\u00f3ria do mundo para sempre.",
+                "vote_average": 8.11,
+                "vote_count": 7409
+            },
+            "winner": false
+        }
+    ],
+    "Visual Effects": [
+        {
+            "first_label": "Godzilla Minus One",
+            "second_label": "Takashi Yamazaki, Kiyoko Shibuya, Masaki Takahashi and Tatsuji Nojima",
+            "category": "Visual Effects",
+            "year": 2024,
+            "tmdb": {
+                "id": 940721,
+                "original_title": "\u30b4\u30b8\u30e9-1.0",
+                "title": "Godzilla Minus One",
+                "release_date": "2023-11-03",
+                "backdrop_path": "/bWIIWhnaoWx3FTVXv6GkYDv3djL.jpg",
+                "poster_path": "/iXrCBynsyRGbOtoBeWjt1bRINuA.jpg",
+                "overview": "Em um Jap\u00e3o social e economicamente devastado ap\u00f3s o t\u00e9rmino da Segunda Guerra Mundial, a situa\u00e7\u00e3o chega a um n\u00edvel ainda mais cr\u00edtico quando uma gigantesca e misteriosa criatura surge do mar para assolar o pa\u00eds.",
+                "vote_average": 7.862,
+                "vote_count": 453
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Creator",
+            "second_label": "Jay Cooper, Ian Comley, Andrew Roberts and Neil Corbould",
+            "category": "Visual Effects",
+            "year": 2024,
+            "tmdb": {
+                "id": 670292,
+                "original_title": "The Creator",
+                "title": "Resist\u00eancia",
+                "release_date": "2023-09-27",
+                "backdrop_path": "/kjQBrc00fB2RjHZB3PGR4w9ibpz.jpg",
+                "poster_path": "/a2CroeECoXPpvJlbUxtrfDd4Rih.jpg",
+                "overview": "Em meio a uma futura guerra entre a ra\u00e7a humana e as for\u00e7as da intelig\u00eancia artificial, Joshua, um endurecido ex-agente das for\u00e7as especiais que lamenta o desaparecimento de sua esposa, \u00e9 recrutado para ca\u00e7ar e matar o Criador, o indescrit\u00edvel arquiteto da IA avan\u00e7ada que desenvolveu uma arma misteriosa com o poder de acabar com a guerra - e a pr\u00f3pria humanidade.",
+                "vote_average": 7.092,
+                "vote_count": 2462
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Guardians of the Galaxy Vol. 3",
+            "second_label": "Stephane Ceretti, Alexis Wajsbrot, Guy Williams and Theo Bialek",
+            "category": "Visual Effects",
+            "year": 2024,
+            "tmdb": {
+                "id": 447365,
+                "original_title": "Guardians of the Galaxy Vol. 3",
+                "title": "Guardi\u00f5es da Gal\u00e1xia: Vol. 3",
+                "release_date": "2023-05-03",
+                "backdrop_path": "/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+                "poster_path": "/4yycSPnchdNAZirGkmCYQwTd3cr.jpg",
+                "overview": "Peter Quill, que ainda est\u00e1 se recuperando da perda de Gamora, tem que reunir a sua equipe para defender o universo e proteger um dos seus. Uma miss\u00e3o que, se n\u00e3o for conclu\u00edda com sucesso, pode levar ao fim dos Guardi\u00f5es como os conhecemos.",
+                "vote_average": 7.976,
+                "vote_count": 6101
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mission: Impossible - Dead Reckoning Part One",
+            "second_label": "Alex Wuttke, Simone Coco, Jeff Sutherland and Neil Corbould",
+            "category": "Visual Effects",
+            "year": 2024,
+            "tmdb": {
+                "id": 575264,
+                "original_title": "Mission: Impossible - Dead Reckoning Part One",
+                "title": "Miss\u00e3o: Imposs\u00edvel - Acerto de Contas Parte 1",
+                "release_date": "2023-07-08",
+                "backdrop_path": "/628Dep6AxEtDxjZoGP78TsOxYbK.jpg",
+                "poster_path": "/gbPUEuu2MGzbVen3tB1S48HpgDP.jpg",
+                "overview": "Ethan Hunt e sua equipe embarcam em sua miss\u00e3o mais perigosa: rastrear uma nova arma aterrorizante que amea\u00e7a toda a humanidade antes que caia em m\u00e3os erradas. Com o controle do futuro e o destino do mundo em jogo e as for\u00e7as sombrias do passado de Ethan se aproximando, uma corrida mortal ao redor do globo come\u00e7a. Confrontado por um inimigo misterioso e todo-poderoso, Ethan \u00e9 for\u00e7ado a considerar que nada pode importar mais do que sua miss\u00e3o \u2013 nem mesmo a vida daqueles com quem ele mais se importa.",
+                "vote_average": 7.555,
+                "vote_count": 3270
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Napoleon",
+            "second_label": "Charley Henley, Luc-Ewen Martin-Fenouillet, Simone Coco and Neil Corbould",
+            "category": "Visual Effects",
+            "year": 2024,
+            "tmdb": {
+                "id": 753342,
+                "original_title": "Napoleon",
+                "title": "Napole\u00e3o",
+                "release_date": "2023-11-22",
+                "backdrop_path": "/eHMh7kChaNeD4VTdMCXLJbRTzcI.jpg",
+                "poster_path": "/64z8VyPn4mNqaPt0Onx6ykl2Qzg.jpg",
+                "overview": "Um olhar pessoal sobre as origens do l\u00edder militar franc\u00eas e sua r\u00e1pida e implac\u00e1vel ascens\u00e3o a imperador. A hist\u00f3ria \u00e9 vista atrav\u00e9s do prisma do relacionamento dependente e vol\u00e1til de Napole\u00e3o com sua esposa e amor verdadeiro, Josefina.",
+                "vote_average": 6.477,
+                "vote_count": 1917
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Adapted Screenplay)": [
+        {
+            "first_label": "American Fiction",
+            "second_label": "Written for the screen by Cord Jefferson",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2024,
+            "tmdb": {
+                "id": 1056360,
+                "original_title": "American Fiction",
+                "title": "Fic\u00e7\u00e3o Americana",
+                "release_date": "2023-11-10",
+                "backdrop_path": "/3mpgltEMgPf8zFtPnAWdDVN8ZT1.jpg",
+                "poster_path": "/bndwT7YCJv9nEHGSXuzvx9PJ013.jpg",
+                "overview": "A carreira do escritor Thelonious \"Monk\" Ellison estagnou porque seu trabalho n\u00e3o \u00e9 \"negro o suficiente\". Sendo assim, Monk publica um livro sat\u00edrico usando um pseud\u00f4nimo, com o objetivo de expor as hipocrisias do mundo editorial. O grande sucesso do livro o obriga a permanecer por mais tempo sob sua nova identidade, o que o faz questionar seus sua vis\u00e3o do mundo.",
+                "vote_average": 7.334,
+                "vote_count": 629
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Barbie",
+            "second_label": "Written by Greta Gerwig & Noah Baumbach",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2024,
+            "tmdb": {
+                "id": 346698,
+                "original_title": "Barbie",
+                "title": "Barbie",
+                "release_date": "2023-07-19",
+                "backdrop_path": "/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+                "poster_path": "/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg",
+                "overview": "No mundo m\u00e1gico das Barbies, \"Barbieland\", uma das bonecas come\u00e7a a perceber que n\u00e3o se encaixa como as outras. Depois de ser expulsa, ela parte para uma aventura no \"mundo real\", onde descobre que a beleza est\u00e1 no interior de cada um.",
+                "vote_average": 7.1,
+                "vote_count": 7851
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Oppenheimer",
+            "second_label": "Written for the screen by Christopher Nolan",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2024,
+            "tmdb": {
+                "id": 872585,
+                "original_title": "Oppenheimer",
+                "title": "Oppenheimer",
+                "release_date": "2023-07-19",
+                "backdrop_path": "/nb3xI8XI3w4pMVZ38VijbsyBqP4.jpg",
+                "poster_path": "/1OsQJEoSXBjduuCvDOlRhoEUaHu.jpg",
+                "overview": "A hist\u00f3ria do f\u00edsico americano J. Robert Oppenheimer, seu papel no Projeto Manhattan e no desenvolvimento da bomba at\u00f4mica durante a Segunda Guerra Mundial, e o quanto isso mudaria a hist\u00f3ria do mundo para sempre.",
+                "vote_average": 8.11,
+                "vote_count": 7409
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Poor Things",
+            "second_label": "Screenplay by Tony McNamara",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2024,
+            "tmdb": {
+                "id": 792307,
+                "original_title": "Poor Things",
+                "title": "Pobres Criaturas",
+                "release_date": "2023-12-07",
+                "backdrop_path": "/bQS43HSLZzMjZkcHJz4fGc7fNdz.jpg",
+                "poster_path": "/iOdcXYSVzBgmBJzNIlIMOZ6fz0F.jpg",
+                "overview": "A jovem Bella Baxter \u00e9 trazida de volta \u00e0 vida pelo cientista Dr. Godwin Baxter. Querendo ver mais do mundo, ela foge com um advogado e viaja pelos continentes. Livre dos preconceitos de sua \u00e9poca, Bella exige igualdade e liberta\u00e7\u00e3o.",
+                "vote_average": 7.844,
+                "vote_count": 2773
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Zone of Interest",
+            "second_label": "Written by Jonathan Glazer",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2024,
+            "tmdb": {
+                "id": 467244,
+                "original_title": "The Zone of Interest",
+                "title": "Zona de Interesse",
+                "release_date": "2023-12-15",
+                "backdrop_path": "/aPQsU3yLDUOhLJYnSqkhKRkQTAw.jpg",
+                "poster_path": "/bZlZ1hcmP6KkZfXxXcNngaFzMcS.jpg",
+                "overview": "O comandante Rudolf H\u00f6ss e sua esposa Hedwig, desfrutam de uma vida aparentemente comum em uma casa com um belo jardim. Mas, por tr\u00e1s da fachada de tranquilidade, a fam\u00edlia feliz vive, na verdade, ao lado do campo de concentra\u00e7\u00e3o de Auschwitz. O dia-a dia destes personagens se desenrola entre os gritos abafados de desespero de um genoc\u00eddio do qual eles tem as m\u00e3os manchadas de sangue.",
+                "vote_average": 7.31,
+                "vote_count": 959
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Original Screenplay)": [
+        {
+            "first_label": "Anatomy of a Fall",
+            "second_label": "Screenplay - Justine Triet and Arthur Harari",
+            "category": "Writing (Original Screenplay)",
+            "year": 2024,
+            "tmdb": {
+                "id": 915935,
+                "original_title": "Anatomie d'une chute",
+                "title": "Anatomia de uma Queda",
+                "release_date": "2023-08-23",
+                "backdrop_path": "/fGe1ej335XbqN1j9teoDpofpbLX.jpg",
+                "poster_path": "/woXYl0DJTx6TsfYWPkSfNHTsoOx.jpg",
+                "overview": "Uma mulher \u00e9 suspeita do assassinato de seu marido, e seu filho cego enfrenta um dilema moral como \u00fanica testemunha.",
+                "vote_average": 7.641,
+                "vote_count": 1596
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Holdovers",
+            "second_label": "Written by David Hemingson",
+            "category": "Writing (Original Screenplay)",
+            "year": 2024,
+            "tmdb": {
+                "id": 840430,
+                "original_title": "The Holdovers",
+                "title": "Os Rejeitados",
+                "release_date": "2023-10-27",
+                "backdrop_path": "/57fhbxl9is7W7ur5v6UuvlNsoSg.jpg",
+                "poster_path": "/ek4FmIkKlH30xthKs2ANqrV7SOI.jpg",
+                "overview": "Um professor mal-humorado de uma prestigiada escola americana \u00e9 for\u00e7ado a cuidar de um grupo de alunos que n\u00e3o tem para onde ir durante as f\u00e9rias de Natal. Ele acaba criando um v\u00ednculo com um dos estudantes e com a cozinheira da escola, que acaba de perder seu filho no Vietn\u00e3.",
+                "vote_average": 7.751,
+                "vote_count": 1047
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Maestro",
+            "second_label": "Written by Bradley Cooper & Josh Singer",
+            "category": "Writing (Original Screenplay)",
+            "year": 2024,
+            "tmdb": {
+                "id": 523607,
+                "original_title": "Maestro",
+                "title": "Maestro",
+                "release_date": "2023-11-22",
+                "backdrop_path": "/et0G74BxoBgNQEZBkUcVhsgeRFF.jpg",
+                "poster_path": "/7e1D6Heg9G8RdEzMgDsMjJJX5TD.jpg",
+                "overview": "Uma hist\u00f3ria de amor que narra o relacionamento entre o maestro e compositor Leonard Bernstein e a atriz Felicia Montealegre Cohn Bernstein.",
+                "vote_average": 6.425,
+                "vote_count": 586
+            },
+            "winner": false
+        },
+        {
+            "first_label": "May December",
+            "second_label": "Screenplay by Samy Burch; Story by Samy Burch & Alex Mechanik",
+            "category": "Writing (Original Screenplay)",
+            "year": 2024,
+            "tmdb": {
+                "id": 839369,
+                "original_title": "May December",
+                "title": "Segredos de um Esc\u00e2ndalo",
+                "release_date": "2023-11-16",
+                "backdrop_path": "/97MOhHIgU6ZdLcB9DrAhx3WAqrU.jpg",
+                "poster_path": "/6gyiihcUIuOTu7xkodP5nyRNpwX.jpg",
+                "overview": "20 anos ap\u00f3s um grande romance midi\u00e1tico, um casal enfrenta a press\u00e3o quando uma atriz viaja at\u00e9 seu lar para se preparar para um filme sobre o passado deles.",
+                "vote_average": 6.765,
+                "vote_count": 481
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Past Lives",
+            "second_label": "Written by Celine Song",
+            "category": "Writing (Original Screenplay)",
+            "year": 2024,
+            "tmdb": {
+                "id": 666277,
+                "original_title": "Past Lives",
+                "title": "Vidas Passadas",
+                "release_date": "2023-06-02",
+                "backdrop_path": "/rron9HAuS9s7zBF8iCX1tsafxUo.jpg",
+                "poster_path": "/toSI71gFF11VnLfz2uiNx6jjNUF.jpg",
+                "overview": "Nora e Hae Sung s\u00e3o amigos de inf\u00e2ncia profundamente conectados que se separam quando a fam\u00edlia de Nora emigra da Coreia do Sul. Duas d\u00e9cadas depois, se reencontram em Nova York numa semana fat\u00eddica enquanto confrontam no\u00e7\u00f5es de destino, amor e as escolhas que fazem uma vida, neste romance moderno comovente.",
+                "vote_average": 7.796,
+                "vote_count": 1164
+            },
+            "winner": false
+        }
+    ]
+}

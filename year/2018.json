@@ -1,0 +1,2046 @@
+{
+    "Actor in a Leading Role": [
+        {
+            "first_label": "Gary Oldman",
+            "second_label": "Darkest Hour",
+            "category": "Actor in a Leading Role",
+            "year": 2018,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Timothe Chalamet",
+            "second_label": "Call Me by Your Name",
+            "category": "Actor in a Leading Role",
+            "year": 2018,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Daniel Day-Lewis",
+            "second_label": "Phantom Thread",
+            "category": "Actor in a Leading Role",
+            "year": 2018,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Daniel Kaluuya",
+            "second_label": "Get Out",
+            "category": "Actor in a Leading Role",
+            "year": 2018,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Denzel Washington",
+            "second_label": "Roman J. Israel, Esq.",
+            "category": "Actor in a Leading Role",
+            "year": 2018,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Sam Rockwell",
+            "second_label": "Three Billboards outside Ebbing, Missouri",
+            "category": "Actor in a Supporting Role",
+            "year": 2018,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Willem Dafoe",
+            "second_label": "The Florida Project",
+            "category": "Actor in a Supporting Role",
+            "year": 2018,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Woody Harrelson",
+            "second_label": "Three Billboards outside Ebbing, Missouri",
+            "category": "Actor in a Supporting Role",
+            "year": 2018,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Richard Jenkins",
+            "second_label": "The Shape of Water",
+            "category": "Actor in a Supporting Role",
+            "year": 2018,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Christopher Plummer",
+            "second_label": "All the Money in the World",
+            "category": "Actor in a Supporting Role",
+            "year": 2018,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Leading Role": [
+        {
+            "first_label": "Frances McDormand",
+            "second_label": "Three Billboards outside Ebbing, Missouri",
+            "category": "Actress in a Leading Role",
+            "year": 2018,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Sally Hawkins",
+            "second_label": "The Shape of Water",
+            "category": "Actress in a Leading Role",
+            "year": 2018,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Margot Robbie",
+            "second_label": "I, Tonya",
+            "category": "Actress in a Leading Role",
+            "year": 2018,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Saoirse Ronan",
+            "second_label": "Lady Bird",
+            "category": "Actress in a Leading Role",
+            "year": 2018,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Meryl Streep",
+            "second_label": "The Post",
+            "category": "Actress in a Leading Role",
+            "year": 2018,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Allison Janney",
+            "second_label": "I, Tonya",
+            "category": "Actress in a Supporting Role",
+            "year": 2018,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Mary J. Blige",
+            "second_label": "Mudbound",
+            "category": "Actress in a Supporting Role",
+            "year": 2018,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lesley Manville",
+            "second_label": "Phantom Thread",
+            "category": "Actress in a Supporting Role",
+            "year": 2018,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Laurie Metcalf",
+            "second_label": "Lady Bird",
+            "category": "Actress in a Supporting Role",
+            "year": 2018,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Octavia Spencer",
+            "second_label": "The Shape of Water",
+            "category": "Actress in a Supporting Role",
+            "year": 2018,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Animated Feature Film": [
+        {
+            "first_label": "Coco",
+            "second_label": "Lee Unkrich and Darla K. Anderson",
+            "category": "Animated Feature Film",
+            "year": 2018,
+            "tmdb": {
+                "id": 354912,
+                "original_title": "Coco",
+                "title": "Viva: A Vida \u00e9 uma Festa",
+                "release_date": "2017-10-27",
+                "backdrop_path": "/askg3SMvhqEl4OL52YuvdtY40Yb.jpg",
+                "poster_path": "/6oNm06TPz2vGiPc2I52oXW3JwPS.jpg",
+                "overview": "O aspirante a m\u00fasico Miguel, deve lidar com sua fam\u00edlia que desaprova seu sonho, acaba entrando na Terra dos Mortos para encontrar seu trisav\u00f4, um cantor lend\u00e1rio.",
+                "vote_average": 8.214,
+                "vote_count": 18652
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Boss Baby",
+            "second_label": "Tom McGrath and Ramsey Naito",
+            "category": "Animated Feature Film",
+            "year": 2018,
+            "tmdb": {
+                "id": 295693,
+                "original_title": "The Boss Baby",
+                "title": "O Poderoso Chefinho",
+                "release_date": "2017-03-23",
+                "backdrop_path": "/frlfy7RFqx5J4jrcMo25PqyasL3.jpg",
+                "poster_path": "/6rctP6SAW7caWbx9NgxGnn3fU07.jpg",
+                "overview": "Um beb\u00ea falante que usa terno e carrega uma maleta misteriosa une for\u00e7as com seu irm\u00e3o mais velho invejoso para impedir que um inescrupuloso CEO acabe com o amor no mundo. A miss\u00e3o \u00e9 salvar os pais, impedir a cat\u00e1strofe e provar que o mais intenso dos sentimentos \u00e9 uma poderosa for\u00e7a.",
+                "vote_average": 6.445,
+                "vote_count": 6837
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Breadwinner",
+            "second_label": "Nora Twomey and Anthony Leo",
+            "category": "Animated Feature Film",
+            "year": 2018,
+            "tmdb": {
+                "id": 435129,
+                "original_title": "The Breadwinner",
+                "title": "A Ganha-P\u00e3o",
+                "release_date": "2017-11-17",
+                "backdrop_path": "/fRtQdiESAdt9rjXCvZhvkmprvac.jpg",
+                "poster_path": "/n97gnpuOEyYixtYBQPkzW194Si5.jpg",
+                "overview": "Parvana \u00e9 uma jovem que vive em um Afeganist\u00e3o governado pelas for\u00e7as do Talib\u00e3. Quando seu pai \u00e9 preso de maneira injusta, ela precisa se disfar\u00e7ar como um menino para trabalhar e garantir o sustento de sua fam\u00edlia.",
+                "vote_average": 7.844,
+                "vote_count": 784
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ferdinand",
+            "second_label": "Carlos Saldanha and Lori Forte",
+            "category": "Animated Feature Film",
+            "year": 2018,
+            "tmdb": {
+                "id": 364689,
+                "original_title": "Ferdinand",
+                "title": "O Touro Ferdinando",
+                "release_date": "2017-12-09",
+                "backdrop_path": "/sTOhZruocNubL0HxjvdouwCEL9I.jpg",
+                "poster_path": "/rnoYZvoSbS6uogrESSbKOpwg0sB.jpg",
+                "overview": "Ferdinando \u00e9 um touro com um temperamento calmo e tranquilo, que prefere sentar-se embaixo de uma \u00e1rvore e relaxar ao inv\u00e9s de correr por a\u00ed bufando e batendo cabe\u00e7a com os outros. A medida que vai crescendo, ele se torna forte e grande, mas com o mesmo pensamento. Quando cinco homens v\u00e3o at\u00e9 sua fazenda para escolher o melhor animal para touradas em Madri, Ferdinando \u00e9 selecionado acidentalmente.",
+                "vote_average": 7.219,
+                "vote_count": 2722
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Loving Vincent",
+            "second_label": "Dorota Kobiela, Hugh Welchman and Ivan Mactaggart",
+            "category": "Animated Feature Film",
+            "year": 2018,
+            "tmdb": {
+                "id": 339877,
+                "original_title": "Loving Vincent",
+                "title": "Com Amor, Van Gogh",
+                "release_date": "2017-06-22",
+                "backdrop_path": "/kuOvQ9TqsZwleNVNmHRJiIyzsKx.jpg",
+                "poster_path": "/pw72rhXTRbIel6iNWKHUqiIvcZm.jpg",
+                "overview": "Um ano ap\u00f3s o suic\u00eddio de Vincent Van Gogh, Armand Roulin encontra uma carta por ele enviada ao irm\u00e3o Theo, que jamais chegou ao seu destino. Ap\u00f3s conversar com o pai, carteiro que era amigo pessoal de Van Gogh, Armand \u00e9 incentivado a entregar ele mesmo a correspond\u00eancia. Desta forma, ele parte para a cidade francesa de Arles na esperan\u00e7a de encontrar algum contato com a fam\u00edlia do pintor falecido. L\u00e1, inicia uma investiga\u00e7\u00e3o junto \u00e0s pessoas que conheceram Van Gogh, no intuito de decifrar se ele realmente se matou.",
+                "vote_average": 8.0,
+                "vote_count": 2361
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "Blade Runner 2049",
+            "second_label": "Roger A. Deakins",
+            "category": "Cinematography",
+            "year": 2018,
+            "tmdb": {
+                "id": 335984,
+                "original_title": "Blade Runner 2049",
+                "title": "Blade Runner 2049",
+                "release_date": "2017-10-04",
+                "backdrop_path": "/ilRyazdMJwN05exqhwK4tMKBYZs.jpg",
+                "poster_path": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+                "overview": "Ap\u00f3s descobrir um segredo enterrado h\u00e1 muito tempo, que amea\u00e7a o que resta da sociedade, um novo policial embarca na busca de Rick Deckard, que est\u00e1 desaparecido h\u00e1 30 anos.",
+                "vote_average": 7.556,
+                "vote_count": 12932
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Darkest Hour",
+            "second_label": "Bruno Delbonnel",
+            "category": "Cinematography",
+            "year": 2018,
+            "tmdb": {
+                "id": 399404,
+                "original_title": "Darkest Hour",
+                "title": "O Destino de uma Na\u00e7\u00e3o",
+                "release_date": "2017-11-22",
+                "backdrop_path": "/6prkTmEEsB3f9hhKBzUePLe27b2.jpg",
+                "poster_path": "/yj9XNxTztmjPs5cXAXpKbANZ9l2.jpg",
+                "overview": "Winston Churchill est\u00e1 prestes a encarar um de seus maiores desafios: tomar posse do cargo de Primeiro Mnistro da Gr\u00e3-Bretanha. Paralelamente, ele come\u00e7a a costurar um tratado de paz com a alemanh\u00e3 Nazista que pode significar o fim de anos de conflito.",
+                "vote_average": 7.4,
+                "vote_count": 4894
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dunkirk",
+            "second_label": "Hoyte van Hoytema",
+            "category": "Cinematography",
+            "year": 2018,
+            "tmdb": {
+                "id": 374720,
+                "original_title": "Dunkirk",
+                "title": "Dunkirk",
+                "release_date": "2017-07-19",
+                "backdrop_path": "/ddIkmH3TpR6XSc47jj0BrGK5Rbz.jpg",
+                "poster_path": "/kO6ewhlh7OIGRRbHwylDafEM1QG.jpg",
+                "overview": "Em maio de 1940, soldados e civis lutam com todas as for\u00e7as para evacuar o ex\u00e9rcito brit\u00e2nico e seus aliados de Dunkirk. \u00c9 a \u00faltima esperan\u00e7a da Europa.",
+                "vote_average": 7.455,
+                "vote_count": 15913
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mudbound",
+            "second_label": "Rachel Morrison",
+            "category": "Cinematography",
+            "year": 2018,
+            "tmdb": {
+                "id": 414425,
+                "original_title": "Mudbound",
+                "title": "L\u00e1grimas Sobre o Mississipi",
+                "release_date": "2017-11-16",
+                "backdrop_path": "/m0CrcOOSUK6Ylf0pkGfGX0BdDq7.jpg",
+                "poster_path": "/2qEz0Jhc63DKoiJXY4SJh0ISQ5Q.jpg",
+                "overview": "Depois da Segunda Guerra Mundial, duas fam\u00edlias entrela\u00e7am suas hist\u00f3rias vivendo no delta do Rio Mississippi. Juntas elas enfrentam a hierarquia social b\u00e1rbara numa paisagem implac\u00e1vel. Ao mesmo tempo elas lutam uma batalha em casa e outra no exterior.",
+                "vote_average": 7.4,
+                "vote_count": 1183
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Shape of Water",
+            "second_label": "Dan Laustsen",
+            "category": "Cinematography",
+            "year": 2018,
+            "tmdb": {
+                "id": 399055,
+                "original_title": "The Shape of Water",
+                "title": "A Forma da \u00c1gua",
+                "release_date": "2017-12-01",
+                "backdrop_path": "/hVYhrKuQNFro6jXHZMn60uYjrIP.jpg",
+                "poster_path": "/hHPFq7myTjAVH6CwQjamAuUqhrr.jpg",
+                "overview": "D\u00e9cada de 60. Em meio aos grandes conflitos pol\u00edticos e transforma\u00e7\u00f5es sociais dos Estados Unidos da Guerra Fria, a muda Elisa, zeladora em um laborat\u00f3rio experimental secreto do governo, se encanta com uma criatura fant\u00e1stica mantida presa e maltratada no local. Para executar um arriscado e apaixonado resgate, ela recorre ao melhor amigo Giles e \u00e0 colega de turno Zelda, em uma aventura que pode custar muito mais do que o seu emprego.",
+                "vote_average": 7.246,
+                "vote_count": 11769
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design": [
+        {
+            "first_label": "Phantom Thread",
+            "second_label": "Mark Bridges",
+            "category": "Costume Design",
+            "year": 2018,
+            "tmdb": {
+                "id": 400617,
+                "original_title": "Phantom Thread",
+                "title": "Trama Fantasma",
+                "release_date": "2017-12-25",
+                "backdrop_path": "/vpRMzPqHC03I7hPPET4Av2OT8dI.jpg",
+                "poster_path": "/BCBB2pNxBb1ruNTO5oqjyMNqW4.jpg",
+                "overview": "Nos anos 1950, Reynolds Woodcock \u00e9 um renomado e confiante estilista que trabalha ao lado da irm\u00e3, Cyril, para vestir grandes nomes da realeza e da elite brit\u00e2nica. Sua inspira\u00e7\u00e3o surge atrav\u00e9s das mulheres que, constantemente, entram e saem de sua vida. Mas tudo muda quando ele conhece a forte e inteligente Alma, que vira sua musa e amante.",
+                "vote_average": 7.3,
+                "vote_count": 3325
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Beauty and the Beast",
+            "second_label": "Jacqueline Durran",
+            "category": "Costume Design",
+            "year": 2018,
+            "tmdb": {
+                "id": 321612,
+                "original_title": "Beauty and the Beast",
+                "title": "A Bela e a Fera",
+                "release_date": "2017-03-16",
+                "backdrop_path": "/m3tdSyl11fhgXPDSEt3aBctTqGP.jpg",
+                "poster_path": "/9V4wl4rnUcLfGuTe4J5NjOFbDil.jpg",
+                "overview": "Moradora de uma pequena aldeia francesa, Bela tem o pai capturado pela Fera e decide entregar sua vida ao estranho ser em troca da liberdade do progenitor. No castelo ela conhece objetos m\u00e1gicos e descobre que a Fera \u00e9 na verdade um pr\u00edncipe que precisa de amor para voltar \u00e0 forma humana.",
+                "vote_average": 6.969,
+                "vote_count": 15116
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Darkest Hour",
+            "second_label": "Jacqueline Durran",
+            "category": "Costume Design",
+            "year": 2018,
+            "tmdb": {
+                "id": 399404,
+                "original_title": "Darkest Hour",
+                "title": "O Destino de uma Na\u00e7\u00e3o",
+                "release_date": "2017-11-22",
+                "backdrop_path": "/6prkTmEEsB3f9hhKBzUePLe27b2.jpg",
+                "poster_path": "/yj9XNxTztmjPs5cXAXpKbANZ9l2.jpg",
+                "overview": "Winston Churchill est\u00e1 prestes a encarar um de seus maiores desafios: tomar posse do cargo de Primeiro Mnistro da Gr\u00e3-Bretanha. Paralelamente, ele come\u00e7a a costurar um tratado de paz com a alemanh\u00e3 Nazista que pode significar o fim de anos de conflito.",
+                "vote_average": 7.4,
+                "vote_count": 4894
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Shape of Water",
+            "second_label": "Luis Sequeira",
+            "category": "Costume Design",
+            "year": 2018,
+            "tmdb": {
+                "id": 399055,
+                "original_title": "The Shape of Water",
+                "title": "A Forma da \u00c1gua",
+                "release_date": "2017-12-01",
+                "backdrop_path": "/hVYhrKuQNFro6jXHZMn60uYjrIP.jpg",
+                "poster_path": "/hHPFq7myTjAVH6CwQjamAuUqhrr.jpg",
+                "overview": "D\u00e9cada de 60. Em meio aos grandes conflitos pol\u00edticos e transforma\u00e7\u00f5es sociais dos Estados Unidos da Guerra Fria, a muda Elisa, zeladora em um laborat\u00f3rio experimental secreto do governo, se encanta com uma criatura fant\u00e1stica mantida presa e maltratada no local. Para executar um arriscado e apaixonado resgate, ela recorre ao melhor amigo Giles e \u00e0 colega de turno Zelda, em uma aventura que pode custar muito mais do que o seu emprego.",
+                "vote_average": 7.246,
+                "vote_count": 11769
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Victoria & Abdul",
+            "second_label": "Consolata Boyle",
+            "category": "Costume Design",
+            "year": 2018,
+            "tmdb": {
+                "id": 377275,
+                "original_title": "Victoria",
+                "title": "Na Cama com Victoria",
+                "release_date": "2016-09-14",
+                "backdrop_path": "/ltvsxWWWfvcxoUbKVL8Dhhlwnrx.jpg",
+                "poster_path": "/p3ZQkC2ZJ7lqwylaMffkXpY7v1R.jpg",
+                "overview": "Victoria \u00e9 uma advogada criminal e m\u00e3e de duas crian\u00e7as. Ao se encontrar com alguns amigos de longa data em um casamento, ela descobre que um deles \u00e9 acusado de tentativa de homic\u00eddio. Sua vida est\u00e1 prestes a ficar ainda mais complicada.",
+                "vote_average": 5.8,
+                "vote_count": 445
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "The Shape of Water",
+            "second_label": "Guillermo del Toro",
+            "category": "Directing",
+            "year": 2018,
+            "tmdb": {
+                "id": 399055,
+                "original_title": "The Shape of Water",
+                "title": "A Forma da \u00c1gua",
+                "release_date": "2017-12-01",
+                "backdrop_path": "/hVYhrKuQNFro6jXHZMn60uYjrIP.jpg",
+                "poster_path": "/hHPFq7myTjAVH6CwQjamAuUqhrr.jpg",
+                "overview": "D\u00e9cada de 60. Em meio aos grandes conflitos pol\u00edticos e transforma\u00e7\u00f5es sociais dos Estados Unidos da Guerra Fria, a muda Elisa, zeladora em um laborat\u00f3rio experimental secreto do governo, se encanta com uma criatura fant\u00e1stica mantida presa e maltratada no local. Para executar um arriscado e apaixonado resgate, ela recorre ao melhor amigo Giles e \u00e0 colega de turno Zelda, em uma aventura que pode custar muito mais do que o seu emprego.",
+                "vote_average": 7.246,
+                "vote_count": 11769
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Dunkirk",
+            "second_label": "Christopher Nolan",
+            "category": "Directing",
+            "year": 2018,
+            "tmdb": {
+                "id": 374720,
+                "original_title": "Dunkirk",
+                "title": "Dunkirk",
+                "release_date": "2017-07-19",
+                "backdrop_path": "/ddIkmH3TpR6XSc47jj0BrGK5Rbz.jpg",
+                "poster_path": "/kO6ewhlh7OIGRRbHwylDafEM1QG.jpg",
+                "overview": "Em maio de 1940, soldados e civis lutam com todas as for\u00e7as para evacuar o ex\u00e9rcito brit\u00e2nico e seus aliados de Dunkirk. \u00c9 a \u00faltima esperan\u00e7a da Europa.",
+                "vote_average": 7.455,
+                "vote_count": 15913
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Get Out",
+            "second_label": "Jordan Peele",
+            "category": "Directing",
+            "year": 2018,
+            "tmdb": {
+                "id": 419430,
+                "original_title": "Get Out",
+                "title": "Corra!",
+                "release_date": "2017-02-24",
+                "backdrop_path": "/o8dPH0ZSIyyViP6rjRX1djwCUwI.jpg",
+                "poster_path": "/7hmmKIWDHi7jzOiGzffZesXKKfp.jpg",
+                "overview": "Agora que Chris e sua namorada, Rose, chegaram \u00e0 fase de conhecer os pais no namoro, ela o convida para um fim de semana no interior com Missy e Dean. A princ\u00edpio, Chris acha que o comportamento excessivamente agrad\u00e1vel dos dois como tentativas nervosas de lidar com o relacionamento inter-racial da filha, mas, conforme o fim de semana avan\u00e7a, uma s\u00e9rie de descobertas cada vez mais perturbadoras o levam a uma verdade que ele jamais poderia ter imaginado.",
+                "vote_average": 7.621,
+                "vote_count": 16623
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lady Bird",
+            "second_label": "Greta Gerwig",
+            "category": "Directing",
+            "year": 2018,
+            "tmdb": {
+                "id": 391713,
+                "original_title": "Lady Bird",
+                "title": "Lady Bird - A Hora de Voar",
+                "release_date": "2017-09-01",
+                "backdrop_path": "/pcWxKfFNCznTKYy0E8M9nG1cwL4.jpg",
+                "poster_path": "/wxfKcpFPmK9isnxXyvCMbqmBtdg.jpg",
+                "overview": "Christine McPherson est\u00e1 no \u00faltimo ano do col\u00e9gio e o que mais deseja \u00e9 ir fazer faculdade longe de Sacramento, Calif\u00f3rnia, ideia rejeitada por sua m\u00e3e. Lady Bird, como a garota de forte personalidade exige ser chamada, n\u00e3o se d\u00e1 por vencida e leva o plano de ir embora adiante mesmo assim. Enquanto a hora n\u00e3o chega, ela se divide entre as obriga\u00e7\u00f5es estudantis no col\u00e9gio cat\u00f3lico, o primeiro namoro, t\u00edpicos rituais de passagem para a vida adulta e in\u00fameros desentendimentos com a progenitora.",
+                "vote_average": 7.3,
+                "vote_count": 8107
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Phantom Thread",
+            "second_label": "Paul Thomas Anderson",
+            "category": "Directing",
+            "year": 2018,
+            "tmdb": {
+                "id": 400617,
+                "original_title": "Phantom Thread",
+                "title": "Trama Fantasma",
+                "release_date": "2017-12-25",
+                "backdrop_path": "/vpRMzPqHC03I7hPPET4Av2OT8dI.jpg",
+                "poster_path": "/BCBB2pNxBb1ruNTO5oqjyMNqW4.jpg",
+                "overview": "Nos anos 1950, Reynolds Woodcock \u00e9 um renomado e confiante estilista que trabalha ao lado da irm\u00e3, Cyril, para vestir grandes nomes da realeza e da elite brit\u00e2nica. Sua inspira\u00e7\u00e3o surge atrav\u00e9s das mulheres que, constantemente, entram e saem de sua vida. Mas tudo muda quando ele conhece a forte e inteligente Alma, que vira sua musa e amante.",
+                "vote_average": 7.3,
+                "vote_count": 3325
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "Icarus",
+            "second_label": "Bryan Fogel and Dan Cogan",
+            "category": "Documentary (Feature)",
+            "year": 2018,
+            "tmdb": {
+                "id": 432976,
+                "original_title": "Icarus",
+                "title": "\u00cdcaro",
+                "release_date": "2017-06-03",
+                "backdrop_path": "/ambKXAJYrDPJK9wBJlIVVWbQbar.jpg",
+                "poster_path": "/ikisdXpiMVSALvFjFn1bTvCHIMQ.jpg",
+                "overview": "Document\u00e1rio investiga um dos casos mais elaborados de doping da hist\u00f3ria, ocorrido na R\u00fassia. Segundo relatos, isso vem acontecendo desde 1968 em que os esportistas usavam drogas para melhorarem o desempenho, afetando a credibilidade de v\u00e1rios atletas e o banimento deles em importantes competi\u00e7\u00f5es. Tuso isso com o aval do presidente do pa\u00eds, Vladimir Putin.",
+                "vote_average": 7.7,
+                "vote_count": 694
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Abacus: Small Enough to Jail",
+            "second_label": "Steve James, Mark Mitten and Julie Goldman",
+            "category": "Documentary (Feature)",
+            "year": 2018,
+            "tmdb": {
+                "id": 411007,
+                "original_title": "Abacus: Small Enough to Jail",
+                "title": "Abacus: Pequeno o Bastante Para Condenar",
+                "release_date": "2017-01-06",
+                "backdrop_path": "/iTOs98jSEowrO51iz6JduASY1pc.jpg",
+                "poster_path": "/4u00FWfh8dUruEB7C3KCaV3FtOH.jpg",
+                "overview": "Um mergulho no singular processo da fam\u00edlia Sung de imigrantes chineses, donos do banco Abacus Federal Savings, acusados de fraude hipotec\u00e1ria em 2012 pelo promotor de Nova York, Cyrus Vance Jr., na esteira da grave crise financeira de 2008. Durante cinco anos, Thomas Sung, o advogado nascido em Xangai que fundou o banco em 1984, e suas tr\u00eas filhas, moveram uma desgastante e custosa batalha contra as autoridades, defendendo-se das acusa\u00e7\u00f5es de envolvimento com irregularidades atribu\u00eddas a seus empregados e de recebimento de propinas.",
+                "vote_average": 6.8,
+                "vote_count": 73
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Faces Places",
+            "second_label": "Agns Varda, JR and Rosalie Varda",
+            "category": "Documentary (Feature)",
+            "year": 2018,
+            "tmdb": {
+                "id": 451995,
+                "original_title": "Visages, villages",
+                "title": "Visages, villages",
+                "release_date": "2017-06-28",
+                "backdrop_path": "/w4uYP6ebNaLQIjsHcjQhjz3BB2m.jpg",
+                "poster_path": "/Asb7x9HI1hERdVbk8iKX3TtDB25.jpg",
+                "overview": "Visages Villages mostra a ic\u00f4nica diretora Agn\u00e8s Varda em uma colabora\u00e7\u00e3o inesperada com o fot\u00f3grafo JR ao embarcar em uma viagem singular. Eles partem no caminh\u00e3o fotogr\u00e1fico de JR, explorando as cidades da Fran\u00e7a rural para tirar retratos de seus residentes e ampli\u00e1-los em gigantescos murais.",
+                "vote_average": 7.7,
+                "vote_count": 364
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Last Men in Aleppo",
+            "second_label": "Feras Fayyad, Kareem Abeed and Sren Steen Jespersen",
+            "category": "Documentary (Feature)",
+            "year": 2018,
+            "tmdb": {
+                "id": 433085,
+                "original_title": "De sidste m\u00e6nd i Aleppo",
+                "title": "\u00daltimos Homens em Aleppo",
+                "release_date": "2017-02-27",
+                "backdrop_path": "/oM4kUWhiQ7OFtVFgKG63D7fAmrs.jpg",
+                "poster_path": "/ohr1qZjovaz5OwVzdDSHqb0xLON.jpg",
+                "overview": "Os chamados Capacetes Brancos s\u00e3o soldados volunt\u00e1rios neutros que trabalham em zonas de guerra resgatando e salvando vidas de sobreviventes. Mas a situa\u00e7\u00e3o em Aleppo, cidade S\u00edria mais afetada pelos ataques do Estado Isl\u00e2mico, est\u00e1 se tornando insustent\u00e1vel. Acompanhe uma equipe de resgate e entenda como funciona seu trabalho e como eles lidam com o risco constante de morte.",
+                "vote_average": 7.0,
+                "vote_count": 64
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Strong Island",
+            "second_label": "Yance Ford and Joslyn Barnes",
+            "category": "Documentary (Feature)",
+            "year": 2018,
+            "tmdb": {
+                "id": 428612,
+                "original_title": "Strong Island",
+                "title": "Strong Island",
+                "release_date": "2017-01-23",
+                "backdrop_path": "/l8aWEILNLNU5ZNWEe88c2NYzAWQ.jpg",
+                "poster_path": "/waXERQjJdXz7iIGMlSrP8OGzSE8.jpg",
+                "overview": "Examinando a morte violenta do irm\u00e3o do cineasta e o sistema judicial que permitiu que seu assassino ficasse livre, este document\u00e1rio interroga o medo assassino e a percep\u00e7\u00e3o racializada. Al\u00e9m disso, imagina os destro\u00e7os na esteira da cat\u00e1strofe, desafiando-nos a mudar.",
+                "vote_average": 6.4,
+                "vote_count": 87
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "Heaven Is a Traffic Jam on the 405",
+            "second_label": "Frank Stiefel",
+            "category": "Documentary (Short Subject)",
+            "year": 2018,
+            "tmdb": {
+                "id": 473278,
+                "original_title": "Heaven is a Traffic Jam on the 405",
+                "title": "O Para\u00edso \u00c9 Um Engarrafamento Na 405",
+                "release_date": "2016-10-14",
+                "backdrop_path": "/a6MOCg8iHMDzxgXf5lrSJ8P52Qw.jpg",
+                "poster_path": "/3FfvAT07xOzJJtftZbcjOo0IegS.jpg",
+                "overview": "56-year-old artist Mindy Alper has suffered severe depression and anxiety for most of her life. For a time she even lost the power of speech, and it was during this period that her drawings became extraordinarily articulate.",
+                "vote_average": 7.2,
+                "vote_count": 32
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Edith+Eddie",
+            "second_label": "Laura Checkoway and Thomas Lee Wright",
+            "category": "Documentary (Short Subject)",
+            "year": 2018,
+            "tmdb": {
+                "id": 443946,
+                "original_title": "Edith+Eddie",
+                "title": "Edith+Eddie",
+                "release_date": "2017-03-02",
+                "backdrop_path": "/nQ5qaB2N20GwHI7i2LJB0LT8Eqq.jpg",
+                "poster_path": "/29vKnspknYKu3S9PCf269aR61ZV.jpg",
+                "overview": "Edith and Eddie, ages 96 and 95, are America's oldest interracial newlyweds. Their unusual and idyllic love story is threatened by a family feud that triggers a devastating abuse of the legal guardianship system.",
+                "vote_average": 7.3,
+                "vote_count": 16
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Heroin(e)",
+            "second_label": "Elaine McMillion Sheldon and Kerrin Sheldon",
+            "category": "Documentary (Short Subject)",
+            "year": 2018,
+            "tmdb": {
+                "id": 475345,
+                "original_title": "Heroin(e)",
+                "title": "Hero\u00edna(s)",
+                "release_date": "2017-09-03",
+                "backdrop_path": "/s7yzWPek3OVUVUSuuhGWV1bknxI.jpg",
+                "poster_path": "/rweSROB7BEo8cI1EHcoTKBNw5m9.jpg",
+                "overview": "Este filme indicado ao Oscar retrata a incans\u00e1vel luta de tr\u00eas mulheres contra a epidemia de opioides que tomou conta de West Virginia, nos Estados Unidos.",
+                "vote_average": 7.0,
+                "vote_count": 119
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Knife Skills",
+            "second_label": "Thomas Lennon",
+            "category": "Documentary (Short Subject)",
+            "year": 2018,
+            "tmdb": {
+                "id": 466489,
+                "original_title": "Knife Skills",
+                "title": "Knife Skills",
+                "release_date": "2017-07-29",
+                "backdrop_path": "/dJ49GYu4b8ADpIXQc0bCw2lBI5e.jpg",
+                "poster_path": "/cDzHu23A1MKiSVXyKZ7LsBfLruQ.jpg",
+                "overview": "Edwin\u2019s Restaurant is determined to become one of America\u2019s top French restaurants, with a staff unlike any other in the country. Brandon Edwin Chrostowski prepares to open his Cleveland, Ohio fine dining establishment with a staff composed nearly entirely of recently released prisoners in search of an opportunity to get their lives back on track. They sign up for a classical French food boot camp to learn the ins and outs of fine wine, sauces, and more.",
+                "vote_average": 6.6,
+                "vote_count": 17
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Traffic Stop",
+            "second_label": "Kate Davis and David Heilbroner",
+            "category": "Documentary (Short Subject)",
+            "year": 2018,
+            "tmdb": {
+                "id": 491206,
+                "original_title": "Traffic Stop",
+                "title": "Controle de Tr\u00e2nsito",
+                "release_date": "2017-11-14",
+                "backdrop_path": "/aJBXzOMnSOGX7T7SpUvMXIcByjm.jpg",
+                "poster_path": "/8JeD7qRJRJ2r9olzcKl8CzMc1zW.jpg",
+                "overview": "Breaion King, uma professora negra, \u00e9 brutalmente presa por uma infra\u00e7\u00e3o de tr\u00e2nsito leve. As c\u00e2meras capturam o exato momento em que o incidente ocorreu e a viol\u00eancia a que foi submetida.",
+                "vote_average": 6.1,
+                "vote_count": 26
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "Dunkirk",
+            "second_label": "Lee Smith",
+            "category": "Film Editing",
+            "year": 2018,
+            "tmdb": {
+                "id": 374720,
+                "original_title": "Dunkirk",
+                "title": "Dunkirk",
+                "release_date": "2017-07-19",
+                "backdrop_path": "/ddIkmH3TpR6XSc47jj0BrGK5Rbz.jpg",
+                "poster_path": "/kO6ewhlh7OIGRRbHwylDafEM1QG.jpg",
+                "overview": "Em maio de 1940, soldados e civis lutam com todas as for\u00e7as para evacuar o ex\u00e9rcito brit\u00e2nico e seus aliados de Dunkirk. \u00c9 a \u00faltima esperan\u00e7a da Europa.",
+                "vote_average": 7.455,
+                "vote_count": 15913
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Baby Driver",
+            "second_label": "Paul Machliss and Jonathan Amos",
+            "category": "Film Editing",
+            "year": 2018,
+            "tmdb": {
+                "id": 339403,
+                "original_title": "Baby Driver",
+                "title": "Em Ritmo de Fuga",
+                "release_date": "2017-06-28",
+                "backdrop_path": "/goCvLSUFz0p7k8R10Hv4CVh3EQv.jpg",
+                "poster_path": "/9Kvt59cX0tQlxTmicZvfOWiwXFc.jpg",
+                "overview": "O jovem Baby tem uma mania curiosa: precisa ouvir m\u00fasicas o tempo todo para silenciar o zumbido que perturba seus ouvidos desde um acidente na inf\u00e2ncia. Excelente motorista, ele \u00e9 o piloto de fuga oficial dos assaltos de Doc, mas n\u00e3o v\u00ea a hora de deixar o cargo, principalmente depois que se v\u00ea apaixonado pela gar\u00e7onete Debora.",
+                "vote_average": 7.449,
+                "vote_count": 15063
+            },
+            "winner": false
+        },
+        {
+            "first_label": "I, Tonya",
+            "second_label": "Tatiana S. Riegel",
+            "category": "Film Editing",
+            "year": 2018,
+            "tmdb": {
+                "id": 389015,
+                "original_title": "I, Tonya",
+                "title": "Eu, Tonya",
+                "release_date": "2017-12-08",
+                "backdrop_path": "/dUtZYAMoTSZ8GYrB0AIYsMe0LvN.jpg",
+                "poster_path": "/1awJ19hydmplGNib38L8solMBHY.jpg",
+                "overview": "Desde muito pequena exibindo talento para patina\u00e7\u00e3o art\u00edstica no gelo, Tonya Harding cresce se destacando no esporte e aguentando maus-tratos e humilha\u00e7\u00f5es por parte da agressiva m\u00e3e. Entre altos e baixos na carreira e idas e vindas num relacionamento abusivo com Jeff Gillooly, a atleta acaba envolvida num plano bizarro durante a prepara\u00e7\u00e3o para os Jogos Ol\u00edmpicos de Inverno de 1994.",
+                "vote_average": 7.496,
+                "vote_count": 5570
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Shape of Water",
+            "second_label": "Sidney Wolinsky",
+            "category": "Film Editing",
+            "year": 2018,
+            "tmdb": {
+                "id": 399055,
+                "original_title": "The Shape of Water",
+                "title": "A Forma da \u00c1gua",
+                "release_date": "2017-12-01",
+                "backdrop_path": "/hVYhrKuQNFro6jXHZMn60uYjrIP.jpg",
+                "poster_path": "/hHPFq7myTjAVH6CwQjamAuUqhrr.jpg",
+                "overview": "D\u00e9cada de 60. Em meio aos grandes conflitos pol\u00edticos e transforma\u00e7\u00f5es sociais dos Estados Unidos da Guerra Fria, a muda Elisa, zeladora em um laborat\u00f3rio experimental secreto do governo, se encanta com uma criatura fant\u00e1stica mantida presa e maltratada no local. Para executar um arriscado e apaixonado resgate, ela recorre ao melhor amigo Giles e \u00e0 colega de turno Zelda, em uma aventura que pode custar muito mais do que o seu emprego.",
+                "vote_average": 7.246,
+                "vote_count": 11769
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Three Billboards outside Ebbing, Missouri",
+            "second_label": "Jon Gregory",
+            "category": "Film Editing",
+            "year": 2018,
+            "tmdb": {
+                "id": 359940,
+                "original_title": "Three Billboards Outside Ebbing, Missouri",
+                "title": "Tr\u00eas An\u00fancios Para Um Crime",
+                "release_date": "2017-12-01",
+                "backdrop_path": "/oQHF0Y4gCw6VdPmapjsbZoxY2ht.jpg",
+                "poster_path": "/vkmSz7x18uaNqzWVp2UeYOgsSSA.jpg",
+                "overview": "Inconformada com a inefic\u00e1cia da pol\u00edcia em encontrar o culpado pelo brutal assassinato de sua filha, Mildred Hayes decide chamar aten\u00e7\u00e3o para o caso n\u00e3o solucionado alugando tr\u00eas outdoors em uma estrada raramente usada. A inesperada atitude repercute em toda a cidade e suas consequ\u00eancias afetam v\u00e1rias pessoas, especialmente a pr\u00f3pria Mildred e o Delegado Willoughby, respons\u00e1vel pela investiga\u00e7\u00e3o.",
+                "vote_average": 8.075,
+                "vote_count": 9719
+            },
+            "winner": false
+        }
+    ],
+    "Foreign Language Film": [
+        {
+            "first_label": "A Fantastic Woman",
+            "second_label": "Chile",
+            "category": "Foreign Language Film",
+            "year": 2018,
+            "tmdb": {
+                "id": 429191,
+                "original_title": "Una mujer fant\u00e1stica",
+                "title": "Uma Mulher Fant\u00e1stica",
+                "release_date": "2017-04-06",
+                "backdrop_path": "/6NMXhGoGe5QBokTP1OZvM4hiRDP.jpg",
+                "poster_path": "/ctRz13gAWAxgBuGywr9YWWmZMEu.jpg",
+                "overview": "Marina (uma mulher transg\u00eanero) e Orlando, vinte anos mais velho do que ela, amam-se longe dos olhares e fazem projetos futuros. Quando ele morre repentinamente, Marina \u00e9 alvo da hostilidade dos familiares de Orlando: uma \"santa fam\u00edlia\" que rejeita tudo o que Marina representa. Marina lutar\u00e1 com a mesma energia que dedica desde sempre para se tornar naquilo que \u00e9: uma mulher forte, corajosa, digna... Uma mulher fant\u00e1stica!",
+                "vote_average": 7.0,
+                "vote_count": 664
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Insult",
+            "second_label": "Lebanon",
+            "category": "Foreign Language Film",
+            "year": 2018,
+            "tmdb": {
+                "id": 468284,
+                "original_title": "L'Insulte",
+                "title": "O Insulto",
+                "release_date": "2017-09-14",
+                "backdrop_path": "/ekIdTKHLWzZ4ojDLEkzLzNb8ggK.jpg",
+                "poster_path": "/135jvGtvrDJQ5Labb2sVSF2p7h7.jpg",
+                "overview": "Beirute. Toni \u00e9 um crist\u00e3o liban\u00eas que sempre rega as plantas de sua varanda e um dia, acidentalmente, acaba molhando Yasser, um refugiado palestino. Assim come\u00e7a um desacordo que evolui para julgamento e toma dimens\u00e3o nacional.",
+                "vote_average": 7.5,
+                "vote_count": 440
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Loveless",
+            "second_label": "Russia",
+            "category": "Foreign Language Film",
+            "year": 2018,
+            "tmdb": {
+                "id": 429174,
+                "original_title": "\u041d\u0435\u043b\u044e\u0431\u043e\u0432\u044c",
+                "title": "Sem Amor",
+                "release_date": "2017-06-01",
+                "backdrop_path": "/wR1pvbWjAVEK9315ibedBwdyRLI.jpg",
+                "poster_path": "/8enoeQzPZw2VDrAPRp9u5kzO1U7.jpg",
+                "overview": "Boris e Zhenya est\u00e3o se divorciando. Depois de anos juntos, os dois se preparam para suas novas vidas: ele com sua nova namorada, que est\u00e1 gr\u00e1vida, e ela com seu parceiro rico. Com tantas preocupa\u00e7\u00f5es eles acabam n\u00e3o dando aten\u00e7\u00e3o ao filho Alyosha, que acaba desaparecendo misteriosamente.",
+                "vote_average": 7.4,
+                "vote_count": 713
+            },
+            "winner": false
+        },
+        {
+            "first_label": "On Body and Soul",
+            "second_label": "Hungary",
+            "category": "Foreign Language Film",
+            "year": 2018,
+            "tmdb": {
+                "id": 436343,
+                "original_title": "Testr\u0151l \u00e9s l\u00e9lekr\u0151l",
+                "title": "Corpo e Alma",
+                "release_date": "2017-03-02",
+                "backdrop_path": "/s5BvDOLava3Z8NjAOnT0Xe96iLS.jpg",
+                "poster_path": "/tMsUxDvVsmVOxhGq2WhIHXRYiA3.jpg",
+                "overview": "Um homem e uma mulher, colegas de trabalho, passam a se conhecer melhor e acabam descobrindo que eles sonham as mesmas coisas durante o sono. Eles decidem torn\u00e1-los realidade, apesar das dificuldades no mundo real.",
+                "vote_average": 7.2,
+                "vote_count": 514
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Square",
+            "second_label": "Sweden",
+            "category": "Foreign Language Film",
+            "year": 2018,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Makeup and Hairstyling": [
+        {
+            "first_label": "Darkest Hour",
+            "second_label": "Kazuhiro Tsuji, David Malinowski and Lucy Sibbick",
+            "category": "Makeup and Hairstyling",
+            "year": 2018,
+            "tmdb": {
+                "id": 399404,
+                "original_title": "Darkest Hour",
+                "title": "O Destino de uma Na\u00e7\u00e3o",
+                "release_date": "2017-11-22",
+                "backdrop_path": "/6prkTmEEsB3f9hhKBzUePLe27b2.jpg",
+                "poster_path": "/yj9XNxTztmjPs5cXAXpKbANZ9l2.jpg",
+                "overview": "Winston Churchill est\u00e1 prestes a encarar um de seus maiores desafios: tomar posse do cargo de Primeiro Mnistro da Gr\u00e3-Bretanha. Paralelamente, ele come\u00e7a a costurar um tratado de paz com a alemanh\u00e3 Nazista que pode significar o fim de anos de conflito.",
+                "vote_average": 7.4,
+                "vote_count": 4894
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Victoria & Abdul",
+            "second_label": "Daniel Phillips and Lou Sheppard",
+            "category": "Makeup and Hairstyling",
+            "year": 2018,
+            "tmdb": {
+                "id": 377275,
+                "original_title": "Victoria",
+                "title": "Na Cama com Victoria",
+                "release_date": "2016-09-14",
+                "backdrop_path": "/ltvsxWWWfvcxoUbKVL8Dhhlwnrx.jpg",
+                "poster_path": "/p3ZQkC2ZJ7lqwylaMffkXpY7v1R.jpg",
+                "overview": "Victoria \u00e9 uma advogada criminal e m\u00e3e de duas crian\u00e7as. Ao se encontrar com alguns amigos de longa data em um casamento, ela descobre que um deles \u00e9 acusado de tentativa de homic\u00eddio. Sua vida est\u00e1 prestes a ficar ainda mais complicada.",
+                "vote_average": 5.8,
+                "vote_count": 445
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Wonder",
+            "second_label": "Arjen Tuiten",
+            "category": "Makeup and Hairstyling",
+            "year": 2018,
+            "tmdb": {
+                "id": 406997,
+                "original_title": "Wonder",
+                "title": "Extraordin\u00e1rio",
+                "release_date": "2017-11-13",
+                "backdrop_path": "/4rsrxYDfIzvtAsIE9wevxPRXAk4.jpg",
+                "poster_path": "/eB1vhoNrN2oR82fxsHp7vvLgMhz.jpg",
+                "overview": "Auggie Pullman \u00e9 um garoto que nasceu com uma deforma\u00e7\u00e3o facial. Pela primeira vez, ele ir\u00e1 frequentar uma escola regular, como qualquer outra crian\u00e7a. No quinto ano, ele ir\u00e1 precisar se esfor\u00e7ar para conseguir se encaixar em sua nova realidade.",
+                "vote_average": 8.1,
+                "vote_count": 7624
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Score)": [
+        {
+            "first_label": "The Shape of Water",
+            "second_label": "Alexandre Desplat",
+            "category": "Music (Original Score)",
+            "year": 2018,
+            "tmdb": {
+                "id": 399055,
+                "original_title": "The Shape of Water",
+                "title": "A Forma da \u00c1gua",
+                "release_date": "2017-12-01",
+                "backdrop_path": "/hVYhrKuQNFro6jXHZMn60uYjrIP.jpg",
+                "poster_path": "/hHPFq7myTjAVH6CwQjamAuUqhrr.jpg",
+                "overview": "D\u00e9cada de 60. Em meio aos grandes conflitos pol\u00edticos e transforma\u00e7\u00f5es sociais dos Estados Unidos da Guerra Fria, a muda Elisa, zeladora em um laborat\u00f3rio experimental secreto do governo, se encanta com uma criatura fant\u00e1stica mantida presa e maltratada no local. Para executar um arriscado e apaixonado resgate, ela recorre ao melhor amigo Giles e \u00e0 colega de turno Zelda, em uma aventura que pode custar muito mais do que o seu emprego.",
+                "vote_average": 7.246,
+                "vote_count": 11769
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Dunkirk",
+            "second_label": "Hans Zimmer",
+            "category": "Music (Original Score)",
+            "year": 2018,
+            "tmdb": {
+                "id": 374720,
+                "original_title": "Dunkirk",
+                "title": "Dunkirk",
+                "release_date": "2017-07-19",
+                "backdrop_path": "/ddIkmH3TpR6XSc47jj0BrGK5Rbz.jpg",
+                "poster_path": "/kO6ewhlh7OIGRRbHwylDafEM1QG.jpg",
+                "overview": "Em maio de 1940, soldados e civis lutam com todas as for\u00e7as para evacuar o ex\u00e9rcito brit\u00e2nico e seus aliados de Dunkirk. \u00c9 a \u00faltima esperan\u00e7a da Europa.",
+                "vote_average": 7.455,
+                "vote_count": 15913
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Phantom Thread",
+            "second_label": "Jonny Greenwood",
+            "category": "Music (Original Score)",
+            "year": 2018,
+            "tmdb": {
+                "id": 400617,
+                "original_title": "Phantom Thread",
+                "title": "Trama Fantasma",
+                "release_date": "2017-12-25",
+                "backdrop_path": "/vpRMzPqHC03I7hPPET4Av2OT8dI.jpg",
+                "poster_path": "/BCBB2pNxBb1ruNTO5oqjyMNqW4.jpg",
+                "overview": "Nos anos 1950, Reynolds Woodcock \u00e9 um renomado e confiante estilista que trabalha ao lado da irm\u00e3, Cyril, para vestir grandes nomes da realeza e da elite brit\u00e2nica. Sua inspira\u00e7\u00e3o surge atrav\u00e9s das mulheres que, constantemente, entram e saem de sua vida. Mas tudo muda quando ele conhece a forte e inteligente Alma, que vira sua musa e amante.",
+                "vote_average": 7.3,
+                "vote_count": 3325
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Star Wars: The Last Jedi",
+            "second_label": "John Williams",
+            "category": "Music (Original Score)",
+            "year": 2018,
+            "tmdb": {
+                "id": 181808,
+                "original_title": "Star Wars: The Last Jedi",
+                "title": "Star Wars: Epis\u00f3dio VIII - Os \u00daltimos Jedi",
+                "release_date": "2017-12-13",
+                "backdrop_path": "/5Iw7zQTHVRBOYpA0V6z0yypOPZh.jpg",
+                "poster_path": "/5dGufuaIG5vNcxPm8QPij5MSPeQ.jpg",
+                "overview": "A tranquila e solit\u00e1ria vida de Luke Skywalker sofre uma reviravolta quando ele conhece Rey, uma jovem que mostra fortes sinais da For\u00e7a. O desejo dela de aprender o estilo dos Jedi for\u00e7a Luke a tomar uma decis\u00e3o que mudar\u00e1 sua vida para sempre. Enquanto isso, Kylo Ren e o General Hux lideram a Primeira Ordem para um ataque total contra Leia e a Resist\u00eancia pela supremacia da gal\u00e1xia.",
+                "vote_average": 6.809,
+                "vote_count": 14747
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Three Billboards outside Ebbing, Missouri",
+            "second_label": "Carter Burwell",
+            "category": "Music (Original Score)",
+            "year": 2018,
+            "tmdb": {
+                "id": 359940,
+                "original_title": "Three Billboards Outside Ebbing, Missouri",
+                "title": "Tr\u00eas An\u00fancios Para Um Crime",
+                "release_date": "2017-12-01",
+                "backdrop_path": "/oQHF0Y4gCw6VdPmapjsbZoxY2ht.jpg",
+                "poster_path": "/vkmSz7x18uaNqzWVp2UeYOgsSSA.jpg",
+                "overview": "Inconformada com a inefic\u00e1cia da pol\u00edcia em encontrar o culpado pelo brutal assassinato de sua filha, Mildred Hayes decide chamar aten\u00e7\u00e3o para o caso n\u00e3o solucionado alugando tr\u00eas outdoors em uma estrada raramente usada. A inesperada atitude repercute em toda a cidade e suas consequ\u00eancias afetam v\u00e1rias pessoas, especialmente a pr\u00f3pria Mildred e o Delegado Willoughby, respons\u00e1vel pela investiga\u00e7\u00e3o.",
+                "vote_average": 8.075,
+                "vote_count": 9719
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Song)": [
+        {
+            "first_label": "Remember Me",
+            "second_label": "from Coco; Music and Lyric by Kristen Anderson-Lopez and Robert Lopez",
+            "category": "Music (Original Song)",
+            "year": 2018,
+            "tmdb": {
+                "id": 686759,
+                "original_title": "Husker du meg?",
+                "title": "Remember me?",
+                "release_date": "2017-09-21",
+                "backdrop_path": null,
+                "poster_path": "/7kldu6vposu5fghWU9BmNp9bJ3Q.jpg",
+                "overview": "In many ways, it is the memories that bind us together. What happens to relationships when the memories disappear?",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Mighty River",
+            "second_label": "from Mudbound; Music and Lyric by Mary J. Blige, Raphael Saadiq and Taura Stinson",
+            "category": "Music (Original Song)",
+            "year": 2018,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mystery Of Love",
+            "second_label": "from Call Me by Your Name; Music and Lyric by Sufjan Stevens",
+            "category": "Music (Original Song)",
+            "year": 2018,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Stand Up For Something",
+            "second_label": "from Marshall; Music by Diane Warren; Lyric by Lonnie R. Lynn and Diane Warren",
+            "category": "Music (Original Song)",
+            "year": 2018,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "This Is Me",
+            "second_label": "from The Greatest Showman; Music and Lyric by Benj Pasek and Justin Paul",
+            "category": "Music (Original Song)",
+            "year": 2018,
+            "tmdb": {
+                "id": 639990,
+                "original_title": "This Is Me",
+                "title": "This Is Me",
+                "release_date": "2017-09-10",
+                "backdrop_path": null,
+                "poster_path": "/mW51xHGtU8T8rQfoSCx25xxRRGU.jpg",
+                "overview": "An estranged father returns home to attend his son's wedding in an attempt to make amends.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        }
+    ],
+    "Best Picture": [
+        {
+            "first_label": "The Shape of Water",
+            "second_label": "Guillermo del Toro and J. Miles Dale, Producers",
+            "category": "Best Picture",
+            "year": 2018,
+            "tmdb": {
+                "id": 399055,
+                "original_title": "The Shape of Water",
+                "title": "A Forma da \u00c1gua",
+                "release_date": "2017-12-01",
+                "backdrop_path": "/hVYhrKuQNFro6jXHZMn60uYjrIP.jpg",
+                "poster_path": "/hHPFq7myTjAVH6CwQjamAuUqhrr.jpg",
+                "overview": "D\u00e9cada de 60. Em meio aos grandes conflitos pol\u00edticos e transforma\u00e7\u00f5es sociais dos Estados Unidos da Guerra Fria, a muda Elisa, zeladora em um laborat\u00f3rio experimental secreto do governo, se encanta com uma criatura fant\u00e1stica mantida presa e maltratada no local. Para executar um arriscado e apaixonado resgate, ela recorre ao melhor amigo Giles e \u00e0 colega de turno Zelda, em uma aventura que pode custar muito mais do que o seu emprego.",
+                "vote_average": 7.246,
+                "vote_count": 11769
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Call Me by Your Name",
+            "second_label": "Peter Spears, Luca Guadagnino, Emilie Georges and Marco Morabito, Producers",
+            "category": "Best Picture",
+            "year": 2018,
+            "tmdb": {
+                "id": 398818,
+                "original_title": "Call Me by Your Name",
+                "title": "Me Chame Pelo Seu Nome",
+                "release_date": "2017-09-01",
+                "backdrop_path": "/zvOJawrnmgK0sL293mOXOdLvTXQ.jpg",
+                "poster_path": "/qnf5Onsk236CdE5Lff93IX69gHf.jpg",
+                "overview": "O sens\u00edvel e \u00fanico filho da fam\u00edlia americana com ascend\u00eancia italiana e francesa Perlman, Elio est\u00e1 enfrentando outro ver\u00e3o pregui\u00e7oso na casa de seus pais na bela e l\u00e2nguida paisagem italiana quando Oliver, um acad\u00eamico que veio ajudar a pesquisa de seu pai, chega.",
+                "vote_average": 8.15,
+                "vote_count": 11660
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Darkest Hour",
+            "second_label": "Tim Bevan, Eric Fellner, Lisa Bruce, Anthony McCarten and Douglas Urbanski, Producers",
+            "category": "Best Picture",
+            "year": 2018,
+            "tmdb": {
+                "id": 399404,
+                "original_title": "Darkest Hour",
+                "title": "O Destino de uma Na\u00e7\u00e3o",
+                "release_date": "2017-11-22",
+                "backdrop_path": "/6prkTmEEsB3f9hhKBzUePLe27b2.jpg",
+                "poster_path": "/yj9XNxTztmjPs5cXAXpKbANZ9l2.jpg",
+                "overview": "Winston Churchill est\u00e1 prestes a encarar um de seus maiores desafios: tomar posse do cargo de Primeiro Mnistro da Gr\u00e3-Bretanha. Paralelamente, ele come\u00e7a a costurar um tratado de paz com a alemanh\u00e3 Nazista que pode significar o fim de anos de conflito.",
+                "vote_average": 7.4,
+                "vote_count": 4894
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dunkirk",
+            "second_label": "Emma Thomas and Christopher Nolan, Producers",
+            "category": "Best Picture",
+            "year": 2018,
+            "tmdb": {
+                "id": 374720,
+                "original_title": "Dunkirk",
+                "title": "Dunkirk",
+                "release_date": "2017-07-19",
+                "backdrop_path": "/ddIkmH3TpR6XSc47jj0BrGK5Rbz.jpg",
+                "poster_path": "/kO6ewhlh7OIGRRbHwylDafEM1QG.jpg",
+                "overview": "Em maio de 1940, soldados e civis lutam com todas as for\u00e7as para evacuar o ex\u00e9rcito brit\u00e2nico e seus aliados de Dunkirk. \u00c9 a \u00faltima esperan\u00e7a da Europa.",
+                "vote_average": 7.455,
+                "vote_count": 15913
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Get Out",
+            "second_label": "Sean McKittrick, Jason Blum, Edward H. Hamm Jr. and Jordan Peele, Producers",
+            "category": "Best Picture",
+            "year": 2018,
+            "tmdb": {
+                "id": 419430,
+                "original_title": "Get Out",
+                "title": "Corra!",
+                "release_date": "2017-02-24",
+                "backdrop_path": "/o8dPH0ZSIyyViP6rjRX1djwCUwI.jpg",
+                "poster_path": "/7hmmKIWDHi7jzOiGzffZesXKKfp.jpg",
+                "overview": "Agora que Chris e sua namorada, Rose, chegaram \u00e0 fase de conhecer os pais no namoro, ela o convida para um fim de semana no interior com Missy e Dean. A princ\u00edpio, Chris acha que o comportamento excessivamente agrad\u00e1vel dos dois como tentativas nervosas de lidar com o relacionamento inter-racial da filha, mas, conforme o fim de semana avan\u00e7a, uma s\u00e9rie de descobertas cada vez mais perturbadoras o levam a uma verdade que ele jamais poderia ter imaginado.",
+                "vote_average": 7.621,
+                "vote_count": 16623
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lady Bird",
+            "second_label": "Scott Rudin, Eli Bush and Evelyn O'Neill, Producers",
+            "category": "Best Picture",
+            "year": 2018,
+            "tmdb": {
+                "id": 391713,
+                "original_title": "Lady Bird",
+                "title": "Lady Bird - A Hora de Voar",
+                "release_date": "2017-09-01",
+                "backdrop_path": "/pcWxKfFNCznTKYy0E8M9nG1cwL4.jpg",
+                "poster_path": "/wxfKcpFPmK9isnxXyvCMbqmBtdg.jpg",
+                "overview": "Christine McPherson est\u00e1 no \u00faltimo ano do col\u00e9gio e o que mais deseja \u00e9 ir fazer faculdade longe de Sacramento, Calif\u00f3rnia, ideia rejeitada por sua m\u00e3e. Lady Bird, como a garota de forte personalidade exige ser chamada, n\u00e3o se d\u00e1 por vencida e leva o plano de ir embora adiante mesmo assim. Enquanto a hora n\u00e3o chega, ela se divide entre as obriga\u00e7\u00f5es estudantis no col\u00e9gio cat\u00f3lico, o primeiro namoro, t\u00edpicos rituais de passagem para a vida adulta e in\u00fameros desentendimentos com a progenitora.",
+                "vote_average": 7.3,
+                "vote_count": 8107
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Phantom Thread",
+            "second_label": "JoAnne Sellar, Paul Thomas Anderson, Megan Ellison and Daniel Lupi, Producers",
+            "category": "Best Picture",
+            "year": 2018,
+            "tmdb": {
+                "id": 400617,
+                "original_title": "Phantom Thread",
+                "title": "Trama Fantasma",
+                "release_date": "2017-12-25",
+                "backdrop_path": "/vpRMzPqHC03I7hPPET4Av2OT8dI.jpg",
+                "poster_path": "/BCBB2pNxBb1ruNTO5oqjyMNqW4.jpg",
+                "overview": "Nos anos 1950, Reynolds Woodcock \u00e9 um renomado e confiante estilista que trabalha ao lado da irm\u00e3, Cyril, para vestir grandes nomes da realeza e da elite brit\u00e2nica. Sua inspira\u00e7\u00e3o surge atrav\u00e9s das mulheres que, constantemente, entram e saem de sua vida. Mas tudo muda quando ele conhece a forte e inteligente Alma, que vira sua musa e amante.",
+                "vote_average": 7.3,
+                "vote_count": 3325
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Post",
+            "second_label": "Amy Pascal, Steven Spielberg and Kristie Macosko Krieger, Producers",
+            "category": "Best Picture",
+            "year": 2018,
+            "tmdb": {
+                "id": 446354,
+                "original_title": "The Post",
+                "title": "The Post: A Guerra Secreta",
+                "release_date": "2017-12-22",
+                "backdrop_path": "/h5jqLrIv1tlszezv2UEWq9KBuoj.jpg",
+                "poster_path": "/hOq5Pus5W2IwVcTdveu9tO6yYFB.jpg",
+                "overview": "Ben Bradlee (Tom Hanks) e Kat Graham (Meryl Streep), editores do The Washington Post, recebem um enorme estudo detalhado sobre o controverso papel dos Estados Unidos na Guerra do Vietn\u00e3 e enfrentam de tudo para publicar os bomb\u00e1sticos documentos.",
+                "vote_average": 6.998,
+                "vote_count": 4385
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Three Billboards outside Ebbing, Missouri",
+            "second_label": "Graham Broadbent, Pete Czernin and Martin McDonagh, Producers",
+            "category": "Best Picture",
+            "year": 2018,
+            "tmdb": {
+                "id": 359940,
+                "original_title": "Three Billboards Outside Ebbing, Missouri",
+                "title": "Tr\u00eas An\u00fancios Para Um Crime",
+                "release_date": "2017-12-01",
+                "backdrop_path": "/oQHF0Y4gCw6VdPmapjsbZoxY2ht.jpg",
+                "poster_path": "/vkmSz7x18uaNqzWVp2UeYOgsSSA.jpg",
+                "overview": "Inconformada com a inefic\u00e1cia da pol\u00edcia em encontrar o culpado pelo brutal assassinato de sua filha, Mildred Hayes decide chamar aten\u00e7\u00e3o para o caso n\u00e3o solucionado alugando tr\u00eas outdoors em uma estrada raramente usada. A inesperada atitude repercute em toda a cidade e suas consequ\u00eancias afetam v\u00e1rias pessoas, especialmente a pr\u00f3pria Mildred e o Delegado Willoughby, respons\u00e1vel pela investiga\u00e7\u00e3o.",
+                "vote_average": 8.075,
+                "vote_count": 9719
+            },
+            "winner": false
+        }
+    ],
+    "Production Design": [
+        {
+            "first_label": "The Shape of Water",
+            "second_label": "Production Design: Paul Denham Austerberry; Set Decoration: Shane Vieau and Jeffrey A. Melvin",
+            "category": "Production Design",
+            "year": 2018,
+            "tmdb": {
+                "id": 399055,
+                "original_title": "The Shape of Water",
+                "title": "A Forma da \u00c1gua",
+                "release_date": "2017-12-01",
+                "backdrop_path": "/hVYhrKuQNFro6jXHZMn60uYjrIP.jpg",
+                "poster_path": "/hHPFq7myTjAVH6CwQjamAuUqhrr.jpg",
+                "overview": "D\u00e9cada de 60. Em meio aos grandes conflitos pol\u00edticos e transforma\u00e7\u00f5es sociais dos Estados Unidos da Guerra Fria, a muda Elisa, zeladora em um laborat\u00f3rio experimental secreto do governo, se encanta com uma criatura fant\u00e1stica mantida presa e maltratada no local. Para executar um arriscado e apaixonado resgate, ela recorre ao melhor amigo Giles e \u00e0 colega de turno Zelda, em uma aventura que pode custar muito mais do que o seu emprego.",
+                "vote_average": 7.246,
+                "vote_count": 11769
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Beauty and the Beast",
+            "second_label": "Production Design: Sarah Greenwood; Set Decoration: Katie Spencer",
+            "category": "Production Design",
+            "year": 2018,
+            "tmdb": {
+                "id": 321612,
+                "original_title": "Beauty and the Beast",
+                "title": "A Bela e a Fera",
+                "release_date": "2017-03-16",
+                "backdrop_path": "/m3tdSyl11fhgXPDSEt3aBctTqGP.jpg",
+                "poster_path": "/9V4wl4rnUcLfGuTe4J5NjOFbDil.jpg",
+                "overview": "Moradora de uma pequena aldeia francesa, Bela tem o pai capturado pela Fera e decide entregar sua vida ao estranho ser em troca da liberdade do progenitor. No castelo ela conhece objetos m\u00e1gicos e descobre que a Fera \u00e9 na verdade um pr\u00edncipe que precisa de amor para voltar \u00e0 forma humana.",
+                "vote_average": 6.969,
+                "vote_count": 15116
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Blade Runner 2049",
+            "second_label": "Production Design: Dennis Gassner; Set Decoration: Alessandra Querzola",
+            "category": "Production Design",
+            "year": 2018,
+            "tmdb": {
+                "id": 335984,
+                "original_title": "Blade Runner 2049",
+                "title": "Blade Runner 2049",
+                "release_date": "2017-10-04",
+                "backdrop_path": "/ilRyazdMJwN05exqhwK4tMKBYZs.jpg",
+                "poster_path": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+                "overview": "Ap\u00f3s descobrir um segredo enterrado h\u00e1 muito tempo, que amea\u00e7a o que resta da sociedade, um novo policial embarca na busca de Rick Deckard, que est\u00e1 desaparecido h\u00e1 30 anos.",
+                "vote_average": 7.556,
+                "vote_count": 12932
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Darkest Hour",
+            "second_label": "Production Design: Sarah Greenwood; Set Decoration: Katie Spencer",
+            "category": "Production Design",
+            "year": 2018,
+            "tmdb": {
+                "id": 399404,
+                "original_title": "Darkest Hour",
+                "title": "O Destino de uma Na\u00e7\u00e3o",
+                "release_date": "2017-11-22",
+                "backdrop_path": "/6prkTmEEsB3f9hhKBzUePLe27b2.jpg",
+                "poster_path": "/yj9XNxTztmjPs5cXAXpKbANZ9l2.jpg",
+                "overview": "Winston Churchill est\u00e1 prestes a encarar um de seus maiores desafios: tomar posse do cargo de Primeiro Mnistro da Gr\u00e3-Bretanha. Paralelamente, ele come\u00e7a a costurar um tratado de paz com a alemanh\u00e3 Nazista que pode significar o fim de anos de conflito.",
+                "vote_average": 7.4,
+                "vote_count": 4894
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dunkirk",
+            "second_label": "Production Design: Nathan Crowley; Set Decoration: Gary Fettis",
+            "category": "Production Design",
+            "year": 2018,
+            "tmdb": {
+                "id": 374720,
+                "original_title": "Dunkirk",
+                "title": "Dunkirk",
+                "release_date": "2017-07-19",
+                "backdrop_path": "/ddIkmH3TpR6XSc47jj0BrGK5Rbz.jpg",
+                "poster_path": "/kO6ewhlh7OIGRRbHwylDafEM1QG.jpg",
+                "overview": "Em maio de 1940, soldados e civis lutam com todas as for\u00e7as para evacuar o ex\u00e9rcito brit\u00e2nico e seus aliados de Dunkirk. \u00c9 a \u00faltima esperan\u00e7a da Europa.",
+                "vote_average": 7.455,
+                "vote_count": 15913
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Animated)": [
+        {
+            "first_label": "Dear Basketball",
+            "second_label": "Glen Keane and Kobe Bryant",
+            "category": "Short Film (Animated)",
+            "year": 2018,
+            "tmdb": {
+                "id": 483306,
+                "original_title": "Dear Basketball",
+                "title": "Dear Basketball",
+                "release_date": "2017-04-23",
+                "backdrop_path": "/g9xrjL4vmhBtyYziL6MgDpTAYbG.jpg",
+                "poster_path": "/b3NGzWIhzgquYP263ZfAQNsi11Z.jpg",
+                "overview": "Dear Basketball \u00e9 um filme de drama animado em curta-metragem de 2017 dirigido e escrito por Glen Keane e Kobe Bryant. A obra ganhou o Oscar de melhor curta-metragem de anima\u00e7\u00e3o na edi\u00e7\u00e3o de 2018. Na v\u00e9spera de sua aposentadoria da National Basketball Association (NBA), Kobe Bryant descreve seu amor pelo jogo, que come\u00e7ou quando ele era crian\u00e7a. Dos seus sonhos de gl\u00f3ria juvenil aos seus 20 anos de carreira, Bryant descreve como o basquete e ele deram um ao outro tudo o que tinham enquanto Bryant estava no auge.",
+                "vote_average": 7.3,
+                "vote_count": 228
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Garden Party",
+            "second_label": "Victor Caire and Gabriel Grapperon",
+            "category": "Short Film (Animated)",
+            "year": 2018,
+            "tmdb": {
+                "id": 476719,
+                "original_title": "Garden Party",
+                "title": "Garden Party",
+                "release_date": "2017-01-28",
+                "backdrop_path": "/3fdzuCntWILNaUwp0Vo5it2VB82.jpg",
+                "poster_path": "/uexgjEoNVXZPIRYsUMwofnIL9xr.jpg",
+                "overview": "Em uma rica casa deserta, um casal de anf\u00edbios explora seus arredores e segue seus instintos primitivos...",
+                "vote_average": 7.2,
+                "vote_count": 86
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lou",
+            "second_label": "Dave Mullins and Dana Murray",
+            "category": "Short Film (Animated)",
+            "year": 2018,
+            "tmdb": {
+                "id": 433471,
+                "original_title": "Lou",
+                "title": "Lou",
+                "release_date": "2017-06-16",
+                "backdrop_path": "/f13RF99zjorGVJnSSsOqyj5dzYh.jpg",
+                "poster_path": "/4G2CdCQjtZYYurVuO38dAcnJYuJ.jpg",
+                "overview": "O filme gira em torno de uma criatura chamada Lou, que reside na caixa de achados e perdidos de um playground. Ele \u00e9 composto de um hoodie vermelho e algumas bolas de beisebol, enquanto tenta manter um olho protetor sobre as crian\u00e7as enquanto elas brincam. Quando um valent\u00e3o chamado JJ come\u00e7a a aterrorizar as outras crian\u00e7as, Lou decide tomar uma atitude para proteg\u00ea-las.",
+                "vote_average": 7.5,
+                "vote_count": 370
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Negative Space",
+            "second_label": "Max Porter and Ru Kuwahata",
+            "category": "Short Film (Animated)",
+            "year": 2018,
+            "tmdb": {
+                "id": 461303,
+                "original_title": "Negative Space",
+                "title": "Negative Space",
+                "release_date": "2017-06-12",
+                "backdrop_path": "/c0hnZoHFxOBgv962ku4PPVJ9Qjo.jpg",
+                "poster_path": "/bfT4yskqLrd13Cix4OMwiQX9Wax.jpg",
+                "overview": "Embora o pai de Sam raramente esteja em casa porque est\u00e1 sempre em viagens a neg\u00f3cios, eles podem se conectar com algo t\u00e3o simples como ensinar o rapaz a fazer a mala.",
+                "vote_average": 7.5,
+                "vote_count": 117
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Revolting Rhymes",
+            "second_label": "Jakob Schuh and Jan Lachauer",
+            "category": "Short Film (Animated)",
+            "year": 2018,
+            "tmdb": {
+                "id": 430162,
+                "original_title": "Revolting Rhymes",
+                "title": "Revolting Rhymes",
+                "release_date": "2017-10-11",
+                "backdrop_path": "/5IFR5xwvuh5b6Er3auvxQVNn9Ob.jpg",
+                "poster_path": "/cAbP9VEq0JlIngr9DzKIPBz0HY7.jpg",
+                "overview": "Two half-hour animated films based on the much-loved rhymes written by Roald Dahl and illustrated by Quentin Blake.",
+                "vote_average": 6.6,
+                "vote_count": 51
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Live Action)": [
+        {
+            "first_label": "The Silent Child",
+            "second_label": "Chris Overton and Rachel Shenton",
+            "category": "Short Film (Live Action)",
+            "year": 2018,
+            "tmdb": {
+                "id": 492223,
+                "original_title": "The Silent Child",
+                "title": "The Silent Child",
+                "release_date": "2017-08-08",
+                "backdrop_path": "/1ll1mNPZZZT9vpSdkyXsA99La5P.jpg",
+                "poster_path": "/f4q3dZFXOOPlEkmsReVIroZckWq.jpg",
+                "overview": "A deaf 4-year-old girl named Libby lives in a world of silence until a caring social worker teaches her to use sign language to communicate.",
+                "vote_average": 7.2,
+                "vote_count": 68
+            },
+            "winner": true
+        },
+        {
+            "first_label": "DeKalb Elementary",
+            "second_label": "Reed Van Dyk",
+            "category": "Short Film (Live Action)",
+            "year": 2018,
+            "tmdb": {
+                "id": 442160,
+                "original_title": "DeKalb Elementary",
+                "title": "DeKalb Elementary",
+                "release_date": "2017-02-04",
+                "backdrop_path": "/my4qtcW6DEg126QlSD2Wv7EUZMH.jpg",
+                "poster_path": "/mF9o78gayiNQWNG76qQwo2yfDU8.jpg",
+                "overview": "Inspired by an actual 911 call placed during a school shooting incident in Atlanta, Georgia. Nominated for an Academy Award for Best Live Action Short Film at the 90th Academy Awards in 2018.",
+                "vote_average": 7.0,
+                "vote_count": 30
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Eleven O'Clock",
+            "second_label": "Derin Seale and Josh Lawson",
+            "category": "Short Film (Live Action)",
+            "year": 2018,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "My Nephew Emmett",
+            "second_label": "Kevin Wilson, Jr.",
+            "category": "Short Film (Live Action)",
+            "year": 2018,
+            "tmdb": {
+                "id": 484569,
+                "original_title": "My Nephew Emmett",
+                "title": "My Nephew Emmett",
+                "release_date": "2017-09-27",
+                "backdrop_path": "/17N0yCbUXCVARXYdk564OiwSv1q.jpg",
+                "poster_path": "/2dfPq53zhfSd42l39xhtdWtWPe5.jpg",
+                "overview": "This visually ravishing and thought-provoking work portrays one of the USA\u2019s great shames\u2014the 1955 murder of 14-year-old Emmett Till by two white men in Mississippi\u2014and movingly reminds us of this dark episode\u2019s enduring relevance.",
+                "vote_average": 6.3,
+                "vote_count": 18
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Watu Wote/All of Us",
+            "second_label": "Katja Benrath and Tobias Rosen",
+            "category": "Short Film (Live Action)",
+            "year": 2018,
+            "tmdb": {
+                "id": 492224,
+                "original_title": "Watu Wote",
+                "title": "Watu Wote: All of Us",
+                "release_date": "2017-11-15",
+                "backdrop_path": "/g1ar13oenh54BV2nQp36GxvHZfb.jpg",
+                "poster_path": "/z2Spp3dPzbPidbqTabCuN1MNIN9.jpg",
+                "overview": "For a decade Kenya has been targeted by terrorist attacks of the Al-Shabaab. An atmosphere of anxiety and mistrust between Muslims and Christians is growing. Until in December 2015, Muslim bus passengers showed that solidarity can prevail.",
+                "vote_average": 6.3,
+                "vote_count": 25
+            },
+            "winner": false
+        }
+    ],
+    "Sound Editing": [
+        {
+            "first_label": "Dunkirk",
+            "second_label": "Richard King and Alex Gibson",
+            "category": "Sound Editing",
+            "year": 2018,
+            "tmdb": {
+                "id": 374720,
+                "original_title": "Dunkirk",
+                "title": "Dunkirk",
+                "release_date": "2017-07-19",
+                "backdrop_path": "/ddIkmH3TpR6XSc47jj0BrGK5Rbz.jpg",
+                "poster_path": "/kO6ewhlh7OIGRRbHwylDafEM1QG.jpg",
+                "overview": "Em maio de 1940, soldados e civis lutam com todas as for\u00e7as para evacuar o ex\u00e9rcito brit\u00e2nico e seus aliados de Dunkirk. \u00c9 a \u00faltima esperan\u00e7a da Europa.",
+                "vote_average": 7.455,
+                "vote_count": 15913
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Baby Driver",
+            "second_label": "Julian Slater",
+            "category": "Sound Editing",
+            "year": 2018,
+            "tmdb": {
+                "id": 339403,
+                "original_title": "Baby Driver",
+                "title": "Em Ritmo de Fuga",
+                "release_date": "2017-06-28",
+                "backdrop_path": "/goCvLSUFz0p7k8R10Hv4CVh3EQv.jpg",
+                "poster_path": "/9Kvt59cX0tQlxTmicZvfOWiwXFc.jpg",
+                "overview": "O jovem Baby tem uma mania curiosa: precisa ouvir m\u00fasicas o tempo todo para silenciar o zumbido que perturba seus ouvidos desde um acidente na inf\u00e2ncia. Excelente motorista, ele \u00e9 o piloto de fuga oficial dos assaltos de Doc, mas n\u00e3o v\u00ea a hora de deixar o cargo, principalmente depois que se v\u00ea apaixonado pela gar\u00e7onete Debora.",
+                "vote_average": 7.449,
+                "vote_count": 15063
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Blade Runner 2049",
+            "second_label": "Mark Mangini and Theo Green",
+            "category": "Sound Editing",
+            "year": 2018,
+            "tmdb": {
+                "id": 335984,
+                "original_title": "Blade Runner 2049",
+                "title": "Blade Runner 2049",
+                "release_date": "2017-10-04",
+                "backdrop_path": "/ilRyazdMJwN05exqhwK4tMKBYZs.jpg",
+                "poster_path": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+                "overview": "Ap\u00f3s descobrir um segredo enterrado h\u00e1 muito tempo, que amea\u00e7a o que resta da sociedade, um novo policial embarca na busca de Rick Deckard, que est\u00e1 desaparecido h\u00e1 30 anos.",
+                "vote_average": 7.556,
+                "vote_count": 12932
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Shape of Water",
+            "second_label": "Nathan Robitaille and Nelson Ferreira",
+            "category": "Sound Editing",
+            "year": 2018,
+            "tmdb": {
+                "id": 399055,
+                "original_title": "The Shape of Water",
+                "title": "A Forma da \u00c1gua",
+                "release_date": "2017-12-01",
+                "backdrop_path": "/hVYhrKuQNFro6jXHZMn60uYjrIP.jpg",
+                "poster_path": "/hHPFq7myTjAVH6CwQjamAuUqhrr.jpg",
+                "overview": "D\u00e9cada de 60. Em meio aos grandes conflitos pol\u00edticos e transforma\u00e7\u00f5es sociais dos Estados Unidos da Guerra Fria, a muda Elisa, zeladora em um laborat\u00f3rio experimental secreto do governo, se encanta com uma criatura fant\u00e1stica mantida presa e maltratada no local. Para executar um arriscado e apaixonado resgate, ela recorre ao melhor amigo Giles e \u00e0 colega de turno Zelda, em uma aventura que pode custar muito mais do que o seu emprego.",
+                "vote_average": 7.246,
+                "vote_count": 11769
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Star Wars: The Last Jedi",
+            "second_label": "Matthew Wood and Ren Klyce",
+            "category": "Sound Editing",
+            "year": 2018,
+            "tmdb": {
+                "id": 181808,
+                "original_title": "Star Wars: The Last Jedi",
+                "title": "Star Wars: Epis\u00f3dio VIII - Os \u00daltimos Jedi",
+                "release_date": "2017-12-13",
+                "backdrop_path": "/5Iw7zQTHVRBOYpA0V6z0yypOPZh.jpg",
+                "poster_path": "/5dGufuaIG5vNcxPm8QPij5MSPeQ.jpg",
+                "overview": "A tranquila e solit\u00e1ria vida de Luke Skywalker sofre uma reviravolta quando ele conhece Rey, uma jovem que mostra fortes sinais da For\u00e7a. O desejo dela de aprender o estilo dos Jedi for\u00e7a Luke a tomar uma decis\u00e3o que mudar\u00e1 sua vida para sempre. Enquanto isso, Kylo Ren e o General Hux lideram a Primeira Ordem para um ataque total contra Leia e a Resist\u00eancia pela supremacia da gal\u00e1xia.",
+                "vote_average": 6.809,
+                "vote_count": 14747
+            },
+            "winner": false
+        }
+    ],
+    "Sound Mixing": [
+        {
+            "first_label": "Dunkirk",
+            "second_label": "Gregg Landaker, Gary A. Rizzo and Mark Weingarten",
+            "category": "Sound Mixing",
+            "year": 2018,
+            "tmdb": {
+                "id": 374720,
+                "original_title": "Dunkirk",
+                "title": "Dunkirk",
+                "release_date": "2017-07-19",
+                "backdrop_path": "/ddIkmH3TpR6XSc47jj0BrGK5Rbz.jpg",
+                "poster_path": "/kO6ewhlh7OIGRRbHwylDafEM1QG.jpg",
+                "overview": "Em maio de 1940, soldados e civis lutam com todas as for\u00e7as para evacuar o ex\u00e9rcito brit\u00e2nico e seus aliados de Dunkirk. \u00c9 a \u00faltima esperan\u00e7a da Europa.",
+                "vote_average": 7.455,
+                "vote_count": 15913
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Baby Driver",
+            "second_label": "Julian Slater, Tim Cavagin and Mary H. Ellis",
+            "category": "Sound Mixing",
+            "year": 2018,
+            "tmdb": {
+                "id": 339403,
+                "original_title": "Baby Driver",
+                "title": "Em Ritmo de Fuga",
+                "release_date": "2017-06-28",
+                "backdrop_path": "/goCvLSUFz0p7k8R10Hv4CVh3EQv.jpg",
+                "poster_path": "/9Kvt59cX0tQlxTmicZvfOWiwXFc.jpg",
+                "overview": "O jovem Baby tem uma mania curiosa: precisa ouvir m\u00fasicas o tempo todo para silenciar o zumbido que perturba seus ouvidos desde um acidente na inf\u00e2ncia. Excelente motorista, ele \u00e9 o piloto de fuga oficial dos assaltos de Doc, mas n\u00e3o v\u00ea a hora de deixar o cargo, principalmente depois que se v\u00ea apaixonado pela gar\u00e7onete Debora.",
+                "vote_average": 7.449,
+                "vote_count": 15063
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Blade Runner 2049",
+            "second_label": "Ron Bartlett, Doug Hemphill and Mac Ruth",
+            "category": "Sound Mixing",
+            "year": 2018,
+            "tmdb": {
+                "id": 335984,
+                "original_title": "Blade Runner 2049",
+                "title": "Blade Runner 2049",
+                "release_date": "2017-10-04",
+                "backdrop_path": "/ilRyazdMJwN05exqhwK4tMKBYZs.jpg",
+                "poster_path": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+                "overview": "Ap\u00f3s descobrir um segredo enterrado h\u00e1 muito tempo, que amea\u00e7a o que resta da sociedade, um novo policial embarca na busca de Rick Deckard, que est\u00e1 desaparecido h\u00e1 30 anos.",
+                "vote_average": 7.556,
+                "vote_count": 12932
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Shape of Water",
+            "second_label": "Christian Cooke, Brad Zoern and Glen Gauthier",
+            "category": "Sound Mixing",
+            "year": 2018,
+            "tmdb": {
+                "id": 399055,
+                "original_title": "The Shape of Water",
+                "title": "A Forma da \u00c1gua",
+                "release_date": "2017-12-01",
+                "backdrop_path": "/hVYhrKuQNFro6jXHZMn60uYjrIP.jpg",
+                "poster_path": "/hHPFq7myTjAVH6CwQjamAuUqhrr.jpg",
+                "overview": "D\u00e9cada de 60. Em meio aos grandes conflitos pol\u00edticos e transforma\u00e7\u00f5es sociais dos Estados Unidos da Guerra Fria, a muda Elisa, zeladora em um laborat\u00f3rio experimental secreto do governo, se encanta com uma criatura fant\u00e1stica mantida presa e maltratada no local. Para executar um arriscado e apaixonado resgate, ela recorre ao melhor amigo Giles e \u00e0 colega de turno Zelda, em uma aventura que pode custar muito mais do que o seu emprego.",
+                "vote_average": 7.246,
+                "vote_count": 11769
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Star Wars: The Last Jedi",
+            "second_label": "David Parker, Michael Semanick, Ren Klyce and Stuart Wilson",
+            "category": "Sound Mixing",
+            "year": 2018,
+            "tmdb": {
+                "id": 181808,
+                "original_title": "Star Wars: The Last Jedi",
+                "title": "Star Wars: Epis\u00f3dio VIII - Os \u00daltimos Jedi",
+                "release_date": "2017-12-13",
+                "backdrop_path": "/5Iw7zQTHVRBOYpA0V6z0yypOPZh.jpg",
+                "poster_path": "/5dGufuaIG5vNcxPm8QPij5MSPeQ.jpg",
+                "overview": "A tranquila e solit\u00e1ria vida de Luke Skywalker sofre uma reviravolta quando ele conhece Rey, uma jovem que mostra fortes sinais da For\u00e7a. O desejo dela de aprender o estilo dos Jedi for\u00e7a Luke a tomar uma decis\u00e3o que mudar\u00e1 sua vida para sempre. Enquanto isso, Kylo Ren e o General Hux lideram a Primeira Ordem para um ataque total contra Leia e a Resist\u00eancia pela supremacia da gal\u00e1xia.",
+                "vote_average": 6.809,
+                "vote_count": 14747
+            },
+            "winner": false
+        }
+    ],
+    "Visual Effects": [
+        {
+            "first_label": "Blade Runner 2049",
+            "second_label": "John Nelson, Gerd Nefzer, Paul Lambert and Richard R. Hoover",
+            "category": "Visual Effects",
+            "year": 2018,
+            "tmdb": {
+                "id": 335984,
+                "original_title": "Blade Runner 2049",
+                "title": "Blade Runner 2049",
+                "release_date": "2017-10-04",
+                "backdrop_path": "/ilRyazdMJwN05exqhwK4tMKBYZs.jpg",
+                "poster_path": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+                "overview": "Ap\u00f3s descobrir um segredo enterrado h\u00e1 muito tempo, que amea\u00e7a o que resta da sociedade, um novo policial embarca na busca de Rick Deckard, que est\u00e1 desaparecido h\u00e1 30 anos.",
+                "vote_average": 7.556,
+                "vote_count": 12932
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Guardians of the Galaxy Vol. 2",
+            "second_label": "Christopher Townsend, Guy Williams, Jonathan Fawkner and Dan Sudick",
+            "category": "Visual Effects",
+            "year": 2018,
+            "tmdb": {
+                "id": 283995,
+                "original_title": "Guardians of the Galaxy Vol. 2",
+                "title": "Guardi\u00f5es da Gal\u00e1xia - Vol. 2",
+                "release_date": "2017-04-19",
+                "backdrop_path": "/n3gb8oqP9BeRCUsCmZVaT5eltPH.jpg",
+                "poster_path": "/jGtBLu0JAKf5JxhWgmF68HROzCA.jpg",
+                "overview": "Os Guardi\u00f5es precisam lutar para manter sua rec\u00e9m descoberta fam\u00edlia unida, enquanto descobrem os mist\u00e9rios sobre o verdadeiro pai de Peter Quill.",
+                "vote_average": 7.621,
+                "vote_count": 20899
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Kong: Skull Island",
+            "second_label": "Stephen Rosenbaum, Jeff White, Scott Benza and Mike Meinardus",
+            "category": "Visual Effects",
+            "year": 2018,
+            "tmdb": {
+                "id": 293167,
+                "original_title": "Kong: Skull Island",
+                "title": "Kong: A Ilha da Caveira",
+                "release_date": "2017-03-08",
+                "backdrop_path": "/jks6QgJjsaDC5iT6bxLsSS0eo6L.jpg",
+                "poster_path": "/o44726g0aFhFsFIvQcz98yj7OrB.jpg",
+                "overview": "Um ex-militar viaja com um grupo de desbravadores at\u00e9 a m\u00edtica Ilha da Caveira, onde seu irm\u00e3o desapareceu enquanto procurava o Titan, soro que teria o poder de curar todas as doen\u00e7as. Al\u00e9m de resgatar o irm\u00e3o, o homem ir\u00e1 enfrentar as criaturas que habitam o local. A equipe de exploradores se aventura nas profundezas da ilha desconhecida no Pac\u00edfico, que \u00e9 t\u00e3o bonita quanto trai\u00e7oeira, sem saber que est\u00e3o atravessando para o dom\u00ednio do m\u00edtico Kong.",
+                "vote_average": 6.529,
+                "vote_count": 10035
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Star Wars: The Last Jedi",
+            "second_label": "Ben Morris, Mike Mulholland, Neal Scanlan and Chris Corbould",
+            "category": "Visual Effects",
+            "year": 2018,
+            "tmdb": {
+                "id": 181808,
+                "original_title": "Star Wars: The Last Jedi",
+                "title": "Star Wars: Epis\u00f3dio VIII - Os \u00daltimos Jedi",
+                "release_date": "2017-12-13",
+                "backdrop_path": "/5Iw7zQTHVRBOYpA0V6z0yypOPZh.jpg",
+                "poster_path": "/5dGufuaIG5vNcxPm8QPij5MSPeQ.jpg",
+                "overview": "A tranquila e solit\u00e1ria vida de Luke Skywalker sofre uma reviravolta quando ele conhece Rey, uma jovem que mostra fortes sinais da For\u00e7a. O desejo dela de aprender o estilo dos Jedi for\u00e7a Luke a tomar uma decis\u00e3o que mudar\u00e1 sua vida para sempre. Enquanto isso, Kylo Ren e o General Hux lideram a Primeira Ordem para um ataque total contra Leia e a Resist\u00eancia pela supremacia da gal\u00e1xia.",
+                "vote_average": 6.809,
+                "vote_count": 14747
+            },
+            "winner": false
+        },
+        {
+            "first_label": "War for the Planet of the Apes",
+            "second_label": "Joe Letteri, Daniel Barrett, Dan Lemmon and Joel Whist",
+            "category": "Visual Effects",
+            "year": 2018,
+            "tmdb": {
+                "id": 281338,
+                "original_title": "War for the Planet of the Apes",
+                "title": "Planeta dos Macacos: A Guerra",
+                "release_date": "2017-07-11",
+                "backdrop_path": "/ulMscezy9YX0bhknvJbZoUgQxO5.jpg",
+                "poster_path": "/gNAvlP4VYF6H6a4EyIcdZP9QBrM.jpg",
+                "overview": "C\u00e9sar e seus macacos s\u00e3o for\u00e7ados a entrar em confronto com uma mil\u00edcia de humanos liderada pelo implac\u00e1vel Coronel. Mas ap\u00f3s sofrer perdas inimagin\u00e1veis, C\u00e9sar resolve se vingar em um confronto final que ir\u00e1 determinar o futuro do planeta!",
+                "vote_average": 7.171,
+                "vote_count": 8335
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Adapted Screenplay)": [
+        {
+            "first_label": "Call Me by Your Name",
+            "second_label": "Screenplay by James Ivory",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2018,
+            "tmdb": {
+                "id": 398818,
+                "original_title": "Call Me by Your Name",
+                "title": "Me Chame Pelo Seu Nome",
+                "release_date": "2017-09-01",
+                "backdrop_path": "/zvOJawrnmgK0sL293mOXOdLvTXQ.jpg",
+                "poster_path": "/qnf5Onsk236CdE5Lff93IX69gHf.jpg",
+                "overview": "O sens\u00edvel e \u00fanico filho da fam\u00edlia americana com ascend\u00eancia italiana e francesa Perlman, Elio est\u00e1 enfrentando outro ver\u00e3o pregui\u00e7oso na casa de seus pais na bela e l\u00e2nguida paisagem italiana quando Oliver, um acad\u00eamico que veio ajudar a pesquisa de seu pai, chega.",
+                "vote_average": 8.15,
+                "vote_count": 11660
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Disaster Artist",
+            "second_label": "Screenplay by Scott Neustadter & Michael H. Weber",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2018,
+            "tmdb": {
+                "id": 371638,
+                "original_title": "The Disaster Artist",
+                "title": "Artista do Desastre",
+                "release_date": "2017-03-12",
+                "backdrop_path": "/1hdorswm5HPxb81xq84H9gqveUq.jpg",
+                "poster_path": "/mIu3lfpxwt5YprslsSjnU0nZj8y.jpg",
+                "overview": "Greg Sestero se aproxima do exc\u00eantrico Tommy Wiseau ap\u00f3s uma aula de atua\u00e7\u00e3o e os dois desenvolvem uma intensa amizade ancorada no sonho em comum de fazer sucesso nas artes dram\u00e1ticas. Juntos eles partem para Hollywood, onde Tommy, cansado de ser rejeitado em testes, decide produzir, financiar, dirigir, escrever e protagonizar \u2013 ao lado do melhor amigo \u2013 o longa que o catapultar\u00e1 ao estrelato \"The Room\".",
+                "vote_average": 7.1,
+                "vote_count": 3401
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Logan",
+            "second_label": "Screenplay by Scott Frank & James Mangold and Michael Green; Story by James Mangold",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2018,
+            "tmdb": {
+                "id": 263115,
+                "original_title": "Logan",
+                "title": "Logan",
+                "release_date": "2017-02-28",
+                "backdrop_path": "/9X7YweCJw3q8Mcf6GadxReFEksM.jpg",
+                "poster_path": "/f0CtZbae9cXj8bkWdCHzUHx5lsR.jpg",
+                "overview": "Em 2029, Logan ganha a vida como chofer de limousine para cuidar do nonagen\u00e1rio Charles Xavier. Debilitado fisicamente e esgotado emocionalmente, ele \u00e9 procurado por Gabriela, uma mexicana que precisa da ajuda do ex-X-Men para defender a pequena Laura Kinney / X-23. Ao mesmo tempo em que se recusa a voltar \u00e0 ativa, Logan \u00e9 perseguido pelo mercen\u00e1rio Donald Pierce, interessado na menina.",
+                "vote_average": 7.819,
+                "vote_count": 18514
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Molly's Game",
+            "second_label": "Written for the screen by Aaron Sorkin",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2018,
+            "tmdb": {
+                "id": 396371,
+                "original_title": "Molly's Game",
+                "title": "A Grande Jogada",
+                "release_date": "2017-12-07",
+                "backdrop_path": "/yvbXGWjg30sj7rohEZvSe90jSJC.jpg",
+                "poster_path": "/vcUILiRwukrcWzTR2cI6AlmdD6p.jpg",
+                "overview": "Ap\u00f3s perder a chance de participar dos Jogos Ol\u00edmpicos, a esquiadora Molly Bloom decide tirar um ano de folga dos estudos e ir trabalhar como gar\u00e7onete em Los Angeles. Atrav\u00e9s de circunst\u00e2ncias curiosas, ela acaba se tornando milion\u00e1ria e famosa por organizar os mais exclusivos jogos de p\u00f4quer da regi\u00e3o.",
+                "vote_average": 7.2,
+                "vote_count": 3538
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mudbound",
+            "second_label": "Screenplay by Virgil Williams and Dee Rees",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2018,
+            "tmdb": {
+                "id": 414425,
+                "original_title": "Mudbound",
+                "title": "L\u00e1grimas Sobre o Mississipi",
+                "release_date": "2017-11-16",
+                "backdrop_path": "/m0CrcOOSUK6Ylf0pkGfGX0BdDq7.jpg",
+                "poster_path": "/2qEz0Jhc63DKoiJXY4SJh0ISQ5Q.jpg",
+                "overview": "Depois da Segunda Guerra Mundial, duas fam\u00edlias entrela\u00e7am suas hist\u00f3rias vivendo no delta do Rio Mississippi. Juntas elas enfrentam a hierarquia social b\u00e1rbara numa paisagem implac\u00e1vel. Ao mesmo tempo elas lutam uma batalha em casa e outra no exterior.",
+                "vote_average": 7.4,
+                "vote_count": 1183
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Original Screenplay)": [
+        {
+            "first_label": "Get Out",
+            "second_label": "Written by Jordan Peele",
+            "category": "Writing (Original Screenplay)",
+            "year": 2018,
+            "tmdb": {
+                "id": 419430,
+                "original_title": "Get Out",
+                "title": "Corra!",
+                "release_date": "2017-02-24",
+                "backdrop_path": "/o8dPH0ZSIyyViP6rjRX1djwCUwI.jpg",
+                "poster_path": "/7hmmKIWDHi7jzOiGzffZesXKKfp.jpg",
+                "overview": "Agora que Chris e sua namorada, Rose, chegaram \u00e0 fase de conhecer os pais no namoro, ela o convida para um fim de semana no interior com Missy e Dean. A princ\u00edpio, Chris acha que o comportamento excessivamente agrad\u00e1vel dos dois como tentativas nervosas de lidar com o relacionamento inter-racial da filha, mas, conforme o fim de semana avan\u00e7a, uma s\u00e9rie de descobertas cada vez mais perturbadoras o levam a uma verdade que ele jamais poderia ter imaginado.",
+                "vote_average": 7.621,
+                "vote_count": 16623
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Big Sick",
+            "second_label": "Written by Emily V. Gordon & Kumail Nanjiani",
+            "category": "Writing (Original Screenplay)",
+            "year": 2018,
+            "tmdb": {
+                "id": 416477,
+                "original_title": "The Big Sick",
+                "title": "Doentes de Amor",
+                "release_date": "2017-03-30",
+                "backdrop_path": "/6RfnVwri4LaK1kSzDp5aebsjYwp.jpg",
+                "poster_path": "/1asrCZytMbbeTm6AIWlpMTKpsTz.jpg",
+                "overview": "O comediante paquistan\u00eas Kumail e a estudante de gradua\u00e7\u00e3o Emily se apaixonam, mas encontram dificuldades quando suas culturas entram em conflito. Al\u00e9m disso, quando Emily contrai uma doen\u00e7a misteriosa, Kumail deve resolver a crise com seus pais causada pelo conflito emocional entre sua fam\u00edlia e seu cora\u00e7\u00e3o.",
+                "vote_average": 7.3,
+                "vote_count": 2320
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lady Bird",
+            "second_label": "Written by Greta Gerwig",
+            "category": "Writing (Original Screenplay)",
+            "year": 2018,
+            "tmdb": {
+                "id": 391713,
+                "original_title": "Lady Bird",
+                "title": "Lady Bird - A Hora de Voar",
+                "release_date": "2017-09-01",
+                "backdrop_path": "/pcWxKfFNCznTKYy0E8M9nG1cwL4.jpg",
+                "poster_path": "/wxfKcpFPmK9isnxXyvCMbqmBtdg.jpg",
+                "overview": "Christine McPherson est\u00e1 no \u00faltimo ano do col\u00e9gio e o que mais deseja \u00e9 ir fazer faculdade longe de Sacramento, Calif\u00f3rnia, ideia rejeitada por sua m\u00e3e. Lady Bird, como a garota de forte personalidade exige ser chamada, n\u00e3o se d\u00e1 por vencida e leva o plano de ir embora adiante mesmo assim. Enquanto a hora n\u00e3o chega, ela se divide entre as obriga\u00e7\u00f5es estudantis no col\u00e9gio cat\u00f3lico, o primeiro namoro, t\u00edpicos rituais de passagem para a vida adulta e in\u00fameros desentendimentos com a progenitora.",
+                "vote_average": 7.3,
+                "vote_count": 8107
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Shape of Water",
+            "second_label": "Screenplay by Guillermo del Toro & Vanessa Taylor; Story by Guillermo del Toro",
+            "category": "Writing (Original Screenplay)",
+            "year": 2018,
+            "tmdb": {
+                "id": 399055,
+                "original_title": "The Shape of Water",
+                "title": "A Forma da \u00c1gua",
+                "release_date": "2017-12-01",
+                "backdrop_path": "/hVYhrKuQNFro6jXHZMn60uYjrIP.jpg",
+                "poster_path": "/hHPFq7myTjAVH6CwQjamAuUqhrr.jpg",
+                "overview": "D\u00e9cada de 60. Em meio aos grandes conflitos pol\u00edticos e transforma\u00e7\u00f5es sociais dos Estados Unidos da Guerra Fria, a muda Elisa, zeladora em um laborat\u00f3rio experimental secreto do governo, se encanta com uma criatura fant\u00e1stica mantida presa e maltratada no local. Para executar um arriscado e apaixonado resgate, ela recorre ao melhor amigo Giles e \u00e0 colega de turno Zelda, em uma aventura que pode custar muito mais do que o seu emprego.",
+                "vote_average": 7.246,
+                "vote_count": 11769
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Three Billboards outside Ebbing, Missouri",
+            "second_label": "Written by Martin McDonagh",
+            "category": "Writing (Original Screenplay)",
+            "year": 2018,
+            "tmdb": {
+                "id": 359940,
+                "original_title": "Three Billboards Outside Ebbing, Missouri",
+                "title": "Tr\u00eas An\u00fancios Para Um Crime",
+                "release_date": "2017-12-01",
+                "backdrop_path": "/oQHF0Y4gCw6VdPmapjsbZoxY2ht.jpg",
+                "poster_path": "/vkmSz7x18uaNqzWVp2UeYOgsSSA.jpg",
+                "overview": "Inconformada com a inefic\u00e1cia da pol\u00edcia em encontrar o culpado pelo brutal assassinato de sua filha, Mildred Hayes decide chamar aten\u00e7\u00e3o para o caso n\u00e3o solucionado alugando tr\u00eas outdoors em uma estrada raramente usada. A inesperada atitude repercute em toda a cidade e suas consequ\u00eancias afetam v\u00e1rias pessoas, especialmente a pr\u00f3pria Mildred e o Delegado Willoughby, respons\u00e1vel pela investiga\u00e7\u00e3o.",
+                "vote_average": 8.075,
+                "vote_count": 9719
+            },
+            "winner": false
+        }
+    ]
+}

@@ -1,0 +1,2004 @@
+{
+    "Actor in a Leading Role": [
+        {
+            "first_label": "Eddie Redmayne",
+            "second_label": "The Theory of Everything",
+            "category": "Actor in a Leading Role",
+            "year": 2015,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Steve Carell",
+            "second_label": "Foxcatcher",
+            "category": "Actor in a Leading Role",
+            "year": 2015,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Bradley Cooper",
+            "second_label": "American Sniper",
+            "category": "Actor in a Leading Role",
+            "year": 2015,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Benedict Cumberbatch",
+            "second_label": "The Imitation Game",
+            "category": "Actor in a Leading Role",
+            "year": 2015,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Michael Keaton",
+            "second_label": "Birdman or (The Unexpected Virtue of Ignorance)",
+            "category": "Actor in a Leading Role",
+            "year": 2015,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "J.K. Simmons",
+            "second_label": "Whiplash",
+            "category": "Actor in a Supporting Role",
+            "year": 2015,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Robert Duvall",
+            "second_label": "The Judge",
+            "category": "Actor in a Supporting Role",
+            "year": 2015,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ethan Hawke",
+            "second_label": "Boyhood",
+            "category": "Actor in a Supporting Role",
+            "year": 2015,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Edward Norton",
+            "second_label": "Birdman or (The Unexpected Virtue of Ignorance)",
+            "category": "Actor in a Supporting Role",
+            "year": 2015,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mark Ruffalo",
+            "second_label": "Foxcatcher",
+            "category": "Actor in a Supporting Role",
+            "year": 2015,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Leading Role": [
+        {
+            "first_label": "Julianne Moore",
+            "second_label": "Still Alice",
+            "category": "Actress in a Leading Role",
+            "year": 2015,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Marion Cotillard",
+            "second_label": "Two Days, One Night",
+            "category": "Actress in a Leading Role",
+            "year": 2015,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Felicity Jones",
+            "second_label": "The Theory of Everything",
+            "category": "Actress in a Leading Role",
+            "year": 2015,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rosamund Pike",
+            "second_label": "Gone Girl",
+            "category": "Actress in a Leading Role",
+            "year": 2015,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Reese Witherspoon",
+            "second_label": "Wild",
+            "category": "Actress in a Leading Role",
+            "year": 2015,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Patricia Arquette",
+            "second_label": "Boyhood",
+            "category": "Actress in a Supporting Role",
+            "year": 2015,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Laura Dern",
+            "second_label": "Wild",
+            "category": "Actress in a Supporting Role",
+            "year": 2015,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Keira Knightley",
+            "second_label": "The Imitation Game",
+            "category": "Actress in a Supporting Role",
+            "year": 2015,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Emma Stone",
+            "second_label": "Birdman or (The Unexpected Virtue of Ignorance)",
+            "category": "Actress in a Supporting Role",
+            "year": 2015,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Meryl Streep",
+            "second_label": "Into the Woods",
+            "category": "Actress in a Supporting Role",
+            "year": 2015,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Animated Feature Film": [
+        {
+            "first_label": "Big Hero 6",
+            "second_label": "Don Hall, Chris Williams and Roy Conli",
+            "category": "Animated Feature Film",
+            "year": 2015,
+            "tmdb": {
+                "id": 177572,
+                "original_title": "Big Hero 6",
+                "title": "Opera\u00e7\u00e3o Big Hero",
+                "release_date": "2014-10-24",
+                "backdrop_path": "/5tub2Kw6NboWFblA1CgDEwB59jP.jpg",
+                "poster_path": "/5EodFesjReSDlX1c0I5ANZijBFy.jpg",
+                "overview": "O grande rob\u00f4 infl\u00e1vel est\u00e1 sempre a postos para cuidar de Hiro Hamada. Quando algo devastador assola a cidade, o menino prod\u00edgio, seus amigos e o rob\u00f4 formam um grupo de her\u00f3is para combater o mal.",
+                "vote_average": 7.734,
+                "vote_count": 15108
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Boxtrolls",
+            "second_label": "Anthony Stacchi, Graham Annable and Travis Knight",
+            "category": "Animated Feature Film",
+            "year": 2015,
+            "tmdb": {
+                "id": 170687,
+                "original_title": "The Boxtrolls",
+                "title": "Os Boxtrolls",
+                "release_date": "2014-09-10",
+                "backdrop_path": "/dkBx0XNzsngDDqiWiPG08eMWBm7.jpg",
+                "poster_path": "/uIvX4d9H6V2nSHuDGLo7JVZuOID.jpg",
+                "overview": "Ovo (Isaac Hempstead-Wright) \u00e9 um garoto \u00f3rf\u00e3o, que desde beb\u00ea foi criado nos esgotos da cidade de Ponte Queijo pelos boxtrolls, am\u00e1veis criaturas que vivem do lixo deixado por humanos. Como os boxtrolls s\u00e3o ca\u00e7ados impiedosamente por Archibald Snatcher (Ben Kingsley) e sua gangue, eles apenas deixam o subterr\u00e2neo \u00e0 noite e, ainda assim, de vez em quando um deles \u00e9 capturado. Quando Peixe, o boxtrolls que criou Eggs, \u00e9 pego, o garoto decide se aventurar pela cidade para resgat\u00e1-lo. \u00c9 quando conhece Winnie (Elle Fanning), uma garota mimada que faz com que perceba que ele \u00e9, na verdade, um humano.",
+                "vote_average": 6.7,
+                "vote_count": 1596
+            },
+            "winner": false
+        },
+        {
+            "first_label": "How to Train Your Dragon 2",
+            "second_label": "Dean DeBlois and Bonnie Arnold",
+            "category": "Animated Feature Film",
+            "year": 2015,
+            "tmdb": {
+                "id": 82702,
+                "original_title": "How to Train Your Dragon 2",
+                "title": "Como Treinar o seu Drag\u00e3o 2",
+                "release_date": "2014-06-05",
+                "backdrop_path": "/5MnP0h7RcUCeX7gpxMYoMScmfq7.jpg",
+                "poster_path": "/3scupRmZJ3zrDS29XeUQKm8nu3U.jpg",
+                "overview": "Cinco anos ap\u00f3s convencer os habitantes de seu vilarejo que os drag\u00f5es n\u00e3o devem ser combatidos, Solu\u00e7o convive com seu drag\u00e3o F\u00faria da Noite, e estes animais integraram pacificamente a rotina dos moradores da ilha de Berk. Entre viagens pelos c\u00e9us e corridas de drag\u00f5es, Solu\u00e7o descobre uma caverna secreta, onde centenas de novos drag\u00f5es vivem. O local \u00e9 protegido por Valka, m\u00e3e de Solu\u00e7o, que foi afastada do filho quando ele ainda era um beb\u00ea. Juntos, eles precisar\u00e3o proteger o mundo que conhecem do perigoso Drago Bludvist, que deseja controlar todos os drag\u00f5es existentes.",
+                "vote_average": 7.67,
+                "vote_count": 9208
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Song of the Sea",
+            "second_label": "Tomm Moore and Paul Young",
+            "category": "Animated Feature Film",
+            "year": 2015,
+            "tmdb": {
+                "id": 110416,
+                "original_title": "Song of the Sea",
+                "title": "A Can\u00e7\u00e3o do Oceano",
+                "release_date": "2014-09-06",
+                "backdrop_path": "/AaIRBsx4hpa2fVQzeCfFyOdzCEM.jpg",
+                "poster_path": "/neoB6fj4MIiMMc0OKBa2z5OVUum.jpg",
+                "overview": "A hist\u00f3ria da viagem de volta da \u00faltima crian\u00e7a das selkies, mulheres que se transformam em focas. Depois do desaparecimento de sua m\u00e3e, Ben e Saoirse s\u00e3o enviados para viver com a av\u00f3 na cidade. Quando eles resolvem voltar para a sua casa \u00e0 beira-mar, a viagem torna-se uma corrida contra o tempo, quando eles s\u00e3o atra\u00eddos para um mundo que conhecem apenas nos contos populares de sua m\u00e3e. Mas isso n\u00e3o \u00e9 uma hist\u00f3ria de ninar, essas pessoas est\u00e3o em nosso mundo por muito tempo. Logo fica claro para Ben que Saoirse \u00e9 a chave para a sua sobreviv\u00eancia.",
+                "vote_average": 8.0,
+                "vote_count": 1357
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Tale of the Princess Kaguya",
+            "second_label": "Isao Takahata and Yoshiaki Nishimura",
+            "category": "Animated Feature Film",
+            "year": 2015,
+            "tmdb": {
+                "id": 149871,
+                "original_title": "\u304b\u3050\u3084\u59eb\u306e\u7269\u8a9e",
+                "title": "O Conto da Princesa Kaguya",
+                "release_date": "2013-11-23",
+                "backdrop_path": "/imUJOrtNf8EWameChpaRLXSaX4w.jpg",
+                "poster_path": "/cerV9QJhSdDlnUigrsKZQfOeTpA.jpg",
+                "overview": "Esta anima\u00e7\u00e3o \u00e9 baseada no conto popular japon\u00eas \"O Corte do Bambu\". Kaguya era um min\u00fasculo beb\u00ea quando foi encontrada dentro de um tronco de bambu brilhante. Passado o tempo, ela se transforma em uma bela jovem que passa a ser cobi\u00e7ada por cinco nobres, dentre eles, o pr\u00f3prio Imperador. Mas nenhum deles \u00e9 o que ela realmente quer. A mo\u00e7a envia seus pretendentes em tarefas aparentemente imposs\u00edveis para tentar evitar o casamento com um estranho que n\u00e3o ama. Mas Kaguya ter\u00e1 que enfrentar seu destino e puni\u00e7\u00e3o por suas escolhas.",
+                "vote_average": 8.1,
+                "vote_count": 1662
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "Birdman or (The Unexpected Virtue of Ignorance)",
+            "second_label": "Emmanuel Lubezki",
+            "category": "Cinematography",
+            "year": 2015,
+            "tmdb": {
+                "id": 194662,
+                "original_title": "Birdman or (The Unexpected Virtue of Ignorance)",
+                "title": "Birdman ou (A Inesperada Virtude da Ignor\u00e2ncia)",
+                "release_date": "2014-10-17",
+                "backdrop_path": "/s0OrExdg7i3RLR7oqzHRk4q2kL4.jpg",
+                "poster_path": "/7gwtDnEJ39QarOyzt9bSxEj3SkD.jpg",
+                "overview": "Esperando ser levado a s\u00e9rio, Riggan Thomson, uma estrela envelhecida conhecida por interpretar um super-her\u00f3i, tenta organizar uma pe\u00e7a da Broadway. Mas com as dificuldades da produ\u00e7\u00e3o e a aproxima\u00e7\u00e3o da noite de abertura, ele deve confrontar sua fam\u00edlia, sua carreira e seu ego.",
+                "vote_average": 7.467,
+                "vote_count": 12438
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Grand Budapest Hotel",
+            "second_label": "Robert Yeoman",
+            "category": "Cinematography",
+            "year": 2015,
+            "tmdb": {
+                "id": 120467,
+                "original_title": "The Grand Budapest Hotel",
+                "title": "O Grande Hotel Budapeste",
+                "release_date": "2014-02-26",
+                "backdrop_path": "/5vPW6MPAyCFd84FEQQgtPDmVDPQ.jpg",
+                "poster_path": "/z6MxdXMzxZCTv837RwEemJsaE3B.jpg",
+                "overview": "No per\u00edodo entre as duas guerras mundiais, o famoso gerente de um hotel europeu conhece um jovem empregado e os dois tornam-se melhores amigos. Entre as aventuras vividas pelos dois, constam o roubo de um famoso quadro do Renascimento, a batalha pela grande fortuna de uma fam\u00edlia e as transforma\u00e7\u00f5es hist\u00f3ricas durante a primeira metade do s\u00e9culo XX.",
+                "vote_average": 8.1,
+                "vote_count": 14258
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ida",
+            "second_label": "\u0141ukasz \u017bal and Ryszard Lenczewski",
+            "category": "Cinematography",
+            "year": 2015,
+            "tmdb": {
+                "id": 209274,
+                "original_title": "Ida",
+                "title": "Ida",
+                "release_date": "2013-10-25",
+                "backdrop_path": "/c9SvfYLJyai34bafR1AvqD9vAJi.jpg",
+                "poster_path": "/3uoCttE46RGHybiA26cXTvmFqbW.jpg",
+                "overview": "Anna \u00e9 uma \u00f3rf\u00e3 criada por freiras. Sua mestre lhe conta que, antes de completar seus votos, ela deve encontrar sua fam\u00edlia, ent\u00e3o ela vai visitar Wanda, sua \u00fanica parente viva, antes que esta venha a falecer. Wanda diz a Anna que ela \u00e9 judia, ent\u00e3o as duas mulheres iniciam uma viagem, n\u00e3o s\u00f3 para encontrar a sua tr\u00e1gica hist\u00f3ria de fam\u00edlia, mas para saber quem elas realmente s\u00e3o e aonde pertencem.",
+                "vote_average": 7.2,
+                "vote_count": 928
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mr. Turner",
+            "second_label": "Dick Pope",
+            "category": "Cinematography",
+            "year": 2015,
+            "tmdb": {
+                "id": 245700,
+                "original_title": "Mr. Turner",
+                "title": "Sr. Turner",
+                "release_date": "2014-10-31",
+                "backdrop_path": "/2lzyYNUMTUuuhAq6U7zUFq6am6a.jpg",
+                "poster_path": "/1eDlM1Zq63o2lTNqz1p50qASYY7.jpg",
+                "overview": "\"Sr. Turner\" explora o \u00faltimo quarto de s\u00e9culo da vida do \u00f3timo e exc\u00eantrico pintor brit\u00e2nico JMW Turner (1775-1851). Profundamente afetado pela morte de seu pai, amado por sua governanta que ele ocasionalmente explora sexualmente, ele cria uma rela\u00e7\u00e3o estreita com uma senhoria \u00e0 beira-mar com quem ele eventualmente vive inc\u00f3gnito no Chelsea, onde ele morre. Enquanto tudo isso acontece ele viaja, pinta, convive com a aristocracia do pa\u00eds, visita bord\u00e9is, \u00e9 um membro popular e an\u00e1rquico da Royal Academy of Arts, se faz amarrar ao mastro de um navio para que possa pintar uma tempestade de neve e \u00e9, ao mesmo tempo, celebrado e insultado pelo p\u00fablico e pela realeza.",
+                "vote_average": 6.5,
+                "vote_count": 496
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Unbroken",
+            "second_label": "Roger Deakins",
+            "category": "Cinematography",
+            "year": 2015,
+            "tmdb": {
+                "id": 227306,
+                "original_title": "Unbroken",
+                "title": "Invenc\u00edvel",
+                "release_date": "2014-12-25",
+                "backdrop_path": "/8gGbfySRbrYf8fhJOMUzlvsrUPN.jpg",
+                "poster_path": "/4ewpP8s2PBOvsxQN9waaMWPCniy.jpg",
+                "overview": "O filme conta a hist\u00f3ria de Louis Zamperini, uma estrela da pista ol\u00edmpica e um her\u00f3i da Segunda Guerra Mundial, que durante uma miss\u00e3o militar, sofreu um acidente de avi\u00e3o no Oceano Pac\u00edfico, do qual sobreviveu junto com dois companheiros. Ele E mais um sobrevivem. Eles passaram 47 dias \u00e0 deriva numa balsa, quando foram encontrados por um navio de guerra japon\u00eas. Que os fizeram de prisioneiros e os levaram para uma ilha onde foram torturados e mantidos como prisioneiros de guerra por dois anos.",
+                "vote_average": 7.4,
+                "vote_count": 3952
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design": [
+        {
+            "first_label": "The Grand Budapest Hotel",
+            "second_label": "Milena Canonero",
+            "category": "Costume Design",
+            "year": 2015,
+            "tmdb": {
+                "id": 120467,
+                "original_title": "The Grand Budapest Hotel",
+                "title": "O Grande Hotel Budapeste",
+                "release_date": "2014-02-26",
+                "backdrop_path": "/5vPW6MPAyCFd84FEQQgtPDmVDPQ.jpg",
+                "poster_path": "/z6MxdXMzxZCTv837RwEemJsaE3B.jpg",
+                "overview": "No per\u00edodo entre as duas guerras mundiais, o famoso gerente de um hotel europeu conhece um jovem empregado e os dois tornam-se melhores amigos. Entre as aventuras vividas pelos dois, constam o roubo de um famoso quadro do Renascimento, a batalha pela grande fortuna de uma fam\u00edlia e as transforma\u00e7\u00f5es hist\u00f3ricas durante a primeira metade do s\u00e9culo XX.",
+                "vote_average": 8.1,
+                "vote_count": 14258
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Inherent Vice",
+            "second_label": "Mark Bridges",
+            "category": "Costume Design",
+            "year": 2015,
+            "tmdb": {
+                "id": 171274,
+                "original_title": "Inherent Vice",
+                "title": "V\u00edcio Inerente",
+                "release_date": "2014-12-12",
+                "backdrop_path": "/zwC3N0QQC2OCPDz2UWKNoq5vXm7.jpg",
+                "poster_path": "/z8Vew0X034bqtnEiEIEwatt7u4k.jpg",
+                "overview": "Em uma comunidade litor\u00e2nea da Calif\u00f3rnia, o solit\u00e1rio detetive particular Larry \"Doc\" Sportello costuma lidar com os seus casos atrav\u00e9s da fuma\u00e7a de um cigarro de maconha. Um dia, ele recebe a visita inesperada da ex-namorada Shasta, por quem ainda sente algo. Shasta precisa da ajuda de Larry para encontrar seu amante, Mickey Wolfmann, um bilion\u00e1rio do mercado imobili\u00e1rio, que desapareceu misteriosamente. Aparentemente, a esposa de Mickey est\u00e1 tentando intern\u00e1-lo em um hospital psiqui\u00e1trico.",
+                "vote_average": 6.6,
+                "vote_count": 2383
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Into the Woods",
+            "second_label": "Colleen Atwood",
+            "category": "Costume Design",
+            "year": 2015,
+            "tmdb": {
+                "id": 224141,
+                "original_title": "Into the Woods",
+                "title": "Caminhos da Floresta",
+                "release_date": "2014-12-24",
+                "backdrop_path": "/qF938YRj7RoYkjwOsXFDNYf907J.jpg",
+                "poster_path": "/lV9VadnnXvv8qxoHkT9XWwGesQw.jpg",
+                "overview": "Nesta saga \u00e9pica musical sobre ousar aventurar-se na Floresta, personagens famosos como Cinderela, Chapeuzinho Vermelho, Jo\u00e3o e o P\u00e9 de Feij\u00e3o e Rapunzel encontram seus destinos entrela\u00e7ados com o de um padeiro humilde e sua mulher, cujo desejo de ter um filho os envia em uma miss\u00e3o para reverter um feiti\u00e7o da Bruxa.",
+                "vote_average": 5.754,
+                "vote_count": 4129
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Maleficent",
+            "second_label": "Anna B. Sheppard",
+            "category": "Costume Design",
+            "year": 2015,
+            "tmdb": {
+                "id": 102651,
+                "original_title": "Maleficent",
+                "title": "Mal\u00e9vola",
+                "release_date": "2014-05-28",
+                "backdrop_path": "/xjotE7aFdZ0D8aGriYjFOtDayct.jpg",
+                "poster_path": "/ga1I9MwWnqXpbVBwE5NO1xTrpZS.jpg",
+                "overview": "Motivada por vingan\u00e7a e o desejo feroz de proteger seu reino, Mal\u00e9vola cruelmente coloca uma maldi\u00e7\u00e3o irrevog\u00e1vel na filha rec\u00e9m-nascida do rei dos humanos, Aurora. Conforme cresce, Aurora enfrenta um conflito fervente entre o reino da floresta, local onde ela cresceu e ama, e o reino humano, que mant\u00e9m o seu legado. Mal\u00e9vola percebe que Aurora pode ser a chave para a paz no reino e \u00e9 for\u00e7ada a tomar medidas dr\u00e1sticas que mudar\u00e3o para sempre os dois mundos.",
+                "vote_average": 7.094,
+                "vote_count": 12740
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mr. Turner",
+            "second_label": "Jacqueline Durran",
+            "category": "Costume Design",
+            "year": 2015,
+            "tmdb": {
+                "id": 245700,
+                "original_title": "Mr. Turner",
+                "title": "Sr. Turner",
+                "release_date": "2014-10-31",
+                "backdrop_path": "/2lzyYNUMTUuuhAq6U7zUFq6am6a.jpg",
+                "poster_path": "/1eDlM1Zq63o2lTNqz1p50qASYY7.jpg",
+                "overview": "\"Sr. Turner\" explora o \u00faltimo quarto de s\u00e9culo da vida do \u00f3timo e exc\u00eantrico pintor brit\u00e2nico JMW Turner (1775-1851). Profundamente afetado pela morte de seu pai, amado por sua governanta que ele ocasionalmente explora sexualmente, ele cria uma rela\u00e7\u00e3o estreita com uma senhoria \u00e0 beira-mar com quem ele eventualmente vive inc\u00f3gnito no Chelsea, onde ele morre. Enquanto tudo isso acontece ele viaja, pinta, convive com a aristocracia do pa\u00eds, visita bord\u00e9is, \u00e9 um membro popular e an\u00e1rquico da Royal Academy of Arts, se faz amarrar ao mastro de um navio para que possa pintar uma tempestade de neve e \u00e9, ao mesmo tempo, celebrado e insultado pelo p\u00fablico e pela realeza.",
+                "vote_average": 6.5,
+                "vote_count": 496
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "Birdman or (The Unexpected Virtue of Ignorance)",
+            "second_label": "Alejandro G. Irritu",
+            "category": "Directing",
+            "year": 2015,
+            "tmdb": {
+                "id": 194662,
+                "original_title": "Birdman or (The Unexpected Virtue of Ignorance)",
+                "title": "Birdman ou (A Inesperada Virtude da Ignor\u00e2ncia)",
+                "release_date": "2014-10-17",
+                "backdrop_path": "/s0OrExdg7i3RLR7oqzHRk4q2kL4.jpg",
+                "poster_path": "/7gwtDnEJ39QarOyzt9bSxEj3SkD.jpg",
+                "overview": "Esperando ser levado a s\u00e9rio, Riggan Thomson, uma estrela envelhecida conhecida por interpretar um super-her\u00f3i, tenta organizar uma pe\u00e7a da Broadway. Mas com as dificuldades da produ\u00e7\u00e3o e a aproxima\u00e7\u00e3o da noite de abertura, ele deve confrontar sua fam\u00edlia, sua carreira e seu ego.",
+                "vote_average": 7.467,
+                "vote_count": 12438
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Boyhood",
+            "second_label": "Richard Linklater",
+            "category": "Directing",
+            "year": 2015,
+            "tmdb": {
+                "id": 85350,
+                "original_title": "Boyhood",
+                "title": "Boyhood: Da Inf\u00e2ncia \u00e0 Juventude",
+                "release_date": "2014-06-05",
+                "backdrop_path": "/qRwkMMZhQRKM4uDaXpd2XbZZmkE.jpg",
+                "poster_path": "/rr1rlDZXOeLqtYMEC6xEunxqsD3.jpg",
+                "overview": "Acompanhe a vida do garoto Mason durante um per\u00edodo de doze anos, da inf\u00e2ncia \u00e0 juventude, analisando seu relacionamento com os pais, suas descobertas, experi\u00eancias e seus conflitos.",
+                "vote_average": 7.507,
+                "vote_count": 4956
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Foxcatcher",
+            "second_label": "Bennett Miller",
+            "category": "Directing",
+            "year": 2015,
+            "tmdb": {
+                "id": 87492,
+                "original_title": "Foxcatcher",
+                "title": "Foxcatcher: Uma Hist\u00f3ria Que Chocou o Mundo",
+                "release_date": "2014-11-14",
+                "backdrop_path": "/tT8vexYdyHG0nHyXQkhzt8tbFkt.jpg",
+                "poster_path": "/bim6tB3N5xB7wXjanWPIV14Qq53.jpg",
+                "overview": "O milion\u00e1rio John du Pont convida o campe\u00e3o ol\u00edmpico de luta greco-romana, Mark Schultz, para mudar-se para sua mans\u00e3o e ajudar a formar uma equipe para as Olimp\u00edadas de 1988. O lutador v\u00ea a oportunidade como uma maneira de sair da sombra de seu irm\u00e3o mais velho, uma lenda no esporte. Tamb\u00e9m atra\u00eddo pelo sal\u00e1rio e condi\u00e7\u00f5es de vida oferecidas, ele aceita a proposta. Mark e John se tornam amigos, mas a dif\u00edcil personalidade do milion\u00e1rio faz com que Mark acabe indo em dire\u00e7\u00e3o a uma trag\u00e9dia.",
+                "vote_average": 6.7,
+                "vote_count": 2198
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Grand Budapest Hotel",
+            "second_label": "Wes Anderson",
+            "category": "Directing",
+            "year": 2015,
+            "tmdb": {
+                "id": 120467,
+                "original_title": "The Grand Budapest Hotel",
+                "title": "O Grande Hotel Budapeste",
+                "release_date": "2014-02-26",
+                "backdrop_path": "/5vPW6MPAyCFd84FEQQgtPDmVDPQ.jpg",
+                "poster_path": "/z6MxdXMzxZCTv837RwEemJsaE3B.jpg",
+                "overview": "No per\u00edodo entre as duas guerras mundiais, o famoso gerente de um hotel europeu conhece um jovem empregado e os dois tornam-se melhores amigos. Entre as aventuras vividas pelos dois, constam o roubo de um famoso quadro do Renascimento, a batalha pela grande fortuna de uma fam\u00edlia e as transforma\u00e7\u00f5es hist\u00f3ricas durante a primeira metade do s\u00e9culo XX.",
+                "vote_average": 8.1,
+                "vote_count": 14258
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Imitation Game",
+            "second_label": "Morten Tyldum",
+            "category": "Directing",
+            "year": 2015,
+            "tmdb": {
+                "id": 205596,
+                "original_title": "The Imitation Game",
+                "title": "O Jogo da Imita\u00e7\u00e3o",
+                "release_date": "2014-11-14",
+                "backdrop_path": "/gLQoJ9P79g501oEEtrN8zMlCPpx.jpg",
+                "poster_path": "/bwWCFjhwrs5my4FUoeWdTa2GYlB.jpg",
+                "overview": "Em 1939, a rec\u00e9m-criada ag\u00eancia de intelig\u00eancia brit\u00e2nica MI6 recruta Alan Turing, um aluno da Universidade de Cambridge, para entender c\u00f3digos nazistas, incluindo o \"Enigma\", que cript\u00f3grafos acreditavam ser inquebr\u00e1vel. A equipe de Turing, incluindo Joan Clarke, analisa as mensagens de \"Enigma\", enquanto ele constr\u00f3i uma m\u00e1quina para decifr\u00e1-las.",
+                "vote_average": 8.005,
+                "vote_count": 16457
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "CitizenFour",
+            "second_label": "Laura Poitras, Mathilde Bonnefoy and Dirk Wilutzky",
+            "category": "Documentary (Feature)",
+            "year": 2015,
+            "tmdb": {
+                "id": 293310,
+                "original_title": "Citizenfour",
+                "title": "Cidad\u00e3oquatro",
+                "release_date": "2014-10-10",
+                "backdrop_path": "/pttNnC5WsYr3SUpBmJtnN1OkDS9.jpg",
+                "poster_path": "/nOVhX69EAxtSKEEnr5UcSd5UVci.jpg",
+                "overview": "Uma documentarista e um rep\u00f3rter viajam para Hong Kong para o primeiro de muitos encontros com Edward Snowden.",
+                "vote_average": 7.7,
+                "vote_count": 1229
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Finding Vivian Maier",
+            "second_label": "John Maloof and Charlie Siskel",
+            "category": "Documentary (Feature)",
+            "year": 2015,
+            "tmdb": {
+                "id": 169607,
+                "original_title": "Finding Vivian Maier",
+                "title": "A Fotografia Oculta de Vivian Maier",
+                "release_date": "2014-03-21",
+                "backdrop_path": "/iHBPdbAUHJ8AcQ4t9gh7kcCpRwG.jpg",
+                "poster_path": "/yaj9mpHNpns5j4ODP4352PgDWJM.jpg",
+                "overview": "Vivian Maier's photos were seemingly destined for obscurity, lost among the clutter of the countless objects she'd collected throughout her life. Instead these images have shaken the world of street photography and irrevocably changed the life of the man who brought them to the public eye. This film brings to life the interesting turns and travails of the improbable saga of John Maloof's discovery of Vivian Maier, unravelling this mysterious tale through her documentary films, photographs, odd collections and personal accounts from the people that knew her. What started as a blog to show her work quickly became a viral sensation in the photography world. Photos destined for the trash heap now line gallery exhibitions, a forthcoming book and this documentary film.",
+                "vote_average": 7.5,
+                "vote_count": 285
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Last Days in Vietnam",
+            "second_label": "Rory Kennedy and Keven McAlester",
+            "category": "Documentary (Feature)",
+            "year": 2015,
+            "tmdb": {
+                "id": 250761,
+                "original_title": "Last Days in Vietnam",
+                "title": "Os \u00daltimos Dias no Vietn\u00e3",
+                "release_date": "2014-09-05",
+                "backdrop_path": "/5dGKnKBUdj70bQtF1IQVUtHFVGl.jpg",
+                "poster_path": "/6HUVUGg9DmmMvwXinoJJBUTa4NI.jpg",
+                "overview": "Durante as ca\u00f3ticas semanas finais da Guerra do Vietn\u00e3, o ex\u00e9rcito comunista norte-vietnamita se aproxima de Saigon, enquanto o povo sul-vietnamita, em p\u00e2nico, tenta desesperadamente escapar. Nesse momento de intensa turbul\u00eancia, a oposi\u00e7\u00e3o democrata rec\u00e9m-eleita, formando maioria na congresso, corta as verbas militares, for\u00e7ando a retirada imediata das tropas americanas, enquanto os l\u00edderes vietcongues do norte desafiam abertamente o acordo de Paris. No terreno, soldados e diplomatas americanos enfrentam um dilema moral angustiante: obedecer \u00e0s ordens da Casa Branca de evacuar apenas cidad\u00e3os dos EUA, enquanto uma na\u00e7\u00e3o aliada \u00e0 beira do colapso clama desesperadamente por ajuda.",
+                "vote_average": 7.2,
+                "vote_count": 87
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Salt of the Earth",
+            "second_label": "Wim Wenders, Juliano Ribeiro Salgado and David Rosier",
+            "category": "Documentary (Feature)",
+            "year": 2015,
+            "tmdb": {
+                "id": 265297,
+                "original_title": "Le sel de la terre",
+                "title": "O Sal da Terra",
+                "release_date": "2014-08-29",
+                "backdrop_path": "/lqtzWKCpejXdKb22cav5bB6MqSR.jpg",
+                "poster_path": "/co47qUCNSa3LIPWwNcqq0PGhnJJ.jpg",
+                "overview": "Nos \u00faltimos 40 anos, o fot\u00f3grafo Sebasti\u00e3o Salgado tem viajado atrav\u00e9s dos continentes, aos passos de uma humanidade sempre em muta\u00e7\u00e3o. Ele testemunhou alguns dos principais eventos da nossa hist\u00f3ria recente; conflitos internacionais, a fome e o \u00eaxodo. Ele agora embarca na descoberta de territ\u00f3rios imaculados, da flora e da fauna selvagem e de paisagens grandiosas como parte de um enorme projeto fotogr\u00e1fico. Uma homenagem \u00e0 beleza do planeta.",
+                "vote_average": 8.1,
+                "vote_count": 579
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Virunga",
+            "second_label": "Orlando von Einsiedel and Joanna Natasegara",
+            "category": "Documentary (Feature)",
+            "year": 2015,
+            "tmdb": {
+                "id": 263614,
+                "original_title": "Virunga",
+                "title": "VIRUNGA",
+                "release_date": "2014-11-07",
+                "backdrop_path": "/6KDpjoCxlNapSzqUdagloiQqljh.jpg",
+                "poster_path": "/b59YdJZyRUu04hnWdmmz4kPjbTF.jpg",
+                "overview": "Conhe\u00e7a a hist\u00f3ria ver\u00eddica dos guardas que arriscam a vida para proteger o parque nacional mais precioso da \u00c1frica e seus gorilas em risco de extin\u00e7\u00e3o.",
+                "vote_average": 7.9,
+                "vote_count": 211
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "Crisis Hotline: Veterans Press 1",
+            "second_label": "Ellen Goosenberg Kent and Dana Perry",
+            "category": "Documentary (Short Subject)",
+            "year": 2015,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Joanna",
+            "second_label": "Aneta Kopacz",
+            "category": "Documentary (Short Subject)",
+            "year": 2015,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Our Curse",
+            "second_label": "Tomasz \u015aliwi\u0144ski and Maciej \u015alesicki",
+            "category": "Documentary (Short Subject)",
+            "year": 2015,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Reaper (La Parka)",
+            "second_label": "Gabriel Serra Arguello",
+            "category": "Documentary (Short Subject)",
+            "year": 2015,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "White Earth",
+            "second_label": "J. Christian Jensen",
+            "category": "Documentary (Short Subject)",
+            "year": 2015,
+            "tmdb": {
+                "id": 259520,
+                "original_title": "White Earth",
+                "title": "White Earth",
+                "release_date": "2015-01-30",
+                "backdrop_path": "/vjTa6WFCmxTTBUDGY6vTiuRtSq9.jpg",
+                "poster_path": "/Xn20GvxuFbSXmzZM7cUTdPNqdW.jpg",
+                "overview": "An oil boom has drawn thousands to America\u2019s Northern Plains in search of work. Against the backdrop of a cruel North Dakota winter, the stories of three children and an immigrant mother intertwine among themes of innocence, home, and the American Dream.",
+                "vote_average": 6.4,
+                "vote_count": 7
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "Whiplash",
+            "second_label": "Tom Cross",
+            "category": "Film Editing",
+            "year": 2015,
+            "tmdb": {
+                "id": 244786,
+                "original_title": "Whiplash",
+                "title": "Whiplash: Em Busca da Perfei\u00e7\u00e3o",
+                "release_date": "2014-10-10",
+                "backdrop_path": "/vNXGrknx4GjWLgmuNTftWZluIUl.jpg",
+                "poster_path": "/dtnzzmGOy2Ni89Ir4I1FTO40FJQ.jpg",
+                "overview": "Andrew sonha em ser o melhor baterista de sua gera\u00e7\u00e3o. Ele chama a aten\u00e7\u00e3o do impiedoso mestre do jazz Terence Fletcher, que ultrapassa os limites e transforma seu sonho em uma obsess\u00e3o, colocando em risco a sa\u00fade f\u00edsica e mental do jovem m\u00fasico.",
+                "vote_average": 8.383,
+                "vote_count": 14470
+            },
+            "winner": true
+        },
+        {
+            "first_label": "American Sniper",
+            "second_label": "Joel Cox and Gary D. Roach",
+            "category": "Film Editing",
+            "year": 2015,
+            "tmdb": {
+                "id": 190859,
+                "original_title": "American Sniper",
+                "title": "Sniper Americano",
+                "release_date": "2014-12-25",
+                "backdrop_path": "/rl95VDEP3nsUQmGzE0S1S7y6T0N.jpg",
+                "poster_path": "/mAXzc2oDTTYcnn6IGHlSXvmXloG.jpg",
+                "overview": "Chris Kyle \u00e9 um atirador de elite das for\u00e7as especiais da marinha dos Estados Unidos. Durante a Guerra do Iraque, sua miss\u00e3o \u00e9 proteger seus companheiros e seu dever faz dele um dos maiores atiradores da hist\u00f3ria norte-americana. Sua precis\u00e3o salva in\u00fameras vidas, mas tamb\u00e9m o torna um alvo preferencial. Quando Kyle finalmente volta para casa, ele descobre que n\u00e3o tem como deixar a guerra para tr\u00e1s.",
+                "vote_average": 7.43,
+                "vote_count": 12443
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Boyhood",
+            "second_label": "Sandra Adair",
+            "category": "Film Editing",
+            "year": 2015,
+            "tmdb": {
+                "id": 85350,
+                "original_title": "Boyhood",
+                "title": "Boyhood: Da Inf\u00e2ncia \u00e0 Juventude",
+                "release_date": "2014-06-05",
+                "backdrop_path": "/qRwkMMZhQRKM4uDaXpd2XbZZmkE.jpg",
+                "poster_path": "/rr1rlDZXOeLqtYMEC6xEunxqsD3.jpg",
+                "overview": "Acompanhe a vida do garoto Mason durante um per\u00edodo de doze anos, da inf\u00e2ncia \u00e0 juventude, analisando seu relacionamento com os pais, suas descobertas, experi\u00eancias e seus conflitos.",
+                "vote_average": 7.507,
+                "vote_count": 4956
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Grand Budapest Hotel",
+            "second_label": "Barney Pilling",
+            "category": "Film Editing",
+            "year": 2015,
+            "tmdb": {
+                "id": 120467,
+                "original_title": "The Grand Budapest Hotel",
+                "title": "O Grande Hotel Budapeste",
+                "release_date": "2014-02-26",
+                "backdrop_path": "/5vPW6MPAyCFd84FEQQgtPDmVDPQ.jpg",
+                "poster_path": "/z6MxdXMzxZCTv837RwEemJsaE3B.jpg",
+                "overview": "No per\u00edodo entre as duas guerras mundiais, o famoso gerente de um hotel europeu conhece um jovem empregado e os dois tornam-se melhores amigos. Entre as aventuras vividas pelos dois, constam o roubo de um famoso quadro do Renascimento, a batalha pela grande fortuna de uma fam\u00edlia e as transforma\u00e7\u00f5es hist\u00f3ricas durante a primeira metade do s\u00e9culo XX.",
+                "vote_average": 8.1,
+                "vote_count": 14258
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Imitation Game",
+            "second_label": "William Goldenberg",
+            "category": "Film Editing",
+            "year": 2015,
+            "tmdb": {
+                "id": 205596,
+                "original_title": "The Imitation Game",
+                "title": "O Jogo da Imita\u00e7\u00e3o",
+                "release_date": "2014-11-14",
+                "backdrop_path": "/gLQoJ9P79g501oEEtrN8zMlCPpx.jpg",
+                "poster_path": "/bwWCFjhwrs5my4FUoeWdTa2GYlB.jpg",
+                "overview": "Em 1939, a rec\u00e9m-criada ag\u00eancia de intelig\u00eancia brit\u00e2nica MI6 recruta Alan Turing, um aluno da Universidade de Cambridge, para entender c\u00f3digos nazistas, incluindo o \"Enigma\", que cript\u00f3grafos acreditavam ser inquebr\u00e1vel. A equipe de Turing, incluindo Joan Clarke, analisa as mensagens de \"Enigma\", enquanto ele constr\u00f3i uma m\u00e1quina para decifr\u00e1-las.",
+                "vote_average": 8.005,
+                "vote_count": 16457
+            },
+            "winner": false
+        }
+    ],
+    "Foreign Language Film": [
+        {
+            "first_label": "Ida",
+            "second_label": "Poland",
+            "category": "Foreign Language Film",
+            "year": 2015,
+            "tmdb": {
+                "id": 209274,
+                "original_title": "Ida",
+                "title": "Ida",
+                "release_date": "2013-10-25",
+                "backdrop_path": "/c9SvfYLJyai34bafR1AvqD9vAJi.jpg",
+                "poster_path": "/3uoCttE46RGHybiA26cXTvmFqbW.jpg",
+                "overview": "Anna \u00e9 uma \u00f3rf\u00e3 criada por freiras. Sua mestre lhe conta que, antes de completar seus votos, ela deve encontrar sua fam\u00edlia, ent\u00e3o ela vai visitar Wanda, sua \u00fanica parente viva, antes que esta venha a falecer. Wanda diz a Anna que ela \u00e9 judia, ent\u00e3o as duas mulheres iniciam uma viagem, n\u00e3o s\u00f3 para encontrar a sua tr\u00e1gica hist\u00f3ria de fam\u00edlia, mas para saber quem elas realmente s\u00e3o e aonde pertencem.",
+                "vote_average": 7.2,
+                "vote_count": 928
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Leviathan",
+            "second_label": "Russia",
+            "category": "Foreign Language Film",
+            "year": 2015,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tangerines",
+            "second_label": "Estonia",
+            "category": "Foreign Language Film",
+            "year": 2015,
+            "tmdb": {
+                "id": 238628,
+                "original_title": "Mandariinid",
+                "title": "Tangerinas",
+                "release_date": "2013-10-16",
+                "backdrop_path": "/6nPbmf5ctz3xFDWEMNokV4vUpyt.jpg",
+                "poster_path": "/jNKUXcwZr1vpgq7sGTCEqdngo4Z.jpg",
+                "overview": "Ivo, um velho agricultor estoniano, ficou para tr\u00e1s na Gerogia, junto com seu amigo Margus, para a colheita das abundantes tangerinas. Sua vida sombria fica de cabe\u00e7a para baixo quando ele decide abrigar Ahmed, um mercen\u00e1rio mu\u00e7ulmano checheno, e o georgiano Niko, ambos tendo perdido os seus homens e sido pesadamente feridos em combate. Isso n\u00e3o ajuda em nada visto que a dupla de feridos est\u00e1 constantemente esperando para atacar um ao outro, logo que terminem suas respectivas licen\u00e7as de sa\u00fade.",
+                "vote_average": 7.7,
+                "vote_count": 484
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Timbuktu",
+            "second_label": "Mauritania",
+            "category": "Foreign Language Film",
+            "year": 2015,
+            "tmdb": {
+                "id": 265228,
+                "original_title": "Timbuktu",
+                "title": "Timbuktu",
+                "release_date": "2014-12-10",
+                "backdrop_path": "/3cQO2X0vRpMYwNhoZURSCxUpCPh.jpg",
+                "poster_path": "/tCpHpn8msgonS9HVDMkrcSZh4an.jpg",
+                "overview": "Em 2012, em Timbuktu no Mali, o pastor de gado Kidane vive pacificamente nas dunas com sua esposa Satima, sua filha Toya e seu filho Issan de doze anos. Na cidade, as pessoas sofrem  impotentes, com o regime de terror imposto pelos jihadistas determinados a controlar sua f\u00e9. M\u00fasica, risos, cigarros, mesmo o futebol, foram proibidos. As mulheres tornaram-se sombrias, mas resistem com dignidade. Todos os dias, os novos tribunais improvisados emitem senten\u00e7as tr\u00e1gicas e absurdas. Kidane e sua fam\u00edlia, por morarem nas dunas, est\u00e3o sendo poupados do caos que reina em Timbuktu. Mas seu destino mudar\u00e1 abruptamente.",
+                "vote_average": 7.0,
+                "vote_count": 445
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Wild Tales",
+            "second_label": "Argentina",
+            "category": "Foreign Language Film",
+            "year": 2015,
+            "tmdb": {
+                "id": 265195,
+                "original_title": "Relatos salvajes",
+                "title": "Relatos Selvagens",
+                "release_date": "2014-08-21",
+                "backdrop_path": "/dnhQCtQ4tyOlOrX5ApW5jhmzhdw.jpg",
+                "poster_path": "/bkhHsHoa5PYBmhT93mYOC28Hhd2.jpg",
+                "overview": "Seis contos que exploram os extremos do comportamento humano envolvendo pessoas em desespero.",
+                "vote_average": 7.9,
+                "vote_count": 3200
+            },
+            "winner": false
+        }
+    ],
+    "Makeup and Hairstyling": [
+        {
+            "first_label": "The Grand Budapest Hotel",
+            "second_label": "Frances Hannon and Mark Coulier",
+            "category": "Makeup and Hairstyling",
+            "year": 2015,
+            "tmdb": {
+                "id": 120467,
+                "original_title": "The Grand Budapest Hotel",
+                "title": "O Grande Hotel Budapeste",
+                "release_date": "2014-02-26",
+                "backdrop_path": "/5vPW6MPAyCFd84FEQQgtPDmVDPQ.jpg",
+                "poster_path": "/z6MxdXMzxZCTv837RwEemJsaE3B.jpg",
+                "overview": "No per\u00edodo entre as duas guerras mundiais, o famoso gerente de um hotel europeu conhece um jovem empregado e os dois tornam-se melhores amigos. Entre as aventuras vividas pelos dois, constam o roubo de um famoso quadro do Renascimento, a batalha pela grande fortuna de uma fam\u00edlia e as transforma\u00e7\u00f5es hist\u00f3ricas durante a primeira metade do s\u00e9culo XX.",
+                "vote_average": 8.1,
+                "vote_count": 14258
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Foxcatcher",
+            "second_label": "Bill Corso and Dennis Liddiard",
+            "category": "Makeup and Hairstyling",
+            "year": 2015,
+            "tmdb": {
+                "id": 87492,
+                "original_title": "Foxcatcher",
+                "title": "Foxcatcher: Uma Hist\u00f3ria Que Chocou o Mundo",
+                "release_date": "2014-11-14",
+                "backdrop_path": "/tT8vexYdyHG0nHyXQkhzt8tbFkt.jpg",
+                "poster_path": "/bim6tB3N5xB7wXjanWPIV14Qq53.jpg",
+                "overview": "O milion\u00e1rio John du Pont convida o campe\u00e3o ol\u00edmpico de luta greco-romana, Mark Schultz, para mudar-se para sua mans\u00e3o e ajudar a formar uma equipe para as Olimp\u00edadas de 1988. O lutador v\u00ea a oportunidade como uma maneira de sair da sombra de seu irm\u00e3o mais velho, uma lenda no esporte. Tamb\u00e9m atra\u00eddo pelo sal\u00e1rio e condi\u00e7\u00f5es de vida oferecidas, ele aceita a proposta. Mark e John se tornam amigos, mas a dif\u00edcil personalidade do milion\u00e1rio faz com que Mark acabe indo em dire\u00e7\u00e3o a uma trag\u00e9dia.",
+                "vote_average": 6.7,
+                "vote_count": 2198
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Guardians of the Galaxy",
+            "second_label": "Elizabeth Yianni-Georgiou and David White",
+            "category": "Makeup and Hairstyling",
+            "year": 2015,
+            "tmdb": {
+                "id": 118340,
+                "original_title": "Guardians of the Galaxy",
+                "title": "Guardi\u00f5es da Gal\u00e1xia",
+                "release_date": "2014-07-30",
+                "backdrop_path": "/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg",
+                "poster_path": "/xaY92XMToaSnBuvCui3LHzNGqZB.jpg",
+                "overview": "Abduzido da Terra quando ainda era crian\u00e7a, Peter Quill fez carreira como saqueador e se auto denominou \"Senhor das Estrelas\". Quando rouba uma esfera, na qual o poderoso vil\u00e3o Ronan, da ra\u00e7a kree, est\u00e1 interessado, passa a ser procurado por v\u00e1rios ca\u00e7adores de recompensas. Para escapar do perigo, Quill une for\u00e7as com quatro personagens fora do sistema: Groot, uma \u00e1rvore human\u00f3ide (Vin Diesel), a sombria e perigosa Gamora, o guaxinim r\u00e1pido no gatilho Rocket Racoon e o vingativo Drax, o Destruidor. A esfera roubada \u00e9 capaz de mudar o destino de todo o universo.",
+                "vote_average": 7.9,
+                "vote_count": 27266
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Score)": [
+        {
+            "first_label": "The Grand Budapest Hotel",
+            "second_label": "Alexandre Desplat",
+            "category": "Music (Original Score)",
+            "year": 2015,
+            "tmdb": {
+                "id": 120467,
+                "original_title": "The Grand Budapest Hotel",
+                "title": "O Grande Hotel Budapeste",
+                "release_date": "2014-02-26",
+                "backdrop_path": "/5vPW6MPAyCFd84FEQQgtPDmVDPQ.jpg",
+                "poster_path": "/z6MxdXMzxZCTv837RwEemJsaE3B.jpg",
+                "overview": "No per\u00edodo entre as duas guerras mundiais, o famoso gerente de um hotel europeu conhece um jovem empregado e os dois tornam-se melhores amigos. Entre as aventuras vividas pelos dois, constam o roubo de um famoso quadro do Renascimento, a batalha pela grande fortuna de uma fam\u00edlia e as transforma\u00e7\u00f5es hist\u00f3ricas durante a primeira metade do s\u00e9culo XX.",
+                "vote_average": 8.1,
+                "vote_count": 14258
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Imitation Game",
+            "second_label": "Alexandre Desplat",
+            "category": "Music (Original Score)",
+            "year": 2015,
+            "tmdb": {
+                "id": 205596,
+                "original_title": "The Imitation Game",
+                "title": "O Jogo da Imita\u00e7\u00e3o",
+                "release_date": "2014-11-14",
+                "backdrop_path": "/gLQoJ9P79g501oEEtrN8zMlCPpx.jpg",
+                "poster_path": "/bwWCFjhwrs5my4FUoeWdTa2GYlB.jpg",
+                "overview": "Em 1939, a rec\u00e9m-criada ag\u00eancia de intelig\u00eancia brit\u00e2nica MI6 recruta Alan Turing, um aluno da Universidade de Cambridge, para entender c\u00f3digos nazistas, incluindo o \"Enigma\", que cript\u00f3grafos acreditavam ser inquebr\u00e1vel. A equipe de Turing, incluindo Joan Clarke, analisa as mensagens de \"Enigma\", enquanto ele constr\u00f3i uma m\u00e1quina para decifr\u00e1-las.",
+                "vote_average": 8.005,
+                "vote_count": 16457
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Interstellar",
+            "second_label": "Hans Zimmer",
+            "category": "Music (Original Score)",
+            "year": 2015,
+            "tmdb": {
+                "id": 157336,
+                "original_title": "Interstellar",
+                "title": "Interestelar",
+                "release_date": "2014-11-05",
+                "backdrop_path": "/xJHokMbljvjADYdit5fK5VQsXEG.jpg",
+                "poster_path": "/nCbkOyOMTEwlEV0LtCOvCnwEONA.jpg",
+                "overview": "As reservas naturais da Terra est\u00e3o chegando ao fim e um grupo de astronautas recebe a miss\u00e3o de verificar poss\u00edveis planetas para receberem a popula\u00e7\u00e3o mundial, possibilitando a continua\u00e7\u00e3o da esp\u00e9cie. Cooper \u00e9 chamado para liderar o grupo e aceita a miss\u00e3o sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguir\u00e1 em busca de um novo lar.",
+                "vote_average": 8.431,
+                "vote_count": 33953
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mr. Turner",
+            "second_label": "Gary Yershon",
+            "category": "Music (Original Score)",
+            "year": 2015,
+            "tmdb": {
+                "id": 245700,
+                "original_title": "Mr. Turner",
+                "title": "Sr. Turner",
+                "release_date": "2014-10-31",
+                "backdrop_path": "/2lzyYNUMTUuuhAq6U7zUFq6am6a.jpg",
+                "poster_path": "/1eDlM1Zq63o2lTNqz1p50qASYY7.jpg",
+                "overview": "\"Sr. Turner\" explora o \u00faltimo quarto de s\u00e9culo da vida do \u00f3timo e exc\u00eantrico pintor brit\u00e2nico JMW Turner (1775-1851). Profundamente afetado pela morte de seu pai, amado por sua governanta que ele ocasionalmente explora sexualmente, ele cria uma rela\u00e7\u00e3o estreita com uma senhoria \u00e0 beira-mar com quem ele eventualmente vive inc\u00f3gnito no Chelsea, onde ele morre. Enquanto tudo isso acontece ele viaja, pinta, convive com a aristocracia do pa\u00eds, visita bord\u00e9is, \u00e9 um membro popular e an\u00e1rquico da Royal Academy of Arts, se faz amarrar ao mastro de um navio para que possa pintar uma tempestade de neve e \u00e9, ao mesmo tempo, celebrado e insultado pelo p\u00fablico e pela realeza.",
+                "vote_average": 6.5,
+                "vote_count": 496
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Theory of Everything",
+            "second_label": "Jhann Jhannsson",
+            "category": "Music (Original Score)",
+            "year": 2015,
+            "tmdb": {
+                "id": 266856,
+                "original_title": "The Theory of Everything",
+                "title": "A Teoria de Tudo",
+                "release_date": "2014-11-26",
+                "backdrop_path": "/ke3lanTAgCqPMpOyutIfXzYih2s.jpg",
+                "poster_path": "/6q1XGbTJQqOGUpX9OlO0bGmtpql.jpg",
+                "overview": "Baseado na biografia de Stephen Hawking, o filme mostra como o jovem astrof\u00edsico (Eddie Redmayne) fez descobertas importantes sobre o tempo, al\u00e9m de retratar o seu romance com a aluna de Cambridge Jane Wide (Felicity Jones) e a descoberta de uma doen\u00e7a motora degenerativa quando tinha apenas 21 anos.",
+                "vote_average": 7.9,
+                "vote_count": 10281
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Song)": [
+        {
+            "first_label": "Selma",
+            "second_label": "\u201cGlory\u201d from Selma; Music and Lyric by John Stephens and Lonnie Lynn",
+            "category": "Music (Original Song)",
+            "year": 2015,
+            "tmdb": {
+                "id": 273895,
+                "original_title": "Selma",
+                "title": "Selma: Uma Luta pela Igualdade",
+                "release_date": "2014-12-25",
+                "backdrop_path": "/kVGUdR1CXKAyCFj5Tt4uyR2bpFx.jpg",
+                "poster_path": "/6DfW8p1U3Ej1r3OcwkpZ7RcA7ag.jpg",
+                "overview": "Narra a luta hist\u00f3rica do dr. Martin Luther King Jr. para garantir o direito ao voto para os afro-americanos \u2013 uma campanha perigosa e apavorante que culminou na \u00e9pica marcha de Selma a Montgomery, no Alabama, que galvanizou a opini\u00e3o p\u00fablica americana e persuadiu o presidente Johnson a apresentar a Lei do Direito ao Voto de 1965.",
+                "vote_average": 7.4,
+                "vote_count": 2117
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Lego Movie",
+            "second_label": "\u201cEverything Is Awesome\u201d from The Lego Movie; Music and Lyric by Shawn Patterson",
+            "category": "Music (Original Song)",
+            "year": 2015,
+            "tmdb": {
+                "id": 137106,
+                "original_title": "The Lego Movie",
+                "title": "Uma Aventura Lego",
+                "release_date": "2014-02-06",
+                "backdrop_path": "/5N2mfRrvJUnCVpsMIebfosEyo1i.jpg",
+                "poster_path": "/4cT9ED8PSSi7oVXAnh4OyYgI6JK.jpg",
+                "overview": "Emmet \u00e9 um Lego comum, at\u00e9 o dia em que \u00e9 confundido com o Master Builder, o grande criador deste mundo de brinquedo, por ter encontrado a famosa pe\u00e7a de resist\u00eancia. Este pe\u00e7a, procurada por todos h\u00e1 s\u00e9culos, seria capaz de desarmar uma poderosa m\u00e1quina criada pelo presidente do pa\u00eds, o perverso Sr. Neg\u00f3cios, que pretende colar todas as pe\u00e7as e impedir as mudan\u00e7as no sistema. Mesmo sem ter grandes habilidades como criador, Emmet gosta de ser considerado um Lego especial, e faz de tudo para merecer a confian\u00e7a de seus amigos, que incluem a rebelde Mega Estilo, o s\u00e1bio Vitr\u00favius, e o gato-unic\u00f3rnio UniKitty.",
+                "vote_average": 7.419,
+                "vote_count": 7494
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Beyond the Lights",
+            "second_label": "\u201cGrateful\u201d from Beyond the Lights; Music and Lyric by Diane Warren",
+            "category": "Music (Original Song)",
+            "year": 2015,
+            "tmdb": {
+                "id": 241771,
+                "original_title": "Beyond the Lights",
+                "title": "Nos Bastidores da Fama",
+                "release_date": "2014-11-14",
+                "backdrop_path": "/i6xwBAXabFZVj5xcKhQMiPHJt8L.jpg",
+                "poster_path": "/lD1wNN4dkRCHbkEPu9vCQZh22nd.jpg",
+                "overview": "Uma jovem musicista em ascens\u00e3o (Gugu Mbatha-Raw) se apaixona loucamente pelo policial incumbido de proteg\u00ea-la (Nate Parker) neste romance comovente da cineasta e roteirista Gina Prince-Bythewood (Love & Basketball).",
+                "vote_average": 6.9,
+                "vote_count": 353
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Glen Campbell\u2026I\u2019ll Be Me",
+            "second_label": "\u201cI\u2019m Not Gonna Miss You\u201d from Glen Campbell\u2026I\u2019ll Be Me; Music and Lyric by Glen Campbell and Julian Raymond",
+            "category": "Music (Original Song)",
+            "year": 2015,
+            "tmdb": {
+                "id": 285689,
+                "original_title": "Glen Campbell: I'll Be Me",
+                "title": "Glen Campbell: I'll Be Me",
+                "release_date": "2014-04-24",
+                "backdrop_path": "/2arE16OeUXxqiwwUpLrdTUJ7rf7.jpg",
+                "poster_path": "/fEyp8k5cIgochfpsD6tsYCkhhzS.jpg",
+                "overview": "A documentary film detailing Glen Campbell's final tour and his struggle with Alzheimer's disease.",
+                "vote_average": 7.6,
+                "vote_count": 37
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Begin Again",
+            "second_label": "\u201cLost Stars\u201d from Begin Again; Music and Lyric by Gregg Alexander and Danielle Brisebois",
+            "category": "Music (Original Song)",
+            "year": 2015,
+            "tmdb": {
+                "id": 198277,
+                "original_title": "Begin Again",
+                "title": "Mesmo Se Nada Der Certo",
+                "release_date": "2013-09-07",
+                "backdrop_path": "/xYA4iSU2mKoDu72CzOjcfKwHC7Y.jpg",
+                "poster_path": "/g58iIunao1G9z8jISal0mkbucKN.jpg",
+                "overview": "Uma cantora (Keira Knightley) se muda para Nova Iorque, mas logo ap\u00f3s chegar no local, seu namorado americano decide terminar o relacionamento. Em plena crise, ela come\u00e7a a cantar em bares, at\u00e9 ser descoberta por um produtor de discos (Mark Ruffalo), certo de que ela pode se tornar uma estrela.",
+                "vote_average": 7.2,
+                "vote_count": 3642
+            },
+            "winner": false
+        }
+    ],
+    "Best Picture": [
+        {
+            "first_label": "Birdman or (The Unexpected Virtue of Ignorance)",
+            "second_label": "Alejandro G. Irritu, John Lesher and James W. Skotchdopole, Producers",
+            "category": "Best Picture",
+            "year": 2015,
+            "tmdb": {
+                "id": 194662,
+                "original_title": "Birdman or (The Unexpected Virtue of Ignorance)",
+                "title": "Birdman ou (A Inesperada Virtude da Ignor\u00e2ncia)",
+                "release_date": "2014-10-17",
+                "backdrop_path": "/s0OrExdg7i3RLR7oqzHRk4q2kL4.jpg",
+                "poster_path": "/7gwtDnEJ39QarOyzt9bSxEj3SkD.jpg",
+                "overview": "Esperando ser levado a s\u00e9rio, Riggan Thomson, uma estrela envelhecida conhecida por interpretar um super-her\u00f3i, tenta organizar uma pe\u00e7a da Broadway. Mas com as dificuldades da produ\u00e7\u00e3o e a aproxima\u00e7\u00e3o da noite de abertura, ele deve confrontar sua fam\u00edlia, sua carreira e seu ego.",
+                "vote_average": 7.467,
+                "vote_count": 12438
+            },
+            "winner": true
+        },
+        {
+            "first_label": "American Sniper",
+            "second_label": "Clint Eastwood, Robert Lorenz, Andrew Lazar, Bradley Cooper and Peter Morgan, Producers",
+            "category": "Best Picture",
+            "year": 2015,
+            "tmdb": {
+                "id": 190859,
+                "original_title": "American Sniper",
+                "title": "Sniper Americano",
+                "release_date": "2014-12-25",
+                "backdrop_path": "/rl95VDEP3nsUQmGzE0S1S7y6T0N.jpg",
+                "poster_path": "/mAXzc2oDTTYcnn6IGHlSXvmXloG.jpg",
+                "overview": "Chris Kyle \u00e9 um atirador de elite das for\u00e7as especiais da marinha dos Estados Unidos. Durante a Guerra do Iraque, sua miss\u00e3o \u00e9 proteger seus companheiros e seu dever faz dele um dos maiores atiradores da hist\u00f3ria norte-americana. Sua precis\u00e3o salva in\u00fameras vidas, mas tamb\u00e9m o torna um alvo preferencial. Quando Kyle finalmente volta para casa, ele descobre que n\u00e3o tem como deixar a guerra para tr\u00e1s.",
+                "vote_average": 7.43,
+                "vote_count": 12443
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Boyhood",
+            "second_label": "Richard Linklater and Cathleen Sutherland, Producers",
+            "category": "Best Picture",
+            "year": 2015,
+            "tmdb": {
+                "id": 85350,
+                "original_title": "Boyhood",
+                "title": "Boyhood: Da Inf\u00e2ncia \u00e0 Juventude",
+                "release_date": "2014-06-05",
+                "backdrop_path": "/qRwkMMZhQRKM4uDaXpd2XbZZmkE.jpg",
+                "poster_path": "/rr1rlDZXOeLqtYMEC6xEunxqsD3.jpg",
+                "overview": "Acompanhe a vida do garoto Mason durante um per\u00edodo de doze anos, da inf\u00e2ncia \u00e0 juventude, analisando seu relacionamento com os pais, suas descobertas, experi\u00eancias e seus conflitos.",
+                "vote_average": 7.507,
+                "vote_count": 4956
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Grand Budapest Hotel",
+            "second_label": "Wes Anderson, Scott Rudin, Steven Rales and Jeremy Dawson, Producers",
+            "category": "Best Picture",
+            "year": 2015,
+            "tmdb": {
+                "id": 120467,
+                "original_title": "The Grand Budapest Hotel",
+                "title": "O Grande Hotel Budapeste",
+                "release_date": "2014-02-26",
+                "backdrop_path": "/5vPW6MPAyCFd84FEQQgtPDmVDPQ.jpg",
+                "poster_path": "/z6MxdXMzxZCTv837RwEemJsaE3B.jpg",
+                "overview": "No per\u00edodo entre as duas guerras mundiais, o famoso gerente de um hotel europeu conhece um jovem empregado e os dois tornam-se melhores amigos. Entre as aventuras vividas pelos dois, constam o roubo de um famoso quadro do Renascimento, a batalha pela grande fortuna de uma fam\u00edlia e as transforma\u00e7\u00f5es hist\u00f3ricas durante a primeira metade do s\u00e9culo XX.",
+                "vote_average": 8.1,
+                "vote_count": 14258
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Imitation Game",
+            "second_label": "Nora Grossman, Ido Ostrowsky and Teddy Schwarzman, Producers",
+            "category": "Best Picture",
+            "year": 2015,
+            "tmdb": {
+                "id": 205596,
+                "original_title": "The Imitation Game",
+                "title": "O Jogo da Imita\u00e7\u00e3o",
+                "release_date": "2014-11-14",
+                "backdrop_path": "/gLQoJ9P79g501oEEtrN8zMlCPpx.jpg",
+                "poster_path": "/bwWCFjhwrs5my4FUoeWdTa2GYlB.jpg",
+                "overview": "Em 1939, a rec\u00e9m-criada ag\u00eancia de intelig\u00eancia brit\u00e2nica MI6 recruta Alan Turing, um aluno da Universidade de Cambridge, para entender c\u00f3digos nazistas, incluindo o \"Enigma\", que cript\u00f3grafos acreditavam ser inquebr\u00e1vel. A equipe de Turing, incluindo Joan Clarke, analisa as mensagens de \"Enigma\", enquanto ele constr\u00f3i uma m\u00e1quina para decifr\u00e1-las.",
+                "vote_average": 8.005,
+                "vote_count": 16457
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Selma",
+            "second_label": "Christian Colson, Oprah Winfrey, Dede Gardner and Jeremy Kleiner, Producers",
+            "category": "Best Picture",
+            "year": 2015,
+            "tmdb": {
+                "id": 273895,
+                "original_title": "Selma",
+                "title": "Selma: Uma Luta pela Igualdade",
+                "release_date": "2014-12-25",
+                "backdrop_path": "/kVGUdR1CXKAyCFj5Tt4uyR2bpFx.jpg",
+                "poster_path": "/6DfW8p1U3Ej1r3OcwkpZ7RcA7ag.jpg",
+                "overview": "Narra a luta hist\u00f3rica do dr. Martin Luther King Jr. para garantir o direito ao voto para os afro-americanos \u2013 uma campanha perigosa e apavorante que culminou na \u00e9pica marcha de Selma a Montgomery, no Alabama, que galvanizou a opini\u00e3o p\u00fablica americana e persuadiu o presidente Johnson a apresentar a Lei do Direito ao Voto de 1965.",
+                "vote_average": 7.4,
+                "vote_count": 2117
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Theory of Everything",
+            "second_label": "Tim Bevan, Eric Fellner, Lisa Bruce and Anthony McCarten, Producers",
+            "category": "Best Picture",
+            "year": 2015,
+            "tmdb": {
+                "id": 266856,
+                "original_title": "The Theory of Everything",
+                "title": "A Teoria de Tudo",
+                "release_date": "2014-11-26",
+                "backdrop_path": "/ke3lanTAgCqPMpOyutIfXzYih2s.jpg",
+                "poster_path": "/6q1XGbTJQqOGUpX9OlO0bGmtpql.jpg",
+                "overview": "Baseado na biografia de Stephen Hawking, o filme mostra como o jovem astrof\u00edsico (Eddie Redmayne) fez descobertas importantes sobre o tempo, al\u00e9m de retratar o seu romance com a aluna de Cambridge Jane Wide (Felicity Jones) e a descoberta de uma doen\u00e7a motora degenerativa quando tinha apenas 21 anos.",
+                "vote_average": 7.9,
+                "vote_count": 10281
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Whiplash",
+            "second_label": "Jason Blum, Helen Estabrook and David Lancaster, Producers",
+            "category": "Best Picture",
+            "year": 2015,
+            "tmdb": {
+                "id": 244786,
+                "original_title": "Whiplash",
+                "title": "Whiplash: Em Busca da Perfei\u00e7\u00e3o",
+                "release_date": "2014-10-10",
+                "backdrop_path": "/vNXGrknx4GjWLgmuNTftWZluIUl.jpg",
+                "poster_path": "/dtnzzmGOy2Ni89Ir4I1FTO40FJQ.jpg",
+                "overview": "Andrew sonha em ser o melhor baterista de sua gera\u00e7\u00e3o. Ele chama a aten\u00e7\u00e3o do impiedoso mestre do jazz Terence Fletcher, que ultrapassa os limites e transforma seu sonho em uma obsess\u00e3o, colocando em risco a sa\u00fade f\u00edsica e mental do jovem m\u00fasico.",
+                "vote_average": 8.383,
+                "vote_count": 14470
+            },
+            "winner": false
+        }
+    ],
+    "Production Design": [
+        {
+            "first_label": "The Grand Budapest Hotel",
+            "second_label": "Production Design: Adam Stockhausen; Set Decoration: Anna Pinnock",
+            "category": "Production Design",
+            "year": 2015,
+            "tmdb": {
+                "id": 120467,
+                "original_title": "The Grand Budapest Hotel",
+                "title": "O Grande Hotel Budapeste",
+                "release_date": "2014-02-26",
+                "backdrop_path": "/5vPW6MPAyCFd84FEQQgtPDmVDPQ.jpg",
+                "poster_path": "/z6MxdXMzxZCTv837RwEemJsaE3B.jpg",
+                "overview": "No per\u00edodo entre as duas guerras mundiais, o famoso gerente de um hotel europeu conhece um jovem empregado e os dois tornam-se melhores amigos. Entre as aventuras vividas pelos dois, constam o roubo de um famoso quadro do Renascimento, a batalha pela grande fortuna de uma fam\u00edlia e as transforma\u00e7\u00f5es hist\u00f3ricas durante a primeira metade do s\u00e9culo XX.",
+                "vote_average": 8.1,
+                "vote_count": 14258
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Imitation Game",
+            "second_label": "Production Design: Maria Djurkovic; Set Decoration: Tatiana Macdonald",
+            "category": "Production Design",
+            "year": 2015,
+            "tmdb": {
+                "id": 205596,
+                "original_title": "The Imitation Game",
+                "title": "O Jogo da Imita\u00e7\u00e3o",
+                "release_date": "2014-11-14",
+                "backdrop_path": "/gLQoJ9P79g501oEEtrN8zMlCPpx.jpg",
+                "poster_path": "/bwWCFjhwrs5my4FUoeWdTa2GYlB.jpg",
+                "overview": "Em 1939, a rec\u00e9m-criada ag\u00eancia de intelig\u00eancia brit\u00e2nica MI6 recruta Alan Turing, um aluno da Universidade de Cambridge, para entender c\u00f3digos nazistas, incluindo o \"Enigma\", que cript\u00f3grafos acreditavam ser inquebr\u00e1vel. A equipe de Turing, incluindo Joan Clarke, analisa as mensagens de \"Enigma\", enquanto ele constr\u00f3i uma m\u00e1quina para decifr\u00e1-las.",
+                "vote_average": 8.005,
+                "vote_count": 16457
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Interstellar",
+            "second_label": "Production Design: Nathan Crowley; Set Decoration: Gary Fettis",
+            "category": "Production Design",
+            "year": 2015,
+            "tmdb": {
+                "id": 157336,
+                "original_title": "Interstellar",
+                "title": "Interestelar",
+                "release_date": "2014-11-05",
+                "backdrop_path": "/xJHokMbljvjADYdit5fK5VQsXEG.jpg",
+                "poster_path": "/nCbkOyOMTEwlEV0LtCOvCnwEONA.jpg",
+                "overview": "As reservas naturais da Terra est\u00e3o chegando ao fim e um grupo de astronautas recebe a miss\u00e3o de verificar poss\u00edveis planetas para receberem a popula\u00e7\u00e3o mundial, possibilitando a continua\u00e7\u00e3o da esp\u00e9cie. Cooper \u00e9 chamado para liderar o grupo e aceita a miss\u00e3o sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguir\u00e1 em busca de um novo lar.",
+                "vote_average": 8.431,
+                "vote_count": 33953
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Into the Woods",
+            "second_label": "Production Design: Dennis Gassner; Set Decoration: Anna Pinnock",
+            "category": "Production Design",
+            "year": 2015,
+            "tmdb": {
+                "id": 224141,
+                "original_title": "Into the Woods",
+                "title": "Caminhos da Floresta",
+                "release_date": "2014-12-24",
+                "backdrop_path": "/qF938YRj7RoYkjwOsXFDNYf907J.jpg",
+                "poster_path": "/lV9VadnnXvv8qxoHkT9XWwGesQw.jpg",
+                "overview": "Nesta saga \u00e9pica musical sobre ousar aventurar-se na Floresta, personagens famosos como Cinderela, Chapeuzinho Vermelho, Jo\u00e3o e o P\u00e9 de Feij\u00e3o e Rapunzel encontram seus destinos entrela\u00e7ados com o de um padeiro humilde e sua mulher, cujo desejo de ter um filho os envia em uma miss\u00e3o para reverter um feiti\u00e7o da Bruxa.",
+                "vote_average": 5.754,
+                "vote_count": 4129
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mr. Turner",
+            "second_label": "Production Design: Suzie Davies; Set Decoration: Charlotte Watts",
+            "category": "Production Design",
+            "year": 2015,
+            "tmdb": {
+                "id": 245700,
+                "original_title": "Mr. Turner",
+                "title": "Sr. Turner",
+                "release_date": "2014-10-31",
+                "backdrop_path": "/2lzyYNUMTUuuhAq6U7zUFq6am6a.jpg",
+                "poster_path": "/1eDlM1Zq63o2lTNqz1p50qASYY7.jpg",
+                "overview": "\"Sr. Turner\" explora o \u00faltimo quarto de s\u00e9culo da vida do \u00f3timo e exc\u00eantrico pintor brit\u00e2nico JMW Turner (1775-1851). Profundamente afetado pela morte de seu pai, amado por sua governanta que ele ocasionalmente explora sexualmente, ele cria uma rela\u00e7\u00e3o estreita com uma senhoria \u00e0 beira-mar com quem ele eventualmente vive inc\u00f3gnito no Chelsea, onde ele morre. Enquanto tudo isso acontece ele viaja, pinta, convive com a aristocracia do pa\u00eds, visita bord\u00e9is, \u00e9 um membro popular e an\u00e1rquico da Royal Academy of Arts, se faz amarrar ao mastro de um navio para que possa pintar uma tempestade de neve e \u00e9, ao mesmo tempo, celebrado e insultado pelo p\u00fablico e pela realeza.",
+                "vote_average": 6.5,
+                "vote_count": 496
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Animated)": [
+        {
+            "first_label": "Feast",
+            "second_label": "Patrick Osborne and Kristina Reed",
+            "category": "Short Film (Animated)",
+            "year": 2015,
+            "tmdb": {
+                "id": 293299,
+                "original_title": "Feast",
+                "title": "O Banquete",
+                "release_date": "2014-10-25",
+                "backdrop_path": "/2xyyn4Rc9kbkaojG9am1FInCmxr.jpg",
+                "poster_path": "/dBVSmiQ6KmoCKkZeND94kZA8ryL.jpg",
+                "overview": "A vida amorosa de um homem vista atrav\u00e9s dos olhos do melhor amigo dele: Winston, um c\u00e3ozinho que adora comer. A cada mordida das refei\u00e7\u00f5es que dono e bichinho de estima\u00e7\u00e3o compartilham, cresce uma bela hist\u00f3ria de amor entre o homem e uma mulher.",
+                "vote_average": 7.8,
+                "vote_count": 822
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Bigger Picture",
+            "second_label": "Daisy Jacobs and Christopher Hees",
+            "category": "Short Film (Animated)",
+            "year": 2015,
+            "tmdb": {
+                "id": 307695,
+                "original_title": "The Bigger Picture",
+                "title": "The Bigger Picture",
+                "release_date": "2014-05-21",
+                "backdrop_path": "/qy46IXMwzho4CldQjjcFXBWwwf6.jpg",
+                "poster_path": "/qdlrC3LDx1plsiXbiDhsFXg4duq.jpg",
+                "overview": "Dois irm\u00e3os cuja m\u00e3e idosa est\u00e1 morrendo lutam para cuidar dela...",
+                "vote_average": 6.6,
+                "vote_count": 18
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Dam Keeper",
+            "second_label": "Robert Kondo and Dice Tsutsumi",
+            "category": "Short Film (Animated)",
+            "year": 2015,
+            "tmdb": {
+                "id": 254273,
+                "original_title": "The Dam Keeper",
+                "title": "The Dam Keeper",
+                "release_date": "2014-02-06",
+                "backdrop_path": "/k4LiMhxliHuTmeJtYr705QH5qzy.jpg",
+                "poster_path": "/ypSnBDA75IJyf8DPVqnNYd7qJqY.jpg",
+                "overview": "Um porquinho, que mant\u00e9m sua cidade a salvo de uma nuvem de polui\u00e7\u00e3o com sua barragem de moinho de vento, \u00e9 ignorado por um p\u00fablico ingrato e intimidado na escola. Quando um novo garoto chega, as coisas come\u00e7am a mudar....",
+                "vote_average": 7.4,
+                "vote_count": 40
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Me and My Moulton",
+            "second_label": "Torill Kove",
+            "category": "Short Film (Animated)",
+            "year": 2015,
+            "tmdb": {
+                "id": 289024,
+                "original_title": "Me and My Moulton",
+                "title": "Me and My Moulton",
+                "release_date": "2014-09-11",
+                "backdrop_path": "/l2kQawPbSgfd4hvXq0XzaXPrIRG.jpg",
+                "poster_path": "/nMXicIhX2AaGGrAyuspmuzxpIUq.jpg",
+                "overview": "Uma hist\u00f3ria animada pessoal sobre uma menina que deseja uma bicicleta dos pais, mas consegue algo completamente diferente, mostrando a realidade diferente em que vivem crian\u00e7as e adultos...",
+                "vote_average": 5.9,
+                "vote_count": 23
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Single Life",
+            "second_label": "Joris Oprins",
+            "category": "Short Film (Animated)",
+            "year": 2015,
+            "tmdb": {
+                "id": 289280,
+                "original_title": "A Single Life",
+                "title": "A Single Life",
+                "release_date": "2014-12-04",
+                "backdrop_path": "/dcU4N6fmxbgnVfAgajvh375oEER.jpg",
+                "poster_path": "/5bB8kazv5QBfVHEGoDDLEVw0FwB.jpg",
+                "overview": "Quando Pia toca um misterioso single de vinil, ela de repente sabe como viajar no tempo...",
+                "vote_average": 7.0,
+                "vote_count": 53
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Live Action)": [
+        {
+            "first_label": "The Phone Call",
+            "second_label": "Mat Kirkby and James Lucas",
+            "category": "Short Film (Live Action)",
+            "year": 2015,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Aya",
+            "second_label": "Oded Binnun and Mihal Brezis",
+            "category": "Short Film (Live Action)",
+            "year": 2015,
+            "tmdb": {
+                "id": 203715,
+                "original_title": "Aya de Yopougon",
+                "title": "Aya of Yop City",
+                "release_date": "2013-07-17",
+                "backdrop_path": "/qEk7FddqvBxUwW84rAsstOq62gb.jpg",
+                "poster_path": "/lk0YNSynrXxnk5DgmMPTLeP6xLT.jpg",
+                "overview": "While Aya has dreams of becoming a doctor, her two best friends, Adjoua and Bintou, just like to hang out and spend their evenings dancing, drinking and flirting with boys. Their ambition is to follow Plan C: Combs, Clothes and Chasing Men! But big trouble comes to town when Adjoua realizes she\u2019s pregnant, and the baby\u2019s father is the spoiled son of one of the richest and most feared men in the whole country.",
+                "vote_average": 7.2,
+                "vote_count": 51
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Boogaloo and Graham",
+            "second_label": "Michael Lennox and Ronan Blaney",
+            "category": "Short Film (Live Action)",
+            "year": 2015,
+            "tmdb": {
+                "id": 307686,
+                "original_title": "Boogaloo and Graham",
+                "title": "Boogaloo and Graham",
+                "release_date": "2014-08-01",
+                "backdrop_path": "/yQkZ2gGjX7mceVFllHzUFZmNHMG.jpg",
+                "poster_path": "/7G3sDcnsKkotYrznOeWfsNKxF5l.jpg",
+                "overview": "In 1970's Belfast two young boys discover the facts of life aided by the help of their pet chickens.",
+                "vote_average": 6.5,
+                "vote_count": 22
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Butter Lamp (La Lampe Au Beurre De Yak)",
+            "second_label": "Hu Wei and Julien Fret",
+            "category": "Short Film (Live Action)",
+            "year": 2015,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Parvaneh",
+            "second_label": "Talkhon Hamzavi and Stefan Eichenberger",
+            "category": "Short Film (Live Action)",
+            "year": 2015,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Sound Editing": [
+        {
+            "first_label": "American Sniper",
+            "second_label": "Alan Robert Murray and Bub Asman",
+            "category": "Sound Editing",
+            "year": 2015,
+            "tmdb": {
+                "id": 190859,
+                "original_title": "American Sniper",
+                "title": "Sniper Americano",
+                "release_date": "2014-12-25",
+                "backdrop_path": "/rl95VDEP3nsUQmGzE0S1S7y6T0N.jpg",
+                "poster_path": "/mAXzc2oDTTYcnn6IGHlSXvmXloG.jpg",
+                "overview": "Chris Kyle \u00e9 um atirador de elite das for\u00e7as especiais da marinha dos Estados Unidos. Durante a Guerra do Iraque, sua miss\u00e3o \u00e9 proteger seus companheiros e seu dever faz dele um dos maiores atiradores da hist\u00f3ria norte-americana. Sua precis\u00e3o salva in\u00fameras vidas, mas tamb\u00e9m o torna um alvo preferencial. Quando Kyle finalmente volta para casa, ele descobre que n\u00e3o tem como deixar a guerra para tr\u00e1s.",
+                "vote_average": 7.43,
+                "vote_count": 12443
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Birdman or (The Unexpected Virtue of Ignorance)",
+            "second_label": "Martn Hernndez and Aaron Glascock",
+            "category": "Sound Editing",
+            "year": 2015,
+            "tmdb": {
+                "id": 194662,
+                "original_title": "Birdman or (The Unexpected Virtue of Ignorance)",
+                "title": "Birdman ou (A Inesperada Virtude da Ignor\u00e2ncia)",
+                "release_date": "2014-10-17",
+                "backdrop_path": "/s0OrExdg7i3RLR7oqzHRk4q2kL4.jpg",
+                "poster_path": "/7gwtDnEJ39QarOyzt9bSxEj3SkD.jpg",
+                "overview": "Esperando ser levado a s\u00e9rio, Riggan Thomson, uma estrela envelhecida conhecida por interpretar um super-her\u00f3i, tenta organizar uma pe\u00e7a da Broadway. Mas com as dificuldades da produ\u00e7\u00e3o e a aproxima\u00e7\u00e3o da noite de abertura, ele deve confrontar sua fam\u00edlia, sua carreira e seu ego.",
+                "vote_average": 7.467,
+                "vote_count": 12438
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Hobbit: The Battle of the Five Armies",
+            "second_label": "Brent Burge and Jason Canovas",
+            "category": "Sound Editing",
+            "year": 2015,
+            "tmdb": {
+                "id": 122917,
+                "original_title": "The Hobbit: The Battle of the Five Armies",
+                "title": "O Hobbit: A Batalha dos Cinco Ex\u00e9rcitos",
+                "release_date": "2014-12-10",
+                "backdrop_path": "/bVmSXNgH1gpHYTDyF9Q826YwJT5.jpg",
+                "poster_path": "/5tGL0dbQpAkK9ItUaDrUbTvTMDp.jpg",
+                "overview": "O drag\u00e3o Smaug lan\u00e7a sua f\u00faria ardente contra a Cidade do Lago que fica pr\u00f3xima da montanha de Erebor. Bard consegue derrot\u00e1-lo, mas, rapidamente, sem a amea\u00e7a do drag\u00e3o, inicia-se uma batalha pelo controle de Erebor e sua riqueza. Os an\u00f5es, liderados por Thorin, adentram a montanha e est\u00e3o dispostos a impedir a entrada de elfos, an\u00f5es e orcs. Bilbo Bolseiro e Gandalf tentam impedir a guerra.",
+                "vote_average": 7.3,
+                "vote_count": 13712
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Interstellar",
+            "second_label": "Richard King",
+            "category": "Sound Editing",
+            "year": 2015,
+            "tmdb": {
+                "id": 157336,
+                "original_title": "Interstellar",
+                "title": "Interestelar",
+                "release_date": "2014-11-05",
+                "backdrop_path": "/xJHokMbljvjADYdit5fK5VQsXEG.jpg",
+                "poster_path": "/nCbkOyOMTEwlEV0LtCOvCnwEONA.jpg",
+                "overview": "As reservas naturais da Terra est\u00e3o chegando ao fim e um grupo de astronautas recebe a miss\u00e3o de verificar poss\u00edveis planetas para receberem a popula\u00e7\u00e3o mundial, possibilitando a continua\u00e7\u00e3o da esp\u00e9cie. Cooper \u00e9 chamado para liderar o grupo e aceita a miss\u00e3o sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguir\u00e1 em busca de um novo lar.",
+                "vote_average": 8.431,
+                "vote_count": 33953
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Unbroken",
+            "second_label": "Becky Sullivan and Andrew DeCristofaro",
+            "category": "Sound Editing",
+            "year": 2015,
+            "tmdb": {
+                "id": 227306,
+                "original_title": "Unbroken",
+                "title": "Invenc\u00edvel",
+                "release_date": "2014-12-25",
+                "backdrop_path": "/8gGbfySRbrYf8fhJOMUzlvsrUPN.jpg",
+                "poster_path": "/4ewpP8s2PBOvsxQN9waaMWPCniy.jpg",
+                "overview": "O filme conta a hist\u00f3ria de Louis Zamperini, uma estrela da pista ol\u00edmpica e um her\u00f3i da Segunda Guerra Mundial, que durante uma miss\u00e3o militar, sofreu um acidente de avi\u00e3o no Oceano Pac\u00edfico, do qual sobreviveu junto com dois companheiros. Ele E mais um sobrevivem. Eles passaram 47 dias \u00e0 deriva numa balsa, quando foram encontrados por um navio de guerra japon\u00eas. Que os fizeram de prisioneiros e os levaram para uma ilha onde foram torturados e mantidos como prisioneiros de guerra por dois anos.",
+                "vote_average": 7.4,
+                "vote_count": 3952
+            },
+            "winner": false
+        }
+    ],
+    "Sound Mixing": [
+        {
+            "first_label": "Whiplash",
+            "second_label": "Craig Mann, Ben Wilkins and Thomas Curley",
+            "category": "Sound Mixing",
+            "year": 2015,
+            "tmdb": {
+                "id": 244786,
+                "original_title": "Whiplash",
+                "title": "Whiplash: Em Busca da Perfei\u00e7\u00e3o",
+                "release_date": "2014-10-10",
+                "backdrop_path": "/vNXGrknx4GjWLgmuNTftWZluIUl.jpg",
+                "poster_path": "/dtnzzmGOy2Ni89Ir4I1FTO40FJQ.jpg",
+                "overview": "Andrew sonha em ser o melhor baterista de sua gera\u00e7\u00e3o. Ele chama a aten\u00e7\u00e3o do impiedoso mestre do jazz Terence Fletcher, que ultrapassa os limites e transforma seu sonho em uma obsess\u00e3o, colocando em risco a sa\u00fade f\u00edsica e mental do jovem m\u00fasico.",
+                "vote_average": 8.383,
+                "vote_count": 14470
+            },
+            "winner": true
+        },
+        {
+            "first_label": "American Sniper",
+            "second_label": "John Reitz, Gregg Rudloff and Walt Martin",
+            "category": "Sound Mixing",
+            "year": 2015,
+            "tmdb": {
+                "id": 190859,
+                "original_title": "American Sniper",
+                "title": "Sniper Americano",
+                "release_date": "2014-12-25",
+                "backdrop_path": "/rl95VDEP3nsUQmGzE0S1S7y6T0N.jpg",
+                "poster_path": "/mAXzc2oDTTYcnn6IGHlSXvmXloG.jpg",
+                "overview": "Chris Kyle \u00e9 um atirador de elite das for\u00e7as especiais da marinha dos Estados Unidos. Durante a Guerra do Iraque, sua miss\u00e3o \u00e9 proteger seus companheiros e seu dever faz dele um dos maiores atiradores da hist\u00f3ria norte-americana. Sua precis\u00e3o salva in\u00fameras vidas, mas tamb\u00e9m o torna um alvo preferencial. Quando Kyle finalmente volta para casa, ele descobre que n\u00e3o tem como deixar a guerra para tr\u00e1s.",
+                "vote_average": 7.43,
+                "vote_count": 12443
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Birdman or (The Unexpected Virtue of Ignorance)",
+            "second_label": "Jon Taylor, Frank A. Montao and Thomas Varga",
+            "category": "Sound Mixing",
+            "year": 2015,
+            "tmdb": {
+                "id": 194662,
+                "original_title": "Birdman or (The Unexpected Virtue of Ignorance)",
+                "title": "Birdman ou (A Inesperada Virtude da Ignor\u00e2ncia)",
+                "release_date": "2014-10-17",
+                "backdrop_path": "/s0OrExdg7i3RLR7oqzHRk4q2kL4.jpg",
+                "poster_path": "/7gwtDnEJ39QarOyzt9bSxEj3SkD.jpg",
+                "overview": "Esperando ser levado a s\u00e9rio, Riggan Thomson, uma estrela envelhecida conhecida por interpretar um super-her\u00f3i, tenta organizar uma pe\u00e7a da Broadway. Mas com as dificuldades da produ\u00e7\u00e3o e a aproxima\u00e7\u00e3o da noite de abertura, ele deve confrontar sua fam\u00edlia, sua carreira e seu ego.",
+                "vote_average": 7.467,
+                "vote_count": 12438
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Interstellar",
+            "second_label": "Gary A. Rizzo, Gregg Landaker and Mark Weingarten",
+            "category": "Sound Mixing",
+            "year": 2015,
+            "tmdb": {
+                "id": 157336,
+                "original_title": "Interstellar",
+                "title": "Interestelar",
+                "release_date": "2014-11-05",
+                "backdrop_path": "/xJHokMbljvjADYdit5fK5VQsXEG.jpg",
+                "poster_path": "/nCbkOyOMTEwlEV0LtCOvCnwEONA.jpg",
+                "overview": "As reservas naturais da Terra est\u00e3o chegando ao fim e um grupo de astronautas recebe a miss\u00e3o de verificar poss\u00edveis planetas para receberem a popula\u00e7\u00e3o mundial, possibilitando a continua\u00e7\u00e3o da esp\u00e9cie. Cooper \u00e9 chamado para liderar o grupo e aceita a miss\u00e3o sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguir\u00e1 em busca de um novo lar.",
+                "vote_average": 8.431,
+                "vote_count": 33953
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Unbroken",
+            "second_label": "Jon Taylor, Frank A. Montao and David Lee",
+            "category": "Sound Mixing",
+            "year": 2015,
+            "tmdb": {
+                "id": 227306,
+                "original_title": "Unbroken",
+                "title": "Invenc\u00edvel",
+                "release_date": "2014-12-25",
+                "backdrop_path": "/8gGbfySRbrYf8fhJOMUzlvsrUPN.jpg",
+                "poster_path": "/4ewpP8s2PBOvsxQN9waaMWPCniy.jpg",
+                "overview": "O filme conta a hist\u00f3ria de Louis Zamperini, uma estrela da pista ol\u00edmpica e um her\u00f3i da Segunda Guerra Mundial, que durante uma miss\u00e3o militar, sofreu um acidente de avi\u00e3o no Oceano Pac\u00edfico, do qual sobreviveu junto com dois companheiros. Ele E mais um sobrevivem. Eles passaram 47 dias \u00e0 deriva numa balsa, quando foram encontrados por um navio de guerra japon\u00eas. Que os fizeram de prisioneiros e os levaram para uma ilha onde foram torturados e mantidos como prisioneiros de guerra por dois anos.",
+                "vote_average": 7.4,
+                "vote_count": 3952
+            },
+            "winner": false
+        }
+    ],
+    "Visual Effects": [
+        {
+            "first_label": "Interstellar",
+            "second_label": "Paul Franklin, Andrew Lockley, Ian Hunter and Scott Fisher",
+            "category": "Visual Effects",
+            "year": 2015,
+            "tmdb": {
+                "id": 157336,
+                "original_title": "Interstellar",
+                "title": "Interestelar",
+                "release_date": "2014-11-05",
+                "backdrop_path": "/xJHokMbljvjADYdit5fK5VQsXEG.jpg",
+                "poster_path": "/nCbkOyOMTEwlEV0LtCOvCnwEONA.jpg",
+                "overview": "As reservas naturais da Terra est\u00e3o chegando ao fim e um grupo de astronautas recebe a miss\u00e3o de verificar poss\u00edveis planetas para receberem a popula\u00e7\u00e3o mundial, possibilitando a continua\u00e7\u00e3o da esp\u00e9cie. Cooper \u00e9 chamado para liderar o grupo e aceita a miss\u00e3o sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguir\u00e1 em busca de um novo lar.",
+                "vote_average": 8.431,
+                "vote_count": 33953
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Captain America: The Winter Soldier",
+            "second_label": "Dan DeLeeuw, Russell Earl, Bryan Grill and Dan Sudick",
+            "category": "Visual Effects",
+            "year": 2015,
+            "tmdb": {
+                "id": 100402,
+                "original_title": "Captain America: The Winter Soldier",
+                "title": "Capit\u00e3o Am\u00e9rica 2: O Soldado Invernal",
+                "release_date": "2014-03-20",
+                "backdrop_path": "/1RWLMyC9KcFfcaoViMiJGSSZzzr.jpg",
+                "poster_path": "/9sTDXtIIfHza1rAbmHU2djyzEXA.jpg",
+                "overview": "Ap\u00f3s os eventos catastr\u00f3ficos em Nova York com Os Vingadores, Steve Rogers, segue tentando se ajustar ao mundo moderno. Por\u00e9m, quando um colega da ag\u00eancia S.H.I.E.L.D. \u00e9 atacado, Steve se v\u00ea preso em uma rede de intrigas que amea\u00e7a colocar o mundo em risco. Em parceria com a Vi\u00fava Negra e Falc\u00e3o, seu novo aliado, o Capit\u00e3o Am\u00e9rica tem que enfrentar um misterioso e inesperado inimigo, o Soldado Invernal.",
+                "vote_average": 7.666,
+                "vote_count": 18167
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dawn of the Planet of the Apes",
+            "second_label": "Joe Letteri, Dan Lemmon, Daniel Barrett and Erik Winquist",
+            "category": "Visual Effects",
+            "year": 2015,
+            "tmdb": {
+                "id": 119450,
+                "original_title": "Dawn of the Planet of the Apes",
+                "title": "Planeta dos Macacos: O Confronto",
+                "release_date": "2014-07-08",
+                "backdrop_path": "/zlU8BIkgY7E6SMfD3USTWC6bchL.jpg",
+                "poster_path": "/4vLhF6R3lmhTjTVUdK4gI1s5a8v.jpg",
+                "overview": "Em 2026, a humanidade est\u00e1 enfrentando sua pior crise e est\u00e1 muito pr\u00f3xima da extin\u00e7\u00e3o por conta de um v\u00edrus mortal. Um grupo de sobreviventes organiza uma expedi\u00e7\u00e3o pelas florestas pr\u00f3ximas de S\u00e3o Francisco em busca de uma nova fonte de energia quando se deparam com uma comunidade, muito evolu\u00edda, de macacos liderados por C\u00e9sar. Alguns dissidentes, mesmo com o pacto de paz firmado, quebram a tr\u00e9gua e d\u00e3o in\u00edcio a uma guerra sem precedentes entre as duas esp\u00e9cies.",
+                "vote_average": 7.312,
+                "vote_count": 10660
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Guardians of the Galaxy",
+            "second_label": "Stephane Ceretti, Nicolas Aithadi, Jonathan Fawkner and Paul Corbould",
+            "category": "Visual Effects",
+            "year": 2015,
+            "tmdb": {
+                "id": 118340,
+                "original_title": "Guardians of the Galaxy",
+                "title": "Guardi\u00f5es da Gal\u00e1xia",
+                "release_date": "2014-07-30",
+                "backdrop_path": "/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg",
+                "poster_path": "/xaY92XMToaSnBuvCui3LHzNGqZB.jpg",
+                "overview": "Abduzido da Terra quando ainda era crian\u00e7a, Peter Quill fez carreira como saqueador e se auto denominou \"Senhor das Estrelas\". Quando rouba uma esfera, na qual o poderoso vil\u00e3o Ronan, da ra\u00e7a kree, est\u00e1 interessado, passa a ser procurado por v\u00e1rios ca\u00e7adores de recompensas. Para escapar do perigo, Quill une for\u00e7as com quatro personagens fora do sistema: Groot, uma \u00e1rvore human\u00f3ide (Vin Diesel), a sombria e perigosa Gamora, o guaxinim r\u00e1pido no gatilho Rocket Racoon e o vingativo Drax, o Destruidor. A esfera roubada \u00e9 capaz de mudar o destino de todo o universo.",
+                "vote_average": 7.9,
+                "vote_count": 27266
+            },
+            "winner": false
+        },
+        {
+            "first_label": "X-Men: Days of Future Past",
+            "second_label": "Richard Stammers, Lou Pecora, Tim Crosbie and Cameron Waldbauer",
+            "category": "Visual Effects",
+            "year": 2015,
+            "tmdb": {
+                "id": 127585,
+                "original_title": "X-Men: Days of Future Past",
+                "title": "X-Men: Dias de um Futuro Esquecido",
+                "release_date": "2014-05-15",
+                "backdrop_path": "/fctQU5MoXgJ5pNMljFzlEFXwfSu.jpg",
+                "poster_path": "/bUm0nSsTA6kfFfZHgNbNFisVe7M.jpg",
+                "overview": "O conjunto definitivo dos X-Men luta uma guerra pela sobreviv\u00eancia da esp\u00e9cie em dois per\u00edodos de tempo enquanto unem for\u00e7as com seus eus mais jovens em uma batalha \u00e9pica que deve mudar o passado \u2013 para salvar nosso futuro.",
+                "vote_average": 7.525,
+                "vote_count": 14778
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Adapted Screenplay)": [
+        {
+            "first_label": "The Imitation Game",
+            "second_label": "Written by Graham Moore",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2015,
+            "tmdb": {
+                "id": 205596,
+                "original_title": "The Imitation Game",
+                "title": "O Jogo da Imita\u00e7\u00e3o",
+                "release_date": "2014-11-14",
+                "backdrop_path": "/gLQoJ9P79g501oEEtrN8zMlCPpx.jpg",
+                "poster_path": "/bwWCFjhwrs5my4FUoeWdTa2GYlB.jpg",
+                "overview": "Em 1939, a rec\u00e9m-criada ag\u00eancia de intelig\u00eancia brit\u00e2nica MI6 recruta Alan Turing, um aluno da Universidade de Cambridge, para entender c\u00f3digos nazistas, incluindo o \"Enigma\", que cript\u00f3grafos acreditavam ser inquebr\u00e1vel. A equipe de Turing, incluindo Joan Clarke, analisa as mensagens de \"Enigma\", enquanto ele constr\u00f3i uma m\u00e1quina para decifr\u00e1-las.",
+                "vote_average": 8.005,
+                "vote_count": 16457
+            },
+            "winner": true
+        },
+        {
+            "first_label": "American Sniper",
+            "second_label": "Written by Jason Hall",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2015,
+            "tmdb": {
+                "id": 190859,
+                "original_title": "American Sniper",
+                "title": "Sniper Americano",
+                "release_date": "2014-12-25",
+                "backdrop_path": "/rl95VDEP3nsUQmGzE0S1S7y6T0N.jpg",
+                "poster_path": "/mAXzc2oDTTYcnn6IGHlSXvmXloG.jpg",
+                "overview": "Chris Kyle \u00e9 um atirador de elite das for\u00e7as especiais da marinha dos Estados Unidos. Durante a Guerra do Iraque, sua miss\u00e3o \u00e9 proteger seus companheiros e seu dever faz dele um dos maiores atiradores da hist\u00f3ria norte-americana. Sua precis\u00e3o salva in\u00fameras vidas, mas tamb\u00e9m o torna um alvo preferencial. Quando Kyle finalmente volta para casa, ele descobre que n\u00e3o tem como deixar a guerra para tr\u00e1s.",
+                "vote_average": 7.43,
+                "vote_count": 12443
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Inherent Vice",
+            "second_label": "Written for the screen by Paul Thomas Anderson",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2015,
+            "tmdb": {
+                "id": 171274,
+                "original_title": "Inherent Vice",
+                "title": "V\u00edcio Inerente",
+                "release_date": "2014-12-12",
+                "backdrop_path": "/zwC3N0QQC2OCPDz2UWKNoq5vXm7.jpg",
+                "poster_path": "/z8Vew0X034bqtnEiEIEwatt7u4k.jpg",
+                "overview": "Em uma comunidade litor\u00e2nea da Calif\u00f3rnia, o solit\u00e1rio detetive particular Larry \"Doc\" Sportello costuma lidar com os seus casos atrav\u00e9s da fuma\u00e7a de um cigarro de maconha. Um dia, ele recebe a visita inesperada da ex-namorada Shasta, por quem ainda sente algo. Shasta precisa da ajuda de Larry para encontrar seu amante, Mickey Wolfmann, um bilion\u00e1rio do mercado imobili\u00e1rio, que desapareceu misteriosamente. Aparentemente, a esposa de Mickey est\u00e1 tentando intern\u00e1-lo em um hospital psiqui\u00e1trico.",
+                "vote_average": 6.6,
+                "vote_count": 2383
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Theory of Everything",
+            "second_label": "Screenplay by Anthony McCarten",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2015,
+            "tmdb": {
+                "id": 266856,
+                "original_title": "The Theory of Everything",
+                "title": "A Teoria de Tudo",
+                "release_date": "2014-11-26",
+                "backdrop_path": "/ke3lanTAgCqPMpOyutIfXzYih2s.jpg",
+                "poster_path": "/6q1XGbTJQqOGUpX9OlO0bGmtpql.jpg",
+                "overview": "Baseado na biografia de Stephen Hawking, o filme mostra como o jovem astrof\u00edsico (Eddie Redmayne) fez descobertas importantes sobre o tempo, al\u00e9m de retratar o seu romance com a aluna de Cambridge Jane Wide (Felicity Jones) e a descoberta de uma doen\u00e7a motora degenerativa quando tinha apenas 21 anos.",
+                "vote_average": 7.9,
+                "vote_count": 10281
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Whiplash",
+            "second_label": "Written by Damien Chazelle",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2015,
+            "tmdb": {
+                "id": 244786,
+                "original_title": "Whiplash",
+                "title": "Whiplash: Em Busca da Perfei\u00e7\u00e3o",
+                "release_date": "2014-10-10",
+                "backdrop_path": "/vNXGrknx4GjWLgmuNTftWZluIUl.jpg",
+                "poster_path": "/dtnzzmGOy2Ni89Ir4I1FTO40FJQ.jpg",
+                "overview": "Andrew sonha em ser o melhor baterista de sua gera\u00e7\u00e3o. Ele chama a aten\u00e7\u00e3o do impiedoso mestre do jazz Terence Fletcher, que ultrapassa os limites e transforma seu sonho em uma obsess\u00e3o, colocando em risco a sa\u00fade f\u00edsica e mental do jovem m\u00fasico.",
+                "vote_average": 8.383,
+                "vote_count": 14470
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Original Screenplay)": [
+        {
+            "first_label": "Birdman or (The Unexpected Virtue of Ignorance)",
+            "second_label": "Written by Alejandro G. Irritu, Nicols Giacobone, Alexander Dinelaris, Jr. & Armando Bo",
+            "category": "Writing (Original Screenplay)",
+            "year": 2015,
+            "tmdb": {
+                "id": 194662,
+                "original_title": "Birdman or (The Unexpected Virtue of Ignorance)",
+                "title": "Birdman ou (A Inesperada Virtude da Ignor\u00e2ncia)",
+                "release_date": "2014-10-17",
+                "backdrop_path": "/s0OrExdg7i3RLR7oqzHRk4q2kL4.jpg",
+                "poster_path": "/7gwtDnEJ39QarOyzt9bSxEj3SkD.jpg",
+                "overview": "Esperando ser levado a s\u00e9rio, Riggan Thomson, uma estrela envelhecida conhecida por interpretar um super-her\u00f3i, tenta organizar uma pe\u00e7a da Broadway. Mas com as dificuldades da produ\u00e7\u00e3o e a aproxima\u00e7\u00e3o da noite de abertura, ele deve confrontar sua fam\u00edlia, sua carreira e seu ego.",
+                "vote_average": 7.467,
+                "vote_count": 12438
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Boyhood",
+            "second_label": "Written by Richard Linklater",
+            "category": "Writing (Original Screenplay)",
+            "year": 2015,
+            "tmdb": {
+                "id": 85350,
+                "original_title": "Boyhood",
+                "title": "Boyhood: Da Inf\u00e2ncia \u00e0 Juventude",
+                "release_date": "2014-06-05",
+                "backdrop_path": "/qRwkMMZhQRKM4uDaXpd2XbZZmkE.jpg",
+                "poster_path": "/rr1rlDZXOeLqtYMEC6xEunxqsD3.jpg",
+                "overview": "Acompanhe a vida do garoto Mason durante um per\u00edodo de doze anos, da inf\u00e2ncia \u00e0 juventude, analisando seu relacionamento com os pais, suas descobertas, experi\u00eancias e seus conflitos.",
+                "vote_average": 7.507,
+                "vote_count": 4956
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Foxcatcher",
+            "second_label": "Written by E. Max Frye and Dan Futterman",
+            "category": "Writing (Original Screenplay)",
+            "year": 2015,
+            "tmdb": {
+                "id": 87492,
+                "original_title": "Foxcatcher",
+                "title": "Foxcatcher: Uma Hist\u00f3ria Que Chocou o Mundo",
+                "release_date": "2014-11-14",
+                "backdrop_path": "/tT8vexYdyHG0nHyXQkhzt8tbFkt.jpg",
+                "poster_path": "/bim6tB3N5xB7wXjanWPIV14Qq53.jpg",
+                "overview": "O milion\u00e1rio John du Pont convida o campe\u00e3o ol\u00edmpico de luta greco-romana, Mark Schultz, para mudar-se para sua mans\u00e3o e ajudar a formar uma equipe para as Olimp\u00edadas de 1988. O lutador v\u00ea a oportunidade como uma maneira de sair da sombra de seu irm\u00e3o mais velho, uma lenda no esporte. Tamb\u00e9m atra\u00eddo pelo sal\u00e1rio e condi\u00e7\u00f5es de vida oferecidas, ele aceita a proposta. Mark e John se tornam amigos, mas a dif\u00edcil personalidade do milion\u00e1rio faz com que Mark acabe indo em dire\u00e7\u00e3o a uma trag\u00e9dia.",
+                "vote_average": 6.7,
+                "vote_count": 2198
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Grand Budapest Hotel",
+            "second_label": "Screenplay by Wes Anderson; Story by Wes Anderson & Hugo Guinness",
+            "category": "Writing (Original Screenplay)",
+            "year": 2015,
+            "tmdb": {
+                "id": 120467,
+                "original_title": "The Grand Budapest Hotel",
+                "title": "O Grande Hotel Budapeste",
+                "release_date": "2014-02-26",
+                "backdrop_path": "/5vPW6MPAyCFd84FEQQgtPDmVDPQ.jpg",
+                "poster_path": "/z6MxdXMzxZCTv837RwEemJsaE3B.jpg",
+                "overview": "No per\u00edodo entre as duas guerras mundiais, o famoso gerente de um hotel europeu conhece um jovem empregado e os dois tornam-se melhores amigos. Entre as aventuras vividas pelos dois, constam o roubo de um famoso quadro do Renascimento, a batalha pela grande fortuna de uma fam\u00edlia e as transforma\u00e7\u00f5es hist\u00f3ricas durante a primeira metade do s\u00e9culo XX.",
+                "vote_average": 8.1,
+                "vote_count": 14258
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Nightcrawler",
+            "second_label": "Written by Dan Gilroy",
+            "category": "Writing (Original Screenplay)",
+            "year": 2015,
+            "tmdb": {
+                "id": 242582,
+                "original_title": "Nightcrawler",
+                "title": "O Abutre",
+                "release_date": "2014-10-23",
+                "backdrop_path": "/wofhl2lsTYCPmMQPsbj6iu9n0P6.jpg",
+                "poster_path": "/8BlEZQwvHaiAlzIs3sjIwEWALSM.jpg",
+                "overview": "Enfrentando dificuldades para conseguir um emprego formal, o jovem Louis Bloom decide entrar no agitado submundo do jornalismo criminal independente de Los Angeles. A f\u00f3rmula \u00e9 correr atr\u00e1s de crimes e acidentes chocantes, registrar tudo e vender a hist\u00f3ria para ve\u00edculos interessados.",
+                "vote_average": 7.706,
+                "vote_count": 10350
+            },
+            "winner": false
+        }
+    ]
+}

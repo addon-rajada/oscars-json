@@ -1,0 +1,2020 @@
+{
+    "Actor in a Leading Role": [
+        {
+            "first_label": "Rami Malek",
+            "second_label": "Bohemian Rhapsody",
+            "category": "Actor in a Leading Role",
+            "year": 2019,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Christian Bale",
+            "second_label": "Vice",
+            "category": "Actor in a Leading Role",
+            "year": 2019,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Bradley Cooper",
+            "second_label": "A Star Is Born",
+            "category": "Actor in a Leading Role",
+            "year": 2019,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Willem Dafoe",
+            "second_label": "At Eternity's Gate",
+            "category": "Actor in a Leading Role",
+            "year": 2019,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Viggo Mortensen",
+            "second_label": "Green Book",
+            "category": "Actor in a Leading Role",
+            "year": 2019,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Mahershala Ali",
+            "second_label": "Green Book",
+            "category": "Actor in a Supporting Role",
+            "year": 2019,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Adam Driver",
+            "second_label": "BlacKkKlansman",
+            "category": "Actor in a Supporting Role",
+            "year": 2019,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sam Elliott",
+            "second_label": "A Star Is Born",
+            "category": "Actor in a Supporting Role",
+            "year": 2019,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Richard E. Grant",
+            "second_label": "Can You Ever Forgive Me?",
+            "category": "Actor in a Supporting Role",
+            "year": 2019,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sam Rockwell",
+            "second_label": "Vice",
+            "category": "Actor in a Supporting Role",
+            "year": 2019,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Leading Role": [
+        {
+            "first_label": "Olivia Colman",
+            "second_label": "The Favourite",
+            "category": "Actress in a Leading Role",
+            "year": 2019,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Yalitza Aparicio",
+            "second_label": "Roma",
+            "category": "Actress in a Leading Role",
+            "year": 2019,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Glenn Close",
+            "second_label": "The Wife",
+            "category": "Actress in a Leading Role",
+            "year": 2019,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lady Gaga",
+            "second_label": "A Star Is Born",
+            "category": "Actress in a Leading Role",
+            "year": 2019,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Melissa McCarthy",
+            "second_label": "Can You Ever Forgive Me?",
+            "category": "Actress in a Leading Role",
+            "year": 2019,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Regina King",
+            "second_label": "If Beale Street Could Talk",
+            "category": "Actress in a Supporting Role",
+            "year": 2019,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Amy Adams",
+            "second_label": "Vice",
+            "category": "Actress in a Supporting Role",
+            "year": 2019,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Marina de Tavira",
+            "second_label": "Roma",
+            "category": "Actress in a Supporting Role",
+            "year": 2019,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Emma Stone",
+            "second_label": "The Favourite",
+            "category": "Actress in a Supporting Role",
+            "year": 2019,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rachel Weisz",
+            "second_label": "The Favourite",
+            "category": "Actress in a Supporting Role",
+            "year": 2019,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Animated Feature Film": [
+        {
+            "first_label": "Spider-Man: Into the Spider-Verse",
+            "second_label": "Bob Persichetti, Peter Ramsey, Rodney Rothman, Phil Lord and Christopher Miller",
+            "category": "Animated Feature Film",
+            "year": 2019,
+            "tmdb": {
+                "id": 324857,
+                "original_title": "Spider-Man: Into the Spider-Verse",
+                "title": "Homem-Aranha: No Aranhaverso",
+                "release_date": "2018-12-06",
+                "backdrop_path": "/qGQf2OHIkoh89K8XeKQzhxczf96.jpg",
+                "poster_path": "/ejqquyk7r3GLXPir62rksUmPKj5.jpg",
+                "overview": "Miles Morales \u00e9 um jovem negro do Brooklyn que se tornou o Homem-Aranha inspirado no legado de Peter Parker, j\u00e1 falecido. Entretanto, ao visitar o t\u00famulo de seu \u00eddolo em uma noite chuvosa, ele \u00e9 surpreendido com a presen\u00e7a do pr\u00f3prio Peter, vestindo o traje do her\u00f3i aracn\u00eddeo sob um sobretudo. A surpresa fica ainda maior quando Miles descobre que ele veio de uma dimens\u00e3o paralela, assim como outras varia\u00e7\u00f5es do Homem-Aranha.",
+                "vote_average": 8.405,
+                "vote_count": 14842
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Incredibles 2",
+            "second_label": "Brad Bird, John Walker and Nicole Paradis Grindle",
+            "category": "Animated Feature Film",
+            "year": 2019,
+            "tmdb": {
+                "id": 260513,
+                "original_title": "Incredibles 2",
+                "title": "Os Incr\u00edveis 2",
+                "release_date": "2018-06-14",
+                "backdrop_path": "/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg",
+                "poster_path": "/y3EEb7o6NxK0pl0WsOswCos663y.jpg",
+                "overview": "Helena \u00e9 chamada para liderar uma campanha para trazer os superher\u00f3is de volta. Enquanto Roberto deve enfrentar os desafios heroicos do dia a dia da vida dom\u00e9stica. Mas quando um novo vil\u00e3o aparece com um plano brilhante e perigoso, a fam\u00edlia P\u00eara enfrenta o desafio juntos  com Gelado do lado deles.",
+                "vote_average": 7.471,
+                "vote_count": 12391
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Isle of Dogs",
+            "second_label": "Wes Anderson, Scott Rudin, Steven Rales and Jeremy Dawson",
+            "category": "Animated Feature Film",
+            "year": 2019,
+            "tmdb": {
+                "id": 399174,
+                "original_title": "Isle of Dogs",
+                "title": "Ilha dos Cachorros",
+                "release_date": "2018-03-23",
+                "backdrop_path": "/jB5zHG1eHh0OC1S61itXNApZlLD.jpg",
+                "poster_path": "/4k4sjRXGMTfIDkfVi7lHccatnWk.jpg",
+                "overview": "Atari Kobayashi \u00e9 um garoto japon\u00eas de 12 anos de idade. Ele mora na cidade de Megasaki, sob tutela do corrupto prefeito Kobayashi. O pol\u00edtico aprova uma nova lei que pro\u00edbe os cachorros de morarem no local, fazendo com que todos os animais sejam enviados a uma ilha vizinha repleta de lixo. Como n\u00e3o aceita se separar do cachorro Spots, Atari convoca os amigos, rouba um jato em miniatura e parte em busca de seu fiel amigo, aventura que transforma completamente a vida da cidade.",
+                "vote_average": 7.8,
+                "vote_count": 4631
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mirai",
+            "second_label": "Mamoru Hosoda and Yuichiro Saito",
+            "category": "Animated Feature Film",
+            "year": 2019,
+            "tmdb": {
+                "id": 475215,
+                "original_title": "\u672a\u6765\u306e\u30df\u30e9\u30a4",
+                "title": "Mirai",
+                "release_date": "2018-06-16",
+                "backdrop_path": "/qz9iKhw2SlEysbFWXytcnwEEUXL.jpg",
+                "poster_path": "/koz5dqWUfXnapmwgko6o8caZn4b.jpg",
+                "overview": "Kun \u00e9 um menino com uma inf\u00e2ncia feliz at\u00e9 a chegada de Mirai, sua irm\u00e3zinha. Com ci\u00fames desse beb\u00ea que monopoliza a aten\u00e7\u00e3o dos pais, ele vai se retraindo pouco a pouco. No fundo do seu jardim, o menino embarca em um mundo fant\u00e1stico, onde o passado e o futuro se misturam. L\u00e1, ele conhece seus parentes em diferentes idades da vida: sua m\u00e3e ainda crian\u00e7a, seu bisav\u00f4 na juventude e sua pequena irm\u00e3 na adolesc\u00eancia. Atrav\u00e9s dessas aventuras, Kun vai descobrir sua pr\u00f3pria hist\u00f3ria.",
+                "vote_average": 7.2,
+                "vote_count": 744
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ralph Breaks the Internet",
+            "second_label": "Rich Moore, Phil Johnston and Clark Spencer",
+            "category": "Animated Feature Film",
+            "year": 2019,
+            "tmdb": {
+                "id": 404368,
+                "original_title": "Ralph Breaks the Internet",
+                "title": "WiFi Ralph: Quebrando a Internet",
+                "release_date": "2018-11-20",
+                "backdrop_path": "/qDQEQbgP3v7B9IYLAUcYexNrVYP.jpg",
+                "poster_path": "/8aaXBBT5Hwo7Oab8wyNyoN7z7mg.jpg",
+                "overview": "Ralph, o mais famoso vil\u00e3o dos videogames, e Vanellope, sua companheira atrapalhada, iniciam mais uma arriscada aventura. Ap\u00f3s a gloriosa vit\u00f3ria no Fliperama Litwak, a dupla viaja para a world wide web, no universo expansivo e desconhecido da internet. Dessa vez, a miss\u00e3o \u00e9 achar uma pe\u00e7a reserva para salvar o videogame Corrida Doce, de Vanellope. Para isso, eles contam com a ajuda dos \"cidad\u00e3os da Internet\" e de Yess, a alma por tr\u00e1s do \"Buzzztube\", um famoso website que dita tend\u00eancias.",
+                "vote_average": 7.193,
+                "vote_count": 7237
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "Roma",
+            "second_label": "Alfonso Cuarn",
+            "category": "Cinematography",
+            "year": 2019,
+            "tmdb": {
+                "id": 426426,
+                "original_title": "Roma",
+                "title": "Roma",
+                "release_date": "2018-08-25",
+                "backdrop_path": "/zl9uqCl5iUSb50sTk2BPzw6bJnU.jpg",
+                "poster_path": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+                "overview": "Na d\u00e9cada de 1970, uma jovem trabalhadora dom\u00e9stica ind\u00edgena Cleodegaria \"Cleo\" Guti\u00e9rrez trabalha para uma fam\u00edlia abastada de classe m\u00e9dia do bairro de Roma, Cidade do M\u00e9xico. \u00c0 medida que as lutas dom\u00e9sticas e as restri\u00e7\u00f5es da hierarquia social se desdobram em meio a um pano de fundo de poderosos terremotos, revoltas estudantis e agita\u00e7\u00e3o pol\u00edtica, a fam\u00edlia luta para permanecer unida enquanto essas for\u00e7as amea\u00e7am separ\u00e1-los.",
+                "vote_average": 7.663,
+                "vote_count": 3795
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Cold War",
+            "second_label": "\u0141ukasz Z\u0307al",
+            "category": "Cinematography",
+            "year": 2019,
+            "tmdb": {
+                "id": 517104,
+                "original_title": "Cold War",
+                "title": "Cold War",
+                "release_date": "2017-11-19",
+                "backdrop_path": "/40VyXVeSE9Zo7bVFd0Rz2I7AFqD.jpg",
+                "poster_path": "/fNtvmW8vkxmsmQbYUdRrPZHxeRM.jpg",
+                "overview": "When a young couple gets the dreaded raccoon flu just days after moving in together, a harmless little cold quickly turns into all-out war.",
+                "vote_average": 7.3,
+                "vote_count": 10
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Favourite",
+            "second_label": "Robbie Ryan",
+            "category": "Cinematography",
+            "year": 2019,
+            "tmdb": {
+                "id": 375262,
+                "original_title": "The Favourite",
+                "title": "A Favorita",
+                "release_date": "2018-11-23",
+                "backdrop_path": "/ph5fElfh4U7O3jwhFljxz2LDp1l.jpg",
+                "poster_path": "/gbpKBgFRQpCi0dIU9Vyh4ZV4DvE.jpg",
+                "overview": "Na Inglaterra do s\u00e9culo XVIII, Sarah Churchill, a Duquesa de Marlborough (Rachel Weisz) exerce sua influ\u00eancia na corte como confidente, conselheira e amante secreta da Rainha Ana (Olivia Colman). Seu posto privilegiado, no entanto, \u00e9 amea\u00e7ado pela chegada de Abigail (Emma Stone), nova criada que logo se torna a queridinha da majestade e agarra com unhas e dentes a oportunidade \u00fanica.",
+                "vote_average": 7.519,
+                "vote_count": 5197
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Never Look Away",
+            "second_label": "Caleb Deschanel",
+            "category": "Cinematography",
+            "year": 2019,
+            "tmdb": {
+                "id": 423612,
+                "original_title": "Werk ohne Autor",
+                "title": "Nunca Deixe de Lembrar",
+                "release_date": "2018-10-03",
+                "backdrop_path": "/nE3TrturcVMt71piGZoX40VEjgm.jpg",
+                "poster_path": "/s1U0PYYW19bCPjCmmXjX9KJwa2O.jpg",
+                "overview": "Kurt Barnert \u00e9 um artista alem\u00e3o que conseguiu escapar da Alemanha Oriental. Agora, ele vive seus dias na Alemanha Ocidental, mas ainda assim \u00e9 atormentado pelos traumas da sua inf\u00e2ncia sob o regime dos nazistas e da Rep\u00fablica Democrata Alem\u00e3 (RDA).",
+                "vote_average": 7.8,
+                "vote_count": 645
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Star Is Born",
+            "second_label": "Matthew Libatique",
+            "category": "Cinematography",
+            "year": 2019,
+            "tmdb": {
+                "id": 332562,
+                "original_title": "A Star Is Born",
+                "title": "Nasce uma Estrela",
+                "release_date": "2018-10-03",
+                "backdrop_path": "/dDYpjrwh1wNVQk0rEpc9P81wQt4.jpg",
+                "poster_path": "/d8CNgb0AtZz7CSORffdwODK66iK.jpg",
+                "overview": "Um m\u00fasico ajuda uma jovem cantora a encontrar fama quando a idade e o alcoolismo enviam sua pr\u00f3pria carreira para uma espiral descendente.",
+                "vote_average": 7.5,
+                "vote_count": 11348
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design": [
+        {
+            "first_label": "Black Panther",
+            "second_label": "Ruth Carter",
+            "category": "Costume Design",
+            "year": 2019,
+            "tmdb": {
+                "id": 284054,
+                "original_title": "Black Panther",
+                "title": "Pantera Negra",
+                "release_date": "2018-02-13",
+                "backdrop_path": "/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
+                "poster_path": "/9D40jv8pi9uKnrVDPiN3JYYad72.jpg",
+                "overview": "O pr\u00edncipe T'Challa retorna a Wakanda para ser coroado rei. Assumindo o manto de Pantera Negra, ele vai \u00e0 ca\u00e7a de um vil\u00e3o que roubou um precioso metal de seu pa\u00eds.",
+                "vote_average": 7.386,
+                "vote_count": 21528
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Ballad of Buster Scruggs",
+            "second_label": "Mary Zophres",
+            "category": "Costume Design",
+            "year": 2019,
+            "tmdb": {
+                "id": 537996,
+                "original_title": "The Ballad of Buster Scruggs",
+                "title": "A Balada de Buster Scruggs",
+                "release_date": "2018-11-09",
+                "backdrop_path": "/90kmxuSwU28dVy1ghVSHI4x1wb8.jpg",
+                "poster_path": "/nb4crpD43qLIlNj3k5mqC0izPCk.jpg",
+                "overview": "Os aclamados irm\u00e3os Joel e Ethan Coen idealizam uma antologia faroeste em seis segmentos focada na fronteira americana. Acompanhando de foras da lei, a colonizadores, at\u00e9 todo tipo de personalidade do velho oeste, essa s\u00e9rie de hist\u00f3rias vai desde profundas reflex\u00f5es at\u00e9 o mais completo absurdo.",
+                "vote_average": 7.1,
+                "vote_count": 3829
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Favourite",
+            "second_label": "Sandy Powell",
+            "category": "Costume Design",
+            "year": 2019,
+            "tmdb": {
+                "id": 375262,
+                "original_title": "The Favourite",
+                "title": "A Favorita",
+                "release_date": "2018-11-23",
+                "backdrop_path": "/ph5fElfh4U7O3jwhFljxz2LDp1l.jpg",
+                "poster_path": "/gbpKBgFRQpCi0dIU9Vyh4ZV4DvE.jpg",
+                "overview": "Na Inglaterra do s\u00e9culo XVIII, Sarah Churchill, a Duquesa de Marlborough (Rachel Weisz) exerce sua influ\u00eancia na corte como confidente, conselheira e amante secreta da Rainha Ana (Olivia Colman). Seu posto privilegiado, no entanto, \u00e9 amea\u00e7ado pela chegada de Abigail (Emma Stone), nova criada que logo se torna a queridinha da majestade e agarra com unhas e dentes a oportunidade \u00fanica.",
+                "vote_average": 7.519,
+                "vote_count": 5197
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mary Poppins Returns",
+            "second_label": "Sandy Powell",
+            "category": "Costume Design",
+            "year": 2019,
+            "tmdb": {
+                "id": 400650,
+                "original_title": "Mary Poppins Returns",
+                "title": "O Retorno de Mary Poppins",
+                "release_date": "2018-12-13",
+                "backdrop_path": "/oGzToOBTRdXVOrHj8r0VgK3d2sU.jpg",
+                "poster_path": "/8g1P4sxOitwFaf3UBeT8n4F5sBy.jpg",
+                "overview": "Numa Londres abalada pela Grande Depress\u00e3o, Mary Poppins (Emily Blunt) desce dos c\u00e9us novamente com seu fiel amigo Jack (Lin-Manuel Miranda) para ajudar Michael (Ben Whishaw) e Jane Banks (Emily Mortimer), agora adultos trabalhadores, que sofreram uma perda pessoal. As crian\u00e7as Annabel (Pixie Davies), Georgie (Joel Dawson) e John (Nathanael Saleh) vivem com os pais na mesma casa de 24 anos atr\u00e1s e precisam da bab\u00e1 enigm\u00e1tica e do acendedor de lampi\u00f5es otimista para trazer alegria e magia de volta para suas vidas.",
+                "vote_average": 6.5,
+                "vote_count": 3194
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mary Queen of Scots",
+            "second_label": "Alexandra Byrne",
+            "category": "Costume Design",
+            "year": 2019,
+            "tmdb": {
+                "id": 457136,
+                "original_title": "Mary Queen of Scots",
+                "title": "Duas Rainhas",
+                "release_date": "2018-12-07",
+                "backdrop_path": "/iv5N169nQIzrS0pZ8MBEiemTtVt.jpg",
+                "poster_path": "/xFw9yOMb8M7tPmXXXY2xkInmSkA.jpg",
+                "overview": "Mary, ainda crian\u00e7a, foi prometida ao filho mais velho do rei Henrique II, Francis, e ent\u00e3o foi levada para Fran\u00e7a. Mas logo Francis morre e Mary volta para a Esc\u00f3cia, na tentativa de derrubar sua prima Elizabeth I, a Rainha da Inglaterra.",
+                "vote_average": 6.6,
+                "vote_count": 1708
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "Roma",
+            "second_label": "Alfonso Cuarn",
+            "category": "Directing",
+            "year": 2019,
+            "tmdb": {
+                "id": 426426,
+                "original_title": "Roma",
+                "title": "Roma",
+                "release_date": "2018-08-25",
+                "backdrop_path": "/zl9uqCl5iUSb50sTk2BPzw6bJnU.jpg",
+                "poster_path": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+                "overview": "Na d\u00e9cada de 1970, uma jovem trabalhadora dom\u00e9stica ind\u00edgena Cleodegaria \"Cleo\" Guti\u00e9rrez trabalha para uma fam\u00edlia abastada de classe m\u00e9dia do bairro de Roma, Cidade do M\u00e9xico. \u00c0 medida que as lutas dom\u00e9sticas e as restri\u00e7\u00f5es da hierarquia social se desdobram em meio a um pano de fundo de poderosos terremotos, revoltas estudantis e agita\u00e7\u00e3o pol\u00edtica, a fam\u00edlia luta para permanecer unida enquanto essas for\u00e7as amea\u00e7am separ\u00e1-los.",
+                "vote_average": 7.663,
+                "vote_count": 3795
+            },
+            "winner": true
+        },
+        {
+            "first_label": "BlacKkKlansman",
+            "second_label": "Spike Lee",
+            "category": "Directing",
+            "year": 2019,
+            "tmdb": {
+                "id": 487558,
+                "original_title": "BlacKkKlansman",
+                "title": "Infiltrado Na Klan",
+                "release_date": "2018-08-09",
+                "backdrop_path": "/ot3eZ9XfOF42a3zFWluMPWkfCHB.jpg",
+                "poster_path": "/iqP3m9EdoDvSzi6lPMmpjOX6vLY.jpg",
+                "overview": "Em 1978, Ron Stallworth, um policial negro do Colorado, conseguiu se infiltrar na Ku Klux Klan local. Ele se comunicava com os outros membros do grupo atrav\u00e9s de telefonemas e cartas, quando precisava estar fisicamente presente enviava um outro policial branco no seu lugar. Depois de meses de investiga\u00e7\u00e3o, Ron se tornou o l\u00edder da seita, sendo respons\u00e1vel por sabotar uma s\u00e9rie de linchamentos e outros crimes de \u00f3dio orquestrados pelos racistas.",
+                "vote_average": 7.517,
+                "vote_count": 7261
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Cold War",
+            "second_label": "Pawe\u0142 Pawlikowski",
+            "category": "Directing",
+            "year": 2019,
+            "tmdb": {
+                "id": 517104,
+                "original_title": "Cold War",
+                "title": "Cold War",
+                "release_date": "2017-11-19",
+                "backdrop_path": "/40VyXVeSE9Zo7bVFd0Rz2I7AFqD.jpg",
+                "poster_path": "/fNtvmW8vkxmsmQbYUdRrPZHxeRM.jpg",
+                "overview": "When a young couple gets the dreaded raccoon flu just days after moving in together, a harmless little cold quickly turns into all-out war.",
+                "vote_average": 7.3,
+                "vote_count": 10
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Favourite",
+            "second_label": "Yorgos Lanthimos",
+            "category": "Directing",
+            "year": 2019,
+            "tmdb": {
+                "id": 375262,
+                "original_title": "The Favourite",
+                "title": "A Favorita",
+                "release_date": "2018-11-23",
+                "backdrop_path": "/ph5fElfh4U7O3jwhFljxz2LDp1l.jpg",
+                "poster_path": "/gbpKBgFRQpCi0dIU9Vyh4ZV4DvE.jpg",
+                "overview": "Na Inglaterra do s\u00e9culo XVIII, Sarah Churchill, a Duquesa de Marlborough (Rachel Weisz) exerce sua influ\u00eancia na corte como confidente, conselheira e amante secreta da Rainha Ana (Olivia Colman). Seu posto privilegiado, no entanto, \u00e9 amea\u00e7ado pela chegada de Abigail (Emma Stone), nova criada que logo se torna a queridinha da majestade e agarra com unhas e dentes a oportunidade \u00fanica.",
+                "vote_average": 7.519,
+                "vote_count": 5197
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Vice",
+            "second_label": "Adam McKay",
+            "category": "Directing",
+            "year": 2019,
+            "tmdb": {
+                "id": 429197,
+                "original_title": "Vice",
+                "title": "O Vice",
+                "release_date": "2018-12-25",
+                "backdrop_path": "/aHcNu3tYihvkL45CrXTFY4YfrfF.jpg",
+                "poster_path": "/n1XcudR8wfo7KMtJ7eygAyEkJLx.jpg",
+                "overview": "Acompanhe a ascens\u00e3o de Dick Cheney ao se tornar um dos homens mais poderoso do mundo. Vice-presidente de George W. Bush, ele remodelou os Estados Unidos e o mundo, gerando mudan\u00e7as que permanecem at\u00e9 os dias de hoje.",
+                "vote_average": 7.0,
+                "vote_count": 3194
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "Free Solo",
+            "second_label": "Elizabeth Chai Vasarhelyi, Jimmy Chin, Evan Hayes and Shannon Dill",
+            "category": "Documentary (Feature)",
+            "year": 2019,
+            "tmdb": {
+                "id": 515042,
+                "original_title": "Free Solo",
+                "title": "Free Solo",
+                "release_date": "2018-09-28",
+                "backdrop_path": "/z2uuQasY4gQJ8VDAFki746JWeQJ.jpg",
+                "poster_path": "/v4QfYZMACODlWul9doN9RxE99ag.jpg",
+                "overview": "Aos 30 anos de idade, Alex Honnold j\u00e1 era um dos mais renomados alpinistas de sua gera\u00e7\u00e3o. Por\u00e9m, independente de todas as suas conquistas, ele permaneceu obcecado com um desafio que nenhum outro alpinista havia conseguido realizar: escalar sem equipamento de seguran\u00e7a a rocha El Capitan, no Parque Nacional de Yosemite, na Calif\u00f3rnia. Os diretores E. Chai Vasarhelyi e Jimmy Chin acompanham Honnold por dois anos enquanto ele testa os limites de sua ambi\u00e7\u00e3o.",
+                "vote_average": 7.9,
+                "vote_count": 1244
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Hale County This Morning, This Evening",
+            "second_label": "RaMell Ross, Joslyn Barnes and Su Kim",
+            "category": "Documentary (Feature)",
+            "year": 2019,
+            "tmdb": {
+                "id": 490785,
+                "original_title": "Hale County This Morning, This Evening",
+                "title": "No Interior do Alabama: A Vida em Hale County",
+                "release_date": "2018-01-19",
+                "backdrop_path": "/wUPm7f5PunndBJx1MIgMtNY8boJ.jpg",
+                "poster_path": "/yzso3kOTsilpu25bnDhAkxPWoTT.jpg",
+                "overview": "A trajet\u00f3ria de tr\u00eas jovens: Latrenda, Quincy e Daniel. Atrav\u00e9s de acontecimentos cotidianos, como a cria\u00e7\u00e3o dos filhos, a conquista do primeiro emprego e a escolha de uma faculdade, entendemos as motiva\u00e7\u00f5es, as dificuldades e os preconceitos que assombram at\u00e9 hoje o Sul dos Estados Unidos.",
+                "vote_average": 5.9,
+                "vote_count": 56
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Minding the Gap",
+            "second_label": "Bing Liu and Diane Quon",
+            "category": "Documentary (Feature)",
+            "year": 2019,
+            "tmdb": {
+                "id": 489985,
+                "original_title": "Minding the Gap",
+                "title": "Minding the Gap",
+                "release_date": "2018-08-17",
+                "backdrop_path": "/mpqS3iMM5wUOk3D0MPVbz8U7wF1.jpg",
+                "poster_path": "/uOu2YgrryHD1UlngykzTodAxGdC.jpg",
+                "overview": "Tr\u00eas jovens se juntam para conseguirem escapar de suas fam\u00edlias vol\u00e1teis e da cidade onde nasceram, localizada em uma parte dos EUA que passa por um decl\u00ednio da ind\u00fastria. Enfrentando a responsabilidade da vida adulta, revela\u00e7\u00f5es inesperadas amea\u00e7am a longa amizade do grupo.",
+                "vote_average": 7.7,
+                "vote_count": 175
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Of Fathers and Sons",
+            "second_label": "Talal Derki, Ansgar Frerich, Eva Kemme and Tobias N. Siebert",
+            "category": "Documentary (Feature)",
+            "year": 2019,
+            "tmdb": {
+                "id": 488740,
+                "original_title": "Of Fathers And Sons",
+                "title": "Sobre Pais e Filhos",
+                "release_date": "2017-11-15",
+                "backdrop_path": "/hOryMZ4I8QGjTjsqGAkrLYwDMj8.jpg",
+                "poster_path": "/9nY0ef1kCwu1fUG0mjBq3wWghu1.jpg",
+                "overview": "Talal Derki retorna para sua terra natal, onde ele ganha a confian\u00e7a de uma fam\u00edlia radical isl\u00e2mica, compartilhando sua vida di\u00e1ria por mais de dois anos. Sua c\u00e2mera foca em Osama e seu irm\u00e3o mais novo Ayman, fornecendo uma vis\u00e3o extremamente rara sobre o que significa crescer em um califado isl\u00e2mico.",
+                "vote_average": 7.0,
+                "vote_count": 53
+            },
+            "winner": false
+        },
+        {
+            "first_label": "RBG",
+            "second_label": "Betsy West and Julie Cohen",
+            "category": "Documentary (Feature)",
+            "year": 2019,
+            "tmdb": {
+                "id": 493099,
+                "original_title": "RBG",
+                "title": "A Ju\u00edza",
+                "release_date": "2018-05-04",
+                "backdrop_path": "/prShXu2j9SWAbeatf1A9AobqE5O.jpg",
+                "poster_path": "/1zwZGBuptA0zPwULxUX9t7GW5Q3.jpg",
+                "overview": "Um retrato \u00edntimo da improv\u00e1vel estrela do rock, Justice Ruth Bader Ginsburg. Com acesso sem precedentes, s\u00e3o exploradas suas primeiras batalhas jur\u00eddicas e como elas mudaram o mundo para as mulheres.",
+                "vote_average": 7.5,
+                "vote_count": 277
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "Period. End of Sentence.",
+            "second_label": "Rayka Zehtabchi and Melissa Berton",
+            "category": "Documentary (Short Subject)",
+            "year": 2019,
+            "tmdb": {
+                "id": 524288,
+                "original_title": "Period. End of Sentence.",
+                "title": "Absorvendo o Tabu",
+                "release_date": "2018-04-05",
+                "backdrop_path": "/9uW5X9fdtfJp0bSW60Eqh0lqcEt.jpg",
+                "poster_path": "/pKYHYlujtTDS0kZM80MUX7l3T58.jpg",
+                "overview": "In an effort to improve feminine hygiene, a machine that creates low-cost biodegradable sanitary pads is installed in a rural village in Northern India. Using the machine, a group of local women is employed to produce and sell pads, offering them newfound independence and helping to destigmatize menstruation for all.",
+                "vote_average": 7.9,
+                "vote_count": 230
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Black Sheep",
+            "second_label": "Ed Perkins and Jonathan Chinn",
+            "category": "Documentary (Short Subject)",
+            "year": 2019,
+            "tmdb": {
+                "id": 543803,
+                "original_title": "Black Sheep",
+                "title": "Ovelha Negra",
+                "release_date": "2018-05-01",
+                "backdrop_path": "/1hjf0DT9hbmMbgXQvz18cs5dLbg.jpg",
+                "poster_path": "/igcQu4oTlyvheJjyzmeYwWH1J8y.jpg",
+                "overview": "O menino Damilola Taylor, de origen nigeriana, foi assassinado violentamente em 27 de novembro de 2000, no que se tornou um dos casos de maior repercuss\u00e3o da Inglaterra. Isto fez a fam\u00edlia de Cornelius, um garoto negro tamb\u00e9m de origem nigeriana, se mudar de Londres. Por\u00e9m, quando Cornelius descobre que quem manda em sua nova cidade \u00e9 um grupo de pessoas racistas, ele toma uma decis\u00e3o dr\u00e1stica para sobreviver. Indicado ao Oscar 2019 de Melhor Curta-Document\u00e1rio.",
+                "vote_average": 7.2,
+                "vote_count": 49
+            },
+            "winner": false
+        },
+        {
+            "first_label": "End Game",
+            "second_label": "Rob Epstein and Jeffrey Friedman",
+            "category": "Documentary (Short Subject)",
+            "year": 2019,
+            "tmdb": {
+                "id": 510258,
+                "original_title": "End Game",
+                "title": "A Partida Final",
+                "release_date": "2018-01-21",
+                "backdrop_path": "/cM3SMgjV6CJ8WuQVcqvzCGccuvE.jpg",
+                "poster_path": "/k58OkwuRjQRnjeKtNySAsSY8o3Y.jpg",
+                "overview": "Diante do fim inevit\u00e1vel, pacientes terminais conhecem profissionais de sa\u00fade extraordin\u00e1rios determinados a mudar a nossa percep\u00e7\u00e3o sobre a vida e a morte.",
+                "vote_average": 7.1,
+                "vote_count": 71
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lifeboat",
+            "second_label": "Skye Fitzgerald and Bryn Mooser",
+            "category": "Documentary (Short Subject)",
+            "year": 2019,
+            "tmdb": {
+                "id": 543809,
+                "original_title": "Lifeboat",
+                "title": "Ref\u00fagio no Mar",
+                "release_date": "2018-05-24",
+                "backdrop_path": null,
+                "poster_path": "/uPUSa9Gmujp8LrT5qKx5W2DoGcc.jpg",
+                "overview": "Volunteers from a German non-profit risk the waves of the Mediterranean to pluck refugees from sinking rafts pushing off from Libya in the middle of the night.",
+                "vote_average": 6.6,
+                "vote_count": 22
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Night at The Garden",
+            "second_label": "Marshall Curry",
+            "category": "Documentary (Short Subject)",
+            "year": 2019,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "Bohemian Rhapsody",
+            "second_label": "John Ottman",
+            "category": "Film Editing",
+            "year": 2019,
+            "tmdb": {
+                "id": 424694,
+                "original_title": "Bohemian Rhapsody",
+                "title": "Bohemian Rhapsody",
+                "release_date": "2018-10-24",
+                "backdrop_path": "/dcvbs8z0GEXslC1kCT77x19XDeR.jpg",
+                "poster_path": "/qxgdqcxI216kEoypGbA9BemB7mW.jpg",
+                "overview": "Freddie Mercury e seus companheiros Brian May, Roger Taylor e John Deacon mudam o mundo da m\u00fasica para sempre ao formar a banda Queen, durante a d\u00e9cada de 1970. Por\u00e9m, quando o estilo de vida extravagante de Mercury come\u00e7a a sair do controle, a banda tem que enfrentar o desafio de conciliar a fama e o sucesso com suas vidas pessoais cada vez mais complicadas.",
+                "vote_average": 7.988,
+                "vote_count": 16373
+            },
+            "winner": true
+        },
+        {
+            "first_label": "BlacKkKlansman",
+            "second_label": "Barry Alexander Brown",
+            "category": "Film Editing",
+            "year": 2019,
+            "tmdb": {
+                "id": 487558,
+                "original_title": "BlacKkKlansman",
+                "title": "Infiltrado Na Klan",
+                "release_date": "2018-08-09",
+                "backdrop_path": "/ot3eZ9XfOF42a3zFWluMPWkfCHB.jpg",
+                "poster_path": "/iqP3m9EdoDvSzi6lPMmpjOX6vLY.jpg",
+                "overview": "Em 1978, Ron Stallworth, um policial negro do Colorado, conseguiu se infiltrar na Ku Klux Klan local. Ele se comunicava com os outros membros do grupo atrav\u00e9s de telefonemas e cartas, quando precisava estar fisicamente presente enviava um outro policial branco no seu lugar. Depois de meses de investiga\u00e7\u00e3o, Ron se tornou o l\u00edder da seita, sendo respons\u00e1vel por sabotar uma s\u00e9rie de linchamentos e outros crimes de \u00f3dio orquestrados pelos racistas.",
+                "vote_average": 7.517,
+                "vote_count": 7261
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Favourite",
+            "second_label": "Yorgos Mavropsaridis",
+            "category": "Film Editing",
+            "year": 2019,
+            "tmdb": {
+                "id": 375262,
+                "original_title": "The Favourite",
+                "title": "A Favorita",
+                "release_date": "2018-11-23",
+                "backdrop_path": "/ph5fElfh4U7O3jwhFljxz2LDp1l.jpg",
+                "poster_path": "/gbpKBgFRQpCi0dIU9Vyh4ZV4DvE.jpg",
+                "overview": "Na Inglaterra do s\u00e9culo XVIII, Sarah Churchill, a Duquesa de Marlborough (Rachel Weisz) exerce sua influ\u00eancia na corte como confidente, conselheira e amante secreta da Rainha Ana (Olivia Colman). Seu posto privilegiado, no entanto, \u00e9 amea\u00e7ado pela chegada de Abigail (Emma Stone), nova criada que logo se torna a queridinha da majestade e agarra com unhas e dentes a oportunidade \u00fanica.",
+                "vote_average": 7.519,
+                "vote_count": 5197
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Green Book",
+            "second_label": "Patrick J. Don Vito",
+            "category": "Film Editing",
+            "year": 2019,
+            "tmdb": {
+                "id": 490132,
+                "original_title": "Green Book",
+                "title": "Green Book: O Guia",
+                "release_date": "2018-11-16",
+                "backdrop_path": "/5En0fmDagt3Pk8d7P3uTwfeQceg.jpg",
+                "poster_path": "/u9dldwRwQjTZGlIxKaAtAPLAjOv.jpg",
+                "overview": "Quando Tony Lip, um seguran\u00e7a \u00edtalo-americano, \u00e9 contratado como motorista do Dr. Don Shirley, um pianista negro de classe alta, durante uma turn\u00ea pelo sul dos Estados Unidos, eles devem seguir o \"O Guia\" para leva-los aos poucos estabelecimentos que eram seguros para os afro-americanos. Confrontados com o racismo, o perigo, assim como pela humanidade e o humor inesperados, eles s\u00e3o for\u00e7ados a deixar de lado as diferen\u00e7as para sobreviver e prosperar nessa jornada.",
+                "vote_average": 8.2,
+                "vote_count": 11016
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Vice",
+            "second_label": "Hank Corwin",
+            "category": "Film Editing",
+            "year": 2019,
+            "tmdb": {
+                "id": 429197,
+                "original_title": "Vice",
+                "title": "O Vice",
+                "release_date": "2018-12-25",
+                "backdrop_path": "/aHcNu3tYihvkL45CrXTFY4YfrfF.jpg",
+                "poster_path": "/n1XcudR8wfo7KMtJ7eygAyEkJLx.jpg",
+                "overview": "Acompanhe a ascens\u00e3o de Dick Cheney ao se tornar um dos homens mais poderoso do mundo. Vice-presidente de George W. Bush, ele remodelou os Estados Unidos e o mundo, gerando mudan\u00e7as que permanecem at\u00e9 os dias de hoje.",
+                "vote_average": 7.0,
+                "vote_count": 3194
+            },
+            "winner": false
+        }
+    ],
+    "Foreign Language Film": [
+        {
+            "first_label": "Roma",
+            "second_label": "Mexico",
+            "category": "Foreign Language Film",
+            "year": 2019,
+            "tmdb": {
+                "id": 426426,
+                "original_title": "Roma",
+                "title": "Roma",
+                "release_date": "2018-08-25",
+                "backdrop_path": "/zl9uqCl5iUSb50sTk2BPzw6bJnU.jpg",
+                "poster_path": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+                "overview": "Na d\u00e9cada de 1970, uma jovem trabalhadora dom\u00e9stica ind\u00edgena Cleodegaria \"Cleo\" Guti\u00e9rrez trabalha para uma fam\u00edlia abastada de classe m\u00e9dia do bairro de Roma, Cidade do M\u00e9xico. \u00c0 medida que as lutas dom\u00e9sticas e as restri\u00e7\u00f5es da hierarquia social se desdobram em meio a um pano de fundo de poderosos terremotos, revoltas estudantis e agita\u00e7\u00e3o pol\u00edtica, a fam\u00edlia luta para permanecer unida enquanto essas for\u00e7as amea\u00e7am separ\u00e1-los.",
+                "vote_average": 7.663,
+                "vote_count": 3795
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Capernaum",
+            "second_label": "Lebanon",
+            "category": "Foreign Language Film",
+            "year": 2019,
+            "tmdb": {
+                "id": 517814,
+                "original_title": "\u06a9\u0641\u0631\u0646\u0627\u062d\u0648\u0645",
+                "title": "Cafarnaum",
+                "release_date": "2018-09-20",
+                "backdrop_path": "/1p6cMqrxwLjTHmruMCWfpbTAxvt.jpg",
+                "poster_path": "/ReHOMkW1rVTo3Yslqe1xATl8c8.jpg",
+                "overview": "Aos doze anos, Zain carrega uma s\u00e9rie de responsabilidades: \u00e9 ele quem cuida de seus irm\u00e3os no corti\u00e7o em que vive junto com os pais, que est\u00e3o sempre ausentes gra\u00e7as ao trabalho em uma mercearia. Quando sua irm\u00e3 de onze \u00e9 for\u00e7ada a se casar com um homem mais velho, o menino fica extremamente revoltado e decide deixar a fam\u00edlia. Ele passa a viver nas ruas junto aos refugiados e outras crian\u00e7as que, diferentemente dele, n\u00e3o chegaram l\u00e1 por conta pr\u00f3pria. Sobrevive gra\u00e7as \u00e0 sua esperteza nas ruas, cuida da refugiada et\u00edope Rahil e seu beb\u00ea Yonas. \u00c9 preso por um crime violento e, enquanto cumpria uma pena de cinco anos, ele processa seus pais por neglig\u00eancia.",
+                "vote_average": 8.2,
+                "vote_count": 1602
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Cold War",
+            "second_label": "Poland",
+            "category": "Foreign Language Film",
+            "year": 2019,
+            "tmdb": {
+                "id": 517104,
+                "original_title": "Cold War",
+                "title": "Cold War",
+                "release_date": "2017-11-19",
+                "backdrop_path": "/40VyXVeSE9Zo7bVFd0Rz2I7AFqD.jpg",
+                "poster_path": "/fNtvmW8vkxmsmQbYUdRrPZHxeRM.jpg",
+                "overview": "When a young couple gets the dreaded raccoon flu just days after moving in together, a harmless little cold quickly turns into all-out war.",
+                "vote_average": 7.3,
+                "vote_count": 10
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Never Look Away",
+            "second_label": "Germany",
+            "category": "Foreign Language Film",
+            "year": 2019,
+            "tmdb": {
+                "id": 423612,
+                "original_title": "Werk ohne Autor",
+                "title": "Nunca Deixe de Lembrar",
+                "release_date": "2018-10-03",
+                "backdrop_path": "/nE3TrturcVMt71piGZoX40VEjgm.jpg",
+                "poster_path": "/s1U0PYYW19bCPjCmmXjX9KJwa2O.jpg",
+                "overview": "Kurt Barnert \u00e9 um artista alem\u00e3o que conseguiu escapar da Alemanha Oriental. Agora, ele vive seus dias na Alemanha Ocidental, mas ainda assim \u00e9 atormentado pelos traumas da sua inf\u00e2ncia sob o regime dos nazistas e da Rep\u00fablica Democrata Alem\u00e3 (RDA).",
+                "vote_average": 7.8,
+                "vote_count": 645
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Shoplifters",
+            "second_label": "Japan",
+            "category": "Foreign Language Film",
+            "year": 2019,
+            "tmdb": {
+                "id": 505192,
+                "original_title": "\u4e07\u5f15\u304d\u5bb6\u65cf",
+                "title": "Assunto de Fam\u00edlia",
+                "release_date": "2018-06-02",
+                "backdrop_path": "/xOpQ4jIQJ0HSUhVDixZA9yWqVBP.jpg",
+                "poster_path": "/wnRMlvc0QQGdiHbdFz8hfZfi8Wz.jpg",
+                "overview": "Depois de uma de suas sess\u00f5es de furtos, Osamu e seu filho se deparam com uma garotinha escondida. A princ\u00edpio relutam em ajudar a menina, mas a esposa de Osamu concorda em  abrigar e cuidar dela depois de descobrir as dificuldades que ela enfrenta. Embora a fam\u00edlia seja pobre e mal ganhem dinheiro com os pequenos crimes que cometem, eles parecem viver felizes juntos at\u00e9 que um incidente revela segredos escondidos, testando os la\u00e7os que os unem.",
+                "vote_average": 7.9,
+                "vote_count": 1926
+            },
+            "winner": false
+        }
+    ],
+    "Makeup and Hairstyling": [
+        {
+            "first_label": "Vice",
+            "second_label": "Greg Cannom, Kate Biscoe and Patricia Dehaney",
+            "category": "Makeup and Hairstyling",
+            "year": 2019,
+            "tmdb": {
+                "id": 429197,
+                "original_title": "Vice",
+                "title": "O Vice",
+                "release_date": "2018-12-25",
+                "backdrop_path": "/aHcNu3tYihvkL45CrXTFY4YfrfF.jpg",
+                "poster_path": "/n1XcudR8wfo7KMtJ7eygAyEkJLx.jpg",
+                "overview": "Acompanhe a ascens\u00e3o de Dick Cheney ao se tornar um dos homens mais poderoso do mundo. Vice-presidente de George W. Bush, ele remodelou os Estados Unidos e o mundo, gerando mudan\u00e7as que permanecem at\u00e9 os dias de hoje.",
+                "vote_average": 7.0,
+                "vote_count": 3194
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Border",
+            "second_label": "Gran Lundstrm and Pamela Goldammer",
+            "category": "Makeup and Hairstyling",
+            "year": 2019,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mary Queen of Scots",
+            "second_label": "Jenny Shircore, Marc Pilcher and Jessica Brooks",
+            "category": "Makeup and Hairstyling",
+            "year": 2019,
+            "tmdb": {
+                "id": 457136,
+                "original_title": "Mary Queen of Scots",
+                "title": "Duas Rainhas",
+                "release_date": "2018-12-07",
+                "backdrop_path": "/iv5N169nQIzrS0pZ8MBEiemTtVt.jpg",
+                "poster_path": "/xFw9yOMb8M7tPmXXXY2xkInmSkA.jpg",
+                "overview": "Mary, ainda crian\u00e7a, foi prometida ao filho mais velho do rei Henrique II, Francis, e ent\u00e3o foi levada para Fran\u00e7a. Mas logo Francis morre e Mary volta para a Esc\u00f3cia, na tentativa de derrubar sua prima Elizabeth I, a Rainha da Inglaterra.",
+                "vote_average": 6.6,
+                "vote_count": 1708
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Score)": [
+        {
+            "first_label": "Black Panther",
+            "second_label": "Ludwig Goransson",
+            "category": "Music (Original Score)",
+            "year": 2019,
+            "tmdb": {
+                "id": 284054,
+                "original_title": "Black Panther",
+                "title": "Pantera Negra",
+                "release_date": "2018-02-13",
+                "backdrop_path": "/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
+                "poster_path": "/9D40jv8pi9uKnrVDPiN3JYYad72.jpg",
+                "overview": "O pr\u00edncipe T'Challa retorna a Wakanda para ser coroado rei. Assumindo o manto de Pantera Negra, ele vai \u00e0 ca\u00e7a de um vil\u00e3o que roubou um precioso metal de seu pa\u00eds.",
+                "vote_average": 7.386,
+                "vote_count": 21528
+            },
+            "winner": true
+        },
+        {
+            "first_label": "BlacKkKlansman",
+            "second_label": "Terence Blanchard",
+            "category": "Music (Original Score)",
+            "year": 2019,
+            "tmdb": {
+                "id": 487558,
+                "original_title": "BlacKkKlansman",
+                "title": "Infiltrado Na Klan",
+                "release_date": "2018-08-09",
+                "backdrop_path": "/ot3eZ9XfOF42a3zFWluMPWkfCHB.jpg",
+                "poster_path": "/iqP3m9EdoDvSzi6lPMmpjOX6vLY.jpg",
+                "overview": "Em 1978, Ron Stallworth, um policial negro do Colorado, conseguiu se infiltrar na Ku Klux Klan local. Ele se comunicava com os outros membros do grupo atrav\u00e9s de telefonemas e cartas, quando precisava estar fisicamente presente enviava um outro policial branco no seu lugar. Depois de meses de investiga\u00e7\u00e3o, Ron se tornou o l\u00edder da seita, sendo respons\u00e1vel por sabotar uma s\u00e9rie de linchamentos e outros crimes de \u00f3dio orquestrados pelos racistas.",
+                "vote_average": 7.517,
+                "vote_count": 7261
+            },
+            "winner": false
+        },
+        {
+            "first_label": "If Beale Street Could Talk",
+            "second_label": "Nicholas Britell",
+            "category": "Music (Original Score)",
+            "year": 2019,
+            "tmdb": {
+                "id": 465914,
+                "original_title": "If Beale Street Could Talk",
+                "title": "Se a Rua Beale Falasse",
+                "release_date": "2018-12-14",
+                "backdrop_path": "/kYmfmqmvJSPSdEwlsQZCi62sb1y.jpg",
+                "poster_path": "/4gbiabIdvVv3iZcpdZEqHtbe0aU.jpg",
+                "overview": "Tish est\u00e1 esperando um filho enquanto luta para livrar seu marido de uma acusa\u00e7\u00e3o criminal injusta e de subtextos racistas, a tempo de t\u00ea-lo em casa para o nascimento de seu beb\u00ea.",
+                "vote_average": 6.946,
+                "vote_count": 1078
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Isle of Dogs",
+            "second_label": "Alexandre Desplat",
+            "category": "Music (Original Score)",
+            "year": 2019,
+            "tmdb": {
+                "id": 399174,
+                "original_title": "Isle of Dogs",
+                "title": "Ilha dos Cachorros",
+                "release_date": "2018-03-23",
+                "backdrop_path": "/jB5zHG1eHh0OC1S61itXNApZlLD.jpg",
+                "poster_path": "/4k4sjRXGMTfIDkfVi7lHccatnWk.jpg",
+                "overview": "Atari Kobayashi \u00e9 um garoto japon\u00eas de 12 anos de idade. Ele mora na cidade de Megasaki, sob tutela do corrupto prefeito Kobayashi. O pol\u00edtico aprova uma nova lei que pro\u00edbe os cachorros de morarem no local, fazendo com que todos os animais sejam enviados a uma ilha vizinha repleta de lixo. Como n\u00e3o aceita se separar do cachorro Spots, Atari convoca os amigos, rouba um jato em miniatura e parte em busca de seu fiel amigo, aventura que transforma completamente a vida da cidade.",
+                "vote_average": 7.8,
+                "vote_count": 4631
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mary Poppins Returns",
+            "second_label": "Marc Shaiman",
+            "category": "Music (Original Score)",
+            "year": 2019,
+            "tmdb": {
+                "id": 400650,
+                "original_title": "Mary Poppins Returns",
+                "title": "O Retorno de Mary Poppins",
+                "release_date": "2018-12-13",
+                "backdrop_path": "/oGzToOBTRdXVOrHj8r0VgK3d2sU.jpg",
+                "poster_path": "/8g1P4sxOitwFaf3UBeT8n4F5sBy.jpg",
+                "overview": "Numa Londres abalada pela Grande Depress\u00e3o, Mary Poppins (Emily Blunt) desce dos c\u00e9us novamente com seu fiel amigo Jack (Lin-Manuel Miranda) para ajudar Michael (Ben Whishaw) e Jane Banks (Emily Mortimer), agora adultos trabalhadores, que sofreram uma perda pessoal. As crian\u00e7as Annabel (Pixie Davies), Georgie (Joel Dawson) e John (Nathanael Saleh) vivem com os pais na mesma casa de 24 anos atr\u00e1s e precisam da bab\u00e1 enigm\u00e1tica e do acendedor de lampi\u00f5es otimista para trazer alegria e magia de volta para suas vidas.",
+                "vote_average": 6.5,
+                "vote_count": 3194
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Song)": [
+        {
+            "first_label": "Shallow",
+            "second_label": "from A Star Is Born; Music and Lyric by Lady Gaga, Mark Ronson, Anthony Rossomando and Andrew Wyatt",
+            "category": "Music (Original Song)",
+            "year": 2019,
+            "tmdb": {
+                "id": 332567,
+                "original_title": "The Shallows",
+                "title": "\u00c1guas Rasas",
+                "release_date": "2016-06-24",
+                "backdrop_path": "/5W160Z6MGl6xB7QomSwfdsRKVJx.jpg",
+                "poster_path": "/eZxPtVGK4oix9BYCnD4EDKjKUnk.jpg",
+                "overview": "Nancy (Blake Lively) \u00e9 uma jovem m\u00e9dica que est\u00e1 tendo de lidar com a recente perda da m\u00e3e. Seguindo uma dica sua, ela vai surfar em uma paradis\u00edaca praia isolada, onde acaba sendo atacada por um enorme tubar\u00e3o. Desesperada e ferida, ela consegue se proteger temporariamente em um recife de corais, mas precisa encontrar logo uma maneira de sair da \u00e1gua.",
+                "vote_average": 6.4,
+                "vote_count": 4893
+            },
+            "winner": true
+        },
+        {
+            "first_label": "All The Stars",
+            "second_label": "from Black Panther; Music by Kendrick Lamar, Mark \u201cSounwave\u201d Spears and Anthony \u201cTop Dawg\u201d Tiffith; Lyric by Kendrick Lamar, SZA and Anthony \u201cTop Dawg\u201d Tiffith",
+            "category": "Music (Original Song)",
+            "year": 2019,
+            "tmdb": {
+                "id": 551591,
+                "original_title": "\u6620\u753b HUG\u3063\u3068\uff01\u30d7\u30ea\u30ad\u30e5\u30a2\u2661\u3075\u305f\u308a\u306f\u30d7\u30ea\u30ad\u30e5\u30a2 \u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba\u30e1\u30e2\u30ea\u30fc\u30ba",
+                "title": "HUGtto! Precure\u2661Futari wa Precure: All Stars Memories",
+                "release_date": "2018-10-27",
+                "backdrop_path": "/cfTA2aepBesa1QgL1G3g6ytuFLR.jpg",
+                "poster_path": "/nJ5TxNLkIA3iOf8tzVHGkgBzjhq.jpg",
+                "overview": "A vengeful teru teru bozu-like monster called Miden is stealing all of the Cures' magical powers and memories, turning them into helpless infants, barring Nagisa Misumi and Hana Nono. They must help the affected Cures to regain their abilities and fight off this new menance.",
+                "vote_average": 6.3,
+                "vote_count": 13
+            },
+            "winner": false
+        },
+        {
+            "first_label": "I'll Fight",
+            "second_label": "from RBG; Music and Lyric by Diane Warren",
+            "category": "Music (Original Song)",
+            "year": 2019,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Place Where Lost Things Go",
+            "second_label": "from Mary Poppins Returns; Music by Marc Shaiman; Lyric by Scott Wittman and Marc Shaiman",
+            "category": "Music (Original Song)",
+            "year": 2019,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "When A Cowboy Trades His Spurs For Wings",
+            "second_label": "from The Ballad of Buster Scruggs; Music and Lyric by Gillian Welch and David Rawlings",
+            "category": "Music (Original Song)",
+            "year": 2019,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Best Picture": [
+        {
+            "first_label": "Green Book",
+            "second_label": "Jim Burke, Charles B. Wessler, Brian Currie, Peter Farrelly and Nick Vallelonga, Producers",
+            "category": "Best Picture",
+            "year": 2019,
+            "tmdb": {
+                "id": 490132,
+                "original_title": "Green Book",
+                "title": "Green Book: O Guia",
+                "release_date": "2018-11-16",
+                "backdrop_path": "/5En0fmDagt3Pk8d7P3uTwfeQceg.jpg",
+                "poster_path": "/u9dldwRwQjTZGlIxKaAtAPLAjOv.jpg",
+                "overview": "Quando Tony Lip, um seguran\u00e7a \u00edtalo-americano, \u00e9 contratado como motorista do Dr. Don Shirley, um pianista negro de classe alta, durante uma turn\u00ea pelo sul dos Estados Unidos, eles devem seguir o \"O Guia\" para leva-los aos poucos estabelecimentos que eram seguros para os afro-americanos. Confrontados com o racismo, o perigo, assim como pela humanidade e o humor inesperados, eles s\u00e3o for\u00e7ados a deixar de lado as diferen\u00e7as para sobreviver e prosperar nessa jornada.",
+                "vote_average": 8.2,
+                "vote_count": 11016
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Black Panther",
+            "second_label": "Kevin Feige, Producer",
+            "category": "Best Picture",
+            "year": 2019,
+            "tmdb": {
+                "id": 284054,
+                "original_title": "Black Panther",
+                "title": "Pantera Negra",
+                "release_date": "2018-02-13",
+                "backdrop_path": "/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
+                "poster_path": "/9D40jv8pi9uKnrVDPiN3JYYad72.jpg",
+                "overview": "O pr\u00edncipe T'Challa retorna a Wakanda para ser coroado rei. Assumindo o manto de Pantera Negra, ele vai \u00e0 ca\u00e7a de um vil\u00e3o que roubou um precioso metal de seu pa\u00eds.",
+                "vote_average": 7.386,
+                "vote_count": 21528
+            },
+            "winner": false
+        },
+        {
+            "first_label": "BlacKkKlansman",
+            "second_label": "Sean McKittrick, Jason Blum, Raymond Mansfield, Jordan Peele and Spike Lee, Producers",
+            "category": "Best Picture",
+            "year": 2019,
+            "tmdb": {
+                "id": 487558,
+                "original_title": "BlacKkKlansman",
+                "title": "Infiltrado Na Klan",
+                "release_date": "2018-08-09",
+                "backdrop_path": "/ot3eZ9XfOF42a3zFWluMPWkfCHB.jpg",
+                "poster_path": "/iqP3m9EdoDvSzi6lPMmpjOX6vLY.jpg",
+                "overview": "Em 1978, Ron Stallworth, um policial negro do Colorado, conseguiu se infiltrar na Ku Klux Klan local. Ele se comunicava com os outros membros do grupo atrav\u00e9s de telefonemas e cartas, quando precisava estar fisicamente presente enviava um outro policial branco no seu lugar. Depois de meses de investiga\u00e7\u00e3o, Ron se tornou o l\u00edder da seita, sendo respons\u00e1vel por sabotar uma s\u00e9rie de linchamentos e outros crimes de \u00f3dio orquestrados pelos racistas.",
+                "vote_average": 7.517,
+                "vote_count": 7261
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Bohemian Rhapsody",
+            "second_label": "Graham King, Producer",
+            "category": "Best Picture",
+            "year": 2019,
+            "tmdb": {
+                "id": 424694,
+                "original_title": "Bohemian Rhapsody",
+                "title": "Bohemian Rhapsody",
+                "release_date": "2018-10-24",
+                "backdrop_path": "/dcvbs8z0GEXslC1kCT77x19XDeR.jpg",
+                "poster_path": "/qxgdqcxI216kEoypGbA9BemB7mW.jpg",
+                "overview": "Freddie Mercury e seus companheiros Brian May, Roger Taylor e John Deacon mudam o mundo da m\u00fasica para sempre ao formar a banda Queen, durante a d\u00e9cada de 1970. Por\u00e9m, quando o estilo de vida extravagante de Mercury come\u00e7a a sair do controle, a banda tem que enfrentar o desafio de conciliar a fama e o sucesso com suas vidas pessoais cada vez mais complicadas.",
+                "vote_average": 7.988,
+                "vote_count": 16373
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Favourite",
+            "second_label": "Ceci Dempsey, Ed Guiney, Lee Magiday and Yorgos Lanthimos, Producers",
+            "category": "Best Picture",
+            "year": 2019,
+            "tmdb": {
+                "id": 375262,
+                "original_title": "The Favourite",
+                "title": "A Favorita",
+                "release_date": "2018-11-23",
+                "backdrop_path": "/ph5fElfh4U7O3jwhFljxz2LDp1l.jpg",
+                "poster_path": "/gbpKBgFRQpCi0dIU9Vyh4ZV4DvE.jpg",
+                "overview": "Na Inglaterra do s\u00e9culo XVIII, Sarah Churchill, a Duquesa de Marlborough (Rachel Weisz) exerce sua influ\u00eancia na corte como confidente, conselheira e amante secreta da Rainha Ana (Olivia Colman). Seu posto privilegiado, no entanto, \u00e9 amea\u00e7ado pela chegada de Abigail (Emma Stone), nova criada que logo se torna a queridinha da majestade e agarra com unhas e dentes a oportunidade \u00fanica.",
+                "vote_average": 7.519,
+                "vote_count": 5197
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Roma",
+            "second_label": "Gabriela Rodrguez and Alfonso Cuarn, Producers",
+            "category": "Best Picture",
+            "year": 2019,
+            "tmdb": {
+                "id": 426426,
+                "original_title": "Roma",
+                "title": "Roma",
+                "release_date": "2018-08-25",
+                "backdrop_path": "/zl9uqCl5iUSb50sTk2BPzw6bJnU.jpg",
+                "poster_path": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+                "overview": "Na d\u00e9cada de 1970, uma jovem trabalhadora dom\u00e9stica ind\u00edgena Cleodegaria \"Cleo\" Guti\u00e9rrez trabalha para uma fam\u00edlia abastada de classe m\u00e9dia do bairro de Roma, Cidade do M\u00e9xico. \u00c0 medida que as lutas dom\u00e9sticas e as restri\u00e7\u00f5es da hierarquia social se desdobram em meio a um pano de fundo de poderosos terremotos, revoltas estudantis e agita\u00e7\u00e3o pol\u00edtica, a fam\u00edlia luta para permanecer unida enquanto essas for\u00e7as amea\u00e7am separ\u00e1-los.",
+                "vote_average": 7.663,
+                "vote_count": 3795
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Star Is Born",
+            "second_label": "Bill Gerber, Bradley Cooper and Lynette Howell Taylor, Producers",
+            "category": "Best Picture",
+            "year": 2019,
+            "tmdb": {
+                "id": 332562,
+                "original_title": "A Star Is Born",
+                "title": "Nasce uma Estrela",
+                "release_date": "2018-10-03",
+                "backdrop_path": "/dDYpjrwh1wNVQk0rEpc9P81wQt4.jpg",
+                "poster_path": "/d8CNgb0AtZz7CSORffdwODK66iK.jpg",
+                "overview": "Um m\u00fasico ajuda uma jovem cantora a encontrar fama quando a idade e o alcoolismo enviam sua pr\u00f3pria carreira para uma espiral descendente.",
+                "vote_average": 7.5,
+                "vote_count": 11348
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Vice",
+            "second_label": "Dede Gardner, Jeremy Kleiner, Adam McKay and Kevin Messick, Producers",
+            "category": "Best Picture",
+            "year": 2019,
+            "tmdb": {
+                "id": 429197,
+                "original_title": "Vice",
+                "title": "O Vice",
+                "release_date": "2018-12-25",
+                "backdrop_path": "/aHcNu3tYihvkL45CrXTFY4YfrfF.jpg",
+                "poster_path": "/n1XcudR8wfo7KMtJ7eygAyEkJLx.jpg",
+                "overview": "Acompanhe a ascens\u00e3o de Dick Cheney ao se tornar um dos homens mais poderoso do mundo. Vice-presidente de George W. Bush, ele remodelou os Estados Unidos e o mundo, gerando mudan\u00e7as que permanecem at\u00e9 os dias de hoje.",
+                "vote_average": 7.0,
+                "vote_count": 3194
+            },
+            "winner": false
+        }
+    ],
+    "Production Design": [
+        {
+            "first_label": "Black Panther",
+            "second_label": "Production Design: Hannah Beachler; Set Decoration: Jay Hart",
+            "category": "Production Design",
+            "year": 2019,
+            "tmdb": {
+                "id": 284054,
+                "original_title": "Black Panther",
+                "title": "Pantera Negra",
+                "release_date": "2018-02-13",
+                "backdrop_path": "/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
+                "poster_path": "/9D40jv8pi9uKnrVDPiN3JYYad72.jpg",
+                "overview": "O pr\u00edncipe T'Challa retorna a Wakanda para ser coroado rei. Assumindo o manto de Pantera Negra, ele vai \u00e0 ca\u00e7a de um vil\u00e3o que roubou um precioso metal de seu pa\u00eds.",
+                "vote_average": 7.386,
+                "vote_count": 21528
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Favourite",
+            "second_label": "Production Design: Fiona Crombie; Set Decoration: Alice Felton",
+            "category": "Production Design",
+            "year": 2019,
+            "tmdb": {
+                "id": 375262,
+                "original_title": "The Favourite",
+                "title": "A Favorita",
+                "release_date": "2018-11-23",
+                "backdrop_path": "/ph5fElfh4U7O3jwhFljxz2LDp1l.jpg",
+                "poster_path": "/gbpKBgFRQpCi0dIU9Vyh4ZV4DvE.jpg",
+                "overview": "Na Inglaterra do s\u00e9culo XVIII, Sarah Churchill, a Duquesa de Marlborough (Rachel Weisz) exerce sua influ\u00eancia na corte como confidente, conselheira e amante secreta da Rainha Ana (Olivia Colman). Seu posto privilegiado, no entanto, \u00e9 amea\u00e7ado pela chegada de Abigail (Emma Stone), nova criada que logo se torna a queridinha da majestade e agarra com unhas e dentes a oportunidade \u00fanica.",
+                "vote_average": 7.519,
+                "vote_count": 5197
+            },
+            "winner": false
+        },
+        {
+            "first_label": "First Man",
+            "second_label": "Production Design: Nathan Crowley; Set Decoration: Kathy Lucas",
+            "category": "Production Design",
+            "year": 2019,
+            "tmdb": {
+                "id": 369972,
+                "original_title": "First Man",
+                "title": "O Primeiro Homem",
+                "release_date": "2018-10-10",
+                "backdrop_path": "/jrudoaXcoLyHRPdolyOGemXgPEs.jpg",
+                "poster_path": "/bRQ0CKECt5B3aE8YqW9r6DvaxRY.jpg",
+                "overview": "A vida do astronauta norte-americano Neil Armstrong e sua jornada para se tornar o primeiro homem a andar na Lua. Os sacrif\u00edcios e custos de Neil e toda uma na\u00e7\u00e3o durante uma das mais perigosas miss\u00f5es na hist\u00f3ria das viagens espaciais.",
+                "vote_average": 7.0,
+                "vote_count": 5043
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mary Poppins Returns",
+            "second_label": "Production Design: John Myhre; Set Decoration: Gordon Sim",
+            "category": "Production Design",
+            "year": 2019,
+            "tmdb": {
+                "id": 400650,
+                "original_title": "Mary Poppins Returns",
+                "title": "O Retorno de Mary Poppins",
+                "release_date": "2018-12-13",
+                "backdrop_path": "/oGzToOBTRdXVOrHj8r0VgK3d2sU.jpg",
+                "poster_path": "/8g1P4sxOitwFaf3UBeT8n4F5sBy.jpg",
+                "overview": "Numa Londres abalada pela Grande Depress\u00e3o, Mary Poppins (Emily Blunt) desce dos c\u00e9us novamente com seu fiel amigo Jack (Lin-Manuel Miranda) para ajudar Michael (Ben Whishaw) e Jane Banks (Emily Mortimer), agora adultos trabalhadores, que sofreram uma perda pessoal. As crian\u00e7as Annabel (Pixie Davies), Georgie (Joel Dawson) e John (Nathanael Saleh) vivem com os pais na mesma casa de 24 anos atr\u00e1s e precisam da bab\u00e1 enigm\u00e1tica e do acendedor de lampi\u00f5es otimista para trazer alegria e magia de volta para suas vidas.",
+                "vote_average": 6.5,
+                "vote_count": 3194
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Roma",
+            "second_label": "Production Design: Eugenio Caballero; Set Decoration: Ba\u0301rbara Enri\u0301quez",
+            "category": "Production Design",
+            "year": 2019,
+            "tmdb": {
+                "id": 426426,
+                "original_title": "Roma",
+                "title": "Roma",
+                "release_date": "2018-08-25",
+                "backdrop_path": "/zl9uqCl5iUSb50sTk2BPzw6bJnU.jpg",
+                "poster_path": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+                "overview": "Na d\u00e9cada de 1970, uma jovem trabalhadora dom\u00e9stica ind\u00edgena Cleodegaria \"Cleo\" Guti\u00e9rrez trabalha para uma fam\u00edlia abastada de classe m\u00e9dia do bairro de Roma, Cidade do M\u00e9xico. \u00c0 medida que as lutas dom\u00e9sticas e as restri\u00e7\u00f5es da hierarquia social se desdobram em meio a um pano de fundo de poderosos terremotos, revoltas estudantis e agita\u00e7\u00e3o pol\u00edtica, a fam\u00edlia luta para permanecer unida enquanto essas for\u00e7as amea\u00e7am separ\u00e1-los.",
+                "vote_average": 7.663,
+                "vote_count": 3795
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Animated)": [
+        {
+            "first_label": "Bao",
+            "second_label": "Domee Shi and Becky Neiman-Cobb",
+            "category": "Short Film (Animated)",
+            "year": 2019,
+            "tmdb": {
+                "id": 514754,
+                "original_title": "Bao",
+                "title": "Bao",
+                "release_date": "2018-06-15",
+                "backdrop_path": "/cm915y7fpHTePgMeeb1z1qK87qm.jpg",
+                "poster_path": "/tKz7XRXvdy1i7pW4eotaWZSrAx2.jpg",
+                "overview": "Uma m\u00e3e chinesa que fica triste quando seu filho sai de casa tem outra chance de maternidade quando um de seus bolinhos ganha a vida como um menino de bolinho de massa animado e risadinhas. A m\u00e3e animada parabeniza-se com este novo pacote de alegria em sua vida, mas o bolinho de massa come\u00e7a a crescer rapidamente, e a m\u00e3e deve adotar a verdade agridoce que nada permanece bonito e pequeno para sempre.",
+                "vote_average": 7.579,
+                "vote_count": 1136
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Animal Behaviour",
+            "second_label": "Alison Snowden and David Fine",
+            "category": "Short Film (Animated)",
+            "year": 2019,
+            "tmdb": {
+                "id": 511138,
+                "original_title": "Animal Behaviour",
+                "title": "Comportamento Animal",
+                "release_date": "2018-06-04",
+                "backdrop_path": "/tonBjEWI58frnenVLZpYaPnToxb.jpg",
+                "poster_path": "/d2FIQHsKk7yOe43TamXI7zfNxBj.jpg",
+                "overview": "Cinco animais se re\u00fanem regularmente para discutir suas ang\u00fastias em uma sess\u00e3o de terapia em grupo liderada pelo Dr. Clement, um psicoterapeuta canino. O grupo inclui Lorraine, um sanguessuga que sofre de ansiedade de separa\u00e7\u00e3o; Cheryl, uma louva-a-deus que parece n\u00e3o conseguir manter um homem; Todd, um porco com um dist\u00farbio alimentar; Jeffrey, um p\u00e1ssaro com problemas de culpa; e Linda, uma gata obsessiva-compulsiva.",
+                "vote_average": 6.3,
+                "vote_count": 85
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Late Afternoon",
+            "second_label": "Louise Bagnall and Nuria Gonzlez Blanco",
+            "category": "Short Film (Animated)",
+            "year": 2019,
+            "tmdb": {
+                "id": 500688,
+                "original_title": "Late Afternoon",
+                "title": "Late Afternoon",
+                "release_date": "2019-02-08",
+                "backdrop_path": "/4OzsKsBPYaO1lgJi1wnLDOe0Gkt.jpg",
+                "poster_path": "/eMoFkyeFnsquIOgEAtzm4vuvR7s.jpg",
+                "overview": "Uma mulher idosa volta atrav\u00e9s de suas mem\u00f3rias. Ela existe entre dois estados, o passado e o presente.",
+                "vote_average": 7.4,
+                "vote_count": 73
+            },
+            "winner": false
+        },
+        {
+            "first_label": "One Small Step",
+            "second_label": "Andrew Chesworth and Bobby Pontillas",
+            "category": "Short Film (Animated)",
+            "year": 2019,
+            "tmdb": {
+                "id": 549484,
+                "original_title": "One Small Step",
+                "title": "One Small Step",
+                "release_date": "2018-06-25",
+                "backdrop_path": "/hRiQSKdb6hDxsINsMXKTKNjj9GJ.jpg",
+                "poster_path": "/4O13uunA2LmNvHpr7PjTCDUmSZ1.jpg",
+                "overview": "Luna \u00e9 uma vibrante jovem americana chinesa que sonha em se tornar uma astronauta. Desde o dia em que ela testemunha um foguete se lan\u00e7ando ao espa\u00e7o na TV, Luna \u00e9 levada a alcan\u00e7ar as estrelas. Na cidade grande, Luna vive com seu pai amoroso Chu, que a ap\u00f3ia com seu humilde neg\u00f3cio; conserto de sapatos. Luna cresce, ela entra na faculdade, e vai enfrentar adversidades de todos os tipos em busca de seus sonhos.",
+                "vote_average": 7.6,
+                "vote_count": 135
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Weekends",
+            "second_label": "Trevor Jimenez",
+            "category": "Short Film (Animated)",
+            "year": 2019,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Live Action)": [
+        {
+            "first_label": "Skin",
+            "second_label": "Guy Nattiv and Jaime Ray Newman",
+            "category": "Short Film (Live Action)",
+            "year": 2019,
+            "tmdb": {
+                "id": 542417,
+                "original_title": "Skin",
+                "title": "Skin: \u00c0 Flor da Pele",
+                "release_date": "2019-07-26",
+                "backdrop_path": "/etyZEgWCf46AzKKDMQcLoiYKwec.jpg",
+                "poster_path": "/9hZpYaQifrepZfR3X1KjnhvFKlA.jpg",
+                "overview": "Bryon Widner \u00e9 um jovem homem que foi criado por skinheads not\u00f3rios na comunidade de supremacia branca. Decidido em mudar sua vida, ele vira as costas para todo o \u00f3dio e a viol\u00eancia que foi ensinado, com a ajuda de um ativista de direitos negros.",
+                "vote_average": 7.0,
+                "vote_count": 374
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Detainment",
+            "second_label": "Vincent Lambe and Darren Mahon",
+            "category": "Short Film (Live Action)",
+            "year": 2019,
+            "tmdb": {
+                "id": 569499,
+                "original_title": "Detainment",
+                "title": "Deten\u00e7\u00e3o",
+                "release_date": "2018-05-30",
+                "backdrop_path": "/hdkdmyFeg9he75bu1z6r5iJlMQd.jpg",
+                "poster_path": "/38Ghd998TnrJOiyv7GK6xiTz8U7.jpg",
+                "overview": "Dois garotos de dez anos s\u00e3o detidos pela pol\u00edcia como suspeitos do sequestro e assassinato de uma crian\u00e7a. Uma hist\u00f3ria real baseada nas transcri\u00e7\u00f5es de entrevistas e grava\u00e7\u00f5es do caso James Bulger, que chocou o mundo em 1993.",
+                "vote_average": 6.6,
+                "vote_count": 91
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Fauve",
+            "second_label": "Jeremy Comte and Maria Gracia Turgeon",
+            "category": "Short Film (Live Action)",
+            "year": 2019,
+            "tmdb": {
+                "id": 504969,
+                "original_title": "Fauve",
+                "title": "Fera",
+                "release_date": "2018-01-18",
+                "backdrop_path": "/yPDfPFNtJnoKHhw1pH5zwXrdUR3.jpg",
+                "poster_path": "/5VwI3q1AOxaCRMmMJ0ypV54IpJi.jpg",
+                "overview": "Em uma mina a c\u00e9u aberto, dois meninos se enfrentam em um jogo de poder perverso, com a natureza como \u00fanica testemunha.",
+                "vote_average": 7.6,
+                "vote_count": 126
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Marguerite",
+            "second_label": "Marianne Farley and Marie-Hlne Panisset",
+            "category": "Short Film (Live Action)",
+            "year": 2019,
+            "tmdb": {
+                "id": 487625,
+                "original_title": "Marguerite",
+                "title": "Marguerite",
+                "release_date": "2017-11-12",
+                "backdrop_path": "/iZvzwN6FGhyFFuTc28N0C9PHzoQ.jpg",
+                "poster_path": "/4gsaXWy2gVfy6sBaHgAdaLtaZvF.jpg",
+                "overview": "An aging woman and her nurse develop a friendship that inspires her to unearth unacknowledged longing and thus help her make peace with her past.",
+                "vote_average": 6.9,
+                "vote_count": 51
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mother",
+            "second_label": "Rodrigo Sorogoyen and Mara del Puy Alvarado",
+            "category": "Short Film (Live Action)",
+            "year": 2019,
+            "tmdb": {
+                "id": 381283,
+                "original_title": "mother!",
+                "title": "m\u00e3e!",
+                "release_date": "2017-09-13",
+                "backdrop_path": "/z5q5X3QUBW4W2SaprgPsWCnI6GJ.jpg",
+                "poster_path": "/pqLqxCcFqifgNIFTjDsPVLkfkdu.jpg",
+                "overview": "Um casal vive em um imenso casar\u00e3o no campo. Enquanto a jovem esposa passa os dias restaurando o lugar, afetado por um inc\u00eandio no passado, o marido mais velho tenta desesperadamente recuperar a inspira\u00e7\u00e3o para voltar a escrever os poemas que o tornaram famoso. Os dias pac\u00edficos se transformam com a chegada de visitantes que se imp\u00f5em \u00e0 rotina do casal e escondem suas verdadeiras inten\u00e7\u00f5es.",
+                "vote_average": 6.97,
+                "vote_count": 6444
+            },
+            "winner": false
+        }
+    ],
+    "Sound Editing": [
+        {
+            "first_label": "Bohemian Rhapsody",
+            "second_label": "John Warhurst and Nina Hartstone",
+            "category": "Sound Editing",
+            "year": 2019,
+            "tmdb": {
+                "id": 424694,
+                "original_title": "Bohemian Rhapsody",
+                "title": "Bohemian Rhapsody",
+                "release_date": "2018-10-24",
+                "backdrop_path": "/dcvbs8z0GEXslC1kCT77x19XDeR.jpg",
+                "poster_path": "/qxgdqcxI216kEoypGbA9BemB7mW.jpg",
+                "overview": "Freddie Mercury e seus companheiros Brian May, Roger Taylor e John Deacon mudam o mundo da m\u00fasica para sempre ao formar a banda Queen, durante a d\u00e9cada de 1970. Por\u00e9m, quando o estilo de vida extravagante de Mercury come\u00e7a a sair do controle, a banda tem que enfrentar o desafio de conciliar a fama e o sucesso com suas vidas pessoais cada vez mais complicadas.",
+                "vote_average": 7.988,
+                "vote_count": 16373
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Black Panther",
+            "second_label": "Benjamin A. Burtt and Steve Boeddeker",
+            "category": "Sound Editing",
+            "year": 2019,
+            "tmdb": {
+                "id": 284054,
+                "original_title": "Black Panther",
+                "title": "Pantera Negra",
+                "release_date": "2018-02-13",
+                "backdrop_path": "/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
+                "poster_path": "/9D40jv8pi9uKnrVDPiN3JYYad72.jpg",
+                "overview": "O pr\u00edncipe T'Challa retorna a Wakanda para ser coroado rei. Assumindo o manto de Pantera Negra, ele vai \u00e0 ca\u00e7a de um vil\u00e3o que roubou um precioso metal de seu pa\u00eds.",
+                "vote_average": 7.386,
+                "vote_count": 21528
+            },
+            "winner": false
+        },
+        {
+            "first_label": "First Man",
+            "second_label": "Ai-Ling Lee and Mildred Iatrou Morgan",
+            "category": "Sound Editing",
+            "year": 2019,
+            "tmdb": {
+                "id": 369972,
+                "original_title": "First Man",
+                "title": "O Primeiro Homem",
+                "release_date": "2018-10-10",
+                "backdrop_path": "/jrudoaXcoLyHRPdolyOGemXgPEs.jpg",
+                "poster_path": "/bRQ0CKECt5B3aE8YqW9r6DvaxRY.jpg",
+                "overview": "A vida do astronauta norte-americano Neil Armstrong e sua jornada para se tornar o primeiro homem a andar na Lua. Os sacrif\u00edcios e custos de Neil e toda uma na\u00e7\u00e3o durante uma das mais perigosas miss\u00f5es na hist\u00f3ria das viagens espaciais.",
+                "vote_average": 7.0,
+                "vote_count": 5043
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Quiet Place",
+            "second_label": "Ethan Van der Ryn and Erik Aadahl",
+            "category": "Sound Editing",
+            "year": 2019,
+            "tmdb": {
+                "id": 447332,
+                "original_title": "A Quiet Place",
+                "title": "Um Lugar Silencioso",
+                "release_date": "2018-04-03",
+                "backdrop_path": "/roYyPiQDQKmIKUEhO912693tSja.jpg",
+                "poster_path": "/eUmlIbsCQKQ7G5VxDn8A6PVElY7.jpg",
+                "overview": "Em uma fazenda dos Estados Unidos, uma fam\u00edlia do meio-oeste \u00e9 perseguida por uma entidade fantasmag\u00f3rica assustadora. Para se protegerem, eles devem permanecer em sil\u00eancio absoluto, a qualquer custo, pois o perigo \u00e9 ativado pela percep\u00e7\u00e3o do som.",
+                "vote_average": 7.4,
+                "vote_count": 13467
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Roma",
+            "second_label": "Sergio Daz and Skip Lievsay",
+            "category": "Sound Editing",
+            "year": 2019,
+            "tmdb": {
+                "id": 426426,
+                "original_title": "Roma",
+                "title": "Roma",
+                "release_date": "2018-08-25",
+                "backdrop_path": "/zl9uqCl5iUSb50sTk2BPzw6bJnU.jpg",
+                "poster_path": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+                "overview": "Na d\u00e9cada de 1970, uma jovem trabalhadora dom\u00e9stica ind\u00edgena Cleodegaria \"Cleo\" Guti\u00e9rrez trabalha para uma fam\u00edlia abastada de classe m\u00e9dia do bairro de Roma, Cidade do M\u00e9xico. \u00c0 medida que as lutas dom\u00e9sticas e as restri\u00e7\u00f5es da hierarquia social se desdobram em meio a um pano de fundo de poderosos terremotos, revoltas estudantis e agita\u00e7\u00e3o pol\u00edtica, a fam\u00edlia luta para permanecer unida enquanto essas for\u00e7as amea\u00e7am separ\u00e1-los.",
+                "vote_average": 7.663,
+                "vote_count": 3795
+            },
+            "winner": false
+        }
+    ],
+    "Sound Mixing": [
+        {
+            "first_label": "Bohemian Rhapsody",
+            "second_label": "Paul Massey, Tim Cavagin and John Casali",
+            "category": "Sound Mixing",
+            "year": 2019,
+            "tmdb": {
+                "id": 424694,
+                "original_title": "Bohemian Rhapsody",
+                "title": "Bohemian Rhapsody",
+                "release_date": "2018-10-24",
+                "backdrop_path": "/dcvbs8z0GEXslC1kCT77x19XDeR.jpg",
+                "poster_path": "/qxgdqcxI216kEoypGbA9BemB7mW.jpg",
+                "overview": "Freddie Mercury e seus companheiros Brian May, Roger Taylor e John Deacon mudam o mundo da m\u00fasica para sempre ao formar a banda Queen, durante a d\u00e9cada de 1970. Por\u00e9m, quando o estilo de vida extravagante de Mercury come\u00e7a a sair do controle, a banda tem que enfrentar o desafio de conciliar a fama e o sucesso com suas vidas pessoais cada vez mais complicadas.",
+                "vote_average": 7.988,
+                "vote_count": 16373
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Black Panther",
+            "second_label": "Steve Boeddeker, Brandon Proctor and Peter Devlin",
+            "category": "Sound Mixing",
+            "year": 2019,
+            "tmdb": {
+                "id": 284054,
+                "original_title": "Black Panther",
+                "title": "Pantera Negra",
+                "release_date": "2018-02-13",
+                "backdrop_path": "/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
+                "poster_path": "/9D40jv8pi9uKnrVDPiN3JYYad72.jpg",
+                "overview": "O pr\u00edncipe T'Challa retorna a Wakanda para ser coroado rei. Assumindo o manto de Pantera Negra, ele vai \u00e0 ca\u00e7a de um vil\u00e3o que roubou um precioso metal de seu pa\u00eds.",
+                "vote_average": 7.386,
+                "vote_count": 21528
+            },
+            "winner": false
+        },
+        {
+            "first_label": "First Man",
+            "second_label": "Jon Taylor, Frank A. Montao, Ai-Ling Lee and Mary H. Ellis",
+            "category": "Sound Mixing",
+            "year": 2019,
+            "tmdb": {
+                "id": 369972,
+                "original_title": "First Man",
+                "title": "O Primeiro Homem",
+                "release_date": "2018-10-10",
+                "backdrop_path": "/jrudoaXcoLyHRPdolyOGemXgPEs.jpg",
+                "poster_path": "/bRQ0CKECt5B3aE8YqW9r6DvaxRY.jpg",
+                "overview": "A vida do astronauta norte-americano Neil Armstrong e sua jornada para se tornar o primeiro homem a andar na Lua. Os sacrif\u00edcios e custos de Neil e toda uma na\u00e7\u00e3o durante uma das mais perigosas miss\u00f5es na hist\u00f3ria das viagens espaciais.",
+                "vote_average": 7.0,
+                "vote_count": 5043
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Roma",
+            "second_label": "Skip Lievsay, Craig Henighan and Jos Antonio Garca",
+            "category": "Sound Mixing",
+            "year": 2019,
+            "tmdb": {
+                "id": 426426,
+                "original_title": "Roma",
+                "title": "Roma",
+                "release_date": "2018-08-25",
+                "backdrop_path": "/zl9uqCl5iUSb50sTk2BPzw6bJnU.jpg",
+                "poster_path": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+                "overview": "Na d\u00e9cada de 1970, uma jovem trabalhadora dom\u00e9stica ind\u00edgena Cleodegaria \"Cleo\" Guti\u00e9rrez trabalha para uma fam\u00edlia abastada de classe m\u00e9dia do bairro de Roma, Cidade do M\u00e9xico. \u00c0 medida que as lutas dom\u00e9sticas e as restri\u00e7\u00f5es da hierarquia social se desdobram em meio a um pano de fundo de poderosos terremotos, revoltas estudantis e agita\u00e7\u00e3o pol\u00edtica, a fam\u00edlia luta para permanecer unida enquanto essas for\u00e7as amea\u00e7am separ\u00e1-los.",
+                "vote_average": 7.663,
+                "vote_count": 3795
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Star Is Born",
+            "second_label": "Tom Ozanich, Dean Zupancic, Jason Ruder and Steve Morrow",
+            "category": "Sound Mixing",
+            "year": 2019,
+            "tmdb": {
+                "id": 332562,
+                "original_title": "A Star Is Born",
+                "title": "Nasce uma Estrela",
+                "release_date": "2018-10-03",
+                "backdrop_path": "/dDYpjrwh1wNVQk0rEpc9P81wQt4.jpg",
+                "poster_path": "/d8CNgb0AtZz7CSORffdwODK66iK.jpg",
+                "overview": "Um m\u00fasico ajuda uma jovem cantora a encontrar fama quando a idade e o alcoolismo enviam sua pr\u00f3pria carreira para uma espiral descendente.",
+                "vote_average": 7.5,
+                "vote_count": 11348
+            },
+            "winner": false
+        }
+    ],
+    "Visual Effects": [
+        {
+            "first_label": "First Man",
+            "second_label": "Paul Lambert, Ian Hunter, Tristan Myles and J.D. Schwalm",
+            "category": "Visual Effects",
+            "year": 2019,
+            "tmdb": {
+                "id": 369972,
+                "original_title": "First Man",
+                "title": "O Primeiro Homem",
+                "release_date": "2018-10-10",
+                "backdrop_path": "/jrudoaXcoLyHRPdolyOGemXgPEs.jpg",
+                "poster_path": "/bRQ0CKECt5B3aE8YqW9r6DvaxRY.jpg",
+                "overview": "A vida do astronauta norte-americano Neil Armstrong e sua jornada para se tornar o primeiro homem a andar na Lua. Os sacrif\u00edcios e custos de Neil e toda uma na\u00e7\u00e3o durante uma das mais perigosas miss\u00f5es na hist\u00f3ria das viagens espaciais.",
+                "vote_average": 7.0,
+                "vote_count": 5043
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Avengers: Infinity War",
+            "second_label": "Dan DeLeeuw, Kelly Port, Russell Earl and Dan Sudick",
+            "category": "Visual Effects",
+            "year": 2019,
+            "tmdb": {
+                "id": 299536,
+                "original_title": "Avengers: Infinity War",
+                "title": "Vingadores: Guerra Infinita",
+                "release_date": "2018-04-25",
+                "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+                "poster_path": "/A4kvp7vY1BDLrrQIagRCffLKj1t.jpg",
+                "overview": "Homem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mais poderoso, o maligno Thanos. Em uma miss\u00e3o para coletar todas as seis pedras infinitas, Thanos planeja us\u00e1-las para infligir sua vontade mal\u00e9fica sobre a realidade.",
+                "vote_average": 8.248,
+                "vote_count": 28663
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Christopher Robin",
+            "second_label": "Christopher Lawrence, Michael Eames, Theo Jones and Chris Corbould",
+            "category": "Visual Effects",
+            "year": 2019,
+            "tmdb": {
+                "id": 420814,
+                "original_title": "Christopher Robin",
+                "title": "Christopher Robin: Um Reencontro Inesquec\u00edvel",
+                "release_date": "2018-08-02",
+                "backdrop_path": "/y7N6wRWVLxtm7p9HPKZdmcFHIMQ.jpg",
+                "poster_path": "/zTlGXx2A1JwdaLvLQXmb0lYBdDt.jpg",
+                "overview": "Christopher Robin j\u00e1 n\u00e3o \u00e9 mais aquele jovem garoto que adorava embarcar em aventuras ao lado de Ursinho Pooh e outros ador\u00e1veis animais no Bosque dos 100 Acres. Agora um homem de neg\u00f3cios, ele cresceu e perdeu o rumo de sua vida, mas seus amigos de inf\u00e2ncia decidem entrar no mundo real para ajud\u00e1-lo a se lembrar que aquele am\u00e1vel e divertido menino ainda existe em algum lugar.",
+                "vote_average": 7.3,
+                "vote_count": 2609
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ready Player One",
+            "second_label": "Roger Guyett, Grady Cofer, Matthew E. Butler and David Shirk",
+            "category": "Visual Effects",
+            "year": 2019,
+            "tmdb": {
+                "id": 333339,
+                "original_title": "Ready Player One",
+                "title": "Jogador N\u00b0 1",
+                "release_date": "2018-03-28",
+                "backdrop_path": "/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg",
+                "poster_path": "/2LVitl8xzLi11ibfzgsmjGF6GGc.jpg",
+                "overview": "Num futuro dist\u00f3pico, situado em 2044, Wade Watts, como o resto da humanidade, prefere a realidade virtual do jogo OASIS ao mundo real. No jogo, seus usu\u00e1rios devem descobrir a chave de um quebra-cabe\u00e7a diab\u00f3lico, baseado na cultura do final do s\u00e9culo XX, para conquistar um pr\u00eamio de valor inestim\u00e1vel. Para venc\u00ea-lo, por\u00e9m, Watts ter\u00e1 de abandonar a exist\u00eancia virtual e ceder a uma vida de amor e realidade da qual sempre tentou fugir.",
+                "vote_average": 7.602,
+                "vote_count": 14943
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Solo: A Star Wars Story",
+            "second_label": "Rob Bredow, Patrick Tubach, Neal Scanlan and Dominic Tuohy",
+            "category": "Visual Effects",
+            "year": 2019,
+            "tmdb": {
+                "id": 348350,
+                "original_title": "Solo: A Star Wars Story",
+                "title": "Han Solo: Uma Hist\u00f3ria Star Wars",
+                "release_date": "2018-05-15",
+                "backdrop_path": "/hDvk6O2vehwsZBdNsMSGmAVdiUn.jpg",
+                "poster_path": "/jAMEX0syUh6sbjBiysibzrFpbo.jpg",
+                "overview": "Embarque na Millennium Falcon e viaje para uma gal\u00e1xia distante em uma nova aventura com o mais amado canalha da gal\u00e1xia. Atrav\u00e9s de uma s\u00e9rie de ousadas aventuras no obscuro e perigoso submundo do crime, Han Solo encontra seu poderoso futuro copiloto Chewbacca e encontra o famoso jogador Lando Calrissian, em uma jornada que definir\u00e1 o curso de um dos her\u00f3is mais improv\u00e1veis da saga Star Wars.",
+                "vote_average": 6.56,
+                "vote_count": 8163
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Adapted Screenplay)": [
+        {
+            "first_label": "BlacKkKlansman",
+            "second_label": "Written by Charlie Wachtel & David Rabinowitz and Kevin Willmott & Spike Lee",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2019,
+            "tmdb": {
+                "id": 487558,
+                "original_title": "BlacKkKlansman",
+                "title": "Infiltrado Na Klan",
+                "release_date": "2018-08-09",
+                "backdrop_path": "/ot3eZ9XfOF42a3zFWluMPWkfCHB.jpg",
+                "poster_path": "/iqP3m9EdoDvSzi6lPMmpjOX6vLY.jpg",
+                "overview": "Em 1978, Ron Stallworth, um policial negro do Colorado, conseguiu se infiltrar na Ku Klux Klan local. Ele se comunicava com os outros membros do grupo atrav\u00e9s de telefonemas e cartas, quando precisava estar fisicamente presente enviava um outro policial branco no seu lugar. Depois de meses de investiga\u00e7\u00e3o, Ron se tornou o l\u00edder da seita, sendo respons\u00e1vel por sabotar uma s\u00e9rie de linchamentos e outros crimes de \u00f3dio orquestrados pelos racistas.",
+                "vote_average": 7.517,
+                "vote_count": 7261
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Ballad of Buster Scruggs",
+            "second_label": "Written by Joel Coen & Ethan Coen",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2019,
+            "tmdb": {
+                "id": 537996,
+                "original_title": "The Ballad of Buster Scruggs",
+                "title": "A Balada de Buster Scruggs",
+                "release_date": "2018-11-09",
+                "backdrop_path": "/90kmxuSwU28dVy1ghVSHI4x1wb8.jpg",
+                "poster_path": "/nb4crpD43qLIlNj3k5mqC0izPCk.jpg",
+                "overview": "Os aclamados irm\u00e3os Joel e Ethan Coen idealizam uma antologia faroeste em seis segmentos focada na fronteira americana. Acompanhando de foras da lei, a colonizadores, at\u00e9 todo tipo de personalidade do velho oeste, essa s\u00e9rie de hist\u00f3rias vai desde profundas reflex\u00f5es at\u00e9 o mais completo absurdo.",
+                "vote_average": 7.1,
+                "vote_count": 3829
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Can You Ever Forgive Me?",
+            "second_label": "Screenplay by Nicole Holofcener and Jeff Whitty",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2019,
+            "tmdb": {
+                "id": 401847,
+                "original_title": "Can You Ever Forgive Me?",
+                "title": "Poderia Me Perdoar?",
+                "release_date": "2018-10-19",
+                "backdrop_path": "/shIOFWkjTn2NRvq5r4Mn2xLdZeJ.jpg",
+                "poster_path": "/5FcFLK1Cb4x3KDCjjpBPJuRWb7T.jpg",
+                "overview": "Passando por problemas financeiros, a jornalista Lee Israel decide forjar e vender cartas de personalidades j\u00e1 falecidas, um neg\u00f3cio criminoso que d\u00e1 muito certo. Quando as primeiras suspeitas come\u00e7am, para n\u00e3o parar de lucrar, ela modifica o esquema e passa a roubar os textos originais de arquivos e bibliotecas. Baseado em uma hist\u00f3ria real.",
+                "vote_average": 6.8,
+                "vote_count": 1206
+            },
+            "winner": false
+        },
+        {
+            "first_label": "If Beale Street Could Talk",
+            "second_label": "Written for the screen by Barry Jenkins",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2019,
+            "tmdb": {
+                "id": 465914,
+                "original_title": "If Beale Street Could Talk",
+                "title": "Se a Rua Beale Falasse",
+                "release_date": "2018-12-14",
+                "backdrop_path": "/kYmfmqmvJSPSdEwlsQZCi62sb1y.jpg",
+                "poster_path": "/4gbiabIdvVv3iZcpdZEqHtbe0aU.jpg",
+                "overview": "Tish est\u00e1 esperando um filho enquanto luta para livrar seu marido de uma acusa\u00e7\u00e3o criminal injusta e de subtextos racistas, a tempo de t\u00ea-lo em casa para o nascimento de seu beb\u00ea.",
+                "vote_average": 6.946,
+                "vote_count": 1078
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Star Is Born",
+            "second_label": "Screenplay by Eric Roth and Bradley Cooper & Will Fetters",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2019,
+            "tmdb": {
+                "id": 332562,
+                "original_title": "A Star Is Born",
+                "title": "Nasce uma Estrela",
+                "release_date": "2018-10-03",
+                "backdrop_path": "/dDYpjrwh1wNVQk0rEpc9P81wQt4.jpg",
+                "poster_path": "/d8CNgb0AtZz7CSORffdwODK66iK.jpg",
+                "overview": "Um m\u00fasico ajuda uma jovem cantora a encontrar fama quando a idade e o alcoolismo enviam sua pr\u00f3pria carreira para uma espiral descendente.",
+                "vote_average": 7.5,
+                "vote_count": 11348
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Original Screenplay)": [
+        {
+            "first_label": "Green Book",
+            "second_label": "Written by Nick Vallelonga, Brian Currie, Peter Farrelly",
+            "category": "Writing (Original Screenplay)",
+            "year": 2019,
+            "tmdb": {
+                "id": 490132,
+                "original_title": "Green Book",
+                "title": "Green Book: O Guia",
+                "release_date": "2018-11-16",
+                "backdrop_path": "/5En0fmDagt3Pk8d7P3uTwfeQceg.jpg",
+                "poster_path": "/u9dldwRwQjTZGlIxKaAtAPLAjOv.jpg",
+                "overview": "Quando Tony Lip, um seguran\u00e7a \u00edtalo-americano, \u00e9 contratado como motorista do Dr. Don Shirley, um pianista negro de classe alta, durante uma turn\u00ea pelo sul dos Estados Unidos, eles devem seguir o \"O Guia\" para leva-los aos poucos estabelecimentos que eram seguros para os afro-americanos. Confrontados com o racismo, o perigo, assim como pela humanidade e o humor inesperados, eles s\u00e3o for\u00e7ados a deixar de lado as diferen\u00e7as para sobreviver e prosperar nessa jornada.",
+                "vote_average": 8.2,
+                "vote_count": 11016
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Favourite",
+            "second_label": "Written by Deborah Davis and Tony McNamara",
+            "category": "Writing (Original Screenplay)",
+            "year": 2019,
+            "tmdb": {
+                "id": 375262,
+                "original_title": "The Favourite",
+                "title": "A Favorita",
+                "release_date": "2018-11-23",
+                "backdrop_path": "/ph5fElfh4U7O3jwhFljxz2LDp1l.jpg",
+                "poster_path": "/gbpKBgFRQpCi0dIU9Vyh4ZV4DvE.jpg",
+                "overview": "Na Inglaterra do s\u00e9culo XVIII, Sarah Churchill, a Duquesa de Marlborough (Rachel Weisz) exerce sua influ\u00eancia na corte como confidente, conselheira e amante secreta da Rainha Ana (Olivia Colman). Seu posto privilegiado, no entanto, \u00e9 amea\u00e7ado pela chegada de Abigail (Emma Stone), nova criada que logo se torna a queridinha da majestade e agarra com unhas e dentes a oportunidade \u00fanica.",
+                "vote_average": 7.519,
+                "vote_count": 5197
+            },
+            "winner": false
+        },
+        {
+            "first_label": "First Reformed",
+            "second_label": "Written by Paul Schrader",
+            "category": "Writing (Original Screenplay)",
+            "year": 2019,
+            "tmdb": {
+                "id": 458737,
+                "original_title": "First Reformed",
+                "title": "No Cora\u00e7\u00e3o da Escurid\u00e3o",
+                "release_date": "2018-05-18",
+                "backdrop_path": "/b5BLqJ6pqMtziBQFd89StwvE7D8.jpg",
+                "poster_path": "/AvmhdAZESEqdxTB1Vg5pxwdyn9c.jpg",
+                "overview": "O ex-militar capel\u00e3o Toller sofre pela perda do filho que ele encorajou a se alistar nas for\u00e7as armadas. Um outro desafio come\u00e7a quando ele faz amizade com a jovem paroquiana Mary e seu marido, que \u00e9 um ambientalista radical. Toller logo descobre segredos escondidos de sua igreja com rela\u00e7\u00e3o a empresas inescrupulosas.",
+                "vote_average": 6.997,
+                "vote_count": 1264
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Roma",
+            "second_label": "Written by Alfonso Cuarn",
+            "category": "Writing (Original Screenplay)",
+            "year": 2019,
+            "tmdb": {
+                "id": 426426,
+                "original_title": "Roma",
+                "title": "Roma",
+                "release_date": "2018-08-25",
+                "backdrop_path": "/zl9uqCl5iUSb50sTk2BPzw6bJnU.jpg",
+                "poster_path": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+                "overview": "Na d\u00e9cada de 1970, uma jovem trabalhadora dom\u00e9stica ind\u00edgena Cleodegaria \"Cleo\" Guti\u00e9rrez trabalha para uma fam\u00edlia abastada de classe m\u00e9dia do bairro de Roma, Cidade do M\u00e9xico. \u00c0 medida que as lutas dom\u00e9sticas e as restri\u00e7\u00f5es da hierarquia social se desdobram em meio a um pano de fundo de poderosos terremotos, revoltas estudantis e agita\u00e7\u00e3o pol\u00edtica, a fam\u00edlia luta para permanecer unida enquanto essas for\u00e7as amea\u00e7am separ\u00e1-los.",
+                "vote_average": 7.663,
+                "vote_count": 3795
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Vice",
+            "second_label": "Written by Adam McKay",
+            "category": "Writing (Original Screenplay)",
+            "year": 2019,
+            "tmdb": {
+                "id": 429197,
+                "original_title": "Vice",
+                "title": "O Vice",
+                "release_date": "2018-12-25",
+                "backdrop_path": "/aHcNu3tYihvkL45CrXTFY4YfrfF.jpg",
+                "poster_path": "/n1XcudR8wfo7KMtJ7eygAyEkJLx.jpg",
+                "overview": "Acompanhe a ascens\u00e3o de Dick Cheney ao se tornar um dos homens mais poderoso do mundo. Vice-presidente de George W. Bush, ele remodelou os Estados Unidos e o mundo, gerando mudan\u00e7as que permanecem at\u00e9 os dias de hoje.",
+                "vote_average": 7.0,
+                "vote_count": 3194
+            },
+            "winner": false
+        }
+    ]
+}

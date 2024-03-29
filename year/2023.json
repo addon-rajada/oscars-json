@@ -1,0 +1,2016 @@
+{
+    "Actor in a Leading Role": [
+        {
+            "first_label": "Brendan Fraser",
+            "second_label": "The Whale",
+            "category": "Actor in a Leading Role",
+            "year": 2023,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Austin Butler",
+            "second_label": "Elvis",
+            "category": "Actor in a Leading Role",
+            "year": 2023,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Colin Farrell",
+            "second_label": "The Banshees of Inisherin",
+            "category": "Actor in a Leading Role",
+            "year": 2023,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Paul Mescal",
+            "second_label": "Aftersun",
+            "category": "Actor in a Leading Role",
+            "year": 2023,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Bill Nighy",
+            "second_label": "Living",
+            "category": "Actor in a Leading Role",
+            "year": 2023,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Ke Huy Quan",
+            "second_label": "Everything Everywhere All at Once",
+            "category": "Actor in a Supporting Role",
+            "year": 2023,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Brendan Gleeson",
+            "second_label": "The Banshees of Inisherin",
+            "category": "Actor in a Supporting Role",
+            "year": 2023,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Brian Tyree Henry",
+            "second_label": "Causeway",
+            "category": "Actor in a Supporting Role",
+            "year": 2023,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Judd Hirsch",
+            "second_label": "The Fabelmans",
+            "category": "Actor in a Supporting Role",
+            "year": 2023,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Barry Keoghan",
+            "second_label": "The Banshees of Inisherin",
+            "category": "Actor in a Supporting Role",
+            "year": 2023,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Leading Role": [
+        {
+            "first_label": "Michelle Yeoh",
+            "second_label": "Everything Everywhere All at Once",
+            "category": "Actress in a Leading Role",
+            "year": 2023,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Cate Blanchett",
+            "second_label": "Tr",
+            "category": "Actress in a Leading Role",
+            "year": 2023,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ana de Armas",
+            "second_label": "Blonde",
+            "category": "Actress in a Leading Role",
+            "year": 2023,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Andrea Riseborough",
+            "second_label": "To Leslie",
+            "category": "Actress in a Leading Role",
+            "year": 2023,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Michelle Williams",
+            "second_label": "The Fabelmans",
+            "category": "Actress in a Leading Role",
+            "year": 2023,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Jamie Lee Curtis",
+            "second_label": "Everything Everywhere All at Once",
+            "category": "Actress in a Supporting Role",
+            "year": 2023,
+            "tmdb": {
+                "id": 930322,
+                "original_title": "Jamie Lee Curtis, un cri de libert\u00e9 \u00e0 Hollywood",
+                "title": "Jamie Lee Curtis : Hollywood Call of Freedom",
+                "release_date": "2022-10-28",
+                "backdrop_path": "/vjHyJJqDMq1r0yAq23iikDJhrfc.jpg",
+                "poster_path": "/u4JkkfV91oHcj5wKHwc8wbqfMI7.jpg",
+                "overview": "Heroine of the Halloween film series, or accomplice in a crazy scam in A Fish Called Wanda, Jamie Lee Curtis is, at 62, still as credible, funny, and a wildly free pop actress.",
+                "vote_average": 7.0,
+                "vote_count": 5
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Angela Bassett",
+            "second_label": "Black Panther: Wakanda Forever",
+            "category": "Actress in a Supporting Role",
+            "year": 2023,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hong Chau",
+            "second_label": "The Whale",
+            "category": "Actress in a Supporting Role",
+            "year": 2023,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Kerry Condon",
+            "second_label": "The Banshees of Inisherin",
+            "category": "Actress in a Supporting Role",
+            "year": 2023,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Stephanie Hsu",
+            "second_label": "Everything Everywhere All at Once",
+            "category": "Actress in a Supporting Role",
+            "year": 2023,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Animated Feature Film": [
+        {
+            "first_label": "Guillermo del Toro's Pinocchio",
+            "second_label": "Guillermo del Toro, Mark Gustafson, Gary Ungar and Alex Bulkley",
+            "category": "Animated Feature Film",
+            "year": 2023,
+            "tmdb": {
+                "id": 555604,
+                "original_title": "Guillermo del Toro's Pinocchio",
+                "title": "Pin\u00f3quio por Guillermo Del Toro",
+                "release_date": "2022-10-22",
+                "backdrop_path": "/e782pDRAlu4BG0ahd777n8zfPzZ.jpg",
+                "poster_path": "/x3IkO2sW4rSSVluFDz8isr6YDm8.jpg",
+                "overview": "Uma vers\u00e3o mais sombria do cl\u00e1ssico conto de fadas infantil, onde um boneco de madeira se transforma em um menino vivo de verdade.",
+                "vote_average": 8.119,
+                "vote_count": 2709
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Marcel the Shell with Shoes On",
+            "second_label": "Dean Fleischer Camp, Elisabeth Holm, Andrew Goldman, Caroline Kaplan and Paul Mezey",
+            "category": "Animated Feature Film",
+            "year": 2023,
+            "tmdb": {
+                "id": 869626,
+                "original_title": "Marcel the Shell with Shoes On",
+                "title": "Marcel, a Concha de Sapatos",
+                "release_date": "2022-06-24",
+                "backdrop_path": "/1PRWW60yQparK1I8Soyy9Evf7Dv.jpg",
+                "poster_path": "/8hIj0OJI6NDMqOQTt9miZlAVIQP.jpg",
+                "overview": "Marcel \u00e9 uma ador\u00e1vel concha de um cent\u00edmetro de altura que leva uma exist\u00eancia colorida com sua av\u00f3 Connie e seu fiapo de estima\u00e7\u00e3o, Alan. Antes parte de uma extensa comunidade de conchas, eles agora vivem sozinhos como os \u00fanicos sobreviventes de uma misteriosa trag\u00e9dia. Mas quando um documentarista os descobre em meio \u00e0 confus\u00e3o de seu Airbnb, o curta-metragem que ele publica online traz a Marcel milh\u00f5es de f\u00e3s apaixonados, bem como perigos sem precedentes e uma nova esperan\u00e7a de encontrar sua fam\u00edlia h\u00e1 muito perdida.",
+                "vote_average": 7.7,
+                "vote_count": 470
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Puss in Boots: The Last Wish",
+            "second_label": "Joel Crawford and Mark Swift",
+            "category": "Animated Feature Film",
+            "year": 2023,
+            "tmdb": {
+                "id": 315162,
+                "original_title": "Puss in Boots: The Last Wish",
+                "title": "Gato de Botas 2: O \u00daltimo Pedido",
+                "release_date": "2022-12-07",
+                "backdrop_path": "/jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg",
+                "poster_path": "/atJxZfCaQ7kXRFSfbm8cqAKkns7.jpg",
+                "overview": "O Gato de Botas descobre que sua paix\u00e3o pela aventura cobrou seu pre\u00e7o: ele queimou oito de suas nove vidas, deixando-o com apenas uma vida restante. Gato parte em uma jornada \u00e9pica para encontrar o m\u00edtico \u00daltimo Desejo e restaurar suas nove vidas.",
+                "vote_average": 8.243,
+                "vote_count": 7129
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Sea Beast",
+            "second_label": "Chris Williams and Jed Schlanger",
+            "category": "Animated Feature Film",
+            "year": 2023,
+            "tmdb": {
+                "id": 560057,
+                "original_title": "The Sea Beast",
+                "title": "A Fera do Mar",
+                "release_date": "2022-06-24",
+                "backdrop_path": "/wUwizGzbTk5CTiKBnE4Pq1MONwD.jpg",
+                "poster_path": "/5KBOy36wOAkAorpvHwvzEwQdJeR.jpg",
+                "overview": "A vida de um ca\u00e7ador de monstros marinhos vira de cabe\u00e7a para baixo depois que uma menina se esconde em seu navio.",
+                "vote_average": 7.4,
+                "vote_count": 1362
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Turning Red",
+            "second_label": "Domee Shi and Lindsey Collins",
+            "category": "Animated Feature Film",
+            "year": 2023,
+            "tmdb": {
+                "id": 508947,
+                "original_title": "Turning Red",
+                "title": "Red: Crescer \u00e9 Uma Fera",
+                "release_date": "2022-03-10",
+                "backdrop_path": "/fOy2Jurz9k6RnJnMUMRDAgBwru2.jpg",
+                "poster_path": "/p1W2ZfQKExZVZSG7ldUPzVwGKpr.jpg",
+                "overview": "Mei, de treze anos, est\u00e1 experimentando a estranheza de ser uma adolescente com uma reviravolta \u2013 quando ela fica muito animada, ela se transforma em um panda vermelho gigante.",
+                "vote_average": 7.399,
+                "vote_count": 4856
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "All Quiet on the Western Front",
+            "second_label": "James Friend",
+            "category": "Cinematography",
+            "year": 2023,
+            "tmdb": {
+                "id": 49046,
+                "original_title": "Im Westen nichts Neues",
+                "title": "Nada de Novo no Front",
+                "release_date": "2022-10-07",
+                "backdrop_path": "/kZZ9JuZ5CMvH0Y2LwboekvXIHqQ.jpg",
+                "poster_path": "/qmcKs0Aoft7MBdBoj1haZyPRgM2.jpg",
+                "overview": "Convocado para a linha de frente da Primeira Guerra Mundial, o adolescente Paul encara a dura realidade da vida nas trincheiras.",
+                "vote_average": 7.733,
+                "vote_count": 3498
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Bardo, False Chronicle of a Handful of Truths",
+            "second_label": "Darius Khondji",
+            "category": "Cinematography",
+            "year": 2023,
+            "tmdb": {
+                "id": 685691,
+                "original_title": "Bardo, falsa cr\u00f3nica de unas cuantas verdades",
+                "title": "BARDO, Falsa Cr\u00f4nica de Algumas Verdades",
+                "release_date": "2022-10-27",
+                "backdrop_path": "/ghIF9txDO8mXGQIhuzSLSzlnSvh.jpg",
+                "poster_path": "/mrtScSw8gPVIFe0c1Z9MqxPWM6l.jpg",
+                "overview": "Acompanhe um renomado jornalista e documentarista mexicano que volta para casa e passa por uma crise existencial ao lidar com sua identidade, seus relacionamentos familiares e a loucura de suas mem\u00f3rias.",
+                "vote_average": 7.0,
+                "vote_count": 204
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Elvis",
+            "second_label": "Mandy Walker",
+            "category": "Cinematography",
+            "year": 2023,
+            "tmdb": {
+                "id": 614934,
+                "original_title": "Elvis",
+                "title": "Elvis",
+                "release_date": "2022-06-22",
+                "backdrop_path": "/rLo9T9jEg67UZPq3midjLnTUYYi.jpg",
+                "poster_path": "/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg",
+                "overview": "Desde sua ascens\u00e3o ao estrelato, o \u00edcone do rock Elvis Presley mant\u00e9m um relacionamento complicado com seu enigm\u00e1tico empres\u00e1rio, Tom Parker, por mais de 20 anos.",
+                "vote_average": 7.551,
+                "vote_count": 3074
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Empire of Light",
+            "second_label": "Roger Deakins",
+            "category": "Cinematography",
+            "year": 2023,
+            "tmdb": {
+                "id": 814757,
+                "original_title": "Empire of Light",
+                "title": "Imp\u00e9rio da Luz",
+                "release_date": "2022-12-09",
+                "backdrop_path": "/bFAozpBc5s0cJcolKABpa5THusM.jpg",
+                "poster_path": "/9hoNGfSq3ZiolERu1yFEOWhGLPL.jpg",
+                "overview": "Ambientado dentro e em torno de um decadente cinema de uma cidade litor\u00e2nea inglesa no in\u00edcio dos anos 1980, a\u00ed est\u00e1 Hilary, uma gerente de cinema que tenta lidar com sua sa\u00fade mental, e Stephen, um novo funcion\u00e1rio que deseja escapar dessa cidade provinciana onde enfrenta adversidades di\u00e1rias. Hilary e Stephen encontram um sentimento de pertencimento por meio do relacionamento carinhoso e improv\u00e1vel entre eles, e experimentam o poder curativo da m\u00fasica, do cinema e da comunidade.",
+                "vote_average": 6.7,
+                "vote_count": 487
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tr",
+            "second_label": "Florian Hoffmeister",
+            "category": "Cinematography",
+            "year": 2023,
+            "tmdb": {
+                "id": 1006540,
+                "original_title": "Bullet Train Down",
+                "title": "Trem bala \u00e0 baixo",
+                "release_date": "2022-08-01",
+                "backdrop_path": "/mEoIDEiePnYj178H9znzbl9zvky.jpg",
+                "poster_path": "/5a7cocgyVuFjYV71neDIGVzD6Yq.jpg",
+                "overview": "Em sua corrida inaugural, o trem-bala mais r\u00e1pido do mundo est\u00e1 equipado com uma bomba que explodir\u00e1 se cair abaixo de 320 km/h.",
+                "vote_average": 5.075,
+                "vote_count": 20
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design": [
+        {
+            "first_label": "Black Panther: Wakanda Forever",
+            "second_label": "Ruth Carter",
+            "category": "Costume Design",
+            "year": 2023,
+            "tmdb": {
+                "id": 505642,
+                "original_title": "Black Panther: Wakanda Forever",
+                "title": "Pantera Negra: Wakanda para Sempre",
+                "release_date": "2022-11-09",
+                "backdrop_path": "/xDMIl84Qo5Tsu62c9DGWhmPI67A.jpg",
+                "poster_path": "/nZ69WTv7n01womaNz3SHa4inA9x.jpg",
+                "overview": "A rainha Ramonda, Shuri, M'Baku, Okoye e as poderosas Dora Milaje lutam para proteger sua na\u00e7\u00e3o ap\u00f3s a morte do rei T'Challa. Com a ajuda da C\u00e3o de Guerra Nakia e de Everett Ross, eles tentam encontrar um novo caminho para Wakanda.",
+                "vote_average": 7.143,
+                "vote_count": 6024
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Babylon",
+            "second_label": "Mary Zophres",
+            "category": "Costume Design",
+            "year": 2023,
+            "tmdb": {
+                "id": 615777,
+                "original_title": "Babylon",
+                "title": "Babil\u00f4nia",
+                "release_date": "2022-12-22",
+                "backdrop_path": "/oCKZAdUROqdlTcUOstqJ1gM8JQt.jpg",
+                "poster_path": "/qZUmMxJbGmkIYwnS7qRfSOREmvC.jpg",
+                "overview": "Durante a era de ouro de Hollywood, em Los Angeles da d\u00e9cada de 1920, um jovem latino est\u00e1 determinado a conseguir uma carreira enquanto o cinema entra em fase de transi\u00e7\u00e3o dos filmes mudos para produ\u00e7\u00f5es com falas.",
+                "vote_average": 7.419,
+                "vote_count": 2703
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Elvis",
+            "second_label": "Catherine Martin",
+            "category": "Costume Design",
+            "year": 2023,
+            "tmdb": {
+                "id": 614934,
+                "original_title": "Elvis",
+                "title": "Elvis",
+                "release_date": "2022-06-22",
+                "backdrop_path": "/rLo9T9jEg67UZPq3midjLnTUYYi.jpg",
+                "poster_path": "/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg",
+                "overview": "Desde sua ascens\u00e3o ao estrelato, o \u00edcone do rock Elvis Presley mant\u00e9m um relacionamento complicado com seu enigm\u00e1tico empres\u00e1rio, Tom Parker, por mais de 20 anos.",
+                "vote_average": 7.551,
+                "vote_count": 3074
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Everything Everywhere All at Once",
+            "second_label": "Shirley Kurata",
+            "category": "Costume Design",
+            "year": 2023,
+            "tmdb": {
+                "id": 545611,
+                "original_title": "Everything Everywhere All at Once",
+                "title": "Tudo em Todo o Lugar ao Mesmo Tempo",
+                "release_date": "2022-03-24",
+                "backdrop_path": "/fIwiFha3WPu5nHkBeMQ4GzEk0Hv.jpg",
+                "poster_path": "/bW21kbvqAt2kMGlaU8qY86C8kQE.jpg",
+                "overview": "Uma imigrante chinesa parte rumo a uma aventura onde, sozinha, precisar\u00e1 salvar o mundo, explorando outros universos e outras vidas que poderia ter vivido. Contudo, as coisas se complicam quando ela fica presa nessa infinidade de possibilidades sem conseguir retornar para casa.",
+                "vote_average": 7.799,
+                "vote_count": 5915
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mrs. Harris Goes to Paris",
+            "second_label": "Jenny Beavan",
+            "category": "Costume Design",
+            "year": 2023,
+            "tmdb": {
+                "id": 754609,
+                "original_title": "Mrs. Harris Goes to Paris",
+                "title": "Sra. Harris Vai a Paris",
+                "release_date": "2022-07-15",
+                "backdrop_path": "/AhkirfgU32n0D1uxpaGYJEKy2Hu.jpg",
+                "poster_path": "/dCp4P08sqOeazheX4GiRRyg5PMm.jpg",
+                "overview": "A hist\u00f3ria de uma faxineira vi\u00fava que mora em Londres dos anos 1950. Ela se apaixona perdidamente por um vestido de alta costura da Dior e decide que deve ter um para si. Depois de trabalhar dia e noite para arrecadar fundos para realizar seu sonho, ela embarca em uma aventura a Paris que mudar\u00e1 n\u00e3o apenas sua pr\u00f3pria vida, mas o pr\u00f3prio futuro da Maison Dior.",
+                "vote_average": 7.1,
+                "vote_count": 296
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "Everything Everywhere All at Once",
+            "second_label": "Daniel Kwan and Daniel Scheinert",
+            "category": "Directing",
+            "year": 2023,
+            "tmdb": {
+                "id": 545611,
+                "original_title": "Everything Everywhere All at Once",
+                "title": "Tudo em Todo o Lugar ao Mesmo Tempo",
+                "release_date": "2022-03-24",
+                "backdrop_path": "/fIwiFha3WPu5nHkBeMQ4GzEk0Hv.jpg",
+                "poster_path": "/bW21kbvqAt2kMGlaU8qY86C8kQE.jpg",
+                "overview": "Uma imigrante chinesa parte rumo a uma aventura onde, sozinha, precisar\u00e1 salvar o mundo, explorando outros universos e outras vidas que poderia ter vivido. Contudo, as coisas se complicam quando ela fica presa nessa infinidade de possibilidades sem conseguir retornar para casa.",
+                "vote_average": 7.799,
+                "vote_count": 5915
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Banshees of Inisherin",
+            "second_label": "Martin McDonagh",
+            "category": "Directing",
+            "year": 2023,
+            "tmdb": {
+                "id": 674324,
+                "original_title": "The Banshees of Inisherin",
+                "title": "Os Banshees de Inisherin",
+                "release_date": "2022-10-20",
+                "backdrop_path": "/1vXD5HXqkhvsXFHE7KmCPZGPR1e.jpg",
+                "poster_path": "/rakuuNLbDX0OdQ9QQjnVH6YwVzt.jpg",
+                "overview": "Embora P\u00e1draic e Colm tenham sido amigos de longa data, eles se encontram num impasse quando um deles abruptamente rompe o relacionamento, trazendo consequ\u00eancias graves para ambos.",
+                "vote_average": 7.456,
+                "vote_count": 2454
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Fabelmans",
+            "second_label": "Steven Spielberg",
+            "category": "Directing",
+            "year": 2023,
+            "tmdb": {
+                "id": 804095,
+                "original_title": "The Fabelmans",
+                "title": "Os Fabelmans",
+                "release_date": "2022-11-11",
+                "backdrop_path": "/2OnmtVOEpCwt0sYtss5kNxyYM2W.jpg",
+                "poster_path": "/BWHoAAcKnGtowRXju2c2RBrT0m.jpg",
+                "overview": "Crescendo no Arizona p\u00f3s-Segunda Guerra Mundial, o jovem Sammy Fabelman aspira a se tornar um cineasta ao atingir a adolesc\u00eancia, mas logo descobre um segredo de fam\u00edlia devastador e explora como o poder dos filmes pode ajud\u00e1-lo a ver a verdade.",
+                "vote_average": 7.646,
+                "vote_count": 2070
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tr",
+            "second_label": "Todd Field",
+            "category": "Directing",
+            "year": 2023,
+            "tmdb": {
+                "id": 1006540,
+                "original_title": "Bullet Train Down",
+                "title": "Trem bala \u00e0 baixo",
+                "release_date": "2022-08-01",
+                "backdrop_path": "/mEoIDEiePnYj178H9znzbl9zvky.jpg",
+                "poster_path": "/5a7cocgyVuFjYV71neDIGVzD6Yq.jpg",
+                "overview": "Em sua corrida inaugural, o trem-bala mais r\u00e1pido do mundo est\u00e1 equipado com uma bomba que explodir\u00e1 se cair abaixo de 320 km/h.",
+                "vote_average": 5.075,
+                "vote_count": 20
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Triangle of Sadness",
+            "second_label": "Ruben stlund",
+            "category": "Directing",
+            "year": 2023,
+            "tmdb": {
+                "id": 497828,
+                "original_title": "Triangle of Sadness",
+                "title": "Tri\u00e2ngulo da Tristeza",
+                "release_date": "2022-09-18",
+                "backdrop_path": "/jENycYiYGr5NvMs789zj06JkW5l.jpg",
+                "poster_path": "/scfQwUUe0MQb0T5khF1x5e4HSoR.jpg",
+                "overview": "Um cruzeiro para os super-ricos afunda, deixando os sobreviventes, incluindo um casal de celebridades, presos em uma ilha.",
+                "vote_average": 7.103,
+                "vote_count": 1921
+            },
+            "winner": false
+        }
+    ],
+    "Documentary Feature Film": [
+        {
+            "first_label": "Navalny",
+            "second_label": "Daniel Roher, Odessa Rae, Diane Becker, Melanie Miller and Shane Boris",
+            "category": "Documentary Feature Film",
+            "year": 2023,
+            "tmdb": {
+                "id": 926676,
+                "original_title": "Navalny",
+                "title": "Navalny",
+                "release_date": "2022-04-08",
+                "backdrop_path": "/aZQR5Np9fZjck0HM3qYs1wUgwYD.jpg",
+                "poster_path": "/49TwWrtOnJjVrMAUvkgrX6WWf11.jpg",
+                "overview": "Este document\u00e1rio revelador registra a investiga\u00e7\u00e3o de uma tentativa de assassinato descarada e surpreendente, em que o alvo era o l\u00edder da oposi\u00e7\u00e3o russa, Alexei Navalny, nos levando para uma hist\u00f3ria de sua luta pela reforma democr\u00e1tica.",
+                "vote_average": 7.265,
+                "vote_count": 185
+            },
+            "winner": true
+        },
+        {
+            "first_label": "All That Breathes",
+            "second_label": "Shaunak Sen, Aman Mann and Teddy Leifer",
+            "category": "Documentary Feature Film",
+            "year": 2023,
+            "tmdb": {
+                "id": 913838,
+                "original_title": "All That Breathes",
+                "title": "Tudo O Que Respira",
+                "release_date": "2022-10-21",
+                "backdrop_path": "/j2V5P9I56CMrhB7KRGk6J1bPvly.jpg",
+                "poster_path": "/xFUBDS9YHHnad6yhB5aIUrnvmn4.jpg",
+                "overview": "A explora\u00e7\u00e3o da conex\u00e3o da humanidade com a vida selvagem e as mudan\u00e7as clim\u00e1ticas.",
+                "vote_average": 6.9,
+                "vote_count": 56
+            },
+            "winner": false
+        },
+        {
+            "first_label": "All the Beauty and the Bloodshed",
+            "second_label": "Laura Poitras, Howard Gertler, John Lyons, Nan Goldin and Yoni Golijov",
+            "category": "Documentary Feature Film",
+            "year": 2023,
+            "tmdb": {
+                "id": 1004663,
+                "original_title": "All the Beauty and the Bloodshed",
+                "title": "All the Beauty and the Bloodshed",
+                "release_date": "2022-11-23",
+                "backdrop_path": "/hY97iRKr2t44lbX2GHRhfK5CVC7.jpg",
+                "poster_path": "/cvO51xxtIUHc5w5ZgFsigiFaUaO.jpg",
+                "overview": "Uma hist\u00f3ria \u00e9pica e emocionante sobre a artista e ativista Nan Goldin, contada atrav\u00e9s de entrevistas, fotografias e imagens raras de sua luta para responsabilizar a fam\u00edlia Sackler pela crise de opioides nos EUA. Dirigido pela cineasta vencedora do Oscar Laura Poitras, o filme entrela\u00e7a o passado e o presente de Goldin, o profundamente pessoal e o urgentemente pol\u00edtico de suas a\u00e7\u00f5es e exposi\u00e7\u00f5es.",
+                "vote_average": 7.4,
+                "vote_count": 117
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Fire of Love",
+            "second_label": "Sara Dosa, Shane Boris and Ina Fichman",
+            "category": "Documentary Feature Film",
+            "year": 2023,
+            "tmdb": {
+                "id": 913823,
+                "original_title": "Fire of Love",
+                "title": "Vulc\u00f5es: A Trag\u00e9dia de Katia e Maurice Krafft",
+                "release_date": "2022-07-06",
+                "backdrop_path": "/3oRwn7WIMt4Vtw65mnydDQHthwQ.jpg",
+                "poster_path": "/jT8R2lqEpC49odCc1fCzAi6Z0ZE.jpg",
+                "overview": "Katia e Maurice Krafft amavam duas coisas: um ao outro e vulc\u00f5es. O casal percorreu o mundo ca\u00e7ando erup\u00e7\u00f5es vulc\u00e2nicas e documentando suas descobertas. Eles morreram em 1991, mas deixaram um legado que enriqueceu nossa compreens\u00e3o do mundo natural. Baseado em seus registros, o document\u00e1rio conta a hist\u00f3ria de cria\u00e7\u00e3o e destrui\u00e7\u00e3o de dois cientistas que rumam ao desconhecido em nome do amor.",
+                "vote_average": 7.5,
+                "vote_count": 181
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A House Made of Splinters",
+            "second_label": "Simon Lereng Wilmont and Monica Hellstrm",
+            "category": "Documentary Feature Film",
+            "year": 2023,
+            "tmdb": {
+                "id": 913743,
+                "original_title": "\u0411\u0443\u0434\u0438\u043d\u043e\u043a \u0437\u0456 \u0441\u043a\u0430\u043b\u043e\u043a",
+                "title": "A House Made of Splinters",
+                "release_date": "2023-03-09",
+                "backdrop_path": "/qNa2UgCl0lJebvBy91ViUte9uXM.jpg",
+                "poster_path": "/g8S47nGJHsu7At1PRk9z88mLmdt.jpg",
+                "overview": "A temporary house for abandoned children near the front line in eastern Ukraine is run by a small group of social workers determined to provide comfort and safety. It may be humble and somewhat run-down, but this house is filled with love and offers up to nine months of refuge to kids whose fate will be determined by the system. During this short time, the caretakers try to nurture within them a sense of stability and normalcy.",
+                "vote_average": 6.9,
+                "vote_count": 19
+            },
+            "winner": false
+        }
+    ],
+    "Documentary Short Film": [
+        {
+            "first_label": "The Elephant Whisperers",
+            "second_label": "Kartiki Gonsalves and Guneet Monga",
+            "category": "Documentary Short Film",
+            "year": 2023,
+            "tmdb": {
+                "id": 1041580,
+                "original_title": "The Elephant Whisperers",
+                "title": "Como Cuidar de um Beb\u00ea Elefante",
+                "release_date": "2022-12-08",
+                "backdrop_path": "/qSuSc03Kz90CtrIvaYBdYuyMpkd.jpg",
+                "poster_path": "/1UQN0JIyAlyFRhYpmBcbrDw7Bsr.jpg",
+                "overview": "Um casal do sul da \u00cdndia se dedica a cuidar de um beb\u00ea elefante \u00f3rf\u00e3o. Juntos, eles formam uma fam\u00edlia como voc\u00ea nunca viu. Este document\u00e1rio de natureza foi dirigido pela cineasta Kartiki Gonsalves.",
+                "vote_average": 7.4,
+                "vote_count": 103
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Haulout",
+            "second_label": "Evgenia Arbugaeva and Maxim Arbugaev",
+            "category": "Documentary Short Film",
+            "year": 2023,
+            "tmdb": {
+                "id": 926993,
+                "original_title": "\u0412\u044b\u0445\u043e\u0434",
+                "title": "Haulout",
+                "release_date": "2022-02-17",
+                "backdrop_path": "/5J1keNzQA5wxq98R0WJ3j4GUTxw.jpg",
+                "poster_path": "/i1PH5y9umII7Vxb7StQtkA9Vd2n.jpg",
+                "overview": "Anualmente um homem espera pela ocorr\u00eancia de um fen\u00f4meno natural na vastid\u00e3o do \u00e1rtico russo. No entanto, essa rotina pode ser drasticamente alterada pelos efeitos das mudan\u00e7as clim\u00e1ticas e o aumento do n\u00edvel do oceano.",
+                "vote_average": 6.7,
+                "vote_count": 29
+            },
+            "winner": false
+        },
+        {
+            "first_label": "How Do You Measure a Year?",
+            "second_label": "Jay Rosenblatt",
+            "category": "Documentary Short Film",
+            "year": 2023,
+            "tmdb": {
+                "id": 846854,
+                "original_title": "How Do You Measure a Year?",
+                "title": "Como Se Mede Um Ano?",
+                "release_date": "2021-08-13",
+                "backdrop_path": "/4vQ083kF2CxJWDOcq3DaV4cV4B0.jpg",
+                "poster_path": "/hoe1yeyRXbDFZXCxCQCxClGgh5y.jpg",
+                "overview": "Um pai filma a filha todos os anos, no dia de seu anivers\u00e1rio, e faz a ela as mesmas perguntas. Em apenas 29 minutos, vemos a garota se transformar de menininha em jovem mulher, passando por todos os est\u00e1gios, belos ou desajeitados, no caminho, enquanto a rela\u00e7\u00e3o entre os dois se desenvolve em toda sua complexidade.",
+                "vote_average": 6.4,
+                "vote_count": 16
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Martha Mitchell Effect",
+            "second_label": "Anne Alvergue and Beth Levison",
+            "category": "Documentary Short Film",
+            "year": 2023,
+            "tmdb": {
+                "id": 914268,
+                "original_title": "The Martha Mitchell Effect",
+                "title": "O Efeito Martha Mitchell",
+                "release_date": "2022-01-20",
+                "backdrop_path": "/hV4akPPOYqyNPJKLFfzn0aX9iga.jpg",
+                "poster_path": "/oqH8px0GU4OFZkKLV1AyNgIvV49.jpg",
+                "overview": "Este document\u00e1rio tra\u00e7a o perfil da esposa do procurador-geral dos EUA na era Nixon, que foi tachada de louca por fazer den\u00fancias contra o governo no caso Watergate.",
+                "vote_average": 6.2,
+                "vote_count": 55
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Stranger at the Gate",
+            "second_label": "Joshua Seftel and Conall Jones",
+            "category": "Documentary Short Film",
+            "year": 2023,
+            "tmdb": {
+                "id": 964789,
+                "original_title": "Stranger at the Gate",
+                "title": "Stranger at the Gate",
+                "release_date": "2022-02-23",
+                "backdrop_path": "/Qz6aBohmdlEDL5weaGpkVkg8mp.jpg",
+                "poster_path": "/xMHaZtwwW5H8wXtwsgtRwIPTXAR.jpg",
+                "overview": "A U.S. Marine plots a terrorist attack on a small-town American mosque, but his plan takes an unexpected turn when he comes face to face with the people he sets out to kill.",
+                "vote_average": 5.9,
+                "vote_count": 27
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "Everything Everywhere All at Once",
+            "second_label": "Paul Rogers",
+            "category": "Film Editing",
+            "year": 2023,
+            "tmdb": {
+                "id": 545611,
+                "original_title": "Everything Everywhere All at Once",
+                "title": "Tudo em Todo o Lugar ao Mesmo Tempo",
+                "release_date": "2022-03-24",
+                "backdrop_path": "/fIwiFha3WPu5nHkBeMQ4GzEk0Hv.jpg",
+                "poster_path": "/bW21kbvqAt2kMGlaU8qY86C8kQE.jpg",
+                "overview": "Uma imigrante chinesa parte rumo a uma aventura onde, sozinha, precisar\u00e1 salvar o mundo, explorando outros universos e outras vidas que poderia ter vivido. Contudo, as coisas se complicam quando ela fica presa nessa infinidade de possibilidades sem conseguir retornar para casa.",
+                "vote_average": 7.799,
+                "vote_count": 5915
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Banshees of Inisherin",
+            "second_label": "Mikkel E.G. Nielsen",
+            "category": "Film Editing",
+            "year": 2023,
+            "tmdb": {
+                "id": 674324,
+                "original_title": "The Banshees of Inisherin",
+                "title": "Os Banshees de Inisherin",
+                "release_date": "2022-10-20",
+                "backdrop_path": "/1vXD5HXqkhvsXFHE7KmCPZGPR1e.jpg",
+                "poster_path": "/rakuuNLbDX0OdQ9QQjnVH6YwVzt.jpg",
+                "overview": "Embora P\u00e1draic e Colm tenham sido amigos de longa data, eles se encontram num impasse quando um deles abruptamente rompe o relacionamento, trazendo consequ\u00eancias graves para ambos.",
+                "vote_average": 7.456,
+                "vote_count": 2454
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Elvis",
+            "second_label": "Matt Villa and Jonathan Redmond",
+            "category": "Film Editing",
+            "year": 2023,
+            "tmdb": {
+                "id": 614934,
+                "original_title": "Elvis",
+                "title": "Elvis",
+                "release_date": "2022-06-22",
+                "backdrop_path": "/rLo9T9jEg67UZPq3midjLnTUYYi.jpg",
+                "poster_path": "/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg",
+                "overview": "Desde sua ascens\u00e3o ao estrelato, o \u00edcone do rock Elvis Presley mant\u00e9m um relacionamento complicado com seu enigm\u00e1tico empres\u00e1rio, Tom Parker, por mais de 20 anos.",
+                "vote_average": 7.551,
+                "vote_count": 3074
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tr",
+            "second_label": "Monika Willi",
+            "category": "Film Editing",
+            "year": 2023,
+            "tmdb": {
+                "id": 1006540,
+                "original_title": "Bullet Train Down",
+                "title": "Trem bala \u00e0 baixo",
+                "release_date": "2022-08-01",
+                "backdrop_path": "/mEoIDEiePnYj178H9znzbl9zvky.jpg",
+                "poster_path": "/5a7cocgyVuFjYV71neDIGVzD6Yq.jpg",
+                "overview": "Em sua corrida inaugural, o trem-bala mais r\u00e1pido do mundo est\u00e1 equipado com uma bomba que explodir\u00e1 se cair abaixo de 320 km/h.",
+                "vote_average": 5.075,
+                "vote_count": 20
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Top Gun: Maverick",
+            "second_label": "Eddie Hamilton",
+            "category": "Film Editing",
+            "year": 2023,
+            "tmdb": {
+                "id": 361743,
+                "original_title": "Top Gun: Maverick",
+                "title": "Top Gun: Maverick",
+                "release_date": "2022-05-24",
+                "backdrop_path": "/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
+                "poster_path": "/e9ZrMPiJqYg2qEnWS7n1U7W0GHL.jpg",
+                "overview": "Depois de mais de 30 anos de servi\u00e7o como um dos principais aviadores da Marinha, Pete \"Maverick\" Mitchell est\u00e1 de volta, rompendo os limites como um piloto de testes corajoso. No mundo contempor\u00e2neo das guerras tecnol\u00f3gicas, Maverick enfrenta drones e prova que o fator humano ainda \u00e9 essencial.",
+                "vote_average": 8.225,
+                "vote_count": 8412
+            },
+            "winner": false
+        }
+    ],
+    "International Feature Film": [
+        {
+            "first_label": "All Quiet on the Western Front",
+            "second_label": "Germany",
+            "category": "International Feature Film",
+            "year": 2023,
+            "tmdb": {
+                "id": 49046,
+                "original_title": "Im Westen nichts Neues",
+                "title": "Nada de Novo no Front",
+                "release_date": "2022-10-07",
+                "backdrop_path": "/kZZ9JuZ5CMvH0Y2LwboekvXIHqQ.jpg",
+                "poster_path": "/qmcKs0Aoft7MBdBoj1haZyPRgM2.jpg",
+                "overview": "Convocado para a linha de frente da Primeira Guerra Mundial, o adolescente Paul encara a dura realidade da vida nas trincheiras.",
+                "vote_average": 7.733,
+                "vote_count": 3498
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Argentina, 1985",
+            "second_label": "Argentina",
+            "category": "International Feature Film",
+            "year": 2023,
+            "tmdb": {
+                "id": 714888,
+                "original_title": "Argentina, 1985",
+                "title": "Argentina, 1985",
+                "release_date": "2022-09-29",
+                "backdrop_path": "/gh1Rghpf3BIISHSAw9GsObG4TN3.jpg",
+                "poster_path": "/u0TFD4YFMfYtNSLxfbWq5cg0KIh.jpg",
+                "overview": "\u201cArgentina, 1985\u201d \u00e9 inspirado na hist\u00f3ria ver\u00eddica de Julio Strassera, Luis Moreno Ocampo e sua equipe de jovens juristas, her\u00f3is improv\u00e1veis que travam uma batalha de Davi e Golias na qual, sob amea\u00e7as constantes e contra toda as possibilidades, ousam processar a ditadura militar mais sangrenta da Argentina e embrenham-se numa corrida contra o tempo para fazer justi\u00e7a \u00e0s v\u00edtimas dos militares.",
+                "vote_average": 7.9,
+                "vote_count": 572
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Close",
+            "second_label": "Belgium",
+            "category": "International Feature Film",
+            "year": 2023,
+            "tmdb": {
+                "id": 901563,
+                "original_title": "Close",
+                "title": "Close",
+                "release_date": "2022-11-01",
+                "backdrop_path": "/doZEE6CiLM8Q1hu4Hqoxr4Pf2JA.jpg",
+                "poster_path": "/247j36lEhkTGYTjFE3oWKVKMwVJ.jpg",
+                "overview": "A amizade entre dois meninos de treze anos, Leo e R\u00e9mi, acaba de repente. Sem entender o que aconteceu, L\u00e9o procura Sophie, m\u00e3e de R\u00e9mi.",
+                "vote_average": 7.797,
+                "vote_count": 622
+            },
+            "winner": false
+        },
+        {
+            "first_label": "EO",
+            "second_label": "Poland",
+            "category": "International Feature Film",
+            "year": 2023,
+            "tmdb": {
+                "id": 785398,
+                "original_title": "IO",
+                "title": "EO",
+                "release_date": "2022-09-30",
+                "backdrop_path": "/3UmGXadwnVQAssXjdG6XqXSzDAC.jpg",
+                "poster_path": "/1MK86Vr2nf1GSYOtRd8pFvA5RM8.jpg",
+                "overview": "Um burro que encontra pessoas boas e m\u00e1s em suas viagens experimenta alegria e dor, explorando uma vis\u00e3o da Europa moderna atrav\u00e9s de seus olhos.",
+                "vote_average": 6.6,
+                "vote_count": 277
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Quiet Girl",
+            "second_label": "Ireland",
+            "category": "International Feature Film",
+            "year": 2023,
+            "tmdb": {
+                "id": 916405,
+                "original_title": "An Cail\u00edn Ci\u00fain",
+                "title": "A Menina Silenciosa",
+                "release_date": "2022-05-12",
+                "backdrop_path": "/xhJ9E1uYT7KO3gjdpUO2SCzR9dL.jpg",
+                "poster_path": "/uyY2tXyYPAZQHtjb9TXHPewEsK7.jpg",
+                "overview": "Garota retra\u00edda e negligenciada \u00e9 enviada para longe de sua fam\u00edlia disfuncional para morar com pais adotivos no ver\u00e3o. Ela floresce sob seus cuidados mas, nesta casa onde n\u00e3o h\u00e1 segredos, ela descobre um.",
+                "vote_average": 7.5,
+                "vote_count": 325
+            },
+            "winner": false
+        }
+    ],
+    "Makeup and Hairstyling": [
+        {
+            "first_label": "The Whale",
+            "second_label": "Adrien Morot, Judy Chin and Annemarie Bradley",
+            "category": "Makeup and Hairstyling",
+            "year": 2023,
+            "tmdb": {
+                "id": 785084,
+                "original_title": "The Whale",
+                "title": "A Baleia",
+                "release_date": "2022-12-09",
+                "backdrop_path": "/46FRuCeAn6TrS4F1P4F9zhyCpyo.jpg",
+                "poster_path": "/4hhd8JuwsHTvpqW9wW9oebsHVu0.jpg",
+                "overview": "Um professor de ingl\u00eas recluso que sofre de obesidade severa tenta se reconectar com sua filha adolescente distante para uma \u00faltima chance de reden\u00e7\u00e3o.",
+                "vote_average": 7.874,
+                "vote_count": 3492
+            },
+            "winner": true
+        },
+        {
+            "first_label": "All Quiet on the Western Front",
+            "second_label": "Heike Merker and Linda Eisenhamerov",
+            "category": "Makeup and Hairstyling",
+            "year": 2023,
+            "tmdb": {
+                "id": 49046,
+                "original_title": "Im Westen nichts Neues",
+                "title": "Nada de Novo no Front",
+                "release_date": "2022-10-07",
+                "backdrop_path": "/kZZ9JuZ5CMvH0Y2LwboekvXIHqQ.jpg",
+                "poster_path": "/qmcKs0Aoft7MBdBoj1haZyPRgM2.jpg",
+                "overview": "Convocado para a linha de frente da Primeira Guerra Mundial, o adolescente Paul encara a dura realidade da vida nas trincheiras.",
+                "vote_average": 7.733,
+                "vote_count": 3498
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Batman",
+            "second_label": "Naomi Donne, Mike Marino and Mike Fontaine",
+            "category": "Makeup and Hairstyling",
+            "year": 2023,
+            "tmdb": {
+                "id": 414906,
+                "original_title": "The Batman",
+                "title": "Batman",
+                "release_date": "2022-03-01",
+                "backdrop_path": "/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg",
+                "poster_path": "/wd7b4Nv9QBHDTIjc2m7sr0IUMoh.jpg",
+                "overview": "Ap\u00f3s dois anos espreitando as ruas como Batman, Bruce Wayne se encontra nas profundezas mais sombrias de Gotham City. Com poucos aliados confi\u00e1veis, o vigilante solit\u00e1rio se estabelece como a personifica\u00e7\u00e3o da vingan\u00e7a para a popula\u00e7\u00e3o.",
+                "vote_average": 7.682,
+                "vote_count": 9366
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Black Panther: Wakanda Forever",
+            "second_label": "Camille Friend and Joel Harlow",
+            "category": "Makeup and Hairstyling",
+            "year": 2023,
+            "tmdb": {
+                "id": 505642,
+                "original_title": "Black Panther: Wakanda Forever",
+                "title": "Pantera Negra: Wakanda para Sempre",
+                "release_date": "2022-11-09",
+                "backdrop_path": "/xDMIl84Qo5Tsu62c9DGWhmPI67A.jpg",
+                "poster_path": "/nZ69WTv7n01womaNz3SHa4inA9x.jpg",
+                "overview": "A rainha Ramonda, Shuri, M'Baku, Okoye e as poderosas Dora Milaje lutam para proteger sua na\u00e7\u00e3o ap\u00f3s a morte do rei T'Challa. Com a ajuda da C\u00e3o de Guerra Nakia e de Everett Ross, eles tentam encontrar um novo caminho para Wakanda.",
+                "vote_average": 7.143,
+                "vote_count": 6024
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Elvis",
+            "second_label": "Mark Coulier, Jason Baird and Aldo Signoretti",
+            "category": "Makeup and Hairstyling",
+            "year": 2023,
+            "tmdb": {
+                "id": 614934,
+                "original_title": "Elvis",
+                "title": "Elvis",
+                "release_date": "2022-06-22",
+                "backdrop_path": "/rLo9T9jEg67UZPq3midjLnTUYYi.jpg",
+                "poster_path": "/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg",
+                "overview": "Desde sua ascens\u00e3o ao estrelato, o \u00edcone do rock Elvis Presley mant\u00e9m um relacionamento complicado com seu enigm\u00e1tico empres\u00e1rio, Tom Parker, por mais de 20 anos.",
+                "vote_average": 7.551,
+                "vote_count": 3074
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Score)": [
+        {
+            "first_label": "All Quiet on the Western Front",
+            "second_label": "Volker Bertelmann",
+            "category": "Music (Original Score)",
+            "year": 2023,
+            "tmdb": {
+                "id": 49046,
+                "original_title": "Im Westen nichts Neues",
+                "title": "Nada de Novo no Front",
+                "release_date": "2022-10-07",
+                "backdrop_path": "/kZZ9JuZ5CMvH0Y2LwboekvXIHqQ.jpg",
+                "poster_path": "/qmcKs0Aoft7MBdBoj1haZyPRgM2.jpg",
+                "overview": "Convocado para a linha de frente da Primeira Guerra Mundial, o adolescente Paul encara a dura realidade da vida nas trincheiras.",
+                "vote_average": 7.733,
+                "vote_count": 3498
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Babylon",
+            "second_label": "Justin Hurwitz",
+            "category": "Music (Original Score)",
+            "year": 2023,
+            "tmdb": {
+                "id": 615777,
+                "original_title": "Babylon",
+                "title": "Babil\u00f4nia",
+                "release_date": "2022-12-22",
+                "backdrop_path": "/oCKZAdUROqdlTcUOstqJ1gM8JQt.jpg",
+                "poster_path": "/qZUmMxJbGmkIYwnS7qRfSOREmvC.jpg",
+                "overview": "Durante a era de ouro de Hollywood, em Los Angeles da d\u00e9cada de 1920, um jovem latino est\u00e1 determinado a conseguir uma carreira enquanto o cinema entra em fase de transi\u00e7\u00e3o dos filmes mudos para produ\u00e7\u00f5es com falas.",
+                "vote_average": 7.419,
+                "vote_count": 2703
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Banshees of Inisherin",
+            "second_label": "Carter Burwell",
+            "category": "Music (Original Score)",
+            "year": 2023,
+            "tmdb": {
+                "id": 674324,
+                "original_title": "The Banshees of Inisherin",
+                "title": "Os Banshees de Inisherin",
+                "release_date": "2022-10-20",
+                "backdrop_path": "/1vXD5HXqkhvsXFHE7KmCPZGPR1e.jpg",
+                "poster_path": "/rakuuNLbDX0OdQ9QQjnVH6YwVzt.jpg",
+                "overview": "Embora P\u00e1draic e Colm tenham sido amigos de longa data, eles se encontram num impasse quando um deles abruptamente rompe o relacionamento, trazendo consequ\u00eancias graves para ambos.",
+                "vote_average": 7.456,
+                "vote_count": 2454
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Everything Everywhere All at Once",
+            "second_label": "Son Lux",
+            "category": "Music (Original Score)",
+            "year": 2023,
+            "tmdb": {
+                "id": 545611,
+                "original_title": "Everything Everywhere All at Once",
+                "title": "Tudo em Todo o Lugar ao Mesmo Tempo",
+                "release_date": "2022-03-24",
+                "backdrop_path": "/fIwiFha3WPu5nHkBeMQ4GzEk0Hv.jpg",
+                "poster_path": "/bW21kbvqAt2kMGlaU8qY86C8kQE.jpg",
+                "overview": "Uma imigrante chinesa parte rumo a uma aventura onde, sozinha, precisar\u00e1 salvar o mundo, explorando outros universos e outras vidas que poderia ter vivido. Contudo, as coisas se complicam quando ela fica presa nessa infinidade de possibilidades sem conseguir retornar para casa.",
+                "vote_average": 7.799,
+                "vote_count": 5915
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Fabelmans",
+            "second_label": "John Williams",
+            "category": "Music (Original Score)",
+            "year": 2023,
+            "tmdb": {
+                "id": 804095,
+                "original_title": "The Fabelmans",
+                "title": "Os Fabelmans",
+                "release_date": "2022-11-11",
+                "backdrop_path": "/2OnmtVOEpCwt0sYtss5kNxyYM2W.jpg",
+                "poster_path": "/BWHoAAcKnGtowRXju2c2RBrT0m.jpg",
+                "overview": "Crescendo no Arizona p\u00f3s-Segunda Guerra Mundial, o jovem Sammy Fabelman aspira a se tornar um cineasta ao atingir a adolesc\u00eancia, mas logo descobre um segredo de fam\u00edlia devastador e explora como o poder dos filmes pode ajud\u00e1-lo a ver a verdade.",
+                "vote_average": 7.646,
+                "vote_count": 2070
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Song)": [
+        {
+            "first_label": "Naatu Naatu",
+            "second_label": "from RRR; Music by M.M. Keeravaani; Lyric by Chandrabose",
+            "category": "Music (Original Song)",
+            "year": 2023,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Applause",
+            "second_label": "from Tell It like a Woman; Music and Lyric by Diane Warren",
+            "category": "Music (Original Song)",
+            "year": 2023,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hold My Hand",
+            "second_label": "from Top Gun: Maverick; Music and Lyric by Lady Gaga and BloodPop",
+            "category": "Music (Original Song)",
+            "year": 2023,
+            "tmdb": {
+                "id": 984046,
+                "original_title": "Hold My Hand",
+                "title": "Hold My Hand",
+                "release_date": "2022-06-05",
+                "backdrop_path": null,
+                "poster_path": "/agQC7VQCLH37DnWa9ILNlOBxUSQ.jpg",
+                "overview": "One woman\u2019s journey to hell (and MacDonald\u2019s lol) and back to find a love of years gone by - already being called an \u201call-American classic\u201d by the Indianapolis Gazette",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lift Me Up",
+            "second_label": "from Black Panther: Wakanda Forever; Music by Tems, Rihanna, Ryan Coogler and Ludwig Goransson; Lyric by Tems and Ryan Coogler",
+            "category": "Music (Original Song)",
+            "year": 2023,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "This Is A Life",
+            "second_label": "from Everything Everywhere All at Once; Music by Ryan Lott, David Byrne and Mitski; Lyric by Ryan Lott and David Byrne",
+            "category": "Music (Original Song)",
+            "year": 2023,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Best Picture": [
+        {
+            "first_label": "Everything Everywhere All at Once",
+            "second_label": "Daniel Kwan, Daniel Scheinert and Jonathan Wang, Producers",
+            "category": "Best Picture",
+            "year": 2023,
+            "tmdb": {
+                "id": 545611,
+                "original_title": "Everything Everywhere All at Once",
+                "title": "Tudo em Todo o Lugar ao Mesmo Tempo",
+                "release_date": "2022-03-24",
+                "backdrop_path": "/fIwiFha3WPu5nHkBeMQ4GzEk0Hv.jpg",
+                "poster_path": "/bW21kbvqAt2kMGlaU8qY86C8kQE.jpg",
+                "overview": "Uma imigrante chinesa parte rumo a uma aventura onde, sozinha, precisar\u00e1 salvar o mundo, explorando outros universos e outras vidas que poderia ter vivido. Contudo, as coisas se complicam quando ela fica presa nessa infinidade de possibilidades sem conseguir retornar para casa.",
+                "vote_average": 7.799,
+                "vote_count": 5915
+            },
+            "winner": true
+        },
+        {
+            "first_label": "All Quiet on the Western Front",
+            "second_label": "Malte Grunert, Producer",
+            "category": "Best Picture",
+            "year": 2023,
+            "tmdb": {
+                "id": 49046,
+                "original_title": "Im Westen nichts Neues",
+                "title": "Nada de Novo no Front",
+                "release_date": "2022-10-07",
+                "backdrop_path": "/kZZ9JuZ5CMvH0Y2LwboekvXIHqQ.jpg",
+                "poster_path": "/qmcKs0Aoft7MBdBoj1haZyPRgM2.jpg",
+                "overview": "Convocado para a linha de frente da Primeira Guerra Mundial, o adolescente Paul encara a dura realidade da vida nas trincheiras.",
+                "vote_average": 7.733,
+                "vote_count": 3498
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Avatar: The Way of Water",
+            "second_label": "James Cameron and Jon Landau, Producers",
+            "category": "Best Picture",
+            "year": 2023,
+            "tmdb": {
+                "id": 76600,
+                "original_title": "Avatar: The Way of Water",
+                "title": "Avatar: O Caminho da \u00c1gua",
+                "release_date": "2022-12-14",
+                "backdrop_path": "/8rpDcsfLJypbO6vREc0547VKqEv.jpg",
+                "poster_path": "/mbYQLLluS651W89jO7MOZcLSCUw.jpg",
+                "overview": "12 anos depois de explorar Pandora e se juntar aos Na'vi, Jake Sully formou uma fam\u00edlia com Neytiri e se estabeleceu entre os cl\u00e3s do novo mundo. Por\u00e9m, a paz n\u00e3o durar\u00e1 para sempre.",
+                "vote_average": 7.628,
+                "vote_count": 11082
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Banshees of Inisherin",
+            "second_label": "Graham Broadbent, Pete Czernin and Martin McDonagh, Producers",
+            "category": "Best Picture",
+            "year": 2023,
+            "tmdb": {
+                "id": 674324,
+                "original_title": "The Banshees of Inisherin",
+                "title": "Os Banshees de Inisherin",
+                "release_date": "2022-10-20",
+                "backdrop_path": "/1vXD5HXqkhvsXFHE7KmCPZGPR1e.jpg",
+                "poster_path": "/rakuuNLbDX0OdQ9QQjnVH6YwVzt.jpg",
+                "overview": "Embora P\u00e1draic e Colm tenham sido amigos de longa data, eles se encontram num impasse quando um deles abruptamente rompe o relacionamento, trazendo consequ\u00eancias graves para ambos.",
+                "vote_average": 7.456,
+                "vote_count": 2454
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Elvis",
+            "second_label": "Baz Luhrmann, Catherine Martin, Gail Berman, Patrick McCormick and Schuyler Weiss, Producers",
+            "category": "Best Picture",
+            "year": 2023,
+            "tmdb": {
+                "id": 614934,
+                "original_title": "Elvis",
+                "title": "Elvis",
+                "release_date": "2022-06-22",
+                "backdrop_path": "/rLo9T9jEg67UZPq3midjLnTUYYi.jpg",
+                "poster_path": "/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg",
+                "overview": "Desde sua ascens\u00e3o ao estrelato, o \u00edcone do rock Elvis Presley mant\u00e9m um relacionamento complicado com seu enigm\u00e1tico empres\u00e1rio, Tom Parker, por mais de 20 anos.",
+                "vote_average": 7.551,
+                "vote_count": 3074
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Fabelmans",
+            "second_label": "Kristie Macosko Krieger, Steven Spielberg and Tony Kushner, Producers",
+            "category": "Best Picture",
+            "year": 2023,
+            "tmdb": {
+                "id": 804095,
+                "original_title": "The Fabelmans",
+                "title": "Os Fabelmans",
+                "release_date": "2022-11-11",
+                "backdrop_path": "/2OnmtVOEpCwt0sYtss5kNxyYM2W.jpg",
+                "poster_path": "/BWHoAAcKnGtowRXju2c2RBrT0m.jpg",
+                "overview": "Crescendo no Arizona p\u00f3s-Segunda Guerra Mundial, o jovem Sammy Fabelman aspira a se tornar um cineasta ao atingir a adolesc\u00eancia, mas logo descobre um segredo de fam\u00edlia devastador e explora como o poder dos filmes pode ajud\u00e1-lo a ver a verdade.",
+                "vote_average": 7.646,
+                "vote_count": 2070
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tr",
+            "second_label": "Todd Field, Alexandra Milchan and Scott Lambert, Producers",
+            "category": "Best Picture",
+            "year": 2023,
+            "tmdb": {
+                "id": 1006540,
+                "original_title": "Bullet Train Down",
+                "title": "Trem bala \u00e0 baixo",
+                "release_date": "2022-08-01",
+                "backdrop_path": "/mEoIDEiePnYj178H9znzbl9zvky.jpg",
+                "poster_path": "/5a7cocgyVuFjYV71neDIGVzD6Yq.jpg",
+                "overview": "Em sua corrida inaugural, o trem-bala mais r\u00e1pido do mundo est\u00e1 equipado com uma bomba que explodir\u00e1 se cair abaixo de 320 km/h.",
+                "vote_average": 5.075,
+                "vote_count": 20
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Top Gun: Maverick",
+            "second_label": "Tom Cruise, Christopher McQuarrie, David Ellison and Jerry Bruckheimer, Producers",
+            "category": "Best Picture",
+            "year": 2023,
+            "tmdb": {
+                "id": 361743,
+                "original_title": "Top Gun: Maverick",
+                "title": "Top Gun: Maverick",
+                "release_date": "2022-05-24",
+                "backdrop_path": "/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
+                "poster_path": "/e9ZrMPiJqYg2qEnWS7n1U7W0GHL.jpg",
+                "overview": "Depois de mais de 30 anos de servi\u00e7o como um dos principais aviadores da Marinha, Pete \"Maverick\" Mitchell est\u00e1 de volta, rompendo os limites como um piloto de testes corajoso. No mundo contempor\u00e2neo das guerras tecnol\u00f3gicas, Maverick enfrenta drones e prova que o fator humano ainda \u00e9 essencial.",
+                "vote_average": 8.225,
+                "vote_count": 8412
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Triangle of Sadness",
+            "second_label": "Erik Hemmendorff and Philippe Bober, Producers",
+            "category": "Best Picture",
+            "year": 2023,
+            "tmdb": {
+                "id": 497828,
+                "original_title": "Triangle of Sadness",
+                "title": "Tri\u00e2ngulo da Tristeza",
+                "release_date": "2022-09-18",
+                "backdrop_path": "/jENycYiYGr5NvMs789zj06JkW5l.jpg",
+                "poster_path": "/scfQwUUe0MQb0T5khF1x5e4HSoR.jpg",
+                "overview": "Um cruzeiro para os super-ricos afunda, deixando os sobreviventes, incluindo um casal de celebridades, presos em uma ilha.",
+                "vote_average": 7.103,
+                "vote_count": 1921
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Women Talking",
+            "second_label": "Dede Gardner, Jeremy Kleiner and Frances McDormand, Producers",
+            "category": "Best Picture",
+            "year": 2023,
+            "tmdb": {
+                "id": 777245,
+                "original_title": "Women Talking",
+                "title": "Entre Mulheres",
+                "release_date": "2022-12-23",
+                "backdrop_path": "/edH2sKM63YiSEOWoaJPN87a71dZ.jpg",
+                "poster_path": "/lH5qPokImvjzg18DxURFS3Clmyw.jpg",
+                "overview": "Um grupo de mulheres em uma comunidade menonita isolada luta para reconciliar sua realidade com sua f\u00e9 ap\u00f3s uma s\u00e9rie de agress\u00f5es sexuais cometidas pelos homens da col\u00f4nia.",
+                "vote_average": 6.9,
+                "vote_count": 513
+            },
+            "winner": false
+        }
+    ],
+    "Production Design": [
+        {
+            "first_label": "All Quiet on the Western Front",
+            "second_label": "Production Design: Christian M. Goldbeck; Set Decoration: Ernestine Hipper",
+            "category": "Production Design",
+            "year": 2023,
+            "tmdb": {
+                "id": 49046,
+                "original_title": "Im Westen nichts Neues",
+                "title": "Nada de Novo no Front",
+                "release_date": "2022-10-07",
+                "backdrop_path": "/kZZ9JuZ5CMvH0Y2LwboekvXIHqQ.jpg",
+                "poster_path": "/qmcKs0Aoft7MBdBoj1haZyPRgM2.jpg",
+                "overview": "Convocado para a linha de frente da Primeira Guerra Mundial, o adolescente Paul encara a dura realidade da vida nas trincheiras.",
+                "vote_average": 7.733,
+                "vote_count": 3498
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Avatar: The Way of Water",
+            "second_label": "Production Design: Dylan Cole and Ben Procter; Set Decoration: Vanessa Cole",
+            "category": "Production Design",
+            "year": 2023,
+            "tmdb": {
+                "id": 76600,
+                "original_title": "Avatar: The Way of Water",
+                "title": "Avatar: O Caminho da \u00c1gua",
+                "release_date": "2022-12-14",
+                "backdrop_path": "/8rpDcsfLJypbO6vREc0547VKqEv.jpg",
+                "poster_path": "/mbYQLLluS651W89jO7MOZcLSCUw.jpg",
+                "overview": "12 anos depois de explorar Pandora e se juntar aos Na'vi, Jake Sully formou uma fam\u00edlia com Neytiri e se estabeleceu entre os cl\u00e3s do novo mundo. Por\u00e9m, a paz n\u00e3o durar\u00e1 para sempre.",
+                "vote_average": 7.628,
+                "vote_count": 11082
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Babylon",
+            "second_label": "Production Design: Florencia Martin; Set Decoration: Anthony Carlino",
+            "category": "Production Design",
+            "year": 2023,
+            "tmdb": {
+                "id": 615777,
+                "original_title": "Babylon",
+                "title": "Babil\u00f4nia",
+                "release_date": "2022-12-22",
+                "backdrop_path": "/oCKZAdUROqdlTcUOstqJ1gM8JQt.jpg",
+                "poster_path": "/qZUmMxJbGmkIYwnS7qRfSOREmvC.jpg",
+                "overview": "Durante a era de ouro de Hollywood, em Los Angeles da d\u00e9cada de 1920, um jovem latino est\u00e1 determinado a conseguir uma carreira enquanto o cinema entra em fase de transi\u00e7\u00e3o dos filmes mudos para produ\u00e7\u00f5es com falas.",
+                "vote_average": 7.419,
+                "vote_count": 2703
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Elvis",
+            "second_label": "Production Design: Catherine Martin and Karen Murphy; Set Decoration: Bev Dunn",
+            "category": "Production Design",
+            "year": 2023,
+            "tmdb": {
+                "id": 614934,
+                "original_title": "Elvis",
+                "title": "Elvis",
+                "release_date": "2022-06-22",
+                "backdrop_path": "/rLo9T9jEg67UZPq3midjLnTUYYi.jpg",
+                "poster_path": "/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg",
+                "overview": "Desde sua ascens\u00e3o ao estrelato, o \u00edcone do rock Elvis Presley mant\u00e9m um relacionamento complicado com seu enigm\u00e1tico empres\u00e1rio, Tom Parker, por mais de 20 anos.",
+                "vote_average": 7.551,
+                "vote_count": 3074
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Fabelmans",
+            "second_label": "Production Design: Rick Carter; Set Decoration: Karen O'Hara",
+            "category": "Production Design",
+            "year": 2023,
+            "tmdb": {
+                "id": 804095,
+                "original_title": "The Fabelmans",
+                "title": "Os Fabelmans",
+                "release_date": "2022-11-11",
+                "backdrop_path": "/2OnmtVOEpCwt0sYtss5kNxyYM2W.jpg",
+                "poster_path": "/BWHoAAcKnGtowRXju2c2RBrT0m.jpg",
+                "overview": "Crescendo no Arizona p\u00f3s-Segunda Guerra Mundial, o jovem Sammy Fabelman aspira a se tornar um cineasta ao atingir a adolesc\u00eancia, mas logo descobre um segredo de fam\u00edlia devastador e explora como o poder dos filmes pode ajud\u00e1-lo a ver a verdade.",
+                "vote_average": 7.646,
+                "vote_count": 2070
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Animated)": [
+        {
+            "first_label": "The Boy, the Mole, the Fox and the Horse",
+            "second_label": "Charlie Mackesy and Matthew Freud",
+            "category": "Short Film (Animated)",
+            "year": 2023,
+            "tmdb": {
+                "id": 995133,
+                "original_title": "The Boy, the Mole, the Fox and the Horse",
+                "title": "O Menino, a Toupeira, a Raposa e o Cavalo",
+                "release_date": "2022-12-25",
+                "backdrop_path": "/jGKQks1bd3rmltqaXbEbS9DnsPv.jpg",
+                "poster_path": "/765XUik0cbyWHITgE22FhpA8elG.jpg",
+                "overview": "Acompanhe a improv\u00e1vel uni\u00e3o de quatro amigos, enquanto eles exploram o significado de gentileza, coragem e esperan\u00e7a.",
+                "vote_average": 8.289,
+                "vote_count": 486
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Flying Sailor",
+            "second_label": "Amanda Forbis and Wendy Tilby",
+            "category": "Short Film (Animated)",
+            "year": 2023,
+            "tmdb": {
+                "id": 742872,
+                "original_title": "The Flying Sailor",
+                "title": "The Flying Sailor",
+                "release_date": "2022-06-13",
+                "backdrop_path": "/oSQpCT0f9MRMtSksPYOsQJqsBf2.jpg",
+                "poster_path": "/xWkv9WOT8EFvzN7pdyaOIVAUVuZ.jpg",
+                "overview": "The Flying Sailor \u00e9 um curta animado inspirado na explos\u00e3o de Halifax, em 1917, quando dois navios colidiram no porto de Halifax, causando a maior explos\u00e3o acidental da hist\u00f3ria. O filme retrata o famoso relato de um marinheiro que, lan\u00e7ado para o c\u00e9u por conta da explos\u00e3o, voou por mais de 2 km antes de cair completamente ileso, mas vestindo apenas um par de botas.",
+                "vote_average": 5.9,
+                "vote_count": 47
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ice Merchants",
+            "second_label": "Joo Gonzalez and Bruno Caetano",
+            "category": "Short Film (Animated)",
+            "year": 2023,
+            "tmdb": {
+                "id": 965171,
+                "original_title": "Ice Merchants",
+                "title": "Ice Merchants",
+                "release_date": "2022-05-24",
+                "backdrop_path": "/cBR4g7jOlENyQl3oD4SZjwwZQq7.jpg",
+                "poster_path": "/uDoiGF4KqyNglxaIJlRWdFQ4WJT.jpg",
+                "overview": "Todos os dias, um pai e seu filho saltam de paraquedas de sua casa vertiginosa e fria, presa a um penhasco, para irem a uma distante aldeia no ch\u00e3o, onde vendem o gelo que produzem diariamente.",
+                "vote_average": 7.4,
+                "vote_count": 47
+            },
+            "winner": false
+        },
+        {
+            "first_label": "My Year of Dicks",
+            "second_label": "Sara Gunnarsdttir and Pamela Ribon",
+            "category": "Short Film (Animated)",
+            "year": 2023,
+            "tmdb": {
+                "id": 971188,
+                "original_title": "My Year of Dicks",
+                "title": "My Year of Dicks",
+                "release_date": "2023-02-17",
+                "backdrop_path": "/6L2JjW78cpWmFMFVTsLQMPNX9jM.jpg",
+                "poster_path": "/mfOZCsCyUcwSwy2O2aJBZZC8fNw.jpg",
+                "overview": "Nos anos 90, uma adolescente que mora nos sub\u00farbios de Houston faz de tudo para que consiga, finalmente, perder sua virgindade.",
+                "vote_average": 6.6,
+                "vote_count": 35
+            },
+            "winner": false
+        },
+        {
+            "first_label": "An Ostrich Told Me the World Is Fake and I Think I Believe It",
+            "second_label": "Lachlan Pendragon",
+            "category": "Short Film (Animated)",
+            "year": 2023,
+            "tmdb": {
+                "id": 943776,
+                "original_title": "An Ostrich Told Me the World Is Fake and I Think I Believe It",
+                "title": "An Ostrich Told Me the World Is Fake and I Think I Believe It",
+                "release_date": "2022-06-07",
+                "backdrop_path": "/AldDLBcGVFjFEwZbFdUnjcfUoK1.jpg",
+                "poster_path": "/a0xrTLwvosW81fuFhdWYdu35GJ0.jpg",
+                "overview": "Quando um jovem atendente de telemarketing \u00e9 confrontado por um mist\u00e9rio avestruz falante, ele aprende que todo seu universo \u00e9 uma anima\u00e7\u00e3o stop motion.",
+                "vote_average": 6.9,
+                "vote_count": 35
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Live Action)": [
+        {
+            "first_label": "An Irish Goodbye",
+            "second_label": "Tom Berkeley and Ross White",
+            "category": "Short Film (Live Action)",
+            "year": 2023,
+            "tmdb": {
+                "id": 889598,
+                "original_title": "An Irish Goodbye",
+                "title": "An Irish Goodbye",
+                "release_date": "2022-03-04",
+                "backdrop_path": "/kmH8MnFGi4YJowLPgQzUg9ILdrv.jpg",
+                "poster_path": "/oR0lFQkXESt6TMinfO4ZsimcPxO.jpg",
+                "overview": "Com a morte prematura de uma mulher, seus dois filhos se reencontram depois de muito tempo de dist\u00e2ncia.",
+                "vote_average": 6.6,
+                "vote_count": 45
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Ivalu",
+            "second_label": "Anders Walter and Rebecca Pruzan",
+            "category": "Short Film (Live Action)",
+            "year": 2023,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Le Pupille",
+            "second_label": "Alice Rohrwacher and Alfonso Cuarn",
+            "category": "Short Film (Live Action)",
+            "year": 2023,
+            "tmdb": {
+                "id": 974586,
+                "original_title": "Le pupille",
+                "title": "Le Pupille",
+                "release_date": "2022-05-27",
+                "backdrop_path": "/aHkjDwtkPkuc88X7FBQuN1EMjis.jpg",
+                "poster_path": "/kpV6clnGWQO57liEp8FffpKOUAS.jpg",
+                "overview": "Uma hist\u00f3ria sobre inoc\u00eancia, gan\u00e2ncia e fantasia que gira em torno de um bolo natalino, ambientada em um internato cat\u00f3lico para garotas durante a guerra. O termo \"pupila\" vem do latim pupilla, que significa \"garota pequena\". Baseado em uma carta enviada por Elsa Morante, uma das maiores escritoras italianas do s\u00e9culo XX, para seu amigo, Goffredo Fofi, no Natal de 1971.",
+                "vote_average": 7.1,
+                "vote_count": 89
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Night Ride",
+            "second_label": "Eirik Tveiten and Gaute Lid Larssen",
+            "category": "Short Film (Live Action)",
+            "year": 2023,
+            "tmdb": {
+                "id": 1045793,
+                "original_title": "Night Rider",
+                "title": "Night Rider",
+                "release_date": "2022-07-22",
+                "backdrop_path": "/uQaJEu4DT5oV7jysHxqjNkvxROF.jpg",
+                "poster_path": "/vmvng8lMk3IAZhSYoKkKpENCJAs.jpg",
+                "overview": "The theme of the film revolves around a series of unexpected events that a taxi driver in Colombo has to face when a journalist gets into his car and a political mob follows her, and this taxi driver has to face many unexpected events to protect her from the political gang.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Red Suitcase",
+            "second_label": "Cyrus Neshvad",
+            "category": "Short Film (Live Action)",
+            "year": 2023,
+            "tmdb": {
+                "id": 1032734,
+                "original_title": "La valise rouge",
+                "title": "The Red Suitcase",
+                "release_date": "2022-08-10",
+                "backdrop_path": "/lF1bmtWOfwqlWcu7ybJYvdqzQPD.jpg",
+                "poster_path": "/eZBJAqNg5XoWPynbCX04xlS687g.jpg",
+                "overview": "Uma garota iraniana fica com receio de colocar sua mala no aeroporto de um pa\u00eds europeu. Mas, ao adiar o momento inevit\u00e1vel, ela fica cada vez mais apavorada, pois precisa passar pelo port\u00e3o de desembarque.",
+                "vote_average": 7.2,
+                "vote_count": 19
+            },
+            "winner": false
+        }
+    ],
+    "Sound": [
+        {
+            "first_label": "Top Gun: Maverick",
+            "second_label": "Mark Weingarten, James H. Mather, Al Nelson, Chris Burdon and Mark Taylor",
+            "category": "Sound",
+            "year": 2023,
+            "tmdb": {
+                "id": 361743,
+                "original_title": "Top Gun: Maverick",
+                "title": "Top Gun: Maverick",
+                "release_date": "2022-05-24",
+                "backdrop_path": "/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
+                "poster_path": "/e9ZrMPiJqYg2qEnWS7n1U7W0GHL.jpg",
+                "overview": "Depois de mais de 30 anos de servi\u00e7o como um dos principais aviadores da Marinha, Pete \"Maverick\" Mitchell est\u00e1 de volta, rompendo os limites como um piloto de testes corajoso. No mundo contempor\u00e2neo das guerras tecnol\u00f3gicas, Maverick enfrenta drones e prova que o fator humano ainda \u00e9 essencial.",
+                "vote_average": 8.225,
+                "vote_count": 8412
+            },
+            "winner": true
+        },
+        {
+            "first_label": "All Quiet on the Western Front",
+            "second_label": "Viktor Pr\u0161il, Frank Kruse, Markus Stemler, Lars Ginzel and Stefan Korte",
+            "category": "Sound",
+            "year": 2023,
+            "tmdb": {
+                "id": 49046,
+                "original_title": "Im Westen nichts Neues",
+                "title": "Nada de Novo no Front",
+                "release_date": "2022-10-07",
+                "backdrop_path": "/kZZ9JuZ5CMvH0Y2LwboekvXIHqQ.jpg",
+                "poster_path": "/qmcKs0Aoft7MBdBoj1haZyPRgM2.jpg",
+                "overview": "Convocado para a linha de frente da Primeira Guerra Mundial, o adolescente Paul encara a dura realidade da vida nas trincheiras.",
+                "vote_average": 7.733,
+                "vote_count": 3498
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Avatar: The Way of Water",
+            "second_label": "Julian Howarth, Gwendolyn Yates Whittle, Dick Bernstein, Christopher Boyes, Gary Summers and Michael Hedges",
+            "category": "Sound",
+            "year": 2023,
+            "tmdb": {
+                "id": 76600,
+                "original_title": "Avatar: The Way of Water",
+                "title": "Avatar: O Caminho da \u00c1gua",
+                "release_date": "2022-12-14",
+                "backdrop_path": "/8rpDcsfLJypbO6vREc0547VKqEv.jpg",
+                "poster_path": "/mbYQLLluS651W89jO7MOZcLSCUw.jpg",
+                "overview": "12 anos depois de explorar Pandora e se juntar aos Na'vi, Jake Sully formou uma fam\u00edlia com Neytiri e se estabeleceu entre os cl\u00e3s do novo mundo. Por\u00e9m, a paz n\u00e3o durar\u00e1 para sempre.",
+                "vote_average": 7.628,
+                "vote_count": 11082
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Batman",
+            "second_label": "Stuart Wilson, William Files, Douglas Murray and Andy Nelson",
+            "category": "Sound",
+            "year": 2023,
+            "tmdb": {
+                "id": 414906,
+                "original_title": "The Batman",
+                "title": "Batman",
+                "release_date": "2022-03-01",
+                "backdrop_path": "/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg",
+                "poster_path": "/wd7b4Nv9QBHDTIjc2m7sr0IUMoh.jpg",
+                "overview": "Ap\u00f3s dois anos espreitando as ruas como Batman, Bruce Wayne se encontra nas profundezas mais sombrias de Gotham City. Com poucos aliados confi\u00e1veis, o vigilante solit\u00e1rio se estabelece como a personifica\u00e7\u00e3o da vingan\u00e7a para a popula\u00e7\u00e3o.",
+                "vote_average": 7.682,
+                "vote_count": 9366
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Elvis",
+            "second_label": "David Lee, Wayne Pashley, Andy Nelson and Michael Keller",
+            "category": "Sound",
+            "year": 2023,
+            "tmdb": {
+                "id": 614934,
+                "original_title": "Elvis",
+                "title": "Elvis",
+                "release_date": "2022-06-22",
+                "backdrop_path": "/rLo9T9jEg67UZPq3midjLnTUYYi.jpg",
+                "poster_path": "/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg",
+                "overview": "Desde sua ascens\u00e3o ao estrelato, o \u00edcone do rock Elvis Presley mant\u00e9m um relacionamento complicado com seu enigm\u00e1tico empres\u00e1rio, Tom Parker, por mais de 20 anos.",
+                "vote_average": 7.551,
+                "vote_count": 3074
+            },
+            "winner": false
+        }
+    ],
+    "Visual Effects": [
+        {
+            "first_label": "Avatar: The Way of Water",
+            "second_label": "Joe Letteri, Richard Baneham, Eric Saindon and Daniel Barrett",
+            "category": "Visual Effects",
+            "year": 2023,
+            "tmdb": {
+                "id": 76600,
+                "original_title": "Avatar: The Way of Water",
+                "title": "Avatar: O Caminho da \u00c1gua",
+                "release_date": "2022-12-14",
+                "backdrop_path": "/8rpDcsfLJypbO6vREc0547VKqEv.jpg",
+                "poster_path": "/mbYQLLluS651W89jO7MOZcLSCUw.jpg",
+                "overview": "12 anos depois de explorar Pandora e se juntar aos Na'vi, Jake Sully formou uma fam\u00edlia com Neytiri e se estabeleceu entre os cl\u00e3s do novo mundo. Por\u00e9m, a paz n\u00e3o durar\u00e1 para sempre.",
+                "vote_average": 7.628,
+                "vote_count": 11082
+            },
+            "winner": true
+        },
+        {
+            "first_label": "All Quiet on the Western Front",
+            "second_label": "Frank Petzold, Viktor Mller, Markus Frank and Kamil Jafar",
+            "category": "Visual Effects",
+            "year": 2023,
+            "tmdb": {
+                "id": 49046,
+                "original_title": "Im Westen nichts Neues",
+                "title": "Nada de Novo no Front",
+                "release_date": "2022-10-07",
+                "backdrop_path": "/kZZ9JuZ5CMvH0Y2LwboekvXIHqQ.jpg",
+                "poster_path": "/qmcKs0Aoft7MBdBoj1haZyPRgM2.jpg",
+                "overview": "Convocado para a linha de frente da Primeira Guerra Mundial, o adolescente Paul encara a dura realidade da vida nas trincheiras.",
+                "vote_average": 7.733,
+                "vote_count": 3498
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Batman",
+            "second_label": "Dan Lemmon, Russell Earl, Anders Langlands and Dominic Tuohy",
+            "category": "Visual Effects",
+            "year": 2023,
+            "tmdb": {
+                "id": 414906,
+                "original_title": "The Batman",
+                "title": "Batman",
+                "release_date": "2022-03-01",
+                "backdrop_path": "/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg",
+                "poster_path": "/wd7b4Nv9QBHDTIjc2m7sr0IUMoh.jpg",
+                "overview": "Ap\u00f3s dois anos espreitando as ruas como Batman, Bruce Wayne se encontra nas profundezas mais sombrias de Gotham City. Com poucos aliados confi\u00e1veis, o vigilante solit\u00e1rio se estabelece como a personifica\u00e7\u00e3o da vingan\u00e7a para a popula\u00e7\u00e3o.",
+                "vote_average": 7.682,
+                "vote_count": 9366
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Black Panther: Wakanda Forever",
+            "second_label": "Geoffrey Baumann, Craig Hammack, R. Christopher White and Dan Sudick",
+            "category": "Visual Effects",
+            "year": 2023,
+            "tmdb": {
+                "id": 505642,
+                "original_title": "Black Panther: Wakanda Forever",
+                "title": "Pantera Negra: Wakanda para Sempre",
+                "release_date": "2022-11-09",
+                "backdrop_path": "/xDMIl84Qo5Tsu62c9DGWhmPI67A.jpg",
+                "poster_path": "/nZ69WTv7n01womaNz3SHa4inA9x.jpg",
+                "overview": "A rainha Ramonda, Shuri, M'Baku, Okoye e as poderosas Dora Milaje lutam para proteger sua na\u00e7\u00e3o ap\u00f3s a morte do rei T'Challa. Com a ajuda da C\u00e3o de Guerra Nakia e de Everett Ross, eles tentam encontrar um novo caminho para Wakanda.",
+                "vote_average": 7.143,
+                "vote_count": 6024
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Top Gun: Maverick",
+            "second_label": "Ryan Tudhope, Seth Hill, Bryan Litson and Scott R. Fisher",
+            "category": "Visual Effects",
+            "year": 2023,
+            "tmdb": {
+                "id": 361743,
+                "original_title": "Top Gun: Maverick",
+                "title": "Top Gun: Maverick",
+                "release_date": "2022-05-24",
+                "backdrop_path": "/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
+                "poster_path": "/e9ZrMPiJqYg2qEnWS7n1U7W0GHL.jpg",
+                "overview": "Depois de mais de 30 anos de servi\u00e7o como um dos principais aviadores da Marinha, Pete \"Maverick\" Mitchell est\u00e1 de volta, rompendo os limites como um piloto de testes corajoso. No mundo contempor\u00e2neo das guerras tecnol\u00f3gicas, Maverick enfrenta drones e prova que o fator humano ainda \u00e9 essencial.",
+                "vote_average": 8.225,
+                "vote_count": 8412
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Adapted Screenplay)": [
+        {
+            "first_label": "Women Talking",
+            "second_label": "Screenplay by Sarah Polley",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2023,
+            "tmdb": {
+                "id": 777245,
+                "original_title": "Women Talking",
+                "title": "Entre Mulheres",
+                "release_date": "2022-12-23",
+                "backdrop_path": "/edH2sKM63YiSEOWoaJPN87a71dZ.jpg",
+                "poster_path": "/lH5qPokImvjzg18DxURFS3Clmyw.jpg",
+                "overview": "Um grupo de mulheres em uma comunidade menonita isolada luta para reconciliar sua realidade com sua f\u00e9 ap\u00f3s uma s\u00e9rie de agress\u00f5es sexuais cometidas pelos homens da col\u00f4nia.",
+                "vote_average": 6.9,
+                "vote_count": 513
+            },
+            "winner": true
+        },
+        {
+            "first_label": "All Quiet on the Western Front",
+            "second_label": "Screenplay - Edward Berger, Lesley Paterson & Ian Stokell",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2023,
+            "tmdb": {
+                "id": 49046,
+                "original_title": "Im Westen nichts Neues",
+                "title": "Nada de Novo no Front",
+                "release_date": "2022-10-07",
+                "backdrop_path": "/kZZ9JuZ5CMvH0Y2LwboekvXIHqQ.jpg",
+                "poster_path": "/qmcKs0Aoft7MBdBoj1haZyPRgM2.jpg",
+                "overview": "Convocado para a linha de frente da Primeira Guerra Mundial, o adolescente Paul encara a dura realidade da vida nas trincheiras.",
+                "vote_average": 7.733,
+                "vote_count": 3498
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Glass Onion: A Knives Out Mystery",
+            "second_label": "Written by Rian Johnson",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2023,
+            "tmdb": {
+                "id": 661374,
+                "original_title": "Glass Onion: A Knives Out Mystery",
+                "title": "Glass Onion: Um Mist\u00e9rio Knives Out",
+                "release_date": "2022-11-12",
+                "backdrop_path": "/dKqa850uvbNSCaQCV4Im1XlzEtQ.jpg",
+                "poster_path": "/zQJcENHbZUpLQ8RKYt9wTzcXCwv.jpg",
+                "overview": "O famoso detetive Benoit Blanc vai \u00e0 Gr\u00e9cia para desvendar um mist\u00e9rio que envolve um bilion\u00e1rio e seu ecl\u00e9tico c\u00edrculo de amizades.",
+                "vote_average": 7.049,
+                "vote_count": 5026
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Living",
+            "second_label": "Written by Kazuo Ishiguro",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2023,
+            "tmdb": {
+                "id": 760099,
+                "original_title": "Living",
+                "title": "Viver",
+                "release_date": "2022-11-04",
+                "backdrop_path": "/vxxCUHZlPuwepCeZMYLmbXCdOP1.jpg",
+                "poster_path": "/sujkFvw29C1cvwBHbToPnWnvBcV.jpg",
+                "overview": "Na Londres dos anos 1950, um funcion\u00e1rio p\u00fablico mau humorado decide tirar uma folga do trabalho para experimentar a vida depois de receber um diagn\u00f3stico sombrio.",
+                "vote_average": 7.0,
+                "vote_count": 343
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Top Gun: Maverick",
+            "second_label": "Screenplay by Ehren Kruger and Eric Warren Singer and Christopher McQuarrie; Story by Peter Craig and Justin Marks",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2023,
+            "tmdb": {
+                "id": 361743,
+                "original_title": "Top Gun: Maverick",
+                "title": "Top Gun: Maverick",
+                "release_date": "2022-05-24",
+                "backdrop_path": "/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
+                "poster_path": "/e9ZrMPiJqYg2qEnWS7n1U7W0GHL.jpg",
+                "overview": "Depois de mais de 30 anos de servi\u00e7o como um dos principais aviadores da Marinha, Pete \"Maverick\" Mitchell est\u00e1 de volta, rompendo os limites como um piloto de testes corajoso. No mundo contempor\u00e2neo das guerras tecnol\u00f3gicas, Maverick enfrenta drones e prova que o fator humano ainda \u00e9 essencial.",
+                "vote_average": 8.225,
+                "vote_count": 8412
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Original Screenplay)": [
+        {
+            "first_label": "Everything Everywhere All at Once",
+            "second_label": "Written by Daniel Kwan & Daniel Scheinert",
+            "category": "Writing (Original Screenplay)",
+            "year": 2023,
+            "tmdb": {
+                "id": 545611,
+                "original_title": "Everything Everywhere All at Once",
+                "title": "Tudo em Todo o Lugar ao Mesmo Tempo",
+                "release_date": "2022-03-24",
+                "backdrop_path": "/fIwiFha3WPu5nHkBeMQ4GzEk0Hv.jpg",
+                "poster_path": "/bW21kbvqAt2kMGlaU8qY86C8kQE.jpg",
+                "overview": "Uma imigrante chinesa parte rumo a uma aventura onde, sozinha, precisar\u00e1 salvar o mundo, explorando outros universos e outras vidas que poderia ter vivido. Contudo, as coisas se complicam quando ela fica presa nessa infinidade de possibilidades sem conseguir retornar para casa.",
+                "vote_average": 7.799,
+                "vote_count": 5915
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Banshees of Inisherin",
+            "second_label": "Written by Martin McDonagh",
+            "category": "Writing (Original Screenplay)",
+            "year": 2023,
+            "tmdb": {
+                "id": 674324,
+                "original_title": "The Banshees of Inisherin",
+                "title": "Os Banshees de Inisherin",
+                "release_date": "2022-10-20",
+                "backdrop_path": "/1vXD5HXqkhvsXFHE7KmCPZGPR1e.jpg",
+                "poster_path": "/rakuuNLbDX0OdQ9QQjnVH6YwVzt.jpg",
+                "overview": "Embora P\u00e1draic e Colm tenham sido amigos de longa data, eles se encontram num impasse quando um deles abruptamente rompe o relacionamento, trazendo consequ\u00eancias graves para ambos.",
+                "vote_average": 7.456,
+                "vote_count": 2454
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Fabelmans",
+            "second_label": "Written by Steven Spielberg & Tony Kushner",
+            "category": "Writing (Original Screenplay)",
+            "year": 2023,
+            "tmdb": {
+                "id": 804095,
+                "original_title": "The Fabelmans",
+                "title": "Os Fabelmans",
+                "release_date": "2022-11-11",
+                "backdrop_path": "/2OnmtVOEpCwt0sYtss5kNxyYM2W.jpg",
+                "poster_path": "/BWHoAAcKnGtowRXju2c2RBrT0m.jpg",
+                "overview": "Crescendo no Arizona p\u00f3s-Segunda Guerra Mundial, o jovem Sammy Fabelman aspira a se tornar um cineasta ao atingir a adolesc\u00eancia, mas logo descobre um segredo de fam\u00edlia devastador e explora como o poder dos filmes pode ajud\u00e1-lo a ver a verdade.",
+                "vote_average": 7.646,
+                "vote_count": 2070
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tr",
+            "second_label": "Written by Todd Field",
+            "category": "Writing (Original Screenplay)",
+            "year": 2023,
+            "tmdb": {
+                "id": 1006540,
+                "original_title": "Bullet Train Down",
+                "title": "Trem bala \u00e0 baixo",
+                "release_date": "2022-08-01",
+                "backdrop_path": "/mEoIDEiePnYj178H9znzbl9zvky.jpg",
+                "poster_path": "/5a7cocgyVuFjYV71neDIGVzD6Yq.jpg",
+                "overview": "Em sua corrida inaugural, o trem-bala mais r\u00e1pido do mundo est\u00e1 equipado com uma bomba que explodir\u00e1 se cair abaixo de 320 km/h.",
+                "vote_average": 5.075,
+                "vote_count": 20
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Triangle of Sadness",
+            "second_label": "Written by Ruben stlund",
+            "category": "Writing (Original Screenplay)",
+            "year": 2023,
+            "tmdb": {
+                "id": 497828,
+                "original_title": "Triangle of Sadness",
+                "title": "Tri\u00e2ngulo da Tristeza",
+                "release_date": "2022-09-18",
+                "backdrop_path": "/jENycYiYGr5NvMs789zj06JkW5l.jpg",
+                "poster_path": "/scfQwUUe0MQb0T5khF1x5e4HSoR.jpg",
+                "overview": "Um cruzeiro para os super-ricos afunda, deixando os sobreviventes, incluindo um casal de celebridades, presos em uma ilha.",
+                "vote_average": 7.103,
+                "vote_count": 1921
+            },
+            "winner": false
+        }
+    ]
+}

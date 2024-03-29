@@ -1,0 +1,2098 @@
+{
+    "Actor in a Leading Role": [
+        {
+            "first_label": "Joaquin Phoenix",
+            "second_label": "Joker",
+            "category": "Actor in a Leading Role",
+            "year": 2020,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Antonio Banderas",
+            "second_label": "Pain and Glory",
+            "category": "Actor in a Leading Role",
+            "year": 2020,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Leonardo DiCaprio",
+            "second_label": "Once upon a Time...in Hollywood",
+            "category": "Actor in a Leading Role",
+            "year": 2020,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Adam Driver",
+            "second_label": "Marriage Story",
+            "category": "Actor in a Leading Role",
+            "year": 2020,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jonathan Pryce",
+            "second_label": "The Two Popes",
+            "category": "Actor in a Leading Role",
+            "year": 2020,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Brad Pitt",
+            "second_label": "Once upon a Time...in Hollywood",
+            "category": "Actor in a Supporting Role",
+            "year": 2020,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Tom Hanks",
+            "second_label": "A Beautiful Day in the Neighborhood",
+            "category": "Actor in a Supporting Role",
+            "year": 2020,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Anthony Hopkins",
+            "second_label": "The Two Popes",
+            "category": "Actor in a Supporting Role",
+            "year": 2020,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Al Pacino",
+            "second_label": "The Irishman",
+            "category": "Actor in a Supporting Role",
+            "year": 2020,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Joe Pesci",
+            "second_label": "The Irishman",
+            "category": "Actor in a Supporting Role",
+            "year": 2020,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Leading Role": [
+        {
+            "first_label": "Rene Zellweger",
+            "second_label": "Judy",
+            "category": "Actress in a Leading Role",
+            "year": 2020,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Cynthia Erivo",
+            "second_label": "Harriet",
+            "category": "Actress in a Leading Role",
+            "year": 2020,
+            "tmdb": {
+                "id": 601766,
+                "original_title": "Cynthia Erivo in Concert",
+                "title": "Cynthia Erivo in Concert",
+                "release_date": "2019-05-10",
+                "backdrop_path": "/1MScR4oWI8SucACwos38zGkFVGj.jpg",
+                "poster_path": "/qhBDtVI5ovTTvhollv3cfbZAv3O.jpg",
+                "overview": "Enjoy a soulful evening of song from one of Broadway\u2019s brightest stars. Seamlessly making the transition from the stage to the big screen, British-born Cynthia Erivo won the Tony Award for Best Actress in a Musical for her performance in The Color Purple before starring in several films, including Steve McQueen\u2019s Widows.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Scarlett Johansson",
+            "second_label": "Marriage Story",
+            "category": "Actress in a Leading Role",
+            "year": 2020,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Saoirse Ronan",
+            "second_label": "Little Women",
+            "category": "Actress in a Leading Role",
+            "year": 2020,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Charlize Theron",
+            "second_label": "Bombshell",
+            "category": "Actress in a Leading Role",
+            "year": 2020,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Laura Dern",
+            "second_label": "Marriage Story",
+            "category": "Actress in a Supporting Role",
+            "year": 2020,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Kathy Bates",
+            "second_label": "Richard Jewell",
+            "category": "Actress in a Supporting Role",
+            "year": 2020,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Scarlett Johansson",
+            "second_label": "Jojo Rabbit",
+            "category": "Actress in a Supporting Role",
+            "year": 2020,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Florence Pugh",
+            "second_label": "Little Women",
+            "category": "Actress in a Supporting Role",
+            "year": 2020,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Margot Robbie",
+            "second_label": "Bombshell",
+            "category": "Actress in a Supporting Role",
+            "year": 2020,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Animated Feature Film": [
+        {
+            "first_label": "Toy Story 4",
+            "second_label": "Josh Cooley, Mark Nielsen and Jonas Rivera",
+            "category": "Animated Feature Film",
+            "year": 2020,
+            "tmdb": {
+                "id": 301528,
+                "original_title": "Toy Story 4",
+                "title": "Toy Story 4",
+                "release_date": "2019-06-19",
+                "backdrop_path": "/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg",
+                "poster_path": "/csiyO6q8rR74pfgJDjwINzhoick.jpg",
+                "overview": "Agora morando na casa da pequena Bonnie, Woody apresenta aos amigos o novo brinquedo constru\u00eddo por ela: Forky, baseado em um garfo de verdade. O novo posto de brinquedo n\u00e3o o agrada nem um pouco, o que faz com que Forky fuja de casa. Decidido a trazer de volta o atual brinquedo favorito de Bonnie, Woody parte em seu encal\u00e7o e, no caminho, reencontra Bo Peep, que agora vive em um parque de divers\u00f5es.",
+                "vote_average": 7.504,
+                "vote_count": 9384
+            },
+            "winner": true
+        },
+        {
+            "first_label": "How to Train Your Dragon: The Hidden World",
+            "second_label": "Dean DeBlois, Bradford Lewis and Bonnie Arnold",
+            "category": "Animated Feature Film",
+            "year": 2020,
+            "tmdb": {
+                "id": 166428,
+                "original_title": "How to Train Your Dragon: The Hidden World",
+                "title": "Como Treinar o Seu Drag\u00e3o 3",
+                "release_date": "2019-01-03",
+                "backdrop_path": "/h3KN24PrOheHVYs9ypuOIdFBEpX.jpg",
+                "poster_path": "/5uqxMHM7YLKk6yni4bOE0D6DVz8.jpg",
+                "overview": "Decidido a fazer de Berk um verdadeiro libelo ao ideal da conviv\u00eancia pac\u00edfica entre homens e drag\u00f5es, Solu\u00e7o e seus amigos seguem atr\u00e1s de ca\u00e7adores, para n\u00e3o s\u00f3 libertar suas presas mas tamb\u00e9m impedir a matan\u00e7a desenfreada dos animais. O esfor\u00e7o do grupo desperta a aten\u00e7\u00e3o de Grimmel ao descobrir que entre eles est\u00e1 Banguela, um leg\u00edtimo F\u00faria da Noite. O vil\u00e3o ent\u00e3o desenvolve um plano para captur\u00e1-lo a todo custo, usando como arma uma f\u00eamea capturada, da mesma esp\u00e9cie.",
+                "vote_average": 7.751,
+                "vote_count": 6059
+            },
+            "winner": false
+        },
+        {
+            "first_label": "I Lost My Body",
+            "second_label": "Jrmy Clapin and Marc du Pontavice",
+            "category": "Animated Feature Film",
+            "year": 2020,
+            "tmdb": {
+                "id": 586940,
+                "original_title": "J'ai perdu mon corps",
+                "title": "Perdi Meu Corpo",
+                "release_date": "2019-11-06",
+                "backdrop_path": "/rHJX9CMYk7FXxUV5la1dEFSPVCv.jpg",
+                "poster_path": "/jH0mknMEByXUDTfiS1SQOxYDL5z.jpg",
+                "overview": "Romance, mist\u00e9rio e aventura se misturam na hist\u00f3ria de um jovem apaixonado em Paris e de uma m\u00e3o decepada em busca de seu dono neste filme de anima\u00e7\u00e3o impressionante.",
+                "vote_average": 7.5,
+                "vote_count": 1202
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Klaus",
+            "second_label": "Sergio Pablos, Jinko Gotoh and Marisa Romn",
+            "category": "Animated Feature Film",
+            "year": 2020,
+            "tmdb": {
+                "id": 508965,
+                "original_title": "Klaus",
+                "title": "Klaus",
+                "release_date": "2019-11-08",
+                "backdrop_path": "/mlxKite1x1PgmIhJgAxNS9eHmH8.jpg",
+                "poster_path": "/guyZW9AQdTMp2F4esttjyIMMK1k.jpg",
+                "overview": "Em Smeerensburg, remota ilha localizada acima do C\u00edrculo \u00c1rtico, Jesper \u00e9 um estudante da Academia Postal que enfrenta um s\u00e9rio problema: os habitantes da cidade brigam o tempo todo, sem demonstrar o menor interesse por cartas. Prestes a desistir da profiss\u00e3o, ele encontra apoio na professora Alva e no misterioso carpinteiro Klaus, que vive sozinho em sua casa repleta de brinquedos feitos a m\u00e3o.",
+                "vote_average": 8.2,
+                "vote_count": 3827
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Missing Link",
+            "second_label": "Chris Butler, Arianne Sutner and Travis Knight",
+            "category": "Animated Feature Film",
+            "year": 2020,
+            "tmdb": {
+                "id": 458253,
+                "original_title": "Missing Link",
+                "title": "Link Perdido",
+                "release_date": "2019-04-04",
+                "backdrop_path": "/bOvRLNMe6BUkyUv02LB3B7CJeAo.jpg",
+                "poster_path": "/b2hayCDCuzoG99LmWIMqB619iJu.jpg",
+                "overview": "Sir Lionel Frost se considera o melhor investigador de mitos e monstros do mundo. O problema \u00e9 que nenhum dos seus colegas o leva a s\u00e9rio. Sua \u00faltima chance para ganhar seu respeito \u00e9 provar a exist\u00eancia de um ancestral primitivo do homem, conhecido como o Link perdido.",
+                "vote_average": 7.0,
+                "vote_count": 802
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "1917",
+            "second_label": "Roger Deakins",
+            "category": "Cinematography",
+            "year": 2020,
+            "tmdb": {
+                "id": 530915,
+                "original_title": "1917",
+                "title": "1917",
+                "release_date": "2019-12-25",
+                "backdrop_path": "/76LpPdXtCf4WxWDagVT2YcF4e9g.jpg",
+                "poster_path": "/m6VVgmwNdOWvLo8nlheLPQU5wr7.jpg",
+                "overview": "Os cabos Schofield e Blake s\u00e3o jovens soldados brit\u00e2nicos durante a Primeira Guerra Mundial. Quando eles s\u00e3o encarregados de uma miss\u00e3o aparentemente imposs\u00edvel, os dois precisam atravessar territ\u00f3rio inimigo, lutando contra o tempo, para entregar uma mensagem que pode salvar cerca de 1600 colegas de batalh\u00e3o.",
+                "vote_average": 8.0,
+                "vote_count": 11825
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Irishman",
+            "second_label": "Rodrigo Prieto",
+            "category": "Cinematography",
+            "year": 2020,
+            "tmdb": {
+                "id": 398978,
+                "original_title": "The Irishman",
+                "title": "O Irland\u00eas",
+                "release_date": "2019-11-01",
+                "backdrop_path": "/1RDto0tLo8Fhq7OcwgDaM7nECb7.jpg",
+                "poster_path": "/3GPn2W2UdzUE1bp1KtCrYvXiZFt.jpg",
+                "overview": "Frank Sheeran \u00e9 um veterano de guerra cheio de condecora\u00e7\u00f5es que concilia a vida de caminhoneiro com a de assassino de aluguel n\u00famero um da m\u00e1fia. Promovido a l\u00edder sindical, ele torna-se o principal suspeito quando o mais famoso ex-presidente da associa\u00e7\u00e3o desaparece misteriosamente.",
+                "vote_average": 7.607,
+                "vote_count": 6476
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Joker",
+            "second_label": "Lawrence Sher",
+            "category": "Cinematography",
+            "year": 2020,
+            "tmdb": {
+                "id": 475557,
+                "original_title": "Joker",
+                "title": "Coringa",
+                "release_date": "2019-10-01",
+                "backdrop_path": "/7oJ5wrbS9Zs9AoxTjNb1siJKVq6.jpg",
+                "poster_path": "/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg",
+                "overview": "Isolado, intimidado e desconsiderado pela sociedade, o fracassado comediante Arthur Fleck inicia seu caminho como uma mente criminosa ap\u00f3s assassinar tr\u00eas homens em pleno metr\u00f4. Sua a\u00e7\u00e3o inicia um movimento popular contra a elite de Gotham City, da qual Thomas Wayne \u00e9 seu maior representante.",
+                "vote_average": 8.163,
+                "vote_count": 24288
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Lighthouse",
+            "second_label": "Jarin Blaschke",
+            "category": "Cinematography",
+            "year": 2020,
+            "tmdb": {
+                "id": 503919,
+                "original_title": "The Lighthouse",
+                "title": "O Farol",
+                "release_date": "2019-10-18",
+                "backdrop_path": "/i51wnN9phojyn14xHjQt6rv1r0x.jpg",
+                "poster_path": "/lgz39BfP0T6GO828Ymyku5kBxui.jpg",
+                "overview": "In\u00edcio do s\u00e9culo XX. Thomas Wake, respons\u00e1vel pelo farol de uma ilha isolada, contrata o jovem Ephraim Winslow para substituir o ajudante anterior e colaborar nas tarefas di\u00e1rias. No entanto, o acesso ao farol \u00e9 mantido fechado ao novato, que se torna cada vez mais curioso com este espa\u00e7o privado. Enquanto os dois homens se conhecem e se provocam, Ephraim fica obcecado em descobrir o que acontece naquele espa\u00e7o fechado, ao mesmo tempo em que fen\u00f4menos estranhos come\u00e7am a acontecer ao seu redor.",
+                "vote_average": 7.5,
+                "vote_count": 4564
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Once upon a Time...in Hollywood",
+            "second_label": "Robert Richardson",
+            "category": "Cinematography",
+            "year": 2020,
+            "tmdb": {
+                "id": 466272,
+                "original_title": "Once Upon a Time... in Hollywood",
+                "title": "Era Uma Vez em\u2026 Hollywood",
+                "release_date": "2019-07-24",
+                "backdrop_path": "/oRiUKwDpcqDdoLwPoA4FIRh3hqY.jpg",
+                "poster_path": "/h30FdikGNkrT6loajaO9G1HHjz0.jpg",
+                "overview": "Los Angeles, 1969. Rick Dalton \u00e9 um ator de TV que, juntamente com seu dubl\u00ea, est\u00e1 decidido a fazer o nome em Hollywood. Para tanto, ele conhece muitas pessoas influentes na ind\u00fastria cinematogr\u00e1fica, o que os acaba levando aos assassinatos realizados por Charles Manson na \u00e9poca, entre eles o da atriz Sharon Tate, que na \u00e9poca estava gr\u00e1vida do diretor Roman Polanski.",
+                "vote_average": 7.439,
+                "vote_count": 12783
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design": [
+        {
+            "first_label": "Little Women",
+            "second_label": "Jacqueline Durran",
+            "category": "Costume Design",
+            "year": 2020,
+            "tmdb": {
+                "id": 331482,
+                "original_title": "Little Women",
+                "title": "Ador\u00e1veis Mulheres",
+                "release_date": "2019-12-25",
+                "backdrop_path": "/lqxxwTRk0l7CubY6JkJdhnwJEkn.jpg",
+                "poster_path": "/1dwhsiuvNyQmA9ytp3T40uz4MOv.jpg",
+                "overview": "As irm\u00e3s Jo, Beth, Meg e Amy amadurecem na virada da adolesc\u00eancia para a vida adulta enquanto os Estados Unidos atravessam a Guerra Civil. Com personalidades completamente diferentes, elas enfrentam os desafios de crescer unidas pelo amor que nutrem umas pelas outras.",
+                "vote_average": 7.89,
+                "vote_count": 5970
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Irishman",
+            "second_label": "Sandy Powell and Christopher Peterson",
+            "category": "Costume Design",
+            "year": 2020,
+            "tmdb": {
+                "id": 398978,
+                "original_title": "The Irishman",
+                "title": "O Irland\u00eas",
+                "release_date": "2019-11-01",
+                "backdrop_path": "/1RDto0tLo8Fhq7OcwgDaM7nECb7.jpg",
+                "poster_path": "/3GPn2W2UdzUE1bp1KtCrYvXiZFt.jpg",
+                "overview": "Frank Sheeran \u00e9 um veterano de guerra cheio de condecora\u00e7\u00f5es que concilia a vida de caminhoneiro com a de assassino de aluguel n\u00famero um da m\u00e1fia. Promovido a l\u00edder sindical, ele torna-se o principal suspeito quando o mais famoso ex-presidente da associa\u00e7\u00e3o desaparece misteriosamente.",
+                "vote_average": 7.607,
+                "vote_count": 6476
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jojo Rabbit",
+            "second_label": "Mayes C. Rubeo",
+            "category": "Costume Design",
+            "year": 2020,
+            "tmdb": {
+                "id": 515001,
+                "original_title": "Jojo Rabbit",
+                "title": "Jojo Rabbit",
+                "release_date": "2019-10-18",
+                "backdrop_path": "/8CX2kCBV9x5ASTQ3ipLToz6TtCa.jpg",
+                "poster_path": "/zFJZKMcjBaVLNPZJQUAFNoTL48d.jpg",
+                "overview": "Jojo \u00e9 um garoto alem\u00e3o solit\u00e1rio que descobre que sua m\u00e3e est\u00e1 escondendo uma garota judia no s\u00f3t\u00e3o. Ajudado apenas por seu amigo imagin\u00e1rio, Adolf Hitler, Jojo deve enfrentar seu nacionalismo cego enquanto a Segunda Guerra Mundial prossegue.",
+                "vote_average": 8.0,
+                "vote_count": 9083
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Joker",
+            "second_label": "Mark Bridges",
+            "category": "Costume Design",
+            "year": 2020,
+            "tmdb": {
+                "id": 475557,
+                "original_title": "Joker",
+                "title": "Coringa",
+                "release_date": "2019-10-01",
+                "backdrop_path": "/7oJ5wrbS9Zs9AoxTjNb1siJKVq6.jpg",
+                "poster_path": "/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg",
+                "overview": "Isolado, intimidado e desconsiderado pela sociedade, o fracassado comediante Arthur Fleck inicia seu caminho como uma mente criminosa ap\u00f3s assassinar tr\u00eas homens em pleno metr\u00f4. Sua a\u00e7\u00e3o inicia um movimento popular contra a elite de Gotham City, da qual Thomas Wayne \u00e9 seu maior representante.",
+                "vote_average": 8.163,
+                "vote_count": 24288
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Once upon a Time...in Hollywood",
+            "second_label": "Arianne Phillips",
+            "category": "Costume Design",
+            "year": 2020,
+            "tmdb": {
+                "id": 466272,
+                "original_title": "Once Upon a Time... in Hollywood",
+                "title": "Era Uma Vez em\u2026 Hollywood",
+                "release_date": "2019-07-24",
+                "backdrop_path": "/oRiUKwDpcqDdoLwPoA4FIRh3hqY.jpg",
+                "poster_path": "/h30FdikGNkrT6loajaO9G1HHjz0.jpg",
+                "overview": "Los Angeles, 1969. Rick Dalton \u00e9 um ator de TV que, juntamente com seu dubl\u00ea, est\u00e1 decidido a fazer o nome em Hollywood. Para tanto, ele conhece muitas pessoas influentes na ind\u00fastria cinematogr\u00e1fica, o que os acaba levando aos assassinatos realizados por Charles Manson na \u00e9poca, entre eles o da atriz Sharon Tate, que na \u00e9poca estava gr\u00e1vida do diretor Roman Polanski.",
+                "vote_average": 7.439,
+                "vote_count": 12783
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "Parasite",
+            "second_label": "Bong Joon Ho",
+            "category": "Directing",
+            "year": 2020,
+            "tmdb": {
+                "id": 496243,
+                "original_title": "\uae30\uc0dd\ucda9",
+                "title": "Parasita",
+                "release_date": "2019-05-30",
+                "backdrop_path": "/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
+                "poster_path": "/igw938inb6Fy0YVcwIyxQ7Lu5FO.jpg",
+                "overview": "Toda a fam\u00edlia de Ki-taek est\u00e1 desempregada, vivendo num por\u00e3o sujo e apertado. Uma obra do acaso faz com que o filho adolescente da fam\u00edlia comece a dar aulas de ingl\u00eas \u00e0 garota de uma fam\u00edlia rica. Fascinados com a vida luxuosa destas pessoas, pai, m\u00e3e, filho e filha bolam um plano para se infiltrarem tamb\u00e9m na fam\u00edlia burguesa, um a um. No entanto, os segredos e mentiras necess\u00e1rios \u00e0 ascens\u00e3o social custar\u00e3o caro a todos.",
+                "vote_average": 8.5,
+                "vote_count": 17327
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Irishman",
+            "second_label": "Martin Scorsese",
+            "category": "Directing",
+            "year": 2020,
+            "tmdb": {
+                "id": 398978,
+                "original_title": "The Irishman",
+                "title": "O Irland\u00eas",
+                "release_date": "2019-11-01",
+                "backdrop_path": "/1RDto0tLo8Fhq7OcwgDaM7nECb7.jpg",
+                "poster_path": "/3GPn2W2UdzUE1bp1KtCrYvXiZFt.jpg",
+                "overview": "Frank Sheeran \u00e9 um veterano de guerra cheio de condecora\u00e7\u00f5es que concilia a vida de caminhoneiro com a de assassino de aluguel n\u00famero um da m\u00e1fia. Promovido a l\u00edder sindical, ele torna-se o principal suspeito quando o mais famoso ex-presidente da associa\u00e7\u00e3o desaparece misteriosamente.",
+                "vote_average": 7.607,
+                "vote_count": 6476
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Joker",
+            "second_label": "Todd Phillips",
+            "category": "Directing",
+            "year": 2020,
+            "tmdb": {
+                "id": 475557,
+                "original_title": "Joker",
+                "title": "Coringa",
+                "release_date": "2019-10-01",
+                "backdrop_path": "/7oJ5wrbS9Zs9AoxTjNb1siJKVq6.jpg",
+                "poster_path": "/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg",
+                "overview": "Isolado, intimidado e desconsiderado pela sociedade, o fracassado comediante Arthur Fleck inicia seu caminho como uma mente criminosa ap\u00f3s assassinar tr\u00eas homens em pleno metr\u00f4. Sua a\u00e7\u00e3o inicia um movimento popular contra a elite de Gotham City, da qual Thomas Wayne \u00e9 seu maior representante.",
+                "vote_average": 8.163,
+                "vote_count": 24288
+            },
+            "winner": false
+        },
+        {
+            "first_label": "1917",
+            "second_label": "Sam Mendes",
+            "category": "Directing",
+            "year": 2020,
+            "tmdb": {
+                "id": 530915,
+                "original_title": "1917",
+                "title": "1917",
+                "release_date": "2019-12-25",
+                "backdrop_path": "/76LpPdXtCf4WxWDagVT2YcF4e9g.jpg",
+                "poster_path": "/m6VVgmwNdOWvLo8nlheLPQU5wr7.jpg",
+                "overview": "Os cabos Schofield e Blake s\u00e3o jovens soldados brit\u00e2nicos durante a Primeira Guerra Mundial. Quando eles s\u00e3o encarregados de uma miss\u00e3o aparentemente imposs\u00edvel, os dois precisam atravessar territ\u00f3rio inimigo, lutando contra o tempo, para entregar uma mensagem que pode salvar cerca de 1600 colegas de batalh\u00e3o.",
+                "vote_average": 8.0,
+                "vote_count": 11825
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Once upon a Time...in Hollywood",
+            "second_label": "Quentin Tarantino",
+            "category": "Directing",
+            "year": 2020,
+            "tmdb": {
+                "id": 466272,
+                "original_title": "Once Upon a Time... in Hollywood",
+                "title": "Era Uma Vez em\u2026 Hollywood",
+                "release_date": "2019-07-24",
+                "backdrop_path": "/oRiUKwDpcqDdoLwPoA4FIRh3hqY.jpg",
+                "poster_path": "/h30FdikGNkrT6loajaO9G1HHjz0.jpg",
+                "overview": "Los Angeles, 1969. Rick Dalton \u00e9 um ator de TV que, juntamente com seu dubl\u00ea, est\u00e1 decidido a fazer o nome em Hollywood. Para tanto, ele conhece muitas pessoas influentes na ind\u00fastria cinematogr\u00e1fica, o que os acaba levando aos assassinatos realizados por Charles Manson na \u00e9poca, entre eles o da atriz Sharon Tate, que na \u00e9poca estava gr\u00e1vida do diretor Roman Polanski.",
+                "vote_average": 7.439,
+                "vote_count": 12783
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "American Factory",
+            "second_label": "Steven Bognar, Julia Reichert and Jeff Reichert",
+            "category": "Documentary (Feature)",
+            "year": 2020,
+            "tmdb": {
+                "id": 565716,
+                "original_title": "American Factory",
+                "title": "Ind\u00fastria Americana",
+                "release_date": "2019-08-21",
+                "backdrop_path": "/vzmUkbi07g2dKVL6YCr8FX3LFgn.jpg",
+                "poster_path": "/9kLpTYpnbnJWq6IwY6DOyyEDaN3.jpg",
+                "overview": "Em Ohio p\u00f3s-industrial, um bilion\u00e1rio chin\u00eas abre uma nova f\u00e1brica na casca de uma f\u00e1brica abandonada da General Motors, contratando dois mil americanos de colarinho azul. Os primeiros dias de esperan\u00e7a e otimismo deram lugar a contratempos quando a China de alta tecnologia se choca com a classe trabalhadora americana.",
+                "vote_average": 7.2,
+                "vote_count": 428
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Cave",
+            "second_label": "Feras Fayyad, Kirstine Barfod and Sigrid Dyekjr",
+            "category": "Documentary (Feature)",
+            "year": 2020,
+            "tmdb": {
+                "id": 621729,
+                "original_title": "The Cave",
+                "title": "The Cave",
+                "release_date": "2019-10-18",
+                "backdrop_path": "/jqojZIpJBQz08Vip3Ul5nzcUyCf.jpg",
+                "poster_path": "/2Zb8U2EXBv36DGG9jaEESNEeJv9.jpg",
+                "overview": "\"The Cave\" traz a poderosa hist\u00f3ria de um hospital subterr\u00e2neo que serve como ref\u00fagio para civis sitiados na guerra da S\u00edria. No local, conhecido como \"a caverna\", a pediatra Amani Ballour e suas colegas Samaher e Alaa reivindicam o direito de trabalhar como iguais ao lado de seus colegas homens, o que seria impens\u00e1vel na cultura opressivamente patriarcal que existe acima do hospital. Dirigido por Feras Fayyad, o document\u00e1rio segue o dia a dia dessas mulheres em meio a bombardeios, escassez de suprimentos e amea\u00e7a de ataques qu\u00edmicos, revelando um retrato emocionante de coragem, resili\u00eancia e solidariedade feminina.",
+                "vote_average": 7.3,
+                "vote_count": 47
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Edge of Democracy",
+            "second_label": "Petra Costa, Joanna Natasegara, Shane Boris and Tiago Pavan",
+            "category": "Documentary (Feature)",
+            "year": 2020,
+            "tmdb": {
+                "id": 566221,
+                "original_title": "Democracia em Vertigem",
+                "title": "Democracia em Vertigem",
+                "release_date": "2019-01-24",
+                "backdrop_path": "/b8LjR8NjRjrWs6uIfGfrDn0OeI6.jpg",
+                "poster_path": "/z2aPe57jyW0TPYLVBXb8T0yBFGQ.jpg",
+                "overview": "Document\u00e1rio sobre o processo de impeachment da ex-presidente do Brasil, Dilma Rousseff, que foi considerado como um dos reflexos da polariza\u00e7\u00e3o pol\u00edtica e da ascens\u00e3o da extrema-direita para o poder. O filme conta com imagens internas e exclusivas dos bastidores do Sindicato dos Metal\u00fargicos do ABC e do Pal\u00e1cio da Alvorada, enquanto ocorria a vota\u00e7\u00e3o para a queda de Dilma.",
+                "vote_average": 7.7,
+                "vote_count": 340
+            },
+            "winner": false
+        },
+        {
+            "first_label": "For Sama",
+            "second_label": "Waad al-Kateab and Edward Watts",
+            "category": "Documentary (Feature)",
+            "year": 2020,
+            "tmdb": {
+                "id": 576017,
+                "original_title": "For Sama",
+                "title": "Para Sama",
+                "release_date": "2019-07-26",
+                "backdrop_path": "/hiqB5fFZ230MeFAGLPahoy06UOE.jpg",
+                "poster_path": "/w8ZytqAN2B56ejEvIVjubVNL3oo.jpg",
+                "overview": "A cineasta Waad al-Kateab filmou durante cinco anos sua vida na cidade de Aleppo tomada por rebeldes durante a rebeli\u00e3o s\u00edria.",
+                "vote_average": 8.3,
+                "vote_count": 259
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Honeyland",
+            "second_label": "Ljubo Stefanov, Tamara Kotevska and Atanas Georgiev",
+            "category": "Documentary (Feature)",
+            "year": 2020,
+            "tmdb": {
+                "id": 566213,
+                "original_title": "\u041c\u0435\u0434\u0435\u043d\u0430 \u0437\u0435\u043c\u0458\u0430",
+                "title": "Honeyland",
+                "release_date": "2019-07-26",
+                "backdrop_path": "/avI9QVbDi6HW2LaliXsNBVSc5qm.jpg",
+                "poster_path": "/3IxGhQEzLWOxkZlcNMAIiYlOT8D.jpg",
+                "overview": "Quando os apicultores n\u00f4mades quebram a regra b\u00e1sica da Honeyland (pegue metade do mel, mas deixe metade para as abelhas), a \u00faltima mantenedora na Europa deve salvar as abelhas e restaurar o equil\u00edbrio natural.",
+                "vote_average": 8.0,
+                "vote_count": 262
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "Learning to Skateboard in a Warzone (If You're a Girl)",
+            "second_label": "Carol Dysinger and Elena Andreicheva",
+            "category": "Documentary (Short Subject)",
+            "year": 2020,
+            "tmdb": {
+                "id": 612074,
+                "original_title": "Learning to Skateboard in a Warzone (If You're a Girl)",
+                "title": "Aprendendo a andar de skate em uma zona de guerra (se voc\u00ea \u00e9 uma garota)",
+                "release_date": "2020-02-08",
+                "backdrop_path": "/4fXaCgs2NFzBwtEBlb78KBYUMTK.jpg",
+                "poster_path": "/fhTGumzgP0p6IaKfTWqBMu21lsW.jpg",
+                "overview": "Instalada em um espa\u00e7o que serve como escola e parque de skate em Cabul, no Afeganist\u00e3o, a organiza\u00e7\u00e3o sem fins lucrativos \u201cSkateist\u00e3o\u201d ensina meninas a ler, escrever e andar de skate. Elas aprendem a ter coragem e recebem as habilidades necess\u00e1rias que ir\u00e3o prepar\u00e1-las para a vida. Vencedor do Oscar 2020 de Melhor Curta Document\u00e1rio.",
+                "vote_average": 7.3,
+                "vote_count": 38
+            },
+            "winner": true
+        },
+        {
+            "first_label": "In the Absence",
+            "second_label": "Yi Seung-Jun and Gary Byung-Seok Kam",
+            "category": "Documentary (Short Subject)",
+            "year": 2020,
+            "tmdb": {
+                "id": 592303,
+                "original_title": "\ubd80\uc7ac\uc758 \uae30\uc5b5",
+                "title": "In the Absence",
+                "release_date": "2018-11-09",
+                "backdrop_path": "/AgXs2Eswupt2ESt18y7hpPe0Dt9.jpg",
+                "poster_path": "/7SugcOBjj7O86GvxYb4JIhzilYp.jpg",
+                "overview": "Quando a balsa de passageiros MV Sewol afundou na costa da Coreia do Sul em 2014, mais de trezentas pessoas perderam a vida, a maioria delas crian\u00e7as. Anos depois, as fam\u00edlias e sobreviventes das v\u00edtimas ainda exigem das autoridades nacionais que a justi\u00e7a seja cumprida.",
+                "vote_average": 7.8,
+                "vote_count": 44
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Life Overtakes Me",
+            "second_label": "John Haptas and Kristine Samuelson",
+            "category": "Documentary (Short Subject)",
+            "year": 2020,
+            "tmdb": {
+                "id": 593280,
+                "original_title": "Life Overtakes Me",
+                "title": "A Vida em Mim",
+                "release_date": "2019-01-26",
+                "backdrop_path": "/4dgCUtt9uO2ZnhwVNwAyJL0UrhH.jpg",
+                "poster_path": "/uv4a1MntQA8pydnTTf3iICEFcHB.jpg",
+                "overview": "Centenas de crian\u00e7as refugiadas na Su\u00e9cia se protegem do trauma e das incertezas, desenvolvendo a S\u00edndrome da Resigna\u00e7\u00e3o, uma doen\u00e7a com os sintomas do coma. Assista o quanto quiser. Este emocionante relato sobre um mist\u00e9rio da medicina foi indicado ao Oscar de Melhor Document\u00e1rio em Curta-Metragem",
+                "vote_average": 6.4,
+                "vote_count": 72
+            },
+            "winner": false
+        },
+        {
+            "first_label": "St. Louis Superman",
+            "second_label": "Smriti Mundhra and Sami Khan",
+            "category": "Documentary (Short Subject)",
+            "year": 2020,
+            "tmdb": {
+                "id": 634767,
+                "original_title": "St. Louis Superman",
+                "title": "St. Louis Superman",
+                "release_date": "2019-02-20",
+                "backdrop_path": "/bmRWHmg3QnjiKz01lTr2fqKuIOt.jpg",
+                "poster_path": "/qV4eTXHQSumCDbJzEJizoBFR6Pe.jpg",
+                "overview": "Bruce Franks Jr. \u00e9 um rapper de 34 anos, ativista de Ferguson e representante do estado de St. Louis, Missouri. Conhecido como Superman pelos seus eleitores, ele \u00e9 uma figura pol\u00edtica que voc\u00ea nunca viu - cheia de contradi\u00e7\u00f5es e insights profundos, que superou uma perda indescrit\u00edvel e se tornou um dos mais empolgantes jovens l\u00edderes do pa\u00eds.",
+                "vote_average": 6.6,
+                "vote_count": 11
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Walk Run Cha-Cha",
+            "second_label": "Laura Nix and Colette Sandstedt",
+            "category": "Documentary (Short Subject)",
+            "year": 2020,
+            "tmdb": {
+                "id": 634772,
+                "original_title": "Walk Run Cha-Cha",
+                "title": "Ande, Corra, Cha-Cha",
+                "release_date": "2019-04-25",
+                "backdrop_path": "/epN1w49b6EEQJs8seWW05w2RtID.jpg",
+                "poster_path": "/tvsqaTjSkLyYiZbWd769UvPszT6.jpg",
+                "overview": "Paul e Millie Cao perderam a juventude ap\u00f3s a Guerra do Vietn\u00e3. Quarenta anos depois, eles se tornaram profissionais de sucesso no sul da Calif\u00f3rnia - e est\u00e3o se redescobrindo na pista de dan\u00e7a.",
+                "vote_average": 5.6,
+                "vote_count": 30
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "Ford v Ferrari",
+            "second_label": "Michael McCusker and Andrew Buckland",
+            "category": "Film Editing",
+            "year": 2020,
+            "tmdb": {
+                "id": 359724,
+                "original_title": "Ford v Ferrari",
+                "title": "Ford vs Ferrari",
+                "release_date": "2019-11-13",
+                "backdrop_path": "/2vq5GTJOahE03mNYZGxIynlHcWr.jpg",
+                "poster_path": "/t8L9dqNMclXJHP0TesPsPS2RvB1.jpg",
+                "overview": "O designer de carros americano Carroll Shelby e o destemido piloto brit\u00e2nico Ken Miles juntos combatem a interfer\u00eancia corporativa e as leis da f\u00edsica para construir um carro de corrida revolucion\u00e1rio e enfrentar Enzo Ferrari nas 24 horas de Le Mans na Fran\u00e7a em 1966.",
+                "vote_average": 8.003,
+                "vote_count": 7415
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Irishman",
+            "second_label": "Thelma Schoonmaker",
+            "category": "Film Editing",
+            "year": 2020,
+            "tmdb": {
+                "id": 398978,
+                "original_title": "The Irishman",
+                "title": "O Irland\u00eas",
+                "release_date": "2019-11-01",
+                "backdrop_path": "/1RDto0tLo8Fhq7OcwgDaM7nECb7.jpg",
+                "poster_path": "/3GPn2W2UdzUE1bp1KtCrYvXiZFt.jpg",
+                "overview": "Frank Sheeran \u00e9 um veterano de guerra cheio de condecora\u00e7\u00f5es que concilia a vida de caminhoneiro com a de assassino de aluguel n\u00famero um da m\u00e1fia. Promovido a l\u00edder sindical, ele torna-se o principal suspeito quando o mais famoso ex-presidente da associa\u00e7\u00e3o desaparece misteriosamente.",
+                "vote_average": 7.607,
+                "vote_count": 6476
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jojo Rabbit",
+            "second_label": "Tom Eagles",
+            "category": "Film Editing",
+            "year": 2020,
+            "tmdb": {
+                "id": 515001,
+                "original_title": "Jojo Rabbit",
+                "title": "Jojo Rabbit",
+                "release_date": "2019-10-18",
+                "backdrop_path": "/8CX2kCBV9x5ASTQ3ipLToz6TtCa.jpg",
+                "poster_path": "/zFJZKMcjBaVLNPZJQUAFNoTL48d.jpg",
+                "overview": "Jojo \u00e9 um garoto alem\u00e3o solit\u00e1rio que descobre que sua m\u00e3e est\u00e1 escondendo uma garota judia no s\u00f3t\u00e3o. Ajudado apenas por seu amigo imagin\u00e1rio, Adolf Hitler, Jojo deve enfrentar seu nacionalismo cego enquanto a Segunda Guerra Mundial prossegue.",
+                "vote_average": 8.0,
+                "vote_count": 9083
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Joker",
+            "second_label": "Jeff Groth",
+            "category": "Film Editing",
+            "year": 2020,
+            "tmdb": {
+                "id": 475557,
+                "original_title": "Joker",
+                "title": "Coringa",
+                "release_date": "2019-10-01",
+                "backdrop_path": "/7oJ5wrbS9Zs9AoxTjNb1siJKVq6.jpg",
+                "poster_path": "/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg",
+                "overview": "Isolado, intimidado e desconsiderado pela sociedade, o fracassado comediante Arthur Fleck inicia seu caminho como uma mente criminosa ap\u00f3s assassinar tr\u00eas homens em pleno metr\u00f4. Sua a\u00e7\u00e3o inicia um movimento popular contra a elite de Gotham City, da qual Thomas Wayne \u00e9 seu maior representante.",
+                "vote_average": 8.163,
+                "vote_count": 24288
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Parasite",
+            "second_label": "Yang Jinmo",
+            "category": "Film Editing",
+            "year": 2020,
+            "tmdb": {
+                "id": 496243,
+                "original_title": "\uae30\uc0dd\ucda9",
+                "title": "Parasita",
+                "release_date": "2019-05-30",
+                "backdrop_path": "/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
+                "poster_path": "/igw938inb6Fy0YVcwIyxQ7Lu5FO.jpg",
+                "overview": "Toda a fam\u00edlia de Ki-taek est\u00e1 desempregada, vivendo num por\u00e3o sujo e apertado. Uma obra do acaso faz com que o filho adolescente da fam\u00edlia comece a dar aulas de ingl\u00eas \u00e0 garota de uma fam\u00edlia rica. Fascinados com a vida luxuosa destas pessoas, pai, m\u00e3e, filho e filha bolam um plano para se infiltrarem tamb\u00e9m na fam\u00edlia burguesa, um a um. No entanto, os segredos e mentiras necess\u00e1rios \u00e0 ascens\u00e3o social custar\u00e3o caro a todos.",
+                "vote_average": 8.5,
+                "vote_count": 17327
+            },
+            "winner": false
+        }
+    ],
+    "International Feature Film": [
+        {
+            "first_label": "Parasite",
+            "second_label": "South Korea",
+            "category": "International Feature Film",
+            "year": 2020,
+            "tmdb": {
+                "id": 496243,
+                "original_title": "\uae30\uc0dd\ucda9",
+                "title": "Parasita",
+                "release_date": "2019-05-30",
+                "backdrop_path": "/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
+                "poster_path": "/igw938inb6Fy0YVcwIyxQ7Lu5FO.jpg",
+                "overview": "Toda a fam\u00edlia de Ki-taek est\u00e1 desempregada, vivendo num por\u00e3o sujo e apertado. Uma obra do acaso faz com que o filho adolescente da fam\u00edlia comece a dar aulas de ingl\u00eas \u00e0 garota de uma fam\u00edlia rica. Fascinados com a vida luxuosa destas pessoas, pai, m\u00e3e, filho e filha bolam um plano para se infiltrarem tamb\u00e9m na fam\u00edlia burguesa, um a um. No entanto, os segredos e mentiras necess\u00e1rios \u00e0 ascens\u00e3o social custar\u00e3o caro a todos.",
+                "vote_average": 8.5,
+                "vote_count": 17327
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Corpus Christi",
+            "second_label": "Poland",
+            "category": "International Feature Film",
+            "year": 2020,
+            "tmdb": {
+                "id": 471707,
+                "original_title": "Bo\u017ce Cia\u0142o",
+                "title": "Corpus Christi",
+                "release_date": "2019-09-10",
+                "backdrop_path": "/sVWUcBHwq2LQtDeqwXzI1uMpA3h.jpg",
+                "poster_path": "/94l5tagsFM2x8SFa0ANtUrcB5Il.jpg",
+                "overview": "Daniel (Bartosz Bielenia) \u00e9 um rapaz de 20 anos que experimenta uma transforma\u00e7\u00e3o espiritual enquanto vive em um Centro de Deten\u00e7\u00e3o para Jovens. Ele quer se tornar padre, mas isso \u00e9 imposs\u00edvel por causa de sua ficha criminal. Quando \u00e9 enviado para trabalhar na oficina de um carpinteiro em uma cidade pequena, na chegada, ele se veste de padre e acidentalmente assume a par\u00f3quia local. A chegada do jovem e carism\u00e1tico pregador \u00e9 uma oportunidade para a comunidade local iniciar o processo de cura ap\u00f3s uma trag\u00e9dia que aconteceu na regi\u00e3o.",
+                "vote_average": 7.7,
+                "vote_count": 507
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Honeyland",
+            "second_label": "North Macedonia",
+            "category": "International Feature Film",
+            "year": 2020,
+            "tmdb": {
+                "id": 566213,
+                "original_title": "\u041c\u0435\u0434\u0435\u043d\u0430 \u0437\u0435\u043c\u0458\u0430",
+                "title": "Honeyland",
+                "release_date": "2019-07-26",
+                "backdrop_path": "/avI9QVbDi6HW2LaliXsNBVSc5qm.jpg",
+                "poster_path": "/3IxGhQEzLWOxkZlcNMAIiYlOT8D.jpg",
+                "overview": "Quando os apicultores n\u00f4mades quebram a regra b\u00e1sica da Honeyland (pegue metade do mel, mas deixe metade para as abelhas), a \u00faltima mantenedora na Europa deve salvar as abelhas e restaurar o equil\u00edbrio natural.",
+                "vote_average": 8.0,
+                "vote_count": 262
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Les Misrables",
+            "second_label": "France",
+            "category": "International Feature Film",
+            "year": 2020,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Pain and Glory",
+            "second_label": "Spain",
+            "category": "International Feature Film",
+            "year": 2020,
+            "tmdb": {
+                "id": 519010,
+                "original_title": "Dolor y gloria",
+                "title": "Dor e Gl\u00f3ria",
+                "release_date": "2019-03-22",
+                "backdrop_path": "/m7DIYdiOiz57ukZlhWtYp9rDzPT.jpg",
+                "poster_path": "/bScM0AHRktwfMxmt7lP6IjV7KPR.jpg",
+                "overview": "Salvador Mallo \u00e9 um melanc\u00f3lico cineasta em decl\u00ednio que se v\u00ea obrigado a pensar sobre as escolhas que fez na vida quando seu passado retorna. Entre lembran\u00e7as e reencontros, ele reflete sobre sua inf\u00e2ncia na d\u00e9cada de 1960, seu processo de imigra\u00e7\u00e3o para a Espanha, seu primeiro amor maduro e sua rela\u00e7\u00e3o com a escrita e com o cinema.",
+                "vote_average": 7.4,
+                "vote_count": 1703
+            },
+            "winner": false
+        }
+    ],
+    "Makeup and Hairstyling": [
+        {
+            "first_label": "Bombshell",
+            "second_label": "Kazu Hiro, Anne Morgan and Vivian Baker",
+            "category": "Makeup and Hairstyling",
+            "year": 2020,
+            "tmdb": {
+                "id": 525661,
+                "original_title": "Bombshell",
+                "title": "O Esc\u00e2ndalo",
+                "release_date": "2019-12-13",
+                "backdrop_path": "/nj84vpuUWdbmYktBzjiWn5Ny1ZF.jpg",
+                "poster_path": "/nwztAnv0RTnJIGLK6Gky6lAtcCy.jpg",
+                "overview": "Um gigante do telejornalismo e antigo CEO da Fox News, Roger Ailes (John Lithgow) tem seu poder questionado e sua carreira derrubada quando um grupo de mulheres o acusam de ass\u00e9dio sexual no ambiente de trabalho.",
+                "vote_average": 6.8,
+                "vote_count": 2855
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Joker",
+            "second_label": "Nicki Ledermann and Kay Georgiou",
+            "category": "Makeup and Hairstyling",
+            "year": 2020,
+            "tmdb": {
+                "id": 475557,
+                "original_title": "Joker",
+                "title": "Coringa",
+                "release_date": "2019-10-01",
+                "backdrop_path": "/7oJ5wrbS9Zs9AoxTjNb1siJKVq6.jpg",
+                "poster_path": "/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg",
+                "overview": "Isolado, intimidado e desconsiderado pela sociedade, o fracassado comediante Arthur Fleck inicia seu caminho como uma mente criminosa ap\u00f3s assassinar tr\u00eas homens em pleno metr\u00f4. Sua a\u00e7\u00e3o inicia um movimento popular contra a elite de Gotham City, da qual Thomas Wayne \u00e9 seu maior representante.",
+                "vote_average": 8.163,
+                "vote_count": 24288
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Judy",
+            "second_label": "Jeremy Woodhead",
+            "category": "Makeup and Hairstyling",
+            "year": 2020,
+            "tmdb": {
+                "id": 491283,
+                "original_title": "Judy",
+                "title": "Judy: Por Tr\u00e1s do Arco-Iris",
+                "release_date": "2019-09-27",
+                "backdrop_path": "/hJXxDoCwchAuJ4K3gwtno2chgr8.jpg",
+                "poster_path": "/1frazS4iRtqLG2lcJKuoLaqRTo4.jpg",
+                "overview": "Inverno de 1968. Com a carreira em baixa, Judy Garland (Ren\u00e9e Zellweger) aceita estrelar uma turn\u00ea em Londres, por mais que tal trabalho a mantenha afastada dos filhos menores. Ao chegar ela enfrenta a solid\u00e3o e os conhecidos problemas com \u00e1lcool e rem\u00e9dios, compensando o que deu errado em sua vida pessoal com a dedica\u00e7\u00e3o no palco.",
+                "vote_average": 6.7,
+                "vote_count": 1123
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Maleficent: Mistress of Evil",
+            "second_label": "Paul Gooch, Arjen Tuiten and David White",
+            "category": "Makeup and Hairstyling",
+            "year": 2020,
+            "tmdb": {
+                "id": 420809,
+                "original_title": "Maleficent: Mistress of Evil",
+                "title": "Mal\u00e9vola: Dona do Mal",
+                "release_date": "2019-10-16",
+                "backdrop_path": "/skvI4rYFrKXS73BJxWGH54Omlvv.jpg",
+                "poster_path": "/llHTFUeUCWmkW5fR4J9kpa6Asep.jpg",
+                "overview": "Os anos foram gentis com Mal\u00e9vola e Aurora. Seu relacionamento, nascido pelo desgosto, vingan\u00e7a e finalmente amor, floresceu. No entanto, o \u00f3dio entre o homem e as fadas ainda existe. O iminente casamento de Aurora com o pr\u00edncipe Phillip \u00e9 motivo de comemora\u00e7\u00e3o no reino de Ulstead e no reino dos Moors, pois o casamento servir\u00e1 para unir os dois mundos. Quando um encontro inesperado introduz uma nova e poderosa alian\u00e7a, Mal\u00e9vola e Aurora s\u00e3o separadas para lados opostos em uma Grande Guerra, testando sua lealdade e fazendo com que elas questionem se podem ser verdadeiramente familiares.",
+                "vote_average": 7.314,
+                "vote_count": 5877
+            },
+            "winner": false
+        },
+        {
+            "first_label": "1917",
+            "second_label": "Naomi Donne, Tristan Versluis and Rebecca Cole",
+            "category": "Makeup and Hairstyling",
+            "year": 2020,
+            "tmdb": {
+                "id": 530915,
+                "original_title": "1917",
+                "title": "1917",
+                "release_date": "2019-12-25",
+                "backdrop_path": "/76LpPdXtCf4WxWDagVT2YcF4e9g.jpg",
+                "poster_path": "/m6VVgmwNdOWvLo8nlheLPQU5wr7.jpg",
+                "overview": "Os cabos Schofield e Blake s\u00e3o jovens soldados brit\u00e2nicos durante a Primeira Guerra Mundial. Quando eles s\u00e3o encarregados de uma miss\u00e3o aparentemente imposs\u00edvel, os dois precisam atravessar territ\u00f3rio inimigo, lutando contra o tempo, para entregar uma mensagem que pode salvar cerca de 1600 colegas de batalh\u00e3o.",
+                "vote_average": 8.0,
+                "vote_count": 11825
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Score)": [
+        {
+            "first_label": "Joker",
+            "second_label": "Hildur Gunadttir",
+            "category": "Music (Original Score)",
+            "year": 2020,
+            "tmdb": {
+                "id": 475557,
+                "original_title": "Joker",
+                "title": "Coringa",
+                "release_date": "2019-10-01",
+                "backdrop_path": "/7oJ5wrbS9Zs9AoxTjNb1siJKVq6.jpg",
+                "poster_path": "/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg",
+                "overview": "Isolado, intimidado e desconsiderado pela sociedade, o fracassado comediante Arthur Fleck inicia seu caminho como uma mente criminosa ap\u00f3s assassinar tr\u00eas homens em pleno metr\u00f4. Sua a\u00e7\u00e3o inicia um movimento popular contra a elite de Gotham City, da qual Thomas Wayne \u00e9 seu maior representante.",
+                "vote_average": 8.163,
+                "vote_count": 24288
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Little Women",
+            "second_label": "Alexandre Desplat",
+            "category": "Music (Original Score)",
+            "year": 2020,
+            "tmdb": {
+                "id": 331482,
+                "original_title": "Little Women",
+                "title": "Ador\u00e1veis Mulheres",
+                "release_date": "2019-12-25",
+                "backdrop_path": "/lqxxwTRk0l7CubY6JkJdhnwJEkn.jpg",
+                "poster_path": "/1dwhsiuvNyQmA9ytp3T40uz4MOv.jpg",
+                "overview": "As irm\u00e3s Jo, Beth, Meg e Amy amadurecem na virada da adolesc\u00eancia para a vida adulta enquanto os Estados Unidos atravessam a Guerra Civil. Com personalidades completamente diferentes, elas enfrentam os desafios de crescer unidas pelo amor que nutrem umas pelas outras.",
+                "vote_average": 7.89,
+                "vote_count": 5970
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Marriage Story",
+            "second_label": "Randy Newman",
+            "category": "Music (Original Score)",
+            "year": 2020,
+            "tmdb": {
+                "id": 492188,
+                "original_title": "Marriage Story",
+                "title": "Hist\u00f3ria de um Casamento",
+                "release_date": "2019-09-28",
+                "backdrop_path": "/4PCO7tewIGnE6ySjVf2DbJ3pjqq.jpg",
+                "poster_path": "/LaZ5rwaMvVH20J8O2Nu9uuXGI5.jpg",
+                "overview": "Nicole (Scarlett Johansson) e seu marido Charlie (Adam Driver) est\u00e3o passando por muitos problemas e decidem se divorciar. Os dois concordam em n\u00e3o contratar advogados para tratar do div\u00f3rcio, mas Nicole muda de ideia ap\u00f3s receber a indica\u00e7\u00e3o de Nora Fanshaw (Laura Dern), especialista no assunto. Surpreso com a decis\u00e3o da agora ex-esposa, Charlie precisa encontrar um advogado para tratar da cust\u00f3dia do filho deles, o pequeno Henry (Azhy Robertson).",
+                "vote_average": 7.746,
+                "vote_count": 6672
+            },
+            "winner": false
+        },
+        {
+            "first_label": "1917",
+            "second_label": "Thomas Newman",
+            "category": "Music (Original Score)",
+            "year": 2020,
+            "tmdb": {
+                "id": 530915,
+                "original_title": "1917",
+                "title": "1917",
+                "release_date": "2019-12-25",
+                "backdrop_path": "/76LpPdXtCf4WxWDagVT2YcF4e9g.jpg",
+                "poster_path": "/m6VVgmwNdOWvLo8nlheLPQU5wr7.jpg",
+                "overview": "Os cabos Schofield e Blake s\u00e3o jovens soldados brit\u00e2nicos durante a Primeira Guerra Mundial. Quando eles s\u00e3o encarregados de uma miss\u00e3o aparentemente imposs\u00edvel, os dois precisam atravessar territ\u00f3rio inimigo, lutando contra o tempo, para entregar uma mensagem que pode salvar cerca de 1600 colegas de batalh\u00e3o.",
+                "vote_average": 8.0,
+                "vote_count": 11825
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Star Wars: The Rise of Skywalker",
+            "second_label": "John Williams",
+            "category": "Music (Original Score)",
+            "year": 2020,
+            "tmdb": {
+                "id": 181812,
+                "original_title": "Star Wars: The Rise of Skywalker",
+                "title": "Star Wars: Epis\u00f3dio IX - A Ascens\u00e3o Skywalker",
+                "release_date": "2019-12-18",
+                "backdrop_path": "/jOzrELAzFxtMx2I4uDGHOotdfsS.jpg",
+                "poster_path": "/uLlrDUtFG2tKtDcJN6kBznlqqsp.jpg",
+                "overview": "Com o retorno do Imperador Palpatine, todos voltam a temer seu poder e, com isso, a Resist\u00eancia toma a frente da batalha que ditar\u00e1 os rumos da gal\u00e1xia. Treinando para ser uma completa Jedi, Rey (Daisy Ridley) ainda se encontra em conflito com seu passado e futuro, mas teme pelas respostas que pode conseguir a partir de sua complexa liga\u00e7\u00e3o com Kylo Ren (Adam Driver), que tamb\u00e9m se encontra em conflito pela For\u00e7a.",
+                "vote_average": 6.34,
+                "vote_count": 9426
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Song)": [
+        {
+            "first_label": "(I'm Gonna) Love Me Again",
+            "second_label": "from Rocketman; Music by Elton John; Lyric by Bernie Taupin",
+            "category": "Music (Original Song)",
+            "year": 2020,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "I Can't Let You Throw Yourself Away",
+            "second_label": "from Toy Story 4; Music and Lyric by Randy Newman",
+            "category": "Music (Original Song)",
+            "year": 2020,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "I'm Standing With You",
+            "second_label": "from Breakthrough; Music and Lyric by Diane Warren",
+            "category": "Music (Original Song)",
+            "year": 2020,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Into The Unknown",
+            "second_label": "from Frozen II; Music and Lyric by Kristen Anderson-Lopez and Robert Lopez",
+            "category": "Music (Original Song)",
+            "year": 2020,
+            "tmdb": {
+                "id": 647498,
+                "original_title": "\u0420\u0436\u0435\u0432",
+                "title": "1942: A Batalha Desconhecida",
+                "release_date": "2019-12-05",
+                "backdrop_path": "/zZpWJh5kiYapUdMcSp6mkHTL3RQ.jpg",
+                "poster_path": "/ee8vgETGy7xRCM2VJh4tGW86nyk.jpg",
+                "overview": "Ap\u00f3s v\u00e1rios meses de combates ferozes, o Ex\u00e9rcito Vermelho finalmente derrotou o inimigo da aldeia de Ovsyannikovo, o que custou enormes perdas - apenas um ter\u00e7o do pessoal permanece na empresa. Exaustos, os soldados aguardam refor\u00e7os, mas vem do quartel-general uma ordem - manter a aldeia a todo o custo, o que equivale a uma senten\u00e7a de morte. O comandante da companhia enfrenta uma escolha dif\u00edcil - perder os remanescentes da companhia, seguindo uma ordem de comando sem sentido, ou retirar seu pessoal do fogo de morteiro, mas ao mesmo tempo deixar suas posi\u00e7\u00f5es e ir ao tribunal por violar a ordem. Em detalhes extremamente realistas, apenas uma batalha feroz \u00e9 mostrada, na qual, como em uma gota d'\u00e1gua, toda a verdade sobre a guerra se reflete.",
+                "vote_average": 7.685,
+                "vote_count": 149
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Stand Up",
+            "second_label": "from Harriet; Music and Lyric by Joshuah Brian Campbell and Cynthia Erivo",
+            "category": "Music (Original Song)",
+            "year": 2020,
+            "tmdb": {
+                "id": 807298,
+                "original_title": "Stand Up",
+                "title": "Stand Up",
+                "release_date": "2019-02-18",
+                "backdrop_path": "/sdyILW63q6a0zaoJ1GwNS97ib6D.jpg",
+                "poster_path": "/4rumDJsBrWgHKn8wdYK94z5Uc0u.jpg",
+                "overview": "Mickey has to choose to stand up and chase his comedy dreams or step aside and watch his life pass him by.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        }
+    ],
+    "Best Picture": [
+        {
+            "first_label": "Parasite",
+            "second_label": "Kwak Sin Ae and Bong Joon Ho, Producers",
+            "category": "Best Picture",
+            "year": 2020,
+            "tmdb": {
+                "id": 496243,
+                "original_title": "\uae30\uc0dd\ucda9",
+                "title": "Parasita",
+                "release_date": "2019-05-30",
+                "backdrop_path": "/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
+                "poster_path": "/igw938inb6Fy0YVcwIyxQ7Lu5FO.jpg",
+                "overview": "Toda a fam\u00edlia de Ki-taek est\u00e1 desempregada, vivendo num por\u00e3o sujo e apertado. Uma obra do acaso faz com que o filho adolescente da fam\u00edlia comece a dar aulas de ingl\u00eas \u00e0 garota de uma fam\u00edlia rica. Fascinados com a vida luxuosa destas pessoas, pai, m\u00e3e, filho e filha bolam um plano para se infiltrarem tamb\u00e9m na fam\u00edlia burguesa, um a um. No entanto, os segredos e mentiras necess\u00e1rios \u00e0 ascens\u00e3o social custar\u00e3o caro a todos.",
+                "vote_average": 8.5,
+                "vote_count": 17327
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Ford v Ferrari",
+            "second_label": "Peter Chernin, Jenno Topping and James Mangold, Producers",
+            "category": "Best Picture",
+            "year": 2020,
+            "tmdb": {
+                "id": 359724,
+                "original_title": "Ford v Ferrari",
+                "title": "Ford vs Ferrari",
+                "release_date": "2019-11-13",
+                "backdrop_path": "/2vq5GTJOahE03mNYZGxIynlHcWr.jpg",
+                "poster_path": "/t8L9dqNMclXJHP0TesPsPS2RvB1.jpg",
+                "overview": "O designer de carros americano Carroll Shelby e o destemido piloto brit\u00e2nico Ken Miles juntos combatem a interfer\u00eancia corporativa e as leis da f\u00edsica para construir um carro de corrida revolucion\u00e1rio e enfrentar Enzo Ferrari nas 24 horas de Le Mans na Fran\u00e7a em 1966.",
+                "vote_average": 8.003,
+                "vote_count": 7415
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Irishman",
+            "second_label": "Martin Scorsese, Robert De Niro, Jane Rosenthal and Emma Tillinger Koskoff, Producers",
+            "category": "Best Picture",
+            "year": 2020,
+            "tmdb": {
+                "id": 398978,
+                "original_title": "The Irishman",
+                "title": "O Irland\u00eas",
+                "release_date": "2019-11-01",
+                "backdrop_path": "/1RDto0tLo8Fhq7OcwgDaM7nECb7.jpg",
+                "poster_path": "/3GPn2W2UdzUE1bp1KtCrYvXiZFt.jpg",
+                "overview": "Frank Sheeran \u00e9 um veterano de guerra cheio de condecora\u00e7\u00f5es que concilia a vida de caminhoneiro com a de assassino de aluguel n\u00famero um da m\u00e1fia. Promovido a l\u00edder sindical, ele torna-se o principal suspeito quando o mais famoso ex-presidente da associa\u00e7\u00e3o desaparece misteriosamente.",
+                "vote_average": 7.607,
+                "vote_count": 6476
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jojo Rabbit",
+            "second_label": "Carthew Neal, Taika Waititi and Chelsea Winstanley, Producers",
+            "category": "Best Picture",
+            "year": 2020,
+            "tmdb": {
+                "id": 515001,
+                "original_title": "Jojo Rabbit",
+                "title": "Jojo Rabbit",
+                "release_date": "2019-10-18",
+                "backdrop_path": "/8CX2kCBV9x5ASTQ3ipLToz6TtCa.jpg",
+                "poster_path": "/zFJZKMcjBaVLNPZJQUAFNoTL48d.jpg",
+                "overview": "Jojo \u00e9 um garoto alem\u00e3o solit\u00e1rio que descobre que sua m\u00e3e est\u00e1 escondendo uma garota judia no s\u00f3t\u00e3o. Ajudado apenas por seu amigo imagin\u00e1rio, Adolf Hitler, Jojo deve enfrentar seu nacionalismo cego enquanto a Segunda Guerra Mundial prossegue.",
+                "vote_average": 8.0,
+                "vote_count": 9083
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Joker",
+            "second_label": "Todd Phillips, Bradley Cooper and Emma Tillinger Koskoff, Producers",
+            "category": "Best Picture",
+            "year": 2020,
+            "tmdb": {
+                "id": 475557,
+                "original_title": "Joker",
+                "title": "Coringa",
+                "release_date": "2019-10-01",
+                "backdrop_path": "/7oJ5wrbS9Zs9AoxTjNb1siJKVq6.jpg",
+                "poster_path": "/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg",
+                "overview": "Isolado, intimidado e desconsiderado pela sociedade, o fracassado comediante Arthur Fleck inicia seu caminho como uma mente criminosa ap\u00f3s assassinar tr\u00eas homens em pleno metr\u00f4. Sua a\u00e7\u00e3o inicia um movimento popular contra a elite de Gotham City, da qual Thomas Wayne \u00e9 seu maior representante.",
+                "vote_average": 8.163,
+                "vote_count": 24288
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Little Women",
+            "second_label": "Amy Pascal, Producer",
+            "category": "Best Picture",
+            "year": 2020,
+            "tmdb": {
+                "id": 331482,
+                "original_title": "Little Women",
+                "title": "Ador\u00e1veis Mulheres",
+                "release_date": "2019-12-25",
+                "backdrop_path": "/lqxxwTRk0l7CubY6JkJdhnwJEkn.jpg",
+                "poster_path": "/1dwhsiuvNyQmA9ytp3T40uz4MOv.jpg",
+                "overview": "As irm\u00e3s Jo, Beth, Meg e Amy amadurecem na virada da adolesc\u00eancia para a vida adulta enquanto os Estados Unidos atravessam a Guerra Civil. Com personalidades completamente diferentes, elas enfrentam os desafios de crescer unidas pelo amor que nutrem umas pelas outras.",
+                "vote_average": 7.89,
+                "vote_count": 5970
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Marriage Story",
+            "second_label": "Noah Baumbach and David Heyman, Producers",
+            "category": "Best Picture",
+            "year": 2020,
+            "tmdb": {
+                "id": 492188,
+                "original_title": "Marriage Story",
+                "title": "Hist\u00f3ria de um Casamento",
+                "release_date": "2019-09-28",
+                "backdrop_path": "/4PCO7tewIGnE6ySjVf2DbJ3pjqq.jpg",
+                "poster_path": "/LaZ5rwaMvVH20J8O2Nu9uuXGI5.jpg",
+                "overview": "Nicole (Scarlett Johansson) e seu marido Charlie (Adam Driver) est\u00e3o passando por muitos problemas e decidem se divorciar. Os dois concordam em n\u00e3o contratar advogados para tratar do div\u00f3rcio, mas Nicole muda de ideia ap\u00f3s receber a indica\u00e7\u00e3o de Nora Fanshaw (Laura Dern), especialista no assunto. Surpreso com a decis\u00e3o da agora ex-esposa, Charlie precisa encontrar um advogado para tratar da cust\u00f3dia do filho deles, o pequeno Henry (Azhy Robertson).",
+                "vote_average": 7.746,
+                "vote_count": 6672
+            },
+            "winner": false
+        },
+        {
+            "first_label": "1917",
+            "second_label": "Sam Mendes, Pippa Harris, Jayne-Ann Tenggren and Callum McDougall, Producers",
+            "category": "Best Picture",
+            "year": 2020,
+            "tmdb": {
+                "id": 530915,
+                "original_title": "1917",
+                "title": "1917",
+                "release_date": "2019-12-25",
+                "backdrop_path": "/76LpPdXtCf4WxWDagVT2YcF4e9g.jpg",
+                "poster_path": "/m6VVgmwNdOWvLo8nlheLPQU5wr7.jpg",
+                "overview": "Os cabos Schofield e Blake s\u00e3o jovens soldados brit\u00e2nicos durante a Primeira Guerra Mundial. Quando eles s\u00e3o encarregados de uma miss\u00e3o aparentemente imposs\u00edvel, os dois precisam atravessar territ\u00f3rio inimigo, lutando contra o tempo, para entregar uma mensagem que pode salvar cerca de 1600 colegas de batalh\u00e3o.",
+                "vote_average": 8.0,
+                "vote_count": 11825
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Once upon a Time...in Hollywood",
+            "second_label": "David Heyman, Shannon McIntosh and Quentin Tarantino, Producers",
+            "category": "Best Picture",
+            "year": 2020,
+            "tmdb": {
+                "id": 466272,
+                "original_title": "Once Upon a Time... in Hollywood",
+                "title": "Era Uma Vez em\u2026 Hollywood",
+                "release_date": "2019-07-24",
+                "backdrop_path": "/oRiUKwDpcqDdoLwPoA4FIRh3hqY.jpg",
+                "poster_path": "/h30FdikGNkrT6loajaO9G1HHjz0.jpg",
+                "overview": "Los Angeles, 1969. Rick Dalton \u00e9 um ator de TV que, juntamente com seu dubl\u00ea, est\u00e1 decidido a fazer o nome em Hollywood. Para tanto, ele conhece muitas pessoas influentes na ind\u00fastria cinematogr\u00e1fica, o que os acaba levando aos assassinatos realizados por Charles Manson na \u00e9poca, entre eles o da atriz Sharon Tate, que na \u00e9poca estava gr\u00e1vida do diretor Roman Polanski.",
+                "vote_average": 7.439,
+                "vote_count": 12783
+            },
+            "winner": false
+        }
+    ],
+    "Production Design": [
+        {
+            "first_label": "Once upon a Time...in Hollywood",
+            "second_label": "Production Design: Barbara Ling; Set Decoration: Nancy Haigh",
+            "category": "Production Design",
+            "year": 2020,
+            "tmdb": {
+                "id": 466272,
+                "original_title": "Once Upon a Time... in Hollywood",
+                "title": "Era Uma Vez em\u2026 Hollywood",
+                "release_date": "2019-07-24",
+                "backdrop_path": "/oRiUKwDpcqDdoLwPoA4FIRh3hqY.jpg",
+                "poster_path": "/h30FdikGNkrT6loajaO9G1HHjz0.jpg",
+                "overview": "Los Angeles, 1969. Rick Dalton \u00e9 um ator de TV que, juntamente com seu dubl\u00ea, est\u00e1 decidido a fazer o nome em Hollywood. Para tanto, ele conhece muitas pessoas influentes na ind\u00fastria cinematogr\u00e1fica, o que os acaba levando aos assassinatos realizados por Charles Manson na \u00e9poca, entre eles o da atriz Sharon Tate, que na \u00e9poca estava gr\u00e1vida do diretor Roman Polanski.",
+                "vote_average": 7.439,
+                "vote_count": 12783
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Irishman",
+            "second_label": "Production Design: Bob Shaw; Set Decoration: Regina Graves",
+            "category": "Production Design",
+            "year": 2020,
+            "tmdb": {
+                "id": 398978,
+                "original_title": "The Irishman",
+                "title": "O Irland\u00eas",
+                "release_date": "2019-11-01",
+                "backdrop_path": "/1RDto0tLo8Fhq7OcwgDaM7nECb7.jpg",
+                "poster_path": "/3GPn2W2UdzUE1bp1KtCrYvXiZFt.jpg",
+                "overview": "Frank Sheeran \u00e9 um veterano de guerra cheio de condecora\u00e7\u00f5es que concilia a vida de caminhoneiro com a de assassino de aluguel n\u00famero um da m\u00e1fia. Promovido a l\u00edder sindical, ele torna-se o principal suspeito quando o mais famoso ex-presidente da associa\u00e7\u00e3o desaparece misteriosamente.",
+                "vote_average": 7.607,
+                "vote_count": 6476
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jojo Rabbit",
+            "second_label": "Production Design: Ra Vincent; Set Decoration: Nora Sopkov",
+            "category": "Production Design",
+            "year": 2020,
+            "tmdb": {
+                "id": 515001,
+                "original_title": "Jojo Rabbit",
+                "title": "Jojo Rabbit",
+                "release_date": "2019-10-18",
+                "backdrop_path": "/8CX2kCBV9x5ASTQ3ipLToz6TtCa.jpg",
+                "poster_path": "/zFJZKMcjBaVLNPZJQUAFNoTL48d.jpg",
+                "overview": "Jojo \u00e9 um garoto alem\u00e3o solit\u00e1rio que descobre que sua m\u00e3e est\u00e1 escondendo uma garota judia no s\u00f3t\u00e3o. Ajudado apenas por seu amigo imagin\u00e1rio, Adolf Hitler, Jojo deve enfrentar seu nacionalismo cego enquanto a Segunda Guerra Mundial prossegue.",
+                "vote_average": 8.0,
+                "vote_count": 9083
+            },
+            "winner": false
+        },
+        {
+            "first_label": "1917",
+            "second_label": "Production Design: Dennis Gassner; Set Decoration: Lee Sandales",
+            "category": "Production Design",
+            "year": 2020,
+            "tmdb": {
+                "id": 530915,
+                "original_title": "1917",
+                "title": "1917",
+                "release_date": "2019-12-25",
+                "backdrop_path": "/76LpPdXtCf4WxWDagVT2YcF4e9g.jpg",
+                "poster_path": "/m6VVgmwNdOWvLo8nlheLPQU5wr7.jpg",
+                "overview": "Os cabos Schofield e Blake s\u00e3o jovens soldados brit\u00e2nicos durante a Primeira Guerra Mundial. Quando eles s\u00e3o encarregados de uma miss\u00e3o aparentemente imposs\u00edvel, os dois precisam atravessar territ\u00f3rio inimigo, lutando contra o tempo, para entregar uma mensagem que pode salvar cerca de 1600 colegas de batalh\u00e3o.",
+                "vote_average": 8.0,
+                "vote_count": 11825
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Parasite",
+            "second_label": "Production Design: Lee Ha Jun; Set Decoration: Cho Won Woo",
+            "category": "Production Design",
+            "year": 2020,
+            "tmdb": {
+                "id": 496243,
+                "original_title": "\uae30\uc0dd\ucda9",
+                "title": "Parasita",
+                "release_date": "2019-05-30",
+                "backdrop_path": "/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
+                "poster_path": "/igw938inb6Fy0YVcwIyxQ7Lu5FO.jpg",
+                "overview": "Toda a fam\u00edlia de Ki-taek est\u00e1 desempregada, vivendo num por\u00e3o sujo e apertado. Uma obra do acaso faz com que o filho adolescente da fam\u00edlia comece a dar aulas de ingl\u00eas \u00e0 garota de uma fam\u00edlia rica. Fascinados com a vida luxuosa destas pessoas, pai, m\u00e3e, filho e filha bolam um plano para se infiltrarem tamb\u00e9m na fam\u00edlia burguesa, um a um. No entanto, os segredos e mentiras necess\u00e1rios \u00e0 ascens\u00e3o social custar\u00e3o caro a todos.",
+                "vote_average": 8.5,
+                "vote_count": 17327
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Animated)": [
+        {
+            "first_label": "Hair Love",
+            "second_label": "Matthew A. Cherry and Karen Rupert Toliver",
+            "category": "Short Film (Animated)",
+            "year": 2020,
+            "tmdb": {
+                "id": 589739,
+                "original_title": "Hair Love",
+                "title": "Hair Love",
+                "release_date": "2019-08-14",
+                "backdrop_path": "/sAjxWqwNAYc7ylEyXN7oFI486oL.jpg",
+                "poster_path": "/pm9uRa7031Z56unxNE8AqE8f2wg.jpg",
+                "overview": "Um pai tem a dif\u00edcil miss\u00e3o de fazer um belo penteado em sua pequena filha. Um v\u00eddeo gravado pela inspiradora m\u00e3e da menina \u00e9 seu \u00fanico aux\u00edlio na tentativa de ser bem-sucedido.",
+                "vote_average": 7.6,
+                "vote_count": 444
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Dcera (Daughter)",
+            "second_label": "Daria Kashcheeva",
+            "category": "Short Film (Animated)",
+            "year": 2020,
+            "tmdb": {
+                "id": 547066,
+                "original_title": "Skammerens Datter II: Slangens Gave",
+                "title": "O Dom da Serpente",
+                "release_date": "2020-02-28",
+                "backdrop_path": "/tzNbo6hymKypA57D8nRHY7TpbK0.jpg",
+                "poster_path": "/9MkAcXlNgd7IAU9NAzuFJAcfoya.jpg",
+                "overview": "Dina, uma jovem que herdou a habilidade sobrenatural de ver os pecados e as fraquezas das outras pessoas olhando nos olhos precisa salvar sua fam\u00edlia. Com a ajuda do pai, que ela n\u00e3o conhecia, Dina ter\u00e1 que escolher entre o seu pr\u00f3prio dom e a magia negra.",
+                "vote_average": 6.6,
+                "vote_count": 58
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Kitbull",
+            "second_label": "Rosana Sullivan and Kathryn Hendrickson",
+            "category": "Short Film (Animated)",
+            "year": 2020,
+            "tmdb": {
+                "id": 574074,
+                "original_title": "Kitbull",
+                "title": "Gat-Bull",
+                "release_date": "2019-01-18",
+                "backdrop_path": "/xtj3EhrFHMrZCLTWH6LarEXAG8r.jpg",
+                "poster_path": "/xfY5c9AVzxnMMQH1fj1mkG0SzFf.jpg",
+                "overview": "Uma conex\u00e3o improv\u00e1vel entre duas criaturas: um gatinho de rua e um pitbull. Juntos, eles experimentam a amizade pela primeira vez.",
+                "vote_average": 8.0,
+                "vote_count": 349
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Memorable",
+            "second_label": "Bruno Collet and Jean-Franois Le Corre",
+            "category": "Short Film (Animated)",
+            "year": 2020,
+            "tmdb": {
+                "id": 608542,
+                "original_title": "M\u00e9morable",
+                "title": "Memor\u00e1vel",
+                "release_date": "2019-06-11",
+                "backdrop_path": "/zl8VSkDpPb8bEiuor27u3ksF0Rt.jpg",
+                "poster_path": "/eLW86bTGdsSADHgLBZZSpiO95s5.jpg",
+                "overview": "Recentemente, Louis e sua esposa Michelle vivem acontecimentos estranhos. O universo ao seu redor parece estar mudando. Lentamente, m\u00f3veis, objetos e pessoas perdem o seu realismo. Candidato franc\u00eas a melhor curta de anima\u00e7\u00e3o no Oscar 2020.",
+                "vote_average": 8.2,
+                "vote_count": 67
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sister",
+            "second_label": "Siqi Song",
+            "category": "Short Film (Animated)",
+            "year": 2020,
+            "tmdb": {
+                "id": 590220,
+                "original_title": "Sister",
+                "title": "Sister",
+                "release_date": "2019-02-12",
+                "backdrop_path": null,
+                "poster_path": "/9CYTjYD1zvsFTd98Qf6xC7NRWnR.jpg",
+                "overview": "A silent portrait of the funeral of Mary Louise Everson Humphries Tubbs",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Live Action)": [
+        {
+            "first_label": "The Neighbors' Window",
+            "second_label": "Marshall Curry",
+            "category": "Short Film (Live Action)",
+            "year": 2020,
+            "tmdb": {
+                "id": 600274,
+                "original_title": "The Neighbors' Window",
+                "title": "Janela dos vizinhos",
+                "release_date": "2019-08-02",
+                "backdrop_path": "/5v65gfChAujhoumnFb2dhiOftcr.jpg",
+                "poster_path": "/gZJmwQTaUf5iJzcENxtqPa9uxBg.jpg",
+                "overview": "Alli (Maria Dizzia) e Jacob (Greg Keller) s\u00e3o um casal de meia-idade com tr\u00eas filhos pequenos. Uma noite, exaustos ao conciliarem trabalho e cria\u00e7\u00e3o das crian\u00e7as, eles observam pela janela de seu apartamento um homem e uma mulher fazendo sexo com muita intensidade. A partir desse epis\u00f3dio, eles repensar\u00e3o a vida que levam.",
+                "vote_average": 7.0,
+                "vote_count": 188
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Brotherhood",
+            "second_label": "Meryam Joobeur and Maria Gracia Turgeon",
+            "category": "Short Film (Live Action)",
+            "year": 2020,
+            "tmdb": {
+                "id": 624405,
+                "original_title": "Brotherhood",
+                "title": "Brotherhood",
+                "release_date": "2019-12-06",
+                "backdrop_path": "/qmy2ReXNP58r2bhhW25XfQRNRSD.jpg",
+                "poster_path": "/fJIED9BgUbTVt0IjY0Lxi7zuhol.jpg",
+                "overview": "Em 1926, onze adolescentes chegam a Long Point Camp para a aventura de suas vidas. Quando a canoa em que est\u00e3o passa por uma estranha tempestade de ver\u00e3o o feriado se torna uma luta pela sobreviv\u00eancia",
+                "vote_average": 5.6,
+                "vote_count": 8
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Nefta Football Club",
+            "second_label": "Yves Piat and Damien Megherbi",
+            "category": "Short Film (Live Action)",
+            "year": 2020,
+            "tmdb": {
+                "id": 581465,
+                "original_title": "Nefta Football Club",
+                "title": "Nefta Football Club",
+                "release_date": "2018-10-24",
+                "backdrop_path": "/8WJtHaeOclrQqjvyrN5F9XrGUwM.jpg",
+                "poster_path": "/wRa0zStfGUA345pdz4h2E3OxNzP.jpg",
+                "overview": "No sul da Tun\u00edsia, dois irm\u00e3os f\u00e3s de futebol se deparam com um burro perdido no meio do deserto, na fronteira com a Arg\u00e9lia. Estranhamente, o animal est\u00e1 usando fones de ouvido. Mal imaginam eles que o simp\u00e1tico quadr\u00fapede est\u00e1 levando uma carga muito peculiar. Pr\u00eamio do P\u00fablico no renomado Festival Internacional de Curtas de Clermont-Ferrand e no Festival Internacional de Curtas de S\u00e3o Paulo, em 2019. Pr\u00e9-finalista ao Oscar 2020 de Melhor Curta de Fic\u00e7\u00e3o.",
+                "vote_average": 7.1,
+                "vote_count": 56
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Saria",
+            "second_label": "Bryan Buckley and Matt Lefebvre",
+            "category": "Short Film (Live Action)",
+            "year": 2020,
+            "tmdb": {
+                "id": 656190,
+                "original_title": "Saria",
+                "title": "Saria",
+                "release_date": "2019-09-20",
+                "backdrop_path": "/9jMCRBZ5b27czJQB5SPUVeEKWn.jpg",
+                "poster_path": "/qUtMBksjjJLM4Eid2fm5oTUWck2.jpg",
+                "overview": "SARIA explores the unimaginable hardships that faced young female orphans at the Virgen de La Asuncion Safe Home in Guatemala, leading up to the tragic fire which claimed 41 of their lives in 2017.",
+                "vote_average": 6.9,
+                "vote_count": 26
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Sister",
+            "second_label": "Delphine Girard",
+            "category": "Short Film (Live Action)",
+            "year": 2020,
+            "tmdb": {
+                "id": 540899,
+                "original_title": "A Sister's Obsession",
+                "title": "Irm\u00e3 Obsessiva",
+                "release_date": "2018-08-04",
+                "backdrop_path": "/dL86GkYGVyNqGCKYkWxbAsy8fr8.jpg",
+                "poster_path": "/e3iBKgnhfHTls4c8xQwdfVWdRuo.jpg",
+                "overview": "A vida de Kendra n\u00e3o poderia ser mais perfeita - ela tem um marido amoroso, uma melhor amiga solid\u00e1ria e uma carreira florescente ... e ela acabou de receber o t\u00edtulo de \"Educadora do ano\". Mas quando Kendra se levanta para fazer um discurso no banquete de premia\u00e7\u00e3o realizado em sua homenagem, sua vida rapidamente come\u00e7a a se desfazer. Ela logo descobre que a causa de seus problemas \u00e9 completamente inesperada: Amber, sua irm\u00e3 g\u00eamea h\u00e1 muito perdida. Amber se ressente da \"vida intitulada\" de Kendra e est\u00e1 determinada a igualar o campo de jogo.",
+                "vote_average": 5.3,
+                "vote_count": 17
+            },
+            "winner": false
+        }
+    ],
+    "Sound Editing": [
+        {
+            "first_label": "Ford v Ferrari",
+            "second_label": "Donald Sylvester",
+            "category": "Sound Editing",
+            "year": 2020,
+            "tmdb": {
+                "id": 359724,
+                "original_title": "Ford v Ferrari",
+                "title": "Ford vs Ferrari",
+                "release_date": "2019-11-13",
+                "backdrop_path": "/2vq5GTJOahE03mNYZGxIynlHcWr.jpg",
+                "poster_path": "/t8L9dqNMclXJHP0TesPsPS2RvB1.jpg",
+                "overview": "O designer de carros americano Carroll Shelby e o destemido piloto brit\u00e2nico Ken Miles juntos combatem a interfer\u00eancia corporativa e as leis da f\u00edsica para construir um carro de corrida revolucion\u00e1rio e enfrentar Enzo Ferrari nas 24 horas de Le Mans na Fran\u00e7a em 1966.",
+                "vote_average": 8.003,
+                "vote_count": 7415
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Joker",
+            "second_label": "Alan Robert Murray",
+            "category": "Sound Editing",
+            "year": 2020,
+            "tmdb": {
+                "id": 475557,
+                "original_title": "Joker",
+                "title": "Coringa",
+                "release_date": "2019-10-01",
+                "backdrop_path": "/7oJ5wrbS9Zs9AoxTjNb1siJKVq6.jpg",
+                "poster_path": "/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg",
+                "overview": "Isolado, intimidado e desconsiderado pela sociedade, o fracassado comediante Arthur Fleck inicia seu caminho como uma mente criminosa ap\u00f3s assassinar tr\u00eas homens em pleno metr\u00f4. Sua a\u00e7\u00e3o inicia um movimento popular contra a elite de Gotham City, da qual Thomas Wayne \u00e9 seu maior representante.",
+                "vote_average": 8.163,
+                "vote_count": 24288
+            },
+            "winner": false
+        },
+        {
+            "first_label": "1917",
+            "second_label": "Oliver Tarney and Rachael Tate",
+            "category": "Sound Editing",
+            "year": 2020,
+            "tmdb": {
+                "id": 530915,
+                "original_title": "1917",
+                "title": "1917",
+                "release_date": "2019-12-25",
+                "backdrop_path": "/76LpPdXtCf4WxWDagVT2YcF4e9g.jpg",
+                "poster_path": "/m6VVgmwNdOWvLo8nlheLPQU5wr7.jpg",
+                "overview": "Os cabos Schofield e Blake s\u00e3o jovens soldados brit\u00e2nicos durante a Primeira Guerra Mundial. Quando eles s\u00e3o encarregados de uma miss\u00e3o aparentemente imposs\u00edvel, os dois precisam atravessar territ\u00f3rio inimigo, lutando contra o tempo, para entregar uma mensagem que pode salvar cerca de 1600 colegas de batalh\u00e3o.",
+                "vote_average": 8.0,
+                "vote_count": 11825
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Once upon a Time...in Hollywood",
+            "second_label": "Wylie Stateman",
+            "category": "Sound Editing",
+            "year": 2020,
+            "tmdb": {
+                "id": 466272,
+                "original_title": "Once Upon a Time... in Hollywood",
+                "title": "Era Uma Vez em\u2026 Hollywood",
+                "release_date": "2019-07-24",
+                "backdrop_path": "/oRiUKwDpcqDdoLwPoA4FIRh3hqY.jpg",
+                "poster_path": "/h30FdikGNkrT6loajaO9G1HHjz0.jpg",
+                "overview": "Los Angeles, 1969. Rick Dalton \u00e9 um ator de TV que, juntamente com seu dubl\u00ea, est\u00e1 decidido a fazer o nome em Hollywood. Para tanto, ele conhece muitas pessoas influentes na ind\u00fastria cinematogr\u00e1fica, o que os acaba levando aos assassinatos realizados por Charles Manson na \u00e9poca, entre eles o da atriz Sharon Tate, que na \u00e9poca estava gr\u00e1vida do diretor Roman Polanski.",
+                "vote_average": 7.439,
+                "vote_count": 12783
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Star Wars: The Rise of Skywalker",
+            "second_label": "Matthew Wood and David Acord",
+            "category": "Sound Editing",
+            "year": 2020,
+            "tmdb": {
+                "id": 181812,
+                "original_title": "Star Wars: The Rise of Skywalker",
+                "title": "Star Wars: Epis\u00f3dio IX - A Ascens\u00e3o Skywalker",
+                "release_date": "2019-12-18",
+                "backdrop_path": "/jOzrELAzFxtMx2I4uDGHOotdfsS.jpg",
+                "poster_path": "/uLlrDUtFG2tKtDcJN6kBznlqqsp.jpg",
+                "overview": "Com o retorno do Imperador Palpatine, todos voltam a temer seu poder e, com isso, a Resist\u00eancia toma a frente da batalha que ditar\u00e1 os rumos da gal\u00e1xia. Treinando para ser uma completa Jedi, Rey (Daisy Ridley) ainda se encontra em conflito com seu passado e futuro, mas teme pelas respostas que pode conseguir a partir de sua complexa liga\u00e7\u00e3o com Kylo Ren (Adam Driver), que tamb\u00e9m se encontra em conflito pela For\u00e7a.",
+                "vote_average": 6.34,
+                "vote_count": 9426
+            },
+            "winner": false
+        }
+    ],
+    "Sound Mixing": [
+        {
+            "first_label": "1917",
+            "second_label": "Mark Taylor and Stuart Wilson",
+            "category": "Sound Mixing",
+            "year": 2020,
+            "tmdb": {
+                "id": 530915,
+                "original_title": "1917",
+                "title": "1917",
+                "release_date": "2019-12-25",
+                "backdrop_path": "/76LpPdXtCf4WxWDagVT2YcF4e9g.jpg",
+                "poster_path": "/m6VVgmwNdOWvLo8nlheLPQU5wr7.jpg",
+                "overview": "Os cabos Schofield e Blake s\u00e3o jovens soldados brit\u00e2nicos durante a Primeira Guerra Mundial. Quando eles s\u00e3o encarregados de uma miss\u00e3o aparentemente imposs\u00edvel, os dois precisam atravessar territ\u00f3rio inimigo, lutando contra o tempo, para entregar uma mensagem que pode salvar cerca de 1600 colegas de batalh\u00e3o.",
+                "vote_average": 8.0,
+                "vote_count": 11825
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Ad Astra",
+            "second_label": "Gary Rydstrom, Tom Johnson and Mark Ulano",
+            "category": "Sound Mixing",
+            "year": 2020,
+            "tmdb": {
+                "id": 419704,
+                "original_title": "Ad Astra",
+                "title": "Ad Astra - Rumo \u00e0s Estrelas",
+                "release_date": "2019-09-17",
+                "backdrop_path": "/AeDS2MKGFy6QcjgWbJBde0Ga6Hd.jpg",
+                "poster_path": "/wigZBAmNrIhxp2FNGOROUAeHvdh.jpg",
+                "overview": "Roy McBride \u00e9 um engenheiro espacial, portador de um leve grau de autismo, que decide empreender a maior jornada de sua vida: viajar para o espa\u00e7o, cruzar a gal\u00e1xia e tentar descobrir o que aconteceu com seu pai, um astronauta que se perdeu h\u00e1 vinte anos atr\u00e1s no caminho para Netuno.",
+                "vote_average": 6.1,
+                "vote_count": 6338
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ford v Ferrari",
+            "second_label": "Paul Massey, David Giammarco and Steven A. Morrow",
+            "category": "Sound Mixing",
+            "year": 2020,
+            "tmdb": {
+                "id": 359724,
+                "original_title": "Ford v Ferrari",
+                "title": "Ford vs Ferrari",
+                "release_date": "2019-11-13",
+                "backdrop_path": "/2vq5GTJOahE03mNYZGxIynlHcWr.jpg",
+                "poster_path": "/t8L9dqNMclXJHP0TesPsPS2RvB1.jpg",
+                "overview": "O designer de carros americano Carroll Shelby e o destemido piloto brit\u00e2nico Ken Miles juntos combatem a interfer\u00eancia corporativa e as leis da f\u00edsica para construir um carro de corrida revolucion\u00e1rio e enfrentar Enzo Ferrari nas 24 horas de Le Mans na Fran\u00e7a em 1966.",
+                "vote_average": 8.003,
+                "vote_count": 7415
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Joker",
+            "second_label": "Tom Ozanich, Dean Zupancic and Tod Maitland",
+            "category": "Sound Mixing",
+            "year": 2020,
+            "tmdb": {
+                "id": 475557,
+                "original_title": "Joker",
+                "title": "Coringa",
+                "release_date": "2019-10-01",
+                "backdrop_path": "/7oJ5wrbS9Zs9AoxTjNb1siJKVq6.jpg",
+                "poster_path": "/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg",
+                "overview": "Isolado, intimidado e desconsiderado pela sociedade, o fracassado comediante Arthur Fleck inicia seu caminho como uma mente criminosa ap\u00f3s assassinar tr\u00eas homens em pleno metr\u00f4. Sua a\u00e7\u00e3o inicia um movimento popular contra a elite de Gotham City, da qual Thomas Wayne \u00e9 seu maior representante.",
+                "vote_average": 8.163,
+                "vote_count": 24288
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Once upon a Time...in Hollywood",
+            "second_label": "Michael Minkler, Christian P. Minkler and Mark Ulano",
+            "category": "Sound Mixing",
+            "year": 2020,
+            "tmdb": {
+                "id": 466272,
+                "original_title": "Once Upon a Time... in Hollywood",
+                "title": "Era Uma Vez em\u2026 Hollywood",
+                "release_date": "2019-07-24",
+                "backdrop_path": "/oRiUKwDpcqDdoLwPoA4FIRh3hqY.jpg",
+                "poster_path": "/h30FdikGNkrT6loajaO9G1HHjz0.jpg",
+                "overview": "Los Angeles, 1969. Rick Dalton \u00e9 um ator de TV que, juntamente com seu dubl\u00ea, est\u00e1 decidido a fazer o nome em Hollywood. Para tanto, ele conhece muitas pessoas influentes na ind\u00fastria cinematogr\u00e1fica, o que os acaba levando aos assassinatos realizados por Charles Manson na \u00e9poca, entre eles o da atriz Sharon Tate, que na \u00e9poca estava gr\u00e1vida do diretor Roman Polanski.",
+                "vote_average": 7.439,
+                "vote_count": 12783
+            },
+            "winner": false
+        }
+    ],
+    "Visual Effects": [
+        {
+            "first_label": "1917",
+            "second_label": "Guillaume Rocheron, Greg Butler and Dominic Tuohy",
+            "category": "Visual Effects",
+            "year": 2020,
+            "tmdb": {
+                "id": 530915,
+                "original_title": "1917",
+                "title": "1917",
+                "release_date": "2019-12-25",
+                "backdrop_path": "/76LpPdXtCf4WxWDagVT2YcF4e9g.jpg",
+                "poster_path": "/m6VVgmwNdOWvLo8nlheLPQU5wr7.jpg",
+                "overview": "Os cabos Schofield e Blake s\u00e3o jovens soldados brit\u00e2nicos durante a Primeira Guerra Mundial. Quando eles s\u00e3o encarregados de uma miss\u00e3o aparentemente imposs\u00edvel, os dois precisam atravessar territ\u00f3rio inimigo, lutando contra o tempo, para entregar uma mensagem que pode salvar cerca de 1600 colegas de batalh\u00e3o.",
+                "vote_average": 8.0,
+                "vote_count": 11825
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Avengers: Endgame",
+            "second_label": "Dan DeLeeuw, Russell Earl, Matt Aitken and Dan Sudick",
+            "category": "Visual Effects",
+            "year": 2020,
+            "tmdb": {
+                "id": 299534,
+                "original_title": "Avengers: Endgame",
+                "title": "Vingadores: Ultimato",
+                "release_date": "2019-04-24",
+                "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+                "poster_path": "/9fRX8UKlIW7Lb9GqNsJVakWWFCi.jpg",
+                "overview": "Ap\u00f3s os eventos devastadores de \"Vingadores: Guerra Infinita\", o universo est\u00e1 em ru\u00ednas devido aos esfor\u00e7os do Tit\u00e3 Louco, Thanos. Com a ajuda de aliados remanescentes, os Vingadores devem se reunir mais uma vez a fim de desfazer as a\u00e7\u00f5es de Thanos e restaurar a ordem no universo de uma vez por todas, n\u00e3o importando as consequ\u00eancias.",
+                "vote_average": 8.256,
+                "vote_count": 24659
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Irishman",
+            "second_label": "Pablo Helman, Leandro Estebecorena, Nelson Sepulveda-Fauser and Stephane Grabli",
+            "category": "Visual Effects",
+            "year": 2020,
+            "tmdb": {
+                "id": 398978,
+                "original_title": "The Irishman",
+                "title": "O Irland\u00eas",
+                "release_date": "2019-11-01",
+                "backdrop_path": "/1RDto0tLo8Fhq7OcwgDaM7nECb7.jpg",
+                "poster_path": "/3GPn2W2UdzUE1bp1KtCrYvXiZFt.jpg",
+                "overview": "Frank Sheeran \u00e9 um veterano de guerra cheio de condecora\u00e7\u00f5es que concilia a vida de caminhoneiro com a de assassino de aluguel n\u00famero um da m\u00e1fia. Promovido a l\u00edder sindical, ele torna-se o principal suspeito quando o mais famoso ex-presidente da associa\u00e7\u00e3o desaparece misteriosamente.",
+                "vote_average": 7.607,
+                "vote_count": 6476
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Lion King",
+            "second_label": "Robert Legato, Adam Valdez, Andrew R. Jones and Elliot Newman",
+            "category": "Visual Effects",
+            "year": 2020,
+            "tmdb": {
+                "id": 420818,
+                "original_title": "The Lion King",
+                "title": "O Rei Le\u00e3o",
+                "release_date": "2019-07-12",
+                "backdrop_path": "/1TUg5pO1VZ4B0Q1amk3OlXvlpXV.jpg",
+                "poster_path": "/wrHr8eEJYDAA7WYybyH162s4oZ4.jpg",
+                "overview": "Simba \u00e9 um jovem le\u00e3o cujo destino \u00e9 se tornar o rei da selva. Entretanto, uma armadilha elaborada por seu tio Scar faz com que Mufasa, o atual rei, morra ao tentar salvar o filhote. Consumido pela culpa, Simba deixa o reino rumo a um local distante, onde encontra amigos que o ensinam a mais uma vez ter prazer pela vida.",
+                "vote_average": 7.116,
+                "vote_count": 9591
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Star Wars: The Rise of Skywalker",
+            "second_label": "Roger Guyett, Neal Scanlan, Patrick Tubach and Dominic Tuohy",
+            "category": "Visual Effects",
+            "year": 2020,
+            "tmdb": {
+                "id": 181812,
+                "original_title": "Star Wars: The Rise of Skywalker",
+                "title": "Star Wars: Epis\u00f3dio IX - A Ascens\u00e3o Skywalker",
+                "release_date": "2019-12-18",
+                "backdrop_path": "/jOzrELAzFxtMx2I4uDGHOotdfsS.jpg",
+                "poster_path": "/uLlrDUtFG2tKtDcJN6kBznlqqsp.jpg",
+                "overview": "Com o retorno do Imperador Palpatine, todos voltam a temer seu poder e, com isso, a Resist\u00eancia toma a frente da batalha que ditar\u00e1 os rumos da gal\u00e1xia. Treinando para ser uma completa Jedi, Rey (Daisy Ridley) ainda se encontra em conflito com seu passado e futuro, mas teme pelas respostas que pode conseguir a partir de sua complexa liga\u00e7\u00e3o com Kylo Ren (Adam Driver), que tamb\u00e9m se encontra em conflito pela For\u00e7a.",
+                "vote_average": 6.34,
+                "vote_count": 9426
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Adapted Screenplay)": [
+        {
+            "first_label": "Jojo Rabbit",
+            "second_label": "Screenplay by Taika Waititi",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2020,
+            "tmdb": {
+                "id": 515001,
+                "original_title": "Jojo Rabbit",
+                "title": "Jojo Rabbit",
+                "release_date": "2019-10-18",
+                "backdrop_path": "/8CX2kCBV9x5ASTQ3ipLToz6TtCa.jpg",
+                "poster_path": "/zFJZKMcjBaVLNPZJQUAFNoTL48d.jpg",
+                "overview": "Jojo \u00e9 um garoto alem\u00e3o solit\u00e1rio que descobre que sua m\u00e3e est\u00e1 escondendo uma garota judia no s\u00f3t\u00e3o. Ajudado apenas por seu amigo imagin\u00e1rio, Adolf Hitler, Jojo deve enfrentar seu nacionalismo cego enquanto a Segunda Guerra Mundial prossegue.",
+                "vote_average": 8.0,
+                "vote_count": 9083
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Irishman",
+            "second_label": "Screenplay by Steven Zaillian",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2020,
+            "tmdb": {
+                "id": 398978,
+                "original_title": "The Irishman",
+                "title": "O Irland\u00eas",
+                "release_date": "2019-11-01",
+                "backdrop_path": "/1RDto0tLo8Fhq7OcwgDaM7nECb7.jpg",
+                "poster_path": "/3GPn2W2UdzUE1bp1KtCrYvXiZFt.jpg",
+                "overview": "Frank Sheeran \u00e9 um veterano de guerra cheio de condecora\u00e7\u00f5es que concilia a vida de caminhoneiro com a de assassino de aluguel n\u00famero um da m\u00e1fia. Promovido a l\u00edder sindical, ele torna-se o principal suspeito quando o mais famoso ex-presidente da associa\u00e7\u00e3o desaparece misteriosamente.",
+                "vote_average": 7.607,
+                "vote_count": 6476
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Joker",
+            "second_label": "Written by Todd Phillips & Scott Silver",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2020,
+            "tmdb": {
+                "id": 475557,
+                "original_title": "Joker",
+                "title": "Coringa",
+                "release_date": "2019-10-01",
+                "backdrop_path": "/7oJ5wrbS9Zs9AoxTjNb1siJKVq6.jpg",
+                "poster_path": "/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg",
+                "overview": "Isolado, intimidado e desconsiderado pela sociedade, o fracassado comediante Arthur Fleck inicia seu caminho como uma mente criminosa ap\u00f3s assassinar tr\u00eas homens em pleno metr\u00f4. Sua a\u00e7\u00e3o inicia um movimento popular contra a elite de Gotham City, da qual Thomas Wayne \u00e9 seu maior representante.",
+                "vote_average": 8.163,
+                "vote_count": 24288
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Little Women",
+            "second_label": "Written for the screen by Greta Gerwig",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2020,
+            "tmdb": {
+                "id": 331482,
+                "original_title": "Little Women",
+                "title": "Ador\u00e1veis Mulheres",
+                "release_date": "2019-12-25",
+                "backdrop_path": "/lqxxwTRk0l7CubY6JkJdhnwJEkn.jpg",
+                "poster_path": "/1dwhsiuvNyQmA9ytp3T40uz4MOv.jpg",
+                "overview": "As irm\u00e3s Jo, Beth, Meg e Amy amadurecem na virada da adolesc\u00eancia para a vida adulta enquanto os Estados Unidos atravessam a Guerra Civil. Com personalidades completamente diferentes, elas enfrentam os desafios de crescer unidas pelo amor que nutrem umas pelas outras.",
+                "vote_average": 7.89,
+                "vote_count": 5970
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Two Popes",
+            "second_label": "Written by Anthony McCarten",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2020,
+            "tmdb": {
+                "id": 551332,
+                "original_title": "The Two Popes",
+                "title": "Dois Papas",
+                "release_date": "2019-11-27",
+                "backdrop_path": "/mHz65gYQ3SmkQH3GKWSKWUkK5zW.jpg",
+                "poster_path": "/lZmD4lMCgZydh8vAkx7JsykfqcW.jpg",
+                "overview": "A rela\u00e7\u00e3o e as diferentes vis\u00f5es dos dois l\u00edderes mais importantes e poderosos da Igreja Cat\u00f3lica na \u00e9poca, o Papa Bento XVI (Anthony Hopkins) e o Cardeal Jorge Mario Bergoglio (Jonathan Pryce), que depois veio a ser o Papa Francisco.",
+                "vote_average": 7.5,
+                "vote_count": 2734
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Original Screenplay)": [
+        {
+            "first_label": "Parasite",
+            "second_label": "Screenplay by Bong Joon Ho, Han Jin Won; Story by Bong Joon Ho",
+            "category": "Writing (Original Screenplay)",
+            "year": 2020,
+            "tmdb": {
+                "id": 496243,
+                "original_title": "\uae30\uc0dd\ucda9",
+                "title": "Parasita",
+                "release_date": "2019-05-30",
+                "backdrop_path": "/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
+                "poster_path": "/igw938inb6Fy0YVcwIyxQ7Lu5FO.jpg",
+                "overview": "Toda a fam\u00edlia de Ki-taek est\u00e1 desempregada, vivendo num por\u00e3o sujo e apertado. Uma obra do acaso faz com que o filho adolescente da fam\u00edlia comece a dar aulas de ingl\u00eas \u00e0 garota de uma fam\u00edlia rica. Fascinados com a vida luxuosa destas pessoas, pai, m\u00e3e, filho e filha bolam um plano para se infiltrarem tamb\u00e9m na fam\u00edlia burguesa, um a um. No entanto, os segredos e mentiras necess\u00e1rios \u00e0 ascens\u00e3o social custar\u00e3o caro a todos.",
+                "vote_average": 8.5,
+                "vote_count": 17327
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Knives Out",
+            "second_label": "Written by Rian Johnson",
+            "category": "Writing (Original Screenplay)",
+            "year": 2020,
+            "tmdb": {
+                "id": 546554,
+                "original_title": "Knives Out",
+                "title": "Entre Facas e Segredos",
+                "release_date": "2019-11-27",
+                "backdrop_path": "/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
+                "poster_path": "/y9bPnWN7M0SmDvh4Nns0R4Jc2Jn.jpg",
+                "overview": "Ap\u00f3s comemorar 85 anos de idade, o famoso escritor de hist\u00f3rias policiais Harlan Thrombey \u00e9 encontrado morto dentro de sua propriedade. Logo, o detetive Benoit Blanc \u00e9 contratado para investigar o caso e descobre que, entre os funcion\u00e1rios misteriosos e a fam\u00edlia conflituosa de Harlan, todos podem ser considerados suspeitos do crime.",
+                "vote_average": 7.849,
+                "vote_count": 11699
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Marriage Story",
+            "second_label": "Written by Noah Baumbach",
+            "category": "Writing (Original Screenplay)",
+            "year": 2020,
+            "tmdb": {
+                "id": 492188,
+                "original_title": "Marriage Story",
+                "title": "Hist\u00f3ria de um Casamento",
+                "release_date": "2019-09-28",
+                "backdrop_path": "/4PCO7tewIGnE6ySjVf2DbJ3pjqq.jpg",
+                "poster_path": "/LaZ5rwaMvVH20J8O2Nu9uuXGI5.jpg",
+                "overview": "Nicole (Scarlett Johansson) e seu marido Charlie (Adam Driver) est\u00e3o passando por muitos problemas e decidem se divorciar. Os dois concordam em n\u00e3o contratar advogados para tratar do div\u00f3rcio, mas Nicole muda de ideia ap\u00f3s receber a indica\u00e7\u00e3o de Nora Fanshaw (Laura Dern), especialista no assunto. Surpreso com a decis\u00e3o da agora ex-esposa, Charlie precisa encontrar um advogado para tratar da cust\u00f3dia do filho deles, o pequeno Henry (Azhy Robertson).",
+                "vote_average": 7.746,
+                "vote_count": 6672
+            },
+            "winner": false
+        },
+        {
+            "first_label": "1917",
+            "second_label": "Written by Sam Mendes & Krysty Wilson-Cairns",
+            "category": "Writing (Original Screenplay)",
+            "year": 2020,
+            "tmdb": {
+                "id": 530915,
+                "original_title": "1917",
+                "title": "1917",
+                "release_date": "2019-12-25",
+                "backdrop_path": "/76LpPdXtCf4WxWDagVT2YcF4e9g.jpg",
+                "poster_path": "/m6VVgmwNdOWvLo8nlheLPQU5wr7.jpg",
+                "overview": "Os cabos Schofield e Blake s\u00e3o jovens soldados brit\u00e2nicos durante a Primeira Guerra Mundial. Quando eles s\u00e3o encarregados de uma miss\u00e3o aparentemente imposs\u00edvel, os dois precisam atravessar territ\u00f3rio inimigo, lutando contra o tempo, para entregar uma mensagem que pode salvar cerca de 1600 colegas de batalh\u00e3o.",
+                "vote_average": 8.0,
+                "vote_count": 11825
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Once upon a Time...in Hollywood",
+            "second_label": "Written by Quentin Tarantino",
+            "category": "Writing (Original Screenplay)",
+            "year": 2020,
+            "tmdb": {
+                "id": 466272,
+                "original_title": "Once Upon a Time... in Hollywood",
+                "title": "Era Uma Vez em\u2026 Hollywood",
+                "release_date": "2019-07-24",
+                "backdrop_path": "/oRiUKwDpcqDdoLwPoA4FIRh3hqY.jpg",
+                "poster_path": "/h30FdikGNkrT6loajaO9G1HHjz0.jpg",
+                "overview": "Los Angeles, 1969. Rick Dalton \u00e9 um ator de TV que, juntamente com seu dubl\u00ea, est\u00e1 decidido a fazer o nome em Hollywood. Para tanto, ele conhece muitas pessoas influentes na ind\u00fastria cinematogr\u00e1fica, o que os acaba levando aos assassinatos realizados por Charles Manson na \u00e9poca, entre eles o da atriz Sharon Tate, que na \u00e9poca estava gr\u00e1vida do diretor Roman Polanski.",
+                "vote_average": 7.439,
+                "vote_count": 12783
+            },
+            "winner": false
+        }
+    ]
+}

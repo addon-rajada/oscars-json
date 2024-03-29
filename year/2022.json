@@ -1,0 +1,2000 @@
+{
+    "Actor in a Leading Role": [
+        {
+            "first_label": "Will Smith",
+            "second_label": "King Richard",
+            "category": "Actor in a Leading Role",
+            "year": 2022,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Javier Bardem",
+            "second_label": "Being the Ricardos",
+            "category": "Actor in a Leading Role",
+            "year": 2022,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Benedict Cumberbatch",
+            "second_label": "The Power of the Dog",
+            "category": "Actor in a Leading Role",
+            "year": 2022,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Andrew Garfield",
+            "second_label": "tick, tick...BOOM!",
+            "category": "Actor in a Leading Role",
+            "year": 2022,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Denzel Washington",
+            "second_label": "The Tragedy of Macbeth",
+            "category": "Actor in a Leading Role",
+            "year": 2022,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Troy Kotsur",
+            "second_label": "CODA",
+            "category": "Actor in a Supporting Role",
+            "year": 2022,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Ciarn Hinds",
+            "second_label": "Belfast",
+            "category": "Actor in a Supporting Role",
+            "year": 2022,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jesse Plemons",
+            "second_label": "The Power of the Dog",
+            "category": "Actor in a Supporting Role",
+            "year": 2022,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "J.K. Simmons",
+            "second_label": "Being the Ricardos",
+            "category": "Actor in a Supporting Role",
+            "year": 2022,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Kodi Smit-McPhee",
+            "second_label": "The Power of the Dog",
+            "category": "Actor in a Supporting Role",
+            "year": 2022,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Leading Role": [
+        {
+            "first_label": "Jessica Chastain",
+            "second_label": "The Eyes of Tammy Faye",
+            "category": "Actress in a Leading Role",
+            "year": 2022,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Olivia Colman",
+            "second_label": "The Lost Daughter",
+            "category": "Actress in a Leading Role",
+            "year": 2022,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Penlope Cruz",
+            "second_label": "Parallel Mothers",
+            "category": "Actress in a Leading Role",
+            "year": 2022,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Nicole Kidman",
+            "second_label": "Being the Ricardos",
+            "category": "Actress in a Leading Role",
+            "year": 2022,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Kristen Stewart",
+            "second_label": "Spencer",
+            "category": "Actress in a Leading Role",
+            "year": 2022,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Ariana DeBose",
+            "second_label": "West Side Story",
+            "category": "Actress in a Supporting Role",
+            "year": 2022,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Jessie Buckley",
+            "second_label": "The Lost Daughter",
+            "category": "Actress in a Supporting Role",
+            "year": 2022,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Judi Dench",
+            "second_label": "Belfast",
+            "category": "Actress in a Supporting Role",
+            "year": 2022,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Kirsten Dunst",
+            "second_label": "The Power of the Dog",
+            "category": "Actress in a Supporting Role",
+            "year": 2022,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Aunjanue Ellis",
+            "second_label": "King Richard",
+            "category": "Actress in a Supporting Role",
+            "year": 2022,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Animated Feature Film": [
+        {
+            "first_label": "Encanto",
+            "second_label": "Jared Bush, Byron Howard, Yvett Merino and Clark Spencer",
+            "category": "Animated Feature Film",
+            "year": 2022,
+            "tmdb": {
+                "id": 568124,
+                "original_title": "Encanto",
+                "title": "Encanto",
+                "release_date": "2021-10-13",
+                "backdrop_path": "/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
+                "poster_path": "/wj7MGckCvs7qbIdL5lVXTIAtSH6.jpg",
+                "overview": "Uma garota chamada Mirabel Madrigal cresce como o \u00fanico membro n\u00e3o m\u00e1gico de sua fam\u00edlia, que vivem escondidos em uma vibrante casa encantada nas montanhas da Col\u00f4mbia.",
+                "vote_average": 7.606,
+                "vote_count": 9078
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Flee",
+            "second_label": "Jonas Poher Rasmussen, Monica Hellstrm, Signe Byrge Srensen and Charlotte De La Gournerie",
+            "category": "Animated Feature Film",
+            "year": 2022,
+            "tmdb": {
+                "id": 680813,
+                "original_title": "Flugt",
+                "title": "Flee: Nenhum Lugar Para Chamar de Lar",
+                "release_date": "2021-06-17",
+                "backdrop_path": "/CKGSEnFTpcxPJM5TzTFUJz53s.jpg",
+                "poster_path": "/92sguHEFTZm5bvvTYRoGksFrasb.jpg",
+                "overview": "O document\u00e1rio animado nos apresenta Amin Nawabi (pseud\u00f4nimo), um intelectual altamente graduado de 36 anos, luta com um segredo doloroso que manteve escondido por vinte anos e que amea\u00e7a desestabilizar a vida que construiu para si e para o futuro marido. Recontada pelo diretor Jonas Poher Rasmussen, seu amigo pr\u00f3ximo, a hist\u00f3ria extraordin\u00e1ria da viagem feita por Amin na inf\u00e2ncia, como refugiado afeg\u00e3o, vem \u00e0 luz pela primeira vez. Hist\u00f3ria de autodescoberta, a anima\u00e7\u00e3o mostra que s\u00f3 quem confronta o passado pode criar um futuro, e s\u00f3 quem para de fugir de si mesmo descobre o verdadeiro significado de ter um lar.",
+                "vote_average": 7.8,
+                "vote_count": 338
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Luca",
+            "second_label": "Enrico Casarosa and Andrea Warren",
+            "category": "Animated Feature Film",
+            "year": 2022,
+            "tmdb": {
+                "id": 508943,
+                "original_title": "Luca",
+                "title": "Luca",
+                "release_date": "2021-06-17",
+                "backdrop_path": "/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg",
+                "poster_path": "/m6Ockf2oYhxXoBIBaRLDwCOE410.jpg",
+                "overview": "Ambientado na bela Riviera Italiana, este longa-metragem da Disney e da Pixar acompanha as aventuras do garoto Luca durante um ver\u00e3o inesquec\u00edvel repleto de macarronadas, gelatos e passeios incr\u00edveis de motoneta ao lado de seu novo amigo Alberto. Mas um grande segredo amea\u00e7a colocar fim \u00e0 divers\u00e3o: abaixo da superf\u00edcie da \u00e1gua, eles s\u00e3o monstros marinhos!",
+                "vote_average": 7.837,
+                "vote_count": 7992
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Mitchells vs. the Machines",
+            "second_label": "Mike Rianda, Phil Lord, Christopher Miller and Kurt Albrecht",
+            "category": "Animated Feature Film",
+            "year": 2022,
+            "tmdb": {
+                "id": 501929,
+                "original_title": "The Mitchells vs. the Machines",
+                "title": "A Fam\u00edlia Mitchell e a Revolta das M\u00e1quinas",
+                "release_date": "2021-04-22",
+                "backdrop_path": "/6ydGnzbo8s4yRNqQWPAvVSiNU8N.jpg",
+                "poster_path": "/k1p10mLm1uM1jqR7RlzB0SalD00.jpg",
+                "overview": "Katie Mitchell \u00e9 aceita na faculdade de cinema dos seus sonhos e seu pai decide aproveitar para realizar uma viagem em fam\u00edlia para lev\u00e1-la \u00e0 universidade. Por\u00e9m, seus planos s\u00e3o interrompidos por uma revolu\u00e7\u00e3o rob\u00f3tica e agora os Mitchells ter\u00e3o que unir for\u00e7as em fam\u00edlia para trabalhar juntos para salvar o mundo.",
+                "vote_average": 7.917,
+                "vote_count": 2761
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Raya and the Last Dragon",
+            "second_label": "Don Hall, Carlos Lpez Estrada, Osnat Shurer and Peter Del Vecho",
+            "category": "Animated Feature Film",
+            "year": 2022,
+            "tmdb": {
+                "id": 527774,
+                "original_title": "Raya and the Last Dragon",
+                "title": "Raya e o \u00daltimo Drag\u00e3o",
+                "release_date": "2021-03-03",
+                "backdrop_path": "/rcUcYzGGicDvhDs58uM44tJKB9F.jpg",
+                "poster_path": "/yXrb84zJidCefyhTWHwo4yCDvwz.jpg",
+                "overview": "Muito tempo atr\u00e1s, humanos e drag\u00f5es viviam juntos em harmonia no mundo de Kumandra. Mas a amea\u00e7a de uma for\u00e7a do mal fez com que os drag\u00f5es se sacrificassem para salvar a humanidade. Agora, 500 anos depois, o perigo ressurge e a solit\u00e1ria guerreira Raya embarca em uma incr\u00edvel jornada para encontrar o \u00faltimo drag\u00e3o e salvar seu mundo.",
+                "vote_average": 7.864,
+                "vote_count": 6509
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "Dune",
+            "second_label": "Greig Fraser",
+            "category": "Cinematography",
+            "year": 2022,
+            "tmdb": {
+                "id": 438631,
+                "original_title": "Dune",
+                "title": "Duna",
+                "release_date": "2021-09-15",
+                "backdrop_path": "/lzWHmYdfeFiMIY4JaMmtR7GEli3.jpg",
+                "poster_path": "/eLXRCSKXAo9831a9Bw22TdZSnzL.jpg",
+                "overview": "Em um futuro distante, planetas s\u00e3o comandados por casas nobres que fazem parte de um imp\u00e9rio feudal intergal\u00e1tico. Paul Atreides \u00e9 um jovem cuja fam\u00edlia toma o controle do planeta deserto Arrakis, tamb\u00e9m conhecido como Duna. A \u00fanica fonte da especiaria Melange, a subst\u00e2ncia mais importante do cosmos, Arrakis se mostra ser um planeta nem um pouco f\u00e1cil de governar.",
+                "vote_average": 7.789,
+                "vote_count": 10988
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Nightmare Alley",
+            "second_label": "Dan Laustsen",
+            "category": "Cinematography",
+            "year": 2022,
+            "tmdb": {
+                "id": 597208,
+                "original_title": "Nightmare Alley",
+                "title": "O Beco do Pesadelo",
+                "release_date": "2021-12-02",
+                "backdrop_path": "/g0YNGpmlXsgHfhGnJz3c5uyzZ1B.jpg",
+                "poster_path": "/nndZUt9Lf8ZwefYBTGe5opGLJuY.jpg",
+                "overview": "Um jovem ambicioso com talento para manipular as pessoas com algumas palavras bem escolhidas se encontra com uma psiquiatra que \u00e9 ainda mais perigosa do que ele.",
+                "vote_average": 6.994,
+                "vote_count": 2721
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Power of the Dog",
+            "second_label": "Ari Wegner",
+            "category": "Cinematography",
+            "year": 2022,
+            "tmdb": {
+                "id": 600583,
+                "original_title": "The Power of the Dog",
+                "title": "Ataque dos C\u00e3es",
+                "release_date": "2021-10-25",
+                "backdrop_path": "/gAsHuCQMN7mv4uFIvM4ACQ09hPr.jpg",
+                "poster_path": "/pTieUAFyDbC22uq0p7uMT1wBYax.jpg",
+                "overview": "Um fazendeiro dur\u00e3o trava uma guerra implac\u00e1vel contra a nova do esposa do irm\u00e3o, at\u00e9 que o inesperado acontece.",
+                "vote_average": 6.8,
+                "vote_count": 2516
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Tragedy of Macbeth",
+            "second_label": "Bruno Delbonnel",
+            "category": "Cinematography",
+            "year": 2022,
+            "tmdb": {
+                "id": 591538,
+                "original_title": "The Tragedy of Macbeth",
+                "title": "A Trag\u00e9dia de Macbeth",
+                "release_date": "2021-12-05",
+                "backdrop_path": "/lMjY6kMBOHhloz2Ul16fLJn8xuw.jpg",
+                "poster_path": "/iOW4dWoOvGpgj0Pld4sjMGkvK6L.jpg",
+                "overview": "Tr\u00eas bruxas convencem Lord Macbeth de que ele se tornar\u00e1 o pr\u00f3ximo rei da Esc\u00f3cia e sua ambiciosa esposa est\u00e1 disposta a tudo para ajud\u00e1-lo em seu plano de conquistar o poder.",
+                "vote_average": 7.0,
+                "vote_count": 698
+            },
+            "winner": false
+        },
+        {
+            "first_label": "West Side Story",
+            "second_label": "Janusz Kaminski",
+            "category": "Cinematography",
+            "year": 2022,
+            "tmdb": {
+                "id": 511809,
+                "original_title": "West Side Story",
+                "title": "Amor, Sublime Amor",
+                "release_date": "2021-12-08",
+                "backdrop_path": "/tHnHTp50qDx7br1i9ulh74MUW0A.jpg",
+                "poster_path": "/4XvvbOFlnC5czMBJd0l7ysMMV4z.jpg",
+                "overview": "Dois jovens de gangues rivais de Nova York se apaixonam, mas as tens\u00f5es entre seus respectivos amigos se transformam em trag\u00e9dia. Remake do filme de 1961.",
+                "vote_average": 7.0,
+                "vote_count": 1445
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design": [
+        {
+            "first_label": "Cruella",
+            "second_label": "Jenny Beavan",
+            "category": "Costume Design",
+            "year": 2022,
+            "tmdb": {
+                "id": 337404,
+                "original_title": "Cruella",
+                "title": "Cruella",
+                "release_date": "2021-05-26",
+                "backdrop_path": "/6MKr3KgOLmzOP6MSuZERO41Lpkt.jpg",
+                "poster_path": "/rRYNGhcAZlTfIUS7iFoF4H9iDbc.jpg",
+                "overview": "Na Londres dos anos 70 em meio \u00e0 revolu\u00e7\u00e3o do punk rock, Estella, uma garota inteligente e criativa determinada a fazer um nome para si atrav\u00e9s de seus designs. Ela faz amizade com uma dupla de jovens ladr\u00f5es e, juntos, constroem uma vida para si nas ruas de Londres. Um dia, o talento de Estella para a moda chama a aten\u00e7\u00e3o da Baronesa Von Hellman, uma lenda fashion que \u00e9 devastadoramente chique e assustadora. Mas o relacionamento delas desencadeia um curso de eventos e revela\u00e7\u00f5es que far\u00e3o com que Estella abrace seu lado rebelde e se torne a Cruella m\u00e1, elegante e voltada para a vingan\u00e7a.",
+                "vote_average": 8.026,
+                "vote_count": 8901
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Cyrano",
+            "second_label": "Massimo Cantini Parrini and Jacqueline Durran",
+            "category": "Costume Design",
+            "year": 2022,
+            "tmdb": {
+                "id": 730047,
+                "original_title": "Cyrano",
+                "title": "Cyrano",
+                "release_date": "2021-12-17",
+                "backdrop_path": "/cfDQh8STZvzXtyr1iyb4cXzkLju.jpg",
+                "poster_path": "/e4koV8iC2cCM57bqUnEnIL2a2zH.jpg",
+                "overview": "Um homem \u00e0 frente de seu tempo, Cyrano de Bergerac (Peter Dinklage) deslumbra seja com jogos de palavras ferozes em um combate verbal ou com uma esgrima brilhante em um duelo. Mas, convencido de que sua apar\u00eancia o torna indigno do amor de uma amiga devotada, a luminosa Roxanne (Haley Bennett), Cyrano ainda n\u00e3o declarou seus sentimentos por ela - e Roxanne se apaixonou, \u00e0 primeira vista, por Christian (Kelvin Harrison, Jr.).",
+                "vote_average": 6.4,
+                "vote_count": 267
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dune",
+            "second_label": "Jacqueline West and Robert Morgan",
+            "category": "Costume Design",
+            "year": 2022,
+            "tmdb": {
+                "id": 438631,
+                "original_title": "Dune",
+                "title": "Duna",
+                "release_date": "2021-09-15",
+                "backdrop_path": "/lzWHmYdfeFiMIY4JaMmtR7GEli3.jpg",
+                "poster_path": "/eLXRCSKXAo9831a9Bw22TdZSnzL.jpg",
+                "overview": "Em um futuro distante, planetas s\u00e3o comandados por casas nobres que fazem parte de um imp\u00e9rio feudal intergal\u00e1tico. Paul Atreides \u00e9 um jovem cuja fam\u00edlia toma o controle do planeta deserto Arrakis, tamb\u00e9m conhecido como Duna. A \u00fanica fonte da especiaria Melange, a subst\u00e2ncia mais importante do cosmos, Arrakis se mostra ser um planeta nem um pouco f\u00e1cil de governar.",
+                "vote_average": 7.789,
+                "vote_count": 10988
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Nightmare Alley",
+            "second_label": "Luis Sequeira",
+            "category": "Costume Design",
+            "year": 2022,
+            "tmdb": {
+                "id": 597208,
+                "original_title": "Nightmare Alley",
+                "title": "O Beco do Pesadelo",
+                "release_date": "2021-12-02",
+                "backdrop_path": "/g0YNGpmlXsgHfhGnJz3c5uyzZ1B.jpg",
+                "poster_path": "/nndZUt9Lf8ZwefYBTGe5opGLJuY.jpg",
+                "overview": "Um jovem ambicioso com talento para manipular as pessoas com algumas palavras bem escolhidas se encontra com uma psiquiatra que \u00e9 ainda mais perigosa do que ele.",
+                "vote_average": 6.994,
+                "vote_count": 2721
+            },
+            "winner": false
+        },
+        {
+            "first_label": "West Side Story",
+            "second_label": "Paul Tazewell",
+            "category": "Costume Design",
+            "year": 2022,
+            "tmdb": {
+                "id": 511809,
+                "original_title": "West Side Story",
+                "title": "Amor, Sublime Amor",
+                "release_date": "2021-12-08",
+                "backdrop_path": "/tHnHTp50qDx7br1i9ulh74MUW0A.jpg",
+                "poster_path": "/4XvvbOFlnC5czMBJd0l7ysMMV4z.jpg",
+                "overview": "Dois jovens de gangues rivais de Nova York se apaixonam, mas as tens\u00f5es entre seus respectivos amigos se transformam em trag\u00e9dia. Remake do filme de 1961.",
+                "vote_average": 7.0,
+                "vote_count": 1445
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "The Power of the Dog",
+            "second_label": "Jane Campion",
+            "category": "Directing",
+            "year": 2022,
+            "tmdb": {
+                "id": 600583,
+                "original_title": "The Power of the Dog",
+                "title": "Ataque dos C\u00e3es",
+                "release_date": "2021-10-25",
+                "backdrop_path": "/gAsHuCQMN7mv4uFIvM4ACQ09hPr.jpg",
+                "poster_path": "/pTieUAFyDbC22uq0p7uMT1wBYax.jpg",
+                "overview": "Um fazendeiro dur\u00e3o trava uma guerra implac\u00e1vel contra a nova do esposa do irm\u00e3o, at\u00e9 que o inesperado acontece.",
+                "vote_average": 6.8,
+                "vote_count": 2516
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Belfast",
+            "second_label": "Kenneth Branagh",
+            "category": "Directing",
+            "year": 2022,
+            "tmdb": {
+                "id": 777270,
+                "original_title": "Belfast",
+                "title": "Belfast",
+                "release_date": "2021-11-12",
+                "backdrop_path": "/4KLlHifB1kgMtWl3YnY8JinOj65.jpg",
+                "poster_path": "/3mInLZyPOVLsZRsBwNHi3UJXXnm.jpg",
+                "overview": "Na Irlanda do Norte, o garotinho Buddy (Jude Hill) e sua fam\u00edlia da classe trabalhadora vivenciam os conflitos da d\u00e9cada de 1960. Enquanto brinca em meio \u00e0s paisagens destru\u00eddas e a viol\u00eancia extrema, o menino sonha com um futuro melhor. Enquanto a sua mudan\u00e7a de vida n\u00e3o acontece, ele se consola com as hist\u00f3rias maravilhosas contadas por Pa (Jamie Dornan), Ma (Caitr\u00edona Balfe) e seus queridos av\u00f3s (Judie Dench e Ciar\u00e1n Hins).",
+                "vote_average": 7.1,
+                "vote_count": 1384
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Drive My Car",
+            "second_label": "Ryusuke Hamaguchi",
+            "category": "Directing",
+            "year": 2022,
+            "tmdb": {
+                "id": 758866,
+                "original_title": "\u30c9\u30e9\u30a4\u30d6\u30fb\u30de\u30a4\u30fb\u30ab\u30fc",
+                "title": "Drive My Car",
+                "release_date": "2021-08-18",
+                "backdrop_path": "/r6aqhlmJmu8Dv5E7QYEruaEXKYm.jpg",
+                "poster_path": "/z9QqfYRtYS3VqIsWkD09hpilyQ3.jpg",
+                "overview": "Dois anos ap\u00f3s a morte de sua esposa, Yusuke Kafuku recebe uma oferta para dirigir uma pe\u00e7a num festival de teatro em Hiroshima. L\u00e1, ele conhece Misaki, uma jovem reservada, designada para ser sua motorista. Enquanto passam tempo juntos, Kafuku confronta o mist\u00e9rio de sua esposa que o assombra.",
+                "vote_average": 7.418,
+                "vote_count": 1136
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Licorice Pizza",
+            "second_label": "Paul Thomas Anderson",
+            "category": "Directing",
+            "year": 2022,
+            "tmdb": {
+                "id": 718032,
+                "original_title": "Licorice Pizza",
+                "title": "Licorice Pizza",
+                "release_date": "2021-11-26",
+                "backdrop_path": "/hB4ibOHXm1Xl0IbuYVioktDGUWJ.jpg",
+                "poster_path": "/deV9SBeCQG2rrbKBsWQDiMerQjQ.jpg",
+                "overview": "A hist\u00f3ria de Alana Kane e Gary Valentine crescendo, correndo e passando pela navega\u00e7\u00e3o trai\u00e7oeira do primeiro amor no Vale de San Fernando, 1973.",
+                "vote_average": 7.0,
+                "vote_count": 2090
+            },
+            "winner": false
+        },
+        {
+            "first_label": "West Side Story",
+            "second_label": "Steven Spielberg",
+            "category": "Directing",
+            "year": 2022,
+            "tmdb": {
+                "id": 511809,
+                "original_title": "West Side Story",
+                "title": "Amor, Sublime Amor",
+                "release_date": "2021-12-08",
+                "backdrop_path": "/tHnHTp50qDx7br1i9ulh74MUW0A.jpg",
+                "poster_path": "/4XvvbOFlnC5czMBJd0l7ysMMV4z.jpg",
+                "overview": "Dois jovens de gangues rivais de Nova York se apaixonam, mas as tens\u00f5es entre seus respectivos amigos se transformam em trag\u00e9dia. Remake do filme de 1961.",
+                "vote_average": 7.0,
+                "vote_count": 1445
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
+            "second_label": "Ahmir \"Questlove\" Thompson, Joseph Patel, Robert Fyvolent and David Dinerstein",
+            "category": "Documentary (Feature)",
+            "year": 2022,
+            "tmdb": {
+                "id": 776527,
+                "original_title": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
+                "title": "Summer of Soul (...ou, Quando a Revolu\u00e7\u00e3o N\u00e3o P\u00f4de Ser Televisionada)",
+                "release_date": "2021-07-02",
+                "backdrop_path": "/neE1BUsnWC0bYIiXbhNwxFgronZ.jpg",
+                "poster_path": "/zPMSeDxHdinpbJJdXQS8IrfD1Ux.jpg",
+                "overview": "Em 1969, no mesmo ver\u00e3o em que ocorreu Woodstock, outro festival musical foi organizado no Harlem, em Nova York, para celebrar a m\u00fasica norte-americana e a hist\u00f3ria afro-americana. As imagens do concerto Harlem Cultural Festival, filmadas h\u00e1 50 anos e in\u00e9ditas at\u00e9 hoje, capturam um empolgante momento cultural nos Estados Unidos, embora subestimado historicamente. Entrevistas com artistas que participaram do evento s\u00e3o intercaladas com as apresenta\u00e7\u00f5es de, entre outros, Stevie Wonder, Mahalia Jackson e Mavis Staples, Sly & the Family Stone e Nina Simone.",
+                "vote_average": 7.6,
+                "vote_count": 171
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Ascension",
+            "second_label": "Jessica Kingdon, Kira Simon-Kennedy and Nathan Truesdell",
+            "category": "Documentary (Feature)",
+            "year": 2022,
+            "tmdb": {
+                "id": 822138,
+                "original_title": "\u767b\u697c\u53f9",
+                "title": "Ascens\u00e3o",
+                "release_date": "2021-10-08",
+                "backdrop_path": "/dXmHHOyJ4S10TVGGW291tHjoUrN.jpg",
+                "poster_path": "/8Tng4QWveeazE2gFcrZxvbyvvl8.jpg",
+                "overview": "Conhe\u00e7a a busca paradoxal de riqueza e progresso na China. Vagamente estruturado em torno das distintas classes sociais e econ\u00f4micas que dividem a na\u00e7\u00e3o, o filme acompanha trabalhadores de f\u00e1bricas, consumidores de classe m\u00e9dia e da elite.",
+                "vote_average": 6.8,
+                "vote_count": 60
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Attica",
+            "second_label": "Stanley Nelson and Traci A. Curry",
+            "category": "Documentary (Feature)",
+            "year": 2022,
+            "tmdb": {
+                "id": 858059,
+                "original_title": "Attica",
+                "title": "Attica",
+                "release_date": "2021-09-09",
+                "backdrop_path": "/jygdR2JLcHbL1MO11sr0ZlT04DU.jpg",
+                "poster_path": "/8dpc49O7G9B0y2crRbI7hHtbQzB.jpg",
+                "overview": "Follows the largest prison uprising in US history, conducting dozens of new interviews with inmates, journalists, and other witnesses.",
+                "vote_average": 7.1,
+                "vote_count": 31
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Flee",
+            "second_label": "Jonas Poher Rasmussen, Monica Hellstrm, Signe Byrge Srensen and Charlotte De La Gournerie",
+            "category": "Documentary (Feature)",
+            "year": 2022,
+            "tmdb": {
+                "id": 680813,
+                "original_title": "Flugt",
+                "title": "Flee: Nenhum Lugar Para Chamar de Lar",
+                "release_date": "2021-06-17",
+                "backdrop_path": "/CKGSEnFTpcxPJM5TzTFUJz53s.jpg",
+                "poster_path": "/92sguHEFTZm5bvvTYRoGksFrasb.jpg",
+                "overview": "O document\u00e1rio animado nos apresenta Amin Nawabi (pseud\u00f4nimo), um intelectual altamente graduado de 36 anos, luta com um segredo doloroso que manteve escondido por vinte anos e que amea\u00e7a desestabilizar a vida que construiu para si e para o futuro marido. Recontada pelo diretor Jonas Poher Rasmussen, seu amigo pr\u00f3ximo, a hist\u00f3ria extraordin\u00e1ria da viagem feita por Amin na inf\u00e2ncia, como refugiado afeg\u00e3o, vem \u00e0 luz pela primeira vez. Hist\u00f3ria de autodescoberta, a anima\u00e7\u00e3o mostra que s\u00f3 quem confronta o passado pode criar um futuro, e s\u00f3 quem para de fugir de si mesmo descobre o verdadeiro significado de ter um lar.",
+                "vote_average": 7.8,
+                "vote_count": 338
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Writing with Fire",
+            "second_label": "Rintu Thomas and Sushmit Ghosh",
+            "category": "Documentary (Feature)",
+            "year": 2022,
+            "tmdb": {
+                "id": 776557,
+                "original_title": "Writing with Fire",
+                "title": "Escrevendo com Fogo",
+                "release_date": "2021-01-30",
+                "backdrop_path": "/nlMHaMh4yECzoUi2IUqwaeI9xEr.jpg",
+                "poster_path": "/bh1LHyb5NhJahSk1iytFkiK4AXY.jpg",
+                "overview": "A inspiradora hist\u00f3ria de um grupo de mulheres indianas que h\u00e1 vinte anos mant\u00eam um jornal independente, rompendo tradi\u00e7\u00f5es e enfrentando os homens que as rodeiam. Determinadas a manter a publica\u00e7\u00e3o, precisam migrar para o digital.",
+                "vote_average": 7.4,
+                "vote_count": 25
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "The Queen of Basketball",
+            "second_label": "Ben Proudfoot",
+            "category": "Documentary (Short Subject)",
+            "year": 2022,
+            "tmdb": {
+                "id": 822582,
+                "original_title": "The Queen of Basketball",
+                "title": "The Queen of Basketball",
+                "release_date": "2021-06-10",
+                "backdrop_path": "/lkDpxSvuXa4FOdBGtlPS3HbYTj2.jpg",
+                "poster_path": "/8RjXNAvpH4SsBkEDRsCrEXxOcnd.jpg",
+                "overview": "Ela \u00e9 indiscutivelmente a maior jogadora de basquete feminino vivo. Ela ganhou tr\u00eas trof\u00e9us nacionais; ela jogou nas Olimp\u00edadas de 76; ela foi convocada para a NBA. Mas voc\u00ea j\u00e1 ouviu falar de Lucy Harris?",
+                "vote_average": 7.3,
+                "vote_count": 27
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Audible",
+            "second_label": "Matt Ogens and Geoff McLean",
+            "category": "Documentary (Short Subject)",
+            "year": 2022,
+            "tmdb": {
+                "id": 820492,
+                "original_title": "Audible",
+                "title": "Audible",
+                "release_date": "2021-04-29",
+                "backdrop_path": "/nbxNZO1YTl18gF2pcWjm2A9nyu8.jpg",
+                "poster_path": "/8RjHHR0em5bHHEA6FsbMOj8EdFR.jpg",
+                "overview": "Amaree Mckenstry-Hall e seus companheiros da Escola para Surdos de Maryland sonham com o sucesso no futebol em meio a lutas e trag\u00e9dias pessoais.",
+                "vote_average": 6.8,
+                "vote_count": 67
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lead Me Home",
+            "second_label": "Pedro Kos and Jon Shenk",
+            "category": "Documentary (Short Subject)",
+            "year": 2022,
+            "tmdb": {
+                "id": 869602,
+                "original_title": "Lead Me Home",
+                "title": "Onde Eu Moro",
+                "release_date": "2021-09-03",
+                "backdrop_path": "/tJyvDf1lj4uKySKlyMjyoaoOwyB.jpg",
+                "poster_path": "/rrsrOldUfXn5vd5HP3BAYxLTjpO.jpg",
+                "overview": "Hist\u00f3rias comoventes de moradores de rua dos Estados Unidos comp\u00f5em este retrato cinematogr\u00e1fico sobre uma imensa e urgente crise humanit\u00e1ria.",
+                "vote_average": 6.5,
+                "vote_count": 103
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Three Songs for Benazir",
+            "second_label": "Elizabeth Mirzaei and Gulistan Mirzaei",
+            "category": "Documentary (Short Subject)",
+            "year": 2022,
+            "tmdb": {
+                "id": 826740,
+                "original_title": "\u062f\u0631\u06cc \u0633\u0646\u062f\u0631\u06cc \u062f \u0628\u06cc\u0646\u0638\u06cc\u0631 \u0644\u067e\u0627\u0631\u0647",
+                "title": "Tr\u00eas Can\u00e7\u00f5es Para Benazir",
+                "release_date": "2021-06-02",
+                "backdrop_path": "/9VmAvRUvy0cOTzGu7dHpAanMffk.jpg",
+                "poster_path": "/4Q1P44IPm9FyxBH4vmxM7pRgopP.jpg",
+                "overview": "Morando em um campo de refugiados, um afeg\u00e3o rec\u00e9m-casado luta para conciliar o sonho de entrar no ex\u00e9rcito e as responsabilidades familiares.",
+                "vote_average": 6.2,
+                "vote_count": 53
+            },
+            "winner": false
+        },
+        {
+            "first_label": "When We Were Bullies",
+            "second_label": "Jay Rosenblatt",
+            "category": "Documentary (Short Subject)",
+            "year": 2022,
+            "tmdb": {
+                "id": 776769,
+                "original_title": "When We Were Bullies",
+                "title": "Quando Faz\u00edamos Bullying",
+                "release_date": "2021-01-28",
+                "backdrop_path": "/9acVtVs4oTlTs5aYafySXZrEuLa.jpg",
+                "poster_path": "/bFwYyveAYRF8M139IMORP2FWgad.jpg",
+                "overview": "Uma coincid\u00eancia intrigante leva o cineasta a procurar seus colegas de quinta s\u00e9rie e a professora para examinar suas lembran\u00e7as e sua cumplicidade em um caso de bullying ocorrido h\u00e1 cinquenta anos.",
+                "vote_average": 5.1,
+                "vote_count": 17
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "Dune",
+            "second_label": "Joe Walker",
+            "category": "Film Editing",
+            "year": 2022,
+            "tmdb": {
+                "id": 438631,
+                "original_title": "Dune",
+                "title": "Duna",
+                "release_date": "2021-09-15",
+                "backdrop_path": "/lzWHmYdfeFiMIY4JaMmtR7GEli3.jpg",
+                "poster_path": "/eLXRCSKXAo9831a9Bw22TdZSnzL.jpg",
+                "overview": "Em um futuro distante, planetas s\u00e3o comandados por casas nobres que fazem parte de um imp\u00e9rio feudal intergal\u00e1tico. Paul Atreides \u00e9 um jovem cuja fam\u00edlia toma o controle do planeta deserto Arrakis, tamb\u00e9m conhecido como Duna. A \u00fanica fonte da especiaria Melange, a subst\u00e2ncia mais importante do cosmos, Arrakis se mostra ser um planeta nem um pouco f\u00e1cil de governar.",
+                "vote_average": 7.789,
+                "vote_count": 10988
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Don't Look Up",
+            "second_label": "Hank Corwin",
+            "category": "Film Editing",
+            "year": 2022,
+            "tmdb": {
+                "id": 646380,
+                "original_title": "Don't Look Up",
+                "title": "N\u00e3o Olhe para Cima",
+                "release_date": "2021-12-07",
+                "backdrop_path": "/w4mdpbqx0NqsgNKZ170U0QDcyl3.jpg",
+                "poster_path": "/6Sc7Tjt7aPsdghYK32mDMFeZkqJ.jpg",
+                "overview": "Dois astr\u00f4nomos descobrem um cometa mortal vindo em dire\u00e7\u00e3o \u00e0 Terra e partem em um tour midi\u00e1tico para alertar a humanidade. S\u00f3 que ningu\u00e9m parece dar muita bola.",
+                "vote_average": 7.111,
+                "vote_count": 7709
+            },
+            "winner": false
+        },
+        {
+            "first_label": "King Richard",
+            "second_label": "Pamela Martin",
+            "category": "Film Editing",
+            "year": 2022,
+            "tmdb": {
+                "id": 614917,
+                "original_title": "King Richard",
+                "title": "King Richard: Criando Campe\u00e3s",
+                "release_date": "2021-11-18",
+                "backdrop_path": "/4kb7uR1UmXa33U6GB6F9xckFlhn.jpg",
+                "poster_path": "/1GzzYMqCUbx0RMY3yAdrKdKVonh.jpg",
+                "overview": "Richard Williams \u00e9 treinador de suas filhas, Venus e Serena, que em breve se tornar\u00e3o duas das mais lend\u00e1rias tenistas da hist\u00f3ria.",
+                "vote_average": 7.684,
+                "vote_count": 2256
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Power of the Dog",
+            "second_label": "Peter Sciberras",
+            "category": "Film Editing",
+            "year": 2022,
+            "tmdb": {
+                "id": 600583,
+                "original_title": "The Power of the Dog",
+                "title": "Ataque dos C\u00e3es",
+                "release_date": "2021-10-25",
+                "backdrop_path": "/gAsHuCQMN7mv4uFIvM4ACQ09hPr.jpg",
+                "poster_path": "/pTieUAFyDbC22uq0p7uMT1wBYax.jpg",
+                "overview": "Um fazendeiro dur\u00e3o trava uma guerra implac\u00e1vel contra a nova do esposa do irm\u00e3o, at\u00e9 que o inesperado acontece.",
+                "vote_average": 6.8,
+                "vote_count": 2516
+            },
+            "winner": false
+        },
+        {
+            "first_label": "tick, tick...BOOM!",
+            "second_label": "Myron Kerstein and Andrew Weisblum",
+            "category": "Film Editing",
+            "year": 2022,
+            "tmdb": {
+                "id": 537116,
+                "original_title": "tick, tick... BOOM!",
+                "title": "tick, tick... BOOM!",
+                "release_date": "2021-11-11",
+                "backdrop_path": "/rKe3MR2u4ZZ0y9uKivzKJRrqBCe.jpg",
+                "poster_path": "/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg",
+                "overview": "Prestes a fazer 30 anos, o compositor Jonathan Larson reluta para levar adiante seu sonho de escrever um grande musical.",
+                "vote_average": 7.675,
+                "vote_count": 1946
+            },
+            "winner": false
+        }
+    ],
+    "International Feature Film": [
+        {
+            "first_label": "Drive My Car",
+            "second_label": "Japan",
+            "category": "International Feature Film",
+            "year": 2022,
+            "tmdb": {
+                "id": 758866,
+                "original_title": "\u30c9\u30e9\u30a4\u30d6\u30fb\u30de\u30a4\u30fb\u30ab\u30fc",
+                "title": "Drive My Car",
+                "release_date": "2021-08-18",
+                "backdrop_path": "/r6aqhlmJmu8Dv5E7QYEruaEXKYm.jpg",
+                "poster_path": "/z9QqfYRtYS3VqIsWkD09hpilyQ3.jpg",
+                "overview": "Dois anos ap\u00f3s a morte de sua esposa, Yusuke Kafuku recebe uma oferta para dirigir uma pe\u00e7a num festival de teatro em Hiroshima. L\u00e1, ele conhece Misaki, uma jovem reservada, designada para ser sua motorista. Enquanto passam tempo juntos, Kafuku confronta o mist\u00e9rio de sua esposa que o assombra.",
+                "vote_average": 7.418,
+                "vote_count": 1136
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Flee",
+            "second_label": "Denmark",
+            "category": "International Feature Film",
+            "year": 2022,
+            "tmdb": {
+                "id": 680813,
+                "original_title": "Flugt",
+                "title": "Flee: Nenhum Lugar Para Chamar de Lar",
+                "release_date": "2021-06-17",
+                "backdrop_path": "/CKGSEnFTpcxPJM5TzTFUJz53s.jpg",
+                "poster_path": "/92sguHEFTZm5bvvTYRoGksFrasb.jpg",
+                "overview": "O document\u00e1rio animado nos apresenta Amin Nawabi (pseud\u00f4nimo), um intelectual altamente graduado de 36 anos, luta com um segredo doloroso que manteve escondido por vinte anos e que amea\u00e7a desestabilizar a vida que construiu para si e para o futuro marido. Recontada pelo diretor Jonas Poher Rasmussen, seu amigo pr\u00f3ximo, a hist\u00f3ria extraordin\u00e1ria da viagem feita por Amin na inf\u00e2ncia, como refugiado afeg\u00e3o, vem \u00e0 luz pela primeira vez. Hist\u00f3ria de autodescoberta, a anima\u00e7\u00e3o mostra que s\u00f3 quem confronta o passado pode criar um futuro, e s\u00f3 quem para de fugir de si mesmo descobre o verdadeiro significado de ter um lar.",
+                "vote_average": 7.8,
+                "vote_count": 338
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Hand of God",
+            "second_label": "Italy",
+            "category": "International Feature Film",
+            "year": 2022,
+            "tmdb": {
+                "id": 722778,
+                "original_title": "\u00c8 stata la mano di Dio",
+                "title": "The Hand of God: A M\u00e3o de Deus",
+                "release_date": "2021-11-24",
+                "backdrop_path": "/dTvGUMFc5WCziTzXZKZ2EfW2bEM.jpg",
+                "poster_path": "/yRZrr8E12jEK07n6LCiVN6bsJUU.jpg",
+                "overview": "Na N\u00e1poles dos anos 80, um jovem louco por futebol se v\u00ea diante de uma trag\u00e9dia familiar que define seu futuro incerto, por\u00e9m promissor, como cineasta.",
+                "vote_average": 7.579,
+                "vote_count": 1551
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lunana: A Yak in the Classroom",
+            "second_label": "Bhutan",
+            "category": "International Feature Film",
+            "year": 2022,
+            "tmdb": {
+                "id": 627087,
+                "original_title": "\u0f63\u0f74\u0f44\u0f0b\u0f53\u0f42\u0f0b\u0f53",
+                "title": "A Felicidade das Pequenas Coisas",
+                "release_date": "2019-11-16",
+                "backdrop_path": "/boGRStbspjqtNtDVpqvj28sI5V3.jpg",
+                "poster_path": "/ec0pKo0efNJDoND784YVMzQR9oG.jpg",
+                "overview": "Um jovem professor butan\u00eas (Ugyen), foge de suas obriga\u00e7\u00f5es enquanto planeja ir para a Austr\u00e1lia para ser cantor. Como reprimenda, \u00e9 enviado  para uma escola remota, numa aldeia do Himalaia chamada Lunana. Ele enfrenta uma jornada de 8 dias para chegar e l\u00e1, ele n\u00e3o encontra eletricidade e nem recursos did\u00e1ticos. Embora pobres, os alde\u00f5es d\u00e3o as boas-vindas ao seu novo professor. Ugyen quer desistir e voltar para casa, mas come\u00e7a a aprender sobre as dificuldades na vida das lindas crian\u00e7as a que ensina e come\u00e7a a ser transformado por meio da incr\u00edvel for\u00e7a espiritual dos moradores.",
+                "vote_average": 7.5,
+                "vote_count": 158
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Worst Person in the World",
+            "second_label": "Norway",
+            "category": "International Feature Film",
+            "year": 2022,
+            "tmdb": {
+                "id": 660120,
+                "original_title": "Verdens verste menneske",
+                "title": "A Pior Pessoa do Mundo",
+                "release_date": "2021-10-13",
+                "backdrop_path": "/iTPTdfEGYGwbELLLvNnmgKZpVZj.jpg",
+                "poster_path": "/k2Uvqj0oiwjEprdIL6YDt06v7UQ.jpg",
+                "overview": "Narra quatro anos na vida de Julie, uma jovem mulher navegando como \u00e1guas turbulentas de sua vida amorosa e lutando para encontrar seu caminho profissional, o que a leva a ver quem ela realmente \u00e9.",
+                "vote_average": 7.5,
+                "vote_count": 1187
+            },
+            "winner": false
+        }
+    ],
+    "Makeup and Hairstyling": [
+        {
+            "first_label": "The Eyes of Tammy Faye",
+            "second_label": "Linda Dowds, Stephanie Ingram and Justin Raleigh",
+            "category": "Makeup and Hairstyling",
+            "year": 2022,
+            "tmdb": {
+                "id": 601470,
+                "original_title": "The Eyes of Tammy Faye",
+                "title": "Os Olhos de Tammy Faye",
+                "release_date": "2021-09-17",
+                "backdrop_path": "/rskVKmBb83u7qbaASCxyJyLevkq.jpg",
+                "poster_path": "/bxb83Bf5jLLzAv2CsXdRrAtHPNI.jpg",
+                "overview": "Acompanha Tammy Faye e seu marido, Jim Bakker nas d\u00e9cadas de 1970 e 80, que vieram de origens humildes e conseguiram criar a maior rede de radiodifus\u00e3o religiosa e parque tem\u00e1tico do mundo. Conseguindo rever\u00eancia por sua mensagem de amor, aceita\u00e7\u00e3o e prosperidade. Tammy Faye era lend\u00e1ria por sua beleza, seu canto e seu jeito com as pessoas. No entanto, os esc\u00e2ndalos e seus rivais procuraram alguma forma de derrubar seu imp\u00e9rio.",
+                "vote_average": 6.5,
+                "vote_count": 551
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Coming 2 America",
+            "second_label": "Mike Marino, Stacey Morris and Carla Farmer",
+            "category": "Makeup and Hairstyling",
+            "year": 2022,
+            "tmdb": {
+                "id": 484718,
+                "original_title": "Coming 2 America",
+                "title": "Um Pr\u00edncipe em Nova York 2",
+                "release_date": "2021-03-04",
+                "backdrop_path": "/vKzbIoHhk1z9DWYi8kyFe9Gg0HF.jpg",
+                "poster_path": "/mpXRG5zPUT18IeYvCoC4zOscked.jpg",
+                "overview": "Situado no luxuoso pa\u00eds da realeza africana Zamunda, o rec\u00e9m coroado Rei Akeem e seu confidente Semmi embarcam em uma nova aventura que os levar\u00e1 ao redor do mundo: De sua grande na\u00e7\u00e3o africana ao Queens, bairro de Nova York, onde tudo come\u00e7ou!",
+                "vote_average": 6.444,
+                "vote_count": 2091
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Cruella",
+            "second_label": "Nadia Stacey, Naomi Donne and Julia Vernon",
+            "category": "Makeup and Hairstyling",
+            "year": 2022,
+            "tmdb": {
+                "id": 337404,
+                "original_title": "Cruella",
+                "title": "Cruella",
+                "release_date": "2021-05-26",
+                "backdrop_path": "/6MKr3KgOLmzOP6MSuZERO41Lpkt.jpg",
+                "poster_path": "/rRYNGhcAZlTfIUS7iFoF4H9iDbc.jpg",
+                "overview": "Na Londres dos anos 70 em meio \u00e0 revolu\u00e7\u00e3o do punk rock, Estella, uma garota inteligente e criativa determinada a fazer um nome para si atrav\u00e9s de seus designs. Ela faz amizade com uma dupla de jovens ladr\u00f5es e, juntos, constroem uma vida para si nas ruas de Londres. Um dia, o talento de Estella para a moda chama a aten\u00e7\u00e3o da Baronesa Von Hellman, uma lenda fashion que \u00e9 devastadoramente chique e assustadora. Mas o relacionamento delas desencadeia um curso de eventos e revela\u00e7\u00f5es que far\u00e3o com que Estella abrace seu lado rebelde e se torne a Cruella m\u00e1, elegante e voltada para a vingan\u00e7a.",
+                "vote_average": 8.026,
+                "vote_count": 8901
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dune",
+            "second_label": "Donald Mowat, Love Larson and Eva von Bahr",
+            "category": "Makeup and Hairstyling",
+            "year": 2022,
+            "tmdb": {
+                "id": 438631,
+                "original_title": "Dune",
+                "title": "Duna",
+                "release_date": "2021-09-15",
+                "backdrop_path": "/lzWHmYdfeFiMIY4JaMmtR7GEli3.jpg",
+                "poster_path": "/eLXRCSKXAo9831a9Bw22TdZSnzL.jpg",
+                "overview": "Em um futuro distante, planetas s\u00e3o comandados por casas nobres que fazem parte de um imp\u00e9rio feudal intergal\u00e1tico. Paul Atreides \u00e9 um jovem cuja fam\u00edlia toma o controle do planeta deserto Arrakis, tamb\u00e9m conhecido como Duna. A \u00fanica fonte da especiaria Melange, a subst\u00e2ncia mais importante do cosmos, Arrakis se mostra ser um planeta nem um pouco f\u00e1cil de governar.",
+                "vote_average": 7.789,
+                "vote_count": 10988
+            },
+            "winner": false
+        },
+        {
+            "first_label": "House of Gucci",
+            "second_label": "Gran Lundstrm, Anna Carin Lock and Frederic Aspiras",
+            "category": "Makeup and Hairstyling",
+            "year": 2022,
+            "tmdb": {
+                "id": 644495,
+                "original_title": "House of Gucci",
+                "title": "Casa Gucci",
+                "release_date": "2021-11-24",
+                "backdrop_path": "/d9cfPuZzai6d4ZaKNnicEUgXVjS.jpg",
+                "poster_path": "/dAPdK3L2STpHo4DFKwtL2gdo89L.jpg",
+                "overview": "A verdadeira hist\u00f3ria de como Patrizia Reggiani planejou matar o marido Maurizio Gucci, neto do renomado estilista Guccio Gucci.",
+                "vote_average": 6.6,
+                "vote_count": 2948
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Score)": [
+        {
+            "first_label": "Dune",
+            "second_label": "Hans Zimmer",
+            "category": "Music (Original Score)",
+            "year": 2022,
+            "tmdb": {
+                "id": 438631,
+                "original_title": "Dune",
+                "title": "Duna",
+                "release_date": "2021-09-15",
+                "backdrop_path": "/lzWHmYdfeFiMIY4JaMmtR7GEli3.jpg",
+                "poster_path": "/eLXRCSKXAo9831a9Bw22TdZSnzL.jpg",
+                "overview": "Em um futuro distante, planetas s\u00e3o comandados por casas nobres que fazem parte de um imp\u00e9rio feudal intergal\u00e1tico. Paul Atreides \u00e9 um jovem cuja fam\u00edlia toma o controle do planeta deserto Arrakis, tamb\u00e9m conhecido como Duna. A \u00fanica fonte da especiaria Melange, a subst\u00e2ncia mais importante do cosmos, Arrakis se mostra ser um planeta nem um pouco f\u00e1cil de governar.",
+                "vote_average": 7.789,
+                "vote_count": 10988
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Don't Look Up",
+            "second_label": "Nicholas Britell",
+            "category": "Music (Original Score)",
+            "year": 2022,
+            "tmdb": {
+                "id": 646380,
+                "original_title": "Don't Look Up",
+                "title": "N\u00e3o Olhe para Cima",
+                "release_date": "2021-12-07",
+                "backdrop_path": "/w4mdpbqx0NqsgNKZ170U0QDcyl3.jpg",
+                "poster_path": "/6Sc7Tjt7aPsdghYK32mDMFeZkqJ.jpg",
+                "overview": "Dois astr\u00f4nomos descobrem um cometa mortal vindo em dire\u00e7\u00e3o \u00e0 Terra e partem em um tour midi\u00e1tico para alertar a humanidade. S\u00f3 que ningu\u00e9m parece dar muita bola.",
+                "vote_average": 7.111,
+                "vote_count": 7709
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Encanto",
+            "second_label": "Germaine Franco",
+            "category": "Music (Original Score)",
+            "year": 2022,
+            "tmdb": {
+                "id": 568124,
+                "original_title": "Encanto",
+                "title": "Encanto",
+                "release_date": "2021-10-13",
+                "backdrop_path": "/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
+                "poster_path": "/wj7MGckCvs7qbIdL5lVXTIAtSH6.jpg",
+                "overview": "Uma garota chamada Mirabel Madrigal cresce como o \u00fanico membro n\u00e3o m\u00e1gico de sua fam\u00edlia, que vivem escondidos em uma vibrante casa encantada nas montanhas da Col\u00f4mbia.",
+                "vote_average": 7.606,
+                "vote_count": 9078
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Parallel Mothers",
+            "second_label": "Alberto Iglesias",
+            "category": "Music (Original Score)",
+            "year": 2022,
+            "tmdb": {
+                "id": 766798,
+                "original_title": "Madres paralelas",
+                "title": "M\u00e3es Paralelas",
+                "release_date": "2021-10-08",
+                "backdrop_path": "/6UxCO59sdhvp43OCkrYx4EX61J.jpg",
+                "poster_path": "/cug6KicNSueL3H4hYOnTOgliLv7.jpg",
+                "overview": "Duas mulheres, Janis e Ana, dividem o quarto de hospital onde v\u00e3o dar \u00e0 luz. As duas s\u00e3o solteiras e ficaram gr\u00e1vidas acidentalmente. Janis, de meia-idade, n\u00e3o se arrepende e nas horas pr\u00e9vias ao parto sente-se plet\u00f3rica, a outra, Ana, \u00e9 uma adolescente e est\u00e1 assustada, arrependida e traumatizada. Janis tenta anim\u00e1-la enquanto passeiam como son\u00e2mbulas pelo corredor do hospital. As poucas palavras que trocam nessas horas v\u00e3o criar um v\u00ednculo muito profundo entre as duas, e esse acaso vai encarregar-se de desenvolver e complicar de forma t\u00e3o retumbante que mudar\u00e1 a vida de ambas para sempre.",
+                "vote_average": 6.8,
+                "vote_count": 864
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Power of the Dog",
+            "second_label": "Jonny Greenwood",
+            "category": "Music (Original Score)",
+            "year": 2022,
+            "tmdb": {
+                "id": 600583,
+                "original_title": "The Power of the Dog",
+                "title": "Ataque dos C\u00e3es",
+                "release_date": "2021-10-25",
+                "backdrop_path": "/gAsHuCQMN7mv4uFIvM4ACQ09hPr.jpg",
+                "poster_path": "/pTieUAFyDbC22uq0p7uMT1wBYax.jpg",
+                "overview": "Um fazendeiro dur\u00e3o trava uma guerra implac\u00e1vel contra a nova do esposa do irm\u00e3o, at\u00e9 que o inesperado acontece.",
+                "vote_average": 6.8,
+                "vote_count": 2516
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Song)": [
+        {
+            "first_label": "No Time To Die",
+            "second_label": "from No Time to Die; Music and Lyric by Billie Eilish and Finneas O'Connell",
+            "category": "Music (Original Song)",
+            "year": 2022,
+            "tmdb": {
+                "id": 370172,
+                "original_title": "No Time to Die",
+                "title": "007: Sem Tempo para Morrer",
+                "release_date": "2021-09-29",
+                "backdrop_path": "/r2GAjd4rNOHJh6i6Y0FntmYuPQW.jpg",
+                "poster_path": "/luE0KG1rWfUptbgNtlNtL5sihyd.jpg",
+                "overview": "Bond deixou o servi\u00e7o ativo e est\u00e1 desfrutando de uma vida tranquila na Jamaica. Sua paz \u00e9 interrompida quando o seu velho amigo Felix Leiter, da CIA, aparece pedindo sua ajuda. A miss\u00e3o de resgatar um cientista sequestrado acaba sendo muito mais dif\u00edcil do que o esperado, deixando Bond no caminho de um vil\u00e3o misterioso e armado com uma nova tecnologia perigosa.",
+                "vote_average": 7.382,
+                "vote_count": 5848
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Be Alive",
+            "second_label": "from King Richard; Music and Lyric by DIXSON and Beyonc Knowles-Carter",
+            "category": "Music (Original Song)",
+            "year": 2022,
+            "tmdb": {
+                "id": 758534,
+                "original_title": "\u89aa\u611b\u7684\u6bba\u624b",
+                "title": "Be Alive Just Like You",
+                "release_date": "2020-12-04",
+                "backdrop_path": "/aqNJqaLCX1XmPjQiCjjjw8xa9Fp.jpg",
+                "poster_path": "/xDiaL5sTTYp1nJ57b40T9UwAsPt.jpg",
+                "overview": "Since Six was 18, he no longer knows what freedom is.  He\u2019s trapped in a wheelchair. His father, a taxi driver, drives him every day out to the streets to sell chewing gum. That\u2019s how Six spends his days. Till he gets to meet a quiet girl, Noodles, who always shuts herself away in a small stationery store.  Six barges into her world. He adds a touch of pheromone to the colorful but icy stationery store. Suddenly, everything becomes interesting.",
+                "vote_average": 7.3,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dos Oruguitas",
+            "second_label": "from Encanto; Music and Lyric by Lin-Manuel Miranda",
+            "category": "Music (Original Song)",
+            "year": 2022,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Down To Joy",
+            "second_label": "from Belfast; Music and Lyric by Van Morrison",
+            "category": "Music (Original Song)",
+            "year": 2022,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Somehow You Do",
+            "second_label": "from Four Good Days; Music and Lyric by Diane Warren",
+            "category": "Music (Original Song)",
+            "year": 2022,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Best Picture": [
+        {
+            "first_label": "CODA",
+            "second_label": "Philippe Rousselet, Fabrice Gianfermi and Patrick Wachsberger, Producers",
+            "category": "Best Picture",
+            "year": 2022,
+            "tmdb": {
+                "id": 776503,
+                "original_title": "CODA",
+                "title": "No Ritmo do Cora\u00e7\u00e3o",
+                "release_date": "2021-08-13",
+                "backdrop_path": "/v85FlkbMYKa5du1glm0YfYNsL2n.jpg",
+                "poster_path": "/rnEcFnQYgZ6mmxeeaEeLNSZdgD8.jpg",
+                "overview": "Como CODA (Filhos de Adultos Surdos), Ruby \u00e9 a \u00fanica pessoa com audi\u00e7\u00e3o em sua fam\u00edlia. Quando o neg\u00f3cio de pesca da fam\u00edlia \u00e9 amea\u00e7ado, Ruby se v\u00ea dividida entre seguir seu amor pela m\u00fasica e seu medo de abandonar seus pais.",
+                "vote_average": 7.9,
+                "vote_count": 2059
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Belfast",
+            "second_label": "Laura Berwick, Kenneth Branagh, Becca Kovacik and Tamar Thomas, Producers",
+            "category": "Best Picture",
+            "year": 2022,
+            "tmdb": {
+                "id": 777270,
+                "original_title": "Belfast",
+                "title": "Belfast",
+                "release_date": "2021-11-12",
+                "backdrop_path": "/4KLlHifB1kgMtWl3YnY8JinOj65.jpg",
+                "poster_path": "/3mInLZyPOVLsZRsBwNHi3UJXXnm.jpg",
+                "overview": "Na Irlanda do Norte, o garotinho Buddy (Jude Hill) e sua fam\u00edlia da classe trabalhadora vivenciam os conflitos da d\u00e9cada de 1960. Enquanto brinca em meio \u00e0s paisagens destru\u00eddas e a viol\u00eancia extrema, o menino sonha com um futuro melhor. Enquanto a sua mudan\u00e7a de vida n\u00e3o acontece, ele se consola com as hist\u00f3rias maravilhosas contadas por Pa (Jamie Dornan), Ma (Caitr\u00edona Balfe) e seus queridos av\u00f3s (Judie Dench e Ciar\u00e1n Hins).",
+                "vote_average": 7.1,
+                "vote_count": 1384
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Don't Look Up",
+            "second_label": "Adam McKay and Kevin Messick, Producers",
+            "category": "Best Picture",
+            "year": 2022,
+            "tmdb": {
+                "id": 646380,
+                "original_title": "Don't Look Up",
+                "title": "N\u00e3o Olhe para Cima",
+                "release_date": "2021-12-07",
+                "backdrop_path": "/w4mdpbqx0NqsgNKZ170U0QDcyl3.jpg",
+                "poster_path": "/6Sc7Tjt7aPsdghYK32mDMFeZkqJ.jpg",
+                "overview": "Dois astr\u00f4nomos descobrem um cometa mortal vindo em dire\u00e7\u00e3o \u00e0 Terra e partem em um tour midi\u00e1tico para alertar a humanidade. S\u00f3 que ningu\u00e9m parece dar muita bola.",
+                "vote_average": 7.111,
+                "vote_count": 7709
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Drive My Car",
+            "second_label": "Teruhisa Yamamoto, Producer",
+            "category": "Best Picture",
+            "year": 2022,
+            "tmdb": {
+                "id": 758866,
+                "original_title": "\u30c9\u30e9\u30a4\u30d6\u30fb\u30de\u30a4\u30fb\u30ab\u30fc",
+                "title": "Drive My Car",
+                "release_date": "2021-08-18",
+                "backdrop_path": "/r6aqhlmJmu8Dv5E7QYEruaEXKYm.jpg",
+                "poster_path": "/z9QqfYRtYS3VqIsWkD09hpilyQ3.jpg",
+                "overview": "Dois anos ap\u00f3s a morte de sua esposa, Yusuke Kafuku recebe uma oferta para dirigir uma pe\u00e7a num festival de teatro em Hiroshima. L\u00e1, ele conhece Misaki, uma jovem reservada, designada para ser sua motorista. Enquanto passam tempo juntos, Kafuku confronta o mist\u00e9rio de sua esposa que o assombra.",
+                "vote_average": 7.418,
+                "vote_count": 1136
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dune",
+            "second_label": "Mary Parent, Denis Villeneuve and Cale Boyter, Producers",
+            "category": "Best Picture",
+            "year": 2022,
+            "tmdb": {
+                "id": 438631,
+                "original_title": "Dune",
+                "title": "Duna",
+                "release_date": "2021-09-15",
+                "backdrop_path": "/lzWHmYdfeFiMIY4JaMmtR7GEli3.jpg",
+                "poster_path": "/eLXRCSKXAo9831a9Bw22TdZSnzL.jpg",
+                "overview": "Em um futuro distante, planetas s\u00e3o comandados por casas nobres que fazem parte de um imp\u00e9rio feudal intergal\u00e1tico. Paul Atreides \u00e9 um jovem cuja fam\u00edlia toma o controle do planeta deserto Arrakis, tamb\u00e9m conhecido como Duna. A \u00fanica fonte da especiaria Melange, a subst\u00e2ncia mais importante do cosmos, Arrakis se mostra ser um planeta nem um pouco f\u00e1cil de governar.",
+                "vote_average": 7.789,
+                "vote_count": 10988
+            },
+            "winner": false
+        },
+        {
+            "first_label": "King Richard",
+            "second_label": "Tim White, Trevor White and Will Smith, Producers",
+            "category": "Best Picture",
+            "year": 2022,
+            "tmdb": {
+                "id": 614917,
+                "original_title": "King Richard",
+                "title": "King Richard: Criando Campe\u00e3s",
+                "release_date": "2021-11-18",
+                "backdrop_path": "/4kb7uR1UmXa33U6GB6F9xckFlhn.jpg",
+                "poster_path": "/1GzzYMqCUbx0RMY3yAdrKdKVonh.jpg",
+                "overview": "Richard Williams \u00e9 treinador de suas filhas, Venus e Serena, que em breve se tornar\u00e3o duas das mais lend\u00e1rias tenistas da hist\u00f3ria.",
+                "vote_average": 7.684,
+                "vote_count": 2256
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Licorice Pizza",
+            "second_label": "Sara Murphy, Adam Somner and Paul Thomas Anderson, Producers",
+            "category": "Best Picture",
+            "year": 2022,
+            "tmdb": {
+                "id": 718032,
+                "original_title": "Licorice Pizza",
+                "title": "Licorice Pizza",
+                "release_date": "2021-11-26",
+                "backdrop_path": "/hB4ibOHXm1Xl0IbuYVioktDGUWJ.jpg",
+                "poster_path": "/deV9SBeCQG2rrbKBsWQDiMerQjQ.jpg",
+                "overview": "A hist\u00f3ria de Alana Kane e Gary Valentine crescendo, correndo e passando pela navega\u00e7\u00e3o trai\u00e7oeira do primeiro amor no Vale de San Fernando, 1973.",
+                "vote_average": 7.0,
+                "vote_count": 2090
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Nightmare Alley",
+            "second_label": "Guillermo del Toro, J. Miles Dale and Bradley Cooper, Producers",
+            "category": "Best Picture",
+            "year": 2022,
+            "tmdb": {
+                "id": 597208,
+                "original_title": "Nightmare Alley",
+                "title": "O Beco do Pesadelo",
+                "release_date": "2021-12-02",
+                "backdrop_path": "/g0YNGpmlXsgHfhGnJz3c5uyzZ1B.jpg",
+                "poster_path": "/nndZUt9Lf8ZwefYBTGe5opGLJuY.jpg",
+                "overview": "Um jovem ambicioso com talento para manipular as pessoas com algumas palavras bem escolhidas se encontra com uma psiquiatra que \u00e9 ainda mais perigosa do que ele.",
+                "vote_average": 6.994,
+                "vote_count": 2721
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Power of the Dog",
+            "second_label": "Jane Campion, Tanya Seghatchian, Emile Sherman, Iain Canning and Roger Frappier, Producers",
+            "category": "Best Picture",
+            "year": 2022,
+            "tmdb": {
+                "id": 600583,
+                "original_title": "The Power of the Dog",
+                "title": "Ataque dos C\u00e3es",
+                "release_date": "2021-10-25",
+                "backdrop_path": "/gAsHuCQMN7mv4uFIvM4ACQ09hPr.jpg",
+                "poster_path": "/pTieUAFyDbC22uq0p7uMT1wBYax.jpg",
+                "overview": "Um fazendeiro dur\u00e3o trava uma guerra implac\u00e1vel contra a nova do esposa do irm\u00e3o, at\u00e9 que o inesperado acontece.",
+                "vote_average": 6.8,
+                "vote_count": 2516
+            },
+            "winner": false
+        },
+        {
+            "first_label": "West Side Story",
+            "second_label": "Steven Spielberg and Kristie Macosko Krieger, Producers",
+            "category": "Best Picture",
+            "year": 2022,
+            "tmdb": {
+                "id": 511809,
+                "original_title": "West Side Story",
+                "title": "Amor, Sublime Amor",
+                "release_date": "2021-12-08",
+                "backdrop_path": "/tHnHTp50qDx7br1i9ulh74MUW0A.jpg",
+                "poster_path": "/4XvvbOFlnC5czMBJd0l7ysMMV4z.jpg",
+                "overview": "Dois jovens de gangues rivais de Nova York se apaixonam, mas as tens\u00f5es entre seus respectivos amigos se transformam em trag\u00e9dia. Remake do filme de 1961.",
+                "vote_average": 7.0,
+                "vote_count": 1445
+            },
+            "winner": false
+        }
+    ],
+    "Production Design": [
+        {
+            "first_label": "Dune",
+            "second_label": "Production Design: Patrice Vermette; Set Decoration: Zsuzsanna Sipos",
+            "category": "Production Design",
+            "year": 2022,
+            "tmdb": {
+                "id": 438631,
+                "original_title": "Dune",
+                "title": "Duna",
+                "release_date": "2021-09-15",
+                "backdrop_path": "/lzWHmYdfeFiMIY4JaMmtR7GEli3.jpg",
+                "poster_path": "/eLXRCSKXAo9831a9Bw22TdZSnzL.jpg",
+                "overview": "Em um futuro distante, planetas s\u00e3o comandados por casas nobres que fazem parte de um imp\u00e9rio feudal intergal\u00e1tico. Paul Atreides \u00e9 um jovem cuja fam\u00edlia toma o controle do planeta deserto Arrakis, tamb\u00e9m conhecido como Duna. A \u00fanica fonte da especiaria Melange, a subst\u00e2ncia mais importante do cosmos, Arrakis se mostra ser um planeta nem um pouco f\u00e1cil de governar.",
+                "vote_average": 7.789,
+                "vote_count": 10988
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Nightmare Alley",
+            "second_label": "Production Design: Tamara Deverell; Set Decoration: Shane Vieau",
+            "category": "Production Design",
+            "year": 2022,
+            "tmdb": {
+                "id": 597208,
+                "original_title": "Nightmare Alley",
+                "title": "O Beco do Pesadelo",
+                "release_date": "2021-12-02",
+                "backdrop_path": "/g0YNGpmlXsgHfhGnJz3c5uyzZ1B.jpg",
+                "poster_path": "/nndZUt9Lf8ZwefYBTGe5opGLJuY.jpg",
+                "overview": "Um jovem ambicioso com talento para manipular as pessoas com algumas palavras bem escolhidas se encontra com uma psiquiatra que \u00e9 ainda mais perigosa do que ele.",
+                "vote_average": 6.994,
+                "vote_count": 2721
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Power of the Dog",
+            "second_label": "Production Design: Grant Major; Set Decoration: Amber Richards",
+            "category": "Production Design",
+            "year": 2022,
+            "tmdb": {
+                "id": 600583,
+                "original_title": "The Power of the Dog",
+                "title": "Ataque dos C\u00e3es",
+                "release_date": "2021-10-25",
+                "backdrop_path": "/gAsHuCQMN7mv4uFIvM4ACQ09hPr.jpg",
+                "poster_path": "/pTieUAFyDbC22uq0p7uMT1wBYax.jpg",
+                "overview": "Um fazendeiro dur\u00e3o trava uma guerra implac\u00e1vel contra a nova do esposa do irm\u00e3o, at\u00e9 que o inesperado acontece.",
+                "vote_average": 6.8,
+                "vote_count": 2516
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Tragedy of Macbeth",
+            "second_label": "Production Design: Stefan Dechant; Set Decoration: Nancy Haigh",
+            "category": "Production Design",
+            "year": 2022,
+            "tmdb": {
+                "id": 591538,
+                "original_title": "The Tragedy of Macbeth",
+                "title": "A Trag\u00e9dia de Macbeth",
+                "release_date": "2021-12-05",
+                "backdrop_path": "/lMjY6kMBOHhloz2Ul16fLJn8xuw.jpg",
+                "poster_path": "/iOW4dWoOvGpgj0Pld4sjMGkvK6L.jpg",
+                "overview": "Tr\u00eas bruxas convencem Lord Macbeth de que ele se tornar\u00e1 o pr\u00f3ximo rei da Esc\u00f3cia e sua ambiciosa esposa est\u00e1 disposta a tudo para ajud\u00e1-lo em seu plano de conquistar o poder.",
+                "vote_average": 7.0,
+                "vote_count": 698
+            },
+            "winner": false
+        },
+        {
+            "first_label": "West Side Story",
+            "second_label": "Production Design: Adam Stockhausen; Set Decoration: Rena DeAngelo",
+            "category": "Production Design",
+            "year": 2022,
+            "tmdb": {
+                "id": 511809,
+                "original_title": "West Side Story",
+                "title": "Amor, Sublime Amor",
+                "release_date": "2021-12-08",
+                "backdrop_path": "/tHnHTp50qDx7br1i9ulh74MUW0A.jpg",
+                "poster_path": "/4XvvbOFlnC5czMBJd0l7ysMMV4z.jpg",
+                "overview": "Dois jovens de gangues rivais de Nova York se apaixonam, mas as tens\u00f5es entre seus respectivos amigos se transformam em trag\u00e9dia. Remake do filme de 1961.",
+                "vote_average": 7.0,
+                "vote_count": 1445
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Animated)": [
+        {
+            "first_label": "The Windshield Wiper",
+            "second_label": "Alberto Mielgo and Leo Sanchez",
+            "category": "Short Film (Animated)",
+            "year": 2022,
+            "tmdb": {
+                "id": 601329,
+                "original_title": "The Windshield Wiper",
+                "title": "The Windshield Wiper",
+                "release_date": "2021-07-13",
+                "backdrop_path": "/1jRtXysrBYwsFaOGjm75XrCEz13.jpg",
+                "poster_path": "/2KaxNr0T4BhYXUtmi6E9qG663ls.jpg",
+                "overview": "Dentro de um caf\u00e9 enquanto fuma um ma\u00e7o de cigarros, um homem faz uma pergunta ambiciosa: \"O que \u00e9 o amor?\". Uma cole\u00e7\u00e3o de vinhetas e situa\u00e7\u00f5es levar\u00e1 o homem \u00e0 conclus\u00e3o desejada.",
+                "vote_average": 7.1,
+                "vote_count": 74
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Affairs of the Art",
+            "second_label": "Joanna Quinn and Les Mills",
+            "category": "Short Film (Animated)",
+            "year": 2022,
+            "tmdb": {
+                "id": 742843,
+                "original_title": "Affairs of the Art",
+                "title": "Affairs of the Art",
+                "release_date": "2021-01-29",
+                "backdrop_path": "/kYLxR34h9OewpF36ajw6vQ0BiDc.jpg",
+                "poster_path": "/nl60pAipFbxljZ8g04U1vGSx088.jpg",
+                "overview": "Beryl est\u00e1 de volta em \"Affairs of the Art\", que mostra as obsess\u00f5es exc\u00eantricas e cativantes de uma fam\u00edlia por tudo, desde desenho a roscas e taxidermia de animais de estima\u00e7\u00e3o....",
+                "vote_average": 6.6,
+                "vote_count": 28
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Bestia",
+            "second_label": "Hugo Covarrubias and Tevo Daz",
+            "category": "Short Film (Animated)",
+            "year": 2022,
+            "tmdb": {
+                "id": 828751,
+                "original_title": "Bestia",
+                "title": "Bestia",
+                "release_date": "2021-11-04",
+                "backdrop_path": "/793eL4Y8iwHjENTnMhw3hoSlOQM.jpg",
+                "poster_path": "/nK2SA0oiZK8AMmGJeriUBrRFDrp.jpg",
+                "overview": "Ingrid trabalha na Diretoria de Intelig\u00eancia do Chile (DINA) em 1975. Seu relacionamento com seu cachorro, seu corpo, seus medos e frustra\u00e7\u00f5es revelam uma fratura sombria em sua mente e em todo um pa\u00eds...",
+                "vote_average": 7.2,
+                "vote_count": 42
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Boxballet",
+            "second_label": "Anton Dyakov",
+            "category": "Short Film (Animated)",
+            "year": 2022,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Robin Robin",
+            "second_label": "Dan Ojari and Mikey Please",
+            "category": "Short Film (Animated)",
+            "year": 2022,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Live Action)": [
+        {
+            "first_label": "The Long Goodbye",
+            "second_label": "Aneil Karia and Riz Ahmed",
+            "category": "Short Film (Live Action)",
+            "year": 2022,
+            "tmdb": {
+                "id": 972995,
+                "original_title": "The Long Goodbye",
+                "title": "The Long Goodbye",
+                "release_date": "2021-01-22",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "This is a personal documentary of Election Day 2020 to Inauguration Day 2021.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Ala Kachuu - Take and Run",
+            "second_label": "Maria Brendle and Nadine Lchinger",
+            "category": "Short Film (Live Action)",
+            "year": 2022,
+            "tmdb": {
+                "id": 853760,
+                "original_title": "Ala Kachuu",
+                "title": "Take and Run",
+                "release_date": "2020-08-04",
+                "backdrop_path": "/jpeSfHKESQb052icUZzyE5hZabG.jpg",
+                "poster_path": "/mGGbm8IYURvkriTM924DoSCprBH.jpg",
+                "overview": "A young Kyrgyz woman is kidnapped and forced to marry. A drama about the desire for freedom in the clutches of a tradition.",
+                "vote_average": 7.5,
+                "vote_count": 12
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Dress",
+            "second_label": "Tadeusz \u0141ysiak and Maciej \u015alesicki",
+            "category": "Short Film (Live Action)",
+            "year": 2022,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "On My Mind",
+            "second_label": "Martin Strange-Hansen and Kim Magnusson",
+            "category": "Short Film (Live Action)",
+            "year": 2022,
+            "tmdb": {
+                "id": 918627,
+                "original_title": "On My Mind",
+                "title": "On My Mind",
+                "release_date": "2021-07-10",
+                "backdrop_path": null,
+                "poster_path": "/3nDI3UCxdJrOo2jsT6gokFhfnDe.jpg",
+                "overview": "Henrik wants to sing a song for his wife. It has to be today, it has to be now. It's a question of life, death and karaoke.",
+                "vote_average": 6.5,
+                "vote_count": 11
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Please Hold",
+            "second_label": "K.D. Dvila and Levin Menekse",
+            "category": "Short Film (Live Action)",
+            "year": 2022,
+            "tmdb": {
+                "id": 720886,
+                "original_title": "Please Hold The Line",
+                "title": "Please Hold The Line",
+                "release_date": "2020-06-10",
+                "backdrop_path": "/vAf6kgAvkUHrSSLbFCb6ssSii8z.jpg",
+                "poster_path": "/8S4Ad6fVxfmeB3tF1amNS4sGq0g.jpg",
+                "overview": "An audiovisual allegory on communication \u2013 this film follows cable technicians in four different countries (Ukraine, Romania, Bulgaria, Moldova) as they visit their customers. Each client they call on provides a glimpse into their own individual universe. With so many tools for communication, we still inhabit a modern-day Tower of Babel; an ordered discordance of personalities and perspectives.",
+                "vote_average": 8.0,
+                "vote_count": 2
+            },
+            "winner": false
+        }
+    ],
+    "Sound": [
+        {
+            "first_label": "Dune",
+            "second_label": "Mac Ruth, Mark Mangini, Theo Green, Doug Hemphill and Ron Bartlett",
+            "category": "Sound",
+            "year": 2022,
+            "tmdb": {
+                "id": 438631,
+                "original_title": "Dune",
+                "title": "Duna",
+                "release_date": "2021-09-15",
+                "backdrop_path": "/lzWHmYdfeFiMIY4JaMmtR7GEli3.jpg",
+                "poster_path": "/eLXRCSKXAo9831a9Bw22TdZSnzL.jpg",
+                "overview": "Em um futuro distante, planetas s\u00e3o comandados por casas nobres que fazem parte de um imp\u00e9rio feudal intergal\u00e1tico. Paul Atreides \u00e9 um jovem cuja fam\u00edlia toma o controle do planeta deserto Arrakis, tamb\u00e9m conhecido como Duna. A \u00fanica fonte da especiaria Melange, a subst\u00e2ncia mais importante do cosmos, Arrakis se mostra ser um planeta nem um pouco f\u00e1cil de governar.",
+                "vote_average": 7.789,
+                "vote_count": 10988
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Belfast",
+            "second_label": "Denise Yarde, Simon Chase, James Mather and Niv Adiri",
+            "category": "Sound",
+            "year": 2022,
+            "tmdb": {
+                "id": 777270,
+                "original_title": "Belfast",
+                "title": "Belfast",
+                "release_date": "2021-11-12",
+                "backdrop_path": "/4KLlHifB1kgMtWl3YnY8JinOj65.jpg",
+                "poster_path": "/3mInLZyPOVLsZRsBwNHi3UJXXnm.jpg",
+                "overview": "Na Irlanda do Norte, o garotinho Buddy (Jude Hill) e sua fam\u00edlia da classe trabalhadora vivenciam os conflitos da d\u00e9cada de 1960. Enquanto brinca em meio \u00e0s paisagens destru\u00eddas e a viol\u00eancia extrema, o menino sonha com um futuro melhor. Enquanto a sua mudan\u00e7a de vida n\u00e3o acontece, ele se consola com as hist\u00f3rias maravilhosas contadas por Pa (Jamie Dornan), Ma (Caitr\u00edona Balfe) e seus queridos av\u00f3s (Judie Dench e Ciar\u00e1n Hins).",
+                "vote_average": 7.1,
+                "vote_count": 1384
+            },
+            "winner": false
+        },
+        {
+            "first_label": "No Time to Die",
+            "second_label": "Simon Hayes, Oliver Tarney, James Harrison, Paul Massey and Mark Taylor",
+            "category": "Sound",
+            "year": 2022,
+            "tmdb": {
+                "id": 370172,
+                "original_title": "No Time to Die",
+                "title": "007: Sem Tempo para Morrer",
+                "release_date": "2021-09-29",
+                "backdrop_path": "/r2GAjd4rNOHJh6i6Y0FntmYuPQW.jpg",
+                "poster_path": "/luE0KG1rWfUptbgNtlNtL5sihyd.jpg",
+                "overview": "Bond deixou o servi\u00e7o ativo e est\u00e1 desfrutando de uma vida tranquila na Jamaica. Sua paz \u00e9 interrompida quando o seu velho amigo Felix Leiter, da CIA, aparece pedindo sua ajuda. A miss\u00e3o de resgatar um cientista sequestrado acaba sendo muito mais dif\u00edcil do que o esperado, deixando Bond no caminho de um vil\u00e3o misterioso e armado com uma nova tecnologia perigosa.",
+                "vote_average": 7.382,
+                "vote_count": 5848
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Power of the Dog",
+            "second_label": "Richard Flynn, Robert Mackenzie and Tara Webb",
+            "category": "Sound",
+            "year": 2022,
+            "tmdb": {
+                "id": 600583,
+                "original_title": "The Power of the Dog",
+                "title": "Ataque dos C\u00e3es",
+                "release_date": "2021-10-25",
+                "backdrop_path": "/gAsHuCQMN7mv4uFIvM4ACQ09hPr.jpg",
+                "poster_path": "/pTieUAFyDbC22uq0p7uMT1wBYax.jpg",
+                "overview": "Um fazendeiro dur\u00e3o trava uma guerra implac\u00e1vel contra a nova do esposa do irm\u00e3o, at\u00e9 que o inesperado acontece.",
+                "vote_average": 6.8,
+                "vote_count": 2516
+            },
+            "winner": false
+        },
+        {
+            "first_label": "West Side Story",
+            "second_label": "Tod A. Maitland, Gary Rydstrom, Brian Chumney, Andy Nelson and Shawn Murphy",
+            "category": "Sound",
+            "year": 2022,
+            "tmdb": {
+                "id": 511809,
+                "original_title": "West Side Story",
+                "title": "Amor, Sublime Amor",
+                "release_date": "2021-12-08",
+                "backdrop_path": "/tHnHTp50qDx7br1i9ulh74MUW0A.jpg",
+                "poster_path": "/4XvvbOFlnC5czMBJd0l7ysMMV4z.jpg",
+                "overview": "Dois jovens de gangues rivais de Nova York se apaixonam, mas as tens\u00f5es entre seus respectivos amigos se transformam em trag\u00e9dia. Remake do filme de 1961.",
+                "vote_average": 7.0,
+                "vote_count": 1445
+            },
+            "winner": false
+        }
+    ],
+    "Visual Effects": [
+        {
+            "first_label": "Dune",
+            "second_label": "Paul Lambert, Tristan Myles, Brian Connor and Gerd Nefzer",
+            "category": "Visual Effects",
+            "year": 2022,
+            "tmdb": {
+                "id": 438631,
+                "original_title": "Dune",
+                "title": "Duna",
+                "release_date": "2021-09-15",
+                "backdrop_path": "/lzWHmYdfeFiMIY4JaMmtR7GEli3.jpg",
+                "poster_path": "/eLXRCSKXAo9831a9Bw22TdZSnzL.jpg",
+                "overview": "Em um futuro distante, planetas s\u00e3o comandados por casas nobres que fazem parte de um imp\u00e9rio feudal intergal\u00e1tico. Paul Atreides \u00e9 um jovem cuja fam\u00edlia toma o controle do planeta deserto Arrakis, tamb\u00e9m conhecido como Duna. A \u00fanica fonte da especiaria Melange, a subst\u00e2ncia mais importante do cosmos, Arrakis se mostra ser um planeta nem um pouco f\u00e1cil de governar.",
+                "vote_average": 7.789,
+                "vote_count": 10988
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Free Guy",
+            "second_label": "Swen Gillberg, Bryan Grill, Nikos Kalaitzidis and Dan Sudick",
+            "category": "Visual Effects",
+            "year": 2022,
+            "tmdb": {
+                "id": 550988,
+                "original_title": "Free Guy",
+                "title": "Free Guy: Assumindo o Controle",
+                "release_date": "2021-08-11",
+                "backdrop_path": "/7py8kUCYaOdFn1TfVS87BDBySOz.jpg",
+                "poster_path": "/jXlGeLOg2RKHmV9CinVaIB4ijKU.jpg",
+                "overview": "Um caixa de banco preso a uma entediante rotina tem sua vida virada de cabe\u00e7a para baixo quando ele descobre que \u00e9 personagem em um brutalmente realista v\u00eddeo game de mundo aberto. Agora ele precisa aceitar sua realidade e lidar com o fato de que \u00e9 o \u00fanico que pode salvar o mundo.",
+                "vote_average": 7.516,
+                "vote_count": 8153
+            },
+            "winner": false
+        },
+        {
+            "first_label": "No Time to Die",
+            "second_label": "Charlie Noble, Joel Green, Jonathan Fawkner and Chris Corbould",
+            "category": "Visual Effects",
+            "year": 2022,
+            "tmdb": {
+                "id": 370172,
+                "original_title": "No Time to Die",
+                "title": "007: Sem Tempo para Morrer",
+                "release_date": "2021-09-29",
+                "backdrop_path": "/r2GAjd4rNOHJh6i6Y0FntmYuPQW.jpg",
+                "poster_path": "/luE0KG1rWfUptbgNtlNtL5sihyd.jpg",
+                "overview": "Bond deixou o servi\u00e7o ativo e est\u00e1 desfrutando de uma vida tranquila na Jamaica. Sua paz \u00e9 interrompida quando o seu velho amigo Felix Leiter, da CIA, aparece pedindo sua ajuda. A miss\u00e3o de resgatar um cientista sequestrado acaba sendo muito mais dif\u00edcil do que o esperado, deixando Bond no caminho de um vil\u00e3o misterioso e armado com uma nova tecnologia perigosa.",
+                "vote_average": 7.382,
+                "vote_count": 5848
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Shang-Chi and the Legend of the Ten Rings",
+            "second_label": "Christopher Townsend, Joe Farrell, Sean Noel Walker and Dan Oliver",
+            "category": "Visual Effects",
+            "year": 2022,
+            "tmdb": {
+                "id": 566525,
+                "original_title": "Shang-Chi and the Legend of the Ten Rings",
+                "title": "Shang-Chi e a Lenda dos Dez An\u00e9is",
+                "release_date": "2021-09-01",
+                "backdrop_path": "/zxWAv1A34kdYslBi4ekMDtgIGUt.jpg",
+                "poster_path": "/fojnVuvt181l7LxsJDxCQfWSKfh.jpg",
+                "overview": "Shang-Chi precisa confrontar o passado que pensou ter deixado para tr\u00e1s. Ao mesmo tempo, ele \u00e9 envolvido em uma teia de mist\u00e9rios da organiza\u00e7\u00e3o conhecida como Dez An\u00e9is.",
+                "vote_average": 7.562,
+                "vote_count": 8912
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Spider-Man: No Way Home",
+            "second_label": "Kelly Port, Chris Waegner, Scott Edelstein and Dan Sudick",
+            "category": "Visual Effects",
+            "year": 2022,
+            "tmdb": {
+                "id": 634649,
+                "original_title": "Spider-Man: No Way Home",
+                "title": "Homem-Aranha: Sem Volta Para Casa",
+                "release_date": "2021-12-15",
+                "backdrop_path": "/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
+                "poster_path": "/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg",
+                "overview": "Peter Parker (Tom Holland) \u00e9 desmascarado e n\u00e3o consegue mais separar sua vida normal dos grandes riscos de ser um super-her\u00f3i. Quando ele pede ajuda ao Doutor Estranho (Benedict Cumberbatch), os riscos se tornam ainda mais perigosos, e o for\u00e7am a descobrir o que realmente significa ser o Homem-Aranha...",
+                "vote_average": 7.972,
+                "vote_count": 19185
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Adapted Screenplay)": [
+        {
+            "first_label": "CODA",
+            "second_label": "Screenplay by Sin Heder",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2022,
+            "tmdb": {
+                "id": 776503,
+                "original_title": "CODA",
+                "title": "No Ritmo do Cora\u00e7\u00e3o",
+                "release_date": "2021-08-13",
+                "backdrop_path": "/v85FlkbMYKa5du1glm0YfYNsL2n.jpg",
+                "poster_path": "/rnEcFnQYgZ6mmxeeaEeLNSZdgD8.jpg",
+                "overview": "Como CODA (Filhos de Adultos Surdos), Ruby \u00e9 a \u00fanica pessoa com audi\u00e7\u00e3o em sua fam\u00edlia. Quando o neg\u00f3cio de pesca da fam\u00edlia \u00e9 amea\u00e7ado, Ruby se v\u00ea dividida entre seguir seu amor pela m\u00fasica e seu medo de abandonar seus pais.",
+                "vote_average": 7.9,
+                "vote_count": 2059
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Drive My Car",
+            "second_label": "Screenplay by Ryusuke Hamaguchi, Takamasa Oe",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2022,
+            "tmdb": {
+                "id": 758866,
+                "original_title": "\u30c9\u30e9\u30a4\u30d6\u30fb\u30de\u30a4\u30fb\u30ab\u30fc",
+                "title": "Drive My Car",
+                "release_date": "2021-08-18",
+                "backdrop_path": "/r6aqhlmJmu8Dv5E7QYEruaEXKYm.jpg",
+                "poster_path": "/z9QqfYRtYS3VqIsWkD09hpilyQ3.jpg",
+                "overview": "Dois anos ap\u00f3s a morte de sua esposa, Yusuke Kafuku recebe uma oferta para dirigir uma pe\u00e7a num festival de teatro em Hiroshima. L\u00e1, ele conhece Misaki, uma jovem reservada, designada para ser sua motorista. Enquanto passam tempo juntos, Kafuku confronta o mist\u00e9rio de sua esposa que o assombra.",
+                "vote_average": 7.418,
+                "vote_count": 1136
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dune",
+            "second_label": "Screenplay by Jon Spaihts and Denis Villeneuve and Eric Roth",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2022,
+            "tmdb": {
+                "id": 438631,
+                "original_title": "Dune",
+                "title": "Duna",
+                "release_date": "2021-09-15",
+                "backdrop_path": "/lzWHmYdfeFiMIY4JaMmtR7GEli3.jpg",
+                "poster_path": "/eLXRCSKXAo9831a9Bw22TdZSnzL.jpg",
+                "overview": "Em um futuro distante, planetas s\u00e3o comandados por casas nobres que fazem parte de um imp\u00e9rio feudal intergal\u00e1tico. Paul Atreides \u00e9 um jovem cuja fam\u00edlia toma o controle do planeta deserto Arrakis, tamb\u00e9m conhecido como Duna. A \u00fanica fonte da especiaria Melange, a subst\u00e2ncia mais importante do cosmos, Arrakis se mostra ser um planeta nem um pouco f\u00e1cil de governar.",
+                "vote_average": 7.789,
+                "vote_count": 10988
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Lost Daughter",
+            "second_label": "Written by Maggie Gyllenhaal",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2022,
+            "tmdb": {
+                "id": 554230,
+                "original_title": "The Lost Daughter",
+                "title": "A Filha Perdida",
+                "release_date": "2021-12-16",
+                "backdrop_path": "/6jRHaYJyje5RNS3L353udrPU3ME.jpg",
+                "poster_path": "/w5ZyodD6md3mmPWO3nSPGXklxLk.jpg",
+                "overview": "As f\u00e9rias na praia come\u00e7am a dar errado quando a obsess\u00e3o por uma jovem m\u00e3e a for\u00e7a a confrontar segredos do passado. Com atua\u00e7\u00e3o de Olivia Colman.",
+                "vote_average": 6.6,
+                "vote_count": 885
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Power of the Dog",
+            "second_label": "Written by Jane Campion",
+            "category": "Writing (Adapted Screenplay)",
+            "year": 2022,
+            "tmdb": {
+                "id": 600583,
+                "original_title": "The Power of the Dog",
+                "title": "Ataque dos C\u00e3es",
+                "release_date": "2021-10-25",
+                "backdrop_path": "/gAsHuCQMN7mv4uFIvM4ACQ09hPr.jpg",
+                "poster_path": "/pTieUAFyDbC22uq0p7uMT1wBYax.jpg",
+                "overview": "Um fazendeiro dur\u00e3o trava uma guerra implac\u00e1vel contra a nova do esposa do irm\u00e3o, at\u00e9 que o inesperado acontece.",
+                "vote_average": 6.8,
+                "vote_count": 2516
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Original Screenplay)": [
+        {
+            "first_label": "Belfast",
+            "second_label": "Written by Kenneth Branagh",
+            "category": "Writing (Original Screenplay)",
+            "year": 2022,
+            "tmdb": {
+                "id": 777270,
+                "original_title": "Belfast",
+                "title": "Belfast",
+                "release_date": "2021-11-12",
+                "backdrop_path": "/4KLlHifB1kgMtWl3YnY8JinOj65.jpg",
+                "poster_path": "/3mInLZyPOVLsZRsBwNHi3UJXXnm.jpg",
+                "overview": "Na Irlanda do Norte, o garotinho Buddy (Jude Hill) e sua fam\u00edlia da classe trabalhadora vivenciam os conflitos da d\u00e9cada de 1960. Enquanto brinca em meio \u00e0s paisagens destru\u00eddas e a viol\u00eancia extrema, o menino sonha com um futuro melhor. Enquanto a sua mudan\u00e7a de vida n\u00e3o acontece, ele se consola com as hist\u00f3rias maravilhosas contadas por Pa (Jamie Dornan), Ma (Caitr\u00edona Balfe) e seus queridos av\u00f3s (Judie Dench e Ciar\u00e1n Hins).",
+                "vote_average": 7.1,
+                "vote_count": 1384
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Don't Look Up",
+            "second_label": "Screenplay by Adam McKay; Story by Adam McKay & David Sirota",
+            "category": "Writing (Original Screenplay)",
+            "year": 2022,
+            "tmdb": {
+                "id": 646380,
+                "original_title": "Don't Look Up",
+                "title": "N\u00e3o Olhe para Cima",
+                "release_date": "2021-12-07",
+                "backdrop_path": "/w4mdpbqx0NqsgNKZ170U0QDcyl3.jpg",
+                "poster_path": "/6Sc7Tjt7aPsdghYK32mDMFeZkqJ.jpg",
+                "overview": "Dois astr\u00f4nomos descobrem um cometa mortal vindo em dire\u00e7\u00e3o \u00e0 Terra e partem em um tour midi\u00e1tico para alertar a humanidade. S\u00f3 que ningu\u00e9m parece dar muita bola.",
+                "vote_average": 7.111,
+                "vote_count": 7709
+            },
+            "winner": false
+        },
+        {
+            "first_label": "King Richard",
+            "second_label": "Written by Zach Baylin",
+            "category": "Writing (Original Screenplay)",
+            "year": 2022,
+            "tmdb": {
+                "id": 614917,
+                "original_title": "King Richard",
+                "title": "King Richard: Criando Campe\u00e3s",
+                "release_date": "2021-11-18",
+                "backdrop_path": "/4kb7uR1UmXa33U6GB6F9xckFlhn.jpg",
+                "poster_path": "/1GzzYMqCUbx0RMY3yAdrKdKVonh.jpg",
+                "overview": "Richard Williams \u00e9 treinador de suas filhas, Venus e Serena, que em breve se tornar\u00e3o duas das mais lend\u00e1rias tenistas da hist\u00f3ria.",
+                "vote_average": 7.684,
+                "vote_count": 2256
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Licorice Pizza",
+            "second_label": "Written by Paul Thomas Anderson",
+            "category": "Writing (Original Screenplay)",
+            "year": 2022,
+            "tmdb": {
+                "id": 718032,
+                "original_title": "Licorice Pizza",
+                "title": "Licorice Pizza",
+                "release_date": "2021-11-26",
+                "backdrop_path": "/hB4ibOHXm1Xl0IbuYVioktDGUWJ.jpg",
+                "poster_path": "/deV9SBeCQG2rrbKBsWQDiMerQjQ.jpg",
+                "overview": "A hist\u00f3ria de Alana Kane e Gary Valentine crescendo, correndo e passando pela navega\u00e7\u00e3o trai\u00e7oeira do primeiro amor no Vale de San Fernando, 1973.",
+                "vote_average": 7.0,
+                "vote_count": 2090
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Worst Person in the World",
+            "second_label": "Written by Eskil Vogt, Joachim Trier",
+            "category": "Writing (Original Screenplay)",
+            "year": 2022,
+            "tmdb": {
+                "id": 660120,
+                "original_title": "Verdens verste menneske",
+                "title": "A Pior Pessoa do Mundo",
+                "release_date": "2021-10-13",
+                "backdrop_path": "/iTPTdfEGYGwbELLLvNnmgKZpVZj.jpg",
+                "poster_path": "/k2Uvqj0oiwjEprdIL6YDt06v7UQ.jpg",
+                "overview": "Narra quatro anos na vida de Julie, uma jovem mulher navegando como \u00e1guas turbulentas de sua vida amorosa e lutando para encontrar seu caminho profissional, o que a leva a ver quem ela realmente \u00e9.",
+                "vote_average": 7.5,
+                "vote_count": 1187
+            },
+            "winner": false
+        }
+    ]
+}
