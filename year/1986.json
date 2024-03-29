@@ -1,0 +1,1782 @@
+{
+    "Actor in a Leading Role": [
+        {
+            "first_label": "William Hurt",
+            "second_label": "Kiss of the Spider Woman",
+            "category": "Actor in a Leading Role",
+            "year": 1986,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Harrison Ford",
+            "second_label": "Witness",
+            "category": "Actor in a Leading Role",
+            "year": 1986,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "James Garner",
+            "second_label": "Murphy's Romance",
+            "category": "Actor in a Leading Role",
+            "year": 1986,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jack Nicholson",
+            "second_label": "Prizzi's Honor",
+            "category": "Actor in a Leading Role",
+            "year": 1986,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jon Voight",
+            "second_label": "Runaway Train",
+            "category": "Actor in a Leading Role",
+            "year": 1986,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Don Ameche",
+            "second_label": "Cocoon",
+            "category": "Actor in a Supporting Role",
+            "year": 1986,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Klaus Maria Brandauer",
+            "second_label": "Out of Africa",
+            "category": "Actor in a Supporting Role",
+            "year": 1986,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "William Hickey",
+            "second_label": "Prizzi's Honor",
+            "category": "Actor in a Supporting Role",
+            "year": 1986,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Robert Loggia",
+            "second_label": "Jagged Edge",
+            "category": "Actor in a Supporting Role",
+            "year": 1986,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Eric Roberts",
+            "second_label": "Runaway Train",
+            "category": "Actor in a Supporting Role",
+            "year": 1986,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Leading Role": [
+        {
+            "first_label": "Geraldine Page",
+            "second_label": "The Trip to Bountiful",
+            "category": "Actress in a Leading Role",
+            "year": 1986,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Anne Bancroft",
+            "second_label": "Agnes of God",
+            "category": "Actress in a Leading Role",
+            "year": 1986,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Whoopi Goldberg",
+            "second_label": "The Color Purple",
+            "category": "Actress in a Leading Role",
+            "year": 1986,
+            "tmdb": {
+                "id": 79077,
+                "original_title": "Whoopi Goldberg: Direct from Broadway",
+                "title": "Whoopi Goldberg: Direct from Broadway",
+                "release_date": "1985-07-20",
+                "backdrop_path": "/8D4ILL9lnJb0muyCdobyayc8akP.jpg",
+                "poster_path": "/deD7mJNYFdeZBclx2djvmQ35xNq.jpg",
+                "overview": "Whoopi Goldberg in her original one-woman show.",
+                "vote_average": 6.3,
+                "vote_count": 7
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jessica Lange",
+            "second_label": "Sweet Dreams",
+            "category": "Actress in a Leading Role",
+            "year": 1986,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Meryl Streep",
+            "second_label": "Out of Africa",
+            "category": "Actress in a Leading Role",
+            "year": 1986,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Anjelica Huston",
+            "second_label": "Prizzi's Honor",
+            "category": "Actress in a Supporting Role",
+            "year": 1986,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Margaret Avery",
+            "second_label": "The Color Purple",
+            "category": "Actress in a Supporting Role",
+            "year": 1986,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Amy Madigan",
+            "second_label": "Twice in a Lifetime",
+            "category": "Actress in a Supporting Role",
+            "year": 1986,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Meg Tilly",
+            "second_label": "Agnes of God",
+            "category": "Actress in a Supporting Role",
+            "year": 1986,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Oprah Winfrey",
+            "second_label": "The Color Purple",
+            "category": "Actress in a Supporting Role",
+            "year": 1986,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction": [
+        {
+            "first_label": "Out of Africa",
+            "second_label": "Art Direction: Stephen Grimes; Set Decoration: Josie MacAvin",
+            "category": "Art Direction",
+            "year": 1986,
+            "tmdb": {
+                "id": 606,
+                "original_title": "Out of Africa",
+                "title": "Entre Dois Amores",
+                "release_date": "1985-12-20",
+                "backdrop_path": "/oGYRCq5eBhgXuLX20czONxa0uC8.jpg",
+                "poster_path": "/9uVlbT7HSas74O792HGJm5Btnnx.jpg",
+                "overview": "Karen Blixen \u00e9 uma rica dinamarquesa que vai morar em uma fazenda de caf\u00e9 no Qu\u00eania com Bror Blixen-Finecke, um bar\u00e3o com quem se casou por conveni\u00eancia. Mas o casal vive como se fossem mais amigos do que amantes e acabam se separando e Bror vai embora. Agora Karen est\u00e1 sozinha na fazendo cuidando do trabalho, mas conhece Denys Finch Hatton, um aristocrata ingl\u00eas que se torna seu grande amor.",
+                "vote_average": 7.2,
+                "vote_count": 1309
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Brazil",
+            "second_label": "Art Direction: Norman Garwood; Set Decoration: Maggie Gray",
+            "category": "Art Direction",
+            "year": 1986,
+            "tmdb": {
+                "id": 68,
+                "original_title": "Brazil",
+                "title": "Brazil: O Filme",
+                "release_date": "1985-02-20",
+                "backdrop_path": "/pbartrp1JZ6KWtfUOtzO7EmcIfn.jpg",
+                "poster_path": "/eoWSmEv790Cp6RMJWj8lYfEKthI.jpg",
+                "overview": "Sam Lowry vive num Estado totalit\u00e1rio, controlado pelos computadores e pela burocracia. Neste Estado, que lida com o terrorismo, todos s\u00e3o governados por fichas e cart\u00f5es de cr\u00e9dito e ainda precisam pagar por tudo, at\u00e9 mesmo a perman\u00eancia na pris\u00e3o. Neste mundo opressivo, Sam acaba se apaixonando por Jill, uma terrorista.",
+                "vote_average": 7.7,
+                "vote_count": 3134
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Color Purple",
+            "second_label": "Art Direction: J. Michael Riva, Robert W. Welch; Set Decoration: Linda DeScenna",
+            "category": "Art Direction",
+            "year": 1986,
+            "tmdb": {
+                "id": 873,
+                "original_title": "The Color Purple",
+                "title": "A Cor P\u00farpura",
+                "release_date": "1985-12-18",
+                "backdrop_path": "/rhMpAPvoy1beXd8gA6CvYoCSztj.jpg",
+                "poster_path": "/xMiXnyVOIM8ZXr1DlnsKKcwHuil.jpg",
+                "overview": "Em 1906, em uma pequena cidade da Georgia, sul dos Estados Unidos, a quase adolescente Celie, violentada pelo pr\u00f3prio pai, torna-se m\u00e3e de duas crian\u00e7as. Separada dos filhos, Celie, \u00e9 doada \u00e0 Mister, que a trata como companheira e escrava ao mesmo tempo. Cada vez mais calada e solit\u00e1ria, Celie passa a compartilhar sua tristeza em carta.",
+                "vote_average": 7.753,
+                "vote_count": 1670
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ran",
+            "second_label": "Art Direction: Yoshiro Muraki, Shinobu Muraki",
+            "category": "Art Direction",
+            "year": 1986,
+            "tmdb": {
+                "id": 11645,
+                "original_title": "\u4e71",
+                "title": "Ran",
+                "release_date": "1985-06-01",
+                "backdrop_path": "/8wdxa4JgiAXvITgqkra1W0Dpii5.jpg",
+                "poster_path": "/jQnUtWaHYfqnXPOIf77K7Ycqk4M.jpg",
+                "overview": "No Jap\u00e3o medieval, um velho senhor da guerra se aposenta, entregando seu imp\u00e9rio a seus tr\u00eas filhos. No entanto, ele subestima amplamente como o novo poder ir\u00e1 corromp\u00ea-los.  O senhor de guerra japon\u00eas Hidetori Ichimonji decide que chegou o momento de se aposentar e dividir seu feudo entre seus tr\u00eas filhos. Seus filhos mai velho e do meio, Taro e Jiro, concordam com sua decis\u00e3o e prometem apoi\u00e1-lo nos dias restantes de aposentadoria. O filho mais novo, Saburo, discorda de todos eles argumentando que h\u00e1 pouca probabilidade dos tr\u00eas irm\u00e3os permanecerem unidos. Insultado pela impaci\u00eancia de seu filho ca\u00e7ula, o senhor da guerra o expulsa. Quando o senhor da guerra come\u00e7a sua aposentadoria, ele rapidamente percebe que seus dois filhos mais velhos s\u00e3o ego\u00edstas e n\u00e3o t\u00eam inten\u00e7\u00e3o de cumprir suas promessas. Isso leva \u00e0 guerra e s\u00f3 o banido Saburo pode salv\u00e1-lo.",
+                "vote_average": 8.1,
+                "vote_count": 1443
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Witness",
+            "second_label": "Art Direction: Stan Jolley; Set Decoration: John Anderson",
+            "category": "Art Direction",
+            "year": 1986,
+            "tmdb": {
+                "id": 9281,
+                "original_title": "Witness",
+                "title": "A Testemunha",
+                "release_date": "1985-02-08",
+                "backdrop_path": "/o7DFxRyxcjkuTADGjpfCLcRlfsj.jpg",
+                "poster_path": "/ejAHSqPdLoPUQWC2VNarhRbcf46.jpg",
+                "overview": "A vi\u00fava amish Rachel e seu filho Samuel pretendem viajar e, na esta\u00e7\u00e3o de trem de Filad\u00e9lfia, o menino presencia o assassinato de um policial e reconhece outro como assassino. Para proteg\u00ea-los, John Book, o policial encarregado do caso, resolve lev\u00e1-los de volta para a comunidade a que pertencem e que recusa os benef\u00edcios da vida moderna. Ao ser ferido pelos assassinos, o detetive precisa ficar na comunidade at\u00e9 se recuperar e encontra dificuldades para se adaptar ao novo estilo de vida.",
+                "vote_average": 7.1,
+                "vote_count": 1562
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "Out of Africa",
+            "second_label": "David Watkin",
+            "category": "Cinematography",
+            "year": 1986,
+            "tmdb": {
+                "id": 606,
+                "original_title": "Out of Africa",
+                "title": "Entre Dois Amores",
+                "release_date": "1985-12-20",
+                "backdrop_path": "/oGYRCq5eBhgXuLX20czONxa0uC8.jpg",
+                "poster_path": "/9uVlbT7HSas74O792HGJm5Btnnx.jpg",
+                "overview": "Karen Blixen \u00e9 uma rica dinamarquesa que vai morar em uma fazenda de caf\u00e9 no Qu\u00eania com Bror Blixen-Finecke, um bar\u00e3o com quem se casou por conveni\u00eancia. Mas o casal vive como se fossem mais amigos do que amantes e acabam se separando e Bror vai embora. Agora Karen est\u00e1 sozinha na fazendo cuidando do trabalho, mas conhece Denys Finch Hatton, um aristocrata ingl\u00eas que se torna seu grande amor.",
+                "vote_average": 7.2,
+                "vote_count": 1309
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Color Purple",
+            "second_label": "Allen Daviau",
+            "category": "Cinematography",
+            "year": 1986,
+            "tmdb": {
+                "id": 873,
+                "original_title": "The Color Purple",
+                "title": "A Cor P\u00farpura",
+                "release_date": "1985-12-18",
+                "backdrop_path": "/rhMpAPvoy1beXd8gA6CvYoCSztj.jpg",
+                "poster_path": "/xMiXnyVOIM8ZXr1DlnsKKcwHuil.jpg",
+                "overview": "Em 1906, em uma pequena cidade da Georgia, sul dos Estados Unidos, a quase adolescente Celie, violentada pelo pr\u00f3prio pai, torna-se m\u00e3e de duas crian\u00e7as. Separada dos filhos, Celie, \u00e9 doada \u00e0 Mister, que a trata como companheira e escrava ao mesmo tempo. Cada vez mais calada e solit\u00e1ria, Celie passa a compartilhar sua tristeza em carta.",
+                "vote_average": 7.753,
+                "vote_count": 1670
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Murphy's Romance",
+            "second_label": "William A. Fraker",
+            "category": "Cinematography",
+            "year": 1986,
+            "tmdb": {
+                "id": 34322,
+                "original_title": "Murphy's Romance",
+                "title": "O Romance de Murphy",
+                "release_date": "1985-12-25",
+                "backdrop_path": "/66z2nfpzKTokJ5i8mW5hpJa12Yd.jpg",
+                "poster_path": "/tNC1wWZ8Tw6b3Iw8VT6dMzor96V.jpg",
+                "overview": "Uma divorciada com 33 anos, Emma Moriarity (Sally Field), se muda com seu filho de 12 anos, Jake (Corey Haim), para um lugarejo do Arizona, mais exatamente o Rancho Wilcox, que est\u00e1 decadente. Ela pretende levantar o lugar e recome\u00e7ar sua vida adestrando cavalos, algo que entende realmente. Logo faz amizade com um vi\u00favo, Murphy Jones (James Garner), que \u00e9 bem mais velho que ela mas isto n\u00e3o o impede de ter uma vida social bem ativa, pois existem 10 mulheres para cada homem na localidade. Eles s\u00e3o vistos juntos cada vez mais e, apesar de nada ter acontecido entre eles, tudo indica que \u00e9 uma quest\u00e3o de tempo. Entretanto o aparecimento s\u00fabito de Bobby Jack (Brian Kerwin), o ex-marido dela, pode ser um empecilho. Sem dinheiro e sem emprego, Bobby n\u00e3o tem onde morar e ent\u00e3o fica no rancho. Bobby quer Emma de volta, mas ela nem pensa no assunto, enquanto que Jake adora o pai e est\u00e1 feliz com a presen\u00e7a dele no rancho.",
+                "vote_average": 6.0,
+                "vote_count": 60
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ran",
+            "second_label": "Takao Saito, Masaharu Ueda, Asakazu Nakai",
+            "category": "Cinematography",
+            "year": 1986,
+            "tmdb": {
+                "id": 11645,
+                "original_title": "\u4e71",
+                "title": "Ran",
+                "release_date": "1985-06-01",
+                "backdrop_path": "/8wdxa4JgiAXvITgqkra1W0Dpii5.jpg",
+                "poster_path": "/jQnUtWaHYfqnXPOIf77K7Ycqk4M.jpg",
+                "overview": "No Jap\u00e3o medieval, um velho senhor da guerra se aposenta, entregando seu imp\u00e9rio a seus tr\u00eas filhos. No entanto, ele subestima amplamente como o novo poder ir\u00e1 corromp\u00ea-los.  O senhor de guerra japon\u00eas Hidetori Ichimonji decide que chegou o momento de se aposentar e dividir seu feudo entre seus tr\u00eas filhos. Seus filhos mai velho e do meio, Taro e Jiro, concordam com sua decis\u00e3o e prometem apoi\u00e1-lo nos dias restantes de aposentadoria. O filho mais novo, Saburo, discorda de todos eles argumentando que h\u00e1 pouca probabilidade dos tr\u00eas irm\u00e3os permanecerem unidos. Insultado pela impaci\u00eancia de seu filho ca\u00e7ula, o senhor da guerra o expulsa. Quando o senhor da guerra come\u00e7a sua aposentadoria, ele rapidamente percebe que seus dois filhos mais velhos s\u00e3o ego\u00edstas e n\u00e3o t\u00eam inten\u00e7\u00e3o de cumprir suas promessas. Isso leva \u00e0 guerra e s\u00f3 o banido Saburo pode salv\u00e1-lo.",
+                "vote_average": 8.1,
+                "vote_count": 1443
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Witness",
+            "second_label": "John Seale",
+            "category": "Cinematography",
+            "year": 1986,
+            "tmdb": {
+                "id": 9281,
+                "original_title": "Witness",
+                "title": "A Testemunha",
+                "release_date": "1985-02-08",
+                "backdrop_path": "/o7DFxRyxcjkuTADGjpfCLcRlfsj.jpg",
+                "poster_path": "/ejAHSqPdLoPUQWC2VNarhRbcf46.jpg",
+                "overview": "A vi\u00fava amish Rachel e seu filho Samuel pretendem viajar e, na esta\u00e7\u00e3o de trem de Filad\u00e9lfia, o menino presencia o assassinato de um policial e reconhece outro como assassino. Para proteg\u00ea-los, John Book, o policial encarregado do caso, resolve lev\u00e1-los de volta para a comunidade a que pertencem e que recusa os benef\u00edcios da vida moderna. Ao ser ferido pelos assassinos, o detetive precisa ficar na comunidade at\u00e9 se recuperar e encontra dificuldades para se adaptar ao novo estilo de vida.",
+                "vote_average": 7.1,
+                "vote_count": 1562
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design": [
+        {
+            "first_label": "Ran",
+            "second_label": "Emi Wada",
+            "category": "Costume Design",
+            "year": 1986,
+            "tmdb": {
+                "id": 11645,
+                "original_title": "\u4e71",
+                "title": "Ran",
+                "release_date": "1985-06-01",
+                "backdrop_path": "/8wdxa4JgiAXvITgqkra1W0Dpii5.jpg",
+                "poster_path": "/jQnUtWaHYfqnXPOIf77K7Ycqk4M.jpg",
+                "overview": "No Jap\u00e3o medieval, um velho senhor da guerra se aposenta, entregando seu imp\u00e9rio a seus tr\u00eas filhos. No entanto, ele subestima amplamente como o novo poder ir\u00e1 corromp\u00ea-los.  O senhor de guerra japon\u00eas Hidetori Ichimonji decide que chegou o momento de se aposentar e dividir seu feudo entre seus tr\u00eas filhos. Seus filhos mai velho e do meio, Taro e Jiro, concordam com sua decis\u00e3o e prometem apoi\u00e1-lo nos dias restantes de aposentadoria. O filho mais novo, Saburo, discorda de todos eles argumentando que h\u00e1 pouca probabilidade dos tr\u00eas irm\u00e3os permanecerem unidos. Insultado pela impaci\u00eancia de seu filho ca\u00e7ula, o senhor da guerra o expulsa. Quando o senhor da guerra come\u00e7a sua aposentadoria, ele rapidamente percebe que seus dois filhos mais velhos s\u00e3o ego\u00edstas e n\u00e3o t\u00eam inten\u00e7\u00e3o de cumprir suas promessas. Isso leva \u00e0 guerra e s\u00f3 o banido Saburo pode salv\u00e1-lo.",
+                "vote_average": 8.1,
+                "vote_count": 1443
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Color Purple",
+            "second_label": "Aggie Guerard Rodgers",
+            "category": "Costume Design",
+            "year": 1986,
+            "tmdb": {
+                "id": 873,
+                "original_title": "The Color Purple",
+                "title": "A Cor P\u00farpura",
+                "release_date": "1985-12-18",
+                "backdrop_path": "/rhMpAPvoy1beXd8gA6CvYoCSztj.jpg",
+                "poster_path": "/xMiXnyVOIM8ZXr1DlnsKKcwHuil.jpg",
+                "overview": "Em 1906, em uma pequena cidade da Georgia, sul dos Estados Unidos, a quase adolescente Celie, violentada pelo pr\u00f3prio pai, torna-se m\u00e3e de duas crian\u00e7as. Separada dos filhos, Celie, \u00e9 doada \u00e0 Mister, que a trata como companheira e escrava ao mesmo tempo. Cada vez mais calada e solit\u00e1ria, Celie passa a compartilhar sua tristeza em carta.",
+                "vote_average": 7.753,
+                "vote_count": 1670
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Journey of Natty Gann",
+            "second_label": "Albert Wolsky",
+            "category": "Costume Design",
+            "year": 1986,
+            "tmdb": {
+                "id": 35144,
+                "original_title": "The Journey of Natty Gann",
+                "title": "Viagem Clandestina",
+                "release_date": "1985-09-27",
+                "backdrop_path": "/wUvn8kcausADaBOAabm7X1pQtoi.jpg",
+                "poster_path": "/xc3efB3JJig0dBRqZNGSnp6LCgb.jpg",
+                "overview": "Chicago, 1935. Sem trabalho, Sol Gann aceita um emprego em Washington e promete buscar a filha quando puder. Mas Natty n\u00e3o quer esperar, e viaja clandestinamente nos trens que cruzam o pa\u00eds, enfrenta fome, frio e muitos perigos.",
+                "vote_average": 6.9,
+                "vote_count": 134
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Out of Africa",
+            "second_label": "Milena Canonero",
+            "category": "Costume Design",
+            "year": 1986,
+            "tmdb": {
+                "id": 606,
+                "original_title": "Out of Africa",
+                "title": "Entre Dois Amores",
+                "release_date": "1985-12-20",
+                "backdrop_path": "/oGYRCq5eBhgXuLX20czONxa0uC8.jpg",
+                "poster_path": "/9uVlbT7HSas74O792HGJm5Btnnx.jpg",
+                "overview": "Karen Blixen \u00e9 uma rica dinamarquesa que vai morar em uma fazenda de caf\u00e9 no Qu\u00eania com Bror Blixen-Finecke, um bar\u00e3o com quem se casou por conveni\u00eancia. Mas o casal vive como se fossem mais amigos do que amantes e acabam se separando e Bror vai embora. Agora Karen est\u00e1 sozinha na fazendo cuidando do trabalho, mas conhece Denys Finch Hatton, um aristocrata ingl\u00eas que se torna seu grande amor.",
+                "vote_average": 7.2,
+                "vote_count": 1309
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Prizzi's Honor",
+            "second_label": "Donfeld",
+            "category": "Costume Design",
+            "year": 1986,
+            "tmdb": {
+                "id": 2075,
+                "original_title": "Prizzi's Honor",
+                "title": "A Honra do Poderoso Prizzi",
+                "release_date": "1985-06-14",
+                "backdrop_path": "/qWST3wj27YRZH9yDgihKpkNC6xc.jpg",
+                "poster_path": "/nWzbhq9omMq73pG5EXUWSyTaSBk.jpg",
+                "overview": "Charley Partanna (Jack Nicholson) \u00e9 um perigoso e respeitado mafioso, que trabalha como matador para a fam\u00edlia Prizzi, a mais tradicional de Nova York. Irene Walker (Kathleen Turner) \u00e9 uma assassina de aluguel, que foi contratada para matar um homem dos pr\u00f3prios Prizzi, que possivelmente os roubou. Logo que se conhecem Charley e Irene se apaixonam, mesmo sem ele saber qual \u00e9 a profiss\u00e3o dela. Entretanto a mulher de um policial morre em um trabalho realizado por Charley, o que faz com que o relacionamento entre os policiais e as fam\u00edlias de mafiosos seja abalado. Sedentos por vingan\u00e7a, os policiais pressionam para que os mafiosos entreguem o assassino.",
+                "vote_average": 6.3,
+                "vote_count": 350
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "Out of Africa",
+            "second_label": "Sydney Pollack",
+            "category": "Directing",
+            "year": 1986,
+            "tmdb": {
+                "id": 606,
+                "original_title": "Out of Africa",
+                "title": "Entre Dois Amores",
+                "release_date": "1985-12-20",
+                "backdrop_path": "/oGYRCq5eBhgXuLX20czONxa0uC8.jpg",
+                "poster_path": "/9uVlbT7HSas74O792HGJm5Btnnx.jpg",
+                "overview": "Karen Blixen \u00e9 uma rica dinamarquesa que vai morar em uma fazenda de caf\u00e9 no Qu\u00eania com Bror Blixen-Finecke, um bar\u00e3o com quem se casou por conveni\u00eancia. Mas o casal vive como se fossem mais amigos do que amantes e acabam se separando e Bror vai embora. Agora Karen est\u00e1 sozinha na fazendo cuidando do trabalho, mas conhece Denys Finch Hatton, um aristocrata ingl\u00eas que se torna seu grande amor.",
+                "vote_average": 7.2,
+                "vote_count": 1309
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Kiss of the Spider Woman",
+            "second_label": "Hector Babenco",
+            "category": "Directing",
+            "year": 1986,
+            "tmdb": {
+                "id": 11703,
+                "original_title": "Kiss of the Spider Woman",
+                "title": "O Beijo da Mulher-Aranha",
+                "release_date": "1985-07-26",
+                "backdrop_path": "/aON9Xpl2doO6ir7KRVfw2f6x2je.jpg",
+                "poster_path": "/zrZHJzjN4Z4ElAyroobVbI6SqqD.jpg",
+                "overview": "Em uma pris\u00e3o na Am\u00e9rica do Sul, dois prisioneiros dividem a mesma cela.  Um \u00e9 homossexual e est\u00e1 preso por comportamento imoral e o outro \u00e9 um prisioneiro pol\u00edtico.  O primeiro, para fugir da triste realidade que o cerca, inventa filmes cheios de mist\u00e9rio e romance, mas o outro tenta se manter o mais politizado poss\u00edvel em rela\u00e7\u00e3o ao momento que vive.  Mas esta conviv\u00eancia faz com que os dois homens se compreendam e se respeitem.",
+                "vote_average": 7.0,
+                "vote_count": 272
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Prizzi's Honor",
+            "second_label": "John Huston",
+            "category": "Directing",
+            "year": 1986,
+            "tmdb": {
+                "id": 2075,
+                "original_title": "Prizzi's Honor",
+                "title": "A Honra do Poderoso Prizzi",
+                "release_date": "1985-06-14",
+                "backdrop_path": "/qWST3wj27YRZH9yDgihKpkNC6xc.jpg",
+                "poster_path": "/nWzbhq9omMq73pG5EXUWSyTaSBk.jpg",
+                "overview": "Charley Partanna (Jack Nicholson) \u00e9 um perigoso e respeitado mafioso, que trabalha como matador para a fam\u00edlia Prizzi, a mais tradicional de Nova York. Irene Walker (Kathleen Turner) \u00e9 uma assassina de aluguel, que foi contratada para matar um homem dos pr\u00f3prios Prizzi, que possivelmente os roubou. Logo que se conhecem Charley e Irene se apaixonam, mesmo sem ele saber qual \u00e9 a profiss\u00e3o dela. Entretanto a mulher de um policial morre em um trabalho realizado por Charley, o que faz com que o relacionamento entre os policiais e as fam\u00edlias de mafiosos seja abalado. Sedentos por vingan\u00e7a, os policiais pressionam para que os mafiosos entreguem o assassino.",
+                "vote_average": 6.3,
+                "vote_count": 350
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ran",
+            "second_label": "Akira Kurosawa",
+            "category": "Directing",
+            "year": 1986,
+            "tmdb": {
+                "id": 11645,
+                "original_title": "\u4e71",
+                "title": "Ran",
+                "release_date": "1985-06-01",
+                "backdrop_path": "/8wdxa4JgiAXvITgqkra1W0Dpii5.jpg",
+                "poster_path": "/jQnUtWaHYfqnXPOIf77K7Ycqk4M.jpg",
+                "overview": "No Jap\u00e3o medieval, um velho senhor da guerra se aposenta, entregando seu imp\u00e9rio a seus tr\u00eas filhos. No entanto, ele subestima amplamente como o novo poder ir\u00e1 corromp\u00ea-los.  O senhor de guerra japon\u00eas Hidetori Ichimonji decide que chegou o momento de se aposentar e dividir seu feudo entre seus tr\u00eas filhos. Seus filhos mai velho e do meio, Taro e Jiro, concordam com sua decis\u00e3o e prometem apoi\u00e1-lo nos dias restantes de aposentadoria. O filho mais novo, Saburo, discorda de todos eles argumentando que h\u00e1 pouca probabilidade dos tr\u00eas irm\u00e3os permanecerem unidos. Insultado pela impaci\u00eancia de seu filho ca\u00e7ula, o senhor da guerra o expulsa. Quando o senhor da guerra come\u00e7a sua aposentadoria, ele rapidamente percebe que seus dois filhos mais velhos s\u00e3o ego\u00edstas e n\u00e3o t\u00eam inten\u00e7\u00e3o de cumprir suas promessas. Isso leva \u00e0 guerra e s\u00f3 o banido Saburo pode salv\u00e1-lo.",
+                "vote_average": 8.1,
+                "vote_count": 1443
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Witness",
+            "second_label": "Peter Weir",
+            "category": "Directing",
+            "year": 1986,
+            "tmdb": {
+                "id": 9281,
+                "original_title": "Witness",
+                "title": "A Testemunha",
+                "release_date": "1985-02-08",
+                "backdrop_path": "/o7DFxRyxcjkuTADGjpfCLcRlfsj.jpg",
+                "poster_path": "/ejAHSqPdLoPUQWC2VNarhRbcf46.jpg",
+                "overview": "A vi\u00fava amish Rachel e seu filho Samuel pretendem viajar e, na esta\u00e7\u00e3o de trem de Filad\u00e9lfia, o menino presencia o assassinato de um policial e reconhece outro como assassino. Para proteg\u00ea-los, John Book, o policial encarregado do caso, resolve lev\u00e1-los de volta para a comunidade a que pertencem e que recusa os benef\u00edcios da vida moderna. Ao ser ferido pelos assassinos, o detetive precisa ficar na comunidade at\u00e9 se recuperar e encontra dificuldades para se adaptar ao novo estilo de vida.",
+                "vote_average": 7.1,
+                "vote_count": 1562
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "Broken Rainbow",
+            "second_label": "Maria Florio and Victoria Mudd, Producers",
+            "category": "Documentary (Feature)",
+            "year": 1986,
+            "tmdb": {
+                "id": 44889,
+                "original_title": "Broken Rainbow",
+                "title": "Broken Rainbow",
+                "release_date": "1985-05-05",
+                "backdrop_path": "/hd4zXN4J31fXJxLTALIUQsdCtjo.jpg",
+                "poster_path": "/jP4IVY3cR4g9cIC49cZlnD8FKMc.jpg",
+                "overview": "Documentary chronicling the government relocation of 10,000 Navajo Indians in Arizona.",
+                "vote_average": 5.4,
+                "vote_count": 7
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Las Madres -- The Mothers of Plaza de Mayo",
+            "second_label": "\"Las Madres -- The Mothers of Plaza de Mayo\" Susana Muoz and Lourdes Portillo, Producers",
+            "category": "Documentary (Feature)",
+            "year": 1986,
+            "tmdb": {
+                "id": 149377,
+                "original_title": "Las Madres de la Plaza de Mayo",
+                "title": "The Mothers of Plaza de Mayo",
+                "release_date": "1985-09-01",
+                "backdrop_path": null,
+                "poster_path": "/o12qbSTY75MJMiVY6QTZHpLsfLc.jpg",
+                "overview": "1985 Argentine documentary film directed by Susana Blaustein Mu\u00f1oz and Lourdes Portillo about the Mothers of the Plaza de Mayo.",
+                "vote_average": 6.1,
+                "vote_count": 8
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Soldiers in Hiding",
+            "second_label": "Japhet Asher, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1986,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Statue of Liberty",
+            "second_label": "Ken Burns and Buddy Squires, Producers",
+            "category": "Documentary (Feature)",
+            "year": 1986,
+            "tmdb": {
+                "id": 51594,
+                "original_title": "The Statue of Liberty",
+                "title": "The Statue of Liberty",
+                "release_date": "1985-10-26",
+                "backdrop_path": "/b3T8G30INOe7xgm1p5DCy0x2Eu8.jpg",
+                "poster_path": "/o3kBVnoUasxR6DRUglW9RFpvAJV.jpg",
+                "overview": "For more than 100 years, the Statue of Liberty has been a symbol of hope and refuge for generations of immigrants. In this lyrical, compelling and provocative portrait of the statue, Ken Burns explores both the history of America\u2019s premier symbol and the meaning of liberty itself. Featuring rare archival photographs, paintings and drawings, readings from actual diaries, letters and newspapers of the day, the fascinating story of this universally admired monument is told.  In interviews with Americans from all walks of life, including former New York governor Mario Cuomo, the late congresswoman Barbara Jordan and the late writers James Baldwin and Jerzy Kosinski, The Statue of Liberty examines the nature of liberty and the significance of the statue to American life. Nominated for both the Academy Award \u00ae and the Emmy Award \u00ae, The Statue of Liberty received the prestigious CINE Golden Eagle, the Christopher Award and the Blue Ribbon at the American Film Festival.",
+                "vote_average": 6.7,
+                "vote_count": 12
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Unfinished Business",
+            "second_label": "Steven Okazaki, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1986,
+            "tmdb": {
+                "id": 149380,
+                "original_title": "Unfinished Business",
+                "title": "Unfinished Business",
+                "release_date": "1985-01-26",
+                "backdrop_path": null,
+                "poster_path": "/gE8ejSPuFIqqmWNiWsQTSnFVHgv.jpg",
+                "overview": "1985 documentary film about Min Yasui, an attorney from Oregon, Gordon Hirabayashi, a Quaker college student in Washington, and Fred Korematsu, a San Francisco welder and how their lives were affected by Japanese American internment during World War II.",
+                "vote_average": 5.7,
+                "vote_count": 3
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "Witness to War: Dr. Charlie Clements",
+            "second_label": "David Goodman, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1986,
+            "tmdb": {
+                "id": 244670,
+                "original_title": "Witness to War: Dr. Charlie Clements",
+                "title": "Witness to War: Dr. Charlie Clements",
+                "release_date": "1985-04-04",
+                "backdrop_path": null,
+                "poster_path": "/cQhQ1Pw0JCoNCVH8ka81K6rJxwh.jpg",
+                "overview": "Oscar Winning documentary short about Charlie Clements, a Vietnam War pilot who was convinced by his experiences in the war that he should become a doctor working behind enemy lines.",
+                "vote_average": 5.0,
+                "vote_count": 5
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Courage to Care",
+            "second_label": "Robert Gardner, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1986,
+            "tmdb": {
+                "id": 244671,
+                "original_title": "The Courage to Care",
+                "title": "The Courage to Care",
+                "release_date": "1985-01-01",
+                "backdrop_path": null,
+                "poster_path": "/7kBunUcFaassCa97twYD45JfINK.jpg",
+                "overview": "A profile of individuals who knowingly risked their lives during the Holocaust to aid Jews.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Keats and His Nightingale: A Blind Date",
+            "second_label": "Michael Crowley and James Wolpaw, Producers",
+            "category": "Documentary (Short Subject)",
+            "year": 1986,
+            "tmdb": {
+                "id": 244672,
+                "original_title": "Keats and His Nightingale: A Blind Date",
+                "title": "Keats and His Nightingale: A Blind Date",
+                "release_date": "1985-01-01",
+                "backdrop_path": null,
+                "poster_path": "/JKP5NjNkWYER7C1O2kePuCPXI1.jpg",
+                "overview": "Keats and His Nightingale: A Blind Date is a 1985 American short documentary film directed by Jim Wolpaw. It was nominated for an Academy Award for Best Documentary Short.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Making Overtures--The Story of a Community Orchestra",
+            "second_label": "Barbara Willis Sweete, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1986,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Wizard of the Strings",
+            "second_label": "Alan Edelstein, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1986,
+            "tmdb": {
+                "id": 244674,
+                "original_title": "The Wizard of the Strings",
+                "title": "The Wizard of the Strings",
+                "release_date": "1985-01-01",
+                "backdrop_path": null,
+                "poster_path": "/mNVKb3eEeIJRtCtgT67FCYWUet7.jpg",
+                "overview": "Profiles Roy Smeck, a former vaudeville star known as \"The Wizard of the Strings\" because of his virtuoso talents on the guitar, banjo, ukelele and Hawaiian guitar, and who is shown to be still active, in his mid-80s, teaching students and giving occasional public performances.",
+                "vote_average": 4.8,
+                "vote_count": 4
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "Witness",
+            "second_label": "Thom Noble",
+            "category": "Film Editing",
+            "year": 1986,
+            "tmdb": {
+                "id": 9281,
+                "original_title": "Witness",
+                "title": "A Testemunha",
+                "release_date": "1985-02-08",
+                "backdrop_path": "/o7DFxRyxcjkuTADGjpfCLcRlfsj.jpg",
+                "poster_path": "/ejAHSqPdLoPUQWC2VNarhRbcf46.jpg",
+                "overview": "A vi\u00fava amish Rachel e seu filho Samuel pretendem viajar e, na esta\u00e7\u00e3o de trem de Filad\u00e9lfia, o menino presencia o assassinato de um policial e reconhece outro como assassino. Para proteg\u00ea-los, John Book, o policial encarregado do caso, resolve lev\u00e1-los de volta para a comunidade a que pertencem e que recusa os benef\u00edcios da vida moderna. Ao ser ferido pelos assassinos, o detetive precisa ficar na comunidade at\u00e9 se recuperar e encontra dificuldades para se adaptar ao novo estilo de vida.",
+                "vote_average": 7.1,
+                "vote_count": 1562
+            },
+            "winner": true
+        },
+        {
+            "first_label": "A Chorus Line",
+            "second_label": "John Bloom",
+            "category": "Film Editing",
+            "year": 1986,
+            "tmdb": {
+                "id": 1816,
+                "original_title": "A Chorus Line",
+                "title": "Chorus Line: Em Busca da Fama",
+                "release_date": "1985-12-10",
+                "backdrop_path": "/AvPLYsn8SyDWFFBzBqmsohZ5p8x.jpg",
+                "poster_path": "/eCyWdrWp6uTmXq0ZeFFxzWPNByN.jpg",
+                "overview": "Um diretor de musicais da Broadway (Michael Douglas) prepara um novo espet\u00e1culo, e para isso ele realiza uma s\u00e9rie de audi\u00e7\u00f5es para escolher os atores, cantores e bailarinos que far\u00e3o parte do elenco. En\u00e9rgico e exigente, o diretor quer dos candidatos prova absoluta de seu talento e interesse pela arte, exigindo ao m\u00e1ximo dos candidatos, fazendo com que isso valorize ainda mais seu espet\u00e1culo. Mas tudo come\u00e7a a tomar um rumo diferente quando a vida pessoal de cada um dos participantes da sele\u00e7\u00e3o vem \u00e0 tona, inclusive a do pr\u00f3prio diretor quando uma ex-namorada sua \u00e9 selecionada. Agora ele enfrentar\u00e1 um dilema: paix\u00e3o ou profiss\u00e3o?",
+                "vote_average": 6.2,
+                "vote_count": 168
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Out of Africa",
+            "second_label": "Fredric Steinkamp, William Steinkamp, Pembroke Herring, Sheldon Kahn",
+            "category": "Film Editing",
+            "year": 1986,
+            "tmdb": {
+                "id": 606,
+                "original_title": "Out of Africa",
+                "title": "Entre Dois Amores",
+                "release_date": "1985-12-20",
+                "backdrop_path": "/oGYRCq5eBhgXuLX20czONxa0uC8.jpg",
+                "poster_path": "/9uVlbT7HSas74O792HGJm5Btnnx.jpg",
+                "overview": "Karen Blixen \u00e9 uma rica dinamarquesa que vai morar em uma fazenda de caf\u00e9 no Qu\u00eania com Bror Blixen-Finecke, um bar\u00e3o com quem se casou por conveni\u00eancia. Mas o casal vive como se fossem mais amigos do que amantes e acabam se separando e Bror vai embora. Agora Karen est\u00e1 sozinha na fazendo cuidando do trabalho, mas conhece Denys Finch Hatton, um aristocrata ingl\u00eas que se torna seu grande amor.",
+                "vote_average": 7.2,
+                "vote_count": 1309
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Prizzi's Honor",
+            "second_label": "Rudi Fehr, Kaja Fehr",
+            "category": "Film Editing",
+            "year": 1986,
+            "tmdb": {
+                "id": 2075,
+                "original_title": "Prizzi's Honor",
+                "title": "A Honra do Poderoso Prizzi",
+                "release_date": "1985-06-14",
+                "backdrop_path": "/qWST3wj27YRZH9yDgihKpkNC6xc.jpg",
+                "poster_path": "/nWzbhq9omMq73pG5EXUWSyTaSBk.jpg",
+                "overview": "Charley Partanna (Jack Nicholson) \u00e9 um perigoso e respeitado mafioso, que trabalha como matador para a fam\u00edlia Prizzi, a mais tradicional de Nova York. Irene Walker (Kathleen Turner) \u00e9 uma assassina de aluguel, que foi contratada para matar um homem dos pr\u00f3prios Prizzi, que possivelmente os roubou. Logo que se conhecem Charley e Irene se apaixonam, mesmo sem ele saber qual \u00e9 a profiss\u00e3o dela. Entretanto a mulher de um policial morre em um trabalho realizado por Charley, o que faz com que o relacionamento entre os policiais e as fam\u00edlias de mafiosos seja abalado. Sedentos por vingan\u00e7a, os policiais pressionam para que os mafiosos entreguem o assassino.",
+                "vote_average": 6.3,
+                "vote_count": 350
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Runaway Train",
+            "second_label": "Henry Richardson",
+            "category": "Film Editing",
+            "year": 1986,
+            "tmdb": {
+                "id": 11893,
+                "original_title": "Runaway Train",
+                "title": "Expresso para o Inferno",
+                "release_date": "1985-11-15",
+                "backdrop_path": "/6VEEPizyGVjZXwKrgFfjvB50wxW.jpg",
+                "poster_path": "/b7mLxQh4iEE1FKUv1f0iYi5I4tc.jpg",
+                "overview": "Manny e Buck s\u00e3o dois fugitivos de um pres\u00eddio de seguran\u00e7a m\u00e1xima que fica numa regi\u00e3o desolada do Alasca. Depois de sobreviverem \u00e0 travessia pela plan\u00edcie coberta de neve, eles chegam a uma esta\u00e7\u00e3o e se escondem no vag\u00e3o de um trem de carga. Mas o maquinista \u00e9 fulminado por um ataque card\u00edaco ap\u00f3s colocar o ve\u00edculo em movimento, deixando os dois presidi\u00e1rios desesperados a bordo do trem desgovernado e em alta velocidade.",
+                "vote_average": 6.9,
+                "vote_count": 525
+            },
+            "winner": false
+        }
+    ],
+    "Foreign Language Film": [
+        {
+            "first_label": "The Official Story",
+            "second_label": "Argentina",
+            "category": "Foreign Language Film",
+            "year": 1986,
+            "tmdb": {
+                "id": 29263,
+                "original_title": "La historia oficial",
+                "title": "A Hist\u00f3ria Oficial",
+                "release_date": "1985-04-03",
+                "backdrop_path": "/ze3ZxG7gV09eYNZ8ixdKT3L9DgQ.jpg",
+                "poster_path": "/kkeUKaETggOrR0eW9nzPOIoZkZH.jpg",
+                "overview": "Buenos Aires, d\u00e9cada de 1980. Alicia \u00e9 uma conservadora professora de hist\u00f3ria casada com Roberto e m\u00e3e adotiva da pequena Gaby. Completamente alheia \u00e0 realidade argentina, Alicia come\u00e7a a se dar conta dos acontecimentos recentes quando reencontra Ana, uma velha amiga que acaba de voltar do ex\u00edlio. Sedenta por respostas, ela decide buscar pistas sobre a misteriosa origem de sua filha.",
+                "vote_average": 7.5,
+                "vote_count": 178
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Angry Harvest",
+            "second_label": "Federal Republic of Germany",
+            "category": "Foreign Language Film",
+            "year": 1986,
+            "tmdb": {
+                "id": 42032,
+                "original_title": "Bittere Ernte",
+                "title": "Angry Harvest",
+                "release_date": "1985-02-20",
+                "backdrop_path": "/5gl3x5c7WsqHjW1ZJjYhCuBr0dC.jpg",
+                "poster_path": "/9iNArCw1DuOC2V5FK5C0FbLw1Et.jpg",
+                "overview": "In the winter of 1942-43, a Jewish family leaps from a train going through Silesia. They are separated in the woods, and Leon, a local peasant who's now a farmer of some wealth, discovers the woman, Rosa, and hides her in his cellar. Leon's a middle-aged Catholic bachelor, tormented by his sexual drive. He doesn't tell Rosa he's seen signs her husband is alive, and he begs her to love him. Rosa offers herself to Leon if he'll help a local Jew in hiding who needs money. Leon pays, and love between Rosa and him does develop, but then Leon's peasant subservience and his limited empathy lead to tragedy. At the war's end, a ray of sunshine comes from an unexpected place.",
+                "vote_average": 6.5,
+                "vote_count": 11
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Colonel Redl",
+            "second_label": "Hungary",
+            "category": "Foreign Language Film",
+            "year": 1986,
+            "tmdb": {
+                "id": 29471,
+                "original_title": "Oberst Redl",
+                "title": "Coronel Redl",
+                "release_date": "1985-03-29",
+                "backdrop_path": "/5Q9WdOH1fH3dKUTyaszZfiqxrP5.jpg",
+                "poster_path": "/oSOwBgEfMzJa3KqkqNUjBuV2DnT.jpg",
+                "overview": "Ambientado durante a gl\u00f3ria do imp\u00e9rio austro-h\u00fangaro, o filme conta a ascens\u00e3o e queda de Alfred Redl (Brandauer), um jovem e ambicioso oficial que sobe a escada para se tornar chefe da Pol\u00edcia Secreta e se enredar em problemas pol\u00edticos. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.8,
+                "vote_count": 44
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Three Men and a Cradle",
+            "second_label": "France",
+            "category": "Foreign Language Film",
+            "year": 1986,
+            "tmdb": {
+                "id": 4180,
+                "original_title": "3 Hommes et un couffin",
+                "title": "Three Men and a Cradle",
+                "release_date": "1985-09-18",
+                "backdrop_path": "/21i0STBZUzhdNqJ2SpiBFpUGWZw.jpg",
+                "poster_path": "/3TfJL5jbyWFUOe1NB81iI8w7Gct.jpg",
+                "overview": "Three young men - Jacques, Pierre, and Michel - share an apartment in Paris, and have many girlfriends and parties. Once, during a party, a friend of Jacques' tells him he has a quite compromising package to deliver, and asks him if he can leave it discreetly at their place. Jacques agrees and, as he works as a steward, flies away for a one-month trip in Japan, telling Pierre and Michel about the package. Then, one of Jacques' former girlfriends drops a baby before their door, making Pierre and Michel believing it is the package they are waiting for. Their lives are then completely changed.",
+                "vote_average": 6.3,
+                "vote_count": 246
+            },
+            "winner": false
+        },
+        {
+            "first_label": "When Father Was Away on Business",
+            "second_label": "Yugoslavia",
+            "category": "Foreign Language Film",
+            "year": 1986,
+            "tmdb": {
+                "id": 21042,
+                "original_title": "Otac na slu\u017ebenom putu",
+                "title": "Quando Papai Saiu Em Viagem de Neg\u00f3cios",
+                "release_date": "1985-01-15",
+                "backdrop_path": "/7heMAaXlsI3BwTatyxBSNTP3GhO.jpg",
+                "poster_path": "/jhTu6UwP32jPwiBccGAkZq0yqvV.jpg",
+                "overview": "Defender os ideais stalinistas logo ap\u00f3s o rompimento do marechal Tito, l\u00edder da ent\u00e3o Iugosl\u00e1via, com o Stalin, ditador russo, n\u00e3o era a melhor das ideias. Ap\u00f3s a publica\u00e7\u00e3o de uma charge inoportuna de sua autoria, Mesa \u00e9 enviado para um campo de trabalhos for\u00e7ados, uma pris\u00e3o longe de sua fam\u00edlia \u2013 que acredita que o pai est\u00e1 em uma \u201cviagem de neg\u00f3cios\u201d. Desnorteado, o jovem Malik, filho de Mesa, tenta lidar com a crise que sua fam\u00edlia e seu pa\u00eds enfrentam da melhor maneira poss\u00edvel, enquanto come\u00e7a a descobrir o amor.",
+                "vote_average": 7.3,
+                "vote_count": 113
+            },
+            "winner": false
+        }
+    ],
+    "Jean Hersholt Humanitarian Award": [
+        {
+            "first_label": "",
+            "second_label": "Charles \"Buddy\" Rogers",
+            "category": "Jean Hersholt Humanitarian Award",
+            "year": 1986,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        }
+    ],
+    "Makeup": [
+        {
+            "first_label": "Mask",
+            "second_label": "Michael Westmore, Zoltan Elek",
+            "category": "Makeup",
+            "year": 1986,
+            "tmdb": {
+                "id": 11177,
+                "original_title": "Mask",
+                "title": "Marcas do Destino",
+                "release_date": "1985-03-08",
+                "backdrop_path": "/xhaIbAXa6HOpYFn387a63Ser2wy.jpg",
+                "poster_path": "/fWpqCdJCUCkHQZYm7i811gCHSqd.jpg",
+                "overview": "Drama baseado na hist\u00f3ria verdadeira de Rocky Dennis, um adolescente que nasceu com uma estranha deformidade no rosto e todos acham que usa uma m\u00e1scara. Cher, em seu papel principal no cinema, \u00e9 Rusty, a m\u00e3e do rapaz. Com a ajuda do amor descompromissado e a inabal\u00e1vel determin\u00e7\u00e3o de Rusty, Rocky enfrenta a dor, a solid\u00e3o e os preconceitos para emergir como um extraordin\u00e1rio jovem que se torna uma inspira\u00e7\u00e3o para seus colegas e professores.",
+                "vote_average": 7.2,
+                "vote_count": 411
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Color Purple",
+            "second_label": "Ken Chase",
+            "category": "Makeup",
+            "year": 1986,
+            "tmdb": {
+                "id": 873,
+                "original_title": "The Color Purple",
+                "title": "A Cor P\u00farpura",
+                "release_date": "1985-12-18",
+                "backdrop_path": "/rhMpAPvoy1beXd8gA6CvYoCSztj.jpg",
+                "poster_path": "/xMiXnyVOIM8ZXr1DlnsKKcwHuil.jpg",
+                "overview": "Em 1906, em uma pequena cidade da Georgia, sul dos Estados Unidos, a quase adolescente Celie, violentada pelo pr\u00f3prio pai, torna-se m\u00e3e de duas crian\u00e7as. Separada dos filhos, Celie, \u00e9 doada \u00e0 Mister, que a trata como companheira e escrava ao mesmo tempo. Cada vez mais calada e solit\u00e1ria, Celie passa a compartilhar sua tristeza em carta.",
+                "vote_average": 7.753,
+                "vote_count": 1670
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Remo Williams: The Adventure Begins",
+            "second_label": "Carl Fullerton",
+            "category": "Makeup",
+            "year": 1986,
+            "tmdb": {
+                "id": 10553,
+                "original_title": "Remo Williams: The Adventure Begins",
+                "title": "Remo: Desarmado e Perigoso",
+                "release_date": "1985-10-11",
+                "backdrop_path": "/gA6DuqAOJTsrVsqZQSU2qjTu9sn.jpg",
+                "poster_path": "/zyNsNriw9wTuNe9s87STzfD3vlC.jpg",
+                "overview": "Um policial de Nova York tem sua morte forjada pelo governo americano para que ele possa ser introduzido em uma organiza\u00e7\u00e3o secreta chamada CURE. Agora, com uma nova identidade e o rosto completamente modificado, Remo Williams (Fred Ward) \u00e9 apresentado um velho coreano especialista em artes marciais que lhe dar\u00e1 treinamento especial para que ele se torne um assassino infal\u00edvel, apto para cumprir a miss\u00e3o de proteger o presidente dos EUA.",
+                "vote_average": 6.3,
+                "vote_count": 235
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Score)": [
+        {
+            "first_label": "Out of Africa",
+            "second_label": "John Barry",
+            "category": "Music (Original Score)",
+            "year": 1986,
+            "tmdb": {
+                "id": 606,
+                "original_title": "Out of Africa",
+                "title": "Entre Dois Amores",
+                "release_date": "1985-12-20",
+                "backdrop_path": "/oGYRCq5eBhgXuLX20czONxa0uC8.jpg",
+                "poster_path": "/9uVlbT7HSas74O792HGJm5Btnnx.jpg",
+                "overview": "Karen Blixen \u00e9 uma rica dinamarquesa que vai morar em uma fazenda de caf\u00e9 no Qu\u00eania com Bror Blixen-Finecke, um bar\u00e3o com quem se casou por conveni\u00eancia. Mas o casal vive como se fossem mais amigos do que amantes e acabam se separando e Bror vai embora. Agora Karen est\u00e1 sozinha na fazendo cuidando do trabalho, mas conhece Denys Finch Hatton, um aristocrata ingl\u00eas que se torna seu grande amor.",
+                "vote_average": 7.2,
+                "vote_count": 1309
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Agnes of God",
+            "second_label": "Georges Delerue",
+            "category": "Music (Original Score)",
+            "year": 1986,
+            "tmdb": {
+                "id": 24735,
+                "original_title": "Agnes of God",
+                "title": "Agnes de Deus",
+                "release_date": "1985-09-13",
+                "backdrop_path": "/jtpnnGqe8tiDPsFsW91kB8wHKfa.jpg",
+                "poster_path": "/m2QrxkojSmQb9k4DN6qhovDHLwD.jpg",
+                "overview": "Uma psiquiatra apontada pela corte \u00e9 encarregada de avaliar a jovem freira Agnes, cujo beb\u00ea foi encontrado estrangulado. Agnes alega que foi uma concep\u00e7\u00e3o sem sexo e n\u00e3o se lembra de ter dado \u00e0 luz.",
+                "vote_average": 6.1,
+                "vote_count": 111
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Color Purple",
+            "second_label": "Quincy Jones, Jeremy Lubbock, Rod Temperton, Caiphus Semenya, Andrae Crouch, Chris Boardman, Jorge Calandrelli, Joel Rosenbaum, Fred Steiner, Jack Hayes, Jerry Hey, Randy Kerber",
+            "category": "Music (Original Score)",
+            "year": 1986,
+            "tmdb": {
+                "id": 873,
+                "original_title": "The Color Purple",
+                "title": "A Cor P\u00farpura",
+                "release_date": "1985-12-18",
+                "backdrop_path": "/rhMpAPvoy1beXd8gA6CvYoCSztj.jpg",
+                "poster_path": "/xMiXnyVOIM8ZXr1DlnsKKcwHuil.jpg",
+                "overview": "Em 1906, em uma pequena cidade da Georgia, sul dos Estados Unidos, a quase adolescente Celie, violentada pelo pr\u00f3prio pai, torna-se m\u00e3e de duas crian\u00e7as. Separada dos filhos, Celie, \u00e9 doada \u00e0 Mister, que a trata como companheira e escrava ao mesmo tempo. Cada vez mais calada e solit\u00e1ria, Celie passa a compartilhar sua tristeza em carta.",
+                "vote_average": 7.753,
+                "vote_count": 1670
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Silverado",
+            "second_label": "Bruce Broughton",
+            "category": "Music (Original Score)",
+            "year": 1986,
+            "tmdb": {
+                "id": 11509,
+                "original_title": "Silverado",
+                "title": "Silverado",
+                "release_date": "1985-07-10",
+                "backdrop_path": "/qOPsoa0EG2aZEXysPt6PDnMBgkW.jpg",
+                "poster_path": "/k6zurzegRKsNGMICXZ57VJDUzXO.jpg",
+                "overview": "Estrelado por Kevin Kline, Scott Glenn, Danny Glover e Kevin Costner como os quatro her\u00f3is involunt\u00e1rios que t\u00eam em seu caminho a esquecida Silverado, a cidade em que seus pais vivem e que foi tomada por um xerife corrupto e por um cruel ladr\u00e3o de terras. Est\u00e1 em suas habilidades com as armas a salva\u00e7\u00e3o da cidade. Mas primeiro eles t\u00eam que tirar uns os outros da cadeia e aprender quem s\u00e3o seus verdadeiros amigos. Gra\u00e7as ao seu visual aut\u00eantico e ao elenco espetacular que ainda inclui Rosanna Arquette, John Cleese, Brian Dennehy, Jeff Goldblum e a ganhadora do Oscar, Linda Hunt (melhor atris coadjuvante em O Ano em Que Vivemos em Perigo, 1983), esta excitante aventura do Velho Oeste crua uma nova gera\u00e7\u00e3o de f\u00e3s do Western e ganha o status de 'cl\u00e1ssico moderno'.",
+                "vote_average": 7.0,
+                "vote_count": 669
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Witness",
+            "second_label": "Maurice Jarre",
+            "category": "Music (Original Score)",
+            "year": 1986,
+            "tmdb": {
+                "id": 9281,
+                "original_title": "Witness",
+                "title": "A Testemunha",
+                "release_date": "1985-02-08",
+                "backdrop_path": "/o7DFxRyxcjkuTADGjpfCLcRlfsj.jpg",
+                "poster_path": "/ejAHSqPdLoPUQWC2VNarhRbcf46.jpg",
+                "overview": "A vi\u00fava amish Rachel e seu filho Samuel pretendem viajar e, na esta\u00e7\u00e3o de trem de Filad\u00e9lfia, o menino presencia o assassinato de um policial e reconhece outro como assassino. Para proteg\u00ea-los, John Book, o policial encarregado do caso, resolve lev\u00e1-los de volta para a comunidade a que pertencem e que recusa os benef\u00edcios da vida moderna. Ao ser ferido pelos assassinos, o detetive precisa ficar na comunidade at\u00e9 se recuperar e encontra dificuldades para se adaptar ao novo estilo de vida.",
+                "vote_average": 7.1,
+                "vote_count": 1562
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Song)": [
+        {
+            "first_label": "White Nights",
+            "second_label": "Say You, Say Me in \"White Nights\" Music and Lyric by Lionel Richie",
+            "category": "Music (Original Song)",
+            "year": 1986,
+            "tmdb": {
+                "id": 16082,
+                "original_title": "White Nights",
+                "title": "O Sol da Meia-Noite",
+                "release_date": "1985-11-22",
+                "backdrop_path": "/7vPEmp4sXIBokLCAmHzLKQtJdZ2.jpg",
+                "poster_path": "/3mjASFNCpeu8hNeZc2OGEZZokMs.jpg",
+                "overview": "Nikolai Rodchenko (Mikhail Baryshnikov) \u00e9 um bailarino da Uni\u00e3o Sovi\u00e9tica exilado nos Estados Unidos que \u00e9 aprisionado pela KGB quando seu avi\u00e3o sofre uma pane e pousa em territ\u00f3rio sovi\u00e9tico. L\u00e1 tem contato com um bailarino americano, que desertou do ex\u00e9rcito na \u00e9poca da Guerra do Vietn\u00e3, foi morar em Moscou e est\u00e1 casado com uma russa.",
+                "vote_average": 6.7,
+                "vote_count": 119
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Color Purple",
+            "second_label": "Miss Celie's Blues (Sister) in \"The Color Purple\" Music by Quincy Jones and Rod Temperton; Lyric by Quincy Jones, Rod Temperton and Lionel Richie",
+            "category": "Music (Original Song)",
+            "year": 1986,
+            "tmdb": {
+                "id": 873,
+                "original_title": "The Color Purple",
+                "title": "A Cor P\u00farpura",
+                "release_date": "1985-12-18",
+                "backdrop_path": "/rhMpAPvoy1beXd8gA6CvYoCSztj.jpg",
+                "poster_path": "/xMiXnyVOIM8ZXr1DlnsKKcwHuil.jpg",
+                "overview": "Em 1906, em uma pequena cidade da Georgia, sul dos Estados Unidos, a quase adolescente Celie, violentada pelo pr\u00f3prio pai, torna-se m\u00e3e de duas crian\u00e7as. Separada dos filhos, Celie, \u00e9 doada \u00e0 Mister, que a trata como companheira e escrava ao mesmo tempo. Cada vez mais calada e solit\u00e1ria, Celie passa a compartilhar sua tristeza em carta.",
+                "vote_average": 7.753,
+                "vote_count": 1670
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Back to the Future",
+            "second_label": "The Power Of Love in \"Back to the Future\" Music by Chris Hayes and Johnny Colla; Lyric by Huey Lewis",
+            "category": "Music (Original Song)",
+            "year": 1986,
+            "tmdb": {
+                "id": 105,
+                "original_title": "Back to the Future",
+                "title": "De Volta para o Futuro",
+                "release_date": "1985-07-03",
+                "backdrop_path": "/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+                "poster_path": "/4BTW7PyEYFUFlNpuSeS9hAbpk9P.jpg",
+                "overview": "Marty McFly, um t\u00edpico adolescente americano dos anos 80, acidentalmente \u00e9 enviado de volta ao ano de 1955 em um carro modificado para ser uma m\u00e1quino do tempo, inventada por um cientista louco. Durante sua fant\u00e1stica e maluca viagem no tempo, McFly tem que fazer com que seus futuros pais se encontrem e se apaixonem, para que assim ele possa ir de volta para o futuro.",
+                "vote_average": 8.317,
+                "vote_count": 19130
+            },
+            "winner": false
+        },
+        {
+            "first_label": "White Nights",
+            "second_label": "Separate Lives (Love Theme From 'White Nights') in \"White Nights\" Music and Lyric by Stephen Bishop",
+            "category": "Music (Original Song)",
+            "year": 1986,
+            "tmdb": {
+                "id": 16082,
+                "original_title": "White Nights",
+                "title": "O Sol da Meia-Noite",
+                "release_date": "1985-11-22",
+                "backdrop_path": "/7vPEmp4sXIBokLCAmHzLKQtJdZ2.jpg",
+                "poster_path": "/3mjASFNCpeu8hNeZc2OGEZZokMs.jpg",
+                "overview": "Nikolai Rodchenko (Mikhail Baryshnikov) \u00e9 um bailarino da Uni\u00e3o Sovi\u00e9tica exilado nos Estados Unidos que \u00e9 aprisionado pela KGB quando seu avi\u00e3o sofre uma pane e pousa em territ\u00f3rio sovi\u00e9tico. L\u00e1 tem contato com um bailarino americano, que desertou do ex\u00e9rcito na \u00e9poca da Guerra do Vietn\u00e3, foi morar em Moscou e est\u00e1 casado com uma russa.",
+                "vote_average": 6.7,
+                "vote_count": 119
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Chorus Line",
+            "second_label": "Surprise, Surprise in \"A Chorus Line\" Music by Marvin Hamlisch; Lyric by Edward Kleban",
+            "category": "Music (Original Song)",
+            "year": 1986,
+            "tmdb": {
+                "id": 1816,
+                "original_title": "A Chorus Line",
+                "title": "Chorus Line: Em Busca da Fama",
+                "release_date": "1985-12-10",
+                "backdrop_path": "/AvPLYsn8SyDWFFBzBqmsohZ5p8x.jpg",
+                "poster_path": "/eCyWdrWp6uTmXq0ZeFFxzWPNByN.jpg",
+                "overview": "Um diretor de musicais da Broadway (Michael Douglas) prepara um novo espet\u00e1culo, e para isso ele realiza uma s\u00e9rie de audi\u00e7\u00f5es para escolher os atores, cantores e bailarinos que far\u00e3o parte do elenco. En\u00e9rgico e exigente, o diretor quer dos candidatos prova absoluta de seu talento e interesse pela arte, exigindo ao m\u00e1ximo dos candidatos, fazendo com que isso valorize ainda mais seu espet\u00e1culo. Mas tudo come\u00e7a a tomar um rumo diferente quando a vida pessoal de cada um dos participantes da sele\u00e7\u00e3o vem \u00e0 tona, inclusive a do pr\u00f3prio diretor quando uma ex-namorada sua \u00e9 selecionada. Agora ele enfrentar\u00e1 um dilema: paix\u00e3o ou profiss\u00e3o?",
+                "vote_average": 6.2,
+                "vote_count": 168
+            },
+            "winner": false
+        }
+    ],
+    "Best Picture": [
+        {
+            "first_label": "Out of Africa",
+            "second_label": "Sydney Pollack, Producer",
+            "category": "Best Picture",
+            "year": 1986,
+            "tmdb": {
+                "id": 606,
+                "original_title": "Out of Africa",
+                "title": "Entre Dois Amores",
+                "release_date": "1985-12-20",
+                "backdrop_path": "/oGYRCq5eBhgXuLX20czONxa0uC8.jpg",
+                "poster_path": "/9uVlbT7HSas74O792HGJm5Btnnx.jpg",
+                "overview": "Karen Blixen \u00e9 uma rica dinamarquesa que vai morar em uma fazenda de caf\u00e9 no Qu\u00eania com Bror Blixen-Finecke, um bar\u00e3o com quem se casou por conveni\u00eancia. Mas o casal vive como se fossem mais amigos do que amantes e acabam se separando e Bror vai embora. Agora Karen est\u00e1 sozinha na fazendo cuidando do trabalho, mas conhece Denys Finch Hatton, um aristocrata ingl\u00eas que se torna seu grande amor.",
+                "vote_average": 7.2,
+                "vote_count": 1309
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Color Purple",
+            "second_label": "Steven Spielberg, Kathleen Kennedy, Frank Marshall and Quincy Jones, Producers",
+            "category": "Best Picture",
+            "year": 1986,
+            "tmdb": {
+                "id": 873,
+                "original_title": "The Color Purple",
+                "title": "A Cor P\u00farpura",
+                "release_date": "1985-12-18",
+                "backdrop_path": "/rhMpAPvoy1beXd8gA6CvYoCSztj.jpg",
+                "poster_path": "/xMiXnyVOIM8ZXr1DlnsKKcwHuil.jpg",
+                "overview": "Em 1906, em uma pequena cidade da Georgia, sul dos Estados Unidos, a quase adolescente Celie, violentada pelo pr\u00f3prio pai, torna-se m\u00e3e de duas crian\u00e7as. Separada dos filhos, Celie, \u00e9 doada \u00e0 Mister, que a trata como companheira e escrava ao mesmo tempo. Cada vez mais calada e solit\u00e1ria, Celie passa a compartilhar sua tristeza em carta.",
+                "vote_average": 7.753,
+                "vote_count": 1670
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Kiss of the Spider Woman",
+            "second_label": "David Weisman, Producer",
+            "category": "Best Picture",
+            "year": 1986,
+            "tmdb": {
+                "id": 11703,
+                "original_title": "Kiss of the Spider Woman",
+                "title": "O Beijo da Mulher-Aranha",
+                "release_date": "1985-07-26",
+                "backdrop_path": "/aON9Xpl2doO6ir7KRVfw2f6x2je.jpg",
+                "poster_path": "/zrZHJzjN4Z4ElAyroobVbI6SqqD.jpg",
+                "overview": "Em uma pris\u00e3o na Am\u00e9rica do Sul, dois prisioneiros dividem a mesma cela.  Um \u00e9 homossexual e est\u00e1 preso por comportamento imoral e o outro \u00e9 um prisioneiro pol\u00edtico.  O primeiro, para fugir da triste realidade que o cerca, inventa filmes cheios de mist\u00e9rio e romance, mas o outro tenta se manter o mais politizado poss\u00edvel em rela\u00e7\u00e3o ao momento que vive.  Mas esta conviv\u00eancia faz com que os dois homens se compreendam e se respeitem.",
+                "vote_average": 7.0,
+                "vote_count": 272
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Prizzi's Honor",
+            "second_label": "John Foreman, Producer",
+            "category": "Best Picture",
+            "year": 1986,
+            "tmdb": {
+                "id": 2075,
+                "original_title": "Prizzi's Honor",
+                "title": "A Honra do Poderoso Prizzi",
+                "release_date": "1985-06-14",
+                "backdrop_path": "/qWST3wj27YRZH9yDgihKpkNC6xc.jpg",
+                "poster_path": "/nWzbhq9omMq73pG5EXUWSyTaSBk.jpg",
+                "overview": "Charley Partanna (Jack Nicholson) \u00e9 um perigoso e respeitado mafioso, que trabalha como matador para a fam\u00edlia Prizzi, a mais tradicional de Nova York. Irene Walker (Kathleen Turner) \u00e9 uma assassina de aluguel, que foi contratada para matar um homem dos pr\u00f3prios Prizzi, que possivelmente os roubou. Logo que se conhecem Charley e Irene se apaixonam, mesmo sem ele saber qual \u00e9 a profiss\u00e3o dela. Entretanto a mulher de um policial morre em um trabalho realizado por Charley, o que faz com que o relacionamento entre os policiais e as fam\u00edlias de mafiosos seja abalado. Sedentos por vingan\u00e7a, os policiais pressionam para que os mafiosos entreguem o assassino.",
+                "vote_average": 6.3,
+                "vote_count": 350
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Witness",
+            "second_label": "Edward S. Feldman, Producer",
+            "category": "Best Picture",
+            "year": 1986,
+            "tmdb": {
+                "id": 9281,
+                "original_title": "Witness",
+                "title": "A Testemunha",
+                "release_date": "1985-02-08",
+                "backdrop_path": "/o7DFxRyxcjkuTADGjpfCLcRlfsj.jpg",
+                "poster_path": "/ejAHSqPdLoPUQWC2VNarhRbcf46.jpg",
+                "overview": "A vi\u00fava amish Rachel e seu filho Samuel pretendem viajar e, na esta\u00e7\u00e3o de trem de Filad\u00e9lfia, o menino presencia o assassinato de um policial e reconhece outro como assassino. Para proteg\u00ea-los, John Book, o policial encarregado do caso, resolve lev\u00e1-los de volta para a comunidade a que pertencem e que recusa os benef\u00edcios da vida moderna. Ao ser ferido pelos assassinos, o detetive precisa ficar na comunidade at\u00e9 se recuperar e encontra dificuldades para se adaptar ao novo estilo de vida.",
+                "vote_average": 7.1,
+                "vote_count": 1562
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Animated)": [
+        {
+            "first_label": "Anna & Bella",
+            "second_label": "Cilia Van Dijk, Producer",
+            "category": "Short Film (Animated)",
+            "year": 1986,
+            "tmdb": {
+                "id": 17663,
+                "original_title": "Anne of Green Gables",
+                "title": "Os Amores de Anne",
+                "release_date": "1985-12-01",
+                "backdrop_path": "/55ZkbGyz6ls1ie217rqGpybQAOB.jpg",
+                "poster_path": "/z1owlDzKO3DQpFKNFBnuQlPF891.jpg",
+                "overview": "Na virada do s\u00e9culo na Ilha Pr\u00edncipe Edward, Matthew Cuthbert e sua irm\u00e3 Marilla decidem adotar um menino \u00f3rf\u00e3o como ajuda para sua fazenda. Mas eles tomam um susto inesperado quando, por um erro, chega uma garota: Anne Shirley. Anne \u00e9 uma sonhadora com um ponto de vista incomum, longe do jeito pragm\u00e1tico de Marilla, que acaba concordando em manter a Anne. Na TV passou em 2 epis\u00f3dios. (e Livre - Estimado Livre)",
+                "vote_average": 8.0,
+                "vote_count": 221
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Big Snit",
+            "second_label": "Richard Condie and Michael Scott, Producers",
+            "category": "Short Film (Animated)",
+            "year": 1986,
+            "tmdb": {
+                "id": 48504,
+                "original_title": "The Big Snit",
+                "title": "The Big Snit",
+                "release_date": "1985-06-01",
+                "backdrop_path": "/ue9o8VBrS5iDVozgE7rHARqY8OM.jpg",
+                "poster_path": "/xMmapj7YW0dLv5Ssm1UMCBUmLXW.jpg",
+                "overview": "A couple has a fight over a game of Scrabble unaware that a full-scale nuclear war has started.",
+                "vote_average": 7.1,
+                "vote_count": 56
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Second Class Mail",
+            "second_label": "Alison Snowden, Producer",
+            "category": "Short Film (Animated)",
+            "year": 1986,
+            "tmdb": {
+                "id": 210824,
+                "original_title": "Second Class Mail",
+                "title": "Second Class Mail",
+                "release_date": "1985-01-01",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "A lonely woman sends off for a special mail-order package.",
+                "vote_average": 5.4,
+                "vote_count": 9
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Live Action)": [
+        {
+            "first_label": "Molly's Pilgrim",
+            "second_label": "Jeff Brown and Chris Pelzer, Producers",
+            "category": "Short Film (Live Action)",
+            "year": 1986,
+            "tmdb": {
+                "id": 244664,
+                "original_title": "Molly's Pilgrim",
+                "title": "Molly's Pilgrim",
+                "release_date": "1985-01-01",
+                "backdrop_path": null,
+                "poster_path": "/nQo38l1gltHlFn1fpPMxbhPpL2m.jpg",
+                "overview": "Molly's Pilgrim is a 1985 American short film directed by Jeffrey D. Brown, based on the children's book of the same title by Barbara Cohen. It tells the story of Molly, a young Russian immigrant. When Molly's class is given a special holiday assignment, she shows her classmates the true meaning of Thanksgiving.  The film won an Oscar for Best Live Action Short Film.",
+                "vote_average": 7.2,
+                "vote_count": 4
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Graffiti",
+            "second_label": "Dianna Costello, Producer",
+            "category": "Short Film (Live Action)",
+            "year": 1986,
+            "tmdb": {
+                "id": 244669,
+                "original_title": "Graffiti",
+                "title": "Graffiti",
+                "release_date": "1985-01-01",
+                "backdrop_path": null,
+                "poster_path": "/68NRnqK0nZMP242sYi7NkDeD8Nd.jpg",
+                "overview": "Graffiti is a 1985 English language short film directed by Matthew Patrick. It follows a young man who lives in a South American military dictatorship goes out during curfew to make drawings with chalk, for thrills. The film was nominated for an Oscar for Best Live Action Short Film.",
+                "vote_average": 7.0,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rainbow War",
+            "second_label": "Bob Rogers, Producer",
+            "category": "Short Film (Live Action)",
+            "year": 1986,
+            "tmdb": {
+                "id": 213614,
+                "original_title": "Rainbow War",
+                "title": "Rainbow War",
+                "release_date": "1985-01-01",
+                "backdrop_path": null,
+                "poster_path": "/2XdmxdPUCmNVyijt6a3UFQfMdD3.jpg",
+                "overview": "Three kingdoms, floating separately in space, can each see the other nearby kingdoms but have no means to communicate or visit. Each has developed a fanatical obsession for a specific color for clothing, architecture, and even plant life: one blue, one red, one golden. A forbidden inter-kingdom romance and a war of conquest ensues when a means of travel between the kingdoms is abruptly found.  This short film was created for Expo 86, the World Fair in Vancouver in 1986.",
+                "vote_average": 6.3,
+                "vote_count": 3
+            },
+            "winner": false
+        }
+    ],
+    "Sound": [
+        {
+            "first_label": "Out of Africa",
+            "second_label": "Chris Jenkins, Gary Alexander, Larry Stensvold, Peter Handford",
+            "category": "Sound",
+            "year": 1986,
+            "tmdb": {
+                "id": 606,
+                "original_title": "Out of Africa",
+                "title": "Entre Dois Amores",
+                "release_date": "1985-12-20",
+                "backdrop_path": "/oGYRCq5eBhgXuLX20czONxa0uC8.jpg",
+                "poster_path": "/9uVlbT7HSas74O792HGJm5Btnnx.jpg",
+                "overview": "Karen Blixen \u00e9 uma rica dinamarquesa que vai morar em uma fazenda de caf\u00e9 no Qu\u00eania com Bror Blixen-Finecke, um bar\u00e3o com quem se casou por conveni\u00eancia. Mas o casal vive como se fossem mais amigos do que amantes e acabam se separando e Bror vai embora. Agora Karen est\u00e1 sozinha na fazendo cuidando do trabalho, mas conhece Denys Finch Hatton, um aristocrata ingl\u00eas que se torna seu grande amor.",
+                "vote_average": 7.2,
+                "vote_count": 1309
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Back to the Future",
+            "second_label": "Bill Varney, B. Tennyson Sebastian II, Robert Thirlwell, William B. Kaplan",
+            "category": "Sound",
+            "year": 1986,
+            "tmdb": {
+                "id": 105,
+                "original_title": "Back to the Future",
+                "title": "De Volta para o Futuro",
+                "release_date": "1985-07-03",
+                "backdrop_path": "/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+                "poster_path": "/4BTW7PyEYFUFlNpuSeS9hAbpk9P.jpg",
+                "overview": "Marty McFly, um t\u00edpico adolescente americano dos anos 80, acidentalmente \u00e9 enviado de volta ao ano de 1955 em um carro modificado para ser uma m\u00e1quino do tempo, inventada por um cientista louco. Durante sua fant\u00e1stica e maluca viagem no tempo, McFly tem que fazer com que seus futuros pais se encontrem e se apaixonem, para que assim ele possa ir de volta para o futuro.",
+                "vote_average": 8.317,
+                "vote_count": 19130
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Chorus Line",
+            "second_label": "Donald O. Mitchell, Michael Minkler, Gerry Humphreys, Chris Newman",
+            "category": "Sound",
+            "year": 1986,
+            "tmdb": {
+                "id": 1816,
+                "original_title": "A Chorus Line",
+                "title": "Chorus Line: Em Busca da Fama",
+                "release_date": "1985-12-10",
+                "backdrop_path": "/AvPLYsn8SyDWFFBzBqmsohZ5p8x.jpg",
+                "poster_path": "/eCyWdrWp6uTmXq0ZeFFxzWPNByN.jpg",
+                "overview": "Um diretor de musicais da Broadway (Michael Douglas) prepara um novo espet\u00e1culo, e para isso ele realiza uma s\u00e9rie de audi\u00e7\u00f5es para escolher os atores, cantores e bailarinos que far\u00e3o parte do elenco. En\u00e9rgico e exigente, o diretor quer dos candidatos prova absoluta de seu talento e interesse pela arte, exigindo ao m\u00e1ximo dos candidatos, fazendo com que isso valorize ainda mais seu espet\u00e1culo. Mas tudo come\u00e7a a tomar um rumo diferente quando a vida pessoal de cada um dos participantes da sele\u00e7\u00e3o vem \u00e0 tona, inclusive a do pr\u00f3prio diretor quando uma ex-namorada sua \u00e9 selecionada. Agora ele enfrentar\u00e1 um dilema: paix\u00e3o ou profiss\u00e3o?",
+                "vote_average": 6.2,
+                "vote_count": 168
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ladyhawke",
+            "second_label": "Les Fresholtz, Dick Alexander, Vern Poore, Bud Alper",
+            "category": "Sound",
+            "year": 1986,
+            "tmdb": {
+                "id": 526,
+                "original_title": "Ladyhawke",
+                "title": "O Feiti\u00e7o de \u00c1quila",
+                "release_date": "1985-03-27",
+                "backdrop_path": "/lEs8B5bmaTpC5zBgrMznoOVvweL.jpg",
+                "poster_path": "/ukD0bIefPRm12ZBPYNtWdGd0c7L.jpg",
+                "overview": "Dois amantes na Fran\u00e7a medieval s\u00e3o transformados por um feiti\u00e7o maligno onde ela \u00e9 um falc\u00e3o durante o dia, e ele  \u00e9 um lobo durante a noite. Logo eles recorrem \u00e0 ajuda de um jovem ladr\u00e3o para ajud\u00e1-los a quebrar o feiti\u00e7o.",
+                "vote_average": 7.0,
+                "vote_count": 1072
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Silverado",
+            "second_label": "Donald O. Mitchell, Rick Kline, Kevin O'Connell, David Ronne",
+            "category": "Sound",
+            "year": 1986,
+            "tmdb": {
+                "id": 11509,
+                "original_title": "Silverado",
+                "title": "Silverado",
+                "release_date": "1985-07-10",
+                "backdrop_path": "/qOPsoa0EG2aZEXysPt6PDnMBgkW.jpg",
+                "poster_path": "/k6zurzegRKsNGMICXZ57VJDUzXO.jpg",
+                "overview": "Estrelado por Kevin Kline, Scott Glenn, Danny Glover e Kevin Costner como os quatro her\u00f3is involunt\u00e1rios que t\u00eam em seu caminho a esquecida Silverado, a cidade em que seus pais vivem e que foi tomada por um xerife corrupto e por um cruel ladr\u00e3o de terras. Est\u00e1 em suas habilidades com as armas a salva\u00e7\u00e3o da cidade. Mas primeiro eles t\u00eam que tirar uns os outros da cadeia e aprender quem s\u00e3o seus verdadeiros amigos. Gra\u00e7as ao seu visual aut\u00eantico e ao elenco espetacular que ainda inclui Rosanna Arquette, John Cleese, Brian Dennehy, Jeff Goldblum e a ganhadora do Oscar, Linda Hunt (melhor atris coadjuvante em O Ano em Que Vivemos em Perigo, 1983), esta excitante aventura do Velho Oeste crua uma nova gera\u00e7\u00e3o de f\u00e3s do Western e ganha o status de 'cl\u00e1ssico moderno'.",
+                "vote_average": 7.0,
+                "vote_count": 669
+            },
+            "winner": false
+        }
+    ],
+    "Sound Effects Editing": [
+        {
+            "first_label": "Back to the Future",
+            "second_label": "Charles L. Campbell, Robert Rutledge",
+            "category": "Sound Effects Editing",
+            "year": 1986,
+            "tmdb": {
+                "id": 105,
+                "original_title": "Back to the Future",
+                "title": "De Volta para o Futuro",
+                "release_date": "1985-07-03",
+                "backdrop_path": "/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+                "poster_path": "/4BTW7PyEYFUFlNpuSeS9hAbpk9P.jpg",
+                "overview": "Marty McFly, um t\u00edpico adolescente americano dos anos 80, acidentalmente \u00e9 enviado de volta ao ano de 1955 em um carro modificado para ser uma m\u00e1quino do tempo, inventada por um cientista louco. Durante sua fant\u00e1stica e maluca viagem no tempo, McFly tem que fazer com que seus futuros pais se encontrem e se apaixonem, para que assim ele possa ir de volta para o futuro.",
+                "vote_average": 8.317,
+                "vote_count": 19130
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Ladyhawke",
+            "second_label": "Bob Henderson, Alan Murray",
+            "category": "Sound Effects Editing",
+            "year": 1986,
+            "tmdb": {
+                "id": 526,
+                "original_title": "Ladyhawke",
+                "title": "O Feiti\u00e7o de \u00c1quila",
+                "release_date": "1985-03-27",
+                "backdrop_path": "/lEs8B5bmaTpC5zBgrMznoOVvweL.jpg",
+                "poster_path": "/ukD0bIefPRm12ZBPYNtWdGd0c7L.jpg",
+                "overview": "Dois amantes na Fran\u00e7a medieval s\u00e3o transformados por um feiti\u00e7o maligno onde ela \u00e9 um falc\u00e3o durante o dia, e ele  \u00e9 um lobo durante a noite. Logo eles recorrem \u00e0 ajuda de um jovem ladr\u00e3o para ajud\u00e1-los a quebrar o feiti\u00e7o.",
+                "vote_average": 7.0,
+                "vote_count": 1072
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rambo: First Blood Part II",
+            "second_label": "Frederick J. Brown",
+            "category": "Sound Effects Editing",
+            "year": 1986,
+            "tmdb": {
+                "id": 1369,
+                "original_title": "Rambo: First Blood Part II",
+                "title": "Rambo II - A Miss\u00e3o",
+                "release_date": "1985-05-21",
+                "backdrop_path": "/xh820ngf1lauGQuFiTvzYuCe6vj.jpg",
+                "poster_path": "/442nYP16rpQ2bXduWponkvTXJRa.jpg",
+                "overview": "Rambo est\u00e1 preso em uma penitenci\u00e1ria federal quando recebe uma proposta: ser\u00e1 perdoado e reintegrado ao Ex\u00e9rcito se participar de uma miss\u00e3o no Vietn\u00e3, onde ter\u00e1 que enfrentar todo tipo de inimigos, inclusive oficiais americanos corruptos.",
+                "vote_average": 6.634,
+                "vote_count": 3681
+            },
+            "winner": false
+        }
+    ],
+    "Visual Effects": [
+        {
+            "first_label": "Cocoon",
+            "second_label": "Ken Ralston, Ralph McQuarrie, Scott Farrar, David Berry",
+            "category": "Visual Effects",
+            "year": 1986,
+            "tmdb": {
+                "id": 10328,
+                "original_title": "Cocoon",
+                "title": "Cocoon",
+                "release_date": "1985-06-21",
+                "backdrop_path": "/SOROsJCXjEkeJ9zohXi7lEC58R.jpg",
+                "poster_path": "/wqNNm36j3nkucAucHEGAW5pNZcd.jpg",
+                "overview": "Extra-terrestres vem a Terra com a miss\u00e3o de recuperar casulos com seres de outro planeta sendo que, enquanto os casulos v\u00e3o sendo recuperados, eles s\u00e3o colocados em uma piscina, energizada pelos alien\u00edgenas. Mas os extraterrenos ignoram o fato desta piscina ser utilizada por tr\u00eas idosos moradores de um asilo, que logo passam a ter uma disposi\u00e7\u00e3o fant\u00e1stica. Por\u00e9m, quando descobrem a origem da sua juventude, um dilema surge na vida deles.",
+                "vote_average": 6.6,
+                "vote_count": 1206
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Return to Oz",
+            "second_label": "Will Vinton, Ian Wingrove, Zoran Perisic, Michael Lloyd",
+            "category": "Visual Effects",
+            "year": 1986,
+            "tmdb": {
+                "id": 13155,
+                "original_title": "Return to Oz",
+                "title": "O Mundo Fant\u00e1stico de Oz",
+                "release_date": "1985-06-21",
+                "backdrop_path": "/s3s0zoW2Vsllx24mw1UW1n9OmYa.jpg",
+                "poster_path": "/bu72dwzvfXN8BaeBiV9FS0HjYpe.jpg",
+                "overview": "Dorothy, salva de um experimento psiqui\u00e1trico por uma misteriosa garota, por algum motivo estranho \u00e9 chamada de volta ao mundo de Oz. \u00c9 quando Dorothy, se depara com uma bruxa que destr\u00f3i tudo aquilo que faz de Oz, uma Terra m\u00e1gica.",
+                "vote_average": 6.7,
+                "vote_count": 971
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Young Sherlock Holmes",
+            "second_label": "Dennis Muren, Kit West, John Ellis, David Allen",
+            "category": "Visual Effects",
+            "year": 1986,
+            "tmdb": {
+                "id": 11904,
+                "original_title": "Young Sherlock Holmes",
+                "title": "O Enigma da Pir\u00e2mide",
+                "release_date": "1985-12-04",
+                "backdrop_path": "/depMebS7tRuR8ebxghxdkIlnX3s.jpg",
+                "poster_path": "/nkso2vVOKsBPpzCOOs8tjNiRpmw.jpg",
+                "overview": "Em 1870, na Londres vitoriana, pessoas s\u00e3o acometidas de alucina\u00e7\u00f5es em virtude de serem atingidas por um dardo, com as vis\u00f5es as levando \u00e0 morte. \u00c9 dentro deste contexto que Sherlock Holmes (Nicholas Rowe) e John Watson (Alan Cox) se conhecem, quando ainda s\u00e3o adolescentes e estudam em uma escola p\u00fablica inglesa, sendo que nesta mesma \u00e9poca Holmes soluciona seu primeiro caso.",
+                "vote_average": 6.7,
+                "vote_count": 584
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay Based on Material from Another Medium)": [
+        {
+            "first_label": "Out of Africa",
+            "second_label": "Kurt Luedtke",
+            "category": "Writing (Screenplay Based on Material from Another Medium)",
+            "year": 1986,
+            "tmdb": {
+                "id": 606,
+                "original_title": "Out of Africa",
+                "title": "Entre Dois Amores",
+                "release_date": "1985-12-20",
+                "backdrop_path": "/oGYRCq5eBhgXuLX20czONxa0uC8.jpg",
+                "poster_path": "/9uVlbT7HSas74O792HGJm5Btnnx.jpg",
+                "overview": "Karen Blixen \u00e9 uma rica dinamarquesa que vai morar em uma fazenda de caf\u00e9 no Qu\u00eania com Bror Blixen-Finecke, um bar\u00e3o com quem se casou por conveni\u00eancia. Mas o casal vive como se fossem mais amigos do que amantes e acabam se separando e Bror vai embora. Agora Karen est\u00e1 sozinha na fazendo cuidando do trabalho, mas conhece Denys Finch Hatton, um aristocrata ingl\u00eas que se torna seu grande amor.",
+                "vote_average": 7.2,
+                "vote_count": 1309
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Color Purple",
+            "second_label": "Menno Meyjes",
+            "category": "Writing (Screenplay Based on Material from Another Medium)",
+            "year": 1986,
+            "tmdb": {
+                "id": 873,
+                "original_title": "The Color Purple",
+                "title": "A Cor P\u00farpura",
+                "release_date": "1985-12-18",
+                "backdrop_path": "/rhMpAPvoy1beXd8gA6CvYoCSztj.jpg",
+                "poster_path": "/xMiXnyVOIM8ZXr1DlnsKKcwHuil.jpg",
+                "overview": "Em 1906, em uma pequena cidade da Georgia, sul dos Estados Unidos, a quase adolescente Celie, violentada pelo pr\u00f3prio pai, torna-se m\u00e3e de duas crian\u00e7as. Separada dos filhos, Celie, \u00e9 doada \u00e0 Mister, que a trata como companheira e escrava ao mesmo tempo. Cada vez mais calada e solit\u00e1ria, Celie passa a compartilhar sua tristeza em carta.",
+                "vote_average": 7.753,
+                "vote_count": 1670
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Kiss of the Spider Woman",
+            "second_label": "Leonard Schrader",
+            "category": "Writing (Screenplay Based on Material from Another Medium)",
+            "year": 1986,
+            "tmdb": {
+                "id": 11703,
+                "original_title": "Kiss of the Spider Woman",
+                "title": "O Beijo da Mulher-Aranha",
+                "release_date": "1985-07-26",
+                "backdrop_path": "/aON9Xpl2doO6ir7KRVfw2f6x2je.jpg",
+                "poster_path": "/zrZHJzjN4Z4ElAyroobVbI6SqqD.jpg",
+                "overview": "Em uma pris\u00e3o na Am\u00e9rica do Sul, dois prisioneiros dividem a mesma cela.  Um \u00e9 homossexual e est\u00e1 preso por comportamento imoral e o outro \u00e9 um prisioneiro pol\u00edtico.  O primeiro, para fugir da triste realidade que o cerca, inventa filmes cheios de mist\u00e9rio e romance, mas o outro tenta se manter o mais politizado poss\u00edvel em rela\u00e7\u00e3o ao momento que vive.  Mas esta conviv\u00eancia faz com que os dois homens se compreendam e se respeitem.",
+                "vote_average": 7.0,
+                "vote_count": 272
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Prizzi's Honor",
+            "second_label": "Richard Condon, Janet Roach",
+            "category": "Writing (Screenplay Based on Material from Another Medium)",
+            "year": 1986,
+            "tmdb": {
+                "id": 2075,
+                "original_title": "Prizzi's Honor",
+                "title": "A Honra do Poderoso Prizzi",
+                "release_date": "1985-06-14",
+                "backdrop_path": "/qWST3wj27YRZH9yDgihKpkNC6xc.jpg",
+                "poster_path": "/nWzbhq9omMq73pG5EXUWSyTaSBk.jpg",
+                "overview": "Charley Partanna (Jack Nicholson) \u00e9 um perigoso e respeitado mafioso, que trabalha como matador para a fam\u00edlia Prizzi, a mais tradicional de Nova York. Irene Walker (Kathleen Turner) \u00e9 uma assassina de aluguel, que foi contratada para matar um homem dos pr\u00f3prios Prizzi, que possivelmente os roubou. Logo que se conhecem Charley e Irene se apaixonam, mesmo sem ele saber qual \u00e9 a profiss\u00e3o dela. Entretanto a mulher de um policial morre em um trabalho realizado por Charley, o que faz com que o relacionamento entre os policiais e as fam\u00edlias de mafiosos seja abalado. Sedentos por vingan\u00e7a, os policiais pressionam para que os mafiosos entreguem o assassino.",
+                "vote_average": 6.3,
+                "vote_count": 350
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Trip to Bountiful",
+            "second_label": "Horton Foote",
+            "category": "Writing (Screenplay Based on Material from Another Medium)",
+            "year": 1986,
+            "tmdb": {
+                "id": 47908,
+                "original_title": "The Trip to Bountiful",
+                "title": "The Trip to Bountiful",
+                "release_date": "1985-12-20",
+                "backdrop_path": "/iqgZXnNN9Sa6ufvlGuX8MwesE8y.jpg",
+                "poster_path": "/b92ktkXFciUPZdugRT6u87FbtC6.jpg",
+                "overview": "Carrie Watts is living the twilight of her life trapped in an apartment in 1940s Houston, Texas with a controlling daughter-in-law and a hen-pecked son. Her fondest wish \u2013 just once before she dies \u2013 is to revisit Bountiful, the small Texas town of her youth which she still refers to as \"home.\"",
+                "vote_average": 7.3,
+                "vote_count": 47
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay Written Directly for the Screen)": [
+        {
+            "first_label": "Witness",
+            "second_label": "Screenplay by Earl W. Wallace, William Kelley;  Story by William Kelley, Pamela Wallace, Earl W. Wallace",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 1986,
+            "tmdb": {
+                "id": 9281,
+                "original_title": "Witness",
+                "title": "A Testemunha",
+                "release_date": "1985-02-08",
+                "backdrop_path": "/o7DFxRyxcjkuTADGjpfCLcRlfsj.jpg",
+                "poster_path": "/ejAHSqPdLoPUQWC2VNarhRbcf46.jpg",
+                "overview": "A vi\u00fava amish Rachel e seu filho Samuel pretendem viajar e, na esta\u00e7\u00e3o de trem de Filad\u00e9lfia, o menino presencia o assassinato de um policial e reconhece outro como assassino. Para proteg\u00ea-los, John Book, o policial encarregado do caso, resolve lev\u00e1-los de volta para a comunidade a que pertencem e que recusa os benef\u00edcios da vida moderna. Ao ser ferido pelos assassinos, o detetive precisa ficar na comunidade at\u00e9 se recuperar e encontra dificuldades para se adaptar ao novo estilo de vida.",
+                "vote_average": 7.1,
+                "vote_count": 1562
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Back to the Future",
+            "second_label": "Robert Zemeckis, Bob Gale",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 1986,
+            "tmdb": {
+                "id": 105,
+                "original_title": "Back to the Future",
+                "title": "De Volta para o Futuro",
+                "release_date": "1985-07-03",
+                "backdrop_path": "/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+                "poster_path": "/4BTW7PyEYFUFlNpuSeS9hAbpk9P.jpg",
+                "overview": "Marty McFly, um t\u00edpico adolescente americano dos anos 80, acidentalmente \u00e9 enviado de volta ao ano de 1955 em um carro modificado para ser uma m\u00e1quino do tempo, inventada por um cientista louco. Durante sua fant\u00e1stica e maluca viagem no tempo, McFly tem que fazer com que seus futuros pais se encontrem e se apaixonem, para que assim ele possa ir de volta para o futuro.",
+                "vote_average": 8.317,
+                "vote_count": 19130
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Brazil",
+            "second_label": "Terry Gilliam, Tom Stoppard, Charles McKeown",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 1986,
+            "tmdb": {
+                "id": 68,
+                "original_title": "Brazil",
+                "title": "Brazil: O Filme",
+                "release_date": "1985-02-20",
+                "backdrop_path": "/pbartrp1JZ6KWtfUOtzO7EmcIfn.jpg",
+                "poster_path": "/eoWSmEv790Cp6RMJWj8lYfEKthI.jpg",
+                "overview": "Sam Lowry vive num Estado totalit\u00e1rio, controlado pelos computadores e pela burocracia. Neste Estado, que lida com o terrorismo, todos s\u00e3o governados por fichas e cart\u00f5es de cr\u00e9dito e ainda precisam pagar por tudo, at\u00e9 mesmo a perman\u00eancia na pris\u00e3o. Neste mundo opressivo, Sam acaba se apaixonando por Jill, uma terrorista.",
+                "vote_average": 7.7,
+                "vote_count": 3134
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Official Story",
+            "second_label": "Luis Puenzo, Aida Bortnik",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 1986,
+            "tmdb": {
+                "id": 29263,
+                "original_title": "La historia oficial",
+                "title": "A Hist\u00f3ria Oficial",
+                "release_date": "1985-04-03",
+                "backdrop_path": "/ze3ZxG7gV09eYNZ8ixdKT3L9DgQ.jpg",
+                "poster_path": "/kkeUKaETggOrR0eW9nzPOIoZkZH.jpg",
+                "overview": "Buenos Aires, d\u00e9cada de 1980. Alicia \u00e9 uma conservadora professora de hist\u00f3ria casada com Roberto e m\u00e3e adotiva da pequena Gaby. Completamente alheia \u00e0 realidade argentina, Alicia come\u00e7a a se dar conta dos acontecimentos recentes quando reencontra Ana, uma velha amiga que acaba de voltar do ex\u00edlio. Sedenta por respostas, ela decide buscar pistas sobre a misteriosa origem de sua filha.",
+                "vote_average": 7.5,
+                "vote_count": 178
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Purple Rose of Cairo",
+            "second_label": "Woody Allen",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 1986,
+            "tmdb": {
+                "id": 10849,
+                "original_title": "The Purple Rose of Cairo",
+                "title": "A Rosa P\u00farpura do Cairo",
+                "release_date": "1985-03-01",
+                "backdrop_path": "/7lHxbtHThosMRZdp9646K4zygVh.jpg",
+                "poster_path": "/2OSZfcF1FDOk3ZttFVnipTeFrdK.jpg",
+                "overview": "Em \u00e1rea pobre de Nova Jersey, durante a Depress\u00e3o, uma gar\u00e7onete (Mia Farrow) que sustenta o marido b\u00eabado e desempregado, que s\u00f3 sabe ser violento e grosseiro, foge da sua triste realidade assistindo filmes. Mas ao ver pela quinta vez \"A Rosa P\u00farpura do Cairo\" acontece o imposs\u00edvel! Quando o her\u00f3i da fita sai da tela para declarar seu amor por ela, isto provoca um tumulto nos outros atores do filme e logo o ator que encarna o her\u00f3i viaja para l\u00e1, tentando contornar a situa\u00e7\u00e3o. Assim, ela se divide entre o ator e o personagem.",
+                "vote_average": 7.4,
+                "vote_count": 963
+            },
+            "winner": false
+        }
+    ]
+}

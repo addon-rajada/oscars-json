@@ -1,0 +1,1746 @@
+{
+    "Actor in a Leading Role": [
+        {
+            "first_label": "Dustin Hoffman",
+            "second_label": "Rain Man",
+            "category": "Actor in a Leading Role",
+            "year": 1989,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Gene Hackman",
+            "second_label": "Mississippi Burning",
+            "category": "Actor in a Leading Role",
+            "year": 1989,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tom Hanks",
+            "second_label": "Big",
+            "category": "Actor in a Leading Role",
+            "year": 1989,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Edward James Olmos",
+            "second_label": "Stand and Deliver",
+            "category": "Actor in a Leading Role",
+            "year": 1989,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Max von Sydow",
+            "second_label": "Pelle the Conqueror",
+            "category": "Actor in a Leading Role",
+            "year": 1989,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Kevin Kline",
+            "second_label": "A Fish Called Wanda",
+            "category": "Actor in a Supporting Role",
+            "year": 1989,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Alec Guinness",
+            "second_label": "Little Dorrit",
+            "category": "Actor in a Supporting Role",
+            "year": 1989,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Martin Landau",
+            "second_label": "Tucker The Man and His Dream",
+            "category": "Actor in a Supporting Role",
+            "year": 1989,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "River Phoenix",
+            "second_label": "Running on Empty",
+            "category": "Actor in a Supporting Role",
+            "year": 1989,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dean Stockwell",
+            "second_label": "Married to the Mob",
+            "category": "Actor in a Supporting Role",
+            "year": 1989,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Leading Role": [
+        {
+            "first_label": "Jodie Foster",
+            "second_label": "The Accused",
+            "category": "Actress in a Leading Role",
+            "year": 1989,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Glenn Close",
+            "second_label": "Dangerous Liaisons",
+            "category": "Actress in a Leading Role",
+            "year": 1989,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Melanie Griffith",
+            "second_label": "Working Girl",
+            "category": "Actress in a Leading Role",
+            "year": 1989,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Meryl Streep",
+            "second_label": "A Cry in the Dark",
+            "category": "Actress in a Leading Role",
+            "year": 1989,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sigourney Weaver",
+            "second_label": "Gorillas in the Mist",
+            "category": "Actress in a Leading Role",
+            "year": 1989,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Geena Davis",
+            "second_label": "The Accidental Tourist",
+            "category": "Actress in a Supporting Role",
+            "year": 1989,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Joan Cusack",
+            "second_label": "Working Girl",
+            "category": "Actress in a Supporting Role",
+            "year": 1989,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Frances McDormand",
+            "second_label": "Mississippi Burning",
+            "category": "Actress in a Supporting Role",
+            "year": 1989,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Michelle Pfeiffer",
+            "second_label": "Dangerous Liaisons",
+            "category": "Actress in a Supporting Role",
+            "year": 1989,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sigourney Weaver",
+            "second_label": "Working Girl",
+            "category": "Actress in a Supporting Role",
+            "year": 1989,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction": [
+        {
+            "first_label": "Dangerous Liaisons",
+            "second_label": "Art Direction: Stuart Craig; Set Decoration: Gerard James",
+            "category": "Art Direction",
+            "year": 1989,
+            "tmdb": {
+                "id": 859,
+                "original_title": "Dangerous Liaisons",
+                "title": "Liga\u00e7\u00f5es Perigosas",
+                "release_date": "1988-12-21",
+                "backdrop_path": "/gVw5NVGsGDhEeYUS1DeFWeLdQ16.jpg",
+                "poster_path": "/erQUeLHDC5G1rHAbA6zVED6Gacj.jpg",
+                "overview": "Fran\u00e7a, 1788. A Marquesa de Merteuil (Glenn Close) precisa de um favor do seu ex-amante, o Visconde de Valmont (John Malkovich), pois seu ex-marido est\u00e1 planejando se casar com uma jovem virgem e ela deseja que o Marqu\u00eas, que \u00e9 conhecido por sua vida devassa e suas conquistas amorosas, a seduza antes do dia do casamento. No entanto, ele tem outros planos, pois planeja conquistar uma bela mulher casada (Michelle Pfeiffer), que sempre se mostrou fiel ao marido e \u00e9 religiosa. A Marquesa exige ent\u00e3o uma prova escrita dos seus encontros amorosos e, se ele conseguir tal fa\u00e7anha, ela lhe promete como recompensa passarem uma noite juntos. Mas os jogos de sedu\u00e7\u00e3o fogem do controle e os resultados s\u00e3o bem mais tr\u00e1gicos do que se podia imaginar.",
+                "vote_average": 7.2,
+                "vote_count": 1088
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Beaches",
+            "second_label": "Art Direction: Albert Brenner; Set Decoration: Garrett Lewis",
+            "category": "Art Direction",
+            "year": 1989,
+            "tmdb": {
+                "id": 15592,
+                "original_title": "Beaches",
+                "title": "Amigas Para Sempre",
+                "release_date": "1988-12-21",
+                "backdrop_path": "/sO2pl7lp81dgEY1oUbIWk6w3d1j.jpg",
+                "poster_path": "/jFfWWZdwUCEqWCu0qLinMimJfza.jpg",
+                "overview": "Duas amigas com estruturas de vida muito diferentes compartilham altos e baixos, alegrias e tristezas ao longo de suas exist\u00eancias. A grande amizade que elas cultivam \u00e9 crucial para encarar uma trag\u00e9dia com humor, delicadeza e harmonia.",
+                "vote_average": 6.6,
+                "vote_count": 245
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rain Man",
+            "second_label": "Art Direction: Ida Random; Set Decoration: Linda DeScenna",
+            "category": "Art Direction",
+            "year": 1989,
+            "tmdb": {
+                "id": 380,
+                "original_title": "Rain Man",
+                "title": "Rain Man",
+                "release_date": "1988-12-12",
+                "backdrop_path": "/mrfbeWcjgSaZ9NEb0xJMR9xzSeB.jpg",
+                "poster_path": "/fwVbH7LKfEieydL0xfh9rzTatU0.jpg",
+                "overview": "Charlie (Tom Cruise), um jovem yuppie, fica sabendo que seu pai faleceu. Eles nunca se deram bem e n\u00e3o se viam h\u00e1 v\u00e1rios anos, mas ele vai ao enterro e, ao cuidar do testamento, descobre que herdou um Buick 1949 e algumas roseiras premiadas, enquanto um \"benefici\u00e1rio\" tinha herdado tr\u00eas milh\u00f5es de d\u00f3lares. Curioso em saber quem herdou a fortuna, ele descobre que foi seu irm\u00e3o Raymond (Dustin Hoffman), cuja exist\u00eancia ele desconhecia. Autista, Raymond \u00e9 capaz de calcular problemas matem\u00e1ticos com grande velocidade e precis\u00e3o. Charlie sequestra o irm\u00e3o da institui\u00e7\u00e3o onde ele est\u00e1 internado para lev\u00e1-lo para Los Angeles e exigir metade do dinheiro, nem que para isto tenha que ir aos tribunais. \u00c9 durante uma viagem cheia de pequenos imprevistos que os dois entender\u00e3o o significado de serem irm\u00e3os.",
+                "vote_average": 7.8,
+                "vote_count": 6067
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tucker The Man and His Dream",
+            "second_label": "Art Direction: Dean Tavoularis; Set Decoration: Armin Ganz",
+            "category": "Art Direction",
+            "year": 1989,
+            "tmdb": {
+                "id": 28176,
+                "original_title": "Tucker: The Man and His Dream",
+                "title": "Tucker, um Homem e seu Sonho",
+                "release_date": "1988-08-12",
+                "backdrop_path": "/evVZ3tKKOQ9gxwTGRQRZxh12MGB.jpg",
+                "poster_path": "/wzfbF6a783uXvfFvujxlGoToV8E.jpg",
+                "overview": "Na d\u00e9cada de 1940, um norte-americano vision\u00e1rio constr\u00f3i um carro muito avan\u00e7ado para os padr\u00f5es da \u00e9poca. O projeto amea\u00e7a o monop\u00f3lio estabelecido e, com a ajuda do governo, a Ford, a Chrisley e a GM boicotam Tucker at\u00e9 o levarem \u00e0 fal\u00eancia. Apenas 50 carros foram produzidos por sua f\u00e1brica. Longa-metragem baseada em acontecimentos reais de Francis Ford Coppola com Jeff Bridges no papel principal.",
+                "vote_average": 6.7,
+                "vote_count": 350
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Who Framed Roger Rabbit",
+            "second_label": "Art Direction: Elliot Scott; Set Decoration: Peter Howitt",
+            "category": "Art Direction",
+            "year": 1989,
+            "tmdb": {
+                "id": 856,
+                "original_title": "Who Framed Roger Rabbit",
+                "title": "Uma Cilada para Roger Rabbit",
+                "release_date": "1988-06-21",
+                "backdrop_path": "/tym6NH7ybFeldBuYYp0RSLpjZFq.jpg",
+                "poster_path": "/1sNM9NOJrdVhJUkWQkbcekoLiic.jpg",
+                "overview": "O detetive de carne e osso Eddie Valiant \u00e9 contratado para descobrir o que est\u00e1 acontecendo com o coelho Roger Rabbit e sua mulher Jessica, suspeita de infidelidade. Quando Marvin Acme \u00e9 encontrado morto, Roger \u00e9 o principal suspeito do crime no mundo real. Para piorar a situa\u00e7\u00e3o, um vil\u00e3o quer acabar de uma vez por todas com Roger, Jessica e todos os desenhos animados.",
+                "vote_average": 7.525,
+                "vote_count": 5413
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "Mississippi Burning",
+            "second_label": "Peter Biziou",
+            "category": "Cinematography",
+            "year": 1989,
+            "tmdb": {
+                "id": 1632,
+                "original_title": "Mississippi Burning",
+                "title": "Mississipi em Chamas",
+                "release_date": "1988-12-08",
+                "backdrop_path": "/c88YI18SU27Ep6mdbxrGNCiqgjP.jpg",
+                "poster_path": "/17eLRLz0VfP9cnGzpcU3wigKfnS.jpg",
+                "overview": "Quando um grupo de trabalhadores de direitos civis desaparecem em uma cidade pequena do Mississippi, os agentes do FBI Alan Ward e Rupert Anderson s\u00e3o enviados para investigar. As autoridades locais se recusam a cooperar e a comunidade afro-americana tem medo de ajudar. A situa\u00e7\u00e3o se torna cada vez mais dif\u00edcil e a abordagem direta \u00e9 abandonada a favor de uma mais agressiva.",
+                "vote_average": 7.7,
+                "vote_count": 1542
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Rain Man",
+            "second_label": "John Seale",
+            "category": "Cinematography",
+            "year": 1989,
+            "tmdb": {
+                "id": 380,
+                "original_title": "Rain Man",
+                "title": "Rain Man",
+                "release_date": "1988-12-12",
+                "backdrop_path": "/mrfbeWcjgSaZ9NEb0xJMR9xzSeB.jpg",
+                "poster_path": "/fwVbH7LKfEieydL0xfh9rzTatU0.jpg",
+                "overview": "Charlie (Tom Cruise), um jovem yuppie, fica sabendo que seu pai faleceu. Eles nunca se deram bem e n\u00e3o se viam h\u00e1 v\u00e1rios anos, mas ele vai ao enterro e, ao cuidar do testamento, descobre que herdou um Buick 1949 e algumas roseiras premiadas, enquanto um \"benefici\u00e1rio\" tinha herdado tr\u00eas milh\u00f5es de d\u00f3lares. Curioso em saber quem herdou a fortuna, ele descobre que foi seu irm\u00e3o Raymond (Dustin Hoffman), cuja exist\u00eancia ele desconhecia. Autista, Raymond \u00e9 capaz de calcular problemas matem\u00e1ticos com grande velocidade e precis\u00e3o. Charlie sequestra o irm\u00e3o da institui\u00e7\u00e3o onde ele est\u00e1 internado para lev\u00e1-lo para Los Angeles e exigir metade do dinheiro, nem que para isto tenha que ir aos tribunais. \u00c9 durante uma viagem cheia de pequenos imprevistos que os dois entender\u00e3o o significado de serem irm\u00e3os.",
+                "vote_average": 7.8,
+                "vote_count": 6067
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tequila Sunrise",
+            "second_label": "Conrad L. Hall",
+            "category": "Cinematography",
+            "year": 1989,
+            "tmdb": {
+                "id": 10396,
+                "original_title": "Tequila Sunrise",
+                "title": "Conspira\u00e7\u00e3o Tequila",
+                "release_date": "1988-12-02",
+                "backdrop_path": "/tBmy8CB4Rj4UMwEyE0UUNA7UVeA.jpg",
+                "poster_path": "/r6lrMFTlkadRIzPVsL3ZXvGOh3A.jpg",
+                "overview": "Dois velhos amigos cresceram em lados opostos da lei. Um \u00e9 ex-traficante, enquanto o outro, um conhecido policial. Os destinos dos dois voltam a se cruzar quando ambos se apaixonam pela mesma mulher, dando in\u00edcio a um perigoso tri\u00e2ngulo amoroso.",
+                "vote_average": 6.1,
+                "vote_count": 475
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Unbearable Lightness of Being",
+            "second_label": "Sven Nykvist",
+            "category": "Cinematography",
+            "year": 1989,
+            "tmdb": {
+                "id": 10644,
+                "original_title": "The Unbearable Lightness of Being",
+                "title": "A Insustent\u00e1vel Leveza do Ser",
+                "release_date": "1988-02-05",
+                "backdrop_path": "/wru4lC7aK4BYJzxAOoDI0vlfXL7.jpg",
+                "poster_path": "/vGdlSWcuvG7pUsHs3BOUpOcKPxA.jpg",
+                "overview": "Em meados dos anos 60, em Praga, Tomas conhece a inocente Tereza e os dois se apaixonam. Por\u00e9m, o m\u00e9dico tamb\u00e9m mant\u00e9m rela\u00e7\u00f5es com Sabina, uma mulher refinada. Mas a vida deste tri\u00e2ngulo amoroso ser\u00e1 afetada pelos acontecimentos deste per\u00edodo.",
+                "vote_average": 6.9,
+                "vote_count": 421
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Who Framed Roger Rabbit",
+            "second_label": "Dean Cundey",
+            "category": "Cinematography",
+            "year": 1989,
+            "tmdb": {
+                "id": 856,
+                "original_title": "Who Framed Roger Rabbit",
+                "title": "Uma Cilada para Roger Rabbit",
+                "release_date": "1988-06-21",
+                "backdrop_path": "/tym6NH7ybFeldBuYYp0RSLpjZFq.jpg",
+                "poster_path": "/1sNM9NOJrdVhJUkWQkbcekoLiic.jpg",
+                "overview": "O detetive de carne e osso Eddie Valiant \u00e9 contratado para descobrir o que est\u00e1 acontecendo com o coelho Roger Rabbit e sua mulher Jessica, suspeita de infidelidade. Quando Marvin Acme \u00e9 encontrado morto, Roger \u00e9 o principal suspeito do crime no mundo real. Para piorar a situa\u00e7\u00e3o, um vil\u00e3o quer acabar de uma vez por todas com Roger, Jessica e todos os desenhos animados.",
+                "vote_average": 7.525,
+                "vote_count": 5413
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design": [
+        {
+            "first_label": "Dangerous Liaisons",
+            "second_label": "James Acheson",
+            "category": "Costume Design",
+            "year": 1989,
+            "tmdb": {
+                "id": 859,
+                "original_title": "Dangerous Liaisons",
+                "title": "Liga\u00e7\u00f5es Perigosas",
+                "release_date": "1988-12-21",
+                "backdrop_path": "/gVw5NVGsGDhEeYUS1DeFWeLdQ16.jpg",
+                "poster_path": "/erQUeLHDC5G1rHAbA6zVED6Gacj.jpg",
+                "overview": "Fran\u00e7a, 1788. A Marquesa de Merteuil (Glenn Close) precisa de um favor do seu ex-amante, o Visconde de Valmont (John Malkovich), pois seu ex-marido est\u00e1 planejando se casar com uma jovem virgem e ela deseja que o Marqu\u00eas, que \u00e9 conhecido por sua vida devassa e suas conquistas amorosas, a seduza antes do dia do casamento. No entanto, ele tem outros planos, pois planeja conquistar uma bela mulher casada (Michelle Pfeiffer), que sempre se mostrou fiel ao marido e \u00e9 religiosa. A Marquesa exige ent\u00e3o uma prova escrita dos seus encontros amorosos e, se ele conseguir tal fa\u00e7anha, ela lhe promete como recompensa passarem uma noite juntos. Mas os jogos de sedu\u00e7\u00e3o fogem do controle e os resultados s\u00e3o bem mais tr\u00e1gicos do que se podia imaginar.",
+                "vote_average": 7.2,
+                "vote_count": 1088
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Coming to America",
+            "second_label": "Deborah Nadoolman",
+            "category": "Costume Design",
+            "year": 1989,
+            "tmdb": {
+                "id": 9602,
+                "original_title": "Coming to America",
+                "title": "Um Pr\u00edncipe em Nova York",
+                "release_date": "1988-06-29",
+                "backdrop_path": "/hP4PMoQfaofHbLDPIAXrirR7wSF.jpg",
+                "poster_path": "/i4PD8EddMJK23gQbANYdCwQeJaE.jpg",
+                "overview": "Akeem (Eddie Murphy), o pr\u00edncipe herdeiro de Zamunda, \u00c1frica, se rebela contra o casamento arranjando por seu pai, o rei Jaffe Joffer (James Earl Jones), que concorda que o filho viaje pelo mundo por 40 dias. Assim, Akeem vai para Nova York, se passando por um pobre estudante para encontrar uma noiva que o ame pelo o que ele \u00e9, n\u00e3o por sua posi\u00e7\u00e3o. Vai trabalhar em uma lanchonete e sente-se atra\u00eddo por Lisa (Shari Hadley), a filha do seu patr\u00e3o, Cleo McDowell (John Amos), que \u00e9 interesseiro e atrapalha o romance, pois quer um bom partido para a filha, sem imaginar quem \u00e9 na verdade seu funcion\u00e1rio. Akeem viajou com Semmi (Arsenio Hall), seu melhor amigo, que n\u00e3o gosta de se passar por pobre e faz gastos e toma atitudes que podem revelar a identidade de Akeem.",
+                "vote_average": 6.9,
+                "vote_count": 4127
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Handful of Dust",
+            "second_label": "Jane Robinson",
+            "category": "Costume Design",
+            "year": 1989,
+            "tmdb": {
+                "id": 46021,
+                "original_title": "A Handful of Dust",
+                "title": "Um Punhado de P\u00f3",
+                "release_date": "1988-06-24",
+                "backdrop_path": "/jV0HftIozOVbDMNYwZ1srmb2rIS.jpg",
+                "poster_path": "/1oALlJhRH0FVjyutoOXPT7RKVIZ.jpg",
+                "overview": "English aristocrat Tony Last welcomes tragedy into his life when he invites John Beaver to visit his vast estate. There Beaver makes the acquaintance of Tony's wife, Brenda. Together, they continue their relationship in a series of bedroom assignations in London. Trusting to a fault, Tony is unaware that anything is amiss until his wife suddenly asks for a divorce. With his life in turmoil, Tony goes on a haphazard journey to South America.",
+                "vote_average": 6.1,
+                "vote_count": 34
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sunset",
+            "second_label": "Patricia Norris",
+            "category": "Costume Design",
+            "year": 1989,
+            "tmdb": {
+                "id": 38560,
+                "original_title": "Sunset",
+                "title": "Assassinato em Hollywood",
+                "release_date": "1988-04-29",
+                "backdrop_path": "/3hCvw42LIde6cFnCjsW4JK4iYYH.jpg",
+                "poster_path": "/hQZtPZwcVMBNoT8hrNpOFNIPQv0.jpg",
+                "overview": "Em 1929, no ocaso do cinema mudo, o velho e legend\u00e1rio xerife Wyatt Earp (James Garner) \u00e9 chamado a Hollywood para servir de consultor t\u00e9cnico de um faroeste em que seu papel ser\u00e1 interpretado por Tom Mix (Bruce Willis). Earp e Mix tornam-se bons amigo e acabam investigando juntos o assassinato de uma prostituta do bordel local, onde as profissionais se parecem com estrelas do cinema.",
+                "vote_average": 5.7,
+                "vote_count": 79
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tucker The Man and His Dream",
+            "second_label": "Milena Canonero",
+            "category": "Costume Design",
+            "year": 1989,
+            "tmdb": {
+                "id": 28176,
+                "original_title": "Tucker: The Man and His Dream",
+                "title": "Tucker, um Homem e seu Sonho",
+                "release_date": "1988-08-12",
+                "backdrop_path": "/evVZ3tKKOQ9gxwTGRQRZxh12MGB.jpg",
+                "poster_path": "/wzfbF6a783uXvfFvujxlGoToV8E.jpg",
+                "overview": "Na d\u00e9cada de 1940, um norte-americano vision\u00e1rio constr\u00f3i um carro muito avan\u00e7ado para os padr\u00f5es da \u00e9poca. O projeto amea\u00e7a o monop\u00f3lio estabelecido e, com a ajuda do governo, a Ford, a Chrisley e a GM boicotam Tucker at\u00e9 o levarem \u00e0 fal\u00eancia. Apenas 50 carros foram produzidos por sua f\u00e1brica. Longa-metragem baseada em acontecimentos reais de Francis Ford Coppola com Jeff Bridges no papel principal.",
+                "vote_average": 6.7,
+                "vote_count": 350
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "Rain Man",
+            "second_label": "Barry Levinson",
+            "category": "Directing",
+            "year": 1989,
+            "tmdb": {
+                "id": 380,
+                "original_title": "Rain Man",
+                "title": "Rain Man",
+                "release_date": "1988-12-12",
+                "backdrop_path": "/mrfbeWcjgSaZ9NEb0xJMR9xzSeB.jpg",
+                "poster_path": "/fwVbH7LKfEieydL0xfh9rzTatU0.jpg",
+                "overview": "Charlie (Tom Cruise), um jovem yuppie, fica sabendo que seu pai faleceu. Eles nunca se deram bem e n\u00e3o se viam h\u00e1 v\u00e1rios anos, mas ele vai ao enterro e, ao cuidar do testamento, descobre que herdou um Buick 1949 e algumas roseiras premiadas, enquanto um \"benefici\u00e1rio\" tinha herdado tr\u00eas milh\u00f5es de d\u00f3lares. Curioso em saber quem herdou a fortuna, ele descobre que foi seu irm\u00e3o Raymond (Dustin Hoffman), cuja exist\u00eancia ele desconhecia. Autista, Raymond \u00e9 capaz de calcular problemas matem\u00e1ticos com grande velocidade e precis\u00e3o. Charlie sequestra o irm\u00e3o da institui\u00e7\u00e3o onde ele est\u00e1 internado para lev\u00e1-lo para Los Angeles e exigir metade do dinheiro, nem que para isto tenha que ir aos tribunais. \u00c9 durante uma viagem cheia de pequenos imprevistos que os dois entender\u00e3o o significado de serem irm\u00e3os.",
+                "vote_average": 7.8,
+                "vote_count": 6067
+            },
+            "winner": true
+        },
+        {
+            "first_label": "A Fish Called Wanda",
+            "second_label": "Charles Crichton",
+            "category": "Directing",
+            "year": 1989,
+            "tmdb": {
+                "id": 623,
+                "original_title": "A Fish Called Wanda",
+                "title": "Um Peixe Chamado Wanda",
+                "release_date": "1988-07-15",
+                "backdrop_path": "/y8HaV1Ntr6nHmKxZ29B7DwxwvNU.jpg",
+                "poster_path": "/qHoIjKdJzlbvUwk4G55AtIem2rG.jpg",
+                "overview": "Com o intuito de seduzir Archie para descobrir o esconderijo das j\u00f3ias roubadas por um de seus clientes, Wanda est\u00e1 pronta para agir! Infelizmente para ambos, o namorado e parceiro da mo\u00e7a (Kline) tamb\u00e9m est\u00e1 pronto para agir, mas contra Archie! Quem ficar\u00e1 com as j\u00f3ias? Quem ficar\u00e1 com Wanda? Fica aqui o suspense, mas uma coisa \u00e9 certa: \"Um Peixe Chamado Wanda\" \u00e9 um filme que com certeza vai fisgar voc\u00ea!",
+                "vote_average": 7.2,
+                "vote_count": 2058
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Last Temptation of Christ",
+            "second_label": "Martin Scorsese",
+            "category": "Directing",
+            "year": 1989,
+            "tmdb": {
+                "id": 11051,
+                "original_title": "The Last Temptation of Christ",
+                "title": "A \u00daltima Tenta\u00e7\u00e3o de Cristo",
+                "release_date": "1988-05-28",
+                "backdrop_path": "/r76RjsexxdOM5GAhTRo7FRxdm3c.jpg",
+                "poster_path": "/zAyCulPkOHA4AB4d4dK3XzUVwjt.jpg",
+                "overview": "Baseado no romance de Nikos Kazantzakis, o filme traz Jesus Cristo como um homem comum, encarnado num Messias contradit\u00f3rio, fr\u00e1gil e perturbado, que se autoproclama filho de Deus. Suas prega\u00e7\u00f5es na Judeia, ent\u00e3o col\u00f4nia romana, chocam e incomodam o governo, que decide se livrar dele. Na cruz, ele imagina como seria sua vida se, ao inv\u00e9s de assumir o peso da salva\u00e7\u00e3o dos homens, tivesse levado uma vida comum com esposa e filhos.",
+                "vote_average": 7.2,
+                "vote_count": 986
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mississippi Burning",
+            "second_label": "Alan Parker",
+            "category": "Directing",
+            "year": 1989,
+            "tmdb": {
+                "id": 1632,
+                "original_title": "Mississippi Burning",
+                "title": "Mississipi em Chamas",
+                "release_date": "1988-12-08",
+                "backdrop_path": "/c88YI18SU27Ep6mdbxrGNCiqgjP.jpg",
+                "poster_path": "/17eLRLz0VfP9cnGzpcU3wigKfnS.jpg",
+                "overview": "Quando um grupo de trabalhadores de direitos civis desaparecem em uma cidade pequena do Mississippi, os agentes do FBI Alan Ward e Rupert Anderson s\u00e3o enviados para investigar. As autoridades locais se recusam a cooperar e a comunidade afro-americana tem medo de ajudar. A situa\u00e7\u00e3o se torna cada vez mais dif\u00edcil e a abordagem direta \u00e9 abandonada a favor de uma mais agressiva.",
+                "vote_average": 7.7,
+                "vote_count": 1542
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Working Girl",
+            "second_label": "Mike Nichols",
+            "category": "Directing",
+            "year": 1989,
+            "tmdb": {
+                "id": 3525,
+                "original_title": "Working Girl",
+                "title": "Uma Secret\u00e1ria de Futuro",
+                "release_date": "1988-12-20",
+                "backdrop_path": "/aZavQPlgklqipFd1GtOqAAECej3.jpg",
+                "poster_path": "/yW4Kk9ilrIdKCmHVRHr2ohSB4LV.jpg",
+                "overview": "Tess McGill tem tudo para subir na vida. Charme, beleza e ambi\u00e7\u00e3o. Menos as roupas certas, o penteado certo, a atitude certa e o mais importante: o emprego certo. Mas ela n\u00e3o desiste facilmente. Mesmo que tenha que fazer o jogo do sistema e da sedu\u00e7\u00e3o. Aliada ao belo Jack Trainer, essa simples secret\u00e1ria vai provar que vale tudo para se chegar ao topo.",
+                "vote_average": 6.6,
+                "vote_count": 885
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "Hotel Terminus: The Life and Times of Klaus Barbie",
+            "second_label": "Marcel Ophuls, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1989,
+            "tmdb": {
+                "id": 41954,
+                "original_title": "H\u00f4tel Terminus: The Life and Times of Klaus Barbie",
+                "title": "Hotel Terminus",
+                "release_date": "1988-11-01",
+                "backdrop_path": "/suxg30jaOoTLHQlvaz5ulUcxJQd.jpg",
+                "poster_path": "/gyU6I5h7K4M59QxFLCPJTMSzkDC.jpg",
+                "overview": "H\u00f4tel Terminus \u00e9 um document\u00e1rio realizado em 1988 dirigido por Marcel Oph\u00fcls. Com 267 minutos de dura\u00e7\u00e3o, apresenta a vida completa do crimonoso de guerra nazista Klaus Barbie, agente da Gestapo em Lyon.",
+                "vote_average": 7.2,
+                "vote_count": 29
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Cry of Reason - Beyers Naud: An Afrikaner Speaks Out",
+            "second_label": "Robert Bilheimer and Ronald Mix, Producers",
+            "category": "Documentary (Feature)",
+            "year": 1989,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Let's Get Lost",
+            "second_label": "Bruce Weber and Nan Bush, Producers",
+            "category": "Documentary (Feature)",
+            "year": 1989,
+            "tmdb": {
+                "id": 37640,
+                "original_title": "Let's Get Lost",
+                "title": "Let's Get Lost",
+                "release_date": "1988-09-15",
+                "backdrop_path": "/3teaaPxXzmZnrgg9XJX9qdEYnAg.jpg",
+                "poster_path": "/qX7zfhMIP3LC92IWk3ioYz3ViJA.jpg",
+                "overview": "Documentary about jazz great Chet Baker that intercuts footage from the 1950s, when he was part of West Coast Cool, and from his last years. We see the young Baker, he of the beautiful face, in California and in Italy, where he appeared in at least one movie and at least one jail cell (for drug possession). And, we see the aged Baker, detached, indifferent, his face a ruin. Includes interviews with his children and ex-wife, women companions, and musicians.",
+                "vote_average": 7.0,
+                "vote_count": 36
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Promises to Keep",
+            "second_label": "Ginny Durrin, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1989,
+            "tmdb": {
+                "id": 149392,
+                "original_title": "Promises to Keep",
+                "title": "Promises to Keep",
+                "release_date": "1988-01-01",
+                "backdrop_path": null,
+                "poster_path": "/b0acZUfFsQYX5eO88beo03HXhmq.jpg",
+                "overview": "Promises to Keep follows agitator Snyder and the Community for Creative Non-Violence by showing film-fragments, news-bulletin images from records, and newspaper headlines about the fight to force the government to live up to their promise to provide the homeless of Washington D.C. with proper shelter.",
+                "vote_average": 6.0,
+                "vote_count": 2
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Who Killed Vincent Chin?",
+            "second_label": "Renee Tajima and Christine Choy, Producers",
+            "category": "Documentary (Feature)",
+            "year": 1989,
+            "tmdb": {
+                "id": 123398,
+                "original_title": "Who Killed Vincent Chin?",
+                "title": "Who Killed Vincent Chin?",
+                "release_date": "1987-03-11",
+                "backdrop_path": "/gO9FMcemVlZDDdnc3oUOU39LiwV.jpg",
+                "poster_path": "/tZcnNgeHoBti6EAe4HEEgwTw5Kd.jpg",
+                "overview": "This film recounts the murder of Vincent Chin, an automotive engineer mistaken as Japanese who was slain by an assembly line worker who blamed him for the competition by the Japanese auto makers that were threatening his job. It then recounts how that murderer escaped justice in the court system.  Restored by the Academy Film Archive and The Film Foundation, in association with the Museum of Chinese in America. Restoration funding provided by the Hobson/Lucas Family Foundation, with additional support provided by Todd Phillips.",
+                "vote_average": 5.0,
+                "vote_count": 3
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "You Don't Have to Die",
+            "second_label": "William Guttentag and Malcolm Clarke, Producers",
+            "category": "Documentary (Short Subject)",
+            "year": 1989,
+            "tmdb": {
+                "id": 244701,
+                "original_title": "You Don't Have to Die",
+                "title": "You Don't Have to Die",
+                "release_date": "1988-01-01",
+                "backdrop_path": null,
+                "poster_path": "/fmfA1CGGYzV3CbyjFAePXtA3Cjn.jpg",
+                "overview": "A young boy's successful battle against cancer and his subsequent efforts to help other children overcome their fears of the illness.",
+                "vote_average": 6.6,
+                "vote_count": 5
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Children's Storefront",
+            "second_label": "Karen Goodman, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1989,
+            "tmdb": {
+                "id": 244703,
+                "original_title": "The Children's Storefront",
+                "title": "The Children's Storefront",
+                "release_date": "1988-01-01",
+                "backdrop_path": null,
+                "poster_path": "/jpgi97Oxuuh65rL3JRbNnng7mI8.jpg",
+                "overview": "The story about The Children's Storefront School, an independent tuition-free school in Harlem, set up in 1966 to help kids from poor neighborhoods get better education and support.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Family Gathering",
+            "second_label": "Lise Yasui and Ann Tegnell, Producers",
+            "category": "Documentary (Short Subject)",
+            "year": 1989,
+            "tmdb": {
+                "id": 244702,
+                "original_title": "A Family Gathering",
+                "title": "A Family Gathering",
+                "release_date": "1988-03-05",
+                "backdrop_path": null,
+                "poster_path": "/kJiPFGTWs7cgb5vphojIrXS6ODG.jpg",
+                "overview": "Silence - the stuff of assumptions and confusion - is a legacy inherited by many grandchildren of Japanese Americans interned during WWII. Shortly after Japan attacked Pearl Harbor, Masuo Yasui, a respected figure of Hood River Valley, Oregon was arrested by the FBI as a \"potentially dangerous enemy alien.\" In A FAMILY GATHERING, Lise Yasui, a granddaughter that Masuo never knew, shows that courageous journeys into the past can bring greater understanding of family and personal history to the present.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gang Cops",
+            "second_label": "Thomas B. Fleming and Daniel J. Marks, Producers",
+            "category": "Documentary (Short Subject)",
+            "year": 1989,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Portrait of Imogen",
+            "second_label": "Nancy Hale and Meg Partridge, Producers",
+            "category": "Documentary (Short Subject)",
+            "year": 1989,
+            "tmdb": {
+                "id": 244706,
+                "original_title": "Portrait of Imogen",
+                "title": "Portrait of Imogen",
+                "release_date": "1988-01-01",
+                "backdrop_path": null,
+                "poster_path": "/qMimrv52bgZ1Lsu3bQ16Es7TxEC.jpg",
+                "overview": "Photographer Imogen Cunningham presents her own work in this Academy Award-nominated documentary.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "Who Framed Roger Rabbit",
+            "second_label": "Arthur Schmidt",
+            "category": "Film Editing",
+            "year": 1989,
+            "tmdb": {
+                "id": 856,
+                "original_title": "Who Framed Roger Rabbit",
+                "title": "Uma Cilada para Roger Rabbit",
+                "release_date": "1988-06-21",
+                "backdrop_path": "/tym6NH7ybFeldBuYYp0RSLpjZFq.jpg",
+                "poster_path": "/1sNM9NOJrdVhJUkWQkbcekoLiic.jpg",
+                "overview": "O detetive de carne e osso Eddie Valiant \u00e9 contratado para descobrir o que est\u00e1 acontecendo com o coelho Roger Rabbit e sua mulher Jessica, suspeita de infidelidade. Quando Marvin Acme \u00e9 encontrado morto, Roger \u00e9 o principal suspeito do crime no mundo real. Para piorar a situa\u00e7\u00e3o, um vil\u00e3o quer acabar de uma vez por todas com Roger, Jessica e todos os desenhos animados.",
+                "vote_average": 7.525,
+                "vote_count": 5413
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Die Hard",
+            "second_label": "Frank J. Urioste, John F. Link",
+            "category": "Film Editing",
+            "year": 1989,
+            "tmdb": {
+                "id": 562,
+                "original_title": "Die Hard",
+                "title": "Duro de Matar",
+                "release_date": "1988-07-15",
+                "backdrop_path": "/oIwfoUFfWfESn0Y8u8jv9lc8li1.jpg",
+                "poster_path": "/en0r76LdougNDBimL1tLzpTvTau.jpg",
+                "overview": "O policial de Nova York John McClane est\u00e1 visitando sua fam\u00edlia no Natal. Ele participa de uma confraterniza\u00e7\u00e3o de fim de ano na sede da empresa japonesa em que a esposa trabalha. A festa \u00e9 interrompida por terroristas que invadem o edif\u00edcio de luxo. McClane n\u00e3o demora a perceber que n\u00e3o h\u00e1 ningu\u00e9m para salv\u00e1-los, a n\u00e3o ser ele pr\u00f3prio.",
+                "vote_average": 7.784,
+                "vote_count": 10662
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gorillas in the Mist",
+            "second_label": "Stuart Baird",
+            "category": "Film Editing",
+            "year": 1989,
+            "tmdb": {
+                "id": 10130,
+                "original_title": "Gorillas in the Mist",
+                "title": "Nas Montanhas dos Gorilas",
+                "release_date": "1988-09-23",
+                "backdrop_path": "/cQjRdmEEQya0EXkOWCAPq0dfbjz.jpg",
+                "poster_path": "/sI8482E2F3LvHTKw3GEYxkqPFIb.jpg",
+                "overview": "A luta da antrop\u00f3loga americana Dian Fossey, que em 1967 viajou para Ruanda, na \u00c1frica, e durante toda a vida se dedicou \u00e0 preserva\u00e7\u00e3o dos gorilas da montanha, amea\u00e7ados de extin\u00e7\u00e3o em raz\u00e3o da ca\u00e7a indiscriminada. Dian utilizou todos os meios poss\u00edveis para proteg\u00ea-los e esta luta se tornou uma paix\u00e3o t\u00e3o obssessiva que nem mesmo Bob Campbell, seu namorado fot\u00f3grafo, consegue demov\u00ea-la do seu objetivo. Dian faz tudo que \u00e9 poss\u00edvel para impedir que atrocidades contra os animais sejam cometidas.",
+                "vote_average": 7.0,
+                "vote_count": 543
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mississippi Burning",
+            "second_label": "Gerry Hambling",
+            "category": "Film Editing",
+            "year": 1989,
+            "tmdb": {
+                "id": 1632,
+                "original_title": "Mississippi Burning",
+                "title": "Mississipi em Chamas",
+                "release_date": "1988-12-08",
+                "backdrop_path": "/c88YI18SU27Ep6mdbxrGNCiqgjP.jpg",
+                "poster_path": "/17eLRLz0VfP9cnGzpcU3wigKfnS.jpg",
+                "overview": "Quando um grupo de trabalhadores de direitos civis desaparecem em uma cidade pequena do Mississippi, os agentes do FBI Alan Ward e Rupert Anderson s\u00e3o enviados para investigar. As autoridades locais se recusam a cooperar e a comunidade afro-americana tem medo de ajudar. A situa\u00e7\u00e3o se torna cada vez mais dif\u00edcil e a abordagem direta \u00e9 abandonada a favor de uma mais agressiva.",
+                "vote_average": 7.7,
+                "vote_count": 1542
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rain Man",
+            "second_label": "Stu Linder",
+            "category": "Film Editing",
+            "year": 1989,
+            "tmdb": {
+                "id": 380,
+                "original_title": "Rain Man",
+                "title": "Rain Man",
+                "release_date": "1988-12-12",
+                "backdrop_path": "/mrfbeWcjgSaZ9NEb0xJMR9xzSeB.jpg",
+                "poster_path": "/fwVbH7LKfEieydL0xfh9rzTatU0.jpg",
+                "overview": "Charlie (Tom Cruise), um jovem yuppie, fica sabendo que seu pai faleceu. Eles nunca se deram bem e n\u00e3o se viam h\u00e1 v\u00e1rios anos, mas ele vai ao enterro e, ao cuidar do testamento, descobre que herdou um Buick 1949 e algumas roseiras premiadas, enquanto um \"benefici\u00e1rio\" tinha herdado tr\u00eas milh\u00f5es de d\u00f3lares. Curioso em saber quem herdou a fortuna, ele descobre que foi seu irm\u00e3o Raymond (Dustin Hoffman), cuja exist\u00eancia ele desconhecia. Autista, Raymond \u00e9 capaz de calcular problemas matem\u00e1ticos com grande velocidade e precis\u00e3o. Charlie sequestra o irm\u00e3o da institui\u00e7\u00e3o onde ele est\u00e1 internado para lev\u00e1-lo para Los Angeles e exigir metade do dinheiro, nem que para isto tenha que ir aos tribunais. \u00c9 durante uma viagem cheia de pequenos imprevistos que os dois entender\u00e3o o significado de serem irm\u00e3os.",
+                "vote_average": 7.8,
+                "vote_count": 6067
+            },
+            "winner": false
+        }
+    ],
+    "Foreign Language Film": [
+        {
+            "first_label": "Pelle the Conqueror",
+            "second_label": "Denmark",
+            "category": "Foreign Language Film",
+            "year": 1989,
+            "tmdb": {
+                "id": 11174,
+                "original_title": "Pelle Erobreren",
+                "title": "Pelle o Conquistador",
+                "release_date": "1987-12-21",
+                "backdrop_path": "/dXUiiryxCk1QqvS9F4MhIAPjpF3.jpg",
+                "poster_path": "/oSsu4khg459yTR1sw4qjEC4LO5J.jpg",
+                "overview": "No final do s\u00e9culo XIX, dois emigrantes suecos, Lasse Karlsson e seu filho Pelle, chegam \u00e0 ilha dinamarquesa de Bornholm na esperan\u00e7a de encontrar trabalho em uma fazenda e poupar dinheiro suficiente para viajar para os Estados Unidos da Am\u00e9rica.",
+                "vote_average": 7.3,
+                "vote_count": 138
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Hanussen",
+            "second_label": "Hungary",
+            "category": "Foreign Language Film",
+            "year": 1989,
+            "tmdb": {
+                "id": 29932,
+                "original_title": "Hanussen",
+                "title": "Hanussen",
+                "release_date": "1988-05-20",
+                "backdrop_path": "/ccCKqQjaBttiTNq9gShVV0rFmcF.jpg",
+                "poster_path": "/AdehGdaBe86j9PRScCeyae1K0qB.jpg",
+                "overview": "A man's story parallels Hitler's rise. Austrian Klaus Schneider, wounded in World War I, recovers in the care of Dr. Emil Bettleheim. Bettleheim discovers that Schneider possesses powers of empathy and of clairvoyance, such that could aid suicidal patients. After the war, with one friend as his manager and another as his lover, Schneider changes his name to Eric Jan Hanussen and goes to Berlin, as a hypnotist and clairvoyant performing in halls and theaters. He always speaks the truth, which brings him to the attention of powerful Nazis. He predicts their rise (good propaganda for them) and their violence (not so good). He's in pain and at risk. What is Hanussen's future?",
+                "vote_average": 6.1,
+                "vote_count": 18
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Music Teacher",
+            "second_label": "Belgium",
+            "category": "Foreign Language Film",
+            "year": 1989,
+            "tmdb": {
+                "id": 58558,
+                "original_title": "Le ma\u00eetre de musique",
+                "title": "The Music Teacher",
+                "release_date": "1988-08-01",
+                "backdrop_path": "/uh1FO1FvPDr9j1Crq449usu76ty.jpg",
+                "poster_path": "/4vFoVER0dbfcgmVqnowV8JPbDsa.jpg",
+                "overview": "Aging opera singer Joachim Dallayrac retires from the stage and retreats to the countryside to school two young singers, Sophie and Jean. Although the rigorous training takes its toll on both teacher and students, there is plenty of time for relationships to develop between the three. Based on their teacher's reputation, Sophie and Jean are invited to participate in a singing contest staged by Prince Scotti. Scotti's protege is set up to get revenge for Scotti's defeat at the hands of Dallayrac in a similar competition many years ago. The young students overcome Scotti's trickery to win the competition. Written by Kevin Kraynak",
+                "vote_average": 6.9,
+                "vote_count": 22
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Salaam Bombay!",
+            "second_label": "India",
+            "category": "Foreign Language Film",
+            "year": 1989,
+            "tmdb": {
+                "id": 45129,
+                "original_title": "Salaam Bombay!",
+                "title": "Salaam Bombay!",
+                "release_date": "1988-08-24",
+                "backdrop_path": "/9wR8tVP9Ln8sYCfk3UULe0hZQH5.jpg",
+                "poster_path": "/eECutr4lseF2dDI7Okfq0CYAhWZ.jpg",
+                "overview": "O longa conta a hist\u00f3ria de um grupo de crian\u00e7as de rua tentando sobreviver nas ruas de Mumbai, em meio a bicos e problemas com a pol\u00edcia. O principal deles \u00e9 o menino Krishna, que foi abandonado por sua m\u00e3e no no circo Apollo, s\u00f3 podendo voltar para casa quando conseguir juntar 500 r\u00fapias, para pagar a bicicleta quebrada do irm\u00e3o. Ao lado de traficantes e prostituas nas ruas de Mumbai, ele tenta de tudo para conseguir o dinheiro e poder voltar para casa.",
+                "vote_average": 7.3,
+                "vote_count": 88
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Women on the Verge of a Nervous Breakdown",
+            "second_label": "Spain",
+            "category": "Foreign Language Film",
+            "year": 1989,
+            "tmdb": {
+                "id": 4203,
+                "original_title": "Mujeres al borde de un ataque de nervios",
+                "title": "Mulheres \u00e0 Beira de um Ataque de Nervos",
+                "release_date": "1988-03-25",
+                "backdrop_path": "/mR96bAZpoyaez87HWGgZqH4A8VQ.jpg",
+                "poster_path": "/2Z7yw7dvMnxiJMazaDg5IcHuQ0m.jpg",
+                "overview": "Iv\u00e1n terminou com a namorada Pepa, uma atriz de novela, mas ela precisa encontr\u00e1-lo para dizer algo importante. Sua vida logo \u00e9 invadida por uma s\u00e9rie de distra\u00e7\u00f5es: sua amiga Candela pode ter se envolvido numa conspira\u00e7\u00e3o terrorista, e o filho de Iv\u00e1n acaba visitando o apartamento de Pepa.",
+                "vote_average": 7.416,
+                "vote_count": 838
+            },
+            "winner": false
+        }
+    ],
+    "Makeup": [
+        {
+            "first_label": "Beetlejuice",
+            "second_label": "Ve Neill, Steve La Porte, Robert Short",
+            "category": "Makeup",
+            "year": 1989,
+            "tmdb": {
+                "id": 4011,
+                "original_title": "Beetlejuice",
+                "title": "Os Fantasmas se Divertem",
+                "release_date": "1988-03-30",
+                "backdrop_path": "/sIzZQdXY21sEks9lGkGuXzqdGSA.jpg",
+                "poster_path": "/mLSJNejuGDegsMDiWWwIP7VDiyz.jpg",
+                "overview": "O casar\u00e3o de uma dupla de fantasmas super atrapalhados foi invadido por novaiorquinos sofisticados. Para espant\u00e1-los, eles contratam um profissional: um fantasma especialista em assustar humanos, que vai tentar de tudo - adotar formas estranhas, armar ciladas e engra\u00e7ad\u00edssimas armadilhas.",
+                "vote_average": 7.38,
+                "vote_count": 6396
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Coming to America",
+            "second_label": "Rick Baker",
+            "category": "Makeup",
+            "year": 1989,
+            "tmdb": {
+                "id": 9602,
+                "original_title": "Coming to America",
+                "title": "Um Pr\u00edncipe em Nova York",
+                "release_date": "1988-06-29",
+                "backdrop_path": "/hP4PMoQfaofHbLDPIAXrirR7wSF.jpg",
+                "poster_path": "/i4PD8EddMJK23gQbANYdCwQeJaE.jpg",
+                "overview": "Akeem (Eddie Murphy), o pr\u00edncipe herdeiro de Zamunda, \u00c1frica, se rebela contra o casamento arranjando por seu pai, o rei Jaffe Joffer (James Earl Jones), que concorda que o filho viaje pelo mundo por 40 dias. Assim, Akeem vai para Nova York, se passando por um pobre estudante para encontrar uma noiva que o ame pelo o que ele \u00e9, n\u00e3o por sua posi\u00e7\u00e3o. Vai trabalhar em uma lanchonete e sente-se atra\u00eddo por Lisa (Shari Hadley), a filha do seu patr\u00e3o, Cleo McDowell (John Amos), que \u00e9 interesseiro e atrapalha o romance, pois quer um bom partido para a filha, sem imaginar quem \u00e9 na verdade seu funcion\u00e1rio. Akeem viajou com Semmi (Arsenio Hall), seu melhor amigo, que n\u00e3o gosta de se passar por pobre e faz gastos e toma atitudes que podem revelar a identidade de Akeem.",
+                "vote_average": 6.9,
+                "vote_count": 4127
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Scrooged",
+            "second_label": "Tom Burman, Bari Dreiband-Burman",
+            "category": "Makeup",
+            "year": 1989,
+            "tmdb": {
+                "id": 9647,
+                "original_title": "Scrooged",
+                "title": "Os Fantasmas Contra-Atacam",
+                "release_date": "1988-11-22",
+                "backdrop_path": "/e1F28DgGBc7pRarStqqEAlPUXZG.jpg",
+                "poster_path": "/pbFQ2Dyw1OgxYQ3A4zK9azIk37P.jpg",
+                "overview": "Frank Cross (Bill Murray) \u00e9 um diretor de uma rede de televis\u00e3o que \u00e9 frio e s\u00f3 pensa na audi\u00eancia. Ele se encontra com Lew Hayward (John Forsythe), um falecido amigo, que o avisa sobre tr\u00eas fantasmas (o do Natal Passado, o do Presente e do Futuro) que ir\u00e3o visit\u00e1-lo e diz para ele estar atento a tudo que eles mostrarem, pois esta \u00e9 a \u00fanica oportunidade de Frank se salvar.",
+                "vote_average": 6.8,
+                "vote_count": 1428
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Score)": [
+        {
+            "first_label": "The Milagro Beanfield War",
+            "second_label": "Dave Grusin",
+            "category": "Music (Original Score)",
+            "year": 1989,
+            "tmdb": {
+                "id": 13482,
+                "original_title": "The Milagro Beanfield War",
+                "title": "Rebeli\u00e3o em Milagro",
+                "release_date": "1988-03-18",
+                "backdrop_path": "/fc749aCZmIdcq46cFULDfiCmcly.jpg",
+                "poster_path": "/rVLZuiNfKua7C2x3rGUiAR8wGEc.jpg",
+                "overview": "Na pequena cidade de Milagro, Novo M\u00e9xico, onde a \u00e1gua local \u00e9 um recurso escasso, o obscuro desenvolvedor Ladd Devine planejou construir um resort que acabar\u00e1 por sugar toda a \u00e1gua dos campos vizinhos. Quando o fazendeiro e agricultor Joe Mondragon acidentalmente quebra uma v\u00e1lvula de \u00e1gua reservada para grandes empresas, ele inadvertidamente desencadeia uma guerra de direitos da \u00e1gua em pequena escala entre os agricultores e os desenvolvedores. (e 12 - Estimado 12 Anos)",
+                "vote_average": 6.4,
+                "vote_count": 78
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Accidental Tourist",
+            "second_label": "John Williams",
+            "category": "Music (Original Score)",
+            "year": 1989,
+            "tmdb": {
+                "id": 31052,
+                "original_title": "The Accidental Tourist",
+                "title": "O Turista Acidental",
+                "release_date": "1988-12-23",
+                "backdrop_path": "/ucEgYBXB1N7iP7Zx8YEHXFVwOnd.jpg",
+                "poster_path": "/o4M9aoCC8UwnaPFz9xEgqvkLpkg.jpg",
+                "overview": "Onde encontrar seu restaurante de fast-food favorito em Paris? Quantos pacotes de sab\u00e3o em p\u00f3 s\u00e3o necess\u00e1rios em uma viagem para Atlanta? Pergunte a Macon Leary, cujos guias de viagem s\u00e3o reverenciados pelos amantes de viagem caseiros, que odeiam estar em tr\u00e2nsito. Sobre as quest\u00f5es do cora\u00e7\u00e3o, n\u00e3o pergunte a Macon. Ele n\u00e3o tem a menor no\u00e7\u00e3o. Pelo menos, n\u00e3o ainda.",
+                "vote_average": 6.2,
+                "vote_count": 216
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dangerous Liaisons",
+            "second_label": "George Fenton",
+            "category": "Music (Original Score)",
+            "year": 1989,
+            "tmdb": {
+                "id": 859,
+                "original_title": "Dangerous Liaisons",
+                "title": "Liga\u00e7\u00f5es Perigosas",
+                "release_date": "1988-12-21",
+                "backdrop_path": "/gVw5NVGsGDhEeYUS1DeFWeLdQ16.jpg",
+                "poster_path": "/erQUeLHDC5G1rHAbA6zVED6Gacj.jpg",
+                "overview": "Fran\u00e7a, 1788. A Marquesa de Merteuil (Glenn Close) precisa de um favor do seu ex-amante, o Visconde de Valmont (John Malkovich), pois seu ex-marido est\u00e1 planejando se casar com uma jovem virgem e ela deseja que o Marqu\u00eas, que \u00e9 conhecido por sua vida devassa e suas conquistas amorosas, a seduza antes do dia do casamento. No entanto, ele tem outros planos, pois planeja conquistar uma bela mulher casada (Michelle Pfeiffer), que sempre se mostrou fiel ao marido e \u00e9 religiosa. A Marquesa exige ent\u00e3o uma prova escrita dos seus encontros amorosos e, se ele conseguir tal fa\u00e7anha, ela lhe promete como recompensa passarem uma noite juntos. Mas os jogos de sedu\u00e7\u00e3o fogem do controle e os resultados s\u00e3o bem mais tr\u00e1gicos do que se podia imaginar.",
+                "vote_average": 7.2,
+                "vote_count": 1088
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gorillas in the Mist",
+            "second_label": "Maurice Jarre",
+            "category": "Music (Original Score)",
+            "year": 1989,
+            "tmdb": {
+                "id": 10130,
+                "original_title": "Gorillas in the Mist",
+                "title": "Nas Montanhas dos Gorilas",
+                "release_date": "1988-09-23",
+                "backdrop_path": "/cQjRdmEEQya0EXkOWCAPq0dfbjz.jpg",
+                "poster_path": "/sI8482E2F3LvHTKw3GEYxkqPFIb.jpg",
+                "overview": "A luta da antrop\u00f3loga americana Dian Fossey, que em 1967 viajou para Ruanda, na \u00c1frica, e durante toda a vida se dedicou \u00e0 preserva\u00e7\u00e3o dos gorilas da montanha, amea\u00e7ados de extin\u00e7\u00e3o em raz\u00e3o da ca\u00e7a indiscriminada. Dian utilizou todos os meios poss\u00edveis para proteg\u00ea-los e esta luta se tornou uma paix\u00e3o t\u00e3o obssessiva que nem mesmo Bob Campbell, seu namorado fot\u00f3grafo, consegue demov\u00ea-la do seu objetivo. Dian faz tudo que \u00e9 poss\u00edvel para impedir que atrocidades contra os animais sejam cometidas.",
+                "vote_average": 7.0,
+                "vote_count": 543
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rain Man",
+            "second_label": "Hans Zimmer",
+            "category": "Music (Original Score)",
+            "year": 1989,
+            "tmdb": {
+                "id": 380,
+                "original_title": "Rain Man",
+                "title": "Rain Man",
+                "release_date": "1988-12-12",
+                "backdrop_path": "/mrfbeWcjgSaZ9NEb0xJMR9xzSeB.jpg",
+                "poster_path": "/fwVbH7LKfEieydL0xfh9rzTatU0.jpg",
+                "overview": "Charlie (Tom Cruise), um jovem yuppie, fica sabendo que seu pai faleceu. Eles nunca se deram bem e n\u00e3o se viam h\u00e1 v\u00e1rios anos, mas ele vai ao enterro e, ao cuidar do testamento, descobre que herdou um Buick 1949 e algumas roseiras premiadas, enquanto um \"benefici\u00e1rio\" tinha herdado tr\u00eas milh\u00f5es de d\u00f3lares. Curioso em saber quem herdou a fortuna, ele descobre que foi seu irm\u00e3o Raymond (Dustin Hoffman), cuja exist\u00eancia ele desconhecia. Autista, Raymond \u00e9 capaz de calcular problemas matem\u00e1ticos com grande velocidade e precis\u00e3o. Charlie sequestra o irm\u00e3o da institui\u00e7\u00e3o onde ele est\u00e1 internado para lev\u00e1-lo para Los Angeles e exigir metade do dinheiro, nem que para isto tenha que ir aos tribunais. \u00c9 durante uma viagem cheia de pequenos imprevistos que os dois entender\u00e3o o significado de serem irm\u00e3os.",
+                "vote_average": 7.8,
+                "vote_count": 6067
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Song)": [
+        {
+            "first_label": "Working Girl",
+            "second_label": "Let The River Run in \"Working Girl\" Music and Lyric by Carly Simon",
+            "category": "Music (Original Song)",
+            "year": 1989,
+            "tmdb": {
+                "id": 3525,
+                "original_title": "Working Girl",
+                "title": "Uma Secret\u00e1ria de Futuro",
+                "release_date": "1988-12-20",
+                "backdrop_path": "/aZavQPlgklqipFd1GtOqAAECej3.jpg",
+                "poster_path": "/yW4Kk9ilrIdKCmHVRHr2ohSB4LV.jpg",
+                "overview": "Tess McGill tem tudo para subir na vida. Charme, beleza e ambi\u00e7\u00e3o. Menos as roupas certas, o penteado certo, a atitude certa e o mais importante: o emprego certo. Mas ela n\u00e3o desiste facilmente. Mesmo que tenha que fazer o jogo do sistema e da sedu\u00e7\u00e3o. Aliada ao belo Jack Trainer, essa simples secret\u00e1ria vai provar que vale tudo para se chegar ao topo.",
+                "vote_average": 6.6,
+                "vote_count": 885
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Bagdad Cafe",
+            "second_label": "Calling You in \"Bagdad Cafe\" Music and Lyric by Bob Telson",
+            "category": "Music (Original Song)",
+            "year": 1989,
+            "tmdb": {
+                "id": 3543,
+                "original_title": "Out of Rosenheim",
+                "title": "Bagdad Caf\u00e9",
+                "release_date": "1987-11-12",
+                "backdrop_path": "/xNZwsgmAt3aqjKZYWQmUzEij6XD.jpg",
+                "poster_path": "/isfygkd3iWVVwE44yM8Hdb4sxrO.jpg",
+                "overview": "Depois de brigar com seu marido e abandon\u00e1-lo na estrada, a turista alem\u00e3 Jasmin (Marianne S\u00e4gebrecht) caminha pelo deserto do Arizona at\u00e9 chegar ao posto-motel Bagdad Caf\u00e9. Recebida com aspereza por Brenda (CCH Pounder), a dona do local que acabou de colocar o marido para fora de casa, Jasmin aos poucos se acostuma com os clientes e h\u00f3spedes do motel.",
+                "vote_average": 7.2,
+                "vote_count": 359
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Buster",
+            "second_label": "Two Hearts in \"Buster\" Music by Lamont Dozier; Lyric by Phil Collins",
+            "category": "Music (Original Song)",
+            "year": 1989,
+            "tmdb": {
+                "id": 24782,
+                "original_title": "Buster",
+                "title": "Buster - Procura-se um Ladr\u00e3o",
+                "release_date": "1988-09-16",
+                "backdrop_path": "/Au1wISgqcMO3tkEevGMgxVALM4Z.jpg",
+                "poster_path": "/oNiyCIkbO0SdiKejdgXFaMqW1UE.jpg",
+                "overview": "Buster is a small time crook who pulls a big time job. When he finds that the police will not let the case drop, he goes into hiding and can't contact his wife and child. He arranges to meet them in Mexico where he thinks they can begin again, but finds that he must choose between his family and freedom.",
+                "vote_average": 5.6,
+                "vote_count": 76
+            },
+            "winner": false
+        }
+    ],
+    "Best Picture": [
+        {
+            "first_label": "Rain Man",
+            "second_label": "Mark Johnson, Producer",
+            "category": "Best Picture",
+            "year": 1989,
+            "tmdb": {
+                "id": 380,
+                "original_title": "Rain Man",
+                "title": "Rain Man",
+                "release_date": "1988-12-12",
+                "backdrop_path": "/mrfbeWcjgSaZ9NEb0xJMR9xzSeB.jpg",
+                "poster_path": "/fwVbH7LKfEieydL0xfh9rzTatU0.jpg",
+                "overview": "Charlie (Tom Cruise), um jovem yuppie, fica sabendo que seu pai faleceu. Eles nunca se deram bem e n\u00e3o se viam h\u00e1 v\u00e1rios anos, mas ele vai ao enterro e, ao cuidar do testamento, descobre que herdou um Buick 1949 e algumas roseiras premiadas, enquanto um \"benefici\u00e1rio\" tinha herdado tr\u00eas milh\u00f5es de d\u00f3lares. Curioso em saber quem herdou a fortuna, ele descobre que foi seu irm\u00e3o Raymond (Dustin Hoffman), cuja exist\u00eancia ele desconhecia. Autista, Raymond \u00e9 capaz de calcular problemas matem\u00e1ticos com grande velocidade e precis\u00e3o. Charlie sequestra o irm\u00e3o da institui\u00e7\u00e3o onde ele est\u00e1 internado para lev\u00e1-lo para Los Angeles e exigir metade do dinheiro, nem que para isto tenha que ir aos tribunais. \u00c9 durante uma viagem cheia de pequenos imprevistos que os dois entender\u00e3o o significado de serem irm\u00e3os.",
+                "vote_average": 7.8,
+                "vote_count": 6067
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Accidental Tourist",
+            "second_label": "Lawrence Kasdan, Charles Okun and Michael Grillo, Producers",
+            "category": "Best Picture",
+            "year": 1989,
+            "tmdb": {
+                "id": 31052,
+                "original_title": "The Accidental Tourist",
+                "title": "O Turista Acidental",
+                "release_date": "1988-12-23",
+                "backdrop_path": "/ucEgYBXB1N7iP7Zx8YEHXFVwOnd.jpg",
+                "poster_path": "/o4M9aoCC8UwnaPFz9xEgqvkLpkg.jpg",
+                "overview": "Onde encontrar seu restaurante de fast-food favorito em Paris? Quantos pacotes de sab\u00e3o em p\u00f3 s\u00e3o necess\u00e1rios em uma viagem para Atlanta? Pergunte a Macon Leary, cujos guias de viagem s\u00e3o reverenciados pelos amantes de viagem caseiros, que odeiam estar em tr\u00e2nsito. Sobre as quest\u00f5es do cora\u00e7\u00e3o, n\u00e3o pergunte a Macon. Ele n\u00e3o tem a menor no\u00e7\u00e3o. Pelo menos, n\u00e3o ainda.",
+                "vote_average": 6.2,
+                "vote_count": 216
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dangerous Liaisons",
+            "second_label": "Norma Heyman and Hank Moonjean, Producers",
+            "category": "Best Picture",
+            "year": 1989,
+            "tmdb": {
+                "id": 859,
+                "original_title": "Dangerous Liaisons",
+                "title": "Liga\u00e7\u00f5es Perigosas",
+                "release_date": "1988-12-21",
+                "backdrop_path": "/gVw5NVGsGDhEeYUS1DeFWeLdQ16.jpg",
+                "poster_path": "/erQUeLHDC5G1rHAbA6zVED6Gacj.jpg",
+                "overview": "Fran\u00e7a, 1788. A Marquesa de Merteuil (Glenn Close) precisa de um favor do seu ex-amante, o Visconde de Valmont (John Malkovich), pois seu ex-marido est\u00e1 planejando se casar com uma jovem virgem e ela deseja que o Marqu\u00eas, que \u00e9 conhecido por sua vida devassa e suas conquistas amorosas, a seduza antes do dia do casamento. No entanto, ele tem outros planos, pois planeja conquistar uma bela mulher casada (Michelle Pfeiffer), que sempre se mostrou fiel ao marido e \u00e9 religiosa. A Marquesa exige ent\u00e3o uma prova escrita dos seus encontros amorosos e, se ele conseguir tal fa\u00e7anha, ela lhe promete como recompensa passarem uma noite juntos. Mas os jogos de sedu\u00e7\u00e3o fogem do controle e os resultados s\u00e3o bem mais tr\u00e1gicos do que se podia imaginar.",
+                "vote_average": 7.2,
+                "vote_count": 1088
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mississippi Burning",
+            "second_label": "Frederick Zollo and Robert F. Colesberry, Producers",
+            "category": "Best Picture",
+            "year": 1989,
+            "tmdb": {
+                "id": 1632,
+                "original_title": "Mississippi Burning",
+                "title": "Mississipi em Chamas",
+                "release_date": "1988-12-08",
+                "backdrop_path": "/c88YI18SU27Ep6mdbxrGNCiqgjP.jpg",
+                "poster_path": "/17eLRLz0VfP9cnGzpcU3wigKfnS.jpg",
+                "overview": "Quando um grupo de trabalhadores de direitos civis desaparecem em uma cidade pequena do Mississippi, os agentes do FBI Alan Ward e Rupert Anderson s\u00e3o enviados para investigar. As autoridades locais se recusam a cooperar e a comunidade afro-americana tem medo de ajudar. A situa\u00e7\u00e3o se torna cada vez mais dif\u00edcil e a abordagem direta \u00e9 abandonada a favor de uma mais agressiva.",
+                "vote_average": 7.7,
+                "vote_count": 1542
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Working Girl",
+            "second_label": "Douglas Wick, Producer",
+            "category": "Best Picture",
+            "year": 1989,
+            "tmdb": {
+                "id": 3525,
+                "original_title": "Working Girl",
+                "title": "Uma Secret\u00e1ria de Futuro",
+                "release_date": "1988-12-20",
+                "backdrop_path": "/aZavQPlgklqipFd1GtOqAAECej3.jpg",
+                "poster_path": "/yW4Kk9ilrIdKCmHVRHr2ohSB4LV.jpg",
+                "overview": "Tess McGill tem tudo para subir na vida. Charme, beleza e ambi\u00e7\u00e3o. Menos as roupas certas, o penteado certo, a atitude certa e o mais importante: o emprego certo. Mas ela n\u00e3o desiste facilmente. Mesmo que tenha que fazer o jogo do sistema e da sedu\u00e7\u00e3o. Aliada ao belo Jack Trainer, essa simples secret\u00e1ria vai provar que vale tudo para se chegar ao topo.",
+                "vote_average": 6.6,
+                "vote_count": 885
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Animated)": [
+        {
+            "first_label": "Tin Toy",
+            "second_label": "John Lasseter, William Reeves",
+            "category": "Short Film (Animated)",
+            "year": 1989,
+            "tmdb": {
+                "id": 13927,
+                "original_title": "Tin Toy",
+                "title": "Brinquedo de Lata",
+                "release_date": "1988-08-01",
+                "backdrop_path": "/jHpXaNoUtIaks98d5m78Dg9ZAZw.jpg",
+                "poster_path": "/yRjtvmRXgZoY8P9Ug28G9OITD9E.jpg",
+                "overview": "Um pequeno brinquedo de lata tenta escapar de um beb\u00ea destruidor.",
+                "vote_average": 6.1,
+                "vote_count": 425
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Cat Came Back",
+            "second_label": "Cordell Barker",
+            "category": "Short Film (Animated)",
+            "year": 1989,
+            "tmdb": {
+                "id": 81424,
+                "original_title": "The Cat Came Back",
+                "title": "The Cat Came Back",
+                "release_date": "1988-06-22",
+                "backdrop_path": "/mM5cZPLBzhf0uGcLqyj5Y9KVwot.jpg",
+                "poster_path": "/tpBFBSHMU7xLsUUuQzO2Q1IGNTB.jpg",
+                "overview": "A pesky yellow cat becomes the bane of Mr. Johnson's life as it constantly outsmarts his increasingly desperate attempts to get rid of it.",
+                "vote_average": 7.0,
+                "vote_count": 62
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Technological Threat",
+            "second_label": "Bill Kroyer, Brian Jennings",
+            "category": "Short Film (Animated)",
+            "year": 1989,
+            "tmdb": {
+                "id": 210964,
+                "original_title": "Technological Threat",
+                "title": "Technological Threat",
+                "release_date": "1988-05-15",
+                "backdrop_path": "/6M8OcRqNWnnd5Lcia5Ixl955ttL.jpg",
+                "poster_path": "/iq4u9ZCSv6LzCfTaQ3XyxJFIq33.jpg",
+                "overview": "Human fear of technology is portrayed in this very amusing futuristic parody.",
+                "vote_average": 5.8,
+                "vote_count": 18
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Live Action)": [
+        {
+            "first_label": "The Appointments of Dennis Jennings",
+            "second_label": "Dean Parisot, Steven Wright",
+            "category": "Short Film (Live Action)",
+            "year": 1989,
+            "tmdb": {
+                "id": 47057,
+                "original_title": "The Appointments of Dennis Jennings",
+                "title": "The Appointments of Dennis Jennings",
+                "release_date": "1988-09-07",
+                "backdrop_path": null,
+                "poster_path": "/tbFWHqxURoNBn8BwRHEF1j86JhP.jpg",
+                "overview": "Dennis Jennings is an introverted daydreamer, sleepwalking through life. He is a professional waiter and has an equally-dull girlfriend, Emma. In an attempt to release his pent-up feelings of isolation, he begins seeing a psychiatrist, only to discover that the doctor is somewhat less than interested in what he has to say. The film won an Oscar for Best Live Action Short Film.",
+                "vote_average": 6.4,
+                "vote_count": 13
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Cadillac Dreams",
+            "second_label": "Matia Karrell, Abbee Goldstein",
+            "category": "Short Film (Live Action)",
+            "year": 1989,
+            "tmdb": {
+                "id": 244699,
+                "original_title": "Cadillac Dreams",
+                "title": "Cadillac Dreams",
+                "release_date": "1988-01-01",
+                "backdrop_path": null,
+                "poster_path": "/8uow7SA3WYQm815FmmrXNNgZGqv.jpg",
+                "overview": "Cadillac Dreams is a 1988 American short film directed by Matia Karrell. In the film, a young drug runner's dreams of being a great inventor give way to the equally unlikely dream of living to be 20. The film was nominated for an Oscar for Best Live Action Short Film.",
+                "vote_average": 5.7,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gullah Tales",
+            "second_label": "George deGolian, Gary Moss",
+            "category": "Short Film (Live Action)",
+            "year": 1989,
+            "tmdb": {
+                "id": 244700,
+                "original_title": "Gullah Tales",
+                "title": "Gullah Tales",
+                "release_date": "1988-01-01",
+                "backdrop_path": null,
+                "poster_path": "/nqEGrOZuLG9ICsb5x0uauzYNuc7.jpg",
+                "overview": "Gullah Tales is a 1988 short film directed by Gary Moss. It follows a an elder woman on a slave plantation in 1830 and tells the story of John Hayes and his literal fight to obtain his freedom. The film was nominated for an Oscar for Best Live Action Short Film.",
+                "vote_average": 5.7,
+                "vote_count": 3
+            },
+            "winner": false
+        }
+    ],
+    "Sound": [
+        {
+            "first_label": "Bird",
+            "second_label": "Les Fresholtz, Dick Alexander, Vern Poore, Willie D. Burton",
+            "category": "Sound",
+            "year": 1989,
+            "tmdb": {
+                "id": 24679,
+                "original_title": "Bird",
+                "title": "Bird",
+                "release_date": "1988-06-01",
+                "backdrop_path": "/yKe2dmPzLbeEYz4q8EYZ4qHqsVE.jpg",
+                "poster_path": "/rTCp6M98RQAxRl0x0guU9GlH7HS.jpg",
+                "overview": "O saxofonista Charlie Parker chega a Nova York em 1940. Ele \u00e9 rapidamente notado por sua maneira not\u00e1vel de tocar. Ele se torna viciado em drogas, mas sua amada esposa Chan tenta ajud\u00e1-lo. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.8,
+                "vote_count": 294
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Die Hard",
+            "second_label": "Don Bassman, Kevin F. Cleary, Richard Overton, Al Overton",
+            "category": "Sound",
+            "year": 1989,
+            "tmdb": {
+                "id": 562,
+                "original_title": "Die Hard",
+                "title": "Duro de Matar",
+                "release_date": "1988-07-15",
+                "backdrop_path": "/oIwfoUFfWfESn0Y8u8jv9lc8li1.jpg",
+                "poster_path": "/en0r76LdougNDBimL1tLzpTvTau.jpg",
+                "overview": "O policial de Nova York John McClane est\u00e1 visitando sua fam\u00edlia no Natal. Ele participa de uma confraterniza\u00e7\u00e3o de fim de ano na sede da empresa japonesa em que a esposa trabalha. A festa \u00e9 interrompida por terroristas que invadem o edif\u00edcio de luxo. McClane n\u00e3o demora a perceber que n\u00e3o h\u00e1 ningu\u00e9m para salv\u00e1-los, a n\u00e3o ser ele pr\u00f3prio.",
+                "vote_average": 7.784,
+                "vote_count": 10662
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gorillas in the Mist",
+            "second_label": "Andy Nelson, Brian Saunders, Peter Handford",
+            "category": "Sound",
+            "year": 1989,
+            "tmdb": {
+                "id": 10130,
+                "original_title": "Gorillas in the Mist",
+                "title": "Nas Montanhas dos Gorilas",
+                "release_date": "1988-09-23",
+                "backdrop_path": "/cQjRdmEEQya0EXkOWCAPq0dfbjz.jpg",
+                "poster_path": "/sI8482E2F3LvHTKw3GEYxkqPFIb.jpg",
+                "overview": "A luta da antrop\u00f3loga americana Dian Fossey, que em 1967 viajou para Ruanda, na \u00c1frica, e durante toda a vida se dedicou \u00e0 preserva\u00e7\u00e3o dos gorilas da montanha, amea\u00e7ados de extin\u00e7\u00e3o em raz\u00e3o da ca\u00e7a indiscriminada. Dian utilizou todos os meios poss\u00edveis para proteg\u00ea-los e esta luta se tornou uma paix\u00e3o t\u00e3o obssessiva que nem mesmo Bob Campbell, seu namorado fot\u00f3grafo, consegue demov\u00ea-la do seu objetivo. Dian faz tudo que \u00e9 poss\u00edvel para impedir que atrocidades contra os animais sejam cometidas.",
+                "vote_average": 7.0,
+                "vote_count": 543
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mississippi Burning",
+            "second_label": "Robert Litt, Elliot Tyson, Rick Kline, Danny Michael",
+            "category": "Sound",
+            "year": 1989,
+            "tmdb": {
+                "id": 1632,
+                "original_title": "Mississippi Burning",
+                "title": "Mississipi em Chamas",
+                "release_date": "1988-12-08",
+                "backdrop_path": "/c88YI18SU27Ep6mdbxrGNCiqgjP.jpg",
+                "poster_path": "/17eLRLz0VfP9cnGzpcU3wigKfnS.jpg",
+                "overview": "Quando um grupo de trabalhadores de direitos civis desaparecem em uma cidade pequena do Mississippi, os agentes do FBI Alan Ward e Rupert Anderson s\u00e3o enviados para investigar. As autoridades locais se recusam a cooperar e a comunidade afro-americana tem medo de ajudar. A situa\u00e7\u00e3o se torna cada vez mais dif\u00edcil e a abordagem direta \u00e9 abandonada a favor de uma mais agressiva.",
+                "vote_average": 7.7,
+                "vote_count": 1542
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Who Framed Roger Rabbit",
+            "second_label": "Robert Knudson, John Boyd, Don Digirolamo, Tony Dawe",
+            "category": "Sound",
+            "year": 1989,
+            "tmdb": {
+                "id": 856,
+                "original_title": "Who Framed Roger Rabbit",
+                "title": "Uma Cilada para Roger Rabbit",
+                "release_date": "1988-06-21",
+                "backdrop_path": "/tym6NH7ybFeldBuYYp0RSLpjZFq.jpg",
+                "poster_path": "/1sNM9NOJrdVhJUkWQkbcekoLiic.jpg",
+                "overview": "O detetive de carne e osso Eddie Valiant \u00e9 contratado para descobrir o que est\u00e1 acontecendo com o coelho Roger Rabbit e sua mulher Jessica, suspeita de infidelidade. Quando Marvin Acme \u00e9 encontrado morto, Roger \u00e9 o principal suspeito do crime no mundo real. Para piorar a situa\u00e7\u00e3o, um vil\u00e3o quer acabar de uma vez por todas com Roger, Jessica e todos os desenhos animados.",
+                "vote_average": 7.525,
+                "vote_count": 5413
+            },
+            "winner": false
+        }
+    ],
+    "Sound Effects Editing": [
+        {
+            "first_label": "Who Framed Roger Rabbit",
+            "second_label": "Charles L. Campbell, Louis L. Edemann",
+            "category": "Sound Effects Editing",
+            "year": 1989,
+            "tmdb": {
+                "id": 856,
+                "original_title": "Who Framed Roger Rabbit",
+                "title": "Uma Cilada para Roger Rabbit",
+                "release_date": "1988-06-21",
+                "backdrop_path": "/tym6NH7ybFeldBuYYp0RSLpjZFq.jpg",
+                "poster_path": "/1sNM9NOJrdVhJUkWQkbcekoLiic.jpg",
+                "overview": "O detetive de carne e osso Eddie Valiant \u00e9 contratado para descobrir o que est\u00e1 acontecendo com o coelho Roger Rabbit e sua mulher Jessica, suspeita de infidelidade. Quando Marvin Acme \u00e9 encontrado morto, Roger \u00e9 o principal suspeito do crime no mundo real. Para piorar a situa\u00e7\u00e3o, um vil\u00e3o quer acabar de uma vez por todas com Roger, Jessica e todos os desenhos animados.",
+                "vote_average": 7.525,
+                "vote_count": 5413
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Die Hard",
+            "second_label": "Stephen H. Flick, Richard Shorr",
+            "category": "Sound Effects Editing",
+            "year": 1989,
+            "tmdb": {
+                "id": 562,
+                "original_title": "Die Hard",
+                "title": "Duro de Matar",
+                "release_date": "1988-07-15",
+                "backdrop_path": "/oIwfoUFfWfESn0Y8u8jv9lc8li1.jpg",
+                "poster_path": "/en0r76LdougNDBimL1tLzpTvTau.jpg",
+                "overview": "O policial de Nova York John McClane est\u00e1 visitando sua fam\u00edlia no Natal. Ele participa de uma confraterniza\u00e7\u00e3o de fim de ano na sede da empresa japonesa em que a esposa trabalha. A festa \u00e9 interrompida por terroristas que invadem o edif\u00edcio de luxo. McClane n\u00e3o demora a perceber que n\u00e3o h\u00e1 ningu\u00e9m para salv\u00e1-los, a n\u00e3o ser ele pr\u00f3prio.",
+                "vote_average": 7.784,
+                "vote_count": 10662
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Willow",
+            "second_label": "Ben Burtt, Richard Hymns",
+            "category": "Sound Effects Editing",
+            "year": 1989,
+            "tmdb": {
+                "id": 847,
+                "original_title": "Willow",
+                "title": "Willow - Na Terra da Magia",
+                "release_date": "1988-05-20",
+                "backdrop_path": "/fe6HNvn81wFQR4DvVQgU4lxnraU.jpg",
+                "poster_path": "/R2RRuyZX30KXbrx7So3SaYMFoK.jpg",
+                "overview": "Numa terra m\u00edstica onde o m\u00e1gico \u00e9 real, vive Willow Ufgood (Warwick Davis), um pequeno fazendeiro Nelwin que sonha em ser um feiticeiro. Willow se torna guardi\u00e3o de um beb\u00ea pertencente aos Daikinis, guerreiros temidos pelos Nelwin. De acordo com a profecia, a crian\u00e7a dever\u00e1 destruir a malvada feiticeira Bavmorda (Jean Marsh) e acabar com seu reinado de terror, a menos que a bruxa possa destruir a crian\u00e7a primeiro. Willow come\u00e7a uma perigosa e fabulosa jornada para manter a crian\u00e7a a salvo, junto a dois duendes, um guerreiro rebelado e um feiticeiro bondoso.",
+                "vote_average": 7.0,
+                "vote_count": 1828
+            },
+            "winner": false
+        }
+    ],
+    "Special Achievement Award": [
+        {
+            "first_label": "Who Framed Roger Rabbit",
+            "second_label": "Special Award",
+            "category": "Special Achievement Award",
+            "year": 1989,
+            "tmdb": {
+                "id": 856,
+                "original_title": "Who Framed Roger Rabbit",
+                "title": "Uma Cilada para Roger Rabbit",
+                "release_date": "1988-06-21",
+                "backdrop_path": "/tym6NH7ybFeldBuYYp0RSLpjZFq.jpg",
+                "poster_path": "/1sNM9NOJrdVhJUkWQkbcekoLiic.jpg",
+                "overview": "O detetive de carne e osso Eddie Valiant \u00e9 contratado para descobrir o que est\u00e1 acontecendo com o coelho Roger Rabbit e sua mulher Jessica, suspeita de infidelidade. Quando Marvin Acme \u00e9 encontrado morto, Roger \u00e9 o principal suspeito do crime no mundo real. Para piorar a situa\u00e7\u00e3o, um vil\u00e3o quer acabar de uma vez por todas com Roger, Jessica e todos os desenhos animados.",
+                "vote_average": 7.525,
+                "vote_count": 5413
+            },
+            "winner": true
+        }
+    ],
+    "Visual Effects": [
+        {
+            "first_label": "Who Framed Roger Rabbit",
+            "second_label": "Ken Ralston, Richard Williams, Edward Jones, George Gibbs",
+            "category": "Visual Effects",
+            "year": 1989,
+            "tmdb": {
+                "id": 856,
+                "original_title": "Who Framed Roger Rabbit",
+                "title": "Uma Cilada para Roger Rabbit",
+                "release_date": "1988-06-21",
+                "backdrop_path": "/tym6NH7ybFeldBuYYp0RSLpjZFq.jpg",
+                "poster_path": "/1sNM9NOJrdVhJUkWQkbcekoLiic.jpg",
+                "overview": "O detetive de carne e osso Eddie Valiant \u00e9 contratado para descobrir o que est\u00e1 acontecendo com o coelho Roger Rabbit e sua mulher Jessica, suspeita de infidelidade. Quando Marvin Acme \u00e9 encontrado morto, Roger \u00e9 o principal suspeito do crime no mundo real. Para piorar a situa\u00e7\u00e3o, um vil\u00e3o quer acabar de uma vez por todas com Roger, Jessica e todos os desenhos animados.",
+                "vote_average": 7.525,
+                "vote_count": 5413
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Die Hard",
+            "second_label": "Richard Edlund, Al DiSarro, Brent Boates, Thaine Morris",
+            "category": "Visual Effects",
+            "year": 1989,
+            "tmdb": {
+                "id": 562,
+                "original_title": "Die Hard",
+                "title": "Duro de Matar",
+                "release_date": "1988-07-15",
+                "backdrop_path": "/oIwfoUFfWfESn0Y8u8jv9lc8li1.jpg",
+                "poster_path": "/en0r76LdougNDBimL1tLzpTvTau.jpg",
+                "overview": "O policial de Nova York John McClane est\u00e1 visitando sua fam\u00edlia no Natal. Ele participa de uma confraterniza\u00e7\u00e3o de fim de ano na sede da empresa japonesa em que a esposa trabalha. A festa \u00e9 interrompida por terroristas que invadem o edif\u00edcio de luxo. McClane n\u00e3o demora a perceber que n\u00e3o h\u00e1 ningu\u00e9m para salv\u00e1-los, a n\u00e3o ser ele pr\u00f3prio.",
+                "vote_average": 7.784,
+                "vote_count": 10662
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Willow",
+            "second_label": "Dennis Muren, Michael McAlister, Phil Tippett, Chris Evans",
+            "category": "Visual Effects",
+            "year": 1989,
+            "tmdb": {
+                "id": 847,
+                "original_title": "Willow",
+                "title": "Willow - Na Terra da Magia",
+                "release_date": "1988-05-20",
+                "backdrop_path": "/fe6HNvn81wFQR4DvVQgU4lxnraU.jpg",
+                "poster_path": "/R2RRuyZX30KXbrx7So3SaYMFoK.jpg",
+                "overview": "Numa terra m\u00edstica onde o m\u00e1gico \u00e9 real, vive Willow Ufgood (Warwick Davis), um pequeno fazendeiro Nelwin que sonha em ser um feiticeiro. Willow se torna guardi\u00e3o de um beb\u00ea pertencente aos Daikinis, guerreiros temidos pelos Nelwin. De acordo com a profecia, a crian\u00e7a dever\u00e1 destruir a malvada feiticeira Bavmorda (Jean Marsh) e acabar com seu reinado de terror, a menos que a bruxa possa destruir a crian\u00e7a primeiro. Willow come\u00e7a uma perigosa e fabulosa jornada para manter a crian\u00e7a a salvo, junto a dois duendes, um guerreiro rebelado e um feiticeiro bondoso.",
+                "vote_average": 7.0,
+                "vote_count": 1828
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay Based on Material from Another Medium)": [
+        {
+            "first_label": "Dangerous Liaisons",
+            "second_label": "Christopher Hampton",
+            "category": "Writing (Screenplay Based on Material from Another Medium)",
+            "year": 1989,
+            "tmdb": {
+                "id": 859,
+                "original_title": "Dangerous Liaisons",
+                "title": "Liga\u00e7\u00f5es Perigosas",
+                "release_date": "1988-12-21",
+                "backdrop_path": "/gVw5NVGsGDhEeYUS1DeFWeLdQ16.jpg",
+                "poster_path": "/erQUeLHDC5G1rHAbA6zVED6Gacj.jpg",
+                "overview": "Fran\u00e7a, 1788. A Marquesa de Merteuil (Glenn Close) precisa de um favor do seu ex-amante, o Visconde de Valmont (John Malkovich), pois seu ex-marido est\u00e1 planejando se casar com uma jovem virgem e ela deseja que o Marqu\u00eas, que \u00e9 conhecido por sua vida devassa e suas conquistas amorosas, a seduza antes do dia do casamento. No entanto, ele tem outros planos, pois planeja conquistar uma bela mulher casada (Michelle Pfeiffer), que sempre se mostrou fiel ao marido e \u00e9 religiosa. A Marquesa exige ent\u00e3o uma prova escrita dos seus encontros amorosos e, se ele conseguir tal fa\u00e7anha, ela lhe promete como recompensa passarem uma noite juntos. Mas os jogos de sedu\u00e7\u00e3o fogem do controle e os resultados s\u00e3o bem mais tr\u00e1gicos do que se podia imaginar.",
+                "vote_average": 7.2,
+                "vote_count": 1088
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Accidental Tourist",
+            "second_label": "Frank Galati, Lawrence Kasdan",
+            "category": "Writing (Screenplay Based on Material from Another Medium)",
+            "year": 1989,
+            "tmdb": {
+                "id": 31052,
+                "original_title": "The Accidental Tourist",
+                "title": "O Turista Acidental",
+                "release_date": "1988-12-23",
+                "backdrop_path": "/ucEgYBXB1N7iP7Zx8YEHXFVwOnd.jpg",
+                "poster_path": "/o4M9aoCC8UwnaPFz9xEgqvkLpkg.jpg",
+                "overview": "Onde encontrar seu restaurante de fast-food favorito em Paris? Quantos pacotes de sab\u00e3o em p\u00f3 s\u00e3o necess\u00e1rios em uma viagem para Atlanta? Pergunte a Macon Leary, cujos guias de viagem s\u00e3o reverenciados pelos amantes de viagem caseiros, que odeiam estar em tr\u00e2nsito. Sobre as quest\u00f5es do cora\u00e7\u00e3o, n\u00e3o pergunte a Macon. Ele n\u00e3o tem a menor no\u00e7\u00e3o. Pelo menos, n\u00e3o ainda.",
+                "vote_average": 6.2,
+                "vote_count": 216
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gorillas in the Mist",
+            "second_label": "Screenplay by Anna Hamilton Phelan;  Story by Anna Hamilton Phelan, Tab Murphy",
+            "category": "Writing (Screenplay Based on Material from Another Medium)",
+            "year": 1989,
+            "tmdb": {
+                "id": 10130,
+                "original_title": "Gorillas in the Mist",
+                "title": "Nas Montanhas dos Gorilas",
+                "release_date": "1988-09-23",
+                "backdrop_path": "/cQjRdmEEQya0EXkOWCAPq0dfbjz.jpg",
+                "poster_path": "/sI8482E2F3LvHTKw3GEYxkqPFIb.jpg",
+                "overview": "A luta da antrop\u00f3loga americana Dian Fossey, que em 1967 viajou para Ruanda, na \u00c1frica, e durante toda a vida se dedicou \u00e0 preserva\u00e7\u00e3o dos gorilas da montanha, amea\u00e7ados de extin\u00e7\u00e3o em raz\u00e3o da ca\u00e7a indiscriminada. Dian utilizou todos os meios poss\u00edveis para proteg\u00ea-los e esta luta se tornou uma paix\u00e3o t\u00e3o obssessiva que nem mesmo Bob Campbell, seu namorado fot\u00f3grafo, consegue demov\u00ea-la do seu objetivo. Dian faz tudo que \u00e9 poss\u00edvel para impedir que atrocidades contra os animais sejam cometidas.",
+                "vote_average": 7.0,
+                "vote_count": 543
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Little Dorrit",
+            "second_label": "Christine Edzard",
+            "category": "Writing (Screenplay Based on Material from Another Medium)",
+            "year": 1989,
+            "tmdb": {
+                "id": 47282,
+                "original_title": "Little Dorrit",
+                "title": "Little Dorrit",
+                "release_date": "1987-12-11",
+                "backdrop_path": null,
+                "poster_path": "/61uclYiDIhkbV3o8XsjqUK0jbXD.jpg",
+                "overview": "A drama based on the novel by Charles Dickens which tells the story of Arthur Clennam who is thrown into a debtor's prison. There he meets a young seamstress whose father has been imprisoned for twenty-five years. A film in originally released in two parts.",
+                "vote_average": 6.4,
+                "vote_count": 11
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Unbearable Lightness of Being",
+            "second_label": "\"The Unbearable Lightness of Being\" Jean-Claude Carrire, Philip Kaufman",
+            "category": "Writing (Screenplay Based on Material from Another Medium)",
+            "year": 1989,
+            "tmdb": {
+                "id": 10644,
+                "original_title": "The Unbearable Lightness of Being",
+                "title": "A Insustent\u00e1vel Leveza do Ser",
+                "release_date": "1988-02-05",
+                "backdrop_path": "/wru4lC7aK4BYJzxAOoDI0vlfXL7.jpg",
+                "poster_path": "/vGdlSWcuvG7pUsHs3BOUpOcKPxA.jpg",
+                "overview": "Em meados dos anos 60, em Praga, Tomas conhece a inocente Tereza e os dois se apaixonam. Por\u00e9m, o m\u00e9dico tamb\u00e9m mant\u00e9m rela\u00e7\u00f5es com Sabina, uma mulher refinada. Mas a vida deste tri\u00e2ngulo amoroso ser\u00e1 afetada pelos acontecimentos deste per\u00edodo.",
+                "vote_average": 6.9,
+                "vote_count": 421
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay Written Directly for the Screen)": [
+        {
+            "first_label": "Rain Man",
+            "second_label": "Screenplay by Ronald Bass, Barry Morrow;  Story by Barry Morrow",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 1989,
+            "tmdb": {
+                "id": 380,
+                "original_title": "Rain Man",
+                "title": "Rain Man",
+                "release_date": "1988-12-12",
+                "backdrop_path": "/mrfbeWcjgSaZ9NEb0xJMR9xzSeB.jpg",
+                "poster_path": "/fwVbH7LKfEieydL0xfh9rzTatU0.jpg",
+                "overview": "Charlie (Tom Cruise), um jovem yuppie, fica sabendo que seu pai faleceu. Eles nunca se deram bem e n\u00e3o se viam h\u00e1 v\u00e1rios anos, mas ele vai ao enterro e, ao cuidar do testamento, descobre que herdou um Buick 1949 e algumas roseiras premiadas, enquanto um \"benefici\u00e1rio\" tinha herdado tr\u00eas milh\u00f5es de d\u00f3lares. Curioso em saber quem herdou a fortuna, ele descobre que foi seu irm\u00e3o Raymond (Dustin Hoffman), cuja exist\u00eancia ele desconhecia. Autista, Raymond \u00e9 capaz de calcular problemas matem\u00e1ticos com grande velocidade e precis\u00e3o. Charlie sequestra o irm\u00e3o da institui\u00e7\u00e3o onde ele est\u00e1 internado para lev\u00e1-lo para Los Angeles e exigir metade do dinheiro, nem que para isto tenha que ir aos tribunais. \u00c9 durante uma viagem cheia de pequenos imprevistos que os dois entender\u00e3o o significado de serem irm\u00e3os.",
+                "vote_average": 7.8,
+                "vote_count": 6067
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Big",
+            "second_label": "Gary Ross, Anne Spielberg",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 1989,
+            "tmdb": {
+                "id": 2280,
+                "original_title": "Big",
+                "title": "Quero Ser Grande",
+                "release_date": "1988-06-03",
+                "backdrop_path": "/zct6KCOCT2lnb8fnu90oCQkDDCm.jpg",
+                "poster_path": "/vJgc36oSlup6uhWoXURB6d4Gyd8.jpg",
+                "overview": "Em um passeio num parque de divers\u00f5es Josh acaba barrado na montanha-russa. Revoltado, ele pede \u00e0 m\u00e1quina dos desejos para ser grande. No dia seguinte o pedido foi realizado e a m\u00e3e o expulsa de casa, pois n\u00e3o conhece aquele estranho de trinta anos. Josh, por\u00e9m, continua sendo apenas uma crian\u00e7a e agora precisa aprender a se relacionar no mundo dos adultos.",
+                "vote_average": 7.2,
+                "vote_count": 3431
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Bull Durham",
+            "second_label": "Ron Shelton",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 1989,
+            "tmdb": {
+                "id": 287,
+                "original_title": "Bull Durham",
+                "title": "Sorte no Amor",
+                "release_date": "1988-06-15",
+                "backdrop_path": "/5T78V938To4lWEyEXVcfSJ8gND0.jpg",
+                "poster_path": "/tNQG4dNJhjDXWmi9IqB7duM13xT.jpg",
+                "overview": "O fraco time de beisebol Bull Durham contrata o iniciante Nuke LaLoosh. Crash Davis, um experiente jogador, \u00e9 chamado para trein\u00e1-lo com o intuito de melhorar suas habilidades. Mas, quando os dois se envolvem em um tri\u00e2ngulo amoroso com a torcedora Annie, o desempenho da equipe fica amea\u00e7ado.",
+                "vote_average": 6.674,
+                "vote_count": 542
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Fish Called Wanda",
+            "second_label": "Screenplay by John Cleese;  Story by John Cleese, Charles Crichton",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 1989,
+            "tmdb": {
+                "id": 623,
+                "original_title": "A Fish Called Wanda",
+                "title": "Um Peixe Chamado Wanda",
+                "release_date": "1988-07-15",
+                "backdrop_path": "/y8HaV1Ntr6nHmKxZ29B7DwxwvNU.jpg",
+                "poster_path": "/qHoIjKdJzlbvUwk4G55AtIem2rG.jpg",
+                "overview": "Com o intuito de seduzir Archie para descobrir o esconderijo das j\u00f3ias roubadas por um de seus clientes, Wanda est\u00e1 pronta para agir! Infelizmente para ambos, o namorado e parceiro da mo\u00e7a (Kline) tamb\u00e9m est\u00e1 pronto para agir, mas contra Archie! Quem ficar\u00e1 com as j\u00f3ias? Quem ficar\u00e1 com Wanda? Fica aqui o suspense, mas uma coisa \u00e9 certa: \"Um Peixe Chamado Wanda\" \u00e9 um filme que com certeza vai fisgar voc\u00ea!",
+                "vote_average": 7.2,
+                "vote_count": 2058
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Running on Empty",
+            "second_label": "Naomi Foner",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 1989,
+            "tmdb": {
+                "id": 18197,
+                "original_title": "Running on Empty",
+                "title": "O Peso de um Passado",
+                "release_date": "1988-09-09",
+                "backdrop_path": "/tXGJrtjXfht138G5kk7QxUEPIyZ.jpg",
+                "poster_path": "/s9eAOYQ1cpwlO2gmcfcers9bTvO.jpg",
+                "overview": "Em 1971, casal de ativistas anti-b\u00e9licos destr\u00f3i um laborat\u00f3rio qu\u00edmico que fabricava explosivos para serem utilizados na Guerra do Vietn\u00e3. Por causa disso, durante anos eles passaram a vida fugindo do FBI. Mas o fillho deles - agora um jovem - quer se livrar desse passado.",
+                "vote_average": 7.5,
+                "vote_count": 292
+            },
+            "winner": false
+        }
+    ]
+}

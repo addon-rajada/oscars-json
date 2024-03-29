@@ -1,0 +1,1558 @@
+{
+    "Actor in a Leading Role": [
+        {
+            "first_label": "Robert De Niro",
+            "second_label": "Raging Bull",
+            "category": "Actor in a Leading Role",
+            "year": 1981,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Robert Duvall",
+            "second_label": "The Great Santini",
+            "category": "Actor in a Leading Role",
+            "year": 1981,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "John Hurt",
+            "second_label": "The Elephant Man",
+            "category": "Actor in a Leading Role",
+            "year": 1981,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jack Lemmon",
+            "second_label": "Tribute",
+            "category": "Actor in a Leading Role",
+            "year": 1981,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Peter O'Toole",
+            "second_label": "The Stunt Man",
+            "category": "Actor in a Leading Role",
+            "year": 1981,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Timothy Hutton",
+            "second_label": "Ordinary People",
+            "category": "Actor in a Supporting Role",
+            "year": 1981,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Judd Hirsch",
+            "second_label": "Ordinary People",
+            "category": "Actor in a Supporting Role",
+            "year": 1981,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Michael O'Keefe",
+            "second_label": "The Great Santini",
+            "category": "Actor in a Supporting Role",
+            "year": 1981,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Joe Pesci",
+            "second_label": "Raging Bull",
+            "category": "Actor in a Supporting Role",
+            "year": 1981,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jason Robards",
+            "second_label": "Melvin and Howard",
+            "category": "Actor in a Supporting Role",
+            "year": 1981,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Leading Role": [
+        {
+            "first_label": "Sissy Spacek",
+            "second_label": "Coal Miner's Daughter",
+            "category": "Actress in a Leading Role",
+            "year": 1981,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Ellen Burstyn",
+            "second_label": "Resurrection",
+            "category": "Actress in a Leading Role",
+            "year": 1981,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Goldie Hawn",
+            "second_label": "Private Benjamin",
+            "category": "Actress in a Leading Role",
+            "year": 1981,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mary Tyler Moore",
+            "second_label": "Ordinary People",
+            "category": "Actress in a Leading Role",
+            "year": 1981,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gena Rowlands",
+            "second_label": "Gloria",
+            "category": "Actress in a Leading Role",
+            "year": 1981,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Mary Steenburgen",
+            "second_label": "Melvin and Howard",
+            "category": "Actress in a Supporting Role",
+            "year": 1981,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Eileen Brennan",
+            "second_label": "Private Benjamin",
+            "category": "Actress in a Supporting Role",
+            "year": 1981,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Eva Le Gallienne",
+            "second_label": "Resurrection",
+            "category": "Actress in a Supporting Role",
+            "year": 1981,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Cathy Moriarty",
+            "second_label": "Raging Bull",
+            "category": "Actress in a Supporting Role",
+            "year": 1981,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Diana Scarwid",
+            "second_label": "Inside Moves",
+            "category": "Actress in a Supporting Role",
+            "year": 1981,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction": [
+        {
+            "first_label": "Tess",
+            "second_label": "Art Direction: Pierre Guffroy, Jack Stephens",
+            "category": "Art Direction",
+            "year": 1981,
+            "tmdb": {
+                "id": 11121,
+                "original_title": "Tess",
+                "title": "Tess - Uma Li\u00e7\u00e3o de Vida",
+                "release_date": "1979-10-06",
+                "backdrop_path": "/hEVAABU2c86MU42jlnGRM9FcCq5.jpg",
+                "poster_path": "/dJKSee0Dvurz215ziq1uaxRc236.jpg",
+                "overview": "Na Inglaterra do s\u00e9culo 19, a bela Tess, filha de um fazendeiro, \u00e9 enviada para viver com parentes nobres. Ela \u00e9 seduzida e abandonada por seu primo distante, Alec. De volta \u00e0 fazenda de seu pai, ela d\u00e1 \u00e0 luz um beb\u00ea natimorto e enfrenta a hipocrisia da sociedade. Baseado no romance de Thomas Hardy.",
+                "vote_average": 7.0,
+                "vote_count": 316
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Coal Miner's Daughter",
+            "second_label": "Art Direction: John W. Corso; Set Decoration: John M. Dwyer",
+            "category": "Art Direction",
+            "year": 1981,
+            "tmdb": {
+                "id": 16769,
+                "original_title": "Coal Miner's Daughter",
+                "title": "O Destino Mudou Sua Vida",
+                "release_date": "1980-03-07",
+                "backdrop_path": "/Aa4UDJWVckGXwPZxY5qpRifQFYp.jpg",
+                "poster_path": "/dwuK8TlUKYcClQOK7AjqtauMjOs.jpg",
+                "overview": "A cidade de Butcher Hollow, no Kentucky, tem na explora\u00e7\u00e3o das minas de carv\u00e3o sua \u00fanica atividade econ\u00f4mica. L\u00e1 nasceu Loretta (Sissy Spacek), uma dos 8 filhos de Ted Webb (Levon Helm), um mineiro que criou sua fam\u00edlia, apesar de ser bem pobre. Quando tinha apenas 13 anos Loretta se casou com Doolittle Lynn (Tommy Lee Jones). Com 20 anos ela j\u00e1 tinha 4 filhos e tudo indicava que seria uma dona de casa pelo resto da vida. Nesta \u00e9poca ela come\u00e7ou a cantar ocasionalmente para sua fam\u00edlia. Seu dom come\u00e7ou a ser notado por Doolittle, que a presenteou com um viol\u00e3o. Com o est\u00edmulo do marido, ela grava um disco independente e os dois fazem de tudo para que o disco seja divulgado. Aos poucos Loretta se torna conhecida no mundo da m\u00fasica country, o que faz com que se torne amiga de Patsy Cline (Beverly D'Angelo), que era na \u00e9poca a maior estrela da country music. Mas junto com o sucesso tamb\u00e9m vieram diversas apresenta\u00e7\u00f5es, que deixavam Loretta cada vez mais esgotada f\u00edsica e psiquicamente.",
+                "vote_average": 7.2,
+                "vote_count": 235
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Elephant Man",
+            "second_label": "Art Direction: Stuart Craig, Bob Cartwright; Set Decoration: Hugh Scaife",
+            "category": "Art Direction",
+            "year": 1981,
+            "tmdb": {
+                "id": 1955,
+                "original_title": "The Elephant Man",
+                "title": "O Homem Elefante",
+                "release_date": "1980-10-09",
+                "backdrop_path": "/hKpzq3U7X1C1lqnYh0WQwlPyxO5.jpg",
+                "poster_path": "/fexIgjQZHYXrvIUXGAvfDg5WzHk.jpg",
+                "overview": "A hist\u00f3ria de John Merrick, um desafortunado cidad\u00e3o da Inglaterra vitoriana que era portador do caso mais grave de neurofibromatose m\u00faltipla registrado, tendo 90% do seu corpo deformado. Esta situa\u00e7\u00e3o tendia fazer com que ele passasse toda a sua exist\u00eancia se exibindo em circos de variedades como um monstro. Inicialmente era considerado um d\u00e9bil mental pela sua dificuldade de falar, at\u00e9 que um m\u00e9dico, Frederick Treves, o descobriu e o levou para um hospital. L\u00e1 Merrick se liberou emocionalmente e intelectualmente, al\u00e9m de se mostrar uma pessoa sens\u00edvel ao extremo, que conseguiu recuperar sua dignidade.",
+                "vote_average": 8.0,
+                "vote_count": 3311
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Empire Strikes Back",
+            "second_label": "Art Direction: Norman Reynolds, Leslie Dilley, Harry Lange, Alan Tomkins; Set Decoration: Michael Ford",
+            "category": "Art Direction",
+            "year": 1981,
+            "tmdb": {
+                "id": 1891,
+                "original_title": "The Empire Strikes Back",
+                "title": "Guerra nas Estrelas: O Imp\u00e9rio Contra-Ataca",
+                "release_date": "1980-05-20",
+                "backdrop_path": "/aJCtkxLLzkk1pECehVjKHA2lBgw.jpg",
+                "poster_path": "/dLGT8b4Ut10z44uYLaip4QiwKta.jpg",
+                "overview": "As for\u00e7as imperais comandadas por Darth Vader lan\u00e7am um ataque contra os membros da resist\u00eancia, que s\u00e3o obrigados a fugir. Enquanto isso Luke Skywalker tenta encontrar o Mestre Yoda, que poder\u00e1 ensin\u00e1-lo a dominar a \"For\u00e7a\" e torn\u00e1-lo um cavaleiro jedi. No entanto, Darth Vader planeja lev\u00e1-lo para o lado negro da \"For\u00e7a\".",
+                "vote_average": 8.391,
+                "vote_count": 16309
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Kagemusha (The Shadow Warrior)",
+            "second_label": "Yoshiro Muraki",
+            "category": "Art Direction",
+            "year": 1981,
+            "tmdb": {
+                "id": 11953,
+                "original_title": "\u5f71\u6b66\u8005",
+                "title": "Kagemusha, a Sombra do Samurai",
+                "release_date": "1980-04-26",
+                "backdrop_path": "/lkivVsolS6RPCuy8wgHvixGRJcE.jpg",
+                "poster_path": "/e4v3mNc9SvSnESPN9z1zvivkEs0.jpg",
+                "overview": "Shingen, um poderoso Senhor da Guerra, seriamente ferido, ordena ao cl\u00e3 que use algum s\u00f3sia para o substituir caso fale\u00e7a - para manter a sua morte em segredo, evitando assim o ataque dos seus inimigos. Mas este \u00e9 um vulgar criminoso que tem de aprender a transformar-se num grande l\u00edder e comandar um ex\u00e9rcito de 25.000 leais guerreiros Samurai\u2026",
+                "vote_average": 7.8,
+                "vote_count": 605
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "Tess",
+            "second_label": "Geoffrey Unsworth, Ghislain Cloquet",
+            "category": "Cinematography",
+            "year": 1981,
+            "tmdb": {
+                "id": 11121,
+                "original_title": "Tess",
+                "title": "Tess - Uma Li\u00e7\u00e3o de Vida",
+                "release_date": "1979-10-06",
+                "backdrop_path": "/hEVAABU2c86MU42jlnGRM9FcCq5.jpg",
+                "poster_path": "/dJKSee0Dvurz215ziq1uaxRc236.jpg",
+                "overview": "Na Inglaterra do s\u00e9culo 19, a bela Tess, filha de um fazendeiro, \u00e9 enviada para viver com parentes nobres. Ela \u00e9 seduzida e abandonada por seu primo distante, Alec. De volta \u00e0 fazenda de seu pai, ela d\u00e1 \u00e0 luz um beb\u00ea natimorto e enfrenta a hipocrisia da sociedade. Baseado no romance de Thomas Hardy.",
+                "vote_average": 7.0,
+                "vote_count": 316
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Blue Lagoon",
+            "second_label": "Nestor Almendros",
+            "category": "Cinematography",
+            "year": 1981,
+            "tmdb": {
+                "id": 5689,
+                "original_title": "The Blue Lagoon",
+                "title": "A Lagoa Azul",
+                "release_date": "1980-07-05",
+                "backdrop_path": "/4HYBkZPz2Gb7LWXludvvOfATzGS.jpg",
+                "poster_path": "/44NpOB3zKwSKzu6mEDQY235rRxP.jpg",
+                "overview": "Emmeline e Richard, duas crian\u00e7as, juntamente com Paddy Button, um velho marinheiro, s\u00e3o os \u00fanicos sobreviventes de um naufr\u00e1gio numa \u00e9poca em que navegar era a \u00fanica forma de viajar. Ap\u00f3s ficarem \u00e0 deriva por v\u00e1rias horas eles v\u00e3o parar em uma ilha tropical que \u00e9 um verdadeiro para\u00edso. O lugar n\u00e3o oferece perigo, pois n\u00e3o h\u00e1 animais selvagens, mas ap\u00f3s algum tempo Paddy morre. Com o tempo Emmeline e Richard se tornam adolescentes e vivem em uma cabana que eles mesmos constru\u00edram. Neste per\u00edodo novas emo\u00e7\u00f5es influenciam o relacionamento deles, os dois descobrem o amor e logo Emmeline est\u00e1 gr\u00e1vida. Na noite em que o filho deles nasce Richard descobre a origem dos tambores que eles ouvem de vez em quando no \"lado proibido\" da ilha.",
+                "vote_average": 6.2,
+                "vote_count": 1723
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Coal Miner's Daughter",
+            "second_label": "Ralf D. Bode",
+            "category": "Cinematography",
+            "year": 1981,
+            "tmdb": {
+                "id": 16769,
+                "original_title": "Coal Miner's Daughter",
+                "title": "O Destino Mudou Sua Vida",
+                "release_date": "1980-03-07",
+                "backdrop_path": "/Aa4UDJWVckGXwPZxY5qpRifQFYp.jpg",
+                "poster_path": "/dwuK8TlUKYcClQOK7AjqtauMjOs.jpg",
+                "overview": "A cidade de Butcher Hollow, no Kentucky, tem na explora\u00e7\u00e3o das minas de carv\u00e3o sua \u00fanica atividade econ\u00f4mica. L\u00e1 nasceu Loretta (Sissy Spacek), uma dos 8 filhos de Ted Webb (Levon Helm), um mineiro que criou sua fam\u00edlia, apesar de ser bem pobre. Quando tinha apenas 13 anos Loretta se casou com Doolittle Lynn (Tommy Lee Jones). Com 20 anos ela j\u00e1 tinha 4 filhos e tudo indicava que seria uma dona de casa pelo resto da vida. Nesta \u00e9poca ela come\u00e7ou a cantar ocasionalmente para sua fam\u00edlia. Seu dom come\u00e7ou a ser notado por Doolittle, que a presenteou com um viol\u00e3o. Com o est\u00edmulo do marido, ela grava um disco independente e os dois fazem de tudo para que o disco seja divulgado. Aos poucos Loretta se torna conhecida no mundo da m\u00fasica country, o que faz com que se torne amiga de Patsy Cline (Beverly D'Angelo), que era na \u00e9poca a maior estrela da country music. Mas junto com o sucesso tamb\u00e9m vieram diversas apresenta\u00e7\u00f5es, que deixavam Loretta cada vez mais esgotada f\u00edsica e psiquicamente.",
+                "vote_average": 7.2,
+                "vote_count": 235
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Formula",
+            "second_label": "James Crabe",
+            "category": "Cinematography",
+            "year": 1981,
+            "tmdb": {
+                "id": 31603,
+                "original_title": "The Formula",
+                "title": "A F\u00f3rmula",
+                "release_date": "1980-12-19",
+                "backdrop_path": "/xrloqzB22qCZILIfcvi6P2ACjJN.jpg",
+                "poster_path": "/rnPDLq35sRuaJsjPmwFMjrqqXGP.jpg",
+                "overview": "Ao investigar a morte de um amigo e colega policial, o policial de Los Angeles Barney Caine se depara com evid\u00eancias de que os nazistas criaram uma alternativa sint\u00e9tica \u00e0 gasolina durante a Segunda Guerra Mundial. Esta revela\u00e7\u00e3o tem o potencial de acabar com a ind\u00fastria petrol\u00edfera global estabelecida, tornando a f\u00f3rmula uma informa\u00e7\u00e3o muito valiosa e perigosa. Eventualmente, Caine deve enfrentar o magnata do petr\u00f3leo Adam Steiffel, que claramente tem sua pr\u00f3pria agenda em rela\u00e7\u00e3o \u00e0 f\u00f3rmula.",
+                "vote_average": 5.5,
+                "vote_count": 39
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Raging Bull",
+            "second_label": "Michael Chapman",
+            "category": "Cinematography",
+            "year": 1981,
+            "tmdb": {
+                "id": 1578,
+                "original_title": "Raging Bull",
+                "title": "Touro Indom\u00e1vel",
+                "release_date": "1980-11-14",
+                "backdrop_path": "/aAStHDJgD97k4g4Zf0NLqbAmrvZ.jpg",
+                "poster_path": "/lLeWJU33HgfWTnrOcaNBR5fUcF1.jpg",
+                "overview": "O pugilista peso-m\u00e9dio Jake LaMotta (Robert De Niro), chamado de \"o touro do Bronx\", sobe na carreira com a mesma rapidez com que sua vida particular se degrada, gra\u00e7as ao seu temperamento violento e possessivo. Todos ao seu redor s\u00e3o afetados por seu comportamento auto-destrutivo, como seu irm\u00e3o e empres\u00e1rio Joey LaMotta (Joe Pesci) e sua esposa Vickie (Cathy Moriarty).",
+                "vote_average": 7.941,
+                "vote_count": 4093
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design": [
+        {
+            "first_label": "Tess",
+            "second_label": "Anthony Powell",
+            "category": "Costume Design",
+            "year": 1981,
+            "tmdb": {
+                "id": 11121,
+                "original_title": "Tess",
+                "title": "Tess - Uma Li\u00e7\u00e3o de Vida",
+                "release_date": "1979-10-06",
+                "backdrop_path": "/hEVAABU2c86MU42jlnGRM9FcCq5.jpg",
+                "poster_path": "/dJKSee0Dvurz215ziq1uaxRc236.jpg",
+                "overview": "Na Inglaterra do s\u00e9culo 19, a bela Tess, filha de um fazendeiro, \u00e9 enviada para viver com parentes nobres. Ela \u00e9 seduzida e abandonada por seu primo distante, Alec. De volta \u00e0 fazenda de seu pai, ela d\u00e1 \u00e0 luz um beb\u00ea natimorto e enfrenta a hipocrisia da sociedade. Baseado no romance de Thomas Hardy.",
+                "vote_average": 7.0,
+                "vote_count": 316
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Elephant Man",
+            "second_label": "Patricia Norris",
+            "category": "Costume Design",
+            "year": 1981,
+            "tmdb": {
+                "id": 1955,
+                "original_title": "The Elephant Man",
+                "title": "O Homem Elefante",
+                "release_date": "1980-10-09",
+                "backdrop_path": "/hKpzq3U7X1C1lqnYh0WQwlPyxO5.jpg",
+                "poster_path": "/fexIgjQZHYXrvIUXGAvfDg5WzHk.jpg",
+                "overview": "A hist\u00f3ria de John Merrick, um desafortunado cidad\u00e3o da Inglaterra vitoriana que era portador do caso mais grave de neurofibromatose m\u00faltipla registrado, tendo 90% do seu corpo deformado. Esta situa\u00e7\u00e3o tendia fazer com que ele passasse toda a sua exist\u00eancia se exibindo em circos de variedades como um monstro. Inicialmente era considerado um d\u00e9bil mental pela sua dificuldade de falar, at\u00e9 que um m\u00e9dico, Frederick Treves, o descobriu e o levou para um hospital. L\u00e1 Merrick se liberou emocionalmente e intelectualmente, al\u00e9m de se mostrar uma pessoa sens\u00edvel ao extremo, que conseguiu recuperar sua dignidade.",
+                "vote_average": 8.0,
+                "vote_count": 3311
+            },
+            "winner": false
+        },
+        {
+            "first_label": "My Brilliant Career",
+            "second_label": "Anna Senior",
+            "category": "Costume Design",
+            "year": 1981,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Somewhere in Time",
+            "second_label": "Jean-Pierre Dorleac",
+            "category": "Costume Design",
+            "year": 1981,
+            "tmdb": {
+                "id": 16633,
+                "original_title": "Somewhere in Time",
+                "title": "Em Algum Lugar do Passado",
+                "release_date": "1980-10-02",
+                "backdrop_path": "/8d5C2IHEoI83muLRxhvJQAiIefD.jpg",
+                "poster_path": "/aKGMcizZuTMKMkqmdP9cRECtwyQ.jpg",
+                "overview": "Na noite de estreia de sua pe\u00e7a, um jovem escritor se depara com uma senhora que misteriosamente pede para ele voltar para ela. Ap\u00f3s alguns anos, ele descobre que ela foi uma conceituada atriz do in\u00edcio do s\u00e9culo. Obcecado, ele decide viajar no tempo usando a hipnose para encontr\u00e1-la",
+                "vote_average": 7.5,
+                "vote_count": 532
+            },
+            "winner": false
+        },
+        {
+            "first_label": "When Time Ran Out",
+            "second_label": "Paul Zastupnevich",
+            "category": "Costume Design",
+            "year": 1981,
+            "tmdb": {
+                "id": 47942,
+                "original_title": "When Time Ran Out...",
+                "title": "O Dia em Que o Mundo Acabou",
+                "release_date": "1980-03-28",
+                "backdrop_path": "/akjT2Kk8GDjmQgFKOMu3CLOJgN5.jpg",
+                "poster_path": "/p2aOR5JZYJbhweEnvgwXaZaGdKF.jpg",
+                "overview": "An active volcano threatens a south Pacific island resort and its guests as a power struggle ensues between the property's developer and a drilling foreman.",
+                "vote_average": 5.2,
+                "vote_count": 61
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "Ordinary People",
+            "second_label": "Robert Redford",
+            "category": "Directing",
+            "year": 1981,
+            "tmdb": {
+                "id": 16619,
+                "original_title": "Ordinary People",
+                "title": "Gente Como a Gente",
+                "release_date": "1980-09-19",
+                "backdrop_path": "/81LV5HJ9nUXGCMhrJpFNjwvbEZl.jpg",
+                "poster_path": "/recsjwsZkRAkOxMMkm7SMoqlQoM.jpg",
+                "overview": "A morte prematura em um acidente de um dos filhos de uma fam\u00edlia de classe m\u00e9dia alta acaba afetando a todos, principalmente o irm\u00e3o da v\u00edtima, que se considera respons\u00e1vel pelo ocorrido e est\u00e1 em tratamento psiqui\u00e1trico. No entanto, a m\u00e3e faz quest\u00e3o de manter as apar\u00eancias, para n\u00e3o dar a entender que a unidade familiar foi quebrada.",
+                "vote_average": 7.4,
+                "vote_count": 586
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Elephant Man",
+            "second_label": "David Lynch",
+            "category": "Directing",
+            "year": 1981,
+            "tmdb": {
+                "id": 1955,
+                "original_title": "The Elephant Man",
+                "title": "O Homem Elefante",
+                "release_date": "1980-10-09",
+                "backdrop_path": "/hKpzq3U7X1C1lqnYh0WQwlPyxO5.jpg",
+                "poster_path": "/fexIgjQZHYXrvIUXGAvfDg5WzHk.jpg",
+                "overview": "A hist\u00f3ria de John Merrick, um desafortunado cidad\u00e3o da Inglaterra vitoriana que era portador do caso mais grave de neurofibromatose m\u00faltipla registrado, tendo 90% do seu corpo deformado. Esta situa\u00e7\u00e3o tendia fazer com que ele passasse toda a sua exist\u00eancia se exibindo em circos de variedades como um monstro. Inicialmente era considerado um d\u00e9bil mental pela sua dificuldade de falar, at\u00e9 que um m\u00e9dico, Frederick Treves, o descobriu e o levou para um hospital. L\u00e1 Merrick se liberou emocionalmente e intelectualmente, al\u00e9m de se mostrar uma pessoa sens\u00edvel ao extremo, que conseguiu recuperar sua dignidade.",
+                "vote_average": 8.0,
+                "vote_count": 3311
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Raging Bull",
+            "second_label": "Martin Scorsese",
+            "category": "Directing",
+            "year": 1981,
+            "tmdb": {
+                "id": 1578,
+                "original_title": "Raging Bull",
+                "title": "Touro Indom\u00e1vel",
+                "release_date": "1980-11-14",
+                "backdrop_path": "/aAStHDJgD97k4g4Zf0NLqbAmrvZ.jpg",
+                "poster_path": "/lLeWJU33HgfWTnrOcaNBR5fUcF1.jpg",
+                "overview": "O pugilista peso-m\u00e9dio Jake LaMotta (Robert De Niro), chamado de \"o touro do Bronx\", sobe na carreira com a mesma rapidez com que sua vida particular se degrada, gra\u00e7as ao seu temperamento violento e possessivo. Todos ao seu redor s\u00e3o afetados por seu comportamento auto-destrutivo, como seu irm\u00e3o e empres\u00e1rio Joey LaMotta (Joe Pesci) e sua esposa Vickie (Cathy Moriarty).",
+                "vote_average": 7.941,
+                "vote_count": 4093
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Stunt Man",
+            "second_label": "Richard Rush",
+            "category": "Directing",
+            "year": 1981,
+            "tmdb": {
+                "id": 42160,
+                "original_title": "The Stunt Man",
+                "title": "O Substituto",
+                "release_date": "1980-06-27",
+                "backdrop_path": "/eu5FAFKhbr0Y4A24QnNjeac5P8g.jpg",
+                "poster_path": "/2GiT0zJMTMCn1Jc4aLVLsdfH4lh.jpg",
+                "overview": "Cameron (Steve Railsback), um fugitivo da pol\u00edcia, acidentalmente causa a morte de um dubl\u00ea durante as filmagens. Eli Cross (Peter O'Toole), o diretor do filme, sabendo que ele precisa se esconder diz a pol\u00edcia que ele \u00e9 quem pensavam que tivesse morrido. Em troca exige que ele atue como dubl\u00ea em cenas cada vez mais arriscadas, fazendo Cameron pensar na possibilidade de morrer durante as filmagens fazendo algo totalmente imposs\u00edvel.",
+                "vote_average": 6.6,
+                "vote_count": 127
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tess",
+            "second_label": "Roman Polanski",
+            "category": "Directing",
+            "year": 1981,
+            "tmdb": {
+                "id": 11121,
+                "original_title": "Tess",
+                "title": "Tess - Uma Li\u00e7\u00e3o de Vida",
+                "release_date": "1979-10-06",
+                "backdrop_path": "/hEVAABU2c86MU42jlnGRM9FcCq5.jpg",
+                "poster_path": "/dJKSee0Dvurz215ziq1uaxRc236.jpg",
+                "overview": "Na Inglaterra do s\u00e9culo 19, a bela Tess, filha de um fazendeiro, \u00e9 enviada para viver com parentes nobres. Ela \u00e9 seduzida e abandonada por seu primo distante, Alec. De volta \u00e0 fazenda de seu pai, ela d\u00e1 \u00e0 luz um beb\u00ea natimorto e enfrenta a hipocrisia da sociedade. Baseado no romance de Thomas Hardy.",
+                "vote_average": 7.0,
+                "vote_count": 316
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "From Mao to Mozart: Isaac Stern in China",
+            "second_label": "Murray Lerner, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1981,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Agee",
+            "second_label": "Ross Spears, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1981,
+            "tmdb": {
+                "id": 136682,
+                "original_title": "Agee",
+                "title": "Agee",
+                "release_date": "1980-11-14",
+                "backdrop_path": "/r18AdTYlehj9G4EoQQDbz6MBrse.jpg",
+                "poster_path": "/AlKQ7HaiuUI91d8LCdedqtjfA4j.jpg",
+                "overview": "A documentary on the life of author and screenwriter James Agee.",
+                "vote_average": 5.2,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Day after Trinity",
+            "second_label": "Jon Else, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1981,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Front Line",
+            "second_label": "David Bradbury, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1981,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Yellow Star - The Persecution of the Jews in Europe 1933-45",
+            "second_label": "Bengt von zur Muehlen and Arthur Cohn, Producers",
+            "category": "Documentary (Feature)",
+            "year": 1981,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "Karl Hess: Toward Liberty",
+            "second_label": "Karl Hess: Toward Liberty",
+            "category": "Documentary (Short Subject)",
+            "year": 1981,
+            "tmdb": {
+                "id": 244373,
+                "original_title": "Karl Hess: Toward Liberty",
+                "title": "Karl Hess: Toward Liberty",
+                "release_date": "1980-10-01",
+                "backdrop_path": null,
+                "poster_path": "/i0gEpRrcI6tDTRyuTBxpL2oScQf.jpg",
+                "overview": "A look at Karl Hess, libertarian intellectual and activist, from his background as a magazine editor in his youth to his work as a Republican speechwriter, as he became simultaneously a writer for Barry Goldwater and a member of Students for a Democratic Society. In the late 1960s he embarked on a new period in his life, moving to rural West Virginia and becoming involved in movements promoting alternative technologies and renewable energy. He discusses his views opposing large institutions, ranging from government to corporations to universities.",
+                "vote_average": 6.4,
+                "vote_count": 7
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Don't Mess with Bill",
+            "second_label": "John Watson and Pen Densham, Producers",
+            "category": "Documentary (Short Subject)",
+            "year": 1981,
+            "tmdb": {
+                "id": 244376,
+                "original_title": "Don't Mess with Bill",
+                "title": "Don't Mess with Bill",
+                "release_date": "1980-01-01",
+                "backdrop_path": null,
+                "poster_path": "/lS5jciLo6OvYYyaLWfs4fojhXfp.jpg",
+                "overview": "Don't Mess with Bill is a 1980 Canadian short documentary film about Canadian martial arts pioneer Bill Underwood. At eighty-four, Underwood is a specialist in his own brand of self defense, which he still teaches to police, students, and senior citizens. It was nominated for an Academy Award for Best Documentary Short.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Eruption of Mount St. Helens",
+            "second_label": "George Casey, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1981,
+            "tmdb": {
+                "id": 31753,
+                "original_title": "The Eruption of Mount St. Helens!",
+                "title": "The Eruption of Mount St. Helens!",
+                "release_date": "1980-05-18",
+                "backdrop_path": "/fTyYXoN54zcsvxOqOebuQxxX82E.jpg",
+                "poster_path": "/yCzp3n3BOHUvmdq5lmxvtel75WM.jpg",
+                "overview": "Originally shown in IMAX theaters, this film presents highly detailed and lavish views of the gorgeous scenery of the Pacific Northwest, both as they appeared before the top 1,300 feet of Mount St. Helens was blown into the sky and during the disaster's dramatic aftermath.",
+                "vote_average": 6.4,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "It's the Same World",
+            "second_label": "Dick Young, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1981,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Luther Metke at 94",
+            "second_label": "Richard Hawkins and Jorge Preloran, Producers",
+            "category": "Documentary (Short Subject)",
+            "year": 1981,
+            "tmdb": {
+                "id": 244380,
+                "original_title": "Luther Metke at 94",
+                "title": "Luther Metke at 94",
+                "release_date": "1980-01-01",
+                "backdrop_path": null,
+                "poster_path": "/2ua6dTpnhq3EgwqD5GmsUIpXkA5.jpg",
+                "overview": "Portrait of Luther Metke, a Spanish American War veteran, poet, philosopher, and log-cabin maker, aged 94 at the time of filming. In voice over narration drawn from interviews, Metke recites his own poetry and talks about his life and his philosophy. Includes footage of Metke building a six-sided cabin, being interviewed by a local TV news station, and visiting with his family. Oscar nominated documentary short in 1980.",
+                "vote_average": 6.3,
+                "vote_count": 3
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "Raging Bull",
+            "second_label": "Thelma Schoonmaker",
+            "category": "Film Editing",
+            "year": 1981,
+            "tmdb": {
+                "id": 1578,
+                "original_title": "Raging Bull",
+                "title": "Touro Indom\u00e1vel",
+                "release_date": "1980-11-14",
+                "backdrop_path": "/aAStHDJgD97k4g4Zf0NLqbAmrvZ.jpg",
+                "poster_path": "/lLeWJU33HgfWTnrOcaNBR5fUcF1.jpg",
+                "overview": "O pugilista peso-m\u00e9dio Jake LaMotta (Robert De Niro), chamado de \"o touro do Bronx\", sobe na carreira com a mesma rapidez com que sua vida particular se degrada, gra\u00e7as ao seu temperamento violento e possessivo. Todos ao seu redor s\u00e3o afetados por seu comportamento auto-destrutivo, como seu irm\u00e3o e empres\u00e1rio Joey LaMotta (Joe Pesci) e sua esposa Vickie (Cathy Moriarty).",
+                "vote_average": 7.941,
+                "vote_count": 4093
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Coal Miner's Daughter",
+            "second_label": "Arthur Schmidt",
+            "category": "Film Editing",
+            "year": 1981,
+            "tmdb": {
+                "id": 16769,
+                "original_title": "Coal Miner's Daughter",
+                "title": "O Destino Mudou Sua Vida",
+                "release_date": "1980-03-07",
+                "backdrop_path": "/Aa4UDJWVckGXwPZxY5qpRifQFYp.jpg",
+                "poster_path": "/dwuK8TlUKYcClQOK7AjqtauMjOs.jpg",
+                "overview": "A cidade de Butcher Hollow, no Kentucky, tem na explora\u00e7\u00e3o das minas de carv\u00e3o sua \u00fanica atividade econ\u00f4mica. L\u00e1 nasceu Loretta (Sissy Spacek), uma dos 8 filhos de Ted Webb (Levon Helm), um mineiro que criou sua fam\u00edlia, apesar de ser bem pobre. Quando tinha apenas 13 anos Loretta se casou com Doolittle Lynn (Tommy Lee Jones). Com 20 anos ela j\u00e1 tinha 4 filhos e tudo indicava que seria uma dona de casa pelo resto da vida. Nesta \u00e9poca ela come\u00e7ou a cantar ocasionalmente para sua fam\u00edlia. Seu dom come\u00e7ou a ser notado por Doolittle, que a presenteou com um viol\u00e3o. Com o est\u00edmulo do marido, ela grava um disco independente e os dois fazem de tudo para que o disco seja divulgado. Aos poucos Loretta se torna conhecida no mundo da m\u00fasica country, o que faz com que se torne amiga de Patsy Cline (Beverly D'Angelo), que era na \u00e9poca a maior estrela da country music. Mas junto com o sucesso tamb\u00e9m vieram diversas apresenta\u00e7\u00f5es, que deixavam Loretta cada vez mais esgotada f\u00edsica e psiquicamente.",
+                "vote_average": 7.2,
+                "vote_count": 235
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Competition",
+            "second_label": "David Blewitt",
+            "category": "Film Editing",
+            "year": 1981,
+            "tmdb": {
+                "id": 42158,
+                "original_title": "The Competition",
+                "title": "A Competi\u00e7\u00e3o",
+                "release_date": "1980-12-03",
+                "backdrop_path": "/1SEPQTtrH1ywdioeSVz8QYdCQwl.jpg",
+                "poster_path": "/14iMtdJY3HjwrmqPUZ55F4LzuCd.jpg",
+                "overview": "The movie centers on a piano competition whose winner is assured of success. It is Paul's last chance to compete, but newcomer Heidi may be a better pianist. Can romance be far away? Will she take a dive despite the pressure to win from her teacher, Greta, or will she condemn Paul to obscurity?",
+                "vote_average": 6.1,
+                "vote_count": 17
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Elephant Man",
+            "second_label": "Anne V. Coates",
+            "category": "Film Editing",
+            "year": 1981,
+            "tmdb": {
+                "id": 1955,
+                "original_title": "The Elephant Man",
+                "title": "O Homem Elefante",
+                "release_date": "1980-10-09",
+                "backdrop_path": "/hKpzq3U7X1C1lqnYh0WQwlPyxO5.jpg",
+                "poster_path": "/fexIgjQZHYXrvIUXGAvfDg5WzHk.jpg",
+                "overview": "A hist\u00f3ria de John Merrick, um desafortunado cidad\u00e3o da Inglaterra vitoriana que era portador do caso mais grave de neurofibromatose m\u00faltipla registrado, tendo 90% do seu corpo deformado. Esta situa\u00e7\u00e3o tendia fazer com que ele passasse toda a sua exist\u00eancia se exibindo em circos de variedades como um monstro. Inicialmente era considerado um d\u00e9bil mental pela sua dificuldade de falar, at\u00e9 que um m\u00e9dico, Frederick Treves, o descobriu e o levou para um hospital. L\u00e1 Merrick se liberou emocionalmente e intelectualmente, al\u00e9m de se mostrar uma pessoa sens\u00edvel ao extremo, que conseguiu recuperar sua dignidade.",
+                "vote_average": 8.0,
+                "vote_count": 3311
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Fame",
+            "second_label": "Gerry Hambling",
+            "category": "Film Editing",
+            "year": 1981,
+            "tmdb": {
+                "id": 3537,
+                "original_title": "Fame",
+                "title": "Fama",
+                "release_date": "1980-05-16",
+                "backdrop_path": "/jekdv0OUnppLnpbPdBIkwCoeENo.jpg",
+                "poster_path": "/7IDmjMU3gOmECooFFiPuWN2v4lQ.jpg",
+                "overview": "Em Nova York, estudantes de diversas origens sociais de uma escola de artes c\u00eanicas aprendem a atuar, cantar e dan\u00e7ar. Coco Hernandez, Doris Finsecker, Montgomery MacNeil e Raul Garcia se deparam com seus sonhos e suas frustra\u00e7\u00f5es no decorrer do curso mas, acima de tudo, almejam serem amados e reconhecidos artisticamente.",
+                "vote_average": 6.4,
+                "vote_count": 425
+            },
+            "winner": false
+        }
+    ],
+    "Foreign Language Film": [
+        {
+            "first_label": "Moscow Does Not Believe in Tears",
+            "second_label": "Union of Soviet Socialist Republics",
+            "category": "Foreign Language Film",
+            "year": 1981,
+            "tmdb": {
+                "id": 21028,
+                "original_title": "\u041c\u043e\u0441\u043a\u0432\u0430 \u0441\u043b\u0435\u0437\u0430\u043c \u043d\u0435 \u0432\u0435\u0440\u0438\u0442",
+                "title": "Moscou N\u00e3o Acredita em L\u00e1grimas",
+                "release_date": "1980-02-11",
+                "backdrop_path": "/iSIq6uabpr7DKw4RCF4Q0S7kh21.jpg",
+                "poster_path": "/t5ShZid3vPMem1yqma1HYTJjB3E.jpg",
+                "overview": "Em 1958, tr\u00eas jovens amigas do interior, Katya, Lyudmila e Antonina, chegam a Moscou em busca de seus sonhos de casamento, filhos e sucesso profissional. Muito amigas, elas dividem um quarto de hotel, trabalham e se divertem juntas, at\u00e9 que acabam por seguir rumos diferentes em suas vidas. 20 anos depois, fazem um balan\u00e7o do que aconteceu com suas vidas, sem nunca desistirem de encontrar o amor.",
+                "vote_average": 7.7,
+                "vote_count": 215
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Confidence",
+            "second_label": "Hungary",
+            "category": "Foreign Language Film",
+            "year": 1981,
+            "tmdb": {
+                "id": 49139,
+                "original_title": "Bizalom",
+                "title": "Confidence",
+                "release_date": "1980-01-10",
+                "backdrop_path": "/j1QLptktNCs09AhNxk5I4bcpVCn.jpg",
+                "poster_path": "/fqueQgCoTttLRYMWWp6Kdqh7uk9.jpg",
+                "overview": "Janos and Kata are thrown together during the Second World War and forced to pose as husband and wife to hide from the Nazis. The intensity and suffocating intimacy of their new relationship and the circumstances in which they find themselves, forces them to confront past prejudices and assumptions and challenge what they truly believe.",
+                "vote_average": 7.5,
+                "vote_count": 14
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Kagemusha (The Shadow Warrior)",
+            "second_label": "Japan",
+            "category": "Foreign Language Film",
+            "year": 1981,
+            "tmdb": {
+                "id": 11953,
+                "original_title": "\u5f71\u6b66\u8005",
+                "title": "Kagemusha, a Sombra do Samurai",
+                "release_date": "1980-04-26",
+                "backdrop_path": "/lkivVsolS6RPCuy8wgHvixGRJcE.jpg",
+                "poster_path": "/e4v3mNc9SvSnESPN9z1zvivkEs0.jpg",
+                "overview": "Shingen, um poderoso Senhor da Guerra, seriamente ferido, ordena ao cl\u00e3 que use algum s\u00f3sia para o substituir caso fale\u00e7a - para manter a sua morte em segredo, evitando assim o ataque dos seus inimigos. Mas este \u00e9 um vulgar criminoso que tem de aprender a transformar-se num grande l\u00edder e comandar um ex\u00e9rcito de 25.000 leais guerreiros Samurai\u2026",
+                "vote_average": 7.8,
+                "vote_count": 605
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Last Metro",
+            "second_label": "France",
+            "category": "Foreign Language Film",
+            "year": 1981,
+            "tmdb": {
+                "id": 1716,
+                "original_title": "Le Dernier M\u00e9tro",
+                "title": "O \u00daltimo Metr\u00f4",
+                "release_date": "1980-09-17",
+                "backdrop_path": "/u97pGlftKRNbUn0jOoQgIobSBvb.jpg",
+                "poster_path": "/vO6VOWdDI1xQj9Qf7xwr1YgIbJj.jpg",
+                "overview": "Durante a ocupa\u00e7\u00e3o de Paris pelas tropas alem\u00e3s, um grupo de atores tenta fazer uma pe\u00e7a de teatro. Ningu\u00e9m suspeita que no por\u00e3o do pr\u00e9dio est\u00e1 escondido o diretor do grupo, um homem de origem judaica.",
+                "vote_average": 7.2,
+                "vote_count": 460
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Nest",
+            "second_label": "Spain",
+            "category": "Foreign Language Film",
+            "year": 1981,
+            "tmdb": {
+                "id": 136676,
+                "original_title": "El nido",
+                "title": "The Nest",
+                "release_date": "1980-09-18",
+                "backdrop_path": null,
+                "poster_path": "/pxDKHf80wmnzmiNKEHh4HrGAPja.jpg",
+                "overview": "In a town near Salamanca, an eccentric widower, aged 60, is captivated by an imp, a precocious 13 year old. Alejandro is wealthy and alone, passing time with music, chess, and his shotgun. Gregoria (Goyita) the daughter of a weak-willed policeman and his bullying wife, is a budding naturalist who conspires to meet Alejandro. Even though he knows the village is talking, Alejandro spends time with Goyita, on walks, horseback rides, and dinners. He's enchanted and tells his friend the village priest that he's living for the first time. Goyita makes new demands on Alejandro, and he must decide how to be true to his ethics and to this Platonic yet highly-charged relationship.",
+                "vote_average": 6.0,
+                "vote_count": 18
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Score)": [
+        {
+            "first_label": "Fame",
+            "second_label": "Michael Gore",
+            "category": "Music (Original Score)",
+            "year": 1981,
+            "tmdb": {
+                "id": 3537,
+                "original_title": "Fame",
+                "title": "Fama",
+                "release_date": "1980-05-16",
+                "backdrop_path": "/jekdv0OUnppLnpbPdBIkwCoeENo.jpg",
+                "poster_path": "/7IDmjMU3gOmECooFFiPuWN2v4lQ.jpg",
+                "overview": "Em Nova York, estudantes de diversas origens sociais de uma escola de artes c\u00eanicas aprendem a atuar, cantar e dan\u00e7ar. Coco Hernandez, Doris Finsecker, Montgomery MacNeil e Raul Garcia se deparam com seus sonhos e suas frustra\u00e7\u00f5es no decorrer do curso mas, acima de tudo, almejam serem amados e reconhecidos artisticamente.",
+                "vote_average": 6.4,
+                "vote_count": 425
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Altered States",
+            "second_label": "John Corigliano",
+            "category": "Music (Original Score)",
+            "year": 1981,
+            "tmdb": {
+                "id": 11542,
+                "original_title": "Altered States",
+                "title": "Viagens Alucinantes",
+                "release_date": "1980-12-25",
+                "backdrop_path": "/ivgNm4ICvwbrlV6crntR4F7lKgL.jpg",
+                "poster_path": "/htouKEHA0qBN9XZW4biu0lELN90.jpg",
+                "overview": "Respeitado cientista e professor de psicologia Edward Jessup decide combinar suas experi\u00eancias em tanques de priva\u00e7\u00e3o sensorial, com poderosas drogas alucin\u00f3genas, convencido de que isto poder\u00e1 ajudar a desbloquear diferentes estados de consci\u00eancia. As experi\u00eancias s\u00e3o um sucesso no in\u00edcio, mas quando Jessup continua seu trabalho come\u00e7a a experimentar altera\u00e7\u00e3o do estado mental e tamb\u00e9m f\u00edsico.",
+                "vote_average": 6.7,
+                "vote_count": 602
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Elephant Man",
+            "second_label": "John Morris",
+            "category": "Music (Original Score)",
+            "year": 1981,
+            "tmdb": {
+                "id": 1955,
+                "original_title": "The Elephant Man",
+                "title": "O Homem Elefante",
+                "release_date": "1980-10-09",
+                "backdrop_path": "/hKpzq3U7X1C1lqnYh0WQwlPyxO5.jpg",
+                "poster_path": "/fexIgjQZHYXrvIUXGAvfDg5WzHk.jpg",
+                "overview": "A hist\u00f3ria de John Merrick, um desafortunado cidad\u00e3o da Inglaterra vitoriana que era portador do caso mais grave de neurofibromatose m\u00faltipla registrado, tendo 90% do seu corpo deformado. Esta situa\u00e7\u00e3o tendia fazer com que ele passasse toda a sua exist\u00eancia se exibindo em circos de variedades como um monstro. Inicialmente era considerado um d\u00e9bil mental pela sua dificuldade de falar, at\u00e9 que um m\u00e9dico, Frederick Treves, o descobriu e o levou para um hospital. L\u00e1 Merrick se liberou emocionalmente e intelectualmente, al\u00e9m de se mostrar uma pessoa sens\u00edvel ao extremo, que conseguiu recuperar sua dignidade.",
+                "vote_average": 8.0,
+                "vote_count": 3311
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Empire Strikes Back",
+            "second_label": "John Williams",
+            "category": "Music (Original Score)",
+            "year": 1981,
+            "tmdb": {
+                "id": 1891,
+                "original_title": "The Empire Strikes Back",
+                "title": "Guerra nas Estrelas: O Imp\u00e9rio Contra-Ataca",
+                "release_date": "1980-05-20",
+                "backdrop_path": "/aJCtkxLLzkk1pECehVjKHA2lBgw.jpg",
+                "poster_path": "/dLGT8b4Ut10z44uYLaip4QiwKta.jpg",
+                "overview": "As for\u00e7as imperais comandadas por Darth Vader lan\u00e7am um ataque contra os membros da resist\u00eancia, que s\u00e3o obrigados a fugir. Enquanto isso Luke Skywalker tenta encontrar o Mestre Yoda, que poder\u00e1 ensin\u00e1-lo a dominar a \"For\u00e7a\" e torn\u00e1-lo um cavaleiro jedi. No entanto, Darth Vader planeja lev\u00e1-lo para o lado negro da \"For\u00e7a\".",
+                "vote_average": 8.391,
+                "vote_count": 16309
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tess",
+            "second_label": "Philippe Sarde",
+            "category": "Music (Original Score)",
+            "year": 1981,
+            "tmdb": {
+                "id": 11121,
+                "original_title": "Tess",
+                "title": "Tess - Uma Li\u00e7\u00e3o de Vida",
+                "release_date": "1979-10-06",
+                "backdrop_path": "/hEVAABU2c86MU42jlnGRM9FcCq5.jpg",
+                "poster_path": "/dJKSee0Dvurz215ziq1uaxRc236.jpg",
+                "overview": "Na Inglaterra do s\u00e9culo 19, a bela Tess, filha de um fazendeiro, \u00e9 enviada para viver com parentes nobres. Ela \u00e9 seduzida e abandonada por seu primo distante, Alec. De volta \u00e0 fazenda de seu pai, ela d\u00e1 \u00e0 luz um beb\u00ea natimorto e enfrenta a hipocrisia da sociedade. Baseado no romance de Thomas Hardy.",
+                "vote_average": 7.0,
+                "vote_count": 316
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Song)": [
+        {
+            "first_label": "Fame",
+            "second_label": "Fame in \"Fame\" Music by Michael Gore; Lyric by Dean Pitchford",
+            "category": "Music (Original Song)",
+            "year": 1981,
+            "tmdb": {
+                "id": 3537,
+                "original_title": "Fame",
+                "title": "Fama",
+                "release_date": "1980-05-16",
+                "backdrop_path": "/jekdv0OUnppLnpbPdBIkwCoeENo.jpg",
+                "poster_path": "/7IDmjMU3gOmECooFFiPuWN2v4lQ.jpg",
+                "overview": "Em Nova York, estudantes de diversas origens sociais de uma escola de artes c\u00eanicas aprendem a atuar, cantar e dan\u00e7ar. Coco Hernandez, Doris Finsecker, Montgomery MacNeil e Raul Garcia se deparam com seus sonhos e suas frustra\u00e7\u00f5es no decorrer do curso mas, acima de tudo, almejam serem amados e reconhecidos artisticamente.",
+                "vote_average": 6.4,
+                "vote_count": 425
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Nine to Five",
+            "second_label": "Nine To Five in \"Nine to Five\" Music and Lyric by Dolly Parton",
+            "category": "Music (Original Song)",
+            "year": 1981,
+            "tmdb": {
+                "id": 19494,
+                "original_title": "Nine to Five",
+                "title": "Como Eliminar seu Chefe",
+                "release_date": "1980-12-18",
+                "backdrop_path": "/ioWkbhWyDOS7nYNSpFgQ69mfBm4.jpg",
+                "poster_path": "/cLyXIysPHLqUwrqNqiDkcmq1N4L.jpg",
+                "overview": "Frank Hart (Dabney Coleman) \u00e9 um porco. Ele tira vantagem, da forma mais grotesca, das mulheres com quem trabalha. Quando tr\u00eas assistentes, Judy (Jane Fonda), Violet (Lily Tomlin) e Doralee (Dolly Parton) armam um plano para prend\u00ea-lo em sua pr\u00f3pria casa, elas assumem o controle do departamento e a produtividade aumenta incrivelmente. Mas at\u00e9 quando elas ir\u00e3o conseguir manter Hart preso?",
+                "vote_average": 6.9,
+                "vote_count": 457
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Honeysuckle Rose",
+            "second_label": "On The Road Again in \"Honeysuckle Rose\" Music and Lyric by Willie Nelson",
+            "category": "Music (Original Song)",
+            "year": 1981,
+            "tmdb": {
+                "id": 22288,
+                "original_title": "Honeysuckle Rose",
+                "title": "Honeysuckle Rose",
+                "release_date": "1980-07-18",
+                "backdrop_path": "/u2IdqAZziVoLCyzDZbJ7WFVpA7T.jpg",
+                "poster_path": "/k1SODZtlyJ66YyLL9gaqfFxQPnv.jpg",
+                "overview": "Buck Bonham is a country singer on the road caught in a romantic triangle with Dyan Cannon and Amy Irving, the daughter of one of his longtime musical sidekick.",
+                "vote_average": 5.6,
+                "vote_count": 23
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Fame",
+            "second_label": "Out Here On My Own in \"Fame\" Music by Michael Gore; Lyric by Lesley Gore",
+            "category": "Music (Original Song)",
+            "year": 1981,
+            "tmdb": {
+                "id": 3537,
+                "original_title": "Fame",
+                "title": "Fama",
+                "release_date": "1980-05-16",
+                "backdrop_path": "/jekdv0OUnppLnpbPdBIkwCoeENo.jpg",
+                "poster_path": "/7IDmjMU3gOmECooFFiPuWN2v4lQ.jpg",
+                "overview": "Em Nova York, estudantes de diversas origens sociais de uma escola de artes c\u00eanicas aprendem a atuar, cantar e dan\u00e7ar. Coco Hernandez, Doris Finsecker, Montgomery MacNeil e Raul Garcia se deparam com seus sonhos e suas frustra\u00e7\u00f5es no decorrer do curso mas, acima de tudo, almejam serem amados e reconhecidos artisticamente.",
+                "vote_average": 6.4,
+                "vote_count": 425
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Competition",
+            "second_label": "People Alone in \"The Competition\" Music by Lalo Schifrin; Lyric by Wilbur Jennings",
+            "category": "Music (Original Song)",
+            "year": 1981,
+            "tmdb": {
+                "id": 42158,
+                "original_title": "The Competition",
+                "title": "A Competi\u00e7\u00e3o",
+                "release_date": "1980-12-03",
+                "backdrop_path": "/1SEPQTtrH1ywdioeSVz8QYdCQwl.jpg",
+                "poster_path": "/14iMtdJY3HjwrmqPUZ55F4LzuCd.jpg",
+                "overview": "The movie centers on a piano competition whose winner is assured of success. It is Paul's last chance to compete, but newcomer Heidi may be a better pianist. Can romance be far away? Will she take a dive despite the pressure to win from her teacher, Greta, or will she condemn Paul to obscurity?",
+                "vote_average": 6.1,
+                "vote_count": 17
+            },
+            "winner": false
+        }
+    ],
+    "Best Picture": [
+        {
+            "first_label": "Ordinary People",
+            "second_label": "Ronald L. Schwary, Producer",
+            "category": "Best Picture",
+            "year": 1981,
+            "tmdb": {
+                "id": 16619,
+                "original_title": "Ordinary People",
+                "title": "Gente Como a Gente",
+                "release_date": "1980-09-19",
+                "backdrop_path": "/81LV5HJ9nUXGCMhrJpFNjwvbEZl.jpg",
+                "poster_path": "/recsjwsZkRAkOxMMkm7SMoqlQoM.jpg",
+                "overview": "A morte prematura em um acidente de um dos filhos de uma fam\u00edlia de classe m\u00e9dia alta acaba afetando a todos, principalmente o irm\u00e3o da v\u00edtima, que se considera respons\u00e1vel pelo ocorrido e est\u00e1 em tratamento psiqui\u00e1trico. No entanto, a m\u00e3e faz quest\u00e3o de manter as apar\u00eancias, para n\u00e3o dar a entender que a unidade familiar foi quebrada.",
+                "vote_average": 7.4,
+                "vote_count": 586
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Coal Miner's Daughter",
+            "second_label": "Bernard Schwartz, Producer",
+            "category": "Best Picture",
+            "year": 1981,
+            "tmdb": {
+                "id": 16769,
+                "original_title": "Coal Miner's Daughter",
+                "title": "O Destino Mudou Sua Vida",
+                "release_date": "1980-03-07",
+                "backdrop_path": "/Aa4UDJWVckGXwPZxY5qpRifQFYp.jpg",
+                "poster_path": "/dwuK8TlUKYcClQOK7AjqtauMjOs.jpg",
+                "overview": "A cidade de Butcher Hollow, no Kentucky, tem na explora\u00e7\u00e3o das minas de carv\u00e3o sua \u00fanica atividade econ\u00f4mica. L\u00e1 nasceu Loretta (Sissy Spacek), uma dos 8 filhos de Ted Webb (Levon Helm), um mineiro que criou sua fam\u00edlia, apesar de ser bem pobre. Quando tinha apenas 13 anos Loretta se casou com Doolittle Lynn (Tommy Lee Jones). Com 20 anos ela j\u00e1 tinha 4 filhos e tudo indicava que seria uma dona de casa pelo resto da vida. Nesta \u00e9poca ela come\u00e7ou a cantar ocasionalmente para sua fam\u00edlia. Seu dom come\u00e7ou a ser notado por Doolittle, que a presenteou com um viol\u00e3o. Com o est\u00edmulo do marido, ela grava um disco independente e os dois fazem de tudo para que o disco seja divulgado. Aos poucos Loretta se torna conhecida no mundo da m\u00fasica country, o que faz com que se torne amiga de Patsy Cline (Beverly D'Angelo), que era na \u00e9poca a maior estrela da country music. Mas junto com o sucesso tamb\u00e9m vieram diversas apresenta\u00e7\u00f5es, que deixavam Loretta cada vez mais esgotada f\u00edsica e psiquicamente.",
+                "vote_average": 7.2,
+                "vote_count": 235
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Elephant Man",
+            "second_label": "Jonathan Sanger, Producer",
+            "category": "Best Picture",
+            "year": 1981,
+            "tmdb": {
+                "id": 1955,
+                "original_title": "The Elephant Man",
+                "title": "O Homem Elefante",
+                "release_date": "1980-10-09",
+                "backdrop_path": "/hKpzq3U7X1C1lqnYh0WQwlPyxO5.jpg",
+                "poster_path": "/fexIgjQZHYXrvIUXGAvfDg5WzHk.jpg",
+                "overview": "A hist\u00f3ria de John Merrick, um desafortunado cidad\u00e3o da Inglaterra vitoriana que era portador do caso mais grave de neurofibromatose m\u00faltipla registrado, tendo 90% do seu corpo deformado. Esta situa\u00e7\u00e3o tendia fazer com que ele passasse toda a sua exist\u00eancia se exibindo em circos de variedades como um monstro. Inicialmente era considerado um d\u00e9bil mental pela sua dificuldade de falar, at\u00e9 que um m\u00e9dico, Frederick Treves, o descobriu e o levou para um hospital. L\u00e1 Merrick se liberou emocionalmente e intelectualmente, al\u00e9m de se mostrar uma pessoa sens\u00edvel ao extremo, que conseguiu recuperar sua dignidade.",
+                "vote_average": 8.0,
+                "vote_count": 3311
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Raging Bull",
+            "second_label": "Irwin Winkler and Robert Chartoff, Producers",
+            "category": "Best Picture",
+            "year": 1981,
+            "tmdb": {
+                "id": 1578,
+                "original_title": "Raging Bull",
+                "title": "Touro Indom\u00e1vel",
+                "release_date": "1980-11-14",
+                "backdrop_path": "/aAStHDJgD97k4g4Zf0NLqbAmrvZ.jpg",
+                "poster_path": "/lLeWJU33HgfWTnrOcaNBR5fUcF1.jpg",
+                "overview": "O pugilista peso-m\u00e9dio Jake LaMotta (Robert De Niro), chamado de \"o touro do Bronx\", sobe na carreira com a mesma rapidez com que sua vida particular se degrada, gra\u00e7as ao seu temperamento violento e possessivo. Todos ao seu redor s\u00e3o afetados por seu comportamento auto-destrutivo, como seu irm\u00e3o e empres\u00e1rio Joey LaMotta (Joe Pesci) e sua esposa Vickie (Cathy Moriarty).",
+                "vote_average": 7.941,
+                "vote_count": 4093
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tess",
+            "second_label": "Claude Berri, Producer;  Timothy Burrill, Co-Producer",
+            "category": "Best Picture",
+            "year": 1981,
+            "tmdb": {
+                "id": 11121,
+                "original_title": "Tess",
+                "title": "Tess - Uma Li\u00e7\u00e3o de Vida",
+                "release_date": "1979-10-06",
+                "backdrop_path": "/hEVAABU2c86MU42jlnGRM9FcCq5.jpg",
+                "poster_path": "/dJKSee0Dvurz215ziq1uaxRc236.jpg",
+                "overview": "Na Inglaterra do s\u00e9culo 19, a bela Tess, filha de um fazendeiro, \u00e9 enviada para viver com parentes nobres. Ela \u00e9 seduzida e abandonada por seu primo distante, Alec. De volta \u00e0 fazenda de seu pai, ela d\u00e1 \u00e0 luz um beb\u00ea natimorto e enfrenta a hipocrisia da sociedade. Baseado no romance de Thomas Hardy.",
+                "vote_average": 7.0,
+                "vote_count": 316
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Animated)": [
+        {
+            "first_label": "The Fly",
+            "second_label": "Ferenc Rofusz, Producer",
+            "category": "Short Film (Animated)",
+            "year": 1981,
+            "tmdb": {
+                "id": 9426,
+                "original_title": "The Fly",
+                "title": "A Mosca",
+                "release_date": "1986-08-15",
+                "backdrop_path": "/nmoYCNUk6rkCcofJlYzBYdCr6HS.jpg",
+                "poster_path": "/dQWmNTzZBRuxDGiLsuKuPXJQES1.jpg",
+                "overview": "Seth Brundie (Jeff Goldblum) \u00e9 um cientista exc\u00eantrico que trabalha numa nova inven\u00e7\u00e3o, uma m\u00e1quina de teletransporte - a TelePod. Ao seu lado, tem Veronica (Geena Davis), uma jornalista que acompanha seus projetos acreditando ser essa a hist\u00f3ria do ano. Ao experimentar seu novo invento, Seth n\u00e3o percebe que uma mosca entrou na cabine do teletransporte. O imprevisto faz com que os padr\u00f5es moleculares do homem e do inseto se misturem e, pouco a pouco, o cientista vai sofrendo terr\u00edveis transforma\u00e7\u00f5es.",
+                "vote_average": 7.402,
+                "vote_count": 4174
+            },
+            "winner": true
+        },
+        {
+            "first_label": "All Nothing",
+            "second_label": "Frdric Back, Producer",
+            "category": "Short Film (Animated)",
+            "year": 1981,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "History of the World in Three Minutes Flat",
+            "second_label": "Michael Mills, Producer",
+            "category": "Short Film (Animated)",
+            "year": 1981,
+            "tmdb": {
+                "id": 244362,
+                "original_title": "History of the World in Three Minutes Flat",
+                "title": "History of the World in Three Minutes Flat",
+                "release_date": "1980-08-01",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "Oscar nominated animated short from 1980, depicting a history of life on Earth compressed into three minutes.",
+                "vote_average": 5.8,
+                "vote_count": 5
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Dramatic Live Action)": [
+        {
+            "first_label": "The Dollar Bottom",
+            "second_label": "Lloyd Phillips, Producer",
+            "category": "Short Film (Dramatic Live Action)",
+            "year": 1981,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Fall Line",
+            "second_label": "Bob Carmichael and Greg Lowe, Producers",
+            "category": "Short Film (Dramatic Live Action)",
+            "year": 1981,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Jury of Her Peers",
+            "second_label": "Sally Heckel, Producer",
+            "category": "Short Film (Dramatic Live Action)",
+            "year": 1981,
+            "tmdb": {
+                "id": 244372,
+                "original_title": "A Jury of Her Peers",
+                "title": "A Jury of Her Peers",
+                "release_date": "1980-01-01",
+                "backdrop_path": null,
+                "poster_path": "/fPoRd55CPMiLkcMZUUAaSa0Togm.jpg",
+                "overview": "A Jury of Her Peers is a 1980 short film directed by Sally Heckel, adapted from the story by Susan Glaspell. A farm woman is accused of murdering her husband in early 1900's Midwest America. The film was nominated for an Oscar for Best Live Action Short Film.",
+                "vote_average": 6.2,
+                "vote_count": 4
+            },
+            "winner": false
+        }
+    ],
+    "Sound": [
+        {
+            "first_label": "The Empire Strikes Back",
+            "second_label": "Bill Varney, Steve Maslow, Gregg Landaker, Peter Sutton",
+            "category": "Sound",
+            "year": 1981,
+            "tmdb": {
+                "id": 1891,
+                "original_title": "The Empire Strikes Back",
+                "title": "Guerra nas Estrelas: O Imp\u00e9rio Contra-Ataca",
+                "release_date": "1980-05-20",
+                "backdrop_path": "/aJCtkxLLzkk1pECehVjKHA2lBgw.jpg",
+                "poster_path": "/dLGT8b4Ut10z44uYLaip4QiwKta.jpg",
+                "overview": "As for\u00e7as imperais comandadas por Darth Vader lan\u00e7am um ataque contra os membros da resist\u00eancia, que s\u00e3o obrigados a fugir. Enquanto isso Luke Skywalker tenta encontrar o Mestre Yoda, que poder\u00e1 ensin\u00e1-lo a dominar a \"For\u00e7a\" e torn\u00e1-lo um cavaleiro jedi. No entanto, Darth Vader planeja lev\u00e1-lo para o lado negro da \"For\u00e7a\".",
+                "vote_average": 8.391,
+                "vote_count": 16309
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Altered States",
+            "second_label": "Arthur Piantadosi, Les Fresholtz, Michael Minkler, Willie D. Burton",
+            "category": "Sound",
+            "year": 1981,
+            "tmdb": {
+                "id": 11542,
+                "original_title": "Altered States",
+                "title": "Viagens Alucinantes",
+                "release_date": "1980-12-25",
+                "backdrop_path": "/ivgNm4ICvwbrlV6crntR4F7lKgL.jpg",
+                "poster_path": "/htouKEHA0qBN9XZW4biu0lELN90.jpg",
+                "overview": "Respeitado cientista e professor de psicologia Edward Jessup decide combinar suas experi\u00eancias em tanques de priva\u00e7\u00e3o sensorial, com poderosas drogas alucin\u00f3genas, convencido de que isto poder\u00e1 ajudar a desbloquear diferentes estados de consci\u00eancia. As experi\u00eancias s\u00e3o um sucesso no in\u00edcio, mas quando Jessup continua seu trabalho come\u00e7a a experimentar altera\u00e7\u00e3o do estado mental e tamb\u00e9m f\u00edsico.",
+                "vote_average": 6.7,
+                "vote_count": 602
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Coal Miner's Daughter",
+            "second_label": "Richard Portman, Roger Heman, Jim Alexander",
+            "category": "Sound",
+            "year": 1981,
+            "tmdb": {
+                "id": 16769,
+                "original_title": "Coal Miner's Daughter",
+                "title": "O Destino Mudou Sua Vida",
+                "release_date": "1980-03-07",
+                "backdrop_path": "/Aa4UDJWVckGXwPZxY5qpRifQFYp.jpg",
+                "poster_path": "/dwuK8TlUKYcClQOK7AjqtauMjOs.jpg",
+                "overview": "A cidade de Butcher Hollow, no Kentucky, tem na explora\u00e7\u00e3o das minas de carv\u00e3o sua \u00fanica atividade econ\u00f4mica. L\u00e1 nasceu Loretta (Sissy Spacek), uma dos 8 filhos de Ted Webb (Levon Helm), um mineiro que criou sua fam\u00edlia, apesar de ser bem pobre. Quando tinha apenas 13 anos Loretta se casou com Doolittle Lynn (Tommy Lee Jones). Com 20 anos ela j\u00e1 tinha 4 filhos e tudo indicava que seria uma dona de casa pelo resto da vida. Nesta \u00e9poca ela come\u00e7ou a cantar ocasionalmente para sua fam\u00edlia. Seu dom come\u00e7ou a ser notado por Doolittle, que a presenteou com um viol\u00e3o. Com o est\u00edmulo do marido, ela grava um disco independente e os dois fazem de tudo para que o disco seja divulgado. Aos poucos Loretta se torna conhecida no mundo da m\u00fasica country, o que faz com que se torne amiga de Patsy Cline (Beverly D'Angelo), que era na \u00e9poca a maior estrela da country music. Mas junto com o sucesso tamb\u00e9m vieram diversas apresenta\u00e7\u00f5es, que deixavam Loretta cada vez mais esgotada f\u00edsica e psiquicamente.",
+                "vote_average": 7.2,
+                "vote_count": 235
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Fame",
+            "second_label": "Michael J. Kohut, Aaron Rochin, Jay M. Harding, Chris Newman",
+            "category": "Sound",
+            "year": 1981,
+            "tmdb": {
+                "id": 3537,
+                "original_title": "Fame",
+                "title": "Fama",
+                "release_date": "1980-05-16",
+                "backdrop_path": "/jekdv0OUnppLnpbPdBIkwCoeENo.jpg",
+                "poster_path": "/7IDmjMU3gOmECooFFiPuWN2v4lQ.jpg",
+                "overview": "Em Nova York, estudantes de diversas origens sociais de uma escola de artes c\u00eanicas aprendem a atuar, cantar e dan\u00e7ar. Coco Hernandez, Doris Finsecker, Montgomery MacNeil e Raul Garcia se deparam com seus sonhos e suas frustra\u00e7\u00f5es no decorrer do curso mas, acima de tudo, almejam serem amados e reconhecidos artisticamente.",
+                "vote_average": 6.4,
+                "vote_count": 425
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Raging Bull",
+            "second_label": "Donald O. Mitchell, Bill Nicholson, David J. Kimball, Les Lazarowitz",
+            "category": "Sound",
+            "year": 1981,
+            "tmdb": {
+                "id": 1578,
+                "original_title": "Raging Bull",
+                "title": "Touro Indom\u00e1vel",
+                "release_date": "1980-11-14",
+                "backdrop_path": "/aAStHDJgD97k4g4Zf0NLqbAmrvZ.jpg",
+                "poster_path": "/lLeWJU33HgfWTnrOcaNBR5fUcF1.jpg",
+                "overview": "O pugilista peso-m\u00e9dio Jake LaMotta (Robert De Niro), chamado de \"o touro do Bronx\", sobe na carreira com a mesma rapidez com que sua vida particular se degrada, gra\u00e7as ao seu temperamento violento e possessivo. Todos ao seu redor s\u00e3o afetados por seu comportamento auto-destrutivo, como seu irm\u00e3o e empres\u00e1rio Joey LaMotta (Joe Pesci) e sua esposa Vickie (Cathy Moriarty).",
+                "vote_average": 7.941,
+                "vote_count": 4093
+            },
+            "winner": false
+        }
+    ],
+    "Special Achievement Award (Visual Effects)": [
+        {
+            "first_label": "The Empire Strikes Back",
+            "second_label": "Brian Johnson, Richard Edlund, Dennis Muren, Bruce Nicholson",
+            "category": "Special Achievement Award (Visual Effects)",
+            "year": 1981,
+            "tmdb": {
+                "id": 1891,
+                "original_title": "The Empire Strikes Back",
+                "title": "Guerra nas Estrelas: O Imp\u00e9rio Contra-Ataca",
+                "release_date": "1980-05-20",
+                "backdrop_path": "/aJCtkxLLzkk1pECehVjKHA2lBgw.jpg",
+                "poster_path": "/dLGT8b4Ut10z44uYLaip4QiwKta.jpg",
+                "overview": "As for\u00e7as imperais comandadas por Darth Vader lan\u00e7am um ataque contra os membros da resist\u00eancia, que s\u00e3o obrigados a fugir. Enquanto isso Luke Skywalker tenta encontrar o Mestre Yoda, que poder\u00e1 ensin\u00e1-lo a dominar a \"For\u00e7a\" e torn\u00e1-lo um cavaleiro jedi. No entanto, Darth Vader planeja lev\u00e1-lo para o lado negro da \"For\u00e7a\".",
+                "vote_average": 8.391,
+                "vote_count": 16309
+            },
+            "winner": true
+        }
+    ],
+    "Writing (Screenplay Based on Material from Another Medium)": [
+        {
+            "first_label": "Ordinary People",
+            "second_label": "Alvin Sargent",
+            "category": "Writing (Screenplay Based on Material from Another Medium)",
+            "year": 1981,
+            "tmdb": {
+                "id": 16619,
+                "original_title": "Ordinary People",
+                "title": "Gente Como a Gente",
+                "release_date": "1980-09-19",
+                "backdrop_path": "/81LV5HJ9nUXGCMhrJpFNjwvbEZl.jpg",
+                "poster_path": "/recsjwsZkRAkOxMMkm7SMoqlQoM.jpg",
+                "overview": "A morte prematura em um acidente de um dos filhos de uma fam\u00edlia de classe m\u00e9dia alta acaba afetando a todos, principalmente o irm\u00e3o da v\u00edtima, que se considera respons\u00e1vel pelo ocorrido e est\u00e1 em tratamento psiqui\u00e1trico. No entanto, a m\u00e3e faz quest\u00e3o de manter as apar\u00eancias, para n\u00e3o dar a entender que a unidade familiar foi quebrada.",
+                "vote_average": 7.4,
+                "vote_count": 586
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Breaker Morant",
+            "second_label": "Jonathan Hardy, David Stevens, Bruce Beresford",
+            "category": "Writing (Screenplay Based on Material from Another Medium)",
+            "year": 1981,
+            "tmdb": {
+                "id": 13783,
+                "original_title": "Breaker Morant",
+                "title": "Breaker Morant",
+                "release_date": "1980-06-11",
+                "backdrop_path": "/bU5zz7pHFmI2Za0PQiecWq1Cpj0.jpg",
+                "poster_path": "/Nr46BDNjBtz3s0wRvm84eK3PXl.jpg",
+                "overview": "Durante a Guerra dos Boers, na \u00c1frica do Sul, tr\u00eas tenentes australianos est\u00e3o sendo julgados por atirar em prisioneiros Boers. Apesar de terem agido sob ordens, eles est\u00e3o sendo usados como bodes expiat\u00f3rios pelos ajudantes do General, que espera se livrar dessas pr\u00e1ticas irregulares da guerra. O julgamento n\u00e3o transcorre t\u00e3o bem como esperado pelos ajudantes, isso porque a defesa resolve empreender uma forte luta no tribunal.",
+                "vote_average": 7.1,
+                "vote_count": 133
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Coal Miner's Daughter",
+            "second_label": "Tom Rickman",
+            "category": "Writing (Screenplay Based on Material from Another Medium)",
+            "year": 1981,
+            "tmdb": {
+                "id": 16769,
+                "original_title": "Coal Miner's Daughter",
+                "title": "O Destino Mudou Sua Vida",
+                "release_date": "1980-03-07",
+                "backdrop_path": "/Aa4UDJWVckGXwPZxY5qpRifQFYp.jpg",
+                "poster_path": "/dwuK8TlUKYcClQOK7AjqtauMjOs.jpg",
+                "overview": "A cidade de Butcher Hollow, no Kentucky, tem na explora\u00e7\u00e3o das minas de carv\u00e3o sua \u00fanica atividade econ\u00f4mica. L\u00e1 nasceu Loretta (Sissy Spacek), uma dos 8 filhos de Ted Webb (Levon Helm), um mineiro que criou sua fam\u00edlia, apesar de ser bem pobre. Quando tinha apenas 13 anos Loretta se casou com Doolittle Lynn (Tommy Lee Jones). Com 20 anos ela j\u00e1 tinha 4 filhos e tudo indicava que seria uma dona de casa pelo resto da vida. Nesta \u00e9poca ela come\u00e7ou a cantar ocasionalmente para sua fam\u00edlia. Seu dom come\u00e7ou a ser notado por Doolittle, que a presenteou com um viol\u00e3o. Com o est\u00edmulo do marido, ela grava um disco independente e os dois fazem de tudo para que o disco seja divulgado. Aos poucos Loretta se torna conhecida no mundo da m\u00fasica country, o que faz com que se torne amiga de Patsy Cline (Beverly D'Angelo), que era na \u00e9poca a maior estrela da country music. Mas junto com o sucesso tamb\u00e9m vieram diversas apresenta\u00e7\u00f5es, que deixavam Loretta cada vez mais esgotada f\u00edsica e psiquicamente.",
+                "vote_average": 7.2,
+                "vote_count": 235
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Elephant Man",
+            "second_label": "Christopher DeVore, Eric Bergren, David Lynch",
+            "category": "Writing (Screenplay Based on Material from Another Medium)",
+            "year": 1981,
+            "tmdb": {
+                "id": 1955,
+                "original_title": "The Elephant Man",
+                "title": "O Homem Elefante",
+                "release_date": "1980-10-09",
+                "backdrop_path": "/hKpzq3U7X1C1lqnYh0WQwlPyxO5.jpg",
+                "poster_path": "/fexIgjQZHYXrvIUXGAvfDg5WzHk.jpg",
+                "overview": "A hist\u00f3ria de John Merrick, um desafortunado cidad\u00e3o da Inglaterra vitoriana que era portador do caso mais grave de neurofibromatose m\u00faltipla registrado, tendo 90% do seu corpo deformado. Esta situa\u00e7\u00e3o tendia fazer com que ele passasse toda a sua exist\u00eancia se exibindo em circos de variedades como um monstro. Inicialmente era considerado um d\u00e9bil mental pela sua dificuldade de falar, at\u00e9 que um m\u00e9dico, Frederick Treves, o descobriu e o levou para um hospital. L\u00e1 Merrick se liberou emocionalmente e intelectualmente, al\u00e9m de se mostrar uma pessoa sens\u00edvel ao extremo, que conseguiu recuperar sua dignidade.",
+                "vote_average": 8.0,
+                "vote_count": 3311
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Stunt Man",
+            "second_label": "Screenplay by Lawrence B. Marcus;  Adaptation by Richard Rush",
+            "category": "Writing (Screenplay Based on Material from Another Medium)",
+            "year": 1981,
+            "tmdb": {
+                "id": 42160,
+                "original_title": "The Stunt Man",
+                "title": "O Substituto",
+                "release_date": "1980-06-27",
+                "backdrop_path": "/eu5FAFKhbr0Y4A24QnNjeac5P8g.jpg",
+                "poster_path": "/2GiT0zJMTMCn1Jc4aLVLsdfH4lh.jpg",
+                "overview": "Cameron (Steve Railsback), um fugitivo da pol\u00edcia, acidentalmente causa a morte de um dubl\u00ea durante as filmagens. Eli Cross (Peter O'Toole), o diretor do filme, sabendo que ele precisa se esconder diz a pol\u00edcia que ele \u00e9 quem pensavam que tivesse morrido. Em troca exige que ele atue como dubl\u00ea em cenas cada vez mais arriscadas, fazendo Cameron pensar na possibilidade de morrer durante as filmagens fazendo algo totalmente imposs\u00edvel.",
+                "vote_average": 6.6,
+                "vote_count": 127
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay Written Directly for the Screen)": [
+        {
+            "first_label": "Melvin and Howard",
+            "second_label": "Bo Goldman",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 1981,
+            "tmdb": {
+                "id": 38772,
+                "original_title": "Melvin and Howard",
+                "title": "Melvin and Howard",
+                "release_date": "1980-09-19",
+                "backdrop_path": "/t0Fjwn2As0Af02Tx4seTUsChhdy.jpg",
+                "poster_path": "/3iNYCgcpg0o8pX7DzX0A7zlM5vj.jpg",
+                "overview": "The story of hard-luck Melvin Dummar, who claimed to have received a will naming him an heir to the fortune of Howard Hughes.",
+                "vote_average": 6.3,
+                "vote_count": 58
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Brubaker",
+            "second_label": "Screenplay by W. D. Richter;  Story by W. D. Richter, Arthur Ross",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 1981,
+            "tmdb": {
+                "id": 1623,
+                "original_title": "Brubaker",
+                "title": "Brubaker",
+                "release_date": "1980-06-20",
+                "backdrop_path": "/sJOtAbgAHEuzO6HZyRa77YWKbmH.jpg",
+                "poster_path": "/zd8clKupTMTOtO2fq4i6Z4YBhXx.jpg",
+                "overview": "Na pris\u00e3o sulista de Wakefield, Henry Brubaker, o novo diretor, chega disfar\u00e7ado de prisioneiro e assim convive com os detentos, podendo apurar livremente todos os tipos de corrup\u00e7\u00f5es e ilegalidades que imperam na institui\u00e7\u00e3o. Quando ele se revela encontra uma oposi\u00e7\u00e3o velada, pois suas id\u00e9ias reformistas contrariam v\u00e1rios interesses pol\u00edticos e financeiros.",
+                "vote_average": 7.0,
+                "vote_count": 436
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Fame",
+            "second_label": "Christopher Gore",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 1981,
+            "tmdb": {
+                "id": 3537,
+                "original_title": "Fame",
+                "title": "Fama",
+                "release_date": "1980-05-16",
+                "backdrop_path": "/jekdv0OUnppLnpbPdBIkwCoeENo.jpg",
+                "poster_path": "/7IDmjMU3gOmECooFFiPuWN2v4lQ.jpg",
+                "overview": "Em Nova York, estudantes de diversas origens sociais de uma escola de artes c\u00eanicas aprendem a atuar, cantar e dan\u00e7ar. Coco Hernandez, Doris Finsecker, Montgomery MacNeil e Raul Garcia se deparam com seus sonhos e suas frustra\u00e7\u00f5es no decorrer do curso mas, acima de tudo, almejam serem amados e reconhecidos artisticamente.",
+                "vote_average": 6.4,
+                "vote_count": 425
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mon Oncle D'Amerique",
+            "second_label": "Jean Gruault",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 1981,
+            "tmdb": {
+                "id": 39543,
+                "original_title": "Mon oncle d'Am\u00e9rique",
+                "title": "Meu Tio da Am\u00e9rica",
+                "release_date": "1980-05-21",
+                "backdrop_path": "/fvUj0nF6u5iigfzZpGfAmTxWozi.jpg",
+                "poster_path": "/7Gu9vahK34sioC4BIYOoqJkEtMU.jpg",
+                "overview": "O escritor Henri Laborit apresenta tr\u00eas hist\u00f3rias que ilustram as complexidades do comportamento humano. Ren\u00e9 \u00e9 um homem de ra\u00edzes agr\u00edcolas que se torna gerente de uma f\u00e1brica t\u00eaxtil. Janine, ex-atriz e agora estilista, tem um caso amoroso com Jean, um pol\u00edtico que enfrenta dificuldades em casa.",
+                "vote_average": 6.9,
+                "vote_count": 173
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Private Benjamin",
+            "second_label": "Nancy Meyers, Charles Shyer, Harvey Miller",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 1981,
+            "tmdb": {
+                "id": 10765,
+                "original_title": "Private Benjamin",
+                "title": "A Recruta Benjamin",
+                "release_date": "1980-10-06",
+                "backdrop_path": "/bMWO0HQwfIe85CmXbWSI8Q6cCC2.jpg",
+                "poster_path": "/fs2bTvbMsTgotMD10kC7MTKBIHm.jpg",
+                "overview": "A Recruta Benjamin, traz a consagrada comediante Goldie Hawn no filme que lhe deu uma indica\u00e7\u00e3o ao OSCAR de melhor atriz de 1980. Ela \u00e9 a jovem e bela vi\u00fava Judy Benjamin, que responde a um sedutor an\u00fancio alistando-se no ex\u00e9rcito americano. O dif\u00edcil treinamento, seus problemas de adapta\u00e7\u00e3o e seus conflitos com a inflex\u00edvel Capit\u00e3 Lewis (Eileen Breenan, indicada ao OSCAR de Melhor Atriz Coadjuvante por esta personagem), retratados com muito humor em um filme verdadeiramente hilariante.",
+                "vote_average": 5.935,
+                "vote_count": 356
+            },
+            "winner": false
+        }
+    ]
+}

@@ -1,0 +1,1762 @@
+{
+    "Actor in a Leading Role": [
+        {
+            "first_label": "F. Murray Abraham",
+            "second_label": "Amadeus",
+            "category": "Actor in a Leading Role",
+            "year": 1985,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Jeff Bridges",
+            "second_label": "Starman",
+            "category": "Actor in a Leading Role",
+            "year": 1985,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Albert Finney",
+            "second_label": "Under the Volcano",
+            "category": "Actor in a Leading Role",
+            "year": 1985,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tom Hulce",
+            "second_label": "Amadeus",
+            "category": "Actor in a Leading Role",
+            "year": 1985,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sam Waterston",
+            "second_label": "The Killing Fields",
+            "category": "Actor in a Leading Role",
+            "year": 1985,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Haing S. Ngor",
+            "second_label": "The Killing Fields",
+            "category": "Actor in a Supporting Role",
+            "year": 1985,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Adolph Caesar",
+            "second_label": "A Soldier's Story",
+            "category": "Actor in a Supporting Role",
+            "year": 1985,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "John Malkovich",
+            "second_label": "Places in the Heart",
+            "category": "Actor in a Supporting Role",
+            "year": 1985,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Noriyuki \"Pat\" Morita",
+            "second_label": "The Karate Kid",
+            "category": "Actor in a Supporting Role",
+            "year": 1985,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ralph Richardson",
+            "second_label": "Greystoke: The Legend of Tarzan, Lord of the Apes",
+            "category": "Actor in a Supporting Role",
+            "year": 1985,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Leading Role": [
+        {
+            "first_label": "Sally Field",
+            "second_label": "Places in the Heart",
+            "category": "Actress in a Leading Role",
+            "year": 1985,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Judy Davis",
+            "second_label": "A Passage to India",
+            "category": "Actress in a Leading Role",
+            "year": 1985,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jessica Lange",
+            "second_label": "Country",
+            "category": "Actress in a Leading Role",
+            "year": 1985,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Vanessa Redgrave",
+            "second_label": "The Bostonians",
+            "category": "Actress in a Leading Role",
+            "year": 1985,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sissy Spacek",
+            "second_label": "The River",
+            "category": "Actress in a Leading Role",
+            "year": 1985,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Peggy Ashcroft",
+            "second_label": "A Passage to India",
+            "category": "Actress in a Supporting Role",
+            "year": 1985,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Glenn Close",
+            "second_label": "The Natural",
+            "category": "Actress in a Supporting Role",
+            "year": 1985,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lindsay Crouse",
+            "second_label": "Places in the Heart",
+            "category": "Actress in a Supporting Role",
+            "year": 1985,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Christine Lahti",
+            "second_label": "Swing Shift",
+            "category": "Actress in a Supporting Role",
+            "year": 1985,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Geraldine Page",
+            "second_label": "The Pope of Greenwich Village",
+            "category": "Actress in a Supporting Role",
+            "year": 1985,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction": [
+        {
+            "first_label": "Amadeus",
+            "second_label": "Art Direction: Patrizia Von Brandenstein; Set Decoration: Karel Cerny",
+            "category": "Art Direction",
+            "year": 1985,
+            "tmdb": {
+                "id": 279,
+                "original_title": "Amadeus",
+                "title": "Amadeus",
+                "release_date": "1984-09-19",
+                "backdrop_path": "/4i3Amppd6eW5Qkhjv4gdHk3CCoE.jpg",
+                "poster_path": "/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg",
+                "overview": "Ap\u00f3s tentar se suicidar, Salieri confessa a um padre que foi o respons\u00e1vel pela morte de Mozart e relata como conheceu, conviveu e passou a odiar Mozart, que era um jovem irreverente mas compunha como se sua m\u00fasica tivesse sido aben\u00e7oada por Deus.",
+                "vote_average": 8.0,
+                "vote_count": 4004
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Cotton Club",
+            "second_label": "Art Direction: Richard Sylbert; Set Decoration: George Gaines, Les Bloom",
+            "category": "Art Direction",
+            "year": 1985,
+            "tmdb": {
+                "id": 2148,
+                "original_title": "The Cotton Club",
+                "title": "Cotton Club",
+                "release_date": "1984-12-14",
+                "backdrop_path": "/8vroa5RYUxD7Nv7vUGUoxZTyz7P.jpg",
+                "poster_path": "/4FOLs73IGbx4Qth33ZG94DFRWxf.jpg",
+                "overview": "O Cotton Club foi uma famosa boate do Harlem. Esta \u00e9 a hist\u00f3ria das pessoas que frequentavam este clube, bem como das pessoas que o dirigiam. O filme \u00e9 generosamente recheado com m\u00fasica, o jazz que tornou o Cotton Club t\u00e3o renomado nas d\u00e9cadas de 1920 e 1930.",
+                "vote_average": 6.5,
+                "vote_count": 374
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Natural",
+            "second_label": "Art Direction: Angelo Graham, Mel Bourne, James J. Murakami, Speed Hopkins; Set Decoration: Bruce Weintraub",
+            "category": "Art Direction",
+            "year": 1985,
+            "tmdb": {
+                "id": 11393,
+                "original_title": "The Natural",
+                "title": "Um Homem Fora de S\u00e9rie",
+                "release_date": "1984-05-11",
+                "backdrop_path": "/xhr40Bj9qoNRhQy46qVsWk5B3WG.jpg",
+                "poster_path": "/tDatmlOWle3gXnSN8rnob3PHKgL.jpg",
+                "overview": "Misterioso rebatedor de meia-idade surge do nada e conduz \u00e0 gl\u00f3ria um fracassado time de beisebol profissional. O passado deste homem guarda um drama que interrompeu precocemente uma carreira brilhante e agora tudo parece voltar \u00e0 tona.",
+                "vote_average": 6.9,
+                "vote_count": 555
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Passage to India",
+            "second_label": "Art Direction: John Box, Leslie Tomkins; Set Decoration: Hugh Scaife",
+            "category": "Art Direction",
+            "year": 1985,
+            "tmdb": {
+                "id": 15927,
+                "original_title": "A Passage to India",
+                "title": "Passagem para a \u00cdndia",
+                "release_date": "1984-12-14",
+                "backdrop_path": "/vhexJUk3sTEldSl3cI3eRzt6SZ5.jpg",
+                "poster_path": "/uGQEFxATmBDQvNy98wMtdOTrgQY.jpg",
+                "overview": "No final dos anos 20 Adela Quested (Judy Davis), uma rica inglesa de id\u00e9ias liberais, viaja para fora do pa\u00eds pela primeira vez, indo \u00e0 \u00cdndia para encontrar seu noivo. O choque cultural acontece, mas quando tudo parecia facilitar a integra\u00e7\u00e3o Adela acusa o jovem Dr. Aziz (Victor Banerjee) de tentativa de estupro durante um passeio at\u00e9 as cavernas de Marabar.",
+                "vote_average": 6.8,
+                "vote_count": 275
+            },
+            "winner": false
+        },
+        {
+            "first_label": "2010",
+            "second_label": "Art Direction: Albert Brenner; Set Decoration: Rick Simpson",
+            "category": "Art Direction",
+            "year": 1985,
+            "tmdb": {
+                "id": 4437,
+                "original_title": "2010",
+                "title": "2010: O Ano em que Faremos Contato",
+                "release_date": "1984-12-06",
+                "backdrop_path": "/48ern5F857hPdEwJeUT6bnfGnHF.jpg",
+                "poster_path": "/2sE18DBdlpnpWGF9CjABAnMPmoi.jpg",
+                "overview": "Uma miss\u00e3o que re\u00fane americanos e sovi\u00e9ticos \u00e9 enviada ao planeta J\u00fapiter para buscar informa\u00e7\u00f5es sobre o que aconteceu de errado com a Discovery. A bordo da nave Leonov, a tripula\u00e7\u00e3o descobre um gigante mon\u00f3lito na orbita do planeta, reencontra HAL-9000 e desvenda in\u00fameros mist\u00e9rios do mundo.",
+                "vote_average": 6.6,
+                "vote_count": 870
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "The Killing Fields",
+            "second_label": "Chris Menges",
+            "category": "Cinematography",
+            "year": 1985,
+            "tmdb": {
+                "id": 625,
+                "original_title": "The Killing Fields",
+                "title": "Os Gritos do Sil\u00eancio",
+                "release_date": "1984-11-23",
+                "backdrop_path": "/SmzC77NERiB8cLdA6enIjvuS8E.jpg",
+                "poster_path": "/8PgmK0doOtBQbDIXpOTjGUvjxU6.jpg",
+                "overview": "Os Gritos do Sil\u00eancio conta a hist\u00f3ria real de uma amizade entre dois jornalistas, um americano e um cambojano, durante a sangrenta tomada do Camboja em 1975 pelo Khmer Vermelho, que levou \u00e0 morte de 2 a 3 milh\u00f5es de cambojanos durante os pr\u00f3ximos quatro anos, at\u00e9 regime que Pol Pot foi derrubado pelos intervenientes vietnamitas em 1979.",
+                "vote_average": 7.5,
+                "vote_count": 693
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Amadeus",
+            "second_label": "Miroslav Ondricek",
+            "category": "Cinematography",
+            "year": 1985,
+            "tmdb": {
+                "id": 279,
+                "original_title": "Amadeus",
+                "title": "Amadeus",
+                "release_date": "1984-09-19",
+                "backdrop_path": "/4i3Amppd6eW5Qkhjv4gdHk3CCoE.jpg",
+                "poster_path": "/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg",
+                "overview": "Ap\u00f3s tentar se suicidar, Salieri confessa a um padre que foi o respons\u00e1vel pela morte de Mozart e relata como conheceu, conviveu e passou a odiar Mozart, que era um jovem irreverente mas compunha como se sua m\u00fasica tivesse sido aben\u00e7oada por Deus.",
+                "vote_average": 8.0,
+                "vote_count": 4004
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Natural",
+            "second_label": "Caleb Deschanel",
+            "category": "Cinematography",
+            "year": 1985,
+            "tmdb": {
+                "id": 11393,
+                "original_title": "The Natural",
+                "title": "Um Homem Fora de S\u00e9rie",
+                "release_date": "1984-05-11",
+                "backdrop_path": "/xhr40Bj9qoNRhQy46qVsWk5B3WG.jpg",
+                "poster_path": "/tDatmlOWle3gXnSN8rnob3PHKgL.jpg",
+                "overview": "Misterioso rebatedor de meia-idade surge do nada e conduz \u00e0 gl\u00f3ria um fracassado time de beisebol profissional. O passado deste homem guarda um drama que interrompeu precocemente uma carreira brilhante e agora tudo parece voltar \u00e0 tona.",
+                "vote_average": 6.9,
+                "vote_count": 555
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Passage to India",
+            "second_label": "Ernest Day",
+            "category": "Cinematography",
+            "year": 1985,
+            "tmdb": {
+                "id": 15927,
+                "original_title": "A Passage to India",
+                "title": "Passagem para a \u00cdndia",
+                "release_date": "1984-12-14",
+                "backdrop_path": "/vhexJUk3sTEldSl3cI3eRzt6SZ5.jpg",
+                "poster_path": "/uGQEFxATmBDQvNy98wMtdOTrgQY.jpg",
+                "overview": "No final dos anos 20 Adela Quested (Judy Davis), uma rica inglesa de id\u00e9ias liberais, viaja para fora do pa\u00eds pela primeira vez, indo \u00e0 \u00cdndia para encontrar seu noivo. O choque cultural acontece, mas quando tudo parecia facilitar a integra\u00e7\u00e3o Adela acusa o jovem Dr. Aziz (Victor Banerjee) de tentativa de estupro durante um passeio at\u00e9 as cavernas de Marabar.",
+                "vote_average": 6.8,
+                "vote_count": 275
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The River",
+            "second_label": "Vilmos Zsigmond",
+            "category": "Cinematography",
+            "year": 1985,
+            "tmdb": {
+                "id": 38557,
+                "original_title": "The River",
+                "title": "O Rio do Desespero",
+                "release_date": "1984-12-01",
+                "backdrop_path": "/jHQ7QEnGEomL69hnzBAGStvAUMT.jpg",
+                "poster_path": "/oXVAIHhQcqwrx7B7oTdf4kw1tmB.jpg",
+                "overview": "Uma fam\u00edlia de fazendeiros luta contra in\u00fameras adversidades, entre d\u00edvidas banc\u00e1rias e inunda\u00e7\u00f5es, para salvar e manter a posse de suas terras.",
+                "vote_average": 6.2,
+                "vote_count": 114
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design": [
+        {
+            "first_label": "Amadeus",
+            "second_label": "Theodor Pistek",
+            "category": "Costume Design",
+            "year": 1985,
+            "tmdb": {
+                "id": 279,
+                "original_title": "Amadeus",
+                "title": "Amadeus",
+                "release_date": "1984-09-19",
+                "backdrop_path": "/4i3Amppd6eW5Qkhjv4gdHk3CCoE.jpg",
+                "poster_path": "/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg",
+                "overview": "Ap\u00f3s tentar se suicidar, Salieri confessa a um padre que foi o respons\u00e1vel pela morte de Mozart e relata como conheceu, conviveu e passou a odiar Mozart, que era um jovem irreverente mas compunha como se sua m\u00fasica tivesse sido aben\u00e7oada por Deus.",
+                "vote_average": 8.0,
+                "vote_count": 4004
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Bostonians",
+            "second_label": "Jenny Beavan, John Bright",
+            "category": "Costume Design",
+            "year": 1985,
+            "tmdb": {
+                "id": 40775,
+                "original_title": "The Bostonians",
+                "title": "Os Bostonianos",
+                "release_date": "1984-05-01",
+                "backdrop_path": "/mxssjbAmCuD8ocq2BYY6V4ebsRX.jpg",
+                "poster_path": "/4ibCpYEPY3ZzUdYf8jkmUVPnsCr.jpg",
+                "overview": "A bored lawyer and a suffragette vie for the attention of a faith healer's charismatic daughter.",
+                "vote_average": 5.3,
+                "vote_count": 33
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Passage to India",
+            "second_label": "Judy Moorcroft",
+            "category": "Costume Design",
+            "year": 1985,
+            "tmdb": {
+                "id": 15927,
+                "original_title": "A Passage to India",
+                "title": "Passagem para a \u00cdndia",
+                "release_date": "1984-12-14",
+                "backdrop_path": "/vhexJUk3sTEldSl3cI3eRzt6SZ5.jpg",
+                "poster_path": "/uGQEFxATmBDQvNy98wMtdOTrgQY.jpg",
+                "overview": "No final dos anos 20 Adela Quested (Judy Davis), uma rica inglesa de id\u00e9ias liberais, viaja para fora do pa\u00eds pela primeira vez, indo \u00e0 \u00cdndia para encontrar seu noivo. O choque cultural acontece, mas quando tudo parecia facilitar a integra\u00e7\u00e3o Adela acusa o jovem Dr. Aziz (Victor Banerjee) de tentativa de estupro durante um passeio at\u00e9 as cavernas de Marabar.",
+                "vote_average": 6.8,
+                "vote_count": 275
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Places in the Heart",
+            "second_label": "Ann Roth",
+            "category": "Costume Design",
+            "year": 1985,
+            "tmdb": {
+                "id": 13681,
+                "original_title": "Places in the Heart",
+                "title": "Um Lugar no Cora\u00e7\u00e3o",
+                "release_date": "1984-09-11",
+                "backdrop_path": "/jHVL2YccIFFca9s8DmLHbcheosw.jpg",
+                "poster_path": "/bmWg3uVn700inqOiadxeFTmiqmV.jpg",
+                "overview": "Em 1935, uma vi\u00fava cria seus filhos sozinha e luta por sua fazenda de algod\u00e3o no Texas, que est\u00e1 prestes a ser tomada por um banco. Al\u00e9m disso, a mulher precisa lidar com um tornado que est\u00e1 se aproximando e com a presen\u00e7a do Ku Klux Kan na regi\u00e3o.",
+                "vote_average": 7.2,
+                "vote_count": 138
+            },
+            "winner": false
+        },
+        {
+            "first_label": "2010",
+            "second_label": "Patricia Norris",
+            "category": "Costume Design",
+            "year": 1985,
+            "tmdb": {
+                "id": 4437,
+                "original_title": "2010",
+                "title": "2010: O Ano em que Faremos Contato",
+                "release_date": "1984-12-06",
+                "backdrop_path": "/48ern5F857hPdEwJeUT6bnfGnHF.jpg",
+                "poster_path": "/2sE18DBdlpnpWGF9CjABAnMPmoi.jpg",
+                "overview": "Uma miss\u00e3o que re\u00fane americanos e sovi\u00e9ticos \u00e9 enviada ao planeta J\u00fapiter para buscar informa\u00e7\u00f5es sobre o que aconteceu de errado com a Discovery. A bordo da nave Leonov, a tripula\u00e7\u00e3o descobre um gigante mon\u00f3lito na orbita do planeta, reencontra HAL-9000 e desvenda in\u00fameros mist\u00e9rios do mundo.",
+                "vote_average": 6.6,
+                "vote_count": 870
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "Amadeus",
+            "second_label": "Milos Forman",
+            "category": "Directing",
+            "year": 1985,
+            "tmdb": {
+                "id": 279,
+                "original_title": "Amadeus",
+                "title": "Amadeus",
+                "release_date": "1984-09-19",
+                "backdrop_path": "/4i3Amppd6eW5Qkhjv4gdHk3CCoE.jpg",
+                "poster_path": "/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg",
+                "overview": "Ap\u00f3s tentar se suicidar, Salieri confessa a um padre que foi o respons\u00e1vel pela morte de Mozart e relata como conheceu, conviveu e passou a odiar Mozart, que era um jovem irreverente mas compunha como se sua m\u00fasica tivesse sido aben\u00e7oada por Deus.",
+                "vote_average": 8.0,
+                "vote_count": 4004
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Broadway Danny Rose",
+            "second_label": "Woody Allen",
+            "category": "Directing",
+            "year": 1985,
+            "tmdb": {
+                "id": 12762,
+                "original_title": "Broadway Danny Rose",
+                "title": "Broadway Danny Rose",
+                "release_date": "1984-01-27",
+                "backdrop_path": "/sSOb9iof1C3GLd81x9LigSOCRPQ.jpg",
+                "poster_path": "/5A1xAA5WqFQ7NKsPKxjWbNdmpv5.jpg",
+                "overview": "Danny Rose (Woody Allen) \u00e9 um agente fracassado que v\u00ea uma \u00f3tima oportunidade de crescer profissionalmente atrav\u00e9s do cantor Lou Canova (Nick Apollo Forte). Lou tem muitos conflitos amorosos e Danny acaba por se envolver demais com o cliente, chegando at\u00e9 a ter envolvimentos nada agrad\u00e1veis com a m\u00e1fia.",
+                "vote_average": 7.2,
+                "vote_count": 423
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Roland Joff",
+            "second_label": "The Killing Fields",
+            "category": "Directing",
+            "year": 1985,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Passage to India",
+            "second_label": "David Lean",
+            "category": "Directing",
+            "year": 1985,
+            "tmdb": {
+                "id": 15927,
+                "original_title": "A Passage to India",
+                "title": "Passagem para a \u00cdndia",
+                "release_date": "1984-12-14",
+                "backdrop_path": "/vhexJUk3sTEldSl3cI3eRzt6SZ5.jpg",
+                "poster_path": "/uGQEFxATmBDQvNy98wMtdOTrgQY.jpg",
+                "overview": "No final dos anos 20 Adela Quested (Judy Davis), uma rica inglesa de id\u00e9ias liberais, viaja para fora do pa\u00eds pela primeira vez, indo \u00e0 \u00cdndia para encontrar seu noivo. O choque cultural acontece, mas quando tudo parecia facilitar a integra\u00e7\u00e3o Adela acusa o jovem Dr. Aziz (Victor Banerjee) de tentativa de estupro durante um passeio at\u00e9 as cavernas de Marabar.",
+                "vote_average": 6.8,
+                "vote_count": 275
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Places in the Heart",
+            "second_label": "Robert Benton",
+            "category": "Directing",
+            "year": 1985,
+            "tmdb": {
+                "id": 13681,
+                "original_title": "Places in the Heart",
+                "title": "Um Lugar no Cora\u00e7\u00e3o",
+                "release_date": "1984-09-11",
+                "backdrop_path": "/jHVL2YccIFFca9s8DmLHbcheosw.jpg",
+                "poster_path": "/bmWg3uVn700inqOiadxeFTmiqmV.jpg",
+                "overview": "Em 1935, uma vi\u00fava cria seus filhos sozinha e luta por sua fazenda de algod\u00e3o no Texas, que est\u00e1 prestes a ser tomada por um banco. Al\u00e9m disso, a mulher precisa lidar com um tornado que est\u00e1 se aproximando e com a presen\u00e7a do Ku Klux Kan na regi\u00e3o.",
+                "vote_average": 7.2,
+                "vote_count": 138
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "The Times of Harvey Milk",
+            "second_label": "Robert Epstein and Richard Schmiechen, Producers",
+            "category": "Documentary (Feature)",
+            "year": 1985,
+            "tmdb": {
+                "id": 33138,
+                "original_title": "The Times of Harvey Milk",
+                "title": "The Times of Harvey Milk",
+                "release_date": "1984-10-07",
+                "backdrop_path": "/hc9GwSmb0G4brW1xTfLwuwY5e4N.jpg",
+                "poster_path": "/icHnX0RALT9Mn8CVhtqBl04jqXi.jpg",
+                "overview": "Harvey Milk was an outspoken human rights activist and one of the first openly gay U.S. politicians elected to public office; even after his assassination in 1978, he continues to inspire disenfranchised people around the world.",
+                "vote_average": 7.3,
+                "vote_count": 98
+            },
+            "winner": true
+        },
+        {
+            "first_label": "High Schools",
+            "second_label": "Charles Guggenheim and Nancy Sloss, Producers",
+            "category": "Documentary (Feature)",
+            "year": 1985,
+            "tmdb": {
+                "id": 149376,
+                "original_title": "High Schools",
+                "title": "High Schools",
+                "release_date": "1984-11-09",
+                "backdrop_path": null,
+                "poster_path": "/m7NCO9X0FEp3iZPu83kDS38eqov.jpg",
+                "overview": "High Schools is a 1984 American documentary film produced and directed by Charles Guggenheim. It is based on Ernest L. Boyer's book, High School, and was filmed on location in seven American high schools. The film was nominated for an Academy Award for Best Documentary Feature.",
+                "vote_average": 5.0,
+                "vote_count": 1
+            },
+            "winner": false
+        },
+        {
+            "first_label": "In the Name of the People",
+            "second_label": "Alex W. Drehsler and Frank Christopher, Producers",
+            "category": "Documentary (Feature)",
+            "year": 1985,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Marlene",
+            "second_label": "Karel Dirka and Zev Braun, Producers",
+            "category": "Documentary (Feature)",
+            "year": 1985,
+            "tmdb": {
+                "id": 42093,
+                "original_title": "Marlene",
+                "title": "Marlene",
+                "release_date": "1984-10-01",
+                "backdrop_path": "/1HXfl1U2t5tyJNDwFQPQC10AK0m.jpg",
+                "poster_path": "/rkjXTH5LZlAQt48SvqFLV4CK4Pm.jpg",
+                "overview": "Retrospective on the career of enigmatic screen diva Marlene Dietrich.",
+                "vote_average": 7.0,
+                "vote_count": 11
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Streetwise",
+            "second_label": "Cheryl McCall, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1985,
+            "tmdb": {
+                "id": 42098,
+                "original_title": "Streetwise",
+                "title": "Streetwise",
+                "release_date": "1984-12-07",
+                "backdrop_path": "/eR8hCLu5ggNq1udzpG2KHGY9nEH.jpg",
+                "poster_path": "/fW9z3HXWYTKzlqE3CYMMxaXyyy2.jpg",
+                "overview": "This documentary about teenagers living on the streets in Seattle began as a magazine article. The film follows nine teenagers who discuss how they live by panhandling, prostitution, and petty theft.",
+                "vote_average": 7.6,
+                "vote_count": 48
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "The Stone Carvers",
+            "second_label": "Marjorie Hunt and Paul Wagner, Producers",
+            "category": "Documentary (Short Subject)",
+            "year": 1985,
+            "tmdb": {
+                "id": 244656,
+                "original_title": "The Stone Carvers",
+                "title": "The Stone Carvers",
+                "release_date": "1984-01-01",
+                "backdrop_path": null,
+                "poster_path": "/vr2LlJUEUxSaILpd7X7oGkgiDQi.jpg",
+                "overview": "A look at some of the last stone carvers working in the United States, those completing the sculptures adorning the Washington National Cathedral. They discuss their craft and the cultural forces which helped define it, as well as the fading use of stone ornamentation in architecture and the history of stone carving, and they tour the cathedral to point out the history behind some of the work.",
+                "vote_average": 6.5,
+                "vote_count": 4
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Children of Soong Ching Ling",
+            "second_label": "Gary Bush and Paul T.K. Lin, Producers",
+            "category": "Documentary (Short Subject)",
+            "year": 1985,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Code Gray: Ethical Dilemmas in Nursing",
+            "second_label": "Ben Achtenberg and Joan Sawyer, Producers",
+            "category": "Documentary (Short Subject)",
+            "year": 1985,
+            "tmdb": {
+                "id": 244658,
+                "original_title": "Code Gray: Ethical Dilemmas in Nursing",
+                "title": "Code Gray: Ethical Dilemmas in Nursing",
+                "release_date": "1984-01-01",
+                "backdrop_path": null,
+                "poster_path": "/jAdZxmK393lGR2M7pkoPv5aupqY.jpg",
+                "overview": "In this documentary film, nurses in a variety of care settings confront serious ethical dilemmas which effect their patients. The film\u2019s four sequences involve the ethical principles of beneficence, autonomy, justice and fidelity.",
+                "vote_average": 6.3,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Garden of Eden",
+            "second_label": "Lawrence R. Hott and Roger M. Sherman, Producers",
+            "category": "Documentary (Short Subject)",
+            "year": 1985,
+            "tmdb": {
+                "id": 244660,
+                "original_title": "The Garden of Eden",
+                "title": "The Garden of Eden",
+                "release_date": "1984-01-01",
+                "backdrop_path": "/eN5P9sxoRwfMEOsxvtFBP4XxY32.jpg",
+                "poster_path": "/jKB8Q9vGGlyYJO4OW3hv3GUYdgY.jpg",
+                "overview": "The Garden of Eden is a 1984 American short documentary film directed by Roger M. Sherman. The film posits that in the next 30 years, 20% of all forms of life will cease to exist. It argues that it can be for good business to save the environment: discoveries in the plant, animal, and microbiology worlds show that what you might think of as unimportant could be the cure to a major disease, save an entire species of plant, or ward off pests. The film was nominated for an Academy Award for Best Documentary Short.",
+                "vote_average": 6.3,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Recollections of Pavlovsk",
+            "second_label": "Irina Kalinina, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1985,
+            "tmdb": {
+                "id": 244662,
+                "original_title": "\u0412\u043e\u0441\u043f\u043e\u043c\u0438\u043d\u0430\u043d\u0438\u044f \u043e \u041f\u0430\u0432\u043b\u043e\u0432\u0441\u043a\u0435",
+                "title": "Recollections of Pavlovsk",
+                "release_date": "1984-06-01",
+                "backdrop_path": "/sbcdnGhWuPLTegclnMQtl8CvA8K.jpg",
+                "poster_path": "/yBXUA8m6ltPvM3NRYlP8IyCnvWC.jpg",
+                "overview": "Soviet documentary, historical and biographical film of 1983, directed by Irina Kalinina. In a 30-minute tape shows the selfless work of Anna Ivanovna Zelenova, the director of the Pavlovsky Palace Museum, who devoted her entire life to him, survived with him years of occupation and rebirth from the ashes.",
+                "vote_average": 5.7,
+                "vote_count": 3
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "The Killing Fields",
+            "second_label": "Jim Clark",
+            "category": "Film Editing",
+            "year": 1985,
+            "tmdb": {
+                "id": 625,
+                "original_title": "The Killing Fields",
+                "title": "Os Gritos do Sil\u00eancio",
+                "release_date": "1984-11-23",
+                "backdrop_path": "/SmzC77NERiB8cLdA6enIjvuS8E.jpg",
+                "poster_path": "/8PgmK0doOtBQbDIXpOTjGUvjxU6.jpg",
+                "overview": "Os Gritos do Sil\u00eancio conta a hist\u00f3ria real de uma amizade entre dois jornalistas, um americano e um cambojano, durante a sangrenta tomada do Camboja em 1975 pelo Khmer Vermelho, que levou \u00e0 morte de 2 a 3 milh\u00f5es de cambojanos durante os pr\u00f3ximos quatro anos, at\u00e9 regime que Pol Pot foi derrubado pelos intervenientes vietnamitas em 1979.",
+                "vote_average": 7.5,
+                "vote_count": 693
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Amadeus",
+            "second_label": "Nena Danevic, Michael Chandler",
+            "category": "Film Editing",
+            "year": 1985,
+            "tmdb": {
+                "id": 279,
+                "original_title": "Amadeus",
+                "title": "Amadeus",
+                "release_date": "1984-09-19",
+                "backdrop_path": "/4i3Amppd6eW5Qkhjv4gdHk3CCoE.jpg",
+                "poster_path": "/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg",
+                "overview": "Ap\u00f3s tentar se suicidar, Salieri confessa a um padre que foi o respons\u00e1vel pela morte de Mozart e relata como conheceu, conviveu e passou a odiar Mozart, que era um jovem irreverente mas compunha como se sua m\u00fasica tivesse sido aben\u00e7oada por Deus.",
+                "vote_average": 8.0,
+                "vote_count": 4004
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Cotton Club",
+            "second_label": "Barry Malkin, Robert Q. Lovett",
+            "category": "Film Editing",
+            "year": 1985,
+            "tmdb": {
+                "id": 2148,
+                "original_title": "The Cotton Club",
+                "title": "Cotton Club",
+                "release_date": "1984-12-14",
+                "backdrop_path": "/8vroa5RYUxD7Nv7vUGUoxZTyz7P.jpg",
+                "poster_path": "/4FOLs73IGbx4Qth33ZG94DFRWxf.jpg",
+                "overview": "O Cotton Club foi uma famosa boate do Harlem. Esta \u00e9 a hist\u00f3ria das pessoas que frequentavam este clube, bem como das pessoas que o dirigiam. O filme \u00e9 generosamente recheado com m\u00fasica, o jazz que tornou o Cotton Club t\u00e3o renomado nas d\u00e9cadas de 1920 e 1930.",
+                "vote_average": 6.5,
+                "vote_count": 374
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Passage to India",
+            "second_label": "David Lean",
+            "category": "Film Editing",
+            "year": 1985,
+            "tmdb": {
+                "id": 15927,
+                "original_title": "A Passage to India",
+                "title": "Passagem para a \u00cdndia",
+                "release_date": "1984-12-14",
+                "backdrop_path": "/vhexJUk3sTEldSl3cI3eRzt6SZ5.jpg",
+                "poster_path": "/uGQEFxATmBDQvNy98wMtdOTrgQY.jpg",
+                "overview": "No final dos anos 20 Adela Quested (Judy Davis), uma rica inglesa de id\u00e9ias liberais, viaja para fora do pa\u00eds pela primeira vez, indo \u00e0 \u00cdndia para encontrar seu noivo. O choque cultural acontece, mas quando tudo parecia facilitar a integra\u00e7\u00e3o Adela acusa o jovem Dr. Aziz (Victor Banerjee) de tentativa de estupro durante um passeio at\u00e9 as cavernas de Marabar.",
+                "vote_average": 6.8,
+                "vote_count": 275
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Romancing the Stone",
+            "second_label": "Donn Cambern, Frank Morriss",
+            "category": "Film Editing",
+            "year": 1985,
+            "tmdb": {
+                "id": 9326,
+                "original_title": "Romancing the Stone",
+                "title": "Tudo Por Uma Esmeralda",
+                "release_date": "1984-03-30",
+                "backdrop_path": "/col4b63GefWBUGprBdqh69uSYbA.jpg",
+                "poster_path": "/25nFgND8g8YLoqUB19SgoQNZEgz.jpg",
+                "overview": "Joan Wilder (Kathleen Turner) \u00e9 uma romancista mimada que vai ajudar a irm\u00e3, que foi seq\u00fcestrada na Col\u00f4mbia. Se ela n\u00e3o levar um mapa que mostra a localiza\u00e7\u00e3o de um tesouro, sua irm\u00e3 ser\u00e1 morta. Mas enquanto tenta cumprir a exig\u00eancia, conhece Jack Colton (Michael Douglas), um aventureiro e mercen\u00e1rio que a ajuda e por quem se apaixona. Juntos, os dois se envolvem em diversas aventuras.",
+                "vote_average": 6.8,
+                "vote_count": 1720
+            },
+            "winner": false
+        }
+    ],
+    "Foreign Language Film": [
+        {
+            "first_label": "Dangerous Moves",
+            "second_label": "Switzerland",
+            "category": "Foreign Language Film",
+            "year": 1985,
+            "tmdb": {
+                "id": 46088,
+                "original_title": "La Diagonale du fou",
+                "title": "Fora de Controle",
+                "release_date": "1984-04-15",
+                "backdrop_path": "/tIqcAOe23mIGghMUQR7sT6Y2WMj.jpg",
+                "poster_path": "/erbO9GYdVc7ska0fpzQ8qqLrgC6.jpg",
+                "overview": "Ambientado durante a era da Cortina de Ferro, o filme conta a hist\u00f3ria de dois jogadores de xadrez que disputam o t\u00edtulo mundial. Durante a partida, o embate transforma-se tamb\u00e9m num guerra pol\u00edtica. Estreia de Richard Dembo na dire\u00e7\u00e3o, o filme baseia-se muito livremente num epis\u00f3dio bizarro ocorrido durante uma c\u00e9lebre partida de xadrez entre Karpov e Korchnoi. Era o campeonato mundial de 1978 e, dizem, Korchnoi chegou a tal ponto de del\u00edrio que sugeriu que a plateia estava sob alguma interfer\u00eancia ps\u00edquica e isso o estava atrapalhando.",
+                "vote_average": 5.8,
+                "vote_count": 31
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Beyond the Walls",
+            "second_label": "Israel",
+            "category": "Foreign Language Film",
+            "year": 1985,
+            "tmdb": {
+                "id": 136663,
+                "original_title": "\u05de\u05d0\u05d7\u05d5\u05e8\u05d9 \u05d4\u05e1\u05d5\u05e8\u05d2\u05d9\u05dd",
+                "title": "Beyond the Walls",
+                "release_date": "1984-09-27",
+                "backdrop_path": "/8LQmiyU23xIbbAM4rM5jnMoFzfL.jpg",
+                "poster_path": "/k03Q47h3AFCtwCt3hyQ6qaKGnD5.jpg",
+                "overview": "In Israel's Central Prison, the security officer is corrupt, supplying drugs and stirring the hatred between Jewish and Arab prisoners to his advantage. Uri, in for 12 years for armed robbery, and Issan, in for 50 years for PLO violence, command the respect of their cells. When the Arabs are framed for the murder of a Jewish prisoner and a young inmate commits suicide rather than lie about what happened, Uri and Issan form an unlikely partnership, leading the security block on a strike. Prison officials try to break it. In the background are Uri's daughter and Issan's wife, women of beauty and passion who embody the distance from inside a cell to the outside.",
+                "vote_average": 5.0,
+                "vote_count": 8
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Camila",
+            "second_label": "Argentina",
+            "category": "Foreign Language Film",
+            "year": 1985,
+            "tmdb": {
+                "id": 42085,
+                "original_title": "Camila",
+                "title": "Camila",
+                "release_date": "1984-05-17",
+                "backdrop_path": "/1BH1XATWO5NmJezvaGnvkfe6mq2.jpg",
+                "poster_path": "/kajA3qvCNfP0NsoLHcBYdxgJu2D.jpg",
+                "overview": "In 1847 Buenos Aires, a young noblewoman and a young Jesuit fall in love, much to the disapproval of her family and the Church.",
+                "vote_average": 7.0,
+                "vote_count": 32
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Double Feature",
+            "second_label": "Spain",
+            "category": "Foreign Language Film",
+            "year": 1985,
+            "tmdb": {
+                "id": 202787,
+                "original_title": "Sesi\u00f3n continua",
+                "title": "Double Feature",
+                "release_date": "1984-06-22",
+                "backdrop_path": null,
+                "poster_path": "/ewN1nhOAcAEKUwugdgGlTf4gJ8l.jpg",
+                "overview": "Director Jos\u00e9 Luis Garci has turned his camera inward on filmmakers and screenwriters to portray them as so self-absorbed in the creative process that there is no other world, no other human relationship that can compete. As Jos\u00e9 (Adolfo Marsillach) and Federico (Jesus Puente) work together on a new screenplay, their interactions with their family (Jos\u00e9's teen daughters, Federico's wife) disappear under the all-consuming task of creation. The daughters give up and go off on their own, and the wife joins a convent while Federico barely notices. And when the producer is interrupted by profound grief at the sudden death of his older son, he almost automatically returns to thinking about the film project when the funeral has ended. Garci honors many great directors at the beginning of this film, and the film continues to play out as an elaboration on this homage -- an illustration both of the dedication and the cost of filmmaking, no judgments given.",
+                "vote_average": 5.0,
+                "vote_count": 9
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Wartime Romance",
+            "second_label": "Union of Soviet Socialist Republics",
+            "category": "Foreign Language Film",
+            "year": 1985,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Jean Hersholt Humanitarian Award": [
+        {
+            "first_label": "",
+            "second_label": "David L. Wolper",
+            "category": "Jean Hersholt Humanitarian Award",
+            "year": 1985,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        }
+    ],
+    "Makeup": [
+        {
+            "first_label": "Amadeus",
+            "second_label": "Paul LeBlanc, Dick Smith",
+            "category": "Makeup",
+            "year": 1985,
+            "tmdb": {
+                "id": 279,
+                "original_title": "Amadeus",
+                "title": "Amadeus",
+                "release_date": "1984-09-19",
+                "backdrop_path": "/4i3Amppd6eW5Qkhjv4gdHk3CCoE.jpg",
+                "poster_path": "/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg",
+                "overview": "Ap\u00f3s tentar se suicidar, Salieri confessa a um padre que foi o respons\u00e1vel pela morte de Mozart e relata como conheceu, conviveu e passou a odiar Mozart, que era um jovem irreverente mas compunha como se sua m\u00fasica tivesse sido aben\u00e7oada por Deus.",
+                "vote_average": 8.0,
+                "vote_count": 4004
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Greystoke: The Legend of Tarzan, Lord of the Apes",
+            "second_label": "Rick Baker, Paul Engelen",
+            "category": "Makeup",
+            "year": 1985,
+            "tmdb": {
+                "id": 11002,
+                "original_title": "Greystoke: The Legend of Tarzan, Lord of the Apes",
+                "title": "Greystoke: A Lenda de Tarzan, o Rei da Selva",
+                "release_date": "1984-03-30",
+                "backdrop_path": "/njM0aDzgXe5fmxTd9YuqXL3RLSn.jpg",
+                "poster_path": "/5z0ZkkF8KUqRpfPRySPRtjYnH4M.jpg",
+                "overview": "No s\u00e9culo XIX, um navio naufraga perto da selva africana e um casal consegue chegar em terra firme. A mulher estava gr\u00e1vida e tem seu filho em uma casa nas \u00e1rvores. Algum tempo depois os pais do menino s\u00e3o mortos por animais e ele \u00e9 criado por uma macaca, que tinha perdido seu filhote. Ele cresce como se fosse um s\u00edmio, mas ap\u00f3s vinte anos, ele \u00e9 descoberto e volta a civiliza\u00e7\u00e3o, onde \u00e9 herdeiro de uma grande fortuna. Mas a adapta\u00e7\u00e3o com esta nova realidade \u00e9 estranha demais para ele.",
+                "vote_average": 6.3,
+                "vote_count": 436
+            },
+            "winner": false
+        },
+        {
+            "first_label": "2010",
+            "second_label": "Michael Westmore",
+            "category": "Makeup",
+            "year": 1985,
+            "tmdb": {
+                "id": 4437,
+                "original_title": "2010",
+                "title": "2010: O Ano em que Faremos Contato",
+                "release_date": "1984-12-06",
+                "backdrop_path": "/48ern5F857hPdEwJeUT6bnfGnHF.jpg",
+                "poster_path": "/2sE18DBdlpnpWGF9CjABAnMPmoi.jpg",
+                "overview": "Uma miss\u00e3o que re\u00fane americanos e sovi\u00e9ticos \u00e9 enviada ao planeta J\u00fapiter para buscar informa\u00e7\u00f5es sobre o que aconteceu de errado com a Discovery. A bordo da nave Leonov, a tripula\u00e7\u00e3o descobre um gigante mon\u00f3lito na orbita do planeta, reencontra HAL-9000 e desvenda in\u00fameros mist\u00e9rios do mundo.",
+                "vote_average": 6.6,
+                "vote_count": 870
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Score)": [
+        {
+            "first_label": "A Passage to India",
+            "second_label": "Maurice Jarre",
+            "category": "Music (Original Score)",
+            "year": 1985,
+            "tmdb": {
+                "id": 15927,
+                "original_title": "A Passage to India",
+                "title": "Passagem para a \u00cdndia",
+                "release_date": "1984-12-14",
+                "backdrop_path": "/vhexJUk3sTEldSl3cI3eRzt6SZ5.jpg",
+                "poster_path": "/uGQEFxATmBDQvNy98wMtdOTrgQY.jpg",
+                "overview": "No final dos anos 20 Adela Quested (Judy Davis), uma rica inglesa de id\u00e9ias liberais, viaja para fora do pa\u00eds pela primeira vez, indo \u00e0 \u00cdndia para encontrar seu noivo. O choque cultural acontece, mas quando tudo parecia facilitar a integra\u00e7\u00e3o Adela acusa o jovem Dr. Aziz (Victor Banerjee) de tentativa de estupro durante um passeio at\u00e9 as cavernas de Marabar.",
+                "vote_average": 6.8,
+                "vote_count": 275
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Indiana Jones and the Temple of Doom",
+            "second_label": "John Williams",
+            "category": "Music (Original Score)",
+            "year": 1985,
+            "tmdb": {
+                "id": 87,
+                "original_title": "Indiana Jones and the Temple of Doom",
+                "title": "Indiana Jones e o Templo da Perdi\u00e7\u00e3o",
+                "release_date": "1984-05-23",
+                "backdrop_path": "/f133nWlU6yUkZqqwcCXCbTEJWHr.jpg",
+                "poster_path": "/8cD0Zh4nNwsc07xoyxPs4WCi6ER.jpg",
+                "overview": "Em 1935, o professor, arque\u00f3logo e aventureiro Indiana Jones tem uma nova miss\u00e3o: resgatar as pedras roubadas por um feiticeiro e libertar crian\u00e7as escravizadas. Para tanto, enfrenta os poderes m\u00e1gicos e o fanatismo de um culto que sacrifica seres humanos.",
+                "vote_average": 7.3,
+                "vote_count": 8852
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Natural",
+            "second_label": "Randy Newman",
+            "category": "Music (Original Score)",
+            "year": 1985,
+            "tmdb": {
+                "id": 11393,
+                "original_title": "The Natural",
+                "title": "Um Homem Fora de S\u00e9rie",
+                "release_date": "1984-05-11",
+                "backdrop_path": "/xhr40Bj9qoNRhQy46qVsWk5B3WG.jpg",
+                "poster_path": "/tDatmlOWle3gXnSN8rnob3PHKgL.jpg",
+                "overview": "Misterioso rebatedor de meia-idade surge do nada e conduz \u00e0 gl\u00f3ria um fracassado time de beisebol profissional. O passado deste homem guarda um drama que interrompeu precocemente uma carreira brilhante e agora tudo parece voltar \u00e0 tona.",
+                "vote_average": 6.9,
+                "vote_count": 555
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The River",
+            "second_label": "John Williams",
+            "category": "Music (Original Score)",
+            "year": 1985,
+            "tmdb": {
+                "id": 38557,
+                "original_title": "The River",
+                "title": "O Rio do Desespero",
+                "release_date": "1984-12-01",
+                "backdrop_path": "/jHQ7QEnGEomL69hnzBAGStvAUMT.jpg",
+                "poster_path": "/oXVAIHhQcqwrx7B7oTdf4kw1tmB.jpg",
+                "overview": "Uma fam\u00edlia de fazendeiros luta contra in\u00fameras adversidades, entre d\u00edvidas banc\u00e1rias e inunda\u00e7\u00f5es, para salvar e manter a posse de suas terras.",
+                "vote_average": 6.2,
+                "vote_count": 114
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Under the Volcano",
+            "second_label": "Alex North",
+            "category": "Music (Original Score)",
+            "year": 1985,
+            "tmdb": {
+                "id": 41089,
+                "original_title": "Under the Volcano",
+                "title": "\u00c0 Sombra do Vulc\u00e3o",
+                "release_date": "1984-06-12",
+                "backdrop_path": "/tULz2edNiKH9XExH7dkBP3uc06o.jpg",
+                "poster_path": "/414VrLFf8gffMUNTGm0zlg2UuHh.jpg",
+                "overview": "As \u00faltimas 24 horas na vida de Geoffrey Firmin, um c\u00f4nsul ingl\u00eas solit\u00e1rio e deprimido que se retira ao \u00e1lcool para se consolar.  Em um cen\u00e1rio de guerra na Europa e na festa mexicana do Dia da Morte, somos levados em um dia na vida de Geoffrey Firmin, um c\u00f4nsul brit\u00e2nico que vive em abandono e obscuridade alco\u00f3lica em uma pequena cidade do sul do M\u00e9xico em 1939. O comportamento autodestrutivo do c\u00f4nsul, talvez uma met\u00e1fora para uma civiliza\u00e7\u00e3o amea\u00e7ada, \u00e9 uma fonte de perplexidade e tristeza para seu meio-irm\u00e3o n\u00f4made idealista, Hugh, e sua ex-esposa, Yvonne, que retornaram com esperan\u00e7as de curar Geoffrey e o casamento desfeito. (e 16 - Estimado 16 Anos)",
+                "vote_average": 6.5,
+                "vote_count": 84
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Song Score)": [
+        {
+            "first_label": "Purple Rain",
+            "second_label": "Prince",
+            "category": "Music (Original Song Score)",
+            "year": 1985,
+            "tmdb": {
+                "id": 13763,
+                "original_title": "Purple Rain",
+                "title": "Purple Rain",
+                "release_date": "1984-07-27",
+                "backdrop_path": "/s3WFrpZV1QIo8Aao2TaAI5ERUTO.jpg",
+                "poster_path": "/vkQmzaSuDj8QyXmwNhCceCAmwUe.jpg",
+                "overview": "V\u00edtima de sua pr\u00f3pria ira, Kid \u00e9 um m\u00fasico de Minneapolis que se dedica \u00e0 banda Revolution para escapar de uma vida dom\u00e9stica tumultuada atrav\u00e9s da m\u00fasica. Enquanto evita cometer os mesmos erros que seu pai, Kid circula por clubes e tem um relacionamento conturbado com Apollonia, uma cantora cativante. Mas outro m\u00fasico, Morris, quer roubar a aten\u00e7\u00e3o de Kid e de sua namorada.",
+                "vote_average": 6.7,
+                "vote_count": 345
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Muppets Take Manhattan",
+            "second_label": "Jeff Moss",
+            "category": "Music (Original Song Score)",
+            "year": 1985,
+            "tmdb": {
+                "id": 11899,
+                "original_title": "The Muppets Take Manhattan",
+                "title": "Os Muppets Conquistam Nova York",
+                "release_date": "1984-06-27",
+                "backdrop_path": "/wSxRjSeBjYnlsHtAXTEA0BicsLz.jpg",
+                "poster_path": "/AjSq5Q4lAS2HkNwW4ZlkN2ZsVLQ.jpg",
+                "overview": "Os Muppets v\u00e3o tentar a vida em Nova York, onde esperam se tornar grandes artistas. A sorte n\u00e3o os ajuda e eles passam por per\u00edodos dif\u00edceis, morando em arm\u00e1rios de esta\u00e7\u00f5es rodovi\u00e1rias. At\u00e9 que um dia, um golpe de sorte torna poss\u00edvel seus sonhos. E eles invadem a Broadway!",
+                "vote_average": 6.5,
+                "vote_count": 351
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Songwriter",
+            "second_label": "Kris Kristofferson",
+            "category": "Music (Original Song Score)",
+            "year": 1985,
+            "tmdb": {
+                "id": 69722,
+                "original_title": "Songwriter",
+                "title": "Songwriter",
+                "release_date": "1984-10-14",
+                "backdrop_path": "/eOpVP5rgiHUV4hYljS7ZJJa5FCd.jpg",
+                "poster_path": "/6Jbd381ByCj92kj5ZnC3CZ0CFPW.jpg",
+                "overview": "Doc Jenkins may be one of country music's most beloved stars, but his private life is a wreck. He's split up with his longtime partner, Blackie Buck, a country outlaw with a heart of gold. Doc's singer-wife, Honey Carder, has thrown him out of the house. And now he's gotten involved with a sleazy music manager, Rodeo Rocky, who's out to steal his material. Teaming up with Blackie, Doc takes drastic measures to win back his family and reclaim his songs.",
+                "vote_average": 5.2,
+                "vote_count": 14
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Song)": [
+        {
+            "first_label": "The Woman in Red",
+            "second_label": "I Just Called To Say I Love You in \"The Woman in Red\" Music and Lyric by Stevie Wonder",
+            "category": "Music (Original Song)",
+            "year": 1985,
+            "tmdb": {
+                "id": 5968,
+                "original_title": "The Woman in Red",
+                "title": "A Dama de Vermelho",
+                "release_date": "1984-08-15",
+                "backdrop_path": "/MDMaLSzrfB8tJHEfT7x6NXzKeE.jpg",
+                "poster_path": "/9CCvGclc8YmOmdoAqjCUda0LnQK.jpg",
+                "overview": "O executivo Teddy Pierce (Gene Wilder) sempre andou na linha, at\u00e9 conhecer Charlotte (Kelly LeBrock), a Dama de Vermelho. Com pernas maravilhosas e um estilo de arrasar, a sexy Charlotte \u00e9 tudo aquilo que a fantasia ousa imaginar. Teddy est\u00e1 fadado a se encrencar, ap\u00f3s ter decidido ceder, s\u00f3 esta \u00fanica vez, \u00e0 tenta\u00e7\u00e3o, e ele est\u00e1 ansioso pelo momento mais rom\u00e2ntico de sua vida. Mas o que Teddy n\u00e3o pode antever s\u00e3o as hil\u00e1rias complica\u00e7\u00f5es que ocorrem quando seus amigos, sua secret\u00e1ria e o marido de Charlotte se envolvem na hist\u00f3ria.",
+                "vote_average": 6.214,
+                "vote_count": 469
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Against All Odds",
+            "second_label": "Against All Odds (Take A Look At Me Now) in \"Against All Odds\" Music and Lyric by Phil Collins",
+            "category": "Music (Original Song)",
+            "year": 1985,
+            "tmdb": {
+                "id": 22160,
+                "original_title": "Against All Odds",
+                "title": "Paix\u00f5es Violentas",
+                "release_date": "1984-03-02",
+                "backdrop_path": "/pFfCyTolgfcfYRQod6PEmbguUPV.jpg",
+                "poster_path": "/wVjjPsQa3SZWutZNuccrUoW7qAc.jpg",
+                "overview": "Terry Brogan \u00e9 um jogador de futebol desempregado que foi contratado por um criminoso para encontrar a ex-namorada que o traiu. Por\u00e9m quando o jogador a encontra, surge entre eles uma perigosa rela\u00e7\u00e3o de amor e trai\u00e7\u00f5es.",
+                "vote_average": 5.7,
+                "vote_count": 188
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Footloose",
+            "second_label": "Footloose in \"Footloose\" Music and Lyric by Kenny Loggins and Dean Pitchford",
+            "category": "Music (Original Song)",
+            "year": 1985,
+            "tmdb": {
+                "id": 1788,
+                "original_title": "Footloose",
+                "title": "Footloose: Ritmo Louco",
+                "release_date": "1984-02-17",
+                "backdrop_path": "/aQMdD3TjDNeSE8b1KoVFrMW6wTh.jpg",
+                "poster_path": "/lnuDHpE5sp0IWTC6ycx1TP7Jelv.jpg",
+                "overview": "Rec\u00e9m-chegado de Chicago, Ren McCormak fica frustrado quando descobre que a pequena cidade pro\u00edbe a dan\u00e7a e a m\u00fasica de rock. Enquanto se esfor\u00e7a para se ajustar, Ren enfrenta uma \u00e1rdua batalha para mudar a situa\u00e7\u00e3o. Com a ajuda de um amigo, Willard Hewitt e da adolescente rebelde Ariel Moore, ele talvez consiga liberar esta cidade conservadora. Mas o pai influente de Ariel, o reverendo Shaw Moore, se torna um obst\u00e1culo.",
+                "vote_average": 6.663,
+                "vote_count": 1925
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ghostbusters",
+            "second_label": "Ghostbusters in \"Ghostbusters\" Music and Lyric by Ray Parker, Jr.",
+            "category": "Music (Original Song)",
+            "year": 1985,
+            "tmdb": {
+                "id": 620,
+                "original_title": "Ghostbusters",
+                "title": "Os Ca\u00e7a-Fantasmas",
+                "release_date": "1984-06-08",
+                "backdrop_path": "/c6yfABGVKuB5cjoOwdX4AJMlzUz.jpg",
+                "poster_path": "/6RjSQGuqwY2kqpNN7ibono0e1Cc.jpg",
+                "overview": "Em Nova York, Peter Venkman, Ray Stantz e Egon Spengler s\u00e3o tr\u00eas cientistas do departamento de psicologia da Universidade de Columbia que se dedicam ao estudo de casos paranormais. Quando a subven\u00e7\u00e3o termina, eles s\u00e3o despedidos e Venkman sugere que abram um neg\u00f3cio pr\u00f3prio, a exterminadora de fantasmas Ghostbusters. Inicialmente eles s\u00f3 t\u00eam despesas e nenhum cliente, mas eis que surge Dana Barrett, uma violoncelista que teve uma experi\u00eancia assustadora em seu apartamento.",
+                "vote_average": 7.481,
+                "vote_count": 8477
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Footloose",
+            "second_label": "Let's Hear It For The Boy in \"Footloose\" Music and Lyric by Tom Snow and Dean Pitchford",
+            "category": "Music (Original Song)",
+            "year": 1985,
+            "tmdb": {
+                "id": 1788,
+                "original_title": "Footloose",
+                "title": "Footloose: Ritmo Louco",
+                "release_date": "1984-02-17",
+                "backdrop_path": "/aQMdD3TjDNeSE8b1KoVFrMW6wTh.jpg",
+                "poster_path": "/lnuDHpE5sp0IWTC6ycx1TP7Jelv.jpg",
+                "overview": "Rec\u00e9m-chegado de Chicago, Ren McCormak fica frustrado quando descobre que a pequena cidade pro\u00edbe a dan\u00e7a e a m\u00fasica de rock. Enquanto se esfor\u00e7a para se ajustar, Ren enfrenta uma \u00e1rdua batalha para mudar a situa\u00e7\u00e3o. Com a ajuda de um amigo, Willard Hewitt e da adolescente rebelde Ariel Moore, ele talvez consiga liberar esta cidade conservadora. Mas o pai influente de Ariel, o reverendo Shaw Moore, se torna um obst\u00e1culo.",
+                "vote_average": 6.663,
+                "vote_count": 1925
+            },
+            "winner": false
+        }
+    ],
+    "Best Picture": [
+        {
+            "first_label": "Amadeus",
+            "second_label": "Saul Zaentz, Producer",
+            "category": "Best Picture",
+            "year": 1985,
+            "tmdb": {
+                "id": 279,
+                "original_title": "Amadeus",
+                "title": "Amadeus",
+                "release_date": "1984-09-19",
+                "backdrop_path": "/4i3Amppd6eW5Qkhjv4gdHk3CCoE.jpg",
+                "poster_path": "/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg",
+                "overview": "Ap\u00f3s tentar se suicidar, Salieri confessa a um padre que foi o respons\u00e1vel pela morte de Mozart e relata como conheceu, conviveu e passou a odiar Mozart, que era um jovem irreverente mas compunha como se sua m\u00fasica tivesse sido aben\u00e7oada por Deus.",
+                "vote_average": 8.0,
+                "vote_count": 4004
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Killing Fields",
+            "second_label": "David Puttnam, Producer",
+            "category": "Best Picture",
+            "year": 1985,
+            "tmdb": {
+                "id": 625,
+                "original_title": "The Killing Fields",
+                "title": "Os Gritos do Sil\u00eancio",
+                "release_date": "1984-11-23",
+                "backdrop_path": "/SmzC77NERiB8cLdA6enIjvuS8E.jpg",
+                "poster_path": "/8PgmK0doOtBQbDIXpOTjGUvjxU6.jpg",
+                "overview": "Os Gritos do Sil\u00eancio conta a hist\u00f3ria real de uma amizade entre dois jornalistas, um americano e um cambojano, durante a sangrenta tomada do Camboja em 1975 pelo Khmer Vermelho, que levou \u00e0 morte de 2 a 3 milh\u00f5es de cambojanos durante os pr\u00f3ximos quatro anos, at\u00e9 regime que Pol Pot foi derrubado pelos intervenientes vietnamitas em 1979.",
+                "vote_average": 7.5,
+                "vote_count": 693
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Passage to India",
+            "second_label": "John Brabourne and Richard Goodwin, Producers",
+            "category": "Best Picture",
+            "year": 1985,
+            "tmdb": {
+                "id": 15927,
+                "original_title": "A Passage to India",
+                "title": "Passagem para a \u00cdndia",
+                "release_date": "1984-12-14",
+                "backdrop_path": "/vhexJUk3sTEldSl3cI3eRzt6SZ5.jpg",
+                "poster_path": "/uGQEFxATmBDQvNy98wMtdOTrgQY.jpg",
+                "overview": "No final dos anos 20 Adela Quested (Judy Davis), uma rica inglesa de id\u00e9ias liberais, viaja para fora do pa\u00eds pela primeira vez, indo \u00e0 \u00cdndia para encontrar seu noivo. O choque cultural acontece, mas quando tudo parecia facilitar a integra\u00e7\u00e3o Adela acusa o jovem Dr. Aziz (Victor Banerjee) de tentativa de estupro durante um passeio at\u00e9 as cavernas de Marabar.",
+                "vote_average": 6.8,
+                "vote_count": 275
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Places in the Heart",
+            "second_label": "Arlene Donovan, Producer",
+            "category": "Best Picture",
+            "year": 1985,
+            "tmdb": {
+                "id": 13681,
+                "original_title": "Places in the Heart",
+                "title": "Um Lugar no Cora\u00e7\u00e3o",
+                "release_date": "1984-09-11",
+                "backdrop_path": "/jHVL2YccIFFca9s8DmLHbcheosw.jpg",
+                "poster_path": "/bmWg3uVn700inqOiadxeFTmiqmV.jpg",
+                "overview": "Em 1935, uma vi\u00fava cria seus filhos sozinha e luta por sua fazenda de algod\u00e3o no Texas, que est\u00e1 prestes a ser tomada por um banco. Al\u00e9m disso, a mulher precisa lidar com um tornado que est\u00e1 se aproximando e com a presen\u00e7a do Ku Klux Kan na regi\u00e3o.",
+                "vote_average": 7.2,
+                "vote_count": 138
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Soldier's Story",
+            "second_label": "Norman Jewison, Ronald L. Schwary and Patrick Palmer, Producers",
+            "category": "Best Picture",
+            "year": 1985,
+            "tmdb": {
+                "id": 26522,
+                "original_title": "A Soldier's Story",
+                "title": "A Hist\u00f3ria de um Soldado",
+                "release_date": "1984-09-14",
+                "backdrop_path": "/b6eyVAayLvdpVEH73eo1QTzj9Of.jpg",
+                "poster_path": "/kobXWJE7VLtYExOlK9qW5MVFHTO.jpg",
+                "overview": "Um advogado negro, oficial do Ex\u00e9rcito, vai a uma base militar remota no interior da Louisiana para conduzir o inqu\u00e9rito sobre o brutal assassinato de um sargento negro. Ele desconfia de crime racial, mas enfrenta a resist\u00eancia de oficiais brancos para identificar os culpados.",
+                "vote_average": 6.7,
+                "vote_count": 168
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Animated)": [
+        {
+            "first_label": "Charade",
+            "second_label": "Jon Minnis, Producer",
+            "category": "Short Film (Animated)",
+            "year": 1985,
+            "tmdb": {
+                "id": 48276,
+                "original_title": "Charade",
+                "title": "Charade",
+                "release_date": "1984-04-10",
+                "backdrop_path": null,
+                "poster_path": "/2FFME6juIEVx7Oi4Mh3qknnZpJX.jpg",
+                "overview": "A talented, but doomed, gentleman tries to participate in a properly British game of charades.",
+                "vote_average": 6.5,
+                "vote_count": 26
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Doctor De Soto",
+            "second_label": "Morton Schindel and Michael Sporn, Producers",
+            "category": "Short Film (Animated)",
+            "year": 1985,
+            "tmdb": {
+                "id": 244652,
+                "original_title": "Doctor De Soto",
+                "title": "Doctor De Soto",
+                "release_date": "1984-01-05",
+                "backdrop_path": null,
+                "poster_path": "/k3UjssByJr1ZWdXhcrPokHKZIrN.jpg",
+                "overview": "A kind-hearted mouse dentist and his wife find a clever way to treat a crafty fox who comes to them with a sore tooth in this Oscar nominated short, adapted from William Steig's children's book.",
+                "vote_average": 4.2,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Paradise",
+            "second_label": "Ishu Patel, Producer",
+            "category": "Short Film (Animated)",
+            "year": 1985,
+            "tmdb": {
+                "id": 209548,
+                "original_title": "Paradise",
+                "title": "Paradise",
+                "release_date": "1984-01-01",
+                "backdrop_path": "/qNTo4Vjl8qvt8xPMWmaLWo6UT7X.jpg",
+                "poster_path": "/giH4Z34jlNsM2fH3dcVPExVCNz6.jpg",
+                "overview": "An Oscar-nominated short from 1985 by Ishu Patel, which raises the question \u2013 which is preferable, a beautiful gilded cage, or your freedom?",
+                "vote_average": 6.5,
+                "vote_count": 12
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Live Action)": [
+        {
+            "first_label": "Up",
+            "second_label": "Mike Hoover, Producer",
+            "category": "Short Film (Live Action)",
+            "year": 1985,
+            "tmdb": {
+                "id": 311,
+                "original_title": "Once Upon a Time in America",
+                "title": "Era Uma Vez na Am\u00e9rica",
+                "release_date": "1984-05-23",
+                "backdrop_path": "/uPYa165sraN2c8gZBM9C47g3JoU.jpg",
+                "poster_path": "/8E2lZjt28MR6Dzc3QOiVzM8PvXU.jpg",
+                "overview": "Depois de crescer no gueto judeu de Nova Iorque e se destacar no crime organizado da Era da Proibi\u00e7\u00e3o, um g\u00e2ngster de idade retorna a Brooklyn para enfrentar seu passado.",
+                "vote_average": 8.425,
+                "vote_count": 5114
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Painted Door",
+            "second_label": "Michael MacMillan and Janice L. Platt, Producers",
+            "category": "Short Film (Live Action)",
+            "year": 1985,
+            "tmdb": {
+                "id": 244639,
+                "original_title": "The Painted Door",
+                "title": "The Painted Door",
+                "release_date": "1984-10-01",
+                "backdrop_path": null,
+                "poster_path": "/1XfHYRSoVvRMnk8j0lx90JPXiPL.jpg",
+                "overview": "The Painted Door is a Canadian short drama film, directed by Bruce Pittman and released in 1984. Based on a short story by Sinclair Ross, the film was produced by the National Film Board of Canada and Atlantis Films of Toronto. It follows a housewife who struggles with loneliness after her husband ventures into a blizzard. The film received an Academy Award nomination for Best Live Action Short Film.",
+                "vote_average": 4.5,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tales of Meeting and Parting",
+            "second_label": "Sharon Oreck and Lesli Linka Glatter, Producers",
+            "category": "Short Film (Live Action)",
+            "year": 1985,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Sound": [
+        {
+            "first_label": "Amadeus",
+            "second_label": "Mark Berger, Tom Scott, Todd Boekelheide, Chris Newman",
+            "category": "Sound",
+            "year": 1985,
+            "tmdb": {
+                "id": 279,
+                "original_title": "Amadeus",
+                "title": "Amadeus",
+                "release_date": "1984-09-19",
+                "backdrop_path": "/4i3Amppd6eW5Qkhjv4gdHk3CCoE.jpg",
+                "poster_path": "/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg",
+                "overview": "Ap\u00f3s tentar se suicidar, Salieri confessa a um padre que foi o respons\u00e1vel pela morte de Mozart e relata como conheceu, conviveu e passou a odiar Mozart, que era um jovem irreverente mas compunha como se sua m\u00fasica tivesse sido aben\u00e7oada por Deus.",
+                "vote_average": 8.0,
+                "vote_count": 4004
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Dune",
+            "second_label": "Bill Varney, Steve Maslow, Kevin O'Connell, Nelson Stoll",
+            "category": "Sound",
+            "year": 1985,
+            "tmdb": {
+                "id": 841,
+                "original_title": "Dune",
+                "title": "Duna",
+                "release_date": "1984-12-14",
+                "backdrop_path": "/5wJ2tckpvwcxGCAgZiccodwEJpf.jpg",
+                "poster_path": "/hYhW2wag6lt6lmczbY1n12CvbK8.jpg",
+                "overview": "Em 10.190 D.C., um duque e sua fam\u00edlia s\u00e3o mandados pelo Imperador para Arrakis, um \u00e1rido planeta conhecido como Duna, que tem uma mat\u00e9ria essencial \u00e0s viagens interplanet\u00e1rias: a Especiaria. O motivo desta mudan\u00e7a \u00e9 que o Imperador planeja destruir o duque e sua fam\u00edlia, mas seu filho escapa e procura se vingar usando a ecologia deste mundo como uma de suas armas.",
+                "vote_average": 6.2,
+                "vote_count": 2772
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Passage to India",
+            "second_label": "Graham V. Hartstone, Nicolas Le Messurier, Michael A. Carter, John Mitchell",
+            "category": "Sound",
+            "year": 1985,
+            "tmdb": {
+                "id": 15927,
+                "original_title": "A Passage to India",
+                "title": "Passagem para a \u00cdndia",
+                "release_date": "1984-12-14",
+                "backdrop_path": "/vhexJUk3sTEldSl3cI3eRzt6SZ5.jpg",
+                "poster_path": "/uGQEFxATmBDQvNy98wMtdOTrgQY.jpg",
+                "overview": "No final dos anos 20 Adela Quested (Judy Davis), uma rica inglesa de id\u00e9ias liberais, viaja para fora do pa\u00eds pela primeira vez, indo \u00e0 \u00cdndia para encontrar seu noivo. O choque cultural acontece, mas quando tudo parecia facilitar a integra\u00e7\u00e3o Adela acusa o jovem Dr. Aziz (Victor Banerjee) de tentativa de estupro durante um passeio at\u00e9 as cavernas de Marabar.",
+                "vote_average": 6.8,
+                "vote_count": 275
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The River",
+            "second_label": "Nick Alphin, Robert Thirlwell, Richard Portman, David Ronne",
+            "category": "Sound",
+            "year": 1985,
+            "tmdb": {
+                "id": 38557,
+                "original_title": "The River",
+                "title": "O Rio do Desespero",
+                "release_date": "1984-12-01",
+                "backdrop_path": "/jHQ7QEnGEomL69hnzBAGStvAUMT.jpg",
+                "poster_path": "/oXVAIHhQcqwrx7B7oTdf4kw1tmB.jpg",
+                "overview": "Uma fam\u00edlia de fazendeiros luta contra in\u00fameras adversidades, entre d\u00edvidas banc\u00e1rias e inunda\u00e7\u00f5es, para salvar e manter a posse de suas terras.",
+                "vote_average": 6.2,
+                "vote_count": 114
+            },
+            "winner": false
+        },
+        {
+            "first_label": "2010",
+            "second_label": "Michael J. Kohut, Aaron Rochin, Carlos De Larios, Gene S. Cantamessa",
+            "category": "Sound",
+            "year": 1985,
+            "tmdb": {
+                "id": 4437,
+                "original_title": "2010",
+                "title": "2010: O Ano em que Faremos Contato",
+                "release_date": "1984-12-06",
+                "backdrop_path": "/48ern5F857hPdEwJeUT6bnfGnHF.jpg",
+                "poster_path": "/2sE18DBdlpnpWGF9CjABAnMPmoi.jpg",
+                "overview": "Uma miss\u00e3o que re\u00fane americanos e sovi\u00e9ticos \u00e9 enviada ao planeta J\u00fapiter para buscar informa\u00e7\u00f5es sobre o que aconteceu de errado com a Discovery. A bordo da nave Leonov, a tripula\u00e7\u00e3o descobre um gigante mon\u00f3lito na orbita do planeta, reencontra HAL-9000 e desvenda in\u00fameros mist\u00e9rios do mundo.",
+                "vote_average": 6.6,
+                "vote_count": 870
+            },
+            "winner": false
+        }
+    ],
+    "Special Achievement Award (Sound Effects Editing)": [
+        {
+            "first_label": "The River",
+            "second_label": "Kay Rose",
+            "category": "Special Achievement Award (Sound Effects Editing)",
+            "year": 1985,
+            "tmdb": {
+                "id": 38557,
+                "original_title": "The River",
+                "title": "O Rio do Desespero",
+                "release_date": "1984-12-01",
+                "backdrop_path": "/jHQ7QEnGEomL69hnzBAGStvAUMT.jpg",
+                "poster_path": "/oXVAIHhQcqwrx7B7oTdf4kw1tmB.jpg",
+                "overview": "Uma fam\u00edlia de fazendeiros luta contra in\u00fameras adversidades, entre d\u00edvidas banc\u00e1rias e inunda\u00e7\u00f5es, para salvar e manter a posse de suas terras.",
+                "vote_average": 6.2,
+                "vote_count": 114
+            },
+            "winner": true
+        }
+    ],
+    "Visual Effects": [
+        {
+            "first_label": "Indiana Jones and the Temple of Doom",
+            "second_label": "Dennis Muren, Michael McAlister, Lorne Peterson, George Gibbs",
+            "category": "Visual Effects",
+            "year": 1985,
+            "tmdb": {
+                "id": 87,
+                "original_title": "Indiana Jones and the Temple of Doom",
+                "title": "Indiana Jones e o Templo da Perdi\u00e7\u00e3o",
+                "release_date": "1984-05-23",
+                "backdrop_path": "/f133nWlU6yUkZqqwcCXCbTEJWHr.jpg",
+                "poster_path": "/8cD0Zh4nNwsc07xoyxPs4WCi6ER.jpg",
+                "overview": "Em 1935, o professor, arque\u00f3logo e aventureiro Indiana Jones tem uma nova miss\u00e3o: resgatar as pedras roubadas por um feiticeiro e libertar crian\u00e7as escravizadas. Para tanto, enfrenta os poderes m\u00e1gicos e o fanatismo de um culto que sacrifica seres humanos.",
+                "vote_average": 7.3,
+                "vote_count": 8852
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Ghostbusters",
+            "second_label": "Richard Edlund, John Bruno, Mark Vargo, Chuck Gaspar",
+            "category": "Visual Effects",
+            "year": 1985,
+            "tmdb": {
+                "id": 620,
+                "original_title": "Ghostbusters",
+                "title": "Os Ca\u00e7a-Fantasmas",
+                "release_date": "1984-06-08",
+                "backdrop_path": "/c6yfABGVKuB5cjoOwdX4AJMlzUz.jpg",
+                "poster_path": "/6RjSQGuqwY2kqpNN7ibono0e1Cc.jpg",
+                "overview": "Em Nova York, Peter Venkman, Ray Stantz e Egon Spengler s\u00e3o tr\u00eas cientistas do departamento de psicologia da Universidade de Columbia que se dedicam ao estudo de casos paranormais. Quando a subven\u00e7\u00e3o termina, eles s\u00e3o despedidos e Venkman sugere que abram um neg\u00f3cio pr\u00f3prio, a exterminadora de fantasmas Ghostbusters. Inicialmente eles s\u00f3 t\u00eam despesas e nenhum cliente, mas eis que surge Dana Barrett, uma violoncelista que teve uma experi\u00eancia assustadora em seu apartamento.",
+                "vote_average": 7.481,
+                "vote_count": 8477
+            },
+            "winner": false
+        },
+        {
+            "first_label": "2010",
+            "second_label": "Richard Edlund, Neil Krepela, George Jenson, Mark Stetson",
+            "category": "Visual Effects",
+            "year": 1985,
+            "tmdb": {
+                "id": 4437,
+                "original_title": "2010",
+                "title": "2010: O Ano em que Faremos Contato",
+                "release_date": "1984-12-06",
+                "backdrop_path": "/48ern5F857hPdEwJeUT6bnfGnHF.jpg",
+                "poster_path": "/2sE18DBdlpnpWGF9CjABAnMPmoi.jpg",
+                "overview": "Uma miss\u00e3o que re\u00fane americanos e sovi\u00e9ticos \u00e9 enviada ao planeta J\u00fapiter para buscar informa\u00e7\u00f5es sobre o que aconteceu de errado com a Discovery. A bordo da nave Leonov, a tripula\u00e7\u00e3o descobre um gigante mon\u00f3lito na orbita do planeta, reencontra HAL-9000 e desvenda in\u00fameros mist\u00e9rios do mundo.",
+                "vote_average": 6.6,
+                "vote_count": 870
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay Based on Material from Another Medium)": [
+        {
+            "first_label": "Amadeus",
+            "second_label": "Peter Shaffer",
+            "category": "Writing (Screenplay Based on Material from Another Medium)",
+            "year": 1985,
+            "tmdb": {
+                "id": 279,
+                "original_title": "Amadeus",
+                "title": "Amadeus",
+                "release_date": "1984-09-19",
+                "backdrop_path": "/4i3Amppd6eW5Qkhjv4gdHk3CCoE.jpg",
+                "poster_path": "/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg",
+                "overview": "Ap\u00f3s tentar se suicidar, Salieri confessa a um padre que foi o respons\u00e1vel pela morte de Mozart e relata como conheceu, conviveu e passou a odiar Mozart, que era um jovem irreverente mas compunha como se sua m\u00fasica tivesse sido aben\u00e7oada por Deus.",
+                "vote_average": 8.0,
+                "vote_count": 4004
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Greystoke: The Legend of Tarzan, Lord of the Apes",
+            "second_label": "P.H. Vazak, Michael Austin",
+            "category": "Writing (Screenplay Based on Material from Another Medium)",
+            "year": 1985,
+            "tmdb": {
+                "id": 11002,
+                "original_title": "Greystoke: The Legend of Tarzan, Lord of the Apes",
+                "title": "Greystoke: A Lenda de Tarzan, o Rei da Selva",
+                "release_date": "1984-03-30",
+                "backdrop_path": "/njM0aDzgXe5fmxTd9YuqXL3RLSn.jpg",
+                "poster_path": "/5z0ZkkF8KUqRpfPRySPRtjYnH4M.jpg",
+                "overview": "No s\u00e9culo XIX, um navio naufraga perto da selva africana e um casal consegue chegar em terra firme. A mulher estava gr\u00e1vida e tem seu filho em uma casa nas \u00e1rvores. Algum tempo depois os pais do menino s\u00e3o mortos por animais e ele \u00e9 criado por uma macaca, que tinha perdido seu filhote. Ele cresce como se fosse um s\u00edmio, mas ap\u00f3s vinte anos, ele \u00e9 descoberto e volta a civiliza\u00e7\u00e3o, onde \u00e9 herdeiro de uma grande fortuna. Mas a adapta\u00e7\u00e3o com esta nova realidade \u00e9 estranha demais para ele.",
+                "vote_average": 6.3,
+                "vote_count": 436
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Killing Fields",
+            "second_label": "Bruce Robinson",
+            "category": "Writing (Screenplay Based on Material from Another Medium)",
+            "year": 1985,
+            "tmdb": {
+                "id": 625,
+                "original_title": "The Killing Fields",
+                "title": "Os Gritos do Sil\u00eancio",
+                "release_date": "1984-11-23",
+                "backdrop_path": "/SmzC77NERiB8cLdA6enIjvuS8E.jpg",
+                "poster_path": "/8PgmK0doOtBQbDIXpOTjGUvjxU6.jpg",
+                "overview": "Os Gritos do Sil\u00eancio conta a hist\u00f3ria real de uma amizade entre dois jornalistas, um americano e um cambojano, durante a sangrenta tomada do Camboja em 1975 pelo Khmer Vermelho, que levou \u00e0 morte de 2 a 3 milh\u00f5es de cambojanos durante os pr\u00f3ximos quatro anos, at\u00e9 regime que Pol Pot foi derrubado pelos intervenientes vietnamitas em 1979.",
+                "vote_average": 7.5,
+                "vote_count": 693
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Passage to India",
+            "second_label": "David Lean",
+            "category": "Writing (Screenplay Based on Material from Another Medium)",
+            "year": 1985,
+            "tmdb": {
+                "id": 15927,
+                "original_title": "A Passage to India",
+                "title": "Passagem para a \u00cdndia",
+                "release_date": "1984-12-14",
+                "backdrop_path": "/vhexJUk3sTEldSl3cI3eRzt6SZ5.jpg",
+                "poster_path": "/uGQEFxATmBDQvNy98wMtdOTrgQY.jpg",
+                "overview": "No final dos anos 20 Adela Quested (Judy Davis), uma rica inglesa de id\u00e9ias liberais, viaja para fora do pa\u00eds pela primeira vez, indo \u00e0 \u00cdndia para encontrar seu noivo. O choque cultural acontece, mas quando tudo parecia facilitar a integra\u00e7\u00e3o Adela acusa o jovem Dr. Aziz (Victor Banerjee) de tentativa de estupro durante um passeio at\u00e9 as cavernas de Marabar.",
+                "vote_average": 6.8,
+                "vote_count": 275
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Soldier's Story",
+            "second_label": "Charles Fuller",
+            "category": "Writing (Screenplay Based on Material from Another Medium)",
+            "year": 1985,
+            "tmdb": {
+                "id": 26522,
+                "original_title": "A Soldier's Story",
+                "title": "A Hist\u00f3ria de um Soldado",
+                "release_date": "1984-09-14",
+                "backdrop_path": "/b6eyVAayLvdpVEH73eo1QTzj9Of.jpg",
+                "poster_path": "/kobXWJE7VLtYExOlK9qW5MVFHTO.jpg",
+                "overview": "Um advogado negro, oficial do Ex\u00e9rcito, vai a uma base militar remota no interior da Louisiana para conduzir o inqu\u00e9rito sobre o brutal assassinato de um sargento negro. Ele desconfia de crime racial, mas enfrenta a resist\u00eancia de oficiais brancos para identificar os culpados.",
+                "vote_average": 6.7,
+                "vote_count": 168
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay Written Directly for the Screen)": [
+        {
+            "first_label": "Places in the Heart",
+            "second_label": "Robert Benton",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 1985,
+            "tmdb": {
+                "id": 13681,
+                "original_title": "Places in the Heart",
+                "title": "Um Lugar no Cora\u00e7\u00e3o",
+                "release_date": "1984-09-11",
+                "backdrop_path": "/jHVL2YccIFFca9s8DmLHbcheosw.jpg",
+                "poster_path": "/bmWg3uVn700inqOiadxeFTmiqmV.jpg",
+                "overview": "Em 1935, uma vi\u00fava cria seus filhos sozinha e luta por sua fazenda de algod\u00e3o no Texas, que est\u00e1 prestes a ser tomada por um banco. Al\u00e9m disso, a mulher precisa lidar com um tornado que est\u00e1 se aproximando e com a presen\u00e7a do Ku Klux Kan na regi\u00e3o.",
+                "vote_average": 7.2,
+                "vote_count": 138
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Beverly Hills Cop",
+            "second_label": "Screenplay by Daniel Petrie, Jr.;  Story by Danilo Bach, Daniel Petrie, Jr.",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 1985,
+            "tmdb": {
+                "id": 90,
+                "original_title": "Beverly Hills Cop",
+                "title": "Um Tira da Pesada",
+                "release_date": "1984-12-05",
+                "backdrop_path": "/tKi5HYDSuxP4I26fxyF2UVvAtLa.jpg",
+                "poster_path": "/wjcOukmiJKp4oMrIXOa3hlvODph.jpg",
+                "overview": "Poucas horas depois de chegar em Detroit, Mikey Tandino foi morto. Axel Foley, policial e seu melhor amigo, viaja para Los Angeles, pois tinha sido o \u00faltimo lugar onde Mikey trabalhou. O emprego de Mikey tinha sido conseguido por Jenny Summers, amiga de ambos, que administra uma famosa galeria de arte em Beverly Hills. Por\u00e9m, Foley tem de fazer tudo informalmente, pois est\u00e1 fora do caso e pretende seguir a pista do poss\u00edvel mandante do crime, Victor Maitland, o chefe de Jenny e dono da galeria. Apesar de Maitland ser considerado um dos maiores marchands do pa\u00eds, Axel acredita que ele usa o mercado de arte como fachada e consegue que dois relutantes policiais locais, Billy Rosewood e John Taggart, se unam a ele nas investiga\u00e7\u00f5es.",
+                "vote_average": 7.19,
+                "vote_count": 3788
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Broadway Danny Rose",
+            "second_label": "Woody Allen",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 1985,
+            "tmdb": {
+                "id": 12762,
+                "original_title": "Broadway Danny Rose",
+                "title": "Broadway Danny Rose",
+                "release_date": "1984-01-27",
+                "backdrop_path": "/sSOb9iof1C3GLd81x9LigSOCRPQ.jpg",
+                "poster_path": "/5A1xAA5WqFQ7NKsPKxjWbNdmpv5.jpg",
+                "overview": "Danny Rose (Woody Allen) \u00e9 um agente fracassado que v\u00ea uma \u00f3tima oportunidade de crescer profissionalmente atrav\u00e9s do cantor Lou Canova (Nick Apollo Forte). Lou tem muitos conflitos amorosos e Danny acaba por se envolver demais com o cliente, chegando at\u00e9 a ter envolvimentos nada agrad\u00e1veis com a m\u00e1fia.",
+                "vote_average": 7.2,
+                "vote_count": 423
+            },
+            "winner": false
+        },
+        {
+            "first_label": "El Norte",
+            "second_label": "Gregory Nava, Anna Thomas",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 1985,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Splash",
+            "second_label": "Screenplay by Lowell Ganz, Babaloo Mandel, Bruce Jay Friedman;  Screen Story by Bruce Jay Friedman;  Based on a story by Brian Grazer",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 1985,
+            "tmdb": {
+                "id": 2619,
+                "original_title": "Splash",
+                "title": "Splash: Uma Sereia em Minha Vida",
+                "release_date": "1984-03-09",
+                "backdrop_path": "/83RAbxUbiaHlWVRSQo2nlB7nMLJ.jpg",
+                "poster_path": "/72iWmZzs8KVcVAMrerjShzKozmm.jpg",
+                "overview": "Allen Bauer, um rapaz decepcionado com a vida amorosa, \u00e9 salvo no mar por uma sereia. Sem saber o que ela era, apaixona-se e ambos embarcam num romance intenso. Mas o que vai acontecer quando ele descobrir a verdade?",
+                "vote_average": 6.3,
+                "vote_count": 1264
+            },
+            "winner": false
+        }
+    ]
+}

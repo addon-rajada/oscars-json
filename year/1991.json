@@ -1,0 +1,1774 @@
+{
+    "Actor in a Leading Role": [
+        {
+            "first_label": "Jeremy Irons",
+            "second_label": "Reversal of Fortune",
+            "category": "Actor in a Leading Role",
+            "year": 1991,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Kevin Costner",
+            "second_label": "Dances With Wolves",
+            "category": "Actor in a Leading Role",
+            "year": 1991,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Robert De Niro",
+            "second_label": "Awakenings",
+            "category": "Actor in a Leading Role",
+            "year": 1991,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Gerard Depardieu",
+            "second_label": "Cyrano de Bergerac",
+            "category": "Actor in a Leading Role",
+            "year": 1991,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Richard Harris",
+            "second_label": "The Field",
+            "category": "Actor in a Leading Role",
+            "year": 1991,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Joe Pesci",
+            "second_label": "Good Fellas",
+            "category": "Actor in a Supporting Role",
+            "year": 1991,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Bruce Davison",
+            "second_label": "Longtime Companion",
+            "category": "Actor in a Supporting Role",
+            "year": 1991,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Andy Garcia",
+            "second_label": "The Godfather, Part III",
+            "category": "Actor in a Supporting Role",
+            "year": 1991,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Graham Greene",
+            "second_label": "Dances With Wolves",
+            "category": "Actor in a Supporting Role",
+            "year": 1991,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Al Pacino",
+            "second_label": "Dick Tracy",
+            "category": "Actor in a Supporting Role",
+            "year": 1991,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Leading Role": [
+        {
+            "first_label": "Kathy Bates",
+            "second_label": "Misery",
+            "category": "Actress in a Leading Role",
+            "year": 1991,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Anjelica Huston",
+            "second_label": "The Grifters",
+            "category": "Actress in a Leading Role",
+            "year": 1991,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Julia Roberts",
+            "second_label": "Pretty Woman",
+            "category": "Actress in a Leading Role",
+            "year": 1991,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Meryl Streep",
+            "second_label": "Postcards from the Edge",
+            "category": "Actress in a Leading Role",
+            "year": 1991,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Joanne Woodward",
+            "second_label": "Mr. & Mrs. Bridge",
+            "category": "Actress in a Leading Role",
+            "year": 1991,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Whoopi Goldberg",
+            "second_label": "Ghost",
+            "category": "Actress in a Supporting Role",
+            "year": 1991,
+            "tmdb": {
+                "id": 79077,
+                "original_title": "Whoopi Goldberg: Direct from Broadway",
+                "title": "Whoopi Goldberg: Direct from Broadway",
+                "release_date": "1985-07-20",
+                "backdrop_path": "/8D4ILL9lnJb0muyCdobyayc8akP.jpg",
+                "poster_path": "/deD7mJNYFdeZBclx2djvmQ35xNq.jpg",
+                "overview": "Whoopi Goldberg in her original one-woman show.",
+                "vote_average": 6.3,
+                "vote_count": 7
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Annette Bening",
+            "second_label": "The Grifters",
+            "category": "Actress in a Supporting Role",
+            "year": 1991,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lorraine Bracco",
+            "second_label": "Good Fellas",
+            "category": "Actress in a Supporting Role",
+            "year": 1991,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Diane Ladd",
+            "second_label": "Wild at Heart",
+            "category": "Actress in a Supporting Role",
+            "year": 1991,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mary McDonnell",
+            "second_label": "Dances With Wolves",
+            "category": "Actress in a Supporting Role",
+            "year": 1991,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction": [
+        {
+            "first_label": "Dick Tracy",
+            "second_label": "Art Direction: Richard Sylbert; Set Decoration: Rick Simpson",
+            "category": "Art Direction",
+            "year": 1991,
+            "tmdb": {
+                "id": 8592,
+                "original_title": "Dick Tracy",
+                "title": "Dick Tracy",
+                "release_date": "1990-04-05",
+                "backdrop_path": "/gCBZOJw1uoJQqOt28NLkdlCp6ck.jpg",
+                "poster_path": "/xY6D5Ti44xuwzCkmf6Ygbj86BkP.jpg",
+                "overview": "Tess Trueheart quer apenas ter uma vida tranquila com seu namorado, Dick Tracy, um detetive da pol\u00edcia. Por\u00e9m, existe algu\u00e9m que pode atrapalhar os sonhos do casal. Este algu\u00e9m \u00e9 Big Boy Caprice, um g\u00e2ngster que decidiu fazer uma guerra pelo dom\u00ednio da cidade e comandar todos os bandidos. Para complicar ainda mais a situa\u00e7\u00e3o, Dick Tracy tamb\u00e9m precisa resistir aos avan\u00e7os da bela Breathless Mahoney, uma sedutora cantora de boate.",
+                "vote_average": 6.1,
+                "vote_count": 888
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Cyrano de Bergerac",
+            "second_label": "Art Direction: Ezio Frigerio; Set Decoration: Jacques Rouxel",
+            "category": "Art Direction",
+            "year": 1991,
+            "tmdb": {
+                "id": 11673,
+                "original_title": "Cyrano de Bergerac",
+                "title": "Cyrano",
+                "release_date": "1990-03-28",
+                "backdrop_path": "/bvpYJgsC5jcMJd43HRHXUQw7j5O.jpg",
+                "poster_path": "/b6fPff9P0lSaE89CJnbkpQIGdBf.jpg",
+                "overview": "Um rom\u00e2ntico poeta e arrojado oficial da guarda, Cyrano de Bergerac \u00e9 apaixonado por sua prima Roxane sem que ela saiba. Sua maldi\u00e7\u00e3o, ele acha, \u00e9 o seu grande nariz e embora possa ter sido uma influ\u00eancia formando sua sagacidade na arte do florete, ele acredita que Roxane vai rejeit\u00e1-lo. Ele come\u00e7a a escrever cartas a ela em nome de um de seus cadetes, Christian, que tamb\u00e9m \u00e9 apaixonado por Roxane. Mas simplesmente nenhum dos dois sabe como dizer a ela. Ela se apaixona pelo charme po\u00e9tico das cartas, mas acredita que elas foram escritos por Christian.",
+                "vote_average": 7.3,
+                "vote_count": 723
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dances With Wolves",
+            "second_label": "Art Direction: Jeffrey Beecroft; Set Decoration: Lisa Dean",
+            "category": "Art Direction",
+            "year": 1991,
+            "tmdb": {
+                "id": 581,
+                "original_title": "Dances with Wolves",
+                "title": "Dan\u00e7a com Lobos",
+                "release_date": "1990-03-30",
+                "backdrop_path": "/ifnRFDSlMdLFs9Xjem6WewM68GD.jpg",
+                "poster_path": "/rhdrY0b7AftFnA6yaQXWLVHxDag.jpg",
+                "overview": "Durante a Guerra Civil, um jovem soldado pratica uma ato ousado, \u00e9 considerado her\u00f3i e vai servir por sua escolha em um lugar com forte predomin\u00e2ncia do povo Sioux. Com o tempo, ele assimila os costumes dos nativos, acontecendo uma acultura\u00e7\u00e3o \u00e0s avessas.",
+                "vote_average": 7.8,
+                "vote_count": 4004
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Godfather, Part III",
+            "second_label": "Art Direction: Dean Tavoularis; Set Decoration: Gary Fettis",
+            "category": "Art Direction",
+            "year": 1991,
+            "tmdb": {
+                "id": 242,
+                "original_title": "The Godfather Part III",
+                "title": "O Poderoso Chef\u00e3o: Parte III",
+                "release_date": "1990-12-25",
+                "backdrop_path": "/zNnjHLDtV8Ti3aworltaeaLMov4.jpg",
+                "poster_path": "/y8GROCjgD8amoFufSx2USKrOy7d.jpg",
+                "overview": "Don Michael Corleone est\u00e1 envelhecendo e, com a ajuda do sobrinho Vicente Mancini, busca a legitima\u00e7\u00e3o dos interesses da fam\u00edlia, em Nova York e na It\u00e1lia, antes de sua morte. Mas seu protegido n\u00e3o est\u00e1 s\u00f3 interessado em parte do imp\u00e9rio da fam\u00edlia. Ele tamb\u00e9m deseja a filha de Michael, Mary.",
+                "vote_average": 7.427,
+                "vote_count": 5880
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hamlet",
+            "second_label": "Art Direction: Dante Ferretti; Set Decoration: Francesca Lo Schiavo",
+            "category": "Art Direction",
+            "year": 1991,
+            "tmdb": {
+                "id": 10264,
+                "original_title": "Hamlet",
+                "title": "Hamlet",
+                "release_date": "1990-12-19",
+                "backdrop_path": "/mJvvEgkus4COSwzyS2tRwjvHrlY.jpg",
+                "poster_path": "/ycM8gwwyOLXW4qxkcu6nhLlfgcA.jpg",
+                "overview": "Hamlet (Mel Gibson), Pr\u00edncipe da Dinamarca, retorna ao seu pa\u00eds-natal quando seu pai, o rei, morre. Ao chegar, j\u00e1 encontra sua m\u00e3e (Glenn Close) casada com seu tio (Alan Bates), que se tornara rei. Mas logo o fantasma do pai de Hamlet surge e conta ao filho que seu tio e sua m\u00e3e o tinham assassinado. Hamlet passa ent\u00e3o a ser atormentado pela decis\u00e3o de vingar a morte do pai ou ter uma atitude passiva em rela\u00e7\u00e3o ao fato.",
+                "vote_average": 6.6,
+                "vote_count": 386
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "Dances With Wolves",
+            "second_label": "Dean Semler",
+            "category": "Cinematography",
+            "year": 1991,
+            "tmdb": {
+                "id": 581,
+                "original_title": "Dances with Wolves",
+                "title": "Dan\u00e7a com Lobos",
+                "release_date": "1990-03-30",
+                "backdrop_path": "/ifnRFDSlMdLFs9Xjem6WewM68GD.jpg",
+                "poster_path": "/rhdrY0b7AftFnA6yaQXWLVHxDag.jpg",
+                "overview": "Durante a Guerra Civil, um jovem soldado pratica uma ato ousado, \u00e9 considerado her\u00f3i e vai servir por sua escolha em um lugar com forte predomin\u00e2ncia do povo Sioux. Com o tempo, ele assimila os costumes dos nativos, acontecendo uma acultura\u00e7\u00e3o \u00e0s avessas.",
+                "vote_average": 7.8,
+                "vote_count": 4004
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Avalon",
+            "second_label": "Allen Daviau",
+            "category": "Cinematography",
+            "year": 1991,
+            "tmdb": {
+                "id": 2302,
+                "original_title": "Avalon",
+                "title": "Avalon",
+                "release_date": "1990-10-05",
+                "backdrop_path": "/lwaItfvrlvCZl1rAnRZ1d3JMFVi.jpg",
+                "poster_path": "/lsyPs8pU6hIJCS5sw0H9Q8Tl1nJ.jpg",
+                "overview": "Uma fam\u00edlia polonesa imigra para os Estados Unidos no come\u00e7o do s\u00e9culo 20 tentando construir um futuro melhor. Depois de um come\u00e7o dif\u00edcil, acompanham as transforma\u00e7\u00f5es do pa\u00eds, tornando-se pr\u00f3speros comerciantes em meio ao sonho americano.",
+                "vote_average": 6.5,
+                "vote_count": 74
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dick Tracy",
+            "second_label": "Vittorio Storaro",
+            "category": "Cinematography",
+            "year": 1991,
+            "tmdb": {
+                "id": 8592,
+                "original_title": "Dick Tracy",
+                "title": "Dick Tracy",
+                "release_date": "1990-04-05",
+                "backdrop_path": "/gCBZOJw1uoJQqOt28NLkdlCp6ck.jpg",
+                "poster_path": "/xY6D5Ti44xuwzCkmf6Ygbj86BkP.jpg",
+                "overview": "Tess Trueheart quer apenas ter uma vida tranquila com seu namorado, Dick Tracy, um detetive da pol\u00edcia. Por\u00e9m, existe algu\u00e9m que pode atrapalhar os sonhos do casal. Este algu\u00e9m \u00e9 Big Boy Caprice, um g\u00e2ngster que decidiu fazer uma guerra pelo dom\u00ednio da cidade e comandar todos os bandidos. Para complicar ainda mais a situa\u00e7\u00e3o, Dick Tracy tamb\u00e9m precisa resistir aos avan\u00e7os da bela Breathless Mahoney, uma sedutora cantora de boate.",
+                "vote_average": 6.1,
+                "vote_count": 888
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Godfather, Part III",
+            "second_label": "Gordon Willis",
+            "category": "Cinematography",
+            "year": 1991,
+            "tmdb": {
+                "id": 242,
+                "original_title": "The Godfather Part III",
+                "title": "O Poderoso Chef\u00e3o: Parte III",
+                "release_date": "1990-12-25",
+                "backdrop_path": "/zNnjHLDtV8Ti3aworltaeaLMov4.jpg",
+                "poster_path": "/y8GROCjgD8amoFufSx2USKrOy7d.jpg",
+                "overview": "Don Michael Corleone est\u00e1 envelhecendo e, com a ajuda do sobrinho Vicente Mancini, busca a legitima\u00e7\u00e3o dos interesses da fam\u00edlia, em Nova York e na It\u00e1lia, antes de sua morte. Mas seu protegido n\u00e3o est\u00e1 s\u00f3 interessado em parte do imp\u00e9rio da fam\u00edlia. Ele tamb\u00e9m deseja a filha de Michael, Mary.",
+                "vote_average": 7.427,
+                "vote_count": 5880
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Henry & June",
+            "second_label": "Philippe Rousselot",
+            "category": "Cinematography",
+            "year": 1991,
+            "tmdb": {
+                "id": 17993,
+                "original_title": "Henry & June",
+                "title": "Henry & June - Del\u00edrios Er\u00f3ticos",
+                "release_date": "1990-09-28",
+                "backdrop_path": "/6jF3HdLkHsEJtw8qKoEyZ9oJ7qB.jpg",
+                "poster_path": "/cDMQLwT5LpdbA4dc4Twn43sbGRw.jpg",
+                "overview": "Em Paris, no in\u00edcio da d\u00e9cada de 30, o escritor Henry Miller forma um tri\u00e2ngulo amoroso com sua mulher e sua amante, que sente atra\u00e7\u00e3o pelos dois mas, apesar de casada, n\u00e3o se interessa muito pelo marido.",
+                "vote_average": 6.1,
+                "vote_count": 177
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design": [
+        {
+            "first_label": "Cyrano de Bergerac",
+            "second_label": "Franca Squarciapino",
+            "category": "Costume Design",
+            "year": 1991,
+            "tmdb": {
+                "id": 11673,
+                "original_title": "Cyrano de Bergerac",
+                "title": "Cyrano",
+                "release_date": "1990-03-28",
+                "backdrop_path": "/bvpYJgsC5jcMJd43HRHXUQw7j5O.jpg",
+                "poster_path": "/b6fPff9P0lSaE89CJnbkpQIGdBf.jpg",
+                "overview": "Um rom\u00e2ntico poeta e arrojado oficial da guarda, Cyrano de Bergerac \u00e9 apaixonado por sua prima Roxane sem que ela saiba. Sua maldi\u00e7\u00e3o, ele acha, \u00e9 o seu grande nariz e embora possa ter sido uma influ\u00eancia formando sua sagacidade na arte do florete, ele acredita que Roxane vai rejeit\u00e1-lo. Ele come\u00e7a a escrever cartas a ela em nome de um de seus cadetes, Christian, que tamb\u00e9m \u00e9 apaixonado por Roxane. Mas simplesmente nenhum dos dois sabe como dizer a ela. Ela se apaixona pelo charme po\u00e9tico das cartas, mas acredita que elas foram escritos por Christian.",
+                "vote_average": 7.3,
+                "vote_count": 723
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Avalon",
+            "second_label": "Gloria Gresham",
+            "category": "Costume Design",
+            "year": 1991,
+            "tmdb": {
+                "id": 2302,
+                "original_title": "Avalon",
+                "title": "Avalon",
+                "release_date": "1990-10-05",
+                "backdrop_path": "/lwaItfvrlvCZl1rAnRZ1d3JMFVi.jpg",
+                "poster_path": "/lsyPs8pU6hIJCS5sw0H9Q8Tl1nJ.jpg",
+                "overview": "Uma fam\u00edlia polonesa imigra para os Estados Unidos no come\u00e7o do s\u00e9culo 20 tentando construir um futuro melhor. Depois de um come\u00e7o dif\u00edcil, acompanham as transforma\u00e7\u00f5es do pa\u00eds, tornando-se pr\u00f3speros comerciantes em meio ao sonho americano.",
+                "vote_average": 6.5,
+                "vote_count": 74
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dances With Wolves",
+            "second_label": "Elsa Zamparelli",
+            "category": "Costume Design",
+            "year": 1991,
+            "tmdb": {
+                "id": 581,
+                "original_title": "Dances with Wolves",
+                "title": "Dan\u00e7a com Lobos",
+                "release_date": "1990-03-30",
+                "backdrop_path": "/ifnRFDSlMdLFs9Xjem6WewM68GD.jpg",
+                "poster_path": "/rhdrY0b7AftFnA6yaQXWLVHxDag.jpg",
+                "overview": "Durante a Guerra Civil, um jovem soldado pratica uma ato ousado, \u00e9 considerado her\u00f3i e vai servir por sua escolha em um lugar com forte predomin\u00e2ncia do povo Sioux. Com o tempo, ele assimila os costumes dos nativos, acontecendo uma acultura\u00e7\u00e3o \u00e0s avessas.",
+                "vote_average": 7.8,
+                "vote_count": 4004
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dick Tracy",
+            "second_label": "Milena Canonero",
+            "category": "Costume Design",
+            "year": 1991,
+            "tmdb": {
+                "id": 8592,
+                "original_title": "Dick Tracy",
+                "title": "Dick Tracy",
+                "release_date": "1990-04-05",
+                "backdrop_path": "/gCBZOJw1uoJQqOt28NLkdlCp6ck.jpg",
+                "poster_path": "/xY6D5Ti44xuwzCkmf6Ygbj86BkP.jpg",
+                "overview": "Tess Trueheart quer apenas ter uma vida tranquila com seu namorado, Dick Tracy, um detetive da pol\u00edcia. Por\u00e9m, existe algu\u00e9m que pode atrapalhar os sonhos do casal. Este algu\u00e9m \u00e9 Big Boy Caprice, um g\u00e2ngster que decidiu fazer uma guerra pelo dom\u00ednio da cidade e comandar todos os bandidos. Para complicar ainda mais a situa\u00e7\u00e3o, Dick Tracy tamb\u00e9m precisa resistir aos avan\u00e7os da bela Breathless Mahoney, uma sedutora cantora de boate.",
+                "vote_average": 6.1,
+                "vote_count": 888
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hamlet",
+            "second_label": "Maurizio Millenotti",
+            "category": "Costume Design",
+            "year": 1991,
+            "tmdb": {
+                "id": 10264,
+                "original_title": "Hamlet",
+                "title": "Hamlet",
+                "release_date": "1990-12-19",
+                "backdrop_path": "/mJvvEgkus4COSwzyS2tRwjvHrlY.jpg",
+                "poster_path": "/ycM8gwwyOLXW4qxkcu6nhLlfgcA.jpg",
+                "overview": "Hamlet (Mel Gibson), Pr\u00edncipe da Dinamarca, retorna ao seu pa\u00eds-natal quando seu pai, o rei, morre. Ao chegar, j\u00e1 encontra sua m\u00e3e (Glenn Close) casada com seu tio (Alan Bates), que se tornara rei. Mas logo o fantasma do pai de Hamlet surge e conta ao filho que seu tio e sua m\u00e3e o tinham assassinado. Hamlet passa ent\u00e3o a ser atormentado pela decis\u00e3o de vingar a morte do pai ou ter uma atitude passiva em rela\u00e7\u00e3o ao fato.",
+                "vote_average": 6.6,
+                "vote_count": 386
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "Dances With Wolves",
+            "second_label": "Kevin Costner",
+            "category": "Directing",
+            "year": 1991,
+            "tmdb": {
+                "id": 581,
+                "original_title": "Dances with Wolves",
+                "title": "Dan\u00e7a com Lobos",
+                "release_date": "1990-03-30",
+                "backdrop_path": "/ifnRFDSlMdLFs9Xjem6WewM68GD.jpg",
+                "poster_path": "/rhdrY0b7AftFnA6yaQXWLVHxDag.jpg",
+                "overview": "Durante a Guerra Civil, um jovem soldado pratica uma ato ousado, \u00e9 considerado her\u00f3i e vai servir por sua escolha em um lugar com forte predomin\u00e2ncia do povo Sioux. Com o tempo, ele assimila os costumes dos nativos, acontecendo uma acultura\u00e7\u00e3o \u00e0s avessas.",
+                "vote_average": 7.8,
+                "vote_count": 4004
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Godfather, Part III",
+            "second_label": "Francis Ford Coppola",
+            "category": "Directing",
+            "year": 1991,
+            "tmdb": {
+                "id": 242,
+                "original_title": "The Godfather Part III",
+                "title": "O Poderoso Chef\u00e3o: Parte III",
+                "release_date": "1990-12-25",
+                "backdrop_path": "/zNnjHLDtV8Ti3aworltaeaLMov4.jpg",
+                "poster_path": "/y8GROCjgD8amoFufSx2USKrOy7d.jpg",
+                "overview": "Don Michael Corleone est\u00e1 envelhecendo e, com a ajuda do sobrinho Vicente Mancini, busca a legitima\u00e7\u00e3o dos interesses da fam\u00edlia, em Nova York e na It\u00e1lia, antes de sua morte. Mas seu protegido n\u00e3o est\u00e1 s\u00f3 interessado em parte do imp\u00e9rio da fam\u00edlia. Ele tamb\u00e9m deseja a filha de Michael, Mary.",
+                "vote_average": 7.427,
+                "vote_count": 5880
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Good Fellas",
+            "second_label": "Martin Scorsese",
+            "category": "Directing",
+            "year": 1991,
+            "tmdb": {
+                "id": 769,
+                "original_title": "GoodFellas",
+                "title": "Os Bons Companheiros",
+                "release_date": "1990-09-12",
+                "backdrop_path": "/sw7mordbZxgITU877yTpZCud90M.jpg",
+                "poster_path": "/sTReXuaND1AjkXUfjl1gqRcuGfI.jpg",
+                "overview": "Um jovem cresce na m\u00e1fia e trabalha arduamente para crescer entre seus companheiros. Ele gosta da vida de dinheiro e luxo, mas n\u00e3o liga para o horror que provoca. Infelizmente, a depend\u00eancia de drogas e alguns erros finalmente destroem sua escalada at\u00e9 o topo. Baseado no livro Wiseguy por Nicholas Pileggi.",
+                "vote_average": 8.467,
+                "vote_count": 12265
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Grifters",
+            "second_label": "Stephen Frears",
+            "category": "Directing",
+            "year": 1991,
+            "tmdb": {
+                "id": 18129,
+                "original_title": "The Grifters",
+                "title": "Os Imorais",
+                "release_date": "1990-08-08",
+                "backdrop_path": "/fRMggmOJ9LadLlWXK5aZrIhpUGw.jpg",
+                "poster_path": "/rasA0WZvvo3kCLp5hGydpdEvUiy.jpg",
+                "overview": "Depois de muito tempo, jovem desonesto reencontra a m\u00e3e tamb\u00e9m metida em contraven\u00e7\u00f5es. \u00c9 mais uma com\u00e9dia de humor negro do que propriamente uma tese sobre imoralidade. Martin Scorsese assina a coprodu\u00e7\u00e3o e faz a narra\u00e7\u00e3o em off.",
+                "vote_average": 6.5,
+                "vote_count": 366
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Reversal of Fortune",
+            "second_label": "Barbet Schroeder",
+            "category": "Directing",
+            "year": 1991,
+            "tmdb": {
+                "id": 38718,
+                "original_title": "Reversal of Fortune",
+                "title": "O Reverso da Fortuna",
+                "release_date": "1990-10-19",
+                "backdrop_path": "/efFQxWf7EmhPwyXogl9JUXILgln.jpg",
+                "poster_path": "/9BtLIheek8q6kpDxWEz60peMV9N.jpg",
+                "overview": "Em 1979, a milion\u00e1ria Sunny Von B\u00fclow entra em um coma irrevers\u00edvel. Os filhos descobrem que Claus, seu marido, pode ter dado altas doses de insulina a ela e, ent\u00e3o, o levam ao tribunal. O caso ganha as manchetes dos jornais e passa a ser acompanhado por todo o pa\u00eds. Baseado em uma hist\u00f3ria real.",
+                "vote_average": 6.6,
+                "vote_count": 277
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "American Dream",
+            "second_label": "Barbara Kopple and Arthur Cohn, Producers",
+            "category": "Documentary (Feature)",
+            "year": 1991,
+            "tmdb": {
+                "id": 41326,
+                "original_title": "American Dream",
+                "title": "American Dream",
+                "release_date": "1990-10-06",
+                "backdrop_path": null,
+                "poster_path": "/da6DPUrYsi3K2HzwalUpphtOHec.jpg",
+                "overview": "When workers at the Hormel meatpacking plant in Austin, Minnesota are asked to take a substantial pay cut in a highly profitable year, the local labor union decides to go on strike and fight for a wage they believe is fair. But as the work stoppage drags on and the strikers face losing everything, friends become enemies, families are divided and the very future of this typical mid American town is threatened.",
+                "vote_average": 7.1,
+                "vote_count": 9
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Berkeley in the Sixties",
+            "second_label": "Mark Kitchell, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1991,
+            "tmdb": {
+                "id": 37447,
+                "original_title": "Berkeley in the Sixties",
+                "title": "Berkeley in the Sixties",
+                "release_date": "1990-04-23",
+                "backdrop_path": "/1ViO9RKxBlfiFKRRyuNlxUEHtdy.jpg",
+                "poster_path": "/oBeBmyftJgAe0Y0FNXGnIcyZbLV.jpg",
+                "overview": "A documentary about militant student political activity at the University of California, Berkeley in the 1960s.",
+                "vote_average": 5.6,
+                "vote_count": 9
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Building Bombs",
+            "second_label": "Mark Mori and Susan Robinson, Producers",
+            "category": "Documentary (Feature)",
+            "year": 1991,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Forever Activists: Stories from the Veterans of the Abraham Lincoln Brigade",
+            "second_label": "Judith Montell, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1991,
+            "tmdb": {
+                "id": 149394,
+                "original_title": "Forever Activists: Stories from the Veterans of the Abraham Lincoln Brigade",
+                "title": "Forever Activists: Stories from the Veterans of the Abraham Lincoln Brigade",
+                "release_date": "1990-01-01",
+                "backdrop_path": null,
+                "poster_path": "/x1BW8dw13JxL9kN1d1nZvJvSXVo.jpg",
+                "overview": "Interviews with seven American veterans of the Spanish Civil War who fought for the Loyalist cause during the war and went on to live lives of activism.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Waldo Salt: A Screenwriter's Journey",
+            "second_label": "Robert Hillmann and Eugene Corr, Producers",
+            "category": "Documentary (Feature)",
+            "year": 1991,
+            "tmdb": {
+                "id": 149395,
+                "original_title": "Waldo Salt: A Screenwriter's Journey",
+                "title": "Waldo Salt: A Screenwriter's Journey",
+                "release_date": "1990-01-19",
+                "backdrop_path": null,
+                "poster_path": "/lFRjRi44uznei5oSCql43rMS2mN.jpg",
+                "overview": "Documentary is about the life and work of American screenwriter Waldo Salt who won two Academy Awards and was put on the Hollywood blacklist in the 1950s. The story is told through interviews with collaborators and friends such as Dustin Hoffman, Robert Redford, Jon Voight, John Schlesinger and with clips from Salt's films, chiefly Midnight Cowboy.",
+                "vote_average": 6.3,
+                "vote_count": 3
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "Days of Waiting",
+            "second_label": "Steven Okazaki, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1991,
+            "tmdb": {
+                "id": 244724,
+                "original_title": "Days of Waiting: The Life & Art of Estelle Ishigo",
+                "title": "Days of Waiting: The Life & Art of Estelle Ishigo",
+                "release_date": "1991-02-01",
+                "backdrop_path": "/8IugxzpPe1pPcIO08X8VGhfoOBn.jpg",
+                "poster_path": "/wElGTz7L6Xk9ry2a1lVvG6WoOp5.jpg",
+                "overview": "The story of Estelle Ishigo, one of the few Caucasians interned with Japanese Americans during World War II. The wife of a Japanese American, Ishigo refused to be separated from her husband and was interned along with him. Based on the personal papers of Estelle Ishigo and her novel Lone Heart Mountain.",
+                "vote_average": 7.0,
+                "vote_count": 4
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Burning Down Tomorrow",
+            "second_label": "Kit Thomas, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1991,
+            "tmdb": {
+                "id": 244725,
+                "original_title": "Burning Down Tomorrow",
+                "title": "Burning Down Tomorrow",
+                "release_date": "1990-01-01",
+                "backdrop_path": null,
+                "poster_path": "/jByguBpHYd0txfk2inuz6OxThcm.jpg",
+                "overview": "Burning Down Tomorrow is a 1990 American short documentary film about the global rainforest crisis. It was produced and directed by Kit Thomas. It was nominated for an Academy Award for Best Documentary Short.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Chimps: So Like Us",
+            "second_label": "Karen Goodman and Kirk Simon, Producers",
+            "category": "Documentary (Short Subject)",
+            "year": 1991,
+            "tmdb": {
+                "id": 244726,
+                "original_title": "Chimps: So Like Us",
+                "title": "Chimps: So Like Us",
+                "release_date": "1990-01-01",
+                "backdrop_path": null,
+                "poster_path": "/rrihCMEL1O77WySHGL9ic3pExWo.jpg",
+                "overview": "Oscar nominated documentary short film from 1990",
+                "vote_average": 6.3,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Journey into Life: The World of the Unborn",
+            "second_label": "Derek Bromhall, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1991,
+            "tmdb": {
+                "id": 244727,
+                "original_title": "Journey Into Life: The World of the Unborn",
+                "title": "Journey Into Life: The World of the Unborn",
+                "release_date": "1990-01-01",
+                "backdrop_path": null,
+                "poster_path": "/cTE6rJOTLbBT2lww5qGUUsnXHdx.jpg",
+                "overview": "Oscar nominated documentary short from 1990",
+                "vote_average": 5.9,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rose Kennedy: A Life to Remember",
+            "second_label": "Freida Lee Mock and Terry Sanders, Producers",
+            "category": "Documentary (Short Subject)",
+            "year": 1991,
+            "tmdb": {
+                "id": 244728,
+                "original_title": "Rose Kennedy: A Life to Remember",
+                "title": "Rose Kennedy: A Life to Remember",
+                "release_date": "1990-01-01",
+                "backdrop_path": null,
+                "poster_path": "/rqJ8f2rv1dnGMo40VPiMLKqSGa8.jpg",
+                "overview": "Oscar nominated documentary short about Rose Kennedy",
+                "vote_average": 5.7,
+                "vote_count": 3
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "Dances With Wolves",
+            "second_label": "Neil Travis",
+            "category": "Film Editing",
+            "year": 1991,
+            "tmdb": {
+                "id": 581,
+                "original_title": "Dances with Wolves",
+                "title": "Dan\u00e7a com Lobos",
+                "release_date": "1990-03-30",
+                "backdrop_path": "/ifnRFDSlMdLFs9Xjem6WewM68GD.jpg",
+                "poster_path": "/rhdrY0b7AftFnA6yaQXWLVHxDag.jpg",
+                "overview": "Durante a Guerra Civil, um jovem soldado pratica uma ato ousado, \u00e9 considerado her\u00f3i e vai servir por sua escolha em um lugar com forte predomin\u00e2ncia do povo Sioux. Com o tempo, ele assimila os costumes dos nativos, acontecendo uma acultura\u00e7\u00e3o \u00e0s avessas.",
+                "vote_average": 7.8,
+                "vote_count": 4004
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Ghost",
+            "second_label": "Walter Murch",
+            "category": "Film Editing",
+            "year": 1991,
+            "tmdb": {
+                "id": 251,
+                "original_title": "Ghost",
+                "title": "Ghost: Do Outro Lado da Vida",
+                "release_date": "1990-07-13",
+                "backdrop_path": "/zOyXP0MS4jvU01yIxzRV394ZUJw.jpg",
+                "poster_path": "/nGSeOwr3XRP2M7bBjcOol8vi2jT.jpg",
+                "overview": "Sam Wheat \u00e9 um jovem executivo apaixonado por sua namorada, Molly. Ele acaba morto em um assalto, mas seu esp\u00edrito n\u00e3o vai para o outro plano e descobre que Molly tamb\u00e9m corre perigo. Para salv\u00e1-la, Sam pede ajuda a uma m\u00e9dium que consegue ouvi-lo.",
+                "vote_average": 7.216,
+                "vote_count": 5296
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Godfather, Part III",
+            "second_label": "Barry Malkin, Lisa Fruchtman, Walter Murch",
+            "category": "Film Editing",
+            "year": 1991,
+            "tmdb": {
+                "id": 242,
+                "original_title": "The Godfather Part III",
+                "title": "O Poderoso Chef\u00e3o: Parte III",
+                "release_date": "1990-12-25",
+                "backdrop_path": "/zNnjHLDtV8Ti3aworltaeaLMov4.jpg",
+                "poster_path": "/y8GROCjgD8amoFufSx2USKrOy7d.jpg",
+                "overview": "Don Michael Corleone est\u00e1 envelhecendo e, com a ajuda do sobrinho Vicente Mancini, busca a legitima\u00e7\u00e3o dos interesses da fam\u00edlia, em Nova York e na It\u00e1lia, antes de sua morte. Mas seu protegido n\u00e3o est\u00e1 s\u00f3 interessado em parte do imp\u00e9rio da fam\u00edlia. Ele tamb\u00e9m deseja a filha de Michael, Mary.",
+                "vote_average": 7.427,
+                "vote_count": 5880
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Good Fellas",
+            "second_label": "Thelma Schoonmaker",
+            "category": "Film Editing",
+            "year": 1991,
+            "tmdb": {
+                "id": 769,
+                "original_title": "GoodFellas",
+                "title": "Os Bons Companheiros",
+                "release_date": "1990-09-12",
+                "backdrop_path": "/sw7mordbZxgITU877yTpZCud90M.jpg",
+                "poster_path": "/sTReXuaND1AjkXUfjl1gqRcuGfI.jpg",
+                "overview": "Um jovem cresce na m\u00e1fia e trabalha arduamente para crescer entre seus companheiros. Ele gosta da vida de dinheiro e luxo, mas n\u00e3o liga para o horror que provoca. Infelizmente, a depend\u00eancia de drogas e alguns erros finalmente destroem sua escalada at\u00e9 o topo. Baseado no livro Wiseguy por Nicholas Pileggi.",
+                "vote_average": 8.467,
+                "vote_count": 12265
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Hunt for Red October",
+            "second_label": "Dennis Virkler, John Wright",
+            "category": "Film Editing",
+            "year": 1991,
+            "tmdb": {
+                "id": 1669,
+                "original_title": "The Hunt for Red October",
+                "title": "Ca\u00e7ada ao Outubro Vermelho",
+                "release_date": "1990-03-02",
+                "backdrop_path": "/ysYBfA0VcbJic9CURRmR1QwWaKw.jpg",
+                "poster_path": "/iMViugzRCgok8Of27cCN9yru8BD.jpg",
+                "overview": "O ano \u00e9 1984. O alto comando sovi\u00e9tico acredita na possibilidade de deser\u00e7\u00e3o quando o capit\u00e3o Markus Ramius, o comandante do Outubro Vermelho, o mais moderno submarino russo, desobedece ordens superiores e navega em dire\u00e7\u00e3o \u00e0 Am\u00e9rica. Outros submarinos sovi\u00e9ticos recebem ordem de afundar o Outubro Vermelho e os americanos decidem fazer o mesmo, temendo que seu territ\u00f3rio esteja amea\u00e7ado. At\u00e9 que Jack Ryan, um agente da CIA que admira Markus Ramius, tenta impedir este ataque ao submarino.",
+                "vote_average": 7.4,
+                "vote_count": 3081
+            },
+            "winner": false
+        }
+    ],
+    "Foreign Language Film": [
+        {
+            "first_label": "Journey of Hope",
+            "second_label": "Switzerland",
+            "category": "Foreign Language Film",
+            "year": 1991,
+            "tmdb": {
+                "id": 41834,
+                "original_title": "Reise der Hoffnung",
+                "title": "A Viagem da Esperan\u00e7a",
+                "release_date": "1990-09-28",
+                "backdrop_path": "/6UyKfxOKWIDyoNIljjoXgo2F81B.jpg",
+                "poster_path": "/dbNpWp7sGGIN2Qk8v10oxvNKFfq.jpg",
+                "overview": "Num vilarejo paup\u00e9rrimo do interior da Turquia, as hist\u00f3rias de sucesso econ\u00f4mico de turcos que foram viver na Su\u00ed\u00e7a inspiram Haydar a fazer o mesmo. Ele convence a mulher, Meryem, e assim vende o pouco que tem para poder comprar as passagens. Mas ele dever\u00e1 deixar com parentes seus sete filhos. O pai de Haydar, no entanto, diz ao filho que ele precisa levar ao menos uma das crian\u00e7as para estudar na Europa. Eles embarcam e tudo parece seguir tranquilamente. Mas durante a viagem eles s\u00e3o enganados por um homem que se diz guia, s\u00e3o abandonados nos Alpes e Haydar e o filho ainda se perdem de Meryem.",
+                "vote_average": 7.0,
+                "vote_count": 26
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Cyrano de Bergerac",
+            "second_label": "France",
+            "category": "Foreign Language Film",
+            "year": 1991,
+            "tmdb": {
+                "id": 11673,
+                "original_title": "Cyrano de Bergerac",
+                "title": "Cyrano",
+                "release_date": "1990-03-28",
+                "backdrop_path": "/bvpYJgsC5jcMJd43HRHXUQw7j5O.jpg",
+                "poster_path": "/b6fPff9P0lSaE89CJnbkpQIGdBf.jpg",
+                "overview": "Um rom\u00e2ntico poeta e arrojado oficial da guarda, Cyrano de Bergerac \u00e9 apaixonado por sua prima Roxane sem que ela saiba. Sua maldi\u00e7\u00e3o, ele acha, \u00e9 o seu grande nariz e embora possa ter sido uma influ\u00eancia formando sua sagacidade na arte do florete, ele acredita que Roxane vai rejeit\u00e1-lo. Ele come\u00e7a a escrever cartas a ela em nome de um de seus cadetes, Christian, que tamb\u00e9m \u00e9 apaixonado por Roxane. Mas simplesmente nenhum dos dois sabe como dizer a ela. Ela se apaixona pelo charme po\u00e9tico das cartas, mas acredita que elas foram escritos por Christian.",
+                "vote_average": 7.3,
+                "vote_count": 723
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ju Dou",
+            "second_label": "People's Republic of China",
+            "category": "Foreign Language Film",
+            "year": 1991,
+            "tmdb": {
+                "id": 41821,
+                "original_title": "\u83ca\u8c46",
+                "title": "Amor e Sedu\u00e7\u00e3o",
+                "release_date": "1990-04-21",
+                "backdrop_path": "/1iusPoyGjqHEIw0dYPfxHzf0OHj.jpg",
+                "poster_path": "/ejvX1lukPZZ10jatUWmKaXbhjGI.jpg",
+                "overview": "Na China rural dos anos 1920, jovem camponesa \u00e9 for\u00e7ada a casar-se com velho dono de f\u00e1brica e inicia um romance com o sobrinho do marido, levando a um tr\u00e1gico desfecho.",
+                "vote_average": 7.3,
+                "vote_count": 136
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Nasty Girl",
+            "second_label": "Germany",
+            "category": "Foreign Language Film",
+            "year": 1991,
+            "tmdb": {
+                "id": 4339,
+                "original_title": "Das schreckliche M\u00e4dchen",
+                "title": "The Nasty Girl",
+                "release_date": "1990-02-15",
+                "backdrop_path": "/owdE5943OXuCMzgGAB1bg7WC7a9.jpg",
+                "poster_path": "/vMgWMJe7crXnj3MZ39tKSSjFSPD.jpg",
+                "overview": "When a young woman investigates her town's Nazi past, the community turns against her.",
+                "vote_average": 6.5,
+                "vote_count": 31
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Open Doors",
+            "second_label": "Italy",
+            "category": "Foreign Language Film",
+            "year": 1991,
+            "tmdb": {
+                "id": 60067,
+                "original_title": "Porte aperte",
+                "title": "AS PORTAS DA JUSTI\u00c7A",
+                "release_date": "1990-03-29",
+                "backdrop_path": "/8htj1hKU5GN4W5jZ5orbfWVwhzC.jpg",
+                "poster_path": "/lgkt7bouhLrKPB5f60aehqC6OQu.jpg",
+                "overview": "Palermo 1936. Um funcion\u00e1rio do governo fascista,  Tommaso Scalia, cometeu tr\u00eas assassinatos e se espera que seja condenado a pena capital, mas um juiz \u00e9 contra a opini\u00e3o geral, e partid\u00e1rio da pris\u00e3o perp\u00e9tua e tentar\u00e1 impedir a condena\u00e7\u00e3o de morte.",
+                "vote_average": 7.2,
+                "vote_count": 29
+            },
+            "winner": false
+        }
+    ],
+    "Irving G. Thalberg Memorial Award": [
+        {
+            "first_label": "",
+            "second_label": "David Brown and Richard D. Zanuck",
+            "category": "Irving G. Thalberg Memorial Award",
+            "year": 1991,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        }
+    ],
+    "Makeup": [
+        {
+            "first_label": "Dick Tracy",
+            "second_label": "John Caglione, Jr., Doug Drexler",
+            "category": "Makeup",
+            "year": 1991,
+            "tmdb": {
+                "id": 8592,
+                "original_title": "Dick Tracy",
+                "title": "Dick Tracy",
+                "release_date": "1990-04-05",
+                "backdrop_path": "/gCBZOJw1uoJQqOt28NLkdlCp6ck.jpg",
+                "poster_path": "/xY6D5Ti44xuwzCkmf6Ygbj86BkP.jpg",
+                "overview": "Tess Trueheart quer apenas ter uma vida tranquila com seu namorado, Dick Tracy, um detetive da pol\u00edcia. Por\u00e9m, existe algu\u00e9m que pode atrapalhar os sonhos do casal. Este algu\u00e9m \u00e9 Big Boy Caprice, um g\u00e2ngster que decidiu fazer uma guerra pelo dom\u00ednio da cidade e comandar todos os bandidos. Para complicar ainda mais a situa\u00e7\u00e3o, Dick Tracy tamb\u00e9m precisa resistir aos avan\u00e7os da bela Breathless Mahoney, uma sedutora cantora de boate.",
+                "vote_average": 6.1,
+                "vote_count": 888
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Cyrano de Bergerac",
+            "second_label": "Cyrano de Bergerac",
+            "category": "Makeup",
+            "year": 1991,
+            "tmdb": {
+                "id": 11673,
+                "original_title": "Cyrano de Bergerac",
+                "title": "Cyrano",
+                "release_date": "1990-03-28",
+                "backdrop_path": "/bvpYJgsC5jcMJd43HRHXUQw7j5O.jpg",
+                "poster_path": "/b6fPff9P0lSaE89CJnbkpQIGdBf.jpg",
+                "overview": "Um rom\u00e2ntico poeta e arrojado oficial da guarda, Cyrano de Bergerac \u00e9 apaixonado por sua prima Roxane sem que ela saiba. Sua maldi\u00e7\u00e3o, ele acha, \u00e9 o seu grande nariz e embora possa ter sido uma influ\u00eancia formando sua sagacidade na arte do florete, ele acredita que Roxane vai rejeit\u00e1-lo. Ele come\u00e7a a escrever cartas a ela em nome de um de seus cadetes, Christian, que tamb\u00e9m \u00e9 apaixonado por Roxane. Mas simplesmente nenhum dos dois sabe como dizer a ela. Ela se apaixona pelo charme po\u00e9tico das cartas, mas acredita que elas foram escritos por Christian.",
+                "vote_average": 7.3,
+                "vote_count": 723
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Edward Scissorhands",
+            "second_label": "Ve Neill, Stan Winston",
+            "category": "Makeup",
+            "year": 1991,
+            "tmdb": {
+                "id": 162,
+                "original_title": "Edward Scissorhands",
+                "title": "Edward M\u00e3os de Tesoura",
+                "release_date": "1990-12-07",
+                "backdrop_path": "/3Nn5BOM1EVw1IYrv6MsbOS6N1Ol.jpg",
+                "poster_path": "/l8eFmBvkAGEfpM6JeAZHPrpMN0K.jpg",
+                "overview": "Peg Boggs \u00e9 uma vendedora que acidentalmente descobre Edward, jovem que mora sozinho em um castelo no topo de uma montanha, criado por um inventor que morreu antes de dar m\u00e3os ao estranho ser, que possui apenas enormes l\u00e2minas no lugar delas. Isto o impede de poder se aproximar dos humanos, a n\u00e3o ser para criar revolucion\u00e1rios cortes de cabelos. No entanto, Edward \u00e9 v\u00edtima da sua inoc\u00eancia e, se \u00e9 amado por uns, \u00e9 perseguido e usado por outros.",
+                "vote_average": 7.715,
+                "vote_count": 12439
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Score)": [
+        {
+            "first_label": "Dances With Wolves",
+            "second_label": "John Barry",
+            "category": "Music (Original Score)",
+            "year": 1991,
+            "tmdb": {
+                "id": 581,
+                "original_title": "Dances with Wolves",
+                "title": "Dan\u00e7a com Lobos",
+                "release_date": "1990-03-30",
+                "backdrop_path": "/ifnRFDSlMdLFs9Xjem6WewM68GD.jpg",
+                "poster_path": "/rhdrY0b7AftFnA6yaQXWLVHxDag.jpg",
+                "overview": "Durante a Guerra Civil, um jovem soldado pratica uma ato ousado, \u00e9 considerado her\u00f3i e vai servir por sua escolha em um lugar com forte predomin\u00e2ncia do povo Sioux. Com o tempo, ele assimila os costumes dos nativos, acontecendo uma acultura\u00e7\u00e3o \u00e0s avessas.",
+                "vote_average": 7.8,
+                "vote_count": 4004
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Avalon",
+            "second_label": "Randy Newman",
+            "category": "Music (Original Score)",
+            "year": 1991,
+            "tmdb": {
+                "id": 2302,
+                "original_title": "Avalon",
+                "title": "Avalon",
+                "release_date": "1990-10-05",
+                "backdrop_path": "/lwaItfvrlvCZl1rAnRZ1d3JMFVi.jpg",
+                "poster_path": "/lsyPs8pU6hIJCS5sw0H9Q8Tl1nJ.jpg",
+                "overview": "Uma fam\u00edlia polonesa imigra para os Estados Unidos no come\u00e7o do s\u00e9culo 20 tentando construir um futuro melhor. Depois de um come\u00e7o dif\u00edcil, acompanham as transforma\u00e7\u00f5es do pa\u00eds, tornando-se pr\u00f3speros comerciantes em meio ao sonho americano.",
+                "vote_average": 6.5,
+                "vote_count": 74
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ghost",
+            "second_label": "Maurice Jarre",
+            "category": "Music (Original Score)",
+            "year": 1991,
+            "tmdb": {
+                "id": 251,
+                "original_title": "Ghost",
+                "title": "Ghost: Do Outro Lado da Vida",
+                "release_date": "1990-07-13",
+                "backdrop_path": "/zOyXP0MS4jvU01yIxzRV394ZUJw.jpg",
+                "poster_path": "/nGSeOwr3XRP2M7bBjcOol8vi2jT.jpg",
+                "overview": "Sam Wheat \u00e9 um jovem executivo apaixonado por sua namorada, Molly. Ele acaba morto em um assalto, mas seu esp\u00edrito n\u00e3o vai para o outro plano e descobre que Molly tamb\u00e9m corre perigo. Para salv\u00e1-la, Sam pede ajuda a uma m\u00e9dium que consegue ouvi-lo.",
+                "vote_average": 7.216,
+                "vote_count": 5296
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Havana",
+            "second_label": "David Grusin",
+            "category": "Music (Original Score)",
+            "year": 1991,
+            "tmdb": {
+                "id": 22189,
+                "original_title": "Havana",
+                "title": "Havana",
+                "release_date": "1990-12-11",
+                "backdrop_path": "/66KEoKhhN8rHuIfd6B6RGGCIXBU.jpg",
+                "poster_path": "/d6pia2oVjjLsFMpuuag1pdMYTaF.jpg",
+                "overview": "An American professional gambler named Jack Weil decides to visit Havana, Cuba to gamble. On the boat to Havana, he meets Roberta Duran, the wife of a revolutionary, Arturo. Shortly after their arrival, Arturo is taken away by the secret police, and Roberta is captured and tortured. Jack frees her, but she continues to support the revolution.",
+                "vote_average": 5.8,
+                "vote_count": 137
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Home Alone",
+            "second_label": "John Williams",
+            "category": "Music (Original Score)",
+            "year": 1991,
+            "tmdb": {
+                "id": 771,
+                "original_title": "Home Alone",
+                "title": "Esqueceram de Mim",
+                "release_date": "1990-11-16",
+                "backdrop_path": "/en9bAOhdPXZJfx2xTf1WL5d1T5v.jpg",
+                "poster_path": "/kpQNswMgSyp1kZ6Cwr9F15s4uaO.jpg",
+                "overview": "Uma fam\u00edlia de Chicago planeja passar o Natal em Paris. Por\u00e9m, em meio \u00e0s confus\u00f5es da viagem, um dos filhos, Kevin, acaba esquecido em casa. O garoto de apenas oito anos \u00e9 obrigado a se virar sozinho e defender a casa de dois insistentes ladr\u00f5es.",
+                "vote_average": 7.4,
+                "vote_count": 10730
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Song)": [
+        {
+            "first_label": "Dick Tracy",
+            "second_label": "Sooner Or Later (I Always Get My Man) in \"Dick Tracy\" Music and Lyric by Stephen Sondheim",
+            "category": "Music (Original Song)",
+            "year": 1991,
+            "tmdb": {
+                "id": 8592,
+                "original_title": "Dick Tracy",
+                "title": "Dick Tracy",
+                "release_date": "1990-04-05",
+                "backdrop_path": "/gCBZOJw1uoJQqOt28NLkdlCp6ck.jpg",
+                "poster_path": "/xY6D5Ti44xuwzCkmf6Ygbj86BkP.jpg",
+                "overview": "Tess Trueheart quer apenas ter uma vida tranquila com seu namorado, Dick Tracy, um detetive da pol\u00edcia. Por\u00e9m, existe algu\u00e9m que pode atrapalhar os sonhos do casal. Este algu\u00e9m \u00e9 Big Boy Caprice, um g\u00e2ngster que decidiu fazer uma guerra pelo dom\u00ednio da cidade e comandar todos os bandidos. Para complicar ainda mais a situa\u00e7\u00e3o, Dick Tracy tamb\u00e9m precisa resistir aos avan\u00e7os da bela Breathless Mahoney, uma sedutora cantora de boate.",
+                "vote_average": 6.1,
+                "vote_count": 888
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Young Guns II",
+            "second_label": "Blaze Of Glory in \"Young Guns II\" Music and Lyric by Jon Bon Jovi",
+            "category": "Music (Original Song)",
+            "year": 1991,
+            "tmdb": {
+                "id": 9086,
+                "original_title": "Young Guns II",
+                "title": "Jovens Demais para Morrer",
+                "release_date": "1990-08-01",
+                "backdrop_path": "/sQNPWOTzl5kkZTW5ogSu0uSnreB.jpg",
+                "poster_path": "/yWFgFHW1snV4yYRtPMdR10Qw10n.jpg",
+                "overview": "O Jovem Billy the Kid e seu bando partem em dire\u00e7\u00e3o \u00e0 fronteira com o M\u00e9xico para fugir da mira da justi\u00e7a. Eles s\u00e3o perseguidos por homens-da-lei que querem captur\u00e1-los a qualquer custo, mas contam com a esperteza e a habilidade no gatilho para escapar de forma espetacular a cada vez que se encontram amea\u00e7ados.",
+                "vote_average": 6.5,
+                "vote_count": 503
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Postcards from the Edge",
+            "second_label": "I'm Checkin' Out in \"Postcards from the Edge\" Music and Lyric by Shel Silverstein",
+            "category": "Music (Original Song)",
+            "year": 1991,
+            "tmdb": {
+                "id": 22414,
+                "original_title": "Postcards from the Edge",
+                "title": "Lembran\u00e7as de Hollywood",
+                "release_date": "1990-09-14",
+                "backdrop_path": "/3ZZmVV83jc1fUwSwRnXsLBBcPxN.jpg",
+                "poster_path": "/CAux1LNEt39W1hccUJNqhMdkjK.jpg",
+                "overview": "A atriz de Hollywood Suzanne Vale, viciada em drogas, est\u00e1 quase no fundo do po\u00e7o. Depois de uma passagem por um centro de desintoxica\u00e7\u00e3o a produtora do filme insiste como uma condi\u00e7\u00e3o para continuar: que ela viva com sua m\u00e3e Doris Mann, uma antiga estrela e agora uma alco\u00f3latra. Esse exig\u00eancia \u00e9 uma m\u00e1 not\u00edcia para Suzanne que tem lutado por anos para sair da sombra de sua m\u00e3e, que quando a encontra ainda a trata como uma crian\u00e7a. Apesar desses problemas - e muitos outros mais com os homens em sua vida - Suzanne come\u00e7a a ver o lado engra\u00e7ado dessa situa\u00e7\u00e3o, e tamb\u00e9m lhe ocorre que n\u00e3o s\u00f3 as filhas t\u00eam m\u00e3e, m\u00e3es tamb\u00e9m tem m\u00e3e.",
+                "vote_average": 6.6,
+                "vote_count": 246
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Godfather, Part III",
+            "second_label": "Promise Me You'll Remember in \"The Godfather, Part III\" Music by Carmine Coppola; Lyric by John Bettis",
+            "category": "Music (Original Song)",
+            "year": 1991,
+            "tmdb": {
+                "id": 242,
+                "original_title": "The Godfather Part III",
+                "title": "O Poderoso Chef\u00e3o: Parte III",
+                "release_date": "1990-12-25",
+                "backdrop_path": "/zNnjHLDtV8Ti3aworltaeaLMov4.jpg",
+                "poster_path": "/y8GROCjgD8amoFufSx2USKrOy7d.jpg",
+                "overview": "Don Michael Corleone est\u00e1 envelhecendo e, com a ajuda do sobrinho Vicente Mancini, busca a legitima\u00e7\u00e3o dos interesses da fam\u00edlia, em Nova York e na It\u00e1lia, antes de sua morte. Mas seu protegido n\u00e3o est\u00e1 s\u00f3 interessado em parte do imp\u00e9rio da fam\u00edlia. Ele tamb\u00e9m deseja a filha de Michael, Mary.",
+                "vote_average": 7.427,
+                "vote_count": 5880
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Home Alone",
+            "second_label": "Somewhere In My Memory in \"Home Alone\" Music by John Williams; Lyric by Leslie Bricusse",
+            "category": "Music (Original Song)",
+            "year": 1991,
+            "tmdb": {
+                "id": 771,
+                "original_title": "Home Alone",
+                "title": "Esqueceram de Mim",
+                "release_date": "1990-11-16",
+                "backdrop_path": "/en9bAOhdPXZJfx2xTf1WL5d1T5v.jpg",
+                "poster_path": "/kpQNswMgSyp1kZ6Cwr9F15s4uaO.jpg",
+                "overview": "Uma fam\u00edlia de Chicago planeja passar o Natal em Paris. Por\u00e9m, em meio \u00e0s confus\u00f5es da viagem, um dos filhos, Kevin, acaba esquecido em casa. O garoto de apenas oito anos \u00e9 obrigado a se virar sozinho e defender a casa de dois insistentes ladr\u00f5es.",
+                "vote_average": 7.4,
+                "vote_count": 10730
+            },
+            "winner": false
+        }
+    ],
+    "Best Picture": [
+        {
+            "first_label": "Dances With Wolves",
+            "second_label": "Jim Wilson and Kevin Costner, Producers",
+            "category": "Best Picture",
+            "year": 1991,
+            "tmdb": {
+                "id": 581,
+                "original_title": "Dances with Wolves",
+                "title": "Dan\u00e7a com Lobos",
+                "release_date": "1990-03-30",
+                "backdrop_path": "/ifnRFDSlMdLFs9Xjem6WewM68GD.jpg",
+                "poster_path": "/rhdrY0b7AftFnA6yaQXWLVHxDag.jpg",
+                "overview": "Durante a Guerra Civil, um jovem soldado pratica uma ato ousado, \u00e9 considerado her\u00f3i e vai servir por sua escolha em um lugar com forte predomin\u00e2ncia do povo Sioux. Com o tempo, ele assimila os costumes dos nativos, acontecendo uma acultura\u00e7\u00e3o \u00e0s avessas.",
+                "vote_average": 7.8,
+                "vote_count": 4004
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Awakenings",
+            "second_label": "Walter F. Parkes and Lawrence Lasker, Producers",
+            "category": "Best Picture",
+            "year": 1991,
+            "tmdb": {
+                "id": 11005,
+                "original_title": "Awakenings",
+                "title": "Tempo de Despertar",
+                "release_date": "1990-12-04",
+                "backdrop_path": "/oUNAGuc28xNxeUg2NpXuT3qKup0.jpg",
+                "poster_path": "/v62IwQwi9TPgi2hZV8TUwxYsL0a.jpg",
+                "overview": "Bronx, 1969. Malcolm Sayer \u00e9 um neurologista que conseguiu emprego em um hospital psiqui\u00e1trico. L\u00e1 ele encontra v\u00e1rios pacientes que aparentemente est\u00e3o catat\u00f4nicos, mas Sayer sente que eles est\u00e3o s\u00f3 \u201cadormecidos\u201d e que se forem medicados da maneira certa poder\u00e3o ser despertados. Assim pesquisa bem o assunto e chega \u00e0 conclus\u00e3o de que a L-DOPA, uma nova droga que j\u00e1 estava sendo usada para pacientes com o Mal de Parkinson, deve ser o medicamento ideal para este casos. No entanto, ao levar o assunto para o diretor, ele autoriza que apenas um paciente seja submetido ao tratamento.",
+                "vote_average": 7.756,
+                "vote_count": 2385
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ghost",
+            "second_label": "Lisa Weinstein, Producer",
+            "category": "Best Picture",
+            "year": 1991,
+            "tmdb": {
+                "id": 251,
+                "original_title": "Ghost",
+                "title": "Ghost: Do Outro Lado da Vida",
+                "release_date": "1990-07-13",
+                "backdrop_path": "/zOyXP0MS4jvU01yIxzRV394ZUJw.jpg",
+                "poster_path": "/nGSeOwr3XRP2M7bBjcOol8vi2jT.jpg",
+                "overview": "Sam Wheat \u00e9 um jovem executivo apaixonado por sua namorada, Molly. Ele acaba morto em um assalto, mas seu esp\u00edrito n\u00e3o vai para o outro plano e descobre que Molly tamb\u00e9m corre perigo. Para salv\u00e1-la, Sam pede ajuda a uma m\u00e9dium que consegue ouvi-lo.",
+                "vote_average": 7.216,
+                "vote_count": 5296
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Godfather, Part III",
+            "second_label": "Francis Ford Coppola, Producer",
+            "category": "Best Picture",
+            "year": 1991,
+            "tmdb": {
+                "id": 242,
+                "original_title": "The Godfather Part III",
+                "title": "O Poderoso Chef\u00e3o: Parte III",
+                "release_date": "1990-12-25",
+                "backdrop_path": "/zNnjHLDtV8Ti3aworltaeaLMov4.jpg",
+                "poster_path": "/y8GROCjgD8amoFufSx2USKrOy7d.jpg",
+                "overview": "Don Michael Corleone est\u00e1 envelhecendo e, com a ajuda do sobrinho Vicente Mancini, busca a legitima\u00e7\u00e3o dos interesses da fam\u00edlia, em Nova York e na It\u00e1lia, antes de sua morte. Mas seu protegido n\u00e3o est\u00e1 s\u00f3 interessado em parte do imp\u00e9rio da fam\u00edlia. Ele tamb\u00e9m deseja a filha de Michael, Mary.",
+                "vote_average": 7.427,
+                "vote_count": 5880
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Good Fellas",
+            "second_label": "Irwin Winkler, Producer",
+            "category": "Best Picture",
+            "year": 1991,
+            "tmdb": {
+                "id": 769,
+                "original_title": "GoodFellas",
+                "title": "Os Bons Companheiros",
+                "release_date": "1990-09-12",
+                "backdrop_path": "/sw7mordbZxgITU877yTpZCud90M.jpg",
+                "poster_path": "/sTReXuaND1AjkXUfjl1gqRcuGfI.jpg",
+                "overview": "Um jovem cresce na m\u00e1fia e trabalha arduamente para crescer entre seus companheiros. Ele gosta da vida de dinheiro e luxo, mas n\u00e3o liga para o horror que provoca. Infelizmente, a depend\u00eancia de drogas e alguns erros finalmente destroem sua escalada at\u00e9 o topo. Baseado no livro Wiseguy por Nicholas Pileggi.",
+                "vote_average": 8.467,
+                "vote_count": 12265
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Animated)": [
+        {
+            "first_label": "Creature Comforts",
+            "second_label": "Nick Park",
+            "category": "Short Film (Animated)",
+            "year": 1991,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "A Grand Day Out",
+            "second_label": "Nick Park",
+            "category": "Short Film (Animated)",
+            "year": 1991,
+            "tmdb": {
+                "id": 530,
+                "original_title": "A Grand Day Out",
+                "title": "Wallace & Gromit: Um Grande Passeio",
+                "release_date": "1990-05-18",
+                "backdrop_path": "/1mY2vJCGQW2IUgGK6yNc852A4tR.jpg",
+                "poster_path": "/z9JLlg6JEBaYVU5UByxr2BROpHS.jpg",
+                "overview": "Wallace e Gromit descobrem que n\u00e3o tem mais queijo. Por isso eles decidem construir um foguete para viajar \u00e0 lua em busca de queijo. Nela, o rob\u00f4 m\u00e1gico sonha em visitar o planeta de nossos her\u00f3is para participar de campeonato de esqui. Quando chegam \u00e0 lua, Wallace e Gromit experimentam alguns tipos de queijo. O rob\u00f4 flagra o foguete e nossos her\u00f3is, considera tudo uma \u00f3tima forma de visitar a Terra e quer viajar. Wallace e Gromit acham que o rob\u00f4 quer causar problemas e tentam fugir. O rob\u00f4 tenta entrar no foguete mas \u00e9 expulso por uma explos\u00e3o de g\u00e1s, permitindo Wallace e Gromit a fugirem para casa. O rob\u00f4 vive feliz para sempre quando usa os restos do foguete de nossos her\u00f3is como equipamento de esqui.  Wallace \u00e9 dublado pelo famoso ator de cinema Peter Sallis e Gromit \u00e9 quase mudo.",
+                "vote_average": 7.5,
+                "vote_count": 791
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Grasshoppers (Cavallette)",
+            "second_label": "Bruno Bozzetto",
+            "category": "Short Film (Animated)",
+            "year": 1991,
+            "tmdb": {
+                "id": 48611,
+                "original_title": "Cavallette",
+                "title": "Grasshoppers",
+                "release_date": "1990-05-01",
+                "backdrop_path": "/dQjcalCV1BJ4lvWHwkNAT7LE7SE.jpg",
+                "poster_path": "/zkSkkmYNPzNKZsB9aykispsbNqP.jpg",
+                "overview": "An animated short by Bruno Bozzetto which condenses the whole of human civilization into 9 minutes, focusing primarily on the human race's predilection for warfare and the vanity of war. It was an Oscar Nominee for Best Animated Short in 1991.\r Each piece of history is presented as a simple vignette, usually depicting a few simply-drawn characters arguing and making war, over and over again. Generally, a single figure is meant to stand in for an entire group (i.e., a single Caesar-like caricature for the entire line of Roman Emperors). There is very little spoken dialogue; instead, most of the cartoon is accompanied by a bouncy piano-driven score, which frequently changes style to suit the particular historical era. However, the score is all based around a single simple theme, to which it frequently returns in between vignettes.",
+                "vote_average": 7.2,
+                "vote_count": 26
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Live Action)": [
+        {
+            "first_label": "The Lunch Date",
+            "second_label": "Adam Davidson",
+            "category": "Short Film (Live Action)",
+            "year": 1991,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Bronx Cheers",
+            "second_label": "Raymond De Felitta, Matthew Gross",
+            "category": "Short Film (Live Action)",
+            "year": 1991,
+            "tmdb": {
+                "id": 244718,
+                "original_title": "Bronx Cheers",
+                "title": "Bronx Cheers",
+                "release_date": "1990-01-01",
+                "backdrop_path": null,
+                "poster_path": "/2go5kw3zJstfWOIuQ0IlJF7h5tH.jpg",
+                "overview": "Bronx Cheers is a 1991 short film directed by Raymond De Felitta. It follows Danny who returns to the Bronx after serving in World War II. He dreams of becoming a songwriter and instead gets sidetracked by an aging boxer tired of taking dives. After an ingenious ploy, both friends get exactly what they dreamed for. The film was nominated for an Oscar for Best Live Action Short Film.",
+                "vote_average": 6.2,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dear Rosie",
+            "second_label": "Peter Cattaneo, Barnaby Thompson",
+            "category": "Short Film (Live Action)",
+            "year": 1991,
+            "tmdb": {
+                "id": 244719,
+                "original_title": "Dear Rosie",
+                "title": "Dear Rosie",
+                "release_date": "1990-12-31",
+                "backdrop_path": null,
+                "poster_path": "/3GQNTcvroRHR0LUJ07J8GqxeX4.jpg",
+                "overview": "Dear Rosie is a 1990 British short film directed by Peter Cattaneo from a script by Peter Morgan and Mark Wadlow. The plot follows Rosie, an unsuccessful novelist who begins receiving letters from overweight people after her agent publishes her diet tips. The film was nominated for an Oscar for Best Live Action Short Film.",
+                "vote_average": 5.7,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Senzeni Na? (What Have We Done?)",
+            "second_label": "Bernard Joffa, Anthony E. Nicholas",
+            "category": "Short Film (Live Action)",
+            "year": 1991,
+            "tmdb": {
+                "id": 244721,
+                "original_title": "Senzeni Na?",
+                "title": "What Have We Done?",
+                "release_date": "1990-01-01",
+                "backdrop_path": null,
+                "poster_path": "/d0AZsKWuMOzb2HC6DYhG6eo5L1l.jpg",
+                "overview": "Senzeni Na? is a 1990 short film directed by Bernard Joffa. In South Africa 1980, a black man is accused of being a terrorist and is subsequently tortured by the white police. The film won an Oscar for Best Live Action Short Film.",
+                "vote_average": 6.0,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "12:01 PM",
+            "second_label": "Hillary Ripps, Jonathan Heap",
+            "category": "Short Film (Live Action)",
+            "year": 1991,
+            "tmdb": {
+                "id": 30647,
+                "original_title": "12:01 PM",
+                "title": "Meia Noite e Um",
+                "release_date": "1990-01-01",
+                "backdrop_path": null,
+                "poster_path": "/sBWKO6xnzAxnXCup7JENu15ZIoV.jpg",
+                "overview": "Ap\u00f3s ser atingido por um raio, o personagem principal do filme passa a vivenciar um looping do tempo sendo que o dia anterior se repete indefinidamente. Durante o desenvolvimento do filme, tenta salvar a vida de uma cientista e, vai aos poucos desvendando a causa do fen\u00f4meno.",
+                "vote_average": 7.0,
+                "vote_count": 36
+            },
+            "winner": false
+        }
+    ],
+    "Sound": [
+        {
+            "first_label": "Dances With Wolves",
+            "second_label": "Jeffrey Perkins, Bill W. Benton, Greg Watkins, Russell Williams II",
+            "category": "Sound",
+            "year": 1991,
+            "tmdb": {
+                "id": 581,
+                "original_title": "Dances with Wolves",
+                "title": "Dan\u00e7a com Lobos",
+                "release_date": "1990-03-30",
+                "backdrop_path": "/ifnRFDSlMdLFs9Xjem6WewM68GD.jpg",
+                "poster_path": "/rhdrY0b7AftFnA6yaQXWLVHxDag.jpg",
+                "overview": "Durante a Guerra Civil, um jovem soldado pratica uma ato ousado, \u00e9 considerado her\u00f3i e vai servir por sua escolha em um lugar com forte predomin\u00e2ncia do povo Sioux. Com o tempo, ele assimila os costumes dos nativos, acontecendo uma acultura\u00e7\u00e3o \u00e0s avessas.",
+                "vote_average": 7.8,
+                "vote_count": 4004
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Days of Thunder",
+            "second_label": "Donald O. Mitchell, Rick Kline, Kevin O'Connell, Charles Wilborn",
+            "category": "Sound",
+            "year": 1991,
+            "tmdb": {
+                "id": 2119,
+                "original_title": "Days of Thunder",
+                "title": "Dias de Trov\u00e3o",
+                "release_date": "1990-06-27",
+                "backdrop_path": "/7iXHBVKPPCO19yHHnHjL0D16i4e.jpg",
+                "poster_path": "/ilNkOwWF0mQdyZX8iVrrTayA6qk.jpg",
+                "overview": "Cole \u00e9 um jovem piloto de forte temperamento que entra num nova equipe da Nascar. L\u00e1, ele se junta ao veterano Harry, contratado para montar um bom carro e ensin\u00e1-lo a tirar o m\u00e1ximo do seu talento para vencer as corridas. O problema ser\u00e1 enfrentar um rival capaz de tir\u00e1-lo de vez das pistas.",
+                "vote_average": 6.4,
+                "vote_count": 1380
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Dick Tracy",
+            "second_label": "Chris Jenkins, David E. Campbell, D. M. Hemphill, Thomas Causey",
+            "category": "Sound",
+            "year": 1991,
+            "tmdb": {
+                "id": 8592,
+                "original_title": "Dick Tracy",
+                "title": "Dick Tracy",
+                "release_date": "1990-04-05",
+                "backdrop_path": "/gCBZOJw1uoJQqOt28NLkdlCp6ck.jpg",
+                "poster_path": "/xY6D5Ti44xuwzCkmf6Ygbj86BkP.jpg",
+                "overview": "Tess Trueheart quer apenas ter uma vida tranquila com seu namorado, Dick Tracy, um detetive da pol\u00edcia. Por\u00e9m, existe algu\u00e9m que pode atrapalhar os sonhos do casal. Este algu\u00e9m \u00e9 Big Boy Caprice, um g\u00e2ngster que decidiu fazer uma guerra pelo dom\u00ednio da cidade e comandar todos os bandidos. Para complicar ainda mais a situa\u00e7\u00e3o, Dick Tracy tamb\u00e9m precisa resistir aos avan\u00e7os da bela Breathless Mahoney, uma sedutora cantora de boate.",
+                "vote_average": 6.1,
+                "vote_count": 888
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Hunt for Red October",
+            "second_label": "Don Bassman, Richard Overton, Kevin F. Cleary, Richard Bryce Goodman",
+            "category": "Sound",
+            "year": 1991,
+            "tmdb": {
+                "id": 1669,
+                "original_title": "The Hunt for Red October",
+                "title": "Ca\u00e7ada ao Outubro Vermelho",
+                "release_date": "1990-03-02",
+                "backdrop_path": "/ysYBfA0VcbJic9CURRmR1QwWaKw.jpg",
+                "poster_path": "/iMViugzRCgok8Of27cCN9yru8BD.jpg",
+                "overview": "O ano \u00e9 1984. O alto comando sovi\u00e9tico acredita na possibilidade de deser\u00e7\u00e3o quando o capit\u00e3o Markus Ramius, o comandante do Outubro Vermelho, o mais moderno submarino russo, desobedece ordens superiores e navega em dire\u00e7\u00e3o \u00e0 Am\u00e9rica. Outros submarinos sovi\u00e9ticos recebem ordem de afundar o Outubro Vermelho e os americanos decidem fazer o mesmo, temendo que seu territ\u00f3rio esteja amea\u00e7ado. At\u00e9 que Jack Ryan, um agente da CIA que admira Markus Ramius, tenta impedir este ataque ao submarino.",
+                "vote_average": 7.4,
+                "vote_count": 3081
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Total Recall",
+            "second_label": "Michael J. Kohut, Carlos de Larios, Aaron Rochin, Nelson Stoll",
+            "category": "Sound",
+            "year": 1991,
+            "tmdb": {
+                "id": 861,
+                "original_title": "Total Recall",
+                "title": "O Vingador do Futuro",
+                "release_date": "1990-06-01",
+                "backdrop_path": "/cE9Gtz5KEVkien4VDSgXjtwfcs.jpg",
+                "poster_path": "/sFk3iW5ZvkAV7ZrNPYitB0sSxbw.jpg",
+                "overview": "No ano de 2084, o oper\u00e1rio Doug Quaid recorre a um implante de mem\u00f3ria para poder simular uma viagem a Marte. Mas algo sai errado e ele come\u00e7a a se lembrar de quem realmente era e de fatos que, at\u00e9 ent\u00e3o, desconhecia. Agora, Quaid quer vingan\u00e7a contra aqueles que o enganaram.",
+                "vote_average": 7.299,
+                "vote_count": 5484
+            },
+            "winner": false
+        }
+    ],
+    "Sound Effects Editing": [
+        {
+            "first_label": "The Hunt for Red October",
+            "second_label": "Cecelia Hall, George Watters II",
+            "category": "Sound Effects Editing",
+            "year": 1991,
+            "tmdb": {
+                "id": 1669,
+                "original_title": "The Hunt for Red October",
+                "title": "Ca\u00e7ada ao Outubro Vermelho",
+                "release_date": "1990-03-02",
+                "backdrop_path": "/ysYBfA0VcbJic9CURRmR1QwWaKw.jpg",
+                "poster_path": "/iMViugzRCgok8Of27cCN9yru8BD.jpg",
+                "overview": "O ano \u00e9 1984. O alto comando sovi\u00e9tico acredita na possibilidade de deser\u00e7\u00e3o quando o capit\u00e3o Markus Ramius, o comandante do Outubro Vermelho, o mais moderno submarino russo, desobedece ordens superiores e navega em dire\u00e7\u00e3o \u00e0 Am\u00e9rica. Outros submarinos sovi\u00e9ticos recebem ordem de afundar o Outubro Vermelho e os americanos decidem fazer o mesmo, temendo que seu territ\u00f3rio esteja amea\u00e7ado. At\u00e9 que Jack Ryan, um agente da CIA que admira Markus Ramius, tenta impedir este ataque ao submarino.",
+                "vote_average": 7.4,
+                "vote_count": 3081
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Flatliners",
+            "second_label": "Charles L. Campbell, Richard Franklin",
+            "category": "Sound Effects Editing",
+            "year": 1991,
+            "tmdb": {
+                "id": 1551,
+                "original_title": "Flatliners",
+                "title": "Linha Mortal",
+                "release_date": "1990-08-10",
+                "backdrop_path": "/f6HK5Uk9LQwPpdcdQA5BIhcNa6f.jpg",
+                "poster_path": "/13FXuvEhl7QtMe5WNhena5rt0Kr.jpg",
+                "overview": "Voc\u00ea te medo de morrer? Kiefer Sutherland n\u00e3o. Ele \u00e9 um ambicioso e carism\u00e1tico estudante de medicina que convence os colegas de classe Julia Roberts e Kevin Bacon a tomarem parte de uma perigosa experi\u00eancia. Para ver se h\u00e1 vida ap\u00f3s a morte, eles ir\u00e3o \"desligar\" seus pr\u00f3prios corpos: temporariamente sem vida (\"flatline\"), suas fun\u00e7\u00f5es card\u00edacas e cerebrais experimentar\u00e3o uma breve morte cl\u00ednica.",
+                "vote_average": 6.5,
+                "vote_count": 1448
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Total Recall",
+            "second_label": "Stephen H. Flick",
+            "category": "Sound Effects Editing",
+            "year": 1991,
+            "tmdb": {
+                "id": 861,
+                "original_title": "Total Recall",
+                "title": "O Vingador do Futuro",
+                "release_date": "1990-06-01",
+                "backdrop_path": "/cE9Gtz5KEVkien4VDSgXjtwfcs.jpg",
+                "poster_path": "/sFk3iW5ZvkAV7ZrNPYitB0sSxbw.jpg",
+                "overview": "No ano de 2084, o oper\u00e1rio Doug Quaid recorre a um implante de mem\u00f3ria para poder simular uma viagem a Marte. Mas algo sai errado e ele come\u00e7a a se lembrar de quem realmente era e de fatos que, at\u00e9 ent\u00e3o, desconhecia. Agora, Quaid quer vingan\u00e7a contra aqueles que o enganaram.",
+                "vote_average": 7.299,
+                "vote_count": 5484
+            },
+            "winner": false
+        }
+    ],
+    "Special Achievement Award (Visual Effects)": [
+        {
+            "first_label": "Total Recall",
+            "second_label": "Eric Brevig, Rob Bottin, Tim McGovern, Alex Funke",
+            "category": "Special Achievement Award (Visual Effects)",
+            "year": 1991,
+            "tmdb": {
+                "id": 861,
+                "original_title": "Total Recall",
+                "title": "O Vingador do Futuro",
+                "release_date": "1990-06-01",
+                "backdrop_path": "/cE9Gtz5KEVkien4VDSgXjtwfcs.jpg",
+                "poster_path": "/sFk3iW5ZvkAV7ZrNPYitB0sSxbw.jpg",
+                "overview": "No ano de 2084, o oper\u00e1rio Doug Quaid recorre a um implante de mem\u00f3ria para poder simular uma viagem a Marte. Mas algo sai errado e ele come\u00e7a a se lembrar de quem realmente era e de fatos que, at\u00e9 ent\u00e3o, desconhecia. Agora, Quaid quer vingan\u00e7a contra aqueles que o enganaram.",
+                "vote_average": 7.299,
+                "vote_count": 5484
+            },
+            "winner": true
+        }
+    ],
+    "Writing (Screenplay Based on Material from Another Medium)": [
+        {
+            "first_label": "Dances With Wolves",
+            "second_label": "Michael Blake",
+            "category": "Writing (Screenplay Based on Material from Another Medium)",
+            "year": 1991,
+            "tmdb": {
+                "id": 581,
+                "original_title": "Dances with Wolves",
+                "title": "Dan\u00e7a com Lobos",
+                "release_date": "1990-03-30",
+                "backdrop_path": "/ifnRFDSlMdLFs9Xjem6WewM68GD.jpg",
+                "poster_path": "/rhdrY0b7AftFnA6yaQXWLVHxDag.jpg",
+                "overview": "Durante a Guerra Civil, um jovem soldado pratica uma ato ousado, \u00e9 considerado her\u00f3i e vai servir por sua escolha em um lugar com forte predomin\u00e2ncia do povo Sioux. Com o tempo, ele assimila os costumes dos nativos, acontecendo uma acultura\u00e7\u00e3o \u00e0s avessas.",
+                "vote_average": 7.8,
+                "vote_count": 4004
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Awakenings",
+            "second_label": "Steven Zaillian",
+            "category": "Writing (Screenplay Based on Material from Another Medium)",
+            "year": 1991,
+            "tmdb": {
+                "id": 11005,
+                "original_title": "Awakenings",
+                "title": "Tempo de Despertar",
+                "release_date": "1990-12-04",
+                "backdrop_path": "/oUNAGuc28xNxeUg2NpXuT3qKup0.jpg",
+                "poster_path": "/v62IwQwi9TPgi2hZV8TUwxYsL0a.jpg",
+                "overview": "Bronx, 1969. Malcolm Sayer \u00e9 um neurologista que conseguiu emprego em um hospital psiqui\u00e1trico. L\u00e1 ele encontra v\u00e1rios pacientes que aparentemente est\u00e3o catat\u00f4nicos, mas Sayer sente que eles est\u00e3o s\u00f3 \u201cadormecidos\u201d e que se forem medicados da maneira certa poder\u00e3o ser despertados. Assim pesquisa bem o assunto e chega \u00e0 conclus\u00e3o de que a L-DOPA, uma nova droga que j\u00e1 estava sendo usada para pacientes com o Mal de Parkinson, deve ser o medicamento ideal para este casos. No entanto, ao levar o assunto para o diretor, ele autoriza que apenas um paciente seja submetido ao tratamento.",
+                "vote_average": 7.756,
+                "vote_count": 2385
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Good Fellas",
+            "second_label": "Nicholas Pileggi, Martin Scorsese",
+            "category": "Writing (Screenplay Based on Material from Another Medium)",
+            "year": 1991,
+            "tmdb": {
+                "id": 769,
+                "original_title": "GoodFellas",
+                "title": "Os Bons Companheiros",
+                "release_date": "1990-09-12",
+                "backdrop_path": "/sw7mordbZxgITU877yTpZCud90M.jpg",
+                "poster_path": "/sTReXuaND1AjkXUfjl1gqRcuGfI.jpg",
+                "overview": "Um jovem cresce na m\u00e1fia e trabalha arduamente para crescer entre seus companheiros. Ele gosta da vida de dinheiro e luxo, mas n\u00e3o liga para o horror que provoca. Infelizmente, a depend\u00eancia de drogas e alguns erros finalmente destroem sua escalada at\u00e9 o topo. Baseado no livro Wiseguy por Nicholas Pileggi.",
+                "vote_average": 8.467,
+                "vote_count": 12265
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Grifters",
+            "second_label": "Donald E. Westlake",
+            "category": "Writing (Screenplay Based on Material from Another Medium)",
+            "year": 1991,
+            "tmdb": {
+                "id": 18129,
+                "original_title": "The Grifters",
+                "title": "Os Imorais",
+                "release_date": "1990-08-08",
+                "backdrop_path": "/fRMggmOJ9LadLlWXK5aZrIhpUGw.jpg",
+                "poster_path": "/rasA0WZvvo3kCLp5hGydpdEvUiy.jpg",
+                "overview": "Depois de muito tempo, jovem desonesto reencontra a m\u00e3e tamb\u00e9m metida em contraven\u00e7\u00f5es. \u00c9 mais uma com\u00e9dia de humor negro do que propriamente uma tese sobre imoralidade. Martin Scorsese assina a coprodu\u00e7\u00e3o e faz a narra\u00e7\u00e3o em off.",
+                "vote_average": 6.5,
+                "vote_count": 366
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Reversal of Fortune",
+            "second_label": "Nicholas Kazan",
+            "category": "Writing (Screenplay Based on Material from Another Medium)",
+            "year": 1991,
+            "tmdb": {
+                "id": 38718,
+                "original_title": "Reversal of Fortune",
+                "title": "O Reverso da Fortuna",
+                "release_date": "1990-10-19",
+                "backdrop_path": "/efFQxWf7EmhPwyXogl9JUXILgln.jpg",
+                "poster_path": "/9BtLIheek8q6kpDxWEz60peMV9N.jpg",
+                "overview": "Em 1979, a milion\u00e1ria Sunny Von B\u00fclow entra em um coma irrevers\u00edvel. Os filhos descobrem que Claus, seu marido, pode ter dado altas doses de insulina a ela e, ent\u00e3o, o levam ao tribunal. O caso ganha as manchetes dos jornais e passa a ser acompanhado por todo o pa\u00eds. Baseado em uma hist\u00f3ria real.",
+                "vote_average": 6.6,
+                "vote_count": 277
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay Written Directly for the Screen)": [
+        {
+            "first_label": "Ghost",
+            "second_label": "Bruce Joel Rubin",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 1991,
+            "tmdb": {
+                "id": 251,
+                "original_title": "Ghost",
+                "title": "Ghost: Do Outro Lado da Vida",
+                "release_date": "1990-07-13",
+                "backdrop_path": "/zOyXP0MS4jvU01yIxzRV394ZUJw.jpg",
+                "poster_path": "/nGSeOwr3XRP2M7bBjcOol8vi2jT.jpg",
+                "overview": "Sam Wheat \u00e9 um jovem executivo apaixonado por sua namorada, Molly. Ele acaba morto em um assalto, mas seu esp\u00edrito n\u00e3o vai para o outro plano e descobre que Molly tamb\u00e9m corre perigo. Para salv\u00e1-la, Sam pede ajuda a uma m\u00e9dium que consegue ouvi-lo.",
+                "vote_average": 7.216,
+                "vote_count": 5296
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Alice",
+            "second_label": "Woody Allen",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 1991,
+            "tmdb": {
+                "id": 8217,
+                "original_title": "Alice",
+                "title": "Simplesmente Alice",
+                "release_date": "1990-12-25",
+                "backdrop_path": "/ofIyN1TZJFvoCePNpbJebsg54D4.jpg",
+                "poster_path": "/k3q274WRm3GkSa5txvdbI05ZeNK.jpg",
+                "overview": "Alice Tate, m\u00e3e de dois filhos, com um casamento de 16 anos, se apaixona pelo bonito saxofonista Joe. Atingida por uma dor nas costas, ela consulta o Dr. Yang, um herbalista oriental que percebe que seus problemas n\u00e3o est\u00e3o relacionados \u00e0s costas, mas em sua mente e cora\u00e7\u00e3o. As ervas m\u00e1gicas do Dr. Yang d\u00e3o a Alice poderes maravilhosos, tirando-a de uma rotina bem estabelecida.",
+                "vote_average": 6.4,
+                "vote_count": 272
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Avalon",
+            "second_label": "Barry Levinson",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 1991,
+            "tmdb": {
+                "id": 2302,
+                "original_title": "Avalon",
+                "title": "Avalon",
+                "release_date": "1990-10-05",
+                "backdrop_path": "/lwaItfvrlvCZl1rAnRZ1d3JMFVi.jpg",
+                "poster_path": "/lsyPs8pU6hIJCS5sw0H9Q8Tl1nJ.jpg",
+                "overview": "Uma fam\u00edlia polonesa imigra para os Estados Unidos no come\u00e7o do s\u00e9culo 20 tentando construir um futuro melhor. Depois de um come\u00e7o dif\u00edcil, acompanham as transforma\u00e7\u00f5es do pa\u00eds, tornando-se pr\u00f3speros comerciantes em meio ao sonho americano.",
+                "vote_average": 6.5,
+                "vote_count": 74
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Green Card",
+            "second_label": "Peter Weir",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 1991,
+            "tmdb": {
+                "id": 12157,
+                "original_title": "Green Card",
+                "title": "Green Card: Passaporte Para o Amor",
+                "release_date": "1990-12-23",
+                "backdrop_path": "/gDopsdEzZEX81jmSidXn7tFb8fw.jpg",
+                "poster_path": "/9UweLsv3pCORu25Uq72m2IBkKaK.jpg",
+                "overview": "Um compositor franc\u00eas imigrante nos Estados Unidos, George Faure (G\u00e9rard Depardieu), tenta permanecer no pa\u00eds. Para conseguir o Green card, que lhe dar\u00e1 perman\u00eancia definitiva nos Estados Unidos, se casa s\u00f3 no nome com uma americana, Bront\u00eb Parrish (Andie MacDowell), que precisa de um marido para alugar em Manhattan um \u00f3timo apartamento, em um pr\u00e9dio proibido para solteiros. Por\u00e9m problemas surgem quando eles s\u00e3o investigados pelo departamento de imigra\u00e7\u00e3o.",
+                "vote_average": 6.1,
+                "vote_count": 456
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Metropolitan",
+            "second_label": "Whit Stillman",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 1991,
+            "tmdb": {
+                "id": 15389,
+                "original_title": "Metropolitan",
+                "title": "Metropolitan",
+                "release_date": "1990-08-03",
+                "backdrop_path": "/y6mip3WPX3PrxIhCZwOm2Szwpvc.jpg",
+                "poster_path": "/852ZwTRj9tRxkGOT0Pu0Ep8yimk.jpg",
+                "overview": "Um dos grandes filmes independentes americanos dos anos 1990, o sucesso Metropolitan do roteirista e diretor Whit Stillman \u00e9 uma com\u00e9dia sobre as desventuras rom\u00e2nticas de um jovem de classe m\u00e9dia em meio \u00e0 sociedade debutante da cidade de Nova Iorque.",
+                "vote_average": 6.8,
+                "vote_count": 136
+            },
+            "winner": false
+        }
+    ]
+}

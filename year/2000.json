@@ -1,0 +1,1812 @@
+{
+    "Actor in a Leading Role": [
+        {
+            "first_label": "Kevin Spacey",
+            "second_label": "American Beauty",
+            "category": "Actor in a Leading Role",
+            "year": 2000,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Russell Crowe",
+            "second_label": "The Insider",
+            "category": "Actor in a Leading Role",
+            "year": 2000,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Richard Farnsworth",
+            "second_label": "The Straight Story",
+            "category": "Actor in a Leading Role",
+            "year": 2000,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sean Penn",
+            "second_label": "Sweet and Lowdown",
+            "category": "Actor in a Leading Role",
+            "year": 2000,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Denzel Washington",
+            "second_label": "The Hurricane",
+            "category": "Actor in a Leading Role",
+            "year": 2000,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Michael Caine",
+            "second_label": "The Cider House Rules",
+            "category": "Actor in a Supporting Role",
+            "year": 2000,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Tom Cruise",
+            "second_label": "Magnolia",
+            "category": "Actor in a Supporting Role",
+            "year": 2000,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Michael Clarke Duncan",
+            "second_label": "The Green Mile",
+            "category": "Actor in a Supporting Role",
+            "year": 2000,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jude Law",
+            "second_label": "The Talented Mr. Ripley",
+            "category": "Actor in a Supporting Role",
+            "year": 2000,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Haley Joel Osment",
+            "second_label": "The Sixth Sense",
+            "category": "Actor in a Supporting Role",
+            "year": 2000,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Leading Role": [
+        {
+            "first_label": "Hilary Swank",
+            "second_label": "Boys Don't Cry",
+            "category": "Actress in a Leading Role",
+            "year": 2000,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Annette Bening",
+            "second_label": "American Beauty",
+            "category": "Actress in a Leading Role",
+            "year": 2000,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Janet McTeer",
+            "second_label": "Tumbleweeds",
+            "category": "Actress in a Leading Role",
+            "year": 2000,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Julianne Moore",
+            "second_label": "The End of the Affair",
+            "category": "Actress in a Leading Role",
+            "year": 2000,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Meryl Streep",
+            "second_label": "Music of the Heart",
+            "category": "Actress in a Leading Role",
+            "year": 2000,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Angelina Jolie",
+            "second_label": "Girl, Interrupted",
+            "category": "Actress in a Supporting Role",
+            "year": 2000,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Toni Collette",
+            "second_label": "The Sixth Sense",
+            "category": "Actress in a Supporting Role",
+            "year": 2000,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Catherine Keener",
+            "second_label": "Being John Malkovich",
+            "category": "Actress in a Supporting Role",
+            "year": 2000,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Samantha Morton",
+            "second_label": "Sweet and Lowdown",
+            "category": "Actress in a Supporting Role",
+            "year": 2000,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Chlo Sevigny",
+            "second_label": "Boys Don't Cry",
+            "category": "Actress in a Supporting Role",
+            "year": 2000,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction": [
+        {
+            "first_label": "Sleepy Hollow",
+            "second_label": "Art Direction: Rick Heinrichs; Set Decoration: Peter Young",
+            "category": "Art Direction",
+            "year": 2000,
+            "tmdb": {
+                "id": 2668,
+                "original_title": "Sleepy Hollow",
+                "title": "A Lenda do Cavaleiro Sem Cabe\u00e7a",
+                "release_date": "1999-11-19",
+                "backdrop_path": "/u1YU0pKfdDXD1KNQdOeZnYJ8VbE.jpg",
+                "poster_path": "/zxOuNnW2qrOOFtiPVJtx5aRAJoX.jpg",
+                "overview": "Em 1799, uma s\u00e9rie de crimes envolvendo inocentes acontece no pequeno vilarejo de Sleepy Hollow. Para investigar o caso \u00e9 chamado o detetive nova-iorquino Ichabod Crane (Johnny Depp), um exc\u00eantrico e determinado oficial de pol\u00edcia com um jeito avant-garde de solucionar crimes. Os m\u00e9todos investigativos de Ichabod ser\u00e3o postos \u00e0 prova neste caso, que envolve um ser sobrenatural que pode ser o causador de todos os crimes.",
+                "vote_average": 7.171,
+                "vote_count": 6428
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Anna and the King",
+            "second_label": "Art Direction: Luciana Arrighi; Set Decoration: Ian Whittaker",
+            "category": "Art Direction",
+            "year": 2000,
+            "tmdb": {
+                "id": 1439,
+                "original_title": "Anna and the King",
+                "title": "Anna e o Rei",
+                "release_date": "1999-12-16",
+                "backdrop_path": "/jRJ0CSlpzO4Y0pTiXAcwdTS38gu.jpg",
+                "poster_path": "/bAqMkNmHVZtPOEaL0lgA0mTVsZm.jpg",
+                "overview": "Anna foi contratada para ensinar os 58 filhos do Rei de Si\u00e3o sobre o mundo ocidental. A professora brit\u00e2nica, que \u00e9 vi\u00fava, logo percebe as diferen\u00e7as entre as duas culturas, e acaba educando o pr\u00f3prio Rei sobre a modernidade.",
+                "vote_average": 6.8,
+                "vote_count": 727
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Cider House Rules",
+            "second_label": "Art Direction: David Gropman; Set Decoration: Beth Rubino",
+            "category": "Art Direction",
+            "year": 2000,
+            "tmdb": {
+                "id": 1715,
+                "original_title": "The Cider House Rules",
+                "title": "Regras da Vida",
+                "release_date": "1999-12-17",
+                "backdrop_path": "/h2ARbAQTzkKlHhLjHNDY3c9HeyE.jpg",
+                "poster_path": "/8M8j2lwtm59ytUuPgtVpu2Yn9xD.jpg",
+                "overview": "Homer (Tobey Maguire) \u00e9 um garoto \u00f3rf\u00e3o que passa a ter um m\u00e9dico (Michael Caine) como mentor. O m\u00e9dico ensina a ele tudo o que sabe sobre medicina e o que um pai deveria ensinar. Agora, Homer se apaixona por Kendall (Charlize Theron) e tem que lidar com as dificuldades da vida.",
+                "vote_average": 7.0,
+                "vote_count": 1100
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Talented Mr. Ripley",
+            "second_label": "Art Direction: Roy Walker; Set Decoration: Bruno Cesari",
+            "category": "Art Direction",
+            "year": 2000,
+            "tmdb": {
+                "id": 1213,
+                "original_title": "The Talented Mr. Ripley",
+                "title": "O Talentoso Ripley",
+                "release_date": "1999-12-25",
+                "backdrop_path": "/nGVe984XESYhn5V5zspqQexPekA.jpg",
+                "poster_path": "/OXKtnDkIB2qRFOmkR63hQaziWR.jpg",
+                "overview": "Ser um jovem rico no ensolarado sul da It\u00e1lia \u00e9 a vida que Tom Ripley quer ter e que Dickie Greenleaf j\u00e1 tem. Ripley \u00e9 contratado pelo pai de Dickie para convenc\u00ea-lo a voltar para casa e para sua fam\u00edlia, nos Estados Unidos. Ao chegar na It\u00e1lia, Ripley se encanta com o estilo de vida do rapaz e far\u00e1 de tudo para ter uma vida igual. Tudo! Ripley n\u00e3o se det\u00e9m diante de nada, nem mesmo do crime, para realizar seu sonho de se transformar em outra pessoa.",
+                "vote_average": 7.186,
+                "vote_count": 3448
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Topsy-Turvy",
+            "second_label": "Art Direction: Eve Stewart; Set Decoration: Eve Stewart, John Bush",
+            "category": "Art Direction",
+            "year": 2000,
+            "tmdb": {
+                "id": 46435,
+                "original_title": "Topsy-Turvy",
+                "title": "Topsy-Turvy",
+                "release_date": "1999-12-15",
+                "backdrop_path": "/lBk6VjaqbjU2T8wxiXW1zUh6M9r.jpg",
+                "poster_path": "/qAH3gsnQV25NQ2GpO3b7nDcVtkM.jpg",
+                "overview": "After their production \"Princess Ida\" meets with less-than-stunning reviews, the relationship between Gilbert and Sullivan is strained to breaking. Their friends and associates attempt to get the two to work together again, which opens the way to \"The Mikado,\" one of the duo's greatest successes.",
+                "vote_average": 6.6,
+                "vote_count": 134
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "American Beauty",
+            "second_label": "Conrad L. Hall",
+            "category": "Cinematography",
+            "year": 2000,
+            "tmdb": {
+                "id": 14,
+                "original_title": "American Beauty",
+                "title": "Beleza Americana",
+                "release_date": "1999-09-15",
+                "backdrop_path": "/DztBnZaqmla2sGUW9s8AyOmskT.jpg",
+                "poster_path": "/9PJKsH7Btz2xjYIvLLtJ7qcJlL3.jpg",
+                "overview": "Lester Burham n\u00e3o aguenta mais o emprego e se sente impotente perante sua vida. Casado com Carolyn e pai da \"aborrecente\" Jane, o melhor momento de seu dia quando se masturba no chuveiro. At\u00e9 que conhece Angela Hayes, amiga de Jane. Encantado com sua beleza e disposto a dar a volta por cima, Lester pede demiss\u00e3o e come\u00e7a a reconstruir sua vida, com a ajuda de seu vizinho Ricky.",
+                "vote_average": 8.0,
+                "vote_count": 11619
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The End of the Affair",
+            "second_label": "Roger Pratt",
+            "category": "Cinematography",
+            "year": 2000,
+            "tmdb": {
+                "id": 20024,
+                "original_title": "The End of the Affair",
+                "title": "Fim de Caso",
+                "release_date": "1999-12-03",
+                "backdrop_path": "/hO1UwCPxI5tpz21hzITij3DPwFY.jpg",
+                "poster_path": "/9TDdGJPNsgORFfcqpxpXKUr4WXr.jpg",
+                "overview": "Numa noite chuvosa de 1946, o novelista Maurice Bendrix encontra Henry Miles, marido de sua ex-amante Sarah. Maurice e Sarah tiveram um t\u00f3rrido caso dois anos antes, at\u00e9 que, sem qualquer explica\u00e7\u00e3o, Sarah terminou o romance. O encontro com Henry reacende a obsess\u00e3o de Maurice por Sarah, num misto de ci\u00fame e desejo em reencontr\u00e1-la. Para tanto, come\u00e7a uma investiga\u00e7\u00e3o, para poder entender o porqu\u00ea do rompimento do romance entre os dois.",
+                "vote_average": 6.577,
+                "vote_count": 227
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Insider",
+            "second_label": "Dante Spinotti",
+            "category": "Cinematography",
+            "year": 2000,
+            "tmdb": {
+                "id": 9008,
+                "original_title": "The Insider",
+                "title": "O Informante",
+                "release_date": "1999-10-28",
+                "backdrop_path": "/2GIr0LArTvO33HQVPEdp49FLdNV.jpg",
+                "poster_path": "/wLIuFuacSTIQyRmwLSbLPESzrGA.jpg",
+                "overview": "Depois de tentar entrevistar o ex-executivo da ind\u00fastria do tabaco Jeffrey Wigand, o experiente produtor de TV Lowell Bergman suspeita que existe uma raz\u00e3o por tr\u00e1s do sil\u00eancio de Wigand. Quando Bergman tenta convencer Wigand a contar os segredos que sabe sobre a ind\u00fastria do tabaco, os dois precisam lidar com os tribunais e as corpora\u00e7\u00f5es para expor a verdade. E Wigand tem de lutar para manter sua vida familiar em meio a a\u00e7\u00f5es judiciais e amea\u00e7as de morte.",
+                "vote_average": 7.5,
+                "vote_count": 1711
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sleepy Hollow",
+            "second_label": "Emmanuel Lubezki",
+            "category": "Cinematography",
+            "year": 2000,
+            "tmdb": {
+                "id": 2668,
+                "original_title": "Sleepy Hollow",
+                "title": "A Lenda do Cavaleiro Sem Cabe\u00e7a",
+                "release_date": "1999-11-19",
+                "backdrop_path": "/u1YU0pKfdDXD1KNQdOeZnYJ8VbE.jpg",
+                "poster_path": "/zxOuNnW2qrOOFtiPVJtx5aRAJoX.jpg",
+                "overview": "Em 1799, uma s\u00e9rie de crimes envolvendo inocentes acontece no pequeno vilarejo de Sleepy Hollow. Para investigar o caso \u00e9 chamado o detetive nova-iorquino Ichabod Crane (Johnny Depp), um exc\u00eantrico e determinado oficial de pol\u00edcia com um jeito avant-garde de solucionar crimes. Os m\u00e9todos investigativos de Ichabod ser\u00e3o postos \u00e0 prova neste caso, que envolve um ser sobrenatural que pode ser o causador de todos os crimes.",
+                "vote_average": 7.171,
+                "vote_count": 6428
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Snow Falling on Cedars",
+            "second_label": "Robert Richardson",
+            "category": "Cinematography",
+            "year": 2000,
+            "tmdb": {
+                "id": 10219,
+                "original_title": "Snow Falling on Cedars",
+                "title": "Neve Sobre os Cedros",
+                "release_date": "1999-12-22",
+                "backdrop_path": "/w0HwCu00h8UEv5AzYCyMhwRmR79.jpg",
+                "poster_path": "/h1CujbeKvwkR6LMr4jVuMM0C94X.jpg",
+                "overview": "Em 1950, numa comunidade do Norte do Pac\u00edfico, um pescador \u00e9 encontrado morto. Tudo indica que tenha sido um assassinato a sangue frio. Mas, como as investiga\u00e7\u00f5es descobrem, a simples morte do homem revela um passado assombrador e uma extraordin\u00e1ria est\u00f3ria sobre a persist\u00eancia do \u00f3dio e o poder do amor.",
+                "vote_average": 6.1,
+                "vote_count": 128
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design": [
+        {
+            "first_label": "Topsy-Turvy",
+            "second_label": "Lindy Hemming",
+            "category": "Costume Design",
+            "year": 2000,
+            "tmdb": {
+                "id": 46435,
+                "original_title": "Topsy-Turvy",
+                "title": "Topsy-Turvy",
+                "release_date": "1999-12-15",
+                "backdrop_path": "/lBk6VjaqbjU2T8wxiXW1zUh6M9r.jpg",
+                "poster_path": "/qAH3gsnQV25NQ2GpO3b7nDcVtkM.jpg",
+                "overview": "After their production \"Princess Ida\" meets with less-than-stunning reviews, the relationship between Gilbert and Sullivan is strained to breaking. Their friends and associates attempt to get the two to work together again, which opens the way to \"The Mikado,\" one of the duo's greatest successes.",
+                "vote_average": 6.6,
+                "vote_count": 134
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Anna and the King",
+            "second_label": "Jenny Beavan",
+            "category": "Costume Design",
+            "year": 2000,
+            "tmdb": {
+                "id": 1439,
+                "original_title": "Anna and the King",
+                "title": "Anna e o Rei",
+                "release_date": "1999-12-16",
+                "backdrop_path": "/jRJ0CSlpzO4Y0pTiXAcwdTS38gu.jpg",
+                "poster_path": "/bAqMkNmHVZtPOEaL0lgA0mTVsZm.jpg",
+                "overview": "Anna foi contratada para ensinar os 58 filhos do Rei de Si\u00e3o sobre o mundo ocidental. A professora brit\u00e2nica, que \u00e9 vi\u00fava, logo percebe as diferen\u00e7as entre as duas culturas, e acaba educando o pr\u00f3prio Rei sobre a modernidade.",
+                "vote_average": 6.8,
+                "vote_count": 727
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sleepy Hollow",
+            "second_label": "Colleen Atwood",
+            "category": "Costume Design",
+            "year": 2000,
+            "tmdb": {
+                "id": 2668,
+                "original_title": "Sleepy Hollow",
+                "title": "A Lenda do Cavaleiro Sem Cabe\u00e7a",
+                "release_date": "1999-11-19",
+                "backdrop_path": "/u1YU0pKfdDXD1KNQdOeZnYJ8VbE.jpg",
+                "poster_path": "/zxOuNnW2qrOOFtiPVJtx5aRAJoX.jpg",
+                "overview": "Em 1799, uma s\u00e9rie de crimes envolvendo inocentes acontece no pequeno vilarejo de Sleepy Hollow. Para investigar o caso \u00e9 chamado o detetive nova-iorquino Ichabod Crane (Johnny Depp), um exc\u00eantrico e determinado oficial de pol\u00edcia com um jeito avant-garde de solucionar crimes. Os m\u00e9todos investigativos de Ichabod ser\u00e3o postos \u00e0 prova neste caso, que envolve um ser sobrenatural que pode ser o causador de todos os crimes.",
+                "vote_average": 7.171,
+                "vote_count": 6428
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Talented Mr. Ripley",
+            "second_label": "Ann Roth, Gary Jones",
+            "category": "Costume Design",
+            "year": 2000,
+            "tmdb": {
+                "id": 1213,
+                "original_title": "The Talented Mr. Ripley",
+                "title": "O Talentoso Ripley",
+                "release_date": "1999-12-25",
+                "backdrop_path": "/nGVe984XESYhn5V5zspqQexPekA.jpg",
+                "poster_path": "/OXKtnDkIB2qRFOmkR63hQaziWR.jpg",
+                "overview": "Ser um jovem rico no ensolarado sul da It\u00e1lia \u00e9 a vida que Tom Ripley quer ter e que Dickie Greenleaf j\u00e1 tem. Ripley \u00e9 contratado pelo pai de Dickie para convenc\u00ea-lo a voltar para casa e para sua fam\u00edlia, nos Estados Unidos. Ao chegar na It\u00e1lia, Ripley se encanta com o estilo de vida do rapaz e far\u00e1 de tudo para ter uma vida igual. Tudo! Ripley n\u00e3o se det\u00e9m diante de nada, nem mesmo do crime, para realizar seu sonho de se transformar em outra pessoa.",
+                "vote_average": 7.186,
+                "vote_count": 3448
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Titus",
+            "second_label": "Milena Canonero",
+            "category": "Costume Design",
+            "year": 2000,
+            "tmdb": {
+                "id": 12524,
+                "original_title": "Titus",
+                "title": "Titus",
+                "release_date": "1999-12-25",
+                "backdrop_path": "/xwlShstQ7tODGkJJQ2ddM2JoNMu.jpg",
+                "poster_path": "/82mCeQoeT2C7h7vR6Ot9MQotE1R.jpg",
+                "overview": "Vitorioso, o grande general Titus volta a Roma depois da batalha contra os godos. O triunfo e o orgulho v\u00e3o causar vingan\u00e7as e lutas pelo poder, que colocam em perigo Titus e as bases de todo o Imp\u00e9rio.",
+                "vote_average": 6.5,
+                "vote_count": 248
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "American Beauty",
+            "second_label": "Sam Mendes",
+            "category": "Directing",
+            "year": 2000,
+            "tmdb": {
+                "id": 14,
+                "original_title": "American Beauty",
+                "title": "Beleza Americana",
+                "release_date": "1999-09-15",
+                "backdrop_path": "/DztBnZaqmla2sGUW9s8AyOmskT.jpg",
+                "poster_path": "/9PJKsH7Btz2xjYIvLLtJ7qcJlL3.jpg",
+                "overview": "Lester Burham n\u00e3o aguenta mais o emprego e se sente impotente perante sua vida. Casado com Carolyn e pai da \"aborrecente\" Jane, o melhor momento de seu dia quando se masturba no chuveiro. At\u00e9 que conhece Angela Hayes, amiga de Jane. Encantado com sua beleza e disposto a dar a volta por cima, Lester pede demiss\u00e3o e come\u00e7a a reconstruir sua vida, com a ajuda de seu vizinho Ricky.",
+                "vote_average": 8.0,
+                "vote_count": 11619
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Being John Malkovich",
+            "second_label": "Spike Jonze",
+            "category": "Directing",
+            "year": 2000,
+            "tmdb": {
+                "id": 492,
+                "original_title": "Being John Malkovich",
+                "title": "Quero Ser John Malkovich",
+                "release_date": "1999-10-29",
+                "backdrop_path": "/hjUrsPQMyL0gT6FK1hGUbw9fCuB.jpg",
+                "poster_path": "/rFpKAnc9X01sucqFPiD9pzxLpiA.jpg",
+                "overview": "Um homem (John Cusack) consegue um novo emprego no 7\u00ba \u00bd andar de um edif\u00edcio comercial, onde todos os funcion\u00e1rios devem andar curvados. L\u00e1 encontra uma porta, escondida, que leva quem ultrapass\u00e1-la at\u00e9 a mente do ator John Malkovich, onde pode permanecer durante 15 minutos, at\u00e9 ser cuspido numa estrada na sa\u00edda de Nova Jersey. Impressionado com a descoberta, resolve alugar a passagem para outras pessoas, dentre elas o pr\u00f3prio John Malkovich.",
+                "vote_average": 7.418,
+                "vote_count": 4137
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Cider House Rules",
+            "second_label": "Lasse Hallstrm",
+            "category": "Directing",
+            "year": 2000,
+            "tmdb": {
+                "id": 1715,
+                "original_title": "The Cider House Rules",
+                "title": "Regras da Vida",
+                "release_date": "1999-12-17",
+                "backdrop_path": "/h2ARbAQTzkKlHhLjHNDY3c9HeyE.jpg",
+                "poster_path": "/8M8j2lwtm59ytUuPgtVpu2Yn9xD.jpg",
+                "overview": "Homer (Tobey Maguire) \u00e9 um garoto \u00f3rf\u00e3o que passa a ter um m\u00e9dico (Michael Caine) como mentor. O m\u00e9dico ensina a ele tudo o que sabe sobre medicina e o que um pai deveria ensinar. Agora, Homer se apaixona por Kendall (Charlize Theron) e tem que lidar com as dificuldades da vida.",
+                "vote_average": 7.0,
+                "vote_count": 1100
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Insider",
+            "second_label": "Michael Mann",
+            "category": "Directing",
+            "year": 2000,
+            "tmdb": {
+                "id": 9008,
+                "original_title": "The Insider",
+                "title": "O Informante",
+                "release_date": "1999-10-28",
+                "backdrop_path": "/2GIr0LArTvO33HQVPEdp49FLdNV.jpg",
+                "poster_path": "/wLIuFuacSTIQyRmwLSbLPESzrGA.jpg",
+                "overview": "Depois de tentar entrevistar o ex-executivo da ind\u00fastria do tabaco Jeffrey Wigand, o experiente produtor de TV Lowell Bergman suspeita que existe uma raz\u00e3o por tr\u00e1s do sil\u00eancio de Wigand. Quando Bergman tenta convencer Wigand a contar os segredos que sabe sobre a ind\u00fastria do tabaco, os dois precisam lidar com os tribunais e as corpora\u00e7\u00f5es para expor a verdade. E Wigand tem de lutar para manter sua vida familiar em meio a a\u00e7\u00f5es judiciais e amea\u00e7as de morte.",
+                "vote_average": 7.5,
+                "vote_count": 1711
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Sixth Sense",
+            "second_label": "M. Night Shyamalan",
+            "category": "Directing",
+            "year": 2000,
+            "tmdb": {
+                "id": 745,
+                "original_title": "The Sixth Sense",
+                "title": "O Sexto Sentido",
+                "release_date": "1999-08-06",
+                "backdrop_path": "/paUKxrbN2ww0JeT2JtvgAuaGlPf.jpg",
+                "poster_path": "/ds7jw0WYCd6k7hBzMnzgFsTfg96.jpg",
+                "overview": "Dr. Malcolm Crowe \u00e9 um conceituado psic\u00f3logo infantil, que vive atormentado pela terr\u00edvel lembran\u00e7a de um jovem paciente que ele n\u00e3o foi capaz de ajudar. Quando ele encontra Cole Sear, um garoto de 8 anos assustado e confuso, com um problema similar, Dr. Crowe procura redimir seu erro do passado, fazendo tudo que pode pelo menino. Apesar disso, Malcolm n\u00e3o est\u00e1 preparado para descobrir a verdade que aterroriza Cole.",
+                "vote_average": 7.953,
+                "vote_count": 11155
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "One Day in September",
+            "second_label": "Arthur Cohn, Kevin Macdonald",
+            "category": "Documentary (Feature)",
+            "year": 2000,
+            "tmdb": {
+                "id": 34045,
+                "original_title": "One Day in September",
+                "title": "One Day in September",
+                "release_date": "1999-10-22",
+                "backdrop_path": "/mG1H7dWzvgXVgNwhid6gJFIggmf.jpg",
+                "poster_path": "/vsxtkcidi7flgxWERBSnwtyH1JJ.jpg",
+                "overview": "The full story of the 1972 Munich Olympics Massacre and the Israeli revenge operation 'Wrath of God.' The 1972 Munich Olympics were interrupted by Palestinian terrorists taking Israeli athletes hostage. Besides footage taken at the time, we see interviews with the surviving terrorist, Jamal Al Gashey, and various officials detailing exactly how the police, lacking an anti-terrorist squad and turning down help from the Israelis, botched the operation.",
+                "vote_average": 7.3,
+                "vote_count": 69
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Buena Vista Social Club",
+            "second_label": "Wim Wenders, Ulrich Felsberg",
+            "category": "Documentary (Feature)",
+            "year": 2000,
+            "tmdb": {
+                "id": 11779,
+                "original_title": "Buena Vista Social Club",
+                "title": "Buena Vista Social Club",
+                "release_date": "1999-06-04",
+                "backdrop_path": "/y5Y12Pds6Z4ipLg482Azhp4xb9x.jpg",
+                "poster_path": "/xMEebcZYw8TZl7HZFQQs1EirC7G.jpg",
+                "overview": "Ry Cooder viaja at\u00e9 Havana para reunir e tirar da aposentadoria m\u00fasicos cubanos idosos, que tiveram seu talento esquecido ap\u00f3s a tomada de poder de Castro. Isso resultou em apresenta\u00e7\u00f5es triunfantes de m\u00fasicas extraordin\u00e1rias, revivendo as carreiras dos m\u00fasicos.",
+                "vote_average": 7.5,
+                "vote_count": 295
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Genghis Blues",
+            "second_label": "Roko Belic, Adrian Belic",
+            "category": "Documentary (Feature)",
+            "year": 2000,
+            "tmdb": {
+                "id": 28030,
+                "original_title": "Genghis Blues",
+                "title": "Genghis Blues",
+                "release_date": "1999-07-19",
+                "backdrop_path": null,
+                "poster_path": "/tEwdvxK2ntu6LGBPqCNFkXnwO1B.jpg",
+                "overview": "Blind blues musician Paul Pena is perhaps best known for his song \"Jet Airliner\". In 1993, Pena heard Tuvan throat singing over his shortwave radio and subsequently taught himself how to reproduce these extraordinary sounds. This documentary follows him to Tuva, where he takes part in a throat singing competition.  Languages featured in the film include English, Russian and Tuvan.",
+                "vote_average": 6.9,
+                "vote_count": 15
+            },
+            "winner": false
+        },
+        {
+            "first_label": "On the Ropes",
+            "second_label": "Nanette Burstein, Brett Morgen",
+            "category": "Documentary (Feature)",
+            "year": 2000,
+            "tmdb": {
+                "id": 113273,
+                "original_title": "On the Ropes",
+                "title": "On the Ropes",
+                "release_date": "1999-01-01",
+                "backdrop_path": null,
+                "poster_path": "/yy4fFWLigLn6MKCqFIFMCjQJ7Ab.jpg",
+                "overview": "The story of three young boxers and their coach who is determined to guide them in a positive direction in and out of the ring.",
+                "vote_average": 6.5,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Speaking in Strings",
+            "second_label": "Paola di Florio, Lilibet Foster",
+            "category": "Documentary (Feature)",
+            "year": 2000,
+            "tmdb": {
+                "id": 113275,
+                "original_title": "Speaking in Strings",
+                "title": "Speaking in Strings",
+                "release_date": "1999-01-28",
+                "backdrop_path": null,
+                "poster_path": "/h6syBkJfbY2HyOcWQsWJKsKOF92.jpg",
+                "overview": "This real-life documentary explores the passionate & energetic presence of renowned Italian violinist Nadja Salerno-Sonnenberg (she moved to the Unites States at the age of eight to study at The Curtis Institute of Music and later studied with Dorothy DeLay at The Julliard School.) The film focuses on her professional life, starting in 1981, when she burst onto the classical music scene as the youngest (at 17) recipient ever of the Walter W. Naumburg International Violin Competition.",
+                "vote_average": 5.7,
+                "vote_count": 3
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "King Gimp",
+            "second_label": "Susan Hannah Hadary, William A. Whiteford",
+            "category": "Documentary (Short Subject)",
+            "year": 2000,
+            "tmdb": {
+                "id": 244949,
+                "original_title": "King Gimp",
+                "title": "King Gimp",
+                "release_date": "1999-01-01",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "King Gimp is a 1999 documentary that was awarded the 2000 Academy Award for Best Short Subject Documentary and 2000 Peabody Award. \"King Gimp\" followed the life of artist Dan Keplinger of Towson, Maryland, who has cerebral palsy. Filmmakers Susan Hannah Hadary and William A. Whiteford, of the University of Maryland Video Press and Tapestry International Productions produced the film.",
+                "vote_average": 7.0,
+                "vote_count": 1
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Eyewitness",
+            "second_label": "Bert Van Bork",
+            "category": "Documentary (Short Subject)",
+            "year": 2000,
+            "tmdb": {
+                "id": 244951,
+                "original_title": "Eyewitness",
+                "title": "Eyewitness",
+                "release_date": "1999-01-01",
+                "backdrop_path": null,
+                "poster_path": "/4p1BzbZk8vGx2cFrwRWFBQ5x0t.jpg",
+                "overview": "Eyewitness is a 1999 American short documentary film directed by Bert Van Bork.  The film explores the lives of three artists forced to work in secret while living in Nazi death camps: Jan Komski, Dinah Gottliebova, and Felix Nussbaum, and who all witnessed and painted the horrors of the Holocaust. It was nominated for an Academy Award for Best Documentary Short.",
+                "vote_average": 5.0,
+                "vote_count": 1
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Wildest Show in the South: The Angola Prison Rodeo",
+            "second_label": "Simeon Soffer, Jonathan Stack",
+            "category": "Documentary (Short Subject)",
+            "year": 2000,
+            "tmdb": {
+                "id": 244952,
+                "original_title": "The Wildest Show in the South: The Angola Prison Rodeo",
+                "title": "The Wildest Show in the South: The Angola Prison Rodeo",
+                "release_date": "1999-01-01",
+                "backdrop_path": null,
+                "poster_path": "/vsBalMEHaH67Cglll9BZ8NlTH7y.jpg",
+                "overview": "The Wildest Show in the South: The Angola Prison Rodeo is a 1999 American short documentary film directed by Simeon Soffer. It focuses primarily on the inmates experiences in the rodeo. For a lot of those prisoners, the rodeo seems to be the only thing they have to look forward to. It was nominated for an Academy Award for Best Documentary Short.",
+                "vote_average": 7.0,
+                "vote_count": 1
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "The Matrix",
+            "second_label": "Zach Staenberg",
+            "category": "Film Editing",
+            "year": 2000,
+            "tmdb": {
+                "id": 603,
+                "original_title": "The Matrix",
+                "title": "Matrix",
+                "release_date": "1999-03-31",
+                "backdrop_path": "/8K9qHeM6G6QjQN0C5XKFGvK5lzM.jpg",
+                "poster_path": "/lDqMDI3xpbB9UQRyeXfei0MXhqb.jpg",
+                "overview": "Em um futuro pr\u00f3ximo, Thomas Anderson (Keanu Reeves), um jovem programador de computador que mora em um cub\u00edculo escuro, \u00e9 atormentado por estranhos pesadelos nos quais encontra-se conectado por cabos e contra sua vontade, em um imenso sistema de computadores do futuro. Em todas essas ocasi\u00f5es, acorda gritando no exato momento em que os eletrodos est\u00e3o para penetrar em seu c\u00e9rebro. \u00c0 medida que o sonho se repete, Anderson come\u00e7a a ter d\u00favidas sobre a realidade. Por meio do encontro com os misteriosos Morpheus (Laurence Fishburne) e Trinity (Carrie-Anne Moss), Thomas descobre que \u00e9, assim como outras pessoas, v\u00edtima do Matrix, um sistema inteligente e artificial que manipula a mente das pessoas, criando a ilus\u00e3o de um mundo real enquanto usa os c\u00e9rebros e corpos dos indiv\u00edduos para produzir energia. Morpheus, entretanto, est\u00e1 convencido de que Thomas \u00e9 Neo, o aguardado messias capaz de enfrentar o Matrix e conduzir as pessoas de volta \u00e0 realidade e \u00e0 liberdade.",
+                "vote_average": 8.214,
+                "vote_count": 24660
+            },
+            "winner": true
+        },
+        {
+            "first_label": "American Beauty",
+            "second_label": "Tariq Anwar, Christopher Greenbury",
+            "category": "Film Editing",
+            "year": 2000,
+            "tmdb": {
+                "id": 14,
+                "original_title": "American Beauty",
+                "title": "Beleza Americana",
+                "release_date": "1999-09-15",
+                "backdrop_path": "/DztBnZaqmla2sGUW9s8AyOmskT.jpg",
+                "poster_path": "/9PJKsH7Btz2xjYIvLLtJ7qcJlL3.jpg",
+                "overview": "Lester Burham n\u00e3o aguenta mais o emprego e se sente impotente perante sua vida. Casado com Carolyn e pai da \"aborrecente\" Jane, o melhor momento de seu dia quando se masturba no chuveiro. At\u00e9 que conhece Angela Hayes, amiga de Jane. Encantado com sua beleza e disposto a dar a volta por cima, Lester pede demiss\u00e3o e come\u00e7a a reconstruir sua vida, com a ajuda de seu vizinho Ricky.",
+                "vote_average": 8.0,
+                "vote_count": 11619
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Cider House Rules",
+            "second_label": "Lisa Zeno Churgin",
+            "category": "Film Editing",
+            "year": 2000,
+            "tmdb": {
+                "id": 1715,
+                "original_title": "The Cider House Rules",
+                "title": "Regras da Vida",
+                "release_date": "1999-12-17",
+                "backdrop_path": "/h2ARbAQTzkKlHhLjHNDY3c9HeyE.jpg",
+                "poster_path": "/8M8j2lwtm59ytUuPgtVpu2Yn9xD.jpg",
+                "overview": "Homer (Tobey Maguire) \u00e9 um garoto \u00f3rf\u00e3o que passa a ter um m\u00e9dico (Michael Caine) como mentor. O m\u00e9dico ensina a ele tudo o que sabe sobre medicina e o que um pai deveria ensinar. Agora, Homer se apaixona por Kendall (Charlize Theron) e tem que lidar com as dificuldades da vida.",
+                "vote_average": 7.0,
+                "vote_count": 1100
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Insider",
+            "second_label": "William Goldenberg, Paul Rubell, David Rosenbloom",
+            "category": "Film Editing",
+            "year": 2000,
+            "tmdb": {
+                "id": 9008,
+                "original_title": "The Insider",
+                "title": "O Informante",
+                "release_date": "1999-10-28",
+                "backdrop_path": "/2GIr0LArTvO33HQVPEdp49FLdNV.jpg",
+                "poster_path": "/wLIuFuacSTIQyRmwLSbLPESzrGA.jpg",
+                "overview": "Depois de tentar entrevistar o ex-executivo da ind\u00fastria do tabaco Jeffrey Wigand, o experiente produtor de TV Lowell Bergman suspeita que existe uma raz\u00e3o por tr\u00e1s do sil\u00eancio de Wigand. Quando Bergman tenta convencer Wigand a contar os segredos que sabe sobre a ind\u00fastria do tabaco, os dois precisam lidar com os tribunais e as corpora\u00e7\u00f5es para expor a verdade. E Wigand tem de lutar para manter sua vida familiar em meio a a\u00e7\u00f5es judiciais e amea\u00e7as de morte.",
+                "vote_average": 7.5,
+                "vote_count": 1711
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Sixth Sense",
+            "second_label": "Andrew Mondshein",
+            "category": "Film Editing",
+            "year": 2000,
+            "tmdb": {
+                "id": 745,
+                "original_title": "The Sixth Sense",
+                "title": "O Sexto Sentido",
+                "release_date": "1999-08-06",
+                "backdrop_path": "/paUKxrbN2ww0JeT2JtvgAuaGlPf.jpg",
+                "poster_path": "/ds7jw0WYCd6k7hBzMnzgFsTfg96.jpg",
+                "overview": "Dr. Malcolm Crowe \u00e9 um conceituado psic\u00f3logo infantil, que vive atormentado pela terr\u00edvel lembran\u00e7a de um jovem paciente que ele n\u00e3o foi capaz de ajudar. Quando ele encontra Cole Sear, um garoto de 8 anos assustado e confuso, com um problema similar, Dr. Crowe procura redimir seu erro do passado, fazendo tudo que pode pelo menino. Apesar disso, Malcolm n\u00e3o est\u00e1 preparado para descobrir a verdade que aterroriza Cole.",
+                "vote_average": 7.953,
+                "vote_count": 11155
+            },
+            "winner": false
+        }
+    ],
+    "Foreign Language Film": [
+        {
+            "first_label": "All about My Mother",
+            "second_label": "Spain",
+            "category": "Foreign Language Film",
+            "year": 2000,
+            "tmdb": {
+                "id": 99,
+                "original_title": "Todo sobre mi madre",
+                "title": "Tudo Sobre Minha M\u00e3e",
+                "release_date": "1999-04-16",
+                "backdrop_path": "/tilClWjFZeUTGJu0pxgF72fvUmN.jpg",
+                "poster_path": "/h33AlJNC4JsE8gKCJcZ9nDmSz0.jpg",
+                "overview": "Ap\u00f3s a morte de seu amado filho adolescente em um acidente, Roth deixa Madri para Barcelona para lidar com sua dor, ficar com velhos amigos e \u2013 talvez \u2013 entrar em contato com o pai \u2013 distante \u2013 que o menino nunca conheceu.",
+                "vote_average": 7.7,
+                "vote_count": 1788
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Caravan",
+            "second_label": "Nepal",
+            "category": "Foreign Language Film",
+            "year": 2000,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "East-West",
+            "second_label": "France",
+            "category": "Foreign Language Film",
+            "year": 2000,
+            "tmdb": {
+                "id": 28463,
+                "original_title": "Est-Ouest",
+                "title": "East/West",
+                "release_date": "1999-09-01",
+                "backdrop_path": "/hBexByVqQYAkgihzsKSVBTtDlwO.jpg",
+                "poster_path": "/c1Uf4HC5WEcssVoOm48Bfzn7Wmk.jpg",
+                "overview": "June 1946: Stalin invites Russian emigres to return to the motherland. It's a trap: when a ship-load from France arrives in Odessa, only a physician and his family are spared execution or prison. He and his French wife (her passport ripped up) are sent to Kiev. She wants to return to France immediately; he knows that they are captives and must watch every step.",
+                "vote_average": 6.6,
+                "vote_count": 60
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Solomon and Gaenor",
+            "second_label": "United Kingdom",
+            "category": "Foreign Language Film",
+            "year": 2000,
+            "tmdb": {
+                "id": 81517,
+                "original_title": "Solomon and Gaenor",
+                "title": "Solomon and Gaenor",
+                "release_date": "1999-04-30",
+                "backdrop_path": "/du8vCvkBBLDJtN8qdU5npmvMxP.jpg",
+                "poster_path": "/r6gpjGinYKoJxZyMqXiOGRmDxLZ.jpg",
+                "overview": "A young Jew in 1911 Wales tries to make his living by selling fabrics door to door, but to do so he must hide his nationality. On one of his sales he meets and falls in love with a demure young woman with a strong-willed father and a Jew-hating brother. The two fall in love and she becomes pregnant, but only then does she learn of his ethnic background. When anti-Jewish riots break out, the two are forced to flee and become separated.",
+                "vote_average": 6.0,
+                "vote_count": 14
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Under the Sun",
+            "second_label": "Sweden",
+            "category": "Foreign Language Film",
+            "year": 2000,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Irving G. Thalberg Memorial Award": [
+        {
+            "first_label": "",
+            "second_label": "Warren Beatty",
+            "category": "Irving G. Thalberg Memorial Award",
+            "year": 2000,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        }
+    ],
+    "Makeup": [
+        {
+            "first_label": "Topsy-Turvy",
+            "second_label": "Christine Blundell, Trefor Proud",
+            "category": "Makeup",
+            "year": 2000,
+            "tmdb": {
+                "id": 46435,
+                "original_title": "Topsy-Turvy",
+                "title": "Topsy-Turvy",
+                "release_date": "1999-12-15",
+                "backdrop_path": "/lBk6VjaqbjU2T8wxiXW1zUh6M9r.jpg",
+                "poster_path": "/qAH3gsnQV25NQ2GpO3b7nDcVtkM.jpg",
+                "overview": "After their production \"Princess Ida\" meets with less-than-stunning reviews, the relationship between Gilbert and Sullivan is strained to breaking. Their friends and associates attempt to get the two to work together again, which opens the way to \"The Mikado,\" one of the duo's greatest successes.",
+                "vote_average": 6.6,
+                "vote_count": 134
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Austin Powers: The Spy Who Shagged Me",
+            "second_label": "\"Austin Powers: The Spy Who Shagged Me\" Michle Burke, Mike Smithson",
+            "category": "Makeup",
+            "year": 2000,
+            "tmdb": {
+                "id": 817,
+                "original_title": "Austin Powers: The Spy Who Shagged Me",
+                "title": "Austin Powers: O Agente Bond Cama",
+                "release_date": "1999-06-08",
+                "backdrop_path": "/edg3mPp97KLhHjEWwKMrugaASv3.jpg",
+                "poster_path": "/vQmHzk8pBiCm3ClXznRmz7Vn0Cw.jpg",
+                "overview": "Em sua segunda aventura na tela, o super espi\u00e3o brit\u00e2nico Austin Powers retorna a 1969 porque o seu arqui-inimigo Dr. Evil voltou no tempo ap\u00f3s ter roubado o mojo de Austin e criado um laser poderoso que est\u00e1 apontado para \u00e0 Terra. Com a ajuda da bela agente Felicity Shagwell, o rec\u00e9m-solteiro Austin deve agora n\u00e3o s\u00f3 lidar com Dr. Evil, mas tamb\u00e9m com o maldoso e min\u00fasculo Mini-Me.",
+                "vote_average": 6.3,
+                "vote_count": 3157
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Bicentennial Man",
+            "second_label": "Greg Cannom",
+            "category": "Makeup",
+            "year": 2000,
+            "tmdb": {
+                "id": 2277,
+                "original_title": "Bicentennial Man",
+                "title": "O Homem Bicenten\u00e1rio",
+                "release_date": "1999-12-17",
+                "backdrop_path": "/druc9hHkLeMtb0fYf7WTfHXWk6G.jpg",
+                "poster_path": "/9WEqZFMqi92KyweBbbNCwV8fDzp.jpg",
+                "overview": "Por volta de 2005, cada lar ter\u00e1 um NDR-114, um rob\u00f4 dom\u00e9stico projetado para servir os humanos. Como qualquer utens\u00edlio dom\u00e9stico, como todo homem-m\u00e1quina, os NDRs s\u00e3o exatamente iguais. Todos menos um... Existe algo diferente em Andrew... Um brilho especial, uma personalidade \u00fanica, algo assim... Humano.",
+                "vote_average": 7.2,
+                "vote_count": 3467
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Life",
+            "second_label": "Rick Baker",
+            "category": "Makeup",
+            "year": 2000,
+            "tmdb": {
+                "id": 6522,
+                "original_title": "Life",
+                "title": "At\u00e9 Que A Fuga Os Separe",
+                "release_date": "1999-04-16",
+                "backdrop_path": "/ahTEWXSPLJT35Zozq3IrUyRzii9.jpg",
+                "poster_path": "/nzkqudQHddBc4pOfJzjwHW2Me96.jpg",
+                "overview": "Ray Gibson (Eddie Murphy) e Claude Banks (Martin Lawrence) vivem de pequenos golpes. Certa noite, aceitam transportar ilegalmente um carregamento de bebida destilada para ganhar uns trocados, mas s\u00e3o parados pela pol\u00edcia e terminam caindo numa armadilha. Acusados de assassinato, ganham pena de pris\u00e3o perp\u00e9tua. O filme acompanha ent\u00e3o as desventuras da dupla dentro da pris\u00e3o durante 65 anos.",
+                "vote_average": 6.633,
+                "vote_count": 722
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Score)": [
+        {
+            "first_label": "The Red Violin",
+            "second_label": "John Corigliano",
+            "category": "Music (Original Score)",
+            "year": 2000,
+            "tmdb": {
+                "id": 14283,
+                "original_title": "Le Violon rouge",
+                "title": "O Violino Vermelho",
+                "release_date": "1998-09-10",
+                "backdrop_path": "/2EVSly7OY3yjobLdNYDIP5qCoQZ.jpg",
+                "poster_path": "/dnU8nB2NffHJtMT0vqmrBxruH9n.jpg",
+                "overview": "Em 1681 um artes\u00e3o italiano, reconhecido pela qualidade dos violinos que constru\u00eda, faz sua obra-prima para presentear o filho que estava prestes a nascer. Sua esposa acaba morrendo no parto, e inconformado, o artes\u00e3o doa o instrumento para um orfanato. Mais de 300 anos depois v\u00e1rias pessoas est\u00e3o num leil\u00e3o disputando o instrumento, e o filme percorre ent\u00e3o a sua hist\u00f3ria, desde a doa\u00e7\u00e3o at\u00e9 o leil\u00e3o.",
+                "vote_average": 7.4,
+                "vote_count": 391
+            },
+            "winner": true
+        },
+        {
+            "first_label": "American Beauty",
+            "second_label": "Thomas Newman",
+            "category": "Music (Original Score)",
+            "year": 2000,
+            "tmdb": {
+                "id": 14,
+                "original_title": "American Beauty",
+                "title": "Beleza Americana",
+                "release_date": "1999-09-15",
+                "backdrop_path": "/DztBnZaqmla2sGUW9s8AyOmskT.jpg",
+                "poster_path": "/9PJKsH7Btz2xjYIvLLtJ7qcJlL3.jpg",
+                "overview": "Lester Burham n\u00e3o aguenta mais o emprego e se sente impotente perante sua vida. Casado com Carolyn e pai da \"aborrecente\" Jane, o melhor momento de seu dia quando se masturba no chuveiro. At\u00e9 que conhece Angela Hayes, amiga de Jane. Encantado com sua beleza e disposto a dar a volta por cima, Lester pede demiss\u00e3o e come\u00e7a a reconstruir sua vida, com a ajuda de seu vizinho Ricky.",
+                "vote_average": 8.0,
+                "vote_count": 11619
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Angela's Ashes",
+            "second_label": "John Williams",
+            "category": "Music (Original Score)",
+            "year": 2000,
+            "tmdb": {
+                "id": 10397,
+                "original_title": "Angela's Ashes",
+                "title": "As Cinzas de \u00c2ngela",
+                "release_date": "1999-12-25",
+                "backdrop_path": "/oKNe6Ids29lqvG6PFc4qxlB3j1R.jpg",
+                "poster_path": "/3Zzcys11nAPP14sKW9l97fIHhkK.jpg",
+                "overview": "Based on the best selling autobiography by Irish expat Frank McCourt, Angela's Ashes follows the experiences of young Frankie and his family as they try against all odds to escape the poverty endemic in the slums of pre-war Limerick. The film opens with the family in Brooklyn, but following the death of one of Frankie's siblings, they return home, only to find the situation there even worse. Prejudice against Frankie's Northern Irish father makes his search for employment in the Republic difficult despite his having fought for the IRA, and when he does find money, he spends the money on drink.",
+                "vote_average": 7.2,
+                "vote_count": 285
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Cider House Rules",
+            "second_label": "Rachel Portman",
+            "category": "Music (Original Score)",
+            "year": 2000,
+            "tmdb": {
+                "id": 1715,
+                "original_title": "The Cider House Rules",
+                "title": "Regras da Vida",
+                "release_date": "1999-12-17",
+                "backdrop_path": "/h2ARbAQTzkKlHhLjHNDY3c9HeyE.jpg",
+                "poster_path": "/8M8j2lwtm59ytUuPgtVpu2Yn9xD.jpg",
+                "overview": "Homer (Tobey Maguire) \u00e9 um garoto \u00f3rf\u00e3o que passa a ter um m\u00e9dico (Michael Caine) como mentor. O m\u00e9dico ensina a ele tudo o que sabe sobre medicina e o que um pai deveria ensinar. Agora, Homer se apaixona por Kendall (Charlize Theron) e tem que lidar com as dificuldades da vida.",
+                "vote_average": 7.0,
+                "vote_count": 1100
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Talented Mr. Ripley",
+            "second_label": "Gabriel Yared",
+            "category": "Music (Original Score)",
+            "year": 2000,
+            "tmdb": {
+                "id": 1213,
+                "original_title": "The Talented Mr. Ripley",
+                "title": "O Talentoso Ripley",
+                "release_date": "1999-12-25",
+                "backdrop_path": "/nGVe984XESYhn5V5zspqQexPekA.jpg",
+                "poster_path": "/OXKtnDkIB2qRFOmkR63hQaziWR.jpg",
+                "overview": "Ser um jovem rico no ensolarado sul da It\u00e1lia \u00e9 a vida que Tom Ripley quer ter e que Dickie Greenleaf j\u00e1 tem. Ripley \u00e9 contratado pelo pai de Dickie para convenc\u00ea-lo a voltar para casa e para sua fam\u00edlia, nos Estados Unidos. Ao chegar na It\u00e1lia, Ripley se encanta com o estilo de vida do rapaz e far\u00e1 de tudo para ter uma vida igual. Tudo! Ripley n\u00e3o se det\u00e9m diante de nada, nem mesmo do crime, para realizar seu sonho de se transformar em outra pessoa.",
+                "vote_average": 7.186,
+                "vote_count": 3448
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Song)": [
+        {
+            "first_label": "Tarzan",
+            "second_label": "You'll Be In My Heart in \"Tarzan\" Music and Lyric by Phil Collins",
+            "category": "Music (Original Song)",
+            "year": 2000,
+            "tmdb": {
+                "id": 37135,
+                "original_title": "Tarzan",
+                "title": "Tarzan",
+                "release_date": "1999-06-18",
+                "backdrop_path": "/86z1Yrwj7yN1xehSa0gIwHnR7xl.jpg",
+                "poster_path": "/ce4mU4yyubjP1uXcz48fMndCZni.jpg",
+                "overview": "Um beb\u00ea perde os pais na selva. \u00d3rf\u00e3o e sozinho, ele \u00e9 encontrado por uma macaca que o cria como se fosse seu pr\u00f3prio filho. Tarzan cresce pensando ser um gorila, agindo e vivendo como tal. Quando uma equipe de pesquisadores chega \u00e0 floresta, o rapaz percebe que \u00e9 igual a eles. Tarzan encontra a bela Jane correndo perigo e a salva, apaixonando-se por ela. Ele se v\u00ea dividido entre o desejo de estar com gente da sua esp\u00e9cie e a lealdade com a fam\u00edlia de gorilas que o criou.",
+                "vote_average": 7.406,
+                "vote_count": 6469
+            },
+            "winner": true
+        },
+        {
+            "first_label": "South Park: Bigger, Longer & Uncut",
+            "second_label": "Blame Canada in \"South Park: Bigger, Longer & Uncut\" Music and Lyric by Trey Parker and Marc Shaiman",
+            "category": "Music (Original Song)",
+            "year": 2000,
+            "tmdb": {
+                "id": 9473,
+                "original_title": "South Park: Bigger, Longer & Uncut",
+                "title": "South Park: Maior, Melhor e Sem Cortes",
+                "release_date": "1999-06-30",
+                "backdrop_path": "/2q3B90h2hZ6xJTvna9CIFDNaIr4.jpg",
+                "poster_path": "/16ECNyTfEOfE49gFdrutZfGFd9x.jpg",
+                "overview": "Fama, autoridade, m\u00fasica, militarismo, ra\u00e7a, sexo e religi\u00e3o, esses s\u00e3o alguns dos ingredientes usados pelos criadores de South Park, nesse longa metragem que mergulha os Estados Unidos numa guerra com o Canad\u00e1. Tudo come\u00e7a quando um grupo de estudantes de South Park, conseguem assistir um filme canadense proibido para menores. Os pais das crian\u00e7as ficam chocados com o efeito que o filme causa na mente de seus inocentes filhos e exigem que uma pequena cidade serrana, no Colorado, os ou\u00e7a. Talvez voc\u00ea possa se ofender, ou quem sabe esse filme possa fazer voc\u00ea rir mais do que qualquer outra com\u00e9dia recente.",
+                "vote_average": 7.3,
+                "vote_count": 2556
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Music of the Heart",
+            "second_label": "Music Of My Heart in \"Music of the Heart\" Music and Lyric by Diane Warren",
+            "category": "Music (Original Song)",
+            "year": 2000,
+            "tmdb": {
+                "id": 26149,
+                "original_title": "Music of the Heart",
+                "title": "M\u00fasica do Cora\u00e7\u00e3o",
+                "release_date": "1999-10-29",
+                "backdrop_path": "/1RQj9GlPMU1iHoGVDal3G5NOQRF.jpg",
+                "poster_path": "/maqYjELEaeCr3EtN7KNLTAwycS5.jpg",
+                "overview": "A hist\u00f3ria da luta de uma professora (Roberta Guaspari) para ensinar violino para crian\u00e7as no Harlem em NY.",
+                "vote_average": 6.7,
+                "vote_count": 201
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Magnolia",
+            "second_label": "Save Me in \"Magnolia\" Music and Lyric by Aimee Mann",
+            "category": "Music (Original Song)",
+            "year": 2000,
+            "tmdb": {
+                "id": 334,
+                "original_title": "Magnolia",
+                "title": "Magn\u00f3lia",
+                "release_date": "1999-12-10",
+                "backdrop_path": "/fdMZRDhjQDwkNjpKrFN87D9NA8i.jpg",
+                "poster_path": "/fzdTiUQ8Qzft7TJRcH8OUPQvutA.jpg",
+                "overview": "Um dia em San Fernando Valley, na Calif\u00f3rnia, nos arredores da rua Magn\u00f3lia, as vidas de nove personagens s\u00e3o interligadas atrav\u00e9s de um programa de televis\u00e3o onde um grupo de tr\u00eas crian\u00e7as desafia tr\u00eas adultos, cujas hist\u00f3rias se cruzam por coincid\u00eancias do destino.",
+                "vote_average": 7.7,
+                "vote_count": 3376
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Toy Story 2",
+            "second_label": "When She Loved Me in \"Toy Story 2\" Music and Lyric by Randy Newman",
+            "category": "Music (Original Song)",
+            "year": 2000,
+            "tmdb": {
+                "id": 863,
+                "original_title": "Toy Story 2",
+                "title": "Toy Story 2",
+                "release_date": "1999-10-30",
+                "backdrop_path": "/91qfG6VaxRsCh1SbIi1w2vxknsL.jpg",
+                "poster_path": "/yjzb9ojVSEw9vg5kp22ijPKXyMF.jpg",
+                "overview": "Quando Andy viaja para um acampamento de ver\u00e3o, Woody \u00e9 sequestrado por Al, um ambiocioso colecionador, que precisa do brinquedo favorito de Andy para completar sua cole\u00e7\u00e3o da Gangue do Rodeio. Junto com Jessie, Bala no Alvo e Mineiro, Woody corre o risco de ter que passar o resto de sua vida em exposi\u00e7\u00e3o num museu. Agora, Buzz, Sr. Cabe\u00e7a de Batata, Porquinho, Rex e Slinky ter\u00e3o que salvar seu amigo e traz\u00ea-lo de volta \u00e0 vida de brinquedos.",
+                "vote_average": 7.6,
+                "vote_count": 13314
+            },
+            "winner": false
+        }
+    ],
+    "Best Picture": [
+        {
+            "first_label": "American Beauty",
+            "second_label": "Bruce Cohen and Dan Jinks, Producers",
+            "category": "Best Picture",
+            "year": 2000,
+            "tmdb": {
+                "id": 14,
+                "original_title": "American Beauty",
+                "title": "Beleza Americana",
+                "release_date": "1999-09-15",
+                "backdrop_path": "/DztBnZaqmla2sGUW9s8AyOmskT.jpg",
+                "poster_path": "/9PJKsH7Btz2xjYIvLLtJ7qcJlL3.jpg",
+                "overview": "Lester Burham n\u00e3o aguenta mais o emprego e se sente impotente perante sua vida. Casado com Carolyn e pai da \"aborrecente\" Jane, o melhor momento de seu dia quando se masturba no chuveiro. At\u00e9 que conhece Angela Hayes, amiga de Jane. Encantado com sua beleza e disposto a dar a volta por cima, Lester pede demiss\u00e3o e come\u00e7a a reconstruir sua vida, com a ajuda de seu vizinho Ricky.",
+                "vote_average": 8.0,
+                "vote_count": 11619
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Cider House Rules",
+            "second_label": "Richard N. Gladstein, Producer",
+            "category": "Best Picture",
+            "year": 2000,
+            "tmdb": {
+                "id": 1715,
+                "original_title": "The Cider House Rules",
+                "title": "Regras da Vida",
+                "release_date": "1999-12-17",
+                "backdrop_path": "/h2ARbAQTzkKlHhLjHNDY3c9HeyE.jpg",
+                "poster_path": "/8M8j2lwtm59ytUuPgtVpu2Yn9xD.jpg",
+                "overview": "Homer (Tobey Maguire) \u00e9 um garoto \u00f3rf\u00e3o que passa a ter um m\u00e9dico (Michael Caine) como mentor. O m\u00e9dico ensina a ele tudo o que sabe sobre medicina e o que um pai deveria ensinar. Agora, Homer se apaixona por Kendall (Charlize Theron) e tem que lidar com as dificuldades da vida.",
+                "vote_average": 7.0,
+                "vote_count": 1100
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Green Mile",
+            "second_label": "David Valdes and Frank Darabont, Producers",
+            "category": "Best Picture",
+            "year": 2000,
+            "tmdb": {
+                "id": 497,
+                "original_title": "The Green Mile",
+                "title": "\u00c0 Espera de um Milagre",
+                "release_date": "1999-12-10",
+                "backdrop_path": "/vxJ08SvwomfKbpboCWynC3uqUg4.jpg",
+                "poster_path": "/14hEqW67IiHlKpzKMLUXyktzZIV.jpg",
+                "overview": "Milagres acontecem em lugares inesperados, mesmo no bloco de celas para o corredor da morte na Penitenci\u00e1ria Cold Mountain. L\u00e1, John Coffey, um gentil e gigante prisioneiro com poderes sobrenaturais, traz um senso de esp\u00edrito e humanidade aos seus guardas e colegas de cela.",
+                "vote_average": 8.507,
+                "vote_count": 16650
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Insider",
+            "second_label": "Michael Mann and Pieter Jan Brugge, Producers",
+            "category": "Best Picture",
+            "year": 2000,
+            "tmdb": {
+                "id": 9008,
+                "original_title": "The Insider",
+                "title": "O Informante",
+                "release_date": "1999-10-28",
+                "backdrop_path": "/2GIr0LArTvO33HQVPEdp49FLdNV.jpg",
+                "poster_path": "/wLIuFuacSTIQyRmwLSbLPESzrGA.jpg",
+                "overview": "Depois de tentar entrevistar o ex-executivo da ind\u00fastria do tabaco Jeffrey Wigand, o experiente produtor de TV Lowell Bergman suspeita que existe uma raz\u00e3o por tr\u00e1s do sil\u00eancio de Wigand. Quando Bergman tenta convencer Wigand a contar os segredos que sabe sobre a ind\u00fastria do tabaco, os dois precisam lidar com os tribunais e as corpora\u00e7\u00f5es para expor a verdade. E Wigand tem de lutar para manter sua vida familiar em meio a a\u00e7\u00f5es judiciais e amea\u00e7as de morte.",
+                "vote_average": 7.5,
+                "vote_count": 1711
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Sixth Sense",
+            "second_label": "Frank Marshall, Kathleen Kennedy and Barry Mendel, Producers",
+            "category": "Best Picture",
+            "year": 2000,
+            "tmdb": {
+                "id": 745,
+                "original_title": "The Sixth Sense",
+                "title": "O Sexto Sentido",
+                "release_date": "1999-08-06",
+                "backdrop_path": "/paUKxrbN2ww0JeT2JtvgAuaGlPf.jpg",
+                "poster_path": "/ds7jw0WYCd6k7hBzMnzgFsTfg96.jpg",
+                "overview": "Dr. Malcolm Crowe \u00e9 um conceituado psic\u00f3logo infantil, que vive atormentado pela terr\u00edvel lembran\u00e7a de um jovem paciente que ele n\u00e3o foi capaz de ajudar. Quando ele encontra Cole Sear, um garoto de 8 anos assustado e confuso, com um problema similar, Dr. Crowe procura redimir seu erro do passado, fazendo tudo que pode pelo menino. Apesar disso, Malcolm n\u00e3o est\u00e1 preparado para descobrir a verdade que aterroriza Cole.",
+                "vote_average": 7.953,
+                "vote_count": 11155
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Animated)": [
+        {
+            "first_label": "The Old Man and the Sea",
+            "second_label": "Alexander Petrov",
+            "category": "Short Film (Animated)",
+            "year": 2000,
+            "tmdb": {
+                "id": 38577,
+                "original_title": "\u0421\u0442\u0430\u0440\u0438\u043a \u0438 \u043c\u043e\u0440\u0435",
+                "title": "O Velho e o Mar",
+                "release_date": "1999-07-03",
+                "backdrop_path": "/mCcdLbGIve1RLGir7yJ9ACy2L7D.jpg",
+                "poster_path": "/fvzw2rXqSObcBc1RAIWYW7CzLuj.jpg",
+                "overview": "Sem conseguir fisgar um peixe h\u00e1 quase tr\u00eas meses, o velho Santiago resolve enfrentar o alto-mar sozinho para provar aos outros e a si mesmo que ainda \u00e9 um bom pescador. Quando se depara com um marlim gigante, ele v\u00ea sua m\u00e1 sorte mudar, imergindo numa jornada de lutas e sonhos para pesc\u00e1-lo.",
+                "vote_average": 7.6,
+                "vote_count": 145
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Humdrum",
+            "second_label": "Peter Peake",
+            "category": "Short Film (Animated)",
+            "year": 2000,
+            "tmdb": {
+                "id": 209969,
+                "original_title": "Humdrum",
+                "title": "Humdrum",
+                "release_date": "1999-07-24",
+                "backdrop_path": "/5LSp5nQYzoeWyVcan9VXdIbaQse.jpg",
+                "poster_path": "/iRIUUQXZ3rTuika8IxRHWl28MMR.jpg",
+                "overview": "Two very bored shadowy characters try to think of something to do--and end up playing \"Shadow Puppets.\"",
+                "vote_average": 6.6,
+                "vote_count": 12
+            },
+            "winner": false
+        },
+        {
+            "first_label": "My Grandmother Ironed the King's Shirts",
+            "second_label": "Torill Kove",
+            "category": "Short Film (Animated)",
+            "year": 2000,
+            "tmdb": {
+                "id": 215509,
+                "original_title": "Min bestemor str\u00f8k kongens skjorter",
+                "title": "My Grandmother Ironed the King's Shirts",
+                "release_date": "1999-01-01",
+                "backdrop_path": "/sj7HLtZEmF9KX61Pg7Bbuj5aAKe.jpg",
+                "poster_path": "/8XnWTKY4GHpz0AioAIPZp29NvYF.jpg",
+                "overview": "A personal interpretation of Norwegian history - starring a grandmother who during the Second World War loses her job ironing the King's shirts. Instead she gains access to the enemy's uniforms, and inspires her own brand of resistance fighters, the \"Shirt Guerillas\".",
+                "vote_average": 6.2,
+                "vote_count": 13
+            },
+            "winner": false
+        },
+        {
+            "first_label": "3 Misses",
+            "second_label": "Paul Driessen",
+            "category": "Short Film (Animated)",
+            "year": 2000,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "When the Day Breaks",
+            "second_label": "Wendy Tilby, Amanda Forbis",
+            "category": "Short Film (Animated)",
+            "year": 2000,
+            "tmdb": {
+                "id": 160332,
+                "original_title": "When the Day Breaks",
+                "title": "When the Day Breaks",
+                "release_date": "1999-02-21",
+                "backdrop_path": "/tewpmpIX9lYY4PAfW3rrKSFIz8o.jpg",
+                "poster_path": "/mbtZLfZnmUQbfE76iAz11t8XNAS.jpg",
+                "overview": "A rooster has his last biscuit for breakfast and goes grocery shopping. A pig prepares her breakfast (potato peelings, with the potatoes thrown in the trash) and discovers she needs more milk. Their paths cross, a lemon falls into the sewer, and both lives are changed.",
+                "vote_average": 6.8,
+                "vote_count": 40
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Live Action)": [
+        {
+            "first_label": "My Mother Dreams the Satan's Disciples in New York",
+            "second_label": "Barbara Schock, Tammy Tiehel",
+            "category": "Short Film (Live Action)",
+            "year": 2000,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Bror, Min Bror (Teis and Nico)",
+            "second_label": "Henrik Ruben Genz, Michael W. Horsten",
+            "category": "Short Film (Live Action)",
+            "year": 2000,
+            "tmdb": {
+                "id": 244943,
+                "original_title": "Bror, min bror",
+                "title": "Theis and Nico",
+                "release_date": "1999-02-12",
+                "backdrop_path": "/2FNF7fWVnEOeYYKTlCAqZTT6EFo.jpg",
+                "poster_path": "/1hvLAF7ZyQ2nrv0pN9T4XJ4ohka.jpg",
+                "overview": "The two brothers Teis and Nico find a poster from \"Gone with the Wind\" and they start talking about why people kiss and the techniques behind it. Later they meet Giinjha and she invites them to her birthday-party. While they are preparing to go to the party they rehearse how to kiss in the way the poster suggested because Teis has announced that he is in love with Giinjha and will kiss her even though he is not comfortable about it.",
+                "vote_average": 7.8,
+                "vote_count": 5
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Killing Joe",
+            "second_label": "Mehdi Norowzian, Steve Wax",
+            "category": "Short Film (Live Action)",
+            "year": 2000,
+            "tmdb": {
+                "id": 244945,
+                "original_title": "Killing Joe",
+                "title": "Killing Joe",
+                "release_date": "1999-06-14",
+                "backdrop_path": null,
+                "poster_path": "/cvlvMdLFMklzjEBbd0PAQ6wkK5B.jpg",
+                "overview": "Killing Joe is a 1999 short film directed by Mehdi Norowzian. In 1963, teenager Joe is fascinated by John F. Kennedy, whose initials he shares. The film was nominated for an Oscar for Best Live Action Short Film.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Kleingeld (Small Change)",
+            "second_label": "Marc-Andreas Bochert, Gabriele Lins",
+            "category": "Short Film (Live Action)",
+            "year": 2000,
+            "tmdb": {
+                "id": 244946,
+                "original_title": "Kleingeld",
+                "title": "Small Change",
+                "release_date": "1999-12-31",
+                "backdrop_path": null,
+                "poster_path": "/gnOAFHuRyaawHx1Uqkcfvx4QJF0.jpg",
+                "overview": "Herr Hoffman parks his late-model car in a lot across from his corner office on the top floor. Each day, he puts a coin in the cup of a beggar who stands in front of the building. One day, Hoffman looks out his window and notices the beggar washing his car - no one else's in the lot, just Hoffmann's. That evening, when he gives the beggar a coin, Hoffmann tells him not the wash it. But the next day, it happens again. On the third morning, Hoffman drives his car back and forth in a mud puddle; the beggar washes it carefully. That evening, Hoffman has no change and no small bills, only 100 DM. He tries to evade the beggar, who gives chase, cane and all. More than wills collide.",
+                "vote_average": 6.7,
+                "vote_count": 7
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Major and Minor Miracles",
+            "second_label": "Marcus Olsson",
+            "category": "Short Film (Live Action)",
+            "year": 2000,
+            "tmdb": {
+                "id": 244948,
+                "original_title": "Stora & sm\u00e5 mirakel",
+                "title": "Major and Minor Miracles",
+                "release_date": "1999-10-15",
+                "backdrop_path": null,
+                "poster_path": "/n9M49SEMLMaiNTrYFgM3TUttBkO.jpg",
+                "overview": "Miracles, in Sweden? A village curate with paltry attendance at his services gets a call one Sunday in December to meet an emissary from the Vatican who has come to test a child for special powers (he's the young son of a farming couple in the curate's parish; he's come to the Vatican's attention via a roundabout chain of odd events). The curate takes the visitor to the farm, convinced that nothing is out of the ordinary. Then, event by event, the curate comes to think otherwise and must figure out a way to save the child from a life in Rome. Are miracles afoot? The very fact the curate's car starts in mid-winter may be a sign of things to come.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        }
+    ],
+    "Sound": [
+        {
+            "first_label": "The Matrix",
+            "second_label": "John Reitz, Gregg Rudloff, David Campbell, David Lee",
+            "category": "Sound",
+            "year": 2000,
+            "tmdb": {
+                "id": 603,
+                "original_title": "The Matrix",
+                "title": "Matrix",
+                "release_date": "1999-03-31",
+                "backdrop_path": "/8K9qHeM6G6QjQN0C5XKFGvK5lzM.jpg",
+                "poster_path": "/lDqMDI3xpbB9UQRyeXfei0MXhqb.jpg",
+                "overview": "Em um futuro pr\u00f3ximo, Thomas Anderson (Keanu Reeves), um jovem programador de computador que mora em um cub\u00edculo escuro, \u00e9 atormentado por estranhos pesadelos nos quais encontra-se conectado por cabos e contra sua vontade, em um imenso sistema de computadores do futuro. Em todas essas ocasi\u00f5es, acorda gritando no exato momento em que os eletrodos est\u00e3o para penetrar em seu c\u00e9rebro. \u00c0 medida que o sonho se repete, Anderson come\u00e7a a ter d\u00favidas sobre a realidade. Por meio do encontro com os misteriosos Morpheus (Laurence Fishburne) e Trinity (Carrie-Anne Moss), Thomas descobre que \u00e9, assim como outras pessoas, v\u00edtima do Matrix, um sistema inteligente e artificial que manipula a mente das pessoas, criando a ilus\u00e3o de um mundo real enquanto usa os c\u00e9rebros e corpos dos indiv\u00edduos para produzir energia. Morpheus, entretanto, est\u00e1 convencido de que Thomas \u00e9 Neo, o aguardado messias capaz de enfrentar o Matrix e conduzir as pessoas de volta \u00e0 realidade e \u00e0 liberdade.",
+                "vote_average": 8.214,
+                "vote_count": 24660
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Green Mile",
+            "second_label": "Robert J. Litt, Elliot Tyson, Michael Herbick, Willie D. Burton",
+            "category": "Sound",
+            "year": 2000,
+            "tmdb": {
+                "id": 497,
+                "original_title": "The Green Mile",
+                "title": "\u00c0 Espera de um Milagre",
+                "release_date": "1999-12-10",
+                "backdrop_path": "/vxJ08SvwomfKbpboCWynC3uqUg4.jpg",
+                "poster_path": "/14hEqW67IiHlKpzKMLUXyktzZIV.jpg",
+                "overview": "Milagres acontecem em lugares inesperados, mesmo no bloco de celas para o corredor da morte na Penitenci\u00e1ria Cold Mountain. L\u00e1, John Coffey, um gentil e gigante prisioneiro com poderes sobrenaturais, traz um senso de esp\u00edrito e humanidade aos seus guardas e colegas de cela.",
+                "vote_average": 8.507,
+                "vote_count": 16650
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Insider",
+            "second_label": "Andy Nelson, Doug Hemphill, Lee Orloff",
+            "category": "Sound",
+            "year": 2000,
+            "tmdb": {
+                "id": 9008,
+                "original_title": "The Insider",
+                "title": "O Informante",
+                "release_date": "1999-10-28",
+                "backdrop_path": "/2GIr0LArTvO33HQVPEdp49FLdNV.jpg",
+                "poster_path": "/wLIuFuacSTIQyRmwLSbLPESzrGA.jpg",
+                "overview": "Depois de tentar entrevistar o ex-executivo da ind\u00fastria do tabaco Jeffrey Wigand, o experiente produtor de TV Lowell Bergman suspeita que existe uma raz\u00e3o por tr\u00e1s do sil\u00eancio de Wigand. Quando Bergman tenta convencer Wigand a contar os segredos que sabe sobre a ind\u00fastria do tabaco, os dois precisam lidar com os tribunais e as corpora\u00e7\u00f5es para expor a verdade. E Wigand tem de lutar para manter sua vida familiar em meio a a\u00e7\u00f5es judiciais e amea\u00e7as de morte.",
+                "vote_average": 7.5,
+                "vote_count": 1711
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Mummy",
+            "second_label": "Leslie Shatz, Chris Carpenter, Rick Kline, Chris Munro",
+            "category": "Sound",
+            "year": 2000,
+            "tmdb": {
+                "id": 564,
+                "original_title": "The Mummy",
+                "title": "A M\u00famia",
+                "release_date": "1999-04-16",
+                "backdrop_path": "/nCd8G7C5mbiABQuATgos1OeAshu.jpg",
+                "poster_path": "/x9WtRo3zf7p3K7ERdlpqlRgtYU6.jpg",
+                "overview": "Em 1926, um grupo de arque\u00f3logos descobre uma tumba na cidade perdida de Hamunaptra. Dentro da tumba \u00e9 encontrado o corpo de Imhotep (Arnold Vosloo), o sacerdote do Fara\u00f3 Seti (Aharon Ipal\u00e9), que foi mumificado vivo al\u00e9m de ter recebido a mais terr\u00edvel das maldi\u00e7\u00f5es por ter dormido com a amante do fara\u00f3 e, movido por ci\u00fame doentio e amor, ter matado o Fara\u00f3. No entanto, quando um dos membros da expedi\u00e7\u00e3o l\u00ea um manuscrito que foi encontrado pelo grupo e traz Imhotep de volta vida, ele ressurge cheio de \u00f3dio e s\u00f3 pensa em reencontrar sua amada e destruir todos que cruzem o seu caminho, trazendo consigo as dez pragas do Egito.",
+                "vote_average": 6.921,
+                "vote_count": 8645
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Star Wars Episode I: The Phantom Menace",
+            "second_label": "Gary Rydstrom, Tom Johnson, Shawn Murphy, John Midgley",
+            "category": "Sound",
+            "year": 2000,
+            "tmdb": {
+                "id": 1893,
+                "original_title": "Star Wars: Episode I - The Phantom Menace",
+                "title": "Star Wars: Epis\u00f3dio I - A Amea\u00e7a Fantasma",
+                "release_date": "1999-05-19",
+                "backdrop_path": "/sQUiouw94zhoG6LDEj9h8cPb61N.jpg",
+                "poster_path": "/gNk8UNAumXlfCdtaxDqsQe7ZGlt.jpg",
+                "overview": "Enquanto resgatam a Rainha Amidala, governante de um planeta pac\u00edfico invadido por for\u00e7as amea\u00e7adoras, os Cavaleiros Jedi Obi-Wan Kenobi e Qui-Gon Jinn descobrem Anakin Skywalker, uma crian\u00e7a prod\u00edgio de 9 anos excepcionalmente poderosa na For\u00e7a.",
+                "vote_average": 6.543,
+                "vote_count": 14006
+            },
+            "winner": false
+        }
+    ],
+    "Sound Effects Editing": [
+        {
+            "first_label": "The Matrix",
+            "second_label": "Dane A. Davis",
+            "category": "Sound Effects Editing",
+            "year": 2000,
+            "tmdb": {
+                "id": 603,
+                "original_title": "The Matrix",
+                "title": "Matrix",
+                "release_date": "1999-03-31",
+                "backdrop_path": "/8K9qHeM6G6QjQN0C5XKFGvK5lzM.jpg",
+                "poster_path": "/lDqMDI3xpbB9UQRyeXfei0MXhqb.jpg",
+                "overview": "Em um futuro pr\u00f3ximo, Thomas Anderson (Keanu Reeves), um jovem programador de computador que mora em um cub\u00edculo escuro, \u00e9 atormentado por estranhos pesadelos nos quais encontra-se conectado por cabos e contra sua vontade, em um imenso sistema de computadores do futuro. Em todas essas ocasi\u00f5es, acorda gritando no exato momento em que os eletrodos est\u00e3o para penetrar em seu c\u00e9rebro. \u00c0 medida que o sonho se repete, Anderson come\u00e7a a ter d\u00favidas sobre a realidade. Por meio do encontro com os misteriosos Morpheus (Laurence Fishburne) e Trinity (Carrie-Anne Moss), Thomas descobre que \u00e9, assim como outras pessoas, v\u00edtima do Matrix, um sistema inteligente e artificial que manipula a mente das pessoas, criando a ilus\u00e3o de um mundo real enquanto usa os c\u00e9rebros e corpos dos indiv\u00edduos para produzir energia. Morpheus, entretanto, est\u00e1 convencido de que Thomas \u00e9 Neo, o aguardado messias capaz de enfrentar o Matrix e conduzir as pessoas de volta \u00e0 realidade e \u00e0 liberdade.",
+                "vote_average": 8.214,
+                "vote_count": 24660
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Fight Club",
+            "second_label": "Ren Klyce, Richard Hymns",
+            "category": "Sound Effects Editing",
+            "year": 2000,
+            "tmdb": {
+                "id": 550,
+                "original_title": "Fight Club",
+                "title": "Clube da Luta",
+                "release_date": "1999-10-15",
+                "backdrop_path": "/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+                "poster_path": "/r3pPehX4ik8NLYPpbDRAh0YRtMb.jpg",
+                "overview": "Um homem deprimido que sofre de ins\u00f4nia conhece um estranho vendedor de sabonetes chamado Tyler Durden. Eles formam um clube clandestino com regras r\u00edgidas onde lutam com outros homens cansados de suas vidas mundanas. Mas sua parceria perfeita \u00e9 comprometida quando Marla chama a aten\u00e7\u00e3o de Tyler.",
+                "vote_average": 8.441,
+                "vote_count": 28261
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Star Wars Episode I: The Phantom Menace",
+            "second_label": "Ben Burtt, Tom Bellfort",
+            "category": "Sound Effects Editing",
+            "year": 2000,
+            "tmdb": {
+                "id": 1893,
+                "original_title": "Star Wars: Episode I - The Phantom Menace",
+                "title": "Star Wars: Epis\u00f3dio I - A Amea\u00e7a Fantasma",
+                "release_date": "1999-05-19",
+                "backdrop_path": "/sQUiouw94zhoG6LDEj9h8cPb61N.jpg",
+                "poster_path": "/gNk8UNAumXlfCdtaxDqsQe7ZGlt.jpg",
+                "overview": "Enquanto resgatam a Rainha Amidala, governante de um planeta pac\u00edfico invadido por for\u00e7as amea\u00e7adoras, os Cavaleiros Jedi Obi-Wan Kenobi e Qui-Gon Jinn descobrem Anakin Skywalker, uma crian\u00e7a prod\u00edgio de 9 anos excepcionalmente poderosa na For\u00e7a.",
+                "vote_average": 6.543,
+                "vote_count": 14006
+            },
+            "winner": false
+        }
+    ],
+    "Visual Effects": [
+        {
+            "first_label": "The Matrix",
+            "second_label": "John Gaeta, Janek Sirrs, Steve Courtley, Jon Thum",
+            "category": "Visual Effects",
+            "year": 2000,
+            "tmdb": {
+                "id": 603,
+                "original_title": "The Matrix",
+                "title": "Matrix",
+                "release_date": "1999-03-31",
+                "backdrop_path": "/8K9qHeM6G6QjQN0C5XKFGvK5lzM.jpg",
+                "poster_path": "/lDqMDI3xpbB9UQRyeXfei0MXhqb.jpg",
+                "overview": "Em um futuro pr\u00f3ximo, Thomas Anderson (Keanu Reeves), um jovem programador de computador que mora em um cub\u00edculo escuro, \u00e9 atormentado por estranhos pesadelos nos quais encontra-se conectado por cabos e contra sua vontade, em um imenso sistema de computadores do futuro. Em todas essas ocasi\u00f5es, acorda gritando no exato momento em que os eletrodos est\u00e3o para penetrar em seu c\u00e9rebro. \u00c0 medida que o sonho se repete, Anderson come\u00e7a a ter d\u00favidas sobre a realidade. Por meio do encontro com os misteriosos Morpheus (Laurence Fishburne) e Trinity (Carrie-Anne Moss), Thomas descobre que \u00e9, assim como outras pessoas, v\u00edtima do Matrix, um sistema inteligente e artificial que manipula a mente das pessoas, criando a ilus\u00e3o de um mundo real enquanto usa os c\u00e9rebros e corpos dos indiv\u00edduos para produzir energia. Morpheus, entretanto, est\u00e1 convencido de que Thomas \u00e9 Neo, o aguardado messias capaz de enfrentar o Matrix e conduzir as pessoas de volta \u00e0 realidade e \u00e0 liberdade.",
+                "vote_average": 8.214,
+                "vote_count": 24660
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Star Wars Episode I: The Phantom Menace",
+            "second_label": "John Knoll, Dennis Muren, Scott Squires, Rob Coleman",
+            "category": "Visual Effects",
+            "year": 2000,
+            "tmdb": {
+                "id": 1893,
+                "original_title": "Star Wars: Episode I - The Phantom Menace",
+                "title": "Star Wars: Epis\u00f3dio I - A Amea\u00e7a Fantasma",
+                "release_date": "1999-05-19",
+                "backdrop_path": "/sQUiouw94zhoG6LDEj9h8cPb61N.jpg",
+                "poster_path": "/gNk8UNAumXlfCdtaxDqsQe7ZGlt.jpg",
+                "overview": "Enquanto resgatam a Rainha Amidala, governante de um planeta pac\u00edfico invadido por for\u00e7as amea\u00e7adoras, os Cavaleiros Jedi Obi-Wan Kenobi e Qui-Gon Jinn descobrem Anakin Skywalker, uma crian\u00e7a prod\u00edgio de 9 anos excepcionalmente poderosa na For\u00e7a.",
+                "vote_average": 6.543,
+                "vote_count": 14006
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Stuart Little",
+            "second_label": "John Dykstra, Jerome Chen, Henry F. Anderson III, Eric Allard",
+            "category": "Visual Effects",
+            "year": 2000,
+            "tmdb": {
+                "id": 10137,
+                "original_title": "Stuart Little",
+                "title": "O Pequeno Stuart Little",
+                "release_date": "1999-12-17",
+                "backdrop_path": "/pgx8VuStZl8JTzEpvz6AdUdaM2X.jpg",
+                "poster_path": "/oRaBrLCeOPv96RDuAoA0Tjf1bH1.jpg",
+                "overview": "Divirta-se com a fam\u00edlia Little, que adota Stuart, um ador\u00e1vel e falante garotinho que se parece muito com um rato. O Sr. e a Sra. Little se apaixonam por Stuart na hora, mas seu filho mais velho George n\u00e3o est\u00e1 muito certo do que fazer com seu novo irm\u00e3o, e o gato da fam\u00edlia, Snowbell, arquiteta um plano mesquinho para p\u00f4r Stuart fora de casa... para sempre.",
+                "vote_average": 6.1,
+                "vote_count": 4192
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay Based on Material Previously Produced or Published)": [
+        {
+            "first_label": "The Cider House Rules",
+            "second_label": "John Irving",
+            "category": "Writing (Screenplay Based on Material Previously Produced or Published)",
+            "year": 2000,
+            "tmdb": {
+                "id": 1715,
+                "original_title": "The Cider House Rules",
+                "title": "Regras da Vida",
+                "release_date": "1999-12-17",
+                "backdrop_path": "/h2ARbAQTzkKlHhLjHNDY3c9HeyE.jpg",
+                "poster_path": "/8M8j2lwtm59ytUuPgtVpu2Yn9xD.jpg",
+                "overview": "Homer (Tobey Maguire) \u00e9 um garoto \u00f3rf\u00e3o que passa a ter um m\u00e9dico (Michael Caine) como mentor. O m\u00e9dico ensina a ele tudo o que sabe sobre medicina e o que um pai deveria ensinar. Agora, Homer se apaixona por Kendall (Charlize Theron) e tem que lidar com as dificuldades da vida.",
+                "vote_average": 7.0,
+                "vote_count": 1100
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Election",
+            "second_label": "Alexander Payne, Jim Taylor",
+            "category": "Writing (Screenplay Based on Material Previously Produced or Published)",
+            "year": 2000,
+            "tmdb": {
+                "id": 9451,
+                "original_title": "Election",
+                "title": "Elei\u00e7\u00e3o",
+                "release_date": "1999-04-23",
+                "backdrop_path": "/AnWx27hbrHlx9EafxEAj5Iifyjx.jpg",
+                "poster_path": "/qjID83pvxXY6pP3yc6WVABHDc7k.jpg",
+                "overview": "O professor Jim McAllister (Matthew Broderick) faz parte do conselho estudantil da escola George Washington Carver High, e recebeu tr\u00eas pr\u00eamios de \"Professor do Ano\" durante os doze anos de trabalho na escola. Tracy Flick (Reese Whiterspoon) \u00e9 a ambiciosa aluna que quer a presid\u00eancia do Conselho, mesmo tendo que passar por cima dos outros candidatos. Paul Metzler (Chris Klein) \u00e9 um popular jogador de futebol que teve a perna fraturada em uma competi\u00e7\u00e3o, e est\u00e1 na candidatura com o apoio do renomado professor. A competi\u00e7\u00e3o para a candidatura cresce quando a irm\u00e3 de Paul, Tammy, entra na disputa apenas para se vingar do irm\u00e3o, atingindo, assim, sua vida dentro e fora do col\u00e9gio.",
+                "vote_average": 6.8,
+                "vote_count": 978
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Green Mile",
+            "second_label": "Frank Darabont",
+            "category": "Writing (Screenplay Based on Material Previously Produced or Published)",
+            "year": 2000,
+            "tmdb": {
+                "id": 497,
+                "original_title": "The Green Mile",
+                "title": "\u00c0 Espera de um Milagre",
+                "release_date": "1999-12-10",
+                "backdrop_path": "/vxJ08SvwomfKbpboCWynC3uqUg4.jpg",
+                "poster_path": "/14hEqW67IiHlKpzKMLUXyktzZIV.jpg",
+                "overview": "Milagres acontecem em lugares inesperados, mesmo no bloco de celas para o corredor da morte na Penitenci\u00e1ria Cold Mountain. L\u00e1, John Coffey, um gentil e gigante prisioneiro com poderes sobrenaturais, traz um senso de esp\u00edrito e humanidade aos seus guardas e colegas de cela.",
+                "vote_average": 8.507,
+                "vote_count": 16650
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Insider",
+            "second_label": "Eric Roth, Michael Mann",
+            "category": "Writing (Screenplay Based on Material Previously Produced or Published)",
+            "year": 2000,
+            "tmdb": {
+                "id": 9008,
+                "original_title": "The Insider",
+                "title": "O Informante",
+                "release_date": "1999-10-28",
+                "backdrop_path": "/2GIr0LArTvO33HQVPEdp49FLdNV.jpg",
+                "poster_path": "/wLIuFuacSTIQyRmwLSbLPESzrGA.jpg",
+                "overview": "Depois de tentar entrevistar o ex-executivo da ind\u00fastria do tabaco Jeffrey Wigand, o experiente produtor de TV Lowell Bergman suspeita que existe uma raz\u00e3o por tr\u00e1s do sil\u00eancio de Wigand. Quando Bergman tenta convencer Wigand a contar os segredos que sabe sobre a ind\u00fastria do tabaco, os dois precisam lidar com os tribunais e as corpora\u00e7\u00f5es para expor a verdade. E Wigand tem de lutar para manter sua vida familiar em meio a a\u00e7\u00f5es judiciais e amea\u00e7as de morte.",
+                "vote_average": 7.5,
+                "vote_count": 1711
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Talented Mr. Ripley",
+            "second_label": "Anthony Minghella",
+            "category": "Writing (Screenplay Based on Material Previously Produced or Published)",
+            "year": 2000,
+            "tmdb": {
+                "id": 1213,
+                "original_title": "The Talented Mr. Ripley",
+                "title": "O Talentoso Ripley",
+                "release_date": "1999-12-25",
+                "backdrop_path": "/nGVe984XESYhn5V5zspqQexPekA.jpg",
+                "poster_path": "/OXKtnDkIB2qRFOmkR63hQaziWR.jpg",
+                "overview": "Ser um jovem rico no ensolarado sul da It\u00e1lia \u00e9 a vida que Tom Ripley quer ter e que Dickie Greenleaf j\u00e1 tem. Ripley \u00e9 contratado pelo pai de Dickie para convenc\u00ea-lo a voltar para casa e para sua fam\u00edlia, nos Estados Unidos. Ao chegar na It\u00e1lia, Ripley se encanta com o estilo de vida do rapaz e far\u00e1 de tudo para ter uma vida igual. Tudo! Ripley n\u00e3o se det\u00e9m diante de nada, nem mesmo do crime, para realizar seu sonho de se transformar em outra pessoa.",
+                "vote_average": 7.186,
+                "vote_count": 3448
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay Written Directly for the Screen)": [
+        {
+            "first_label": "American Beauty",
+            "second_label": "Alan Ball",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 2000,
+            "tmdb": {
+                "id": 14,
+                "original_title": "American Beauty",
+                "title": "Beleza Americana",
+                "release_date": "1999-09-15",
+                "backdrop_path": "/DztBnZaqmla2sGUW9s8AyOmskT.jpg",
+                "poster_path": "/9PJKsH7Btz2xjYIvLLtJ7qcJlL3.jpg",
+                "overview": "Lester Burham n\u00e3o aguenta mais o emprego e se sente impotente perante sua vida. Casado com Carolyn e pai da \"aborrecente\" Jane, o melhor momento de seu dia quando se masturba no chuveiro. At\u00e9 que conhece Angela Hayes, amiga de Jane. Encantado com sua beleza e disposto a dar a volta por cima, Lester pede demiss\u00e3o e come\u00e7a a reconstruir sua vida, com a ajuda de seu vizinho Ricky.",
+                "vote_average": 8.0,
+                "vote_count": 11619
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Being John Malkovich",
+            "second_label": "Charlie Kaufman",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 2000,
+            "tmdb": {
+                "id": 492,
+                "original_title": "Being John Malkovich",
+                "title": "Quero Ser John Malkovich",
+                "release_date": "1999-10-29",
+                "backdrop_path": "/hjUrsPQMyL0gT6FK1hGUbw9fCuB.jpg",
+                "poster_path": "/rFpKAnc9X01sucqFPiD9pzxLpiA.jpg",
+                "overview": "Um homem (John Cusack) consegue um novo emprego no 7\u00ba \u00bd andar de um edif\u00edcio comercial, onde todos os funcion\u00e1rios devem andar curvados. L\u00e1 encontra uma porta, escondida, que leva quem ultrapass\u00e1-la at\u00e9 a mente do ator John Malkovich, onde pode permanecer durante 15 minutos, at\u00e9 ser cuspido numa estrada na sa\u00edda de Nova Jersey. Impressionado com a descoberta, resolve alugar a passagem para outras pessoas, dentre elas o pr\u00f3prio John Malkovich.",
+                "vote_average": 7.418,
+                "vote_count": 4137
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Magnolia",
+            "second_label": "Paul Thomas Anderson",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 2000,
+            "tmdb": {
+                "id": 334,
+                "original_title": "Magnolia",
+                "title": "Magn\u00f3lia",
+                "release_date": "1999-12-10",
+                "backdrop_path": "/fdMZRDhjQDwkNjpKrFN87D9NA8i.jpg",
+                "poster_path": "/fzdTiUQ8Qzft7TJRcH8OUPQvutA.jpg",
+                "overview": "Um dia em San Fernando Valley, na Calif\u00f3rnia, nos arredores da rua Magn\u00f3lia, as vidas de nove personagens s\u00e3o interligadas atrav\u00e9s de um programa de televis\u00e3o onde um grupo de tr\u00eas crian\u00e7as desafia tr\u00eas adultos, cujas hist\u00f3rias se cruzam por coincid\u00eancias do destino.",
+                "vote_average": 7.7,
+                "vote_count": 3376
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Sixth Sense",
+            "second_label": "M. Night Shyamalan",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 2000,
+            "tmdb": {
+                "id": 745,
+                "original_title": "The Sixth Sense",
+                "title": "O Sexto Sentido",
+                "release_date": "1999-08-06",
+                "backdrop_path": "/paUKxrbN2ww0JeT2JtvgAuaGlPf.jpg",
+                "poster_path": "/ds7jw0WYCd6k7hBzMnzgFsTfg96.jpg",
+                "overview": "Dr. Malcolm Crowe \u00e9 um conceituado psic\u00f3logo infantil, que vive atormentado pela terr\u00edvel lembran\u00e7a de um jovem paciente que ele n\u00e3o foi capaz de ajudar. Quando ele encontra Cole Sear, um garoto de 8 anos assustado e confuso, com um problema similar, Dr. Crowe procura redimir seu erro do passado, fazendo tudo que pode pelo menino. Apesar disso, Malcolm n\u00e3o est\u00e1 preparado para descobrir a verdade que aterroriza Cole.",
+                "vote_average": 7.953,
+                "vote_count": 11155
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Topsy-Turvy",
+            "second_label": "Mike Leigh",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 2000,
+            "tmdb": {
+                "id": 46435,
+                "original_title": "Topsy-Turvy",
+                "title": "Topsy-Turvy",
+                "release_date": "1999-12-15",
+                "backdrop_path": "/lBk6VjaqbjU2T8wxiXW1zUh6M9r.jpg",
+                "poster_path": "/qAH3gsnQV25NQ2GpO3b7nDcVtkM.jpg",
+                "overview": "After their production \"Princess Ida\" meets with less-than-stunning reviews, the relationship between Gilbert and Sullivan is strained to breaking. Their friends and associates attempt to get the two to work together again, which opens the way to \"The Mikado,\" one of the duo's greatest successes.",
+                "vote_average": 6.6,
+                "vote_count": 134
+            },
+            "winner": false
+        }
+    ]
+}

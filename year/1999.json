@@ -1,0 +1,1870 @@
+{
+    "Actor in a Leading Role": [
+        {
+            "first_label": "Roberto Benigni",
+            "second_label": "Life Is Beautiful",
+            "category": "Actor in a Leading Role",
+            "year": 1999,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Tom Hanks",
+            "second_label": "Saving Private Ryan",
+            "category": "Actor in a Leading Role",
+            "year": 1999,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ian McKellen",
+            "second_label": "Gods and Monsters",
+            "category": "Actor in a Leading Role",
+            "year": 1999,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Nick Nolte",
+            "second_label": "Affliction",
+            "category": "Actor in a Leading Role",
+            "year": 1999,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Edward Norton",
+            "second_label": "American History X",
+            "category": "Actor in a Leading Role",
+            "year": 1999,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "James Coburn",
+            "second_label": "Affliction",
+            "category": "Actor in a Supporting Role",
+            "year": 1999,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Robert Duvall",
+            "second_label": "A Civil Action",
+            "category": "Actor in a Supporting Role",
+            "year": 1999,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ed Harris",
+            "second_label": "The Truman Show",
+            "category": "Actor in a Supporting Role",
+            "year": 1999,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Geoffrey Rush",
+            "second_label": "Shakespeare in Love",
+            "category": "Actor in a Supporting Role",
+            "year": 1999,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Billy Bob Thornton",
+            "second_label": "A Simple Plan",
+            "category": "Actor in a Supporting Role",
+            "year": 1999,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Leading Role": [
+        {
+            "first_label": "Gwyneth Paltrow",
+            "second_label": "Shakespeare in Love",
+            "category": "Actress in a Leading Role",
+            "year": 1999,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Cate Blanchett",
+            "second_label": "Elizabeth",
+            "category": "Actress in a Leading Role",
+            "year": 1999,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Fernanda Montenegro",
+            "second_label": "Central Station",
+            "category": "Actress in a Leading Role",
+            "year": 1999,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Meryl Streep",
+            "second_label": "One True Thing",
+            "category": "Actress in a Leading Role",
+            "year": 1999,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Emily Watson",
+            "second_label": "Hilary and Jackie",
+            "category": "Actress in a Leading Role",
+            "year": 1999,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Judi Dench",
+            "second_label": "Shakespeare in Love",
+            "category": "Actress in a Supporting Role",
+            "year": 1999,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Kathy Bates",
+            "second_label": "Primary Colors",
+            "category": "Actress in a Supporting Role",
+            "year": 1999,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Brenda Blethyn",
+            "second_label": "Little Voice",
+            "category": "Actress in a Supporting Role",
+            "year": 1999,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Rachel Griffiths",
+            "second_label": "Hilary and Jackie",
+            "category": "Actress in a Supporting Role",
+            "year": 1999,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lynn Redgrave",
+            "second_label": "Gods and Monsters",
+            "category": "Actress in a Supporting Role",
+            "year": 1999,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction": [
+        {
+            "first_label": "Shakespeare in Love",
+            "second_label": "Art Direction: Martin Childs; Set Decoration: Jill Quertier",
+            "category": "Art Direction",
+            "year": 1999,
+            "tmdb": {
+                "id": 1934,
+                "original_title": "Shakespeare in Love",
+                "title": "Shakespeare Apaixonado",
+                "release_date": "1998-12-11",
+                "backdrop_path": "/mkBwYZ5r01RQl0Educ0HvEwOyh5.jpg",
+                "poster_path": "/3wC7QCcjvT9vRMlWyXoJCbqIuXb.jpg",
+                "overview": "O jovem Will Shakespeare est\u00e1 para se tornar o dramaturgo de sua \u00e9poca mas \u00e9 atacado pelo mal dos escritores: um total travamento. Sua com\u00e9dia Romeu e Ethel, a filha do Pirata n\u00e3o sai do lugar e a estr\u00e9ia se aproxima rapidamente. O que Will precisa \u00e9 uma musa \u2014 e ela aparece na forma da bela Lady Viola. O caminho do verdadeiro amor n\u00e3o vai ser f\u00e1cil para Will. Viola est\u00e1 prometida em casamento ao insuport\u00e1vel Lorde Wessex sob o comando da Rainha Elizabeth. As alegrias e a trag\u00e9dia de sua pr\u00f3pria vida acabam no papel, tornando-se uma emocionante, inteligente e cativante hist\u00f3ria.",
+                "vote_average": 6.9,
+                "vote_count": 2878
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Elizabeth",
+            "second_label": "Art Direction: John Myhre; Set Decoration: Peter Howitt",
+            "category": "Art Direction",
+            "year": 1999,
+            "tmdb": {
+                "id": 4518,
+                "original_title": "Elizabeth",
+                "title": "Elizabeth",
+                "release_date": "1998-09-13",
+                "backdrop_path": "/cCzvJ95pEB1I5cUX7Zjfl606noN.jpg",
+                "poster_path": "/ysMylmeZ9Hdt1WHT5M8ahTGBqB8.jpg",
+                "overview": "Em 1554, a Inglaterra estava divida entre cat\u00f3licos e protestantes e era governada por Mary Tudor (Kathy Burke), cat\u00f3lica, mas devido a um tumor ela acaba falecendo. Agora sua meia-irm\u00e3 Elizabeth (Cate Blanchett), protestante, assume o poder. Por\u00e9m, Elizabeth herda um pa\u00eds falido, sem ex\u00e9rcito e com inimigos por todos os lados, at\u00e9 mesmo na sua pr\u00f3pria corte, for\u00e7ando-a tomar cuidado a cada passo para permanecer no poder.",
+                "vote_average": 7.2,
+                "vote_count": 1312
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Pleasantville",
+            "second_label": "Art Direction: Jeannine Oppewall; Set Decoration: Jay Hart",
+            "category": "Art Direction",
+            "year": 1999,
+            "tmdb": {
+                "id": 2657,
+                "original_title": "Pleasantville",
+                "title": "A Vida em Preto e Branco",
+                "release_date": "1998-09-17",
+                "backdrop_path": "/kYRMXDkV9cZO7xeuSzMvsyky8EK.jpg",
+                "poster_path": "/2HacTvkLUSwW7VAiElr8fr9pSsv.jpg",
+                "overview": "Nos anos 90 David (Tobey Maguire) \u00e9 um jovem solit\u00e1rio, que n\u00e3o \u00e9 feliz com sua vida e foge da realidade assistindo \"Pleasantville\", um seriado em preto e branco dos anos 50 onde tudo \u00e9 agrad\u00e1vel. Mas tudo muda bruscamente quando Jennifer (Reese Whisterpoon), sua irm\u00e3, que sexualmente muito mais ativa que David, briga com ele pela posse de um estranho controle remoto, que apareceu atrav\u00e9s de um igualmente estranho t\u00e9cnico de televis\u00e3o (Don Knotts), que chegou repentinamente logo ap\u00f3s eles terem quebrado o antigo controle. Durante a briga eles apertam o novo controle e s\u00e3o magicamente transportados para dentro da fict\u00edcia \"Pleasantville\" e l\u00e1 se tornam Bud e Mary-Sue Parker, dois personagens da s\u00e9rie.",
+                "vote_average": 7.2,
+                "vote_count": 1582
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Saving Private Ryan",
+            "second_label": "Art Direction: Tom Sanders; Set Decoration: Lisa Dean Kavanaugh",
+            "category": "Art Direction",
+            "year": 1999,
+            "tmdb": {
+                "id": 857,
+                "original_title": "Saving Private Ryan",
+                "title": "O Resgate do Soldado Ryan",
+                "release_date": "1998-07-24",
+                "backdrop_path": "/bdD39MpSVhKjxarTxLSfX6baoMP.jpg",
+                "poster_path": "/hMLxNLCXRDd62acfCBn6mIyW1HU.jpg",
+                "overview": "Ao desembarcar na Normandia, no dia 6 de junho de 1944, capit\u00e3o Miller recebe a miss\u00e3o de comandar um grupo do segundo batalh\u00e3o para o resgate do soldado James Ryan, ca\u00e7ula de quatro irm\u00e3os, dentre os quais tr\u00eas morreram em combate. Por ordens do chefe George C. Marshall, eles precisam procurar o soldado e garantir o seu retorno, com vida, para casa.",
+                "vote_average": 8.212,
+                "vote_count": 15165
+            },
+            "winner": false
+        },
+        {
+            "first_label": "What Dreams May Come",
+            "second_label": "Art Direction: Eugenio Zanetti; Set Decoration: Cindy Carr",
+            "category": "Art Direction",
+            "year": 1999,
+            "tmdb": {
+                "id": 12159,
+                "original_title": "What Dreams May Come",
+                "title": "Amor Al\u00e9m da Vida",
+                "release_date": "1998-10-02",
+                "backdrop_path": "/586n41CjDveXtwmQgP41YtyHKUV.jpg",
+                "poster_path": "/tnuZypYMGme4wK6wSSNt79awmp3.jpg",
+                "overview": "Depois da morte de seus dois filhos, Chris Nielson e sua mulher Annie passam por insuper\u00e1veis dificuldades emocionais. Anos depois, acontece outra trag\u00e9dia: Chris tamb\u00e9m morre. Ele vai para o Para\u00edso, onde conhece Albert, um rapaz de bom cora\u00e7\u00e3o que vai ajud\u00e1-lo a se adaptar \u00e0 nova exist\u00eancia. Para Annie, a morte do marido \u00e9 a \u00faltima gota que a prendia \u00e0 vida, e ela acaba se suicidando. Por\u00e9m, diferente de Chris, ela n\u00e3o vai ao Para\u00edso, mas sim a um lugar diferente, uma esp\u00e9cie de purgat\u00f3rio onde ficam as almas perturbadas. Quando descobre o destino da mulher, Chris pede ajuda a Albert e os dois saem em uma jornada em busca da salva\u00e7\u00e3o da alma de Annie, provando que o amor desafia qualquer infort\u00fanio.",
+                "vote_average": 7.2,
+                "vote_count": 2189
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "Saving Private Ryan",
+            "second_label": "Janusz Kaminski",
+            "category": "Cinematography",
+            "year": 1999,
+            "tmdb": {
+                "id": 857,
+                "original_title": "Saving Private Ryan",
+                "title": "O Resgate do Soldado Ryan",
+                "release_date": "1998-07-24",
+                "backdrop_path": "/bdD39MpSVhKjxarTxLSfX6baoMP.jpg",
+                "poster_path": "/hMLxNLCXRDd62acfCBn6mIyW1HU.jpg",
+                "overview": "Ao desembarcar na Normandia, no dia 6 de junho de 1944, capit\u00e3o Miller recebe a miss\u00e3o de comandar um grupo do segundo batalh\u00e3o para o resgate do soldado James Ryan, ca\u00e7ula de quatro irm\u00e3os, dentre os quais tr\u00eas morreram em combate. Por ordens do chefe George C. Marshall, eles precisam procurar o soldado e garantir o seu retorno, com vida, para casa.",
+                "vote_average": 8.212,
+                "vote_count": 15165
+            },
+            "winner": true
+        },
+        {
+            "first_label": "A Civil Action",
+            "second_label": "Conrad L. Hall",
+            "category": "Cinematography",
+            "year": 1999,
+            "tmdb": {
+                "id": 9422,
+                "original_title": "A Civil Action",
+                "title": "A Qualquer Pre\u00e7o",
+                "release_date": "1998-12-25",
+                "backdrop_path": "/vcI8kweLIpGv7jb9NWVunOyZ2O7.jpg",
+                "poster_path": "/7yvkv5g2A5qTg0ueT0eqaUoFDYm.jpg",
+                "overview": "Jan Schlittman (John Travolta) \u00e9 um advogado que, junto com seus s\u00f3cios, n\u00e3o procura vencer causas mas sim entrar em lucrativos acordos financeiros. Mas tudo muda quando ele concorda em representar oito fam\u00edlias cujas crian\u00e7as morreram em virtude de duas empresas terem despejado produtos t\u00f3xicos na \u00e1gua que abastece Woburn, Massachusetts. O caso se prolonga, fazendo a firma ficar em s\u00e9rias dificuldades financeiras, tanto que os s\u00f3cios de Schlittman o abandonam enquanto ele marcha para o suic\u00eddio financeiro e profissional.",
+                "vote_average": 6.4,
+                "vote_count": 405
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Elizabeth",
+            "second_label": "Remi Adefarasin",
+            "category": "Cinematography",
+            "year": 1999,
+            "tmdb": {
+                "id": 4518,
+                "original_title": "Elizabeth",
+                "title": "Elizabeth",
+                "release_date": "1998-09-13",
+                "backdrop_path": "/cCzvJ95pEB1I5cUX7Zjfl606noN.jpg",
+                "poster_path": "/ysMylmeZ9Hdt1WHT5M8ahTGBqB8.jpg",
+                "overview": "Em 1554, a Inglaterra estava divida entre cat\u00f3licos e protestantes e era governada por Mary Tudor (Kathy Burke), cat\u00f3lica, mas devido a um tumor ela acaba falecendo. Agora sua meia-irm\u00e3 Elizabeth (Cate Blanchett), protestante, assume o poder. Por\u00e9m, Elizabeth herda um pa\u00eds falido, sem ex\u00e9rcito e com inimigos por todos os lados, at\u00e9 mesmo na sua pr\u00f3pria corte, for\u00e7ando-a tomar cuidado a cada passo para permanecer no poder.",
+                "vote_average": 7.2,
+                "vote_count": 1312
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Shakespeare in Love",
+            "second_label": "Richard Greatrex",
+            "category": "Cinematography",
+            "year": 1999,
+            "tmdb": {
+                "id": 1934,
+                "original_title": "Shakespeare in Love",
+                "title": "Shakespeare Apaixonado",
+                "release_date": "1998-12-11",
+                "backdrop_path": "/mkBwYZ5r01RQl0Educ0HvEwOyh5.jpg",
+                "poster_path": "/3wC7QCcjvT9vRMlWyXoJCbqIuXb.jpg",
+                "overview": "O jovem Will Shakespeare est\u00e1 para se tornar o dramaturgo de sua \u00e9poca mas \u00e9 atacado pelo mal dos escritores: um total travamento. Sua com\u00e9dia Romeu e Ethel, a filha do Pirata n\u00e3o sai do lugar e a estr\u00e9ia se aproxima rapidamente. O que Will precisa \u00e9 uma musa \u2014 e ela aparece na forma da bela Lady Viola. O caminho do verdadeiro amor n\u00e3o vai ser f\u00e1cil para Will. Viola est\u00e1 prometida em casamento ao insuport\u00e1vel Lorde Wessex sob o comando da Rainha Elizabeth. As alegrias e a trag\u00e9dia de sua pr\u00f3pria vida acabam no papel, tornando-se uma emocionante, inteligente e cativante hist\u00f3ria.",
+                "vote_average": 6.9,
+                "vote_count": 2878
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Thin Red Line",
+            "second_label": "John Toll",
+            "category": "Cinematography",
+            "year": 1999,
+            "tmdb": {
+                "id": 8741,
+                "original_title": "The Thin Red Line",
+                "title": "Al\u00e9m da Linha Vermelha",
+                "release_date": "1998-12-23",
+                "backdrop_path": "/nBBu3nP7uvBAGmock4gOMXdrdrA.jpg",
+                "poster_path": "/bZTfnqmIzB6rWQeT0DDC66K8iBf.jpg",
+                "overview": "Durante a Segunda Guerra Mundial, fica claro que o resultado da batalha de Guadalcanal influenciar\u00e1 fortemente o avan\u00e7o japon\u00eas no Pac\u00edfico. Assim, um grupo de jovens soldados \u00e9 enviado para l\u00e1, trazendo al\u00edvio para as esgotadas unidades da marinha. L\u00e1 os rec\u00e9m-chegados conhecem um terror que nem imaginavam, mas no meio deste desespero surgem fortes la\u00e7os de amor e amizade.",
+                "vote_average": 7.446,
+                "vote_count": 2826
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design": [
+        {
+            "first_label": "Shakespeare in Love",
+            "second_label": "Sandy Powell",
+            "category": "Costume Design",
+            "year": 1999,
+            "tmdb": {
+                "id": 1934,
+                "original_title": "Shakespeare in Love",
+                "title": "Shakespeare Apaixonado",
+                "release_date": "1998-12-11",
+                "backdrop_path": "/mkBwYZ5r01RQl0Educ0HvEwOyh5.jpg",
+                "poster_path": "/3wC7QCcjvT9vRMlWyXoJCbqIuXb.jpg",
+                "overview": "O jovem Will Shakespeare est\u00e1 para se tornar o dramaturgo de sua \u00e9poca mas \u00e9 atacado pelo mal dos escritores: um total travamento. Sua com\u00e9dia Romeu e Ethel, a filha do Pirata n\u00e3o sai do lugar e a estr\u00e9ia se aproxima rapidamente. O que Will precisa \u00e9 uma musa \u2014 e ela aparece na forma da bela Lady Viola. O caminho do verdadeiro amor n\u00e3o vai ser f\u00e1cil para Will. Viola est\u00e1 prometida em casamento ao insuport\u00e1vel Lorde Wessex sob o comando da Rainha Elizabeth. As alegrias e a trag\u00e9dia de sua pr\u00f3pria vida acabam no papel, tornando-se uma emocionante, inteligente e cativante hist\u00f3ria.",
+                "vote_average": 6.9,
+                "vote_count": 2878
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Beloved",
+            "second_label": "Colleen Atwood",
+            "category": "Costume Design",
+            "year": 1999,
+            "tmdb": {
+                "id": 39437,
+                "original_title": "Beloved",
+                "title": "Bem-Amada",
+                "release_date": "1998-10-16",
+                "backdrop_path": "/rXVcTEiLLvkI3dGiPqOiOuPq3dP.jpg",
+                "poster_path": "/fN3rycv7nTK7gmtOopEF3oYjAhs.jpg",
+                "overview": "Em 1873, uma ex-escrava, que vive perto de Cincinnati com sua fam\u00edlia, \u00e9 surpreendida com a visita de um velho amigo da \u00e9poca em que ambos eram escravos. Ele decide se mudar para a mesma cidade e logo v\u00e1rios mist\u00e9rios s\u00e3o revelados.",
+                "vote_average": 5.6,
+                "vote_count": 91
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Elizabeth",
+            "second_label": "Alexandra Byrne",
+            "category": "Costume Design",
+            "year": 1999,
+            "tmdb": {
+                "id": 4518,
+                "original_title": "Elizabeth",
+                "title": "Elizabeth",
+                "release_date": "1998-09-13",
+                "backdrop_path": "/cCzvJ95pEB1I5cUX7Zjfl606noN.jpg",
+                "poster_path": "/ysMylmeZ9Hdt1WHT5M8ahTGBqB8.jpg",
+                "overview": "Em 1554, a Inglaterra estava divida entre cat\u00f3licos e protestantes e era governada por Mary Tudor (Kathy Burke), cat\u00f3lica, mas devido a um tumor ela acaba falecendo. Agora sua meia-irm\u00e3 Elizabeth (Cate Blanchett), protestante, assume o poder. Por\u00e9m, Elizabeth herda um pa\u00eds falido, sem ex\u00e9rcito e com inimigos por todos os lados, at\u00e9 mesmo na sua pr\u00f3pria corte, for\u00e7ando-a tomar cuidado a cada passo para permanecer no poder.",
+                "vote_average": 7.2,
+                "vote_count": 1312
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Pleasantville",
+            "second_label": "Judianna Makovsky",
+            "category": "Costume Design",
+            "year": 1999,
+            "tmdb": {
+                "id": 2657,
+                "original_title": "Pleasantville",
+                "title": "A Vida em Preto e Branco",
+                "release_date": "1998-09-17",
+                "backdrop_path": "/kYRMXDkV9cZO7xeuSzMvsyky8EK.jpg",
+                "poster_path": "/2HacTvkLUSwW7VAiElr8fr9pSsv.jpg",
+                "overview": "Nos anos 90 David (Tobey Maguire) \u00e9 um jovem solit\u00e1rio, que n\u00e3o \u00e9 feliz com sua vida e foge da realidade assistindo \"Pleasantville\", um seriado em preto e branco dos anos 50 onde tudo \u00e9 agrad\u00e1vel. Mas tudo muda bruscamente quando Jennifer (Reese Whisterpoon), sua irm\u00e3, que sexualmente muito mais ativa que David, briga com ele pela posse de um estranho controle remoto, que apareceu atrav\u00e9s de um igualmente estranho t\u00e9cnico de televis\u00e3o (Don Knotts), que chegou repentinamente logo ap\u00f3s eles terem quebrado o antigo controle. Durante a briga eles apertam o novo controle e s\u00e3o magicamente transportados para dentro da fict\u00edcia \"Pleasantville\" e l\u00e1 se tornam Bud e Mary-Sue Parker, dois personagens da s\u00e9rie.",
+                "vote_average": 7.2,
+                "vote_count": 1582
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Velvet Goldmine",
+            "second_label": "Sandy Powell",
+            "category": "Costume Design",
+            "year": 1999,
+            "tmdb": {
+                "id": 1808,
+                "original_title": "Velvet Goldmine",
+                "title": "Velvet Goldmine",
+                "release_date": "1998-08-28",
+                "backdrop_path": "/zUs2GW4rPSIsfzBp0GtXaQR2mqk.jpg",
+                "poster_path": "/txAEGj9EHyf5xHrFi79SfdjVEws.jpg",
+                "overview": "Em 1971, o glam rock invade o mundo da m\u00fasica brit\u00e2nica, provocando uma verdadeira revolu\u00e7\u00e3o, n\u00e3o apenas na m\u00fasica mas tamb\u00e9m nos costumes da sociedade. O \u00edcone do movimento \u00e9 Brian Slade (Jonathan Rhys-Meyers), roqueiro que leva garotas e rapazes a pintarem as unhas, usarem batom e explorarem sua sexualidade. Incapaz de lidar com a fama adquirida, Brian forja sua pr\u00f3pria morte, com a farsa sendo descoberta logo depois. Anos mais tarde, um jornalista ingl\u00eas (Christian Bale) come\u00e7a a investigar seu desaparecimento.",
+                "vote_average": 6.904,
+                "vote_count": 472
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "Saving Private Ryan",
+            "second_label": "Steven Spielberg",
+            "category": "Directing",
+            "year": 1999,
+            "tmdb": {
+                "id": 857,
+                "original_title": "Saving Private Ryan",
+                "title": "O Resgate do Soldado Ryan",
+                "release_date": "1998-07-24",
+                "backdrop_path": "/bdD39MpSVhKjxarTxLSfX6baoMP.jpg",
+                "poster_path": "/hMLxNLCXRDd62acfCBn6mIyW1HU.jpg",
+                "overview": "Ao desembarcar na Normandia, no dia 6 de junho de 1944, capit\u00e3o Miller recebe a miss\u00e3o de comandar um grupo do segundo batalh\u00e3o para o resgate do soldado James Ryan, ca\u00e7ula de quatro irm\u00e3os, dentre os quais tr\u00eas morreram em combate. Por ordens do chefe George C. Marshall, eles precisam procurar o soldado e garantir o seu retorno, com vida, para casa.",
+                "vote_average": 8.212,
+                "vote_count": 15165
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Life Is Beautiful",
+            "second_label": "Roberto Benigni",
+            "category": "Directing",
+            "year": 1999,
+            "tmdb": {
+                "id": 637,
+                "original_title": "La vita \u00e8 bella",
+                "title": "A Vida \u00e9 Bela",
+                "release_date": "1997-12-20",
+                "backdrop_path": "/gavyCu1UaTaTNPsVaGXT6pe5u24.jpg",
+                "poster_path": "/mdqU2CHabmbdkWKs1IvCfksbtNM.jpg",
+                "overview": "Durante a Segunda Guerra Mundial na It\u00e1lia, o judeu Guido e seu filho Giosu\u00e9 s\u00e3o levados para um campo de concentra\u00e7\u00e3o nazista. Afastado da mulher, ele tem que usar sua imagina\u00e7\u00e3o para fazer o menino acreditar que est\u00e3o participando de uma grande brincadeira, com o intuito de proteg\u00ea-lo do terror e da viol\u00eancia que os cercam.",
+                "vote_average": 8.453,
+                "vote_count": 12644
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Shakespeare in Love",
+            "second_label": "John Madden",
+            "category": "Directing",
+            "year": 1999,
+            "tmdb": {
+                "id": 1934,
+                "original_title": "Shakespeare in Love",
+                "title": "Shakespeare Apaixonado",
+                "release_date": "1998-12-11",
+                "backdrop_path": "/mkBwYZ5r01RQl0Educ0HvEwOyh5.jpg",
+                "poster_path": "/3wC7QCcjvT9vRMlWyXoJCbqIuXb.jpg",
+                "overview": "O jovem Will Shakespeare est\u00e1 para se tornar o dramaturgo de sua \u00e9poca mas \u00e9 atacado pelo mal dos escritores: um total travamento. Sua com\u00e9dia Romeu e Ethel, a filha do Pirata n\u00e3o sai do lugar e a estr\u00e9ia se aproxima rapidamente. O que Will precisa \u00e9 uma musa \u2014 e ela aparece na forma da bela Lady Viola. O caminho do verdadeiro amor n\u00e3o vai ser f\u00e1cil para Will. Viola est\u00e1 prometida em casamento ao insuport\u00e1vel Lorde Wessex sob o comando da Rainha Elizabeth. As alegrias e a trag\u00e9dia de sua pr\u00f3pria vida acabam no papel, tornando-se uma emocionante, inteligente e cativante hist\u00f3ria.",
+                "vote_average": 6.9,
+                "vote_count": 2878
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Thin Red Line",
+            "second_label": "Terrence Malick",
+            "category": "Directing",
+            "year": 1999,
+            "tmdb": {
+                "id": 8741,
+                "original_title": "The Thin Red Line",
+                "title": "Al\u00e9m da Linha Vermelha",
+                "release_date": "1998-12-23",
+                "backdrop_path": "/nBBu3nP7uvBAGmock4gOMXdrdrA.jpg",
+                "poster_path": "/bZTfnqmIzB6rWQeT0DDC66K8iBf.jpg",
+                "overview": "Durante a Segunda Guerra Mundial, fica claro que o resultado da batalha de Guadalcanal influenciar\u00e1 fortemente o avan\u00e7o japon\u00eas no Pac\u00edfico. Assim, um grupo de jovens soldados \u00e9 enviado para l\u00e1, trazendo al\u00edvio para as esgotadas unidades da marinha. L\u00e1 os rec\u00e9m-chegados conhecem um terror que nem imaginavam, mas no meio deste desespero surgem fortes la\u00e7os de amor e amizade.",
+                "vote_average": 7.446,
+                "vote_count": 2826
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Truman Show",
+            "second_label": "Peter Weir",
+            "category": "Directing",
+            "year": 1999,
+            "tmdb": {
+                "id": 37165,
+                "original_title": "The Truman Show",
+                "title": "O Show de Truman: O Show da Vida",
+                "release_date": "1998-06-04",
+                "backdrop_path": "/aCHn2TXYJfzPXQKA6r9mKPbMlUB.jpg",
+                "poster_path": "/5lnCIDrH6yujeuJ16CGPoFktKd6.jpg",
+                "overview": "Truman Burbank \u00e9 um pacato vendedor de seguros que leva um vida simples com sua esposa Meryl Burbank. Por\u00e9m algumas coisas ao seu redor fazem com que ele passe a estranhar sua cidade, seus supostos amigos e at\u00e9 sua mulher. Ap\u00f3s conhecer a misteriosa Lauren, ele fica intrigado e acaba descobrindo que toda sua vida foi monitorada por c\u00e2meras e transmitida em rede nacional.",
+                "vote_average": 8.14,
+                "vote_count": 17539
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "The Last Days",
+            "second_label": "James Moll, Ken Lipper",
+            "category": "Documentary (Feature)",
+            "year": 1999,
+            "tmdb": {
+                "id": 20595,
+                "original_title": "The Last Days",
+                "title": "The Last Days",
+                "release_date": "1998-10-23",
+                "backdrop_path": "/bSvegZGcIA2ipKgPfKu2YQp0EtK.jpg",
+                "poster_path": "/kWr6QDDcO2HHKqvJvgsJ1hQz4Gs.jpg",
+                "overview": "The Last Days \u00e9 um filme-document\u00e1rio estadunidense de 1998 dirigido e escrito por James Moll, que conta sobre campos de concentra\u00e7\u00e3o durante a Alemanha Nazista. Venceu o Oscar de melhor document\u00e1rio de longa-metragem na edi\u00e7\u00e3o de 1999",
+                "vote_average": 7.6,
+                "vote_count": 76
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Dancemaker",
+            "second_label": "Matthew Diamond, Jerry Kupfer",
+            "category": "Documentary (Feature)",
+            "year": 1999,
+            "tmdb": {
+                "id": 113286,
+                "original_title": "Dancemaker",
+                "title": "Dancemaker",
+                "release_date": "1998-12-01",
+                "backdrop_path": null,
+                "poster_path": "/iR6z334jcMEv2hQoEu2xX0JzJMy.jpg",
+                "overview": "A look at Paul Taylor and his dance company over several months in 1997. Preparation of Taylor's piece, \"Piazzolla Caldera,\" from conception and rehearsals to opening night at City Center, frames the film. The troupe's trip to India falls in the middle. Included are black and white footage of rehearsals, and, in color, interviews with Taylor, his dancers, dance critics and scholars, and those who manage the business side. There is also footage of a younger Taylor dancing and film of the troupe performing a dozen Taylor pieces. His genius, his roots, his method of working with dancers, and his sometimes difficult nature draw the attention of those who comment.",
+                "vote_average": 5.3,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Farm: Angola, U.S.A.",
+            "second_label": "Jonathan Stack, Liz Garbus",
+            "category": "Documentary (Feature)",
+            "year": 1999,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lenny Bruce: Swear to Tell the Truth",
+            "second_label": "Robert B. Weide",
+            "category": "Documentary (Feature)",
+            "year": 1999,
+            "tmdb": {
+                "id": 103162,
+                "original_title": "Lenny Bruce: Swear to Tell the Truth",
+                "title": "Lenny Bruce: Swear to Tell the Truth",
+                "release_date": "1998-10-21",
+                "backdrop_path": "/FM1IFWuLD4xh5Y49PbJe66oviv.jpg",
+                "poster_path": "/c25HajWlwZyUoWAurRtEJ4YtE3a.jpg",
+                "overview": "In 1948, Lenny Bruce was just another comic who couldn't get arrested. By 1961, all that would change.",
+                "vote_average": 7.7,
+                "vote_count": 10
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Regret to Inform",
+            "second_label": "Barbara Sonneborn, Janet Cole",
+            "category": "Documentary (Feature)",
+            "year": 1999,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "The Personals: Improvisations on Romance in the Golden Years",
+            "second_label": "Keiko Ibi",
+            "category": "Documentary (Short Subject)",
+            "year": 1999,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "A Place in the Land",
+            "second_label": "Charles Guggenheim",
+            "category": "Documentary (Short Subject)",
+            "year": 1999,
+            "tmdb": {
+                "id": 244938,
+                "original_title": "A Place in the Land",
+                "title": "A Place in the Land",
+                "release_date": "1998-01-01",
+                "backdrop_path": null,
+                "poster_path": "/76mJsX6ySgXJkSpnGUCOUyLB9ml.jpg",
+                "overview": "\"A Place in the Land\" is the story of George Perkins Marsh, Frederick Billings and Laurance S. Rockefeller, three seminal figures in the history of the conservation movement in America. Though they were born generations apart and lived very different lives, the three were connected by a common vision and a common place. Marsh, Billings and Rockefeller occupied the same home and surrounding land in Woodstock, Vermont-a place that instilled in each of them a determination to preserve America's natural resources and to teach their fellow man to live in harmony with nature. Today, their legacy and the land in Woodstock that inspired them are preserved at the Billings Farm &amp; Museum, a museum of Vermont's rural past and a working dairy farm, and the Marsh-Billings-Rockefeller National Historical Park-the first National Park in America dedicated to teaching the concept of land stewardship.",
+                "vote_average": 6.3,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sunrise over Tiananmen Square",
+            "second_label": "Shui-Bo Wang, Donald McWilliams",
+            "category": "Documentary (Short Subject)",
+            "year": 1999,
+            "tmdb": {
+                "id": 244939,
+                "original_title": "Sunrise Over Tiananmen Square",
+                "title": "Sunrise Over Tiananmen Square",
+                "release_date": "1998-10-16",
+                "backdrop_path": "/8zDFsri7hYT2YNG7p4BxE1xogy7.jpg",
+                "poster_path": "/bSerTS8XEhN4EMN0X13fcCsXa84.jpg",
+                "overview": "This film illustrates the life of the film director, Shui-Bo Wang in The People's Republic of China. We learn of the life of the director in his own words and images from a child steeped in the values of Chinese communism exemplified by Chairman Mao, to a young man striving to live up to those ideals both as an artist and a soldier.",
+                "vote_average": 6.6,
+                "vote_count": 5
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "Saving Private Ryan",
+            "second_label": "Michael Kahn",
+            "category": "Film Editing",
+            "year": 1999,
+            "tmdb": {
+                "id": 857,
+                "original_title": "Saving Private Ryan",
+                "title": "O Resgate do Soldado Ryan",
+                "release_date": "1998-07-24",
+                "backdrop_path": "/bdD39MpSVhKjxarTxLSfX6baoMP.jpg",
+                "poster_path": "/hMLxNLCXRDd62acfCBn6mIyW1HU.jpg",
+                "overview": "Ao desembarcar na Normandia, no dia 6 de junho de 1944, capit\u00e3o Miller recebe a miss\u00e3o de comandar um grupo do segundo batalh\u00e3o para o resgate do soldado James Ryan, ca\u00e7ula de quatro irm\u00e3os, dentre os quais tr\u00eas morreram em combate. Por ordens do chefe George C. Marshall, eles precisam procurar o soldado e garantir o seu retorno, com vida, para casa.",
+                "vote_average": 8.212,
+                "vote_count": 15165
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Life Is Beautiful",
+            "second_label": "Simona Paggi",
+            "category": "Film Editing",
+            "year": 1999,
+            "tmdb": {
+                "id": 637,
+                "original_title": "La vita \u00e8 bella",
+                "title": "A Vida \u00e9 Bela",
+                "release_date": "1997-12-20",
+                "backdrop_path": "/gavyCu1UaTaTNPsVaGXT6pe5u24.jpg",
+                "poster_path": "/mdqU2CHabmbdkWKs1IvCfksbtNM.jpg",
+                "overview": "Durante a Segunda Guerra Mundial na It\u00e1lia, o judeu Guido e seu filho Giosu\u00e9 s\u00e3o levados para um campo de concentra\u00e7\u00e3o nazista. Afastado da mulher, ele tem que usar sua imagina\u00e7\u00e3o para fazer o menino acreditar que est\u00e3o participando de uma grande brincadeira, com o intuito de proteg\u00ea-lo do terror e da viol\u00eancia que os cercam.",
+                "vote_average": 8.453,
+                "vote_count": 12644
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Out of Sight",
+            "second_label": "Anne V. Coates",
+            "category": "Film Editing",
+            "year": 1999,
+            "tmdb": {
+                "id": 1389,
+                "original_title": "Out of Sight",
+                "title": "Irresist\u00edvel Paix\u00e3o",
+                "release_date": "1998-06-26",
+                "backdrop_path": "/dALQsHqbcySpACOq2qXQwsasVBx.jpg",
+                "poster_path": "/e0dmJYdLVMTqTh0nF8oh4IShfdu.jpg",
+                "overview": "Charmoso ladr\u00e3o, sem saber, usa carro de agente do FBI para fugir da penitenci\u00e1ria. Ele acaba conhecendo e se apaixonando pela bela dona do carro, a agente Karen, mas tem que tomar cuidado para planejar um golpe perfeito, sem que sua pr\u00f3pria amada o coloque atr\u00e1s das grades.",
+                "vote_average": 6.7,
+                "vote_count": 1185
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Shakespeare in Love",
+            "second_label": "David Gamble",
+            "category": "Film Editing",
+            "year": 1999,
+            "tmdb": {
+                "id": 1934,
+                "original_title": "Shakespeare in Love",
+                "title": "Shakespeare Apaixonado",
+                "release_date": "1998-12-11",
+                "backdrop_path": "/mkBwYZ5r01RQl0Educ0HvEwOyh5.jpg",
+                "poster_path": "/3wC7QCcjvT9vRMlWyXoJCbqIuXb.jpg",
+                "overview": "O jovem Will Shakespeare est\u00e1 para se tornar o dramaturgo de sua \u00e9poca mas \u00e9 atacado pelo mal dos escritores: um total travamento. Sua com\u00e9dia Romeu e Ethel, a filha do Pirata n\u00e3o sai do lugar e a estr\u00e9ia se aproxima rapidamente. O que Will precisa \u00e9 uma musa \u2014 e ela aparece na forma da bela Lady Viola. O caminho do verdadeiro amor n\u00e3o vai ser f\u00e1cil para Will. Viola est\u00e1 prometida em casamento ao insuport\u00e1vel Lorde Wessex sob o comando da Rainha Elizabeth. As alegrias e a trag\u00e9dia de sua pr\u00f3pria vida acabam no papel, tornando-se uma emocionante, inteligente e cativante hist\u00f3ria.",
+                "vote_average": 6.9,
+                "vote_count": 2878
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Thin Red Line",
+            "second_label": "Billy Weber, Leslie Jones, Saar Klein",
+            "category": "Film Editing",
+            "year": 1999,
+            "tmdb": {
+                "id": 8741,
+                "original_title": "The Thin Red Line",
+                "title": "Al\u00e9m da Linha Vermelha",
+                "release_date": "1998-12-23",
+                "backdrop_path": "/nBBu3nP7uvBAGmock4gOMXdrdrA.jpg",
+                "poster_path": "/bZTfnqmIzB6rWQeT0DDC66K8iBf.jpg",
+                "overview": "Durante a Segunda Guerra Mundial, fica claro que o resultado da batalha de Guadalcanal influenciar\u00e1 fortemente o avan\u00e7o japon\u00eas no Pac\u00edfico. Assim, um grupo de jovens soldados \u00e9 enviado para l\u00e1, trazendo al\u00edvio para as esgotadas unidades da marinha. L\u00e1 os rec\u00e9m-chegados conhecem um terror que nem imaginavam, mas no meio deste desespero surgem fortes la\u00e7os de amor e amizade.",
+                "vote_average": 7.446,
+                "vote_count": 2826
+            },
+            "winner": false
+        }
+    ],
+    "Foreign Language Film": [
+        {
+            "first_label": "Life Is Beautiful",
+            "second_label": "Italy",
+            "category": "Foreign Language Film",
+            "year": 1999,
+            "tmdb": {
+                "id": 637,
+                "original_title": "La vita \u00e8 bella",
+                "title": "A Vida \u00e9 Bela",
+                "release_date": "1997-12-20",
+                "backdrop_path": "/gavyCu1UaTaTNPsVaGXT6pe5u24.jpg",
+                "poster_path": "/mdqU2CHabmbdkWKs1IvCfksbtNM.jpg",
+                "overview": "Durante a Segunda Guerra Mundial na It\u00e1lia, o judeu Guido e seu filho Giosu\u00e9 s\u00e3o levados para um campo de concentra\u00e7\u00e3o nazista. Afastado da mulher, ele tem que usar sua imagina\u00e7\u00e3o para fazer o menino acreditar que est\u00e3o participando de uma grande brincadeira, com o intuito de proteg\u00ea-lo do terror e da viol\u00eancia que os cercam.",
+                "vote_average": 8.453,
+                "vote_count": 12644
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Central Station",
+            "second_label": "Brazil",
+            "category": "Foreign Language Film",
+            "year": 1999,
+            "tmdb": {
+                "id": 666,
+                "original_title": "Central do Brasil",
+                "title": "Central do Brasil",
+                "release_date": "1998-11-20",
+                "backdrop_path": "/lrLIy9OFRQg4VkhrCyolfNXJEUH.jpg",
+                "poster_path": "/20gvOww3EDFaDZyNowVGAHtXo0H.jpg",
+                "overview": "Dora escreve cartas para analfabetos na esta\u00e7\u00e3o Central do Brasil. Uma das clientes de Dora \u00e9 Ana, que vem escrever uma carta com o seu filho, Josu\u00e9, um garoto de nove anos, que sonha encontrar o pai que nunca conheceu. Na sa\u00edda da esta\u00e7\u00e3o, Ana \u00e9 atropelada e Josu\u00e9 fica abandonado. Mesmo a contragosto, Dora acaba acolhendo o menino e envolvendo-se com ele. Termina por levar Josu\u00e9 para o interior do Nordeste, \u00e0 procura do pai. \u00c0 medida em que v\u00e3o entrando pa\u00eds adentro, esses dois personagens, t\u00e3o diferentes, v\u00e3o se aproximando... Come\u00e7a ent\u00e3o uma viagem fascinate ao cora\u00e7\u00e3o do Brasil, \u00e0 procura do pai desaparecido, e uma viagem profundamente emotiva ao cora\u00e7\u00e3o de cada um dos personagens do filme.",
+                "vote_average": 8.1,
+                "vote_count": 827
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Children of Heaven",
+            "second_label": "Iran",
+            "category": "Foreign Language Film",
+            "year": 1999,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Grandfather",
+            "second_label": "Spain",
+            "category": "Foreign Language Film",
+            "year": 1999,
+            "tmdb": {
+                "id": 69851,
+                "original_title": "El abuelo",
+                "title": "The Grandfather",
+                "release_date": "1998-10-16",
+                "backdrop_path": "/vIIYlGX9lvc93VFBbDL5QXoMHUK.jpg",
+                "poster_path": "/63OYLpAPcHWMIHr96VDmqQUdJ5s.jpg",
+                "overview": "After his son dies, an elderly man comes back to Spain from the US and hopes to find out which of his granddaughters is true, and which one is bastard.",
+                "vote_average": 6.5,
+                "vote_count": 35
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Tango",
+            "second_label": "Argentina",
+            "category": "Foreign Language Film",
+            "year": 1999,
+            "tmdb": {
+                "id": 966959,
+                "original_title": "Bia\u0142e tango",
+                "title": "Bia\u0142e tango",
+                "release_date": "1982-08-06",
+                "backdrop_path": null,
+                "poster_path": "/tDFJ9Ew5JxeVi0TqMCzH61nqqDr.jpg",
+                "overview": "The heroes of the series are women employed in various positions in one workplace - each episode tells about one of them. Eight women of different ages, in different life situations, have various problems, experience the troubles and joys of everyday life in their own way.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        }
+    ],
+    "Irving G. Thalberg Memorial Award": [
+        {
+            "first_label": "",
+            "second_label": "Norman Jewison",
+            "category": "Irving G. Thalberg Memorial Award",
+            "year": 1999,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        }
+    ],
+    "Makeup": [
+        {
+            "first_label": "Elizabeth",
+            "second_label": "Jenny Shircore",
+            "category": "Makeup",
+            "year": 1999,
+            "tmdb": {
+                "id": 4518,
+                "original_title": "Elizabeth",
+                "title": "Elizabeth",
+                "release_date": "1998-09-13",
+                "backdrop_path": "/cCzvJ95pEB1I5cUX7Zjfl606noN.jpg",
+                "poster_path": "/ysMylmeZ9Hdt1WHT5M8ahTGBqB8.jpg",
+                "overview": "Em 1554, a Inglaterra estava divida entre cat\u00f3licos e protestantes e era governada por Mary Tudor (Kathy Burke), cat\u00f3lica, mas devido a um tumor ela acaba falecendo. Agora sua meia-irm\u00e3 Elizabeth (Cate Blanchett), protestante, assume o poder. Por\u00e9m, Elizabeth herda um pa\u00eds falido, sem ex\u00e9rcito e com inimigos por todos os lados, at\u00e9 mesmo na sua pr\u00f3pria corte, for\u00e7ando-a tomar cuidado a cada passo para permanecer no poder.",
+                "vote_average": 7.2,
+                "vote_count": 1312
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Saving Private Ryan",
+            "second_label": "Lois Burwell, Conor O'Sullivan, Daniel C. Striepeke",
+            "category": "Makeup",
+            "year": 1999,
+            "tmdb": {
+                "id": 857,
+                "original_title": "Saving Private Ryan",
+                "title": "O Resgate do Soldado Ryan",
+                "release_date": "1998-07-24",
+                "backdrop_path": "/bdD39MpSVhKjxarTxLSfX6baoMP.jpg",
+                "poster_path": "/hMLxNLCXRDd62acfCBn6mIyW1HU.jpg",
+                "overview": "Ao desembarcar na Normandia, no dia 6 de junho de 1944, capit\u00e3o Miller recebe a miss\u00e3o de comandar um grupo do segundo batalh\u00e3o para o resgate do soldado James Ryan, ca\u00e7ula de quatro irm\u00e3os, dentre os quais tr\u00eas morreram em combate. Por ordens do chefe George C. Marshall, eles precisam procurar o soldado e garantir o seu retorno, com vida, para casa.",
+                "vote_average": 8.212,
+                "vote_count": 15165
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Shakespeare in Love",
+            "second_label": "Lisa Westcott, Veronica Brebner",
+            "category": "Makeup",
+            "year": 1999,
+            "tmdb": {
+                "id": 1934,
+                "original_title": "Shakespeare in Love",
+                "title": "Shakespeare Apaixonado",
+                "release_date": "1998-12-11",
+                "backdrop_path": "/mkBwYZ5r01RQl0Educ0HvEwOyh5.jpg",
+                "poster_path": "/3wC7QCcjvT9vRMlWyXoJCbqIuXb.jpg",
+                "overview": "O jovem Will Shakespeare est\u00e1 para se tornar o dramaturgo de sua \u00e9poca mas \u00e9 atacado pelo mal dos escritores: um total travamento. Sua com\u00e9dia Romeu e Ethel, a filha do Pirata n\u00e3o sai do lugar e a estr\u00e9ia se aproxima rapidamente. O que Will precisa \u00e9 uma musa \u2014 e ela aparece na forma da bela Lady Viola. O caminho do verdadeiro amor n\u00e3o vai ser f\u00e1cil para Will. Viola est\u00e1 prometida em casamento ao insuport\u00e1vel Lorde Wessex sob o comando da Rainha Elizabeth. As alegrias e a trag\u00e9dia de sua pr\u00f3pria vida acabam no papel, tornando-se uma emocionante, inteligente e cativante hist\u00f3ria.",
+                "vote_average": 6.9,
+                "vote_count": 2878
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Dramatic Score)": [
+        {
+            "first_label": "Life Is Beautiful",
+            "second_label": "Nicola Piovani",
+            "category": "Music (Original Dramatic Score)",
+            "year": 1999,
+            "tmdb": {
+                "id": 637,
+                "original_title": "La vita \u00e8 bella",
+                "title": "A Vida \u00e9 Bela",
+                "release_date": "1997-12-20",
+                "backdrop_path": "/gavyCu1UaTaTNPsVaGXT6pe5u24.jpg",
+                "poster_path": "/mdqU2CHabmbdkWKs1IvCfksbtNM.jpg",
+                "overview": "Durante a Segunda Guerra Mundial na It\u00e1lia, o judeu Guido e seu filho Giosu\u00e9 s\u00e3o levados para um campo de concentra\u00e7\u00e3o nazista. Afastado da mulher, ele tem que usar sua imagina\u00e7\u00e3o para fazer o menino acreditar que est\u00e3o participando de uma grande brincadeira, com o intuito de proteg\u00ea-lo do terror e da viol\u00eancia que os cercam.",
+                "vote_average": 8.453,
+                "vote_count": 12644
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Elizabeth",
+            "second_label": "David Hirschfelder",
+            "category": "Music (Original Dramatic Score)",
+            "year": 1999,
+            "tmdb": {
+                "id": 4518,
+                "original_title": "Elizabeth",
+                "title": "Elizabeth",
+                "release_date": "1998-09-13",
+                "backdrop_path": "/cCzvJ95pEB1I5cUX7Zjfl606noN.jpg",
+                "poster_path": "/ysMylmeZ9Hdt1WHT5M8ahTGBqB8.jpg",
+                "overview": "Em 1554, a Inglaterra estava divida entre cat\u00f3licos e protestantes e era governada por Mary Tudor (Kathy Burke), cat\u00f3lica, mas devido a um tumor ela acaba falecendo. Agora sua meia-irm\u00e3 Elizabeth (Cate Blanchett), protestante, assume o poder. Por\u00e9m, Elizabeth herda um pa\u00eds falido, sem ex\u00e9rcito e com inimigos por todos os lados, at\u00e9 mesmo na sua pr\u00f3pria corte, for\u00e7ando-a tomar cuidado a cada passo para permanecer no poder.",
+                "vote_average": 7.2,
+                "vote_count": 1312
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Pleasantville",
+            "second_label": "Randy Newman",
+            "category": "Music (Original Dramatic Score)",
+            "year": 1999,
+            "tmdb": {
+                "id": 2657,
+                "original_title": "Pleasantville",
+                "title": "A Vida em Preto e Branco",
+                "release_date": "1998-09-17",
+                "backdrop_path": "/kYRMXDkV9cZO7xeuSzMvsyky8EK.jpg",
+                "poster_path": "/2HacTvkLUSwW7VAiElr8fr9pSsv.jpg",
+                "overview": "Nos anos 90 David (Tobey Maguire) \u00e9 um jovem solit\u00e1rio, que n\u00e3o \u00e9 feliz com sua vida e foge da realidade assistindo \"Pleasantville\", um seriado em preto e branco dos anos 50 onde tudo \u00e9 agrad\u00e1vel. Mas tudo muda bruscamente quando Jennifer (Reese Whisterpoon), sua irm\u00e3, que sexualmente muito mais ativa que David, briga com ele pela posse de um estranho controle remoto, que apareceu atrav\u00e9s de um igualmente estranho t\u00e9cnico de televis\u00e3o (Don Knotts), que chegou repentinamente logo ap\u00f3s eles terem quebrado o antigo controle. Durante a briga eles apertam o novo controle e s\u00e3o magicamente transportados para dentro da fict\u00edcia \"Pleasantville\" e l\u00e1 se tornam Bud e Mary-Sue Parker, dois personagens da s\u00e9rie.",
+                "vote_average": 7.2,
+                "vote_count": 1582
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Saving Private Ryan",
+            "second_label": "John Williams",
+            "category": "Music (Original Dramatic Score)",
+            "year": 1999,
+            "tmdb": {
+                "id": 857,
+                "original_title": "Saving Private Ryan",
+                "title": "O Resgate do Soldado Ryan",
+                "release_date": "1998-07-24",
+                "backdrop_path": "/bdD39MpSVhKjxarTxLSfX6baoMP.jpg",
+                "poster_path": "/hMLxNLCXRDd62acfCBn6mIyW1HU.jpg",
+                "overview": "Ao desembarcar na Normandia, no dia 6 de junho de 1944, capit\u00e3o Miller recebe a miss\u00e3o de comandar um grupo do segundo batalh\u00e3o para o resgate do soldado James Ryan, ca\u00e7ula de quatro irm\u00e3os, dentre os quais tr\u00eas morreram em combate. Por ordens do chefe George C. Marshall, eles precisam procurar o soldado e garantir o seu retorno, com vida, para casa.",
+                "vote_average": 8.212,
+                "vote_count": 15165
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Thin Red Line",
+            "second_label": "Hans Zimmer",
+            "category": "Music (Original Dramatic Score)",
+            "year": 1999,
+            "tmdb": {
+                "id": 8741,
+                "original_title": "The Thin Red Line",
+                "title": "Al\u00e9m da Linha Vermelha",
+                "release_date": "1998-12-23",
+                "backdrop_path": "/nBBu3nP7uvBAGmock4gOMXdrdrA.jpg",
+                "poster_path": "/bZTfnqmIzB6rWQeT0DDC66K8iBf.jpg",
+                "overview": "Durante a Segunda Guerra Mundial, fica claro que o resultado da batalha de Guadalcanal influenciar\u00e1 fortemente o avan\u00e7o japon\u00eas no Pac\u00edfico. Assim, um grupo de jovens soldados \u00e9 enviado para l\u00e1, trazendo al\u00edvio para as esgotadas unidades da marinha. L\u00e1 os rec\u00e9m-chegados conhecem um terror que nem imaginavam, mas no meio deste desespero surgem fortes la\u00e7os de amor e amizade.",
+                "vote_average": 7.446,
+                "vote_count": 2826
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Musical or Comedy Score)": [
+        {
+            "first_label": "Shakespeare in Love",
+            "second_label": "Stephen Warbeck",
+            "category": "Music (Original Musical or Comedy Score)",
+            "year": 1999,
+            "tmdb": {
+                "id": 1934,
+                "original_title": "Shakespeare in Love",
+                "title": "Shakespeare Apaixonado",
+                "release_date": "1998-12-11",
+                "backdrop_path": "/mkBwYZ5r01RQl0Educ0HvEwOyh5.jpg",
+                "poster_path": "/3wC7QCcjvT9vRMlWyXoJCbqIuXb.jpg",
+                "overview": "O jovem Will Shakespeare est\u00e1 para se tornar o dramaturgo de sua \u00e9poca mas \u00e9 atacado pelo mal dos escritores: um total travamento. Sua com\u00e9dia Romeu e Ethel, a filha do Pirata n\u00e3o sai do lugar e a estr\u00e9ia se aproxima rapidamente. O que Will precisa \u00e9 uma musa \u2014 e ela aparece na forma da bela Lady Viola. O caminho do verdadeiro amor n\u00e3o vai ser f\u00e1cil para Will. Viola est\u00e1 prometida em casamento ao insuport\u00e1vel Lorde Wessex sob o comando da Rainha Elizabeth. As alegrias e a trag\u00e9dia de sua pr\u00f3pria vida acabam no papel, tornando-se uma emocionante, inteligente e cativante hist\u00f3ria.",
+                "vote_average": 6.9,
+                "vote_count": 2878
+            },
+            "winner": true
+        },
+        {
+            "first_label": "A Bug's Life",
+            "second_label": "Randy Newman",
+            "category": "Music (Original Musical or Comedy Score)",
+            "year": 1999,
+            "tmdb": {
+                "id": 9487,
+                "original_title": "A Bug's Life",
+                "title": "Vida de Inseto",
+                "release_date": "1998-11-25",
+                "backdrop_path": "/hwwFyowfcbLRVmRBOkvnABBNIOs.jpg",
+                "poster_path": "/twzLdfNxyAa5xQWLLVQyapSqJJP.jpg",
+                "overview": "Flik \u00e9 uma formiga cheia de ideias que, em nome dos \"insetos oprimidos de todo o mundo\", precisa contratar guerreiros para defender sua col\u00f4nia de um faminto bando de gafanhotos liderado por Hopper. Mas quando descobrem que o ex\u00e9rcito de insetos \u00e9 na verdade um fracassado grupo de atores de um circo de pulgas, o cen\u00e1rio est\u00e1 armado para divertidas confus\u00f5es... com estes improv\u00e1veis her\u00f3is.",
+                "vote_average": 6.971,
+                "vote_count": 8787
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mulan",
+            "second_label": "Music by Matthew Wilder; Lyrics by David Zippel; Orchestral Score by Jerry Goldsmith",
+            "category": "Music (Original Musical or Comedy Score)",
+            "year": 1999,
+            "tmdb": {
+                "id": 10674,
+                "original_title": "Mulan",
+                "title": "Mulan",
+                "release_date": "1998-06-18",
+                "backdrop_path": "/mUYV0ZdsDEliGaQahcQH1F3grsP.jpg",
+                "poster_path": "/nq4taYpb2PjN1Cwni23GOZJbOaR.jpg",
+                "overview": "Na antiga China, durante a guerra, todos os homens s\u00e3o convocados para lutar. Mas, um pobre velho, que pela idade n\u00e3o poderia mais lutar, descobre que sua filha Mulan toma o seu lugar, vestindo-se como homem e permanecendo em segredo. Se isso for descoberto, o castigo ser\u00e1 severo. Agora, durante a guerra, Mulan ganha a prote\u00e7\u00e3o de um pequeno drag\u00e3o, cuja miss\u00e3o \u00e9 cuidar para que ela volte a salvo",
+                "vote_average": 7.9,
+                "vote_count": 9227
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Patch Adams",
+            "second_label": "Marc Shaiman",
+            "category": "Music (Original Musical or Comedy Score)",
+            "year": 1999,
+            "tmdb": {
+                "id": 10312,
+                "original_title": "Patch Adams",
+                "title": "Patch Adams: O Amor \u00e9 Contagioso",
+                "release_date": "1998-12-25",
+                "backdrop_path": "/sPGgJ0w1oCVPBOW41dN0hpMouhI.jpg",
+                "poster_path": "/fiVEMx2cBdhpQu2WkSfk1l334Qe.jpg",
+                "overview": "Conhe\u00e7a Patch Adams, um m\u00e9dico que n\u00e3o parece, age ou pensa como nenhum doutor que voc\u00ea conheceu antes. Para Patch, humor \u00e9 o melhor rem\u00e9dio, e ele est\u00e1 disposto a fazer de tudo para que seus pacientes sorriam \u2013 mesmo que isto signifique arriscar sua pr\u00f3pria carreira.",
+                "vote_average": 7.3,
+                "vote_count": 3083
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Prince of Egypt",
+            "second_label": "Music and Lyrics by Stephen Schwartz; Orchestral Score by Hans Zimmer",
+            "category": "Music (Original Musical or Comedy Score)",
+            "year": 1999,
+            "tmdb": {
+                "id": 9837,
+                "original_title": "The Prince of Egypt",
+                "title": "O Pr\u00edncipe do Egito",
+                "release_date": "1998-12-16",
+                "backdrop_path": "/cVa8EkjvT7IP0NMrGOKXs1UVUKs.jpg",
+                "poster_path": "/5jco6VjKwjAyN8HElg4F3dXGfT8.jpg",
+                "overview": "No Egito antigo, quando os hebreus l\u00e1 viviam como escravos e o fara\u00f3 Seti, temendo o constante nascimento de crian\u00e7as hebr\u00e9ias, pois no futuro poderiam se tornar uma for\u00e7a que amea\u00e7asse seu poder, ordena que todos os beb\u00eas hebreus do sexo masculino sejam afogados. Uma hebr\u00e9ia se desespera ao ver que seu filho poder\u00e1 ser morto e, para salv\u00e1-lo, o coloca em uma cesta no rio. A crian\u00e7a acaba sendo encontrada pela rainha, assim Mois\u00e9s criado como irm\u00e3o de Rams\u00e9s, o herdeiro do trono de Seti. Os dois crescem e se tornam grande amigos, mas Mois\u00e9s acaba descobrindo sua origem, decide abandonar o pal\u00e1cio e libertar os hebreus, para lev\u00e1-los para a Terra Prometida.",
+                "vote_average": 7.271,
+                "vote_count": 3760
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Song)": [
+        {
+            "first_label": "The Prince of Egypt",
+            "second_label": "When You Believe in \"The Prince of Egypt\" Music and Lyric by Stephen Schwartz",
+            "category": "Music (Original Song)",
+            "year": 1999,
+            "tmdb": {
+                "id": 9837,
+                "original_title": "The Prince of Egypt",
+                "title": "O Pr\u00edncipe do Egito",
+                "release_date": "1998-12-16",
+                "backdrop_path": "/cVa8EkjvT7IP0NMrGOKXs1UVUKs.jpg",
+                "poster_path": "/5jco6VjKwjAyN8HElg4F3dXGfT8.jpg",
+                "overview": "No Egito antigo, quando os hebreus l\u00e1 viviam como escravos e o fara\u00f3 Seti, temendo o constante nascimento de crian\u00e7as hebr\u00e9ias, pois no futuro poderiam se tornar uma for\u00e7a que amea\u00e7asse seu poder, ordena que todos os beb\u00eas hebreus do sexo masculino sejam afogados. Uma hebr\u00e9ia se desespera ao ver que seu filho poder\u00e1 ser morto e, para salv\u00e1-lo, o coloca em uma cesta no rio. A crian\u00e7a acaba sendo encontrada pela rainha, assim Mois\u00e9s criado como irm\u00e3o de Rams\u00e9s, o herdeiro do trono de Seti. Os dois crescem e se tornam grande amigos, mas Mois\u00e9s acaba descobrindo sua origem, decide abandonar o pal\u00e1cio e libertar os hebreus, para lev\u00e1-los para a Terra Prometida.",
+                "vote_average": 7.271,
+                "vote_count": 3760
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Armageddon",
+            "second_label": "I Don't Want To Miss A Thing in \"Armageddon\" Music and Lyric by Diane Warren",
+            "category": "Music (Original Song)",
+            "year": 1999,
+            "tmdb": {
+                "id": 95,
+                "original_title": "Armageddon",
+                "title": "Armageddon",
+                "release_date": "1998-07-01",
+                "backdrop_path": "/sODk4VuMTt8S56zYFOr1Kx8BFqu.jpg",
+                "poster_path": "/czJoGeLEGF1lLxyAj8u3HMxBy7o.jpg",
+                "overview": "Um asteroide amea\u00e7a colidir com a Terra e destruir todas as formas de vida. A solu\u00e7\u00e3o \u00e9 colocar uma bomba nuclear no interior do asteroide. Para realizar esta miss\u00e3o, convocam um perfurador de petr\u00f3leo, e ele monta uma equipe nada convencional para os padr\u00f5es do governo.",
+                "vote_average": 6.835,
+                "vote_count": 7590
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Quest for Camelot",
+            "second_label": "The Prayer in \"Quest for Camelot\" Music by Carole Bayer Sager and David Foster; Lyric by Carole Bayer Sager, David Foster, Tony Renis and Alberto Testa",
+            "category": "Music (Original Song)",
+            "year": 1999,
+            "tmdb": {
+                "id": 18937,
+                "original_title": "Quest for Camelot",
+                "title": "A Espada M\u00e1gica: A Lenda de Camelot",
+                "release_date": "1998-05-15",
+                "backdrop_path": "/m58yUAi6CuHJ61eYGtSOaV996qn.jpg",
+                "poster_path": "/kcCQvWUBRQzKB3kgjnJm4I6RRy5.jpg",
+                "overview": "Logo ap\u00f3s a coroa\u00e7\u00e3o do rei Arthur, a menina Kayley quer se tornar cavaleira da T\u00e1vola Redonda. Sua chance surge quando vil\u00f5es roubam Excalibur, a espada do monarca, e ela decide reav\u00ea-la com a ajuda do mago Merlin, de um rapaz cego e de um engra\u00e7ado drag\u00e3o de duas cabe\u00e7as.",
+                "vote_average": 6.8,
+                "vote_count": 773
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Horse Whisperer",
+            "second_label": "A Soft Place To Fall in \"The Horse Whisperer\" Music and Lyric by Allison Moorer and Gwil Owen",
+            "category": "Music (Original Song)",
+            "year": 1999,
+            "tmdb": {
+                "id": 547,
+                "original_title": "The Horse Whisperer",
+                "title": "O Encantador de Cavalos",
+                "release_date": "1998-02-01",
+                "backdrop_path": "/ww9pokP6M6gp2Iu0o3sT5B7eN66.jpg",
+                "poster_path": "/64V3LgOYPY6xNadOzmzW5ONNIlm.jpg",
+                "overview": "Uma nova-iorquina leva sua a filha e o cavalo dela a um homem conhecido como o \"encantador de cavalos\" no estado de Montana, pois a jovem e o animal est\u00e3o traumatizados ap\u00f3s um terr\u00edvel acidente.",
+                "vote_average": 6.9,
+                "vote_count": 1059
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Babe: Pig in the City",
+            "second_label": "That'll Do in \"Babe: Pig in the City\" Music and Lyric by Randy Newman",
+            "category": "Music (Original Song)",
+            "year": 1999,
+            "tmdb": {
+                "id": 9447,
+                "original_title": "Babe: Pig in the City",
+                "title": "Babe, o Porquinho Atrapalhado na Cidade",
+                "release_date": "1998-11-25",
+                "backdrop_path": "/xGmjRCB7mMgk69SULRKLaH16I73.jpg",
+                "poster_path": "/lnx4RO0Tn5WtZQ7KpNDWl4IhYy0.jpg",
+                "overview": "Quando descobre que sua dona est\u00e1 prestes a perder sua fazenda, Babe, o leit\u00e3o-pastor, vai para a cidade com ela e amigos animais para levantar fundos e, assim, salvar a propriedade.",
+                "vote_average": 5.6,
+                "vote_count": 1169
+            },
+            "winner": false
+        }
+    ],
+    "Best Picture": [
+        {
+            "first_label": "Shakespeare in Love",
+            "second_label": "David Parfitt, Donna Gigliotti, Harvey Weinstein, Edward Zwick and Marc Norman, Producers",
+            "category": "Best Picture",
+            "year": 1999,
+            "tmdb": {
+                "id": 1934,
+                "original_title": "Shakespeare in Love",
+                "title": "Shakespeare Apaixonado",
+                "release_date": "1998-12-11",
+                "backdrop_path": "/mkBwYZ5r01RQl0Educ0HvEwOyh5.jpg",
+                "poster_path": "/3wC7QCcjvT9vRMlWyXoJCbqIuXb.jpg",
+                "overview": "O jovem Will Shakespeare est\u00e1 para se tornar o dramaturgo de sua \u00e9poca mas \u00e9 atacado pelo mal dos escritores: um total travamento. Sua com\u00e9dia Romeu e Ethel, a filha do Pirata n\u00e3o sai do lugar e a estr\u00e9ia se aproxima rapidamente. O que Will precisa \u00e9 uma musa \u2014 e ela aparece na forma da bela Lady Viola. O caminho do verdadeiro amor n\u00e3o vai ser f\u00e1cil para Will. Viola est\u00e1 prometida em casamento ao insuport\u00e1vel Lorde Wessex sob o comando da Rainha Elizabeth. As alegrias e a trag\u00e9dia de sua pr\u00f3pria vida acabam no papel, tornando-se uma emocionante, inteligente e cativante hist\u00f3ria.",
+                "vote_average": 6.9,
+                "vote_count": 2878
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Elizabeth",
+            "second_label": "Alison Owen, Eric Fellner and Tim Bevan, Producers",
+            "category": "Best Picture",
+            "year": 1999,
+            "tmdb": {
+                "id": 4518,
+                "original_title": "Elizabeth",
+                "title": "Elizabeth",
+                "release_date": "1998-09-13",
+                "backdrop_path": "/cCzvJ95pEB1I5cUX7Zjfl606noN.jpg",
+                "poster_path": "/ysMylmeZ9Hdt1WHT5M8ahTGBqB8.jpg",
+                "overview": "Em 1554, a Inglaterra estava divida entre cat\u00f3licos e protestantes e era governada por Mary Tudor (Kathy Burke), cat\u00f3lica, mas devido a um tumor ela acaba falecendo. Agora sua meia-irm\u00e3 Elizabeth (Cate Blanchett), protestante, assume o poder. Por\u00e9m, Elizabeth herda um pa\u00eds falido, sem ex\u00e9rcito e com inimigos por todos os lados, at\u00e9 mesmo na sua pr\u00f3pria corte, for\u00e7ando-a tomar cuidado a cada passo para permanecer no poder.",
+                "vote_average": 7.2,
+                "vote_count": 1312
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Life Is Beautiful",
+            "second_label": "Elda Ferri and Gianluigi Braschi, Producers",
+            "category": "Best Picture",
+            "year": 1999,
+            "tmdb": {
+                "id": 637,
+                "original_title": "La vita \u00e8 bella",
+                "title": "A Vida \u00e9 Bela",
+                "release_date": "1997-12-20",
+                "backdrop_path": "/gavyCu1UaTaTNPsVaGXT6pe5u24.jpg",
+                "poster_path": "/mdqU2CHabmbdkWKs1IvCfksbtNM.jpg",
+                "overview": "Durante a Segunda Guerra Mundial na It\u00e1lia, o judeu Guido e seu filho Giosu\u00e9 s\u00e3o levados para um campo de concentra\u00e7\u00e3o nazista. Afastado da mulher, ele tem que usar sua imagina\u00e7\u00e3o para fazer o menino acreditar que est\u00e3o participando de uma grande brincadeira, com o intuito de proteg\u00ea-lo do terror e da viol\u00eancia que os cercam.",
+                "vote_average": 8.453,
+                "vote_count": 12644
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Saving Private Ryan",
+            "second_label": "Steven Spielberg, Ian Bryce, Mark Gordon and Gary Levinsohn, Producers",
+            "category": "Best Picture",
+            "year": 1999,
+            "tmdb": {
+                "id": 857,
+                "original_title": "Saving Private Ryan",
+                "title": "O Resgate do Soldado Ryan",
+                "release_date": "1998-07-24",
+                "backdrop_path": "/bdD39MpSVhKjxarTxLSfX6baoMP.jpg",
+                "poster_path": "/hMLxNLCXRDd62acfCBn6mIyW1HU.jpg",
+                "overview": "Ao desembarcar na Normandia, no dia 6 de junho de 1944, capit\u00e3o Miller recebe a miss\u00e3o de comandar um grupo do segundo batalh\u00e3o para o resgate do soldado James Ryan, ca\u00e7ula de quatro irm\u00e3os, dentre os quais tr\u00eas morreram em combate. Por ordens do chefe George C. Marshall, eles precisam procurar o soldado e garantir o seu retorno, com vida, para casa.",
+                "vote_average": 8.212,
+                "vote_count": 15165
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Thin Red Line",
+            "second_label": "Robert Michael Geisler, John Roberdeau and Grant Hill, Producers",
+            "category": "Best Picture",
+            "year": 1999,
+            "tmdb": {
+                "id": 8741,
+                "original_title": "The Thin Red Line",
+                "title": "Al\u00e9m da Linha Vermelha",
+                "release_date": "1998-12-23",
+                "backdrop_path": "/nBBu3nP7uvBAGmock4gOMXdrdrA.jpg",
+                "poster_path": "/bZTfnqmIzB6rWQeT0DDC66K8iBf.jpg",
+                "overview": "Durante a Segunda Guerra Mundial, fica claro que o resultado da batalha de Guadalcanal influenciar\u00e1 fortemente o avan\u00e7o japon\u00eas no Pac\u00edfico. Assim, um grupo de jovens soldados \u00e9 enviado para l\u00e1, trazendo al\u00edvio para as esgotadas unidades da marinha. L\u00e1 os rec\u00e9m-chegados conhecem um terror que nem imaginavam, mas no meio deste desespero surgem fortes la\u00e7os de amor e amizade.",
+                "vote_average": 7.446,
+                "vote_count": 2826
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Animated)": [
+        {
+            "first_label": "Bunny",
+            "second_label": "Chris Wedge",
+            "category": "Short Film (Animated)",
+            "year": 1999,
+            "tmdb": {
+                "id": 48610,
+                "original_title": "Bunny",
+                "title": "Coelhinha",
+                "release_date": "1998-11-02",
+                "backdrop_path": "/pBUgZj5dkuzatd29lcJbKDHP0L1.jpg",
+                "poster_path": "/bu2uzi8yHOEezsfBPYsKmPZKz1D.jpg",
+                "overview": "Bunny \u00e9 uma coelha idosa que usa um andador. Uma noite estava na cozinha assando um bolo e olhando a fotografia do dia do seu casamento que est\u00e1 em sua parede, quando surge uma mariposa traquina e persistente.",
+                "vote_average": 6.5,
+                "vote_count": 54
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Canterbury Tales",
+            "second_label": "Christopher Grace, Jonathan Myerson",
+            "category": "Short Film (Animated)",
+            "year": 1999,
+            "tmdb": {
+                "id": 1117670,
+                "original_title": "The Canterbury Tales",
+                "title": "The Canterbury Tales",
+                "release_date": "1998-12-21",
+                "backdrop_path": null,
+                "poster_path": "/hR8DEJtz3ANOXOyBzZHpUd5ytWt.jpg",
+                "overview": "Animated adaptation of Chaucer's famous narrative poems, using a variety of groundbreaking animation techniques. On a pilgrimage from London to the tomb of Thomas Becket in Canterbury, a group of travellers from all walks of medieval society recount tales and stories to each other to provide amusement on the journey. Featuring the voice talents of Sean Bean, Robert Lindsay, Bill Nighy and others.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jolly Roger",
+            "second_label": "Mark Baker",
+            "category": "Short Film (Animated)",
+            "year": 1999,
+            "tmdb": {
+                "id": 220834,
+                "original_title": "Jolly Roger",
+                "title": "Jolly Roger",
+                "release_date": "1999-10-18",
+                "backdrop_path": null,
+                "poster_path": "/qrSJLp0JwYASO44Y5sHTdDiToSa.jpg",
+                "overview": "Um grupo de piratas aborda um navio francesa e sequestra uma donzela. Por sua insol\u00eancia, ela \u00e9 levada \u00e0 prancha, mas vai querer se vingar.",
+                "vote_average": 6.5,
+                "vote_count": 12
+            },
+            "winner": false
+        },
+        {
+            "first_label": "More",
+            "second_label": "Mark Osborne, Steve Kalafer",
+            "category": "Short Film (Animated)",
+            "year": 1999,
+            "tmdb": {
+                "id": 36107,
+                "original_title": "More",
+                "title": "More",
+                "release_date": "1998-09-01",
+                "backdrop_path": "/vPeYenWmcHcYGBTro5LUHB5izb5.jpg",
+                "poster_path": "/802hVxtGoC4uIYMhM6eeXKeK17l.jpg",
+                "overview": "A factory worker in a dark, gray world assembles devices that promise happiness. In his spare time he tinkers to create something better, and finally succeeds in perfecting his invention, which allows people to see life through rose-colored glasses, but he has to pay a price for his success.",
+                "vote_average": 7.6,
+                "vote_count": 154
+            },
+            "winner": false
+        },
+        {
+            "first_label": "When Life Departs",
+            "second_label": "Karsten Kiilerich, Stefan Fjeldmark",
+            "category": "Short Film (Animated)",
+            "year": 1999,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Live Action)": [
+        {
+            "first_label": "Election Night (Valgaften)",
+            "second_label": "Kim Magnusson, Anders Thomas Jensen",
+            "category": "Short Film (Live Action)",
+            "year": 1999,
+            "tmdb": {
+                "id": 93980,
+                "original_title": "Valgaften",
+                "title": "Election Night",
+                "release_date": "1998-01-01",
+                "backdrop_path": null,
+                "poster_path": "/bYe91VYoNxSEANwYntIwfl3oLdu.jpg",
+                "overview": "On election night we meet Peter, an idealistic young man, who suddenly discovers he has forgotten to vote. On his way to the polls he encounters a variety of taxi drivers, all racist in their way and Peter has to decide whether to stand up for his convictions or getting to the polls on time. The film won an Oscar for Best Live Action Short Film.",
+                "vote_average": 7.1,
+                "vote_count": 33
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Culture",
+            "second_label": "Will Speck, Josh Gordon",
+            "category": "Short Film (Live Action)",
+            "year": 1999,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Holiday Romance",
+            "second_label": "Alexander Jovy, JJ Keith",
+            "category": "Short Film (Live Action)",
+            "year": 1999,
+            "tmdb": {
+                "id": 244930,
+                "original_title": "Holiday Romance",
+                "title": "Holiday Romance",
+                "release_date": "1998-01-01",
+                "backdrop_path": null,
+                "poster_path": "/20suOZsLtT87NPt2rXZcIaf3aOp.jpg",
+                "overview": "A would-be thief enters a house and finds plenty of reasons to make himself at home. Chief among them is the fact that he can't leave, having been trapped by his 'victim' and forced to look after the place while she's on vacation. Can the tables be turned again? The film was nominated for an Oscar for Best Live Action Short Film.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "La Carte Postale (The Postcard)",
+            "second_label": "Vivian Goffette",
+            "category": "Short Film (Live Action)",
+            "year": 1999,
+            "tmdb": {
+                "id": 244933,
+                "original_title": "La carte postale",
+                "title": "The Postcard",
+                "release_date": "1998-01-01",
+                "backdrop_path": null,
+                "poster_path": "/5MjlOnHsYEqeD1QoQR1I2gtdbWy.jpg",
+                "overview": "La Carte Postale is a 1998 short film directed by Vivian Goffette.  The film was nominated for an Oscar for Best Live Action Short Film.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Victor",
+            "second_label": "Simon Sandquist, Joel Bergvall",
+            "category": "Short Film (Live Action)",
+            "year": 1999,
+            "tmdb": {
+                "id": 244935,
+                "original_title": "Victor",
+                "title": "Victor",
+                "release_date": "1997-01-01",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "Oscar nominated short film from 1998 about the boy Victor who is in the hospital and loves firetrucks and firemen over anything else. Someday he gets to meet real firemen.",
+                "vote_average": 6.0,
+                "vote_count": 1
+            },
+            "winner": false
+        }
+    ],
+    "Sound": [
+        {
+            "first_label": "Saving Private Ryan",
+            "second_label": "Gary Rydstrom, Gary Summers, Andy Nelson, Ronald Judkins",
+            "category": "Sound",
+            "year": 1999,
+            "tmdb": {
+                "id": 857,
+                "original_title": "Saving Private Ryan",
+                "title": "O Resgate do Soldado Ryan",
+                "release_date": "1998-07-24",
+                "backdrop_path": "/bdD39MpSVhKjxarTxLSfX6baoMP.jpg",
+                "poster_path": "/hMLxNLCXRDd62acfCBn6mIyW1HU.jpg",
+                "overview": "Ao desembarcar na Normandia, no dia 6 de junho de 1944, capit\u00e3o Miller recebe a miss\u00e3o de comandar um grupo do segundo batalh\u00e3o para o resgate do soldado James Ryan, ca\u00e7ula de quatro irm\u00e3os, dentre os quais tr\u00eas morreram em combate. Por ordens do chefe George C. Marshall, eles precisam procurar o soldado e garantir o seu retorno, com vida, para casa.",
+                "vote_average": 8.212,
+                "vote_count": 15165
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Armageddon",
+            "second_label": "Kevin O'Connell, Greg P. Russell, Keith A. Wester",
+            "category": "Sound",
+            "year": 1999,
+            "tmdb": {
+                "id": 95,
+                "original_title": "Armageddon",
+                "title": "Armageddon",
+                "release_date": "1998-07-01",
+                "backdrop_path": "/sODk4VuMTt8S56zYFOr1Kx8BFqu.jpg",
+                "poster_path": "/czJoGeLEGF1lLxyAj8u3HMxBy7o.jpg",
+                "overview": "Um asteroide amea\u00e7a colidir com a Terra e destruir todas as formas de vida. A solu\u00e7\u00e3o \u00e9 colocar uma bomba nuclear no interior do asteroide. Para realizar esta miss\u00e3o, convocam um perfurador de petr\u00f3leo, e ele monta uma equipe nada convencional para os padr\u00f5es do governo.",
+                "vote_average": 6.835,
+                "vote_count": 7590
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Mask of Zorro",
+            "second_label": "Kevin O'Connell, Greg P. Russell, Pud Cusack",
+            "category": "Sound",
+            "year": 1999,
+            "tmdb": {
+                "id": 9342,
+                "original_title": "The Mask of Zorro",
+                "title": "A M\u00e1scara do Zorro",
+                "release_date": "1998-07-16",
+                "backdrop_path": "/dOqqnfLq1LFs7UlC9ZzMIgqbicu.jpg",
+                "poster_path": "/XJ9sq8CAxGcHjxpsLWu9fBGZsB.jpg",
+                "overview": "Depois de vinte anos, o lend\u00e1rio Zorro escapa da pris\u00e3o para vingar o assassinato de sua mulher e o rapto de sua filha Elena, ambos realizados pelas m\u00e3os de seu inimigo Don Rafael Montero. Mas primeiro ele deve transformar o jovem ladr\u00e3o arrogante Alejandro Murrieta no temido her\u00f3i e lutar pelo povo do qual fez parte um dia.",
+                "vote_average": 6.6,
+                "vote_count": 3825
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Shakespeare in Love",
+            "second_label": "Robin O'Donoghue, Dominic Lester, Peter Glossop",
+            "category": "Sound",
+            "year": 1999,
+            "tmdb": {
+                "id": 1934,
+                "original_title": "Shakespeare in Love",
+                "title": "Shakespeare Apaixonado",
+                "release_date": "1998-12-11",
+                "backdrop_path": "/mkBwYZ5r01RQl0Educ0HvEwOyh5.jpg",
+                "poster_path": "/3wC7QCcjvT9vRMlWyXoJCbqIuXb.jpg",
+                "overview": "O jovem Will Shakespeare est\u00e1 para se tornar o dramaturgo de sua \u00e9poca mas \u00e9 atacado pelo mal dos escritores: um total travamento. Sua com\u00e9dia Romeu e Ethel, a filha do Pirata n\u00e3o sai do lugar e a estr\u00e9ia se aproxima rapidamente. O que Will precisa \u00e9 uma musa \u2014 e ela aparece na forma da bela Lady Viola. O caminho do verdadeiro amor n\u00e3o vai ser f\u00e1cil para Will. Viola est\u00e1 prometida em casamento ao insuport\u00e1vel Lorde Wessex sob o comando da Rainha Elizabeth. As alegrias e a trag\u00e9dia de sua pr\u00f3pria vida acabam no papel, tornando-se uma emocionante, inteligente e cativante hist\u00f3ria.",
+                "vote_average": 6.9,
+                "vote_count": 2878
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Thin Red Line",
+            "second_label": "Andy Nelson, Anna Behlmer, Paul Brincat",
+            "category": "Sound",
+            "year": 1999,
+            "tmdb": {
+                "id": 8741,
+                "original_title": "The Thin Red Line",
+                "title": "Al\u00e9m da Linha Vermelha",
+                "release_date": "1998-12-23",
+                "backdrop_path": "/nBBu3nP7uvBAGmock4gOMXdrdrA.jpg",
+                "poster_path": "/bZTfnqmIzB6rWQeT0DDC66K8iBf.jpg",
+                "overview": "Durante a Segunda Guerra Mundial, fica claro que o resultado da batalha de Guadalcanal influenciar\u00e1 fortemente o avan\u00e7o japon\u00eas no Pac\u00edfico. Assim, um grupo de jovens soldados \u00e9 enviado para l\u00e1, trazendo al\u00edvio para as esgotadas unidades da marinha. L\u00e1 os rec\u00e9m-chegados conhecem um terror que nem imaginavam, mas no meio deste desespero surgem fortes la\u00e7os de amor e amizade.",
+                "vote_average": 7.446,
+                "vote_count": 2826
+            },
+            "winner": false
+        }
+    ],
+    "Sound Effects Editing": [
+        {
+            "first_label": "Saving Private Ryan",
+            "second_label": "Gary Rydstrom, Richard Hymns",
+            "category": "Sound Effects Editing",
+            "year": 1999,
+            "tmdb": {
+                "id": 857,
+                "original_title": "Saving Private Ryan",
+                "title": "O Resgate do Soldado Ryan",
+                "release_date": "1998-07-24",
+                "backdrop_path": "/bdD39MpSVhKjxarTxLSfX6baoMP.jpg",
+                "poster_path": "/hMLxNLCXRDd62acfCBn6mIyW1HU.jpg",
+                "overview": "Ao desembarcar na Normandia, no dia 6 de junho de 1944, capit\u00e3o Miller recebe a miss\u00e3o de comandar um grupo do segundo batalh\u00e3o para o resgate do soldado James Ryan, ca\u00e7ula de quatro irm\u00e3os, dentre os quais tr\u00eas morreram em combate. Por ordens do chefe George C. Marshall, eles precisam procurar o soldado e garantir o seu retorno, com vida, para casa.",
+                "vote_average": 8.212,
+                "vote_count": 15165
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Armageddon",
+            "second_label": "George Watters II",
+            "category": "Sound Effects Editing",
+            "year": 1999,
+            "tmdb": {
+                "id": 95,
+                "original_title": "Armageddon",
+                "title": "Armageddon",
+                "release_date": "1998-07-01",
+                "backdrop_path": "/sODk4VuMTt8S56zYFOr1Kx8BFqu.jpg",
+                "poster_path": "/czJoGeLEGF1lLxyAj8u3HMxBy7o.jpg",
+                "overview": "Um asteroide amea\u00e7a colidir com a Terra e destruir todas as formas de vida. A solu\u00e7\u00e3o \u00e9 colocar uma bomba nuclear no interior do asteroide. Para realizar esta miss\u00e3o, convocam um perfurador de petr\u00f3leo, e ele monta uma equipe nada convencional para os padr\u00f5es do governo.",
+                "vote_average": 6.835,
+                "vote_count": 7590
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Mask of Zorro",
+            "second_label": "David McMoyler",
+            "category": "Sound Effects Editing",
+            "year": 1999,
+            "tmdb": {
+                "id": 9342,
+                "original_title": "The Mask of Zorro",
+                "title": "A M\u00e1scara do Zorro",
+                "release_date": "1998-07-16",
+                "backdrop_path": "/dOqqnfLq1LFs7UlC9ZzMIgqbicu.jpg",
+                "poster_path": "/XJ9sq8CAxGcHjxpsLWu9fBGZsB.jpg",
+                "overview": "Depois de vinte anos, o lend\u00e1rio Zorro escapa da pris\u00e3o para vingar o assassinato de sua mulher e o rapto de sua filha Elena, ambos realizados pelas m\u00e3os de seu inimigo Don Rafael Montero. Mas primeiro ele deve transformar o jovem ladr\u00e3o arrogante Alejandro Murrieta no temido her\u00f3i e lutar pelo povo do qual fez parte um dia.",
+                "vote_average": 6.6,
+                "vote_count": 3825
+            },
+            "winner": false
+        }
+    ],
+    "Visual Effects": [
+        {
+            "first_label": "What Dreams May Come",
+            "second_label": "Joel Hynek, Nicholas Brooks, Stuart Robertson, Kevin Mack",
+            "category": "Visual Effects",
+            "year": 1999,
+            "tmdb": {
+                "id": 12159,
+                "original_title": "What Dreams May Come",
+                "title": "Amor Al\u00e9m da Vida",
+                "release_date": "1998-10-02",
+                "backdrop_path": "/586n41CjDveXtwmQgP41YtyHKUV.jpg",
+                "poster_path": "/tnuZypYMGme4wK6wSSNt79awmp3.jpg",
+                "overview": "Depois da morte de seus dois filhos, Chris Nielson e sua mulher Annie passam por insuper\u00e1veis dificuldades emocionais. Anos depois, acontece outra trag\u00e9dia: Chris tamb\u00e9m morre. Ele vai para o Para\u00edso, onde conhece Albert, um rapaz de bom cora\u00e7\u00e3o que vai ajud\u00e1-lo a se adaptar \u00e0 nova exist\u00eancia. Para Annie, a morte do marido \u00e9 a \u00faltima gota que a prendia \u00e0 vida, e ela acaba se suicidando. Por\u00e9m, diferente de Chris, ela n\u00e3o vai ao Para\u00edso, mas sim a um lugar diferente, uma esp\u00e9cie de purgat\u00f3rio onde ficam as almas perturbadas. Quando descobre o destino da mulher, Chris pede ajuda a Albert e os dois saem em uma jornada em busca da salva\u00e7\u00e3o da alma de Annie, provando que o amor desafia qualquer infort\u00fanio.",
+                "vote_average": 7.2,
+                "vote_count": 2189
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Armageddon",
+            "second_label": "Richard R. Hoover, Pat McClung, John Frazier",
+            "category": "Visual Effects",
+            "year": 1999,
+            "tmdb": {
+                "id": 95,
+                "original_title": "Armageddon",
+                "title": "Armageddon",
+                "release_date": "1998-07-01",
+                "backdrop_path": "/sODk4VuMTt8S56zYFOr1Kx8BFqu.jpg",
+                "poster_path": "/czJoGeLEGF1lLxyAj8u3HMxBy7o.jpg",
+                "overview": "Um asteroide amea\u00e7a colidir com a Terra e destruir todas as formas de vida. A solu\u00e7\u00e3o \u00e9 colocar uma bomba nuclear no interior do asteroide. Para realizar esta miss\u00e3o, convocam um perfurador de petr\u00f3leo, e ele monta uma equipe nada convencional para os padr\u00f5es do governo.",
+                "vote_average": 6.835,
+                "vote_count": 7590
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mighty Joe Young",
+            "second_label": "Rick Baker, Hoyt Yeatman, Allen Hall, Jim Mitchell",
+            "category": "Visual Effects",
+            "year": 1999,
+            "tmdb": {
+                "id": 9822,
+                "original_title": "Mighty Joe Young",
+                "title": "Poderoso Joe",
+                "release_date": "1998-12-25",
+                "backdrop_path": "/dkNjhkEk2tw7hoxx7Ik1YQsdenZ.jpg",
+                "poster_path": "/d5s4IxeF83h9Gz5b1F096nPGZov.jpg",
+                "overview": "O ponto de partida na trama \u00e9 a morte de uma cientista e de uma gorila f\u00eamea em uma aldeia africana. As duas deixam seus respectivos filhotes, que se tornam insepar\u00e1veis. A narrativa avan\u00e7a e a situa\u00e7\u00e3o se complica. Crescidos, a jovem Jill (Theron) e o gorila Joe passam a sofrer a persegui\u00e7\u00e3o dos ca\u00e7adores. Para garantir a seguran\u00e7a do macaco, a mo\u00e7a aceita a oferta de um zo\u00f3logo (Paxton) e interna o bicho em uma reserva animal nos EUA. A empreitada n\u00e3o d\u00e1 certo e a dupla tem ent\u00e3o de bolar um plano mirabolante para levar o gorila de volta.",
+                "vote_average": 6.2,
+                "vote_count": 755
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay Based on Material Previously Produced or Published)": [
+        {
+            "first_label": "Gods and Monsters",
+            "second_label": "Bill Condon",
+            "category": "Writing (Screenplay Based on Material Previously Produced or Published)",
+            "year": 1999,
+            "tmdb": {
+                "id": 3033,
+                "original_title": "Gods and Monsters",
+                "title": "Deuses e Monstros",
+                "release_date": "1998-01-21",
+                "backdrop_path": "/v1HOjtXoGwQz26fT4elHeNT0JnW.jpg",
+                "poster_path": "/An9PZgjnm8g0VHlBDUfzyp71NXW.jpg",
+                "overview": "Em 1957, James Whale (Ian McKellen), um diretor homossexual que fez sucesso nos anos 30 com seus filmes de monstros, volta para casa, ap\u00f3s se recuperar de um derrame. Sentindo-se solit\u00e1rio, ele passa a contar muito de suas experi\u00eancias, para o seu musculoso jardineiro (Brendan Fraser), um ex-fuzileiro naval na Guerra da Cor\u00e9ia, que, sabendo das prefer\u00eancias sexuais do seu patr\u00e3o, tem d\u00favida sobre os verdadeiros interesses dele. Mas mesmo assim a amizade cresce e, simultaneamente, o jardineiro \u00e9 pago para posar para ele, pois agora o diretor \u00e9 um pintor diletante. Estes acontecimentos ocorrem sob os olhares vigilantes da sua governanta (Lynn Redgrave), que, conhecendo bem o patr\u00e3o, quer evitar que o jovem seja envolvido por ele. Mas algo inesperado est\u00e1 para acontecer.",
+                "vote_average": 6.9,
+                "vote_count": 333
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Out of Sight",
+            "second_label": "Scott Frank",
+            "category": "Writing (Screenplay Based on Material Previously Produced or Published)",
+            "year": 1999,
+            "tmdb": {
+                "id": 1389,
+                "original_title": "Out of Sight",
+                "title": "Irresist\u00edvel Paix\u00e3o",
+                "release_date": "1998-06-26",
+                "backdrop_path": "/dALQsHqbcySpACOq2qXQwsasVBx.jpg",
+                "poster_path": "/e0dmJYdLVMTqTh0nF8oh4IShfdu.jpg",
+                "overview": "Charmoso ladr\u00e3o, sem saber, usa carro de agente do FBI para fugir da penitenci\u00e1ria. Ele acaba conhecendo e se apaixonando pela bela dona do carro, a agente Karen, mas tem que tomar cuidado para planejar um golpe perfeito, sem que sua pr\u00f3pria amada o coloque atr\u00e1s das grades.",
+                "vote_average": 6.7,
+                "vote_count": 1185
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Primary Colors",
+            "second_label": "Elaine May",
+            "category": "Writing (Screenplay Based on Material Previously Produced or Published)",
+            "year": 1999,
+            "tmdb": {
+                "id": 9440,
+                "original_title": "Primary Colors",
+                "title": "Segredos do Poder",
+                "release_date": "1998-03-20",
+                "backdrop_path": "/8S0fdn8FumgyqEN2yQDeVfBFOk1.jpg",
+                "poster_path": "/3TftHgFplKAMtQrMEY94EDFgVU3.jpg",
+                "overview": "Jovem idealista junta-se ao comit\u00ea para eleger Jack Stanton, governador de estado do sul do Estados Unidos que, ao longo da campanha, comprova sua fama de sedutor incorrig\u00edvel, causando grandes problemas para seus colaboradores mais pr\u00f3ximos.",
+                "vote_average": 6.3,
+                "vote_count": 293
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Simple Plan",
+            "second_label": "Scott B. Smith",
+            "category": "Writing (Screenplay Based on Material Previously Produced or Published)",
+            "year": 1999,
+            "tmdb": {
+                "id": 10223,
+                "original_title": "A Simple Plan",
+                "title": "Um Plano Simples",
+                "release_date": "1998-12-11",
+                "backdrop_path": "/gtdCmYpubVkkvTQ8rdR9tkixDSj.jpg",
+                "poster_path": "/m8mtkmcVAE2Z9ZtdI6ZQfoRGACe.jpg",
+                "overview": "Em uma reserva florestal, Hank Mitchell, Jacob Mitchell e Lou encontram 4,4 milh\u00f5es de d\u00f3lares dentro de um avi\u00e3o, que sofreu um acidente. Inicialmente, planejam n\u00e3o usar o dinheiro at\u00e9 o avi\u00e3o ser achado e a situa\u00e7\u00e3o se acalmar, mas Jacob e Lou, por motivos diversos, pressionam Hank, exigindo a parte deles. Logo a amizade que havia entre eles come\u00e7a a ser gradativamente desfeita e, para piorar a situa\u00e7\u00e3o, Jacob se assusta com um morador da regi\u00e3o e o fere mortalmente. Al\u00e9m disto, um agente do FBI chega \u00e0 cidade para investigar a poss\u00edvel queda de um avi\u00e3o na regi\u00e3o.",
+                "vote_average": 7.2,
+                "vote_count": 841
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Thin Red Line",
+            "second_label": "Terrence Malick",
+            "category": "Writing (Screenplay Based on Material Previously Produced or Published)",
+            "year": 1999,
+            "tmdb": {
+                "id": 8741,
+                "original_title": "The Thin Red Line",
+                "title": "Al\u00e9m da Linha Vermelha",
+                "release_date": "1998-12-23",
+                "backdrop_path": "/nBBu3nP7uvBAGmock4gOMXdrdrA.jpg",
+                "poster_path": "/bZTfnqmIzB6rWQeT0DDC66K8iBf.jpg",
+                "overview": "Durante a Segunda Guerra Mundial, fica claro que o resultado da batalha de Guadalcanal influenciar\u00e1 fortemente o avan\u00e7o japon\u00eas no Pac\u00edfico. Assim, um grupo de jovens soldados \u00e9 enviado para l\u00e1, trazendo al\u00edvio para as esgotadas unidades da marinha. L\u00e1 os rec\u00e9m-chegados conhecem um terror que nem imaginavam, mas no meio deste desespero surgem fortes la\u00e7os de amor e amizade.",
+                "vote_average": 7.446,
+                "vote_count": 2826
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay Written Directly for the Screen)": [
+        {
+            "first_label": "Shakespeare in Love",
+            "second_label": "Marc Norman, Tom Stoppard",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 1999,
+            "tmdb": {
+                "id": 1934,
+                "original_title": "Shakespeare in Love",
+                "title": "Shakespeare Apaixonado",
+                "release_date": "1998-12-11",
+                "backdrop_path": "/mkBwYZ5r01RQl0Educ0HvEwOyh5.jpg",
+                "poster_path": "/3wC7QCcjvT9vRMlWyXoJCbqIuXb.jpg",
+                "overview": "O jovem Will Shakespeare est\u00e1 para se tornar o dramaturgo de sua \u00e9poca mas \u00e9 atacado pelo mal dos escritores: um total travamento. Sua com\u00e9dia Romeu e Ethel, a filha do Pirata n\u00e3o sai do lugar e a estr\u00e9ia se aproxima rapidamente. O que Will precisa \u00e9 uma musa \u2014 e ela aparece na forma da bela Lady Viola. O caminho do verdadeiro amor n\u00e3o vai ser f\u00e1cil para Will. Viola est\u00e1 prometida em casamento ao insuport\u00e1vel Lorde Wessex sob o comando da Rainha Elizabeth. As alegrias e a trag\u00e9dia de sua pr\u00f3pria vida acabam no papel, tornando-se uma emocionante, inteligente e cativante hist\u00f3ria.",
+                "vote_average": 6.9,
+                "vote_count": 2878
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Bulworth",
+            "second_label": "Screenplay by Warren Beatty, Jeremy Pikser;  Story by Warren Beatty",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 1999,
+            "tmdb": {
+                "id": 9452,
+                "original_title": "Bulworth",
+                "title": "Politicamente Incorreto",
+                "release_date": "1998-05-15",
+                "backdrop_path": "/l30jlQ2CNcRo1FIRq4WxZh8znCG.jpg",
+                "poster_path": "/aVZLgPn9LvkAkIQq0QhOcgetsgv.jpg",
+                "overview": "Senador desiludido com a pol\u00edtica tem uma crise nervosa e faz um seguro de vida de 10 milh\u00f5es de d\u00f3lares. Ele decide, em seguida, contratar assassino para mat\u00e1-lo e, no pouco tempo que lhe resta, fala a verdade sobre o sistema sem nenhum pudor.",
+                "vote_average": 6.3,
+                "vote_count": 230
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Life Is Beautiful",
+            "second_label": "Vincenzo Cerami, Roberto Benigni",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 1999,
+            "tmdb": {
+                "id": 637,
+                "original_title": "La vita \u00e8 bella",
+                "title": "A Vida \u00e9 Bela",
+                "release_date": "1997-12-20",
+                "backdrop_path": "/gavyCu1UaTaTNPsVaGXT6pe5u24.jpg",
+                "poster_path": "/mdqU2CHabmbdkWKs1IvCfksbtNM.jpg",
+                "overview": "Durante a Segunda Guerra Mundial na It\u00e1lia, o judeu Guido e seu filho Giosu\u00e9 s\u00e3o levados para um campo de concentra\u00e7\u00e3o nazista. Afastado da mulher, ele tem que usar sua imagina\u00e7\u00e3o para fazer o menino acreditar que est\u00e3o participando de uma grande brincadeira, com o intuito de proteg\u00ea-lo do terror e da viol\u00eancia que os cercam.",
+                "vote_average": 8.453,
+                "vote_count": 12644
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Saving Private Ryan",
+            "second_label": "Robert Rodat",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 1999,
+            "tmdb": {
+                "id": 857,
+                "original_title": "Saving Private Ryan",
+                "title": "O Resgate do Soldado Ryan",
+                "release_date": "1998-07-24",
+                "backdrop_path": "/bdD39MpSVhKjxarTxLSfX6baoMP.jpg",
+                "poster_path": "/hMLxNLCXRDd62acfCBn6mIyW1HU.jpg",
+                "overview": "Ao desembarcar na Normandia, no dia 6 de junho de 1944, capit\u00e3o Miller recebe a miss\u00e3o de comandar um grupo do segundo batalh\u00e3o para o resgate do soldado James Ryan, ca\u00e7ula de quatro irm\u00e3os, dentre os quais tr\u00eas morreram em combate. Por ordens do chefe George C. Marshall, eles precisam procurar o soldado e garantir o seu retorno, com vida, para casa.",
+                "vote_average": 8.212,
+                "vote_count": 15165
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Truman Show",
+            "second_label": "Andrew Niccol",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 1999,
+            "tmdb": {
+                "id": 37165,
+                "original_title": "The Truman Show",
+                "title": "O Show de Truman: O Show da Vida",
+                "release_date": "1998-06-04",
+                "backdrop_path": "/aCHn2TXYJfzPXQKA6r9mKPbMlUB.jpg",
+                "poster_path": "/5lnCIDrH6yujeuJ16CGPoFktKd6.jpg",
+                "overview": "Truman Burbank \u00e9 um pacato vendedor de seguros que leva um vida simples com sua esposa Meryl Burbank. Por\u00e9m algumas coisas ao seu redor fazem com que ele passe a estranhar sua cidade, seus supostos amigos e at\u00e9 sua mulher. Ap\u00f3s conhecer a misteriosa Lauren, ele fica intrigado e acaba descobrindo que toda sua vida foi monitorada por c\u00e2meras e transmitida em rede nacional.",
+                "vote_average": 8.14,
+                "vote_count": 17539
+            },
+            "winner": false
+        }
+    ]
+}

@@ -115,8 +115,8 @@ def main():
 
 	global cached_hits, total_searches, invalid_year_results, total_found, total_not_found
 
-	start_year = 1971
-	end_year = 1981 #datetime.now().year + 1
+	start_year = 1981
+	end_year = 2001 #datetime.now().year + 1
 	years = [[y] for y in range(start_year, end_year)]
 
 	#final_result = {}

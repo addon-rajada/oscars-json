@@ -1,0 +1,1702 @@
+{
+    "Actor in a Leading Role": [
+        {
+            "first_label": "Michael Douglas",
+            "second_label": "Wall Street",
+            "category": "Actor in a Leading Role",
+            "year": 1988,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "William Hurt",
+            "second_label": "Broadcast News",
+            "category": "Actor in a Leading Role",
+            "year": 1988,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Marcello Mastroianni",
+            "second_label": "Dark Eyes",
+            "category": "Actor in a Leading Role",
+            "year": 1988,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Jack Nicholson",
+            "second_label": "Ironweed",
+            "category": "Actor in a Leading Role",
+            "year": 1988,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Robin Williams",
+            "second_label": "Good Morning, Vietnam",
+            "category": "Actor in a Leading Role",
+            "year": 1988,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actor in a Supporting Role": [
+        {
+            "first_label": "Sean Connery",
+            "second_label": "The Untouchables",
+            "category": "Actor in a Supporting Role",
+            "year": 1988,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Albert Brooks",
+            "second_label": "Broadcast News",
+            "category": "Actor in a Supporting Role",
+            "year": 1988,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Morgan Freeman",
+            "second_label": "Street Smart",
+            "category": "Actor in a Supporting Role",
+            "year": 1988,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Vincent Gardenia",
+            "second_label": "Moonstruck",
+            "category": "Actor in a Supporting Role",
+            "year": 1988,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Denzel Washington",
+            "second_label": "Cry Freedom",
+            "category": "Actor in a Supporting Role",
+            "year": 1988,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Leading Role": [
+        {
+            "first_label": "Cher",
+            "second_label": "Moonstruck",
+            "category": "Actress in a Leading Role",
+            "year": 1988,
+            "tmdb": {
+                "id": 15785,
+                "original_title": "Cherry 2000",
+                "title": "Cherry 2000",
+                "release_date": "1987-11-10",
+                "backdrop_path": "/vjlBasTA8imogIxQLHzsUrCMjJB.jpg",
+                "poster_path": "/t3uds00MHLsibhKLCL0BbCEGxXb.jpg",
+                "overview": "No futuro, Sam Treadwell vive feliz com a sua bela e sensual mulher, que \u00e9 na realidade um robot da s\u00e9rie Cherry 2000. Quando a sua Cherry \u00e9 v\u00edtima de uma ardente cena de amor na cozinha e entra em curto-circuito, Sam descobre que aquele modelo j\u00e1 n\u00e3o se produz. Inconsol\u00e1vel, Sam contrata a batedora E. Johnson para o levar at\u00e9 um dep\u00f3sito de robots na Zona 7, um territ\u00f3rio interditado, devastado e altamente perigoso, onde aparentemente ainda se pode encontrar unidades Cherry 2000. Johnson aceita a miss\u00e3o e leva Sam numa alucinante e perigosa aventura ao longo da qual Sam vai descobrir que as mulheres de carne e osso s\u00e3o incomparavelmente melhores que qualquer modelo Cherry.",
+                "vote_average": 6.0,
+                "vote_count": 220
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Glenn Close",
+            "second_label": "Fatal Attraction",
+            "category": "Actress in a Leading Role",
+            "year": 1988,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Holly Hunter",
+            "second_label": "Broadcast News",
+            "category": "Actress in a Leading Role",
+            "year": 1988,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Sally Kirkland",
+            "second_label": "Anna",
+            "category": "Actress in a Leading Role",
+            "year": 1988,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Meryl Streep",
+            "second_label": "Ironweed",
+            "category": "Actress in a Leading Role",
+            "year": 1988,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Actress in a Supporting Role": [
+        {
+            "first_label": "Olympia Dukakis",
+            "second_label": "Moonstruck",
+            "category": "Actress in a Supporting Role",
+            "year": 1988,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Norma Aleandro",
+            "second_label": "Gaby - A True Story",
+            "category": "Actress in a Supporting Role",
+            "year": 1988,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Anne Archer",
+            "second_label": "Fatal Attraction",
+            "category": "Actress in a Supporting Role",
+            "year": 1988,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Anne Ramsey",
+            "second_label": "Throw Momma from the Train",
+            "category": "Actress in a Supporting Role",
+            "year": 1988,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Ann Sothern",
+            "second_label": "The Whales of August",
+            "category": "Actress in a Supporting Role",
+            "year": 1988,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        }
+    ],
+    "Art Direction": [
+        {
+            "first_label": "The Last Emperor",
+            "second_label": "Art Direction: Ferdinando Scarfiotti; Set Decoration: Bruno Cesari, Osvaldo Desideri",
+            "category": "Art Direction",
+            "year": 1988,
+            "tmdb": {
+                "id": 746,
+                "original_title": "The Last Emperor",
+                "title": "O \u00daltimo Imperador",
+                "release_date": "1987-10-04",
+                "backdrop_path": "/mTw4n5MYQMftHuGsSmBrgMu7C1H.jpg",
+                "poster_path": "/K1azzBrv3CnvPDWd1p5InRh63Q.jpg",
+                "overview": "A saga de Pu Yi, o \u00faltimo imperador da China, que foi declarado imperador com apenas tr\u00eas anos e viveu enclausurado na Cidade Proibida at\u00e9 ser deposto pelo governo revolucion\u00e1rio, enfrentando ent\u00e3o o mundo pela primeira vez quando tinha 24 anos. Neste per\u00edodo se tornou um playboy, mas logo teria um papel pol\u00edtico quando se tornou um pseudo-imperador da Manch\u00faria, quando esta foi invadida pelo Jap\u00e3o. Aprisionado pelos sovi\u00e9ticos, foi devolvido \u00e0 China como prisioneiro pol\u00edtico em 1950. \u00c9 exatamente neste per\u00edodo que o filme come\u00e7a, mas logo retorna a 1908, o ano em que se tornou imperador.",
+                "vote_average": 7.6,
+                "vote_count": 1579
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Empire of the Sun",
+            "second_label": "Art Direction: Norman Reynolds; Set Decoration: Harry Cordwell",
+            "category": "Art Direction",
+            "year": 1988,
+            "tmdb": {
+                "id": 10110,
+                "original_title": "Empire of the Sun",
+                "title": "Imp\u00e9rio do Sol",
+                "release_date": "1987-12-09",
+                "backdrop_path": "/k1ppJC3h2qgHES2E17KPUhAcOBx.jpg",
+                "poster_path": "/v16AWhkzV97RSlhPbixTKJ18qsB.jpg",
+                "overview": "Jim Graham (Christian Bale) \u00e9 um garoto de 11 anos de uma fam\u00edlia inglesa que vive no Oriente. Jim tem um padr\u00e3o de vida alto, mas de repente \u00e9 separado de seus pais em virtude da China ser invadida pelo Jap\u00e3o. Isto o for\u00e7a a se defender e o obriga a crescer, tornando-se ent\u00e3o um sobrevivente em um campo de concentra\u00e7\u00e3o com r\u00edgidas regras.",
+                "vote_average": 7.5,
+                "vote_count": 1822
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hope and Glory",
+            "second_label": "Art Direction: Anthony Pratt; Set Decoration: Joan Woollard",
+            "category": "Art Direction",
+            "year": 1988,
+            "tmdb": {
+                "id": 32054,
+                "original_title": "Hope and Glory",
+                "title": "Esperan\u00e7a e Gl\u00f3ria",
+                "release_date": "1987-09-03",
+                "backdrop_path": "/pKQqszF7GAXR22y2xr0DV4FfKUY.jpg",
+                "poster_path": "/rIlhvOUqSOkLbAdaZyeRvEysf80.jpg",
+                "overview": "Londres. Todo o horror da II Guerra Mundial \u00e9 transformado, em uma grande aventura, pela sensibilidade e imagina\u00e7\u00e3o de um garoto de nove anos de idade. A mudan\u00e7a para a casa da av\u00f3, no interior, causada pela destrui\u00e7\u00e3o de sua casa durante um dos bombardeios alem\u00e3es, o levar\u00e1 a desenvolver uma perspectiva completamente nova sobre a vida. Um projeto semi-autobiogr\u00e1fico de John Boorman. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.8,
+                "vote_count": 175
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Radio Days",
+            "second_label": "Art Direction: Santo Loquasto; Set Decoration: Carol Joffe, Les Bloom, George DeTitta, Jr.",
+            "category": "Art Direction",
+            "year": 1988,
+            "tmdb": {
+                "id": 30890,
+                "original_title": "Radio Days",
+                "title": "A Era do R\u00e1dio",
+                "release_date": "1987-01-30",
+                "backdrop_path": "/rn3E4Kd7EUOGOF95Hsd0aOhQqZg.jpg",
+                "poster_path": "/bQ1afxsIZWtkiRyb5PAom1GPfgX.jpg",
+                "overview": "Um olhar nost\u00e1lgico na \u00e9poca de ouro do r\u00e1dio. No in\u00edcio da Segunda Guerra Mundial em Nova York, uma fam\u00edlia comum tem seus sonhos inspirados nos programas de r\u00e1dio da \u00e9poca. Como n\u00e3o existia televis\u00e3o, as fam\u00edlias se reuniam ao redor do r\u00e1dio e cada membro da fam\u00edlia tinha seu programa preferido. O destemido Vingador Mascarado, o Caf\u00e9 da Manh\u00e3 Show com os socialites e galanteadores Roger e Irene e Sally, a \"Garota dos Cigarros\", s\u00e3o quase t\u00e3o importantes quanto, por exemplo, se o Oceano Pac\u00edfico \u00e9 menor do que o Atl\u00e2ntico, ou mesmo o que o seu pai realmente faz para ganhar a vida.",
+                "vote_average": 7.0,
+                "vote_count": 522
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Untouchables",
+            "second_label": "Art Direction: Patrizia Von Brandenstein, William A. Elliott; Set Decoration: Hal Gausman",
+            "category": "Art Direction",
+            "year": 1988,
+            "tmdb": {
+                "id": 117,
+                "original_title": "The Untouchables",
+                "title": "Os Intoc\u00e1veis",
+                "release_date": "1987-06-03",
+                "backdrop_path": "/i1oWUGVDNBhGBykcCRBlX326udb.jpg",
+                "poster_path": "/koEvh0qJ2cYdHD2fPGK6UGw7mo5.jpg",
+                "overview": "Na Chicago dos anos 1930, o jovem agente federal Eliot Ness tenta acabar com o reinado de terror e corrup\u00e7\u00e3o instaurado pelo g\u00e2ngster Al Capone. Para isso, ele recruta um pequeno time de corajosos e incorrupt\u00edveis homens e conta com a ajuda do experiente policial Jim Malone.",
+                "vote_average": 7.8,
+                "vote_count": 5359
+            },
+            "winner": false
+        }
+    ],
+    "Cinematography": [
+        {
+            "first_label": "The Last Emperor",
+            "second_label": "Vittorio Storaro",
+            "category": "Cinematography",
+            "year": 1988,
+            "tmdb": {
+                "id": 746,
+                "original_title": "The Last Emperor",
+                "title": "O \u00daltimo Imperador",
+                "release_date": "1987-10-04",
+                "backdrop_path": "/mTw4n5MYQMftHuGsSmBrgMu7C1H.jpg",
+                "poster_path": "/K1azzBrv3CnvPDWd1p5InRh63Q.jpg",
+                "overview": "A saga de Pu Yi, o \u00faltimo imperador da China, que foi declarado imperador com apenas tr\u00eas anos e viveu enclausurado na Cidade Proibida at\u00e9 ser deposto pelo governo revolucion\u00e1rio, enfrentando ent\u00e3o o mundo pela primeira vez quando tinha 24 anos. Neste per\u00edodo se tornou um playboy, mas logo teria um papel pol\u00edtico quando se tornou um pseudo-imperador da Manch\u00faria, quando esta foi invadida pelo Jap\u00e3o. Aprisionado pelos sovi\u00e9ticos, foi devolvido \u00e0 China como prisioneiro pol\u00edtico em 1950. \u00c9 exatamente neste per\u00edodo que o filme come\u00e7a, mas logo retorna a 1908, o ano em que se tornou imperador.",
+                "vote_average": 7.6,
+                "vote_count": 1579
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Broadcast News",
+            "second_label": "Michael Ballhaus",
+            "category": "Cinematography",
+            "year": 1988,
+            "tmdb": {
+                "id": 12626,
+                "original_title": "Broadcast News",
+                "title": "Nos Bastidores da Not\u00edcia",
+                "release_date": "1987-12-16",
+                "backdrop_path": "/mRtwZCRIIRni9CkpNvQgYSe8F3V.jpg",
+                "poster_path": "/8g6INpPVcs3M2Jb7OKqtQCmWbVO.jpg",
+                "overview": "m Washington D.C., a produtora (Holly Hunter) do telejornal de uma grande rede tenta manter um alto padr\u00e3o de qualidade, apesar de ter que se virar de alguma maneira para aceitar o mais elegante \u00e2ncora da rede, que representa tudo que ela odeia em not\u00edcia. Por\u00e9m, mesmo assim ela se apaixona por ele. Quem v\u00ea tudo isto de perto \u00e9 um colega de trabalho que \u00e9 um \u00f3timo profissional (mas n\u00e3o fotografa bem) e melhor amigo dela, al\u00e9m de ser por ela apaixonado, apesar de n\u00e3o revelar este amor.",
+                "vote_average": 6.7,
+                "vote_count": 378
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Empire of the Sun",
+            "second_label": "Allen Daviau",
+            "category": "Cinematography",
+            "year": 1988,
+            "tmdb": {
+                "id": 10110,
+                "original_title": "Empire of the Sun",
+                "title": "Imp\u00e9rio do Sol",
+                "release_date": "1987-12-09",
+                "backdrop_path": "/k1ppJC3h2qgHES2E17KPUhAcOBx.jpg",
+                "poster_path": "/v16AWhkzV97RSlhPbixTKJ18qsB.jpg",
+                "overview": "Jim Graham (Christian Bale) \u00e9 um garoto de 11 anos de uma fam\u00edlia inglesa que vive no Oriente. Jim tem um padr\u00e3o de vida alto, mas de repente \u00e9 separado de seus pais em virtude da China ser invadida pelo Jap\u00e3o. Isto o for\u00e7a a se defender e o obriga a crescer, tornando-se ent\u00e3o um sobrevivente em um campo de concentra\u00e7\u00e3o com r\u00edgidas regras.",
+                "vote_average": 7.5,
+                "vote_count": 1822
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hope and Glory",
+            "second_label": "Philippe Rousselot",
+            "category": "Cinematography",
+            "year": 1988,
+            "tmdb": {
+                "id": 32054,
+                "original_title": "Hope and Glory",
+                "title": "Esperan\u00e7a e Gl\u00f3ria",
+                "release_date": "1987-09-03",
+                "backdrop_path": "/pKQqszF7GAXR22y2xr0DV4FfKUY.jpg",
+                "poster_path": "/rIlhvOUqSOkLbAdaZyeRvEysf80.jpg",
+                "overview": "Londres. Todo o horror da II Guerra Mundial \u00e9 transformado, em uma grande aventura, pela sensibilidade e imagina\u00e7\u00e3o de um garoto de nove anos de idade. A mudan\u00e7a para a casa da av\u00f3, no interior, causada pela destrui\u00e7\u00e3o de sua casa durante um dos bombardeios alem\u00e3es, o levar\u00e1 a desenvolver uma perspectiva completamente nova sobre a vida. Um projeto semi-autobiogr\u00e1fico de John Boorman. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.8,
+                "vote_count": 175
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Matewan",
+            "second_label": "Haskell Wexler",
+            "category": "Cinematography",
+            "year": 1988,
+            "tmdb": {
+                "id": 24276,
+                "original_title": "Matewan",
+                "title": "Matewan - A Luta Final",
+                "release_date": "1987-08-28",
+                "backdrop_path": "/yRXMlMBURCSWL3OH9hr0Fr5Pj1Z.jpg",
+                "poster_path": "/cESTph19WGOoOPjpqjyl7mPdL3T.jpg",
+                "overview": "Filmado na cidade de Matewam, a terra do carv\u00e3o na Virg\u00ednia Ocidental, este filme celebra a organiza\u00e7\u00e3o dos trabalhadores no contexto de uma greve na d\u00e9cada de 1920. O membro do sindicato, Joe Kenehan, um 'fura greve' chamado 'Poucas Roupas' Johnson e um prefeito e chefe de pol\u00edcia simp\u00e1ticos lutam heroicamente contra o poder representado por uma empresa de carv\u00e3o e pelos interesses de Matewan, para que a justi\u00e7a e os direitos dos trabalhadores n\u00e3o fiquem para atr\u00e1s, num emprego de condi\u00e7\u00f5es prec\u00e1rias, com muita explora\u00e7\u00e3o e resultados med\u00edocres. (e 14 - Estimado 14 Anos)",
+                "vote_average": 7.3,
+                "vote_count": 95
+            },
+            "winner": false
+        }
+    ],
+    "Costume Design": [
+        {
+            "first_label": "The Last Emperor",
+            "second_label": "James Acheson",
+            "category": "Costume Design",
+            "year": 1988,
+            "tmdb": {
+                "id": 746,
+                "original_title": "The Last Emperor",
+                "title": "O \u00daltimo Imperador",
+                "release_date": "1987-10-04",
+                "backdrop_path": "/mTw4n5MYQMftHuGsSmBrgMu7C1H.jpg",
+                "poster_path": "/K1azzBrv3CnvPDWd1p5InRh63Q.jpg",
+                "overview": "A saga de Pu Yi, o \u00faltimo imperador da China, que foi declarado imperador com apenas tr\u00eas anos e viveu enclausurado na Cidade Proibida at\u00e9 ser deposto pelo governo revolucion\u00e1rio, enfrentando ent\u00e3o o mundo pela primeira vez quando tinha 24 anos. Neste per\u00edodo se tornou um playboy, mas logo teria um papel pol\u00edtico quando se tornou um pseudo-imperador da Manch\u00faria, quando esta foi invadida pelo Jap\u00e3o. Aprisionado pelos sovi\u00e9ticos, foi devolvido \u00e0 China como prisioneiro pol\u00edtico em 1950. \u00c9 exatamente neste per\u00edodo que o filme come\u00e7a, mas logo retorna a 1908, o ano em que se tornou imperador.",
+                "vote_average": 7.6,
+                "vote_count": 1579
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Dead",
+            "second_label": "Dorothy Jeakins",
+            "category": "Costume Design",
+            "year": 1988,
+            "tmdb": {
+                "id": 39507,
+                "original_title": "The Dead",
+                "title": "Os Vivos e os Mortos",
+                "release_date": "1987-09-03",
+                "backdrop_path": "/ypySbENCsnlpeG49txjxcITYSRX.jpg",
+                "poster_path": "/hFLUqiwvvtcUqA5NZNejaaNpTv0.jpg",
+                "overview": "\u00c9 6 de janeiro de 1904 e Dublin celebra o Dia dos Reis em meio \u00e0 neve. Na casa das irm\u00e3s Morgan, Julia (Cathleen Delany) e Kate (Helena Carroll), \u00e9 oferecida uma ceia a amigos e parentes, logo ap\u00f3s a realiza\u00e7\u00e3o de um sarau musical e po\u00e9tico. J\u00e1 perto do final da celebra\u00e7\u00e3o, quando boa parte dos convidados j\u00e1 tinham sa\u00eddo, o bar\u00edtono Bartell D'Arcy (Frank Patterson) come\u00e7a a cantar uma m\u00fasica triste, que faz com que Gretta Conroy (Anjelica Huston) se lembre de uma paix\u00e3o antiga, que j\u00e1 faleceu. Surpreso com a mudan\u00e7a de comportamento de sua esposa, Gabriel (Donal McCann) conhece a hist\u00f3ria da antiga paix\u00e3o dela ao chegarem no hotel em que est\u00e3o hospedados.",
+                "vote_average": 6.9,
+                "vote_count": 145
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Empire of the Sun",
+            "second_label": "Bob Ringwood",
+            "category": "Costume Design",
+            "year": 1988,
+            "tmdb": {
+                "id": 10110,
+                "original_title": "Empire of the Sun",
+                "title": "Imp\u00e9rio do Sol",
+                "release_date": "1987-12-09",
+                "backdrop_path": "/k1ppJC3h2qgHES2E17KPUhAcOBx.jpg",
+                "poster_path": "/v16AWhkzV97RSlhPbixTKJ18qsB.jpg",
+                "overview": "Jim Graham (Christian Bale) \u00e9 um garoto de 11 anos de uma fam\u00edlia inglesa que vive no Oriente. Jim tem um padr\u00e3o de vida alto, mas de repente \u00e9 separado de seus pais em virtude da China ser invadida pelo Jap\u00e3o. Isto o for\u00e7a a se defender e o obriga a crescer, tornando-se ent\u00e3o um sobrevivente em um campo de concentra\u00e7\u00e3o com r\u00edgidas regras.",
+                "vote_average": 7.5,
+                "vote_count": 1822
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Maurice",
+            "second_label": "Jenny Beavan, John Bright",
+            "category": "Costume Design",
+            "year": 1988,
+            "tmdb": {
+                "id": 26371,
+                "original_title": "Maurice",
+                "title": "Maurice",
+                "release_date": "1987-09-18",
+                "backdrop_path": "/rN1OKiEp8gNQ9RB6GeZeqOqVsjk.jpg",
+                "poster_path": "/dPjmKdxpY2JgPhGniTgt5OBoHoq.jpg",
+                "overview": "Depois que sua amante o rejeita, um jovem na Inglaterra do in\u00edcio do s\u00e9culo 20, preso pela opress\u00e3o da sociedade Eduardiana, tenta chegar a um acordo e aceitar sua sexualidade.",
+                "vote_average": 7.6,
+                "vote_count": 494
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Untouchables",
+            "second_label": "Marilyn Vance-Straker",
+            "category": "Costume Design",
+            "year": 1988,
+            "tmdb": {
+                "id": 117,
+                "original_title": "The Untouchables",
+                "title": "Os Intoc\u00e1veis",
+                "release_date": "1987-06-03",
+                "backdrop_path": "/i1oWUGVDNBhGBykcCRBlX326udb.jpg",
+                "poster_path": "/koEvh0qJ2cYdHD2fPGK6UGw7mo5.jpg",
+                "overview": "Na Chicago dos anos 1930, o jovem agente federal Eliot Ness tenta acabar com o reinado de terror e corrup\u00e7\u00e3o instaurado pelo g\u00e2ngster Al Capone. Para isso, ele recruta um pequeno time de corajosos e incorrupt\u00edveis homens e conta com a ajuda do experiente policial Jim Malone.",
+                "vote_average": 7.8,
+                "vote_count": 5359
+            },
+            "winner": false
+        }
+    ],
+    "Directing": [
+        {
+            "first_label": "The Last Emperor",
+            "second_label": "Bernardo Bertolucci",
+            "category": "Directing",
+            "year": 1988,
+            "tmdb": {
+                "id": 746,
+                "original_title": "The Last Emperor",
+                "title": "O \u00daltimo Imperador",
+                "release_date": "1987-10-04",
+                "backdrop_path": "/mTw4n5MYQMftHuGsSmBrgMu7C1H.jpg",
+                "poster_path": "/K1azzBrv3CnvPDWd1p5InRh63Q.jpg",
+                "overview": "A saga de Pu Yi, o \u00faltimo imperador da China, que foi declarado imperador com apenas tr\u00eas anos e viveu enclausurado na Cidade Proibida at\u00e9 ser deposto pelo governo revolucion\u00e1rio, enfrentando ent\u00e3o o mundo pela primeira vez quando tinha 24 anos. Neste per\u00edodo se tornou um playboy, mas logo teria um papel pol\u00edtico quando se tornou um pseudo-imperador da Manch\u00faria, quando esta foi invadida pelo Jap\u00e3o. Aprisionado pelos sovi\u00e9ticos, foi devolvido \u00e0 China como prisioneiro pol\u00edtico em 1950. \u00c9 exatamente neste per\u00edodo que o filme come\u00e7a, mas logo retorna a 1908, o ano em que se tornou imperador.",
+                "vote_average": 7.6,
+                "vote_count": 1579
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Fatal Attraction",
+            "second_label": "Adrian Lyne",
+            "category": "Directing",
+            "year": 1988,
+            "tmdb": {
+                "id": 10998,
+                "original_title": "Fatal Attraction",
+                "title": "Atra\u00e7\u00e3o Fatal",
+                "release_date": "1987-09-18",
+                "backdrop_path": "/x286ZITKvbohZakhcnxuUIyFeu5.jpg",
+                "poster_path": "/tSfJwVpXW1QqUV4ldAQScv5gmjj.jpg",
+                "overview": "Aproveitando o fato de Beth Gallagher (Anne Archer), sua mulher, estar viajando Dan Gallagher (Michael Douglas), um advogado, tem um r\u00e1pido caso com Alex Forrest (Glenn Close), uma executiva que demostra ser desequilibrada emocionalmente e at\u00e9 mesmo perigosa, quando decide fazer parte da vida dele custe o que custar.",
+                "vote_average": 6.837,
+                "vote_count": 1361
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hope and Glory",
+            "second_label": "John Boorman",
+            "category": "Directing",
+            "year": 1988,
+            "tmdb": {
+                "id": 32054,
+                "original_title": "Hope and Glory",
+                "title": "Esperan\u00e7a e Gl\u00f3ria",
+                "release_date": "1987-09-03",
+                "backdrop_path": "/pKQqszF7GAXR22y2xr0DV4FfKUY.jpg",
+                "poster_path": "/rIlhvOUqSOkLbAdaZyeRvEysf80.jpg",
+                "overview": "Londres. Todo o horror da II Guerra Mundial \u00e9 transformado, em uma grande aventura, pela sensibilidade e imagina\u00e7\u00e3o de um garoto de nove anos de idade. A mudan\u00e7a para a casa da av\u00f3, no interior, causada pela destrui\u00e7\u00e3o de sua casa durante um dos bombardeios alem\u00e3es, o levar\u00e1 a desenvolver uma perspectiva completamente nova sobre a vida. Um projeto semi-autobiogr\u00e1fico de John Boorman. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.8,
+                "vote_count": 175
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Moonstruck",
+            "second_label": "Norman Jewison",
+            "category": "Directing",
+            "year": 1988,
+            "tmdb": {
+                "id": 2039,
+                "original_title": "Moonstruck",
+                "title": "Feiti\u00e7o da Lua",
+                "release_date": "1987-12-16",
+                "backdrop_path": "/5RQ5SIcrtKeUYeYeJLRTljR8LcN.jpg",
+                "poster_path": "/ablr2IqIxnK6UpNh3ori1Lsr4xM.jpg",
+                "overview": "Loretta Castorini, uma contadora do Brooklyn com seus 30 e tantos anos, cujo marido morreu h\u00e1 v\u00e1rios anos em um acidente de \u00f4nibus, decide que \u00e9 hora de se casar novamente. Ent\u00e3o, ela aceita a proposta de um agrad\u00e1vel, companheiro de meia idade chamado Johnny Cammareri. Loretta est\u00e1 convencida de seu primeiro casamento foi amaldi\u00e7oado porque ela e o marido haviam se casado na C\u00e2mara Municipal. Ent\u00e3o ela est\u00e1 determinada a fazer as coisas direito desta vez, mesmo quando admite para sua m\u00e3e, Rose, que n\u00e3o est\u00e1 realmente apaixonada por Johnny. Ao que Rose responde: \"Bom. Quando voc\u00ea o amar, ele vai deix\u00e1-la louca, porque eles sabem que podem\". Rose fala por triste experi\u00eancia, ela suspeita que seu marido, Cosmo, est\u00e1 traindo. Loretta est\u00e1 convencida de que casar com Johnny \u00e9 a coisa certa a fazer. At\u00e9 que ela conhece o irm\u00e3o mais novo Ronny, que trabalha nos fornos em uma padaria do bairro e \u00e9 mal-humorado e apaixonado. Ent\u00e3o surgem as complica\u00e7\u00f5es dignas de uma \u00f3pera c\u00f4mica.",
+                "vote_average": 6.9,
+                "vote_count": 867
+            },
+            "winner": false
+        },
+        {
+            "first_label": "My Life as a Dog",
+            "second_label": "\"My Life as a Dog\" Lasse Hallstrm",
+            "category": "Directing",
+            "year": 1988,
+            "tmdb": {
+                "id": 8816,
+                "original_title": "Mitt liv som hund",
+                "title": "Minha Vida de Cachorro",
+                "release_date": "1985-12-12",
+                "backdrop_path": "/zKqzUT0ZAljEYPLceye6ZT4H9By.jpg",
+                "poster_path": "/3ZPz8BFDiv2uGWhiRVzGpS1Jsi7.jpg",
+                "overview": "Com o agravamento da tuberculose da m\u00e3e, menino \u00e9 separado do irm\u00e3o e enviado para aldeia do norte da Su\u00e9cia. Banhado em um clima po\u00e9tico, \u00e9 um dos melhores filmes sobre crian\u00e7as que o cinema j\u00e1 fez.",
+                "vote_average": 7.2,
+                "vote_count": 242
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Feature)": [
+        {
+            "first_label": "The Ten-Year Lunch: The Wit and Legend of the Algonquin Round Table",
+            "second_label": "Aviva Slesin, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1988,
+            "tmdb": {
+                "id": 182561,
+                "original_title": "The Ten-Year Lunch",
+                "title": "The Ten-Year Lunch",
+                "release_date": "1987-09-28",
+                "backdrop_path": "/gNboD5cDOOFCK16Nfmb5Hskc3zu.jpg",
+                "poster_path": "/s8V9YfMg9qhoFQc9Bw84owXx3ny.jpg",
+                "overview": "The story of the legendary wits who lunched daily at the Algonquin Hotel in New York City during the 1920s. The core of the so-called Round Table group included short story and poetry writer Dorothy Parker; comic actor and writer Robert Benchley; The New Yorker founder Harold Ross; columnist and social reformer Heywood Broun; critic Alexander Woollcott; and playwrights George S. Kaufman, Marc Connelly, Edna Ferber and Robert Sherwood.",
+                "vote_average": 6.4,
+                "vote_count": 8
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Eyes on the Prize: America's Civil Rights Years/Bridge to Freedom 1965",
+            "second_label": "Callie Crossley and James A. DeVinney, Producers",
+            "category": "Documentary (Feature)",
+            "year": 1988,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hellfire: A Journey from Hiroshima",
+            "second_label": "John Junkerman and John W. Dower, Producers",
+            "category": "Documentary (Feature)",
+            "year": 1988,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Radio Bikini",
+            "second_label": "Robert Stone, Producer",
+            "category": "Documentary (Feature)",
+            "year": 1988,
+            "tmdb": {
+                "id": 244698,
+                "original_title": "Radio Bikini",
+                "title": "Radio Bikini",
+                "release_date": "1988-03-12",
+                "backdrop_path": null,
+                "poster_path": "/uxNsZwxvZ9IpePQzsnJEDBJIvJV.jpg",
+                "overview": "It starts with a live radio broadcast from the Bikini Atoll a few days before it is annihilated by a nuclear test. Shows great footage from these times and tells the story of the US Navy Sailors who were exposed to radioactive fallout. One interviewed sailor suffered grotesquely swollen limbs and he is shown being interviewed with enormous left arm and hand.",
+                "vote_average": 7.3,
+                "vote_count": 15
+            },
+            "winner": false
+        },
+        {
+            "first_label": "A Stitch for Time",
+            "second_label": "Barbara Herbich and Cyril Christo, Producers",
+            "category": "Documentary (Feature)",
+            "year": 1988,
+            "tmdb": {
+                "id": 149387,
+                "original_title": "A Stitch for Time",
+                "title": "A Stitch for Time",
+                "release_date": "1987-01-01",
+                "backdrop_path": null,
+                "poster_path": null,
+                "overview": "In a moving cinema verite style, A Stitch for Time presents the idea that ordinary people can become diplomats working toward the goal of world peace. Interviews with the Boise, Idaho women who made the quilt establish the background for the project and reveal that though some are longtime activists, others have never been politically involved, but all are united by their need to ensure a safe world for their children and society.",
+                "vote_average": 5.0,
+                "vote_count": 2
+            },
+            "winner": false
+        }
+    ],
+    "Documentary (Short Subject)": [
+        {
+            "first_label": "Young at Heart",
+            "second_label": "Sue Marx and Pamela Conn, Producers",
+            "category": "Documentary (Short Subject)",
+            "year": 1988,
+            "tmdb": {
+                "id": 244690,
+                "original_title": "Young at Heart",
+                "title": "Young at Heart",
+                "release_date": "1987-01-01",
+                "backdrop_path": null,
+                "poster_path": "/gf2WxbgSRfomwFEUW6eYvDC56B8.jpg",
+                "overview": "Filmmakers Sue Marx and Pamela Conn document the romance between Sue's father Louis Gothelf and Reva Shwayder, each in their mid-80s. Both artists and residents of the Detroit suburbs, they met on a group tour of England after being widowed, and quickly formed a strong connection over shared interests. The two discuss concerns over living together without being married; Louis also talks about his caring for his first wife during her ten-year struggle with Alzheimer's disease, while Reva talks about the deaths of two sons several years after her husband's death.",
+                "vote_average": 6.6,
+                "vote_count": 5
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Frances Steloff: Memoirs of a Bookseller",
+            "second_label": "Deborah Dickson, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1988,
+            "tmdb": {
+                "id": 244692,
+                "original_title": "Frances Steloff: Memoirs of a Bookseller",
+                "title": "Frances Steloff: Memoirs of a Bookseller",
+                "release_date": "1987-01-01",
+                "backdrop_path": null,
+                "poster_path": "/qCwGdfL2qBLbpaiiUqAEhchXMBx.jpg",
+                "overview": "\"Frances Steloff: Memoirs of a Bookseller\" is a wonderfully dynamic portrait of an American cultural heroine. Now 100 years old, Frances Steloff was the founder and force behind the renowned Gotham Book Mart of New York City, a center for avant-garde literature and literati since 1920. She began with only $100 and thirty books and she modestly recalls her role in the bookstore's past.",
+                "vote_average": 5.0,
+                "vote_count": 1
+            },
+            "winner": false
+        },
+        {
+            "first_label": "In the Wee Wee Hours...",
+            "second_label": "Dr. Frank Daniel and Izak Ben-Meir, Producers",
+            "category": "Documentary (Short Subject)",
+            "year": 1988,
+            "tmdb": {
+                "id": 244693,
+                "original_title": "In the Wee Wee Hours...",
+                "title": "In the Wee Wee Hours...",
+                "release_date": "1987-01-01",
+                "backdrop_path": null,
+                "poster_path": "/mk3hzHZCRY9QdV9KwDpVSIDSi6f.jpg",
+                "overview": "In the Wee Wee Hours... is a 1987 American short documentary film directed by Izak Ben-Meir about homeless people in Los Angeles. It was nominated for an Academy Award for Best Documentary Short.",
+                "vote_average": 0.0,
+                "vote_count": 0
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Language Says It All",
+            "second_label": "Megan Williams, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1988,
+            "tmdb": {
+                "id": 244695,
+                "original_title": "Language Says It All",
+                "title": "Language Says It All",
+                "release_date": "1987-01-01",
+                "backdrop_path": null,
+                "poster_path": "/vjvBMH0JJoI2QBzbhnUOJWhSzia.jpg",
+                "overview": "Language Says It All is a 1987 American short documentary film about deaf children and their caregivers, directed by Rhyena Halpern and produced by Halpern and Megan Williams. The film follows four families as they come to understand their deaf child's need for language. It was nominated for an Academy Award for Best Documentary Short.",
+                "vote_average": 5.0,
+                "vote_count": 3
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Silver into Gold",
+            "second_label": "Lynn Mueller, Producer",
+            "category": "Documentary (Short Subject)",
+            "year": 1988,
+            "tmdb": {
+                "id": 244696,
+                "original_title": "Silver Into Gold",
+                "title": "Silver Into Gold",
+                "release_date": "1987-01-01",
+                "backdrop_path": null,
+                "poster_path": "/131m2L9fgQGuz0Fn7u5NRXDdJFH.jpg",
+                "overview": "Silver into Gold is a 1987 American short documentary film produced by Lynn Mueller. The film looks at American athletes Gail Roper and Sister Marion Irvine, and tells how they overcame personal obstacles, as well as social pressures against female athletes, to become world-class competitors. It was nominated for an Academy Award for Best Documentary Short.",
+                "vote_average": 5.0,
+                "vote_count": 3
+            },
+            "winner": false
+        }
+    ],
+    "Film Editing": [
+        {
+            "first_label": "The Last Emperor",
+            "second_label": "Gabriella Cristiani",
+            "category": "Film Editing",
+            "year": 1988,
+            "tmdb": {
+                "id": 746,
+                "original_title": "The Last Emperor",
+                "title": "O \u00daltimo Imperador",
+                "release_date": "1987-10-04",
+                "backdrop_path": "/mTw4n5MYQMftHuGsSmBrgMu7C1H.jpg",
+                "poster_path": "/K1azzBrv3CnvPDWd1p5InRh63Q.jpg",
+                "overview": "A saga de Pu Yi, o \u00faltimo imperador da China, que foi declarado imperador com apenas tr\u00eas anos e viveu enclausurado na Cidade Proibida at\u00e9 ser deposto pelo governo revolucion\u00e1rio, enfrentando ent\u00e3o o mundo pela primeira vez quando tinha 24 anos. Neste per\u00edodo se tornou um playboy, mas logo teria um papel pol\u00edtico quando se tornou um pseudo-imperador da Manch\u00faria, quando esta foi invadida pelo Jap\u00e3o. Aprisionado pelos sovi\u00e9ticos, foi devolvido \u00e0 China como prisioneiro pol\u00edtico em 1950. \u00c9 exatamente neste per\u00edodo que o filme come\u00e7a, mas logo retorna a 1908, o ano em que se tornou imperador.",
+                "vote_average": 7.6,
+                "vote_count": 1579
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Broadcast News",
+            "second_label": "Richard Marks",
+            "category": "Film Editing",
+            "year": 1988,
+            "tmdb": {
+                "id": 12626,
+                "original_title": "Broadcast News",
+                "title": "Nos Bastidores da Not\u00edcia",
+                "release_date": "1987-12-16",
+                "backdrop_path": "/mRtwZCRIIRni9CkpNvQgYSe8F3V.jpg",
+                "poster_path": "/8g6INpPVcs3M2Jb7OKqtQCmWbVO.jpg",
+                "overview": "m Washington D.C., a produtora (Holly Hunter) do telejornal de uma grande rede tenta manter um alto padr\u00e3o de qualidade, apesar de ter que se virar de alguma maneira para aceitar o mais elegante \u00e2ncora da rede, que representa tudo que ela odeia em not\u00edcia. Por\u00e9m, mesmo assim ela se apaixona por ele. Quem v\u00ea tudo isto de perto \u00e9 um colega de trabalho que \u00e9 um \u00f3timo profissional (mas n\u00e3o fotografa bem) e melhor amigo dela, al\u00e9m de ser por ela apaixonado, apesar de n\u00e3o revelar este amor.",
+                "vote_average": 6.7,
+                "vote_count": 378
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Empire of the Sun",
+            "second_label": "Michael Kahn",
+            "category": "Film Editing",
+            "year": 1988,
+            "tmdb": {
+                "id": 10110,
+                "original_title": "Empire of the Sun",
+                "title": "Imp\u00e9rio do Sol",
+                "release_date": "1987-12-09",
+                "backdrop_path": "/k1ppJC3h2qgHES2E17KPUhAcOBx.jpg",
+                "poster_path": "/v16AWhkzV97RSlhPbixTKJ18qsB.jpg",
+                "overview": "Jim Graham (Christian Bale) \u00e9 um garoto de 11 anos de uma fam\u00edlia inglesa que vive no Oriente. Jim tem um padr\u00e3o de vida alto, mas de repente \u00e9 separado de seus pais em virtude da China ser invadida pelo Jap\u00e3o. Isto o for\u00e7a a se defender e o obriga a crescer, tornando-se ent\u00e3o um sobrevivente em um campo de concentra\u00e7\u00e3o com r\u00edgidas regras.",
+                "vote_average": 7.5,
+                "vote_count": 1822
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Fatal Attraction",
+            "second_label": "Michael Kahn, Peter E. Berger",
+            "category": "Film Editing",
+            "year": 1988,
+            "tmdb": {
+                "id": 10998,
+                "original_title": "Fatal Attraction",
+                "title": "Atra\u00e7\u00e3o Fatal",
+                "release_date": "1987-09-18",
+                "backdrop_path": "/x286ZITKvbohZakhcnxuUIyFeu5.jpg",
+                "poster_path": "/tSfJwVpXW1QqUV4ldAQScv5gmjj.jpg",
+                "overview": "Aproveitando o fato de Beth Gallagher (Anne Archer), sua mulher, estar viajando Dan Gallagher (Michael Douglas), um advogado, tem um r\u00e1pido caso com Alex Forrest (Glenn Close), uma executiva que demostra ser desequilibrada emocionalmente e at\u00e9 mesmo perigosa, quando decide fazer parte da vida dele custe o que custar.",
+                "vote_average": 6.837,
+                "vote_count": 1361
+            },
+            "winner": false
+        },
+        {
+            "first_label": "RoboCop",
+            "second_label": "Frank J. Urioste",
+            "category": "Film Editing",
+            "year": 1988,
+            "tmdb": {
+                "id": 5548,
+                "original_title": "RoboCop",
+                "title": "RoboCop - O Policial do Futuro",
+                "release_date": "1987-07-17",
+                "backdrop_path": "/pRSTtNlcADoQkfeBGtFQNE1FDpb.jpg",
+                "poster_path": "/uZ27cWusfoGFh7sOiUsIENxW48S.jpg",
+                "overview": "Policial \u00e9 morto em combate e transformado por cientistas da empresa que dirige a for\u00e7a policial em um ciborgue ultrassofisticado a fim de ser usado na luta contra o crime na cidade de Detroit. Por\u00e9m, apesar de ter sua mem\u00f3ria apagada, lembran\u00e7as o assombram e o levam a buscar vingan\u00e7a.",
+                "vote_average": 7.314,
+                "vote_count": 4809
+            },
+            "winner": false
+        }
+    ],
+    "Foreign Language Film": [
+        {
+            "first_label": "Babette's Feast",
+            "second_label": "Denmark",
+            "category": "Foreign Language Film",
+            "year": 1988,
+            "tmdb": {
+                "id": 11832,
+                "original_title": "Babettes g\u00e6stebud",
+                "title": "A Festa de Babette",
+                "release_date": "1987-08-11",
+                "backdrop_path": "/iFl8eN4vWcMNNozmJk8E7cLgeT9.jpg",
+                "poster_path": "/bSH3CNlCDG6sr9NByYYMwPuJ5EG.jpg",
+                "overview": "Dinamarca, s\u00e9culo XIX. Filippa (Bodil Kjer) e Martine (Birgitte Federspiel) s\u00e3o filhas de um rigoroso pastor luterano que sempre pregou  a salva\u00e7\u00e3o atrav\u00e9s da ren\u00fancia. As irm\u00e3s sacrificam suas paix\u00f5es da juventude em nome da f\u00e9 e das obriga\u00e7\u00f5es, e mesmo muitos anos depois da morte do pai, elas mant\u00e9m vivos seus ensinamentos entre os habitantes da cidade. Ent\u00e3o surge no vilarejo Babette (St\u00e9phane Audran), uma misteriosa parisiense refugiada da guerra civil na Fran\u00e7a, que se oferece para ser a cozinheira e faxineira da fam\u00edlia. Muitos anos depois, ainda trabalhando na casa, Babette recebe a not\u00edcia de que ganhou um grande pr\u00eamio na loteria e se oferece para preparar um jantar franc\u00eas de alto n\u00edvel em comemora\u00e7\u00e3o ao cent\u00e9simo anivers\u00e1rio do pastor. Os paroquianos, a princ\u00edpio temerosos, acabam se rendendo e aceitam participar do banquete de Babette. Filme vencedor do Oscar de Melhor Filme Estrangeiro em 1988. (e 10 - Estimado 10 Anos)",
+                "vote_average": 7.254,
+                "vote_count": 370
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Au Revoir Les Enfants (Goodbye, Children)",
+            "second_label": "France",
+            "category": "Foreign Language Film",
+            "year": 1988,
+            "tmdb": {
+                "id": 1786,
+                "original_title": "Au revoir les enfants",
+                "title": "Adeus, Meninos",
+                "release_date": "1987-10-07",
+                "backdrop_path": "/mQC9OxFBGKJmk4tgzpmKO1nIZx5.jpg",
+                "poster_path": "/mSJkBBKNkWYjRn6nmkXlMIoNO7T.jpg",
+                "overview": "Uma hist\u00f3ria comovente de amizade e perda devastadora sobre dois meninos que vivem na Fran\u00e7a ocupada pelos nazistas. Em um internato cat\u00f3lico provincial, os jovens precoces conhecem a verdadeira camaradagem \u2013 at\u00e9 que um segredo \u00e9 revelado.",
+                "vote_average": 7.5,
+                "vote_count": 612
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Course Completed",
+            "second_label": "Spain",
+            "category": "Foreign Language Film",
+            "year": 1988,
+            "tmdb": {
+                "id": 202789,
+                "original_title": "Asignatura aprobada",
+                "title": "Course Completed",
+                "release_date": "1987-04-09",
+                "backdrop_path": null,
+                "poster_path": "/e1VOcZAYF9oYYdz7rZuoaHkKfZE.jpg",
+                "overview": "A 50-year-old playwright (Jesus Puente) bemoans his fate from his secluded home in Northern Spain in this depressing drama. Side plots include an actress and former acquaintance who comes to visit and his amorous diversions with a 20-year-old local woman.",
+                "vote_average": 6.0,
+                "vote_count": 8
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Family",
+            "second_label": "Italy",
+            "category": "Foreign Language Film",
+            "year": 1988,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Pathfinder",
+            "second_label": "Norway",
+            "category": "Foreign Language Film",
+            "year": 1988,
+            "tmdb": {
+                "id": 2172,
+                "original_title": "Ofelas",
+                "title": "Pathfinder",
+                "release_date": "1987-09-03",
+                "backdrop_path": "/bWoGpYfhHjod5795MpFgH8zMoFj.jpg",
+                "poster_path": "/cpJvdyNZaD3j2DUHO10Xa7vG8rJ.jpg",
+                "overview": "Around the year 1000 AD warlike people, the so-called \"tjuder\", roam in northern Scandinavia. As they brutally kill a family in a remote area, including the parents and their little daughter, the family's teenage son, Aigin, observes the slaughter. He manages to flee from these killers and reaches a camp with other S\u00e1mi whose inhabitants are worried if he has been able to hide his track. Afraid of the murderous people, they decide to flee to the coast. The boy stays alone to avenge his family's murder. Unfortunately, they get him before he can do anything and force him to lead them to the other S\u00e1mi. He guides them but has a plan to destroy the barbarous people before reaching the camp.",
+                "vote_average": 7.1,
+                "vote_count": 67
+            },
+            "winner": false
+        }
+    ],
+    "Irving G. Thalberg Memorial Award": [
+        {
+            "first_label": "",
+            "second_label": "Billy Wilder",
+            "category": "Irving G. Thalberg Memorial Award",
+            "year": 1988,
+            "tmdb": {
+                "error": "no ID found"
+            },
+            "winner": true
+        }
+    ],
+    "Makeup": [
+        {
+            "first_label": "Harry and the Hendersons",
+            "second_label": "Rick Baker",
+            "category": "Makeup",
+            "year": 1988,
+            "tmdb": {
+                "id": 8989,
+                "original_title": "Harry and the Hendersons",
+                "title": "Um H\u00f3spede do Barulho",
+                "release_date": "1987-06-05",
+                "backdrop_path": "/ndaNxWhIohUrbMbeqz86Nonma39.jpg",
+                "poster_path": "/7qqJ3gcYFmV29Gq7xT8g5Pj4WaH.jpg",
+                "overview": "Quando est\u00e3o voltando das f\u00e9rias, a fam\u00edlia Henderson atinge o carro num estranho animal. Eles at\u00e9 chegam a pensar que seja um homem, mas percebem que se trata algo muito diferente: o lend\u00e1rio P\u00e9 Grande. Achando que ele est\u00e1 morto, levam o corpo para casa porque algu\u00e9m poderia pagar algum dinheiro por aquilo. Mas o monstro est\u00e1 vivo e na verdade n\u00e3o tem nada de monstro. O ser gigante ganha o nome de Harry e aos poucos vai se tornando um membro da fam\u00edlia. O problema \u00e9 que os Handerson precisam fazer de tudo para mant\u00ea-lo escondido das autoridades.",
+                "vote_average": 6.1,
+                "vote_count": 648
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Happy New Year",
+            "second_label": "Bob Laden",
+            "category": "Makeup",
+            "year": 1988,
+            "tmdb": {
+                "id": 51940,
+                "original_title": "Happy New Year, Charlie Brown",
+                "title": "Feliz Ano Novo, Charlie Brown",
+                "release_date": "1986-01-01",
+                "backdrop_path": "/gZLDtig27IS6KI32Am3XE4xGaIC.jpg",
+                "poster_path": "/6tjLASOwot6Nt6X9nRMRtAsfvqv.jpg",
+                "overview": "As amigas M\u00e1rcia e Patti Pimentinha organizaram uma festa de final de ano, mas Charlie Brown ainda n\u00e3o terminou sua li\u00e7\u00e3o de casa.... faltam ler mais de 1000 p\u00e1ginas do livro. N\u00e3o caia no sono, Charlie Brown!",
+                "vote_average": 6.5,
+                "vote_count": 51
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Score)": [
+        {
+            "first_label": "The Last Emperor",
+            "second_label": "Ryuichi Sakamoto, David Byrne, Cong Su",
+            "category": "Music (Original Score)",
+            "year": 1988,
+            "tmdb": {
+                "id": 746,
+                "original_title": "The Last Emperor",
+                "title": "O \u00daltimo Imperador",
+                "release_date": "1987-10-04",
+                "backdrop_path": "/mTw4n5MYQMftHuGsSmBrgMu7C1H.jpg",
+                "poster_path": "/K1azzBrv3CnvPDWd1p5InRh63Q.jpg",
+                "overview": "A saga de Pu Yi, o \u00faltimo imperador da China, que foi declarado imperador com apenas tr\u00eas anos e viveu enclausurado na Cidade Proibida at\u00e9 ser deposto pelo governo revolucion\u00e1rio, enfrentando ent\u00e3o o mundo pela primeira vez quando tinha 24 anos. Neste per\u00edodo se tornou um playboy, mas logo teria um papel pol\u00edtico quando se tornou um pseudo-imperador da Manch\u00faria, quando esta foi invadida pelo Jap\u00e3o. Aprisionado pelos sovi\u00e9ticos, foi devolvido \u00e0 China como prisioneiro pol\u00edtico em 1950. \u00c9 exatamente neste per\u00edodo que o filme come\u00e7a, mas logo retorna a 1908, o ano em que se tornou imperador.",
+                "vote_average": 7.6,
+                "vote_count": 1579
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Cry Freedom",
+            "second_label": "George Fenton, Jonas Gwangwa",
+            "category": "Music (Original Score)",
+            "year": 1988,
+            "tmdb": {
+                "id": 12506,
+                "original_title": "Cry Freedom",
+                "title": "Um Grito de Liberdade",
+                "release_date": "1987-11-06",
+                "backdrop_path": "/iEPddvNCqmVsfDFW2ApeljcB3EF.jpg",
+                "poster_path": "/b7k3IlG8nMENVtxcrcdpiquErpZ.jpg",
+                "overview": "Na \u00c1frica do Sul dos anos 70, Donald Woods, um jornalista branco, faz amizade com Stephen Biko, um corajoso ativista negro contra o apartheid. Biko \u00e9 executado em 1977 e Donald, exilado, dedica-se a divulgar a luta do amigo pela liberdade.",
+                "vote_average": 7.0,
+                "vote_count": 191
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Empire of the Sun",
+            "second_label": "John Williams",
+            "category": "Music (Original Score)",
+            "year": 1988,
+            "tmdb": {
+                "id": 10110,
+                "original_title": "Empire of the Sun",
+                "title": "Imp\u00e9rio do Sol",
+                "release_date": "1987-12-09",
+                "backdrop_path": "/k1ppJC3h2qgHES2E17KPUhAcOBx.jpg",
+                "poster_path": "/v16AWhkzV97RSlhPbixTKJ18qsB.jpg",
+                "overview": "Jim Graham (Christian Bale) \u00e9 um garoto de 11 anos de uma fam\u00edlia inglesa que vive no Oriente. Jim tem um padr\u00e3o de vida alto, mas de repente \u00e9 separado de seus pais em virtude da China ser invadida pelo Jap\u00e3o. Isto o for\u00e7a a se defender e o obriga a crescer, tornando-se ent\u00e3o um sobrevivente em um campo de concentra\u00e7\u00e3o com r\u00edgidas regras.",
+                "vote_average": 7.5,
+                "vote_count": 1822
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Untouchables",
+            "second_label": "Ennio Morricone",
+            "category": "Music (Original Score)",
+            "year": 1988,
+            "tmdb": {
+                "id": 117,
+                "original_title": "The Untouchables",
+                "title": "Os Intoc\u00e1veis",
+                "release_date": "1987-06-03",
+                "backdrop_path": "/i1oWUGVDNBhGBykcCRBlX326udb.jpg",
+                "poster_path": "/koEvh0qJ2cYdHD2fPGK6UGw7mo5.jpg",
+                "overview": "Na Chicago dos anos 1930, o jovem agente federal Eliot Ness tenta acabar com o reinado de terror e corrup\u00e7\u00e3o instaurado pelo g\u00e2ngster Al Capone. Para isso, ele recruta um pequeno time de corajosos e incorrupt\u00edveis homens e conta com a ajuda do experiente policial Jim Malone.",
+                "vote_average": 7.8,
+                "vote_count": 5359
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Witches of Eastwick",
+            "second_label": "John Williams",
+            "category": "Music (Original Score)",
+            "year": 1988,
+            "tmdb": {
+                "id": 6069,
+                "original_title": "The Witches of Eastwick",
+                "title": "As Bruxas de Eastwick",
+                "release_date": "1987-06-12",
+                "backdrop_path": "/yTLBhpUWEDkscjWkD6TgqMSYhzn.jpg",
+                "poster_path": "/pRCBlOxsExSihUS6qIzqE82WjnC.jpg",
+                "overview": "Em uma pequena e conservadora cidade da Nova Inglaterra, Alexandra Medford (Cher), Jane Spofford (Susan Sarandon) e Sukie Ridgemont (Michelle Pfeiffer), entediadas com a vida que levam, se re\u00fanem todas as quintas-feiras para tomarem drinques e conversarem sobre v\u00e1rios assuntos. O principal deles \u00e9 um homem ideal e, sem querer, invocam Daryl Van Horne (Jack Nicholson), um rica\u00e7o misterioso e carism\u00e1tico que se muda para a localidade e se envolve com as tr\u00eas, satisfazendo os desejos delas, mas criando uma guerra dos sexos com consequ\u00eancias inesperadas.",
+                "vote_average": 6.531,
+                "vote_count": 1311
+            },
+            "winner": false
+        }
+    ],
+    "Music (Original Song)": [
+        {
+            "first_label": "Dirty Dancing",
+            "second_label": "(I've Had) The Time Of My Life in \"Dirty Dancing\" Music by Franke Previte, John DeNicola and Donald Markowitz; Lyric by Franke Previte",
+            "category": "Music (Original Song)",
+            "year": 1988,
+            "tmdb": {
+                "id": 88,
+                "original_title": "Dirty Dancing",
+                "title": "Dirty Dancing: Ritmo Quente",
+                "release_date": "1987-08-21",
+                "backdrop_path": "/6iDQCBUSZKzY8Rnu8ECwl2gXcfG.jpg",
+                "poster_path": "/mUVIRUpqKQa8uKDgyYrQHs6rlbz.jpg",
+                "overview": "Na esperan\u00e7a de curtir sua juventude, uma jovem fica decepcionada ao descobrir que seus pais passar\u00e3o o ver\u00e3o de 1963 com ela em um resort na sonolenta regi\u00e3o de Catskills. Mas sua sorte muda quando ela conhece o instrutor de dan\u00e7a do resort, Johnny, um rapaz com um passado bem diferente do dela. Quando ele a coloca como sua nova parceira, os dois acabam se apaixonando. Apesar do pai proibi-la de ver Johnny, ela n\u00e3o d\u00e1 a m\u00ednima.",
+                "vote_average": 7.34,
+                "vote_count": 5874
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Cry Freedom",
+            "second_label": "Cry Freedom in \"Cry Freedom\" Music and Lyric by George Fenton and Jonas Gwangwa",
+            "category": "Music (Original Song)",
+            "year": 1988,
+            "tmdb": {
+                "id": 12506,
+                "original_title": "Cry Freedom",
+                "title": "Um Grito de Liberdade",
+                "release_date": "1987-11-06",
+                "backdrop_path": "/iEPddvNCqmVsfDFW2ApeljcB3EF.jpg",
+                "poster_path": "/b7k3IlG8nMENVtxcrcdpiquErpZ.jpg",
+                "overview": "Na \u00c1frica do Sul dos anos 70, Donald Woods, um jornalista branco, faz amizade com Stephen Biko, um corajoso ativista negro contra o apartheid. Biko \u00e9 executado em 1977 e Donald, exilado, dedica-se a divulgar a luta do amigo pela liberdade.",
+                "vote_average": 7.0,
+                "vote_count": 191
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Mannequin",
+            "second_label": "Nothing's Gonna Stop Us Now in \"Mannequin\" Music and Lyric by Albert Hammond and Diane Warren",
+            "category": "Music (Original Song)",
+            "year": 1988,
+            "tmdb": {
+                "id": 10019,
+                "original_title": "Mannequin",
+                "title": "Manequim",
+                "release_date": "1987-02-13",
+                "backdrop_path": "/29CxkpXnUPQb5Dhk9zfxMByIQqD.jpg",
+                "poster_path": "/8Vcg2gRmelEBgly5aZT4DeZojvt.jpg",
+                "overview": "Jovem empregado de uma loja de departamentos se apaixona por uma manequim, que adquire vida fora do expediente. A manequim \u00e9 na verdade uma deusa eg\u00edpcia que agora auxilia seu pretendente na confec\u00e7\u00e3o de maravilhosas vitrines.",
+                "vote_average": 6.8,
+                "vote_count": 679
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Beverly Hills Cop II",
+            "second_label": "Shakedown in \"Beverly Hills Cop II\" Music by Harold Faltermeyer and Keith Forsey; Lyric by Harold Faltermeyer, Keith Forsey and Bob Seger",
+            "category": "Music (Original Song)",
+            "year": 1988,
+            "tmdb": {
+                "id": 96,
+                "original_title": "Beverly Hills Cop II",
+                "title": "Um Tira da Pesada 2",
+                "release_date": "1987-05-18",
+                "backdrop_path": "/2FpTzyuyPG1r0qDcX7GCUtKQEeY.jpg",
+                "poster_path": "/6GNeRazaEV0TrfnIgaMOrLYrjfx.jpg",
+                "overview": "Detroit voltou a ser a \u00e1rea de atua\u00e7\u00e3o do detetive Axel Foley, que investiga um esquema de cart\u00f5es de cr\u00e9dito falsos. Ele interrompe esta miss\u00e3o ao saber pelo notici\u00e1rio da TV que Andrew Bogomil, um detetive que atua em Beverly Hills, foi baleado. Assim Axel ruma para l\u00e1, pois j\u00e1 tinham trabalhado juntos em um caso. L\u00e1 ele se reencontra com a filha de Andrew, Jan, e com os detetives William \"Billy\" Rosewood e John Taggart, que eram subordinados de Andrew. Novamente Axel investiga com John e Billy uma onda de assaltos bem planejados, que est\u00e1 sendo conhecida como \"crimes do alfabeto\".",
+                "vote_average": 6.5,
+                "vote_count": 2254
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Princess Bride",
+            "second_label": "Storybook Love in \"The Princess Bride\" Music and Lyric by Willy DeVille",
+            "category": "Music (Original Song)",
+            "year": 1988,
+            "tmdb": {
+                "id": 2493,
+                "original_title": "The Princess Bride",
+                "title": "A Princesa Prometida",
+                "release_date": "1987-09-25",
+                "backdrop_path": "/5FmPSt34vkCiMDhC8WflhlCwIS8.jpg",
+                "poster_path": "/9tXM8AR7BZ8cu6JkI9FlBl98Vao.jpg",
+                "overview": "A princesa Buttercup \u00e9 raptada por uma bizarra gangue com um plano mirabolante para criar um incidente internacional. Seus membros logo descobrem que est\u00e3o sendo perseguidos pelo pirata Roberts, que pode ser tamb\u00e9m Westley, o \u00fanico - por\u00e9m j\u00e1 esquecido - amor da princesa. Uma combina\u00e7\u00e3o bizarra de lutas de capa e espada, aventura, fantasia e com\u00e9dia. Um divertid\u00edssimo trabalho do diretor Rob Reiner.",
+                "vote_average": 7.7,
+                "vote_count": 4339
+            },
+            "winner": false
+        }
+    ],
+    "Best Picture": [
+        {
+            "first_label": "The Last Emperor",
+            "second_label": "Jeremy Thomas, Producer",
+            "category": "Best Picture",
+            "year": 1988,
+            "tmdb": {
+                "id": 746,
+                "original_title": "The Last Emperor",
+                "title": "O \u00daltimo Imperador",
+                "release_date": "1987-10-04",
+                "backdrop_path": "/mTw4n5MYQMftHuGsSmBrgMu7C1H.jpg",
+                "poster_path": "/K1azzBrv3CnvPDWd1p5InRh63Q.jpg",
+                "overview": "A saga de Pu Yi, o \u00faltimo imperador da China, que foi declarado imperador com apenas tr\u00eas anos e viveu enclausurado na Cidade Proibida at\u00e9 ser deposto pelo governo revolucion\u00e1rio, enfrentando ent\u00e3o o mundo pela primeira vez quando tinha 24 anos. Neste per\u00edodo se tornou um playboy, mas logo teria um papel pol\u00edtico quando se tornou um pseudo-imperador da Manch\u00faria, quando esta foi invadida pelo Jap\u00e3o. Aprisionado pelos sovi\u00e9ticos, foi devolvido \u00e0 China como prisioneiro pol\u00edtico em 1950. \u00c9 exatamente neste per\u00edodo que o filme come\u00e7a, mas logo retorna a 1908, o ano em que se tornou imperador.",
+                "vote_average": 7.6,
+                "vote_count": 1579
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Broadcast News",
+            "second_label": "James L. Brooks, Producer",
+            "category": "Best Picture",
+            "year": 1988,
+            "tmdb": {
+                "id": 12626,
+                "original_title": "Broadcast News",
+                "title": "Nos Bastidores da Not\u00edcia",
+                "release_date": "1987-12-16",
+                "backdrop_path": "/mRtwZCRIIRni9CkpNvQgYSe8F3V.jpg",
+                "poster_path": "/8g6INpPVcs3M2Jb7OKqtQCmWbVO.jpg",
+                "overview": "m Washington D.C., a produtora (Holly Hunter) do telejornal de uma grande rede tenta manter um alto padr\u00e3o de qualidade, apesar de ter que se virar de alguma maneira para aceitar o mais elegante \u00e2ncora da rede, que representa tudo que ela odeia em not\u00edcia. Por\u00e9m, mesmo assim ela se apaixona por ele. Quem v\u00ea tudo isto de perto \u00e9 um colega de trabalho que \u00e9 um \u00f3timo profissional (mas n\u00e3o fotografa bem) e melhor amigo dela, al\u00e9m de ser por ela apaixonado, apesar de n\u00e3o revelar este amor.",
+                "vote_average": 6.7,
+                "vote_count": 378
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Fatal Attraction",
+            "second_label": "Stanley R. Jaffe and Sherry Lansing, Producers",
+            "category": "Best Picture",
+            "year": 1988,
+            "tmdb": {
+                "id": 10998,
+                "original_title": "Fatal Attraction",
+                "title": "Atra\u00e7\u00e3o Fatal",
+                "release_date": "1987-09-18",
+                "backdrop_path": "/x286ZITKvbohZakhcnxuUIyFeu5.jpg",
+                "poster_path": "/tSfJwVpXW1QqUV4ldAQScv5gmjj.jpg",
+                "overview": "Aproveitando o fato de Beth Gallagher (Anne Archer), sua mulher, estar viajando Dan Gallagher (Michael Douglas), um advogado, tem um r\u00e1pido caso com Alex Forrest (Glenn Close), uma executiva que demostra ser desequilibrada emocionalmente e at\u00e9 mesmo perigosa, quando decide fazer parte da vida dele custe o que custar.",
+                "vote_average": 6.837,
+                "vote_count": 1361
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hope and Glory",
+            "second_label": "John Boorman, Producer",
+            "category": "Best Picture",
+            "year": 1988,
+            "tmdb": {
+                "id": 32054,
+                "original_title": "Hope and Glory",
+                "title": "Esperan\u00e7a e Gl\u00f3ria",
+                "release_date": "1987-09-03",
+                "backdrop_path": "/pKQqszF7GAXR22y2xr0DV4FfKUY.jpg",
+                "poster_path": "/rIlhvOUqSOkLbAdaZyeRvEysf80.jpg",
+                "overview": "Londres. Todo o horror da II Guerra Mundial \u00e9 transformado, em uma grande aventura, pela sensibilidade e imagina\u00e7\u00e3o de um garoto de nove anos de idade. A mudan\u00e7a para a casa da av\u00f3, no interior, causada pela destrui\u00e7\u00e3o de sua casa durante um dos bombardeios alem\u00e3es, o levar\u00e1 a desenvolver uma perspectiva completamente nova sobre a vida. Um projeto semi-autobiogr\u00e1fico de John Boorman. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.8,
+                "vote_count": 175
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Moonstruck",
+            "second_label": "Patrick Palmer and Norman Jewison, Producers",
+            "category": "Best Picture",
+            "year": 1988,
+            "tmdb": {
+                "id": 2039,
+                "original_title": "Moonstruck",
+                "title": "Feiti\u00e7o da Lua",
+                "release_date": "1987-12-16",
+                "backdrop_path": "/5RQ5SIcrtKeUYeYeJLRTljR8LcN.jpg",
+                "poster_path": "/ablr2IqIxnK6UpNh3ori1Lsr4xM.jpg",
+                "overview": "Loretta Castorini, uma contadora do Brooklyn com seus 30 e tantos anos, cujo marido morreu h\u00e1 v\u00e1rios anos em um acidente de \u00f4nibus, decide que \u00e9 hora de se casar novamente. Ent\u00e3o, ela aceita a proposta de um agrad\u00e1vel, companheiro de meia idade chamado Johnny Cammareri. Loretta est\u00e1 convencida de seu primeiro casamento foi amaldi\u00e7oado porque ela e o marido haviam se casado na C\u00e2mara Municipal. Ent\u00e3o ela est\u00e1 determinada a fazer as coisas direito desta vez, mesmo quando admite para sua m\u00e3e, Rose, que n\u00e3o est\u00e1 realmente apaixonada por Johnny. Ao que Rose responde: \"Bom. Quando voc\u00ea o amar, ele vai deix\u00e1-la louca, porque eles sabem que podem\". Rose fala por triste experi\u00eancia, ela suspeita que seu marido, Cosmo, est\u00e1 traindo. Loretta est\u00e1 convencida de que casar com Johnny \u00e9 a coisa certa a fazer. At\u00e9 que ela conhece o irm\u00e3o mais novo Ronny, que trabalha nos fornos em uma padaria do bairro e \u00e9 mal-humorado e apaixonado. Ent\u00e3o surgem as complica\u00e7\u00f5es dignas de uma \u00f3pera c\u00f4mica.",
+                "vote_average": 6.9,
+                "vote_count": 867
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Animated)": [
+        {
+            "first_label": "The Man Who Planted Trees",
+            "second_label": "The Man Who Planted Trees",
+            "category": "Short Film (Animated)",
+            "year": 1988,
+            "tmdb": {
+                "id": 49565,
+                "original_title": "L'homme qui plantait des arbres",
+                "title": "The Man Who Planted Trees",
+                "release_date": "1987-05-13",
+                "backdrop_path": "/3Lld2pbowCbW2H5PN3uKqXTejDi.jpg",
+                "poster_path": "/tEzdXghDipM4b8Qs1mzt4mvXT6l.jpg",
+                "overview": "The story of one shepherd's single-handed quest to re-forest a desolate valley in the foothills of the French Alps throughout the first half of the 20th century.",
+                "vote_average": 8.1,
+                "vote_count": 149
+            },
+            "winner": true
+        },
+        {
+            "first_label": "George and Rosemary",
+            "second_label": "Eunice Macaulay, Producer",
+            "category": "Short Film (Animated)",
+            "year": 1988,
+            "tmdb": {
+                "id": 208260,
+                "original_title": "George and Rosemary",
+                "title": "George and Rosemary",
+                "release_date": "1987-07-17",
+                "backdrop_path": "/yuPPwnN6at7RQDxhYWZUXozDfKI.jpg",
+                "poster_path": "/60m8NFcFjx2cQHEz2kpnNvvFWo6.jpg",
+                "overview": "A shy old man works up the gumption to meet a woman on whom he has a crush.",
+                "vote_average": 5.7,
+                "vote_count": 9
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Your Face",
+            "second_label": "Bill Plympton, Producer",
+            "category": "Short Film (Animated)",
+            "year": 1988,
+            "tmdb": {
+                "id": 193691,
+                "original_title": "Your Face",
+                "title": "Your Face",
+                "release_date": "1987-05-01",
+                "backdrop_path": "/96nZ0W7Oa39oRvhhxkTHzYy1nL7.jpg",
+                "poster_path": "/4O8UpGOtl7Gz0Q62033UtZSB6e7.jpg",
+                "overview": "A cabe\u00e7a de um homem se transforma e se contorce de forma bizarra enquanto ele canta \"Your Face\", uma can\u00e7\u00e3o original....",
+                "vote_average": 6.5,
+                "vote_count": 33
+            },
+            "winner": false
+        }
+    ],
+    "Short Film (Live Action)": [
+        {
+            "first_label": "Ray's Male Heterosexual Dance Hall",
+            "second_label": "Jonathan Sanger and Jana Sue Memel, Producers",
+            "category": "Short Film (Live Action)",
+            "year": 1988,
+            "tmdb": {
+                "id": 211375,
+                "original_title": "Ray's Male Heterosexual Dance Hall",
+                "title": "Ray's Male Heterosexual Dance Hall",
+                "release_date": "1987-11-27",
+                "backdrop_path": null,
+                "poster_path": "/pLPhTmLfyw4r1Jt7TACW11LOuK7.jpg",
+                "overview": "In this short film, our unemployed hero finds that getting that great job depends a lot on whom you choose to dance with at Ray's Male Heterosexual Dance Hall.",
+                "vote_average": 6.1,
+                "vote_count": 8
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Making Waves",
+            "second_label": "Ann Wingate, Producer",
+            "category": "Short Film (Live Action)",
+            "year": 1988,
+            "tmdb": {
+                "id": 244685,
+                "original_title": "Making Waves",
+                "title": "Making Waves",
+                "release_date": "1987-01-01",
+                "backdrop_path": null,
+                "poster_path": "/2MSCjJlV74abZ6sxkIYOnCyFMyL.jpg",
+                "overview": "A group of elderly women go on vacation to the seaside. One of them takes her son along and constantly watches him saying he has a brain tumor. His problem is something else entirely.",
+                "vote_average": 6.5,
+                "vote_count": 4
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Shoeshine",
+            "second_label": "Robert A. Katz, Producer",
+            "category": "Short Film (Live Action)",
+            "year": 1988,
+            "tmdb": {
+                "id": 244687,
+                "original_title": "Shoeshine",
+                "title": "Shoeshine",
+                "release_date": "1987-01-01",
+                "backdrop_path": null,
+                "poster_path": "/sAmNpAnPF2jZCi7Vm5BjQdbJqZB.jpg",
+                "overview": "During a ride on the Staten Island Ferry, a young Wall Street investment banker and an old shoeshine man begin chatting and discussing their life philosophies.",
+                "vote_average": 4.0,
+                "vote_count": 1
+            },
+            "winner": false
+        }
+    ],
+    "Sound": [
+        {
+            "first_label": "The Last Emperor",
+            "second_label": "Bill Rowe, Ivan Sharrock",
+            "category": "Sound",
+            "year": 1988,
+            "tmdb": {
+                "id": 746,
+                "original_title": "The Last Emperor",
+                "title": "O \u00daltimo Imperador",
+                "release_date": "1987-10-04",
+                "backdrop_path": "/mTw4n5MYQMftHuGsSmBrgMu7C1H.jpg",
+                "poster_path": "/K1azzBrv3CnvPDWd1p5InRh63Q.jpg",
+                "overview": "A saga de Pu Yi, o \u00faltimo imperador da China, que foi declarado imperador com apenas tr\u00eas anos e viveu enclausurado na Cidade Proibida at\u00e9 ser deposto pelo governo revolucion\u00e1rio, enfrentando ent\u00e3o o mundo pela primeira vez quando tinha 24 anos. Neste per\u00edodo se tornou um playboy, mas logo teria um papel pol\u00edtico quando se tornou um pseudo-imperador da Manch\u00faria, quando esta foi invadida pelo Jap\u00e3o. Aprisionado pelos sovi\u00e9ticos, foi devolvido \u00e0 China como prisioneiro pol\u00edtico em 1950. \u00c9 exatamente neste per\u00edodo que o filme come\u00e7a, mas logo retorna a 1908, o ano em que se tornou imperador.",
+                "vote_average": 7.6,
+                "vote_count": 1579
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Empire of the Sun",
+            "second_label": "Robert Knudson, Don Digirolamo, John Boyd, Tony Dawe",
+            "category": "Sound",
+            "year": 1988,
+            "tmdb": {
+                "id": 10110,
+                "original_title": "Empire of the Sun",
+                "title": "Imp\u00e9rio do Sol",
+                "release_date": "1987-12-09",
+                "backdrop_path": "/k1ppJC3h2qgHES2E17KPUhAcOBx.jpg",
+                "poster_path": "/v16AWhkzV97RSlhPbixTKJ18qsB.jpg",
+                "overview": "Jim Graham (Christian Bale) \u00e9 um garoto de 11 anos de uma fam\u00edlia inglesa que vive no Oriente. Jim tem um padr\u00e3o de vida alto, mas de repente \u00e9 separado de seus pais em virtude da China ser invadida pelo Jap\u00e3o. Isto o for\u00e7a a se defender e o obriga a crescer, tornando-se ent\u00e3o um sobrevivente em um campo de concentra\u00e7\u00e3o com r\u00edgidas regras.",
+                "vote_average": 7.5,
+                "vote_count": 1822
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Lethal Weapon",
+            "second_label": "Les Fresholtz, Dick Alexander, Vern Poore, Bill Nelson",
+            "category": "Sound",
+            "year": 1988,
+            "tmdb": {
+                "id": 941,
+                "original_title": "Lethal Weapon",
+                "title": "M\u00e1quina Mort\u00edfera",
+                "release_date": "1987-03-06",
+                "backdrop_path": "/guTNnSWS3CaH71jasY8W1FMptjG.jpg",
+                "poster_path": "/mE6PI7AR9GYCOu7M0zmTuzJGGCa.jpg",
+                "overview": "Martin Riggs e Roger Murtaugh s\u00e3o dois policiais que se tornam parceiros para lutar contra uma quadrilha de traficantes de drogas, composta de ex-militares da Guerra do Vietn\u00e3. S\u00f3 que nessa miss\u00e3o, Murtaugh ainda ter\u00e1 que lidar com as tend\u00eancias suicidas de Riggs.",
+                "vote_average": 7.29,
+                "vote_count": 4329
+            },
+            "winner": false
+        },
+        {
+            "first_label": "RoboCop",
+            "second_label": "Michael J. Kohut, Carlos de Larios, Aaron Rochin, Robert Wald",
+            "category": "Sound",
+            "year": 1988,
+            "tmdb": {
+                "id": 5548,
+                "original_title": "RoboCop",
+                "title": "RoboCop - O Policial do Futuro",
+                "release_date": "1987-07-17",
+                "backdrop_path": "/pRSTtNlcADoQkfeBGtFQNE1FDpb.jpg",
+                "poster_path": "/uZ27cWusfoGFh7sOiUsIENxW48S.jpg",
+                "overview": "Policial \u00e9 morto em combate e transformado por cientistas da empresa que dirige a for\u00e7a policial em um ciborgue ultrassofisticado a fim de ser usado na luta contra o crime na cidade de Detroit. Por\u00e9m, apesar de ter sua mem\u00f3ria apagada, lembran\u00e7as o assombram e o levam a buscar vingan\u00e7a.",
+                "vote_average": 7.314,
+                "vote_count": 4809
+            },
+            "winner": false
+        },
+        {
+            "first_label": "The Witches of Eastwick",
+            "second_label": "Wayne Artman, Tom Beckert, Tom Dahl, Art Rochester",
+            "category": "Sound",
+            "year": 1988,
+            "tmdb": {
+                "id": 6069,
+                "original_title": "The Witches of Eastwick",
+                "title": "As Bruxas de Eastwick",
+                "release_date": "1987-06-12",
+                "backdrop_path": "/yTLBhpUWEDkscjWkD6TgqMSYhzn.jpg",
+                "poster_path": "/pRCBlOxsExSihUS6qIzqE82WjnC.jpg",
+                "overview": "Em uma pequena e conservadora cidade da Nova Inglaterra, Alexandra Medford (Cher), Jane Spofford (Susan Sarandon) e Sukie Ridgemont (Michelle Pfeiffer), entediadas com a vida que levam, se re\u00fanem todas as quintas-feiras para tomarem drinques e conversarem sobre v\u00e1rios assuntos. O principal deles \u00e9 um homem ideal e, sem querer, invocam Daryl Van Horne (Jack Nicholson), um rica\u00e7o misterioso e carism\u00e1tico que se muda para a localidade e se envolve com as tr\u00eas, satisfazendo os desejos delas, mas criando uma guerra dos sexos com consequ\u00eancias inesperadas.",
+                "vote_average": 6.531,
+                "vote_count": 1311
+            },
+            "winner": false
+        }
+    ],
+    "Special Achievement Award (Sound Effects Editing)": [
+        {
+            "first_label": "RoboCop",
+            "second_label": "Stephen Flick, John Pospisil",
+            "category": "Special Achievement Award (Sound Effects Editing)",
+            "year": 1988,
+            "tmdb": {
+                "id": 5548,
+                "original_title": "RoboCop",
+                "title": "RoboCop - O Policial do Futuro",
+                "release_date": "1987-07-17",
+                "backdrop_path": "/pRSTtNlcADoQkfeBGtFQNE1FDpb.jpg",
+                "poster_path": "/uZ27cWusfoGFh7sOiUsIENxW48S.jpg",
+                "overview": "Policial \u00e9 morto em combate e transformado por cientistas da empresa que dirige a for\u00e7a policial em um ciborgue ultrassofisticado a fim de ser usado na luta contra o crime na cidade de Detroit. Por\u00e9m, apesar de ter sua mem\u00f3ria apagada, lembran\u00e7as o assombram e o levam a buscar vingan\u00e7a.",
+                "vote_average": 7.314,
+                "vote_count": 4809
+            },
+            "winner": true
+        }
+    ],
+    "Visual Effects": [
+        {
+            "first_label": "Innerspace",
+            "second_label": "Dennis Muren, William George, Harley Jessup, Kenneth Smith",
+            "category": "Visual Effects",
+            "year": 1988,
+            "tmdb": {
+                "id": 2614,
+                "original_title": "Innerspace",
+                "title": "Viagem Ins\u00f3lita",
+                "release_date": "1987-07-01",
+                "backdrop_path": "/cDEseDgCAYCEUT6q1n0U742X3tZ.jpg",
+                "poster_path": "/4OGOyx3D86UvQr4drIpNzjlNlfr.jpg",
+                "overview": "Jack Putter se sente muito bem hoje, pelo menos para um hipocondr\u00edaco. Mas algo novo est\u00e1 acontecendo, ele come\u00e7a a ouvir vozes. \"Estou possu\u00eddo!\", ele diz. A voz que Jack ouve \u00e9 do piloto da Marinha Tuck Pendleton que foi submetido a uma miniaturiza\u00e7\u00e3o, para um projeto secreto, e acidentalmente injetado em Jack. Antes que possa dizer alguma coisa seu improv\u00e1vel companheiro realizar\u00e1 a mais incr\u00edvel fuga da sua vida.",
+                "vote_average": 6.8,
+                "vote_count": 1181
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Predator",
+            "second_label": "Joel Hynek, Robert M. Greenberg, Richard Greenberg, Stan Winston",
+            "category": "Visual Effects",
+            "year": 1988,
+            "tmdb": {
+                "id": 106,
+                "original_title": "Predator",
+                "title": "O Predador",
+                "release_date": "1987-06-12",
+                "backdrop_path": "/YL3GPOiDcNraIJOVDCZsoOBoDy.jpg",
+                "poster_path": "/2B6yDvD0hre65fyRi9LC3UJ9uSq.jpg",
+                "overview": "O major Alan \"Dutch\" Schaefer lidera uma equipe de resgate em uma selva da Am\u00e9rica Central, para tentar encontrar um ministro estrangeiro e funcion\u00e1rios do governo que sa\u00edram da rota e se perderam. O ex\u00e9rcito acredita que eles estejam nas m\u00e3os de guerrilheiros, mas o que eles n\u00e3o imaginam \u00e9 que a floresta esconde uma amea\u00e7a mortal, um ser de outro planeta, fortemente armado, que sente enorme prazer em matar.",
+                "vote_average": 7.5,
+                "vote_count": 7622
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay Based on Material from Another Medium)": [
+        {
+            "first_label": "The Last Emperor",
+            "second_label": "Mark Peploe, Bernardo Bertolucci",
+            "category": "Writing (Screenplay Based on Material from Another Medium)",
+            "year": 1988,
+            "tmdb": {
+                "id": 746,
+                "original_title": "The Last Emperor",
+                "title": "O \u00daltimo Imperador",
+                "release_date": "1987-10-04",
+                "backdrop_path": "/mTw4n5MYQMftHuGsSmBrgMu7C1H.jpg",
+                "poster_path": "/K1azzBrv3CnvPDWd1p5InRh63Q.jpg",
+                "overview": "A saga de Pu Yi, o \u00faltimo imperador da China, que foi declarado imperador com apenas tr\u00eas anos e viveu enclausurado na Cidade Proibida at\u00e9 ser deposto pelo governo revolucion\u00e1rio, enfrentando ent\u00e3o o mundo pela primeira vez quando tinha 24 anos. Neste per\u00edodo se tornou um playboy, mas logo teria um papel pol\u00edtico quando se tornou um pseudo-imperador da Manch\u00faria, quando esta foi invadida pelo Jap\u00e3o. Aprisionado pelos sovi\u00e9ticos, foi devolvido \u00e0 China como prisioneiro pol\u00edtico em 1950. \u00c9 exatamente neste per\u00edodo que o filme come\u00e7a, mas logo retorna a 1908, o ano em que se tornou imperador.",
+                "vote_average": 7.6,
+                "vote_count": 1579
+            },
+            "winner": true
+        },
+        {
+            "first_label": "The Dead",
+            "second_label": "Tony Huston",
+            "category": "Writing (Screenplay Based on Material from Another Medium)",
+            "year": 1988,
+            "tmdb": {
+                "id": 39507,
+                "original_title": "The Dead",
+                "title": "Os Vivos e os Mortos",
+                "release_date": "1987-09-03",
+                "backdrop_path": "/ypySbENCsnlpeG49txjxcITYSRX.jpg",
+                "poster_path": "/hFLUqiwvvtcUqA5NZNejaaNpTv0.jpg",
+                "overview": "\u00c9 6 de janeiro de 1904 e Dublin celebra o Dia dos Reis em meio \u00e0 neve. Na casa das irm\u00e3s Morgan, Julia (Cathleen Delany) e Kate (Helena Carroll), \u00e9 oferecida uma ceia a amigos e parentes, logo ap\u00f3s a realiza\u00e7\u00e3o de um sarau musical e po\u00e9tico. J\u00e1 perto do final da celebra\u00e7\u00e3o, quando boa parte dos convidados j\u00e1 tinham sa\u00eddo, o bar\u00edtono Bartell D'Arcy (Frank Patterson) come\u00e7a a cantar uma m\u00fasica triste, que faz com que Gretta Conroy (Anjelica Huston) se lembre de uma paix\u00e3o antiga, que j\u00e1 faleceu. Surpreso com a mudan\u00e7a de comportamento de sua esposa, Gabriel (Donal McCann) conhece a hist\u00f3ria da antiga paix\u00e3o dela ao chegarem no hotel em que est\u00e3o hospedados.",
+                "vote_average": 6.9,
+                "vote_count": 145
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Fatal Attraction",
+            "second_label": "James Dearden",
+            "category": "Writing (Screenplay Based on Material from Another Medium)",
+            "year": 1988,
+            "tmdb": {
+                "id": 10998,
+                "original_title": "Fatal Attraction",
+                "title": "Atra\u00e7\u00e3o Fatal",
+                "release_date": "1987-09-18",
+                "backdrop_path": "/x286ZITKvbohZakhcnxuUIyFeu5.jpg",
+                "poster_path": "/tSfJwVpXW1QqUV4ldAQScv5gmjj.jpg",
+                "overview": "Aproveitando o fato de Beth Gallagher (Anne Archer), sua mulher, estar viajando Dan Gallagher (Michael Douglas), um advogado, tem um r\u00e1pido caso com Alex Forrest (Glenn Close), uma executiva que demostra ser desequilibrada emocionalmente e at\u00e9 mesmo perigosa, quando decide fazer parte da vida dele custe o que custar.",
+                "vote_average": 6.837,
+                "vote_count": 1361
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Full Metal Jacket",
+            "second_label": "Stanley Kubrick, Michael Herr, Gustav Hasford",
+            "category": "Writing (Screenplay Based on Material from Another Medium)",
+            "year": 1988,
+            "tmdb": {
+                "id": 600,
+                "original_title": "Full Metal Jacket",
+                "title": "Nascido Para Matar",
+                "release_date": "1987-06-26",
+                "backdrop_path": "/3k2TRmqMjgt7tcwkYwZQdctnty3.jpg",
+                "poster_path": "/uRSIyrD4gjZgwtnITBdBqKabqzw.jpg",
+                "overview": "Um sargento treina de forma fan\u00e1tica e s\u00e1dica os recrutas em uma base de treinamentos, na inten\u00e7\u00e3o de transform\u00e1-los em m\u00e1quinas de guerra para combater na Guerra do Vietn\u00e3. Ap\u00f3s serem transformados em fuzileiros navais, eles s\u00e3o enviados para a guerra e quando l\u00e1 chegam se deparam com seus horrores.",
+                "vote_average": 8.1,
+                "vote_count": 10021
+            },
+            "winner": false
+        },
+        {
+            "first_label": "My Life as a Dog",
+            "second_label": "My Life as a Dog",
+            "category": "Writing (Screenplay Based on Material from Another Medium)",
+            "year": 1988,
+            "tmdb": {
+                "id": 8816,
+                "original_title": "Mitt liv som hund",
+                "title": "Minha Vida de Cachorro",
+                "release_date": "1985-12-12",
+                "backdrop_path": "/zKqzUT0ZAljEYPLceye6ZT4H9By.jpg",
+                "poster_path": "/3ZPz8BFDiv2uGWhiRVzGpS1Jsi7.jpg",
+                "overview": "Com o agravamento da tuberculose da m\u00e3e, menino \u00e9 separado do irm\u00e3o e enviado para aldeia do norte da Su\u00e9cia. Banhado em um clima po\u00e9tico, \u00e9 um dos melhores filmes sobre crian\u00e7as que o cinema j\u00e1 fez.",
+                "vote_average": 7.2,
+                "vote_count": 242
+            },
+            "winner": false
+        }
+    ],
+    "Writing (Screenplay Written Directly for the Screen)": [
+        {
+            "first_label": "Moonstruck",
+            "second_label": "John Patrick Shanley",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 1988,
+            "tmdb": {
+                "id": 2039,
+                "original_title": "Moonstruck",
+                "title": "Feiti\u00e7o da Lua",
+                "release_date": "1987-12-16",
+                "backdrop_path": "/5RQ5SIcrtKeUYeYeJLRTljR8LcN.jpg",
+                "poster_path": "/ablr2IqIxnK6UpNh3ori1Lsr4xM.jpg",
+                "overview": "Loretta Castorini, uma contadora do Brooklyn com seus 30 e tantos anos, cujo marido morreu h\u00e1 v\u00e1rios anos em um acidente de \u00f4nibus, decide que \u00e9 hora de se casar novamente. Ent\u00e3o, ela aceita a proposta de um agrad\u00e1vel, companheiro de meia idade chamado Johnny Cammareri. Loretta est\u00e1 convencida de seu primeiro casamento foi amaldi\u00e7oado porque ela e o marido haviam se casado na C\u00e2mara Municipal. Ent\u00e3o ela est\u00e1 determinada a fazer as coisas direito desta vez, mesmo quando admite para sua m\u00e3e, Rose, que n\u00e3o est\u00e1 realmente apaixonada por Johnny. Ao que Rose responde: \"Bom. Quando voc\u00ea o amar, ele vai deix\u00e1-la louca, porque eles sabem que podem\". Rose fala por triste experi\u00eancia, ela suspeita que seu marido, Cosmo, est\u00e1 traindo. Loretta est\u00e1 convencida de que casar com Johnny \u00e9 a coisa certa a fazer. At\u00e9 que ela conhece o irm\u00e3o mais novo Ronny, que trabalha nos fornos em uma padaria do bairro e \u00e9 mal-humorado e apaixonado. Ent\u00e3o surgem as complica\u00e7\u00f5es dignas de uma \u00f3pera c\u00f4mica.",
+                "vote_average": 6.9,
+                "vote_count": 867
+            },
+            "winner": true
+        },
+        {
+            "first_label": "Au Revoir Les Enfants (Goodbye, Children)",
+            "second_label": "Louis Malle",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 1988,
+            "tmdb": {
+                "id": 1786,
+                "original_title": "Au revoir les enfants",
+                "title": "Adeus, Meninos",
+                "release_date": "1987-10-07",
+                "backdrop_path": "/mQC9OxFBGKJmk4tgzpmKO1nIZx5.jpg",
+                "poster_path": "/mSJkBBKNkWYjRn6nmkXlMIoNO7T.jpg",
+                "overview": "Uma hist\u00f3ria comovente de amizade e perda devastadora sobre dois meninos que vivem na Fran\u00e7a ocupada pelos nazistas. Em um internato cat\u00f3lico provincial, os jovens precoces conhecem a verdadeira camaradagem \u2013 at\u00e9 que um segredo \u00e9 revelado.",
+                "vote_average": 7.5,
+                "vote_count": 612
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Broadcast News",
+            "second_label": "James L. Brooks",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 1988,
+            "tmdb": {
+                "id": 12626,
+                "original_title": "Broadcast News",
+                "title": "Nos Bastidores da Not\u00edcia",
+                "release_date": "1987-12-16",
+                "backdrop_path": "/mRtwZCRIIRni9CkpNvQgYSe8F3V.jpg",
+                "poster_path": "/8g6INpPVcs3M2Jb7OKqtQCmWbVO.jpg",
+                "overview": "m Washington D.C., a produtora (Holly Hunter) do telejornal de uma grande rede tenta manter um alto padr\u00e3o de qualidade, apesar de ter que se virar de alguma maneira para aceitar o mais elegante \u00e2ncora da rede, que representa tudo que ela odeia em not\u00edcia. Por\u00e9m, mesmo assim ela se apaixona por ele. Quem v\u00ea tudo isto de perto \u00e9 um colega de trabalho que \u00e9 um \u00f3timo profissional (mas n\u00e3o fotografa bem) e melhor amigo dela, al\u00e9m de ser por ela apaixonado, apesar de n\u00e3o revelar este amor.",
+                "vote_average": 6.7,
+                "vote_count": 378
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Hope and Glory",
+            "second_label": "John Boorman",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 1988,
+            "tmdb": {
+                "id": 32054,
+                "original_title": "Hope and Glory",
+                "title": "Esperan\u00e7a e Gl\u00f3ria",
+                "release_date": "1987-09-03",
+                "backdrop_path": "/pKQqszF7GAXR22y2xr0DV4FfKUY.jpg",
+                "poster_path": "/rIlhvOUqSOkLbAdaZyeRvEysf80.jpg",
+                "overview": "Londres. Todo o horror da II Guerra Mundial \u00e9 transformado, em uma grande aventura, pela sensibilidade e imagina\u00e7\u00e3o de um garoto de nove anos de idade. A mudan\u00e7a para a casa da av\u00f3, no interior, causada pela destrui\u00e7\u00e3o de sua casa durante um dos bombardeios alem\u00e3es, o levar\u00e1 a desenvolver uma perspectiva completamente nova sobre a vida. Um projeto semi-autobiogr\u00e1fico de John Boorman. (e 14 - Estimado 14 Anos)",
+                "vote_average": 6.8,
+                "vote_count": 175
+            },
+            "winner": false
+        },
+        {
+            "first_label": "Radio Days",
+            "second_label": "Woody Allen",
+            "category": "Writing (Screenplay Written Directly for the Screen)",
+            "year": 1988,
+            "tmdb": {
+                "id": 30890,
+                "original_title": "Radio Days",
+                "title": "A Era do R\u00e1dio",
+                "release_date": "1987-01-30",
+                "backdrop_path": "/rn3E4Kd7EUOGOF95Hsd0aOhQqZg.jpg",
+                "poster_path": "/bQ1afxsIZWtkiRyb5PAom1GPfgX.jpg",
+                "overview": "Um olhar nost\u00e1lgico na \u00e9poca de ouro do r\u00e1dio. No in\u00edcio da Segunda Guerra Mundial em Nova York, uma fam\u00edlia comum tem seus sonhos inspirados nos programas de r\u00e1dio da \u00e9poca. Como n\u00e3o existia televis\u00e3o, as fam\u00edlias se reuniam ao redor do r\u00e1dio e cada membro da fam\u00edlia tinha seu programa preferido. O destemido Vingador Mascarado, o Caf\u00e9 da Manh\u00e3 Show com os socialites e galanteadores Roger e Irene e Sally, a \"Garota dos Cigarros\", s\u00e3o quase t\u00e3o importantes quanto, por exemplo, se o Oceano Pac\u00edfico \u00e9 menor do que o Atl\u00e2ntico, ou mesmo o que o seu pai realmente faz para ganhar a vida.",
+                "vote_average": 7.0,
+                "vote_count": 522
+            },
+            "winner": false
+        }
+    ]
+}
