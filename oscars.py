@@ -132,7 +132,7 @@ def get_ids(title, second_label, year):
 def process_noms(id, nom, cat, year):
 	l1 = nom.find('div', {'class': 'field--name-field-award-entities'}).getText().strip() # first label
 	l2 = nom.find('div', {'class': 'field--name-field-award-film'}).getText().strip() # second label
-	print(f'nominees for {cat} {year}: {l1} / {l2}')
+	#print(f'nominees for {cat} {year}: {l1} / {l2}')
 	r = {
 		'first_label': l1,
 		'second_label': l2,
@@ -145,10 +145,10 @@ def process_noms(id, nom, cat, year):
 def process_group(id, g, year):
 	results_array = []
 	cat = g.find('div', {'class':'field--name-field-award-category-oscars'}, recursive=True).getText().strip() # category name
-	#print(f'category name: {cat}')
+	print(f'category name: {cat} {year}')
 	noms = g.find_all('div', {'class': 'paragraph--type--award-honoree'}, recursive=True) # nominees container
 	counter = 0
-	result = indexed_threadpool(process_noms, [(nom,cat,year) for nom in noms], {'nom':0, 'cat':1, 'year':2}, max_threads=5)
+	result = indexed_threadpool(process_noms, [(nom,cat,year) for nom in noms], {'nom':0, 'cat':1, 'year':2}, max_threads=2)
 	for r in result:
 		r['winner'] = True if counter < 1 else False # first result is winner
 		results_array.append(r)
@@ -175,7 +175,7 @@ def year_data_by_cat(id, year):
 	groups = groups.find_all('div', {'class': 'field__item'}, recursive=False) # entries
 	#print(f'found {len(groups)} groups')
 
-	processed_groups = indexed_threadpool(process_group, [(g, year) for g in groups], {'g':0,'year':1}, max_threads=25)
+	processed_groups = indexed_threadpool(process_group, [(g, year) for g in groups], {'g':0,'year':1}, max_threads=3)
 	data_dict = {}
 	for g in processed_groups:
 		data_dict[g[0]] = g[1]
@@ -187,12 +187,12 @@ def main():
 	global cached_hits, total_searches, invalid_year_results
 	global total_movies_found, total_movies_not_found, total_persons_found, total_persons_not_found
 
-	start_year = 2024
+	start_year = 2022
 	end_year = 2025 #datetime.now().year + 1
 	years = [[y] for y in range(start_year, end_year)]
 
 	#final_result = {}
-	result = indexed_threadpool(year_data_by_cat, years, {'year': 0}, show_progress=True, max_threads=5)
+	result = indexed_threadpool(year_data_by_cat, years, {'year': 0}, show_progress=True, max_threads=3)
 	for r in result:
 		#final_result[r[0]] = r[1]
 		with open('year/%s.json' % r[0], 'w') as f:
