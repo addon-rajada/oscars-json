@@ -220,7 +220,16 @@
                 "profile_path": "/2MsJh0bpyzwvOUnXOltHp3j85Pb.jpg",
                 "result_type": "person",
                 "award_movie": {
-                    "error": "no ID found"
+                    "id": 595586,
+                    "original_title": "Causeway",
+                    "title": "Passagem",
+                    "release_date": "2022-10-28",
+                    "backdrop_path": "/lInZWt4JQXZw3VzGvTM2I56L7gB.jpg",
+                    "poster_path": "/81eQIYIR7i5W0XsB2PtvZAt4I9w.jpg",
+                    "overview": "Lynsey \u00e9 uma militar que luta para se ajustar na volta para casa, em Nova Orleans, ap\u00f3s uma les\u00e3o traum\u00e1tica. Quando ela conhece o mec\u00e2nico local, James, a dupla come\u00e7a a estabelecer um v\u00ednculo inesperado.",
+                    "vote_average": 6.6,
+                    "vote_count": 390,
+                    "result_type": "movie"
                 }
             },
             "winner": false
@@ -329,7 +338,16 @@
                 "profile_path": "/9V83uemR0ra9Wd9iRXTMlfAQlTB.jpg",
                 "result_type": "person",
                 "award_movie": {
-                    "error": "no ID found"
+                    "id": 1006540,
+                    "original_title": "Bullet Train Down",
+                    "title": "Trem bala \u00e0 baixo",
+                    "release_date": "2022-08-01",
+                    "backdrop_path": "/mEoIDEiePnYj178H9znzbl9zvky.jpg",
+                    "poster_path": "/5a7cocgyVuFjYV71neDIGVzD6Yq.jpg",
+                    "overview": "Em sua corrida inaugural, o trem-bala mais r\u00e1pido do mundo est\u00e1 equipado com uma bomba que explodir\u00e1 se cair abaixo de 320 km/h.",
+                    "vote_average": 5.4,
+                    "vote_count": 45,
+                    "result_type": "movie"
                 }
             },
             "winner": false
@@ -429,16 +447,26 @@
             "category": "Actress in a Supporting Role",
             "year": 2023,
             "tmdb": {
-                "id": 930322,
-                "original_title": "Jamie Lee Curtis, un cri de libert\u00e9 \u00e0 Hollywood",
-                "title": "Jamie Lee Curtis: Hollywood Call of Freedom",
-                "release_date": "2022-10-28",
-                "backdrop_path": "/vjHyJJqDMq1r0yAq23iikDJhrfc.jpg",
-                "poster_path": "/u4JkkfV91oHcj5wKHwc8wbqfMI7.jpg",
-                "overview": "Heroine of the Halloween film series, or accomplice in a crazy scam in A Fish Called Wanda, Jamie Lee Curtis is, at 62, still as credible, funny, and a wildly free pop actress.",
-                "vote_average": 7.0,
-                "vote_count": 5,
-                "result_type": "movie"
+                "id": 8944,
+                "gender": 1,
+                "known_for_department": "Acting",
+                "name": "Jamie Lee Curtis",
+                "original_name": "Jamie Lee Curtis",
+                "popularity": 37.525,
+                "profile_path": "/9KWvPVeiLOXlOGl0XVyHZtJWQtx.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 545611,
+                    "original_title": "Everything Everywhere All at Once",
+                    "title": "Tudo em Todo o Lugar ao Mesmo Tempo",
+                    "release_date": "2022-03-24",
+                    "backdrop_path": "/fIwiFha3WPu5nHkBeMQ4GzEk0Hv.jpg",
+                    "poster_path": "/bW21kbvqAt2kMGlaU8qY86C8kQE.jpg",
+                    "overview": "Uma imigrante chinesa parte rumo a uma aventura onde, sozinha, precisar\u00e1 salvar o mundo, explorando outros universos e outras vidas que poderia ter vivido. Contudo, as coisas se complicam quando ela fica presa nessa infinidade de possibilidades sem conseguir retornar para casa.",
+                    "vote_average": 7.795,
+                    "vote_count": 5969,
+                    "result_type": "movie"
+                }
             },
             "winner": true
         },
@@ -958,7 +986,7 @@
                     "poster_path": "/rRYNGhcAZlTfIUS7iFoF4H9iDbc.jpg",
                     "overview": "Na Londres dos anos 70 em meio \u00e0 revolu\u00e7\u00e3o do punk rock, Estella, uma garota inteligente e criativa determinada a fazer um nome para si atrav\u00e9s de seus designs. Ela faz amizade com uma dupla de jovens ladr\u00f5es e, juntos, constroem uma vida para si nas ruas de Londres. Um dia, o talento de Estella para a moda chama a aten\u00e7\u00e3o da Baronesa Von Hellman, uma lenda fashion que \u00e9 devastadoramente chique e assustadora. Mas o relacionamento delas desencadeia um curso de eventos e revela\u00e7\u00f5es que far\u00e3o com que Estella abrace seu lado rebelde e se torne a Cruella m\u00e1, elegante e voltada para a vingan\u00e7a.",
                     "vote_average": 8.027,
-                    "vote_count": 8936,
+                    "vote_count": 8937,
                     "result_type": "movie"
                 }
             },
@@ -1791,16 +1819,26 @@
             "category": "Music (Original Score)",
             "year": 2023,
             "tmdb": {
-                "id": 922333,
-                "original_title": "John Williams & Berliner Philharmoniker - The Berlin Concert",
-                "title": "John Williams & Berliner Philharmonic - The Berlin Concert",
-                "release_date": "2022-02-04",
-                "backdrop_path": "/8c0UveXrXrUay4bjIBlAuFpkNS.jpg",
-                "poster_path": "/nvWcU9aO7eqcnvZG6VP4LxKGjDr.jpg",
-                "overview": "John Williams has made cinematic history with his film scores and transported entire generations into his musical worlds. He has composed the soundtracks for cinema blockbusters such as \"Star Wars\", \"Jurassic Park\", \"E.T.\" and \"Harry Potter\". In this concert, he conducts some of his most famous film classics. At the same time, this is his debut on the podium of the Berliner Philharmoniker. May the Force be with him ...",
-                "vote_average": 6.6,
-                "vote_count": 7,
-                "result_type": "movie"
+                "id": 491,
+                "gender": 2,
+                "known_for_department": "Sound",
+                "name": "John Williams",
+                "original_name": "John Williams",
+                "popularity": 14.845,
+                "profile_path": "/KFyMqUWeiBdP9tJcZyGWOqnrgK.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 804095,
+                    "original_title": "The Fabelmans",
+                    "title": "Os Fabelmans",
+                    "release_date": "2022-11-11",
+                    "backdrop_path": "/2OnmtVOEpCwt0sYtss5kNxyYM2W.jpg",
+                    "poster_path": "/BWHoAAcKnGtowRXju2c2RBrT0m.jpg",
+                    "overview": "Crescendo no Arizona p\u00f3s-Segunda Guerra Mundial, o jovem Sammy Fabelman aspira a se tornar um cineasta ao atingir a adolesc\u00eancia, mas logo descobre um segredo de fam\u00edlia devastador e explora como o poder dos filmes pode ajud\u00e1-lo a ver a verdade.",
+                    "vote_average": 7.6,
+                    "vote_count": 2092,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         }
@@ -2752,7 +2790,16 @@
             "tmdb": {
                 "error": "no ID found",
                 "award_movie": {
-                    "error": "no ID found"
+                    "id": 760099,
+                    "original_title": "Living",
+                    "title": "Viver",
+                    "release_date": "2022-11-04",
+                    "backdrop_path": "/vxxCUHZlPuwepCeZMYLmbXCdOP1.jpg",
+                    "poster_path": "/sujkFvw29C1cvwBHbToPnWnvBcV.jpg",
+                    "overview": "Na Londres dos anos 1950, um funcion\u00e1rio p\u00fablico mau humorado decide tirar uma folga do trabalho para experimentar a vida depois de receber um diagn\u00f3stico sombrio.",
+                    "vote_average": 7.0,
+                    "vote_count": 345,
+                    "result_type": "movie"
                 }
             },
             "winner": false

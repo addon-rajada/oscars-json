@@ -262,7 +262,14 @@
             "category": "Actor in a Supporting Role",
             "year": 2022,
             "tmdb": {
-                "error": "no ID found",
+                "id": 113505,
+                "gender": 2,
+                "known_for_department": "Acting",
+                "name": "Kodi Smit-McPhee",
+                "original_name": "Kodi Smit-McPhee",
+                "popularity": 13.17,
+                "profile_path": "/sesCWba9NwPDYDZzbVLs7OgLOti.jpg",
+                "result_type": "person",
                 "award_movie": {
                     "id": 600583,
                     "original_title": "The Power of the Dog",
@@ -694,7 +701,16 @@
                 "profile_path": "/b9q2uhoS8M4LBuD0ymNoGI5lMs4.jpg",
                 "result_type": "person",
                 "award_movie": {
-                    "error": "no ID found"
+                    "id": 438631,
+                    "original_title": "Dune",
+                    "title": "Duna",
+                    "release_date": "2021-09-15",
+                    "backdrop_path": "/lzWHmYdfeFiMIY4JaMmtR7GEli3.jpg",
+                    "poster_path": "/uzERcfV2rSHNhW5eViQiO9hNiA7.jpg",
+                    "overview": "Em um futuro distante, planetas s\u00e3o comandados por casas nobres que fazem parte de um imp\u00e9rio feudal intergal\u00e1tico. Paul Atreides \u00e9 um jovem cuja fam\u00edlia toma o controle do planeta deserto Arrakis, tamb\u00e9m conhecido como Duna. A \u00fanica fonte da especiaria Melange, a subst\u00e2ncia mais importante do cosmos, Arrakis se mostra ser um planeta nem um pouco f\u00e1cil de governar.",
+                    "vote_average": 7.789,
+                    "vote_count": 11236,
+                    "result_type": "movie"
                 }
             },
             "winner": true
@@ -840,7 +856,7 @@
                     "poster_path": "/rRYNGhcAZlTfIUS7iFoF4H9iDbc.jpg",
                     "overview": "Na Londres dos anos 70 em meio \u00e0 revolu\u00e7\u00e3o do punk rock, Estella, uma garota inteligente e criativa determinada a fazer um nome para si atrav\u00e9s de seus designs. Ela faz amizade com uma dupla de jovens ladr\u00f5es e, juntos, constroem uma vida para si nas ruas de Londres. Um dia, o talento de Estella para a moda chama a aten\u00e7\u00e3o da Baronesa Von Hellman, uma lenda fashion que \u00e9 devastadoramente chique e assustadora. Mas o relacionamento delas desencadeia um curso de eventos e revela\u00e7\u00f5es que far\u00e3o com que Estella abrace seu lado rebelde e se torne a Cruella m\u00e1, elegante e voltada para a vingan\u00e7a.",
                     "vote_average": 8.027,
-                    "vote_count": 8936,
+                    "vote_count": 8937,
                     "result_type": "movie"
                 }
             },
@@ -1043,16 +1059,26 @@
             "category": "Directing",
             "year": 2022,
             "tmdb": {
-                "id": 1025716,
-                "original_title": "Paul Thomas Anderson: Fathers, Sons & Lovers",
-                "title": "Paul Thomas Anderson: Fathers, Sons & Lovers",
-                "release_date": "2021-05-01",
-                "backdrop_path": null,
-                "poster_path": "/43zomOtMx5YWUkq14sgjgSvhB3O.jpg",
-                "overview": "",
-                "vote_average": 0.0,
-                "vote_count": 0,
-                "result_type": "movie"
+                "id": 4762,
+                "gender": 2,
+                "known_for_department": "Directing",
+                "name": "Paul Thomas Anderson",
+                "original_name": "Paul Thomas Anderson",
+                "popularity": 11.849,
+                "profile_path": "/wKAs2LtLYSUzt3ZZ8pnxMwuEWuR.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 718032,
+                    "original_title": "Licorice Pizza",
+                    "title": "Licorice Pizza",
+                    "release_date": "2021-11-26",
+                    "backdrop_path": "/hB4ibOHXm1Xl0IbuYVioktDGUWJ.jpg",
+                    "poster_path": "/deV9SBeCQG2rrbKBsWQDiMerQjQ.jpg",
+                    "overview": "A hist\u00f3ria de Alana Kane e Gary Valentine crescendo, correndo e passando pela navega\u00e7\u00e3o trai\u00e7oeira do primeiro amor no Vale de San Fernando, 1973.",
+                    "vote_average": 6.982,
+                    "vote_count": 2102,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
@@ -1330,7 +1356,16 @@
                 "profile_path": "/2pfPFxb2I0ulvMZx5B7juwvuU3I.jpg",
                 "result_type": "person",
                 "award_movie": {
-                    "error": "no ID found"
+                    "id": 438631,
+                    "original_title": "Dune",
+                    "title": "Duna",
+                    "release_date": "2021-09-15",
+                    "backdrop_path": "/lzWHmYdfeFiMIY4JaMmtR7GEli3.jpg",
+                    "poster_path": "/uzERcfV2rSHNhW5eViQiO9hNiA7.jpg",
+                    "overview": "Em um futuro distante, planetas s\u00e3o comandados por casas nobres que fazem parte de um imp\u00e9rio feudal intergal\u00e1tico. Paul Atreides \u00e9 um jovem cuja fam\u00edlia toma o controle do planeta deserto Arrakis, tamb\u00e9m conhecido como Duna. A \u00fanica fonte da especiaria Melange, a subst\u00e2ncia mais importante do cosmos, Arrakis se mostra ser um planeta nem um pouco f\u00e1cil de governar.",
+                    "vote_average": 7.789,
+                    "vote_count": 11236,
+                    "result_type": "movie"
                 }
             },
             "winner": true
@@ -1399,7 +1434,14 @@
             "category": "Film Editing",
             "year": 2022,
             "tmdb": {
-                "error": "no ID found",
+                "id": 1363758,
+                "gender": 2,
+                "known_for_department": "Editing",
+                "name": "Peter Sciberras",
+                "original_name": "Peter Sciberras",
+                "popularity": 0.6,
+                "profile_path": "/fyIkSIwD8Oq8HPbn6H6oO5P4oLl.jpg",
+                "result_type": "person",
                 "award_movie": {
                     "id": 600583,
                     "original_title": "The Power of the Dog",
@@ -1596,7 +1638,7 @@
                     "poster_path": "/rRYNGhcAZlTfIUS7iFoF4H9iDbc.jpg",
                     "overview": "Na Londres dos anos 70 em meio \u00e0 revolu\u00e7\u00e3o do punk rock, Estella, uma garota inteligente e criativa determinada a fazer um nome para si atrav\u00e9s de seus designs. Ela faz amizade com uma dupla de jovens ladr\u00f5es e, juntos, constroem uma vida para si nas ruas de Londres. Um dia, o talento de Estella para a moda chama a aten\u00e7\u00e3o da Baronesa Von Hellman, uma lenda fashion que \u00e9 devastadoramente chique e assustadora. Mas o relacionamento delas desencadeia um curso de eventos e revela\u00e7\u00f5es que far\u00e3o com que Estella abrace seu lado rebelde e se torne a Cruella m\u00e1, elegante e voltada para a vingan\u00e7a.",
                     "vote_average": 8.027,
-                    "vote_count": 8936,
+                    "vote_count": 8937,
                     "result_type": "movie"
                 }
             },
@@ -1654,7 +1696,26 @@
             "category": "Music (Original Score)",
             "year": 2022,
             "tmdb": {
-                "error": "no ID found"
+                "id": 947,
+                "gender": 2,
+                "known_for_department": "Sound",
+                "name": "Hans Zimmer",
+                "original_name": "Hans Zimmer",
+                "popularity": 23.11,
+                "profile_path": "/tpQnDeHY15szIXvpnhlprufz4d.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 438631,
+                    "original_title": "Dune",
+                    "title": "Duna",
+                    "release_date": "2021-09-15",
+                    "backdrop_path": "/lzWHmYdfeFiMIY4JaMmtR7GEli3.jpg",
+                    "poster_path": "/uzERcfV2rSHNhW5eViQiO9hNiA7.jpg",
+                    "overview": "Em um futuro distante, planetas s\u00e3o comandados por casas nobres que fazem parte de um imp\u00e9rio feudal intergal\u00e1tico. Paul Atreides \u00e9 um jovem cuja fam\u00edlia toma o controle do planeta deserto Arrakis, tamb\u00e9m conhecido como Duna. A \u00fanica fonte da especiaria Melange, a subst\u00e2ncia mais importante do cosmos, Arrakis se mostra ser um planeta nem um pouco f\u00e1cil de governar.",
+                    "vote_average": 7.789,
+                    "vote_count": 11236,
+                    "result_type": "movie"
+                }
             },
             "winner": true
         },
@@ -1693,7 +1754,14 @@
             "category": "Music (Original Score)",
             "year": 2022,
             "tmdb": {
-                "error": "no ID found",
+                "id": 1108963,
+                "gender": 1,
+                "known_for_department": "Sound",
+                "name": "Germaine Franco",
+                "original_name": "Germaine Franco",
+                "popularity": 2.188,
+                "profile_path": "/8i34TXysQ0Kt9zegDFiUe4pgjA8.jpg",
+                "result_type": "person",
                 "award_movie": {
                     "id": 568124,
                     "original_title": "Encanto",
@@ -2306,7 +2374,16 @@
             "tmdb": {
                 "error": "no ID found",
                 "award_movie": {
-                    "error": "no ID found"
+                    "id": 972995,
+                    "original_title": "The Long Goodbye",
+                    "title": "The Long Goodbye",
+                    "release_date": "2021-01-22",
+                    "backdrop_path": null,
+                    "poster_path": null,
+                    "overview": "This is a personal documentary of Election Day 2020 to Inauguration Day 2021.",
+                    "vote_average": 0.0,
+                    "vote_count": 0,
+                    "result_type": "movie"
                 }
             },
             "winner": true

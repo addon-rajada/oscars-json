@@ -72,7 +72,8 @@ def get_ids(title, second_label, year):
 		result = get_dict_from_movie(response)
 		total_movies_found += 1
 
-		if release_year not in [int(year) + 1, int(year), int(year) - 1, int(year) - 2, int(year) - 3]: # check if is a valid movie result for given year. may occur outliers
+		allowed_years = [int(year) + 1, int(year), int(year) - 1, int(year) - 2, int(year) - 3]
+		if release_year not in allowed_years or result['vote_count'] < 25: # check if is a valid movie result for given year. may occur outliers
 			invalid_year_results.append({
 				'title': title,
 				'year': year,
@@ -81,6 +82,7 @@ def get_ids(title, second_label, year):
 			result = {'error': 'no ID found'}
 			total_movies_found -= 1
 			total_movies_not_found += 1
+			raise Exception() # so we enter at except block
 			
 		#cached_titles[title] = result
 		#print(f"found {response['results'][0]['original_title']} for {title}")
@@ -175,7 +177,7 @@ def year_data_by_cat(id, year):
 	groups = groups.find_all('div', {'class': 'field__item'}, recursive=False) # entries
 	#print(f'found {len(groups)} groups')
 
-	processed_groups = indexed_threadpool(process_group, [(g, year) for g in groups], {'g':0,'year':1}, max_threads=3)
+	processed_groups = indexed_threadpool(process_group, [(g, year) for g in groups], {'g':0,'year':1}, max_threads=4)
 	data_dict = {}
 	for g in processed_groups:
 		data_dict[g[0]] = g[1]
@@ -187,8 +189,8 @@ def main():
 	global cached_hits, total_searches, invalid_year_results
 	global total_movies_found, total_movies_not_found, total_persons_found, total_persons_not_found
 
-	start_year = 2022
-	end_year = 2025 #datetime.now().year + 1
+	start_year = 2020
+	end_year = 2022 #datetime.now().year + 1
 	years = [[y] for y in range(start_year, end_year)]
 
 	#final_result = {}

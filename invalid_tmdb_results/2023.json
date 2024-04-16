@@ -1,17 +1,34 @@
 [
     {
-        "title": "This Is A Life",
+        "title": "Jamie Lee Curtis",
         "year": 2023,
         "result": {
-            "id": 11344,
-            "original_title": "\ub2ec\ucf64\ud55c \uc778\uc0dd",
-            "title": "O Gosto da Vingan\u00e7a",
-            "release_date": "2005-04-01",
-            "backdrop_path": "/r9HipnQ8k868cLfizLzVwZ1NyXq.jpg",
-            "poster_path": "/wQgjUyuwi8IfFfo70uZTMNV067J.jpg",
-            "overview": "Sun-woo \u00e9 o homem de confian\u00e7a de Kang, um poderoso chef\u00e3o da m\u00e1fia. Sua nova miss\u00e3o \u00e9 vigiar a jovem namorada de Kang para descobrir se ela tem um amante e, se confirmado, assassinar o casal. Quando ele finalmente encontra a garota com outro homem, ao inv\u00e9s de mat\u00e1-los, Sun-woo resolve ajudar os dois a fugir do mafioso, em uma atitude inesperada e incoerente com sua reputa\u00e7\u00e3o de assassino frio. Kang, inconformado com a trai\u00e7\u00e3o, manda matar Sun-woo, que reage com uma vingan\u00e7a sangrenta e brutal.",
-            "vote_average": 7.47,
-            "vote_count": 808
+            "id": 930322,
+            "original_title": "Jamie Lee Curtis, un cri de libert\u00e9 \u00e0 Hollywood",
+            "title": "Jamie Lee Curtis: Hollywood Call of Freedom",
+            "release_date": "2022-10-28",
+            "backdrop_path": "/vjHyJJqDMq1r0yAq23iikDJhrfc.jpg",
+            "poster_path": "/u4JkkfV91oHcj5wKHwc8wbqfMI7.jpg",
+            "overview": "Heroine of the Halloween film series, or accomplice in a crazy scam in A Fish Called Wanda, Jamie Lee Curtis is, at 62, still as credible, funny, and a wildly free pop actress.",
+            "vote_average": 7.0,
+            "vote_count": 5,
+            "result_type": "movie"
+        }
+    },
+    {
+        "title": "John Williams",
+        "year": 2023,
+        "result": {
+            "id": 922333,
+            "original_title": "John Williams & Berliner Philharmoniker - The Berlin Concert",
+            "title": "John Williams & Berliner Philharmonic - The Berlin Concert",
+            "release_date": "2022-02-04",
+            "backdrop_path": "/8c0UveXrXrUay4bjIBlAuFpkNS.jpg",
+            "poster_path": "/nvWcU9aO7eqcnvZG6VP4LxKGjDr.jpg",
+            "overview": "John Williams has made cinematic history with his film scores and transported entire generations into his musical worlds. He has composed the soundtracks for cinema blockbusters such as \"Star Wars\", \"Jurassic Park\", \"E.T.\" and \"Harry Potter\". In this concert, he conducts some of his most famous film classics. At the same time, this is his debut on the podium of the Berliner Philharmoniker. May the Force be with him ...",
+            "vote_average": 6.6,
+            "vote_count": 7,
+            "result_type": "movie"
         }
     }
 ]

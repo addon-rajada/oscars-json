@@ -40,7 +40,7 @@
                 "known_for_department": "Acting",
                 "name": "Bradley Cooper",
                 "original_name": "Bradley Cooper",
-                "popularity": 37.624,
+                "popularity": 50.087,
                 "profile_path": "/DPnessSsWqVXRbKm93PtMjB4Us.jpg",
                 "result_type": "person",
                 "award_movie": {
@@ -69,7 +69,7 @@
                 "known_for_department": "Acting",
                 "name": "Colman Domingo",
                 "original_name": "Colman Domingo",
-                "popularity": 19.824,
+                "popularity": 16.747,
                 "profile_path": "/2tu6T9ugnf82qIMGVKWSb0dvvq5.jpg",
                 "result_type": "person",
                 "award_movie": {
@@ -98,7 +98,7 @@
                 "known_for_department": "Acting",
                 "name": "Paul Giamatti",
                 "original_name": "Paul Giamatti",
-                "popularity": 54.382,
+                "popularity": 42.315,
                 "profile_path": "/kn7LAbFYP5RPC2r61tDx2CRUeuw.jpg",
                 "result_type": "person",
                 "award_movie": {
@@ -110,7 +110,7 @@
                     "poster_path": "/ek4FmIkKlH30xthKs2ANqrV7SOI.jpg",
                     "overview": "Um professor mal-humorado de uma prestigiada escola americana \u00e9 for\u00e7ado a cuidar de um grupo de alunos que n\u00e3o tem para onde ir durante as f\u00e9rias de Natal. Ele acaba criando um v\u00ednculo com um dos estudantes e com a cozinheira da escola, que acaba de perder seu filho no Vietn\u00e3.",
                     "vote_average": 7.7,
-                    "vote_count": 1116,
+                    "vote_count": 1118,
                     "result_type": "movie"
                 }
             },
@@ -127,7 +127,7 @@
                 "known_for_department": "Acting",
                 "name": "Jeffrey Wright",
                 "original_name": "Jeffrey Wright",
-                "popularity": 29.648,
+                "popularity": 36.894,
                 "profile_path": "/yGcuHGW4glqRpOPxgiCvjcren7F.jpg",
                 "result_type": "person",
                 "award_movie": {
@@ -158,7 +158,7 @@
                 "known_for_department": "Acting",
                 "name": "Robert Downey Jr.",
                 "original_name": "Robert Downey Jr.",
-                "popularity": 60.513,
+                "popularity": 76.154,
                 "profile_path": "/i6LNGZNOYF2I1DiqhDIiQtk26Ov.jpg",
                 "result_type": "person",
                 "award_movie": {
@@ -211,16 +211,26 @@
             "category": "Actor in a Supporting Role",
             "year": 2024,
             "tmdb": {
-                "id": 1171401,
-                "original_title": "Robert De Niro, l'arme du silence",
-                "title": "Robert De Niro: Hiding in the Spotlight",
-                "release_date": "2023-08-14",
-                "backdrop_path": "/1T2fwCw4YJU768Kb2xUc810WiZG.jpg",
-                "poster_path": "/2JNpfVv6NIC2XWrRYDNGsC1IwyY.jpg",
-                "overview": "Robert De Niro is famous for his award-winning portrayals of gangsters, criminals and socially disturbed men who show surprising traces of vulnerability. By analyzing his astonishing roles in iconic films through the years, the documentary reveal the complex actor behind these extreme characters. Because the public knows little about the man who is largely silent about his own life and emotions, this film tries to unwraps one of the most fascinating and enigmatic American actors of all time for the audience. For this the filmakers use clips from his feature films, archive footage of his sparse interviews and probe into his background to illustrate De Niro\u2019s methods for becoming the characters he plays and the reasons he\u2019s able to do so. All of this culminates in a rare expos\u00e9 of the genesis of the hidden pain that enables the masterful actor to bring such intensity to the big screen.",
-                "vote_average": 8.1,
-                "vote_count": 4,
-                "result_type": "movie"
+                "id": 380,
+                "gender": 2,
+                "known_for_department": "Acting",
+                "name": "Robert De Niro",
+                "original_name": "Robert De Niro",
+                "popularity": 65.747,
+                "profile_path": "/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 466420,
+                    "original_title": "Killers of the Flower Moon",
+                    "title": "Assassinos da Lua das Flores",
+                    "release_date": "2023-10-18",
+                    "backdrop_path": "/1X7vow16X7CnCoexXh4H4F2yDJv.jpg",
+                    "poster_path": "/kBLMPD5BCmcrHKIhjZ86uWHZG5K.jpg",
+                    "overview": "Na d\u00e9cada de 1920, em Oklahoma, o povo da tribo Osage come\u00e7a a ser assassinado ap\u00f3s petr\u00f3leo ser descoberto sob suas terras. O mist\u00e9rio come\u00e7a a ser investigado por uma organiza\u00e7\u00e3o que ficaria conhecida como FBI.",
+                    "vote_average": 7.5,
+                    "vote_count": 2749,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
@@ -230,16 +240,26 @@
             "category": "Actor in a Supporting Role",
             "year": 2024,
             "tmdb": {
-                "id": 1120586,
-                "original_title": "How I Faked My Life Using AI: Or (The Life and Death of Ryan Gosling Person)",
-                "title": "How I Faked My Life Using AI: Or (The Life and Death of Ryan Gosling Person)",
-                "release_date": "2023-05-11",
-                "backdrop_path": null,
-                "poster_path": null,
-                "overview": "Using photorealistic images generated by an AI, a man fools friends and family online with a sudden new life but loses himself in the process.",
-                "vote_average": 0.0,
-                "vote_count": 0,
-                "result_type": "movie"
+                "id": 30614,
+                "gender": 2,
+                "known_for_department": "Acting",
+                "name": "Ryan Gosling",
+                "original_name": "Ryan Gosling",
+                "popularity": 56.149,
+                "profile_path": "/4X1wJo5xHm3YICPWZqVCPgLBEJ7.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 346698,
+                    "original_title": "Barbie",
+                    "title": "Barbie",
+                    "release_date": "2023-07-19",
+                    "backdrop_path": "/tTfnd2VrlaZJSBD9HUbtSF3CqPJ.jpg",
+                    "poster_path": "/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg",
+                    "overview": "No mundo m\u00e1gico das Barbies, \"Barbieland\", uma das bonecas come\u00e7a a perceber que n\u00e3o se encaixa como as outras. Depois de ser expulsa, ela parte para uma aventura no \"mundo real\", onde descobre que a beleza est\u00e1 no interior de cada um.",
+                    "vote_average": 7.083,
+                    "vote_count": 7989,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
@@ -254,7 +274,7 @@
                 "known_for_department": "Acting",
                 "name": "Mark Ruffalo",
                 "original_name": "Mark Ruffalo",
-                "popularity": 62.987,
+                "popularity": 57.296,
                 "profile_path": "/z3dvKqMNDQWk3QLxzumloQVR0pv.jpg",
                 "result_type": "person",
                 "award_movie": {
@@ -265,8 +285,8 @@
                     "backdrop_path": "/bQS43HSLZzMjZkcHJz4fGc7fNdz.jpg",
                     "poster_path": "/pkmZO2Y93AH82PvdQ0ScEpuF08h.jpg",
                     "overview": "A jovem Bella Baxter \u00e9 trazida de volta \u00e0 vida pelo cientista Dr. Godwin Baxter. Querendo ver mais do mundo, ela foge com um advogado e viaja pelos continentes. Livre dos preconceitos de sua \u00e9poca, Bella exige igualdade e liberta\u00e7\u00e3o.",
-                    "vote_average": 7.815,
-                    "vote_count": 3078,
+                    "vote_average": 7.817,
+                    "vote_count": 3083,
                     "result_type": "movie"
                 }
             },
@@ -285,7 +305,7 @@
                 "known_for_department": "Acting",
                 "name": "Emma Stone",
                 "original_name": "Emma Stone",
-                "popularity": 110.623,
+                "popularity": 111.987,
                 "profile_path": "/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg",
                 "result_type": "person",
                 "award_movie": {
@@ -296,8 +316,8 @@
                     "backdrop_path": "/bQS43HSLZzMjZkcHJz4fGc7fNdz.jpg",
                     "poster_path": "/pkmZO2Y93AH82PvdQ0ScEpuF08h.jpg",
                     "overview": "A jovem Bella Baxter \u00e9 trazida de volta \u00e0 vida pelo cientista Dr. Godwin Baxter. Querendo ver mais do mundo, ela foge com um advogado e viaja pelos continentes. Livre dos preconceitos de sua \u00e9poca, Bella exige igualdade e liberta\u00e7\u00e3o.",
-                    "vote_average": 7.815,
-                    "vote_count": 3078,
+                    "vote_average": 7.817,
+                    "vote_count": 3083,
                     "result_type": "movie"
                 }
             },
@@ -325,8 +345,8 @@
                     "backdrop_path": "/5CPbuhVfnUAbEyuf3LJ5bKiRvx4.jpg",
                     "poster_path": "/ydSqUhKFvg5cZ5OwImmf3K1R6SS.jpg",
                     "overview": "Aos 60 anos, a atleta Diana Nyad se prepara para realizar o sonho da sua vida: nadar de Cuba at\u00e9 a Fl\u00f3rida, uma travessia em \u00e1guas abertas de mais de 160 km.",
-                    "vote_average": 7.1,
-                    "vote_count": 366,
+                    "vote_average": 7.083,
+                    "vote_count": 367,
                     "result_type": "movie"
                 }
             },
@@ -343,7 +363,7 @@
                 "known_for_department": "Acting",
                 "name": "Lily Gladstone",
                 "original_name": "Lily Gladstone",
-                "popularity": 19.117,
+                "popularity": 17.735,
                 "profile_path": "/zYAN84WqZv2sbVE2JDkcWoXGoF7.jpg",
                 "result_type": "person",
                 "award_movie": {
@@ -425,7 +445,7 @@
                 "known_for_department": "Acting",
                 "name": "Da'Vine Joy Randolph",
                 "original_name": "Da'Vine Joy Randolph",
-                "popularity": 22.883,
+                "popularity": 19.665,
                 "profile_path": "/7RuYeGxTwFRt2q8fkT8nuEz1nIC.jpg",
                 "result_type": "person",
                 "award_movie": {
@@ -437,7 +457,7 @@
                     "poster_path": "/ek4FmIkKlH30xthKs2ANqrV7SOI.jpg",
                     "overview": "Um professor mal-humorado de uma prestigiada escola americana \u00e9 for\u00e7ado a cuidar de um grupo de alunos que n\u00e3o tem para onde ir durante as f\u00e9rias de Natal. Ele acaba criando um v\u00ednculo com um dos estudantes e com a cozinheira da escola, que acaba de perder seu filho no Vietn\u00e3.",
                     "vote_average": 7.7,
-                    "vote_count": 1116,
+                    "vote_count": 1118,
                     "result_type": "movie"
                 }
             },
@@ -454,7 +474,7 @@
                 "known_for_department": "Acting",
                 "name": "Emily Blunt",
                 "original_name": "Emily Blunt",
-                "popularity": 74.243,
+                "popularity": 81.873,
                 "profile_path": "/mDCsz72C8A0LRRNehveEgaRRwgC.jpg",
                 "result_type": "person",
                 "award_movie": {
@@ -483,7 +503,7 @@
                 "known_for_department": "Acting",
                 "name": "Danielle Brooks",
                 "original_name": "Danielle Brooks",
-                "popularity": 18.763,
+                "popularity": 21.229,
                 "profile_path": "/pIBSSigZATyYZYjfCL59Nw6FjbM.jpg",
                 "result_type": "person",
                 "award_movie": {
@@ -512,7 +532,7 @@
                 "known_for_department": "Acting",
                 "name": "America Ferrera",
                 "original_name": "America Ferrera",
-                "popularity": 26.109,
+                "popularity": 21.033,
                 "profile_path": "/7F84Lh2lKpvkM3EiOvqqvlOmw93.jpg",
                 "result_type": "person",
                 "award_movie": {
@@ -524,7 +544,7 @@
                     "poster_path": "/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg",
                     "overview": "No mundo m\u00e1gico das Barbies, \"Barbieland\", uma das bonecas come\u00e7a a perceber que n\u00e3o se encaixa como as outras. Depois de ser expulsa, ela parte para uma aventura no \"mundo real\", onde descobre que a beleza est\u00e1 no interior de cada um.",
                     "vote_average": 7.083,
-                    "vote_count": 7988,
+                    "vote_count": 7989,
                     "result_type": "movie"
                 }
             },
@@ -552,8 +572,8 @@
                     "backdrop_path": "/5CPbuhVfnUAbEyuf3LJ5bKiRvx4.jpg",
                     "poster_path": "/ydSqUhKFvg5cZ5OwImmf3K1R6SS.jpg",
                     "overview": "Aos 60 anos, a atleta Diana Nyad se prepara para realizar o sonho da sua vida: nadar de Cuba at\u00e9 a Fl\u00f3rida, uma travessia em \u00e1guas abertas de mais de 160 km.",
-                    "vote_average": 7.1,
-                    "vote_count": 366,
+                    "vote_average": 7.083,
+                    "vote_count": 367,
                     "result_type": "movie"
                 }
             },
@@ -642,8 +662,8 @@
                     "backdrop_path": "/hIeEpk2w1dnC9ly9ZJwwbunH2Cx.jpg",
                     "poster_path": "/30TUJgAUBbHdq9Rm44Xm6Tlwzwg.jpg",
                     "overview": "Dog mora em Nova York e, cansado de ficar sozinho, um dia ele decide comprar um rob\u00f4 para ser seu amigo. Eles se tornam amigos insepar\u00e1veis, at\u00e9 que Dog \u00e9 obrigado a tomar uma dificil decis\u00e3o.",
-                    "vote_average": 7.879,
-                    "vote_count": 256,
+                    "vote_average": 7.88,
+                    "vote_count": 259,
                     "result_type": "movie"
                 }
             },
@@ -684,7 +704,7 @@
                 "known_for_department": "Camera",
                 "name": "Hoyte van Hoytema",
                 "original_name": "Hoyte van Hoytema",
-                "popularity": 14.954,
+                "popularity": 13.286,
                 "profile_path": "/y2HXvac1oPzciwxfdyWc5syThRk.jpg",
                 "result_type": "person",
                 "award_movie": {
@@ -713,7 +733,7 @@
                 "known_for_department": "Camera",
                 "name": "Edward Lachman",
                 "original_name": "Edward Lachman",
-                "popularity": 10.263,
+                "popularity": 13.479,
                 "profile_path": "/hLX1z5v2o9q1pFLB4NuyLtd9dGM.jpg",
                 "result_type": "person",
                 "award_movie": {
@@ -742,7 +762,7 @@
                 "known_for_department": "Camera",
                 "name": "Rodrigo Prieto",
                 "original_name": "Rodrigo Prieto",
-                "popularity": 11.292,
+                "popularity": 9.388,
                 "profile_path": "/h05yRvGOoLk0s9RTwOQL9pVuU23.jpg",
                 "result_type": "person",
                 "award_movie": {
@@ -771,7 +791,7 @@
                 "known_for_department": "Camera",
                 "name": "Matthew Libatique",
                 "original_name": "Matthew Libatique",
-                "popularity": 9.764,
+                "popularity": 10.529,
                 "profile_path": "/gpW5xCOMbWWZKRPHeSIyXg4F3b1.jpg",
                 "result_type": "person",
                 "award_movie": {
@@ -800,7 +820,7 @@
                 "known_for_department": "Camera",
                 "name": "Robbie Ryan",
                 "original_name": "Robbie Ryan",
-                "popularity": 13.435,
+                "popularity": 10.831,
                 "profile_path": "/qYbGiIVFjUdPIYXWeWIeDI9xTfr.jpg",
                 "result_type": "person",
                 "award_movie": {
@@ -811,8 +831,8 @@
                     "backdrop_path": "/bQS43HSLZzMjZkcHJz4fGc7fNdz.jpg",
                     "poster_path": "/pkmZO2Y93AH82PvdQ0ScEpuF08h.jpg",
                     "overview": "A jovem Bella Baxter \u00e9 trazida de volta \u00e0 vida pelo cientista Dr. Godwin Baxter. Querendo ver mais do mundo, ela foge com um advogado e viaja pelos continentes. Livre dos preconceitos de sua \u00e9poca, Bella exige igualdade e liberta\u00e7\u00e3o.",
-                    "vote_average": 7.815,
-                    "vote_count": 3078,
+                    "vote_average": 7.817,
+                    "vote_count": 3083,
                     "result_type": "movie"
                 }
             },
@@ -831,7 +851,7 @@
                 "known_for_department": "Costume & Make-Up",
                 "name": "Holly Waddington",
                 "original_name": "Holly Waddington",
-                "popularity": 9.348,
+                "popularity": 8.404,
                 "profile_path": "/p83UrA6AffO4HMdo7SaVOvHQknN.jpg",
                 "result_type": "person",
                 "award_movie": {
@@ -842,8 +862,8 @@
                     "backdrop_path": "/bQS43HSLZzMjZkcHJz4fGc7fNdz.jpg",
                     "poster_path": "/pkmZO2Y93AH82PvdQ0ScEpuF08h.jpg",
                     "overview": "A jovem Bella Baxter \u00e9 trazida de volta \u00e0 vida pelo cientista Dr. Godwin Baxter. Querendo ver mais do mundo, ela foge com um advogado e viaja pelos continentes. Livre dos preconceitos de sua \u00e9poca, Bella exige igualdade e liberta\u00e7\u00e3o.",
-                    "vote_average": 7.815,
-                    "vote_count": 3078,
+                    "vote_average": 7.817,
+                    "vote_count": 3083,
                     "result_type": "movie"
                 }
             },
@@ -860,7 +880,7 @@
                 "known_for_department": "Costume & Make-Up",
                 "name": "Jacqueline Durran",
                 "original_name": "Jacqueline Durran",
-                "popularity": 7.405,
+                "popularity": 10.367,
                 "profile_path": "/5aJTWqO5nZ8JSbLU5TxaACii8Tl.jpg",
                 "result_type": "person",
                 "award_movie": {
@@ -872,7 +892,7 @@
                     "poster_path": "/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg",
                     "overview": "No mundo m\u00e1gico das Barbies, \"Barbieland\", uma das bonecas come\u00e7a a perceber que n\u00e3o se encaixa como as outras. Depois de ser expulsa, ela parte para uma aventura no \"mundo real\", onde descobre que a beleza est\u00e1 no interior de cada um.",
                     "vote_average": 7.083,
-                    "vote_count": 7988,
+                    "vote_count": 7989,
                     "result_type": "movie"
                 }
             },
@@ -940,7 +960,7 @@
                 "known_for_department": "Costume & Make-Up",
                 "name": "Ellen Mirojnick",
                 "original_name": "Ellen Mirojnick",
-                "popularity": 12.92,
+                "popularity": 16.276,
                 "profile_path": "/fVldZUbyEG0fHTTzmGp5CeqadCc.jpg",
                 "result_type": "person",
                 "award_movie": {
@@ -966,16 +986,26 @@
             "category": "Directing",
             "year": 2024,
             "tmdb": {
-                "id": 1152711,
-                "original_title": "Inside Christopher Nolan's Oppenheimer",
-                "title": "Inside Christopher Nolan's Oppenheimer",
-                "release_date": "2023-07-15",
-                "backdrop_path": "/ollv1D9AWpRuZldA54k3kZ1M19f.jpg",
-                "poster_path": "/p3mB2IFZAhFlBPwlNbv2ouzwxx0.jpg",
-                "overview": "A look behind the scenes of Christopher Nolan's film \"Oppenheimer\" about an American scientist and his role in the development of the atomic bomb.",
-                "vote_average": 5.2,
-                "vote_count": 6,
-                "result_type": "movie"
+                "id": 525,
+                "gender": 2,
+                "known_for_department": "Directing",
+                "name": "Christopher Nolan",
+                "original_name": "Christopher Nolan",
+                "popularity": 50.739,
+                "profile_path": "/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 872585,
+                    "original_title": "Oppenheimer",
+                    "title": "Oppenheimer",
+                    "release_date": "2023-07-19",
+                    "backdrop_path": "/nb3xI8XI3w4pMVZ38VijbsyBqP4.jpg",
+                    "poster_path": "/1OsQJEoSXBjduuCvDOlRhoEUaHu.jpg",
+                    "overview": "A hist\u00f3ria do f\u00edsico americano J. Robert Oppenheimer, seu papel no Projeto Manhattan e no desenvolvimento da bomba at\u00f4mica durante a Segunda Guerra Mundial, e o quanto isso mudaria a hist\u00f3ria do mundo para sempre.",
+                    "vote_average": 8.111,
+                    "vote_count": 7648,
+                    "result_type": "movie"
+                }
             },
             "winner": true
         },
@@ -990,7 +1020,7 @@
                 "known_for_department": "Directing",
                 "name": "Justine Triet",
                 "original_name": "Justine Triet",
-                "popularity": 19.65,
+                "popularity": 23.095,
                 "profile_path": "/mOn5lo038i8vw6qqJTwKw35KCL7.jpg",
                 "result_type": "person",
                 "award_movie": {
@@ -1014,16 +1044,26 @@
             "category": "Directing",
             "year": 2024,
             "tmdb": {
-                "id": 1215289,
-                "original_title": "Martin Scorsese, l'Italo-Am\u00e9ricain",
-                "title": "Martin Scorsese, l'Italo-Am\u00e9ricain",
-                "release_date": "2023-12-08",
-                "backdrop_path": "/5UJmuDTORMbGmOzecUAo5jNYixN.jpg",
-                "poster_path": "/l4lF2ycieqLf3uHVpOdqySUPaIk.jpg",
-                "overview": "",
-                "vote_average": 8.9,
-                "vote_count": 7,
-                "result_type": "movie"
+                "id": 1032,
+                "gender": 2,
+                "known_for_department": "Directing",
+                "name": "Martin Scorsese",
+                "original_name": "Martin Scorsese",
+                "popularity": 51.566,
+                "profile_path": "/9U9Y5GQuWX3EZy39B8nkk4NY01S.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 466420,
+                    "original_title": "Killers of the Flower Moon",
+                    "title": "Assassinos da Lua das Flores",
+                    "release_date": "2023-10-18",
+                    "backdrop_path": "/1X7vow16X7CnCoexXh4H4F2yDJv.jpg",
+                    "poster_path": "/kBLMPD5BCmcrHKIhjZ86uWHZG5K.jpg",
+                    "overview": "Na d\u00e9cada de 1920, em Oklahoma, o povo da tribo Osage come\u00e7a a ser assassinado ap\u00f3s petr\u00f3leo ser descoberto sob suas terras. O mist\u00e9rio come\u00e7a a ser investigado por uma organiza\u00e7\u00e3o que ficaria conhecida como FBI.",
+                    "vote_average": 7.5,
+                    "vote_count": 2749,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
@@ -1038,7 +1078,7 @@
                 "known_for_department": "Directing",
                 "name": "Yorgos Lanthimos",
                 "original_name": "Yorgos Lanthimos",
-                "popularity": 21.075,
+                "popularity": 23.523,
                 "profile_path": "/kwKfSubzU8B0uLCEiPvY1mGOVwZ.jpg",
                 "result_type": "person",
                 "award_movie": {
@@ -1049,8 +1089,8 @@
                     "backdrop_path": "/bQS43HSLZzMjZkcHJz4fGc7fNdz.jpg",
                     "poster_path": "/pkmZO2Y93AH82PvdQ0ScEpuF08h.jpg",
                     "overview": "A jovem Bella Baxter \u00e9 trazida de volta \u00e0 vida pelo cientista Dr. Godwin Baxter. Querendo ver mais do mundo, ela foge com um advogado e viaja pelos continentes. Livre dos preconceitos de sua \u00e9poca, Bella exige igualdade e liberta\u00e7\u00e3o.",
-                    "vote_average": 7.815,
-                    "vote_count": 3078,
+                    "vote_average": 7.817,
+                    "vote_count": 3083,
                     "result_type": "movie"
                 }
             },
@@ -1067,7 +1107,7 @@
                 "known_for_department": "Directing",
                 "name": "Jonathan Glazer",
                 "original_name": "Jonathan Glazer",
-                "popularity": 19.415,
+                "popularity": 15.025,
                 "profile_path": "/8pFNxscgellE6rhT5399eM00GAG.jpg",
                 "result_type": "person",
                 "award_movie": {
@@ -1078,8 +1118,8 @@
                     "backdrop_path": "/aPQsU3yLDUOhLJYnSqkhKRkQTAw.jpg",
                     "poster_path": "/bZlZ1hcmP6KkZfXxXcNngaFzMcS.jpg",
                     "overview": "O comandante Rudolf H\u00f6ss e sua esposa Hedwig, desfrutam de uma vida aparentemente comum em uma casa com um belo jardim. Mas, por tr\u00e1s da fachada de tranquilidade, a fam\u00edlia feliz vive, na verdade, ao lado do campo de concentra\u00e7\u00e3o de Auschwitz. O dia-a dia destes personagens se desenrola entre os gritos abafados de desespero de um genoc\u00eddio do qual eles tem as m\u00e3os manchadas de sangue.",
-                    "vote_average": 7.239,
-                    "vote_count": 1104,
+                    "vote_average": 7.241,
+                    "vote_count": 1107,
                     "result_type": "movie"
                 }
             },
@@ -1175,8 +1215,8 @@
                     "backdrop_path": "/k7bPM2CFFpJfGgSmY1B9EG9xmnI.jpg",
                     "poster_path": "/oVqzDUHUY7cuTTprVlF8XPbo8Pg.jpg",
                     "overview": "Between light and darkness stands Olfa, a Tunisian woman and the mother of four daughters. One day, her two older daughters disappear. To fill in their absence, the filmmaker Kaouther Ben Hania invites professional actresses and invents a unique cinema experience that will lift the veil on Olfa and her daughters' life stories. An intimate journey of hope, rebellion, violence, transmission and sisterhood that will question the very foundations of our societies.",
-                    "vote_average": 7.4,
-                    "vote_count": 45,
+                    "vote_average": 7.304,
+                    "vote_count": 46,
                     "result_type": "movie"
                 }
             },
@@ -1329,7 +1369,7 @@
                 "known_for_department": "Editing",
                 "name": "Jennifer Lame",
                 "original_name": "Jennifer Lame",
-                "popularity": 10.732,
+                "popularity": 10.82,
                 "profile_path": "/1Jl596RMknK3XgGidLbeFOleLns.jpg",
                 "result_type": "person",
                 "award_movie": {
@@ -1380,7 +1420,7 @@
                 "known_for_department": "Editing",
                 "name": "Kevin Tent",
                 "original_name": "Kevin Tent",
-                "popularity": 7.845,
+                "popularity": 7.954,
                 "profile_path": "/utb7wffCc12fFi2QWlMLvrodCI5.jpg",
                 "result_type": "person",
                 "award_movie": {
@@ -1392,7 +1432,7 @@
                     "poster_path": "/ek4FmIkKlH30xthKs2ANqrV7SOI.jpg",
                     "overview": "Um professor mal-humorado de uma prestigiada escola americana \u00e9 for\u00e7ado a cuidar de um grupo de alunos que n\u00e3o tem para onde ir durante as f\u00e9rias de Natal. Ele acaba criando um v\u00ednculo com um dos estudantes e com a cozinheira da escola, que acaba de perder seu filho no Vietn\u00e3.",
                     "vote_average": 7.7,
-                    "vote_count": 1116,
+                    "vote_count": 1118,
                     "result_type": "movie"
                 }
             },
@@ -1409,7 +1449,7 @@
                 "known_for_department": "Editing",
                 "name": "Thelma Schoonmaker",
                 "original_name": "Thelma Schoonmaker",
-                "popularity": 14.325,
+                "popularity": 17.098,
                 "profile_path": "/wPkuc1cmcSH4I95uUbE7wgBsYA4.jpg",
                 "result_type": "person",
                 "award_movie": {
@@ -1438,7 +1478,7 @@
                 "known_for_department": "Editing",
                 "name": "Yorgos Mavropsaridis",
                 "original_name": "Yorgos Mavropsaridis",
-                "popularity": 8.505,
+                "popularity": 7.752,
                 "profile_path": "/14I99sGV038xGQxHF6qlCAk2fwX.jpg",
                 "result_type": "person",
                 "award_movie": {
@@ -1449,8 +1489,8 @@
                     "backdrop_path": "/bQS43HSLZzMjZkcHJz4fGc7fNdz.jpg",
                     "poster_path": "/pkmZO2Y93AH82PvdQ0ScEpuF08h.jpg",
                     "overview": "A jovem Bella Baxter \u00e9 trazida de volta \u00e0 vida pelo cientista Dr. Godwin Baxter. Querendo ver mais do mundo, ela foge com um advogado e viaja pelos continentes. Livre dos preconceitos de sua \u00e9poca, Bella exige igualdade e liberta\u00e7\u00e3o.",
-                    "vote_average": 7.815,
-                    "vote_count": 3078,
+                    "vote_average": 7.817,
+                    "vote_count": 3083,
                     "result_type": "movie"
                 }
             },
@@ -1471,8 +1511,8 @@
                 "backdrop_path": "/aPQsU3yLDUOhLJYnSqkhKRkQTAw.jpg",
                 "poster_path": "/bZlZ1hcmP6KkZfXxXcNngaFzMcS.jpg",
                 "overview": "O comandante Rudolf H\u00f6ss e sua esposa Hedwig, desfrutam de uma vida aparentemente comum em uma casa com um belo jardim. Mas, por tr\u00e1s da fachada de tranquilidade, a fam\u00edlia feliz vive, na verdade, ao lado do campo de concentra\u00e7\u00e3o de Auschwitz. O dia-a dia destes personagens se desenrola entre os gritos abafados de desespero de um genoc\u00eddio do qual eles tem as m\u00e3os manchadas de sangue.",
-                "vote_average": 7.239,
-                "vote_count": 1104,
+                "vote_average": 7.241,
+                "vote_count": 1107,
                 "result_type": "movie"
             },
             "winner": true
@@ -1490,8 +1530,8 @@
                 "backdrop_path": "/xdlAS0BH3aVP74ABH15bDe4KgLi.jpg",
                 "poster_path": "/y6y3E3RWB4z6Pdf4OM0XmtqMqsX.jpg",
                 "overview": "Ansiando por um futuro melhor, dois adolescentes senegaleses embarcam numa viagem da \u00c1frica Ocidental para It\u00e1lia.  No entanto, entre os seus sonhos e a realidade existe um labirinto de postos de controlo, o Deserto do Saara e as vastas \u00e1guas do Mediterr\u00e2neo.",
-                "vote_average": 7.8,
-                "vote_count": 457,
+                "vote_average": 7.796,
+                "vote_count": 458,
                 "result_type": "movie"
             },
             "winner": false
@@ -1570,8 +1610,8 @@
                     "backdrop_path": "/bQS43HSLZzMjZkcHJz4fGc7fNdz.jpg",
                     "poster_path": "/pkmZO2Y93AH82PvdQ0ScEpuF08h.jpg",
                     "overview": "A jovem Bella Baxter \u00e9 trazida de volta \u00e0 vida pelo cientista Dr. Godwin Baxter. Querendo ver mais do mundo, ela foge com um advogado e viaja pelos continentes. Livre dos preconceitos de sua \u00e9poca, Bella exige igualdade e liberta\u00e7\u00e3o.",
-                    "vote_average": 7.815,
-                    "vote_count": 3078,
+                    "vote_average": 7.817,
+                    "vote_count": 3083,
                     "result_type": "movie"
                 }
             },
@@ -1707,7 +1747,7 @@
                 "known_for_department": "Sound",
                 "name": "Laura Karpman",
                 "original_name": "Laura Karpman",
-                "popularity": 7.352,
+                "popularity": 9.406,
                 "profile_path": "/6dA2R1pXVHsI8n8k3eKzShdJzv7.jpg",
                 "result_type": "person",
                 "award_movie": {
@@ -1736,7 +1776,7 @@
                 "known_for_department": "Sound",
                 "name": "John Williams",
                 "original_name": "John Williams",
-                "popularity": 13.483,
+                "popularity": 14.845,
                 "profile_path": "/KFyMqUWeiBdP9tJcZyGWOqnrgK.jpg",
                 "result_type": "person",
                 "award_movie": {
@@ -1748,7 +1788,7 @@
                     "poster_path": "/9EnfMH0nTPCna87Mh3G8Q6W2wze.jpg",
                     "overview": "Encontrando-se em uma nova era, aproximando-se da aposentadoria, Indy luta para se encaixar em um mundo que parece t\u00ea-lo superado. Mas quando os tent\u00e1culos de um mal muito familiar retornam na forma de um antigo rival, Indy deve colocar seu chap\u00e9u e pegar seu chicote mais uma vez para garantir que um antigo e poderoso artefato n\u00e3o caia nas m\u00e3os erradas.",
                     "vote_average": 6.598,
-                    "vote_count": 2969,
+                    "vote_count": 2970,
                     "result_type": "movie"
                 }
             },
@@ -1765,7 +1805,7 @@
                 "known_for_department": "Sound",
                 "name": "Robbie Robertson",
                 "original_name": "Robbie Robertson",
-                "popularity": 13.782,
+                "popularity": 13.735,
                 "profile_path": "/82bnxofH57Y0IcvjDVCDbUrBTqA.jpg",
                 "result_type": "person",
                 "award_movie": {
@@ -1794,7 +1834,7 @@
                 "known_for_department": "Sound",
                 "name": "Jerskin Fendrix",
                 "original_name": "Jerskin Fendrix",
-                "popularity": 2.644,
+                "popularity": 3.593,
                 "profile_path": "/pF2Di6ubMSJonFgNxFnUVS8yMA6.jpg",
                 "result_type": "person",
                 "award_movie": {
@@ -1805,8 +1845,8 @@
                     "backdrop_path": "/bQS43HSLZzMjZkcHJz4fGc7fNdz.jpg",
                     "poster_path": "/pkmZO2Y93AH82PvdQ0ScEpuF08h.jpg",
                     "overview": "A jovem Bella Baxter \u00e9 trazida de volta \u00e0 vida pelo cientista Dr. Godwin Baxter. Querendo ver mais do mundo, ela foge com um advogado e viaja pelos continentes. Livre dos preconceitos de sua \u00e9poca, Bella exige igualdade e liberta\u00e7\u00e3o.",
-                    "vote_average": 7.815,
-                    "vote_count": 3078,
+                    "vote_average": 7.817,
+                    "vote_count": 3083,
                     "result_type": "movie"
                 }
             },
@@ -1972,7 +2012,7 @@
                     "poster_path": "/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg",
                     "overview": "No mundo m\u00e1gico das Barbies, \"Barbieland\", uma das bonecas come\u00e7a a perceber que n\u00e3o se encaixa como as outras. Depois de ser expulsa, ela parte para uma aventura no \"mundo real\", onde descobre que a beleza est\u00e1 no interior de cada um.",
                     "vote_average": 7.083,
-                    "vote_count": 7988,
+                    "vote_count": 7989,
                     "result_type": "movie"
                 }
             },
@@ -1994,7 +2034,7 @@
                     "poster_path": "/ek4FmIkKlH30xthKs2ANqrV7SOI.jpg",
                     "overview": "Um professor mal-humorado de uma prestigiada escola americana \u00e9 for\u00e7ado a cuidar de um grupo de alunos que n\u00e3o tem para onde ir durante as f\u00e9rias de Natal. Ele acaba criando um v\u00ednculo com um dos estudantes e com a cozinheira da escola, que acaba de perder seu filho no Vietn\u00e3.",
                     "vote_average": 7.7,
-                    "vote_count": 1116,
+                    "vote_count": 1118,
                     "result_type": "movie"
                 }
             },
@@ -2059,8 +2099,8 @@
                     "backdrop_path": "/rron9HAuS9s7zBF8iCX1tsafxUo.jpg",
                     "poster_path": "/toSI71gFF11VnLfz2uiNx6jjNUF.jpg",
                     "overview": "Nora e Hae Sung s\u00e3o amigos de inf\u00e2ncia profundamente conectados que se separam quando a fam\u00edlia de Nora emigra da Coreia do Sul. Duas d\u00e9cadas depois, se reencontram em Nova York numa semana fat\u00eddica enquanto confrontam no\u00e7\u00f5es de destino, amor e as escolhas que fazem uma vida, neste romance moderno comovente.",
-                    "vote_average": 7.8,
-                    "vote_count": 1220,
+                    "vote_average": 7.802,
+                    "vote_count": 1222,
                     "result_type": "movie"
                 }
             },
@@ -2081,8 +2121,8 @@
                     "backdrop_path": "/bQS43HSLZzMjZkcHJz4fGc7fNdz.jpg",
                     "poster_path": "/pkmZO2Y93AH82PvdQ0ScEpuF08h.jpg",
                     "overview": "A jovem Bella Baxter \u00e9 trazida de volta \u00e0 vida pelo cientista Dr. Godwin Baxter. Querendo ver mais do mundo, ela foge com um advogado e viaja pelos continentes. Livre dos preconceitos de sua \u00e9poca, Bella exige igualdade e liberta\u00e7\u00e3o.",
-                    "vote_average": 7.815,
-                    "vote_count": 3078,
+                    "vote_average": 7.817,
+                    "vote_count": 3083,
                     "result_type": "movie"
                 }
             },
@@ -2103,8 +2143,8 @@
                     "backdrop_path": "/aPQsU3yLDUOhLJYnSqkhKRkQTAw.jpg",
                     "poster_path": "/bZlZ1hcmP6KkZfXxXcNngaFzMcS.jpg",
                     "overview": "O comandante Rudolf H\u00f6ss e sua esposa Hedwig, desfrutam de uma vida aparentemente comum em uma casa com um belo jardim. Mas, por tr\u00e1s da fachada de tranquilidade, a fam\u00edlia feliz vive, na verdade, ao lado do campo de concentra\u00e7\u00e3o de Auschwitz. O dia-a dia destes personagens se desenrola entre os gritos abafados de desespero de um genoc\u00eddio do qual eles tem as m\u00e3os manchadas de sangue.",
-                    "vote_average": 7.239,
-                    "vote_count": 1104,
+                    "vote_average": 7.241,
+                    "vote_count": 1107,
                     "result_type": "movie"
                 }
             },
@@ -2127,8 +2167,8 @@
                     "backdrop_path": "/bQS43HSLZzMjZkcHJz4fGc7fNdz.jpg",
                     "poster_path": "/pkmZO2Y93AH82PvdQ0ScEpuF08h.jpg",
                     "overview": "A jovem Bella Baxter \u00e9 trazida de volta \u00e0 vida pelo cientista Dr. Godwin Baxter. Querendo ver mais do mundo, ela foge com um advogado e viaja pelos continentes. Livre dos preconceitos de sua \u00e9poca, Bella exige igualdade e liberta\u00e7\u00e3o.",
-                    "vote_average": 7.815,
-                    "vote_count": 3078,
+                    "vote_average": 7.817,
+                    "vote_count": 3083,
                     "result_type": "movie"
                 }
             },
@@ -2150,7 +2190,7 @@
                     "poster_path": "/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg",
                     "overview": "No mundo m\u00e1gico das Barbies, \"Barbieland\", uma das bonecas come\u00e7a a perceber que n\u00e3o se encaixa como as outras. Depois de ser expulsa, ela parte para uma aventura no \"mundo real\", onde descobre que a beleza est\u00e1 no interior de cada um.",
                     "vote_average": 7.083,
-                    "vote_count": 7988,
+                    "vote_count": 7989,
                     "result_type": "movie"
                 }
             },
@@ -2452,8 +2492,8 @@
                     "backdrop_path": "/aPQsU3yLDUOhLJYnSqkhKRkQTAw.jpg",
                     "poster_path": "/bZlZ1hcmP6KkZfXxXcNngaFzMcS.jpg",
                     "overview": "O comandante Rudolf H\u00f6ss e sua esposa Hedwig, desfrutam de uma vida aparentemente comum em uma casa com um belo jardim. Mas, por tr\u00e1s da fachada de tranquilidade, a fam\u00edlia feliz vive, na verdade, ao lado do campo de concentra\u00e7\u00e3o de Auschwitz. O dia-a dia destes personagens se desenrola entre os gritos abafados de desespero de um genoc\u00eddio do qual eles tem as m\u00e3os manchadas de sangue.",
-                    "vote_average": 7.239,
-                    "vote_count": 1104,
+                    "vote_average": 7.241,
+                    "vote_count": 1107,
                     "result_type": "movie"
                 }
             },
@@ -2519,7 +2559,7 @@
                     "poster_path": "/gbPUEuu2MGzbVen3tB1S48HpgDP.jpg",
                     "overview": "Ethan Hunt e sua equipe embarcam em sua miss\u00e3o mais perigosa: rastrear uma nova arma aterrorizante que amea\u00e7a toda a humanidade antes que caia em m\u00e3os erradas. Com o controle do futuro e o destino do mundo em jogo e as for\u00e7as sombrias do passado de Ethan se aproximando, uma corrida mortal ao redor do globo come\u00e7a. Confrontado por um inimigo misterioso e todo-poderoso, Ethan \u00e9 for\u00e7ado a considerar que nada pode importar mais do que sua miss\u00e3o \u2013 nem mesmo a vida daqueles com quem ele mais se importa.",
                     "vote_average": 7.552,
-                    "vote_count": 3325,
+                    "vote_count": 3326,
                     "result_type": "movie"
                 }
             },
@@ -2631,7 +2671,7 @@
                     "poster_path": "/gbPUEuu2MGzbVen3tB1S48HpgDP.jpg",
                     "overview": "Ethan Hunt e sua equipe embarcam em sua miss\u00e3o mais perigosa: rastrear uma nova arma aterrorizante que amea\u00e7a toda a humanidade antes que caia em m\u00e3os erradas. Com o controle do futuro e o destino do mundo em jogo e as for\u00e7as sombrias do passado de Ethan se aproximando, uma corrida mortal ao redor do globo come\u00e7a. Confrontado por um inimigo misterioso e todo-poderoso, Ethan \u00e9 for\u00e7ado a considerar que nada pode importar mais do que sua miss\u00e3o \u2013 nem mesmo a vida daqueles com quem ele mais se importa.",
                     "vote_average": 7.552,
-                    "vote_count": 3325,
+                    "vote_count": 3326,
                     "result_type": "movie"
                 }
             },
@@ -2699,7 +2739,7 @@
                     "poster_path": "/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg",
                     "overview": "No mundo m\u00e1gico das Barbies, \"Barbieland\", uma das bonecas come\u00e7a a perceber que n\u00e3o se encaixa como as outras. Depois de ser expulsa, ela parte para uma aventura no \"mundo real\", onde descobre que a beleza est\u00e1 no interior de cada um.",
                     "vote_average": 7.083,
-                    "vote_count": 7988,
+                    "vote_count": 7989,
                     "result_type": "movie"
                 }
             },
@@ -2742,8 +2782,8 @@
                     "backdrop_path": "/bQS43HSLZzMjZkcHJz4fGc7fNdz.jpg",
                     "poster_path": "/pkmZO2Y93AH82PvdQ0ScEpuF08h.jpg",
                     "overview": "A jovem Bella Baxter \u00e9 trazida de volta \u00e0 vida pelo cientista Dr. Godwin Baxter. Querendo ver mais do mundo, ela foge com um advogado e viaja pelos continentes. Livre dos preconceitos de sua \u00e9poca, Bella exige igualdade e liberta\u00e7\u00e3o.",
-                    "vote_average": 7.815,
-                    "vote_count": 3078,
+                    "vote_average": 7.817,
+                    "vote_count": 3083,
                     "result_type": "movie"
                 }
             },
@@ -2764,8 +2804,8 @@
                     "backdrop_path": "/aPQsU3yLDUOhLJYnSqkhKRkQTAw.jpg",
                     "poster_path": "/bZlZ1hcmP6KkZfXxXcNngaFzMcS.jpg",
                     "overview": "O comandante Rudolf H\u00f6ss e sua esposa Hedwig, desfrutam de uma vida aparentemente comum em uma casa com um belo jardim. Mas, por tr\u00e1s da fachada de tranquilidade, a fam\u00edlia feliz vive, na verdade, ao lado do campo de concentra\u00e7\u00e3o de Auschwitz. O dia-a dia destes personagens se desenrola entre os gritos abafados de desespero de um genoc\u00eddio do qual eles tem as m\u00e3os manchadas de sangue.",
-                    "vote_average": 7.239,
-                    "vote_count": 1104,
+                    "vote_average": 7.241,
+                    "vote_count": 1107,
                     "result_type": "movie"
                 }
             },
@@ -2811,7 +2851,7 @@
                     "poster_path": "/ek4FmIkKlH30xthKs2ANqrV7SOI.jpg",
                     "overview": "Um professor mal-humorado de uma prestigiada escola americana \u00e9 for\u00e7ado a cuidar de um grupo de alunos que n\u00e3o tem para onde ir durante as f\u00e9rias de Natal. Ele acaba criando um v\u00ednculo com um dos estudantes e com a cozinheira da escola, que acaba de perder seu filho no Vietn\u00e3.",
                     "vote_average": 7.7,
-                    "vote_count": 1116,
+                    "vote_count": 1118,
                     "result_type": "movie"
                 }
             },
@@ -2876,8 +2916,8 @@
                     "backdrop_path": "/rron9HAuS9s7zBF8iCX1tsafxUo.jpg",
                     "poster_path": "/toSI71gFF11VnLfz2uiNx6jjNUF.jpg",
                     "overview": "Nora e Hae Sung s\u00e3o amigos de inf\u00e2ncia profundamente conectados que se separam quando a fam\u00edlia de Nora emigra da Coreia do Sul. Duas d\u00e9cadas depois, se reencontram em Nova York numa semana fat\u00eddica enquanto confrontam no\u00e7\u00f5es de destino, amor e as escolhas que fazem uma vida, neste romance moderno comovente.",
-                    "vote_average": 7.8,
-                    "vote_count": 1220,
+                    "vote_average": 7.802,
+                    "vote_count": 1222,
                     "result_type": "movie"
                 }
             },
