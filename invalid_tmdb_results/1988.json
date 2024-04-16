@@ -1,17 +1,50 @@
 [
     {
-        "title": "The Family",
+        "title": "Bernardo Bertolucci",
         "year": 1988,
         "result": {
-            "id": 67255,
-            "original_title": "\u9006\u5674\u5c04\u5bb6\u65cf",
-            "title": "The Crazy Family",
-            "release_date": "1984-06-24",
-            "backdrop_path": "/vo1r4ErrHxSMImasqifbRbEH2Vw.jpg",
-            "poster_path": "/2WQNKimUPU13FbfOPZLsD0AKall.jpg",
-            "overview": "The Kobayashi family finally get the chance to move out of their tiny, cramped Tokyo apartment in favour of the suburban house of their dreams. But all is not well: the house is infested by termites and the family starts cracking up: Son Masaki is studying so obsessively for his exams that he's losing his mind; daughter Erika is oblivious of all but her forthcoming record company audition, grandfather Yasukuni starts getting World War II flashbacks and father Katsuhiko is so worried about his family's \"sickness\" that he thinks can only be cured by group suicide.",
-            "vote_average": 6.5,
-            "vote_count": 22
+            "id": 420615,
+            "original_title": "Bernardo Bertolucci: Le Voyageur Italien",
+            "title": "Bernardo Bertolucci: The Italian Traveler",
+            "release_date": "1987-01-01",
+            "backdrop_path": null,
+            "poster_path": "/jzDojjHL6th1sRtIGiLZdGQkWdI.jpg",
+            "overview": "Documentary about Bernardo Bertolucci, and his film The Last Emperor,  tracing the director\u2019s geographic influences, from Parma to China.",
+            "vote_average": 0.0,
+            "vote_count": 0,
+            "result_type": "movie"
+        }
+    },
+    {
+        "title": "France",
+        "year": 1988,
+        "result": {
+            "id": 1051,
+            "original_title": "The French Connection",
+            "title": "Opera\u00e7\u00e3o Fran\u00e7a",
+            "release_date": "1971-10-09",
+            "backdrop_path": "/6Hzis2aTSKcHgT6TPFRthBh6ONW.jpg",
+            "poster_path": "/1fpcpWAzTYsuXEeEHEc1ZQedRLt.jpg",
+            "overview": "Marselha, Fran\u00e7a. Um assassino profissional, Pierre Nicoli, mata um detetive franc\u00eas. Paralelamente em Nova York, Jimmy \u201cPopeye\u201d Doyle, um detetive da pol\u00edcia, e Buddy \u201cCloudy\u201d Russo, seu parceiro, investigam discretamente Salvatore \u201cSal\u201d Boca, um pequeno comerciante, que est\u00e1 tendo gastos muito acima da sua renda. Cada vez existem mais ind\u00edcios que grande parte da renda de Sal \u00e9 ganha ilegalmente e, no processo, \u00e9 ajudado pela esposa, Angie Boca.",
+            "vote_average": 7.5,
+            "vote_count": 1732,
+            "result_type": "movie"
+        }
+    },
+    {
+        "title": "Italy",
+        "year": 1988,
+        "result": {
+            "id": 389079,
+            "original_title": "Dio: [1987] Monsters of Rock Italy",
+            "title": "Dio: [1987] Monsters of Rock Italy",
+            "release_date": "1987-08-26",
+            "backdrop_path": null,
+            "poster_path": null,
+            "overview": "Neon Knights  Naked in the Rain  Dream Evil  Rock 'n' Roll Children  Long Live Rock 'n' Roll  Man on the Silver Mountain  All the Fools Sailed Away  Sunset Superman  Rainbow in the Dark",
+            "vote_average": 0.0,
+            "vote_count": 0,
+            "result_type": "movie"
         }
     }
 ]
