@@ -1,32 +1,34 @@
 [
     {
-        "title": "Border",
+        "title": "Cold War",
         "year": 2019,
         "result": {
-            "id": 897661,
-            "original_title": "Border",
-            "title": "Border",
-            "release_date": "2014-01-01",
-            "backdrop_path": null,
-            "poster_path": null,
-            "overview": "",
-            "vote_average": 0.0,
-            "vote_count": 0
+            "id": 517104,
+            "original_title": "Cold War",
+            "title": "Cold War",
+            "release_date": "2017-11-19",
+            "backdrop_path": "/40VyXVeSE9Zo7bVFd0Rz2I7AFqD.jpg",
+            "poster_path": "/fNtvmW8vkxmsmQbYUdRrPZHxeRM.jpg",
+            "overview": "When a young couple gets the dreaded raccoon flu just days after moving in together, a harmless little cold quickly turns into all-out war.",
+            "vote_average": 7.3,
+            "vote_count": 10,
+            "result_type": "movie"
         }
     },
     {
-        "title": "Weekends",
+        "title": "Alexandre Desplat",
         "year": 2019,
         "result": {
-            "id": 506593,
-            "original_title": "Weekends",
-            "title": "Weekends",
-            "release_date": "2021-04-08",
-            "backdrop_path": "/wMjJ0ylG1SUx1fbNIm8RkFLcr6m.jpg",
-            "poster_path": "/i5c2QrMnyhIJjnXTNp7UZSia2TJ.jpg",
-            "overview": "Set in 1980s Toronto, a young boy shuffles between the homes of his recently divorced parents.",
-            "vote_average": 7.4,
-            "vote_count": 7
+            "id": 554526,
+            "original_title": "Bandes Originales: Alexandre Desplat",
+            "title": "In The Tracks Of - Alexandre Desplat",
+            "release_date": "2020-08-13",
+            "backdrop_path": "/dhGpohi9KRJVL2WRv7gF2UfDpnN.jpg",
+            "poster_path": "/yEeNqH3jcKNRqxsQOg7jiUVB3Y6.jpg",
+            "overview": "Alexandre Desplat is one of the most famous film music composer of today. Innovative artist with a singular expression, he is the successor of french masters of film music: Georges Delerue, Antoine Duhamel, Maurice Jarre.  Writing music for films gather his two passions: music and cinema.  Between working sessions, confidences, films and personnal archives, Alexandre Desplat offers, through this documentary, a great record on the creative process and today\u2019s cinema.",
+            "vote_average": 2.0,
+            "vote_count": 1,
+            "result_type": "movie"
         }
     }
 ]

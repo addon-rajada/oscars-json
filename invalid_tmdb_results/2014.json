@@ -1,17 +1,50 @@
 [
     {
-        "title": "The Square",
+        "title": "Belgium",
         "year": 2014,
         "result": {
-            "id": 15912,
-            "original_title": "The Square",
-            "title": "The Square",
-            "release_date": "2008-06-30",
-            "backdrop_path": "/th91qSRruUjA7sKbcMhNCT7JosG.jpg",
-            "poster_path": "/kLed7chodgFBAC2hUFqtVt9KyGk.jpg",
-            "overview": "Ray, a construction worker trapped in an unhappy marriage, pursues an affair with his neighbor, Carla. Carla's husband, Greg, is a mobster who keeps large sums of drug money in their home. With this in mind, Carla comes up with a plan: She and Ray will steal Greg's money, burn down her house, convince Greg the money was lost in the fire and then run away together. Carla's scheme, however, doesn't go off as planned.",
-            "vote_average": 6.1,
-            "vote_count": 98
+            "id": 145304,
+            "original_title": "The Sound of Belgium",
+            "title": "The Sound of Belgium",
+            "release_date": "2012-11-17",
+            "backdrop_path": null,
+            "poster_path": "/8TfHjdinjSCIqKIRDFDrLhBnvz5.jpg",
+            "overview": "In the late 1980s, the Belgian electronic New Beat music movement conquered dance floors worldwide, and all of a sudden Belgium was on the map. This eclectic predecessor of house music appeared to materialize out of nothing, but according to the makers of The Sound of Belgium, it was the product of a historical search for identity that apparently went back to the Battle of Waterloo and the aftermath of the First World War.",
+            "vote_average": 7.6,
+            "vote_count": 9,
+            "result_type": "movie"
+        }
+    },
+    {
+        "title": "Cambodia",
+        "year": 2014,
+        "result": {
+            "id": 729305,
+            "original_title": "(Sex Workers Cry) Rights Not Rescue in Cambodia",
+            "title": "(Sex Workers Cry) Rights Not Rescue in Cambodia",
+            "release_date": "2013-08-03",
+            "backdrop_path": null,
+            "poster_path": null,
+            "overview": "In Rights Not Rescue, the film\u2019s subjects question Cambodia\u2019s focus on training \u2018Rescued\u2019 female sex workers to sew in low wage garment factories. They want governments, NGOs, labour unions, and donors to seriously address workers\u2019 rights and help women enter different fields where they can actually earn a living wage.",
+            "vote_average": 0.0,
+            "vote_count": 0,
+            "result_type": "movie"
+        }
+    },
+    {
+        "title": "Palestine",
+        "year": 2014,
+        "result": {
+            "id": 454335,
+            "original_title": "Hamlet en Palestine",
+            "title": "Hamlet in Palestine",
+            "release_date": "2013-07-14",
+            "backdrop_path": null,
+            "poster_path": "/cj0H5hXLg0GfcKfSKdp5Y00TPDr.jpg",
+            "overview": "When Thomas Ostermeier, artistic director of the Schaub\u00fchne in Berlin, decided to go to Ramallah in September 2012 to stage Hamlet at the invitation of the Al-Kasaba Theatre, he knew that the Shakespearean verses would find a particular resonance there. The idea of the trip came from intense contact with theatre professionals in Palestine, and most especially with the Freedom Theatre in the refugee camp in Jenin. Under the watchful eye of the film director Nicolas Klotz, the tragedy of the Danish prince intersects with that of young Palestinians. The film is, moreover, a view on another tragedy: the murder of Juliano Mer Khamis, the former director of Freedom Theatre, killed by an unknown assassin in April 2011.",
+            "vote_average": 0.0,
+            "vote_count": 0,
+            "result_type": "movie"
         }
     }
 ]

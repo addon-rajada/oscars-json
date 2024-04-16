@@ -132,17 +132,28 @@ def get_ids(title, second_label, year):
 	return result
 
 def process_noms(id, nom, cat, year):
-	l1 = nom.find('div', {'class': 'field--name-field-award-entities'}).getText().strip() # first label
-	l2 = nom.find('div', {'class': 'field--name-field-award-film'}).getText().strip() # second label
-	#print(f'nominees for {cat} {year}: {l1} / {l2}')
-	r = {
-		'first_label': l1,
-		'second_label': l2,
-		'category': cat,
-		'year': year,
-		'tmdb': get_ids(l1, l2, year) # l1/l2 can be movie or person
-	}
-	return (id, r)
+	try:
+		l1 = nom.find('div', {'class': 'field--name-field-award-entities'}).getText().strip() # first label
+		l2 = nom.find('div', {'class': 'field--name-field-award-film'}).getText().strip() # second label
+		#print(f'nominees for {cat} {year}: {l1} / {l2}')
+		r = {
+			'first_label': l1,
+			'second_label': l2,
+			'category': cat,
+			'year': year,
+			'tmdb': get_ids(l1, l2, year) # l1/l2 can be movie or person
+		}
+		return (id, r)
+	except:
+		print(f'ERROR AT NOMS PROCESSING FOR {cat} {year}')
+		try: l1 = nom.find('div', {'class': 'field--name-field-award-entities'}).getText().strip() # first label
+		except: l1 = ''
+		r = {
+			'first_label': l1, 'second_label': '',
+			'category': cat, 'year': year,
+			'tmdb': {'error': 'no ID found'} # l1/l2 can be movie or person
+		}
+		return (id, r)
 
 def process_group(id, g, year):
 	results_array = []
@@ -189,8 +200,8 @@ def main():
 	global cached_hits, total_searches, invalid_year_results
 	global total_movies_found, total_movies_not_found, total_persons_found, total_persons_not_found
 
-	start_year = 2020
-	end_year = 2022 #datetime.now().year + 1
+	start_year = 2000
+	end_year = 2005 #datetime.now().year + 1
 	years = [[y] for y in range(start_year, end_year)]
 
 	#final_result = {}
