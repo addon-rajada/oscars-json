@@ -1,21 +1,5 @@
 [
     {
-        "title": "Germany",
-        "year": 2007,
-        "result": {
-            "id": 718954,
-            "original_title": "Celtic Frost - Live At Wacken Open Air Festival, In Germany",
-            "title": "Celtic Frost - Live At Wacken Open Air Festival, In Germany",
-            "release_date": "2006-08-04",
-            "backdrop_path": null,
-            "poster_path": "/blJ5eJQkpoiYLbQjNO8Q9UudPEx.jpg",
-            "overview": "",
-            "vote_average": 10.0,
-            "vote_count": 2,
-            "result_type": "movie"
-        }
-    },
-    {
         "title": "Denmark",
         "year": 2007,
         "result": {
@@ -28,6 +12,22 @@
             "overview": "This previously unreleased live show was recorded in a television studio in Denmark before a small and appreciative audience in 1971, and was shown on Danish television. It hasn't been seen since, until this wonderful release. Featuring the entire Johnny Cash touring show - the Tennessee Three, the Carter Family, the Statler Brothers, and Carl Perkins - this tightly filmed, terrific little DVD takes us back to Johnny Cash at the very peak of his popularity. He looked good and sounded great as he took over the small stage with all the power of his personality, just his guitar and his iconic voice, thundering out \"Boy Named Sue\" with that sparkle in his dark eyes and a slight grin on his face, obviously happy to be exactly where he was doing exactly what he was doing - entertaining folks. It was at this time that Cash began the gradual but inevitable transformation from mere performer to legend.",
             "vote_average": 10.0,
             "vote_count": 1,
+            "result_type": "movie"
+        }
+    },
+    {
+        "title": "Germany",
+        "year": 2007,
+        "result": {
+            "id": 718954,
+            "original_title": "Celtic Frost - Live At Wacken Open Air Festival, In Germany",
+            "title": "Celtic Frost - Live At Wacken Open Air Festival, In Germany",
+            "release_date": "2006-08-04",
+            "backdrop_path": null,
+            "poster_path": "/blJ5eJQkpoiYLbQjNO8Q9UudPEx.jpg",
+            "overview": "",
+            "vote_average": 10.0,
+            "vote_count": 2,
             "result_type": "movie"
         }
     },

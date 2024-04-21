@@ -62,5 +62,21 @@
             "vote_count": 6,
             "result_type": "movie"
         }
+    },
+    {
+        "title": "John Williams",
+        "year": 2012,
+        "result": {
+            "id": 766784,
+            "original_title": "AFI's Master Class - The Art of Collaboration: Steven Spielberg and John Williams",
+            "title": "AFI's Master Class - The Art of Collaboration: Steven Spielberg and John Williams",
+            "release_date": "2011-11-07",
+            "backdrop_path": null,
+            "poster_path": "/lht0i4Nh4VGzNLnKIvv5XCuRneT.jpg",
+            "overview": "Filmmaker Steven Spielberg and composer John Williams sit down to discuss their four-decade friendship and working relationship in front of a class at the American Film Institute.",
+            "vote_average": 6.0,
+            "vote_count": 1,
+            "result_type": "movie"
+        }
     }
 ]
