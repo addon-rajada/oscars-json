@@ -6,7 +6,17 @@
             "category": "Actor",
             "year": 1930,
             "tmdb": {
-                "error": "no ID found"
+                "id": 29999,
+                "gender": 2,
+                "known_for_department": "Acting",
+                "name": "Warner Baxter",
+                "original_name": "Warner Baxter",
+                "popularity": 2.704,
+                "profile_path": "/vX605wp5rnjezGUnsTSrFse5tPy.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": true
         },
@@ -16,7 +26,26 @@
             "category": "Actor",
             "year": 1930,
             "tmdb": {
-                "error": "no ID found"
+                "id": 13555,
+                "gender": 2,
+                "known_for_department": "Acting",
+                "name": "George Bancroft",
+                "original_name": "George Bancroft",
+                "popularity": 5.459,
+                "profile_path": "/4OcexFu2DjuXvyoFe3RvnOESHlE.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 27456,
+                    "original_title": "Thunderbolt",
+                    "title": "Thunderbolt",
+                    "release_date": "1929-06-20",
+                    "backdrop_path": "/sOzLX4m7566vB8I8HmH6c9We549.jpg",
+                    "poster_path": "/8eFNGOZn5c7lUyObcR8tdH9SbOW.jpg",
+                    "overview": "A criminal known as Thunderbolt is imprisoned and facing execution. Into the next cell is placed Bob Moran, an innocent man who has been framed and who is in love with Thunderbolt's girl, without knowing of their relationship. Thunderbolt hopes to stave off the execution long enough to kill young Moran for romancing his girl.",
+                    "vote_average": 5.5,
+                    "vote_count": 22,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
@@ -26,7 +55,26 @@
             "category": "Actor",
             "year": 1930,
             "tmdb": {
-                "error": "no ID found"
+                "id": 34754,
+                "gender": 2,
+                "known_for_department": "Acting",
+                "name": "Chester Morris",
+                "original_name": "Chester Morris",
+                "popularity": 12.811,
+                "profile_path": "/fzWrhccpVX6UWBZjEutjvQ3qV92.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 13847,
+                    "original_title": "Alibi",
+                    "title": "O Peso da Lei",
+                    "release_date": "1929-04-20",
+                    "backdrop_path": "/oWD7JsI3mdJ8A4fZTs5GymqoeOr.jpg",
+                    "poster_path": "/2C3ZDxVrOVafzNoOVrxsNQDiHey.jpg",
+                    "overview": "Chick Williams, a prohibition gangster, rejoins his mob soon after being released from prison. When a policeman is murdered during a robbery, he falls under suspicion. The gangster took Joan, a policeman's daughter, to the theater, sneaked out during the intermission to commit the crime, then used her to support his alibi. The detective squad employs its most sophisticated and barbaric techniques, including planting an undercover agent in the gang, to bring him to justice.",
+                    "vote_average": 5.7,
+                    "vote_count": 16,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
@@ -36,7 +84,26 @@
             "category": "Actor",
             "year": 1930,
             "tmdb": {
-                "error": "no ID found"
+                "id": 13352,
+                "gender": 2,
+                "known_for_department": "Acting",
+                "name": "Paul Muni",
+                "original_name": "Paul Muni",
+                "popularity": 8.179,
+                "profile_path": "/zBWkurrylrxKRmcOmN7bI9XlmBn.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 113207,
+                    "original_title": "The Valiant",
+                    "title": "The Valiant",
+                    "release_date": "1929-05-19",
+                    "backdrop_path": "/emEDlqL40VsFAttXvVS8zrpYXKr.jpg",
+                    "poster_path": "/m9c3ZNBjtEh5gvg2ixYVbXLgPCi.jpg",
+                    "overview": "A man condemned to execution tries to convince two women that he is not their son and brother, and that they must get on with their lives.",
+                    "vote_average": 5.6,
+                    "vote_count": 11,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
@@ -46,7 +113,17 @@
             "category": "Actor",
             "year": 1930,
             "tmdb": {
-                "error": "no ID found"
+                "id": 29259,
+                "gender": 2,
+                "known_for_department": "Acting",
+                "name": "Lewis Stone",
+                "original_name": "Lewis Stone",
+                "popularity": 5.979,
+                "profile_path": "/wjIS8X6Smdbwb7CTQVyWelyZutk.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": false
         }
@@ -58,7 +135,26 @@
             "category": "Actress",
             "year": 1930,
             "tmdb": {
-                "error": "no ID found"
+                "id": 100047,
+                "gender": 1,
+                "known_for_department": "Acting",
+                "name": "Mary Pickford",
+                "original_name": "Mary Pickford",
+                "popularity": 13.267,
+                "profile_path": "/y0FHoj9AjmVveKkdeFuqhuVYaTf.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 85507,
+                    "original_title": "Coquette",
+                    "title": "Coquette",
+                    "release_date": "1929-03-30",
+                    "backdrop_path": "/wRvxb5hOgJdBZevFEn0EZSeJOed.jpg",
+                    "poster_path": "/wNjZtuQTNmqt3hVFKjKla5om00v.jpg",
+                    "overview": "A Southern belle's flirtation with a working man leads to tragedy.",
+                    "vote_average": 5.6,
+                    "vote_count": 23,
+                    "result_type": "movie"
+                }
             },
             "winner": true
         },
@@ -68,7 +164,26 @@
             "category": "Actress",
             "year": 1930,
             "tmdb": {
-                "error": "no ID found"
+                "id": 130385,
+                "gender": 1,
+                "known_for_department": "Acting",
+                "name": "Ruth Chatterton",
+                "original_name": "Ruth Chatterton",
+                "popularity": 8.541,
+                "profile_path": "/9C6WAbYjAABHgLHsJBhFxiGJkzP.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 39075,
+                    "original_title": "Madame X",
+                    "title": "Madame X",
+                    "release_date": "1929-08-17",
+                    "backdrop_path": "/d2U0bMQTUnpTkNMM6Xu4BDSoXdQ.jpg",
+                    "poster_path": "/lUYtRWapt7UuqpEdVDPAY7iolHL.jpg",
+                    "overview": "A young, unfaithful wife and mother is thrown out by her cold, unforgiving husband, the Attorney General of France. She is barred from ever seeing her three year old son again despite her earnest attempts to make amends. For many years the mother seeks refuge overseas and in Absinthe. In the end, her son, a young and promising lawyer unknowingly defends her in court. Ruth Chatterton gives a marvelous performance in this early talkie in her portrayal of Madame X.",
+                    "vote_average": 6.0,
+                    "vote_count": 6,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
@@ -78,7 +193,17 @@
             "category": "Actress",
             "year": 1930,
             "tmdb": {
-                "error": "no ID found"
+                "id": 13556,
+                "gender": 1,
+                "known_for_department": "Acting",
+                "name": "Betty Compson",
+                "original_name": "Betty Compson",
+                "popularity": 8.766,
+                "profile_path": "/3t9XDvBRSMKR6Eg9jLzFjIPqWKh.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": false
         },
@@ -88,7 +213,26 @@
             "category": "Actress",
             "year": 1930,
             "tmdb": {
-                "error": "no ID found"
+                "id": 1107369,
+                "gender": 1,
+                "known_for_department": "Acting",
+                "name": "Jeanne Eagels",
+                "original_name": "Jeanne Eagels",
+                "popularity": 2.315,
+                "profile_path": "/h8hK3Tk2Gz1FoD2Umo4cRYzGbQe.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 147846,
+                    "original_title": "The Letter",
+                    "title": "A Carta",
+                    "release_date": "1929-03-17",
+                    "backdrop_path": "/3Knl6hzRA3dBHYUpNRukQTuxlnN.jpg",
+                    "poster_path": "/w9meVsSbjXc0dnWqrqxs8NwXd91.jpg",
+                    "overview": "A planter's wife shoots a neighbor, but tells conflicting stories of what happened.",
+                    "vote_average": 5.5,
+                    "vote_count": 15,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
@@ -98,7 +242,26 @@
             "category": "Actress",
             "year": 1930,
             "tmdb": {
-                "error": "no ID found"
+                "id": 1054643,
+                "gender": 1,
+                "known_for_department": "Acting",
+                "name": "Corinne Griffith",
+                "original_name": "Corinne Griffith",
+                "popularity": 7.48,
+                "profile_path": "/aBcI7FfEVDDlxPMnxOoX8bmozL.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 104214,
+                    "original_title": "The Divine Lady",
+                    "title": "The Divine Lady",
+                    "release_date": "1928-12-26",
+                    "backdrop_path": "/xaKaXAzDxxABeQC6CCPGBCWme8i.jpg",
+                    "poster_path": "/kDMZL9CSDZ9iZhMXC2L4E09WpMS.jpg",
+                    "overview": "Lady Hamilton's love affair with Admiral Horatio Nelson rocks the British Empire.",
+                    "vote_average": 5.2,
+                    "vote_count": 17,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
@@ -108,543 +271,906 @@
             "category": "Actress",
             "year": 1930,
             "tmdb": {
-                "error": "no ID found"
+                "id": 29258,
+                "gender": 1,
+                "known_for_department": "Acting",
+                "name": "Bessie Love",
+                "original_name": "Bessie Love",
+                "popularity": 10.61,
+                "profile_path": "/aOt4c5AoO1Zp8W93JTBnl1eEcFk.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 65203,
+                    "original_title": "The Broadway Melody",
+                    "title": "Melodia da Broadway",
+                    "release_date": "1929-02-08",
+                    "backdrop_path": "/bbLc3gYLOS2egDCZO0SGWE8Vml9.jpg",
+                    "poster_path": "/giq8GJs8YGMzHxeKxNSuwzAdd1c.jpg",
+                    "overview": "Melodia na Broadway \u00e9 um dos primeiros filmes musicais da hist\u00f3ria do cinema, dirigido por Harry Beaumont e lan\u00e7ado em 1\u00ba de fevereiro de 1929. O filme relata os romances das estrelas de musicais do famoso bairro teatral de Nova Iorque, a Broadway. Queenie e Hank Mahoney s\u00e3o duas irm\u00e3s que se apaixonam pelo mesmo homem, Eddie Kearns.",
+                    "vote_average": 5.2,
+                    "vote_count": 126,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         }
     ],
     "Art Direction": [
         {
-            "first_label": "The Bridge of San Luis Rey",
-            "second_label": "Cedric Gibbons",
+            "first_label": "Cedric Gibbons",
+            "second_label": "The Bridge of San Luis Rey",
             "category": "Art Direction",
             "year": 1930,
             "tmdb": {
-                "id": 173582,
-                "original_title": "The Bridge of San Luis Rey",
-                "title": "The Bridge of San Luis Rey",
-                "release_date": "1929-03-30",
-                "backdrop_path": null,
-                "poster_path": "/pkKfQI7HZoPYGWCYlPJwIhdzUkg.jpg",
-                "overview": "This first cinematic version of the classic book is a part-talkie, although the only surviving print is silent (housed in the George Eastman House, Rochester, NY). It is a straight-forward telling of the intermingled lives of a group of strangers doomed to die in a collapsing bridge accident. The Art Direction, paltry and unremarkable, surprisingly won an Oscar over the far more remarkable work nominated in THE IRON MASK. The special effect scene of the lovers plummeting with the bridge into the chasm is unforgettable and remarkably done.",
-                "vote_average": 8.0,
-                "vote_count": 1
+                "id": 9062,
+                "gender": 2,
+                "known_for_department": "Art",
+                "name": "Cedric Gibbons",
+                "original_name": "Cedric Gibbons",
+                "popularity": 4.055,
+                "profile_path": "/4490hNfDKQPh0pIn8GBSQ0UARMX.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 173582,
+                    "original_title": "The Bridge of San Luis Rey",
+                    "title": "The Bridge of San Luis Rey",
+                    "release_date": "1929-03-30",
+                    "backdrop_path": null,
+                    "poster_path": "/iiHIrhue0jDvcY4TMa0rUIuzjy9.jpg",
+                    "overview": "This first cinematic version of the classic book is a part-talkie, although the only surviving print is silent (housed in the George Eastman House, Rochester, NY). It is a straight-forward telling of the intermingled lives of a group of strangers doomed to die in a collapsing bridge accident. The Art Direction, paltry and unremarkable, surprisingly won an Oscar over the far more remarkable work nominated in THE IRON MASK. The special effect scene of the lovers plummeting with the bridge into the chasm is unforgettable and remarkably done.",
+                    "vote_average": 8.0,
+                    "vote_count": 1,
+                    "result_type": "movie"
+                }
             },
             "winner": true
         },
         {
-            "first_label": "The Patriot",
-            "second_label": "Hans Dreier",
+            "first_label": "Hans Dreier",
+            "second_label": "The Patriot",
             "category": "Art Direction",
             "year": 1930,
             "tmdb": {
-                "error": "no ID found"
+                "id": 8622,
+                "gender": 2,
+                "known_for_department": "Art",
+                "name": "Hans Dreier",
+                "original_name": "Hans Dreier",
+                "popularity": 3.406,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Dynamite",
-            "second_label": "Mitchell Leisen",
+            "first_label": "Mitchell Leisen",
+            "second_label": "Dynamite",
             "category": "Art Direction",
             "year": 1930,
             "tmdb": {
-                "id": 173580,
-                "original_title": "Dynamite",
-                "title": "Dinamite",
-                "release_date": "1929-12-13",
-                "backdrop_path": "/oYuD92RxZG3jCe8soDO3aMav6u.jpg",
-                "poster_path": "/gqoknfqWeGbGHzxswX0f3bA7TVL.jpg",
-                "overview": "Wealthy Cynthia is in love with not-so-wealthy Roger, who is married to Marcia. The threesome is terribly modern about the situation, and Marcia will gladly divorce Roger if Cynthia agrees to a financial settlement. But Cynthia's wealth is in jeopardy because her trust fund will expire if she is not married by a certain date. To satisfy that condition, Cynthia arranges to marry Hagon Derk, who is condemned to die for a crime he didn't commit. She pays him so he can provide for his little sister. But at the last minute, Derk is freed when the true criminal is discovered. Expecting to be a rich widow, Cynthia finds herself married to a man she doesn't know and doesn't want to.",
-                "vote_average": 6.0,
-                "vote_count": 7
+                "id": 108914,
+                "gender": 2,
+                "known_for_department": "Directing",
+                "name": "Mitchell Leisen",
+                "original_name": "Mitchell Leisen",
+                "popularity": 8.361,
+                "profile_path": "/o23GKvxbde824gD5nLuguQvEoBR.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 173580,
+                    "original_title": "Dynamite",
+                    "title": "Dinamite",
+                    "release_date": "1929-12-13",
+                    "backdrop_path": "/oYuD92RxZG3jCe8soDO3aMav6u.jpg",
+                    "poster_path": "/gqoknfqWeGbGHzxswX0f3bA7TVL.jpg",
+                    "overview": "Wealthy Cynthia is in love with not-so-wealthy Roger, who is married to Marcia. The threesome is terribly modern about the situation, and Marcia will gladly divorce Roger if Cynthia agrees to a financial settlement. But Cynthia's wealth is in jeopardy because her trust fund will expire if she is not married by a certain date. To satisfy that condition, Cynthia arranges to marry Hagon Derk, who is condemned to die for a crime he didn't commit. She pays him so he can provide for his little sister. But at the last minute, Derk is freed when the true criminal is discovered. Expecting to be a rich widow, Cynthia finds herself married to a man she doesn't know and doesn't want to.",
+                    "vote_average": 6.0,
+                    "vote_count": 7,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Alibi",
-            "second_label": "William Cameron Menzies",
+            "first_label": "William Cameron Menzies",
+            "second_label": "Alibi",
             "category": "Art Direction",
             "year": 1930,
             "tmdb": {
-                "id": 13847,
-                "original_title": "Alibi",
-                "title": "O Peso da Lei",
-                "release_date": "1929-04-20",
-                "backdrop_path": "/oWD7JsI3mdJ8A4fZTs5GymqoeOr.jpg",
-                "poster_path": "/2C3ZDxVrOVafzNoOVrxsNQDiHey.jpg",
-                "overview": "Chick Williams, a prohibition gangster, rejoins his mob soon after being released from prison. When a policeman is murdered during a robbery, he falls under suspicion. The gangster took Joan, a policeman's daughter, to the theater, sneaked out during the intermission to commit the crime, then used her to support his alibi. The detective squad employs its most sophisticated and barbaric techniques, including planting an undercover agent in the gang, to bring him to justice.",
-                "vote_average": 5.7,
-                "vote_count": 16
+                "id": 11489,
+                "gender": 2,
+                "known_for_department": "Art",
+                "name": "William Cameron Menzies",
+                "original_name": "William Cameron Menzies",
+                "popularity": 5.083,
+                "profile_path": "/ydx0eRPERKg6oD9r3horgYGJkaK.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 13847,
+                    "original_title": "Alibi",
+                    "title": "O Peso da Lei",
+                    "release_date": "1929-04-20",
+                    "backdrop_path": "/oWD7JsI3mdJ8A4fZTs5GymqoeOr.jpg",
+                    "poster_path": "/2C3ZDxVrOVafzNoOVrxsNQDiHey.jpg",
+                    "overview": "Chick Williams, a prohibition gangster, rejoins his mob soon after being released from prison. When a policeman is murdered during a robbery, he falls under suspicion. The gangster took Joan, a policeman's daughter, to the theater, sneaked out during the intermission to commit the crime, then used her to support his alibi. The detective squad employs its most sophisticated and barbaric techniques, including planting an undercover agent in the gang, to bring him to justice.",
+                    "vote_average": 5.7,
+                    "vote_count": 16,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "The Awakening",
-            "second_label": "William Cameron Menzies",
+            "first_label": "William Cameron Menzies",
+            "second_label": "The Awakening",
             "category": "Art Direction",
             "year": 1930,
             "tmdb": {
-                "id": 506725,
-                "original_title": "Fr\u00fchlings Erwachen",
-                "title": "Spring Awakening",
-                "release_date": "1929-01-01",
-                "backdrop_path": null,
-                "poster_path": "/eybSd0YYI3XYTZoQn1JxymWEWhQ.jpg",
-                "overview": "Moritz Stiefel faces expulsion due to poor marks. When he is caught with an essay titled \u201cShame and Lust\u201d, he is indeed kicked out \u2013 instead of classmate Melchior Gabor, who actually penned it. Gabor was drawing on his experiences with neighbourhood girl Wendla. Then Wendla turns up pregnant. Stiefel descends into despair ... Exploitation between Eros and Thanatos in this \u201csexual tragedy of youth\u201d based on Frank Wedekind\u2019s play. Setting the film in the 1920s provided a chance to explore \u201cmodern\u201d youth culture, complete with cigarettes, jazz music, the gramophone, and a goodly bit of alcohol. Richard Oswald, a master of films of manners and young sex beginning in the 1910s, fully explores the temptations of the youthful body, even early childhood flirtatiousness. At the same time, with his target audience in mind, the film laments the bigotry and double standards of the adult world.",
-                "vote_average": 0.0,
-                "vote_count": 0
+                "id": 11489,
+                "gender": 2,
+                "known_for_department": "Art",
+                "name": "William Cameron Menzies",
+                "original_name": "William Cameron Menzies",
+                "popularity": 5.083,
+                "profile_path": "/ydx0eRPERKg6oD9r3horgYGJkaK.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 506725,
+                    "original_title": "Fr\u00fchlings Erwachen",
+                    "title": "Spring Awakening",
+                    "release_date": "1929-01-01",
+                    "backdrop_path": null,
+                    "poster_path": "/eybSd0YYI3XYTZoQn1JxymWEWhQ.jpg",
+                    "overview": "Moritz Stiefel faces expulsion due to poor marks. When he is caught with an essay titled \u201cShame and Lust\u201d, he is indeed kicked out \u2013 instead of classmate Melchior Gabor, who actually penned it. Gabor was drawing on his experiences with neighbourhood girl Wendla. Then Wendla turns up pregnant. Stiefel descends into despair ... Exploitation between Eros and Thanatos in this \u201csexual tragedy of youth\u201d based on Frank Wedekind\u2019s play. Setting the film in the 1920s provided a chance to explore \u201cmodern\u201d youth culture, complete with cigarettes, jazz music, the gramophone, and a goodly bit of alcohol. Richard Oswald, a master of films of manners and young sex beginning in the 1910s, fully explores the temptations of the youthful body, even early childhood flirtatiousness. At the same time, with his target audience in mind, the film laments the bigotry and double standards of the adult world.",
+                    "vote_average": 0.0,
+                    "vote_count": 0,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Street Angel",
-            "second_label": "Harry Oliver",
+            "first_label": "Harry Oliver",
+            "second_label": "Street Angel",
             "category": "Art Direction",
             "year": 1930,
             "tmdb": {
-                "id": 28391,
-                "original_title": "Street Angel",
-                "title": "Street Angel",
-                "release_date": "1928-04-09",
-                "backdrop_path": "/vW6MatSQJ0vi24ZdicPTPjGS4yC.jpg",
-                "poster_path": "/rGDFZRIwZPYocBvspSB7RGQMzXq.jpg",
-                "overview": "A spirited young woman finds herself destitute and on the streets before joining a traveling carnival, where she meets a vagabond painter.",
-                "vote_average": 7.0,
-                "vote_count": 47
+                "id": 2424376,
+                "gender": 0,
+                "known_for_department": "Art",
+                "name": "Harry Oliver",
+                "original_name": "Harry Oliver",
+                "popularity": 0.6,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "id": 28391,
+                    "original_title": "Street Angel",
+                    "title": "Street Angel",
+                    "release_date": "1928-04-09",
+                    "backdrop_path": "/vW6MatSQJ0vi24ZdicPTPjGS4yC.jpg",
+                    "poster_path": "/rGDFZRIwZPYocBvspSB7RGQMzXq.jpg",
+                    "overview": "A spirited young woman finds herself destitute and on the streets before joining a traveling carnival, where she meets a vagabond painter.",
+                    "vote_average": 7.0,
+                    "vote_count": 47,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         }
     ],
     "Cinematography": [
         {
-            "first_label": "White Shadows in the South Seas",
-            "second_label": "Clyde De Vinna",
+            "first_label": "Clyde De Vinna",
+            "second_label": "White Shadows in the South Seas",
             "category": "Cinematography",
             "year": 1930,
             "tmdb": {
-                "id": 53161,
-                "original_title": "White Shadows in the South Seas",
-                "title": "White Shadows in the South Seas",
-                "release_date": "1928-11-11",
-                "backdrop_path": "/twa5pQHucDuDPqDfsEYtB2WC2UF.jpg",
-                "poster_path": "/cVXcwvi6Ka0cmopbxQvzkjBrfmk.jpg",
-                "overview": "An alcoholic doctor on a Polynesian island, disgusted by white exploitation of the natives, finds himself marooned on a pristinely beautiful island.",
-                "vote_average": 6.6,
-                "vote_count": 20
+                "id": 418836,
+                "gender": 2,
+                "known_for_department": "Camera",
+                "name": "Clyde De Vinna",
+                "original_name": "Clyde De Vinna",
+                "popularity": 0.94,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "id": 53161,
+                    "original_title": "White Shadows in the South Seas",
+                    "title": "White Shadows in the South Seas",
+                    "release_date": "1928-11-11",
+                    "backdrop_path": "/twa5pQHucDuDPqDfsEYtB2WC2UF.jpg",
+                    "poster_path": "/cVXcwvi6Ka0cmopbxQvzkjBrfmk.jpg",
+                    "overview": "An alcoholic doctor on a Polynesian island, disgusted by white exploitation of the natives, finds himself marooned on a pristinely beautiful island.",
+                    "vote_average": 6.6,
+                    "vote_count": 21,
+                    "result_type": "movie"
+                }
             },
             "winner": true
         },
         {
-            "first_label": "Our Dancing Daughters",
-            "second_label": "George Barnes",
+            "first_label": "George Barnes",
+            "second_label": "Our Dancing Daughters",
             "category": "Cinematography",
             "year": 1930,
             "tmdb": {
-                "error": "no ID found"
+                "id": 3356,
+                "gender": 2,
+                "known_for_department": "Camera",
+                "name": "George Barnes",
+                "original_name": "George Barnes",
+                "popularity": 1.381,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "In Old Arizona",
-            "second_label": "Arthur Edeson",
+            "first_label": "Arthur Edeson",
+            "second_label": "In Old Arizona",
             "category": "Cinematography",
             "year": 1930,
             "tmdb": {
-                "error": "no ID found"
+                "id": 2005,
+                "gender": 2,
+                "known_for_department": "Camera",
+                "name": "Arthur Edeson",
+                "original_name": "Arthur Edeson",
+                "popularity": 1.593,
+                "profile_path": "/jXDL11ZWnLYkpmWIWDwkDIz6Dhc.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Four Devils",
-            "second_label": "Ernest Palmer",
+            "first_label": "Ernest Palmer",
+            "second_label": "Four Devils",
             "category": "Cinematography",
             "year": 1930,
             "tmdb": {
-                "error": "no ID found"
+                "id": 137885,
+                "gender": 2,
+                "known_for_department": "Camera",
+                "name": "Ernest Palmer",
+                "original_name": "Ernest Palmer",
+                "popularity": 0.695,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Street Angel",
-            "second_label": "Ernest Palmer",
+            "first_label": "Ernest Palmer",
+            "second_label": "Street Angel",
             "category": "Cinematography",
             "year": 1930,
             "tmdb": {
-                "id": 28391,
-                "original_title": "Street Angel",
-                "title": "Street Angel",
-                "release_date": "1928-04-09",
-                "backdrop_path": "/vW6MatSQJ0vi24ZdicPTPjGS4yC.jpg",
-                "poster_path": "/rGDFZRIwZPYocBvspSB7RGQMzXq.jpg",
-                "overview": "A spirited young woman finds herself destitute and on the streets before joining a traveling carnival, where she meets a vagabond painter.",
-                "vote_average": 7.0,
-                "vote_count": 47
+                "id": 137885,
+                "gender": 2,
+                "known_for_department": "Camera",
+                "name": "Ernest Palmer",
+                "original_name": "Ernest Palmer",
+                "popularity": 0.695,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "id": 28391,
+                    "original_title": "Street Angel",
+                    "title": "Street Angel",
+                    "release_date": "1928-04-09",
+                    "backdrop_path": "/vW6MatSQJ0vi24ZdicPTPjGS4yC.jpg",
+                    "poster_path": "/rGDFZRIwZPYocBvspSB7RGQMzXq.jpg",
+                    "overview": "A spirited young woman finds herself destitute and on the streets before joining a traveling carnival, where she meets a vagabond painter.",
+                    "vote_average": 7.0,
+                    "vote_count": 47,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "The Divine Lady",
-            "second_label": "John Seitz",
+            "first_label": "John Seitz",
+            "second_label": "The Divine Lady",
             "category": "Cinematography",
             "year": 1930,
             "tmdb": {
-                "id": 104214,
-                "original_title": "The Divine Lady",
-                "title": "The Divine Lady",
-                "release_date": "1928-12-26",
-                "backdrop_path": "/xaKaXAzDxxABeQC6CCPGBCWme8i.jpg",
-                "poster_path": "/kDMZL9CSDZ9iZhMXC2L4E09WpMS.jpg",
-                "overview": "Lady Hamilton's love affair with Admiral Horatio Nelson rocks the British Empire.",
-                "vote_average": 5.2,
-                "vote_count": 17
+                "id": 168648,
+                "gender": 2,
+                "known_for_department": "Acting",
+                "name": "John Seitz",
+                "original_name": "John Seitz",
+                "popularity": 6.499,
+                "profile_path": "/5mY1YFezwwQAdfbnS8UUCO8lo4F.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 104214,
+                    "original_title": "The Divine Lady",
+                    "title": "The Divine Lady",
+                    "release_date": "1928-12-26",
+                    "backdrop_path": "/xaKaXAzDxxABeQC6CCPGBCWme8i.jpg",
+                    "poster_path": "/kDMZL9CSDZ9iZhMXC2L4E09WpMS.jpg",
+                    "overview": "Lady Hamilton's love affair with Admiral Horatio Nelson rocks the British Empire.",
+                    "vote_average": 5.2,
+                    "vote_count": 17,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         }
     ],
     "Directing": [
         {
-            "first_label": "The Divine Lady",
-            "second_label": "Frank Lloyd",
+            "first_label": "Frank Lloyd",
+            "second_label": "The Divine Lady",
             "category": "Directing",
             "year": 1930,
             "tmdb": {
-                "id": 104214,
-                "original_title": "The Divine Lady",
-                "title": "The Divine Lady",
-                "release_date": "1928-12-26",
-                "backdrop_path": "/xaKaXAzDxxABeQC6CCPGBCWme8i.jpg",
-                "poster_path": "/kDMZL9CSDZ9iZhMXC2L4E09WpMS.jpg",
-                "overview": "Lady Hamilton's love affair with Admiral Horatio Nelson rocks the British Empire.",
-                "vote_average": 5.2,
-                "vote_count": 17
+                "id": 72061,
+                "gender": 2,
+                "known_for_department": "Directing",
+                "name": "Frank Lloyd",
+                "original_name": "Frank Lloyd",
+                "popularity": 3.048,
+                "profile_path": "/4TgAcAqe7jgVYqfjYkC89WrQUyb.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 104214,
+                    "original_title": "The Divine Lady",
+                    "title": "The Divine Lady",
+                    "release_date": "1928-12-26",
+                    "backdrop_path": "/xaKaXAzDxxABeQC6CCPGBCWme8i.jpg",
+                    "poster_path": "/kDMZL9CSDZ9iZhMXC2L4E09WpMS.jpg",
+                    "overview": "Lady Hamilton's love affair with Admiral Horatio Nelson rocks the British Empire.",
+                    "vote_average": 5.2,
+                    "vote_count": 17,
+                    "result_type": "movie"
+                }
             },
             "winner": true
         },
         {
-            "first_label": "Madame X",
-            "second_label": "Lionel Barrymore",
+            "first_label": "Lionel Barrymore",
+            "second_label": "Madame X",
             "category": "Directing",
             "year": 1930,
             "tmdb": {
-                "id": 39075,
-                "original_title": "Madame X",
-                "title": "Madame X",
-                "release_date": "1929-08-17",
-                "backdrop_path": "/d2U0bMQTUnpTkNMM6Xu4BDSoXdQ.jpg",
-                "poster_path": "/lUYtRWapt7UuqpEdVDPAY7iolHL.jpg",
-                "overview": "A young, unfaithful wife and mother is thrown out by her cold, unforgiving husband, the Attorney General of France. She is barred from ever seeing her three year old son again despite her earnest attempts to make amends. For many years the mother seeks refuge overseas and in Absinthe. In the end, her son, a young and promising lawyer unknowingly defends her in court. Ruth Chatterton gives a marvelous performance in this early talkie in her portrayal of Madame X.",
-                "vote_average": 6.0,
-                "vote_count": 6
+                "id": 17753,
+                "gender": 2,
+                "known_for_department": "Acting",
+                "name": "Lionel Barrymore",
+                "original_name": "Lionel Barrymore",
+                "popularity": 10.589,
+                "profile_path": "/j7UjmpRAZ7imblut0WHqjS13mmg.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 39075,
+                    "original_title": "Madame X",
+                    "title": "Madame X",
+                    "release_date": "1929-08-17",
+                    "backdrop_path": "/d2U0bMQTUnpTkNMM6Xu4BDSoXdQ.jpg",
+                    "poster_path": "/lUYtRWapt7UuqpEdVDPAY7iolHL.jpg",
+                    "overview": "A young, unfaithful wife and mother is thrown out by her cold, unforgiving husband, the Attorney General of France. She is barred from ever seeing her three year old son again despite her earnest attempts to make amends. For many years the mother seeks refuge overseas and in Absinthe. In the end, her son, a young and promising lawyer unknowingly defends her in court. Ruth Chatterton gives a marvelous performance in this early talkie in her portrayal of Madame X.",
+                    "vote_average": 6.0,
+                    "vote_count": 6,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "The Broadway Melody",
-            "second_label": "Harry Beaumont",
+            "first_label": "Harry Beaumont",
+            "second_label": "The Broadway Melody",
             "category": "Directing",
             "year": 1930,
             "tmdb": {
-                "id": 65203,
-                "original_title": "The Broadway Melody",
-                "title": "Melodia da Broadway",
-                "release_date": "1929-02-08",
-                "backdrop_path": "/bbLc3gYLOS2egDCZO0SGWE8Vml9.jpg",
-                "poster_path": "/giq8GJs8YGMzHxeKxNSuwzAdd1c.jpg",
-                "overview": "Melodia na Broadway \u00e9 um dos primeiros filmes musicais da hist\u00f3ria do cinema, dirigido por Harry Beaumont e lan\u00e7ado em 1\u00ba de fevereiro de 1929. O filme relata os romances das estrelas de musicais do famoso bairro teatral de Nova Iorque, a Broadway. Queenie e Hank Mahoney s\u00e3o duas irm\u00e3s que se apaixonam pelo mesmo homem, Eddie Kearns.",
-                "vote_average": 5.2,
-                "vote_count": 125
+                "id": 145605,
+                "gender": 2,
+                "known_for_department": "Directing",
+                "name": "Harry Beaumont",
+                "original_name": "Harry Beaumont",
+                "popularity": 2.285,
+                "profile_path": "/2B1D7Psv5021wsOueN6NEC8B63m.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 65203,
+                    "original_title": "The Broadway Melody",
+                    "title": "Melodia da Broadway",
+                    "release_date": "1929-02-08",
+                    "backdrop_path": "/bbLc3gYLOS2egDCZO0SGWE8Vml9.jpg",
+                    "poster_path": "/giq8GJs8YGMzHxeKxNSuwzAdd1c.jpg",
+                    "overview": "Melodia na Broadway \u00e9 um dos primeiros filmes musicais da hist\u00f3ria do cinema, dirigido por Harry Beaumont e lan\u00e7ado em 1\u00ba de fevereiro de 1929. O filme relata os romances das estrelas de musicais do famoso bairro teatral de Nova Iorque, a Broadway. Queenie e Hank Mahoney s\u00e3o duas irm\u00e3s que se apaixonam pelo mesmo homem, Eddie Kearns.",
+                    "vote_average": 5.2,
+                    "vote_count": 126,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "In Old Arizona",
-            "second_label": "Irving Cummings",
+            "first_label": "Irving Cummings",
+            "second_label": "In Old Arizona",
             "category": "Directing",
             "year": 1930,
             "tmdb": {
-                "error": "no ID found"
+                "id": 129422,
+                "gender": 2,
+                "known_for_department": "Directing",
+                "name": "Irving Cummings",
+                "original_name": "Irving Cummings",
+                "popularity": 3.949,
+                "profile_path": "/jHkEJn2HRhGEtfQ2S8L7fTBWcz9.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Drag",
-            "second_label": "Frank Lloyd",
+            "first_label": "Frank Lloyd",
+            "second_label": "Drag",
             "category": "Directing",
             "year": 1930,
             "tmdb": {
-                "id": 116269,
-                "original_title": "Drag",
-                "title": "Drag",
-                "release_date": "1929-07-21",
-                "backdrop_path": "/iywAhhc6tXGTgAZ8xno28EYNfHy.jpg",
-                "poster_path": "/qUc48aiBs6cNk4r865dUOvUM6SF.jpg",
-                "overview": "Young David Carroll takes over the publication of a local newspaper in Vermont. Although he is attracted to Dot, \"the most sophisticated girl in town,\" he marries Allie Parker, daughter of the couple who run the boardinghouse where he lives. Allie remains at home when David goes to New York City to sell a musical he has written. There, Dot, now a successful costume designer, uses her influence to get David's play produced. David and Dot fall in love, but she leaves for Paris when David indicates he will remain true to Allie. He sends for Allie, but when she arrives with her whole family, he decides to follow Dot to Paris.",
-                "vote_average": 0.0,
-                "vote_count": 0
+                "id": 72061,
+                "gender": 2,
+                "known_for_department": "Directing",
+                "name": "Frank Lloyd",
+                "original_name": "Frank Lloyd",
+                "popularity": 3.048,
+                "profile_path": "/4TgAcAqe7jgVYqfjYkC89WrQUyb.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 116269,
+                    "original_title": "Drag",
+                    "title": "Drag",
+                    "release_date": "1929-07-21",
+                    "backdrop_path": "/iywAhhc6tXGTgAZ8xno28EYNfHy.jpg",
+                    "poster_path": "/qUc48aiBs6cNk4r865dUOvUM6SF.jpg",
+                    "overview": "Young David Carroll takes over the publication of a local newspaper in Vermont. Although he is attracted to Dot, \"the most sophisticated girl in town,\" he marries Allie Parker, daughter of the couple who run the boardinghouse where he lives. Allie remains at home when David goes to New York City to sell a musical he has written. There, Dot, now a successful costume designer, uses her influence to get David's play produced. David and Dot fall in love, but she leaves for Paris when David indicates he will remain true to Allie. He sends for Allie, but when she arrives with her whole family, he decides to follow Dot to Paris.",
+                    "vote_average": 0.0,
+                    "vote_count": 0,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Weary River",
-            "second_label": "Frank Lloyd",
+            "first_label": "Frank Lloyd",
+            "second_label": "Weary River",
             "category": "Directing",
             "year": 1930,
             "tmdb": {
-                "id": 171446,
-                "original_title": "Weary River",
-                "title": "Weary River",
-                "release_date": "1929-02-10",
-                "backdrop_path": "/kLMl1x2AzmYH3jy6xa4AXJcIdlB.jpg",
-                "poster_path": "/2470k45ZR9uIHidc0wf7NBoFrpJ.jpg",
-                "overview": "A gangster is put in prison, but finds salvation through music while serving his time. Again on the outside, he finds success elusive and temptations abound.",
-                "vote_average": 5.3,
-                "vote_count": 9
+                "id": 72061,
+                "gender": 2,
+                "known_for_department": "Directing",
+                "name": "Frank Lloyd",
+                "original_name": "Frank Lloyd",
+                "popularity": 3.048,
+                "profile_path": "/4TgAcAqe7jgVYqfjYkC89WrQUyb.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 171446,
+                    "original_title": "Weary River",
+                    "title": "Weary River",
+                    "release_date": "1929-02-10",
+                    "backdrop_path": "/kLMl1x2AzmYH3jy6xa4AXJcIdlB.jpg",
+                    "poster_path": "/2470k45ZR9uIHidc0wf7NBoFrpJ.jpg",
+                    "overview": "A gangster is put in prison, but finds salvation through music while serving his time. Again on the outside, he finds success elusive and temptations abound.",
+                    "vote_average": 5.4,
+                    "vote_count": 10,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "The Patriot",
-            "second_label": "Ernst Lubitsch",
+            "first_label": "Ernst Lubitsch",
+            "second_label": "The Patriot",
             "category": "Directing",
             "year": 1930,
             "tmdb": {
-                "error": "no ID found"
+                "id": 2428,
+                "gender": 2,
+                "known_for_department": "Directing",
+                "name": "Ernst Lubitsch",
+                "original_name": "Ernst Lubitsch",
+                "popularity": 5.342,
+                "profile_path": "/tAsEhwiu3oqDgzCZSYN2xu0dEdD.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": false
         }
     ],
     "Outstanding Picture": [
         {
-            "first_label": "The Broadway Melody",
-            "second_label": "Metro-Goldwyn-Mayer",
+            "first_label": "Metro-Goldwyn-Mayer",
+            "second_label": "The Broadway Melody",
             "category": "Outstanding Picture",
             "year": 1930,
             "tmdb": {
-                "id": 65203,
-                "original_title": "The Broadway Melody",
-                "title": "Melodia da Broadway",
-                "release_date": "1929-02-08",
-                "backdrop_path": "/bbLc3gYLOS2egDCZO0SGWE8Vml9.jpg",
-                "poster_path": "/giq8GJs8YGMzHxeKxNSuwzAdd1c.jpg",
-                "overview": "Melodia na Broadway \u00e9 um dos primeiros filmes musicais da hist\u00f3ria do cinema, dirigido por Harry Beaumont e lan\u00e7ado em 1\u00ba de fevereiro de 1929. O filme relata os romances das estrelas de musicais do famoso bairro teatral de Nova Iorque, a Broadway. Queenie e Hank Mahoney s\u00e3o duas irm\u00e3s que se apaixonam pelo mesmo homem, Eddie Kearns.",
-                "vote_average": 5.2,
-                "vote_count": 125
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 65203,
+                    "original_title": "The Broadway Melody",
+                    "title": "Melodia da Broadway",
+                    "release_date": "1929-02-08",
+                    "backdrop_path": "/bbLc3gYLOS2egDCZO0SGWE8Vml9.jpg",
+                    "poster_path": "/giq8GJs8YGMzHxeKxNSuwzAdd1c.jpg",
+                    "overview": "Melodia na Broadway \u00e9 um dos primeiros filmes musicais da hist\u00f3ria do cinema, dirigido por Harry Beaumont e lan\u00e7ado em 1\u00ba de fevereiro de 1929. O filme relata os romances das estrelas de musicais do famoso bairro teatral de Nova Iorque, a Broadway. Queenie e Hank Mahoney s\u00e3o duas irm\u00e3s que se apaixonam pelo mesmo homem, Eddie Kearns.",
+                    "vote_average": 5.2,
+                    "vote_count": 126,
+                    "result_type": "movie"
+                }
             },
             "winner": true
         },
         {
-            "first_label": "Alibi",
-            "second_label": "Feature Productions",
+            "first_label": "Feature Productions",
+            "second_label": "Alibi",
             "category": "Outstanding Picture",
             "year": 1930,
             "tmdb": {
-                "id": 13847,
-                "original_title": "Alibi",
-                "title": "O Peso da Lei",
-                "release_date": "1929-04-20",
-                "backdrop_path": "/oWD7JsI3mdJ8A4fZTs5GymqoeOr.jpg",
-                "poster_path": "/2C3ZDxVrOVafzNoOVrxsNQDiHey.jpg",
-                "overview": "Chick Williams, a prohibition gangster, rejoins his mob soon after being released from prison. When a policeman is murdered during a robbery, he falls under suspicion. The gangster took Joan, a policeman's daughter, to the theater, sneaked out during the intermission to commit the crime, then used her to support his alibi. The detective squad employs its most sophisticated and barbaric techniques, including planting an undercover agent in the gang, to bring him to justice.",
-                "vote_average": 5.7,
-                "vote_count": 16
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 13847,
+                    "original_title": "Alibi",
+                    "title": "O Peso da Lei",
+                    "release_date": "1929-04-20",
+                    "backdrop_path": "/oWD7JsI3mdJ8A4fZTs5GymqoeOr.jpg",
+                    "poster_path": "/2C3ZDxVrOVafzNoOVrxsNQDiHey.jpg",
+                    "overview": "Chick Williams, a prohibition gangster, rejoins his mob soon after being released from prison. When a policeman is murdered during a robbery, he falls under suspicion. The gangster took Joan, a policeman's daughter, to the theater, sneaked out during the intermission to commit the crime, then used her to support his alibi. The detective squad employs its most sophisticated and barbaric techniques, including planting an undercover agent in the gang, to bring him to justice.",
+                    "vote_average": 5.7,
+                    "vote_count": 16,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "In Old Arizona",
-            "second_label": "Fox",
+            "first_label": "Fox",
+            "second_label": "In Old Arizona",
             "category": "Outstanding Picture",
             "year": 1930,
             "tmdb": {
-                "error": "no ID found"
+                "id": 2636200,
+                "gender": 0,
+                "known_for_department": "Sound",
+                "name": "Fox",
+                "original_name": "Fox",
+                "popularity": 0.6,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Hollywood Revue",
-            "second_label": "Metro-Goldwyn-Mayer",
+            "first_label": "Metro-Goldwyn-Mayer",
+            "second_label": "Hollywood Revue",
             "category": "Outstanding Picture",
             "year": 1930,
             "tmdb": {
-                "id": 31678,
-                "original_title": "The Hollywood Revue of 1929",
-                "title": "The Hollywood Revue of 1929",
-                "release_date": "1929-11-23",
-                "backdrop_path": "/eq7BuTJlbcGaF5UKNDwkr49e0fL.jpg",
-                "poster_path": "/gYre8eBK0sQZ4c5vtGWUPXOAehd.jpg",
-                "overview": "An all-star revue featuring MGM contract players.",
-                "vote_average": 5.6,
-                "vote_count": 24
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 31678,
+                    "original_title": "The Hollywood Revue of 1929",
+                    "title": "The Hollywood Revue of 1929",
+                    "release_date": "1929-11-23",
+                    "backdrop_path": "/eq7BuTJlbcGaF5UKNDwkr49e0fL.jpg",
+                    "poster_path": "/gYre8eBK0sQZ4c5vtGWUPXOAehd.jpg",
+                    "overview": "An all-star revue featuring MGM contract players.",
+                    "vote_average": 5.6,
+                    "vote_count": 24,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "The Patriot",
-            "second_label": "Paramount Famous Lasky",
+            "first_label": "Paramount Famous Lasky",
+            "second_label": "The Patriot",
             "category": "Outstanding Picture",
             "year": 1930,
             "tmdb": {
-                "error": "no ID found"
+                "error": "no ID found",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": false
         }
     ],
     "Writing": [
         {
-            "first_label": "The Patriot",
-            "second_label": "Hans Kraly",
+            "first_label": "Hans Kraly",
+            "second_label": "The Patriot",
             "category": "Writing",
             "year": 1930,
             "tmdb": {
-                "error": "no ID found"
+                "id": 2098275,
+                "gender": 0,
+                "known_for_department": "Writing",
+                "name": "Hans Kraly",
+                "original_name": "Hans Kraly",
+                "popularity": 0.6,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": true
         },
         {
-            "first_label": "The Valiant",
-            "second_label": "Tom Barry",
+            "first_label": "Tom Barry",
+            "second_label": "The Valiant",
             "category": "Writing",
             "year": 1930,
             "tmdb": {
-                "id": 113207,
-                "original_title": "The Valiant",
-                "title": "The Valiant",
-                "release_date": "1929-05-19",
-                "backdrop_path": "/emEDlqL40VsFAttXvVS8zrpYXKr.jpg",
-                "poster_path": "/m9c3ZNBjtEh5gvg2ixYVbXLgPCi.jpg",
-                "overview": "A man condemned to execution tries to convince two women that he is not their son and brother, and that they must get on with their lives.",
-                "vote_average": 5.6,
-                "vote_count": 11
+                "id": 930394,
+                "gender": 0,
+                "known_for_department": "Writing",
+                "name": "Tom Barry",
+                "original_name": "Tom Barry",
+                "popularity": 1.565,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "id": 113207,
+                    "original_title": "The Valiant",
+                    "title": "The Valiant",
+                    "release_date": "1929-05-19",
+                    "backdrop_path": "/emEDlqL40VsFAttXvVS8zrpYXKr.jpg",
+                    "poster_path": "/m9c3ZNBjtEh5gvg2ixYVbXLgPCi.jpg",
+                    "overview": "A man condemned to execution tries to convince two women that he is not their son and brother, and that they must get on with their lives.",
+                    "vote_average": 5.6,
+                    "vote_count": 11,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "In Old Arizona",
-            "second_label": "Tom Barry",
+            "first_label": "Tom Barry",
+            "second_label": "In Old Arizona",
             "category": "Writing",
             "year": 1930,
             "tmdb": {
-                "error": "no ID found"
+                "id": 930394,
+                "gender": 0,
+                "known_for_department": "Writing",
+                "name": "Tom Barry",
+                "original_name": "Tom Barry",
+                "popularity": 1.565,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "The Leatherneck",
-            "second_label": "Elliott Clawson",
+            "first_label": "Elliott Clawson",
+            "second_label": "The Leatherneck",
             "category": "Writing",
             "year": 1930,
             "tmdb": {
-                "id": 173572,
-                "original_title": "The Leatherneck",
-                "title": "The Leatherneck",
-                "release_date": "1929-02-24",
-                "backdrop_path": "/jFTY95sjvn5ismXziHlP46kzUYF.jpg",
-                "poster_path": "/dptsjP73Ihbe2cXbagVBXjxyy73.jpg",
-                "overview": "A film about male bonding. At the end of WW I, two Americans befriend a simple minded German and win him over into becoming an American. All three are still peacetime officers in the US Marines when an unscrupulous character steals Boyd's girl and his two buddies go off to rescue her. When they don't come back, Boyd goes after them to rescue all. This is all done in flashback from a court martial trial for desertion.",
-                "vote_average": 5.5,
-                "vote_count": 6
+                "id": 98005,
+                "gender": 2,
+                "known_for_department": "Writing",
+                "name": "Elliott J. Clawson",
+                "original_name": "Elliott J. Clawson",
+                "popularity": 2.804,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "id": 173572,
+                    "original_title": "The Leatherneck",
+                    "title": "The Leatherneck",
+                    "release_date": "1929-02-24",
+                    "backdrop_path": "/jFTY95sjvn5ismXziHlP46kzUYF.jpg",
+                    "poster_path": "/dptsjP73Ihbe2cXbagVBXjxyy73.jpg",
+                    "overview": "A film about male bonding. At the end of WW I, two Americans befriend a simple minded German and win him over into becoming an American. All three are still peacetime officers in the US Marines when an unscrupulous character steals Boyd's girl and his two buddies go off to rescue her. When they don't come back, Boyd goes after them to rescue all. This is all done in flashback from a court martial trial for desertion.",
+                    "vote_average": 5.5,
+                    "vote_count": 6,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Sal of Singapore",
-            "second_label": "Elliott Clawson",
+            "first_label": "Elliott Clawson",
+            "second_label": "Sal of Singapore",
             "category": "Writing",
             "year": 1930,
             "tmdb": {
-                "error": "no ID found"
+                "id": 98005,
+                "gender": 2,
+                "known_for_department": "Writing",
+                "name": "Elliott J. Clawson",
+                "original_name": "Elliott J. Clawson",
+                "popularity": 2.804,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Skyscraper",
-            "second_label": "Elliott Clawson",
+            "first_label": "Elliott Clawson",
+            "second_label": "Skyscraper",
             "category": "Writing",
             "year": 1930,
             "tmdb": {
-                "id": 190305,
-                "original_title": "Skyscraper Symphony",
-                "title": "Skyscraper Symphony",
-                "release_date": "1929-04-30",
-                "backdrop_path": "/sk2NxyE1aPvnNsIje4E7ACyzbCJ.jpg",
-                "poster_path": "/eiBkaxR5psPXrZtX25ZabRaMrON.jpg",
-                "overview": "A montage of the skyscrapers of Manhattan opens with a succession of stationary views of the upper portions of numerous buildings. This is followed by a wide variety of fluid shots, which also begin to show more and more of the surrounding city, in addition to the skyscrapers themselves.",
-                "vote_average": 5.8,
-                "vote_count": 18
+                "id": 98005,
+                "gender": 2,
+                "known_for_department": "Writing",
+                "name": "Elliott J. Clawson",
+                "original_name": "Elliott J. Clawson",
+                "popularity": 2.804,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "id": 190305,
+                    "original_title": "Skyscraper Symphony",
+                    "title": "Skyscraper Symphony",
+                    "release_date": "1929-04-30",
+                    "backdrop_path": "/sk2NxyE1aPvnNsIje4E7ACyzbCJ.jpg",
+                    "poster_path": "/eiBkaxR5psPXrZtX25ZabRaMrON.jpg",
+                    "overview": "A montage of the skyscrapers of Manhattan opens with a succession of stationary views of the upper portions of numerous buildings. This is followed by a wide variety of fluid shots, which also begin to show more and more of the surrounding city, in addition to the skyscrapers themselves.",
+                    "vote_average": 5.8,
+                    "vote_count": 19,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "The Cop",
-            "second_label": "Elliott Clawson",
+            "first_label": "Elliott Clawson",
+            "second_label": "The Cop",
             "category": "Writing",
             "year": 1930,
             "tmdb": {
-                "id": 787555,
-                "original_title": "La copla andaluza",
-                "title": "The Andalusian Couplet",
-                "release_date": "1929-11-27",
-                "backdrop_path": null,
-                "poster_path": null,
-                "overview": "",
-                "vote_average": 0.0,
-                "vote_count": 0
+                "id": 98005,
+                "gender": 2,
+                "known_for_department": "Writing",
+                "name": "Elliott J. Clawson",
+                "original_name": "Elliott J. Clawson",
+                "popularity": 2.804,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "id": 787555,
+                    "original_title": "La copla andaluza",
+                    "title": "The Andalusian Couplet",
+                    "release_date": "1929-11-27",
+                    "backdrop_path": null,
+                    "poster_path": null,
+                    "overview": "",
+                    "vote_average": 0.0,
+                    "vote_count": 0,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "The Last of Mrs. Cheyney",
-            "second_label": "Hans Kraly",
+            "first_label": "Hans Kraly",
+            "second_label": "The Last of Mrs. Cheyney",
             "category": "Writing",
             "year": 1930,
             "tmdb": {
-                "id": 246292,
-                "original_title": "The Last of Mrs. Cheyney",
-                "title": "The Last of Mrs. Cheyney",
-                "release_date": "1929-07-06",
-                "backdrop_path": "/sbMPatCBkJM25bXNpBqS6sS9oCa.jpg",
-                "poster_path": "/rqCEIEtvVVpW3yltemtU9HpHfNu.jpg",
-                "overview": "There is a big charity function at the house of Mrs. Cheyney and a lot of society is present. With her rich husband, deceased, rich old Lord Elton and playboy Lord Arthur Dilling are both very interested in the mysterious Fay. Invited to the house of Mrs. Webley, Fay is again the center of attention for Arthur and Elton with her leaning towards stuffy old Elton. When Arthur sees Charles, Fay's Butler, lurking in the gardens, he remembers that Charles was a thief caught in Monte Carlo and he figures that Fay may be more interested in the pearls of Mrs. Webley, which she is. After Fay takes the pearls, but before she can toss them out the window, she is caught by Arthur who is very disappointed in how things are turning out.",
-                "vote_average": 5.4,
-                "vote_count": 8
+                "id": 2098275,
+                "gender": 0,
+                "known_for_department": "Writing",
+                "name": "Hans Kraly",
+                "original_name": "Hans Kraly",
+                "popularity": 0.6,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "id": 246292,
+                    "original_title": "The Last of Mrs. Cheyney",
+                    "title": "The Last of Mrs. Cheyney",
+                    "release_date": "1929-07-06",
+                    "backdrop_path": "/sbMPatCBkJM25bXNpBqS6sS9oCa.jpg",
+                    "poster_path": "/rqCEIEtvVVpW3yltemtU9HpHfNu.jpg",
+                    "overview": "There is a big charity function at the house of Mrs. Cheyney and a lot of society is present. With her rich husband, deceased, rich old Lord Elton and playboy Lord Arthur Dilling are both very interested in the mysterious Fay. Invited to the house of Mrs. Webley, Fay is again the center of attention for Arthur and Elton with her leaning towards stuffy old Elton. When Arthur sees Charles, Fay's Butler, lurking in the gardens, he remembers that Charles was a thief caught in Monte Carlo and he figures that Fay may be more interested in the pearls of Mrs. Webley, which she is. After Fay takes the pearls, but before she can toss them out the window, she is caught by Arthur who is very disappointed in how things are turning out.",
+                    "vote_average": 5.4,
+                    "vote_count": 8,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Our Dancing Daughters",
-            "second_label": "Josephine Lovett",
+            "first_label": "Josephine Lovett",
+            "second_label": "Our Dancing Daughters",
             "category": "Writing",
             "year": 1930,
             "tmdb": {
-                "error": "no ID found"
+                "id": 145830,
+                "gender": 1,
+                "known_for_department": "Writing",
+                "name": "Josephine Lovett",
+                "original_name": "Josephine Lovett",
+                "popularity": 1.4,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Wonder of Women",
-            "second_label": "Bess Meredyth",
+            "first_label": "Bess Meredyth",
+            "second_label": "Wonder of Women",
             "category": "Writing",
             "year": 1930,
             "tmdb": {
-                "id": 173573,
-                "original_title": "Wonder of Women",
-                "title": "O Prod\u00edgio das Mulheres",
-                "release_date": "1929-07-13",
-                "backdrop_path": null,
-                "poster_path": "/mhJ0GERkSHhgEqkn1A0uLUlzCaX.jpg",
-                "overview": "A German pianist is going to break up with his unfaithful wife, when he receives the message that his favourite stepchild has died. This film is believed lost.",
-                "vote_average": 1.0,
-                "vote_count": 1
+                "id": 103049,
+                "gender": 1,
+                "known_for_department": "Writing",
+                "name": "Bess Meredyth",
+                "original_name": "Bess Meredyth",
+                "popularity": 2.695,
+                "profile_path": "/nc9v4kipjJUZ9viHEplGqrDushG.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 173573,
+                    "original_title": "Wonder of Women",
+                    "title": "O Prod\u00edgio das Mulheres",
+                    "release_date": "1929-07-13",
+                    "backdrop_path": null,
+                    "poster_path": "/mhJ0GERkSHhgEqkn1A0uLUlzCaX.jpg",
+                    "overview": "A German pianist is going to break up with his unfaithful wife, when he receives the message that his favourite stepchild has died. This film is believed lost.",
+                    "vote_average": 1.0,
+                    "vote_count": 1,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "A Woman of Affairs",
-            "second_label": "Bess Meredyth",
+            "first_label": "Bess Meredyth",
+            "second_label": "A Woman of Affairs",
             "category": "Writing",
             "year": 1930,
             "tmdb": {
-                "error": "no ID found"
+                "id": 103049,
+                "gender": 1,
+                "known_for_department": "Writing",
+                "name": "Bess Meredyth",
+                "original_name": "Bess Meredyth",
+                "popularity": 2.695,
+                "profile_path": "/nc9v4kipjJUZ9viHEplGqrDushG.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": false
         }

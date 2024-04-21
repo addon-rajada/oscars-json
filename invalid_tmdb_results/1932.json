@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Jackie Cooper",
+        "year": 1932,
+        "result": {
+            "id": 162620,
+            "original_title": "The Christmas Party",
+            "title": "The Christmas Party",
+            "release_date": "1931-12-17",
+            "backdrop_path": null,
+            "poster_path": "/xnnaN6KYuuSj4mTTnfDmG3ty0wQ.jpg",
+            "overview": "In this holiday short, Jackie Cooper wants to throw a Christmas party for his friends on his football team but doesn't know how to go about it. His fellow stars at MGM help him out.",
+            "vote_average": 5.4,
+            "vote_count": 6,
+            "result_type": "movie"
+        }
+    },
+    {
+        "title": "Fox",
+        "year": 1932,
+        "result": {
+            "id": 162693,
+            "original_title": "Bosko's Fox Hunt",
+            "title": "Bosko's Fox Hunt",
+            "release_date": "1931-12-12",
+            "backdrop_path": null,
+            "poster_path": "/j7aRymlFwdfGiccg2TTrFs7a6Si.jpg",
+            "overview": "Bosko joins a wacky fox hunt. But if the hunt worries anyone, it isn't the fox.",
+            "vote_average": 4.7,
+            "vote_count": 7,
+            "result_type": "movie"
+        }
+    }
+]

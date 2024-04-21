@@ -6,7 +6,26 @@
             "category": "Actor",
             "year": 1929,
             "tmdb": {
-                "error": "no ID found"
+                "id": 2895,
+                "gender": 2,
+                "known_for_department": "Acting",
+                "name": "Emil Jannings",
+                "original_name": "Emil Jannings",
+                "popularity": 9.194,
+                "profile_path": "/yX7AFfYgYit6WlPshockLsP40LB.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 52679,
+                    "original_title": "The Last Command",
+                    "title": "A \u00daltima Ordem",
+                    "release_date": "1928-01-21",
+                    "backdrop_path": "/n3rEkTewthP1VIhwTCaJXYrEE0n.jpg",
+                    "poster_path": "/uKb5bFIwEzDtT3km99lqQBGNFCx.jpg",
+                    "overview": "General Czarista, respons\u00e1vel pela queda do Imp\u00e9rio Russo, \u00e9 deposto do cargo. Mais tarde, antigo advers\u00e1rio o contrata para dar continuidade aos seus ideias revolucion\u00e1rios.",
+                    "vote_average": 7.3,
+                    "vote_count": 71,
+                    "result_type": "movie"
+                }
             },
             "winner": true
         },
@@ -16,7 +35,17 @@
             "category": "Actor",
             "year": 1929,
             "tmdb": {
-                "error": "no ID found"
+                "id": 2895,
+                "gender": 2,
+                "known_for_department": "Acting",
+                "name": "Emil Jannings",
+                "original_name": "Emil Jannings",
+                "popularity": 9.194,
+                "profile_path": "/yX7AFfYgYit6WlPshockLsP40LB.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": false
         },
@@ -26,7 +55,26 @@
             "category": "Actor",
             "year": 1929,
             "tmdb": {
-                "error": "no ID found"
+                "id": 13789,
+                "gender": 2,
+                "known_for_department": "Acting",
+                "name": "Richard Barthelmess",
+                "original_name": "Richard Barthelmess",
+                "popularity": 3.732,
+                "profile_path": "/p7nmZeuQjHOsNFgqgEXBdh78OSC.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 113167,
+                    "original_title": "The Noose",
+                    "title": "The Noose",
+                    "release_date": "1928-01-29",
+                    "backdrop_path": "/kk4ISHggNvASXYEVThUpvtYRnFT.jpg",
+                    "poster_path": "/hheIsv2RAp8htWZspOPPEcEdlTL.jpg",
+                    "overview": "In this suspenseful silent crime drama, a hijacker proves his loyalty to his mother by killing his biological father, a blackmailing gangster who has been threatening to destroy the mother's happy marriage to the governor.",
+                    "vote_average": 0.0,
+                    "vote_count": 0,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
@@ -36,7 +84,17 @@
             "category": "Actor",
             "year": 1929,
             "tmdb": {
-                "error": "no ID found"
+                "id": 13789,
+                "gender": 2,
+                "known_for_department": "Acting",
+                "name": "Richard Barthelmess",
+                "original_name": "Richard Barthelmess",
+                "popularity": 3.732,
+                "profile_path": "/p7nmZeuQjHOsNFgqgEXBdh78OSC.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": false
         }
@@ -48,7 +106,17 @@
             "category": "Actress",
             "year": 1929,
             "tmdb": {
-                "error": "no ID found"
+                "id": 9088,
+                "gender": 1,
+                "known_for_department": "Acting",
+                "name": "Janet Gaynor",
+                "original_name": "Janet Gaynor",
+                "popularity": 12.183,
+                "profile_path": "/kwyClWei18GOssMPbrs4RL61izG.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": true
         },
@@ -58,7 +126,26 @@
             "category": "Actress",
             "year": 1929,
             "tmdb": {
-                "error": "no ID found"
+                "id": 9088,
+                "gender": 1,
+                "known_for_department": "Acting",
+                "name": "Janet Gaynor",
+                "original_name": "Janet Gaynor",
+                "popularity": 12.183,
+                "profile_path": "/kwyClWei18GOssMPbrs4RL61izG.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 28391,
+                    "original_title": "Street Angel",
+                    "title": "Street Angel",
+                    "release_date": "1928-04-09",
+                    "backdrop_path": "/vW6MatSQJ0vi24ZdicPTPjGS4yC.jpg",
+                    "poster_path": "/rGDFZRIwZPYocBvspSB7RGQMzXq.jpg",
+                    "overview": "A spirited young woman finds herself destitute and on the streets before joining a traveling carnival, where she meets a vagabond painter.",
+                    "vote_average": 7.0,
+                    "vote_count": 47,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
@@ -68,7 +155,26 @@
             "category": "Actress",
             "year": 1929,
             "tmdb": {
-                "error": "no ID found"
+                "id": 9088,
+                "gender": 1,
+                "known_for_department": "Acting",
+                "name": "Janet Gaynor",
+                "original_name": "Janet Gaynor",
+                "popularity": 12.183,
+                "profile_path": "/kwyClWei18GOssMPbrs4RL61izG.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 631,
+                    "original_title": "Sunrise: A Song of Two Humans",
+                    "title": "Aurora",
+                    "release_date": "1927-11-04",
+                    "backdrop_path": "/hKrrCigPFmhv1bg5IJl9nzjEaN4.jpg",
+                    "poster_path": "/6e1hOqype0HxfyADXvzVPywvZx3.jpg",
+                    "overview": "Seduzido por uma mo\u00e7a da cidade, um fazendeiro tenta afogar sua mulher, mas desiste no \u00faltimo momento. Esta foge para a cidade, mas ele a segue para provar o seu amor.",
+                    "vote_average": 7.9,
+                    "vote_count": 752,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
@@ -78,7 +184,26 @@
             "category": "Actress",
             "year": 1929,
             "tmdb": {
-                "error": "no ID found"
+                "id": 146141,
+                "gender": 1,
+                "known_for_department": "Acting",
+                "name": "Louise Dresser",
+                "original_name": "Louise Dresser",
+                "popularity": 5.117,
+                "profile_path": "/i7NYAqqzY6uhI0IEcwPeYP9tNKt.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 104212,
+                    "original_title": "A Ship Comes In",
+                    "title": "A Ship Comes In",
+                    "release_date": "1928-01-04",
+                    "backdrop_path": null,
+                    "poster_path": "/sWoUWWoOw4zXsmUpzrgLPHzSXSv.jpg",
+                    "overview": "Film which tells the story of immigrants coming to the United States.",
+                    "vote_average": 5.6,
+                    "vote_count": 5,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
@@ -88,253 +213,432 @@
             "category": "Actress",
             "year": 1929,
             "tmdb": {
-                "error": "no ID found"
+                "id": 8629,
+                "gender": 1,
+                "known_for_department": "Acting",
+                "name": "Gloria Swanson",
+                "original_name": "Gloria Swanson",
+                "popularity": 16.393,
+                "profile_path": "/akmlp75ESHjtGOVtOCfJYxkX4eo.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 42538,
+                    "original_title": "Sadie Thompson",
+                    "title": "Sadie Thompson",
+                    "release_date": "1928-01-07",
+                    "backdrop_path": "/t3toEFst66ULjuLJdLFSFxCPgxI.jpg",
+                    "poster_path": "/7IHxSWO4paEcPiuh515L4fzJDZx.jpg",
+                    "overview": "A young, beautiful prostitute named Sadie Thompson arrives on the South Pacific island of Pago Pago looking for honest work and falls for Timothy O'Hara, an American sailor who is unfazed by her unsavory past. However, Mr. Davidson, a missionary who arrived on the island at the same time, aims to \"save\" Sadie from her sinful life and petitions to have her separated from her beau and deported back to San Francisco.",
+                    "vote_average": 6.8,
+                    "vote_count": 29,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         }
     ],
     "Art Direction": [
         {
-            "first_label": "The Dove",
-            "second_label": "William Cameron Menzies",
+            "first_label": "William Cameron Menzies",
+            "second_label": "The Dove",
             "category": "Art Direction",
             "year": 1929,
             "tmdb": {
-                "error": "no ID found"
+                "id": 11489,
+                "gender": 2,
+                "known_for_department": "Art",
+                "name": "William Cameron Menzies",
+                "original_name": "William Cameron Menzies",
+                "popularity": 5.083,
+                "profile_path": "/ydx0eRPERKg6oD9r3horgYGJkaK.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": true
         },
         {
-            "first_label": "Tempest",
-            "second_label": "William Cameron Menzies",
+            "first_label": "William Cameron Menzies",
+            "second_label": "Tempest",
             "category": "Art Direction",
             "year": 1929,
             "tmdb": {
-                "id": 79757,
-                "original_title": "Tempest",
-                "title": "Tempest",
-                "release_date": "1928-05-27",
-                "backdrop_path": "/rBuwI3hF9rKO048J2qoprWM98cZ.jpg",
-                "poster_path": "/wiLMPhiLuo9FV5gPmhpAtbnJPqD.jpg",
-                "overview": "In the final days of Czarist Russia, a peasant is raised from the ranks to Lieutenant. The other officers, aristocrats all, resent him, and make his life difficult. He falls in love with a princess, who spurns him. When he is caught in her room, he is stripped of his rank and thrown into prison. Then comes the Red Terror, and the tables are turned.",
-                "vote_average": 6.4,
-                "vote_count": 11
+                "id": 11489,
+                "gender": 2,
+                "known_for_department": "Art",
+                "name": "William Cameron Menzies",
+                "original_name": "William Cameron Menzies",
+                "popularity": 5.083,
+                "profile_path": "/ydx0eRPERKg6oD9r3horgYGJkaK.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 79757,
+                    "original_title": "Tempest",
+                    "title": "Tempest",
+                    "release_date": "1928-05-27",
+                    "backdrop_path": "/rBuwI3hF9rKO048J2qoprWM98cZ.jpg",
+                    "poster_path": "/wiLMPhiLuo9FV5gPmhpAtbnJPqD.jpg",
+                    "overview": "In the final days of Czarist Russia, a peasant is raised from the ranks to Lieutenant. The other officers, aristocrats all, resent him, and make his life difficult. He falls in love with a princess, who spurns him. When he is caught in her room, he is stripped of his rank and thrown into prison. Then comes the Red Terror, and the tables are turned.",
+                    "vote_average": 6.4,
+                    "vote_count": 11,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Sunrise",
-            "second_label": "Rochus Gliese",
+            "first_label": "Rochus Gliese",
+            "second_label": "Sunrise",
             "category": "Art Direction",
             "year": 1929,
             "tmdb": {
-                "id": 631,
-                "original_title": "Sunrise: A Song of Two Humans",
-                "title": "Aurora",
-                "release_date": "1927-11-04",
-                "backdrop_path": "/hKrrCigPFmhv1bg5IJl9nzjEaN4.jpg",
-                "poster_path": "/6e1hOqype0HxfyADXvzVPywvZx3.jpg",
-                "overview": "Seduzido por uma mo\u00e7a da cidade, um fazendeiro tenta afogar sua mulher, mas desiste no \u00faltimo momento. Esta foge para a cidade, mas ele a segue para provar o seu amor.",
-                "vote_average": 7.9,
-                "vote_count": 750
+                "id": 9083,
+                "gender": 2,
+                "known_for_department": "Art",
+                "name": "Rochus Gliese",
+                "original_name": "Rochus Gliese",
+                "popularity": 3.574,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "id": 631,
+                    "original_title": "Sunrise: A Song of Two Humans",
+                    "title": "Aurora",
+                    "release_date": "1927-11-04",
+                    "backdrop_path": "/hKrrCigPFmhv1bg5IJl9nzjEaN4.jpg",
+                    "poster_path": "/6e1hOqype0HxfyADXvzVPywvZx3.jpg",
+                    "overview": "Seduzido por uma mo\u00e7a da cidade, um fazendeiro tenta afogar sua mulher, mas desiste no \u00faltimo momento. Esta foge para a cidade, mas ele a segue para provar o seu amor.",
+                    "vote_average": 7.9,
+                    "vote_count": 752,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "7th Heaven",
-            "second_label": "Harry Oliver",
+            "first_label": "Harry Oliver",
+            "second_label": "7th Heaven",
             "category": "Art Direction",
             "year": 1929,
             "tmdb": {
-                "error": "no ID found"
+                "id": 2424376,
+                "gender": 0,
+                "known_for_department": "Art",
+                "name": "Harry Oliver",
+                "original_name": "Harry Oliver",
+                "popularity": 0.6,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": false
         }
     ],
     "Cinematography": [
         {
-            "first_label": "Sunrise",
-            "second_label": "Charles Rosher",
+            "first_label": "Charles Rosher",
+            "second_label": "Sunrise",
             "category": "Cinematography",
             "year": 1929,
             "tmdb": {
-                "id": 631,
-                "original_title": "Sunrise: A Song of Two Humans",
-                "title": "Aurora",
-                "release_date": "1927-11-04",
-                "backdrop_path": "/hKrrCigPFmhv1bg5IJl9nzjEaN4.jpg",
-                "poster_path": "/6e1hOqype0HxfyADXvzVPywvZx3.jpg",
-                "overview": "Seduzido por uma mo\u00e7a da cidade, um fazendeiro tenta afogar sua mulher, mas desiste no \u00faltimo momento. Esta foge para a cidade, mas ele a segue para provar o seu amor.",
-                "vote_average": 7.9,
-                "vote_count": 750
+                "id": 9080,
+                "gender": 2,
+                "known_for_department": "Camera",
+                "name": "Charles Rosher",
+                "original_name": "Charles Rosher",
+                "popularity": 1.79,
+                "profile_path": "/dNa69wMMOdGkhdcVErxEeKLHfDx.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 631,
+                    "original_title": "Sunrise: A Song of Two Humans",
+                    "title": "Aurora",
+                    "release_date": "1927-11-04",
+                    "backdrop_path": "/hKrrCigPFmhv1bg5IJl9nzjEaN4.jpg",
+                    "poster_path": "/6e1hOqype0HxfyADXvzVPywvZx3.jpg",
+                    "overview": "Seduzido por uma mo\u00e7a da cidade, um fazendeiro tenta afogar sua mulher, mas desiste no \u00faltimo momento. Esta foge para a cidade, mas ele a segue para provar o seu amor.",
+                    "vote_average": 7.9,
+                    "vote_count": 752,
+                    "result_type": "movie"
+                }
             },
             "winner": true
         },
         {
-            "first_label": "Sunrise",
-            "second_label": "Karl Struss",
+            "first_label": "Karl Struss",
+            "second_label": "Sunrise",
             "category": "Cinematography",
             "year": 1929,
             "tmdb": {
-                "id": 631,
-                "original_title": "Sunrise: A Song of Two Humans",
-                "title": "Aurora",
-                "release_date": "1927-11-04",
-                "backdrop_path": "/hKrrCigPFmhv1bg5IJl9nzjEaN4.jpg",
-                "poster_path": "/6e1hOqype0HxfyADXvzVPywvZx3.jpg",
-                "overview": "Seduzido por uma mo\u00e7a da cidade, um fazendeiro tenta afogar sua mulher, mas desiste no \u00faltimo momento. Esta foge para a cidade, mas ele a segue para provar o seu amor.",
-                "vote_average": 7.9,
-                "vote_count": 750
+                "id": 9081,
+                "gender": 2,
+                "known_for_department": "Camera",
+                "name": "Karl Struss",
+                "original_name": "Karl Struss",
+                "popularity": 1.07,
+                "profile_path": "/bWIt5hnn3pV0p3M8MQcVibT3M6C.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 631,
+                    "original_title": "Sunrise: A Song of Two Humans",
+                    "title": "Aurora",
+                    "release_date": "1927-11-04",
+                    "backdrop_path": "/hKrrCigPFmhv1bg5IJl9nzjEaN4.jpg",
+                    "poster_path": "/6e1hOqype0HxfyADXvzVPywvZx3.jpg",
+                    "overview": "Seduzido por uma mo\u00e7a da cidade, um fazendeiro tenta afogar sua mulher, mas desiste no \u00faltimo momento. Esta foge para a cidade, mas ele a segue para provar o seu amor.",
+                    "vote_average": 7.9,
+                    "vote_count": 752,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "The Devil Dancer",
-            "second_label": "George Barnes",
+            "first_label": "George Barnes",
+            "second_label": "The Devil Dancer",
             "category": "Cinematography",
             "year": 1929,
             "tmdb": {
-                "error": "no ID found"
+                "id": 3356,
+                "gender": 2,
+                "known_for_department": "Camera",
+                "name": "George Barnes",
+                "original_name": "George Barnes",
+                "popularity": 1.381,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "The Magic Flame",
-            "second_label": "George Barnes",
+            "first_label": "George Barnes",
+            "second_label": "The Magic Flame",
             "category": "Cinematography",
             "year": 1929,
             "tmdb": {
-                "id": 171343,
-                "original_title": "The Magic Flame",
-                "title": "The Magic Flame",
-                "release_date": "1927-09-17",
-                "backdrop_path": null,
-                "poster_path": "/arrE0FBEYBdJVRYyH6TrLl5O06U.jpg",
-                "overview": "The Magic Flame (1927) is a feature film directed by Henry King, produced by Samuel Goldwyn, and based on the play Konig Harlekin by Rudolph Lothar. George Barnes was nominated at the 1st Academy Awards for Best Cinematography. The film promoted itself as the Romeo and Juliet of the circus upon its release.",
-                "vote_average": 5.0,
-                "vote_count": 1
+                "id": 3356,
+                "gender": 2,
+                "known_for_department": "Camera",
+                "name": "George Barnes",
+                "original_name": "George Barnes",
+                "popularity": 1.381,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "id": 171343,
+                    "original_title": "The Magic Flame",
+                    "title": "The Magic Flame",
+                    "release_date": "1927-09-17",
+                    "backdrop_path": null,
+                    "poster_path": "/arrE0FBEYBdJVRYyH6TrLl5O06U.jpg",
+                    "overview": "The Magic Flame (1927) is a feature film directed by Henry King, produced by Samuel Goldwyn, and based on the play Konig Harlekin by Rudolph Lothar. George Barnes was nominated at the 1st Academy Awards for Best Cinematography. The film promoted itself as the Romeo and Juliet of the circus upon its release.",
+                    "vote_average": 5.0,
+                    "vote_count": 1,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Sadie Thompson",
-            "second_label": "George Barnes",
+            "first_label": "George Barnes",
+            "second_label": "Sadie Thompson",
             "category": "Cinematography",
             "year": 1929,
             "tmdb": {
-                "id": 42538,
-                "original_title": "Sadie Thompson",
-                "title": "Sadie Thompson",
-                "release_date": "1928-01-07",
-                "backdrop_path": "/t3toEFst66ULjuLJdLFSFxCPgxI.jpg",
-                "poster_path": "/7IHxSWO4paEcPiuh515L4fzJDZx.jpg",
-                "overview": "A young, beautiful prostitute named Sadie Thompson arrives on the South Pacific island of Pago Pago looking for honest work and falls for Timothy O'Hara, an American sailor who is unfazed by her unsavory past. However, Mr. Davidson, a missionary who arrived on the island at the same time, aims to \"save\" Sadie from her sinful life and petitions to have her separated from her beau and deported back to San Francisco.",
-                "vote_average": 6.8,
-                "vote_count": 29
+                "id": 3356,
+                "gender": 2,
+                "known_for_department": "Camera",
+                "name": "George Barnes",
+                "original_name": "George Barnes",
+                "popularity": 1.381,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "id": 42538,
+                    "original_title": "Sadie Thompson",
+                    "title": "Sadie Thompson",
+                    "release_date": "1928-01-07",
+                    "backdrop_path": "/t3toEFst66ULjuLJdLFSFxCPgxI.jpg",
+                    "poster_path": "/7IHxSWO4paEcPiuh515L4fzJDZx.jpg",
+                    "overview": "A young, beautiful prostitute named Sadie Thompson arrives on the South Pacific island of Pago Pago looking for honest work and falls for Timothy O'Hara, an American sailor who is unfazed by her unsavory past. However, Mr. Davidson, a missionary who arrived on the island at the same time, aims to \"save\" Sadie from her sinful life and petitions to have her separated from her beau and deported back to San Francisco.",
+                    "vote_average": 6.8,
+                    "vote_count": 29,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         }
     ],
     "Directing (Comedy Picture)": [
         {
-            "first_label": "Two Arabian Knights",
-            "second_label": "Lewis Milestone",
+            "first_label": "Lewis Milestone",
+            "second_label": "Two Arabian Knights",
             "category": "Directing (Comedy Picture)",
             "year": 1929,
             "tmdb": {
-                "error": "no ID found"
+                "id": 2000,
+                "gender": 2,
+                "known_for_department": "Directing",
+                "name": "Lewis Milestone",
+                "original_name": "Lewis Milestone",
+                "popularity": 4.976,
+                "profile_path": "/zcbvWlJTkFcVJ86Yjsvx82Mjgul.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": true
         },
         {
-            "first_label": "Speedy",
-            "second_label": "Ted Wilde",
+            "first_label": "Ted Wilde",
+            "second_label": "Speedy",
             "category": "Directing (Comedy Picture)",
             "year": 1929,
             "tmdb": {
-                "id": 22595,
-                "original_title": "Speedy",
-                "title": "O \u00c1s da Velocidade",
-                "release_date": "1928-04-07",
-                "backdrop_path": "/6NfwgI1eKHfprTv1nMqVUVi0Otq.jpg",
-                "poster_path": "/A8D7JFVDyPRwgEWuiBzCSrzxdFb.jpg",
-                "overview": "Depois de perder seu emprego, Speedy come\u00e7a a trabalhar como motorista de t\u00e1xi. Ele descobre um esquema da companhia de trens para acabar com os bondes puxados a cavalo. Os bondes pertencem ao pai da sua namorada, ent\u00e3o Speedy organiza os moradores mais antigos do bairro para tentar impedir os planos da companhia de trens.",
-                "vote_average": 7.3,
-                "vote_count": 81
+                "id": 143558,
+                "gender": 2,
+                "known_for_department": "Writing",
+                "name": "Ted Wilde",
+                "original_name": "Ted Wilde",
+                "popularity": 1.4,
+                "profile_path": "/xQdOal0IvpIlOnQirA8yRMVAzXy.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 22595,
+                    "original_title": "Speedy",
+                    "title": "O \u00c1s da Velocidade",
+                    "release_date": "1928-04-07",
+                    "backdrop_path": "/6NfwgI1eKHfprTv1nMqVUVi0Otq.jpg",
+                    "poster_path": "/A8D7JFVDyPRwgEWuiBzCSrzxdFb.jpg",
+                    "overview": "Depois de perder seu emprego, Speedy come\u00e7a a trabalhar como motorista de t\u00e1xi. Ele descobre um esquema da companhia de trens para acabar com os bondes puxados a cavalo. Os bondes pertencem ao pai da sua namorada, ent\u00e3o Speedy organiza os moradores mais antigos do bairro para tentar impedir os planos da companhia de trens.",
+                    "vote_average": 7.3,
+                    "vote_count": 82,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         }
     ],
     "Directing (Dramatic Picture)": [
         {
-            "first_label": "7th Heaven",
-            "second_label": "Frank Borzage",
+            "first_label": "Frank Borzage",
+            "second_label": "7th Heaven",
             "category": "Directing (Dramatic Picture)",
             "year": 1929,
             "tmdb": {
-                "error": "no ID found"
+                "id": 14855,
+                "gender": 2,
+                "known_for_department": "Directing",
+                "name": "Frank Borzage",
+                "original_name": "Frank Borzage",
+                "popularity": 7.835,
+                "profile_path": "/ban01OL4OFBDHsWkq4lEPWEtzbi.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": true
         },
         {
-            "first_label": "Sorrell and Son",
-            "second_label": "Herbert Brenon",
+            "first_label": "Herbert Brenon",
+            "second_label": "Sorrell and Son",
             "category": "Directing (Dramatic Picture)",
             "year": 1929,
             "tmdb": {
-                "id": 183587,
-                "original_title": "Sorrell and Son",
-                "title": "L\u00e1grimas de Homem",
-                "release_date": "1927-12-02",
-                "backdrop_path": "/oYvAUYpfnHvJq87uBaPRWa5lboa.jpg",
-                "poster_path": "/7IXlYJn21czo0OnXsy11eBY6KAK.jpg",
-                "overview": "Stephen Sorrell, a decorated war hero, raises his son Kit alone after Kit's mother deserts husband and child in the boy's infancy. Sorrell loses a promising job offer and is forced to take work as a menial. Both his dignity and his health are damaged as he suffers under the exhausting labor and harsh treatment he receives as a hotel porter. But Sorrell thrives in the knowledge that his son will benefit from his labors. Sorrell has allowed the boy to believe his mother dead, but when the mother shows up, wanting to re-enter the young man's life, Sorrell must make hard decisions.",
-                "vote_average": 5.0,
-                "vote_count": 1
+                "id": 930791,
+                "gender": 2,
+                "known_for_department": "Directing",
+                "name": "Herbert Brenon",
+                "original_name": "Herbert Brenon",
+                "popularity": 1.439,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "id": 183587,
+                    "original_title": "Sorrell and Son",
+                    "title": "L\u00e1grimas de Homem",
+                    "release_date": "1927-12-02",
+                    "backdrop_path": "/oYvAUYpfnHvJq87uBaPRWa5lboa.jpg",
+                    "poster_path": "/7IXlYJn21czo0OnXsy11eBY6KAK.jpg",
+                    "overview": "Stephen Sorrell, a decorated war hero, raises his son Kit alone after Kit's mother deserts husband and child in the boy's infancy. Sorrell loses a promising job offer and is forced to take work as a menial. Both his dignity and his health are damaged as he suffers under the exhausting labor and harsh treatment he receives as a hotel porter. But Sorrell thrives in the knowledge that his son will benefit from his labors. Sorrell has allowed the boy to believe his mother dead, but when the mother shows up, wanting to re-enter the young man's life, Sorrell must make hard decisions.",
+                    "vote_average": 5.0,
+                    "vote_count": 1,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "The Crowd",
-            "second_label": "King Vidor",
+            "first_label": "King Vidor",
+            "second_label": "The Crowd",
             "category": "Directing (Dramatic Picture)",
             "year": 1929,
             "tmdb": {
-                "id": 3061,
-                "original_title": "The Crowd",
-                "title": "A Turba",
-                "release_date": "1928-03-03",
-                "backdrop_path": "/8ezQueOrGZyViNqdQcxOIaGIP2v.jpg",
-                "poster_path": "/jftzHLCZLE2DOLQWY0mENOIPjxc.jpg",
-                "overview": "John Sims nasceu em 4 de julho de 1900, o que todos consideravam o pren\u00fancio de um grande futuro. Mas a morte de seu pai interrompe seus sonhos e, com mais idade, John acaba morando em Nova York. Ele se casa com Mary, mas depois de cinco anos o matrim\u00f4nio n\u00e3o est\u00e1 bem e John tem dificuldades para criar suas duas filhas.",
-                "vote_average": 7.6,
-                "vote_count": 161
+                "id": 29962,
+                "gender": 2,
+                "known_for_department": "Directing",
+                "name": "King Vidor",
+                "original_name": "King Vidor",
+                "popularity": 10.369,
+                "profile_path": "/5Xv2yy6UN45uosfCQqWfOeCFL5N.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 3061,
+                    "original_title": "The Crowd",
+                    "title": "A Turba",
+                    "release_date": "1928-03-03",
+                    "backdrop_path": "/8ezQueOrGZyViNqdQcxOIaGIP2v.jpg",
+                    "poster_path": "/jftzHLCZLE2DOLQWY0mENOIPjxc.jpg",
+                    "overview": "John Sims nasceu em 4 de julho de 1900, o que todos consideravam o pren\u00fancio de um grande futuro. Mas a morte de seu pai interrompe seus sonhos e, com mais idade, John acaba morando em Nova York. Ele se casa com Mary, mas depois de cinco anos o matrim\u00f4nio n\u00e3o est\u00e1 bem e John tem dificuldades para criar suas duas filhas.",
+                    "vote_average": 7.6,
+                    "vote_count": 162,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         }
     ],
     "Engineering Effects": [
         {
-            "first_label": "Wings",
-            "second_label": "Roy Pomeroy",
+            "first_label": "Roy Pomeroy",
+            "second_label": "Wings",
             "category": "Engineering Effects",
             "year": 1929,
             "tmdb": {
-                "id": 28966,
-                "original_title": "Wings",
-                "title": "Asas",
-                "release_date": "1927-08-12",
-                "backdrop_path": "/soJGAjMOnvHaWZvAZm7r5OMTpM4.jpg",
-                "poster_path": "/7FTi4hrKP4RRCylKdbirxhk7G5o.jpg",
-                "overview": "Jack trabalha com seu carro esporte e sonha voar. Sua vizinha Mary est\u00e1 apaixonada por ele, mas ele n\u00e3o parece estar interessado nela. Jack est\u00e1 aos encantos de Sylvia, mas n\u00e3o tem chances com ela porque Sylvia s\u00f3 tem olhos para David. Quando a guerra come\u00e7a a ecoar, Jack e David s\u00e3o treinados para serem pilotos. Sua rivalidade logo se transforma em amizade, ao longo que eles lutam contra os alem\u00e3es no c\u00e9u da Fran\u00e7a. Mary se alista no esquadr\u00e3o feminino para tentar ficar mais pr\u00f3xima de Jack. Primeiro vencedor do Oscar de Melhor Filme da hist\u00f3ria.",
-                "vote_average": 7.2,
-                "vote_count": 250
+                "id": 1173151,
+                "gender": 0,
+                "known_for_department": "Directing",
+                "name": "Roy Pomeroy",
+                "original_name": "Roy Pomeroy",
+                "popularity": 0.84,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "id": 28966,
+                    "original_title": "Wings",
+                    "title": "Asas",
+                    "release_date": "1927-08-12",
+                    "backdrop_path": "/soJGAjMOnvHaWZvAZm7r5OMTpM4.jpg",
+                    "poster_path": "/7FTi4hrKP4RRCylKdbirxhk7G5o.jpg",
+                    "overview": "Jack trabalha com seu carro esporte e sonha voar. Sua vizinha Mary est\u00e1 apaixonada por ele, mas ele n\u00e3o parece estar interessado nela. Jack est\u00e1 aos encantos de Sylvia, mas n\u00e3o tem chances com ela porque Sylvia s\u00f3 tem olhos para David. Quando a guerra come\u00e7a a ecoar, Jack e David s\u00e3o treinados para serem pilotos. Sua rivalidade logo se transforma em amizade, ao longo que eles lutam contra os alem\u00e3es no c\u00e9u da Fran\u00e7a. Mary se alista no esquadr\u00e3o feminino para tentar ficar mais pr\u00f3xima de Jack. Primeiro vencedor do Oscar de Melhor Filme da hist\u00f3ria.",
+                    "vote_average": 7.194,
+                    "vote_count": 252,
+                    "result_type": "movie"
+                }
             },
             "winner": true
         },
         {
-            "first_label": "",
-            "second_label": "Ralph Hammeras",
+            "first_label": "Ralph Hammeras",
+            "second_label": "",
             "category": "Engineering Effects",
             "year": 1929,
             "tmdb": {
@@ -343,8 +647,8 @@
             "winner": false
         },
         {
-            "first_label": "",
-            "second_label": "Nugent Slaughter",
+            "first_label": "Nugent Slaughter",
+            "second_label": "",
             "category": "Engineering Effects",
             "year": 1929,
             "tmdb": {
@@ -355,236 +659,317 @@
     ],
     "Outstanding Picture": [
         {
-            "first_label": "Wings",
-            "second_label": "Paramount Famous Lasky",
+            "first_label": "Paramount Famous Lasky",
+            "second_label": "Wings",
             "category": "Outstanding Picture",
             "year": 1929,
             "tmdb": {
-                "id": 28966,
-                "original_title": "Wings",
-                "title": "Asas",
-                "release_date": "1927-08-12",
-                "backdrop_path": "/soJGAjMOnvHaWZvAZm7r5OMTpM4.jpg",
-                "poster_path": "/7FTi4hrKP4RRCylKdbirxhk7G5o.jpg",
-                "overview": "Jack trabalha com seu carro esporte e sonha voar. Sua vizinha Mary est\u00e1 apaixonada por ele, mas ele n\u00e3o parece estar interessado nela. Jack est\u00e1 aos encantos de Sylvia, mas n\u00e3o tem chances com ela porque Sylvia s\u00f3 tem olhos para David. Quando a guerra come\u00e7a a ecoar, Jack e David s\u00e3o treinados para serem pilotos. Sua rivalidade logo se transforma em amizade, ao longo que eles lutam contra os alem\u00e3es no c\u00e9u da Fran\u00e7a. Mary se alista no esquadr\u00e3o feminino para tentar ficar mais pr\u00f3xima de Jack. Primeiro vencedor do Oscar de Melhor Filme da hist\u00f3ria.",
-                "vote_average": 7.2,
-                "vote_count": 250
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 28966,
+                    "original_title": "Wings",
+                    "title": "Asas",
+                    "release_date": "1927-08-12",
+                    "backdrop_path": "/soJGAjMOnvHaWZvAZm7r5OMTpM4.jpg",
+                    "poster_path": "/7FTi4hrKP4RRCylKdbirxhk7G5o.jpg",
+                    "overview": "Jack trabalha com seu carro esporte e sonha voar. Sua vizinha Mary est\u00e1 apaixonada por ele, mas ele n\u00e3o parece estar interessado nela. Jack est\u00e1 aos encantos de Sylvia, mas n\u00e3o tem chances com ela porque Sylvia s\u00f3 tem olhos para David. Quando a guerra come\u00e7a a ecoar, Jack e David s\u00e3o treinados para serem pilotos. Sua rivalidade logo se transforma em amizade, ao longo que eles lutam contra os alem\u00e3es no c\u00e9u da Fran\u00e7a. Mary se alista no esquadr\u00e3o feminino para tentar ficar mais pr\u00f3xima de Jack. Primeiro vencedor do Oscar de Melhor Filme da hist\u00f3ria.",
+                    "vote_average": 7.194,
+                    "vote_count": 252,
+                    "result_type": "movie"
+                }
             },
             "winner": true
         },
         {
-            "first_label": "The Racket",
-            "second_label": "The Caddo Company",
+            "first_label": "The Caddo Company",
+            "second_label": "The Racket",
             "category": "Outstanding Picture",
             "year": 1929,
             "tmdb": {
-                "id": 27777,
-                "original_title": "The Racket",
-                "title": "The Racket",
-                "release_date": "1928-11-01",
-                "backdrop_path": "/yCpYVgJH7d49vDc44SKrHLEVhcq.jpg",
-                "poster_path": "/wHAJfHslSb6OpNQmj1hu9aE9IQR.jpg",
-                "overview": "A renegade police captain sets out to catch a sadistic mob boss.",
-                "vote_average": 6.5,
-                "vote_count": 30
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 27777,
+                    "original_title": "The Racket",
+                    "title": "The Racket",
+                    "release_date": "1928-11-01",
+                    "backdrop_path": "/yCpYVgJH7d49vDc44SKrHLEVhcq.jpg",
+                    "poster_path": "/wHAJfHslSb6OpNQmj1hu9aE9IQR.jpg",
+                    "overview": "A renegade police captain sets out to catch a sadistic mob boss.",
+                    "vote_average": 6.5,
+                    "vote_count": 31,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "7th Heaven",
-            "second_label": "Fox",
+            "first_label": "Fox",
+            "second_label": "7th Heaven",
             "category": "Outstanding Picture",
             "year": 1929,
             "tmdb": {
-                "error": "no ID found"
+                "id": 2636200,
+                "gender": 0,
+                "known_for_department": "Sound",
+                "name": "Fox",
+                "original_name": "Fox",
+                "popularity": 0.6,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": false
         }
     ],
     "Special Award": [
         {
-            "first_label": "The Circus",
-            "second_label": "Special Award",
+            "first_label": "Special Award",
+            "second_label": "The Circus",
             "category": "Special Award",
             "year": 1929,
             "tmdb": {
-                "id": 28978,
-                "original_title": "The Circus",
-                "title": "O Circo",
-                "release_date": "1928-01-06",
-                "backdrop_path": "/fSu9eMwiGR7YVznegeB4JQPKgrO.jpg",
-                "poster_path": "/oUGO7ZTjXdMfsfK8dm1wgiGXVfT.jpg",
-                "overview": "Desta vez, o vagabundo Carlitos \u00e9 confundido com um ladr\u00e3o e vai se refugiar num circo, onde, de uma hora para outra, se transforma na atra\u00e7\u00e3o principal e revolta-se contra o tir\u00e2nico propriet\u00e1rio do circo.",
-                "vote_average": 8.0,
-                "vote_count": 742
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 28978,
+                    "original_title": "The Circus",
+                    "title": "O Circo",
+                    "release_date": "1928-01-06",
+                    "backdrop_path": "/fSu9eMwiGR7YVznegeB4JQPKgrO.jpg",
+                    "poster_path": "/oUGO7ZTjXdMfsfK8dm1wgiGXVfT.jpg",
+                    "overview": "Desta vez, o vagabundo Carlitos \u00e9 confundido com um ladr\u00e3o e vai se refugiar num circo, onde, de uma hora para outra, se transforma na atra\u00e7\u00e3o principal e revolta-se contra o tir\u00e2nico propriet\u00e1rio do circo.",
+                    "vote_average": 8.0,
+                    "vote_count": 744,
+                    "result_type": "movie"
+                }
             },
             "winner": true
         },
         {
-            "first_label": "The Jazz Singer",
-            "second_label": "Special Award",
+            "first_label": "Special Award",
+            "second_label": "The Jazz Singer",
             "category": "Special Award",
             "year": 1929,
             "tmdb": {
-                "id": 939,
-                "original_title": "The Jazz Singer",
-                "title": "O Cantor de Jazz",
-                "release_date": "1928-02-04",
-                "backdrop_path": "/oBNJAxtRdqa7xfhRc6LRk7AMnaa.jpg",
-                "poster_path": "/Al7yalCPkHI77GMAWmcLoYoIfeI.jpg",
-                "overview": "Um cantor de jazz enfrenta o preconceito da sua pr\u00f3pria fam\u00edlia de origem judaica para poder ter fama e reconhecimento. Primeiro filme da historia do cinema a ter o som sincronizado com as falas dos personagens.",
-                "vote_average": 6.1,
-                "vote_count": 200
+                "error": "no ID found",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": false
         }
     ],
     "Unique and Artistic Picture": [
         {
-            "first_label": "Sunrise",
-            "second_label": "Fox",
+            "first_label": "Fox",
+            "second_label": "Sunrise",
             "category": "Unique and Artistic Picture",
             "year": 1929,
             "tmdb": {
-                "id": 631,
-                "original_title": "Sunrise: A Song of Two Humans",
-                "title": "Aurora",
-                "release_date": "1927-11-04",
-                "backdrop_path": "/hKrrCigPFmhv1bg5IJl9nzjEaN4.jpg",
-                "poster_path": "/6e1hOqype0HxfyADXvzVPywvZx3.jpg",
-                "overview": "Seduzido por uma mo\u00e7a da cidade, um fazendeiro tenta afogar sua mulher, mas desiste no \u00faltimo momento. Esta foge para a cidade, mas ele a segue para provar o seu amor.",
-                "vote_average": 7.9,
-                "vote_count": 750
+                "id": 2636200,
+                "gender": 0,
+                "known_for_department": "Sound",
+                "name": "Fox",
+                "original_name": "Fox",
+                "popularity": 0.6,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "id": 631,
+                    "original_title": "Sunrise: A Song of Two Humans",
+                    "title": "Aurora",
+                    "release_date": "1927-11-04",
+                    "backdrop_path": "/hKrrCigPFmhv1bg5IJl9nzjEaN4.jpg",
+                    "poster_path": "/6e1hOqype0HxfyADXvzVPywvZx3.jpg",
+                    "overview": "Seduzido por uma mo\u00e7a da cidade, um fazendeiro tenta afogar sua mulher, mas desiste no \u00faltimo momento. Esta foge para a cidade, mas ele a segue para provar o seu amor.",
+                    "vote_average": 7.9,
+                    "vote_count": 752,
+                    "result_type": "movie"
+                }
             },
             "winner": true
         },
         {
-            "first_label": "The Crowd",
-            "second_label": "Metro-Goldwyn-Mayer",
+            "first_label": "Metro-Goldwyn-Mayer",
+            "second_label": "The Crowd",
             "category": "Unique and Artistic Picture",
             "year": 1929,
             "tmdb": {
-                "id": 3061,
-                "original_title": "The Crowd",
-                "title": "A Turba",
-                "release_date": "1928-03-03",
-                "backdrop_path": "/8ezQueOrGZyViNqdQcxOIaGIP2v.jpg",
-                "poster_path": "/jftzHLCZLE2DOLQWY0mENOIPjxc.jpg",
-                "overview": "John Sims nasceu em 4 de julho de 1900, o que todos consideravam o pren\u00fancio de um grande futuro. Mas a morte de seu pai interrompe seus sonhos e, com mais idade, John acaba morando em Nova York. Ele se casa com Mary, mas depois de cinco anos o matrim\u00f4nio n\u00e3o est\u00e1 bem e John tem dificuldades para criar suas duas filhas.",
-                "vote_average": 7.6,
-                "vote_count": 161
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 3061,
+                    "original_title": "The Crowd",
+                    "title": "A Turba",
+                    "release_date": "1928-03-03",
+                    "backdrop_path": "/8ezQueOrGZyViNqdQcxOIaGIP2v.jpg",
+                    "poster_path": "/jftzHLCZLE2DOLQWY0mENOIPjxc.jpg",
+                    "overview": "John Sims nasceu em 4 de julho de 1900, o que todos consideravam o pren\u00fancio de um grande futuro. Mas a morte de seu pai interrompe seus sonhos e, com mais idade, John acaba morando em Nova York. Ele se casa com Mary, mas depois de cinco anos o matrim\u00f4nio n\u00e3o est\u00e1 bem e John tem dificuldades para criar suas duas filhas.",
+                    "vote_average": 7.6,
+                    "vote_count": 162,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Chang",
-            "second_label": "Paramount Famous Lasky",
+            "first_label": "Paramount Famous Lasky",
+            "second_label": "Chang",
             "category": "Unique and Artistic Picture",
             "year": 1929,
             "tmdb": {
-                "id": 233762,
-                "original_title": "Loose Change",
-                "title": "Loose Change",
-                "release_date": "1928-10-06",
-                "backdrop_path": null,
-                "poster_path": "/ic8g1erngVTyn3zXQnLZJVZvaKE.jpg",
-                "overview": "A young woman decides to vamp her friend's husbands visiting Scottish uncle, but her scheme to trick him into marrying him backfires when her own husband catches on.",
-                "vote_average": 0.0,
-                "vote_count": 0
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 233762,
+                    "original_title": "Loose Change",
+                    "title": "Loose Change",
+                    "release_date": "1928-10-06",
+                    "backdrop_path": null,
+                    "poster_path": "/ic8g1erngVTyn3zXQnLZJVZvaKE.jpg",
+                    "overview": "A young woman decides to vamp her friend's husbands visiting Scottish uncle, but her scheme to trick him into marrying him backfires when her own husband catches on.",
+                    "vote_average": 0.0,
+                    "vote_count": 0,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         }
     ],
     "Writing (Adaptation)": [
         {
-            "first_label": "7th Heaven",
-            "second_label": "Benjamin Glazer",
+            "first_label": "Benjamin Glazer",
+            "second_label": "7th Heaven",
             "category": "Writing (Adaptation)",
             "year": 1929,
             "tmdb": {
-                "error": "no ID found"
+                "id": 89045,
+                "gender": 2,
+                "known_for_department": "Writing",
+                "name": "Benjamin Glazer",
+                "original_name": "Benjamin Glazer",
+                "popularity": 3.603,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": true
         },
         {
-            "first_label": "The Jazz Singer",
-            "second_label": "Alfred Cohn",
+            "first_label": "Alfred Cohn",
+            "second_label": "The Jazz Singer",
             "category": "Writing (Adaptation)",
             "year": 1929,
             "tmdb": {
-                "id": 939,
-                "original_title": "The Jazz Singer",
-                "title": "O Cantor de Jazz",
-                "release_date": "1928-02-04",
-                "backdrop_path": "/oBNJAxtRdqa7xfhRc6LRk7AMnaa.jpg",
-                "poster_path": "/Al7yalCPkHI77GMAWmcLoYoIfeI.jpg",
-                "overview": "Um cantor de jazz enfrenta o preconceito da sua pr\u00f3pria fam\u00edlia de origem judaica para poder ter fama e reconhecimento. Primeiro filme da historia do cinema a ter o som sincronizado com as falas dos personagens.",
-                "vote_average": 6.1,
-                "vote_count": 200
+                "id": 2095773,
+                "gender": 2,
+                "known_for_department": "Directing",
+                "name": "Alfred Cohn",
+                "original_name": "Alfred Cohn",
+                "popularity": 0.98,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Glorious Betsy",
-            "second_label": "Anthony Coldeway",
+            "first_label": "Anthony Coldeway",
+            "second_label": "Glorious Betsy",
             "category": "Writing (Adaptation)",
             "year": 1929,
             "tmdb": {
-                "id": 171354,
-                "original_title": "Glorious Betsy",
-                "title": "Glorious Betsy",
-                "release_date": "1928-04-25",
-                "backdrop_path": "/jL4Z5zzECanP9SalqKWxXyqauxN.jpg",
-                "poster_path": "/wW5TAQmCR8onRXHHihEyUCwKq5Y.jpg",
-                "overview": "Vitaphone production reels #2471-2478; third Warner Bros. feature film - the first being The Jazz Singer and the second Tenderloin - to include talking sequences, along with the by now usual Vitaphone musical score and sound effects.  A copy of this film survives at the Library of Congress in Washington, D.C., but the sound disks are lost.",
-                "vote_average": 6.0,
-                "vote_count": 4
+                "id": 147010,
+                "gender": 0,
+                "known_for_department": "Writing",
+                "name": "Anthony Coldeway",
+                "original_name": "Anthony Coldeway",
+                "popularity": 3.197,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "id": 171354,
+                    "original_title": "Glorious Betsy",
+                    "title": "Glorious Betsy",
+                    "release_date": "1928-04-25",
+                    "backdrop_path": "/jL4Z5zzECanP9SalqKWxXyqauxN.jpg",
+                    "poster_path": "/wW5TAQmCR8onRXHHihEyUCwKq5Y.jpg",
+                    "overview": "Vitaphone production reels #2471-2478; third Warner Bros. feature film - the first being The Jazz Singer and the second Tenderloin - to include talking sequences, along with the by now usual Vitaphone musical score and sound effects.  A copy of this film survives at the Library of Congress in Washington, D.C., but the sound disks are lost.",
+                    "vote_average": 6.0,
+                    "vote_count": 4,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         }
     ],
     "Writing (Original Story)": [
         {
-            "first_label": "Underworld",
-            "second_label": "Ben Hecht",
+            "first_label": "Ben Hecht",
+            "second_label": "Underworld",
             "category": "Writing (Original Story)",
             "year": 1929,
             "tmdb": {
-                "id": 190038,
-                "original_title": "Romance of the Underworld",
-                "title": "Romance of the Underworld",
-                "release_date": "1928-11-10",
-                "backdrop_path": "/22BpjdQZYQiN7DPCp7ul8q149Ed.jpg",
-                "poster_path": "/s6XyshA8WlPbx6UvlEmLoBoc6Wo.jpg",
-                "overview": "When a gangster's speakeasy is raided by the police, one of the people picked up is the gangster's pretty young girlfriend. A kind-hearted cop takes pity on her and helps her get out of that life. While waitressing to earn money for college, she meets a wealthy and handsome young man and they fall in love--but he doesn't know about her somewhat shady past and her relationship with the gangster.",
-                "vote_average": 4.5,
-                "vote_count": 1
+                "id": 4341,
+                "gender": 2,
+                "known_for_department": "Writing",
+                "name": "Ben Hecht",
+                "original_name": "Ben Hecht",
+                "popularity": 8.804,
+                "profile_path": "/uYYvAfPiSx5BoWA0CrUS32p3qI5.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 190038,
+                    "original_title": "Romance of the Underworld",
+                    "title": "Romance of the Underworld",
+                    "release_date": "1928-11-10",
+                    "backdrop_path": "/22BpjdQZYQiN7DPCp7ul8q149Ed.jpg",
+                    "poster_path": "/s6XyshA8WlPbx6UvlEmLoBoc6Wo.jpg",
+                    "overview": "When a gangster's speakeasy is raided by the police, one of the people picked up is the gangster's pretty young girlfriend. A kind-hearted cop takes pity on her and helps her get out of that life. While waitressing to earn money for college, she meets a wealthy and handsome young man and they fall in love--but he doesn't know about her somewhat shady past and her relationship with the gangster.",
+                    "vote_average": 4.5,
+                    "vote_count": 1,
+                    "result_type": "movie"
+                }
             },
             "winner": true
         },
         {
-            "first_label": "The Last Command",
-            "second_label": "Lajos Biro",
+            "first_label": "Lajos Biro",
+            "second_label": "The Last Command",
             "category": "Writing (Original Story)",
             "year": 1929,
             "tmdb": {
-                "id": 52679,
-                "original_title": "The Last Command",
-                "title": "A \u00daltima Ordem",
-                "release_date": "1928-01-21",
-                "backdrop_path": "/n3rEkTewthP1VIhwTCaJXYrEE0n.jpg",
-                "poster_path": "/uKb5bFIwEzDtT3km99lqQBGNFCx.jpg",
-                "overview": "General Czarista, respons\u00e1vel pela queda do Imp\u00e9rio Russo, \u00e9 deposto do cargo. Mais tarde, antigo advers\u00e1rio o contrata para dar continuidade aos seus ideias revolucion\u00e1rios.",
-                "vote_average": 7.3,
-                "vote_count": 70
+                "id": 71789,
+                "gender": 2,
+                "known_for_department": "Writing",
+                "name": "Lajos Bir\u00f3",
+                "original_name": "Lajos Bir\u00f3",
+                "popularity": 2.86,
+                "profile_path": "/j3nFK8WH3fPYDuJRBuYFOt1n5zd.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 52679,
+                    "original_title": "The Last Command",
+                    "title": "A \u00daltima Ordem",
+                    "release_date": "1928-01-21",
+                    "backdrop_path": "/n3rEkTewthP1VIhwTCaJXYrEE0n.jpg",
+                    "poster_path": "/uKb5bFIwEzDtT3km99lqQBGNFCx.jpg",
+                    "overview": "General Czarista, respons\u00e1vel pela queda do Imp\u00e9rio Russo, \u00e9 deposto do cargo. Mais tarde, antigo advers\u00e1rio o contrata para dar continuidade aos seus ideias revolucion\u00e1rios.",
+                    "vote_average": 7.3,
+                    "vote_count": 71,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         }
     ],
     "Writing (Title Writing)": [
         {
-            "first_label": "",
-            "second_label": "Joseph Farnham",
+            "first_label": "Joseph Farnham",
+            "second_label": "",
             "category": "Writing (Title Writing)",
             "year": 1929,
             "tmdb": {
@@ -593,18 +978,28 @@
             "winner": true
         },
         {
-            "first_label": "The Private Life of Helen of Troy",
-            "second_label": "Gerald Duffy",
+            "first_label": "Gerald Duffy",
+            "second_label": "The Private Life of Helen of Troy",
             "category": "Writing (Title Writing)",
             "year": 1929,
             "tmdb": {
-                "error": "no ID found"
+                "id": 1718349,
+                "gender": 0,
+                "known_for_department": "Acting",
+                "name": "Gerald Duffy",
+                "original_name": "Gerald Duffy",
+                "popularity": 0.6,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "",
-            "second_label": "George Marion, Jr.",
+            "first_label": "George Marion, Jr.",
+            "second_label": "",
             "category": "Writing (Title Writing)",
             "year": 1929,
             "tmdb": {

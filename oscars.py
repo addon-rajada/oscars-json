@@ -113,7 +113,7 @@ def get_ids(title, second_label, year):
 				#cached_titles[second_label] = {'error': 'no ID found'}
 				if searched_movie: total_movies_not_found += 1
 
-			cached_titles[title] = result
+			#cached_titles[title] = result
 		except:
 			result = {'error': 'no ID found'}
 			total_persons_not_found += 1
@@ -127,7 +127,7 @@ def get_ids(title, second_label, year):
 				#cached_titles[second_label] = {'error': 'no ID found'}
 				if searched_movie: total_movies_not_found += 1
 
-			cached_titles[title] = result
+			#cached_titles[title] = result
 		
 	return result
 
@@ -200,8 +200,8 @@ def main():
 	global cached_hits, total_searches, invalid_year_results
 	global total_movies_found, total_movies_not_found, total_persons_found, total_persons_not_found
 
-	start_year = 2000
-	end_year = 2005 #datetime.now().year + 1
+	start_year = 1929
+	end_year = 1939 #datetime.now().year + 1
 	years = [[y] for y in range(start_year, end_year)]
 
 	#final_result = {}

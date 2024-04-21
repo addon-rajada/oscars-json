@@ -6,7 +6,26 @@
             "category": "Actor",
             "year": 1932,
             "tmdb": {
-                "error": "no ID found"
+                "id": 17753,
+                "gender": 2,
+                "known_for_department": "Acting",
+                "name": "Lionel Barrymore",
+                "original_name": "Lionel Barrymore",
+                "popularity": 10.589,
+                "profile_path": "/j7UjmpRAZ7imblut0WHqjS13mmg.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 50600,
+                    "original_title": "A Free Soul",
+                    "title": "Uma Alma Livre",
+                    "release_date": "1931-06-02",
+                    "backdrop_path": "/1cnOaObW5D0x1v3zJVzenQy0iYG.jpg",
+                    "poster_path": "/A1mXqIz27GtoJfLCMQvkf6FBYbu.jpg",
+                    "overview": "Stephen Ashe (Lionel Barrymore) \u00e9 um advogado bem sucedido que est\u00e1 passando por uma situa\u00e7\u00e3o complicada. Isso porque, al\u00e9m de ter que lidar com o alcoolismo, ele vai precisar fazer de tudo para separar sua filha, Jan (Norma Shearer), do perigoso mafioso Ace Wilfong (Clark Gable).",
+                    "vote_average": 6.2,
+                    "vote_count": 38,
+                    "result_type": "movie"
+                }
             },
             "winner": true
         },
@@ -16,15 +35,26 @@
             "category": "Actor",
             "year": 1932,
             "tmdb": {
-                "id": 162620,
-                "original_title": "The Christmas Party",
-                "title": "The Christmas Party",
-                "release_date": "1931-12-17",
-                "backdrop_path": null,
-                "poster_path": "/xnnaN6KYuuSj4mTTnfDmG3ty0wQ.jpg",
-                "overview": "In this holiday short, Jackie Cooper wants to throw a Christmas party for his friends on his football team but doesn't know how to go about it. His fellow stars at MGM help him out.",
-                "vote_average": 5.4,
-                "vote_count": 6
+                "id": 55278,
+                "gender": 2,
+                "known_for_department": "Acting",
+                "name": "Jackie Cooper",
+                "original_name": "Jackie Cooper",
+                "popularity": 15.891,
+                "profile_path": "/pbdUaMBfLq2qUP1jg7dM9hINRcI.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 84295,
+                    "original_title": "Skippy",
+                    "title": "Skippy",
+                    "release_date": "1931-04-25",
+                    "backdrop_path": "/sIvN2OqvTyHjlIYlFt4ads4Kage.jpg",
+                    "poster_path": "/oikU4kj1LdjcBYpDvH6xThpaKdz.jpg",
+                    "overview": "Skippy, the mischievous son of a wealthy doctor, meets Sooky in poverty-ridden Shantytown, and together they try to save Sooky's pet from a cruel dogcatcher.",
+                    "vote_average": 6.2,
+                    "vote_count": 17,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
@@ -34,7 +64,26 @@
             "category": "Actor",
             "year": 1932,
             "tmdb": {
-                "error": "no ID found"
+                "id": 88671,
+                "gender": 2,
+                "known_for_department": "Acting",
+                "name": "Richard Dix",
+                "original_name": "Richard Dix",
+                "popularity": 5.908,
+                "profile_path": "/ptVgXv2JS1MoXU6Ok0aScPIY04I.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 42861,
+                    "original_title": "Cimarron",
+                    "title": "Cimarron",
+                    "release_date": "1931-01-26",
+                    "backdrop_path": "/mgo2XCKPHzZINzcm0YFjSUGpPIr.jpg",
+                    "poster_path": "/3uCZ5Pmpr1WdVQyaloIAplHvocL.jpg",
+                    "overview": "Quarenta anos da hist\u00f3ria norte-americana, em um per\u00edodo compreendido entre 1889 e 1929, s\u00e3o vistos atrav\u00e9s dos olhos de Yancey Cravat, um editor de jornal e o homem da lei de Oklahoma. Ele deixa suas terras em Wichita, chegando em Osage com sua fam\u00edlia, mas logo sente-se ocioso novamente, com a rotina, e decide ir para Cherokee Strip, deixando sua fam\u00edlia para tr\u00e1s. Sua mulher, Sabra, precisa ent\u00e3o aprender a viver por conta pr\u00f3pria. Vencedor do Oscar de Melhor Filme, foi o primeiro do g\u00eanero faroeste a conseguir tal proeza (fato que s\u00f3 se repetiu mais duas vezes, com Dan\u00e7a com Lobos e Os Imperdo\u00e1veis). Faturou ainda as estatuetas de Melhor Dire\u00e7\u00e3o de Arte e Melhor Roteiro Adaptado.",
+                    "vote_average": 5.5,
+                    "vote_count": 113,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
@@ -44,7 +93,17 @@
             "category": "Actor",
             "year": 1932,
             "tmdb": {
-                "error": "no ID found"
+                "id": 13576,
+                "gender": 2,
+                "known_for_department": "Acting",
+                "name": "Fredric March",
+                "original_name": "Fredric March",
+                "popularity": 13.769,
+                "profile_path": "/285cjPToJMXn0ALimtQoqofgM2G.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": false
         },
@@ -54,7 +113,26 @@
             "category": "Actor",
             "year": 1932,
             "tmdb": {
-                "error": "no ID found"
+                "id": 14563,
+                "gender": 2,
+                "known_for_department": "Acting",
+                "name": "Adolphe Menjou",
+                "original_name": "Adolphe Menjou",
+                "popularity": 11.81,
+                "profile_path": "/88FfjxT3cFDIbCIK0UmwyjEF6tU.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 42814,
+                    "original_title": "The Front Page",
+                    "title": "A Primeira P\u00e1gina",
+                    "release_date": "1931-04-04",
+                    "backdrop_path": "/oXKzUfG4HPl1e3b87eFWV8Lr07a.jpg",
+                    "poster_path": "/ifV0m0RRPAkchL5gS4MOLoWPBjN.jpg",
+                    "overview": "Hildy Johnson, rep\u00f3rter de jornal, \u00e9 noivo de Peggy Grant e planeja se mudar para Nova York para um emprego em publicidade com sal\u00e1rio maior. A sala de imprensa do tribunal est\u00e1 cheia de rep\u00f3rteres mambembes que inventam hist\u00f3rias tanto quanto as escrevem. Todos est\u00e3o aguardando para cobrir o enforcamento de Earl Williams. Quando Williams escapa do inepto xerife, Hildy aproveita a oportunidade usando seus 260 d\u00f3lares da lua de mel para subornar um insider e obter um \"furo\" sobre a fuga. No entanto, Walter Burns, editor do Post, propositadamente demora para reembolsar Hildy da despesa, na esperan\u00e7a de que ele fique cobrindo a hist\u00f3ria. Conseguir uma grande mat\u00e9ria parece poss\u00edvel quando Hildy tromba com o confuso fugitivo Williams e o esconde em uma mesa roll-top na sala de imprensa. Burns chega do jornal para ajudar. A quest\u00e3o \u00e9, eles poder\u00e3o manter o paradeiro de Williams em segredo o tempo suficiente para dar o furo, especialmente com o xerife e outros rep\u00f3rteres zanzando ao redor?",
+                    "vote_average": 6.3,
+                    "vote_count": 55,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         }
@@ -66,7 +144,17 @@
             "category": "Actress",
             "year": 1932,
             "tmdb": {
-                "error": "no ID found"
+                "id": 89610,
+                "gender": 1,
+                "known_for_department": "Acting",
+                "name": "Marie Dressler",
+                "original_name": "Marie Dressler",
+                "popularity": 2.446,
+                "profile_path": "/xRsxCFcdo30PKDhRWXlk8Idwljl.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": true
         },
@@ -76,7 +164,26 @@
             "category": "Actress",
             "year": 1932,
             "tmdb": {
-                "error": "no ID found"
+                "id": 2896,
+                "gender": 1,
+                "known_for_department": "Acting",
+                "name": "Marlene Dietrich",
+                "original_name": "Marlene Dietrich",
+                "popularity": 10.343,
+                "profile_path": "/9AxXKUr9CLfy5Lcg3JaNRbWD6Be.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 42641,
+                    "original_title": "Morocco",
+                    "title": "Marrocos",
+                    "release_date": "1930-11-14",
+                    "backdrop_path": "/fyIbxqQ75Ma9jXmSr4OxXZ0UkOa.jpg",
+                    "poster_path": "/jDqZsxyv35iyJWW0mANk1RhxhJp.jpg",
+                    "overview": "The Foreign Legion marches in to Mogador with booze and women in mind just as singer Amy Jolly arrives from Paris to work at Lo Tinto's cabaret. That night, insouciant legionnaire Tom Brown catches her inimitably seductive, tuxedo-clad act. Both bruised by their past lives, the two edge cautiously into a no-strings relationship while being pursued by others. But Tom must leave on a perilous mission: is it too late for them?",
+                    "vote_average": 6.4,
+                    "vote_count": 129,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
@@ -86,7 +193,26 @@
             "category": "Actress",
             "year": 1932,
             "tmdb": {
-                "error": "no ID found"
+                "id": 77158,
+                "gender": 1,
+                "known_for_department": "Acting",
+                "name": "Irene Dunne",
+                "original_name": "Irene Dunne",
+                "popularity": 13.321,
+                "profile_path": "/r44FIGxLUHw7PcALUycivFuTEvV.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 42861,
+                    "original_title": "Cimarron",
+                    "title": "Cimarron",
+                    "release_date": "1931-01-26",
+                    "backdrop_path": "/mgo2XCKPHzZINzcm0YFjSUGpPIr.jpg",
+                    "poster_path": "/3uCZ5Pmpr1WdVQyaloIAplHvocL.jpg",
+                    "overview": "Quarenta anos da hist\u00f3ria norte-americana, em um per\u00edodo compreendido entre 1889 e 1929, s\u00e3o vistos atrav\u00e9s dos olhos de Yancey Cravat, um editor de jornal e o homem da lei de Oklahoma. Ele deixa suas terras em Wichita, chegando em Osage com sua fam\u00edlia, mas logo sente-se ocioso novamente, com a rotina, e decide ir para Cherokee Strip, deixando sua fam\u00edlia para tr\u00e1s. Sua mulher, Sabra, precisa ent\u00e3o aprender a viver por conta pr\u00f3pria. Vencedor do Oscar de Melhor Filme, foi o primeiro do g\u00eanero faroeste a conseguir tal proeza (fato que s\u00f3 se repetiu mais duas vezes, com Dan\u00e7a com Lobos e Os Imperdo\u00e1veis). Faturou ainda as estatuetas de Melhor Dire\u00e7\u00e3o de Arte e Melhor Roteiro Adaptado.",
+                    "vote_average": 5.5,
+                    "vote_count": 113,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
@@ -96,7 +222,26 @@
             "category": "Actress",
             "year": 1932,
             "tmdb": {
-                "error": "no ID found"
+                "id": 103441,
+                "gender": 1,
+                "known_for_department": "Acting",
+                "name": "Ann Harding",
+                "original_name": "Ann Harding",
+                "popularity": 9.987,
+                "profile_path": "/dofROitTbPxHnvyswXt6nl1gChV.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 104215,
+                    "original_title": "The Devil's Holiday",
+                    "title": "The Devil's Holiday",
+                    "release_date": "1930-05-09",
+                    "backdrop_path": "/2kzcvsfDJnkb0JwOjAzNNrKmd5W.jpg",
+                    "poster_path": "/bWTTulF8nwzY87MY7vNGwJAZ5ya.jpg",
+                    "overview": "Beautiful manicurist Hallie Hobart sets her sights on handsome David Stone, the son of wealthy wheat farmer Ezra Stone. Professing to hate men, Hallie is only interested in luring David in for a lucrative business deal. David easily falls in love, but older brother Mark brands Hallie a gold-digger. To get even with the straight-laced Stone family, Hallie accepts David's marriage proposal.",
+                    "vote_average": 6.3,
+                    "vote_count": 6,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
@@ -106,7 +251,26 @@
             "category": "Actress",
             "year": 1932,
             "tmdb": {
-                "error": "no ID found"
+                "id": 88867,
+                "gender": 1,
+                "known_for_department": "Acting",
+                "name": "Norma Shearer",
+                "original_name": "Norma Shearer",
+                "popularity": 7.12,
+                "profile_path": "/fyuEXxpxpvrN4XH8SqByqCYHJtx.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 50600,
+                    "original_title": "A Free Soul",
+                    "title": "Uma Alma Livre",
+                    "release_date": "1931-06-02",
+                    "backdrop_path": "/1cnOaObW5D0x1v3zJVzenQy0iYG.jpg",
+                    "poster_path": "/A1mXqIz27GtoJfLCMQvkf6FBYbu.jpg",
+                    "overview": "Stephen Ashe (Lionel Barrymore) \u00e9 um advogado bem sucedido que est\u00e1 passando por uma situa\u00e7\u00e3o complicada. Isso porque, al\u00e9m de ter que lidar com o alcoolismo, ele vai precisar fazer de tudo para separar sua filha, Jan (Norma Shearer), do perigoso mafioso Ace Wilfong (Clark Gable).",
+                    "vote_average": 6.2,
+                    "vote_count": 38,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         }
@@ -126,347 +290,520 @@
                 "poster_path": "/3uCZ5Pmpr1WdVQyaloIAplHvocL.jpg",
                 "overview": "Quarenta anos da hist\u00f3ria norte-americana, em um per\u00edodo compreendido entre 1889 e 1929, s\u00e3o vistos atrav\u00e9s dos olhos de Yancey Cravat, um editor de jornal e o homem da lei de Oklahoma. Ele deixa suas terras em Wichita, chegando em Osage com sua fam\u00edlia, mas logo sente-se ocioso novamente, com a rotina, e decide ir para Cherokee Strip, deixando sua fam\u00edlia para tr\u00e1s. Sua mulher, Sabra, precisa ent\u00e3o aprender a viver por conta pr\u00f3pria. Vencedor do Oscar de Melhor Filme, foi o primeiro do g\u00eanero faroeste a conseguir tal proeza (fato que s\u00f3 se repetiu mais duas vezes, com Dan\u00e7a com Lobos e Os Imperdo\u00e1veis). Faturou ainda as estatuetas de Melhor Dire\u00e7\u00e3o de Arte e Melhor Roteiro Adaptado.",
                 "vote_average": 5.5,
-                "vote_count": 113
+                "vote_count": 113,
+                "result_type": "movie"
             },
             "winner": true
         },
         {
-            "first_label": "Just Imagine",
-            "second_label": "Stephen Goosson, Ralph Hammeras",
+            "first_label": "Stephen Goosson, Ralph Hammeras",
+            "second_label": "Just Imagine",
             "category": "Art Direction",
             "year": 1932,
             "tmdb": {
-                "error": "no ID found"
+                "error": "no ID found",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Morocco",
-            "second_label": "Hans Dreier",
+            "first_label": "Hans Dreier",
+            "second_label": "Morocco",
             "category": "Art Direction",
             "year": 1932,
             "tmdb": {
-                "id": 42641,
-                "original_title": "Morocco",
-                "title": "Marrocos",
-                "release_date": "1930-11-14",
-                "backdrop_path": "/fyIbxqQ75Ma9jXmSr4OxXZ0UkOa.jpg",
-                "poster_path": "/jDqZsxyv35iyJWW0mANk1RhxhJp.jpg",
-                "overview": "The Foreign Legion marches in to Mogador with booze and women in mind just as singer Amy Jolly arrives from Paris to work at Lo Tinto's cabaret. That night, insouciant legionnaire Tom Brown catches her inimitably seductive, tuxedo-clad act. Both bruised by their past lives, the two edge cautiously into a no-strings relationship while being pursued by others. But Tom must leave on a perilous mission: is it too late for them?",
-                "vote_average": 6.4,
-                "vote_count": 129
+                "id": 8622,
+                "gender": 2,
+                "known_for_department": "Art",
+                "name": "Hans Dreier",
+                "original_name": "Hans Dreier",
+                "popularity": 3.406,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "id": 42641,
+                    "original_title": "Morocco",
+                    "title": "Marrocos",
+                    "release_date": "1930-11-14",
+                    "backdrop_path": "/fyIbxqQ75Ma9jXmSr4OxXZ0UkOa.jpg",
+                    "poster_path": "/jDqZsxyv35iyJWW0mANk1RhxhJp.jpg",
+                    "overview": "The Foreign Legion marches in to Mogador with booze and women in mind just as singer Amy Jolly arrives from Paris to work at Lo Tinto's cabaret. That night, insouciant legionnaire Tom Brown catches her inimitably seductive, tuxedo-clad act. Both bruised by their past lives, the two edge cautiously into a no-strings relationship while being pursued by others. But Tom must leave on a perilous mission: is it too late for them?",
+                    "vote_average": 6.4,
+                    "vote_count": 129,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Svengali",
-            "second_label": "Anton Grot",
+            "first_label": "Anton Grot",
+            "second_label": "Svengali",
             "category": "Art Direction",
             "year": 1932,
             "tmdb": {
-                "id": 45803,
-                "original_title": "Svengali",
-                "title": "Svengali",
-                "release_date": "1931-05-20",
-                "backdrop_path": "/u7UdRx0M5enU4J0OJ5c4yn11EuW.jpg",
-                "poster_path": "/jLE87vAc9bqytSZAfU76MmnQdMh.jpg",
-                "overview": "Svengali \u00e9 um professor de canto, pianista e empres\u00e1rio de m\u00fasica em geral, vivendo em Paris. Ele possui um talento especial: \u00e9 capaz de hipnotizar outras pessoas atrav\u00e9s de sua m\u00fasica e atrav\u00e9s de seus fortes poderes telep\u00e1ticos. Ele usa esse talento especificamente para seduzir suas alunas para o seu pr\u00f3prio proveito financeiro. E as descarta facilmente quando elas j\u00e1 n\u00e3o possuem mais qualquer utilidade para ele. Mas, depois de ouvi-la e v\u00ea-la, Svengali se apaixona por uma jovem modelo chamada Trilby O'Farrell, que ele conhece no est\u00fadio de alguns colegas artistas.",
-                "vote_average": 6.0,
-                "vote_count": 42
+                "id": 32999,
+                "gender": 2,
+                "known_for_department": "Art",
+                "name": "Anton Grot",
+                "original_name": "Anton Grot",
+                "popularity": 0.732,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "id": 45803,
+                    "original_title": "Svengali",
+                    "title": "Svengali",
+                    "release_date": "1931-05-20",
+                    "backdrop_path": "/u7UdRx0M5enU4J0OJ5c4yn11EuW.jpg",
+                    "poster_path": "/jLE87vAc9bqytSZAfU76MmnQdMh.jpg",
+                    "overview": "Svengali \u00e9 um professor de canto, pianista e empres\u00e1rio de m\u00fasica em geral, vivendo em Paris. Ele possui um talento especial: \u00e9 capaz de hipnotizar outras pessoas atrav\u00e9s de sua m\u00fasica e atrav\u00e9s de seus fortes poderes telep\u00e1ticos. Ele usa esse talento especificamente para seduzir suas alunas para o seu pr\u00f3prio proveito financeiro. E as descarta facilmente quando elas j\u00e1 n\u00e3o possuem mais qualquer utilidade para ele. Mas, depois de ouvi-la e v\u00ea-la, Svengali se apaixona por uma jovem modelo chamada Trilby O'Farrell, que ele conhece no est\u00fadio de alguns colegas artistas.",
+                    "vote_average": 6.0,
+                    "vote_count": 43,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Whoopee!",
-            "second_label": "Richard Day",
+            "first_label": "Richard Day",
+            "second_label": "Whoopee!",
             "category": "Art Direction",
             "year": 1932,
             "tmdb": {
-                "id": 108224,
-                "original_title": "Whoopee!",
-                "title": "Whoopee!",
-                "release_date": "1930-09-26",
-                "backdrop_path": "/mZk2fz2Wok6EsESjXbNW8NDXxP0.jpg",
-                "poster_path": "/jVggH7wheJahCoQWUzt1CA2KGVN.jpg",
-                "overview": "Western sheriff Bob Wells is preparing to marry Sally Morgan; she loves part-Indian Wanenis, whose race is an obstacle. Sally flees the wedding with hypochondriac Henry Williams, who thinks he's just giving her a ride; but she left a note saying they've eloped! Chasing them are jilted Bob, Henry's nurse Mary (who's been trying to seduce him) and others.",
-                "vote_average": 6.5,
-                "vote_count": 11
+                "id": 1213124,
+                "gender": 2,
+                "known_for_department": "Writing",
+                "name": "Richard Day",
+                "original_name": "Richard Day",
+                "popularity": 1.649,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "id": 108224,
+                    "original_title": "Whoopee!",
+                    "title": "Whoopee!",
+                    "release_date": "1930-09-26",
+                    "backdrop_path": "/mZk2fz2Wok6EsESjXbNW8NDXxP0.jpg",
+                    "poster_path": "/jVggH7wheJahCoQWUzt1CA2KGVN.jpg",
+                    "overview": "Western sheriff Bob Wells is preparing to marry Sally Morgan; she loves part-Indian Wanenis, whose race is an obstacle. Sally flees the wedding with hypochondriac Henry Williams, who thinks he's just giving her a ride; but she left a note saying they've eloped! Chasing them are jilted Bob, Henry's nurse Mary (who's been trying to seduce him) and others.",
+                    "vote_average": 6.5,
+                    "vote_count": 11,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         }
     ],
     "Cinematography": [
         {
-            "first_label": "Tabu",
-            "second_label": "Floyd Crosby",
+            "first_label": "Floyd Crosby",
+            "second_label": "Tabu",
             "category": "Cinematography",
             "year": 1932,
             "tmdb": {
-                "id": 977,
-                "original_title": "Tabu",
-                "title": "Tabu",
-                "release_date": "1931-08-01",
-                "backdrop_path": "/jLtiBuYhQoqAEACLyyhO3mo4JHx.jpg",
-                "poster_path": "/c4zfawkB8Jsp5lhWl62QCzczR3M.jpg",
-                "overview": "A hist\u00f3ria de amor entre Reri, uma garota considerada intoc\u00e1vel e Matahi, um pescador de p\u00e9rolas. Ele est\u00e1 disposto a ir contra as tradi\u00e7\u00f5es pelo amor de Reri.",
-                "vote_average": 7.1,
-                "vote_count": 148
+                "id": 4083,
+                "gender": 2,
+                "known_for_department": "Camera",
+                "name": "Floyd Crosby",
+                "original_name": "Floyd Crosby",
+                "popularity": 6.851,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "id": 977,
+                    "original_title": "Tabu",
+                    "title": "Tabu",
+                    "release_date": "1931-08-01",
+                    "backdrop_path": "/jLtiBuYhQoqAEACLyyhO3mo4JHx.jpg",
+                    "poster_path": "/c4zfawkB8Jsp5lhWl62QCzczR3M.jpg",
+                    "overview": "A hist\u00f3ria de amor entre Reri, uma garota considerada intoc\u00e1vel e Matahi, um pescador de p\u00e9rolas. Ele est\u00e1 disposto a ir contra as tradi\u00e7\u00f5es pelo amor de Reri.",
+                    "vote_average": 7.1,
+                    "vote_count": 149,
+                    "result_type": "movie"
+                }
             },
             "winner": true
         },
         {
-            "first_label": "Cimarron",
-            "second_label": "Edward Cronjager",
+            "first_label": "Edward Cronjager",
+            "second_label": "Cimarron",
             "category": "Cinematography",
             "year": 1932,
             "tmdb": {
-                "id": 42861,
-                "original_title": "Cimarron",
-                "title": "Cimarron",
-                "release_date": "1931-01-26",
-                "backdrop_path": "/mgo2XCKPHzZINzcm0YFjSUGpPIr.jpg",
-                "poster_path": "/3uCZ5Pmpr1WdVQyaloIAplHvocL.jpg",
-                "overview": "Quarenta anos da hist\u00f3ria norte-americana, em um per\u00edodo compreendido entre 1889 e 1929, s\u00e3o vistos atrav\u00e9s dos olhos de Yancey Cravat, um editor de jornal e o homem da lei de Oklahoma. Ele deixa suas terras em Wichita, chegando em Osage com sua fam\u00edlia, mas logo sente-se ocioso novamente, com a rotina, e decide ir para Cherokee Strip, deixando sua fam\u00edlia para tr\u00e1s. Sua mulher, Sabra, precisa ent\u00e3o aprender a viver por conta pr\u00f3pria. Vencedor do Oscar de Melhor Filme, foi o primeiro do g\u00eanero faroeste a conseguir tal proeza (fato que s\u00f3 se repetiu mais duas vezes, com Dan\u00e7a com Lobos e Os Imperdo\u00e1veis). Faturou ainda as estatuetas de Melhor Dire\u00e7\u00e3o de Arte e Melhor Roteiro Adaptado.",
-                "vote_average": 5.5,
-                "vote_count": 113
+                "id": 89218,
+                "gender": 2,
+                "known_for_department": "Camera",
+                "name": "Edward Cronjager",
+                "original_name": "Edward Cronjager",
+                "popularity": 5.333,
+                "profile_path": "/paUAUYecUdy43sTVJQhhOd2NpD1.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 42861,
+                    "original_title": "Cimarron",
+                    "title": "Cimarron",
+                    "release_date": "1931-01-26",
+                    "backdrop_path": "/mgo2XCKPHzZINzcm0YFjSUGpPIr.jpg",
+                    "poster_path": "/3uCZ5Pmpr1WdVQyaloIAplHvocL.jpg",
+                    "overview": "Quarenta anos da hist\u00f3ria norte-americana, em um per\u00edodo compreendido entre 1889 e 1929, s\u00e3o vistos atrav\u00e9s dos olhos de Yancey Cravat, um editor de jornal e o homem da lei de Oklahoma. Ele deixa suas terras em Wichita, chegando em Osage com sua fam\u00edlia, mas logo sente-se ocioso novamente, com a rotina, e decide ir para Cherokee Strip, deixando sua fam\u00edlia para tr\u00e1s. Sua mulher, Sabra, precisa ent\u00e3o aprender a viver por conta pr\u00f3pria. Vencedor do Oscar de Melhor Filme, foi o primeiro do g\u00eanero faroeste a conseguir tal proeza (fato que s\u00f3 se repetiu mais duas vezes, com Dan\u00e7a com Lobos e Os Imperdo\u00e1veis). Faturou ainda as estatuetas de Melhor Dire\u00e7\u00e3o de Arte e Melhor Roteiro Adaptado.",
+                    "vote_average": 5.5,
+                    "vote_count": 113,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Morocco",
-            "second_label": "Lee Garmes",
+            "first_label": "Lee Garmes",
+            "second_label": "Morocco",
             "category": "Cinematography",
             "year": 1932,
             "tmdb": {
-                "id": 42641,
-                "original_title": "Morocco",
-                "title": "Marrocos",
-                "release_date": "1930-11-14",
-                "backdrop_path": "/fyIbxqQ75Ma9jXmSr4OxXZ0UkOa.jpg",
-                "poster_path": "/jDqZsxyv35iyJWW0mANk1RhxhJp.jpg",
-                "overview": "The Foreign Legion marches in to Mogador with booze and women in mind just as singer Amy Jolly arrives from Paris to work at Lo Tinto's cabaret. That night, insouciant legionnaire Tom Brown catches her inimitably seductive, tuxedo-clad act. Both bruised by their past lives, the two edge cautiously into a no-strings relationship while being pursued by others. But Tom must leave on a perilous mission: is it too late for them?",
-                "vote_average": 6.4,
-                "vote_count": 129
+                "id": 13338,
+                "gender": 2,
+                "known_for_department": "Camera",
+                "name": "Lee Garmes",
+                "original_name": "Lee Garmes",
+                "popularity": 1.56,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "id": 42641,
+                    "original_title": "Morocco",
+                    "title": "Marrocos",
+                    "release_date": "1930-11-14",
+                    "backdrop_path": "/fyIbxqQ75Ma9jXmSr4OxXZ0UkOa.jpg",
+                    "poster_path": "/jDqZsxyv35iyJWW0mANk1RhxhJp.jpg",
+                    "overview": "The Foreign Legion marches in to Mogador with booze and women in mind just as singer Amy Jolly arrives from Paris to work at Lo Tinto's cabaret. That night, insouciant legionnaire Tom Brown catches her inimitably seductive, tuxedo-clad act. Both bruised by their past lives, the two edge cautiously into a no-strings relationship while being pursued by others. But Tom must leave on a perilous mission: is it too late for them?",
+                    "vote_average": 6.4,
+                    "vote_count": 129,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "The Right to Love",
-            "second_label": "Charles Lang",
+            "first_label": "Charles Lang",
+            "second_label": "The Right to Love",
             "category": "Cinematography",
             "year": 1932,
             "tmdb": {
-                "error": "no ID found"
+                "id": 3148,
+                "gender": 2,
+                "known_for_department": "Camera",
+                "name": "Charles Lang",
+                "original_name": "Charles Lang",
+                "popularity": 6.936,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Svengali",
-            "second_label": "Barney \"Chick\" McGill",
+            "first_label": "Barney \"Chick\" McGill",
+            "second_label": "Svengali",
             "category": "Cinematography",
             "year": 1932,
             "tmdb": {
-                "id": 45803,
-                "original_title": "Svengali",
-                "title": "Svengali",
-                "release_date": "1931-05-20",
-                "backdrop_path": "/u7UdRx0M5enU4J0OJ5c4yn11EuW.jpg",
-                "poster_path": "/jLE87vAc9bqytSZAfU76MmnQdMh.jpg",
-                "overview": "Svengali \u00e9 um professor de canto, pianista e empres\u00e1rio de m\u00fasica em geral, vivendo em Paris. Ele possui um talento especial: \u00e9 capaz de hipnotizar outras pessoas atrav\u00e9s de sua m\u00fasica e atrav\u00e9s de seus fortes poderes telep\u00e1ticos. Ele usa esse talento especificamente para seduzir suas alunas para o seu pr\u00f3prio proveito financeiro. E as descarta facilmente quando elas j\u00e1 n\u00e3o possuem mais qualquer utilidade para ele. Mas, depois de ouvi-la e v\u00ea-la, Svengali se apaixona por uma jovem modelo chamada Trilby O'Farrell, que ele conhece no est\u00fadio de alguns colegas artistas.",
-                "vote_average": 6.0,
-                "vote_count": 42
+                "id": 96052,
+                "gender": 2,
+                "known_for_department": "Camera",
+                "name": "Barney McGill",
+                "original_name": "Barney McGill",
+                "popularity": 0.84,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "id": 45803,
+                    "original_title": "Svengali",
+                    "title": "Svengali",
+                    "release_date": "1931-05-20",
+                    "backdrop_path": "/u7UdRx0M5enU4J0OJ5c4yn11EuW.jpg",
+                    "poster_path": "/jLE87vAc9bqytSZAfU76MmnQdMh.jpg",
+                    "overview": "Svengali \u00e9 um professor de canto, pianista e empres\u00e1rio de m\u00fasica em geral, vivendo em Paris. Ele possui um talento especial: \u00e9 capaz de hipnotizar outras pessoas atrav\u00e9s de sua m\u00fasica e atrav\u00e9s de seus fortes poderes telep\u00e1ticos. Ele usa esse talento especificamente para seduzir suas alunas para o seu pr\u00f3prio proveito financeiro. E as descarta facilmente quando elas j\u00e1 n\u00e3o possuem mais qualquer utilidade para ele. Mas, depois de ouvi-la e v\u00ea-la, Svengali se apaixona por uma jovem modelo chamada Trilby O'Farrell, que ele conhece no est\u00fadio de alguns colegas artistas.",
+                    "vote_average": 6.0,
+                    "vote_count": 43,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         }
     ],
     "Directing": [
         {
-            "first_label": "Skippy",
-            "second_label": "Norman Taurog",
+            "first_label": "Norman Taurog",
+            "second_label": "Skippy",
             "category": "Directing",
             "year": 1932,
             "tmdb": {
-                "id": 84295,
-                "original_title": "Skippy",
-                "title": "Skippy",
-                "release_date": "1931-04-25",
-                "backdrop_path": "/sIvN2OqvTyHjlIYlFt4ads4Kage.jpg",
-                "poster_path": "/oikU4kj1LdjcBYpDvH6xThpaKdz.jpg",
-                "overview": "Skippy, the mischievous son of a wealthy doctor, meets Sooky in poverty-ridden Shantytown, and together they try to save Sooky's pet from a cruel dogcatcher.",
-                "vote_average": 6.2,
-                "vote_count": 17
+                "id": 82800,
+                "gender": 2,
+                "known_for_department": "Directing",
+                "name": "Norman Taurog",
+                "original_name": "Norman Taurog",
+                "popularity": 6.716,
+                "profile_path": "/3xm70GFmrRxKAWezI6OEHR8vEEe.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 84295,
+                    "original_title": "Skippy",
+                    "title": "Skippy",
+                    "release_date": "1931-04-25",
+                    "backdrop_path": "/sIvN2OqvTyHjlIYlFt4ads4Kage.jpg",
+                    "poster_path": "/oikU4kj1LdjcBYpDvH6xThpaKdz.jpg",
+                    "overview": "Skippy, the mischievous son of a wealthy doctor, meets Sooky in poverty-ridden Shantytown, and together they try to save Sooky's pet from a cruel dogcatcher.",
+                    "vote_average": 6.2,
+                    "vote_count": 17,
+                    "result_type": "movie"
+                }
             },
             "winner": true
         },
         {
-            "first_label": "Cimarron",
-            "second_label": "Wesley Ruggles",
+            "first_label": "Wesley Ruggles",
+            "second_label": "Cimarron",
             "category": "Directing",
             "year": 1932,
             "tmdb": {
-                "id": 42861,
-                "original_title": "Cimarron",
-                "title": "Cimarron",
-                "release_date": "1931-01-26",
-                "backdrop_path": "/mgo2XCKPHzZINzcm0YFjSUGpPIr.jpg",
-                "poster_path": "/3uCZ5Pmpr1WdVQyaloIAplHvocL.jpg",
-                "overview": "Quarenta anos da hist\u00f3ria norte-americana, em um per\u00edodo compreendido entre 1889 e 1929, s\u00e3o vistos atrav\u00e9s dos olhos de Yancey Cravat, um editor de jornal e o homem da lei de Oklahoma. Ele deixa suas terras em Wichita, chegando em Osage com sua fam\u00edlia, mas logo sente-se ocioso novamente, com a rotina, e decide ir para Cherokee Strip, deixando sua fam\u00edlia para tr\u00e1s. Sua mulher, Sabra, precisa ent\u00e3o aprender a viver por conta pr\u00f3pria. Vencedor do Oscar de Melhor Filme, foi o primeiro do g\u00eanero faroeste a conseguir tal proeza (fato que s\u00f3 se repetiu mais duas vezes, com Dan\u00e7a com Lobos e Os Imperdo\u00e1veis). Faturou ainda as estatuetas de Melhor Dire\u00e7\u00e3o de Arte e Melhor Roteiro Adaptado.",
-                "vote_average": 5.5,
-                "vote_count": 113
+                "id": 21311,
+                "gender": 2,
+                "known_for_department": "Directing",
+                "name": "Wesley Ruggles",
+                "original_name": "Wesley Ruggles",
+                "popularity": 3.254,
+                "profile_path": "/x0OBvXc9HY5aEHU9YDOF78qIGhV.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 42861,
+                    "original_title": "Cimarron",
+                    "title": "Cimarron",
+                    "release_date": "1931-01-26",
+                    "backdrop_path": "/mgo2XCKPHzZINzcm0YFjSUGpPIr.jpg",
+                    "poster_path": "/3uCZ5Pmpr1WdVQyaloIAplHvocL.jpg",
+                    "overview": "Quarenta anos da hist\u00f3ria norte-americana, em um per\u00edodo compreendido entre 1889 e 1929, s\u00e3o vistos atrav\u00e9s dos olhos de Yancey Cravat, um editor de jornal e o homem da lei de Oklahoma. Ele deixa suas terras em Wichita, chegando em Osage com sua fam\u00edlia, mas logo sente-se ocioso novamente, com a rotina, e decide ir para Cherokee Strip, deixando sua fam\u00edlia para tr\u00e1s. Sua mulher, Sabra, precisa ent\u00e3o aprender a viver por conta pr\u00f3pria. Vencedor do Oscar de Melhor Filme, foi o primeiro do g\u00eanero faroeste a conseguir tal proeza (fato que s\u00f3 se repetiu mais duas vezes, com Dan\u00e7a com Lobos e Os Imperdo\u00e1veis). Faturou ainda as estatuetas de Melhor Dire\u00e7\u00e3o de Arte e Melhor Roteiro Adaptado.",
+                    "vote_average": 5.5,
+                    "vote_count": 113,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "A Free Soul",
-            "second_label": "Clarence Brown",
+            "first_label": "Clarence Brown",
+            "second_label": "A Free Soul",
             "category": "Directing",
             "year": 1932,
             "tmdb": {
-                "id": 50600,
-                "original_title": "A Free Soul",
-                "title": "Uma Alma Livre",
-                "release_date": "1931-06-02",
-                "backdrop_path": "/1cnOaObW5D0x1v3zJVzenQy0iYG.jpg",
-                "poster_path": "/A1mXqIz27GtoJfLCMQvkf6FBYbu.jpg",
-                "overview": "Stephen Ashe (Lionel Barrymore) \u00e9 um advogado bem sucedido que est\u00e1 passando por uma situa\u00e7\u00e3o complicada. Isso porque, al\u00e9m de ter que lidar com o alcoolismo, ele vai precisar fazer de tudo para separar sua filha, Jan (Norma Shearer), do perigoso mafioso Ace Wilfong (Clark Gable).",
-                "vote_average": 6.2,
-                "vote_count": 37
+                "id": 84034,
+                "gender": 2,
+                "known_for_department": "Directing",
+                "name": "Clarence Brown",
+                "original_name": "Clarence Brown",
+                "popularity": 9.078,
+                "profile_path": "/g3I4PSsQhHkhlBj8gN0tPj8ID8O.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 50600,
+                    "original_title": "A Free Soul",
+                    "title": "Uma Alma Livre",
+                    "release_date": "1931-06-02",
+                    "backdrop_path": "/1cnOaObW5D0x1v3zJVzenQy0iYG.jpg",
+                    "poster_path": "/A1mXqIz27GtoJfLCMQvkf6FBYbu.jpg",
+                    "overview": "Stephen Ashe (Lionel Barrymore) \u00e9 um advogado bem sucedido que est\u00e1 passando por uma situa\u00e7\u00e3o complicada. Isso porque, al\u00e9m de ter que lidar com o alcoolismo, ele vai precisar fazer de tudo para separar sua filha, Jan (Norma Shearer), do perigoso mafioso Ace Wilfong (Clark Gable).",
+                    "vote_average": 6.2,
+                    "vote_count": 38,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "The Front Page",
-            "second_label": "Lewis Milestone",
+            "first_label": "Lewis Milestone",
+            "second_label": "The Front Page",
             "category": "Directing",
             "year": 1932,
             "tmdb": {
-                "id": 42814,
-                "original_title": "The Front Page",
-                "title": "A Primeira P\u00e1gina",
-                "release_date": "1931-04-04",
-                "backdrop_path": "/oXKzUfG4HPl1e3b87eFWV8Lr07a.jpg",
-                "poster_path": "/ifV0m0RRPAkchL5gS4MOLoWPBjN.jpg",
-                "overview": "Hildy Johnson, rep\u00f3rter de jornal, \u00e9 noivo de Peggy Grant e planeja se mudar para Nova York para um emprego em publicidade com sal\u00e1rio maior. A sala de imprensa do tribunal est\u00e1 cheia de rep\u00f3rteres mambembes que inventam hist\u00f3rias tanto quanto as escrevem. Todos est\u00e3o aguardando para cobrir o enforcamento de Earl Williams. Quando Williams escapa do inepto xerife, Hildy aproveita a oportunidade usando seus 260 d\u00f3lares da lua de mel para subornar um insider e obter um \"furo\" sobre a fuga. No entanto, Walter Burns, editor do Post, propositadamente demora para reembolsar Hildy da despesa, na esperan\u00e7a de que ele fique cobrindo a hist\u00f3ria. Conseguir uma grande mat\u00e9ria parece poss\u00edvel quando Hildy tromba com o confuso fugitivo Williams e o esconde em uma mesa roll-top na sala de imprensa. Burns chega do jornal para ajudar. A quest\u00e3o \u00e9, eles poder\u00e3o manter o paradeiro de Williams em segredo o tempo suficiente para dar o furo, especialmente com o xerife e outros rep\u00f3rteres zanzando ao redor?",
-                "vote_average": 6.3,
-                "vote_count": 54
+                "id": 2000,
+                "gender": 2,
+                "known_for_department": "Directing",
+                "name": "Lewis Milestone",
+                "original_name": "Lewis Milestone",
+                "popularity": 4.976,
+                "profile_path": "/zcbvWlJTkFcVJ86Yjsvx82Mjgul.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 42814,
+                    "original_title": "The Front Page",
+                    "title": "A Primeira P\u00e1gina",
+                    "release_date": "1931-04-04",
+                    "backdrop_path": "/oXKzUfG4HPl1e3b87eFWV8Lr07a.jpg",
+                    "poster_path": "/ifV0m0RRPAkchL5gS4MOLoWPBjN.jpg",
+                    "overview": "Hildy Johnson, rep\u00f3rter de jornal, \u00e9 noivo de Peggy Grant e planeja se mudar para Nova York para um emprego em publicidade com sal\u00e1rio maior. A sala de imprensa do tribunal est\u00e1 cheia de rep\u00f3rteres mambembes que inventam hist\u00f3rias tanto quanto as escrevem. Todos est\u00e3o aguardando para cobrir o enforcamento de Earl Williams. Quando Williams escapa do inepto xerife, Hildy aproveita a oportunidade usando seus 260 d\u00f3lares da lua de mel para subornar um insider e obter um \"furo\" sobre a fuga. No entanto, Walter Burns, editor do Post, propositadamente demora para reembolsar Hildy da despesa, na esperan\u00e7a de que ele fique cobrindo a hist\u00f3ria. Conseguir uma grande mat\u00e9ria parece poss\u00edvel quando Hildy tromba com o confuso fugitivo Williams e o esconde em uma mesa roll-top na sala de imprensa. Burns chega do jornal para ajudar. A quest\u00e3o \u00e9, eles poder\u00e3o manter o paradeiro de Williams em segredo o tempo suficiente para dar o furo, especialmente com o xerife e outros rep\u00f3rteres zanzando ao redor?",
+                    "vote_average": 6.3,
+                    "vote_count": 55,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Morocco",
-            "second_label": "Josef Von Sternberg",
+            "first_label": "Josef Von Sternberg",
+            "second_label": "Morocco",
             "category": "Directing",
             "year": 1932,
             "tmdb": {
-                "id": 42641,
-                "original_title": "Morocco",
-                "title": "Marrocos",
-                "release_date": "1930-11-14",
-                "backdrop_path": "/fyIbxqQ75Ma9jXmSr4OxXZ0UkOa.jpg",
-                "poster_path": "/jDqZsxyv35iyJWW0mANk1RhxhJp.jpg",
-                "overview": "The Foreign Legion marches in to Mogador with booze and women in mind just as singer Amy Jolly arrives from Paris to work at Lo Tinto's cabaret. That night, insouciant legionnaire Tom Brown catches her inimitably seductive, tuxedo-clad act. Both bruised by their past lives, the two edge cautiously into a no-strings relationship while being pursued by others. But Tom must leave on a perilous mission: is it too late for them?",
-                "vote_average": 6.4,
-                "vote_count": 129
+                "id": 2891,
+                "gender": 2,
+                "known_for_department": "Directing",
+                "name": "Josef von Sternberg",
+                "original_name": "Josef von Sternberg",
+                "popularity": 4.226,
+                "profile_path": "/vOCR477NWfBYraTJJaBXtVfr2O7.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 42641,
+                    "original_title": "Morocco",
+                    "title": "Marrocos",
+                    "release_date": "1930-11-14",
+                    "backdrop_path": "/fyIbxqQ75Ma9jXmSr4OxXZ0UkOa.jpg",
+                    "poster_path": "/jDqZsxyv35iyJWW0mANk1RhxhJp.jpg",
+                    "overview": "The Foreign Legion marches in to Mogador with booze and women in mind just as singer Amy Jolly arrives from Paris to work at Lo Tinto's cabaret. That night, insouciant legionnaire Tom Brown catches her inimitably seductive, tuxedo-clad act. Both bruised by their past lives, the two edge cautiously into a no-strings relationship while being pursued by others. But Tom must leave on a perilous mission: is it too late for them?",
+                    "vote_average": 6.4,
+                    "vote_count": 129,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         }
     ],
     "Outstanding Production": [
         {
-            "first_label": "Cimarron",
-            "second_label": "RKO Radio",
+            "first_label": "RKO Radio",
+            "second_label": "Cimarron",
             "category": "Outstanding Production",
             "year": 1932,
             "tmdb": {
-                "id": 42861,
-                "original_title": "Cimarron",
-                "title": "Cimarron",
-                "release_date": "1931-01-26",
-                "backdrop_path": "/mgo2XCKPHzZINzcm0YFjSUGpPIr.jpg",
-                "poster_path": "/3uCZ5Pmpr1WdVQyaloIAplHvocL.jpg",
-                "overview": "Quarenta anos da hist\u00f3ria norte-americana, em um per\u00edodo compreendido entre 1889 e 1929, s\u00e3o vistos atrav\u00e9s dos olhos de Yancey Cravat, um editor de jornal e o homem da lei de Oklahoma. Ele deixa suas terras em Wichita, chegando em Osage com sua fam\u00edlia, mas logo sente-se ocioso novamente, com a rotina, e decide ir para Cherokee Strip, deixando sua fam\u00edlia para tr\u00e1s. Sua mulher, Sabra, precisa ent\u00e3o aprender a viver por conta pr\u00f3pria. Vencedor do Oscar de Melhor Filme, foi o primeiro do g\u00eanero faroeste a conseguir tal proeza (fato que s\u00f3 se repetiu mais duas vezes, com Dan\u00e7a com Lobos e Os Imperdo\u00e1veis). Faturou ainda as estatuetas de Melhor Dire\u00e7\u00e3o de Arte e Melhor Roteiro Adaptado.",
-                "vote_average": 5.5,
-                "vote_count": 113
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 42861,
+                    "original_title": "Cimarron",
+                    "title": "Cimarron",
+                    "release_date": "1931-01-26",
+                    "backdrop_path": "/mgo2XCKPHzZINzcm0YFjSUGpPIr.jpg",
+                    "poster_path": "/3uCZ5Pmpr1WdVQyaloIAplHvocL.jpg",
+                    "overview": "Quarenta anos da hist\u00f3ria norte-americana, em um per\u00edodo compreendido entre 1889 e 1929, s\u00e3o vistos atrav\u00e9s dos olhos de Yancey Cravat, um editor de jornal e o homem da lei de Oklahoma. Ele deixa suas terras em Wichita, chegando em Osage com sua fam\u00edlia, mas logo sente-se ocioso novamente, com a rotina, e decide ir para Cherokee Strip, deixando sua fam\u00edlia para tr\u00e1s. Sua mulher, Sabra, precisa ent\u00e3o aprender a viver por conta pr\u00f3pria. Vencedor do Oscar de Melhor Filme, foi o primeiro do g\u00eanero faroeste a conseguir tal proeza (fato que s\u00f3 se repetiu mais duas vezes, com Dan\u00e7a com Lobos e Os Imperdo\u00e1veis). Faturou ainda as estatuetas de Melhor Dire\u00e7\u00e3o de Arte e Melhor Roteiro Adaptado.",
+                    "vote_average": 5.5,
+                    "vote_count": 113,
+                    "result_type": "movie"
+                }
             },
             "winner": true
         },
         {
-            "first_label": "East Lynne",
-            "second_label": "Fox",
+            "first_label": "Fox",
+            "second_label": "East Lynne",
             "category": "Outstanding Production",
             "year": 1932,
             "tmdb": {
-                "id": 84277,
-                "original_title": "East Lynne",
-                "title": "East Lynne",
-                "release_date": "1931-03-01",
-                "backdrop_path": "/hMwgjy7P1cgSzBiiIuXqbs1WQM5.jpg",
-                "poster_path": "/jYsmWJ3Y9kwMFIYiSSGOlqTQ3Ah.jpg",
-                "overview": "The refined Lady Isabel Carlisle, after leaving her family and enduring nearly a decade of hardships, learns that her son has fallen ill. Despite being nearly blinded as the result of an explosion, she returns home to see her son again.",
-                "vote_average": 5.9,
-                "vote_count": 10
+                "id": 2636200,
+                "gender": 0,
+                "known_for_department": "Sound",
+                "name": "Fox",
+                "original_name": "Fox",
+                "popularity": 0.6,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "id": 84277,
+                    "original_title": "East Lynne",
+                    "title": "East Lynne",
+                    "release_date": "1931-03-01",
+                    "backdrop_path": "/hMwgjy7P1cgSzBiiIuXqbs1WQM5.jpg",
+                    "poster_path": "/jYsmWJ3Y9kwMFIYiSSGOlqTQ3Ah.jpg",
+                    "overview": "The refined Lady Isabel Carlisle, after leaving her family and enduring nearly a decade of hardships, learns that her son has fallen ill. Despite being nearly blinded as the result of an explosion, she returns home to see her son again.",
+                    "vote_average": 5.9,
+                    "vote_count": 10,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "The Front Page",
-            "second_label": "The Caddo Company",
+            "first_label": "The Caddo Company",
+            "second_label": "The Front Page",
             "category": "Outstanding Production",
             "year": 1932,
             "tmdb": {
-                "id": 42814,
-                "original_title": "The Front Page",
-                "title": "A Primeira P\u00e1gina",
-                "release_date": "1931-04-04",
-                "backdrop_path": "/oXKzUfG4HPl1e3b87eFWV8Lr07a.jpg",
-                "poster_path": "/ifV0m0RRPAkchL5gS4MOLoWPBjN.jpg",
-                "overview": "Hildy Johnson, rep\u00f3rter de jornal, \u00e9 noivo de Peggy Grant e planeja se mudar para Nova York para um emprego em publicidade com sal\u00e1rio maior. A sala de imprensa do tribunal est\u00e1 cheia de rep\u00f3rteres mambembes que inventam hist\u00f3rias tanto quanto as escrevem. Todos est\u00e3o aguardando para cobrir o enforcamento de Earl Williams. Quando Williams escapa do inepto xerife, Hildy aproveita a oportunidade usando seus 260 d\u00f3lares da lua de mel para subornar um insider e obter um \"furo\" sobre a fuga. No entanto, Walter Burns, editor do Post, propositadamente demora para reembolsar Hildy da despesa, na esperan\u00e7a de que ele fique cobrindo a hist\u00f3ria. Conseguir uma grande mat\u00e9ria parece poss\u00edvel quando Hildy tromba com o confuso fugitivo Williams e o esconde em uma mesa roll-top na sala de imprensa. Burns chega do jornal para ajudar. A quest\u00e3o \u00e9, eles poder\u00e3o manter o paradeiro de Williams em segredo o tempo suficiente para dar o furo, especialmente com o xerife e outros rep\u00f3rteres zanzando ao redor?",
-                "vote_average": 6.3,
-                "vote_count": 54
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 42814,
+                    "original_title": "The Front Page",
+                    "title": "A Primeira P\u00e1gina",
+                    "release_date": "1931-04-04",
+                    "backdrop_path": "/oXKzUfG4HPl1e3b87eFWV8Lr07a.jpg",
+                    "poster_path": "/ifV0m0RRPAkchL5gS4MOLoWPBjN.jpg",
+                    "overview": "Hildy Johnson, rep\u00f3rter de jornal, \u00e9 noivo de Peggy Grant e planeja se mudar para Nova York para um emprego em publicidade com sal\u00e1rio maior. A sala de imprensa do tribunal est\u00e1 cheia de rep\u00f3rteres mambembes que inventam hist\u00f3rias tanto quanto as escrevem. Todos est\u00e3o aguardando para cobrir o enforcamento de Earl Williams. Quando Williams escapa do inepto xerife, Hildy aproveita a oportunidade usando seus 260 d\u00f3lares da lua de mel para subornar um insider e obter um \"furo\" sobre a fuga. No entanto, Walter Burns, editor do Post, propositadamente demora para reembolsar Hildy da despesa, na esperan\u00e7a de que ele fique cobrindo a hist\u00f3ria. Conseguir uma grande mat\u00e9ria parece poss\u00edvel quando Hildy tromba com o confuso fugitivo Williams e o esconde em uma mesa roll-top na sala de imprensa. Burns chega do jornal para ajudar. A quest\u00e3o \u00e9, eles poder\u00e3o manter o paradeiro de Williams em segredo o tempo suficiente para dar o furo, especialmente com o xerife e outros rep\u00f3rteres zanzando ao redor?",
+                    "vote_average": 6.3,
+                    "vote_count": 55,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Skippy",
-            "second_label": "Paramount Publix",
+            "first_label": "Paramount Publix",
+            "second_label": "Skippy",
             "category": "Outstanding Production",
             "year": 1932,
             "tmdb": {
-                "id": 84295,
-                "original_title": "Skippy",
-                "title": "Skippy",
-                "release_date": "1931-04-25",
-                "backdrop_path": "/sIvN2OqvTyHjlIYlFt4ads4Kage.jpg",
-                "poster_path": "/oikU4kj1LdjcBYpDvH6xThpaKdz.jpg",
-                "overview": "Skippy, the mischievous son of a wealthy doctor, meets Sooky in poverty-ridden Shantytown, and together they try to save Sooky's pet from a cruel dogcatcher.",
-                "vote_average": 6.2,
-                "vote_count": 17
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 84295,
+                    "original_title": "Skippy",
+                    "title": "Skippy",
+                    "release_date": "1931-04-25",
+                    "backdrop_path": "/sIvN2OqvTyHjlIYlFt4ads4Kage.jpg",
+                    "poster_path": "/oikU4kj1LdjcBYpDvH6xThpaKdz.jpg",
+                    "overview": "Skippy, the mischievous son of a wealthy doctor, meets Sooky in poverty-ridden Shantytown, and together they try to save Sooky's pet from a cruel dogcatcher.",
+                    "vote_average": 6.2,
+                    "vote_count": 17,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Trader Horn",
-            "second_label": "Metro-Goldwyn-Mayer",
+            "first_label": "Metro-Goldwyn-Mayer",
+            "second_label": "Trader Horn",
             "category": "Outstanding Production",
             "year": 1932,
             "tmdb": {
-                "id": 84296,
-                "original_title": "Trader Horn",
-                "title": "Mercador das Selvas",
-                "release_date": "1931-02-03",
-                "backdrop_path": "/8Ah8bfdz24gEVqK554kJLgEHfAl.jpg",
-                "poster_path": "/rBzzjMMOXUKWglfGsSZDxIbavjk.jpg",
-                "overview": "While on safari in an unexplored area of Africa, Trader Horn and Peru find missionary Edith Trent killed by natives. They decide to carry on her quest for her lost daughter Nina. They find her as the queen of a particularly savage tribe, and try to bring her back to civilization.",
-                "vote_average": 5.2,
-                "vote_count": 12
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 84296,
+                    "original_title": "Trader Horn",
+                    "title": "Mercador das Selvas",
+                    "release_date": "1931-02-03",
+                    "backdrop_path": "/8Ah8bfdz24gEVqK554kJLgEHfAl.jpg",
+                    "poster_path": "/rBzzjMMOXUKWglfGsSZDxIbavjk.jpg",
+                    "overview": "While on safari in an unexplored area of Africa, Trader Horn and Peru find missionary Edith Trent killed by natives. They decide to carry on her quest for her lost daughter Nina. They find her as the queen of a particularly savage tribe, and try to bring her back to civilization.",
+                    "vote_average": 5.2,
+                    "vote_count": 12,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         }
     ],
     "Sound Recording": [
         {
-            "first_label": "",
-            "second_label": "Paramount Publix Studio Sound Department",
+            "first_label": "Paramount Publix Studio Sound Department",
+            "second_label": "",
             "category": "Sound Recording",
             "year": 1932,
             "tmdb": {
@@ -475,8 +812,8 @@
             "winner": true
         },
         {
-            "first_label": "",
-            "second_label": "Samuel Goldwyn - United Artists Studio Sound Department",
+            "first_label": "Samuel Goldwyn - United Artists Studio Sound Department",
+            "second_label": "",
             "category": "Sound Recording",
             "year": 1932,
             "tmdb": {
@@ -485,8 +822,8 @@
             "winner": false
         },
         {
-            "first_label": "",
-            "second_label": "Metro-Goldwyn-Mayer Studio Sound Department",
+            "first_label": "Metro-Goldwyn-Mayer Studio Sound Department",
+            "second_label": "",
             "category": "Sound Recording",
             "year": 1932,
             "tmdb": {
@@ -495,8 +832,8 @@
             "winner": false
         },
         {
-            "first_label": "",
-            "second_label": "RKO Radio Studio Sound Department",
+            "first_label": "RKO Radio Studio Sound Department",
+            "second_label": "",
             "category": "Sound Recording",
             "year": 1932,
             "tmdb": {
@@ -507,160 +844,225 @@
     ],
     "Writing (Adaptation)": [
         {
-            "first_label": "Cimarron",
-            "second_label": "Howard Estabrook",
+            "first_label": "Howard Estabrook",
+            "second_label": "Cimarron",
             "category": "Writing (Adaptation)",
             "year": 1932,
             "tmdb": {
-                "id": 42861,
-                "original_title": "Cimarron",
-                "title": "Cimarron",
-                "release_date": "1931-01-26",
-                "backdrop_path": "/mgo2XCKPHzZINzcm0YFjSUGpPIr.jpg",
-                "poster_path": "/3uCZ5Pmpr1WdVQyaloIAplHvocL.jpg",
-                "overview": "Quarenta anos da hist\u00f3ria norte-americana, em um per\u00edodo compreendido entre 1889 e 1929, s\u00e3o vistos atrav\u00e9s dos olhos de Yancey Cravat, um editor de jornal e o homem da lei de Oklahoma. Ele deixa suas terras em Wichita, chegando em Osage com sua fam\u00edlia, mas logo sente-se ocioso novamente, com a rotina, e decide ir para Cherokee Strip, deixando sua fam\u00edlia para tr\u00e1s. Sua mulher, Sabra, precisa ent\u00e3o aprender a viver por conta pr\u00f3pria. Vencedor do Oscar de Melhor Filme, foi o primeiro do g\u00eanero faroeste a conseguir tal proeza (fato que s\u00f3 se repetiu mais duas vezes, com Dan\u00e7a com Lobos e Os Imperdo\u00e1veis). Faturou ainda as estatuetas de Melhor Dire\u00e7\u00e3o de Arte e Melhor Roteiro Adaptado.",
-                "vote_average": 5.5,
-                "vote_count": 113
+                "id": 88579,
+                "gender": 2,
+                "known_for_department": "Writing",
+                "name": "Howard Estabrook",
+                "original_name": "Howard Estabrook",
+                "popularity": 1.336,
+                "profile_path": "/1m7ynuqHocpjI6P0pOiuAo0dp8c.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 42861,
+                    "original_title": "Cimarron",
+                    "title": "Cimarron",
+                    "release_date": "1931-01-26",
+                    "backdrop_path": "/mgo2XCKPHzZINzcm0YFjSUGpPIr.jpg",
+                    "poster_path": "/3uCZ5Pmpr1WdVQyaloIAplHvocL.jpg",
+                    "overview": "Quarenta anos da hist\u00f3ria norte-americana, em um per\u00edodo compreendido entre 1889 e 1929, s\u00e3o vistos atrav\u00e9s dos olhos de Yancey Cravat, um editor de jornal e o homem da lei de Oklahoma. Ele deixa suas terras em Wichita, chegando em Osage com sua fam\u00edlia, mas logo sente-se ocioso novamente, com a rotina, e decide ir para Cherokee Strip, deixando sua fam\u00edlia para tr\u00e1s. Sua mulher, Sabra, precisa ent\u00e3o aprender a viver por conta pr\u00f3pria. Vencedor do Oscar de Melhor Filme, foi o primeiro do g\u00eanero faroeste a conseguir tal proeza (fato que s\u00f3 se repetiu mais duas vezes, com Dan\u00e7a com Lobos e Os Imperdo\u00e1veis). Faturou ainda as estatuetas de Melhor Dire\u00e7\u00e3o de Arte e Melhor Roteiro Adaptado.",
+                    "vote_average": 5.5,
+                    "vote_count": 113,
+                    "result_type": "movie"
+                }
             },
             "winner": true
         },
         {
-            "first_label": "The Criminal Code",
-            "second_label": "Seton I. Miller, Fred Niblo, Jr.",
+            "first_label": "Seton I. Miller, Fred Niblo, Jr.",
+            "second_label": "The Criminal Code",
             "category": "Writing (Adaptation)",
             "year": 1932,
             "tmdb": {
-                "id": 42815,
-                "original_title": "The Criminal Code",
-                "title": "O C\u00f3digo Penal",
-                "release_date": "1931-01-03",
-                "backdrop_path": "/4kcUGPbSZZvvTjve3DrJo3erzFT.jpg",
-                "poster_path": "/8avwFTJH1YCEkX4XhAKQkphtw4q.jpg",
-                "overview": "O promotor Mark Brady condena Robert Graham \u00e0 pris\u00e3o por assassinato. Em seguida, ele se torna o diretor do pres\u00eddio onde Robert cumpre pena. Apesar de repelir a amizade de Mark (que acredita ser ele um bom sujeito, apesar de tudo...), Robert aceita ser seu motorista e apaixona-se por Mary, a filha de Mark, que corresponde. Certo dia, na pris\u00e3o, o assassino Ned mata Runch, um delator. Robert, que testemunhou tudo, recusa-se a entregar Ned e Mark envia-o para a solit\u00e1ria. Mas Robert \u00e9 dur\u00e3o e a situa\u00e7\u00e3o fica nesse impasse at\u00e9 que Ned confessa.",
-                "vote_average": 6.0,
-                "vote_count": 23
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 42815,
+                    "original_title": "The Criminal Code",
+                    "title": "O C\u00f3digo Penal",
+                    "release_date": "1931-01-03",
+                    "backdrop_path": "/4kcUGPbSZZvvTjve3DrJo3erzFT.jpg",
+                    "poster_path": "/8avwFTJH1YCEkX4XhAKQkphtw4q.jpg",
+                    "overview": "O promotor Mark Brady condena Robert Graham \u00e0 pris\u00e3o por assassinato. Em seguida, ele se torna o diretor do pres\u00eddio onde Robert cumpre pena. Apesar de repelir a amizade de Mark (que acredita ser ele um bom sujeito, apesar de tudo...), Robert aceita ser seu motorista e apaixona-se por Mary, a filha de Mark, que corresponde. Certo dia, na pris\u00e3o, o assassino Ned mata Runch, um delator. Robert, que testemunhou tudo, recusa-se a entregar Ned e Mark envia-o para a solit\u00e1ria. Mas Robert \u00e9 dur\u00e3o e a situa\u00e7\u00e3o fica nesse impasse at\u00e9 que Ned confessa.",
+                    "vote_average": 6.0,
+                    "vote_count": 23,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Holiday",
-            "second_label": "Horace Jackson",
+            "first_label": "Horace Jackson",
+            "second_label": "Holiday",
             "category": "Writing (Adaptation)",
             "year": 1932,
             "tmdb": {
-                "id": 104215,
-                "original_title": "The Devil's Holiday",
-                "title": "The Devil's Holiday",
-                "release_date": "1930-05-09",
-                "backdrop_path": "/2kzcvsfDJnkb0JwOjAzNNrKmd5W.jpg",
-                "poster_path": "/bWTTulF8nwzY87MY7vNGwJAZ5ya.jpg",
-                "overview": "Beautiful manicurist Hallie Hobart sets her sights on handsome David Stone, the son of wealthy wheat farmer Ezra Stone. Professing to hate men, Hallie is only interested in luring David in for a lucrative business deal. David easily falls in love, but older brother Mark brands Hallie a gold-digger. To get even with the straight-laced Stone family, Hallie accepts David's marriage proposal.",
-                "vote_average": 6.3,
-                "vote_count": 6
+                "id": 1008623,
+                "gender": 2,
+                "known_for_department": "Writing",
+                "name": "Horace Jackson",
+                "original_name": "Horace Jackson",
+                "popularity": 1.826,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "id": 104215,
+                    "original_title": "The Devil's Holiday",
+                    "title": "The Devil's Holiday",
+                    "release_date": "1930-05-09",
+                    "backdrop_path": "/2kzcvsfDJnkb0JwOjAzNNrKmd5W.jpg",
+                    "poster_path": "/bWTTulF8nwzY87MY7vNGwJAZ5ya.jpg",
+                    "overview": "Beautiful manicurist Hallie Hobart sets her sights on handsome David Stone, the son of wealthy wheat farmer Ezra Stone. Professing to hate men, Hallie is only interested in luring David in for a lucrative business deal. David easily falls in love, but older brother Mark brands Hallie a gold-digger. To get even with the straight-laced Stone family, Hallie accepts David's marriage proposal.",
+                    "vote_average": 6.3,
+                    "vote_count": 6,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Little Caesar",
-            "second_label": "Francis Faragoh, Robert N. Lee",
+            "first_label": "Francis Faragoh, Robert N. Lee",
+            "second_label": "Little Caesar",
             "category": "Writing (Adaptation)",
             "year": 1932,
             "tmdb": {
-                "id": 27899,
-                "original_title": "Little Caesar",
-                "title": "Alma no Lodo",
-                "release_date": "1931-01-25",
-                "backdrop_path": "/8i8Epd76HEX5ZAqbG1QboRFiiJm.jpg",
-                "poster_path": "/1K3Q1tAHHA5Sdtja2pPALBQevA7.jpg",
-                "overview": "Enrico Bandello, um assassino profissional, e seu motorista c\u00famplice Joe Massara chegam em uma cidade grande e s\u00e3o contratados por um mafioso. Por\u00e9m, ap\u00f3s um roubo e um assassinato, as coisas tomam rumos imprevis\u00edveis.",
-                "vote_average": 6.9,
-                "vote_count": 248
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 27899,
+                    "original_title": "Little Caesar",
+                    "title": "Alma no Lodo",
+                    "release_date": "1931-01-25",
+                    "backdrop_path": "/8i8Epd76HEX5ZAqbG1QboRFiiJm.jpg",
+                    "poster_path": "/1K3Q1tAHHA5Sdtja2pPALBQevA7.jpg",
+                    "overview": "Enrico Bandello, um assassino profissional, e seu motorista c\u00famplice Joe Massara chegam em uma cidade grande e s\u00e3o contratados por um mafioso. Por\u00e9m, ap\u00f3s um roubo e um assassinato, as coisas tomam rumos imprevis\u00edveis.",
+                    "vote_average": 6.9,
+                    "vote_count": 249,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Skippy",
-            "second_label": "Joseph L. Mankiewicz, Sam Mintz",
+            "first_label": "Joseph L. Mankiewicz, Sam Mintz",
+            "second_label": "Skippy",
             "category": "Writing (Adaptation)",
             "year": 1932,
             "tmdb": {
-                "id": 84295,
-                "original_title": "Skippy",
-                "title": "Skippy",
-                "release_date": "1931-04-25",
-                "backdrop_path": "/sIvN2OqvTyHjlIYlFt4ads4Kage.jpg",
-                "poster_path": "/oikU4kj1LdjcBYpDvH6xThpaKdz.jpg",
-                "overview": "Skippy, the mischievous son of a wealthy doctor, meets Sooky in poverty-ridden Shantytown, and together they try to save Sooky's pet from a cruel dogcatcher.",
-                "vote_average": 6.2,
-                "vote_count": 17
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 84295,
+                    "original_title": "Skippy",
+                    "title": "Skippy",
+                    "release_date": "1931-04-25",
+                    "backdrop_path": "/sIvN2OqvTyHjlIYlFt4ads4Kage.jpg",
+                    "poster_path": "/oikU4kj1LdjcBYpDvH6xThpaKdz.jpg",
+                    "overview": "Skippy, the mischievous son of a wealthy doctor, meets Sooky in poverty-ridden Shantytown, and together they try to save Sooky's pet from a cruel dogcatcher.",
+                    "vote_average": 6.2,
+                    "vote_count": 17,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         }
     ],
     "Writing (Original Story)": [
         {
-            "first_label": "The Dawn Patrol",
-            "second_label": "John Monk Saunders",
+            "first_label": "John Monk Saunders",
+            "second_label": "The Dawn Patrol",
             "category": "Writing (Original Story)",
             "year": 1932,
             "tmdb": {
-                "error": "no ID found"
+                "id": 102503,
+                "gender": 2,
+                "known_for_department": "Writing",
+                "name": "John Monk Saunders",
+                "original_name": "John Monk Saunders",
+                "popularity": 1.62,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": true
         },
         {
-            "first_label": "The Doorway to Hell",
-            "second_label": "Rowland Brown",
+            "first_label": "Rowland Brown",
+            "second_label": "The Doorway to Hell",
             "category": "Writing (Original Story)",
             "year": 1932,
             "tmdb": {
-                "error": "no ID found"
+                "id": 87373,
+                "gender": 2,
+                "known_for_department": "Writing",
+                "name": "Rowland Brown",
+                "original_name": "Rowland Brown",
+                "popularity": 1.981,
+                "profile_path": "/dXX1tGDYxvBe99f260w8f5jAyKo.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Laughter",
-            "second_label": "Harry d'Abbadie d'Arrast, Douglas Doty, Donald Ogden Stewart",
+            "first_label": "Harry d'Abbadie d'Arrast, Douglas Doty, Donald Ogden Stewart",
+            "second_label": "Laughter",
             "category": "Writing (Original Story)",
             "year": 1932,
             "tmdb": {
-                "error": "no ID found"
+                "error": "no ID found",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "The Public Enemy",
-            "second_label": "John Bright, Kubec Glasmon",
+            "first_label": "John Bright, Kubec Glasmon",
+            "second_label": "The Public Enemy",
             "category": "Writing (Original Story)",
             "year": 1932,
             "tmdb": {
-                "id": 17687,
-                "original_title": "The Public Enemy",
-                "title": "Inimigo P\u00fablico",
-                "release_date": "1931-04-23",
-                "backdrop_path": "/oXLaGV0VOqQhXdUmQpm6KGsSpu1.jpg",
-                "poster_path": "/vVxdaRMprQO2DM4AFyJ6C4qZSFO.jpg",
-                "overview": "Chicago, 1909. Dois garotos, Tom Powers e Matt Doyle, que s\u00e3o bem amigos, crescem numa \u00e1rea pobre da cidade. Eles frequentam sal\u00f5es de sinuca e fazem pequenos furtos, que s\u00e3o vendidos para o receptador de 3\u00aa categoria Putty Nose. Em 1915 os dois amigos est\u00e3o se tornado jovens homens, que de dia fazem entregas e \u00e0 noite planejam roubos com Putty Nose, que lhes d\u00e1 rev\u00f3lveres e dicas para o 1\u00ba grande golpe deles. Por\u00e9m as coisas n\u00e3o saem como o planejado e, apesar de Tom e Matt conseguirem escapar, um c\u00famplice deles \u00e9 morto e Putty Nose, que prometeu proteg\u00ea-los, deixa a cidade. Em 1920 eles fazem amizade com Paddy Ryan, que lhes diz que a chegada da Lei Seca far\u00e1 com que ganhem muito dinheiro vendendo bebida. Realmente em pouco tempo Tom e Matt ganham o bastante para frequentar os melhores lugares, usarem roupas finas e carros luxuosos, mas para manter este padr\u00e3o de vida o pre\u00e7o \u00e9 \u00e0s vezes muito alto.",
-                "vote_average": 7.2,
-                "vote_count": 315
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 17687,
+                    "original_title": "The Public Enemy",
+                    "title": "Inimigo P\u00fablico",
+                    "release_date": "1931-04-23",
+                    "backdrop_path": "/oXLaGV0VOqQhXdUmQpm6KGsSpu1.jpg",
+                    "poster_path": "/vVxdaRMprQO2DM4AFyJ6C4qZSFO.jpg",
+                    "overview": "Chicago, 1909. Dois garotos, Tom Powers e Matt Doyle, que s\u00e3o bem amigos, crescem numa \u00e1rea pobre da cidade. Eles frequentam sal\u00f5es de sinuca e fazem pequenos furtos, que s\u00e3o vendidos para o receptador de 3\u00aa categoria Putty Nose. Em 1915 os dois amigos est\u00e3o se tornado jovens homens, que de dia fazem entregas e \u00e0 noite planejam roubos com Putty Nose, que lhes d\u00e1 rev\u00f3lveres e dicas para o 1\u00ba grande golpe deles. Por\u00e9m as coisas n\u00e3o saem como o planejado e, apesar de Tom e Matt conseguirem escapar, um c\u00famplice deles \u00e9 morto e Putty Nose, que prometeu proteg\u00ea-los, deixa a cidade. Em 1920 eles fazem amizade com Paddy Ryan, que lhes diz que a chegada da Lei Seca far\u00e1 com que ganhem muito dinheiro vendendo bebida. Realmente em pouco tempo Tom e Matt ganham o bastante para frequentar os melhores lugares, usarem roupas finas e carros luxuosos, mas para manter este padr\u00e3o de vida o pre\u00e7o \u00e9 \u00e0s vezes muito alto.",
+                    "vote_average": 7.2,
+                    "vote_count": 318,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Smart Money",
-            "second_label": "Lucien Hubbard, Joseph Jackson",
+            "first_label": "Lucien Hubbard, Joseph Jackson",
+            "second_label": "Smart Money",
             "category": "Writing (Original Story)",
             "year": 1932,
             "tmdb": {
-                "id": 17966,
-                "original_title": "Smart Money",
-                "title": "Smart Money",
-                "release_date": "1931-06-11",
-                "backdrop_path": "/73b4nTlC7DtqGAAG6W8bk3uNL6J.jpg",
-                "poster_path": "/2KnQNZSnle6xxAF1K846byLZ63J.jpg",
-                "overview": "Two brothers' trip to the big city to do a little gambling results in a fateful turn of events.",
-                "vote_average": 7.0,
-                "vote_count": 20
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 17966,
+                    "original_title": "Smart Money",
+                    "title": "Smart Money",
+                    "release_date": "1931-06-11",
+                    "backdrop_path": "/73b4nTlC7DtqGAAG6W8bk3uNL6J.jpg",
+                    "poster_path": "/2KnQNZSnle6xxAF1K846byLZ63J.jpg",
+                    "overview": "Two brothers' trip to the big city to do a little gambling results in a fateful turn of events.",
+                    "vote_average": 7.0,
+                    "vote_count": 21,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         }

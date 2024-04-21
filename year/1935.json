@@ -6,7 +6,26 @@
             "category": "Actor",
             "year": 1935,
             "tmdb": {
-                "error": "no ID found"
+                "id": 11492,
+                "gender": 2,
+                "known_for_department": "Acting",
+                "name": "Clark Gable",
+                "original_name": "Clark Gable",
+                "popularity": 15.192,
+                "profile_path": "/qD6WJzydym7n7fCeL9PGnHe1aEV.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 3078,
+                    "original_title": "It Happened One Night",
+                    "title": "Aconteceu Naquela Noite",
+                    "release_date": "1934-02-22",
+                    "backdrop_path": "/hmiC0MsI0PDd1TJXC62xyw0tX0s.jpg",
+                    "poster_path": "/2xQmVVitVLJJSaK3FN1d9ezs6D.jpg",
+                    "overview": "Peter Warren, um jornalista desempregado, encontra Ellie, a filha de um milion\u00e1rio que fugiu do iate de Alexander Andrews, seu pai, pois este n\u00e3o aprova quem ela escolheu como marido. Peter v\u00ea a oportunidade de obter uma boa mat\u00e9ria, mas v\u00e1rios fatos criam uma forte aproxima\u00e7\u00e3o entre eles.",
+                    "vote_average": 7.831,
+                    "vote_count": 1170,
+                    "result_type": "movie"
+                }
             },
             "winner": true
         },
@@ -16,7 +35,26 @@
             "category": "Actor",
             "year": 1935,
             "tmdb": {
-                "error": "no ID found"
+                "id": 9067,
+                "gender": 2,
+                "known_for_department": "Acting",
+                "name": "Frank Morgan",
+                "original_name": "Frank Morgan",
+                "popularity": 12.243,
+                "profile_path": "/gwbmaZ6EGYbsBbe8pWW3Gded02k.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 112951,
+                    "original_title": "The Affairs of Cellini",
+                    "title": "As Aventuras de Cellini",
+                    "release_date": "1934-08-24",
+                    "backdrop_path": "/Af8305VTW4PHCPaClt5DAOiKrp6.jpg",
+                    "poster_path": "/xY1ilGKLlLkLhtyYjmYAkOtMObw.jpg",
+                    "overview": "The 16th-century sculptor woos the Duchess of Florence despite the duke.",
+                    "vote_average": 4.6,
+                    "vote_count": 7,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
@@ -26,7 +64,26 @@
             "category": "Actor",
             "year": 1935,
             "tmdb": {
-                "error": "no ID found"
+                "id": 32428,
+                "gender": 2,
+                "known_for_department": "Acting",
+                "name": "William Powell",
+                "original_name": "William Powell",
+                "popularity": 13.21,
+                "profile_path": "/8DTWs389THkVCTiDFu0x8ekNmUC.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 3529,
+                    "original_title": "The Thin Man",
+                    "title": "A Ceia dos Acusados",
+                    "release_date": "1934-05-25",
+                    "backdrop_path": "/dSXAPWQiGRR7L6utshQIff9niUQ.jpg",
+                    "poster_path": "/pIOtpo8ZGottTHsUYnK6A5VXdRy.jpg",
+                    "overview": "Uma dupla de detetives marido-e-mulher assume a busca de um inventor desaparecido e quase morre em seus esfor\u00e7os. (e 12 - Estimado 12 Anos)",
+                    "vote_average": 7.514,
+                    "vote_count": 432,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         }
@@ -38,7 +95,26 @@
             "category": "Actress",
             "year": 1935,
             "tmdb": {
-                "error": "no ID found"
+                "id": 30155,
+                "gender": 1,
+                "known_for_department": "Acting",
+                "name": "Claudette Colbert",
+                "original_name": "Claudette Colbert",
+                "popularity": 16.422,
+                "profile_path": "/83zjTnSokaRsH14BRX2WXCXHOct.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 3078,
+                    "original_title": "It Happened One Night",
+                    "title": "Aconteceu Naquela Noite",
+                    "release_date": "1934-02-22",
+                    "backdrop_path": "/hmiC0MsI0PDd1TJXC62xyw0tX0s.jpg",
+                    "poster_path": "/2xQmVVitVLJJSaK3FN1d9ezs6D.jpg",
+                    "overview": "Peter Warren, um jornalista desempregado, encontra Ellie, a filha de um milion\u00e1rio que fugiu do iate de Alexander Andrews, seu pai, pois este n\u00e3o aprova quem ela escolheu como marido. Peter v\u00ea a oportunidade de obter uma boa mat\u00e9ria, mas v\u00e1rios fatos criam uma forte aproxima\u00e7\u00e3o entre eles.",
+                    "vote_average": 7.831,
+                    "vote_count": 1170,
+                    "result_type": "movie"
+                }
             },
             "winner": true
         },
@@ -48,7 +124,26 @@
             "category": "Actress",
             "year": 1935,
             "tmdb": {
-                "error": "no ID found"
+                "id": 3380,
+                "gender": 1,
+                "known_for_department": "Acting",
+                "name": "Bette Davis",
+                "original_name": "Bette Davis",
+                "popularity": 28.137,
+                "profile_path": "/uBRNCljWHEG9cW9em2ZyoGWQQN5.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 43905,
+                    "original_title": "Of Human Bondage",
+                    "title": "Escravos do Desejo",
+                    "release_date": "1934-07-20",
+                    "backdrop_path": "/daZ60vvaZhmw5OLcTL4NJL4XLwr.jpg",
+                    "poster_path": "/cpGAPsHnCpifmLKeiLnwNgT157y.jpg",
+                    "overview": "A young man finds himself attracted to a cold and unfeeling waitress who may ultimately destroy them both.",
+                    "vote_average": 6.429,
+                    "vote_count": 113,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
@@ -58,7 +153,26 @@
             "category": "Actress",
             "year": 1935,
             "tmdb": {
-                "error": "no ID found"
+                "id": 591344,
+                "gender": 1,
+                "known_for_department": "Acting",
+                "name": "Grace Moore",
+                "original_name": "Grace Moore",
+                "popularity": 3.343,
+                "profile_path": "/2p7vshkPsTLCReoFvaBjOmfLWfa.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 84097,
+                    "original_title": "One Night of Love",
+                    "title": "One Night of Love",
+                    "release_date": "1934-07-16",
+                    "backdrop_path": "/cVGZyKU75srMlBGtvY7AhZTraq7.jpg",
+                    "poster_path": "/xJyYM2HN2St40KkPbPj6JOvNNeu.jpg",
+                    "overview": "Mary Barrett is an aspiring opera singer who is taken under the wings of a famous operatic maestro, Guilio Monterverdi. After spending endless working hours together and arguing, their relationship develops into love. But, jealousy and misunderstandings prevent Mary and Guilio from acknowledging their true feelings.",
+                    "vote_average": 5.3,
+                    "vote_count": 13,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
@@ -68,1019 +182,1424 @@
             "category": "Actress",
             "year": 1935,
             "tmdb": {
-                "error": "no ID found"
+                "id": 88867,
+                "gender": 1,
+                "known_for_department": "Acting",
+                "name": "Norma Shearer",
+                "original_name": "Norma Shearer",
+                "popularity": 7.12,
+                "profile_path": "/fyuEXxpxpvrN4XH8SqByqCYHJtx.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 43693,
+                    "original_title": "The Barretts of Wimpole Street",
+                    "title": "A Fam\u00edlia Barrett",
+                    "release_date": "1934-09-21",
+                    "backdrop_path": "/lLmI59EA1gYKuOLVIHt1n7N0CnN.jpg",
+                    "poster_path": "/u0RVhFCtUXsHO7s3F7K3208BAJs.jpg",
+                    "overview": "Remarkable poet Elizabeth Barrett is slowly recovering from a crippling illness with the help of her siblings, especially her youngest sister, Henrietta, but feels stifled by the domestic tyranny of her wealthy widowed father. When she meets fellow poet Robert Browning in a romantic first encounter, her heart belongs to him. However, her controlling father has no intention of allowing her out of his sight.",
+                    "vote_average": 5.9,
+                    "vote_count": 17,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         }
     ],
     "Art Direction": [
         {
-            "first_label": "The Merry Widow",
-            "second_label": "Cedric Gibbons, Frederic Hope",
+            "first_label": "Cedric Gibbons, Frederic Hope",
+            "second_label": "The Merry Widow",
             "category": "Art Direction",
             "year": 1935,
             "tmdb": {
-                "id": 43689,
-                "original_title": "The Merry Widow",
-                "title": "The Merry Widow",
-                "release_date": "1934-11-02",
-                "backdrop_path": "/gbTyjM4dHlvkVtQ0Z1STI5aJKOF.jpg",
-                "poster_path": "/uWRgCMUCJJOCmRqKs5gnL20JLFO.jpg",
-                "overview": "A prince from a small kingdom courts a wealthy widow to keep her money in the country.",
-                "vote_average": 6.8,
-                "vote_count": 46
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 43689,
+                    "original_title": "The Merry Widow",
+                    "title": "The Merry Widow",
+                    "release_date": "1934-11-02",
+                    "backdrop_path": "/gbTyjM4dHlvkVtQ0Z1STI5aJKOF.jpg",
+                    "poster_path": "/uWRgCMUCJJOCmRqKs5gnL20JLFO.jpg",
+                    "overview": "A prince from a small kingdom courts a wealthy widow to keep her money in the country.",
+                    "vote_average": 6.7,
+                    "vote_count": 47,
+                    "result_type": "movie"
+                }
             },
             "winner": true
         },
         {
-            "first_label": "The Affairs of Cellini",
-            "second_label": "Richard Day",
+            "first_label": "Richard Day",
+            "second_label": "The Affairs of Cellini",
             "category": "Art Direction",
             "year": 1935,
             "tmdb": {
-                "id": 112951,
-                "original_title": "The Affairs of Cellini",
-                "title": "As Aventuras de Cellini",
-                "release_date": "1934-08-24",
-                "backdrop_path": "/Af8305VTW4PHCPaClt5DAOiKrp6.jpg",
-                "poster_path": "/xY1ilGKLlLkLhtyYjmYAkOtMObw.jpg",
-                "overview": "The 16th-century sculptor woos the Duchess of Florence despite the duke.",
-                "vote_average": 4.6,
-                "vote_count": 7
+                "id": 1213124,
+                "gender": 2,
+                "known_for_department": "Writing",
+                "name": "Richard Day",
+                "original_name": "Richard Day",
+                "popularity": 1.649,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "id": 112951,
+                    "original_title": "The Affairs of Cellini",
+                    "title": "As Aventuras de Cellini",
+                    "release_date": "1934-08-24",
+                    "backdrop_path": "/Af8305VTW4PHCPaClt5DAOiKrp6.jpg",
+                    "poster_path": "/xY1ilGKLlLkLhtyYjmYAkOtMObw.jpg",
+                    "overview": "The 16th-century sculptor woos the Duchess of Florence despite the duke.",
+                    "vote_average": 4.6,
+                    "vote_count": 7,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "The Gay Divorcee",
-            "second_label": "Van Nest Polglase, Carroll Clark",
+            "first_label": "Van Nest Polglase, Carroll Clark",
+            "second_label": "The Gay Divorcee",
             "category": "Art Direction",
             "year": 1935,
             "tmdb": {
-                "id": 28288,
-                "original_title": "The Gay Divorcee",
-                "title": "A Alegre Divorciada",
-                "release_date": "1934-10-12",
-                "backdrop_path": "/h5FknBwnx6fRaiCkHv4idjw6stu.jpg",
-                "poster_path": "/cBQ6e1q6fYTyLVZFJl3sGd9vqF.jpg",
-                "overview": "O filme conta a hist\u00f3ria de Guy Holden, um c\u00e9lebre bailarino estadunidense, que est\u00e1 viajando pela Europa com seu amigo, o advogado Egbert. No meio do caminho para a Inglaterra, conhece Mimi Glossop, que viaja com sua tia. Em Londres, os dois se encontram casualmente e Guy se apaixona por Mimi, mas sem saber que se trata de uma mulher casada em processo de div\u00f3rcio. Mimi e sua tia voltam a se encontrar num hotel e come\u00e7am os equ\u00edvocos.",
-                "vote_average": 6.9,
-                "vote_count": 114
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 28288,
+                    "original_title": "The Gay Divorcee",
+                    "title": "A Alegre Divorciada",
+                    "release_date": "1934-10-12",
+                    "backdrop_path": "/h5FknBwnx6fRaiCkHv4idjw6stu.jpg",
+                    "poster_path": "/cBQ6e1q6fYTyLVZFJl3sGd9vqF.jpg",
+                    "overview": "O filme conta a hist\u00f3ria de Guy Holden, um c\u00e9lebre bailarino estadunidense, que est\u00e1 viajando pela Europa com seu amigo, o advogado Egbert. No meio do caminho para a Inglaterra, conhece Mimi Glossop, que viaja com sua tia. Em Londres, os dois se encontram casualmente e Guy se apaixona por Mimi, mas sem saber que se trata de uma mulher casada em processo de div\u00f3rcio. Mimi e sua tia voltam a se encontrar num hotel e come\u00e7am os equ\u00edvocos.",
+                    "vote_average": 6.9,
+                    "vote_count": 115,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         }
     ],
     "Assistant Director": [
         {
-            "first_label": "Viva Villa!",
-            "second_label": "John Waters",
+            "first_label": "John Waters",
+            "second_label": "Viva Villa!",
             "category": "Assistant Director",
             "year": 1935,
             "tmdb": {
-                "id": 43604,
-                "original_title": "Viva Villa!",
-                "title": "Viva Villa!",
-                "release_date": "1934-04-27",
-                "backdrop_path": "/x47WOx7vRflR8sGiVdIYDWXkY9t.jpg",
-                "poster_path": "/nUB1fXAGHOZ89DzReXp3QEcz2uo.jpg",
-                "overview": "In this fictionalized biography, young Pancho Villa takes to the hills after killing an overseer in revenge for his father's death.",
-                "vote_average": 6.3,
-                "vote_count": 19
+                "id": 1068123,
+                "gender": 2,
+                "known_for_department": "Acting",
+                "name": "John Waters",
+                "original_name": "John Waters",
+                "popularity": 8.245,
+                "profile_path": "/o5Kgv9eVS5vyM01RJFGBIiZSEBp.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 43604,
+                    "original_title": "Viva Villa!",
+                    "title": "Viva Villa!",
+                    "release_date": "1934-04-27",
+                    "backdrop_path": "/x47WOx7vRflR8sGiVdIYDWXkY9t.jpg",
+                    "poster_path": "/nUB1fXAGHOZ89DzReXp3QEcz2uo.jpg",
+                    "overview": "In this fictionalized biography, young Pancho Villa takes to the hills after killing an overseer in revenge for his father's death.",
+                    "vote_average": 6.3,
+                    "vote_count": 19,
+                    "result_type": "movie"
+                }
             },
             "winner": true
         },
         {
-            "first_label": "Cleopatra",
-            "second_label": "Cullen Tate",
+            "first_label": "Cullen Tate",
+            "second_label": "Cleopatra",
             "category": "Assistant Director",
             "year": 1935,
             "tmdb": {
-                "id": 43902,
-                "original_title": "Cleopatra",
-                "title": "Cle\u00f3patra",
-                "release_date": "1934-10-05",
-                "backdrop_path": "/slpR2LO5bVf5I2QxtPPlSM8U6RO.jpg",
-                "poster_path": "/2JxuGqS1zLTy0lKUp0twIVPlk4B.jpg",
-                "overview": "The queen of Egypt barges the Nile and flirts with Mark Antony and Julius Caesar.",
-                "vote_average": 5.9,
-                "vote_count": 71
+                "id": 1530554,
+                "gender": 0,
+                "known_for_department": "Directing",
+                "name": "Cullen Tate",
+                "original_name": "Cullen Tate",
+                "popularity": 1.4,
+                "profile_path": "/x4NZ3uMT4lVcpxLibcxeIgonzK3.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 43902,
+                    "original_title": "Cleopatra",
+                    "title": "Cle\u00f3patra",
+                    "release_date": "1934-10-05",
+                    "backdrop_path": "/slpR2LO5bVf5I2QxtPPlSM8U6RO.jpg",
+                    "poster_path": "/2JxuGqS1zLTy0lKUp0twIVPlk4B.jpg",
+                    "overview": "The queen of Egypt barges the Nile and flirts with Mark Antony and Julius Caesar.",
+                    "vote_average": 5.9,
+                    "vote_count": 72,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Imitation of Life",
-            "second_label": "Scott Beal",
+            "first_label": "Scott Beal",
+            "second_label": "Imitation of Life",
             "category": "Assistant Director",
             "year": 1935,
             "tmdb": {
-                "id": 47921,
-                "original_title": "Imitation of Life",
-                "title": "Imita\u00e7\u00e3o da Vida",
-                "release_date": "1934-11-23",
-                "backdrop_path": "/stIYs3ak8LCxRCM1IF2DnzEx1ku.jpg",
-                "poster_path": "/kqymXLeKSb8YWQdMiv3nfQjfP2v.jpg",
-                "overview": "Uma vi\u00fava em dificuldades e sua filha recebem uma empregada negra e sua filha de pele clara; as duas mulheres iniciam um neg\u00f3cio de sucesso, mas enfrentam problemas familiares, de identidade e raciais ao longo do caminho. (e Livre - Estimado Livre)",
-                "vote_average": 7.0,
-                "vote_count": 78
+                "id": 1297581,
+                "gender": 2,
+                "known_for_department": "Directing",
+                "name": "Scott R. Beal",
+                "original_name": "Scott R. Beal",
+                "popularity": 0.968,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "id": 47921,
+                    "original_title": "Imitation of Life",
+                    "title": "Imita\u00e7\u00e3o da Vida",
+                    "release_date": "1934-11-23",
+                    "backdrop_path": "/stIYs3ak8LCxRCM1IF2DnzEx1ku.jpg",
+                    "poster_path": "/kqymXLeKSb8YWQdMiv3nfQjfP2v.jpg",
+                    "overview": "Uma vi\u00fava em dificuldades e sua filha recebem uma empregada negra e sua filha de pele clara; as duas mulheres iniciam um neg\u00f3cio de sucesso, mas enfrentam problemas familiares, de identidade e raciais ao longo do caminho. (e Livre - Estimado Livre)",
+                    "vote_average": 7.0,
+                    "vote_count": 79,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         }
     ],
     "Cinematography": [
         {
-            "first_label": "Cleopatra",
-            "second_label": "Victor Milner",
+            "first_label": "Victor Milner",
+            "second_label": "Cleopatra",
             "category": "Cinematography",
             "year": 1935,
             "tmdb": {
-                "id": 43902,
-                "original_title": "Cleopatra",
-                "title": "Cle\u00f3patra",
-                "release_date": "1934-10-05",
-                "backdrop_path": "/slpR2LO5bVf5I2QxtPPlSM8U6RO.jpg",
-                "poster_path": "/2JxuGqS1zLTy0lKUp0twIVPlk4B.jpg",
-                "overview": "The queen of Egypt barges the Nile and flirts with Mark Antony and Julius Caesar.",
-                "vote_average": 5.9,
-                "vote_count": 71
+                "id": 30258,
+                "gender": 2,
+                "known_for_department": "Camera",
+                "name": "Victor Milner",
+                "original_name": "Victor Milner",
+                "popularity": 1.96,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "id": 43902,
+                    "original_title": "Cleopatra",
+                    "title": "Cle\u00f3patra",
+                    "release_date": "1934-10-05",
+                    "backdrop_path": "/slpR2LO5bVf5I2QxtPPlSM8U6RO.jpg",
+                    "poster_path": "/2JxuGqS1zLTy0lKUp0twIVPlk4B.jpg",
+                    "overview": "The queen of Egypt barges the Nile and flirts with Mark Antony and Julius Caesar.",
+                    "vote_average": 5.9,
+                    "vote_count": 72,
+                    "result_type": "movie"
+                }
             },
             "winner": true
         },
         {
-            "first_label": "The Affairs of Cellini",
-            "second_label": "Charles Rosher",
+            "first_label": "Charles Rosher",
+            "second_label": "The Affairs of Cellini",
             "category": "Cinematography",
             "year": 1935,
             "tmdb": {
-                "id": 112951,
-                "original_title": "The Affairs of Cellini",
-                "title": "As Aventuras de Cellini",
-                "release_date": "1934-08-24",
-                "backdrop_path": "/Af8305VTW4PHCPaClt5DAOiKrp6.jpg",
-                "poster_path": "/xY1ilGKLlLkLhtyYjmYAkOtMObw.jpg",
-                "overview": "The 16th-century sculptor woos the Duchess of Florence despite the duke.",
-                "vote_average": 4.6,
-                "vote_count": 7
+                "id": 9080,
+                "gender": 2,
+                "known_for_department": "Camera",
+                "name": "Charles Rosher",
+                "original_name": "Charles Rosher",
+                "popularity": 1.79,
+                "profile_path": "/dNa69wMMOdGkhdcVErxEeKLHfDx.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 112951,
+                    "original_title": "The Affairs of Cellini",
+                    "title": "As Aventuras de Cellini",
+                    "release_date": "1934-08-24",
+                    "backdrop_path": "/Af8305VTW4PHCPaClt5DAOiKrp6.jpg",
+                    "poster_path": "/xY1ilGKLlLkLhtyYjmYAkOtMObw.jpg",
+                    "overview": "The 16th-century sculptor woos the Duchess of Florence despite the duke.",
+                    "vote_average": 4.6,
+                    "vote_count": 7,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Operator 13",
-            "second_label": "George Folsey",
+            "first_label": "George Folsey",
+            "second_label": "Operator 13",
             "category": "Cinematography",
             "year": 1935,
             "tmdb": {
-                "id": 111310,
-                "original_title": "Operator 13",
-                "title": "A Espi\u00e3 13",
-                "release_date": "1934-06-08",
-                "backdrop_path": "/qIG3nO6RQTDTlKTxDp6FuPIinbB.jpg",
-                "poster_path": "/n53ekxC0iWdo4Q1aEUXCPlE8b8t.jpg",
-                "overview": "American Civil War, 1862. After the disaster of the Second Battle of Bull Run, Major Allen, chief of the Secret Service of the Union, asks actress Gail Loveless to become one of his operators and infiltrate enemy territory.",
-                "vote_average": 5.7,
-                "vote_count": 11
+                "id": 7184,
+                "gender": 2,
+                "known_for_department": "Editing",
+                "name": "George Folsey Jr.",
+                "original_name": "George Folsey Jr.",
+                "popularity": 2.757,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "id": 111310,
+                    "original_title": "Operator 13",
+                    "title": "A Espi\u00e3 13",
+                    "release_date": "1934-06-08",
+                    "backdrop_path": "/qIG3nO6RQTDTlKTxDp6FuPIinbB.jpg",
+                    "poster_path": "/n53ekxC0iWdo4Q1aEUXCPlE8b8t.jpg",
+                    "overview": "American Civil War, 1862. After the disaster of the Second Battle of Bull Run, Major Allen, chief of the Secret Service of the Union, asks actress Gail Loveless to become one of his operators and infiltrate enemy territory.",
+                    "vote_average": 5.7,
+                    "vote_count": 11,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         }
     ],
     "Directing": [
         {
-            "first_label": "It Happened One Night",
-            "second_label": "Frank Capra",
+            "first_label": "Frank Capra",
+            "second_label": "It Happened One Night",
             "category": "Directing",
             "year": 1935,
             "tmdb": {
-                "id": 3078,
-                "original_title": "It Happened One Night",
-                "title": "Aconteceu Naquela Noite",
-                "release_date": "1934-02-22",
-                "backdrop_path": "/hmiC0MsI0PDd1TJXC62xyw0tX0s.jpg",
-                "poster_path": "/2xQmVVitVLJJSaK3FN1d9ezs6D.jpg",
-                "overview": "Peter Warren, um jornalista desempregado, encontra Ellie, a filha de um milion\u00e1rio que fugiu do iate de Alexander Andrews, seu pai, pois este n\u00e3o aprova quem ela escolheu como marido. Peter v\u00ea a oportunidade de obter uma boa mat\u00e9ria, mas v\u00e1rios fatos criam uma forte aproxima\u00e7\u00e3o entre eles.",
-                "vote_average": 7.835,
-                "vote_count": 1160
+                "id": 2662,
+                "gender": 2,
+                "known_for_department": "Directing",
+                "name": "Frank Capra",
+                "original_name": "Frank Capra",
+                "popularity": 15.024,
+                "profile_path": "/ekvnffPsTGHyukMHpxprNxRt3g5.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 3078,
+                    "original_title": "It Happened One Night",
+                    "title": "Aconteceu Naquela Noite",
+                    "release_date": "1934-02-22",
+                    "backdrop_path": "/hmiC0MsI0PDd1TJXC62xyw0tX0s.jpg",
+                    "poster_path": "/2xQmVVitVLJJSaK3FN1d9ezs6D.jpg",
+                    "overview": "Peter Warren, um jornalista desempregado, encontra Ellie, a filha de um milion\u00e1rio que fugiu do iate de Alexander Andrews, seu pai, pois este n\u00e3o aprova quem ela escolheu como marido. Peter v\u00ea a oportunidade de obter uma boa mat\u00e9ria, mas v\u00e1rios fatos criam uma forte aproxima\u00e7\u00e3o entre eles.",
+                    "vote_average": 7.831,
+                    "vote_count": 1170,
+                    "result_type": "movie"
+                }
             },
             "winner": true
         },
         {
-            "first_label": "One Night of Love",
-            "second_label": "Victor Schertzinger",
+            "first_label": "Victor Schertzinger",
+            "second_label": "One Night of Love",
             "category": "Directing",
             "year": 1935,
             "tmdb": {
-                "id": 84097,
-                "original_title": "One Night of Love",
-                "title": "One Night of Love",
-                "release_date": "1934-07-16",
-                "backdrop_path": "/cVGZyKU75srMlBGtvY7AhZTraq7.jpg",
-                "poster_path": "/xJyYM2HN2St40KkPbPj6JOvNNeu.jpg",
-                "overview": "Mary Barrett is an aspiring opera singer who is taken under the wings of a famous operatic maestro, Guilio Monterverdi. After spending endless working hours together and arguing, their relationship develops into love. But, jealousy and misunderstandings prevent Mary and Guilio from acknowledging their true feelings.",
-                "vote_average": 5.3,
-                "vote_count": 13
+                "id": 148849,
+                "gender": 2,
+                "known_for_department": "Directing",
+                "name": "Victor Schertzinger",
+                "original_name": "Victor Schertzinger",
+                "popularity": 4.886,
+                "profile_path": "/7wR8zyg35twNJRlrboe1bN3kAza.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 84097,
+                    "original_title": "One Night of Love",
+                    "title": "One Night of Love",
+                    "release_date": "1934-07-16",
+                    "backdrop_path": "/cVGZyKU75srMlBGtvY7AhZTraq7.jpg",
+                    "poster_path": "/xJyYM2HN2St40KkPbPj6JOvNNeu.jpg",
+                    "overview": "Mary Barrett is an aspiring opera singer who is taken under the wings of a famous operatic maestro, Guilio Monterverdi. After spending endless working hours together and arguing, their relationship develops into love. But, jealousy and misunderstandings prevent Mary and Guilio from acknowledging their true feelings.",
+                    "vote_average": 5.3,
+                    "vote_count": 13,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "The Thin Man",
-            "second_label": "W. S. Van Dyke",
+            "first_label": "W. S. Van Dyke",
+            "second_label": "The Thin Man",
             "category": "Directing",
             "year": 1935,
             "tmdb": {
-                "id": 3529,
-                "original_title": "The Thin Man",
-                "title": "A Ceia dos Acusados",
-                "release_date": "1934-05-25",
-                "backdrop_path": "/dSXAPWQiGRR7L6utshQIff9niUQ.jpg",
-                "poster_path": "/pIOtpo8ZGottTHsUYnK6A5VXdRy.jpg",
-                "overview": "Uma dupla de detetives marido-e-mulher assume a busca de um inventor desaparecido e quase morre em seus esfor\u00e7os. (e 12 - Estimado 12 Anos)",
-                "vote_average": 7.5,
-                "vote_count": 429
+                "id": 32427,
+                "gender": 2,
+                "known_for_department": "Directing",
+                "name": "W.S. Van Dyke",
+                "original_name": "W.S. Van Dyke",
+                "popularity": 6.621,
+                "profile_path": "/82hTZOdmnF9lFUY7XVeCbGGuqvN.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 3529,
+                    "original_title": "The Thin Man",
+                    "title": "A Ceia dos Acusados",
+                    "release_date": "1934-05-25",
+                    "backdrop_path": "/dSXAPWQiGRR7L6utshQIff9niUQ.jpg",
+                    "poster_path": "/pIOtpo8ZGottTHsUYnK6A5VXdRy.jpg",
+                    "overview": "Uma dupla de detetives marido-e-mulher assume a busca de um inventor desaparecido e quase morre em seus esfor\u00e7os. (e 12 - Estimado 12 Anos)",
+                    "vote_average": 7.514,
+                    "vote_count": 432,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         }
     ],
     "Film Editing": [
         {
-            "first_label": "Eskimo",
-            "second_label": "Conrad Nervig",
+            "first_label": "Conrad Nervig",
+            "second_label": "Eskimo",
             "category": "Film Editing",
             "year": 1935,
             "tmdb": {
-                "error": "no ID found"
+                "id": 42065,
+                "gender": 2,
+                "known_for_department": "Editing",
+                "name": "Conrad A. Nervig",
+                "original_name": "Conrad A. Nervig",
+                "popularity": 1.176,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": true
         },
         {
-            "first_label": "Cleopatra",
-            "second_label": "Anne Bauchens",
+            "first_label": "Anne Bauchens",
+            "second_label": "Cleopatra",
             "category": "Film Editing",
             "year": 1935,
             "tmdb": {
-                "id": 43902,
-                "original_title": "Cleopatra",
-                "title": "Cle\u00f3patra",
-                "release_date": "1934-10-05",
-                "backdrop_path": "/slpR2LO5bVf5I2QxtPPlSM8U6RO.jpg",
-                "poster_path": "/2JxuGqS1zLTy0lKUp0twIVPlk4B.jpg",
-                "overview": "The queen of Egypt barges the Nile and flirts with Mark Antony and Julius Caesar.",
-                "vote_average": 5.9,
-                "vote_count": 71
+                "id": 51311,
+                "gender": 1,
+                "known_for_department": "Editing",
+                "name": "Anne Bauchens",
+                "original_name": "Anne Bauchens",
+                "popularity": 2.268,
+                "profile_path": "/7PhdD1fHETSckYRo1MJb4OPFYaJ.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 43902,
+                    "original_title": "Cleopatra",
+                    "title": "Cle\u00f3patra",
+                    "release_date": "1934-10-05",
+                    "backdrop_path": "/slpR2LO5bVf5I2QxtPPlSM8U6RO.jpg",
+                    "poster_path": "/2JxuGqS1zLTy0lKUp0twIVPlk4B.jpg",
+                    "overview": "The queen of Egypt barges the Nile and flirts with Mark Antony and Julius Caesar.",
+                    "vote_average": 5.9,
+                    "vote_count": 72,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "One Night of Love",
-            "second_label": "Gene Milford",
+            "first_label": "Gene Milford",
+            "second_label": "One Night of Love",
             "category": "Film Editing",
             "year": 1935,
             "tmdb": {
-                "id": 84097,
-                "original_title": "One Night of Love",
-                "title": "One Night of Love",
-                "release_date": "1934-07-16",
-                "backdrop_path": "/cVGZyKU75srMlBGtvY7AhZTraq7.jpg",
-                "poster_path": "/xJyYM2HN2St40KkPbPj6JOvNNeu.jpg",
-                "overview": "Mary Barrett is an aspiring opera singer who is taken under the wings of a famous operatic maestro, Guilio Monterverdi. After spending endless working hours together and arguing, their relationship develops into love. But, jealousy and misunderstandings prevent Mary and Guilio from acknowledging their true feelings.",
-                "vote_average": 5.3,
-                "vote_count": 13
+                "id": 9852,
+                "gender": 2,
+                "known_for_department": "Editing",
+                "name": "Gene Milford",
+                "original_name": "Gene Milford",
+                "popularity": 0.6,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "id": 84097,
+                    "original_title": "One Night of Love",
+                    "title": "One Night of Love",
+                    "release_date": "1934-07-16",
+                    "backdrop_path": "/cVGZyKU75srMlBGtvY7AhZTraq7.jpg",
+                    "poster_path": "/xJyYM2HN2St40KkPbPj6JOvNNeu.jpg",
+                    "overview": "Mary Barrett is an aspiring opera singer who is taken under the wings of a famous operatic maestro, Guilio Monterverdi. After spending endless working hours together and arguing, their relationship develops into love. But, jealousy and misunderstandings prevent Mary and Guilio from acknowledging their true feelings.",
+                    "vote_average": 5.3,
+                    "vote_count": 13,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         }
     ],
     "Music (Scoring)": [
         {
-            "first_label": "One Night of Love",
-            "second_label": "Columbia Studio Music Department, Louis Silvers, head of department  (Thematic Music by Victor Schertzinger and Gus Kahn)",
+            "first_label": "Columbia Studio Music Department, Louis Silvers, head of department  (Thematic Music by Victor Schertzinger and Gus Kahn)",
+            "second_label": "One Night of Love",
             "category": "Music (Scoring)",
             "year": 1935,
             "tmdb": {
-                "id": 84097,
-                "original_title": "One Night of Love",
-                "title": "One Night of Love",
-                "release_date": "1934-07-16",
-                "backdrop_path": "/cVGZyKU75srMlBGtvY7AhZTraq7.jpg",
-                "poster_path": "/xJyYM2HN2St40KkPbPj6JOvNNeu.jpg",
-                "overview": "Mary Barrett is an aspiring opera singer who is taken under the wings of a famous operatic maestro, Guilio Monterverdi. After spending endless working hours together and arguing, their relationship develops into love. But, jealousy and misunderstandings prevent Mary and Guilio from acknowledging their true feelings.",
-                "vote_average": 5.3,
-                "vote_count": 13
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 84097,
+                    "original_title": "One Night of Love",
+                    "title": "One Night of Love",
+                    "release_date": "1934-07-16",
+                    "backdrop_path": "/cVGZyKU75srMlBGtvY7AhZTraq7.jpg",
+                    "poster_path": "/xJyYM2HN2St40KkPbPj6JOvNNeu.jpg",
+                    "overview": "Mary Barrett is an aspiring opera singer who is taken under the wings of a famous operatic maestro, Guilio Monterverdi. After spending endless working hours together and arguing, their relationship develops into love. But, jealousy and misunderstandings prevent Mary and Guilio from acknowledging their true feelings.",
+                    "vote_average": 5.3,
+                    "vote_count": 13,
+                    "result_type": "movie"
+                }
             },
             "winner": true
         },
         {
-            "first_label": "The Gay Divorcee",
-            "second_label": "RKO Radio Studio Music Department, Max Steiner, head of department  (Score by Kenneth Webb and Samuel Hoffenstein)",
+            "first_label": "RKO Radio Studio Music Department, Max Steiner, head of department  (Score by Kenneth Webb and Samuel Hoffenstein)",
+            "second_label": "The Gay Divorcee",
             "category": "Music (Scoring)",
             "year": 1935,
             "tmdb": {
-                "id": 28288,
-                "original_title": "The Gay Divorcee",
-                "title": "A Alegre Divorciada",
-                "release_date": "1934-10-12",
-                "backdrop_path": "/h5FknBwnx6fRaiCkHv4idjw6stu.jpg",
-                "poster_path": "/cBQ6e1q6fYTyLVZFJl3sGd9vqF.jpg",
-                "overview": "O filme conta a hist\u00f3ria de Guy Holden, um c\u00e9lebre bailarino estadunidense, que est\u00e1 viajando pela Europa com seu amigo, o advogado Egbert. No meio do caminho para a Inglaterra, conhece Mimi Glossop, que viaja com sua tia. Em Londres, os dois se encontram casualmente e Guy se apaixona por Mimi, mas sem saber que se trata de uma mulher casada em processo de div\u00f3rcio. Mimi e sua tia voltam a se encontrar num hotel e come\u00e7am os equ\u00edvocos.",
-                "vote_average": 6.9,
-                "vote_count": 114
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 28288,
+                    "original_title": "The Gay Divorcee",
+                    "title": "A Alegre Divorciada",
+                    "release_date": "1934-10-12",
+                    "backdrop_path": "/h5FknBwnx6fRaiCkHv4idjw6stu.jpg",
+                    "poster_path": "/cBQ6e1q6fYTyLVZFJl3sGd9vqF.jpg",
+                    "overview": "O filme conta a hist\u00f3ria de Guy Holden, um c\u00e9lebre bailarino estadunidense, que est\u00e1 viajando pela Europa com seu amigo, o advogado Egbert. No meio do caminho para a Inglaterra, conhece Mimi Glossop, que viaja com sua tia. Em Londres, os dois se encontram casualmente e Guy se apaixona por Mimi, mas sem saber que se trata de uma mulher casada em processo de div\u00f3rcio. Mimi e sua tia voltam a se encontrar num hotel e come\u00e7am os equ\u00edvocos.",
+                    "vote_average": 6.9,
+                    "vote_count": 115,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "The Lost Patrol",
-            "second_label": "RKO Radio Studio Music Department, Max Steiner, head of department  (Score by Max Steiner)",
+            "first_label": "RKO Radio Studio Music Department, Max Steiner, head of department  (Score by Max Steiner)",
+            "second_label": "The Lost Patrol",
             "category": "Music (Scoring)",
             "year": 1935,
             "tmdb": {
-                "id": 46910,
-                "original_title": "The Lost Patrol",
-                "title": "A Patrulha Perdida",
-                "release_date": "1934-02-16",
-                "backdrop_path": "/rt4wkaBe0YEvLMBBp7scJMtEoAP.jpg",
-                "poster_path": "/7zwui44GZmgEq1bLZ7uBfjZ5MLX.jpg",
-                "overview": "Primeira Guerra Mundial. Patrulha brit\u00e2nica perde-se no deserto da Mesopot\u00e2mia ap\u00f3s comandante ser morto por um inimigo invis\u00edvel. O sargento tenta reencontrar sua unidade e leva os comandados at\u00e9 um o\u00e1sis, onde todos v\u00e3o sendo abatidos um a um por atiradores de elite.",
-                "vote_average": 6.4,
-                "vote_count": 56
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 46910,
+                    "original_title": "The Lost Patrol",
+                    "title": "A Patrulha Perdida",
+                    "release_date": "1934-02-16",
+                    "backdrop_path": "/rt4wkaBe0YEvLMBBp7scJMtEoAP.jpg",
+                    "poster_path": "/7zwui44GZmgEq1bLZ7uBfjZ5MLX.jpg",
+                    "overview": "Primeira Guerra Mundial. Patrulha brit\u00e2nica perde-se no deserto da Mesopot\u00e2mia ap\u00f3s comandante ser morto por um inimigo invis\u00edvel. O sargento tenta reencontrar sua unidade e leva os comandados at\u00e9 um o\u00e1sis, onde todos v\u00e3o sendo abatidos um a um por atiradores de elite.",
+                    "vote_average": 6.4,
+                    "vote_count": 56,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         }
     ],
     "Music (Song)": [
         {
-            "first_label": "The Gay Divorcee",
-            "second_label": "The Continental in \"The Gay Divorcee\" Music by Con Conrad; Lyrics by Herb Magidson",
+            "first_label": "The Continental in \"The Gay Divorcee\" Music by Con Conrad; Lyrics by Herb Magidson",
+            "second_label": "The Gay Divorcee",
             "category": "Music (Song)",
             "year": 1935,
             "tmdb": {
-                "id": 28288,
-                "original_title": "The Gay Divorcee",
-                "title": "A Alegre Divorciada",
-                "release_date": "1934-10-12",
-                "backdrop_path": "/h5FknBwnx6fRaiCkHv4idjw6stu.jpg",
-                "poster_path": "/cBQ6e1q6fYTyLVZFJl3sGd9vqF.jpg",
-                "overview": "O filme conta a hist\u00f3ria de Guy Holden, um c\u00e9lebre bailarino estadunidense, que est\u00e1 viajando pela Europa com seu amigo, o advogado Egbert. No meio do caminho para a Inglaterra, conhece Mimi Glossop, que viaja com sua tia. Em Londres, os dois se encontram casualmente e Guy se apaixona por Mimi, mas sem saber que se trata de uma mulher casada em processo de div\u00f3rcio. Mimi e sua tia voltam a se encontrar num hotel e come\u00e7am os equ\u00edvocos.",
-                "vote_average": 6.9,
-                "vote_count": 114
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 28288,
+                    "original_title": "The Gay Divorcee",
+                    "title": "A Alegre Divorciada",
+                    "release_date": "1934-10-12",
+                    "backdrop_path": "/h5FknBwnx6fRaiCkHv4idjw6stu.jpg",
+                    "poster_path": "/cBQ6e1q6fYTyLVZFJl3sGd9vqF.jpg",
+                    "overview": "O filme conta a hist\u00f3ria de Guy Holden, um c\u00e9lebre bailarino estadunidense, que est\u00e1 viajando pela Europa com seu amigo, o advogado Egbert. No meio do caminho para a Inglaterra, conhece Mimi Glossop, que viaja com sua tia. Em Londres, os dois se encontram casualmente e Guy se apaixona por Mimi, mas sem saber que se trata de uma mulher casada em processo de div\u00f3rcio. Mimi e sua tia voltam a se encontrar num hotel e come\u00e7am os equ\u00edvocos.",
+                    "vote_average": 6.9,
+                    "vote_count": 115,
+                    "result_type": "movie"
+                }
             },
             "winner": true
         },
         {
-            "first_label": "Flying Down to Rio",
-            "second_label": "Carioca in \"Flying Down to Rio\" Music by Vincent Youmans; Lyrics by Edward Eliscu and Gus Kahn",
+            "first_label": "Carioca in \"Flying Down to Rio\" Music by Vincent Youmans; Lyrics by Edward Eliscu and Gus Kahn",
+            "second_label": "Flying Down to Rio",
             "category": "Music (Song)",
             "year": 1935,
             "tmdb": {
-                "id": 28293,
-                "original_title": "Flying Down to Rio",
-                "title": "Voando para o Rio",
-                "release_date": "1933-12-22",
-                "backdrop_path": "/gb01PQypcQVz7Q15vsZQRqhdSQc.jpg",
-                "poster_path": "/wLoClHUBx2I9DYNj7qxGSqgdFAC.jpg",
-                "overview": "Roger Bond e sua orquestra se apresentam em Miami; Honey Hale \u00e9 a vocalista e Fred Ayres \u00e9 um dos instrumentistas. Roger v\u00ea a bela Belinha  entre o p\u00fablico, encontro que provoca paix\u00e3o \u00e0 primeira vista no l\u00edder do grupo. Por isso, ele e sua orquestra a perseguem no Rio de Janeiro, onde vivem aventuras musicais.",
-                "vote_average": 6.1,
-                "vote_count": 58
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 28293,
+                    "original_title": "Flying Down to Rio",
+                    "title": "Voando para o Rio",
+                    "release_date": "1933-12-22",
+                    "backdrop_path": "/gb01PQypcQVz7Q15vsZQRqhdSQc.jpg",
+                    "poster_path": "/wLoClHUBx2I9DYNj7qxGSqgdFAC.jpg",
+                    "overview": "Roger Bond e sua orquestra se apresentam em Miami; Honey Hale \u00e9 a vocalista e Fred Ayres \u00e9 um dos instrumentistas. Roger v\u00ea a bela Belinha  entre o p\u00fablico, encontro que provoca paix\u00e3o \u00e0 primeira vista no l\u00edder do grupo. Por isso, ele e sua orquestra a perseguem no Rio de Janeiro, onde vivem aventuras musicais.",
+                    "vote_average": 6.1,
+                    "vote_count": 58,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "She Loves Me Not",
-            "second_label": "Love In Bloom in \"She Loves Me Not\" Music by Ralph Rainger; Lyrics by Leo Robin",
+            "first_label": "Love In Bloom in \"She Loves Me Not\" Music by Ralph Rainger; Lyrics by Leo Robin",
+            "second_label": "She Loves Me Not",
             "category": "Music (Song)",
             "year": 1935,
             "tmdb": {
-                "id": 111582,
-                "original_title": "She Loves Me Not",
-                "title": "She Loves Me Not",
-                "release_date": "1934-08-31",
-                "backdrop_path": "/6LaNcaa1zyQdhvqz8r7wD0v52V1.jpg",
-                "poster_path": "/wl70yoLCiduwAvm66IxnhZyNTgE.jpg",
-                "overview": "A cabaret dancer witnesses a murder and is forced to hide from gangsters by disguising herself as a male Princeton student.",
-                "vote_average": 5.4,
-                "vote_count": 5
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 111582,
+                    "original_title": "She Loves Me Not",
+                    "title": "She Loves Me Not",
+                    "release_date": "1934-08-31",
+                    "backdrop_path": "/6LaNcaa1zyQdhvqz8r7wD0v52V1.jpg",
+                    "poster_path": "/wl70yoLCiduwAvm66IxnhZyNTgE.jpg",
+                    "overview": "A cabaret dancer witnesses a murder and is forced to hide from gangsters by disguising herself as a male Princeton student.",
+                    "vote_average": 5.4,
+                    "vote_count": 5,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         }
     ],
     "Outstanding Production": [
         {
-            "first_label": "It Happened One Night",
-            "second_label": "Columbia",
+            "first_label": "Columbia",
+            "second_label": "It Happened One Night",
             "category": "Outstanding Production",
             "year": 1935,
             "tmdb": {
-                "id": 3078,
-                "original_title": "It Happened One Night",
-                "title": "Aconteceu Naquela Noite",
-                "release_date": "1934-02-22",
-                "backdrop_path": "/hmiC0MsI0PDd1TJXC62xyw0tX0s.jpg",
-                "poster_path": "/2xQmVVitVLJJSaK3FN1d9ezs6D.jpg",
-                "overview": "Peter Warren, um jornalista desempregado, encontra Ellie, a filha de um milion\u00e1rio que fugiu do iate de Alexander Andrews, seu pai, pois este n\u00e3o aprova quem ela escolheu como marido. Peter v\u00ea a oportunidade de obter uma boa mat\u00e9ria, mas v\u00e1rios fatos criam uma forte aproxima\u00e7\u00e3o entre eles.",
-                "vote_average": 7.835,
-                "vote_count": 1160
+                "id": 1616842,
+                "gender": 2,
+                "known_for_department": "Acting",
+                "name": "Columbia Light",
+                "original_name": "Columbia Light",
+                "popularity": 2.112,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "id": 3078,
+                    "original_title": "It Happened One Night",
+                    "title": "Aconteceu Naquela Noite",
+                    "release_date": "1934-02-22",
+                    "backdrop_path": "/hmiC0MsI0PDd1TJXC62xyw0tX0s.jpg",
+                    "poster_path": "/2xQmVVitVLJJSaK3FN1d9ezs6D.jpg",
+                    "overview": "Peter Warren, um jornalista desempregado, encontra Ellie, a filha de um milion\u00e1rio que fugiu do iate de Alexander Andrews, seu pai, pois este n\u00e3o aprova quem ela escolheu como marido. Peter v\u00ea a oportunidade de obter uma boa mat\u00e9ria, mas v\u00e1rios fatos criam uma forte aproxima\u00e7\u00e3o entre eles.",
+                    "vote_average": 7.831,
+                    "vote_count": 1170,
+                    "result_type": "movie"
+                }
             },
             "winner": true
         },
         {
-            "first_label": "The Barretts of Wimpole Street",
-            "second_label": "Metro-Goldwyn-Mayer",
+            "first_label": "Metro-Goldwyn-Mayer",
+            "second_label": "The Barretts of Wimpole Street",
             "category": "Outstanding Production",
             "year": 1935,
             "tmdb": {
-                "id": 43693,
-                "original_title": "The Barretts of Wimpole Street",
-                "title": "A Fam\u00edlia Barrett",
-                "release_date": "1934-09-21",
-                "backdrop_path": "/lLmI59EA1gYKuOLVIHt1n7N0CnN.jpg",
-                "poster_path": "/u0RVhFCtUXsHO7s3F7K3208BAJs.jpg",
-                "overview": "Remarkable poet Elizabeth Barrett is slowly recovering from a crippling illness with the help of her siblings, especially her youngest sister, Henrietta, but feels stifled by the domestic tyranny of her wealthy widowed father. When she meets fellow poet Robert Browning in a romantic first encounter, her heart belongs to him. However, her controlling father has no intention of allowing her out of his sight.",
-                "vote_average": 6.2,
-                "vote_count": 15
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 43693,
+                    "original_title": "The Barretts of Wimpole Street",
+                    "title": "A Fam\u00edlia Barrett",
+                    "release_date": "1934-09-21",
+                    "backdrop_path": "/lLmI59EA1gYKuOLVIHt1n7N0CnN.jpg",
+                    "poster_path": "/u0RVhFCtUXsHO7s3F7K3208BAJs.jpg",
+                    "overview": "Remarkable poet Elizabeth Barrett is slowly recovering from a crippling illness with the help of her siblings, especially her youngest sister, Henrietta, but feels stifled by the domestic tyranny of her wealthy widowed father. When she meets fellow poet Robert Browning in a romantic first encounter, her heart belongs to him. However, her controlling father has no intention of allowing her out of his sight.",
+                    "vote_average": 5.9,
+                    "vote_count": 17,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Cleopatra",
-            "second_label": "Paramount",
+            "first_label": "Paramount",
+            "second_label": "Cleopatra",
             "category": "Outstanding Production",
             "year": 1935,
             "tmdb": {
-                "id": 43902,
-                "original_title": "Cleopatra",
-                "title": "Cle\u00f3patra",
-                "release_date": "1934-10-05",
-                "backdrop_path": "/slpR2LO5bVf5I2QxtPPlSM8U6RO.jpg",
-                "poster_path": "/2JxuGqS1zLTy0lKUp0twIVPlk4B.jpg",
-                "overview": "The queen of Egypt barges the Nile and flirts with Mark Antony and Julius Caesar.",
-                "vote_average": 5.9,
-                "vote_count": 71
+                "id": 1238850,
+                "gender": 2,
+                "known_for_department": "Acting",
+                "name": "Acker Bilk",
+                "original_name": "Acker Bilk",
+                "popularity": 3.195,
+                "profile_path": "/n0yuduTncdvOn41d0FmHvaF2cjq.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 43902,
+                    "original_title": "Cleopatra",
+                    "title": "Cle\u00f3patra",
+                    "release_date": "1934-10-05",
+                    "backdrop_path": "/slpR2LO5bVf5I2QxtPPlSM8U6RO.jpg",
+                    "poster_path": "/2JxuGqS1zLTy0lKUp0twIVPlk4B.jpg",
+                    "overview": "The queen of Egypt barges the Nile and flirts with Mark Antony and Julius Caesar.",
+                    "vote_average": 5.9,
+                    "vote_count": 72,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Flirtation Walk",
-            "second_label": "First National",
+            "first_label": "First National",
+            "second_label": "Flirtation Walk",
             "category": "Outstanding Production",
             "year": 1935,
             "tmdb": {
-                "id": 84100,
-                "original_title": "Flirtation Walk",
-                "title": "Miss Generala",
-                "release_date": "1934-12-01",
-                "backdrop_path": "/d9qEKR1IA2sJJdd3UQmip1QJQx4.jpg",
-                "poster_path": "/4WP0c2tSBW1urf3xKcELdptVuq1.jpg",
-                "overview": "A private stationed in Hawaii gets involved with the general's engaged daughter. In order to avoid a scandal, the pair break up, but meet again years later when he's at West Point producing the annual play that turns out to star her.",
-                "vote_average": 5.4,
-                "vote_count": 10
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 84100,
+                    "original_title": "Flirtation Walk",
+                    "title": "Miss Generala",
+                    "release_date": "1934-12-01",
+                    "backdrop_path": "/d9qEKR1IA2sJJdd3UQmip1QJQx4.jpg",
+                    "poster_path": "/4WP0c2tSBW1urf3xKcELdptVuq1.jpg",
+                    "overview": "A private stationed in Hawaii gets involved with the general's engaged daughter. In order to avoid a scandal, the pair break up, but meet again years later when he's at West Point producing the annual play that turns out to star her.",
+                    "vote_average": 5.4,
+                    "vote_count": 10,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "The Gay Divorcee",
-            "second_label": "RKO Radio",
+            "first_label": "RKO Radio",
+            "second_label": "The Gay Divorcee",
             "category": "Outstanding Production",
             "year": 1935,
             "tmdb": {
-                "id": 28288,
-                "original_title": "The Gay Divorcee",
-                "title": "A Alegre Divorciada",
-                "release_date": "1934-10-12",
-                "backdrop_path": "/h5FknBwnx6fRaiCkHv4idjw6stu.jpg",
-                "poster_path": "/cBQ6e1q6fYTyLVZFJl3sGd9vqF.jpg",
-                "overview": "O filme conta a hist\u00f3ria de Guy Holden, um c\u00e9lebre bailarino estadunidense, que est\u00e1 viajando pela Europa com seu amigo, o advogado Egbert. No meio do caminho para a Inglaterra, conhece Mimi Glossop, que viaja com sua tia. Em Londres, os dois se encontram casualmente e Guy se apaixona por Mimi, mas sem saber que se trata de uma mulher casada em processo de div\u00f3rcio. Mimi e sua tia voltam a se encontrar num hotel e come\u00e7am os equ\u00edvocos.",
-                "vote_average": 6.9,
-                "vote_count": 114
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 28288,
+                    "original_title": "The Gay Divorcee",
+                    "title": "A Alegre Divorciada",
+                    "release_date": "1934-10-12",
+                    "backdrop_path": "/h5FknBwnx6fRaiCkHv4idjw6stu.jpg",
+                    "poster_path": "/cBQ6e1q6fYTyLVZFJl3sGd9vqF.jpg",
+                    "overview": "O filme conta a hist\u00f3ria de Guy Holden, um c\u00e9lebre bailarino estadunidense, que est\u00e1 viajando pela Europa com seu amigo, o advogado Egbert. No meio do caminho para a Inglaterra, conhece Mimi Glossop, que viaja com sua tia. Em Londres, os dois se encontram casualmente e Guy se apaixona por Mimi, mas sem saber que se trata de uma mulher casada em processo de div\u00f3rcio. Mimi e sua tia voltam a se encontrar num hotel e come\u00e7am os equ\u00edvocos.",
+                    "vote_average": 6.9,
+                    "vote_count": 115,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Here Comes the Navy",
-            "second_label": "Warner Bros.",
+            "first_label": "Warner Bros.",
+            "second_label": "Here Comes the Navy",
             "category": "Outstanding Production",
             "year": 1935,
             "tmdb": {
-                "id": 84099,
-                "original_title": "Here Comes the Navy",
-                "title": "Here Comes the Navy",
-                "release_date": "1934-07-21",
-                "backdrop_path": "/6Ag72HFOs0TusUiPeohCpg4b5JH.jpg",
-                "poster_path": "/ds1PRNhizvCtnmDsp1EvrUzs1LI.jpg",
-                "overview": "A cocky guy joins the Navy for the wrong reason but finds romance and twice is cited for heroism.",
-                "vote_average": 5.8,
-                "vote_count": 16
+                "id": 4132340,
+                "gender": 0,
+                "known_for_department": "Creator",
+                "name": "Warner Bros ITVP Espa\u00f1a",
+                "original_name": "Warner Bros ITVP Espa\u00f1a",
+                "popularity": 0.6,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "id": 84099,
+                    "original_title": "Here Comes the Navy",
+                    "title": "Here Comes the Navy",
+                    "release_date": "1934-07-21",
+                    "backdrop_path": "/6Ag72HFOs0TusUiPeohCpg4b5JH.jpg",
+                    "poster_path": "/ds1PRNhizvCtnmDsp1EvrUzs1LI.jpg",
+                    "overview": "A cocky guy joins the Navy for the wrong reason but finds romance and twice is cited for heroism.",
+                    "vote_average": 5.8,
+                    "vote_count": 16,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "The House of Rothschild",
-            "second_label": "20th Century",
+            "first_label": "20th Century",
+            "second_label": "The House of Rothschild",
             "category": "Outstanding Production",
             "year": 1935,
             "tmdb": {
-                "id": 57035,
-                "original_title": "The House of Rothschild",
-                "title": "A Casa de Rothschild",
-                "release_date": "1934-04-07",
-                "backdrop_path": "/uIkXyOqSoIXggEXAgIWESmSZEJ4.jpg",
-                "poster_path": "/emqmRhpoMpN565Djn4yps3GnZal.jpg",
-                "overview": "The story of the rise of the Rothschild financial empire founded by Mayer Rothschild and continued by his five sons. From humble beginnings the business grows and helps to finance the war against Napoleon, but it's not always easy, especially because of the prejudices against Jews.",
-                "vote_average": 6.1,
-                "vote_count": 15
+                "id": 31835,
+                "original_title": "Twentieth Century",
+                "title": "Suprema Conquista",
+                "release_date": "1934-05-11",
+                "backdrop_path": "/qG1Q0BTLtwo1Onbyy5wgUN2i9qo.jpg",
+                "poster_path": "/lHZcuD5pEoyoNHqeTEUEyDEDVKi.jpg",
+                "overview": "Produtor da Broadway treina uma ex-modelo de lingerie, para se tornar uma grande atriz, quando ela consegue eles come\u00e7am um relacionamento. Mas o ci\u00fames dele acaba por desgastar a rela\u00e7\u00e3o e ela decide ir embora pra Hollywood. Agora ela se tornou uma grande estrela de Hollywood e ele precisa da ajuda dela para retornar sua carreira em decl\u00ednio.",
+                "vote_average": 6.8,
+                "vote_count": 89,
+                "result_type": "movie"
             },
             "winner": false
         },
         {
-            "first_label": "Imitation of Life",
-            "second_label": "Universal",
+            "first_label": "Universal",
+            "second_label": "Imitation of Life",
             "category": "Outstanding Production",
             "year": 1935,
             "tmdb": {
-                "id": 47921,
-                "original_title": "Imitation of Life",
-                "title": "Imita\u00e7\u00e3o da Vida",
-                "release_date": "1934-11-23",
-                "backdrop_path": "/stIYs3ak8LCxRCM1IF2DnzEx1ku.jpg",
-                "poster_path": "/kqymXLeKSb8YWQdMiv3nfQjfP2v.jpg",
-                "overview": "Uma vi\u00fava em dificuldades e sua filha recebem uma empregada negra e sua filha de pele clara; as duas mulheres iniciam um neg\u00f3cio de sucesso, mas enfrentam problemas familiares, de identidade e raciais ao longo do caminho. (e Livre - Estimado Livre)",
-                "vote_average": 7.0,
-                "vote_count": 78
+                "id": 185713,
+                "gender": 0,
+                "known_for_department": "Acting",
+                "name": "Universal",
+                "original_name": "Universal",
+                "popularity": 0.6,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "id": 47921,
+                    "original_title": "Imitation of Life",
+                    "title": "Imita\u00e7\u00e3o da Vida",
+                    "release_date": "1934-11-23",
+                    "backdrop_path": "/stIYs3ak8LCxRCM1IF2DnzEx1ku.jpg",
+                    "poster_path": "/kqymXLeKSb8YWQdMiv3nfQjfP2v.jpg",
+                    "overview": "Uma vi\u00fava em dificuldades e sua filha recebem uma empregada negra e sua filha de pele clara; as duas mulheres iniciam um neg\u00f3cio de sucesso, mas enfrentam problemas familiares, de identidade e raciais ao longo do caminho. (e Livre - Estimado Livre)",
+                    "vote_average": 7.0,
+                    "vote_count": 79,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "One Night of Love",
-            "second_label": "Columbia",
+            "first_label": "Columbia",
+            "second_label": "One Night of Love",
             "category": "Outstanding Production",
             "year": 1935,
             "tmdb": {
-                "id": 84097,
-                "original_title": "One Night of Love",
-                "title": "One Night of Love",
-                "release_date": "1934-07-16",
-                "backdrop_path": "/cVGZyKU75srMlBGtvY7AhZTraq7.jpg",
-                "poster_path": "/xJyYM2HN2St40KkPbPj6JOvNNeu.jpg",
-                "overview": "Mary Barrett is an aspiring opera singer who is taken under the wings of a famous operatic maestro, Guilio Monterverdi. After spending endless working hours together and arguing, their relationship develops into love. But, jealousy and misunderstandings prevent Mary and Guilio from acknowledging their true feelings.",
-                "vote_average": 5.3,
-                "vote_count": 13
+                "id": 1616842,
+                "gender": 2,
+                "known_for_department": "Acting",
+                "name": "Columbia Light",
+                "original_name": "Columbia Light",
+                "popularity": 2.112,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "id": 84097,
+                    "original_title": "One Night of Love",
+                    "title": "One Night of Love",
+                    "release_date": "1934-07-16",
+                    "backdrop_path": "/cVGZyKU75srMlBGtvY7AhZTraq7.jpg",
+                    "poster_path": "/xJyYM2HN2St40KkPbPj6JOvNNeu.jpg",
+                    "overview": "Mary Barrett is an aspiring opera singer who is taken under the wings of a famous operatic maestro, Guilio Monterverdi. After spending endless working hours together and arguing, their relationship develops into love. But, jealousy and misunderstandings prevent Mary and Guilio from acknowledging their true feelings.",
+                    "vote_average": 5.3,
+                    "vote_count": 13,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "The Thin Man",
-            "second_label": "Metro-Goldwyn-Mayer",
+            "first_label": "Metro-Goldwyn-Mayer",
+            "second_label": "The Thin Man",
             "category": "Outstanding Production",
             "year": 1935,
             "tmdb": {
-                "id": 3529,
-                "original_title": "The Thin Man",
-                "title": "A Ceia dos Acusados",
-                "release_date": "1934-05-25",
-                "backdrop_path": "/dSXAPWQiGRR7L6utshQIff9niUQ.jpg",
-                "poster_path": "/pIOtpo8ZGottTHsUYnK6A5VXdRy.jpg",
-                "overview": "Uma dupla de detetives marido-e-mulher assume a busca de um inventor desaparecido e quase morre em seus esfor\u00e7os. (e 12 - Estimado 12 Anos)",
-                "vote_average": 7.5,
-                "vote_count": 429
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 3529,
+                    "original_title": "The Thin Man",
+                    "title": "A Ceia dos Acusados",
+                    "release_date": "1934-05-25",
+                    "backdrop_path": "/dSXAPWQiGRR7L6utshQIff9niUQ.jpg",
+                    "poster_path": "/pIOtpo8ZGottTHsUYnK6A5VXdRy.jpg",
+                    "overview": "Uma dupla de detetives marido-e-mulher assume a busca de um inventor desaparecido e quase morre em seus esfor\u00e7os. (e 12 - Estimado 12 Anos)",
+                    "vote_average": 7.514,
+                    "vote_count": 432,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Viva Villa!",
-            "second_label": "Metro-Goldwyn-Mayer",
+            "first_label": "Metro-Goldwyn-Mayer",
+            "second_label": "Viva Villa!",
             "category": "Outstanding Production",
             "year": 1935,
             "tmdb": {
-                "id": 43604,
-                "original_title": "Viva Villa!",
-                "title": "Viva Villa!",
-                "release_date": "1934-04-27",
-                "backdrop_path": "/x47WOx7vRflR8sGiVdIYDWXkY9t.jpg",
-                "poster_path": "/nUB1fXAGHOZ89DzReXp3QEcz2uo.jpg",
-                "overview": "In this fictionalized biography, young Pancho Villa takes to the hills after killing an overseer in revenge for his father's death.",
-                "vote_average": 6.3,
-                "vote_count": 19
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 43604,
+                    "original_title": "Viva Villa!",
+                    "title": "Viva Villa!",
+                    "release_date": "1934-04-27",
+                    "backdrop_path": "/x47WOx7vRflR8sGiVdIYDWXkY9t.jpg",
+                    "poster_path": "/nUB1fXAGHOZ89DzReXp3QEcz2uo.jpg",
+                    "overview": "In this fictionalized biography, young Pancho Villa takes to the hills after killing an overseer in revenge for his father's death.",
+                    "vote_average": 6.3,
+                    "vote_count": 19,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "The White Parade",
-            "second_label": "Jesse L. Lasky (production company)",
+            "first_label": "Jesse L. Lasky (production company)",
+            "second_label": "The White Parade",
             "category": "Outstanding Production",
             "year": 1935,
             "tmdb": {
-                "id": 84095,
-                "original_title": "The White Parade",
-                "title": "The White Parade",
-                "release_date": "1934-11-16",
-                "backdrop_path": "/o2jszhiNYwyJ882pG7UIEu9vU9K.jpg",
-                "poster_path": "/1S8Lddk2JI6phE4veYhF1qyUA64.jpg",
-                "overview": "The title represents the hopeful, ambitious students at a hospital training school and is primarily a story of the stern discipline and laborious physical and mental toil they endure in order to become nurses and join the White Parade. It is told mainly through the character of June Arden who finds romance with Ronald Hall III on the way, with side stories of the other girls who find failure, success, laughs and tears on the way.",
-                "vote_average": 6.0,
-                "vote_count": 1
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 84095,
+                    "original_title": "The White Parade",
+                    "title": "The White Parade",
+                    "release_date": "1934-11-16",
+                    "backdrop_path": "/o2jszhiNYwyJ882pG7UIEu9vU9K.jpg",
+                    "poster_path": "/1S8Lddk2JI6phE4veYhF1qyUA64.jpg",
+                    "overview": "The title represents the hopeful, ambitious students at a hospital training school and is primarily a story of the stern discipline and laborious physical and mental toil they endure in order to become nurses and join the White Parade. It is told mainly through the character of June Arden who finds romance with Ronald Hall III on the way, with side stories of the other girls who find failure, success, laughs and tears on the way.",
+                    "vote_average": 6.0,
+                    "vote_count": 1,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         }
     ],
     "Short Subject (Cartoon)": [
         {
-            "first_label": "The Tortoise and the Hare",
-            "second_label": "Walt Disney, Producer",
+            "first_label": "Walt Disney, Producer",
+            "second_label": "The Tortoise and the Hare",
             "category": "Short Subject (Cartoon)",
             "year": 1935,
             "tmdb": {
-                "error": "no ID found"
+                "error": "no ID found",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": true
         },
         {
-            "first_label": "Holiday Land",
-            "second_label": "Charles Mintz, Producer",
+            "first_label": "Charles Mintz, Producer",
+            "second_label": "Holiday Land",
             "category": "Short Subject (Cartoon)",
             "year": 1935,
             "tmdb": {
-                "id": 233662,
-                "original_title": "Holiday Land",
-                "title": "Holiday Land",
-                "release_date": "1934-11-09",
-                "backdrop_path": null,
-                "poster_path": "/v8pJYDovhrhWRSCdBXtOoR1l13Z.jpg",
-                "overview": "Scrappy does not want to get up and go to school. As the days peel off his calendar, the holidays come to life, personified. Father Time takes Scrappy on a tour through Holiday Land.",
-                "vote_average": 5.4,
-                "vote_count": 5
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 233662,
+                    "original_title": "Holiday Land",
+                    "title": "Holiday Land",
+                    "release_date": "1934-11-09",
+                    "backdrop_path": null,
+                    "poster_path": "/v8pJYDovhrhWRSCdBXtOoR1l13Z.jpg",
+                    "overview": "Scrappy does not want to get up and go to school. As the days peel off his calendar, the holidays come to life, personified. Father Time takes Scrappy on a tour through Holiday Land.",
+                    "vote_average": 5.4,
+                    "vote_count": 5,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Jolly Little Elves",
-            "second_label": "Walter Lantz, Producer",
+            "first_label": "Walter Lantz, Producer",
+            "second_label": "Jolly Little Elves",
             "category": "Short Subject (Cartoon)",
             "year": 1935,
             "tmdb": {
-                "id": 180775,
-                "original_title": "Jolly Little Elves",
-                "title": "Jolly Little Elves",
-                "release_date": "1934-10-01",
-                "backdrop_path": "/3WTlrurXA4b3PVgSWvlvKweJY7D.jpg",
-                "poster_path": "/eoQVSSGkmf3ARAfweNr1ZlHssms.jpg",
-                "overview": "A poor shoemaker and his wife have only a stale donut and a cup of coffee left to share. An elf drops by, and they offer to share with him. He teaches them (in song) to dunk the donut in the coffee. Later, as they sleep, he brings several other elves back, and they work through the night making shoes in humorous ways. The shoes are a success. Soon, the shoemaker and his wife are quite prosperous. They treat the elves to a feast of donuts and coffee, and the elves treat us to another chorus of \"Dunk! Dunk! Dunk!\".",
-                "vote_average": 5.7,
-                "vote_count": 10
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 180775,
+                    "original_title": "Jolly Little Elves",
+                    "title": "Jolly Little Elves",
+                    "release_date": "1934-10-01",
+                    "backdrop_path": "/3WTlrurXA4b3PVgSWvlvKweJY7D.jpg",
+                    "poster_path": "/eoQVSSGkmf3ARAfweNr1ZlHssms.jpg",
+                    "overview": "A poor shoemaker and his wife have only a stale donut and a cup of coffee left to share. An elf drops by, and they offer to share with him. He teaches them (in song) to dunk the donut in the coffee. Later, as they sleep, he brings several other elves back, and they work through the night making shoes in humorous ways. The shoes are a success. Soon, the shoemaker and his wife are quite prosperous. They treat the elves to a feast of donuts and coffee, and the elves treat us to another chorus of \"Dunk! Dunk! Dunk!\".",
+                    "vote_average": 5.7,
+                    "vote_count": 10,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         }
     ],
     "Short Subject (Comedy)": [
         {
-            "first_label": "La Cucaracha",
-            "second_label": "Kenneth Macgowan, Producer",
+            "first_label": "Kenneth Macgowan, Producer",
+            "second_label": "La Cucaracha",
             "category": "Short Subject (Comedy)",
             "year": 1935,
             "tmdb": {
-                "id": 177032,
-                "original_title": "La Cucaracha",
-                "title": "La Cucaracha",
-                "release_date": "1934-08-31",
-                "backdrop_path": "/ksJxZXQ6KAiEo0ZQlCEXYv8EUzJ.jpg",
-                "poster_path": "/xmLPwUN6aDdMOoPNXvy9vdk8JlE.jpg",
-                "overview": "Se\u00f1or Martinez, a famous theater owner, visits a local caf\u00e9 in Mexico because of its reputation for good food and to audition the famous dancer who performs there. Martinez tells the caf\u00e9 owner that if the dancer is as good as he has heard, he will offer the dancer a contract to perform in his theater. The caf\u00e9's female singer hears about this and is determined that he won't leave the caf\u00e9 without her.",
-                "vote_average": 5.1,
-                "vote_count": 7
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 177032,
+                    "original_title": "La Cucaracha",
+                    "title": "La Cucaracha",
+                    "release_date": "1934-08-31",
+                    "backdrop_path": "/ksJxZXQ6KAiEo0ZQlCEXYv8EUzJ.jpg",
+                    "poster_path": "/xmLPwUN6aDdMOoPNXvy9vdk8JlE.jpg",
+                    "overview": "Se\u00f1or Martinez, a famous theater owner, visits a local caf\u00e9 in Mexico because of its reputation for good food and to audition the famous dancer who performs there. Martinez tells the caf\u00e9 owner that if the dancer is as good as he has heard, he will offer the dancer a contract to perform in his theater. The caf\u00e9's female singer hears about this and is determined that he won't leave the caf\u00e9 without her.",
+                    "vote_average": 5.1,
+                    "vote_count": 7,
+                    "result_type": "movie"
+                }
             },
             "winner": true
         },
         {
-            "first_label": "Men in Black",
-            "second_label": "Jules White, Producer",
+            "first_label": "Jules White, Producer",
+            "second_label": "Men in Black",
             "category": "Short Subject (Comedy)",
             "year": 1935,
             "tmdb": {
-                "id": 115029,
-                "original_title": "Men in Black",
-                "title": "Men in Black",
-                "release_date": "1934-09-28",
-                "backdrop_path": "/ggc0ZJa5rgGsgbfxmTUpxT0JxEe.jpg",
-                "poster_path": "/2kBOhxpwc7ZHO6Y3CzKTrhtkTO4.jpg",
-                "overview": "The stooges are three doctors who graduated medical school by being in it for too many years. They come across such problems as an overly chirpy nurse, a mental patient, and a combination to a safe swallowed by the hospital superintendent in the course of their attempt to get through the day.",
-                "vote_average": 7.2,
-                "vote_count": 31
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 115029,
+                    "original_title": "Men in Black",
+                    "title": "Men in Black",
+                    "release_date": "1934-09-28",
+                    "backdrop_path": "/ggc0ZJa5rgGsgbfxmTUpxT0JxEe.jpg",
+                    "poster_path": "/2kBOhxpwc7ZHO6Y3CzKTrhtkTO4.jpg",
+                    "overview": "The stooges are three doctors who graduated medical school by being in it for too many years. They come across such problems as an overly chirpy nurse, a mental patient, and a combination to a safe swallowed by the hospital superintendent in the course of their attempt to get through the day.",
+                    "vote_average": 7.2,
+                    "vote_count": 31,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "What, No Men!",
-            "second_label": "Warner Bros.",
+            "first_label": "Warner Bros.",
+            "second_label": "What, No Men!",
             "category": "Short Subject (Comedy)",
             "year": 1935,
             "tmdb": {
-                "error": "no ID found"
+                "id": 4132340,
+                "gender": 0,
+                "known_for_department": "Creator",
+                "name": "Warner Bros ITVP Espa\u00f1a",
+                "original_name": "Warner Bros ITVP Espa\u00f1a",
+                "popularity": 0.6,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "error": "no ID found"
+                }
             },
             "winner": false
         }
     ],
     "Short Subject (Novelty)": [
         {
-            "first_label": "City of Wax",
-            "second_label": "Stacy Woodard and Horace Woodard, Producers",
+            "first_label": "Stacy Woodard and Horace Woodard, Producers",
+            "second_label": "City of Wax",
             "category": "Short Subject (Novelty)",
             "year": 1935,
             "tmdb": {
-                "id": 233656,
-                "original_title": "City of Wax",
-                "title": "City of Wax",
-                "release_date": "1934-02-09",
-                "backdrop_path": null,
-                "poster_path": "/4JzuLg4xSL4A0QwGIS65K01pRXL.jpg",
-                "overview": "City of Wax is a 1934 American short documentary film produced by Horace and Stacy Woodard about the life of a bee. It won the Oscar at the 7th Academy Awards in 1935 for Best Short Subject (Novelty).  Preserved by the Academy Film Archive in partnership with the UCLA Film and Television Archive in 2007.",
-                "vote_average": 6.0,
-                "vote_count": 5
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 233656,
+                    "original_title": "City of Wax",
+                    "title": "City of Wax",
+                    "release_date": "1934-02-09",
+                    "backdrop_path": null,
+                    "poster_path": "/4JzuLg4xSL4A0QwGIS65K01pRXL.jpg",
+                    "overview": "City of Wax is a 1934 American short documentary film produced by Horace and Stacy Woodard about the life of a bee. It won the Oscar at the 7th Academy Awards in 1935 for Best Short Subject (Novelty).  Preserved by the Academy Film Archive in partnership with the UCLA Film and Television Archive in 2007.",
+                    "vote_average": 6.0,
+                    "vote_count": 5,
+                    "result_type": "movie"
+                }
             },
             "winner": true
         },
         {
-            "first_label": "Bosom Friends",
-            "second_label": "Skibo Productions",
+            "first_label": "Skibo Productions",
+            "second_label": "Bosom Friends",
             "category": "Short Subject (Novelty)",
             "year": 1935,
             "tmdb": {
-                "id": 233660,
-                "original_title": "Bosom Friends",
-                "title": "Bosom Friends",
-                "release_date": "1934-01-01",
-                "backdrop_path": null,
-                "poster_path": "/lCS6InqMXfzRc2plQ8hmoDjbpxT.jpg",
-                "overview": "Bosom Friends is a 1934 American short film produced by E. W. Hammons. It was nominated for an Academy Award at the 7th Academy Awards in 1934 for Best Short Subject (Novelty).  Preserved by the Academy Film Archive in partnership with UCLA Film & Television Archive in 2013.",
-                "vote_average": 0.0,
-                "vote_count": 0
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 233660,
+                    "original_title": "Bosom Friends",
+                    "title": "Bosom Friends",
+                    "release_date": "1934-01-01",
+                    "backdrop_path": null,
+                    "poster_path": "/lCS6InqMXfzRc2plQ8hmoDjbpxT.jpg",
+                    "overview": "Bosom Friends is a 1934 American short film produced by E. W. Hammons. It was nominated for an Academy Award at the 7th Academy Awards in 1934 for Best Short Subject (Novelty).  Preserved by the Academy Film Archive in partnership with UCLA Film & Television Archive in 2013.",
+                    "vote_average": 0.0,
+                    "vote_count": 0,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Strikes and Spares",
-            "second_label": "Pete Smith, Producer",
+            "first_label": "Pete Smith, Producer",
+            "second_label": "Strikes and Spares",
             "category": "Short Subject (Novelty)",
             "year": 1935,
             "tmdb": {
-                "id": 178380,
-                "original_title": "Strikes and Spares",
-                "title": "Strikes and Spares",
-                "release_date": "1934-10-20",
-                "backdrop_path": "/nntxHWQYDzydZS6IeqNDnS9znGq.jpg",
-                "poster_path": "/hXyx3FyaiEAQxgO4XaB8Bx4faAd.jpg",
-                "overview": "This short features professional bowler Andy Varipapa. He first shows the correct way to grip a bowling ball and the proper form for delivering the ball down the alley. He then performs several trick shots.",
-                "vote_average": 5.7,
-                "vote_count": 10
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 178380,
+                    "original_title": "Strikes and Spares",
+                    "title": "Strikes and Spares",
+                    "release_date": "1934-10-20",
+                    "backdrop_path": "/nntxHWQYDzydZS6IeqNDnS9znGq.jpg",
+                    "poster_path": "/hXyx3FyaiEAQxgO4XaB8Bx4faAd.jpg",
+                    "overview": "This short features professional bowler Andy Varipapa. He first shows the correct way to grip a bowling ball and the proper form for delivering the ball down the alley. He then performs several trick shots.",
+                    "vote_average": 5.7,
+                    "vote_count": 10,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         }
     ],
     "Sound Recording": [
         {
-            "first_label": "One Night of Love",
-            "second_label": "Columbia Studio Sound Department, John Livadary, Sound Director",
+            "first_label": "Columbia Studio Sound Department, John Livadary, Sound Director",
+            "second_label": "One Night of Love",
             "category": "Sound Recording",
             "year": 1935,
             "tmdb": {
-                "id": 84097,
-                "original_title": "One Night of Love",
-                "title": "One Night of Love",
-                "release_date": "1934-07-16",
-                "backdrop_path": "/cVGZyKU75srMlBGtvY7AhZTraq7.jpg",
-                "poster_path": "/xJyYM2HN2St40KkPbPj6JOvNNeu.jpg",
-                "overview": "Mary Barrett is an aspiring opera singer who is taken under the wings of a famous operatic maestro, Guilio Monterverdi. After spending endless working hours together and arguing, their relationship develops into love. But, jealousy and misunderstandings prevent Mary and Guilio from acknowledging their true feelings.",
-                "vote_average": 5.3,
-                "vote_count": 13
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 84097,
+                    "original_title": "One Night of Love",
+                    "title": "One Night of Love",
+                    "release_date": "1934-07-16",
+                    "backdrop_path": "/cVGZyKU75srMlBGtvY7AhZTraq7.jpg",
+                    "poster_path": "/xJyYM2HN2St40KkPbPj6JOvNNeu.jpg",
+                    "overview": "Mary Barrett is an aspiring opera singer who is taken under the wings of a famous operatic maestro, Guilio Monterverdi. After spending endless working hours together and arguing, their relationship develops into love. But, jealousy and misunderstandings prevent Mary and Guilio from acknowledging their true feelings.",
+                    "vote_average": 5.3,
+                    "vote_count": 13,
+                    "result_type": "movie"
+                }
             },
             "winner": true
         },
         {
-            "first_label": "The Affairs of Cellini",
-            "second_label": "United Artists Studio Sound Department, Thomas T. Moulton, Sound Director",
+            "first_label": "United Artists Studio Sound Department, Thomas T. Moulton, Sound Director",
+            "second_label": "The Affairs of Cellini",
             "category": "Sound Recording",
             "year": 1935,
             "tmdb": {
-                "id": 112951,
-                "original_title": "The Affairs of Cellini",
-                "title": "As Aventuras de Cellini",
-                "release_date": "1934-08-24",
-                "backdrop_path": "/Af8305VTW4PHCPaClt5DAOiKrp6.jpg",
-                "poster_path": "/xY1ilGKLlLkLhtyYjmYAkOtMObw.jpg",
-                "overview": "The 16th-century sculptor woos the Duchess of Florence despite the duke.",
-                "vote_average": 4.6,
-                "vote_count": 7
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 112951,
+                    "original_title": "The Affairs of Cellini",
+                    "title": "As Aventuras de Cellini",
+                    "release_date": "1934-08-24",
+                    "backdrop_path": "/Af8305VTW4PHCPaClt5DAOiKrp6.jpg",
+                    "poster_path": "/xY1ilGKLlLkLhtyYjmYAkOtMObw.jpg",
+                    "overview": "The 16th-century sculptor woos the Duchess of Florence despite the duke.",
+                    "vote_average": 4.6,
+                    "vote_count": 7,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Cleopatra",
-            "second_label": "Paramount Studio Sound Department, Franklin B. Hansen, Sound Director",
+            "first_label": "Paramount Studio Sound Department, Franklin B. Hansen, Sound Director",
+            "second_label": "Cleopatra",
             "category": "Sound Recording",
             "year": 1935,
             "tmdb": {
-                "id": 43902,
-                "original_title": "Cleopatra",
-                "title": "Cle\u00f3patra",
-                "release_date": "1934-10-05",
-                "backdrop_path": "/slpR2LO5bVf5I2QxtPPlSM8U6RO.jpg",
-                "poster_path": "/2JxuGqS1zLTy0lKUp0twIVPlk4B.jpg",
-                "overview": "The queen of Egypt barges the Nile and flirts with Mark Antony and Julius Caesar.",
-                "vote_average": 5.9,
-                "vote_count": 71
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 43902,
+                    "original_title": "Cleopatra",
+                    "title": "Cle\u00f3patra",
+                    "release_date": "1934-10-05",
+                    "backdrop_path": "/slpR2LO5bVf5I2QxtPPlSM8U6RO.jpg",
+                    "poster_path": "/2JxuGqS1zLTy0lKUp0twIVPlk4B.jpg",
+                    "overview": "The queen of Egypt barges the Nile and flirts with Mark Antony and Julius Caesar.",
+                    "vote_average": 5.9,
+                    "vote_count": 72,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Flirtation Walk",
-            "second_label": "Warner Bros.-First National Studio Sound Department, Nathan Levinson, Sound Director",
+            "first_label": "Warner Bros.-First National Studio Sound Department, Nathan Levinson, Sound Director",
+            "second_label": "Flirtation Walk",
             "category": "Sound Recording",
             "year": 1935,
             "tmdb": {
-                "id": 84100,
-                "original_title": "Flirtation Walk",
-                "title": "Miss Generala",
-                "release_date": "1934-12-01",
-                "backdrop_path": "/d9qEKR1IA2sJJdd3UQmip1QJQx4.jpg",
-                "poster_path": "/4WP0c2tSBW1urf3xKcELdptVuq1.jpg",
-                "overview": "A private stationed in Hawaii gets involved with the general's engaged daughter. In order to avoid a scandal, the pair break up, but meet again years later when he's at West Point producing the annual play that turns out to star her.",
-                "vote_average": 5.4,
-                "vote_count": 10
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 84100,
+                    "original_title": "Flirtation Walk",
+                    "title": "Miss Generala",
+                    "release_date": "1934-12-01",
+                    "backdrop_path": "/d9qEKR1IA2sJJdd3UQmip1QJQx4.jpg",
+                    "poster_path": "/4WP0c2tSBW1urf3xKcELdptVuq1.jpg",
+                    "overview": "A private stationed in Hawaii gets involved with the general's engaged daughter. In order to avoid a scandal, the pair break up, but meet again years later when he's at West Point producing the annual play that turns out to star her.",
+                    "vote_average": 5.4,
+                    "vote_count": 10,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "The Gay Divorcee",
-            "second_label": "RKO Radio Studio Sound Department, Carl Dreher, Sound Director",
+            "first_label": "RKO Radio Studio Sound Department, Carl Dreher, Sound Director",
+            "second_label": "The Gay Divorcee",
             "category": "Sound Recording",
             "year": 1935,
             "tmdb": {
-                "id": 28288,
-                "original_title": "The Gay Divorcee",
-                "title": "A Alegre Divorciada",
-                "release_date": "1934-10-12",
-                "backdrop_path": "/h5FknBwnx6fRaiCkHv4idjw6stu.jpg",
-                "poster_path": "/cBQ6e1q6fYTyLVZFJl3sGd9vqF.jpg",
-                "overview": "O filme conta a hist\u00f3ria de Guy Holden, um c\u00e9lebre bailarino estadunidense, que est\u00e1 viajando pela Europa com seu amigo, o advogado Egbert. No meio do caminho para a Inglaterra, conhece Mimi Glossop, que viaja com sua tia. Em Londres, os dois se encontram casualmente e Guy se apaixona por Mimi, mas sem saber que se trata de uma mulher casada em processo de div\u00f3rcio. Mimi e sua tia voltam a se encontrar num hotel e come\u00e7am os equ\u00edvocos.",
-                "vote_average": 6.9,
-                "vote_count": 114
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 28288,
+                    "original_title": "The Gay Divorcee",
+                    "title": "A Alegre Divorciada",
+                    "release_date": "1934-10-12",
+                    "backdrop_path": "/h5FknBwnx6fRaiCkHv4idjw6stu.jpg",
+                    "poster_path": "/cBQ6e1q6fYTyLVZFJl3sGd9vqF.jpg",
+                    "overview": "O filme conta a hist\u00f3ria de Guy Holden, um c\u00e9lebre bailarino estadunidense, que est\u00e1 viajando pela Europa com seu amigo, o advogado Egbert. No meio do caminho para a Inglaterra, conhece Mimi Glossop, que viaja com sua tia. Em Londres, os dois se encontram casualmente e Guy se apaixona por Mimi, mas sem saber que se trata de uma mulher casada em processo de div\u00f3rcio. Mimi e sua tia voltam a se encontrar num hotel e come\u00e7am os equ\u00edvocos.",
+                    "vote_average": 6.9,
+                    "vote_count": 115,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Imitation of Life",
-            "second_label": "Universal Studio Sound Department, Theodore Soderberg, Sound Director",
+            "first_label": "Universal Studio Sound Department, Theodore Soderberg, Sound Director",
+            "second_label": "Imitation of Life",
             "category": "Sound Recording",
             "year": 1935,
             "tmdb": {
-                "id": 47921,
-                "original_title": "Imitation of Life",
-                "title": "Imita\u00e7\u00e3o da Vida",
-                "release_date": "1934-11-23",
-                "backdrop_path": "/stIYs3ak8LCxRCM1IF2DnzEx1ku.jpg",
-                "poster_path": "/kqymXLeKSb8YWQdMiv3nfQjfP2v.jpg",
-                "overview": "Uma vi\u00fava em dificuldades e sua filha recebem uma empregada negra e sua filha de pele clara; as duas mulheres iniciam um neg\u00f3cio de sucesso, mas enfrentam problemas familiares, de identidade e raciais ao longo do caminho. (e Livre - Estimado Livre)",
-                "vote_average": 7.0,
-                "vote_count": 78
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 47921,
+                    "original_title": "Imitation of Life",
+                    "title": "Imita\u00e7\u00e3o da Vida",
+                    "release_date": "1934-11-23",
+                    "backdrop_path": "/stIYs3ak8LCxRCM1IF2DnzEx1ku.jpg",
+                    "poster_path": "/kqymXLeKSb8YWQdMiv3nfQjfP2v.jpg",
+                    "overview": "Uma vi\u00fava em dificuldades e sua filha recebem uma empregada negra e sua filha de pele clara; as duas mulheres iniciam um neg\u00f3cio de sucesso, mas enfrentam problemas familiares, de identidade e raciais ao longo do caminho. (e Livre - Estimado Livre)",
+                    "vote_average": 7.0,
+                    "vote_count": 79,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Viva Villa!",
-            "second_label": "Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",
+            "first_label": "Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",
+            "second_label": "Viva Villa!",
             "category": "Sound Recording",
             "year": 1935,
             "tmdb": {
-                "id": 43604,
-                "original_title": "Viva Villa!",
-                "title": "Viva Villa!",
-                "release_date": "1934-04-27",
-                "backdrop_path": "/x47WOx7vRflR8sGiVdIYDWXkY9t.jpg",
-                "poster_path": "/nUB1fXAGHOZ89DzReXp3QEcz2uo.jpg",
-                "overview": "In this fictionalized biography, young Pancho Villa takes to the hills after killing an overseer in revenge for his father's death.",
-                "vote_average": 6.3,
-                "vote_count": 19
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 43604,
+                    "original_title": "Viva Villa!",
+                    "title": "Viva Villa!",
+                    "release_date": "1934-04-27",
+                    "backdrop_path": "/x47WOx7vRflR8sGiVdIYDWXkY9t.jpg",
+                    "poster_path": "/nUB1fXAGHOZ89DzReXp3QEcz2uo.jpg",
+                    "overview": "In this fictionalized biography, young Pancho Villa takes to the hills after killing an overseer in revenge for his father's death.",
+                    "vote_average": 6.3,
+                    "vote_count": 19,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "The White Parade",
-            "second_label": "Fox Studio Sound Department, E. H. Hansen, Sound Director",
+            "first_label": "Fox Studio Sound Department, E. H. Hansen, Sound Director",
+            "second_label": "The White Parade",
             "category": "Sound Recording",
             "year": 1935,
             "tmdb": {
-                "id": 84095,
-                "original_title": "The White Parade",
-                "title": "The White Parade",
-                "release_date": "1934-11-16",
-                "backdrop_path": "/o2jszhiNYwyJ882pG7UIEu9vU9K.jpg",
-                "poster_path": "/1S8Lddk2JI6phE4veYhF1qyUA64.jpg",
-                "overview": "The title represents the hopeful, ambitious students at a hospital training school and is primarily a story of the stern discipline and laborious physical and mental toil they endure in order to become nurses and join the White Parade. It is told mainly through the character of June Arden who finds romance with Ronald Hall III on the way, with side stories of the other girls who find failure, success, laughs and tears on the way.",
-                "vote_average": 6.0,
-                "vote_count": 1
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 84095,
+                    "original_title": "The White Parade",
+                    "title": "The White Parade",
+                    "release_date": "1934-11-16",
+                    "backdrop_path": "/o2jszhiNYwyJ882pG7UIEu9vU9K.jpg",
+                    "poster_path": "/1S8Lddk2JI6phE4veYhF1qyUA64.jpg",
+                    "overview": "The title represents the hopeful, ambitious students at a hospital training school and is primarily a story of the stern discipline and laborious physical and mental toil they endure in order to become nurses and join the White Parade. It is told mainly through the character of June Arden who finds romance with Ronald Hall III on the way, with side stories of the other girls who find failure, success, laughs and tears on the way.",
+                    "vote_average": 6.0,
+                    "vote_count": 1,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         }
     ],
     "Writing (Adaptation)": [
         {
-            "first_label": "It Happened One Night",
-            "second_label": "Robert Riskin",
+            "first_label": "Robert Riskin",
+            "second_label": "It Happened One Night",
             "category": "Writing (Adaptation)",
             "year": 1935,
             "tmdb": {
-                "id": 3078,
-                "original_title": "It Happened One Night",
-                "title": "Aconteceu Naquela Noite",
-                "release_date": "1934-02-22",
-                "backdrop_path": "/hmiC0MsI0PDd1TJXC62xyw0tX0s.jpg",
-                "poster_path": "/2xQmVVitVLJJSaK3FN1d9ezs6D.jpg",
-                "overview": "Peter Warren, um jornalista desempregado, encontra Ellie, a filha de um milion\u00e1rio que fugiu do iate de Alexander Andrews, seu pai, pois este n\u00e3o aprova quem ela escolheu como marido. Peter v\u00ea a oportunidade de obter uma boa mat\u00e9ria, mas v\u00e1rios fatos criam uma forte aproxima\u00e7\u00e3o entre eles.",
-                "vote_average": 7.835,
-                "vote_count": 1160
+                "id": 19019,
+                "gender": 2,
+                "known_for_department": "Writing",
+                "name": "Robert Riskin",
+                "original_name": "Robert Riskin",
+                "popularity": 5.929,
+                "profile_path": "/tFGEJdC52tvFAefNiaEtz0tbQL0.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 3078,
+                    "original_title": "It Happened One Night",
+                    "title": "Aconteceu Naquela Noite",
+                    "release_date": "1934-02-22",
+                    "backdrop_path": "/hmiC0MsI0PDd1TJXC62xyw0tX0s.jpg",
+                    "poster_path": "/2xQmVVitVLJJSaK3FN1d9ezs6D.jpg",
+                    "overview": "Peter Warren, um jornalista desempregado, encontra Ellie, a filha de um milion\u00e1rio que fugiu do iate de Alexander Andrews, seu pai, pois este n\u00e3o aprova quem ela escolheu como marido. Peter v\u00ea a oportunidade de obter uma boa mat\u00e9ria, mas v\u00e1rios fatos criam uma forte aproxima\u00e7\u00e3o entre eles.",
+                    "vote_average": 7.831,
+                    "vote_count": 1170,
+                    "result_type": "movie"
+                }
             },
             "winner": true
         },
         {
-            "first_label": "The Thin Man",
-            "second_label": "Frances Goodrich, Albert Hackett",
+            "first_label": "Frances Goodrich, Albert Hackett",
+            "second_label": "The Thin Man",
             "category": "Writing (Adaptation)",
             "year": 1935,
             "tmdb": {
-                "id": 3529,
-                "original_title": "The Thin Man",
-                "title": "A Ceia dos Acusados",
-                "release_date": "1934-05-25",
-                "backdrop_path": "/dSXAPWQiGRR7L6utshQIff9niUQ.jpg",
-                "poster_path": "/pIOtpo8ZGottTHsUYnK6A5VXdRy.jpg",
-                "overview": "Uma dupla de detetives marido-e-mulher assume a busca de um inventor desaparecido e quase morre em seus esfor\u00e7os. (e 12 - Estimado 12 Anos)",
-                "vote_average": 7.5,
-                "vote_count": 429
+                "error": "no ID found",
+                "award_movie": {
+                    "id": 3529,
+                    "original_title": "The Thin Man",
+                    "title": "A Ceia dos Acusados",
+                    "release_date": "1934-05-25",
+                    "backdrop_path": "/dSXAPWQiGRR7L6utshQIff9niUQ.jpg",
+                    "poster_path": "/pIOtpo8ZGottTHsUYnK6A5VXdRy.jpg",
+                    "overview": "Uma dupla de detetives marido-e-mulher assume a busca de um inventor desaparecido e quase morre em seus esfor\u00e7os. (e 12 - Estimado 12 Anos)",
+                    "vote_average": 7.514,
+                    "vote_count": 432,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "Viva Villa!",
-            "second_label": "Ben Hecht",
+            "first_label": "Ben Hecht",
+            "second_label": "Viva Villa!",
             "category": "Writing (Adaptation)",
             "year": 1935,
             "tmdb": {
-                "id": 43604,
-                "original_title": "Viva Villa!",
-                "title": "Viva Villa!",
-                "release_date": "1934-04-27",
-                "backdrop_path": "/x47WOx7vRflR8sGiVdIYDWXkY9t.jpg",
-                "poster_path": "/nUB1fXAGHOZ89DzReXp3QEcz2uo.jpg",
-                "overview": "In this fictionalized biography, young Pancho Villa takes to the hills after killing an overseer in revenge for his father's death.",
-                "vote_average": 6.3,
-                "vote_count": 19
+                "id": 4341,
+                "gender": 2,
+                "known_for_department": "Writing",
+                "name": "Ben Hecht",
+                "original_name": "Ben Hecht",
+                "popularity": 8.804,
+                "profile_path": "/uYYvAfPiSx5BoWA0CrUS32p3qI5.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 43604,
+                    "original_title": "Viva Villa!",
+                    "title": "Viva Villa!",
+                    "release_date": "1934-04-27",
+                    "backdrop_path": "/x47WOx7vRflR8sGiVdIYDWXkY9t.jpg",
+                    "poster_path": "/nUB1fXAGHOZ89DzReXp3QEcz2uo.jpg",
+                    "overview": "In this fictionalized biography, young Pancho Villa takes to the hills after killing an overseer in revenge for his father's death.",
+                    "vote_average": 6.3,
+                    "vote_count": 19,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         }
     ],
     "Writing (Original Story)": [
         {
-            "first_label": "Manhattan Melodrama",
-            "second_label": "Arthur Caesar",
+            "first_label": "Arthur Caesar",
+            "second_label": "Manhattan Melodrama",
             "category": "Writing (Original Story)",
             "year": 1935,
             "tmdb": {
-                "id": 28564,
-                "original_title": "Manhattan Melodrama",
-                "title": "Vencido pela Lei",
-                "release_date": "1934-05-04",
-                "backdrop_path": "/eIMOU6rAceFLx37oeJn3Tqh5R2e.jpg",
-                "poster_path": "/gAuBeXANJ0NhlQY7kmas63dFMz7.jpg",
-                "overview": "Jim Wade (William Powell) e Edward \"Blackie\" Gallagher (Clark Gable) s\u00e3o amigos de inf\u00e2ncia que seguem caminhos distintos. Gallagher se torna um jogador e g\u00e2ngster, enquanto Wade \u00e9 eleito promotor, devido \u00e0 sua integridade, e se candidata a governador. Eleanor Packer (Myrna Loy), que tivera uma forte rela\u00e7\u00e3o com Blackie, se casa com Wade. Neste per\u00edodo Wade se v\u00ea obrigado a pedir a pena de morte ao amigo, que foi acusado de assassinato, sem imaginar que Blackie cometeu o crime para ajud\u00e1-lo a se eleger governador.",
-                "vote_average": 7.0,
-                "vote_count": 62
+                "id": 149130,
+                "gender": 2,
+                "known_for_department": "Writing",
+                "name": "Arthur Caesar",
+                "original_name": "Arthur Caesar",
+                "popularity": 1.708,
+                "profile_path": null,
+                "result_type": "person",
+                "award_movie": {
+                    "id": 28564,
+                    "original_title": "Manhattan Melodrama",
+                    "title": "Vencido pela Lei",
+                    "release_date": "1934-05-04",
+                    "backdrop_path": "/eIMOU6rAceFLx37oeJn3Tqh5R2e.jpg",
+                    "poster_path": "/gAuBeXANJ0NhlQY7kmas63dFMz7.jpg",
+                    "overview": "Jim Wade (William Powell) e Edward \"Blackie\" Gallagher (Clark Gable) s\u00e3o amigos de inf\u00e2ncia que seguem caminhos distintos. Gallagher se torna um jogador e g\u00e2ngster, enquanto Wade \u00e9 eleito promotor, devido \u00e0 sua integridade, e se candidata a governador. Eleanor Packer (Myrna Loy), que tivera uma forte rela\u00e7\u00e3o com Blackie, se casa com Wade. Neste per\u00edodo Wade se v\u00ea obrigado a pedir a pena de morte ao amigo, que foi acusado de assassinato, sem imaginar que Blackie cometeu o crime para ajud\u00e1-lo a se eleger governador.",
+                    "vote_average": 7.0,
+                    "vote_count": 63,
+                    "result_type": "movie"
+                }
             },
             "winner": true
         },
         {
-            "first_label": "Hide-Out",
-            "second_label": "Mauri Grashin",
+            "first_label": "Mauri Grashin",
+            "second_label": "Hide-Out",
             "category": "Writing (Original Story)",
             "year": 1935,
             "tmdb": {
-                "id": 64318,
-                "original_title": "Hide-Out",
-                "title": "Amor Que Regenera",
-                "release_date": "1934-08-24",
-                "backdrop_path": "/yga2beCjfOLuDKrQJLiecDGtOf8.jpg",
-                "poster_path": "/bUf30QPBSUM3fctX2TugVvXatgE.jpg",
-                "overview": "Wounded criminal Lucky Wilson takes refuge in a small Connecticut farm.  He falls in love with the farmer's daughter who at first is unaware of his criminal record.  Lucky is fully prepared to shoot his way out when the cops come calling, but he is softened by the daughter's affections.",
-                "vote_average": 7.1,
-                "vote_count": 5
+                "id": 239295,
+                "gender": 0,
+                "known_for_department": "Writing",
+                "name": "Mauri Grashin",
+                "original_name": "Mauri Grashin",
+                "popularity": 1.528,
+                "profile_path": "/t78ap3k7ccMhTpt96tanI5xhA9b.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 64318,
+                    "original_title": "Hide-Out",
+                    "title": "Amor Que Regenera",
+                    "release_date": "1934-08-24",
+                    "backdrop_path": "/yga2beCjfOLuDKrQJLiecDGtOf8.jpg",
+                    "poster_path": "/bUf30QPBSUM3fctX2TugVvXatgE.jpg",
+                    "overview": "Wounded criminal Lucky Wilson takes refuge in a small Connecticut farm.  He falls in love with the farmer's daughter who at first is unaware of his criminal record.  Lucky is fully prepared to shoot his way out when the cops come calling, but he is softened by the daughter's affections.",
+                    "vote_average": 7.1,
+                    "vote_count": 6,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         },
         {
-            "first_label": "The Richest Girl in the World",
-            "second_label": "Norman Krasna",
+            "first_label": "Norman Krasna",
+            "second_label": "The Richest Girl in the World",
             "category": "Writing (Original Story)",
             "year": 1935,
             "tmdb": {
-                "id": 111623,
-                "original_title": "The Richest Girl in the World",
-                "title": "A Pequena Mais Rica do Mundo",
-                "release_date": "1934-09-21",
-                "backdrop_path": "/xWZpVwrgbY8272oQddGKI9lAkO5.jpg",
-                "poster_path": "/chaTWxg3aUHPqNgwR1Vy00hNkwq.jpg",
-                "overview": "Millionairess Dorothy Hunter is tired of finding out that her boyfriends love her for her money, and equally weary of losing eligible beaus who don't want to be considered fortune-hunters.  That's why she trades identities with her secretary Sylvia before embarking on her next romance with Tony Travers. This causes numerous complications not only for Dorothy and Tony but for Sylvia, whose own husband Philip is not the most patient of men.",
-                "vote_average": 5.5,
-                "vote_count": 9
+                "id": 89535,
+                "gender": 2,
+                "known_for_department": "Writing",
+                "name": "Norman Krasna",
+                "original_name": "Norman Krasna",
+                "popularity": 6.081,
+                "profile_path": "/wlRO5CWcjL0cpyvxTj8YQizfGz1.jpg",
+                "result_type": "person",
+                "award_movie": {
+                    "id": 111623,
+                    "original_title": "The Richest Girl in the World",
+                    "title": "A Pequena Mais Rica do Mundo",
+                    "release_date": "1934-09-21",
+                    "backdrop_path": "/xWZpVwrgbY8272oQddGKI9lAkO5.jpg",
+                    "poster_path": "/chaTWxg3aUHPqNgwR1Vy00hNkwq.jpg",
+                    "overview": "Millionairess Dorothy Hunter is tired of finding out that her boyfriends love her for her money, and equally weary of losing eligible beaus who don't want to be considered fortune-hunters.  That's why she trades identities with her secretary Sylvia before embarking on her next romance with Tony Travers. This causes numerous complications not only for Dorothy and Tony but for Sylvia, whose own husband Philip is not the most patient of men.",
+                    "vote_average": 5.5,
+                    "vote_count": 11,
+                    "result_type": "movie"
+                }
             },
             "winner": false
         }
