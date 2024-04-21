@@ -93,15 +93,15 @@
                 "profile_path": "/4yowflZgO62PGTPADoFzkYSrZv.jpg",
                 "result_type": "person",
                 "award_movie": {
-                    "id": 988,
-                    "original_title": "The China Syndrome",
-                    "title": "S\u00edndrome da China",
-                    "release_date": "1979-03-16",
-                    "backdrop_path": "/qvlSLwRbTw0bY0fJmsRxzbnRHyt.jpg",
-                    "poster_path": "/pf6T0YkIQVYwdbwiBVhP7nprSD7.jpg",
-                    "overview": "Kimberly Wells e Richard Adams s\u00e3o jornalistas que filmam um acontecimento irregular em visita a uma usina nuclear, mas a mat\u00e9ria n\u00e3o vai ao ar. Intrigados, os dois decidem investigar o caso, e a verdade pode ser mais grave do que eles imaginavam.",
-                    "vote_average": 7.1,
-                    "vote_count": 432,
+                    "id": 130917,
+                    "original_title": "Tribute",
+                    "title": "Tributo",
+                    "release_date": "1980-12-15",
+                    "backdrop_path": "/cCf0UsHVgB6MldB3K5jAdvOev5x.jpg",
+                    "poster_path": "/uhjkJ57olMVsHqtWWgKLZeDSL6p.jpg",
+                    "overview": "A shallow Broadway press agent learns he is dying just as his son by his ex-wife arrives for a visit.",
+                    "vote_average": 5.6,
+                    "vote_count": 7,
                     "result_type": "movie"
                 }
             },
@@ -578,7 +578,16 @@
             "tmdb": {
                 "error": "no ID found",
                 "award_movie": {
-                    "error": "no ID found"
+                    "id": 11121,
+                    "original_title": "Tess",
+                    "title": "Tess - Uma Li\u00e7\u00e3o de Vida",
+                    "release_date": "1979-10-06",
+                    "backdrop_path": "/hEVAABU2c86MU42jlnGRM9FcCq5.jpg",
+                    "poster_path": "/dJKSee0Dvurz215ziq1uaxRc236.jpg",
+                    "overview": "Na Inglaterra do s\u00e9culo 19, a bela Tess, filha de um fazendeiro, \u00e9 enviada para viver com parentes nobres. Ela \u00e9 seduzida e abandonada por seu primo distante, Alec. De volta \u00e0 fazenda de seu pai, ela d\u00e1 \u00e0 luz um beb\u00ea natimorto e enfrenta a hipocrisia da sociedade. Baseado no romance de Thomas Hardy.",
+                    "vote_average": 7.0,
+                    "vote_count": 317,
+                    "result_type": "movie"
                 }
             },
             "winner": true
@@ -1255,16 +1264,7 @@
             "tmdb": {
                 "error": "no ID found",
                 "award_movie": {
-                    "id": 244397,
-                    "original_title": "Journey for Survival",
-                    "title": "Journey for Survival",
-                    "release_date": "1981-10-01",
-                    "backdrop_path": null,
-                    "poster_path": "/dKAImdwCuPVSopyPpSG1Yg2L3To.jpg",
-                    "overview": "Drought, desert, famine. Half the world's population must daily take a thirsty journey in search of water for survival, a search made even more difficult because the water they do find will almost certainly be contaminated.",
-                    "vote_average": 0.0,
-                    "vote_count": 0,
-                    "result_type": "movie"
+                    "error": "no ID found"
                 }
             },
             "winner": false
@@ -1557,7 +1557,16 @@
                 "profile_path": "/3vDQ5qX8AGVidWYaAjyCj39d94D.jpg",
                 "result_type": "person",
                 "award_movie": {
-                    "error": "no ID found"
+                    "id": 136676,
+                    "original_title": "El nido",
+                    "title": "The Nest",
+                    "release_date": "1980-09-18",
+                    "backdrop_path": null,
+                    "poster_path": "/pxDKHf80wmnzmiNKEHh4HrGAPja.jpg",
+                    "overview": "In a town near Salamanca, an eccentric widower, aged 60, is captivated by an imp, a precocious 13 year old. Alejandro is wealthy and alone, passing time with music, chess, and his shotgun. Gregoria (Goyita) the daughter of a weak-willed policeman and his bullying wife, is a budding naturalist who conspires to meet Alejandro. Even though he knows the village is talking, Alejandro spends time with Goyita, on walks, horseback rides, and dinners. He's enchanted and tells his friend the village priest that he's living for the first time. Goyita makes new demands on Alejandro, and he must decide how to be true to his ethics and to this Platonic yet highly-charged relationship.",
+                    "vote_average": 6.0,
+                    "vote_count": 18,
+                    "result_type": "movie"
                 }
             },
             "winner": false
